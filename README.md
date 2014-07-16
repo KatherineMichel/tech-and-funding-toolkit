@@ -2,6 +2,23 @@ awesome-dev-resources-and-more
 ====================
 
 <!--
+                <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseCompaniesandorganizationsongithub">
+                    Companies and Organizations on GitHub
+                  </a>
+                            </h4>
+                        </div>
+                        <div id="collapseCompaniesandorganizationsongithub" class="panel-collapse collapse">
+                            <div class="panel-body">
+
+                            </div>
+                        </div>
+                    </div>
+-->
+
+<!--
 # HN Tools of The Trade, 2014 Edition
 **Table of Contents**
 
