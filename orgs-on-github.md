@@ -135,7 +135,7 @@
                                 <a href="https://github.com/youtube" target="_blank"> youtube</a>
 
 
-* [37signals]: https://github.com/37signals
+* [37signals](https://github.com/37signals)
 * [23andMe]: https://github.com/23andMe
 * [airbnb]: https://github.com/airbnb
 
