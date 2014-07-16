@@ -1,5 +1,5 @@
 #### Notable Orgs on GitHub
-* [The List](#user-content-the-list)<br>
+* 
                                 <a href="https://github.com/37signals" target="_blank"> 37signals</a><br>
                                 <a href="https://github.com/23andMe" target="_blank"> 23andMe</a><br>
                                 <a href="https://github.com/airbnb" target="_blank"> airbnb</a><br>
