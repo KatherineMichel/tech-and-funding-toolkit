@@ -1,4 +1,4 @@
-awesome-web-dev-list
+awesome-web-dev-and-more-list
 ====================
 
 <!--
