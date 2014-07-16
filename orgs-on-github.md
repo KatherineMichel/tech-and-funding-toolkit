@@ -3,21 +3,25 @@
 * [23andMe](https://github.com/23andMe)
 * [Airbnb](https://github.com/airbnb)
 * [Alibaba](https://github.com/alibaba)
+* [Alibabatech](https://github.com/alibabatech)
+* [Android](https://github.com/android)
+* [Appdotnet](https://github.com/appdotnet)
+* [Attdevsupport](https://github.com/attdevsupport)
+* [Amazonwebservices](https://github.com/amazonwebservices)
+* [AWS](https://github.com/aws)
 * 
+* [Airbnb](https://github.com/airbnb)
+* [Alibaba](https://github.com/alibaba)
+* [Alibabatech](https://github.com/alibabatech)
+* [Android](https://github.com/android)
+* [Appdotnet](https://github.com/appdotnet)
+* [Attdevsupport](https://github.com/attdevsupport)
 
 
 
+(https://github.com/awslabs)
 
-
- 
-
-                                <a href="https://github.com/alibabatech" target="_blank"> alibabatech</a><br>
-                                <a href="https://github.com/android" target="_blank"> android</a><br>
-                                <a href="https://github.com/appdotnet" target="_blank"> appdotnet</a><br>
-                                <a href="https://github.com/attdevsupport" target="_blank"> attdevsupport</a><br>
-                                <a href="https://github.com/amazonwebservices" target="_blank"> amazonwebservices</a><br>
-                                <a href="https://github.com/aws" target="_blank"> aws</a><br>
-                                <a href="https://github.com/awslabs" target="_blank"> awslabs</a><br>
+awslabs
                                 <a href="https://github.com/BBC-News" target="_blank"> BBC-News</a><br>
                                 <a href="https://github.com/behance" target="_blank"> behance</a><br>
                                 <a href="https://github.com/bitly" target="_blank"> bitly</a><br>
