@@ -1,6 +1,7 @@
 #### Notable Orgs on GitHub
 * [The List](#user-content-the-list)
-* * 
+*  
+* 
                 <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
