@@ -1,4 +1,4 @@
-awesome-dev-resources
+awesome-dev-resources-and-more
 ====================
 
 <!--
