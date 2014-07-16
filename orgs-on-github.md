@@ -1,6 +1,6 @@
 #### Notable Orgs on GitHub
 * [The List](#user-content-the-list)
-* <!--
+* 
                 <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
@@ -11,7 +11,7 @@
                         </div>
                         <div id="collapseCompaniesandorganizationsongithub" class="panel-collapse collapse">
                             <div class="panel-body">
--->
+
 
 
                                 <a href="https://github.com/37signals" target="_blank"> 37signals</a><br>
