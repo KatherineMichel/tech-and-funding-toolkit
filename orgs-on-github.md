@@ -1,17 +1,6 @@
 #### Notable Orgs on GitHub
 * [The List](#user-content-the-list)
-<!--
-                <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseCompaniesandorganizationsongithub">
-                    Companies and Organizations on GitHub
-                  </a>
-                            </h4>
-                        </div>
-                        <div id="collapseCompaniesandorganizationsongithub" class="panel-collapse collapse">
-                            <div class="panel-body">
--->
+
                                 <a href="https://github.com/37signals" target="_blank"> 37signals</a><br>
                                 <a href="https://github.com/23andMe" target="_blank"> 23andMe</a><br>
                                 <a href="https://github.com/airbnb" target="_blank"> airbnb</a><br>
@@ -145,6 +134,20 @@
                                 <a href="https://github.com/yahoo" target="_blank"> yahoo</a><br>
                                 <a href="https://github.com/Yelp" target="_blank"> Yelp</a><br>
                                 <a href="https://github.com/youtube" target="_blank"> youtube</a>
+
+<!--
+                <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseCompaniesandorganizationsongithub">
+                    Companies and Organizations on GitHub
+                  </a>
+                            </h4>
+                        </div>
+                        <div id="collapseCompaniesandorganizationsongithub" class="panel-collapse collapse">
+                            <div class="panel-body">
+-->
+
 <!--
                             </div>
                         </div>
