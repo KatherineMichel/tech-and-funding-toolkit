@@ -1,4 +1,4 @@
-awesome-web-dev-and-more-list
+awesome-resources-repo
 ====================
 
 <!--
