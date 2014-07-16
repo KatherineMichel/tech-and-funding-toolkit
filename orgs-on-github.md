@@ -1,16 +1,6 @@
 #### Notable Orgs on GitHub
 * [The List](#user-content-the-list)
-* 
-                <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseCompaniesandorganizationsongithub">
-                    Companies and Organizations on GitHub
-                  </a>
-                            </h4>
-                        </div>
-                        <div id="collapseCompaniesandorganizationsongithub" class="panel-collapse collapse">
-                            <div class="panel-body">
+
 
 
 
