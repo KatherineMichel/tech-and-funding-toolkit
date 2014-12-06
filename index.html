@@ -207,26 +207,20 @@
                                 <p>Gimp (Synaptic Package Manager)</p>                                
                                 <p>FileZilla (Synaptic Package Manager)</p> 
 
-~/djangogirls$ sudo apt-get install python-virtualenv
-~/djangogirls$ virtualenv --python=python3.4 myvenv
-~/djangogirls$ source myvenv/bin/activate
-~/djangogirls$ . myvenv/bin/activate
-(myvenv) ~$ pip install django==1.7.1
-(myvenv) ~/djangogirls$ django-admin startproject mysite .
+mkdir name
+cd name
+sudo apt-get install python-virtualenv
+vitualenv --python=python3.4 myvenv (myvenv is name you choose)
+source myvenv/bin/activate (myvenv is name you chose)
+pip install django==1.7.1
+django-admin start project projectname .
+python manage.py migrate
+python manage.py runserver
+python manage.py startapp appname
 
+Deploy page
 
-
-…or create a new repository on the command line
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/KatherineMichel/django-project.git
-git push -u origin master
-…or push an existing repository from the command line
-
-git remote add origin https://github.com/KatherineMichel/django-project.git
-git push -u origin master
+To exit virtual environment type deactivate
 -->
                             </div>
                         </div>
@@ -249,9 +243,6 @@ git push -u origin master
                                 <a href="http://en.wikipedia.org/wiki/CPython" target="_blank">CPython (Supported Platforms) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Python_syntax_and_semantics" target="_blank">Python Syntax and Semantics Wikipedia</a><br>
                                 <a href="http://docs.python.org/2/library" target="_blank">Python Standard Library</a><br>        
-                                <a href="https://github.com/vinta/awesome-python" target="_blank">Awesome Python GitHub</a><br>  
-                                <a href="https://github.com/pypa" target="_blank">Python Packaging Authority GitHub</a><br>
-                                <a href="https://pypi.python.org/pypi" target="_blank">PyPi Python Package Index Wikipedia</a><br>
                                 <a href="https://github.com/pypa/pip" target="_blank">Pip (PyPa Recommended Python Package Installer) GitHub</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Pip_(package_manager)" target="_blank">Pip Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/PyPy" target="_blank">PyPy (Python Interpreter) Wikipedia</a><br>
@@ -259,7 +250,11 @@ git push -u origin master
                                 <a href="https://github.com/davidmarble/virtualenvwrapper-win" target="_blank">Virtualenvwrapper-win GitHub</a><br>
                                 <a href="https://github.com/faif/python-patterns" target="_blank">Python Patterns Library</a><br>
 
-                                <br><p>Python Books and Tutorials</p>
+                                <br><p>Python- Packages</p>
+                                <a href="https://github.com/pypa" target="_blank">Python Packaging Authority GitHub</a><br>
+                                <a href="https://pypi.python.org/pypi" target="_blank">PyPi Python Package Index Wikipedia</a><br>
+                                
+                                <br><p>Python- Books and Tutorials</p>
                                 <a href="http://www.diveintopython.net" target="_blank">Dive into Python (Deprecated)</a><br>
                                 <a href="http://it-ebooks.info/book/1278" target="_blank">O'Reilly Python in a Nutshell</a><br>
                                 <a href="http://www.greenteapress.com/thinkpython" target="_blank">O'Reilly Think Python</a><br>                                
@@ -278,6 +273,11 @@ git push -u origin master
                                 <a href="https://github.com/svaksha/pythonidae" target="_blank">Awesome Pythonidae GitHub</a><br>
                                 <a href="https://github.com/kirang89/pycrumbs" target="_blank">Awesome Pycrumbs GitHub</a><br>
                                 <a href="https://github.com/laurentluce/python-algorithms" target="_blank">Awesome Python Algorithms GitHub</a><br>
+
+                                <br><p>Python- Microframeworks and Template Engines</p>
+                                <a href="https://github.com/mitsuhiko/jinja2" target="_blank">Jinja GitHub</a><br> 
+                                <a href="https://github.com/mitsuhiko/flask" target="_blank">Flask GitHub</a><br>
+                                <a href="https://github.com/fabric/fabric" target="_blank">Fabric GitHub</a><br>
 <!--
 https://www.addedbytes.com/cheat-sheets
 http://lifehacker.com/keep-this-python-cheat-sheet-on-hand-when-learning-to-c-1655521825?utm_content=buffer80dc8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
@@ -358,150 +358,10 @@ http://django-social-auth.readthedocs.org/en/latest/index.html#
 http://django-social-auth.readthedocs.org/en/latest/backends/index.html
 http://django-social-auth.readthedocs.org/en/latest/backends/instagram.html
 -->
-                                <br><p>Celery and Python</p>
+                                <br><p>Celery and Django</p>
                                 <a href="http://www.celeryproject.org" target="_blank">Celery</a><br>
                                 <a href="http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html" target="_blank">Celery and Django</a><br>
-<!--
-https://docs.djangoproject.com/en/dev/ref/contrib/gis
-https://github.com/coderholic/django-cities
-https://github.com/djangonauts/django-rest-framework-gis
-https://github.com/Alp-Phone/django-mobile-app-distribution
-http://solution4future.com/blog/python-restful-webservices-with-python-flask-django-solutions
-https://github.com/kangasbros/django-bitcoin
-
-https://www.google.com/search?q=ssl+certificate&oq=ssl+cer&aqs=chrome.0.0j69i57j0l4.2392j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#q=ssl+certificate+wiki
-https://www.google.com/search?q=integrate+django+and+python&oq=integrate+django+and+python&aqs=chrome..69i57j0l5.7417j0j7&sourceid=chrome&es_sm=93&ie=UTF-8
-https://www.google.com/search?q=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dintegrate%2Bdjango%2Band%2Bpython%26oq%3Dintegrate%2Bdjango%2Band%2Bpython%26aqs%3Dchrome..69i57j0l5.7417jhttps%3A%2F%2Fgithub.com%2Fcoordt%2Fdjangopatterns0j7%26sourceid%3Dchrome%26es_sm%3D93%26ie%3DUTF-8%23q%3Dgeodjango&oq=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dintegrate%2Bdjango%2Band%2Bpython%26oq%3Dintegrate%2Bdjango%2Band%2Bpython%26aqs%3Dchrome..69i57j0l5.7417jhttps%3A%2F%2Fgithub.com%2Fcoordt%2Fdjangopatterns0j7%26sourceid%3Dchrome%26es_sm%3D93%26ie%3DUTF-8%23q%3Dgeodjango&aqs=chrome..69i58j69i57.4546j0j9&sourceid=chrome&es_sm=0&ie=UTF-8#q=python+android
-https://python-for-android.readthedocs.org/en/latest
-https://github.com/kivy/python-for-android
-https://code.google.com/p/python-for-android
-http://www.pythoncentral.io/series/python-sl4a-android-scripting-layer-tutorial
-Python for Android: The Scripting Layer (SL4A)
-http://thp.io/2012/europython
-https://wiki.python.org/moin/Android
-https://wiki.python.org/moin/PySide
-http://qt-project.org/wiki/PySide_for_Android_guide
-http://kivy.org/#home
-http://qpython.com
-http://qpython.com/#qrcode
-https://ep2013.europython.eu/conference/talks/developing-android-apps-completely-in-python
-Pro Android Python with SL4A
-http://it-ebooks.info/book/592
-
-https://github.com/search?o=desc&p=1&q=django&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93
-https://github.com/search?o=desc&q=django+framework&s=stars&type=Repositories&utf8=%E2%9C%93
-
-https://github.com/nyghtowl/PyCon_2014
-
-https://github.com/pierangelo1982/studiosagitair
-
-https://code.google.com/p/django-press
-
-https://pypi.python.org/pypi/django-pin
-https://pypi.python.org/pypi/django-mobile-app-distribution
-https://github.com/Alp-Phone/django-mobile-app-distribution
-https://pypi.python.org/pypi/django-bitcoin/0.2
-https://www.djangopackages.com/packages/p/django-disqus
-https://pypi.python.org/pypi/django-jenkins
-
-https://github.com/washingtontimes
-https://github.com/callowayproject
-https://github.com/callowayproject/django-stories
-https://github.com/justquick?tab=repositories
-https://github.com/coordt?tab=repositories
-https://github.com/Natgeoed
-https://github.com/coordt/djangopatterns
-
-https://github.com/django-debug-toolbar/django-debug-toolbar
-https://github.com/toastdriven/django-tastypie
-http://mezzanine.jupo.org/sites
-https://github.com/stephenmcd/mezzanine
-https://github.com/torchbox/wagtail
-http://django-oscar.readthedocs.org/en/latest
-https://github.com/tangentlabs/django-oscar
-
-https://github.com/divio/django-shop
-https://www.transifex.com/projects/p/django-cms
-
-http://pinaxproject.com
-https://github.com/pinax/pinax-starter-app
-
-https://github.com/josephmisiti/generic-django-project
-https://github.com/koenbok/Cactus
-https://github.com/xenith/django-base-template
-https://github.com/pydanny/cookiecutter-django
-https://github.com/twoscoops/django-twoscoops-project
-https://github.com/gregmuellegger/django-mobile
-https://github.com/bernii/android-django-aes
-https://github.com/jadolg/APKStore
-
-https://github.com/wq/wq
-https://github.com/jermnelson/aristotle-library-apps
-https://github.com/Tivix/django-rest-auth
-https://github.com/jleclanche/django-push-notifications
-https://github.com/mattsnider/django-html5-mobile-boilerplate
-https://github.com/julzhk/sanihand
-https://github.com/pcostesi/django-easylogin
-https://github.com/emory-libraries-ecds/OpenTourBuilder
-
-https://github.com/stephenmcd
-https://github.com/tschellenbach/Django-facebook
-https://github.com/openstack/horizon
-https://github.com/nitely/Spirit
-https://github.com/dokterbob/django-newsletter
-https://github.com/fusionbox/django-widgy
-https://github.com/dominno/django-moderation
-https://github.com/barseghyanartur/django-dash
-http://mollyproject.org
-https://github.com/mollyproject/mollyproject
-https://github.com/AliLozano/django-messages-extends
-https://github.com/jedie/PyLucid
-https://github.com/cidadania/e-cidadania
-https://github.com/praekelt/django-photologue
-
-http://paver.github.io/paver
-
-https://github.com/yueyoum/social-oauth
-https://github.com/django-extensions/django-extensions
-
-https://github.com/Tivix/django-rest-auth
-http://www.tivix.com
-https://github.com/Tivix
-https://github.com/Tivix/django-rest-common
-
-http://samuelks.com/python-munin
-http://munin-monitoring.org
-
-https://github.com/twitterdev/django-beats-playlist
-
-https://github.com/fcurella/django-recommends
-https://github.com/ocelma/python-recsys
-http://ocelma.net/software/python-recsys/build/html
-
-https://github.com/bartTC?tab=repositories
-http://www.hrewheels.com
-view-source:http://www.hrewheels.com
-https://github.com/agiliq
-
-http://www.ngenworks.com/blog/how-django-rest-framework-changed-my-life
-
-https://code.djangoproject.com/wiki/DjangoCheatSheet
-https://code.djangoproject.com/wiki/MindmapCheatsheetForGenericViewsAPI
-http://www.revsys.com/django/cheatsheet
-
-https://readthedocs.org/projects/the-hitchhikers-guide-to-packaging
-
-https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131
-
-Which languages, comment on DigitalOcean tutorial
-https://appengine.google.com/ 25 apps
--->
-            
-                                <br><p>Python- Microframeworks and Template Engines</p>
-                                <a href="https://github.com/mitsuhiko/jinja2" target="_blank">Jinja GitHub</a><br> 
-                                <a href="https://github.com/mitsuhiko/flask" target="_blank">Flask GitHub</a><br>
-                                <a href="https://github.com/fabric/fabric" target="_blank">Fabric GitHub</a><br>                                
-
+                                
                                 <br><p>Python- Django- Websites General</p>
                                 <a href="https://www.djangosites.org/with-source" target="_blank">Django Sites</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Lawrence_Journal-World" target="_blank">Lawrence Journal World</a><br>
