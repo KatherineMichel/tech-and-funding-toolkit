@@ -1191,6 +1191,84 @@ Negative border
 Tripleton, Doubleton, Singleton
 Toivonen's Algorithm
 
+Community Detection Patterns
+Protein-Protein Interactions
+Identify Functional Modules
+Nodes: Proteins
+Edges: Physical interactions
+Facebook Network
+Identify Social Communities
+Nodes: Facebook Users
+Edges: Friendships
+Non-overlapping vs. overlapping communities
+Communities as tiles
+What is the structure of community overlaps:
+Edge density in the overlaps is higher!
+Affiliation Graph Model 
+https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week3_the_affiliation_graph_model.pdf
+
+Overview of Recommender Systems
+Content-based Systems
+Collaborative Filtering
+Evaluating Recommender Systems
+Amazon, Pandora, StumbledUpon, Delicious, Netflix, Movielens, LastFM, GoogleNews, Youtube, XBoxLive
+http://www.wired.com/wired/archive/12.10/tail.html
+Editorial and hand curated	
+Simple aggregates	
+Tailored to individual users	
+Formal Model
+Utility Function/Utility Matrix
+http://en.wikipedia.org/wiki/Utility#Quantifying_utility
+http://en.wikipedia.org/wiki/Explicit
+http://en.wikipedia.org/wiki/Implicit
+http://en.wikipedia.org/wiki/Rating
+http://en.wikipedia.org/wiki/Cold_start
+Three	approaches	to	recommender	systems	
+1)	Content-based	
+2)	Collabora3ve	
+3)	Latent	factor	based	
+Contenmt-based
+TF-IDF (Term frequency * Inverse Doc Frequency)	
+Simple: (weighted) average
+Variant: Normalize weights using average ra?ng	
+Boolean Utility Matrix
+Star Ratings
+Normalized Ratings
+Prediction- Cosine Distance/Cosine Simliarity
+Collaborative Filtering
+Similar Users
+rating	vectors
+similarity	metric	
+Option 1: Jaccard Similarity
+Option 2: Cosine Similarity
+Option 3: Centered Cosine (Also kown as Pearson Correlation) 
+So far: User-user collaborative filtering	
+Another view: Item-item	collaborative filtering
+In prac1ce, item-item outperforms user-user in many use cases	
+Implementing Collaborative Filtering
+We already know how to do this!	
+§ Near-neighbor search in high dimensions (LSH)	
+§ Clustering	
+§ Dimensionality reduction 	
+Hybrid methods
+http://en.wikipedia.org/wiki/Demographics
+§ Perhaps using a linear model	
+§ Example: global baseline + collaborative filtering	
+Global Baseline estimate	
+Local neighborhood (CF/NN)	
+Select k nearest neighbors	
+http://en.wikipedia.org/wiki/Deviation
+Evaluating recommender Systems
+Root-mean-square error (RMSE)	
+Latent-Factor Models
+Multi-scale modeling of the data: Combine top level, “regional” modeling of the data, with a refined, local view:
+Global:
+ Overall deviations of users/movies
+Factorization:
+ Addressing “regional” effects
+Collaborative filtering:
+ Extract local patterns
+Modeling Local and Global Effects
 
 http://en.wikipedia.org/wiki/Algorithm#Classification
 Computing Code List
@@ -1276,7 +1354,6 @@ http://en.wikipedia.org/wiki/Pattern_recognition
 http://en.wikipedia.org/wiki/Semi-structured_data
 http://en.wikipedia.org/wiki/Structure_mining
 
-http://en.wikipedia.org/wiki/Cold_start
 http://en.wikipedia.org/wiki/Folksonomy
 http://en.wikipedia.org/wiki/Goodness_of_fit
 http://en.wikipedia.org/wiki/Hyperparameter
