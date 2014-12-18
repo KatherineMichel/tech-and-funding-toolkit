@@ -516,7 +516,7 @@ http://scikit-learn.org/stable/modules/clustering.html
                                 <a href="https://www.coursera.org/course/statinference" target="_blank">Statistical Inference</a><br>
                                 <a href="https://www.coursera.org/course/datascitoolbox" target="_blank">The Data Scientist’s Toolbox</a><br>
 <!--
-http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/
+http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r
 http://www.r-bloggers.com/?s=Web+Scraping
 
 Reading from Other Sources
@@ -825,7 +825,7 @@ http://en.wikipedia.org/wiki/Posterior_probability
 
                                 <br><p>Structured Prediction (Supervised Learning/See also Hidden Markov Model and Bayes)</p>
                                 <a href="http://en.wikipedia.org/wiki/Structured_prediction" target="_blank">tructured Prediction Wikipedia</a><br>
-                                <a href="http://en.wikipedia.org/wiki/Conditional_random_field" target="_blank">Conditional Random Field Wikipedia</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Conditional_random_field" target="_blank">Conditional Random (NLP) Field Wikipedia</a><br>
                                 
                                 <br><p>Unsupervised, Supervised, and Semi-Supervised Learning- General</p>
                                 <a href="http://en.wikipedia.org/wiki/Unsupervised_learning" target="_blank">Unsupervised Learning Wikipedia</a><br>
@@ -1006,7 +1006,12 @@ SPRINT Decision Tree Algo
                                 <a href="http://en.wikipedia.org/wiki/Association_rule_learning#Eclat_algorithm" target="_blank">Eclat Algorithm Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Association_rule_learning#One-attribute_rule" target="_blank">One Attribute Rule (Unsupervised?) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Association_rule_learning#Zero-attribute_rule" target="_blank">Zero Attribute Rule (Unsupervised?) Wikipedia</a><br>
-
+<!--
+Frequent Itemsets:
+Market Basket Analysis 
+Association Rules
+A-Priori Algorithm 
+-->
                                 <br><p>Dimensionality Reduction (Machine Learning)</p>
                                 <a href="http://en.wikipedia.org/wiki/Dimensionality_reduction" target="_blank">Dimensionality Reduction Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Curse_of_dimensionality" target="_blank">The Curse of Dimensionality Wikipedia</a><br>
@@ -1134,20 +1139,16 @@ http://labs.google.com/papers/mapreduce.html
 http://labs.google.com/papers/gfs.html		
 
 Graph Theory
-4-degrees of separation [Backstrom-Boldi-Rosa-Ugander-Vigna, 2011]
-Polarization of the network [Adamic-Glance, 2005]
-Citation networks and Maps of science [Börner et al., 2012]
-Seven Bridges of Königsberg [Euler, 1735] Return to the starting point by traveling each link of the graph once and only once.
-PageRank equation [Brin-Page, 98]
-
 Graph Data: Social Networks, Media Networks, Information Nets, Communication Nets, Technological Nets
+Link Analysis approaches for computing importances of nodes in a graph:
+Page Rank, Hubs and Authorities (HITS), Topic-Specific (Personalized) Page Rank, Web Spam Detection Algorithms
+
 http://en.wikipedia.org/wiki/Directed_graph
 Web as a directed graph: Nodes: Webpages, Edges: Hyperlinks
 How to organize the Web? First try: Human curated Web Directories (Yahoo, DMOZ, LookSmart), Second try: Web Search
 Web directories
 Trustworthiness
-We will cover the following Link Analysis approaches for computing importances of nodes in a graph:
-Page Rank, Hubs and Authorities (HITS), Topic-Specific (Personalized) Page Rank, Web Spam Detection Algorithms
+
 In-coming/Out-going links
 The "Flow Formulation" 
 http://en.wikipedia.org/wiki/Gaussian_elimination
@@ -1179,26 +1180,30 @@ http://en.wikipedia.org/wiki/Byte
 http://en.wikipedia.org/wiki/Sparse_matrix
 http://en.wikipedia.org/wiki/Renormalization
 
+4-degrees of separation [Backstrom-Boldi-Rosa-Ugander-Vigna, 2011]
+Polarization of the network [Adamic-Glance, 2005]
+Citation networks and Maps of science [Börner et al., 2012]
+Seven Bridges of Königsberg [Euler, 1735] Return to the starting point by traveling each link of the graph once and only once.
+PageRank equation [Brin-Page, 98]
+
 MMDS Chapter 3
-Three Essential Techniques for Similar Documents
-Shingling
-Minhashing
-Locality-Sensitive Hashing
-http://en.wikipedia.org/wiki/Shingling
+Three Essential Techniques for Similar Documents:
+http://en.wikipedia.org/wiki/Shingling Shingling
+http://en.wikipedia.org/wiki/MinHash Minhashing
+http://en.wikipedia.org/wiki/Locality-sensitive_hashing Locality-Sensitive Hashing
+
 http://en.wikipedia.org/wiki/Signature
 Candidate Pair
 http://en.wikipedia.org/wiki/W-shingling K-Shingle/K-Gram
 http://en.wikipedia.org/wiki/N-gram
 http://en.wikipedia.org/wiki/Compression
 http://en.wikipedia.org/wiki/Tokenization_(lexical_analysis)
-http://en.wikipedia.org/wiki/MinHash 
 Constructing Signatures
 http://en.wikipedia.org/wiki/Logical_matrix
 Rows permuted randomly
 Define minhash function
 Independent hash functions
 http://en.wikipedia.org/wiki/Signature_matrix
-http://en.wikipedia.org/wiki/Locality-sensitive_hashing
 Similar Minhash Signatures
 Hash Columns, Partition Bands
 http://en.wikipedia.org/wiki/Bucket_(computing)
@@ -1225,10 +1230,7 @@ Methods:
 Support Vector Machines
 Decision trees
 How to find Nearest Nighbor- use Locality Sensitive Hashing
-Frequent Itemsets:
-Market Basket Analysis *****
-Association Rules *****
-A-Priori Algorithm *****
+Frequent Itemsets
 If-then rules, it is likely ...
 Computational Model:  Typically, data is kept in flat files.
  Stored on disk.
@@ -1256,21 +1258,6 @@ Negative border
 Tripleton, Doubleton, Singleton
 Toivonen's Algorithm
 
-Two major classes of distance measure: 1. Euclidean; 2. Non-Euclidean 
-Euclidean Space/Distance
-Some Euclidean Distances:
-http://en.wikipedia.org/wiki/Euclidean_space
-http://en.wikipedia.org/wiki/Euclidean_distance
-L2 Norm: http://en.wikipedia.org/wiki/Norm_(mathematics)#Euclidean_norm *****
-Square root of the sum of the squares of the differences *****
-Non-Euclidean Distances: 
-Jaccard similarity is not a distance; 1 minus Jaccard similarity is.
-Jaccard Similarity, Jaccard Distance (for sets = 1 minus Jaccard similarity)
-Cosine Measure, Cosine Distance (for vectors = angle between the vectors) 
-Edit distance (for strings = number of inserts and deletes to change one string into another)
-Hamming Distance (for bit vectors = the number of positions in which they differ) 
-
-http://en.wikipedia.org/wiki/Association_rule_learning (Frequent Itemsets)
 http://en.wikipedia.org/wiki/Sequential_Pattern_Mining (Frequent Itemsets)
 
 Community Detection Patterns
@@ -1356,6 +1343,7 @@ Cluster multiple eigenvectors [Shi-Malik, ’00]
 [Kumar, Raghavan, Rajagopalan, Tomkins: Trawling the Web for emerging cyber-communities 1999
 
 Overview of Recommender Systems
+http://en.wikipedia.org/wiki/Collaborative_filtering (User-based versus Item-based) Look at 'See Also'
 Three	approaches	to	recommender	systems	
 1)	Content-based System
 2)	Collaborative Filtering- User-User, Item-Item (In prac1ce, Item-Item outperforms User-User in many use cases)
@@ -1435,7 +1423,7 @@ http://en.wikipedia.org/wiki/Regularization_(mathematics)
 http://en.wikipedia.org/wiki/Stochastic_gradient_descent *****
 http://en.wikipedia.org/wiki/Loss_function Objective Function
 Extending Latent Factor Model to include Biases
-Goodness of Fit
+http://en.wikipedia.org/wiki/Goodness_of_fit
 http://en.wikipedia.org/wiki/Parameter_(computer_programming)
 Performance of Various Models: Baic Collaborative Filtering, Basic Latent Factors, Latent Factors with Biases
 Temporal Biases of Users
@@ -1492,6 +1480,7 @@ BFR [Bradley-Fayyad-Reina] Algo- variant of k-Means
 Standard/Normal Deviations
 http://en.wikipedia.org/wiki/Ellipses
 Discard	set, Compression set, Retained set 
+http://en.wikipedia.org/wiki/CURE_data_clustering_algorithm Data Clustering
 CURE Algo: (Clustering Using REpresentatives):
 http://en.wikipedia.org/wiki/Hierarchical_clustering Agglomerative
 Performance-based Advertising
@@ -1554,7 +1543,6 @@ http://en.wikipedia.org/wiki/Entropy
 http://en.wikipedia.org/wiki/Histogram
 http://en.wikipedia.org/wiki/Frequency_distribution
 Building Decision Trees using MapReduce ***
-Parallel Learner for Assembling Numerous Ensemble Trees [Panda et al., VLDB ‘09]
 Hundreds of numerical (discrete & continuous, but not categorical) attributes
  Target variable is numerical: Regression
  Splits are binary: Xj < v
@@ -1564,6 +1552,7 @@ Bagging:
 SVM vs. DT ***
 MapReduce Algos Part 1 and 2, Theory of MapReduce Algos, Matrix Multiplication in MapReduce ***
 
+Parallel Learner for Assembling Numerous Ensemble Trees [Panda et al., VLDB ‘09]
 B. Panda, J. S. Herbach, S. Basu, and R. J. Bayardo. PLANET: Massively parallel learning of tree ensembles with MapReduce. In Proc. VLDB 2009.
  J. Ye, J.-H. Chow, J. Chen, Z. Zheng. Stochastic Gradient Boosted Distributed Decision Trees. In Proc. CIKM 2009.
 
@@ -1588,7 +1577,6 @@ Method for High Degrees of similarity
 Index-based Methods
 Exploiting Pre-fixes and Suffixes
 Eploiting length
-Jaccard similarity *****
 http://en.wikipedia.org/wiki/Universal_set
 k-Shingles
 http://en.wikipedia.org/wiki/Lexicographical_order
@@ -1644,8 +1632,6 @@ http://en.wikipedia.org/wiki/N
 
 http://en.wikipedia.org/wiki/Grammar_induction
 
-http://en.wikipedia.org/wiki/Conditional_random_field (NLP)
-
 http://en.wikipedia.org/wiki/Quadratic_programming Mathematical Optimization Problem
 
 (Supervise or Unsupervised?)
@@ -1672,7 +1658,6 @@ http://en.wikipedia.org/wiki/Graph_traversal Category
 http://en.wikipedia.org/wiki/Tree_traversal Category
 
 http://en.wikipedia.org/wiki/Collaboration_graph
-http://en.wikipedia.org/wiki/Collaborative_filtering (User-based versus Item-based) Look at 'See Also'
 http://en.wikipedia.org/wiki/Collaborative_search_engine
 
 http://en.wikipedia.org/wiki/Clustering_high-dimensional_data#Subspace_clustering
@@ -1683,7 +1668,6 @@ http://en.wikipedia.org/wiki/Travelling_salesman_problem
 http://en.wikipedia.org/wiki/Dendrogram
 http://en.wikipedia.org/wiki/Greedy_algorithm
 http://en.wikipedia.org/wiki/Kruskal%27s_algorithm (Greedy)
-http://en.wikipedia.org/wiki/CURE_data_clustering_algorithm Data Clustering
 http://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set
 
 http://en.wikipedia.org/wiki/Local_regression (LoESS/K-Nearest Neighbor)
@@ -1700,8 +1684,6 @@ http://en.wikipedia.org/wiki/Alpha_centrality
 http://en.wikipedia.org/wiki/Automation Series
 http://en.wikipedia.org/wiki/B-tree
 http://en.wikipedia.org/wiki/Bloom_filter Series: Probabilistic Data Structures
-http://en.wikipedia.org/wiki/Cosine_distance
-http://en.wikipedia.org/wiki/Cosine_similarity
 http://en.wikipedia.org/wiki/Exponential
 http://en.wikipedia.org/wiki/Exponentiation
 http://en.wikipedia.org/wiki/Gene_cluster#Agglomerative_hierarchical_clustering
@@ -1720,7 +1702,6 @@ http://en.wikipedia.org/wiki/Semi-structured_data
 http://en.wikipedia.org/wiki/Structure_mining
 
 http://en.wikipedia.org/wiki/Folksonomy
-http://en.wikipedia.org/wiki/Goodness_of_fit
 http://en.wikipedia.org/wiki/Hyperparameter
 http://en.wikipedia.org/wiki/Luhn_algorithm
 http://en.wikipedia.org/wiki/Maxima_and_minima (Extrema)
@@ -1873,6 +1854,23 @@ http://en.wikipedia.org/wiki/Web_search_query
                                 <a href="http://en.wikipedia.org/wiki/Euclidean_distance" target="_blank">Euclidean Distance Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Minkowski_distance" target="_blank">Manikowski Distance Wikipedia</a><br>
 <!--
+MMDS
+Two major classes of distance measure: 1. Euclidean; 2. Non-Euclidean 
+Euclidean Space/Distance
+Some Euclidean Distances:
+http://en.wikipedia.org/wiki/Euclidean_space
+http://en.wikipedia.org/wiki/Euclidean_distance
+L2 Norm: http://en.wikipedia.org/wiki/Norm_(mathematics)#Euclidean_norm *****
+Square root of the sum of the squares of the differences *****
+Non-Euclidean Distances: 
+Jaccard similarity is not a distance; 1 minus Jaccard similarity is.
+Jaccard Similarity, Jaccard Distance (for sets = 1 minus Jaccard similarity)
+Cosine Measure, Cosine Distance (for vectors = angle between the vectors) 
+http://en.wikipedia.org/wiki/Cosine_distance
+http://en.wikipedia.org/wiki/Cosine_similarity
+Edit distance (for strings = number of inserts and deletes to change one string into another)
+Hamming Distance (for bit vectors = the number of positions in which they differ) 
+
 http://en.wikipedia.org/wiki/Jaccard_index
 http://en.wikipedia.org/wiki/Jaccard_index#Tanimoto_coefficient_.28extended_Jaccard_coefficient.29
 http://en.wikipedia.org/wiki/Distance
