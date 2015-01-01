@@ -923,10 +923,6 @@ SVM-Kernels
 Scaling the regularization parameter for SVCs
 RBF SVM parameters
 
-
-
-
-
 scikit-learn provides algorithms for machine learning tasks including classification, regression, dimensionality reduction, and clustering. 
 It also provides modules for extracting features, processing data, and evaluating models.
 NumPy extends Python to support efficient operations on large arrays and multidimensional matrices. matplotlib provides visualization tools, and SciPy provides modules for scientific computing.
@@ -1450,8 +1446,15 @@ http://en.wikipedia.org/wiki/Basis_function
 
 http://en.wikipedia.org/wiki/Artificial_neuron
 http://en.wikipedia.org/wiki/Delta_rule
+
+http://en.wikipedia.org/wiki/Neuron
+http://en.wikipedia.org/wiki/Synapses
+http://en.wikipedia.org/wiki/Dendrite
+http://en.wikipedia.org/wiki/Axon
+http://en.wikipedia.org/wiki/Artificial_neuron
 -->
                                 <br><p>Artificial Neural Networks (Unsupervised Learning)</p>
+                                <a href="http://en.wikipedia.org/wiki/Feedforward_neural_network" target="_blank">Feedforward Neural Network Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Self-organizing_map" target="_blank">Kohonen Maps Wikipedia</a><br>
 
                                 <br><p>Linear/Regression (Supervised Learning)</p>
@@ -1461,15 +1464,26 @@ http://en.wikipedia.org/wiki/Delta_rule
                                 <a href="http://en.wikipedia.org/wiki/Simple_linear_regression" target="_blank">Simple Linear Regression Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Linear_function" target="_blank">Linear Function Wikipedia</a><br>
 <!--
-Classification
-The program must predict the most probable category, class, or label
+https://archive.ics.uci.edu/ml/datasets/Wine
+UCI Machine Learning Repository's Wine data set 
+SPSS Statistics 
+SMS Spam Classification Data Set from the UCI Machine Learning Repository
+http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+https://www.kaggle.com/c/dogs-vs-cats/data
+Iris dataset 
+Data set called Our Database of Faces from AT&T Laboratories, Cambridge
+20 newsgroups dataset
+Mixed National Institute of Standards and Technology database is a collection of 70,000 images of handwritten digits.
+The Chars74K dataset, collected by T. E. de Campos, B. R. Babu, and M. Varma for Character Recognition in Natural Images
+http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
 
 http://en.wikipedia.org/wiki/Noise
 http://en.wikipedia.org/wiki/Parallel_processing
 http://en.wikipedia.org/wiki/Garbage_in,_garbage_out
 http://en.wikipedia.org/wiki/Validation_rule
 
-http://en.wikipedia.org/wiki/Multi-label_classification
+Classification
+The program must predict the most probable category, class, or label
 
 http://en.wikipedia.org/wiki/Polynomial_regression
 http://en.wikipedia.org/wiki/Nonlinear_system
@@ -1482,11 +1496,8 @@ http://en.wikipedia.org/wiki/Least_squares_(function_approximation)
 http://en.wikipedia.org/wiki/Goodness_of_fit
 http://en.wikipedia.org/wiki/Parameter_(computer_programming)
 http://en.wikipedia.org/wiki/Errors_and_residuals_in_statistics
-http://en.wikipedia.org/wiki/Residual_sum_of_squares
-http://en.wikipedia.org/wiki/Covariance
 http://en.wikipedia.org/wiki/Bessel%27s_correction
 http://en.wikipedia.org/wiki/Linearity
-http://en.wikipedia.org/wiki/Centroid
 http://en.wikipedia.org/wiki/Coefficient_of_determination R Squared
 In the case of simple linear regression, r-squared is equal to the square of the Pearson product moment correlation coefficient, or Pearson's r. 
 http://en.wikipedia.org/wiki/Diagonal_matrix
@@ -1501,19 +1512,14 @@ http://en.wikipedia.org/wiki/Least_squares#Lasso_method Lasso Method
 
 Generalizing the training set is called under-fitting. 
 http://en.wikipedia.org/wiki/Generalization_error
-Memorizing the training set is called over-fitting. 
-http://en.wikipedia.org/wiki/Overfitting
+http://en.wikipedia.org/wiki/Overfitting (Memorizing the training set)
 http://en.wikipedia.org/wiki/Hyperparameter
 http://en.wikipedia.org/wiki/Cross-validation_(statistics)
 http://en.wikipedia.org/wiki/Partition_of_a_set
 
 Occam's razor states that a hypothesis with the fewest assumptions is the best. Accordingly, regularization attempts to find the simplest model that explains the data.
 http://en.wikipedia.org/wiki/Elastic_net_regularization
-https://archive.ics.uci.edu/ml/datasets/Wine
-UCI Machine Learning Repository's Wine data set 
-SPSS Statistics 
 http://en.wikipedia.org/wiki/Dependent_and_independent_variables Regressor
-http://en.wikipedia.org/wiki/Dot_product
 http://en.wikipedia.org/wiki/Square_matrix
 http://en.wikipedia.org/wiki/Determinant
 
@@ -1521,7 +1527,6 @@ Machine Learning
 http://en.wikipedia.org/wiki/Gradient_boosting (Regression, also Classification)
 http://en.wikipedia.org/wiki/Gradient_descent
 Formally, gradient descent is an optimization algorithm that can be used to estimate the local minimum of a function. Recall that we are using the residual sum of squares cost function, 
-http://en.wikipedia.org/wiki/Maxima_and_minima (Extrema)
 http://en.wikipedia.org/wiki/Partial_derivative
 http://en.wikipedia.org/wiki/Residual_sum_of_squares
 http://en.wikipedia.org/wiki/Least_mean_squares_filter#Optimal_learning_rate
@@ -1589,8 +1594,6 @@ http://en.wikipedia.org/wiki/Logistic_function
 http://en.wikipedia.org/wiki/Logit
 http://en.wikipedia.org/wiki/Canonical
 
-SMS Spam Classification Data Set from the UCI Machine Learning Repository
-http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 Binary classification performance metrics
 The most common metrics are accuracy, precision, recall, F1 measure, and ROC AUC score. 
 All of these measures depend on the concepts of true positives, true negatives, false positives, and false negatives. P
@@ -1608,7 +1611,6 @@ http://en.wikipedia.org/wiki/Estimator
 The goal of multi-class classification is to assign an instance to one of the set of classes. scikit-learn uses a strategy called one-vs.-all, or one-vs.-the-rest, to support multi-class classification.
 http://en.wikipedia.org/wiki/Sentiment_analysis
 http://www.kaggle.com/c/sentimentanalysis-on-movie-reviews/data
-http://en.wikipedia.org/wiki/Parsing
 http://en.wikipedia.org/wiki/Degeneracy
 Multi-class classification performance metrics
 http://en.wikipedia.org/wiki/Multiclass_classification
@@ -1674,16 +1676,11 @@ using the K-Means algorithm to cluster a dataset.
 Clustering with the K-Means algorithm (Unsupervised Learning)
 http://en.wikipedia.org/wiki/Centroid
 http://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set#The_Elbow_Method
-http://en.wikipedia.org/wiki/Heuristic
 http://en.wikipedia.org/wiki/Local_optimum
 http://en.wikipedia.org/wiki/Ground_truth
 http://en.wikipedia.org/wiki/Quantization_(image_processing)
 http://en.wikipedia.org/wiki/Lossy_compression
 Clustering to learn features
-http://en.wikipedia.org/wiki/Pixel
-http://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision
-http://en.wikipedia.org/wiki/Wine_tasting_descriptors
-https://www.kaggle.com/c/dogs-vs-cats/data
 you learned to use distortion and the silhouette coefficient to evaluate clusters
 Dimensionality Reduction with PCA Principal Component Analysis (PCA) Karhunen-Loeve Transform
 http://en.wikipedia.org/wiki/Facial_recognition_system
@@ -1705,16 +1702,10 @@ http://en.wikipedia.org/wiki/Singular_value_decomposition
 http://en.wikipedia.org/wiki/Transformation_matrix
 http://en.wikipedia.org/wiki/Dot_product
 Using PCA to visualize high-dimensional data
-Iris dataset 
 Face recognition with PCA
-Data set called Our Database of Faces from AT&T Laboratories, Cambridge
 http://en.wikipedia.org/wiki/Eigenfaces
 The Perceptron
 http://en.wikipedia.org/wiki/Linear_model
-http://en.wikipedia.org/wiki/Neuron
-http://en.wikipedia.org/wiki/Synapses
-http://en.wikipedia.org/wiki/Dendrite
-http://en.wikipedia.org/wiki/Axon
 http://en.wikipedia.org/wiki/Activation_function
 http://en.wikipedia.org/wiki/Heaviside_step_function
 Rosenblatt's original perceptron 
@@ -1730,7 +1721,6 @@ http://en.wikipedia.org/wiki/Linear_separability
 http://en.wikipedia.org/wiki/Value_(mathematics)
 http://en.wikipedia.org/wiki/Decision_boundary
 Document classification with the perceptron
-20 newsgroups dataset
 http://en.wikipedia.org/wiki/Hyperparameter_optimization
 Limitations of the perceptron
 http://en.wikipedia.org/wiki/Utm_theorem universal function approximators
@@ -1767,13 +1757,11 @@ Maximum margin classification and support vectors
 functional margin
 support vectors
 instance
-http://en.wikipedia.org/wiki/Support_vector_machine
 http://en.wikipedia.org/wiki/Optimization_problem
-http://en.wikipedia.org/wiki/Maxima_and_minima
+http://en.wikipedia.org/wiki/Maxima_and_minima (Extrema)
 http://en.wikipedia.org/wiki/Sequential_minimal_optimization
 Classifying characters in scikit-learn
 http://en.wikipedia.org/wiki/Optical_character_recognition
-Mixed National Institute of Standards and Technology database is a collection of 70,000 images of handwritten digits.
 Classifying handwritten digits
 http://en.wikipedia.org/wiki/Hyperparameter_optimization
 http://en.wikipedia.org/wiki/Instantiate
@@ -1783,36 +1771,25 @@ C controls regularization; it is similar to the lambda hyperparameter we used fo
 http://en.wikipedia.org/wiki/Lambda
 The keyword argument gamma is the kernel coefficient for the sigmoid, polynomial, and RBF kernels. 
 Classifying characters in natural images
-The Chars74K dataset, collected by T. E. de Campos, B. R. Babu, and M. Varma for Character Recognition in Natural Images
-http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
-http://en.wikipedia.org/wiki/Alphanumeric
 In contrast to MNIST, the images in this portion of Chars74K depict the characters in a variety of fonts, colors, and perturbations
 Next we will define a function that resizes images using the Python Image Library
 Good summary- page 185
+
 From the Perceptron to Artificial Neural Networks
 artificial neural networks, which are powerful nonlinear models for classification and regression
 neural net
-directed graph 
 while some Boolean functions such as AND, OR, and NAND can be approximated by the perceptron, the linearly inseparable function XOR cannot
 Feedforward and feedback artificial neural networks
-http://en.wikipedia.org/wiki/Alphanumeric
-http://en.wikipedia.org/wiki/Feedforward_neural_network
 http://en.wikipedia.org/wiki/Directed_graph
 Artificial neural networks are described by three components. The first is the model's
 architecture, or topology, which describes the layers of neurons and structure of the
 connections between them. The second component is the activation function used by
 the artificial neurons. The third component is the learning algorithm that finds the
 optimal values of the weights.
-http://en.wikipedia.org/wiki/Feedback
-feedback neural networks
 http://en.wikipedia.org/wiki/Feedback_vertex_set
 http://en.wikipedia.org/wiki/Recurrent_neural_network
 Multilayer perceptrons
-input layer 
-hidden layer 
-output layer
-http://en.wikipedia.org/wiki/Neuron
-http://en.wikipedia.org/wiki/Artificial_neuron
+input layer, hidden layer, output layer
 nonlinear activation functions
 http://en.wikipedia.org/wiki/Hyperbolic_function
 http://en.wikipedia.org/wiki/Logistic_function
@@ -1822,7 +1799,6 @@ http://en.wikipedia.org/wiki/Backpropagation
 http://en.wikipedia.org/wiki/Mathematical_optimization#Computational_optimization_techniques
 http://en.wikipedia.org/wiki/Gradient_descent_in_machine_learning
 http://en.wikipedia.org/wiki/Cost_function
-http://en.wikipedia.org/wiki/Portmanteau
 backward propagation
 http://en.wikipedia.org/wiki/Algorithmic_efficiency computational cost
 Forward propagation
@@ -1842,6 +1818,13 @@ fit_transform()
 predict() methods
 partial_fit() 
 
+http://en.wikipedia.org/wiki/Heuristic
+http://en.wikipedia.org/wiki/Pixel
+http://en.wikipedia.org/wiki/Parsing
+http://en.wikipedia.org/wiki/Feedback
+http://en.wikipedia.org/wiki/Alphanumeric
+http://en.wikipedia.org/wiki/Portmanteau
+http://en.wikipedia.org/wiki/Wine_tasting_descriptors
 http://en.wikipedia.org/wiki/Continuous_function
 http://jmozah.github.io/links
 https://github.com/gwtaylor/theano-rnn
@@ -1878,7 +1861,6 @@ http://en.wikipedia.org/wiki/Kernelization
 http://en.wikipedia.org/wiki/Variable_kernel_density_estimation#Use_for_statistical_classification
 -->
                                 <br><p>Perceptron (Simple Feedforward Neural Network)- More (See also Linear Classifiers)</p>
-                                <a href="http://en.wikipedia.org/wiki/Feedforward_neural_network" target="_blank">Feedforward Neural Network Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Multilayer_perceptron" target="_blank">Multilayer Perceptron Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Perceptron#Multiclass_perceptron" target="_blank">Multiclass Perceptron Wikipedia</a><br>
 
@@ -1950,7 +1932,7 @@ SPRINT Decision Tree Algo
                                 <a href="http://en.wikipedia.org/wiki/SARSA" target="_blank">SARSA (Markov Decision Process) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Markov_decision_process" target="_blank">Markov Decision Process (See also Bayes/Hidden Markov Model) Wikipedia</a><br>
 
-                                <br><p>Associate Rule Learning (Unsupervised Learning)</p>
+                                <br><p>Frequent Itemsets (Unsupervised Learning)</p>
                                 <a href="http://en.wikipedia.org/wiki/Association_rule_learning" target="_blank">Associate Rule Learning Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Apriori_algorithm" target="_blank">Apriori Algorithm (Market Basket Analysis) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Affinity_analysis" target="_blank">Affinity Analysis (Market Basket Analysis) Wikipedia</a><br>
@@ -1958,12 +1940,7 @@ SPRINT Decision Tree Algo
                                 <a href="http://en.wikipedia.org/wiki/Association_rule_learning#Eclat_algorithm" target="_blank">Eclat Algorithm Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Association_rule_learning#One-attribute_rule" target="_blank">One Attribute Rule (Unsupervised?) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Association_rule_learning#Zero-attribute_rule" target="_blank">Zero Attribute Rule (Unsupervised?) Wikipedia</a><br>
-<!--
-Frequent Itemsets:
-Market Basket Analysis 
-Association Rules
-A-Priori Algorithm 
--->
+
                                 <br><p>Dimensionality Reduction (Machine Learning)</p>
                                 <a href="http://en.wikipedia.org/wiki/Dimensionality_reduction" target="_blank">Dimensionality Reduction Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Curse_of_dimensionality" target="_blank">The Curse of Dimensionality Wikipedia</a><br>
@@ -2050,7 +2027,6 @@ Graph Data: Social Networks, Media Networks, Information Nets, Communication Net
 Link Analysis approaches for computing importances of nodes in a graph:
 Page Rank, Hubs and Authorities (HITS), Topic-Specific (Personalized) Page Rank, Web Spam Detection Algorithms
 
-http://en.wikipedia.org/wiki/Directed_graph
 Web as a directed graph: Nodes: Webpages, Edges: Hyperlinks
 How to organize the Web? First try: Human curated Web Directories (Yahoo, DMOZ, LookSmart), Second try: Web Search
 Web directories
@@ -2062,7 +2038,6 @@ http://en.wikipedia.org/wiki/Gaussian_elimination
 Recursive Formulation
 Matrix Formulation
 Stochastic adjacency matrix 
-Vector
 The Flow Equation
 Eigenvector Formulation
 http://en.wikipedia.org/wiki/Power_iteration
@@ -2098,8 +2073,7 @@ Candidate Pair
 http://en.wikipedia.org/wiki/W-shingling K-Shingle/K-Gram
 http://en.wikipedia.org/wiki/N-gram
 http://en.wikipedia.org/wiki/Compression
-http://en.wikipedia.org/wiki/Tokenization_(lexical_analysis)
-Constructing Signatures
+hConstructing Signatures
 http://en.wikipedia.org/wiki/Logical_matrix
 Rows permuted randomly
 Define minhash function
@@ -2112,8 +2086,6 @@ http://en.wikipedia.org/wiki/Hash_function
 http://en.wikipedia.org/wiki/Band_(mathematics)
 http://en.wikipedia.org/wiki/Minutiae
 http://en.wikipedia.org/wiki/Bit_array Bit Vector
-Similarity
-http://en.wikipedia.org/wiki/Stop_words
 Locality-Sensitive Hashing Families of Hash Functions
 S-Curves
 
@@ -2128,10 +2100,7 @@ Nearest Neighbors: Supervised Learning
 Regression/Classification *****
 Methods:
 1-Nearest/k-Nearest Neighbor/Kernel regression (Instance based learning/Euclidean Distance, K-NN Ex. Collaborative Filtering) (Keep the whole training dataset/Query-Vector, Regression/Classification)
-Support Vector Machines
-Decision trees
 How to find Nearest Nighbor- use Locality Sensitive Hashing
-Frequent Itemsets
 If-then rules, it is likely ...
 Computational Model:  Typically, data is kept in flat files.
  Stored on disk.
@@ -2179,7 +2148,6 @@ Affiliation Graph Model (AGM)
 http://en.wikipedia.org/wiki/Generative_model
 BigCLAM
 http://en.wikipedia.org/wiki/Likelihood_function
-http://en.wikipedia.org/wiki/Gradient_descent *****
 Link Clustering, Clique Percolation, MMSB, BigClam
 Analysis of Large Graphs: Detecting Clustering
 Networks: modules, cluster, communities
@@ -2217,7 +2185,6 @@ Approximating Counts
 Exponentially Growing Blocks
 DGIM Algo
 Counting bits
-http://en.wikipedia.org/wiki/Logarithm
 Datar, Gionis, Indyk, and Motwani
 timestamps modulo
 Buckets
@@ -2301,18 +2268,13 @@ Latent Factor Recommender System
 Recommendations via Optimization
 Lower RMSE  better recommendations
 Ratings as Products of Factors
-http://en.wikipedia.org/wiki/Singular_value_decomposition SVD ?
 U: Left singular vecs
  V: Right singular vecs
 Sum of Squared Errors and RMSE are monotonically related  *****
-http://en.wikipedia.org/wiki/Least_squares  *****
 Finding the Latent Factors
 http://en.wikipedia.org/wiki/Error_function
 Minimizing a function
 http://en.wikipedia.org/wiki/Derivative
-http://en.wikipedia.org/wiki/Gradient *****
-http://en.wikipedia.org/wiki/Regularization_(mathematics)
-http://en.wikipedia.org/wiki/Stochastic_gradient_descent *****
 http://en.wikipedia.org/wiki/Loss_function Objective Function
 Extending Latent Factor Model to include Biases
 Performance of Various Models: Baic Collaborative Filtering, Basic Latent Factors, Latent Factors with Biases
@@ -2326,7 +2288,6 @@ Bellkor's Pragmatic Chaos- All Developed CF Modla ***
 Dimensionality Reduction *****
 http://en.wikipedia.org/wiki/Low-rank_approximation
 http://en.wikipedia.org/wiki/Correlation_and_dependence
-http://en.wikipedia.org/wiki/Singular_value_decomposition
 http://en.wikipedia.org/wiki/Signal_processing
 http://en.wikipedia.org/wiki/Scalar_(mathematics)
 http://en.wikipedia.org/wiki/Orthonormality
@@ -2706,19 +2667,16 @@ http://en.wikipedia.org/wiki/Random_walker_algorithm
 http://en.wikipedia.org/wiki/Segmentation-based_object_categorization#Normalized_cuts
 
 http://en.wikipedia.org/wiki/Automatic_summarization
-http://en.wikipedia.org/wiki/Bag-of-words_model
 http://en.wikipedia.org/wiki/Edit_distance
 http://en.wikipedia.org/wiki/Full_text_search
 http://en.wikipedia.org/wiki/Latent_semantic_analysis
 http://en.wikipedia.org/wiki/Lexical
 http://en.wikipedia.org/wiki/Lexical_analysis
 http://en.wikipedia.org/wiki/Lexical_diversity
-http://en.wikipedia.org/wiki/Parsing
 http://en.wikipedia.org/wiki/Comparison_of_HTML_parsers
 http://en.wikipedia.org/wiki/Parse_tree
 http://en.wikipedia.org/wiki/Part-of-speech_tagging
 http://en.wikipedia.org/wiki/Record_linkage
-http://en.wikipedia.org/wiki/Stemming
 http://en.wikipedia.org/wiki/Text_corpus
 http://en.wikipedia.org/wiki/Text_mining
 http://en.wikipedia.org/wiki/Tf%E2%80%93idf
