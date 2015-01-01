@@ -581,49 +581,122 @@ http://stackoverflow.com/questions/11600471/web-application-that-uses-scikit-lea
 <!--
 class and function reference 
 http://scikit-learn.org/0.14/modules/classes.html
-http://scikit-learn.org/0.14/user_guide.html#user-guide
 http://scikit-learn.org/0.14/auto_examples/index.html
+http://scikit-learn.org/0.14/user_guide.html#user-guide
 
-Modules
-sklearn.cluster: Clustering
-http://scikit-learn.org/0.14/modules/clustering.html
-klearn.cluster.bicluster: Biclustering
-http://scikit-learn.org/0.14/modules/biclustering.html
-sklearn.covariance: Covariance Estimators
-http://scikit-learn.org/0.14/modules/covariance.html
-sklearn.cross_validation: Cross Validation
-http://scikit-learn.org/0.14/modules/cross_validation.html
-sklearn.datasets: Datasets
-http://scikit-learn.org/0.14/datasets/index.html
-sklearn.decomposition: Matrix Decomposition
-http://scikit-learn.org/0.14/modules/decomposition.html
-sklearn.dummy: Dummy estimators
-http://scikit-learn.org/0.14/modules/model_evaluation.html#model-evaluation
-sklearn.ensemble: Ensemble Methods
-http://scikit-learn.org/0.14/modules/ensemble.html
-sklearn.feature_extraction: Feature Extraction
-http://scikit-learn.org/0.14/modules/feature_extraction.html
-sklearn.feature_selection: Feature Selection
-http://scikit-learn.org/0.14/modules/feature_selection.html
-sklearn.gaussian_process: Gaussian Processes
-http://scikit-learn.org/0.14/modules/gaussian_process.html
-sklearn.grid_search: Grid Search
-http://scikit-learn.org/0.14/modules/grid_search.html
-sklearn.hmm: Hidden Markov Models
-http://scikit-learn.org/0.14/modules/hmm.html
-sklearn.isotonic: Isotonic regression
-http://scikit-learn.org/0.14/modules/isotonic.html
-sklearn.kernel_approximation Kernel Approximation
-http://scikit-learn.org/0.14/modules/kernel_approximation.html
-sklearn.semi_supervised Semi-Supervised Learning
-http://scikit-learn.org/0.14/modules/label_propagation.html
-sklearn.lda: Linear Discriminant Analysis
-http://scikit-learn.org/0.14/modules/lda_qda.html
+1. Supervised learning
+1.1. Generalized Linear Models
 sklearn.linear_model: Generalized Linear Models
 http://scikit-learn.org/0.14/modules/linear_model.html
+1.2. Support Vector Machines
+sklearn.svm: Support Vector Machines
+http://scikit-learn.org/0.14/modules/svm.html
+1.3. Stochastic Gradient Descent
+1.4. Nearest Neighbors
+sklearn.neighbors: Nearest Neighbors
+http://scikit-learn.org/0.14/modules/neighbors.html
+1.5. Gaussian Processes
+sklearn.gaussian_process: Gaussian Processes
+http://scikit-learn.org/0.14/modules/gaussian_process.html
+1.6. Cross decomposition
+sklearn.cross_decomposition: Cross decomposition
+http://scikit-learn.org/0.14/modules/cross_decomposition.html
+1.7. Naive Bayes
+sklearn.naive_bayes: Naive Bayes
+http://scikit-learn.org/0.14/modules/naive_bayes.html
+1.8. Decision Trees
+sklearn.tree: Decision Trees
+http://scikit-learn.org/0.14/modules/tree.html
+1.9. Ensemble methods
+sklearn.ensemble: Ensemble Methods
+http://scikit-learn.org/0.14/modules/ensemble.html
+1.10. Multiclass and multilabel algorithms
+sklearn.multiclass: Multiclass and multilabel classification
+http://scikit-learn.org/0.14/modules/multiclass.html
+1.11. Feature selection
+sklearn.feature_selection: Feature Selection
+http://scikit-learn.org/0.14/modules/feature_selection.html
+1.12. Semi-Supervised
+sklearn.semi_supervised Semi-Supervised Learning
+http://scikit-learn.org/0.14/modules/label_propagation.html
+1.13. Linear and quadratic discriminant analysis
+sklearn.lda: Linear Discriminant Analysis
+http://scikit-learn.org/0.14/modules/lda_qda.html
+sklearn.qda: Quadratic Discriminant Analysis
+http://scikit-learn.org/0.14/modules/lda_qda.html
+1.14. Isotonic regression
+sklearn.isotonic: Isotonic regression
+http://scikit-learn.org/0.14/modules/isotonic.html
+
+2. Unsupervised learning
+2.1. Gaussian mixture models
+sklearn.mixture: Gaussian Mixture Models
+http://scikit-learn.org/0.14/modules/mixture.html
+2.2. Manifold learning
 sklearn.manifold: Manifold Learning
 http://scikit-learn.org/0.14/modules/manifold.html
-sklearn.metrics: Metrics
+2.3. Clustering
+sklearn.cluster: Clustering Module
+http://scikit-learn.org/0.14/modules/clustering.html
+2.4. Biclustering
+klearn.cluster.bicluster: Biclustering Module
+http://scikit-learn.org/0.14/modules/biclustering.html
+2.5. Decomposing signals in components (matrix factorization problems)
+2.6. Covariance estimation
+sklearn.covariance: Covariance Estimators Module
+http://scikit-learn.org/0.14/modules/covariance.html
+2.7. Novelty and Outlier Detection
+2.8. Hidden Markov Models
+sklearn.hmm: Hidden Markov Models
+http://scikit-learn.org/0.14/modules/hmm.html
+2.9. Density Estimation
+2.10. Neural network models (unsupervised)
+sklearn.neural_network: Neural network models
+http://scikit-learn.org/0.14/modules/neural_networks.html
+
+3. Model selection and evaluation
+3.1. Cross-validation: evaluating estimator performance
+sklearn.cross_validation: Cross Validation Module
+http://scikit-learn.org/0.14/modules/cross_validation.html
+3.2. Grid Search: Searching for estimator parameters
+sklearn.grid_search: Grid Search
+http://scikit-learn.org/0.14/modules/grid_search.html
+3.3. Pipeline: chaining estimators
+sklearn.pipeline: Pipeline- No Docs
+3.4. FeatureUnion: Combining feature extractors
+
+4. Dataset transformations
+4.1. Feature extraction
+sklearn.feature_extraction: Feature Extraction
+http://scikit-learn.org/0.14/modules/feature_extraction.html
+4.2. Preprocessing data
+sklearn.preprocessing: Preprocessing and Normalization
+http://scikit-learn.org/0.14/modules/preprocessing.html
+4.3. Kernel Approximation
+sklearn.kernel_approximation Kernel Approximation
+http://scikit-learn.org/0.14/modules/kernel_approximation.html
+4.4. Random Projection
+sklearn.random_projection: Random projection
+http://en.wikipedia.org/wiki/Johnson%E2%80%93Lindenstrauss_lemma
+http://scikit-learn.org/0.14/modules/random_projection.html
+4.5. Pairwise metrics, Affinities and Kernels
+
+sklearn.datasets: Datasets Module
+http://scikit-learn.org/0.14/datasets/index.html
+User Guide
+5. Dataset loading utilities
+5.1. General dataset API
+5.2. Toy datasets
+5.3. Sample images
+5.4. Sample generators
+5.5. Datasets in svmlight / libsvm format
+5.6. The Olivetti faces dataset
+5.7. The 20 newsgroups text dataset
+5.8. Downloading datasets from the mldata.org repository
+5.9. The Labeled Faces in the Wild face recognition dataset
+5.10. Forest covertypes
+
+sklearn.metrics: Metrics Module
 http://scikit-learn.org/0.14/modules/model_evaluation.html
 http://scikit-learn.org/0.14/modules/metrics.html
 http://scikit-learn.org/0.14/modules/model_evaluation.html
@@ -631,30 +704,15 @@ http://scikit-learn.org/0.14/modules/model_evaluation.html#classification-metric
 http://scikit-learn.org/0.14/modules/model_evaluation.html#regression-metrics
 http://scikit-learn.org/0.14/modules/clustering.html#clustering-evaluation
 http://scikit-learn.org/0.14/modules/biclustering.html#biclustering-evaluation
-sklearn.mixture: Gaussian Mixture Models
-http://scikit-learn.org/0.14/modules/mixture.html
-sklearn.multiclass: Multiclass and multilabel classification
-http://scikit-learn.org/0.14/modules/multiclass.html
-sklearn.naive_bayes: Naive Bayes
-http://scikit-learn.org/0.14/modules/naive_bayes.html
-sklearn.neighbors: Nearest Neighbors
-http://scikit-learn.org/0.14/modules/neighbors.html
-sklearn.neural_network: Neural network models
-http://scikit-learn.org/0.14/modules/neural_networks.html
-sklearn.cross_decomposition: Cross decomposition
-http://scikit-learn.org/0.14/modules/cross_decomposition.html
-sklearn.pipeline: Pipeline- No Docs
-sklearn.preprocessing: Preprocessing and Normalization
-http://scikit-learn.org/0.14/modules/preprocessing.html
-sklearn.qda: Quadratic Discriminant Analysis
-http://scikit-learn.org/0.14/modules/lda_qda.html
-sklearn.random_projection: Random projection
-http://en.wikipedia.org/wiki/Johnson%E2%80%93Lindenstrauss_lemma
-http://scikit-learn.org/0.14/modules/random_projection.html
-sklearn.svm: Support Vector Machines
-http://scikit-learn.org/0.14/modules/svm.html
-sklearn.tree: Decision Trees
-http://scikit-learn.org/0.14/modules/tree.html
+sklearn.dummy: Dummy estimators
+http://scikit-learn.org/0.14/modules/model_evaluation.html#model-evaluation
+User Guide
+3. Model selection and evaluation
+3.5. Model evaluation: quantifying the quality of predictions
+
+Modules
+sklearn.decomposition: Matrix Decomposition Module
+http://scikit-learn.org/0.14/modules/decomposition.html
 sklearn.utils: Utilities
 http://scikit-learn.org/0.14/developers/utilities.html
 
