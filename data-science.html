@@ -580,7 +580,10 @@ http://stackoverflow.com/questions/11600471/web-application-that-uses-scikit-lea
                                 <a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html" target="_blank">Scikit-Learn Machine Learning Map</a><br>
 <!--
 class and function reference 
-http://scikit-learn.org/0.14/modules/classes.html 
+http://scikit-learn.org/0.14/modules/classes.html
+http://scikit-learn.org/0.14/user_guide.html#user-guide
+http://scikit-learn.org/0.14/auto_examples/index.html
+
 Modules
 sklearn.cluster: Clustering
 klearn.cluster.bicluster: Biclustering
@@ -615,6 +618,226 @@ sklearn.random_projection: Random projection
 sklearn.svm: Support Vector Machines
 sklearn.tree: Decision Trees
 sklearn.utils: Utilities
+
+General examples
+General-purpose and introductory examples for the scikit.
+Pipeline Anova SVM
+Recursive feature elimination
+Recursive feature elimination with cross-validation
+Confusion matrix
+Precision-Recall
+Concatenating multiple feature extraction methods
+Isotonic Regression
+Imputing missing values before building an estimator
+Receiver operating characteristic (ROC)
+Demonstration of sampling from HMM
+Recognizing hand-written digits
+Pipelining: chaining a PCA and a logistic regression
+Test with permutations the significance of a classification score
+Receiver operating characteristic (ROC) with cross validation
+Parameter estimation using grid search with a nested cross-validation
+Train error vs Test error
+Univariate Feature Selection
+Plot classification probability
+Comparing randomized search and grid search for hyperparameter estimation
+Face completion with a multi-output estimators
+Multilabel classification
+Sample pipeline for text feature extraction and evaluation
+FeatureHasher and DictVectorizer Comparison
+The Johnson-Lindenstrauss bound for embedding with random projections
+Classification of text documents: using a MLComp dataset
+Classifier comparison
+Restricted Boltzmann Machine features for digit classification
+Linear and Quadratic Discriminant Analysis with confidence ellipsoid
+Clustering text documents using k-means
+Explicit feature map approximation for RBF kernels
+Classification of text documents using sparse features
+
+Examples based on real world datasets
+Applications to real world problems with some medium sized datasets or interactive user interface.
+Topics extraction with Non-Negative Matrix Factorization
+Outlier detection on a real data set
+Gaussian HMM of stock data
+Compressive sensing: tomography reconstruction with L1 prior (Lasso)
+Faces recognition example using eigenfaces and SVMs
+Species distribution modeling
+Visualizing the stock market structure
+Wikipedia principal eigenvector
+Out-of-core classification of text documents
+Libsvm GUI
+
+Biclustering
+Examples concerning the sklearn.cluster.bicluster package.
+A demo of the Spectral Co-Clustering algorithm
+A demo of the Spectral Biclustering algorithm
+Biclustering documents with the Spectral Co-clustering algorithm
+
+Clustering
+Examples concerning the sklearn.cluster package.
+A demo of the mean-shift clustering algorithm
+A demo of structured Ward hierarchical clustering on Lena image
+Feature agglomeration
+Demo of affinity propagation clustering algorithm
+Segmenting the picture of Lena in regions
+Demo of DBSCAN clustering algorithm
+Online learning of a dictionary of parts of faces
+Vector Quantization Example
+Hierarchical clustering: structured vs unstructured ward
+Spectral clustering for image segmentation
+K-means Clustering
+Color Quantization using K-Means
+Comparing different clustering algorithms on toy datasets
+Feature agglomeration vs. univariate selection
+Empirical evaluation of the impact of k-means initialization
+A demo of K-Means clustering on the handwritten digits data
+Adjustment for chance in clustering performance evaluation
+Comparison of the K-Means and MiniBatchKMeans clustering algorithms
+
+Covariance estimation
+Examples concerning the sklearn.covariance package.
+Ledoit-Wolf vs OAS estimation
+Outlier detection with several methods.
+Sparse inverse covariance estimation
+Shrinkage covariance estimation: LedoitWolf vs OAS and max-likelihood
+Robust covariance estimation and Mahalanobis distances relevance
+Robust vs Empirical covariance estimate
+
+Cross decomposition
+Examples concerning the sklearn.cross_decomposition package.
+Compare cross decomposition methods
+
+Dataset examples
+Examples concerning the sklearn.datasets package.
+The Digit Dataset
+Plot randomly generated classification dataset
+The Iris Dataset
+
+Decomposition
+Examples concerning the sklearn.decomposition package.
+Comparison of LDA and PCA 2D projection of Iris dataset
+Blind source separation using FastICA
+PCA example with Iris Data-set
+Kernel PCA
+FastICA on 2D point clouds
+Sparse coding with a precomputed dictionary
+Principal components analysis (PCA)
+Faces dataset decompositions
+Image denoising using dictionary learning
+
+Ensemble methods
+Examples concerning the sklearn.ensemble package.
+Decision Tree Regression with AdaBoost
+Pixel importances with a parallel forest of trees
+Feature importances with forests of trees
+Gradient Boosting regularization
+Partial Dependence Plots
+Gradient Boosting regression
+Prediction Intervals for Gradient Boosting Regression
+Two-class AdaBoost
+Hashing feature transformation using Totally Random Trees
+Multi-class AdaBoosted Decision Trees
+Discrete versus Real AdaBoost
+Gradient Boosting Out-of-Bag estimates
+Plot the decision surfaces of ensembles of trees on the iris dataset
+
+Tutorial exercises
+Exercises for the tutorials
+Digits Classification Exercise
+Cross-validation on Digits Dataset Exercise
+SVM Exercise
+Cross-validation on diabetes Dataset Exercise
+
+Gaussian Process for Machine Learning
+Examples concerning the sklearn.gaussian_process package.
+Gaussian Processes regression: goodness-of-fit on the ‘diabetes’ dataset
+Gaussian Processes classification example: exploiting the probabilistic output
+Gaussian Processes regression: basic introductory example
+
+Generalized Linear Models
+Examples concerning the sklearn.linear_model package.
+Lasso path using LARS
+SGD: Maximum margin separating hyperplane
+Polynomial interpolation
+SGD: Weighted samples
+Plot Ridge coefficients as a function of the regularization
+Comparing various online solvers
+SGD: Convex Loss Functions
+Logistic Regression 3-class Classifier
+Path with L1- Logistic Regression
+SGD: Separating hyperplane with weighted classes
+Ordinary Least Squares and Ridge Regression Variance
+Linear Regression Example
+Logit function
+Joint feature selection with multi-task Lasso
+SGD: Penalties
+Lasso on dense and sparse data
+Lasso and Elastic Net for Sparse Signals
+Bayesian Ridge Regression
+Sparsity Example: Fitting only features 1 and 2
+Automatic Relevance Determination Regression (ARD)
+L1 Penalty and Sparsity in Logistic Regression
+Plot multi-class SGD on the iris dataset
+Orthogonal Matching Pursuit
+Lasso and Elastic Net
+Lasso model selection: Cross-Validation / AIC / BIC
+Sparse recovery: feature selection for sparse linear models
+
+Manifold learning
+Examples concerning the sklearn.manifold package.
+Swiss Roll reduction with LLE
+Multi-dimensional scaling
+Comparison of Manifold Learning methods
+Manifold Learning methods on a severed sphere
+Manifold learning on handwritten digits: Locally Linear Embedding, Isomap...
+
+Gaussian Mixture Models
+Examples concerning the sklearn.mixture package.
+Density Estimation for a mixture of Gaussians
+Gaussian Mixture Model Ellipsoids
+Gaussian Mixture Model Sine Curve
+Gaussian Mixture Model Selection
+GMM classification
+
+Nearest Neighbors
+Examples concerning the sklearn.neighbors package.
+Nearest Neighbors regression
+Nearest Neighbors Classification
+Nearest Centroid Classification
+Kernel Density Estimation
+Kernel Density Estimate of Species Distributions
+Simple 1D Kernel Density Estimation
+
+Semi Supervised Classification
+Examples concerning the sklearn.semi_supervised package.
+Label Propagation learning a complex structure
+Decision boundary of label propagation versus SVM on the Iris dataset
+Label Propagation digits: Demonstrating performance
+Label Propagation digits active learning
+
+Support Vector Machines
+Examples concerning the sklearn.svm package.
+Non-linear SVM
+Support Vector Regression (SVR) using linear and non-linear kernels
+SVM: Maximum margin separating hyperplane
+SVM: Separating hyperplane for unbalanced classes
+SVM-SVC (Support Vector Classification)
+SVM with custom kernel
+SVM: Weighted samples
+SVM-Anova: SVM with univariate feature selection
+Plot different SVM classifiers in the iris dataset
+One-class SVM with non-linear kernel (RBF)
+SVM Margins Example
+SVM-Kernels
+Scaling the regularization parameter for SVCs
+RBF SVM parameters
+
+Decision Trees
+Examples concerning the sklearn.tree package.
+Decision Tree Regression
+Multi-output Decision Tree Regression
+Plot the decision surface of a decision tree on the iris dataset
+
+
 
 scikit-learn provides algorithms for machine learning tasks including classification, regression, dimensionality reduction, and clustering. 
 It also provides modules for extracting features, processing data, and evaluating models.
@@ -1139,7 +1362,6 @@ http://en.wikipedia.org/wiki/Basis_function
 
 http://en.wikipedia.org/wiki/Artificial_neuron
 http://en.wikipedia.org/wiki/Delta_rule
-http://en.wikipedia.org/wiki/Heaviside_step_function
 -->
                                 <br><p>Artificial Neural Networks (Unsupervised Learning)</p>
                                 <a href="http://en.wikipedia.org/wiki/Self-organizing_map" target="_blank">Kohonen Maps Wikipedia</a><br>
