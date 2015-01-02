@@ -579,19 +579,77 @@ http://stackoverflow.com/questions/11600471/web-application-that-uses-scikit-lea
                                 <a href="http://scikit-learn.org/stable/auto_examples/index.html" target="_blank">Scikit-Learn Examples</a><br>
                                 <a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html" target="_blank">Scikit-Learn Machine Learning Map</a><br>
 <!--
+PyPlot and PyLab, vBench
+http://statsmodels.sourceforge.net/devel/examples/
+http://www.sympy.org/en/features.html
+http://scipy-central.org/
+
+http://jsonpickle.github.io
+https://github.com/jsonpickle/jsonpickle
+https://pypi.python.org/pypi/jsonpickle
+https://docs.python.org/3/library/pickle.html
+
 class and function reference 
 http://scikit-learn.org/0.14/modules/classes.html
 http://scikit-learn.org/0.14/auto_examples/index.html
 http://scikit-learn.org/0.14/user_guide.html#user-guide
 
 1. Supervised learning
+
 1.1. Generalized Linear Models
 sklearn.linear_model: Generalized Linear Models Module
 http://scikit-learn.org/0.14/modules/linear_model.html
+Generalized Linear Models Examples
+Examples concerning the sklearn.linear_model package.
+Lasso path using LARS
+SGD: Maximum margin separating hyperplane
+Polynomial interpolation
+SGD: Weighted samples
+Plot Ridge coefficients as a function of the regularization
+Comparing various online solvers
+SGD: Convex Loss Functions
+Logistic Regression 3-class Classifier
+Path with L1- Logistic Regression
+SGD: Separating hyperplane with weighted classes
+Ordinary Least Squares and Ridge Regression Variance
+Linear Regression Example
+Logit function
+Joint feature selection with multi-task Lasso
+SGD: Penalties
+Lasso on dense and sparse data
+Lasso and Elastic Net for Sparse Signals
+Bayesian Ridge Regression
+Sparsity Example: Fitting only features 1 and 2
+Automatic Relevance Determination Regression (ARD)
+L1 Penalty and Sparsity in Logistic Regression
+Plot multi-class SGD on the iris dataset
+Orthogonal Matching Pursuit
+Lasso and Elastic Net
+Lasso model selection: Cross-Validation / AIC / BIC
+Sparse recovery: feature selection for sparse linear models
+
 1.2. Support Vector Machines
 sklearn.svm: Support Vector Machines Module
 http://scikit-learn.org/0.14/modules/svm.html
+Support Vector Machines Examples
+Examples concerning the sklearn.svm package.
+Non-linear SVM
+Support Vector Regression (SVR) using linear and non-linear kernels
+SVM: Maximum margin separating hyperplane
+SVM: Separating hyperplane for unbalanced classes
+SVM-SVC (Support Vector Classification)
+SVM with custom kernel
+SVM: Weighted samples
+SVM-Anova: SVM with univariate feature selection
+Plot different SVM classifiers in the iris dataset
+One-class SVM with non-linear kernel (RBF)
+SVM Margins Example
+SVM-Kernels
+Scaling the regularization parameter for SVCs
+RBF SVM parameters
+
 1.3. Stochastic Gradient Descent
+
 1.4. Nearest Neighbors
 sklearn.neighbors: Nearest Neighbors Module
 http://scikit-learn.org/0.14/modules/neighbors.html
@@ -603,6 +661,7 @@ Nearest Centroid Classification
 Kernel Density Estimation
 Kernel Density Estimate of Species Distributions
 Simple 1D Kernel Density Estimation
+
 1.5. Gaussian Processes
 sklearn.gaussian_process: Gaussian Processes Module
 http://scikit-learn.org/0.14/modules/gaussian_process.html
@@ -611,15 +670,18 @@ Examples concerning the sklearn.gaussian_process package.
 Gaussian Processes regression: goodness-of-fit on the ‘diabetes’ dataset
 Gaussian Processes classification example: exploiting the probabilistic output
 Gaussian Processes regression: basic introductory example
+
 1.6. Cross decomposition
 sklearn.cross_decomposition: Cross Decomposition Module
 http://scikit-learn.org/0.14/modules/cross_decomposition.html
 Cross Decomposition Examples
 Examples concerning the sklearn.cross_decomposition package.
 Compare cross decomposition methods
+
 1.7. Naive Bayes
 sklearn.naive_bayes: Naive Bayes Module
 http://scikit-learn.org/0.14/modules/naive_bayes.html
+
 1.8. Decision Trees
 sklearn.tree: Decision Trees Module
 http://scikit-learn.org/0.14/modules/tree.html
@@ -628,6 +690,7 @@ Examples concerning the sklearn.tree package.
 Decision Tree Regression
 Multi-output Decision Tree Regression
 Plot the decision surface of a decision tree on the iris dataset
+
 1.9. Ensemble methods
 sklearn.ensemble: Ensemble Methods Module
 http://scikit-learn.org/0.14/modules/ensemble.html
@@ -646,25 +709,37 @@ Multi-class AdaBoosted Decision Trees
 Discrete versus Real AdaBoost
 Gradient Boosting Out-of-Bag estimates
 Plot the decision surfaces of ensembles of trees on the iris dataset
+
 1.10. Multiclass and multilabel algorithms
 sklearn.multiclass: Multiclass and multilabel Classification Module
 http://scikit-learn.org/0.14/modules/multiclass.html
+
 1.11. Feature selection
 sklearn.feature_selection: Feature Selection Module
 http://scikit-learn.org/0.14/modules/feature_selection.html
+
 1.12. Semi-Supervised
 sklearn.semi_supervised Semi-Supervised Learning Module
 http://scikit-learn.org/0.14/modules/label_propagation.html
+Semi Supervised Classification Examples
+Examples concerning the sklearn.semi_supervised package.
+Label Propagation learning a complex structure
+Decision boundary of label propagation versus SVM on the Iris dataset
+Label Propagation digits: Demonstrating performance
+Label Propagation digits active learning
+
 1.13. Linear and quadratic discriminant analysis
 sklearn.lda: Linear Discriminant Analysis Module
 http://scikit-learn.org/0.14/modules/lda_qda.html
 sklearn.qda: Quadratic Discriminant Analysis Module
 http://scikit-learn.org/0.14/modules/lda_qda.html
+
 1.14. Isotonic regression
 sklearn.isotonic: Isotonic regression Module
 http://scikit-learn.org/0.14/modules/isotonic.html
 
 2. Unsupervised learning
+
 2.1. Gaussian mixture models
 sklearn.mixture: Gaussian Mixture Models Module
 http://scikit-learn.org/0.14/modules/mixture.html
@@ -675,6 +750,7 @@ Gaussian Mixture Model Ellipsoids
 Gaussian Mixture Model Sine Curve
 Gaussian Mixture Model Selection
 GMM classification
+
 2.2. Manifold learning
 sklearn.manifold: Manifold Learning Module
 http://scikit-learn.org/0.14/modules/manifold.html
@@ -685,6 +761,7 @@ Multi-dimensional scaling
 Comparison of Manifold Learning methods
 Manifold Learning methods on a severed sphere
 Manifold learning on handwritten digits: Locally Linear Embedding, Isomap...
+
 2.3. Clustering
 sklearn.cluster: Clustering Module
 http://scikit-learn.org/0.14/modules/clustering.html
@@ -708,6 +785,7 @@ Empirical evaluation of the impact of k-means initialization
 A demo of K-Means clustering on the handwritten digits data
 Adjustment for chance in clustering performance evaluation
 Comparison of the K-Means and MiniBatchKMeans clustering algorithms
+
 2.4. Biclustering
 klearn.cluster.bicluster: Biclustering Module
 http://scikit-learn.org/0.14/modules/biclustering.html
@@ -716,9 +794,11 @@ Examples concerning the sklearn.cluster.bicluster package.
 A demo of the Spectral Co-Clustering algorithm
 A demo of the Spectral Biclustering algorithm
 Biclustering documents with the Spectral Co-clustering algorithm
+
 2.5. Decomposing signals in components (matrix factorization problems)
 sklearn.decomposition: Matrix Decomposition Module
 http://scikit-learn.org/0.14/modules/decomposition.html
+
 2.6. Covariance estimation
 sklearn.covariance: Covariance Estimators Module
 http://scikit-learn.org/0.14/modules/covariance.html
@@ -730,11 +810,15 @@ Sparse inverse covariance estimation
 Shrinkage covariance estimation: LedoitWolf vs OAS and max-likelihood
 Robust covariance estimation and Mahalanobis distances relevance
 Robust vs Empirical covariance estimate
+
 2.7. Novelty and Outlier Detection
+
 2.8. Hidden Markov Models
 sklearn.hmm: Hidden Markov Models Module
 http://scikit-learn.org/0.14/modules/hmm.html
+
 2.9. Density Estimation
+
 2.10. Neural network models (unsupervised)
 sklearn.neural_network: Neural network Models  Module
 http://scikit-learn.org/0.14/modules/neural_networks.html
@@ -869,59 +953,6 @@ Digits Classification Exercise
 Cross-validation on Digits Dataset Exercise
 SVM Exercise
 Cross-validation on diabetes Dataset Exercise
-
-Generalized Linear Models Examples
-Examples concerning the sklearn.linear_model package.
-Lasso path using LARS
-SGD: Maximum margin separating hyperplane
-Polynomial interpolation
-SGD: Weighted samples
-Plot Ridge coefficients as a function of the regularization
-Comparing various online solvers
-SGD: Convex Loss Functions
-Logistic Regression 3-class Classifier
-Path with L1- Logistic Regression
-SGD: Separating hyperplane with weighted classes
-Ordinary Least Squares and Ridge Regression Variance
-Linear Regression Example
-Logit function
-Joint feature selection with multi-task Lasso
-SGD: Penalties
-Lasso on dense and sparse data
-Lasso and Elastic Net for Sparse Signals
-Bayesian Ridge Regression
-Sparsity Example: Fitting only features 1 and 2
-Automatic Relevance Determination Regression (ARD)
-L1 Penalty and Sparsity in Logistic Regression
-Plot multi-class SGD on the iris dataset
-Orthogonal Matching Pursuit
-Lasso and Elastic Net
-Lasso model selection: Cross-Validation / AIC / BIC
-Sparse recovery: feature selection for sparse linear models
-
-Semi Supervised Classification Examples
-Examples concerning the sklearn.semi_supervised package.
-Label Propagation learning a complex structure
-Decision boundary of label propagation versus SVM on the Iris dataset
-Label Propagation digits: Demonstrating performance
-Label Propagation digits active learning
-
-Support Vector Machines Examples
-Examples concerning the sklearn.svm package.
-Non-linear SVM
-Support Vector Regression (SVR) using linear and non-linear kernels
-SVM: Maximum margin separating hyperplane
-SVM: Separating hyperplane for unbalanced classes
-SVM-SVC (Support Vector Classification)
-SVM with custom kernel
-SVM: Weighted samples
-SVM-Anova: SVM with univariate feature selection
-Plot different SVM classifiers in the iris dataset
-One-class SVM with non-linear kernel (RBF)
-SVM Margins Example
-SVM-Kernels
-Scaling the regularization parameter for SVCs
-RBF SVM parameters
 
 scikit-learn provides algorithms for machine learning tasks including classification, regression, dimensionality reduction, and clustering. 
 It also provides modules for extracting features, processing data, and evaluating models.
@@ -1469,12 +1500,7 @@ https://github.com/search?utf8=%E2%9C%93&q=django+scikit-learn+recommender&type=
 https://github.com/search?utf8=%E2%9C%93&q=django+scikit-learn+machine+learning&type=Code&ref=searchresults
 https://github.com/search?utf8=%E2%9C%93&q=django+scikit-learn+scrapy&type=Code&ref=searchresults
 
-https://www.facebook.com/dondodge/posts/10152681969433860?pnref=story
 https://github.com/jcalazan/random-quotes Kivy-Cross Platform
-https://github.com/DeDiS/Dissent
-https://github.com/isohuntto/openbay
-https://github.com/scripting/noderunner
-
 https://github.com/abhishekpant93/news-article-summarizer
 https://github.com/mysteryjeans/doorsale
 https://github.com/jcalazan/glucose-tracker
@@ -1842,6 +1868,7 @@ fit_transform()
 predict() methods
 partial_fit() 
 
+http://en.wikipedia.org/wiki/Byte
 http://en.wikipedia.org/wiki/Heuristic
 http://en.wikipedia.org/wiki/Pixel
 http://en.wikipedia.org/wiki/Parsing
@@ -1881,7 +1908,6 @@ http://en.wikipedia.org/wiki/Kernel_density_estimation
 http://en.wikipedia.org/wiki/Kernel_method
 http://en.wikipedia.org/wiki/Kernel_methods_for_vector_output
 http://en.wikipedia.org/wiki/Kernel_regression
-http://en.wikipedia.org/wiki/Kernelization
 http://en.wikipedia.org/wiki/Variable_kernel_density_estimation#Use_for_statistical_classification
 -->
                                 <br><p>Perceptron (Simple Feedforward Neural Network)- More (See also Linear Classifiers)</p>
@@ -2082,8 +2108,6 @@ http://en.wikipedia.org/wiki/Non-zero
 Random Jumps
 The Google Matrix
 Matrix-vector multiplication
-http://en.wikipedia.org/wiki/Byte
-http://en.wikipedia.org/wiki/Sparse_matrix
 http://en.wikipedia.org/wiki/Renormalization
 
 MMDS Chapter 3
@@ -2240,10 +2264,7 @@ Editorial and hand curated
 Simple aggregates	
 Tailored to individual users
 Amazon, Pandora, StumbledUpon, Delicious, Netflix, Movielens, LastFM, GoogleNews, Youtube, XBoxLive
-http://en.wikipedia.org/wiki/Explicit
-http://en.wikipedia.org/wiki/Implicit
 http://en.wikipedia.org/wiki/Rating
-http://en.wikipedia.org/wiki/Cold_start
 http://www.wired.com/wired/archive/12.10/tail.html
 
 Formal Model
@@ -2351,7 +2372,6 @@ cluster	with low	“cohesion”
 K-Means: Euclidean space/distance, k = # of clusters *****
 BFR [Bradley-Fayyad-Reina] Algo- variant of k-Means
 Standard/Normal Deviations
-http://en.wikipedia.org/wiki/Ellipses
 Discard	set, Compression set, Retained set 
 http://en.wikipedia.org/wiki/CURE_data_clustering_algorithm Data Clustering
 CURE Algo: (Clustering Using REpresentatives):
@@ -2369,12 +2389,6 @@ BALANCE Algo by Mehta, Saberi, Vazirani,and	Vazirani
 http://en.wikipedia.org/wiki/Deterministic_algorithm
 Generalized BALANCE
 Results due to Euler
-
-http://en.wikipedia.org/wiki/Impression_(online_media)
-http://en.wikipedia.org/wiki/Cost_per_impression
-http://en.wikipedia.org/wiki/Click-through_rate
-http://en.wikipedia.org/wiki/Targeted_advertising
-http://en.wikipedia.org/wiki/Demographics
 
 Large Scale Machine Learing: Support Vector Machines
 SPAM Filtering
@@ -2657,11 +2671,9 @@ http://en.wikipedia.org/wiki/Graph
 http://en.wikipedia.org/wiki/Graph_(mathematics)#Undirected_graph
 http://en.wikipedia.org/wiki/Graph_database
 http://en.wikipedia.org/wiki/Graph_Modelling_Language
-http://en.wikipedia.org/wiki/Graph_partition
 http://en.wikipedia.org/wiki/Graph_reduction
 http://en.wikipedia.org/wiki/Graph_reduction_machine
 http://en.wikipedia.org/wiki/Interest_graph
-http://en.wikipedia.org/wiki/Matching_(graph_theory)
 http://en.wikipedia.org/wiki/Neighbourhood_(graph_theory)
 http://en.wikipedia.org/wiki/Reachability
 http://en.wikipedia.org/wiki/Reachability_problem
@@ -2767,6 +2779,9 @@ http://en.wikipedia.org/wiki/Metric_%28mathematics%29#Examples
                                 <a href="http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient" target="_blank">Pearson Product Moment Correlation Coefficient (Excel) Wikipedia</a><br>
 
                                 <br><p>Recommendations and Filtering</p>
+                                <a href="http://en.wikipedia.org/wiki/Explicit" target="_blank">Explicit Wikipedia</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Implicit" target="_blank">Implicit Wikipedia</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Cold_start" target="_blank">Cold Start Problem Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Recommendation" target="_blank">Recommendation Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Recommender_system" target="_blank">Recommender System Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Information_filtering_system" target="_blank">Information Filtering System Wikipedia</a><br>
@@ -3063,6 +3078,12 @@ http://en.wikipedia.org/wiki/XHTML
                                 <a href="http://www.wolframalpha.com/input/?i=torus" target="_blank">Wolfram Alpha</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Wolfram_Alpha" target="_blank">Wolfram Alpha Wikipedia</a><br>
 
+                                <br><p>Data Science Contests</p>
+                                <a href="http://blue-button.github.com/challenge" target="_blank">Blue Button Challenge</a><br>
+                                <a href="http://bluebuttontoolkit.healthit.gov/challenge" target="_blank">Blue Button Challenge</a><br>
+                                <a href="http://www.heritagehealthprize.com" target="_blank">Heritage Health Prize</a><br>
+                                <a href="http://www.netflixprize.com" target="_blank">Netflix Prize</a><br>
+                                
 http://machinelearningmastery.com
 
 https://www.coursera.org/learn/calculus1
@@ -3072,10 +3093,6 @@ Math 407
 http://www.math.washington.edu/~burke/crs/407/lectures
 
 http://www.oncotypedx.com/en-US/Home
-http://www.netflixprize.com
-http://www.heritagehealthprize.com
-http://blue-button.github.com/challenge
-http://bluebuttontoolkit.healthit.gov/challenge
 
 https://datasense.withgoogle.com/course
 http://schoolofdata.org
