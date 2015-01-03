@@ -398,9 +398,6 @@ http://en.wikipedia.org/wiki/Wald_test
                                 <br><p>Python- Statistics Stack- Documents and Galleries</p>
                                 <a href="http://www.scipy.org/docs.html" target="_blank">SciPy Stack</a><br>
 
-
-                                <a href="https://nose.readthedocs.org/en/latest" target="_blank">Nose Docs</a><br>
-
 <!--
 $ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 python-statsmodel python-sklearn 
@@ -512,6 +509,9 @@ apt-get install python-matplotlib
 
                                 <br><p>Python- Statistics Stack- GGPlot Reference</p>
                                 <a href="http://ggplot.yhathq.com/docs/index.html" target="_blank">GGPlot Docs</a><br>
+
+                                <br><p>Python- Statistics Stack- Nose Reference</p>
+                                <a href="https://nose.readthedocs.org/en/latest" target="_blank">Nose Docs</a><br>
                                 
                                 <br><p>Python- Statistics Stack- Scikit-Learn Reference</p>
                                 <a href="http://scikit-learn.org/stable" target="_blank">Scikit-Learn</a><br>
@@ -525,6 +525,149 @@ apt-get install python-matplotlib
                                 <a href="http://scikit-learn.org/stable/supervised_learning.html" target="_blank">Scikit-Learn Supervised Learning</a><br>
                                 <a href="http://scikit-learn.org/stable/modules/clustering.html" target="_blank">Scikit-Learn Clustering</a><br>
 <!--
+http://docs.scipy.org/doc/numpy/reference
+http://matplotlib.org/api/pyplot_summary.html
+
+1 Array objects 3
+1.1 The N-dimensional array (ndarray) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.2 Scalars . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+1.3 Data type objects (dtype) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+1.4 Indexing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98
+1.5 Iterating Over Arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+1.6 Standard array subclasses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+1.7 Masked arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+1.8 The Array Interface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 399
+1.9 Datetimes and Timedeltas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 404
+2 Universal functions (ufunc) 413
+2.1 Broadcasting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 413
+2.2 Output type determination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 414
+2.3 Use of internal buffers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 414
+2.4 Error handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 414
+2.5 Casting Rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 417
+2.6 Overriding Ufunc behavior . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+2.7 ufunc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+2.8 Available ufuncs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 429
+3 Routines 433
+3.1 Array creation routines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+3.2 Array manipulation routines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 469
+3.3 Binary operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 509
+3.4 String operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 517
+3.5 C-Types Foreign Function Interface (numpy.ctypeslib) . . . . . . . . . . . . . . . . . . . . . . 555
+3.6 Datetime Support Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 556
+3.7 Data type routines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 561
+3.8 Optionally Scipy-accelerated routines (numpy.dual) . . . . . . . . . . . . . . . . . . . . . . . . . 577
+3.9 Mathematical functions with automatic domain (numpy.emath) . . . . . . . . . . . . . . . . . . . 578
+3.10 Floating point error handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 578
+3.11 Discrete Fourier Transform (numpy.fft) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 585
+3.12 Financial functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 608
+3.13 Functional programming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 617
+3.14 Numpy-specific help functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 623
+3.15 Indexing routines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 625
+3.16 Input and output . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 657
+3.17 Linear algebra (numpy.linalg) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 681
+3.18 Logic functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 715
+3.19 Masked array operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 733
+i .20 Mathematical functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 857
+3.21 Matrix library (numpy.matlib) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 922
+3.22 Miscellaneous routines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 928
+3.23 Padding Arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 929
+3.24 Polynomials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
+3.25 Random sampling (numpy.random) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1108
+3.26 Set routines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1211
+3.27 Sorting, searching, and counting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1216
+3.28 Statistics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1232
+3.29 Test Support (numpy.testing) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1260
+3.30 Window functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1273
+4 Packaging (numpy.distutils) 1281
+4.1 Modules in numpy.distutils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1281
+4.2 Building Installable C libraries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1292
+4.3 Conversion of .src files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1293
+5 Numpy C-API 1295
+5.1 Python Types and C-Structures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1295
+5.2 System configuration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1309
+5.3 Data Type API . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1311
+5.4 Array API . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1316
+5.5 Array Iterator API . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1355
+5.6 UFunc API . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1372
+5.7 Generalized Universal Function API . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1378
+5.8 Numpy core libraries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1380
+5.9 C API Deprecations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1386
+6 Numpy internals 1387
+6.1 Numpy C Code Explanations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1387
+6.2 Internal organization of numpy arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1394
+6.3 Multidimensional Array Indexing Order Issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1395
+7 Numpy and SWIG 1397
+7.1 Numpy.i: a SWIG Interface File for NumPy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1397
+7.2 Testing the numpy.i Typemaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1412
+8 Acknowledgements 1415
+Bibliography 1417
+Python Module Index 1425
+Index 1427
+
+1 SciPy Tutorial 3
+1.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.2 Basic functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.3 Special functions (scipy.special) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1.4 Integration (scipy.integrate) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+1.5 Optimization (scipy.optimize) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+1.6 Interpolation (scipy.interpolate) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+1.7 Fourier Transforms (scipy.fftpack) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+1.8 Signal Processing (scipy.signal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+1.9 Linear Algebra (scipy.linalg) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+1.10 Sparse Eigenvalue Problems with ARPACK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+1.11 Compressed Sparse Graph Routines (scipy.sparse.csgraph) . . . . . . . . . . . . . . . . . . 85
+1.12 Spatial data structures and algorithms (scipy.spatial) . . . . . . . . . . . . . . . . . . . . . . 88
+1.13 Statistics (scipy.stats) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+1.14 Multidimensional image processing (scipy.ndimage) . . . . . . . . . . . . . . . . . . . . . . . 113
+1.15 File IO (scipy.io) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+1.16 Weave (scipy.weave) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+2 Contributing to SciPy 175
+2.1 Contributing new code . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+2.2 Contributing by helping maintain existing code . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+2.3 Other ways to contribute . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+2.4 Recommended development setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+2.5 SciPy structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+2.6 Useful links, FAQ, checklist . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+3 API - importing from Scipy 181
+3.1 Guidelines for importing functions from Scipy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+3.2 API definition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
+5 Reference 237
+5.1 Clustering package (scipy.cluster) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237
+5.2 K-means clustering and vector quantization (scipy.cluster.vq) . . . . . . . . . . . . . . . . . 237
+5.3 Hierarchical clustering (scipy.cluster.hierarchy) . . . . . . . . . . . . . . . . . . . . . . 241
+5.4 Constants (scipy.constants) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+5.5 Discrete Fourier transforms (scipy.fftpack) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 270
+5.6 Integration and ODEs (scipy.integrate) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 285
+5.7 Interpolation (scipy.interpolate) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 304
+5.8 Input and output (scipy.io) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 364
+5.9 Linear algebra (scipy.linalg) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 375
+5.10 Low-level BLAS functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 418
+5.11 Finding functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+5.12 BLAS Level 1 functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+5.13 BLAS Level 2 functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 434
+5.14 BLAS Level 3 functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 442
+5.15 Low-level LAPACK functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 449
+5.16 Finding functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 450
+5.17 All functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 450
+5.18 Interpolative matrix decomposition (scipy.linalg.interpolative) . . . . . . . . . . . . . 509
+5.19 Miscellaneous routines (scipy.misc) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 518
+5.20 Multi-dimensional image processing (scipy.ndimage) . . . . . . . . . . . . . . . . . . . . . . . 527
+5.21 Orthogonal distance regression (scipy.odr) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 582
+5.22 Optimization and root finding (scipy.optimize) . . . . . . . . . . . . . . . . . . . . . . . . . . 591
+5.23 Nonlinear solvers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 654
+5.24 Signal processing (scipy.signal) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 656
+5.25 Sparse matrices (scipy.sparse) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 764
+5.26 Sparse linear algebra (scipy.sparse.linalg) . . . . . . . . . . . . . . . . . . . . . . . . . . 861
+5.27 Compressed Sparse Graph Routines (scipy.sparse.csgraph) . . . . . . . . . . . . . . . . . . 889
+5.28 Spatial algorithms and data structures (scipy.spatial) . . . . . . . . . . . . . . . . . . . . . . 900
+5.29 Distance computations (scipy.spatial.distance) . . . . . . . . . . . . . . . . . . . . . . . 933
+5.30 Special functions (scipy.special) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 947
+5.31 Statistical functions (scipy.stats) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 990
+5.32 Statistical functions for masked arrays (scipy.stats.mstats) . . . . . . . . . . . . . . . . . . 1318
+5.33 C/C++ integration (scipy.weave) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1344
+Bibliography 1349
+Index 1361
+
 MatPlotLib Gallery:
 Lines, bars, and markers
 Shapes and collections
