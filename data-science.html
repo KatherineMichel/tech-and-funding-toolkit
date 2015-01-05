@@ -573,6 +573,8 @@ http://wiki.scipy.org/Cookbook/Matplotlib/Django
                                 <a href="https://github.com/IssamLaradji/scikit-learn" target="_blank">Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)</a><br>
                                 <a href="https://github.com/IssamLaradji/NeuralNetworks" target="_blank">Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)</a><br>                               
 <!--
+https://github.com/IssamLaradji/scikit-learn.git.
+
 https://github.com/pydata/vbench
 
 1 Array objects 3
@@ -1714,6 +1716,21 @@ http://eferm.com/wp-content/uploads/2011/05/cheat3.png
 
                                 <br><p>Artificial Neural Networks- More</p>
 <!--
+http://en.wikipedia.org/wiki/Directed_graph
+http://en.wikipedia.org/wiki/Feedback_vertex_set
+http://en.wikipedia.org/wiki/Hyperbolic_function
+http://en.wikipedia.org/wiki/Logistic_function
+http://en.wikipedia.org/wiki/Backpropagation backward propagation
+http://en.wikipedia.org/wiki/Mathematical_optimization#Computational_optimization_techniques
+http://en.wikipedia.org/wiki/Gradient_descent_in_machine_learning
+http://en.wikipedia.org/wiki/Cost_function
+http://en.wikipedia.org/wiki/Algorithmic_efficiency computational cost
+http://en.wikipedia.org/wiki/Propagated_error
+http://en.wikipedia.org/wiki/Partial_derivative
+http://en.wikipedia.org/wiki/Forward_pass
+http://en.wikipedia.org/wiki/Convex_function
+http://en.wikipedia.org/wiki/Multiclass_classification
+
 http://en.wikipedia.org/wiki/Deep_belief_network
 http://en.wikipedia.org/wiki/Recurrent_neural_network
 http://en.wikipedia.org/wiki/Convolutional_neural_network
@@ -1722,6 +1739,10 @@ http://en.wikipedia.org/wiki/Hierarchical_temporal_memory
 http://en.wikipedia.org/wiki/Basis_function
 http://en.wikipedia.org/wiki/Delta_rule
 -->
+                                <br><p>Perceptron (Simple Feedforward Neural Network)- More (See also Linear Classifiers)</p>
+                                <a href="http://en.wikipedia.org/wiki/Multilayer_perceptron" target="_blank">Multilayer Perceptron Wikipedia</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Perceptron#Multiclass_perceptron" target="_blank">Multiclass Perceptron Wikipedia</a><br>
+
                                 <br><p>Linear/Regression (Supervised Learning)</p>
                                 <a href="http://en.wikipedia.org/wiki/Regression" target="_blank">Regression (Excel) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Regression_analysis" target="_blank">Regression Analysis Series (Excel) Wikipedia</a><br>
@@ -1790,10 +1811,10 @@ Machine Learning
 http://en.wikipedia.org/wiki/Gradient_boosting (Regression, also Classification)
 http://en.wikipedia.org/wiki/Gradient_descent
 Formally, gradient descent is an optimization algorithm that can be used to estimate the local minimum of a function. Recall that we are using the residual sum of squares cost function, 
+(Batch) Gradient Descent (Deterministic) and Stochastic Gradient Descent (SGD) (Stochastic is often preferred)
 http://en.wikipedia.org/wiki/Partial_derivative
 http://en.wikipedia.org/wiki/Residual_sum_of_squares
 http://en.wikipedia.org/wiki/Least_mean_squares_filter#Optimal_learning_rate
-(Batch) Gradient Descent (Deterministic) and Stochastic Gradient Descent (SGD) (Stochastic is often preferred)
 http://en.wikipedia.org/wiki/Linear_model
 http://en.wikipedia.org/wiki/Generalized_linear_model
 
@@ -1802,24 +1823,15 @@ explanatory variables: numeric, categorical variables, text, and images
 http://en.wikipedia.org/wiki/Feature_vector
 http://en.wikipedia.org/wiki/Sparse_matrix Sparse Vector
 
-http://en.wikipedia.org/wiki/Bag-of-words_model
-http://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision
-http://en.wikipedia.org/wiki/Tokenization_(lexical_analysis)
-http://en.wikipedia.org/wiki/Stop_words
-http://en.wikipedia.org/wiki/Stemming
-http://en.wikipedia.org/wiki/Lemmatisation
-http://en.wikipedia.org/wiki/Lemma_(morphology)
+http://en.wikipedia.org/wiki/One-hot 
 
 Many machine learning problems have categorical, or nominal, rather than continuous features. For example, an application that predicts a job's salary based on its description might use categorical features such as the job's location. 
 Categorical variables are commonly encoded using one-of-K or one-hot encoding, in which the explanatory variable is encoded using one binary feature for each of the variable's possible values.
-http://en.wikipedia.org/wiki/One-hot 
 One Hot Encoding
 One-of-K
 Euclidean Distance, Euclidean Norm
-Curse of Dimensionality, or the Hughes effect
 A basic strategy to reduce the dimensions of the feature space is to convert all of the text to lowercase. 
 Natural Language Tool Kit (NTLK) 
-Porter Stemmer 
 Extending bag-of-words with TF-IDF weights
 Bag-of-words feature vectors do not encode grammar, word order, or the frequencies of words. 
 L2 normalization
@@ -1828,20 +1840,29 @@ The smoothed, normalized term frequencies
 normalizing raw term counts
 logarithmically scaled term frequencies
 augmented term frequencies
-inverse document frequency (IDF) 
-http://en.wikipedia.org/wiki/Tf%E2%80%93idf
 Space-efficient feature vectorizing with the hashing trick
-http://en.wikipedia.org/wiki/Hash_function
-http://en.wikipedia.org/wiki/Feature_hashing
 The hashing trick is stateless. It can be used to create feature vectors in both parallel and online, or streaming, applications because it does not require an initial pass over the corpus.. N
-http://en.wikipedia.org/wiki/Collision_(computer_science)
-Computer vision: Extracting features from images
-Extracting features from pixel intensities
-Optical character recognition (OCR) 
+Extracting features from images/pixel intensities
 Modern computer vision applications frequently use either hand-engineered feature extraction methods that are applicable to many different problems, or automatically learn features without supervision problem using techniques such as deep learning. 
 Extracting points of interest as features
-Scale-Invariant Feature Transform (SIFT) 
-Speeded-Up Robust Features (SURF)
+
+http://en.wikipedia.org/wiki/Bag-of-words_model
+http://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision
+http://en.wikipedia.org/wiki/Tokenization_(lexical_analysis)
+http://en.wikipedia.org/wiki/Stop_words
+http://en.wikipedia.org/wiki/Stemming Porter Stemmer 
+http://en.wikipedia.org/wiki/Lemmatisation
+http://en.wikipedia.org/wiki/Lemma_(morphology)
+
+http://en.wikipedia.org/wiki/Tf%E2%80%93idf Term Frequency–Inverse Document Frequency
+http://en.wikipedia.org/wiki/Tf%E2%80%93idf#Mathematical_details
+http://en.wikipedia.org/wiki/Hash_function
+http://en.wikipedia.org/wiki/Feature_hashing Hashing Trick
+http://en.wikipedia.org/wiki/Collision_(computer_science)
+http://en.wikipedia.org/wiki/Computer_vision
+http://en.wikipedia.org/wiki/Optical_character_recognition Optical character recognition (OCR) 
+http://en.wikipedia.org/wiki/Scale-invariant_feature_transform Scale-Invariant Feature Transform (SIFT) 
+http://en.wikipedia.org/wiki/SURF Speeded-Up Robust Features (SURF)
 
 Data Normalization and Standardization 
 https://www.google.com/search?q=standardized+data+sets&oq=standardized+data+sets&aqs=chrome..69i57j0l2.7935j0j8&sourceid=chrome&es_sm=0&ie=UTF-8
@@ -1849,8 +1870,8 @@ http://en.wikipedia.org/wiki/Normal_distribution Standardized data has zero mean
 
 Logistic Regression
 logistic regression is used for classification tasks
-http://en.wikipedia.org/wiki/Binary_classification
 Binary classification with logistic regression
+http://en.wikipedia.org/wiki/Binary_classification
 http://en.wikipedia.org/wiki/Bernoulli_trial
 http://en.wikipedia.org/wiki/Bernoulli_process
 http://en.wikipedia.org/wiki/Bernoulli_distribution
@@ -1861,29 +1882,109 @@ http://en.wikipedia.org/wiki/Logistic_function
 http://en.wikipedia.org/wiki/Logit
 http://en.wikipedia.org/wiki/Canonical
 
-Binary classification performance metrics
-The most common metrics are accuracy, precision, recall, F1 measure, and ROC AUC score. 
-All of these measures depend on the concepts of true positives, true negatives, false positives, and false negatives. P
 http://en.wikipedia.org/wiki/Confusion_matrix
 http://en.wikipedia.org/wiki/Contingency_table
 http://en.wikipedia.org/wiki/Sensitivity_and_specificity
-The F1 measure is the harmonic mean, or weighted average, of the precision and recall scores. Also called the f-measure or the f-score, the F1 score 
-A Receiver Operating Characteristic, or ROC curve
 http://en.wikipedia.org/wiki/Fall-out
-AUC is the area under the ROC curve
 http://en.wikipedia.org/wiki/Hyperparameter_optimization
 http://en.wikipedia.org/wiki/Cartesian_product
 http://en.wikipedia.org/wiki/Embarrassingly_parallel
 http://en.wikipedia.org/wiki/Estimator
-The goal of multi-class classification is to assign an instance to one of the set of classes. scikit-learn uses a strategy called one-vs.-all, or one-vs.-the-rest, to support multi-class classification.
 http://en.wikipedia.org/wiki/Sentiment_analysis
-http://www.kaggle.com/c/sentimentanalysis-on-movie-reviews/data
 http://en.wikipedia.org/wiki/Degeneracy
-Multi-class classification performance metrics
 http://en.wikipedia.org/wiki/Multiclass_classification
+http://en.wikipedia.org/wiki/Multi-label_classification
+http://en.wikipedia.org/wiki/Gini_coefficient Gini impurity
+http://en.wikipedia.org/wiki/Recursive_set
+http://en.wikipedia.org/wiki/Edge
+http://en.wikipedia.org/wiki/Tree_(data_structure)#Terminology Leaf Node, Root Node, Left, Right, Child Node
+http://en.wikipedia.org/wiki/Binary_data
+http://en.wikipedia.org/wiki/Integer integer Valued
+http://en.wikipedia.org/wiki/Entropy_(disambiguation)
+http://en.wikipedia.org/wiki/Information_gain_in_decision_trees
+http://en.wikipedia.org/wiki/Information_gain Information Gain
+http://en.wikipedia.org/wiki/Encode
+http://en.wikipedia.org/wiki/Semantics_encoding
+http://en.wikipedia.org/wiki/Dimension_%28vector_space%29
+http://www.kaggle.com/c/sentimentanalysis-on-movie-reviews/data
+http://archive.ics.uci.edu/ml/datasets/Internet+Advertisements Internet Advertisements Data Set 
+
+http://en.wikipedia.org/wiki/Centroid
+http://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set#The_Elbow_Method
+http://en.wikipedia.org/wiki/Local_optimum
+http://en.wikipedia.org/wiki/Ground_truth
+http://en.wikipedia.org/wiki/Quantization_(image_processing)
+http://en.wikipedia.org/wiki/Lossy_compression
+http://en.wikipedia.org/wiki/Facial_recognition_system
+http://en.wikipedia.org/wiki/Karhunen%E2%80%93Lo%C3%A8ve_theorem
+http://en.wikipedia.org/wiki/Dimension
+http://en.wikipedia.org/wiki/Ellipse
+http://en.wikipedia.org/wiki/Covariance
+http://en.wikipedia.org/wiki/Covariance_matrix
+http://en.wikipedia.org/wiki/Null_vector
+http://en.wikipedia.org/wiki/Square_matrix
+http://en.wikipedia.org/wiki/Data_matrix_(multivariate_statistics)
+http://en.wikipedia.org/wiki/Identity_matrix
+http://en.wikipedia.org/wiki/Normalization_(statistics)
+http://en.wikipedia.org/wiki/Array_data_structure#Two-dimensional_arrays
+http://en.wikipedia.org/wiki/Singular_value_decomposition
+http://en.wikipedia.org/wiki/Transformation_matrix
+http://en.wikipedia.org/wiki/Dot_product
+http://en.wikipedia.org/wiki/Eigenfaces
+http://en.wikipedia.org/wiki/Linear_model
+http://en.wikipedia.org/wiki/Activation_function
+http://en.wikipedia.org/wiki/Heaviside_step_function
+http://en.wikipedia.org/wiki/Frank_Rosenblatt Rosenblatt's original perceptron
+http://en.wikipedia.org/wiki/Logistic_function logistic sigmoid activation function
+http://en.wikipedia.org/wiki/Error-driven_learning
+http://en.wikipedia.org/wiki/Update_rules
+http://en.wikipedia.org/wiki/Convergence_(evolutionary_computing)
+http://en.wikipedia.org/wiki/Linear_separability
+http://en.wikipedia.org/wiki/Value_(mathematics)
+http://en.wikipedia.org/wiki/Decision_boundary
+http://en.wikipedia.org/wiki/Hyperparameter_optimization
+http://en.wikipedia.org/wiki/Utm_theorem universal function approximators
+http://en.wikipedia.org/wiki/Exclusive_or XOR, or exclusive disjunction
+http://en.wikipedia.org/wiki/Convex_hull
+http://en.wikipedia.org/wiki/Envelope_(mathematics)
+http://en.wikipedia.org/wiki/Document_classification
+http://en.wikipedia.org/wiki/Dual_(grammatical_number) Dual form
+http://en.wikipedia.org/wiki/Parameter Model Parameter
+http://en.wikipedia.org/wiki/Instance-based_learning Training Instance
+http://en.wikipedia.org/wiki/Radial_basis_function
+http://en.wikipedia.org/wiki/Hyperplane
+http://en.wikipedia.org/wiki/N-sphere Hyperphere
+http://en.wikipedia.org/wiki/Optimization_problem
+http://en.wikipedia.org/wiki/Maxima_and_minima (Extrema)
+http://en.wikipedia.org/wiki/Sequential_minimal_optimization
+http://en.wikipedia.org/wiki/Optical_character_recognition
+Classifying handwritten digits
+http://en.wikipedia.org/wiki/Hyperparameter_optimization
+http://en.wikipedia.org/wiki/Instantiate
+http://en.wikipedia.org/wiki/Lambda
+
+http://en.wikipedia.org/wiki/Byte
+http://en.wikipedia.org/wiki/Heuristic
+http://en.wikipedia.org/wiki/Pixel
+http://en.wikipedia.org/wiki/Parsing
+http://en.wikipedia.org/wiki/Feedback
+http://en.wikipedia.org/wiki/Alphanumeric
+http://en.wikipedia.org/wiki/Portmanteau
+http://en.wikipedia.org/wiki/Wine_tasting_descriptors
+http://en.wikipedia.org/wiki/Continuous_function
+http://jmozah.github.io/links
+https://github.com/gwtaylor/theano-rnn
+
+Binary classification performance metrics
+The most common metrics are accuracy, precision, recall, F1 measure, and ROC AUC score. 
+All of these measures depend on the concepts of true positives, true negatives, false positives, and false negatives. P
+The F1 measure is the harmonic mean, or weighted average, of the precision and recall scores. Also called the f-measure or the f-score, the F1 score 
+A Receiver Operating Characteristic, or ROC curve
+AUC is the area under the ROC curve
+The goal of multi-class classification is to assign an instance to one of the set of classes. scikit-learn uses a strategy called one-vs.-all, or one-vs.-the-rest, to support multi-class classification.
+Multi-class classification performance metrics
 confusion matrices
 Multi-label classification and problem transformation
-http://en.wikipedia.org/wiki/Multi-label_classification
 single-label classification
 Problem transformation methods
 Multi-label classification performance metrics
@@ -1897,26 +1998,13 @@ we used logistic regression to classify spam and ham SMS messages
 Nonlinear Classification and Regression with Decision Trees
 Finally, we will ensemble learning methods, which combine a set of models to produce an estimator with better predictive performance than any of its component estimators
 Twenty Questions
-http://en.wikipedia.org/wiki/Recursive_set
 recursively splitting the set 
-http://en.wikipedia.org/wiki/Edge
-http://en.wikipedia.org/wiki/Tree_(data_structure)#Terminology Leaf Node, Root Node, Left, Right, Child Node
 Training decision trees
 Iterative Dichotomiser 3 (ID3) Invented by Ross Quinlan
-http://en.wikipedia.org/wiki/Binary_data
-http://en.wikipedia.org/wiki/Integer integer Valued
-http://en.wikipedia.org/wiki/Entropy_(disambiguation)
 Decision trees are often visualized as diagrams that are similar to flowcharts. 
-http://en.wikipedia.org/wiki/Information_gain_in_decision_trees
-http://en.wikipedia.org/wiki/Information_gain Information Gain
 C4.5 is a modified version of ID3 
 C4.5 also can prune trees
 CART is another learning algorithm that supports pruning
-Gini impurity
-http://en.wikipedia.org/wiki/Gini_coefficient
-http://archive.ics.uci.edu/ml/datasets/Internet+Advertisements Internet Advertisements Data Set 
-http://en.wikipedia.org/wiki/Encode
-http://en.wikipedia.org/wiki/Semantics_encoding
 Tree ensembles
 Ensemble learning methods
 Random forests are less prone to overfitting 
@@ -1930,7 +2018,6 @@ In practice, locally optimal decisions that are guided by the information gain o
 Clustering with K-Means
 unsupervised learning task called clustering
 n-dimensional vector
-http://en.wikipedia.org/wiki/Dimension_%28vector_space%29
 
 Clustering is commonly used to explore a dataset. Social networks can be clustered
 to identify communities and to suggest missing connections between people. In
@@ -1941,61 +2028,19 @@ of similar consumers. In the following sections, we will work through an example
 using the K-Means algorithm to cluster a dataset.
 
 Clustering with the K-Means algorithm (Unsupervised Learning)
-http://en.wikipedia.org/wiki/Centroid
-http://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set#The_Elbow_Method
-http://en.wikipedia.org/wiki/Local_optimum
-http://en.wikipedia.org/wiki/Ground_truth
-http://en.wikipedia.org/wiki/Quantization_(image_processing)
-http://en.wikipedia.org/wiki/Lossy_compression
 Clustering to learn features
 you learned to use distortion and the silhouette coefficient to evaluate clusters
 Dimensionality Reduction with PCA Principal Component Analysis (PCA) Karhunen-Loeve Transform
-http://en.wikipedia.org/wiki/Facial_recognition_system
-http://en.wikipedia.org/wiki/Karhunen%E2%80%93Lo%C3%A8ve_theorem
-http://en.wikipedia.org/wiki/Dimension
-http://en.wikipedia.org/wiki/Ellipse
 Performing Principal Component Analysis
 Variance, Covariance, and Covariance Matrices
-http://en.wikipedia.org/wiki/Covariance
-http://en.wikipedia.org/wiki/Covariance_matrix
 Eigenvectors and eigenvalues
-http://en.wikipedia.org/wiki/Null_vector
-http://en.wikipedia.org/wiki/Square_matrix
-http://en.wikipedia.org/wiki/Data_matrix_(multivariate_statistics)
-http://en.wikipedia.org/wiki/Identity_matrix
-http://en.wikipedia.org/wiki/Normalization_(statistics)
-http://en.wikipedia.org/wiki/Array_data_structure#Two-dimensional_arrays
-http://en.wikipedia.org/wiki/Singular_value_decomposition
-http://en.wikipedia.org/wiki/Transformation_matrix
-http://en.wikipedia.org/wiki/Dot_product
 Using PCA to visualize high-dimensional data
 Face recognition with PCA
-http://en.wikipedia.org/wiki/Eigenfaces
-The Perceptron
-http://en.wikipedia.org/wiki/Linear_model
-http://en.wikipedia.org/wiki/Activation_function
-http://en.wikipedia.org/wiki/Heaviside_step_function
-Rosenblatt's original perceptron 
-http://en.wikipedia.org/wiki/Frank_Rosenblatt
-http://en.wikipedia.org/wiki/Logistic_function logistic sigmoid activation function
 The gradients for this activation function can be calculated efficiently, which will be important in later chapters when we construct artificial neural networks. T
 The perceptron learning algorithm
-http://en.wikipedia.org/wiki/Error-driven_learning
-http://en.wikipedia.org/wiki/Update_rules
 Each pass through the training instances is called an epoch. 
-http://en.wikipedia.org/wiki/Convergence_(evolutionary_computing)
-http://en.wikipedia.org/wiki/Linear_separability
-http://en.wikipedia.org/wiki/Value_(mathematics)
-http://en.wikipedia.org/wiki/Decision_boundary
 Document classification with the perceptron
-http://en.wikipedia.org/wiki/Hyperparameter_optimization
 Limitations of the perceptron
-http://en.wikipedia.org/wiki/Utm_theorem universal function approximators
-http://en.wikipedia.org/wiki/Exclusive_or XOR, or exclusive disjunction
-http://en.wikipedia.org/wiki/Convex_hull
-http://en.wikipedia.org/wiki/Envelope_(mathematics)
-http://en.wikipedia.org/wiki/Document_classification
-http://en.wikipedia.org/wiki/Kernelization
 Support vector machines also support techniques that can find the hyperplane that separates linearly
 inseparable classes with the fewest errors. The second technique creates a directed
 graph of perceptrons. The resulting model, called an artificial neural network,
@@ -2004,19 +2049,13 @@ From the Perceptron to Support Vector Machines
 nonlinear functions
 a powerful model for classification and regression called the support vector machine (SVM)
 Kernels and the kernel trick
-http://en.wikipedia.org/wiki/Dual_(grammatical_number) Dual form
 primal form
-http://en.wikipedia.org/wiki/Parameter Model Parameter
-http://en.wikipedia.org/wiki/Instance-based_learning Training Instance
 The dot product is scalar
 kernel trick
 scikit-learn provides several commonly used kernels, including the polynomial, sigmoid, Gaussian, and linear kernels. P
 Quadratic kernels, or polynomial kernels where k is equal to 2, are commonly used in natural language processing.
 The Gaussian kernel is a good first choice for problems requiring nonlinear models.
-The Gaussian kernel is a radial basis function. 
-http://en.wikipedia.org/wiki/Radial_basis_function
-http://en.wikipedia.org/wiki/Hyperplane
-http://en.wikipedia.org/wiki/N-sphere Hyperphere
+The Gaussian kernel is a radial basis function.
 While kernels are commonly used with support vector machines, they can also be used with any model that can
 be expressed in terms of the dot product of two feature vectors, including logistic
 regression, perceptrons, and principal component analysis.
@@ -2024,18 +2063,10 @@ Maximum margin classification and support vectors
 functional margin
 support vectors
 instance
-http://en.wikipedia.org/wiki/Optimization_problem
-http://en.wikipedia.org/wiki/Maxima_and_minima (Extrema)
-http://en.wikipedia.org/wiki/Sequential_minimal_optimization
 Classifying characters in scikit-learn
-http://en.wikipedia.org/wiki/Optical_character_recognition
-Classifying handwritten digits
-http://en.wikipedia.org/wiki/Hyperparameter_optimization
-http://en.wikipedia.org/wiki/Instantiate
 The kernel keyword argument specifies the kernel to be used. scikitlearn
 provides implementations of the linear, polynomial, sigmoid, and radial basis function kernels. 
-C controls regularization; it is similar to the lambda hyperparameter we used for logistic regression. 
-http://en.wikipedia.org/wiki/Lambda
+C controls regularization; it is similar to the lambda hyperparameter we used for logistic regression.
 The keyword argument gamma is the kernel coefficient for the sigmoid, polynomial, and RBF kernels. 
 Classifying characters in natural images
 In contrast to MNIST, the images in this portion of Chars74K depict the characters in a variety of fonts, colors, and perturbations
@@ -2047,55 +2078,25 @@ artificial neural networks, which are powerful nonlinear models for classificati
 neural net
 while some Boolean functions such as AND, OR, and NAND can be approximated by the perceptron, the linearly inseparable function XOR cannot
 Feedforward and feedback artificial neural networks
-http://en.wikipedia.org/wiki/Directed_graph
 Artificial neural networks are described by three components. The first is the model's
 architecture, or topology, which describes the layers of neurons and structure of the
 connections between them. The second component is the activation function used by
 the artificial neurons. The third component is the learning algorithm that finds the
 optimal values of the weights.
-http://en.wikipedia.org/wiki/Feedback_vertex_set
-http://en.wikipedia.org/wiki/Recurrent_neural_network
-Multilayer perceptrons
 input layer, hidden layer, output layer
 nonlinear activation functions
-http://en.wikipedia.org/wiki/Hyperbolic_function
-http://en.wikipedia.org/wiki/Logistic_function
 The mean squared error cost function is commonly used with multilayer perceptrons. 
 Minimizing the cost function
-http://en.wikipedia.org/wiki/Backpropagation
-http://en.wikipedia.org/wiki/Mathematical_optimization#Computational_optimization_techniques
-http://en.wikipedia.org/wiki/Gradient_descent_in_machine_learning
-http://en.wikipedia.org/wiki/Cost_function
-backward propagation
-http://en.wikipedia.org/wiki/Algorithmic_efficiency computational cost
 Forward propagation
 preactivation
-http://en.wikipedia.org/wiki/Propagated_error
-http://en.wikipedia.org/wiki/Partial_derivative
-http://en.wikipedia.org/wiki/Forward_pass
-http://en.wikipedia.org/wiki/Convex_function
 Approximating XOR with Multilayer perceptrons
 At the time of writing, multilayer perceptrons have been implemented as part of a 2014 Google Summer of Code project
-https://github.com/IssamLaradji/scikit-learn.git.
-http://en.wikipedia.org/wiki/Multiclass_classification
 Classifying handwritten digits using an artificial neural network
 Good summary- page 214-215
 
 fit_transform()  
 predict() methods
 partial_fit() 
-
-http://en.wikipedia.org/wiki/Byte
-http://en.wikipedia.org/wiki/Heuristic
-http://en.wikipedia.org/wiki/Pixel
-http://en.wikipedia.org/wiki/Parsing
-http://en.wikipedia.org/wiki/Feedback
-http://en.wikipedia.org/wiki/Alphanumeric
-http://en.wikipedia.org/wiki/Portmanteau
-http://en.wikipedia.org/wiki/Wine_tasting_descriptors
-http://en.wikipedia.org/wiki/Continuous_function
-http://jmozah.github.io/links
-https://github.com/gwtaylor/theano-rnn
 -->
                                 <br><p>Cost/Loss Function</p>
                                 <a href="http://en.wikipedia.org/wiki/Loss_function" target="_blank">Cost/Loss Function Wikipedia</a><br>
@@ -2121,15 +2122,13 @@ https://github.com/gwtaylor/theano-rnn
 <!--
 LS SVM- Kernel Method Instead of Quadratic Programming 
 http://en.wikipedia.org/wiki/Least_squares_support_vector_machine
+http://en.wikipedia.org/wiki/Kernelization
 http://en.wikipedia.org/wiki/Kernel_density_estimation
 http://en.wikipedia.org/wiki/Kernel_method
 http://en.wikipedia.org/wiki/Kernel_methods_for_vector_output
 http://en.wikipedia.org/wiki/Kernel_regression
 http://en.wikipedia.org/wiki/Variable_kernel_density_estimation#Use_for_statistical_classification
 -->
-                                <br><p>Perceptron (Simple Feedforward Neural Network)- More (See also Linear Classifiers)</p>
-                                <a href="http://en.wikipedia.org/wiki/Multilayer_perceptron" target="_blank">Multilayer Perceptron Wikipedia</a><br>
-                                <a href="http://en.wikipedia.org/wiki/Perceptron#Multiclass_perceptron" target="_blank">Multiclass Perceptron Wikipedia</a><br>
 
                                 <br><p>Ensemble Learning (Supervised Learning/See also Decision Tree/Random Forest), Bagging, Boosting</p>
                                 <a href="http://en.wikipedia.org/wiki/Ensemble_learning" target="_blank">Ensemble Learning Wikipedia</a><br>
@@ -2210,7 +2209,7 @@ SPRINT Decision Tree Algo
 
                                 <br><p>Dimensionality Reduction (Machine Learning)</p>
                                 <a href="http://en.wikipedia.org/wiki/Dimensionality_reduction" target="_blank">Dimensionality Reduction Wikipedia</a><br>
-                                <a href="http://en.wikipedia.org/wiki/Curse_of_dimensionality" target="_blank">The Curse of Dimensionality Wikipedia</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Curse_of_dimensionality" target="_blank">The Curse of Dimensionality (or the Hughes Effect) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Factor_analysis" target="_blank">Factor Analysis Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Canonical_correlation" target="_blank">Canonical Correlation Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Cocktail_party_effect" target="_blank">Cocktail Party Effect Wikipedia</a><br>
@@ -2929,8 +2928,6 @@ http://en.wikipedia.org/wiki/Part-of-speech_tagging
 http://en.wikipedia.org/wiki/Record_linkage
 http://en.wikipedia.org/wiki/Text_corpus
 http://en.wikipedia.org/wiki/Text_mining
-http://en.wikipedia.org/wiki/Tf%E2%80%93idf
-http://en.wikipedia.org/wiki/Tf%E2%80%93idf#Mathematical_details
 http://en.wikipedia.org/wiki/Trigram
 http://en.wikipedia.org/wiki/Word_frequency_effect
 http://en.wikipedia.org/wiki/Word_lists_by_frequency Clustering Based on Word Frequencies
