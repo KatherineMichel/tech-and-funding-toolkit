@@ -386,6 +386,16 @@ http://en.wikipedia.org/wiki/Lighttpd
 Serving the admin files: Page 518
 How to use Django with Gunicorn
 4.7.2 Deployment checklist
+Instead of hardcoding the secret key in your settings module, consider loading it from: Page 524
+It’s strongly recommended that you invoke the Python process running your Django application using the -R option or with the PYTHONHASHSEED environment variable set to random.
+SCGI, or AJP, FastCGI/flup
+Test Emails
+4.10 Providing initial data for models, manage.py dumpdata,  Or, you can write fixtures by hand; fixtures can be written as JSON, XML or YAML (with PyYAML installed) 
+manage.py loaddata, fixture file: Page 539
+4.13.1 Using the Python CSV library
+ttp://www.reportlab.com/software/opensource/rl-toolkit/download
+4.14.4 Further resources: Page 547
+4.15.1 Configuring static files
 
 https://devcenter.heroku.com/articles/getting-started-with-python-o
 https://devcenter.heroku.com/articles/getting-started-with-python#introduction
