@@ -881,18 +881,82 @@ ecosystem
 <!--
 httpd.apache.org
 
-2.9 Advanced tutorial: How to write reusable apps
+2.3 Writing your first Django app, part 1 Page 13-55
+2.9 Advanced tutorial: How to write reusable apps Page 56-61
 https://pypi.python.org/pypi/setuptools
 http://pythonhosted.org/setuptools/setuptools.html
 https://docs.python.org/2/tutorial/modules.html#packages
 Avoid using the same label as any of the Django contrib packages, for example auth, admin, or messages.
 The Hitchhiker’s Guide to Packaging Page 59
+2.11 Writing your first patch for Django Page 62-72
+3.1.2 Install Apache and mod_wsgi
+3.1.3 Get your database running
+3.2 Models and databases
+3.2.2 Making queries
+3.2.3 Aggregation
+3.2.4 Managers
+3.2.6 Database transactions
+3.2.9 Database access optimization
+3.3 Handling HTTP requests (URLs)
+Reverse resolution of URLs
+3.3.2 Writing views
+3.3.3 View decorators
+3.3.4 File Uploads
+3.3.5 Django shortcut functions
+3.3.6 Generic views
+3.3.8 How to use sessions
+Session serialization
+3.4 Working with forms
+GET and POST are the only HTTP methods to use when dealing with forms.
+3.4.4 Building a form
+3.4.6 Working with form templates
+3.5 The Django template language
+3.5.1 Templates
+3.5.2 Variables, 3.5.3 Filters, 3.5.4 Tags
+3.5.7 Automatic HTML escaping
+3.5.8 Accessing method calls
+3.5.9 Custom tag and filter libraries
+3.6 Class-based views, 3.6.2 Built-in Class-based generic views
+3.6.3 Form handling with class-based views
+3.6.6 Simple usage in your URLconf *****
+3.6.7 Subclassing generic views
+3.8 Managing files
+3.9 Testing in Django, Email services
+3.9.3 Advanced testing topics
+3.10 User authentication in Django
+3.10.1 Using the Django authentication system
+3.10.2 Password management in Django
+3.10.3 Customizing authentication in Django
+3.11 Django’s cache framework
+3.11.2 The per-site cache, 3.11.3 The per-view cache, 3.11.4 Template fragment caching, 3.11.5 The low-level cache API, 3.11.6 Downstream caches
+3.11.8 Controlling cache: Using other headers
+A user usually faces two kinds of caches: their own browser cache (a private cache) and their provider’s cache (a public cache). A
+3.12 Conditional View Processing, 3.12.1 The condition decorator
+3.12.3 Using the decorators with other HTTP methods
+3.13 Cryptographic signing
+3.14 Sending email
+3.15 Internationalization and localization
+3.16 The “local flavor” add-ons
+3.17 Logging A Logging Primer
+3.18 Pagination
+3.19 Porting to Python 3
+3.20 Security in Django
+3.21 Performance and optimization
+3.22 Serializing Django objects
+3.23 Django settings
+3.24 Signals
+3.25 System check framework, django.core.checks
+“How-to” guides: Page 477, Customization
+4.7 Deploying Django
+4.7.2 Deployment checklist
+4.7.3 How to use Django with FastCGI, SCGI, or AJP
+4.9 Error reporting
 
 Clickjacking protection, Cross Site Request Forgery protection, Cryptographic signing
-Internationalization | Localization | Localized Web UI formatting and form input, “Local flavor”, Time zones, GeoDjango
-Authentication, Caching, Logging, Sending emails, Syndication feeds (RSS/Atom), Pagination, Messages framework, Serialization, Sessions, Sitemaps, Static files management, Data validation
+Localized Web UI formatting and form input, “Local flavor”, Time zones, GeoDjango
+Syndication feeds (RSS/Atom), Messages framework, Serialization, Sessions, Sitemaps, Static files management, Data validation
 Conditional content processing, Content types and generic relations, Flatpages, Redirects, Signals, System check framework, The sites framework, Unicode in Django
-Tutorial
+kwargs, pk
 
 "How to use Django with mod_wsgi"
 https://www.python.org/dev/peps/pep-3333
@@ -941,8 +1005,18 @@ manage.py loaddata, fixture file: Page 539
 4.13.1 Using the Python CSV library
 ttp://www.reportlab.com/software/opensource/rl-toolkit/download
 4.14.4 Further resources: Page 547
+4.15 Managing static files (CSS, images)
 4.15.1 Configuring static files
-Left off: Page 549
+4.15.2 Serving static files during development.
+4.15.3 Serving files uploaded by a user during development.
+4.16 Deploying static files
+5.1.7 Django appears to be a MVC framework, but you call the Controller the “view”,
+and the View the “template”. How come you don’t use the standard names?
+5.3.4 How do I use image and file fields?
+5.3.5 How do I make a variable available to all my templates?
+5.5 FAQ: Databases and models
+5.6 FAQ: The admin
+Left off: Page 567
 
 http://media.readthedocs.org/pdf/django/1.7.x/django.pdf Page 14-15, Database Installation Information, Database Binding, ATABASES Setting
 https://devcenter.heroku.com/articles/heroku-postgresql
