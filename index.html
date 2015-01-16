@@ -880,6 +880,8 @@ ecosystem
                                 <a href="https://pypi.python.org/pypi/bcrypt/1.0.1" target="_blank">BCrypt PyPi</a><br>
 <!--
 httpd.apache.org
+Vanity URL Shortener
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=github%20django%20url%20shortner
 
 2.3 Writing your first Django app, part 1 Page 13-55
 2.9 Advanced tutorial: How to write reusable apps Page 56-61
@@ -951,6 +953,64 @@ A user usually faces two kinds of caches: their own browser cache (a private cac
 4.7.2 Deployment checklist
 4.7.3 How to use Django with FastCGI, SCGI, or AJP
 4.9 Error reporting
+4.10 Providing initial data for models
+4.13 Outputting CSV with Django, 4.14 Outputting PDFs with Django
+4.15 Managing static files (CSS, images)
+4.16 Deploying static files
+5.1.7 Django appears to be a MVC framework, but you call the Controller the “view”, and the View the “template”. How come you don’t use the standard names?
+5.3.4 How do I use image and file fields?
+5.3.5 How do I make a variable available to all my templates?
+5.5 FAQ: Databases and models
+5.6 FAQ: The admin
+API Reference
+6.1 Applications
+6.2 System check framework
+6.3 Built-in Class-based views API
+6.3.6 Class-based generic views - flattened index *****
+6.4 Clickjacking Protection
+6.5 contrib packages
+6.5.3 User
+6.5.4 Anonymous users
+6.5.5 Permission
+6.5.6 Group
+6.5.7 Login and logout signals
+6.5.8 Authentication backends
+6.5.10 The contenttypes framework
+6.5.11 Cross Site Request Forgery protection
+6.5.12 The flatpages app
+6.5.14 GeoDjango
+6.5.15 django.contrib.humanize
+6.5.16 The messages framework
+6.5.17 The redirects app
+6.5.18 The sitemap framework
+6.5.19 The “sites” framework
+6.5.20 The staticfiles app
+6.5.21 The syndication feed framework
+6.5.22 django.contrib.webdesign
+6.6 Databases
+6.6.6 Using a 3rd-party database backend
+In addition to the officially supported databases, there are backends provided by 3rd parties that allow you to use other
+databases with Django:
+• SAP SQL Anywhere, • IBM DB2, • Microsoft SQL Server, • Firebird, ODBC, • ADSDB
+6.7. django-admin.py and manage.py
+6.8 Running management commands from your code
+6.9 Django Exceptions
+6.10 File handling
+6.11 Forms
+6.12 Middleware
+6.14 Models
+6.15 Request and response objects
+6.17 Settings
+6.18 Signals
+6.19 Templates
+6.20 TemplateResponse and SimpleTemplateResponse
+6.21 Unicode data
+6.22 django.core.urlresolvers utility functions
+6.23 django.conf.urls utility functions
+6.24 Django Utils
+6.25 Validators
+6.26 Built-in Views
+7.2 Design philosophies
 
 Clickjacking protection, Cross Site Request Forgery protection, Cryptographic signing
 Localized Web UI formatting and form input, “Local flavor”, Time zones, GeoDjango
@@ -996,7 +1056,6 @@ We recommend using a separate Web server – i.e., one that’s not also running
 http://en.wikipedia.org/wiki/Lighttpd
 Serving the admin files: Page 518
 How to use Django with Gunicorn
-4.7.2 Deployment checklist
 Instead of hardcoding the secret key in your settings module, consider loading it from: Page 524
 It’s strongly recommended that you invoke the Python process running your Django application using the -R option or with the PYTHONHASHSEED environment variable set to random.
 Test Emails
@@ -1005,17 +1064,6 @@ manage.py loaddata, fixture file: Page 539
 4.13.1 Using the Python CSV library
 ttp://www.reportlab.com/software/opensource/rl-toolkit/download
 4.14.4 Further resources: Page 547
-4.15 Managing static files (CSS, images)
-4.15.1 Configuring static files
-4.15.2 Serving static files during development.
-4.15.3 Serving files uploaded by a user during development.
-4.16 Deploying static files
-5.1.7 Django appears to be a MVC framework, but you call the Controller the “view”,
-and the View the “template”. How come you don’t use the standard names?
-5.3.4 How do I use image and file fields?
-5.3.5 How do I make a variable available to all my templates?
-5.5 FAQ: Databases and models
-5.6 FAQ: The admin
 Left off: Page 567
 
 http://media.readthedocs.org/pdf/django/1.7.x/django.pdf Page 14-15, Database Installation Information, Database Binding, ATABASES Setting
