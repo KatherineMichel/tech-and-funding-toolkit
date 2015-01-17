@@ -366,7 +366,12 @@ http://www.viemu.com/vi-vim-cheat-sheet.gif
                                 <a href="http://www.postgresql.org" target="_blank">PostgreSQL</a><br>
                                 <a href="http://www.postgresql.org/docs" target="_blank">PostgreSQL Documentation</a><br>
                                 <a href="https://github.com/postgres/postgres" target="_blank">PostgreSQL GitHub</a><br>
+                                <a href="https://help.ubuntu.com/community/PostgreSQL" target="_blank">Ubuntu PostgreSQL</a><br>
                                 <a href="https://postgres.heroku.com/databases" target="_blank">PostgreSQL Heroku</a><br>
+                                <a href="https://devcenter.heroku.com/articles/heroku-postgresql" target="_blank">Heroku PostgreSQL</a><br>
+                                
+                                <br><p>Postgrest (PostgreSQL API)</p> 
+                                <a href="https://github.com/begriffs/postgrest" target="_blank">Postgrest API GitHub</a><br>
 
                                 <br><p>MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)</p>
                                 <a href="http://www.mysql.com" target="_blank">MySQL</a><br>
@@ -439,6 +444,7 @@ http://www.viemu.com/vi-vim-cheat-sheet.gif
 <!--
 Mozilla Persona (BrowserID)
 SCGI, or AJP, FastCGI/flup (deprecated)
+http://en.wikipedia.org/wiki/Lighttpd
 -->                                
                                 <br><p>Gunicorn (Python WSGI HTTP Server for UNIX)</p>
                                 <a href="http://gunicorn.org" target="_blank">Gunicorn</a><br>
@@ -997,10 +1003,10 @@ API Reference
 6.24 Django Utils
 6.25 Validators
 
-
 Localized Web UI formatting and form input, Data validation, Conditional content processing, Content types and generic relations
 kwargs, pk
 
+http://media.readthedocs.org/pdf/django/1.7.x/django.pdf Page 14-15, Database Installation Information, Database Binding, ATABASES Setting
 "How to use Django with mod_wsgi"
 https://www.python.org/dev/peps/pep-3333
 If you’re using PostgreSQL, you’ll need the postgresql_psycopg2 package. You might want to refer to our PostgreSQL notes f
@@ -1010,7 +1016,6 @@ https://docs.python.org/2/install/index.html#modifying-python-search-path
 Apache with mod_wsgi Page 73-74
 A field name cannot be a Python reserved word
 Built-in Class-based views- API Base and Generic Views Reference
-http://www.django-rest-framework.org/api-guide/generic-views
 Django can serialize the following: Page 286
 South: Page 288
 Managing static files (CSS, images): By default, Django stores files locally, using the MEDIA_ROOT and MEDIA_URL 
@@ -1036,7 +1041,6 @@ PyPy can offer substantial performance gains, typically for heavyweight applicat
 4.7 Deploying Django
 Django will work with any version of Apache which supports mod_wsgi.
 We recommend using a separate Web server – i.e., one that’s not also running Django – for serving media. lighttpd, nginx, tux, cherokee
-http://en.wikipedia.org/wiki/Lighttpd
 Serving the admin files: Page 518
 How to use Django with Gunicorn
 Instead of hardcoding the secret key in your settings module, consider loading it from: Page 524
@@ -1047,11 +1051,6 @@ manage.py loaddata, fixture file: Page 539
 4.13.1 Using the Python CSV library
 4.14.4 Further resources: Page 547
 Left off: Page 567
-
-http://media.readthedocs.org/pdf/django/1.7.x/django.pdf Page 14-15, Database Installation Information, Database Binding, ATABASES Setting
-https://devcenter.heroku.com/articles/heroku-postgresql
-https://help.ubuntu.com/community/PostgreSQL
-https://github.com/begriffs/postgrest
 
 https://docs.djangoproject.com/en/1.7/internals/contributing/writing-code/working-with-git
 http://stackoverflow.com/questions/25637930/workflow-when-building-django-project-with-git-github
@@ -1075,9 +1074,10 @@ pip install South
 <!--
 pip install Celery
 -->
-                                <br><p>Python- Django- Rest Framework</p>         
+                                <br><p>Python- Django- Rest Framework (Including Generic Views and GIS Support)</p>         
                                 <a href="http://www.django-rest-framework.org" target="_blank">Django Rest Framework</a><br>
                                 <a href="https://github.com/tomchristie/django-rest-framework" target="_blank">Django Rest Framework GitHub</a><br>
+                                <a href="http://www.django-rest-framework.org/api-guide/generic-views" target="_blank">Django Rest Framework Generic Views</a><br>
 <!--
 pip install djangorestframework
 pip install markdown       # Markdown support for the browsable API
