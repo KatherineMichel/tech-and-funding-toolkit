@@ -1,3 +1,3 @@
-awesome-dev-resources-and-more
+awesome-resources
 ====================
 See gh-pages branch for files
