@@ -180,4 +180,5 @@
 [ winjs](https://github.com/winjs)  
 [ yahoo](https://github.com/yahoo)  
 [ Yelp](https://github.com/Yelp)  
-[ youtube](https://github.com/youtube)[ zillow-research](https://github.com/zillow-research)
+[ youtube](https://github.com/youtube)
+[ zillow-research](https://github.com/zillow-research)
