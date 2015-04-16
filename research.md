@@ -172,54 +172,6 @@ Government Funding
  [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx)  
  [DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
 
-#### SEC and Unicorns
-
-S-1 Filings
-
-[Box S-1](http://www.sec.gov/Archives/edgar/data/1372612/000119312514112417/d642425ds1.htm)  
- [Etsy SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001370637&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Etsy S-1](http://www.sec.gov/Archives/edgar/data/1370637/000119312515077045/d806992ds1.htm)  
- [Facebook SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001326801&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Facebook S-1](http://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm)  
- [Groupon SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001490281&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Groupon S-1](http://www.sec.gov/Archives/edgar/data/1490281/000104746911005613/a2203913zs-1.htm)  
- [Hortonworks S-1](http://www.sec.gov/Archives/edgar/data/1610532/000119312514405390/d748349ds1.htm)  
- [HubSpot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001404655&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [HubSpot S-1](http://www.sec.gov/Archives/edgar/data/1404655/000119312514320044/d697256ds1.htm)  
- [Linkedin SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001271024&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [LinkedIn S-1](http://www.sec.gov/Archives/edgar/data/1271024/000119312511295272/d250692ds1.htm)  
- [RetailMeNot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001475274&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [RetailMeNot S-1](http://www.sec.gov/Archives/edgar/data/1475274/000119312513261481/d498394ds1.htm)  
- [Salesforce Marketing Cloud](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001108524&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Salesforce S-1](http://www.sec.gov/Archives/edgar/data/1108524/000119312503096073/ds1.htm)  
- [Shutterstock SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001549346&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Shutterstock S-1](http://www.sec.gov/Archives/edgar/data/1549346/000104746913008614/a2216433zs-1.htm)  
- [Trulia SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001349454&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Trulia S-1](http://www.sec.gov/Archives/edgar/data/1349454/000119312513089639/d493065ds1.htm)  
- [Twitter SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001418091&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Twitter S-1](http://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm)  
- [Zendesk SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001463172&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Zendesk S-1](http://www.sec.gov/Archives/edgar/data/1463172/000119312514137878/d665368ds1.htm)  
- [Zillow SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001334814&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Zillow S-1](http://www.sec.gov/Archives/edgar/data/1334814/000119312511100697/ds1.htm )  
- [Zynga SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001439404&amp;amp;amp;owner=exclude&amp;amp;amp;count=40)  
- [Zynga S-1](http://www.sec.gov/Archives/edgar/data/1439404/000119312512113668/d312579ds1.htm)  
-
-Unicorns
-
-[Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
- [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
- [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups)  
- [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups)  
- [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
- [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns)  
- [Fortune Unicorns List](http://fortune.com/unicorns)  
- [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
- [William Mougayar The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
- [Hackpad Billion Dollar Valuations For Vintage Years 2003-2014](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
- [OSV Research Unicorns, Startups, and Giants](http://osvresearch.com)  
- [The $6 Billion Opportunity](http://shaigoldman.com/2014/10/16/the-600b-opportunity)  
-
 #### VC Resources, People
 
 500 Startups
