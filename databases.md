@@ -1,8 +1,7 @@
 
 Company and Product Databases
 
-*   [Angelist](https://angel.co)  
-*   [Angelist U.K.](https://angel.co/uk)  
+*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk)  
 *   [Betalist](http://betalist.com)  
 *   [CB Insights](https://www.cbinsights.com), [Blog](https://www.cbinsights.com/blog), [Twitter](https://twitter.com/CBinsights)  
 *   [CrunchBase](http://www.crunchbase.com)  
