@@ -1,12 +1,12 @@
 #### Google Ventures Research and Research Sprint
 
 *   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
-*   [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)  
+*   [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)
 *   [Google Ventures Research Sprint Day 1](http://www.gv.com/lib/the-gv-research-sprint-day-1), [Day 2](http://www.gv.com/lib/the-gv-research-sprint-day-2), [Day 3](http://www.gv.com/lib/the-gv-research-sprint-day-3), [Day 4](http://www.gv.com/lib/the-gv-research-sprint-day-4)  
 #### Google Ventures Design Sprint
 
 *   [Google Ventures Design Sprint](http://www.gv.com/sprint)
-*   [Google Ventures Design Sprint Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage) 
+*   [Google Ventures Design Sprint Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
 *   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5)  
 
 #### Google Ventures Design Sprint- Fast Co (Basically Redundant)
