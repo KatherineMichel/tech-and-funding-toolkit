@@ -32,7 +32,7 @@ Google Ventures Research Sprint- Supporting Docs
  
  Google Ventures Design Sprint- Supporting Docs
 
-*   [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)  
+*   [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 *   [Use Real Words](http://gettingreal.37signals.com/ch11_Use_Real_Words.php)  
 
