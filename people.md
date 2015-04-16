@@ -52,6 +52,6 @@
 *   [Naveen Selvadurai](http://x.naveen.com)
 *   [Robert Scoble](https://www.facebook.com/RobertScoble)
 *   [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
-*   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank)
+*   [Steve Blank](http://steveblank.com) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
