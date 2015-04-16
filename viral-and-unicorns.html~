@@ -1,101 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="favicon.png">
-    
-    <title>Katherine Michel: Awesome Resources</title>
-    <!--Based on Bootstrap Blog and Start Bootstrap FAQ-->
-
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> 
-</head>
- 
-<body>
-
-    <div class="blog-masthead">
-      <div class="container">
-        <nav class="blog-nav">
-          <a class="blog-nav-item" href="http://katherinemichel.github.io" target="_blank">Home</a>
-          <a class="blog-nav-item" href="http://katherinemichel.github.io/blog" target="_blank">Blog</a>
-          <!--<a class="blog-nav-item" href="https://docs.google.com/document/d/1Zx7Ql64x8i4ipMtqjueAph1W-euh2iyxhYdomWqTjiU/edit?usp=sharing" target="_blank">Resume'</a>-->
-          <a class="blog-nav-item" href="http://katherinemichel.github.io/portfolio" target="_blank">Portfolio</a>
-          <!--<a class="blog-nav-item" href="http://katherinemichel.github.io/portfolio/attribution#attributionelsewhere">Elsewhere</a>-->
-        </nav>
-      </div>
-    </div>
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-12">
-                <h1 class="page-header"> Awesome Resources
-                    <small>My Notes</small>
-                </h1>
-            </div>
-
-        <div class="row">
-
-             <div class="col-lg-12">
-                <ul class="breadcrumb">
-                    <li><a href="project-management.html" target="_blank">Project Management</a></li>
-                    <li><a href="research.html" target="_blank">Research</a></li>
-                    <li><a href="prototyping.html" target="_blank">Prototyping</a></li>
-                    <li class="active"><a href="viral-and-unicorns.html" target="_blank">Viral and Unicorns</a></li>
-                    <li><a href="front-end-resources.html" target="_blank">Front-end Resources</a></li>
-                    <li><a href="index.html" target="_blank">Back-end Resources</a></li>
-                    <li><a href="mobile-and-iot.html" target="_blank">Mobile and IoT</a></li> 
-                    <li><a href="data-science.html" target="_blank">Data Science</a></li>
-                    <li><a href="orgs-on-github.html" target="_blank">Orgs on GitHub</a></li>
-                </ul></div>
-           
-        </div>
-
-        </div>
-
-        <div class="row">
-
-            <div class="col-lg-12">
-
-            <div class="panel-group" id="accordion">
-<!--
-              <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseComputers">
-                    Computers, Phones, Apps, Websites, Platforms
-                  </a>
-                            </h4>
-                        </div>
-                        <div id="collapseComputers" class="panel-collapse collapse">
--->
-                                <br><p>Viral- Snapchat</p>
-                                <a href="https://www.snapchat.com/" target="_blank">Snapchat (Unicorn)</a><br>
-                                <a href="http://en.wikipedia.org/wiki/Snapchat" target="_blank">Snapchat Wikipedia</a><br>
-                                <a href="http://blog.snapchat.com" target="_blank">Snapchat Blog</a><br>
-
-                                <br><p>Viral- Facebook</p>
-                                <a href="https://facebook.com" target="_blank">Facebook (Unicorn)</a><br>
-                                <a href="https://www.facebook.com/legal/terms" target="_blank">Facebook Terms</a><br>
-                                <a href="https://www.facebook.com/policies" target="_blank">Facebook Policies</a><br>
-                                <a href="https://www.facebook.com/page_guidelines.php" target="_blank">Facebook Page Guidelines</a><br>
-                                
-                                <br><p>Viral- Instagram</p>
-                                <a href="http://instagram.com" target="_blank">Instagram (Unicorn)</a><br>
-                                <a href="http://en.wikipedia.org/wiki/Instagram" target="_blank">Instagram Wikipedia</a><br>
-                                <a href="http://instagram.com/developer" target="_blank">Instagram API</a><br>
-                                <a href="http://business.instagram.com" target="_blank">Instagram Business</a><br>
-                                <a href="http://blog.business.instagram.com" target="_blank">Instagram Business Blog</a><br>
-                                <a href="https://help.instagram.com" target="_blank">Instagram Help</a><br>
-                                <a href="https://help.instagram.com/454502981253053" target="_blank">Instagram Getting Started</a><br>                                
-
-                                <br><p>Viral- Instagram- Ads</p>
 <!--
 http://instagram.com/about/legal/privacy
 http://instagram.com/about/legal/terms
@@ -109,22 +11,6 @@ http://blog.business.instagram.com/post/95314562151/businesstools
 http://instagram.com/developer/realtime
 http://instagram.com/developer/endpoints/media/#
 -->
-                                <br><p>Viral- Whatsapp</p>
-                                <a href="http://www.whatsapp.com/" target="_blank">Whatsapp (Unicorn)</a><br>
-                                <a href="http://en.wikipedia.org/wiki/WhatsApp" target="_blank">Whatsapp Wikipedia</a><br>
-                                <a href="http://blog.whatsapp.com" target="_blank">Whatsapp Blog</a><br>
-                                <a href="http://www.whatsapp.com/legal" target="_blank">Whatsapp Legal</a><br> 
-                                
-                                <br><p>Viral- Pinterest</p>
-                                <a href="http://www.pinterest.com" target="_blank">Pinterest (Unicorn)</a><br>
-                                <a href="http://en.wikipedia.org/wiki/Pinterest" target="_blank">Pinterest Wikipedia</a><br>
-                                <a href="https://developers.pinterest.com" target="_blank">Pinterest API</a><br>
-                                <a href="https://analytics.pinterest.com" target="_blank">Pinterest Analytics</a><br>
-                                <a href="https://business.pinterest.com/en" target="_blank">Pinterest Business</a><br>
-                                <a href="https://business.pinterest.com/en/getting-started" target="_blank">Pinterest Business Getting Started</a><br>
-                                <a href="https://business.pinterest.com/en/tools" target="_blank">Pinterest Business Tools</a><br>
-                                <a href="https://business.pinterest.com/en/get-pinterest-business-guide" target="_blank">Pinterest Business- Get Pinterest Business Guide</a><br>                               
-                                <a href="https://help.pinterest.com/en/articles/business-best-practices" target="_blank">Pinterest Business Best Practices</a><br>
 <!--
 https://about.pinterest.com/en/terms-service
 https://about.pinterest.com/en/privacy-policy
@@ -132,31 +18,6 @@ https://about.pinterest.com/en/acceptable-use-policy
 https://about.pinterest.com/en/advertising-rules
 https://about.pinterest.com/en/responsible-disclosure-statement
 -->
-                                <br><p>Viral- Twitter</p>
-                                <a href="http://twitter.com" target="_blank">Twitter (Unicorn)</a><br>
-                                
-                                <br><p>Viral- Buzzfeed</p>
-                                <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a><br>
-                                <a href="http://en.wikipedia.org/wiki/BuzzFeed" target="_blank">BuzzFeed Wikipedia</a><br>
-                                <a href="http://en.wikipedia.org/wiki/Jonah_Peretti" target="_blank">BuzzFeed Jonah Peretti Wikipedia</a><br>
-                                <a href="https://soundcloud.com/a16z/a16z-podcast-sharing-is-the-metric-that-matters-building-buzzfeed-for-a-socialmobile-world" target="_blank">A16Z Buzzfeed Podcast</a><br>
-                                <a href="http://www.buzzfeed.com/daozers/how-buzzfeed-thinks-about-data-science" target="_blank">BuzzFeed Data Science Blog</a><br>
-                                <a href="http://www.buzzfeed.com/cdchan/we-read-the-articles-we-share-and-we-share-the-articles-we-r#28aklmx" target="_blank">BuzzFeed We Read the Articles We Share and We Share the Articles We Read</a><br>
-                                <a href="http://www.buzzfeed.com/emmyf/buzzfeed-style-guide#1vbkxym" target="_blank">BuzzFeed Styleguide</a><br>
-                                <a href="http://www.buzzfeed.com/help/faq" target="_blank">BuzzFeed Help FAQs</a><br>
-                                <a href="http://www.buzzfeed.com/help/viral" target="_blank">BuzzFeed Help Viral</a><br>
-                                <a href="http://www.buzzfeed.com/dashboard" target="_blank">BuzzFeed Dashboard</a><br>
-                                <a href="http://www.buzzfeed.com/advertise" target="_blank">BuzzFeed Advertise</a><br>
-                                <a href="http://www.pinterest.com/buzzfeed" target="_blank">BuzzFeed on Pinterest</a><br>
-                                <a href="http://www.buzzfeed.com/tools/more" target="_blank">BuzzFeed More</a><br>
-                                <a href="http://www.buzzfeed.com/tools/email" target="_blank">BuzzFeed Email</a><br>
-                                <a href="http://www.buzzfeed.com/about/trending" target="_blank">BuzzFeed Trending</a><br>
-                                <a href="http://www.buzzfeed.com/about/community" target="_blank">BuzzFeed Community</a><br>
-                                <a href="http://www.buzzfeed.com/tools/mobile-ios" target="_blank">BuzzFeed Mobile iOS</a><br>                                 
-                                <a href="http://www.buzzfeed.com/about/useragreement-en" target="_blank">BuzzFeed User Agreement</a><br>
-                                <a href="http://www.buzzfeed.com/about/privacy" target="_blank">BuzzFeed Privacy</a><br>
-                                <a href="http://www.buzzfeed.com/about/cookies" target="_blank">BuzzFeed Cookies (Interesting List)</a><br>
-                                <a href="http://www.buzzfeed.com/press" target="_blank">BuzzFeed Press</a><br>
 <!--
 Buzzfeed branded tweets screenshorts
 http://www.buzzfeed.com/mathonan/the-rise-of-the-screenshort
@@ -184,14 +45,6 @@ http://www.theplayerstribune.com
 
 https://firstlook.org/theintercept
 -->
-                               
-                                <br><p>Viral- Upworthy</p>
-                                <a href="http://www.upworthy.com" target="_blank">Upworthy</a><br>
-                                <a href="http://en.wikipedia.org/wiki/Upworthy" target="_blank">Upworthy Wikipedia</a><br>
-                                <a href="http://www.slideshare.net/Upworthy" target="_blank">Upworthy Slideshare</a><br>
-                                <a href="http://www.upworthy.com/tos" target="_blank">Upworthy Terms of Service</a><br>                               
-                                <a href="http://www.upworthy.com/privacy" target="_blank">Upworthy Privacy</a><br>
-                                <a href="http://www.upworthy.com/advertise" target="_blank">Upworthy Advertise</a><br>
 <!--
 Upworthy- Static Content should always be cached
 
@@ -205,6 +58,139 @@ http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-th
 http://www.businessinsider.com/how-upworthy-grew-to-104-million-monthly-readers-in-its-first-year-2013-3
 http://www.businessinsider.com/upworthy-how-to-create-a-fast-growing-media-company-2012-11
 -->
+<!--
+http://dev.wechat.com
+http://translate.wechat.com
+http://webgrab.wechat.com
+http://admin.wechat.com
+-->
+<!--
+http://mobile.nytimes.com
+The Guardian World Development
+-->
+<!--
+http://creative.dailymail.co.uk/us-advertising-opportunities Stats
+http://www.dmgt.com/footer/dmgt
+
+Links at bottom of homepage
+http://advertising.aol.com/properties#huffington-post
+http://adinfo.aol.com/about-our-ads
+-->
+<!--
+https://www.inside.com/top
+http://www.people.com/people/mobile
+-->
+<!--
+http://en.wikipedia.org/wiki/Web_hosting_services
+http://en.wikipedia.org/wiki/Conference_management_system
+
+http://en.wikipedia.org/wiki/Ecommerce
+http://en.wikipedia.org/wiki/Deal_of_the_day Flash Sales
+http://en.wikipedia.org/wiki/Mobile_commerce
+
+Alibaba 
+https://www.quixey.com
+
+http://www.slideshare.net/linkedin
+http://www.slideshare.net/Women_Connect
+http://www.slideshare.net/LImarketingsolutions
+http://www.slideshare.net/linkedin-sales-solutions
+http://www.slideshare.net/linkedin-talent-solutions
+
+https://www.linkedin.com/edu/fos?id=101408
+
+http://www.programmableweb.com/mashup/linkedin-pulse?utm_content=buffer8ff39&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+https://www.linkedin.com/today/post/author/createArticle?trk=pulse-write-hdr_btn
+http://help.linkedin.com/app/answers/detail/a_id/47445/~/long-form-posts-on-linkedin---overview
+
+http://en.wikipedia.org/wiki/Microblogging_in_China
+http://en.wikipedia.org/wiki/Microblogging_in_China#List
+http://en.wikipedia.org/wiki/Tencent_Weibo
+http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en
+
+http://www.cs.cmu.edu/~lingwang/weiboguid
+https://www.google.com/#q=baidu+webmaster
+http://www.baiduguide.com/baidu-seo-guide/baidu-webmaster-tools
+
+http://www.4chan.org
+
+http://aws.amazon.com/mobileanalytics/?sc_channel=TA&sc_campaign=mobile_analytics&sc_publisher=Techmeme&sc_medium=Sponsor_posts&sc_category=web_mobile_social&sc_content=TA_Sponsor_post_A&sc_detail=TA_Techmeme.com_mobile_analytics_Sponsor_post_A
+-->
+
+                                <br><p>Viral- Snapchat</p>
+                                <a href="https://www.snapchat.com/" target="_blank">Snapchat (Unicorn)</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Snapchat" target="_blank">Snapchat Wikipedia</a><br>
+                                <a href="http://blog.snapchat.com" target="_blank">Snapchat Blog</a><br>
+
+                                <br><p>Viral- Facebook</p>
+                                <a href="https://facebook.com" target="_blank">Facebook (Unicorn)</a><br>
+                                <a href="https://www.facebook.com/legal/terms" target="_blank">Facebook Terms</a><br>
+                                <a href="https://www.facebook.com/policies" target="_blank">Facebook Policies</a><br>
+                                <a href="https://www.facebook.com/page_guidelines.php" target="_blank">Facebook Page Guidelines</a><br>
+                                
+                                <br><p>Viral- Instagram</p>
+                                <a href="http://instagram.com" target="_blank">Instagram (Unicorn)</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Instagram" target="_blank">Instagram Wikipedia</a><br>
+                                <a href="http://instagram.com/developer" target="_blank">Instagram API</a><br>
+                                <a href="http://business.instagram.com" target="_blank">Instagram Business</a><br>
+                                <a href="http://blog.business.instagram.com" target="_blank">Instagram Business Blog</a><br>
+                                <a href="https://help.instagram.com" target="_blank">Instagram Help</a><br>
+                                <a href="https://help.instagram.com/454502981253053" target="_blank">Instagram Getting Started</a><br>                                
+
+                                <br><p>Viral- Instagram- Ads</p>
+
+                                <br><p>Viral- Whatsapp</p>
+                                <a href="http://www.whatsapp.com/" target="_blank">Whatsapp (Unicorn)</a><br>
+                                <a href="http://en.wikipedia.org/wiki/WhatsApp" target="_blank">Whatsapp Wikipedia</a><br>
+                                <a href="http://blog.whatsapp.com" target="_blank">Whatsapp Blog</a><br>
+                                <a href="http://www.whatsapp.com/legal" target="_blank">Whatsapp Legal</a><br> 
+                                
+                                <br><p>Viral- Pinterest</p>
+                                <a href="http://www.pinterest.com" target="_blank">Pinterest (Unicorn)</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Pinterest" target="_blank">Pinterest Wikipedia</a><br>
+                                <a href="https://developers.pinterest.com" target="_blank">Pinterest API</a><br>
+                                <a href="https://analytics.pinterest.com" target="_blank">Pinterest Analytics</a><br>
+                                <a href="https://business.pinterest.com/en" target="_blank">Pinterest Business</a><br>
+                                <a href="https://business.pinterest.com/en/getting-started" target="_blank">Pinterest Business Getting Started</a><br>
+                                <a href="https://business.pinterest.com/en/tools" target="_blank">Pinterest Business Tools</a><br>
+                                <a href="https://business.pinterest.com/en/get-pinterest-business-guide" target="_blank">Pinterest Business- Get Pinterest Business Guide</a><br>                               
+                                <a href="https://help.pinterest.com/en/articles/business-best-practices" target="_blank">Pinterest Business Best Practices</a><br>
+
+                                <br><p>Viral- Twitter</p>
+                                <a href="http://twitter.com" target="_blank">Twitter (Unicorn)</a><br>
+                                
+                                <br><p>Viral- Buzzfeed</p>
+                                <a href="http://www.buzzfeed.com" target="_blank">BuzzFeed</a><br>
+                                <a href="http://en.wikipedia.org/wiki/BuzzFeed" target="_blank">BuzzFeed Wikipedia</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Jonah_Peretti" target="_blank">BuzzFeed Jonah Peretti Wikipedia</a><br>
+                                <a href="https://soundcloud.com/a16z/a16z-podcast-sharing-is-the-metric-that-matters-building-buzzfeed-for-a-socialmobile-world" target="_blank">A16Z Buzzfeed Podcast</a><br>
+                                <a href="http://www.buzzfeed.com/daozers/how-buzzfeed-thinks-about-data-science" target="_blank">BuzzFeed Data Science Blog</a><br>
+                                <a href="http://www.buzzfeed.com/cdchan/we-read-the-articles-we-share-and-we-share-the-articles-we-r#28aklmx" target="_blank">BuzzFeed We Read the Articles We Share and We Share the Articles We Read</a><br>
+                                <a href="http://www.buzzfeed.com/emmyf/buzzfeed-style-guide#1vbkxym" target="_blank">BuzzFeed Styleguide</a><br>
+                                <a href="http://www.buzzfeed.com/help/faq" target="_blank">BuzzFeed Help FAQs</a><br>
+                                <a href="http://www.buzzfeed.com/help/viral" target="_blank">BuzzFeed Help Viral</a><br>
+                                <a href="http://www.buzzfeed.com/dashboard" target="_blank">BuzzFeed Dashboard</a><br>
+                                <a href="http://www.buzzfeed.com/advertise" target="_blank">BuzzFeed Advertise</a><br>
+                                <a href="http://www.pinterest.com/buzzfeed" target="_blank">BuzzFeed on Pinterest</a><br>
+                                <a href="http://www.buzzfeed.com/tools/more" target="_blank">BuzzFeed More</a><br>
+                                <a href="http://www.buzzfeed.com/tools/email" target="_blank">BuzzFeed Email</a><br>
+                                <a href="http://www.buzzfeed.com/about/trending" target="_blank">BuzzFeed Trending</a><br>
+                                <a href="http://www.buzzfeed.com/about/community" target="_blank">BuzzFeed Community</a><br>
+                                <a href="http://www.buzzfeed.com/tools/mobile-ios" target="_blank">BuzzFeed Mobile iOS</a><br>                                 
+                                <a href="http://www.buzzfeed.com/about/useragreement-en" target="_blank">BuzzFeed User Agreement</a><br>
+                                <a href="http://www.buzzfeed.com/about/privacy" target="_blank">BuzzFeed Privacy</a><br>
+                                <a href="http://www.buzzfeed.com/about/cookies" target="_blank">BuzzFeed Cookies (Interesting List)</a><br>
+                                <a href="http://www.buzzfeed.com/press" target="_blank">BuzzFeed Press</a><br>
+
+                               
+                                <br><p>Viral- Upworthy</p>
+                                <a href="http://www.upworthy.com" target="_blank">Upworthy</a><br>
+                                <a href="http://en.wikipedia.org/wiki/Upworthy" target="_blank">Upworthy Wikipedia</a><br>
+                                <a href="http://www.slideshare.net/Upworthy" target="_blank">Upworthy Slideshare</a><br>
+                                <a href="http://www.upworthy.com/tos" target="_blank">Upworthy Terms of Service</a><br>                               
+                                <a href="http://www.upworthy.com/privacy" target="_blank">Upworthy Privacy</a><br>
+                                <a href="http://www.upworthy.com/advertise" target="_blank">Upworthy Advertise</a><br>
+
                                 <br><p>Viral- More Social Media</p>
                                 <a href="https://delicious.com" target="_blank">Delicious</a><br>
                                 <a href="http://digg.com" target="_blank">Digg</a><br>
@@ -223,12 +209,7 @@ http://www.businessinsider.com/upworthy-how-to-create-a-fast-growing-media-compa
                                 <a href="http://en.wikipedia.org/wiki/WeChat" target="_blank">WeChat Wikipedia</a><br>
                                 <a href="http://www.wechat.com/en/service_terms.html" target="_blank">WeChat Service Terms</a><br>
                                 <a href="http://www.wechat.com/en/privacy_policy.html" target="_blank">WeChat Privacy Policy</a><br>
-<!--
-http://dev.wechat.com
-http://translate.wechat.com
-http://webgrab.wechat.com
-http://admin.wechat.com
--->
+
                                 <br><p>Viral- Anonymous Apps</p>
                                 <a href="http://en.wikipedia.org/wiki/Secret_(app)" target="_blank">Secret Wikipedia</a><br>
                                 <a href="https://www.secret.ly/tos" target="_blank">Secret Terms of Service</a><br>                                
@@ -244,10 +225,7 @@ http://admin.wechat.com
                                 <a href="http://www.theguardian.com/help/privacy-policy" target="_blank">The Guardian Privacy Policy</a><br>
                                 <a href="http://www.theguardian.com/info/cookies" target="_blank">The Guardian Cookies</a><br>
                                 <a href="http://advertising.theguardian.com" target="_blank">The Guardian Advertising</a><br>
-<!--
-http://mobile.nytimes.com
-The Guardian World Development
--->
+
                                 <br><p>Viral- The Financial times</p>
                                 <a href="https://developer.ft.com/api-services" target="_blank">Financial Times</a><br>
                                 <a href="http://aboutus.ft.com/contact-us/advertising" target="_blank">FT Advertising</a><br>
@@ -297,14 +275,7 @@ The Guardian World Development
                                 <a href="http://www.dailymail.co.uk/home/article-1388146/Terms.html" target="_blank">Daily Mail Terms</a><br>
                                 <a href="http://www.dailymail.co.uk/home/article-1388040/Privacy-Policy-Cookies.html" target="_blank">Daily Mail Privacy Policy Cookies</a><br>
                                 <a href="http://www.dailymail.co.uk/home/article-1227210/Contact-Us.html" target="_blank">Daily Mail Contact Us</a><br>
-<!--
-http://creative.dailymail.co.uk/us-advertising-opportunities Stats
-http://www.dmgt.com/footer/dmgt
 
-Links at bottom of homepage
-http://advertising.aol.com/properties#huffington-post
-http://adinfo.aol.com/about-our-ads
--->
                                 <br><p>Viral- Huffington Post and MovableType</p>
                                 <a href="http://www.huffingtonpost.com" target="_blank">Huffington Post</a><br>
                                 <a href="http://www.movabletype.com" target="_blank">Huffington Post CMS (MovableType)</a><br>
@@ -337,10 +308,7 @@ http://adinfo.aol.com/about-our-ads
                                 <a href="http://newscommercial.co.uk" target="_blank">The Sun, The Times, The Sunday Times Advertising</a><br>
                                 <a href="http://theverge.com" target="_blank">The Verge</a><br>
                                 <a href="http://vice.com" target="_blank">Vice</a><br>
-<!--
-https://www.inside.com/top
-http://www.people.com/people/mobile
--->
+
                                 <br><p>Glossy and Ads</p>
                                 <a href="http://www.hellomagazine.com" target="_blank">Hello Magazine</a><br>
                                 <a href="http://www.hellomagazine.com/onlinemediapack/sections/advertising.html" target="_blank">Hello Magazine Advertising</a><br>
@@ -431,42 +399,7 @@ http://www.people.com/people/mobile
                                 <a href="https://developer.linkedin.com" target="_blank">Linkedin Developer</a><br>
                                 <a href="https://developer.linkedin.com/documents/job-search-api" target="_blank">Linkedin Developer Job Search API</a><br>
 
-<!--
-http://en.wikipedia.org/wiki/Web_hosting_services
-http://en.wikipedia.org/wiki/Conference_management_system
 
-http://en.wikipedia.org/wiki/Ecommerce
-http://en.wikipedia.org/wiki/Deal_of_the_day Flash Sales
-http://en.wikipedia.org/wiki/Mobile_commerce
-
-Alibaba 
-https://www.quixey.com
-
-http://www.slideshare.net/linkedin
-http://www.slideshare.net/Women_Connect
-http://www.slideshare.net/LImarketingsolutions
-http://www.slideshare.net/linkedin-sales-solutions
-http://www.slideshare.net/linkedin-talent-solutions
-
-https://www.linkedin.com/edu/fos?id=101408
-
-http://www.programmableweb.com/mashup/linkedin-pulse?utm_content=buffer8ff39&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-https://www.linkedin.com/today/post/author/createArticle?trk=pulse-write-hdr_btn
-http://help.linkedin.com/app/answers/detail/a_id/47445/~/long-form-posts-on-linkedin---overview
-
-http://en.wikipedia.org/wiki/Microblogging_in_China
-http://en.wikipedia.org/wiki/Microblogging_in_China#List
-http://en.wikipedia.org/wiki/Tencent_Weibo
-http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en
-
-http://www.cs.cmu.edu/~lingwang/weiboguid
-https://www.google.com/#q=baidu+webmaster
-http://www.baiduguide.com/baidu-seo-guide/baidu-webmaster-tools
-
-http://www.4chan.org
-
-http://aws.amazon.com/mobileanalytics/?sc_channel=TA&sc_campaign=mobile_analytics&sc_publisher=Techmeme&sc_medium=Sponsor_posts&sc_category=web_mobile_social&sc_content=TA_Sponsor_post_A&sc_detail=TA_Techmeme.com_mobile_analytics_Sponsor_post_A
--->
 
                                 <br><p>Viral- Real Estate</p>
                                 <a href="http://trulia.com" target="_blank">Trulia (Unicorn)</a><br>                                
@@ -614,41 +547,5 @@ http://aws.amazon.com/mobileanalytics/?sc_channel=TA&sc_campaign=mobile_analytic
                                 <a href="http://en.wikipedia.org/wiki/Seznam.cz" target="_blank">Seznam (Czech Republic) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/T-Online" target="_blank">T-Online (Germany) Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Virgilio.it" target="_blank">Virgilio (Italy) Wikipedia</a><br>
-<!--
-                            </div>
-                        </div>
-                    </div>
--->
-                    </div>
 
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-    <!-- /.container -->
-
-    <div class="container">
-    <div class="blog-footer">
-      <p>&copy; Katherine Michel 2013-2015 &nbsp; <a href="http://katherinemichel.github.io/contact-me.html" target="_blank">Contact Me</a> &nbsp; <a href="http://katherinemichel.github.io/attribution.html" target="_blank">Attribution</a>  &nbsp; <a href="#">Back to Top</a><br> <br>
-      <a name="attributionelsewhere">  
-      	<a href="https://github.com/KatherineMichel" target="_blank"><i class="fa solo fa-github-square fa-5x"></i></a>
-      	<a href="https://plus.google.com/u/0/112490330070859885485" target="_blank"><i class="fa solo fa-google-plus-square fa-5x"></i></a>
-      	<a href="http://www.linkedin.com/in/katherinemichel" target="_blank"><i class="fa solo fa-linkedin-square fa-5x"></i></a>
-      	<a href="http://www.slideshare.net/KatiMichel" target="_blank"><i class="fa solo fa-bar-chart-o fa-5x"></i></a>
-      	<a href="https://twitter.com/KatiMichel" target="_blank"><i class="fa solo fa-twitter-square fa-5x"></i></a>
-      </p>
-      <p
-
-    </div>
-    </div>
-
-    <script src="js/jquery-1.10.2.js"></script>
-    <script src="js/bootstrap.js"></script>
-
-</body>
-
-</html>
 

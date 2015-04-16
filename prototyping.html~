@@ -1,81 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="favicon.png">
-    
-    <title>Katherine Michel: Awesome Resources</title>
-    
-    <!--Based on Bootstrap Blog and Start Bootstrap FAQ-->
-
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-</head>
-
-<body>
-
-    <div class="blog-masthead">
-      <div class="container">
-        <nav class="blog-nav">
-          <a class="blog-nav-item" href="http://katherinemichel.github.io" target="_blank">Home</a>
-          <a class="blog-nav-item" href="http://katherinemichel.github.io/blog" target="_blank">Blog</a>
-          <!--<a class="blog-nav-item" href="https://docs.google.com/document/d/1Zx7Ql64x8i4ipMtqjueAph1W-euh2iyxhYdomWqTjiU/edit?usp=sharing" target="_blank">Resume'</a>-->
-          <a class="blog-nav-item" href="http://katherinemichel.github.io/portfolio" target="_blank">Portfolio</a>
-          <!--<a class="blog-nav-item" href="http://katherinemichel.github.io/portfolio/attribution#attributionelsewhere">Elsewhere</a>-->
-        </nav>
-      </div>
-    </div>
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-12">
-                <h1 class="page-header"> Awesome Resources
-                    <small>My Notes</small>
-                </h1>
-            </div>
-
-       <div class="row">
-
-             <div class="col-lg-12">
-                <ul class="breadcrumb">
-                    <li><a href="project-management.html" target="_blank">Project Management</a></li>
-                    <li><a href="research.html" target="_blank">Research</a></li>
-                    <li class="active"><a href="prototyping.html" target="_blank">Prototyping</a></li>
-                    <li><a href="viral-and-unicorns.html" target="_blank">Viral and Unicorns</a></li>
-                    <li><a href="front-end-resources.html" target="_blank">Front-end Resources</a></li>
-                    <li><a href="index.html" target="_blank">Back-end Resources</a></li>
-                    <li><a href="mobile-and-iot.html" target="_blank">Mobile and IoT</a></li> 
-                    <li><a href="data-science.html" target="_blank">Data Science</a></li>
-                    <li><a href="orgs-on-github.html" target="_blank">Orgs on GitHub</a></li>
-                </ul></div>
-           
-        </div>
-
-        </div>
-
-        <div class="row">
-
-            <div class="col-lg-12">
-
-                <div class="panel-group" id="accordion">
-<!--
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFrontendresources">
-                    Front-end Resources
-                  </a>
-                            </h4>
-                        </div>
-                        <div id="collapseFrontendresources" class="panel-collapse collapse">
-                            <div class="panel-body">-->
 <!--
 http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false
 
@@ -95,6 +18,117 @@ https://github.com/TriKro/product-market-fit-storyboard
 http://www.startupramp.com
 http://practicetrumpstheory.com/from-minimum-viable-product-to-landing-pages
 http://practicetrumpstheory.com/how-i-built-my-minimum-viable-product
+
+<!--
+https://strategyn.com/customer-centered-innovation-map
+-->
+-->
+<!--
+Prototyping Tools
+https://docs.google.com/spreadsheets/d/14t8fLWtIRPe91nSXXlsLyj_yCuhLI4hx-CQS1SBRb44/htmlview?sle=true#gid=0
+
+http://en.wikipedia.org/wiki/Rapid_application_development
+http://en.wikipedia.org/wiki/Rapid_prototyping
+http://en.wikipedia.org/wiki/Prototype
+http://en.wikipedia.org/wiki/Mockup
+http://en.wikipedia.org/wiki/Paper_prototyping
+http://en.wikipedia.org/wiki/Website_wireframe
+
+http://en.wikipedia.org/wiki/Voice_of_the_customer
+http://en.wikipedia.org/wiki/User_interface_design
+http://en.wikipedia.org/wiki/User_experience
+http://en.wikipedia.org/wiki/User_experience_design
+http://en.wikipedia.org/wiki/User_experience_evaluation
+http://en.wikipedia.org/wiki/User_Research
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=list%20of%20markets
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=list+of+industries&revid=1437192067
+http://help.surveymonkey.com/articles/en_US/kb/What-demographic-criteria-can-I-use-to-target-respondents
+http://www.cses.org/varlist/varlist_demog.htm
+http://en.wikipedia.org/wiki/Positioning_(marketing)
+http://en.wikipedia.org/wiki/Brand_management
+http://en.wikipedia.org/wiki/Global_environmental_analysis
+-->
+<!--
+https://hackpad.com/EgXuEtSibE7#Web-And-Mobile-Revenue-Models-(final)
+http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-advertising.html
+http://avc.com/2013/01/mba-mondays-revenue-models-subscriptions
+http://avc.com/2013/01/mba-mondays-revenue-models-peer-to-peer
+http://avc.com/2013/01/mba-mondays-revenue-models-transaction-processing
+http://avc.com/2013/01/mba-mondays-revenue-models-licensing
+http://avc.com/2013/02/mba-mondays-revenue-models-mobile
+http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-gaming.html
+-->
+<!--
+https://strategyzer.com/canvas
+http://businessmodelgeneration.com/canvas/vpc
+https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries
+
+http://www.startup-marketing.com/the-startup-pyramid
+
+http://mfishbein.com/the-ultimate-list-of-customer-development-questions
+http://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf
+
+https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1
+
+https://www.udacity.com/wiki/ep245/downloads
+http://steveblank.com/category/customer-development-manifesto
+http://www.slideshare.net/sblank/customer-discovery-23251533
+http://steveblank.com/2010/12/07/the-lean-launchpad-%E2%80%93-teaching-entrepreneurship-as-a-management-science
+http://www.slideshare.net/sblank/business-model-for-startups
+-->
+<!--
+See also Market Research
+http://www.gv.com/lib/seven-tips-for-lean-market-research
+Skim abstracts, conclusions, and bibliographies/Research Centers and organizations/Search for syndicated research/Take advantage of less-obvious sources/Reach out to experts
+
+http://www.gv.com/lib/what-fuels-great-design-and-why-most-startups-dont-do-it
+http://boingboing.net/2008/12/13/meetups-dead-simple.html
+https://medium.com/@mulligan/how-to-run-live-user-testing-part-1-setup-9b7e9edd2de8
+
+http://www.gv.com/lib/improve-your-startups-surveys-and-get-even-better-data
+https://www.gv.com/lib/how-to-find-great-participants-for-your-user-study
+http://www.gv.com/lib/micro-surveys-a-faster-way-to-learn-about-your-users
+http://www.gv.com/lib/rapid-user-research-how-to-survey-400-users-and-interview-10-in-three-days
+https://medium.com/@mulegirl/focus-groups-are-worthless-7d30891e58f1
+http://www.gv.com/lib/getting-out-of-the-building-isnt-enough
+http://www.gv.com/lib/no-more-no-shows-how-to-make-sure-your-research-participants-actually-show-up
+http://www.gv.com/lib/lessons-from-a-truck-stop-how-to-conduct-field-research-without-a-hitch
+http://www.gv.com/lib/get-better-data-from-user-studies-16interviewing-tips
+http://www.gv.com/lib/how-to-hack-your-body-language-for-better-interviews
+http://www.gv.com/lib/tips-for-testing-your-designs-with-usertesting-com
+http://www.usertesting.com/blog/2011/10/24/tips-for-top-test-results
+
+https://www.pinterest.com/search/pins/?q=Facebook+stats
+
+https://www.gv.com/lib/story-centered-design-how-to-make-a-prototype-in-powerpoint
+http://www.gv.com/lib/shortening-the-build-measure-learn-cycle-with-clickable-mockups
+http://www.gv.com/lib/free-prototypes
+
+http://googledevelopers.blogspot.com/2014/07/design-sprints-for-developers.html
+http://googledevelopers.blogspot.com/2014/04/a-conversation-about-design.html
+https://docs.google.com/forms/d/16Mhu_66CalPHpR4GryV22H8jTps5a6G_OQaFhWtGPgw/viewform
+
+http://www.fastcodesign.com/3028471/google-ventures-your-design-team-needs-a-war-room-heres-how-to-set-one-up
+http://www.fastcompany.com/3007363/google-ventures-secret-mantra-super-productive-meetings
+http://www.fastcodesign.com/1672947/got-a-bright-idea-test-it-with-a-rapid-fire-user-study
+-->
+<!--
+http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht
+
+http://www.designsprintbook.com
+https://storify.com/centraldesign/design-sprint
+https://leansoftwaredelivery.wordpress.com/2014/12/22/our-first-attempt-at-using-google-ventures-product-design-sprint
+-->
+<!--
+https://www.startups.co
+-->
+<!--
+http://www.thedsmgroup.com/blog/domain-name-generators-tools      
+-->
+<!--
+http://validator.w3.org/mobile
+https://developers.google.com/speed/pagespeed/insights
 -->
                                 <br><p>Maslow</p>
                                 <a href="http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs" target="_blank">Maslow's Hierarchy of Needs Wikipedia</a><br>
@@ -130,9 +164,7 @@ http://practicetrumpstheory.com/how-i-built-my-minimum-viable-product
                                 <a href="https://twitter.com/ValaAfshar/status/587312922709340160" target="_blank">The Innovator's Dilemma Explained by Marc Andreessen</a><br>
                                 <a href="http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you" target="_blank">Mark Suster- How The Innovator's Dilemma Affects You</a><br>
                                 <a href="http://www.christenseninstitute.org/key-concepts/jobs-to-be-done" target="_blank">Jobs to be Done</a><br>
-<!--
-https://strategyn.com/customer-centered-innovation-map
--->
+
                                 <br><p>Product</p>
                                 <a href="http://en.wikipedia.org/wiki/Product" target="_blank">Product Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Product_(business)" target="_blank">Product (Business) Wikipedia</a><br>
@@ -149,32 +181,7 @@ https://strategyn.com/customer-centered-innovation-map
                                 <a href="http://en.wikipedia.org/wiki/Market_segmentation" target="_blank">Market Segmentation Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Target_market" target="_blank">Target Market Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Relevant_market" target="_blank">Relevant Market Wikipedia</a><br>
-<!--
-Prototyping Tools
-https://docs.google.com/spreadsheets/d/14t8fLWtIRPe91nSXXlsLyj_yCuhLI4hx-CQS1SBRb44/htmlview?sle=true#gid=0
-
-http://en.wikipedia.org/wiki/Rapid_application_development
-http://en.wikipedia.org/wiki/Rapid_prototyping
-http://en.wikipedia.org/wiki/Prototype
-http://en.wikipedia.org/wiki/Mockup
-http://en.wikipedia.org/wiki/Paper_prototyping
-http://en.wikipedia.org/wiki/Website_wireframe
-
-http://en.wikipedia.org/wiki/Voice_of_the_customer
-http://en.wikipedia.org/wiki/User_interface_design
-http://en.wikipedia.org/wiki/User_experience
-http://en.wikipedia.org/wiki/User_experience_design
-http://en.wikipedia.org/wiki/User_experience_evaluation
-http://en.wikipedia.org/wiki/User_Research
-
-https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=list%20of%20markets
-https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=list+of+industries&revid=1437192067
-http://help.surveymonkey.com/articles/en_US/kb/What-demographic-criteria-can-I-use-to-target-respondents
-http://www.cses.org/varlist/varlist_demog.htm
-http://en.wikipedia.org/wiki/Positioning_(marketing)
-http://en.wikipedia.org/wiki/Brand_management
-http://en.wikipedia.org/wiki/Global_environmental_analysis
--->            
+            
                                 <br><p>Demographics and Population</p> 
                                 <a href="http://en.wikipedia.org/wiki/Category:Demographics" target="_blank">Demographics Category Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Demographics" target="_blank">Demographics Wikipedia</a><br>
@@ -209,16 +216,7 @@ http://en.wikipedia.org/wiki/Global_environmental_analysis
                                 <a href="https://twitter.com/vivian/timelines/505375883063230465" target="_blank">71 Ways to Monetize Digital Content</a><br>
                                 <a href="http://www.foliomag.com/2014/71-ways-monetize-digital-content#.VACqtvldXQq" target="_blank">71 Ways to Monetize Digital Content- Article</a><br>
                                 <a href="http://scripting.com/davenet/2000/02/04/howToMakeMoneyOnTheInterne.html" target="_blank">Dave Winer How to Make Money on the Internet</a><br>
-<!--
-https://hackpad.com/EgXuEtSibE7#Web-And-Mobile-Revenue-Models-(final)
-http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-advertising.html
-http://avc.com/2013/01/mba-mondays-revenue-models-subscriptions
-http://avc.com/2013/01/mba-mondays-revenue-models-peer-to-peer
-http://avc.com/2013/01/mba-mondays-revenue-models-transaction-processing
-http://avc.com/2013/01/mba-mondays-revenue-models-licensing
-http://avc.com/2013/02/mba-mondays-revenue-models-mobile
-http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-gaming.html
--->
+
                                 <br><p>Ideas</p>
                                 <a href="http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg" target="_blank">Visualizing the Idea Maze</a><br>
                                 <a href="http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg" target="_blank">The Idea State Machine</a><br>
@@ -239,24 +237,7 @@ http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-gaming.html
 
                                 <br><p>Steve Blank Lean LaunchPad Business Model Canvas</p> 
                                 <a href="https://steveblank.files.wordpress.com/2010/12/business-model-and-cust-dev.jpg" target="_blank">Steve Blank Lean LaunchPad- Business Model Canvas</a><br>
-<!--
-https://strategyzer.com/canvas
-http://businessmodelgeneration.com/canvas/vpc
-https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries
 
-http://www.startup-marketing.com/the-startup-pyramid
-
-http://mfishbein.com/the-ultimate-list-of-customer-development-questions
-http://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf
-
-https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1
-
-https://www.udacity.com/wiki/ep245/downloads
-http://steveblank.com/category/customer-development-manifesto
-http://www.slideshare.net/sblank/customer-discovery-23251533
-http://steveblank.com/2010/12/07/the-lean-launchpad-%E2%80%93-teaching-entrepreneurship-as-a-management-science
-http://www.slideshare.net/sblank/business-model-for-startups
--->
                                 <br><p>Business Model Canvas</p>                                
                                 <a href="http://www.businessmodelgeneration.com/canvas/bmc" target="_blank">Business Model Generation Canvas</a><br>
                                 <a href="http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf" target="_blank">Business Model Generation Canvas Poster</a><br>
@@ -362,42 +343,7 @@ http://www.slideshare.net/sblank/business-model-for-startups
                                 <a href="http://amzn.com/lm/RS9AYY6BTLDCM" target="_blank">Google Ventures Design Sprint Supply List</a><br>
                                 <a href="https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja" target="_blank">Google Ventures Design Sprint Sample Prototypes</a><br>
                                 <a href="http://gettingreal.37signals.com/ch11_Use_Real_Words.php" target="_blank">Use Real Words</a><br>
-<!--
-See also Market Research
-http://www.gv.com/lib/seven-tips-for-lean-market-research
-Skim abstracts, conclusions, and bibliographies/Research Centers and organizations/Search for syndicated research/Take advantage of less-obvious sources/Reach out to experts
 
-http://www.gv.com/lib/what-fuels-great-design-and-why-most-startups-dont-do-it
-http://boingboing.net/2008/12/13/meetups-dead-simple.html
-https://medium.com/@mulligan/how-to-run-live-user-testing-part-1-setup-9b7e9edd2de8
-
-http://www.gv.com/lib/improve-your-startups-surveys-and-get-even-better-data
-https://www.gv.com/lib/how-to-find-great-participants-for-your-user-study
-http://www.gv.com/lib/micro-surveys-a-faster-way-to-learn-about-your-users
-http://www.gv.com/lib/rapid-user-research-how-to-survey-400-users-and-interview-10-in-three-days
-https://medium.com/@mulegirl/focus-groups-are-worthless-7d30891e58f1
-http://www.gv.com/lib/getting-out-of-the-building-isnt-enough
-http://www.gv.com/lib/no-more-no-shows-how-to-make-sure-your-research-participants-actually-show-up
-http://www.gv.com/lib/lessons-from-a-truck-stop-how-to-conduct-field-research-without-a-hitch
-http://www.gv.com/lib/get-better-data-from-user-studies-16interviewing-tips
-http://www.gv.com/lib/how-to-hack-your-body-language-for-better-interviews
-http://www.gv.com/lib/tips-for-testing-your-designs-with-usertesting-com
-http://www.usertesting.com/blog/2011/10/24/tips-for-top-test-results
-
-https://www.pinterest.com/search/pins/?q=Facebook+stats
-
-https://www.gv.com/lib/story-centered-design-how-to-make-a-prototype-in-powerpoint
-http://www.gv.com/lib/shortening-the-build-measure-learn-cycle-with-clickable-mockups
-http://www.gv.com/lib/free-prototypes
-
-http://googledevelopers.blogspot.com/2014/07/design-sprints-for-developers.html
-http://googledevelopers.blogspot.com/2014/04/a-conversation-about-design.html
-https://docs.google.com/forms/d/16Mhu_66CalPHpR4GryV22H8jTps5a6G_OQaFhWtGPgw/viewform
-
-http://www.fastcodesign.com/3028471/google-ventures-your-design-team-needs-a-war-room-heres-how-to-set-one-up
-http://www.fastcompany.com/3007363/google-ventures-secret-mantra-super-productive-meetings
-http://www.fastcodesign.com/1672947/got-a-bright-idea-test-it-with-a-rapid-fire-user-study
--->
                                 <br><p>Thoughtbot Playbook and Design Sprint</p>
                                 <a href="http://playbook.thoughtbot.com/#product-design-sprint" target="_blank">Playbook Thoughtbot Design Sprint</a><br>
                                 <a href="http://robots.thoughtbot.com/the-product-design-sprint" target="_blank">Thoughtbot Design Sprint- Materials</a><br>
@@ -414,13 +360,7 @@ http://www.fastcodesign.com/1672947/got-a-bright-idea-test-it-with-a-rapid-fire-
                                 <a href="https://medium.com/@makeshowlearn/personal-design-sprint-ii-food-tracking-af853a78a210" target="_blank">Francis Cortez Design Sprint #2</a><br>
                                 <a href="https://medium.com/@makeshowlearn/personal-design-sprint-iii-prompts-10949cc4cf6b" target="_blank">Francis Cortez Design Sprint #3</a><br>
                                 <a href="https://github.com/makeshowlearn/framer-prompts" target="_blank">Francis Cortez Design Sprint #3 Prototype GitHub</a><br>
-<!--
-http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht
 
-http://www.designsprintbook.com
-https://storify.com/centraldesign/design-sprint
-https://leansoftwaredelivery.wordpress.com/2014/12/22/our-first-attempt-at-using-google-ventures-product-design-sprint
--->
                                 <br><p>Pretotyping</p>
                                 <a href="http://www.pretotyping.org/resources.html" target="_blank">Pretotyping Resources</a><br>
                                 <a href="http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf" target="_blank">Pretotyping It</a><br>
@@ -431,9 +371,7 @@ https://leansoftwaredelivery.wordpress.com/2014/12/22/our-first-attempt-at-using
                                 <br><p>Demos</p>
                                 <a href="http://en.wikipedia.org/wiki/Technology_demonstration" target="_blank">Technology Demo Wikipedia</a><br>
                                 <a href="http://en.wikipedia.org/wiki/Demo_mode" target="_blank">Demo Mode Wikipedia</a><br>
-<!--
-https://www.startups.co
--->
+
                                 <br><p>Lorem Ipsum</p>
                                 <a href="http://www.lipsum.com" target="_blank">Lipsum</a><br>
                                 <a href="http://www.cupcakeipsum.com" target="_blank">Cupcake Ipsum</a><br>
@@ -443,9 +381,7 @@ https://www.startups.co
                                 
                                 <br><p>Name Generators</p>
                                 <a href="http://www.naminum.com" target="_blank">Namium</a><br>
-<!--
-http://www.thedsmgroup.com/blog/domain-name-generators-tools      
--->
+
                                 <br><p>Device Mockups</p>
                                 <a href="https://github.com/pixelsign/html5-device-mockups" target="_blank">HTML5 Device Mockups GitHub</a><br>    
                                 <a href="http://gadgetsguy.deviantart.com/gallery" target="_blank">Smart Phone Mockups</a><br>
@@ -523,10 +459,7 @@ http://www.thedsmgroup.com/blog/domain-name-generators-tools
                                 <a href="http://try.crashlytics.com/beta" target="_blank">Crashlytics Beta Testing</a><br>
                                 <a href="https://launchkit.io" target="_blank">Launchkit</a><br>
                                 <a href="https://mixpanel.com" target="_blank">Mixpanel</a><br>
-<!--
-http://validator.w3.org/mobile
-https://developers.google.com/speed/pagespeed/insights
--->
+
                                 <br><p>Design- General</p>
                                 <a href="http://en.wikipedia.org/wiki/Design_thinking" target="_blank">Design Thinking Wikipedia</a><br>
                                 <a href="https://hbr.org/2012/09/the-secret-phrase-top-innovato" target="_blank">"How Might We"</a><br>

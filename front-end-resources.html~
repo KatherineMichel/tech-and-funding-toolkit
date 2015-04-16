@@ -1,64 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="favicon.png">
-    
-    <title>Katherine Michel: Awesome Resources</title>
-    
-    <!--Based on Bootstrap Blog and Start Bootstrap FAQ-->
-
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-</head>
-
-<body>
-
-    <div class="blog-masthead">
-      <div class="container">
-        <nav class="blog-nav">
-          <a class="blog-nav-item" href="http://katherinemichel.github.io" target="_blank">Home</a>
-          <a class="blog-nav-item" href="http://katherinemichel.github.io/blog" target="_blank">Blog</a>
-          <!--<a class="blog-nav-item" href="https://docs.google.com/document/d/1Zx7Ql64x8i4ipMtqjueAph1W-euh2iyxhYdomWqTjiU/edit?usp=sharing" target="_blank">Resume'</a>-->
-          <a class="blog-nav-item" href="http://katherinemichel.github.io/portfolio" target="_blank">Portfolio</a>
-          <!--<a class="blog-nav-item" href="http://katherinemichel.github.io/portfolio/attribution#attributionelsewhere">Elsewhere</a>-->
-        </nav>
-      </div>
-    </div>
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-12">
-                <h1 class="page-header"> Awesome Resources
-                    <small>My Notes</small>
-                </h1>
-            </div>
-
-       <div class="row">
-
-             <div class="col-lg-12">
-                <ul class="breadcrumb">
-                    <li><a href="project-management.html" target="_blank">Project Management</a></li>
-                    <li><a href="research.html" target="_blank">Research</a></li>
-                    <li><a href="prototyping.html" target="_blank">Prototyping</a></li>
-                    <li><a href="viral-and-unicorns.html" target="_blank">Viral and Unicorns</a></li>
-                    <li class="active"><a href="front-end-resources.html" target="_blank">Front-end Resources</a></li>
-                    <li><a href="index.html" target="_blank">Back-end Resources</a></li>
-                    <li><a href="mobile-and-iot.html" target="_blank">Mobile and IoT</a></li> 
-                    <li><a href="data-science.html" target="_blank">Data Science</a></li>
-                    <li><a href="orgs-on-github.html" target="_blank">Orgs on GitHub</a></li>
-                </ul></div>
-           
-        </div>
-
-        </div>
 
         <div class="row">
 
@@ -119,28 +59,7 @@
                                 <a href="https://github.com/verekia/initializr-bootstrap" target="_blank">Initializr Bootstrap GitHub</a><br>
                                 <a href="https://github.com/larrybotha/styleguide" target="_blank">Styleguide GitHub</a><br>
                                 <a href="https://github.com/topcoat/topcoat" target="_blank">Topcoat GitHub</a><br>
-<!--
-http://www.wix.com/website/templates/html/all/28
 
-http://www.bootbundle.com
-https://www.maxcdn.com
-http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
-
-Ads
-http://carbonads.net
-http://www.bootstrapzero.com
-https://github.com/iatek/bootstrap-zero 
-http://www.bootstrapzero.com/bootstrap-templates
-http://www.bootstrapzero.com/bootstrap-template/blocks
-http://www.bootstrapzero.com/bootstrap-templates
-
-https://github.com/IronSummitMedia/startbootstrap
-https://github.com/IronSummitMedia/startbootstrap-clean-blog
-https://keen.io/blog/101269629091/charts-on-grids-responsive-dashboard-templates-with?s=twc2
-
-http://www.bootply.com/render/69913
-http://www.bootply.com/render/69873
--->
                                 <br><p>Bootstrap and Foundation</p>
                                 <a href="http://getbootstrap.com" target="_blank">Bootstrap</a><br>
                                 <a href="https://github.com/twbs/bootstrap" target="_blank">Bootstrap GitHub</a><br>
@@ -174,9 +93,7 @@ http://www.bootply.com/render/69873
                                 <a href="https://github.com/scripting/fargoTemplates" target="_blank">Fargo Templates GitHub</a><br>
                                 <a href="https://github.com/scripting/fargoPublisher" target="_blank">Fargo Publisher GitHub</a><br>                                
                                 <a href="https://github.com/scripting/scripting.github.io" target="_blank">Fargo Example GitHub</a><br>  
-<!--
-http://scripting.com/2015/02/07/theUneditedVoiceOfAPerson.html
--->
+
                                 <br><p>Design Resources- Marketplaces</p>
                                 <a href="http://themeforest.net" target="_blank">Theme Forest</a><br>
                                 <a href="https://wrapbootstrap.com" target="_blank">Wrapbootstrap</a><br>
@@ -310,6 +227,31 @@ http://scripting.com/2015/02/07/theUneditedVoiceOfAPerson.html
                                 <a href="http://tympanus.net/Development/ProgressButtonStyles" target="_blank"> http://tympanus.net/Development/ProgressButtonStyles</a><br>
 
 <!--
+http://www.wix.com/website/templates/html/all/28
+
+http://www.bootbundle.com
+https://www.maxcdn.com
+http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
+
+Ads
+http://carbonads.net
+http://www.bootstrapzero.com
+https://github.com/iatek/bootstrap-zero 
+http://www.bootstrapzero.com/bootstrap-templates
+http://www.bootstrapzero.com/bootstrap-template/blocks
+http://www.bootstrapzero.com/bootstrap-templates
+
+https://github.com/IronSummitMedia/startbootstrap
+https://github.com/IronSummitMedia/startbootstrap-clean-blog
+https://keen.io/blog/101269629091/charts-on-grids-responsive-dashboard-templates-with?s=twc2
+
+http://www.bootply.com/render/69913
+http://www.bootply.com/render/69873
+-->
+<!--
+http://scripting.com/2015/02/07/theUneditedVoiceOfAPerson.html
+-->
+<!--
                                 <br><p>Individual Device Mockups</p>
                                 <a href="https://github.com/d3v3r0/iPhone-mockUp" target="_blank">iPhone Mockup GitHub</a><br>
                                 <a href="https://github.com/bradrich/simple-webdesign-iphonevertical-mockup" target="_blank">iPhone Vertical GitHub</a><br>
@@ -389,45 +331,6 @@ https://www.linkedin.com/pulse/article/20141011060854-71962-how-colors-matter-mo
                                 <br><p>HTML5 Dog:</p>
                                 <p>http://htmldog.com</p>
                                 <p>http://www.htmldog.com/guides/css/beginner/applyingcss</p>
---> 
-
-<!--
-                           </div>
-                        </div>
-                    </div>
--->
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-    <!-- /.container -->
-
-    <div class="container">
-    <div class="blog-footer">
-      <p>&copy; Katherine Michel 2013-2015 &nbsp; <a href="http://katherinemichel.github.io/contact-me.html" target="_blank">Contact Me</a> &nbsp; <a href="http://katherinemichel.github.io/attribution.html" target="_blank">Attribution</a>  &nbsp; <a href="#">Back to Top</a><br> <br>
-      <a name="attributionelsewhere">  
-      	<a href="https://github.com/KatherineMichel" target="_blank"><i class="fa solo fa-github-square fa-5x"></i></a>
-      	<a href="https://plus.google.com/u/0/112490330070859885485" target="_blank"><i class="fa solo fa-google-plus-square fa-5x"></i></a>
-      	<a href="http://www.linkedin.com/in/katherinemichel" target="_blank"><i class="fa solo fa-linkedin-square fa-5x"></i></a>
-      	<a href="http://www.slideshare.net/KatiMichel" target="_blank"><i class="fa solo fa-bar-chart-o fa-5x"></i></a>
-      	<a href="https://twitter.com/KatiMichel" target="_blank"><i class="fa solo fa-twitter-square fa-5x"></i></a>
-      </p>
-      <p
-
-    </div>
-    </div>
-
-    <script src="js/jquery-1.10.2.js"></script>
-    <script src="js/bootstrap.js"></script>
-
-</body>
-
-</html>
 
 
 
