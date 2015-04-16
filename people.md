@@ -27,6 +27,7 @@
 
 #### Analysts and Thought Leaders
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile) 
+*   [Alex Osterwalder](http://www.alexosterwalder.com) and [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder)
 *   [Anil Dash](http://dashes.com/anil)
 *   [Ben Bajarin](http://atbenbajarin.com)   
 *   [Benedict Evans](http://ben-evans.com) and [Benedict Evans Slideshare](http://www.slideshare.net/bge20)
@@ -58,6 +59,6 @@
 *   [Robert Scoble](https://www.facebook.com/RobertScoble)
 *   [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
 *   [Sree Sreenivasan](https://twitter.com/sree)  
-*   [Steve Blank](http://steveblank.com) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
+*   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
