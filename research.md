@@ -205,25 +205,12 @@ Paul Graham
 
 Fred Wilson
 
-[AVC](http://avc.com)  
  [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)  
 
 Chris Dixon
 
 [Chris Dixon Startup School YouTube](https://www.youtube.com/watch?v=akOazwgDiSI)  
  [Summary of Chris Dixon Startup School YouTube](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
-
-Chris Sacca
-
-[Chris Sacca](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html)  
-
-Mark Suster
-
-[Mark Suster Slideshare](http://www.slideshare.net/msuster)   
-
-Andrew Chen
-
-[Andrew Chen List of Essays](http://andrewchen.co/list-of-essays)  
 
 Reed Hastings and Netflix Freedom and Responsibility Culture
 
@@ -269,11 +256,7 @@ People- General
  [Marc Andreessen Industry List Tweetstorm](https://twitter.com/pngmarca/status/523961618116276224)  
  [Robert Scoble Twitter Lists](https://twitter.com/Scobleizer/lists)  
  [Web Summit Investors](https://websummit.net/investors)  
- [Benedict Evans Slideshare](http://www.slideshare.net/bge20)  
- [Brian Solis Slideshare](http://www.slideshare.net/briansolis)  
- [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang)  
- [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)  
-
+ 
 People- Slideshare and Twitter Only
 
 [Alex Howard Slideshare](http://www.slideshare.net/digiphile)  
