@@ -224,7 +224,6 @@ More VC Website Resources
 
 People- General
 
-[Blogs I Follow](http://katherinemichel.github.io/blog#BlogsIFollow)  
  [500 Startups Mentors](http://500.co/mentors)  
  [Angelist People](https://angel.co/people)  
  [GMC Following Twitter](https://twitter.com/gmc/following)  
@@ -233,15 +232,6 @@ People- General
  [Robert Scoble Twitter Lists](https://twitter.com/Scobleizer/lists)  
  [Web Summit Investors](https://websummit.net/investors)  
  
-People- Slideshare and Twitter Only
-
-[Alex Howard Slideshare](http://www.slideshare.net/digiphile)  
- [Beth Kanter Slideshare](http://www.slideshare.net/kanter)  
- [Charline Li Slideshare](http://www.slideshare.net/charleneli)  
- [Guy Kawasaki Slideshare](http://www.slideshare.net/GKawasaki)  
- [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil)  
- [Sree Sreenivasan](https://twitter.com/sree)  
-
 #### Microsoft Office and Financial Modelling  
 
 Office Live and Office Starter
