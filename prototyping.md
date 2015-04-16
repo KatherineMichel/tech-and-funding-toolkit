@@ -185,32 +185,6 @@ UX Metrics
 
 [HEART Framework](http://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product )  
 
-Google Ventures Design Sprint- Supporting Docs
-
-[Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)  
- [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
- [Use Real Words](http://gettingreal.37signals.com/ch11_Use_Real_Words.php)  
-
-Thoughtbot Playbook and Design Sprint
-
-[Playbook Thoughtbot Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint)  
- [Thoughtbot Design Sprint- Materials](http://robots.thoughtbot.com/the-product-design-sprint)  
- [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)  
- [Thoughtbot Design Sprint- iOS Coaching](https://robots.thoughtbot.com/ios-coaching-product-design-sprint)  
-
-BBC Design Sprint Blog Post
-
-[BBC Design Sprint Blog Post](http://www.bbc.co.uk/blogs/internet/entries/60392136-1685-39c4-84bc-b8b2f54f6556)  
- [BBC Design Sprint 2 GitHub](https://github.com/BBC/timelines-design-sprint-2-prototypes/tree/gh-pages)  
-
-Francis Cortez Design Sprint
-
-[Francis Cortez](http://makeshowlearn.com)  
- [Francis Cortez Design Sprint #1](http://franciscortez.com/design-sprint)  
- [Francis Cortez Design Sprint #2](https://medium.com/@makeshowlearn/personal-design-sprint-ii-food-tracking-af853a78a210)  
- [Francis Cortez Design Sprint #3](https://medium.com/@makeshowlearn/personal-design-sprint-iii-prompts-10949cc4cf6b)  
- [Francis Cortez Design Sprint #3 Prototype GitHub](https://github.com/makeshowlearn/framer-prompts)  
-
 Pretotyping
 
 [Pretotyping Resources](http://www.pretotyping.org/resources.html)  
