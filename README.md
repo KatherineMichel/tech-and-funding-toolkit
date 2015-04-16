@@ -1,3 +1,3 @@
-venture-capital-toolkit
+tech-and-venture-capital-toolkit
 ====================
 
