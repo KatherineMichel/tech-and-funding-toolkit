@@ -110,16 +110,8 @@ Product People- Sean Ellis
  [Startup-Marketing](http://www.startup-marketing.com)  
 
 Product People- Steve Blank
-
-[Steve Blank](http://steveblank.com)  
- [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank)  
- [Steve Blank Slideshare](http://www.slideshare.net/sblank)  
-
-Product People- Alex Osterwalder
-
-[Alex Osterwalder](http://www.alexosterwalder.com)  
- [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder)  
-
+http://steveblank.com/tools-and-blogs-for-entrepreneurs
+ 
 Steve Blank Lean LaunchPad Business Model Canvas
 
 [Steve Blank Lean LaunchPad- Business Model Canvas](https://steveblank.files.wordpress.com/2010/12/business-model-and-cust-dev.jpg)  
