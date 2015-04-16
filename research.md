@@ -172,7 +172,7 @@ Government Funding
  [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx)  
  [DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
 
-#### [ SEC and Unicorns ]
+#### SEC and Unicorns
 
 S-1 Filings
 
@@ -220,7 +220,7 @@ Unicorns
  [OSV Research Unicorns, Startups, and Giants](http://osvresearch.com)  
  [The $6 Billion Opportunity](http://shaigoldman.com/2014/10/16/the-600b-opportunity)  
 
-#### [ VC Resources, People ]
+#### VC Resources, People
 
 500 Startups
 
@@ -331,7 +331,7 @@ People- Slideshare and Twitter Only
  [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil)  
  [Sree Sreenivasan](https://twitter.com/sree)  
 
-#### [ Microsoft Office and Financial Modelling ]  
+#### Microsoft Office and Financial Modelling  
 
 Office Live and Office Starter
 
@@ -348,7 +348,7 @@ Financial Modelling
  [Spreadsheet Standards Review Board](http://www.ssrb.org)  
  [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)  
 
-#### [ Legal Documents and Policies ] 
+#### Legal Documents and Policies 
 
 500 Startups, Tech Stars, and YCombinator Docs/RFS
 
@@ -468,7 +468,7 @@ Social Media Guidelines
 
 [Rackspace Social Media Guidelines GitHub](https://github.com/rackspace/social_media_guidelines)  
 
-#### [ Metrics ] 
+#### Metrics 
 
 OKRs
 
@@ -488,7 +488,7 @@ Metrics
  [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel)  
  [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart)  
 
-#### [ Tech Podcasts and Courses ] 
+#### Tech Podcasts and Courses
 
 VC and Tech Podcasts
 
@@ -514,7 +514,7 @@ YCombinator Stanford Startup Class
 [YCombinator Stanford Startup Class](http://startupclass.samaltman.com)  
  [YCombinator Stanford Startup Class YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)  
 
-#### [ News Aggregation, Research, MOOCs ] 
+#### News Aggregation, Research, MOOCs
 
 Hacker News
 
@@ -602,7 +602,7 @@ MOOC- Special Tracks
 [Specializations](https://www.coursera.org/specialization)  
  [Udacity Google Track](https://www.udacity.com/lp/google)  
 
-#### [ Growth, Marketing, Content ] 
+#### Growth, Marketing, Content 
 
 Growth, Marketing, Content
 
@@ -651,7 +651,7 @@ Moz
  [Moz Cyrus Shepard Slideshare](http://www.slideshare.net/cyrusshepard)  
  [Moz Peter Meyers Slideshare](http://www.slideshare.net/crumplezone)  
 
-#### [ Various Articles ] 
+#### Various Articles
 
 Software and Mobile are Eating the World, Creative Destruction
 
@@ -743,7 +743,7 @@ Ryan Allis and Tom Peters Inspirational PowerPoints
 [Ryan Allis PowerPoint](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis)  
  [Tom Peters PowerPoint](http://tompeters.com/2014/09/new-annotated-master-presentation)  
 
-#### [ Dev Conferences, Hackathons ] 
+#### Dev Conferences, Hackathons 
 
 Designer/Developer Conferences
 
@@ -789,7 +789,7 @@ Startup Competitions
 [Google for Entrepreneurs Demo Day](http://www.googleforentrepreneursdemoday.com)  
  [Twitter Hatch](http://hatch.io)  
 
-#### [ Libraries, Academic, Journalism, Petitions ] 
+#### Libraries, Academic, Journalism, Petitions 
 
 Libraries
 
@@ -847,7 +847,7 @@ Petitions
 [No. 10 Petitions GitHub](https://github.com/mysociety/petitions)  
  [White House Petitions GitHub](https://github.com/WhiteHouse/petitions)  
 
-#### [ Computers, Phones, Apps, Websites, Platforms ]
+#### Computers, Phones, Apps, Websites, Platforms
 
 Wikipedia- Computer and Mobile Lists and Comparisons
 
@@ -999,7 +999,7 @@ Comparison of Social Media Networks
 
 [Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)  
 
-#### [ Tools ] 
+#### Tools 
 
 Amazon Example Press Release
 
@@ -1546,7 +1546,7 @@ Credit Cards
 [jQuery Credit Card Validator GitHub](https://github.com/PawelDecowski/jQuery-CreditCardValidator)  
  [Credit Card Input Enhancement GitHub](https://github.com/kenkeiter/skeuocard)  
 
-#### [ More Services and Tools ] 
+#### More Services and Tools
 
 More Social Media
 
@@ -1593,7 +1593,7 @@ Remote Workers
  [Freelancer](http://www.freelancer.com)  
  [TaskArmy](http://taskarmy.com)  
 
-#### [ Management Consulting and Financial Services ]
+#### Management Consulting and Financial Services
 
 
 List of Management Consulting Firms
@@ -1630,7 +1630,7 @@ Bitcoin
  [Sidechains Paper- Rap Genius](http://tech.genius.com/Adam-back-enabling-blockchain-innovations-with-pegged-sidechains-annotated)  
  [Dogecoin GitHub](https://github.com/dogecoin/dogecoin)  
 
-#### [ Laws, Theory, Logic ] 
+#### Laws, Theory, Logic
 
 Digital Millennium Copyright Act
 
