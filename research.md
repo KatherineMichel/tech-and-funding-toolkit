@@ -172,14 +172,7 @@ Government Funding
  [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx)  
  [DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
 
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ SEC and Unicorns ](#collapseSecandunicorns) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseSecandunicorns" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ SEC and Unicorns ]
 
 S-1 Filings
 
@@ -226,20 +219,8 @@ Unicorns
  [Hackpad Billion Dollar Valuations For Vintage Years 2003-2014](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
  [OSV Research Unicorns, Startups, and Giants](http://osvresearch.com)  
  [The $6 Billion Opportunity](http://shaigoldman.com/2014/10/16/the-600b-opportunity)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ VC Resources, People ](#collapseVcresourcespeople) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseVcresourcespeople" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ VC Resources, People ]
 
 500 Startups
 
@@ -349,20 +330,8 @@ People- Slideshare and Twitter Only
  [Guy Kawasaki Slideshare](http://www.slideshare.net/GKawasaki)  
  [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil)  
  [Sree Sreenivasan](https://twitter.com/sree)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Microsoft Office and Financial Modelling ](#collapseMicrosoftofficeandfinancialmodelling) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseMicrosoftofficeandfinancialmodelling" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Microsoft Office and Financial Modelling ]  
 
 Office Live and Office Starter
 
@@ -378,20 +347,8 @@ Financial Modelling
  [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
  [Spreadsheet Standards Review Board](http://www.ssrb.org)  
  [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Legal Documents and Policies ](#collapseLegaldocuments) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseLegaldocuments" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Legal Documents and Policies ] 
 
 500 Startups, Tech Stars, and YCombinator Docs/RFS
 
@@ -510,20 +467,8 @@ Code of Conduct
 Social Media Guidelines
 
 [Rackspace Social Media Guidelines GitHub](https://github.com/rackspace/social_media_guidelines)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Metrics ](#collapseMetrics) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseMetrics" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Metrics ] 
 
 OKRs
 
@@ -542,20 +487,8 @@ Metrics
 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate)  
  [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel)  
  [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Tech Podcasts and Courses ](#collapseTechpodcastsandcourses) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseTechpodcastsandcourses" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Tech Podcasts and Courses ] 
 
 VC and Tech Podcasts
 
@@ -580,20 +513,8 @@ YCombinator Stanford Startup Class
 
 [YCombinator Stanford Startup Class](http://startupclass.samaltman.com)  
  [YCombinator Stanford Startup Class YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ News Aggregation, Research, MOOCs ](#collapseNewsaggregation) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseNewsaggregation" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ News Aggregation, Research, MOOCs ] 
 
 Hacker News
 
@@ -680,20 +601,8 @@ MOOC- Special Tracks
 
 [Specializations](https://www.coursera.org/specialization)  
  [Udacity Google Track](https://www.udacity.com/lp/google)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Growth, Marketing, Content ](#collapseGrowthmarketingcontent) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseGrowthmarketingcontent" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Growth, Marketing, Content ] 
 
 Growth, Marketing, Content
 
@@ -741,20 +650,8 @@ Moz
  [Moz Rand Fishkin Slideshare](http://www.slideshare.net/randfish)  
  [Moz Cyrus Shepard Slideshare](http://www.slideshare.net/cyrusshepard)  
  [Moz Peter Meyers Slideshare](http://www.slideshare.net/crumplezone)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Various Articles ](#collapseVariousarticles) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseVariousarticles" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Various Articles ] 
 
 Software and Mobile are Eating the World, Creative Destruction
 
@@ -845,20 +742,8 @@ Ryan Allis and Tom Peters Inspirational PowerPoints
 
 [Ryan Allis PowerPoint](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis)  
  [Tom Peters PowerPoint](http://tompeters.com/2014/09/new-annotated-master-presentation)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Dev Conferences, Hackathons ](#collapseDevconferences) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseDevconferences" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Dev Conferences, Hackathons ] 
 
 Designer/Developer Conferences
 
@@ -903,20 +788,8 @@ Startup Competitions
 
 [Google for Entrepreneurs Demo Day](http://www.googleforentrepreneursdemoday.com)  
  [Twitter Hatch](http://hatch.io)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Libraries, Academic, Journalism, Petitions ](#collapseJournalisticresources) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseJournalisticresources" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Libraries, Academic, Journalism, Petitions ] 
 
 Libraries
 
@@ -973,20 +846,8 @@ Petitions
 
 [No. 10 Petitions GitHub](https://github.com/mysociety/petitions)  
  [White House Petitions GitHub](https://github.com/WhiteHouse/petitions)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Computers, Phones, Apps, Websites, Platforms ](#collapseComputers) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseComputers" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Computers, Phones, Apps, Websites, Platforms ]
 
 Wikipedia- Computer and Mobile Lists and Comparisons
 
@@ -1137,20 +998,8 @@ Internet Platforms
 Comparison of Social Media Networks
 
 [Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Tools ](#collapseTools) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseTools" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Tools ] 
 
 Amazon Example Press Release
 
@@ -1561,13 +1410,6 @@ Slideshare Insight
 GitHub Analytics
 
 [GitHub Analytics GitHub](https://github.com/tutsplus/github-analytics)  
- &amp;lt;/div&amp;gt;
-
-&lt;/div&gt;
-
-</div>
-
-  
 
 Open Source Analytics
 
@@ -1704,14 +1546,7 @@ Credit Cards
 [jQuery Credit Card Validator GitHub](https://github.com/PawelDecowski/jQuery-CreditCardValidator)  
  [Credit Card Input Enhancement GitHub](https://github.com/kenkeiter/skeuocard)  
 
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ More Services and Tools ](#collapseServices) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseServices" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ More Services and Tools ] 
 
 More Social Media
 
@@ -1757,20 +1592,9 @@ Remote Workers
  [Fiverr](http://www.fiverr.com)  
  [Freelancer](http://www.freelancer.com)  
  [TaskArmy](http://taskarmy.com)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
+#### [ Management Consulting and Financial Services ]
 
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Management Consulting and Financial Services ](#collapseManagementconsultingandfinancialservicesFinancialservices) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseManagementconsultingandfinancialservices" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
 
 List of Management Consulting Firms
 
@@ -1805,20 +1629,8 @@ Bitcoin
  [Sidechains Paper](http://www.blockstream.com/sidechains.pdf)  
  [Sidechains Paper- Rap Genius](http://tech.genius.com/Adam-back-enabling-blockchain-innovations-with-pegged-sidechains-annotated)  
  [Dogecoin GitHub](https://github.com/dogecoin/dogecoin)  
- &amp;lt;/div&amp;gt;
 
-&lt;/div&gt;
-
-</div>
-
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Laws, Theory, Logic ](#collapseLawstheorylogic) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseLawstheorylogic" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;  
+#### [ Laws, Theory, Logic ] 
 
 Digital Millennium Copyright Act
 
@@ -1889,13 +1701,8 @@ Laws, Theories, Logic
  [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
  [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
  [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
- [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)  
+ [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
  [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
  [The Innovator's Dilemma Wkipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)  
  [Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model)  
- &amp;lt;/div&amp;gt;
-
-&lt;/div&gt;
-
-</div>
-
+ 
