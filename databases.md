@@ -1,5 +1,5 @@
 
-Company and Product Databases
+# Company and Product Databases
 
 *   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk)  
 *   [Betalist](http://betalist.com)  
@@ -9,7 +9,7 @@ Company and Product Databases
 *   [Mattermark](http://mattermark.com)  
 *   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com)  
 
-Company and Product Database APIs
+# Company and Product Database APIs
 
 *   [Angelist API](https://angel.co/api)  
 *   [Crunchbase API](https://developer.crunchbase.com)  
