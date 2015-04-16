@@ -1,11 +1,4 @@
-<div class="panel panel-default">
-&lt;div class="panel-heading"&gt;
-#### [ Organizations on GitHub ](#collapseCompaniesandorganizationsongithub) 
-
-&lt;/div&gt;
-
-&lt;div id="collapseCompaniesandorganizationsongithub" class="panel-collapse collapse"&gt;
-&amp;lt;div class="panel-body"&amp;gt;--&amp;amp;gt; [ 18F](https://github.com/18F)  
+ [ 18F](https://github.com/18F)  
  [ 23andMe](https://github.com/23andMe)  
  [ 37signals](https://github.com/37signals)  
  [ addthis](https://github.com/addthis)  
@@ -185,8 +178,5 @@
  [ winjs](https://github.com/winjs)  
  [ yahoo](https://github.com/yahoo)  
  [ Yelp](https://github.com/Yelp)  
- [ youtube](https://github.com/youtube) [ zillow-research](https://github.com/zillow-research)&amp;lt;/div&amp;gt;
-
-&lt;/div&gt;
-
-</div>
+ [ youtube](https://github.com/youtube) 
+ [ zillow-research](https://github.com/zillow-research)
