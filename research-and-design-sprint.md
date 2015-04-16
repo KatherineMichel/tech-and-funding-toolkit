@@ -17,7 +17,7 @@
 *   [Fast Co Google Ventures Design Sprint How To Decide What Ideas To Prototype](http://www.fastcodesign.com/1672929/how-to-decide-what-ideas-to-prototype)  
 *   [Fast Co Google Ventures Design Sprint A Lightning-Fast Way To Make A Digital Prototype](http://www.fastcodesign.com/1672940/a-lightning-fast-way-to-make-a-digital-prototype)  
 
-Google Ventures Research Sprint- Supporting Docs
+#### Google Ventures Research Sprint- Supporting Docs
 
 *   [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty)  
 *   [Google Ventures Research Quick and Dirty Research PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
@@ -30,7 +30,7 @@ Google Ventures Research Sprint- Supporting Docs
 *   [Google Ventures Research Sprint Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform)  
 *   [Google Ventures Research Sprint Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
  
- Google Ventures Design Sprint- Supporting Docs
+#### Google Ventures Design Sprint- Supporting Docs
 
 *   [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
