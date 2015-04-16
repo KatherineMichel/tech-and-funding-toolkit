@@ -4,16 +4,11 @@ Company and Product Databases
 *   [Angelist](https://angel.co)  
 *   [Angelist U.K.](https://angel.co/uk)  
 *   [Betalist](http://betalist.com)  
-*   [CB Insights](https://www.cbinsights.com)  
-*   [CB Insights Blog](https://www.cbinsights.com/blog)  
-*   [CB Insights Twitter](https://twitter.com/CBinsights)  
+*   [CB Insights](https://www.cbinsights.com), [Blog](https://www.cbinsights.com/blog), [Twitter](https://twitter.com/CBinsights)  
 *   [CrunchBase](http://www.crunchbase.com)  
-*   [Datafox](http://www.datafox.co)  
-*   [Datafox Blog](http://www.datafox.co/blog)  
-*   [Datafox Twitter](https://twitter.com/datafoxco)  
+*   [Datafox](http://www.datafox.co), [Blog](http://www.datafox.co/blog), [Twitter](https://twitter.com/datafoxco)  
 *   [Mattermark](http://mattermark.com)  
-*   [Product Hunt](http://www.producthunt.com)  
-*   [Product Hunt Blog](http://blog.producthunt.com)  
+*   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com)  
 
 Company and Product Database APIs
 
