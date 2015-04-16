@@ -1,3 +1,3 @@
-awesome-resources
+venture-capital-toolkit
 ====================
-See gh-pages branch for files
+http://katherinemichel.github.io/venture-capital-toolkit
