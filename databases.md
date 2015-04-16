@@ -14,6 +14,4 @@ Company and Product Database APIs
 
 *   [Angelist API](https://angel.co/api)  
 *   [Crunchbase API](https://developer.crunchbase.com)  
-*   [Product Hunt API](https://rrhoover.typeform.com/to/U49PTQ)  
-*   [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api)  
-*   [Product Hunt API Docs](https://api.producthunt.com/v1/docs) 
+*   [Product Hunt API](https://rrhoover.typeform.com/to/U49PTQ), [GitHub](https://github.com/producthunt/producthunt-api), [Docs](https://api.producthunt.com/v1/docs) 
