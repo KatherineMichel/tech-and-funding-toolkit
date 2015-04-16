@@ -1,4 +1,5 @@
 #### Venture Captalists
+
 *   [Albert Wenger](http://continuations.com)
 *   [Andrew Chen](http://andrewchen.co/list-of-essays)
 *   [Ben Horowitz](http://www.bhorowitz.com)   
@@ -26,6 +27,7 @@
 *   [Tomasz Tunguz](http://www.tomtunguz.com)
 
 #### Analysts and Thought Leaders
+
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile) 
 *   [Alex Osterwalder](http://www.alexosterwalder.com) and [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder)
 *   [Anil Dash](http://dashes.com/anil)
