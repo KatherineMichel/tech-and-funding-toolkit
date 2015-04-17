@@ -369,11 +369,6 @@ Wikipedia- Computer and Mobile Lists and Comparisons
  [GPS Software for Mobile Phones Wikipedia](http://en.wikipedia.org/wiki/List_of_GPS_software_for_mobile_phones)  
  [Comparison of Instant Messaging Clients Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_instant_messaging_clients)  
 
-Awesome and Awesome Awesomeness
-
-[Awesome GitHub](https://github.com/sindresorhus/awesome)  
- [Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)  
-
 Wayback Machine and Search Code
 
 [Wayback Machine](http://archive.org/web)  
@@ -454,21 +449,18 @@ App Stores
  [Salesforce App Exchange](https://appexchange.salesforce.com)  
 
 AddThis, ShareThis, Addtoany
-
 [Addthis](http://addthis.com)  
- [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
- [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles)  
- [AddThis Support](http://support.addthis.com)  
- [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs)  
- [ShareThis Developer](http://developer.sharethis.com)  
- [ShareThis Support](http://support.sharethis.com)  
- [Addtoany](https://www.addtoany.com)  
+[AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+[ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+[Addtoany](https://www.addtoany.com) 
 
+[AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles)  
+[AddThis Support](http://support.addthis.com)  
+[ShareThis Developer](http://developer.sharethis.com)  
+[ShareThis Support](http://support.sharethis.com)  
+ 
 App Statistics
-
-[AppAnnie](http://www.appannie.com/)  
- [AppAnnie Twitter](https://twitter.com/appannie)  
- [AppAnnie Blog](http://blog.appannie.com)  
+[AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie)  
 
 Most Visited Websites
 
@@ -496,11 +488,6 @@ The Science of Viral (See also Data Science/Stochastic Calculus)
 [Viral Phenomenon Wikipedia](http://en.wikipedia.org/wiki/Viral_phenomenon)  
  [Viral Marketing Wikipedia](http://en.wikipedia.org/wiki/Viral_marketing)  
  [Viral Marketing Category Wikipedia](http://en.wikipedia.org/wiki/Category:Viral_marketing)  
-
-Internet Platforms
-
-[Rocket Internet](https://www.rocket-internet.com)  
- [Unified Internet](http://www.united-internet.de/en/home.html)  
 
 Comparison of Social Media Networks
 
@@ -1423,12 +1410,16 @@ Handbooks and Style Guides
 
 Computational Journalism
 [Jonathan Stray Lecture, “Big Data” Analysis Techniques](http://jmsc.hku.hk/courses/jmsc6041spring2013/2013/02/14/introduction-computer-science-and-journalism/)  
- [Jonathan Stray, Computational Journalism Reading List](http://jonathanstray.com/a-computational-journalism-reading-list)  
+[Jonathan Stray, Computational Journalism Reading List](http://jonathanstray.com/a-computational-journalism-reading-list)  
 
 Historical Documents
 [U.N. Universal Declaration of Human Rights](http://www.un.org/en/documents/udhr/)  
- [Declaration of Independence, Constitution, Bill of Rights](http://www.archives.gov/exhibits/charters/charters.html)  
+[Declaration of Independence, Constitution, Bill of Rights](http://www.archives.gov/exhibits/charters/charters.html)  
 
 Petitions
 [No. 10 Petitions GitHub](https://github.com/mysociety/petitions)  
 [White House Petitions GitHub](https://github.com/WhiteHouse/petitions)  
+
+Awesome and Awesome Awesomeness
+[Awesome GitHub](https://github.com/sindresorhus/awesome)  
+[Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)  
