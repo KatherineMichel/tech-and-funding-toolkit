@@ -120,7 +120,8 @@ Tech and Venture Capital Toolkit
 *   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)  
  
 #### Business Models, Pricing, Product Tiers
-
+  
+*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
 *   [Product Tier Selection- A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 #### Demo
