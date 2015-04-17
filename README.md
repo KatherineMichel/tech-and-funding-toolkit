@@ -86,7 +86,7 @@ Tech and Venture Capital Toolkit
 
 #### Company and Product Databases
 
-*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk)  
+*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [Betalist](http://betalist.com)  
 *   [CB Insights](https://www.cbinsights.com), [Blog](https://www.cbinsights.com/blog), [Twitter](https://twitter.com/CBinsights)  
 *   [CrunchBase](http://www.crunchbase.com)  
@@ -117,7 +117,6 @@ Tech and Venture Capital Toolkit
 #### Growth, Marketing, and Content Resources
 
 *   [Distribution Hacks](http://distributionhacks.com) 
-*   [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](hhttps://twitter.com/CrazyEgg)  
 *   [Hiten Shah](https://twitter.com/hnshah)  
 *   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
