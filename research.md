@@ -147,14 +147,17 @@ Government Funding
 500 Startups
 [500 Startups Activity](http://500.co/activity)  
  [500 Startups Events](http://500.co/events)  
- [500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform)  
  [500 Startups Slideshare](http://www.slideshare.net/500startups)  
  [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)  
  [500 Distrofund](http://500.co/distrofund)  
  [Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
  [Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc)  
 
- 
+Venture Hacks
+
+[Venture Hacks](http://venturehacks.com)  
+[Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
+
 [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
 [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)  
@@ -169,19 +172,11 @@ Government Funding
 [Reed Hastings Freedom and Responsibility Culture Edition 2 Slideshare](http://www.slideshare.net/reed2001/culture-1798664)  
 [Sequoia Capital RIP Good Times Slideshare](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation) 
 
- 
-
 [Amy Jo Kim The 5 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-5-habits-of-breakthrough-innovators)  
 [The Ultimate Guide List for Startups Applying to 500 Startups](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-500-startups-accelerator)  
- [The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator) 
+[The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator) 
 
- 
-
-Venture Hacks
-
-[Venture Hacks](http://venturehacks.com)  
- [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
-
+[500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform) 
 More VC Website Resources
 
 [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
@@ -342,15 +337,17 @@ Social Media Guidelines
 #### Metrics 
 
 OKRs
-
-[OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)  
- [How Google Sets Goals Objectives and Key Results OKRs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs)  
- [Sears OKR Case Study](https://www.linkedin.com/pulse/sears-holding-company-study-shows-okrs-impact-bottom-line-ben-lamorte)  
+[How Google Sets Goals Objectives and Key Results OKRs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
 
 Pirate Metrics- Regular and Mobile
 
 [Dave McClure Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
- [Edith Yeung Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr)  
+[Edith Yeung Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
+
+[OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)  
+[Sears OKR Case Study](https://www.linkedin.com/pulse/sears-holding-company-study-shows-okrs-impact-bottom-line-ben-lamorte)  
+
  [Pirate Metrics](http://piratemetrics.chargebee.com)  
 
 Metrics
@@ -363,9 +360,7 @@ Metrics
 
 VC and Tech Podcasts
 
-[A16Z Podcasts](https://soundcloud.com/a16z)  
  [Heart Startup](http://hearstartup.com)  
- [KPCB Soundcloud](https://soundcloud.com/kleinerperkins)  
  [Gillmor Gang](http://www.ustream.tv/gillmorgang)  
 
 Peter Thiel Stanford CS183 Course- Precursor
@@ -390,15 +385,14 @@ YCombinator Stanford Startup Class
 Hacker News
 
 [Hacker News](https://news.ycombinator.com/news)  
+[Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+[Nuzzel](http://nuzzel.com) 
+
  [Hacker News Top](https://github.com/rylans/hackernews-top)  
  [Hacker News Welcome](https://news.ycombinator.com/newswelcome.html)  
  [Hacker News FAQs](https://news.ycombinator.com/newsfaq.html)  
  [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)  
- [Hacker News API](http://blog.ycombinator.com/hacker-news-api)  
-
-Nuzzel- (including VC)
-
-[Nuzzel](http://nuzzel.com)  
+   
  [Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
  [Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
 
