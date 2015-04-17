@@ -143,22 +143,11 @@ Government Funding
 
 #### VC Resources, People
  
-500 Startups
-[500 Startups Activity](http://500.co/activity)  
- [500 Startups Events](http://500.co/events)  
- [500 Startups Slideshare](http://www.slideshare.net/500startups)  
- [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)  
- [500 Distrofund](http://500.co/distrofund)  
- [Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
- [Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc)  
-
-Venture Hacks
-
-[Venture Hacks](http://venturehacks.com)  
-[Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
-
 [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
+ [Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
+ [Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc) 
+ 
 [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)  
 [Marc Andreessen Guide to Career Planning](http://pmarchive.com/guide_to_career_planning_part1.html)  
 [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
@@ -439,31 +428,12 @@ MOOC- Special Tracks
 [Specializations](https://www.coursera.org/specialization)  
  [Udacity Google Track](https://www.udacity.com/lp/google)  
 
-#### Growth, Marketing, Content 
 
-[Distribution Hacks](http://distributionhacks.com)  
-[Econsultancy](https://econsultancy.com)  
-[EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
-[PSFK Slideshare](http://www.slideshare.net/PSFK)   
 
-[CrazyEgg](http://www.crazyegg.com)  
-[CrazyEgg Twitter](hhttps://twitter.com/CrazyEgg)  
-[Hiten Shah](https://twitter.com/hnshah)  
-[Kissmetrics](https://www.kissmetrics.com)  
-[Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
-[Kissmetrics Twitter](https://twitter.com/KISSmetrics)  
-[Kissmetrics Blog](https://blog.kissmetrics.com)  
-[Quicksprout](http://www.quicksprout.com)  
-[Moz](http://moz.com) 
-[HubSpot Blog](http://blog.hubspot.com)  
-[HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-[Marketing Land](http://marketingland.com)  
-[Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-[Search Engine Land](http://searchengineland.com) 
-[Search Engine Land Slideshare](http://www.slideshare.net/searchengineland) 
+
   
 Crazy Egg, KISSmetrics, KISSinsights, Hiten Shah, Neil Patel, Quicksprout
-
+EMarketer, Distribution Hacks
 [KISSinsights](http://www.kissinsights.com) 
  
 [Econsultancy Periodic Table of Marketing Content](https://assets.econsultancy.com/images/0004/5832/The_Periodic_Table_of_Content_Marketing.png)
@@ -490,6 +460,8 @@ Crazy Egg, KISSmetrics, KISSinsights, Hiten Shah, Neil Patel, Quicksprout
 [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)  
 [Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
 [Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
+ 
+ 
  
 #### Various Articles
 
