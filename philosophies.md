@@ -1,18 +1,5 @@
-Pretotyping
-
-[Pretotyping Resources](http://www.pretotyping.org/resources.html)  
-[Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf)  
-[Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit)  
-[Next View Ventures Pretotyping](http://nextviewventures.com/blog/pretotyping-product-market-fit-google-alberto-savoia)  
-[Pretotyping Blogspot](http://pretotyping.blogspot.com)  
-
-Eric Ries-MVP
+ Eric Ries-MVP
 [Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-
-Demos
-
-[Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration)  
- [Demo Mode Wikipedia](http://en.wikipedia.org/wiki/Demo_mode)  
 
 Possible Startups
 
