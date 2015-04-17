@@ -1,3 +1,5 @@
+
+
 #### Venture Captalists, Tech Analysts, Thought Leaders
 
 *   [Albert Wenger](http://continuations.com)
