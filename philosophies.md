@@ -14,17 +14,6 @@ Horizontal Market, Vertical Market, Vertical Integration
  [Vertical Market Wikipedia](http://en.wikipedia.org/wiki/Vertical_market)  
  [Vertical Integration (Full Stack) Wikipedia](http://en.wikipedia.org/wiki/Vertical_integration)  
 
-Venture Analysis
-
-[Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)  
- [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)  
- [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
- [Google Ventures Design Sprint](http://www.gv.com/sprint)  
- [Sten Tamkivi Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)  
- [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf)  
- [Tomasz Tunguz How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)  
- [Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)  
-
 Lists of Tools
 
 [Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs)  
