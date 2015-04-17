@@ -118,7 +118,7 @@ Tech and Venture Capital Toolkit
 
 *   [Distribution Hacks](http://distributionhacks.com) 
 *   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](hhttps://twitter.com/CrazyEgg)  
-*   [Hiten Shah](https://twitter.com/hnshah)  
+*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
 *   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
 *   [Quicksprout](http://www.quicksprout.com)  
 *   [Moz](http://moz.com) 
