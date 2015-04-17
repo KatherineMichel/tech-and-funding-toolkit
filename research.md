@@ -513,178 +513,12 @@ Marketing and Marketing Research
  [Quantitative Marketing Research Wikipedia](http://en.wikipedia.org/wiki/Qualitative_marketing_research)  
  [Qualitative Marketing Research Wikipedia](http://en.wikipedia.org/wiki/Quantitative_marketing_research)  
 
-Ad Serving
-
-[Ad Serving Wikipedia](http://en.wikipedia.org/wiki/Ad_serving)  
- [Ad Server Wikipedia](http://en.wikipedia.org/wiki/Ad_server)  
-
-Types of Ads
-
-[Native Advertising Wikipedia](http://en.wikipedia.org/wiki/Native_advertising)  
- [Interstitial Ad Wikipedia](http://en.wikipedia.org/wiki/Interstitial_webpage)  
- [Hover Ads Wikipedia](http://en.wikipedia.org/wiki/Hover_ad)  
- [Pop-up Ads Wikipedia](http://en.wikipedia.org/wiki/Pop-up_ads)  
- [Web Banner Wikipedia](http://en.wikipedia.org/wiki/Web_banner)  
-
-Interactive Advertising Bureau Standards
-
-[IAB Standard Ad Sizes Wikipedia](http://upload.wikimedia.org/wikipedia/commons/4/43/Standard_web_banner_ad_sizes.svg)  
- [IAB Display Guidelines](http://www.iab.net/guidelines/508676/508767/displayguidelines)  
- [IAB Mobile Guidelines](http://www.iab.net/guidelines/508676/508767/mobileguidelines)  
-
-Advertising Networks- General
-
-[Advertising Network Wikipedia](http://en.wikipedia.org/wiki/Advertising_network)  
- [List of Advertising Networks Wikipedia](http://en.wikipedia.org/wiki/List_of_advertising_networks)  
- [List of Mobile Advertising Networks Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_advertising_networks)  
- [Zedo Wikipedia](http://en.wikipedia.org/wiki/Zedo)  
-
-Social Media/Search Engine Marketing, Behaviour, Personalization
-
-[Social Media Marketing Wikipedia](http://en.wikipedia.org/wiki/Social_media_marketing)  
- [Search Engine Wikipedia](http://en.wikipedia.org/wiki/Search_engine_marketing)  
- [Personalized Search Wikipedia](http://en.wikipedia.org/wiki/Personalized_search)  
- [Google Personalized Search Wikipedia](http://en.wikipedia.org/wiki/Google_Personalized_Search)  
- [Personalized Marketing Wikipedia](http://en.wikipedia.org/wiki/Personalized_marketing)  
- [Social Media Marketing Wikipedia](http://en.wikipedia.org/wiki/Social_media_marketing)  
- [Social Marketing Intellligence Wikipedia](http://en.wikipedia.org/wiki/Social_marketing_intelligence)  
- [Consumer Behaviour Wikipedia](http://en.wikipedia.org/wiki/Consumer_behaviour)  
- [Consumer Socialization Wikipedia](http://en.wikipedia.org/wiki/Consumer_socialization)  
-
-Targeting and Re-targeting
-
-[Behavioural Targeting Wikipedia](http://en.wikipedia.org/wiki/Behavioral_targeting)  
- [Behavioural Retargeting Wikipedia](http://en.wikipedia.org/wiki/Behavioral_retargeting)  
-
-Search Engine- General
-
-[Web Search Engine Wikipedia](http://en.wikipedia.org/wiki/Web_search_engine)  
- [Internet Search Engines Wikipedia](http://en.wikipedia.org/wiki/Category:Internet_search_engines)  
-
-Dev Center
-
-[DevCenter Website](DevCenter.me)  
- [DevCenter.me (Example Website) GitHub](https://github.com/stevestreza/DevCenter.me)  
-
-Webmaster- General
-
-[Webmaster Wikipedia](http://en.wikipedia.org/wiki/Webmaster)  
- [Web Analytics Wikipedia](http://en.wikipedia.org/wiki/Web_analytics)  
- [Web Analytics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Web_analytics)  
- [List of Web Analytics Software Wikipedia](http://en.wikipedia.org/wiki/List_of_web_analytics_software)  
- [SEO Wikipedia](http://en.wikipedia.org/wiki/Search_Engine_Optimization)  
- [Search Engine Submission Wikipedia](http://en.wikipedia.org/wiki/Search_engine_submission)  
- [Sitemaps Wikipedia](http://en.wikipedia.org/wiki/Sitemaps)  
- [Keyword Research Wikipedia](http://en.wikipedia.org/wiki/Keyword_research)  
-
-SEO- General
-
-[SEO Checklist for Web Designers GitHub](https://github.com/tutsplus/SEO-Checklist-for-Web-Designers)  
- [Beginner Guide to SEO](http://moz.com/beginners-guide-to-seo)  
- [Search Engine Land SEO Periodic Table](http://searchengineland.com/seotable)  
- [Search Engine Land SEO Guide](http://searchengineland.com/guide/seo)  
- [Keyword Tool](http://keywordtool.io)  
-
 Google Products
 
 [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products)  
 
-Google Developer- General
-
-[Google Development](https://developers.google.com/)  
- [Google Developers Youtube](https://www.youtube.com/user/GoogleDevelopers)  
- [Google Developer Products](https://developers.google.com/products)  
- [Google Developers Events](https://developers.google.com/events)  
- [Google Developers University](https://developers.google.com/university)  
-
-Google Developer- Open Source, Code, API
-
-[Developers Google Open Source](http://developers.google.com/open-source/projects)  
- [Google Code Homepage](http://code.google.com/)  
- [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
- [ Google API Login](https://code.google.com/apis/console)  
- [ Google Gmail API](https://developers.google.com/gmail/api)  
- [Google Glass Glass Cloud API](https://developers.google.com/glass)  
-
-Google- Chrome Dev Tools (including Canary)
-
-[Google Chrome DevTools](https://developers.google.com/chrome-developer-tools)  
- [Google Chrome Dev](https://developers.google.com/chrome)  
- [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
- [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html)  
-
-Google- Chrome Sample Apps (including Mobile)
-
-[ Google Chrome Sample Apps GitHub](https://github.com/GoogleChrome/chrome-app-samples)  
- [Google Chrome Mobile Apps GitHub](https://github.com/MobileChromeApps/mobile-chrome-apps)  
-
-Google Monetization
-
-[Google Monetize](https://developers.google.com/monetize)  
- [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization)  
- [Google Chrome Monetization](https://developer.chrome.com/webstore/money)  
-
-Google Ads
-
-[Google Advertise Dev](https://developers.google.com/advertise)  
- [Google Ads](http://www.google.com/ads)  
-
-Google Webmaster Tools
-
-[Google Webmaster](http://www.google.com/intl/en-US/webmasters)  
- [Google Webmaster Tools Help](https://support.google.com/webmasters/?hl=en#topic=3309469)  
- [Google Webmaster Tools Wikipedia](http://en.wikipedia.org/wiki/Google_Webmaster_Tools)  
- [Google Webmaster Toolkit Wikipedia](http://en.wikipedia.org/wiki/Google_Web_Toolkit)  
- [Google Webmaster Video](https://www.youtube.com/watch?v=iwhyw-zlhRs)  
- [Google Webmaster Video 2](https://www.youtube.com/watch?v=Zr0uWaZlC2Y)  
- [Google Search Engine Optimization Guide](https://static.googleusercontent.com/media/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf)  
-
-Google Sites
-
-[Google Sites](https://sites.google.com)  
- [Google Sites Templates](https://sites.google.com/site/arctemplates/templates)  
-
-Google Rich Snippets
-
-[Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets)  
- [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en)  
- [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300)  
-
-Google Analytics
-
-[Google Analytics](http://www.google.com/analytics)  
-
-Google Ads- AdWords
-
-[Google AdWords Keyword Planner](http://adwords.google.com/ko/KeywordPlanner)  
- [Google AdWords Keyword Tool](https://adwords.google.com/o/KeywordTool)  
- [Google AdWords](http://www.google.com/adwords/?sourceid=awo&amp;amp;amp;subid=ww-et-awhp_nelsontest3_nel_p&amp;amp;amp;clickid)  
- [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home?__u=5835640870&amp;amp;amp;__c=9103097590&amp;amp;amp;authuser=0)  
- [Google AdWords Help Center](https://support.google.com/adwords/?hl=en&amp;amp;amp;rd=1#topic=3119071)  
- [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
-
-Google Ads- AdSense
-
-[Google AdSense](http://www.google.com/adsense)  
- [Google AdSense Help Center](https://support.google.com/adsense)  
-
-Google Ads- Display Network
-
-[Google Display Network](http://www.google.com/ads/displaynetwork)  
-
-Google Ads- DoubleClick
-
-[Google DoubleClick](http://doubleclick.com)  
- [Google DoubleClick Wikipedia](http://en.wikipedia.org/wiki/DoubleClick)  
-
-Google Ads- AdMob (Apps)
-
-[Google AdMob](http://www.google.com/admob)  
-
-Google Ads- Mobile
-
 [Google Ads Mobile Examples GitHub](https://github.com/googleads/googleads-mobile-plugins)  
- [Google Ads Mobile GitHub](https://github.com/googleads/googleads-mobile-android-examples)  
+[Google Ads Mobile GitHub](https://github.com/googleads/googleads-mobile-android-examples)  
 
 Google Analytics- Mobile
 
@@ -704,18 +538,18 @@ Google- YouTube
 Google Insight and Think with Google
 
 [Google Insights](http://www.google.com/insights)  
- [Think with Google](https://www.thinkwithgoogle.com)  
- [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/intl/en-gb/planning-tools)  
+[Think with Google](https://www.thinkwithgoogle.com)  
+[Think with Google- Planning Tools](https://www.thinkwithgoogle.com/intl/en-gb/planning-tools)  
 
 Google Gmail, Docs, and Calendar
 
 [Google Gmail](http://gmail.com)  
- [Google Data Tools](https://www.google.com/settings/datatools)  
- [Google Account History](https://www.google.com/settings/accounthistory/search)  
- [Google Drive](https://www.google.com/drive)  
- [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research)  
- [Google Docs](https://docs.google.com)  
- [Google Calendar](https://www.google.com/calendar)  
+[Google Data Tools](https://www.google.com/settings/datatools)  
+[Google Account History](https://www.google.com/settings/accounthistory/search)  
+[Google Drive](https://www.google.com/drive)  
+[Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research)  
+[Google Docs](https://docs.google.com)  
+[Google Calendar](https://www.google.com/calendar)  
 
 Google Translate
 
@@ -724,99 +558,19 @@ Google Translate
 Google News and Contributor
 
 [Google News](https://news.google.com)  
- [Google Contributor](https://www.google.com/contributor/welcome)  
-
-Google Flights
-
-[Google Flights](https://www.google.com/flights)  
-
-Google Earth Engine and Free Pro
-
-[Google Earth Engine](https://earthengine.google.org)  
- [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html)  
-
-Google Groups
-
-[Google Groups](https://groups.google.com)  
- [Google Groups Overview](https://groups.google.com/forum/#!overview)  
-
-Google Search: 'how to make an api'
-
-[Google Search: 'how to make an api'](https://www.google.com/webhp?sourceid=chrome-instant&amp;amp;amp;ion=1&amp;amp;amp;espv=2&amp;amp;amp;ie=UTF-8#q=how%20to%20make%20an%20api)  
-
-Facebook Tools
-
-[Facebook Platform Wikipedia](http://en.wikipedia.org/wiki/Facebook_Platform)  
- [Facebook Pages](https://www.facebook.com/about/pages)  
- [Facebook Developers](https://developers.facebook.com/)  
- [Facebook Analytics](https://developers.facebook.com/docs/platforminsights)  
- [Facebook Analytics- Developer](https://www.facebook.com/help/336893449723054)  
- [Facebook Advertising (Census)](http://facebook.com/advertising)  
- [Facebook Business Products- Advertising](https://www.facebook.com/business/products/ads)  
- [Facebook Power Editor](https://www.facebook.com/help/162528860609436)  
- [Facebook Auto Play Video Ads](https://www.facebook.com/business/news/Premium-Video-Ads-on-Facebook)  
- [Facebook Business](https://www.facebook.com/business)  
- [Facebook Audience Network (Mobile Ads)](https://www.facebook.com/business/news/audience-network)  
- [Facebook Audience Network (Mobile Ads) Launch](https://www.facebook.com/business/news/audience-network-launch)  
- [Facebook Cross Device Measurement](https://www.facebook.com/business/news/cross-device-measurement)  
-
-Facebook Like and Sharing Tools
-
-[Facebook Sharing Docs](https://developers.facebook.com/docs/sharing)  
- [Facebook Sharing Products](https://developers.facebook.com/products/sharing)  
-
-Facebook Graph API and Open Graph Protocol
-
-[Facebook Graph API](https://developers.facebook.com/docs/graph-api)  
- [Facebook Open Graph Protocol (Custom Stories)](https://developers.facebook.com/docs/opengraph)  
- [Facebook Open Graph Protocol (Custom Stories)](https://developers.facebook.com/docs/opengraph/using-objects)  
- [Facebook Open Graph Protocol GitHub](https://github.com/facebook/open-graph-protocol)  
- [Open Graph Protocol Schema](http://ogp.me)  
+[Google Contributor](https://www.google.com/contributor/welcome)  
 
 Facebook- Atlas
 
 [Facebook Atlas](http://atlassolutions.com)  
- [Facebook Atlas Intro](http://atlassolutions.com/2014/09/29/meet-the-new-atlas)  
-
-Facebook- Open Compute
-
-[Facebook Open Compute](http://www.opencompute.org)  
-
-Graph- General (See Also Facebook Open Graph)
-
-[Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
- [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph)  
-
-Twitter- Developer
-
-[Twitter Development](https://dev.twitter.com)  
- [Twitter Development Docs](https://dev.twitter.com/docs)  
- [Twitter Development Start](https://dev.twitter.com/start)  
- [Twitter Development Using Search API](https://dev.twitter.com/docs/using-search)  
- [Twitter Development Streaming APIs](https://dev.twitter.com/docs/streaming-apis)  
-
-Twitter- Intents and Tweet Buttons
-
-[Twitter Intents](https://dev.twitter.com/web/intents)  
- [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button)  
- [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent)  
-
-Twitter- Cards
-
-[Twitter Cards](https://dev.twitter.com/cards/overview)  
- [Twitter Card Types](https://dev.twitter.com/cards/types)  
- [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile)  
- [Twitter Cards Validator](https://cards-dev.twitter.com/validator)  
- [Twitter Cards GitHub](https://github.com/twitterdev/cards)  
+[Facebook Atlas Intro](http://atlassolutions.com/2014/09/29/meet-the-new-atlas)  
 
 Twitter- Video
-
 [Twitter Video](https://video.twitter.com/faq)  
 
 Twitter- Ads, Analytics
-
 [Twitter Ads](https://ads.twitter.com/user)  
- [Twitter Analytics](https://analytics.twitter.com)  
+[Twitter Analytics](https://analytics.twitter.com)  
 
 Twitter- Mobile Analytics
 
@@ -857,64 +611,19 @@ Pinterest- Developer
 [Pinterest for Developers](https://developers.pinterest.com/pin_it)  
  [Add, Edit, or Delete Pin](https://help.pinterest.com/en/articles/add-edit-or-delete-pin)  
 
-Apple Developer- General
-
-[OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
- [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
- [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
- [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
- [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
- [Apple Watchkit](https://developer.apple.com/watchkit)  
- [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
- [Apple Support](http://www.apple.com/support)  
-
 LinkedIn
-
 [LinkedIn Ads](https://www.linkedin.com/ads/start)  
- [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
-
-Mozilla Developer
-
-[Mozilla](http://mozilla.org)  
- [Mozilla Developer](https://developer.mozilla.org/en-US)  
- [Mozilla Developer Web Guides](https://developer.mozilla.org/en-US/docs/web/guide)  
-
-Yahoo and Bing- Developer
-
-[Yahoo Development](http://developer.yahoo.com/)  
- [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network)  
- [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
- [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
- [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center)  
- [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
- [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home)  
- [Bing Ads](https://adcenter.microsoft.com)  
- [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads)  
- [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+[LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
 
 Slideshare Insight
-
 [Slideshare Insight](http://www.slideshare.net/insight)  
 [Slideshare Features](http://www.slideshare.net/features)  
 [Slideshare Developers](http://www.slideshare.net/developers) 
 
-GitHub Analytics
-
-[GitHub Analytics GitHub](https://github.com/tutsplus/github-analytics)  
-
-Open Source Analytics
-
-[Piwik Open Source Analytics](http://piwik.org)  
-
-Windows- Native App
-
-[Native Windows App Metro Wikipedia](http://en.wikipedia.org/wiki/Metro_(design_language))  
- [Native Windows App Xaml Wikipedia](http://msdn.microsoft.com/en-us/library/ms752059.aspx)  
-
 Mobile Web and Software Distribution Platforms
 
 [Mobile Web Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_Web)  
- [Mobile Software Distribution Platforms Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)  
+[Mobile Software Distribution Platforms Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)  
 
 Mobile Web Analytics
 
@@ -1086,11 +795,9 @@ Remote Workers
 
 #### Management Consulting and Financial Services
 
-
 List of Management Consulting Firms
 
 [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)  
-
 Banking Brands and Banking Systems
 
 [The Banker, Top 500 Banking Brands 2013](http://www.thebanker.com/Banker-Data/Banker-Rankings/The-Top-500-Banking-Brands-2013?ct=true)  
