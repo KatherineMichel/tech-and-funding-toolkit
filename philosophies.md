@@ -1,3 +1,27 @@
+Pretotyping
+
+[Pretotyping Resources](http://www.pretotyping.org/resources.html)  
+[Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf)  
+[Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit)  
+[Next View Ventures Pretotyping](http://nextviewventures.com/blog/pretotyping-product-market-fit-google-alberto-savoia)  
+[Pretotyping Blogspot](http://pretotyping.blogspot.com)  
+
+Eric Ries-MVP
+[Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+
+Demos
+
+[Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration)  
+ [Demo Mode Wikipedia](http://en.wikipedia.org/wiki/Demo_mode)  
+
+Possible Startups
+
+[Possible Startups](http://possiblestartups.com)  
+
+Name Generators
+
+[Namium](http://www.naminum.com) 
+
 Maslow
 
 [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)  
@@ -24,11 +48,6 @@ Lists of Tools
 
 
 Clayton Christensen Innovator's Dilemma, Jobs to be Done
-
-[The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)  
- [The Innovator's Dilemma Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
- [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)  
- [Mark Suster- How The Innovator's Dilemma Affects You](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you)  
  [Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done)  
 
 Product
@@ -112,9 +131,6 @@ Eric Ries, Lean Startup, and Minimum Viable Product
 [The Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup)  
 [The Lean Startup](http://www.stpia.ir/files/The%20Lean%20Startup%20.pdf)  
  
-Eric Ries-MVP
-[Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-
 Lean and Social Lean Business Model Canvas
 
 [Lean Stack](http://leanstack.com)  
