@@ -75,7 +75,7 @@ Tech and Venture Capital Toolkit
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
 *   [A16Z](http://a16z.com), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [First Round](http://firstround.com)
-*   [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+*   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library) [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [KPCB](http://www.kpcb.com) and [KPCB Podcasts](https://soundcloud.com/kleinerperkins) 
 *   [Sequoia Capital](http://www.sequoiacap.com) 
 
@@ -119,6 +119,11 @@ Tech and Venture Capital Toolkit
 *   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)  
  
 #### Demo
+
+*   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
+*   [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions), [Day 1](http://www.gv.com/lib/the-gv-research-sprint-day-1), [Day 2](http://www.gv.com/lib/the-gv-research-sprint-day-2), [Day 3](http://www.gv.com/lib/the-gv-research-sprint-day-3), [Day 4](http://www.gv.com/lib/the-gv-research-sprint-day-4) 
+*   [Google Ventures Design Sprint](http://www.gv.com/sprint), and [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
+*   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5)  
 
 #### Notable Pitch Decks
 
