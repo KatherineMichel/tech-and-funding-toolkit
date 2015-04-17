@@ -83,3 +83,12 @@ tech-and-venture-capital-toolkit
 *   [500 Startups](http://500.co)
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com)
+
+#### Metric
+
+OKRs
+*   [How Google Sets Goals Objectives and Key Results OKRs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+Metrics for Pirates (Regular and Mobile)
+*   [Dave McClure Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+*   [Edith Yeung Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
