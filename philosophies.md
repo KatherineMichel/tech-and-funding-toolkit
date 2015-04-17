@@ -20,6 +20,9 @@ Lists of Tools
 [Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)  
 [300 Awesome Free Things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b) 
 
+[Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas) 
+
+
 Clayton Christensen Innovator's Dilemma, Jobs to be Done
 
 [The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)  
@@ -84,11 +87,6 @@ Business Models, Monetizing, Pricing Strategies- General
  [71 Ways to Monetize Digital Content](https://twitter.com/vivian/timelines/505375883063230465)  
  [71 Ways to Monetize Digital Content- Article](http://www.foliomag.com/2014/71-ways-monetize-digital-content#.VACqtvldXQq)  
  [Dave Winer How to Make Money on the Internet](http://scripting.com/davenet/2000/02/04/howToMakeMoneyOnTheInterne.html)  
-
-Ideas
-
-[Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)  
-[The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)  
 
 Product People- Sean Ellis
 
