@@ -34,10 +34,8 @@ Venture Associations
 [Angel Capital Associations](http://www.angelcapitalassociation.org)  
  [National Venture Capital Association](http://www.nvca.org)  
 
-VC Firms and Syndicates
- [VC Funds at / Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0)  
- [Warburg Pincus](http://www.warburgpincus.com)  
- [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)  
+ [VC Funds at / Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
+ 
 
 Fantasy Venture Capital
 
@@ -137,17 +135,22 @@ Berkshire Hathaway
 Government Funding
 
 [Federal Business Opportunities](https://www.fbo.gov)  
- [DARPA Wikipedia](http://en.wikipedia.org/wiki/DARPA)  
- [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx)  
- [DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
+[DARPA Wikipedia](http://en.wikipedia.org/wiki/DARPA)  
+[DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx)  
+[DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
 
 #### VC Resources, People
  
 [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
- [Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
- [Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc) 
- 
+[Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
+
+[Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) (click online.wsj.com from [Google search results](https://www.google.com/?q=software+is+eating+the+world) to get past the paywall)  
+[Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)  
+[Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction)  
+[The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
+[Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing) 
+[Startup Gene Pool Engineering](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf) 
 [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)  
 [Marc Andreessen Guide to Career Planning](http://pmarchive.com/guide_to_career_planning_part1.html)  
 [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
@@ -164,10 +167,11 @@ Government Funding
 [The Ultimate Guide List for Startups Applying to 500 Startups](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-500-startups-accelerator)  
 [The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator) 
 
-[500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform) 
-[Ello B Corporation Blog Post](https://ello.co/lucian/post/pyVDFHEYzhJHdNp30ra5Cg)  
-[Kickstarter B Corporation Blog Post](http://www.bcorporation.net/community/kickstarter-inc) 
+[Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
+[Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc) 
  
+[500 Distrofund](http://500.co/distrofund) 
+[500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform) 
 More VC Website Resources
 
 [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
@@ -207,20 +211,25 @@ Financial Modelling
 
 #### Legal Documents and Policies 
 
+Convertible Bond and Security
+
+[Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
+[Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security)  
+ 
 500 Startups, Tech Stars, and YCombinator Docs/RFS
 
 [500 Startups Keep It Simple Security](http://500.co/kiss)  
- [Tech Stars Docs](http://www.techstars.com/docs)  
- [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
- [YCombinator Library](http://ycombinator.com/lib.html)  
- [YCombinator Docs (Employee Agreement, Commonstock Purchase Agreement, Convertible Security)](http://ycombinator.com/documents)  
- [YCombinator Safe Financing Documents ((simple agreement for future equity) is intended to replace convertible notes)](http://ycombinator.com/safe)  
- [YCombinator Series AA Equity Financing](http://ycombinator.com/seriesaa)  
- [YCombinator Silk.co](https://y-combinator.silk.co)  
- [YCombinator RFS](http://www.ycombinator.com/rfs)  
- [YCombinator Sales Template Agreement](http://www.ycombinator.com/documents/#sales)  
- [YCombinator Handshake](http://www.ycombinator.com/handshake)  
- [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)  
+[Tech Stars Docs](http://www.techstars.com/docs)  
+[TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+[YCombinator Library](http://ycombinator.com/lib.html)  
+[YCombinator Docs (Employee Agreement, Commonstock Purchase Agreement, Convertible Security)](http://ycombinator.com/documents)  
+[YCombinator Safe Financing Documents ((simple agreement for future equity) is intended to replace convertible notes)](http://ycombinator.com/safe)  
+[YCombinator Series AA Equity Financing](http://ycombinator.com/seriesaa)  
+[YCombinator Silk.co](https://y-combinator.silk.co)  
+[YCombinator RFS](http://www.ycombinator.com/rfs)  
+[YCombinator Sales Template Agreement](http://www.ycombinator.com/documents/#sales)  
+[YCombinator Handshake](http://www.ycombinator.com/handshake)  
+[YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)  
 
 Startup Docs- Legal (See also 500 Startups, Tech Stars, and YCombinator Docs/RFS)
 
@@ -281,59 +290,26 @@ Cap Table
  [Captable.io](https://captable.io)  
  [Eshares Inc](https://www.esharesinc.com)  
 
-Convertible Bond and Security
-
-[Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
- [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security)  
-
-Policies Showcase
-
-[Policies Showcase GitHub](https://github.com/showcases/policies)  
-
-Terms of Service
-
-[App.net Template Terms GitHub](https://github.com/appdotnet/template-terms-of-service)  
- [App.net Terms GitHub](https://github.com/appdotnet/terms-of-service)  
- [Stripe Terms GitHub](https://github.com/stripe/terms)  
- [Terms Generator](https://termsfeed.com/privacy-policy/generator)  
-
 Email
 
 [MailChimp Patterns](http://ux.mailchimp.com/patterns)  
- [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
- [Send with Us Guide](https://www.sendwithus.com/resources/guide)  
- [Send with Us GitHub](https://github.com/sendwithus/templates)  
- [Really Good Email](http://reallygoodemails.com)  
- [Voice and Tone](http://voiceandtone.com)  
+[MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
+[Send with Us Guide](https://www.sendwithus.com/resources/guide)  
+[Send with Us GitHub](https://github.com/sendwithus/templates)  
+[Really Good Email](http://reallygoodemails.com)  
+[Voice and Tone](http://voiceandtone.com)  
 
-Code of Conduct
-
-[O'Reilly Conferences Code of Conduct](http://www.oreilly.com/conferences/code-of-conduct.html)  
- [Twitter Code of Conduct GitHub](https://github.com/twitter/code-of-conduct)  
-
-Social Media Guidelines
-
-[Rackspace Social Media Guidelines GitHub](https://github.com/rackspace/social_media_guidelines)  
-
-#### Metrics 
-
-[OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)  
-[Sears OKR Case Study](https://www.linkedin.com/pulse/sears-holding-company-study-shows-okrs-impact-bottom-line-ben-lamorte)  
-
- [Pirate Metrics](http://piratemetrics.chargebee.com)  
+[The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)  
 
 Metrics
 
 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate)  
- [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel)  
- [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart)  
+[Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel)  
+[Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart)  
 
 #### Tech Podcasts and Courses
 
 VC and Tech Podcasts
-
- [Heart Startup](http://hearstartup.com)  
- [Gillmor Gang](http://www.ustream.tv/gillmorgang)  
 
 Peter Thiel Stanford CS183 Course- Precursor
 
@@ -342,15 +318,15 @@ Peter Thiel Stanford CS183 Course- Precursor
 Stanford CS 184/Coursera: Startup Engineering Course
 
 [Coursera Stanford Startup Engineering MOOC GitHub](https://github.com/startup-class)  
- [Stanford CS 184 Startup Engineering MOOC](http://startup.stanford.edu)  
- [Syllabus](https://class.coursera.org/startup-001/wiki/syllabus)  
- [Lecture](https://class.coursera.org/startup-001/lecture)  
- [Guest Lectures](https://class.coursera.org/startup-001/wiki/guest-lectures)  
+[Stanford CS 184 Startup Engineering MOOC](http://startup.stanford.edu)  
+[Syllabus](https://class.coursera.org/startup-001/wiki/syllabus)  
+[Lecture](https://class.coursera.org/startup-001/lecture)  
+[Guest Lectures](https://class.coursera.org/startup-001/wiki/guest-lectures)  
 
 YCombinator Stanford Startup Class
 
 [YCombinator Stanford Startup Class](http://startupclass.samaltman.com)  
- [YCombinator Stanford Startup Class YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)  
+[YCombinator Stanford Startup Class YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)  
 
 #### News Aggregation, Research, MOOCs
 
@@ -367,118 +343,67 @@ Hacker News
 Google Talks and Ted Talks
 
 [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)  
- [TED Talks](http://www.ted.com/talks)  
+[TED Talks](http://www.ted.com/talks)  
 
 Aggregation and Curation
+Flipbook
 
 [Feedly](http://feedly.com)  
- [Media Redef](http://www.mediaredefined.com/Originals)  
- [Redef](http://redef.com/channel/media)  
- [The Skimm](http://www.theskimm.com)  
+[Media Redef](http://www.mediaredefined.com/Originals)  
+[Redef](http://redef.com/channel/media)  
+[The Skimm](http://www.theskimm.com)  
 
 Wikipedia
 
 [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents)  
- [Wikipedia Lists of Topicss](http://en.wikipedia.org/wiki/Portal:Lists_of_topics)  
- [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists)  
+[Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics)  
+[Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists)  
 
 Data- Pew
 
 [Pew Forum](http://www.pewforum.org)  
- [Pew Global](http://www.pewglobal.org)  
- [Pew Research](http://www.pewresearch.org)  
- [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank)  
- [Pew Internet](http://pewinternet.org)  
+[Pew Global](http://www.pewglobal.org)  
+[Pew Research](http://www.pewresearch.org)  
+[Pew Research Fact Tank](http://www.pewresearch.org/fact-tank)  
+[Pew Internet](http://pewinternet.org)  
 
 Data- World Economic Forum
 
 [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
- [World Economic Forum](http://www.weforum.org)  
- [World Economic Forum Reports Homepage](http://www.weforum.org/reports)  
+[World Economic Forum](http://www.weforum.org)  
+[World Economic Forum Reports Homepage](http://www.weforum.org/reports)  
 
 Reports- Analyst Groups
 
-[Altimeter Slideshare](http://www.slideshare.net/Altimeter)  
- [Altimeter Twitter](https://twitter.com/altimetergroup)  
- [Forrester](http://www.forrester.com/home)  
- [Gartner](http://www.gartner.com)  
- [Gartner Twitter](https://twitter.com/Gartner_inc)  
- [RedMonk Twitter](https://twitter.com/redmonk)  
+[Altimeter Slideshare](http://www.slideshare.net/Altimeter) and [Altimeter Twitter](https://twitter.com/altimetergroup)  
+[Forrester](http://www.forrester.com/home)  
+[Gartner](http://www.gartner.com) and [Gartner Twitter](https://twitter.com/Gartner_inc)  
+[RedMonk Twitter](https://twitter.com/redmonk)  
 
-O'Reilly and O'Reilly Radar
-
-[O'Reilly](http://oreilly.com)  
- [O'Reilly Radar](http://radar.oreilly.com)  
+[O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com)  
 
 MOOCs
 
-[Slide Rule](https://www.mysliderule.com)  
- [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#)  
- [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses/)  
- [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)  
- [Stanford Online Courses](http://online.stanford.edu/courses)  
- [Alison](http://alison.com)  
- [Coursera](https://www.coursera.org)  
- [EdX](https://www.edx.org)  
- [NovoEd](https://novoed.com)  
- [Udacity](https://www.udacity.com)  
+[MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#)  
+[MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses/)  
+[Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)  
+[Stanford Online Courses](http://online.stanford.edu/courses)  
+[Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)  
+[EdX](https://www.edx.org)  
+[NovoEd](https://novoed.com)  
+[Udacity](https://www.udacity.com)  
 
-MOOC- Special Tracks
-
-[Specializations](https://www.coursera.org/specialization)  
- [Udacity Google Track](https://www.udacity.com/lp/google)  
-
-
-
-
-  
-Crazy Egg, KISSmetrics, KISSinsights, Hiten Shah, Neil Patel, Quicksprout
-EMarketer, Distribution Hacks
-[KISSinsights](http://www.kissinsights.com) 
+[Slide Rule](https://www.mysliderule.com) 
+[Alison](http://alison.com)  
  
-[Econsultancy Periodic Table of Marketing Content](https://assets.econsultancy.com/images/0004/5832/The_Periodic_Table_of_Content_Marketing.png)
-[Nuzzel Online Marketing List](http://nuzzel.com/kentlind/online-marketing) 
 
-[HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources)  
-[Kissmetrics Marketing Guides](https://blog.kissmetrics.com/marketing-guides)  
-[Kissmetrics Infographics](https://blog.kissmetrics.com/infographics)  
-[Kissmetrics Webinars](https://blog.kissmetrics.com/webinars) 
-[Marketing Land Infographics](http://marketingland.com/library/infographics)  
-[Marketing Land How To](http://marketingland.com/library/how-to)  
-[Search Engine Land Infographics](http://searchengineland.com/library/infographics)  
-[Search Marketing Expo](http://searchmarketingexpo.com)  
-
-[Moz Tools](http://moz.com/tools)  
-[Moz Rand Fishkin Slideshare](http://www.slideshare.net/randfish)  
-[Moz Cyrus Shepard Slideshare](http://www.slideshare.net/cyrusshepard)  
-[Moz Peter Meyers Slideshare](http://www.slideshare.net/crumplezone)  
-
-[Best of Slideshare 2014](http://www.slideshare.net/Slideshare/best-of-slideshare-2014)  
-[Hacker News Top](https://github.com/rylans/hackernews-top)  
-[Hacker News Welcome](https://news.ycombinator.com/newswelcome.html)  
-[Hacker News FAQs](https://news.ycombinator.com/newsfaq.html)  
-[Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)  
-[Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
-[Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
- 
  
  
 #### Various Articles
 
-Software and Mobile are Eating the World, Creative Destruction
-
-[Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) (click online.wsj.com from [Google search results](https://www.google.com/?q=software+is+eating+the+world) to get past the paywall)  
- [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)  
- [Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction)  
-
-The Art of War:
-
-[The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm)  
-
-Startups Versus Big Companies
+ Startups Versus Big Companies
 
 [Startups Versus Big Companies](https://medium.com/the-year-of-the-looking-glass/start-ups-versus-big-companies-f275800e78e5)  
- [Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing)  
 
 Businessweek 85 Ideas
 
@@ -490,14 +415,6 @@ Fast Company Most Innovative Companies 2015
 [Fast Company Most Innovative Companies 2015](http://www.fastcompany.com/section/most-innovative-companies-2015)  
  [Fast Company Most Innovative Companies 2015- Media](http://www.fastcompany.com/3041669/most-innovative-companies-2015/the-worlds-top-10-most-innovative-companies-of-2015-in-media)  
  [Fast Company Most Innovative Companies 2015- Retail](http://www.fastcompany.com/3041661/most-innovative-companies-2015/the-worlds-top-10-most-innovative-companies-of-2015-in-retail)  
-
-Reverse Engineering
-
-[Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering)  
-
-Startup Gene Pool Engineering
-
-[Startup Gene Pool Engineering](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)  
 
 Mark Cranney Sales Process
 
@@ -540,21 +457,6 @@ Startup Transparency- More
 [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
  [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence)  
 
-The Lost Interview with Steve Jobs
-
-[The Lost Interview with Steve Jobs](http://avc.com/2014/10/video-of-the-week-the-lost-interview)  
-
-New Clues
-
-[New Clues](http://cluetrain.com/newclues)  
- [New Clues GitHub](https://github.com/dweinberger/newclues)  
- [New Clues Listicle](http://listicle.io/cluetrain)  
-
-Ryan Allis and Tom Peters Inspirational PowerPoints
-
-[Ryan Allis PowerPoint](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis)  
- [Tom Peters PowerPoint](http://tompeters.com/2014/09/new-annotated-master-presentation)  
-
 #### Dev Conferences, Hackathons 
 
 Designer/Developer Conferences
@@ -569,16 +471,17 @@ Designer/Developer Conferences
  [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
  [Twitter Flock](http://flock.fabric.io)  
 
-Hackathons
+Startup Competitions
 
-[Battle Code](http://www.battlecode.org)  
- [Master of Code](http://mastersofcode.com)  
-
+[Google for Entrepreneurs Demo Day](http://www.googleforentrepreneursdemoday.com)  
+[Twitter Hatch](http://hatch.io) 
+ 
 Events
 
 [Crunchbase Global Events List](http://www.crunchbase.com/events/all/global)  
- [Techmeme Events List](http://techmeme.com/events)  
-
+[Techmeme Events List](http://techmeme.com/events)  
+[TechCrunch Events](http://techcrunch.com/events) 
+ 
 Jason and Launch
 
 [Jason Syndicate](https://angel.co/jason/syndicate)  
@@ -594,13 +497,7 @@ High Profile Events
  [Recode Events](http://recode.net/events)  
  [Salesforce Dreamforce](http://www.salesforce.com/dreamforce)  
  [SXSW](http://sxsw.com)  
- [TechCrunch Events](http://techcrunch.com/events)  
-
-Startup Competitions
-
-[Google for Entrepreneurs Demo Day](http://www.googleforentrepreneursdemoday.com)  
- [Twitter Hatch](http://hatch.io)  
-
+ 
 #### Libraries, Academic, Journalism, Petitions 
 
 Libraries
@@ -1420,101 +1317,167 @@ Banking Brands and Banking Systems
 Cryptocurrency
 
 [Bitcoin QA Artifacts GitHub](https://github.com/bitcoin/QA)  
- [Proof of Liabilities GitHub](https://github.com/olalonde/proof-of-liabilities)  
- [Proof of Solvency GitHub](https://github.com/olalonde/proof-of-solvency)  
+[Proof of Liabilities GitHub](https://github.com/olalonde/proof-of-liabilities)  
+[Proof of Solvency GitHub](https://github.com/olalonde/proof-of-solvency)  
 
 Bitcoin
 
 [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf)  
- [Bitcoin](https://bitcoin.org/en)  
- [Bitcoin Download](https://bitcoin.org/en/download)  
- [Bitcoin for Developers](https://bitcoin.org/en/bitcoin-for-developers)  
- [Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation)  
- [Bitcoinbook](http://chimera.labs.oreilly.com/books/1234000001802/index.html)  
- [Bitcoinbook GitHub](https://github.com/aantonop/bitcoinbook)  
- [Satoshi Nakamoto Institute](http://satoshi.nakamotoinstitute.org)  
- [Satoshi Nakamoto Wikipedia](http://en.wikipedia.org/wiki/Satoshi_Nakamoto)  
- [Nick Szabo Wikipedia](http://en.wikipedia.org/wiki/Nick_Szabo)  
- [Blockchain](https://en.bitcoin.it/wiki/Block_chain)  
- [Private Key](https://en.bitcoin.it/wiki/Private_key)  
- [History](https://en.bitcoin.it/wiki/History)  
- [Sidechains Paper](http://www.blockstream.com/sidechains.pdf)  
- [Sidechains Paper- Rap Genius](http://tech.genius.com/Adam-back-enabling-blockchain-innovations-with-pegged-sidechains-annotated)  
- [Dogecoin GitHub](https://github.com/dogecoin/dogecoin)  
+[Bitcoin](https://bitcoin.org/en)  
+[Bitcoin Download](https://bitcoin.org/en/download)  
+[Bitcoin for Developers](https://bitcoin.org/en/bitcoin-for-developers)  
+[Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation)  
+[Bitcoinbook](http://chimera.labs.oreilly.com/books/1234000001802/index.html)  
+[Bitcoinbook GitHub](https://github.com/aantonop/bitcoinbook)  
+[Satoshi Nakamoto Institute](http://satoshi.nakamotoinstitute.org)  
+[Satoshi Nakamoto Wikipedia](http://en.wikipedia.org/wiki/Satoshi_Nakamoto)  
+[Nick Szabo Wikipedia](http://en.wikipedia.org/wiki/Nick_Szabo)   [Blockchain](https://en.bitcoin.it/wiki/Block_chain)  
+[Private Key](https://en.bitcoin.it/wiki/Private_key)  
+[History](https://en.bitcoin.it/wiki/History)  
+[Sidechains Paper](http://www.blockstream.com/sidechains.pdf)  
+[Sidechains Paper- Rap Genius](http://tech.genius.com/Adam-back-enabling-blockchain-innovations-with-pegged-sidechains-annotated)  
+[Dogecoin GitHub](https://github.com/dogecoin/dogecoin)  
 
 #### Laws, Theory, Logic
 
 Digital Millennium Copyright Act
 
 [Digital Millennium Copyright Act Wikipedia](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)  
- [Digital Millennium Copyright Act](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)  
- [Buzzfeed DMCA Policy](http://www.buzzfeed.com/about/dmca)  
- [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
+[Digital Millennium Copyright Act](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)  
+[Buzzfeed DMCA Policy](http://www.buzzfeed.com/about/dmca)  
+[Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
 
 Licenses, Patents
 
 [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl)  
- [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
- [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
- [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
- [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
- [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
- [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
- [Professional Open Source Wikipedia](http://en.wikipedia.org/wiki/Professional_open-source)  
- [Phoning Home Wikipedia](http://en.wikipedia.org/wiki/Phoning_home)  
- [EFF Wikipedia](https://www.eff.org)  
- [Leahy-Smith America Invents Act Policy Debate Wikipedia](http://en.wikipedia.org/wiki/Leahy-Smith_America_Invents_Act#Policy_debate)  
- [Provisional Application Wikipedia](http://en.wikipedia.org/wiki/Provisional_application)  
+[GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+[AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+[AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+[GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+[GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+[Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+[Professional Open Source Wikipedia](http://en.wikipedia.org/wiki/Professional_open-source)  
+[Phoning Home Wikipedia](http://en.wikipedia.org/wiki/Phoning_home)  
+[EFF Wikipedia](https://www.eff.org)  
+[Leahy-Smith America Invents Act Policy Debate Wikipedia](http://en.wikipedia.org/wiki/Leahy-Smith_America_Invents_Act#Policy_debate)  
+[Provisional Application Wikipedia](http://en.wikipedia.org/wiki/Provisional_application)  
 
 Laws, Theories, Logic
 
 [List of Laws Wikipedia](http://en.wikipedia.org/wiki/List_of_laws)  
- [Baumo's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
- [Benford's Law Wikipedia](http://en.wikipedia.org/wiki/Benford%27s_law)  
- [Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)  
- [Causality Wikipedia](http://en.wikipedia.org/wiki/Causality)  
- [Clark's Three Laws Wikipedia](http://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
- [Coase Theorem Wikipedia](http://en.wikipedia.org/wiki/Coase_theorem)  
- [Cognitive Biases List Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases)  
- [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
- [Conway's Law Wikipedia](http://en.wikipedia.org/wiki/Conway%27s_law)  
- [Correlation and Dependence Wikipedia](http://en.wikipedia.org/wiki/Correlation_and_dependence)  
- [Corollary Wikipedia](http://en.wikipedia.org/wiki/Corollary)  
- [Dunning–Kruger Effect Wikipedia](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
- [Echo Chamber Wikipedia](http://en.wikipedia.org/wiki/Echo_chamber_%28media%29)  
- [Ephemeralization Wikipedia](http://en.wikipedia.org/wiki/Ephemeralization)  
- [False Positive Wikipedia](http://en.wikipedia.org/wiki/False_positive)  
- [Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
- [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
- [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
- [Friendship Paradox Wikipedia](http://en.wikipedia.org/wiki/Friendship_paradox)  
- [God's Algorithm Wikipedia](http://en.m.wikipedia.org/wiki/God%27s_algorithm)  
- [Good Old Days Wikipedia](http://rationalwiki.org/wiki/Good_old_days)  
- [Heuristic Wikipedia](http://en.wikipedia.org/wiki/Heuristic)  
- [Heuristic (Computer Science) Wikipedia](http://en.wikipedia.org/wiki/Heuristic_(computer_science))  
- [Hotelling's Rule Wikipedia](http://en.wikipedia.org/wiki/Hotelling's_rule)  
- [If By Whiskey Wikipedia](http://en.wikipedia.org/wiki/If-by-whiskey)  
- [Indicator of Compromise Wikipedia](http://en.wikipedia.org/wiki/Indicator_of_compromise)  
- [Is-Ought Problem Wikipedia](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)  
- [Gall's Law Wikipedia](http://en.wikipedia.org/wiki/John_Gall_%28author%29#Gall.27s_law)  
- [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)  
- [Matthew Effect Wikipedia](http://en.wikipedia.org/wiki/Matthew_effect)  
- [Memory Hole Wikipedia](http://en.wikipedia.org/wiki/Memory_hole)  
- [Joy's Law Wikipedia](http://en.wikipedia.org/wiki/Joy%27s_Law_%28management%29)  
- [Metcalf's Law Wikipedia](http://en.wikipedia.org/wiki/Metcalfe%27s_law)  
- [Minority Influence Wikipedia](http://en.wikipedia.org/wiki/Minority_influence)  
- [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law)  
- [No True Scotsman Wikipedia](http://en.wikipedia.org/wiki/No_true_Scotsman)  
- [Occam's Razor Wikipedia](http://en.wikipedia.org/wiki/Occam's_razor)  
- [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law)  
- [Posit](http://www.merriam-webster.com/dictionary/posit)  
- [Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
- [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
- [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
- [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
- [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
- [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
- [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
- [The Innovator's Dilemma Wkipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)  
- [Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model)  
+[Baumo's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
+[Benford's Law Wikipedia](http://en.wikipedia.org/wiki/Benford%27s_law)  
+[Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)  
+[Causality Wikipedia](http://en.wikipedia.org/wiki/Causality)  
+[Clark's Three Laws Wikipedia](http://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
+[Coase Theorem Wikipedia](http://en.wikipedia.org/wiki/Coase_theorem)  
+[Cognitive Biases List Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases)  
+[Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
+[Conway's Law Wikipedia](http://en.wikipedia.org/wiki/Conway%27s_law)  
+[Correlation and Dependence Wikipedia](http://en.wikipedia.org/wiki/Correlation_and_dependence)  
+[Corollary Wikipedia](http://en.wikipedia.org/wiki/Corollary)  
+[Dunning–Kruger Effect Wikipedia](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
+[Echo Chamber Wikipedia](http://en.wikipedia.org/wiki/Echo_chamber_%28media%29)  
+[Ephemeralization Wikipedia](http://en.wikipedia.org/wiki/Ephemeralization)  
+[False Positive Wikipedia](http://en.wikipedia.org/wiki/False_positive)  
+[Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
+[Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
+[First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
+[Friendship Paradox Wikipedia](http://en.wikipedia.org/wiki/Friendship_paradox)  
+[God's Algorithm Wikipedia](http://en.m.wikipedia.org/wiki/God%27s_algorithm)  
+[Good Old Days Wikipedia](http://rationalwiki.org/wiki/Good_old_days)  
+[Heuristic Wikipedia](http://en.wikipedia.org/wiki/Heuristic)  
+[Heuristic (Computer Science) Wikipedia](http://en.wikipedia.org/wiki/Heuristic_(computer_science))  
+[Hotelling's Rule Wikipedia](http://en.wikipedia.org/wiki/Hotelling's_rule)  
+[If By Whiskey Wikipedia](http://en.wikipedia.org/wiki/If-by-whiskey)  
+[Indicator of Compromise Wikipedia](http://en.wikipedia.org/wiki/Indicator_of_compromise)  
+[Is-Ought Problem Wikipedia](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)  
+[Gall's Law Wikipedia](http://en.wikipedia.org/wiki/John_Gall_%28author%29#Gall.27s_law)  
+[Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)  
+[Matthew Effect Wikipedia](http://en.wikipedia.org/wiki/Matthew_effect)  
+[Memory Hole Wikipedia](http://en.wikipedia.org/wiki/Memory_hole)  
+[Joy's Law Wikipedia](http://en.wikipedia.org/wiki/Joy%27s_Law_%28management%29)  
+[Metcalf's Law Wikipedia](http://en.wikipedia.org/wiki/Metcalfe%27s_law)  
+[Minority Influence Wikipedia](http://en.wikipedia.org/wiki/Minority_influence)  
+[Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law)  
+[No True Scotsman Wikipedia](http://en.wikipedia.org/wiki/No_true_Scotsman)  
+[Occam's Razor Wikipedia](http://en.wikipedia.org/wiki/Occam's_razor)  
+[Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law)  
+[Posit](http://www.merriam-webster.com/dictionary/posit)  
+[Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
+[Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
+[Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
+[Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
+[Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
+[Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
+[Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
+[Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model)  
+ 
+MOOC- Special Tracks
+
+[Udacity Google Track](https://www.udacity.com/lp/google)  
+
+Crazy Egg, KISSmetrics, KISSinsights, Hiten Shah, Neil Patel, Quicksprout
+EMarketer, Distribution Hacks
+[KISSinsights](http://www.kissinsights.com) 
+ 
+[Econsultancy Periodic Table of Marketing Content](https://assets.econsultancy.com/images/0004/5832/The_Periodic_Table_of_Content_Marketing.png)
+[Nuzzel Online Marketing List](http://nuzzel.com/kentlind/online-marketing) 
+
+[HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources)  
+[Kissmetrics Marketing Guides](https://blog.kissmetrics.com/marketing-guides)  
+[Kissmetrics Infographics](https://blog.kissmetrics.com/infographics)  
+[Kissmetrics Webinars](https://blog.kissmetrics.com/webinars) 
+[Marketing Land Infographics](http://marketingland.com/library/infographics)  
+[Marketing Land How To](http://marketingland.com/library/how-to)  
+[Search Engine Land Infographics](http://searchengineland.com/library/infographics)  
+[Search Marketing Expo](http://searchmarketingexpo.com)  
+
+[Moz Tools](http://moz.com/tools)  
+[Moz Rand Fishkin Slideshare](http://www.slideshare.net/randfish)  
+[Moz Cyrus Shepard Slideshare](http://www.slideshare.net/cyrusshepard)  
+[Moz Peter Meyers Slideshare](http://www.slideshare.net/crumplezone)  
+
+[Best of Slideshare 2014](http://www.slideshare.net/Slideshare/best-of-slideshare-2014)  
+[Hacker News Top](https://github.com/rylans/hackernews-top)  
+[Hacker News Welcome](https://news.ycombinator.com/newswelcome.html)  
+[Hacker News FAQs](https://news.ycombinator.com/newsfaq.html)  
+[Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)  
+[Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
+[Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
+
+[Policies Showcase GitHub](https://github.com/showcases/policies)  
+[App.net Template Terms GitHub](https://github.com/appdotnet/template-terms-of-service)  
+[App.net Terms GitHub](https://github.com/appdotnet/terms-of-service)  
+[Stripe Terms GitHub](https://github.com/stripe/terms)  
+[Terms Generator](https://termsfeed.com/privacy-policy/generator)  
+[O'Reilly Conferences Code of Conduct](http://www.oreilly.com/conferences/code-of-conduct.html)  
+[Twitter Code of Conduct GitHub](https://github.com/twitter/code-of-conduct)  
+[Rackspace Social Media Guidelines GitHub](https://github.com/rackspace/social_media_guidelines)  
+
+[OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)  
+[Sears OKR Case Study](https://www.linkedin.com/pulse/sears-holding-company-study-shows-okrs-impact-bottom-line-ben-lamorte)  
+
+[Pirate Metrics](http://piratemetrics.chargebee.com)  
+
+[Heart Startup](http://hearstartup.com)  
+[Gillmor Gang](http://www.ustream.tv/gillmorgang) 
+
+Hackathons
+[Battle Code](http://www.battlecode.org)  
+[Master of Code](http://mastersofcode.com) 
+
+[Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus) 
+
+[The Lost Interview with Steve Jobs](http://avc.com/2014/10/video-of-the-week-the-lost-interview)  
+
+[New Clues](http://cluetrain.com/newclues)  
+[New Clues GitHub](https://github.com/dweinberger/newclues)  
+[New Clues Listicle](http://listicle.io/cluetrain)  
+
+[Ryan Allis PowerPoint](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis)  
+[Tom Peters PowerPoint](http://tompeters.com/2014/09/new-annotated-master-presentation)  
+
+[Ello B Corporation Blog Post](https://ello.co/lucian/post/pyVDFHEYzhJHdNp30ra5Cg)  
+[Kickstarter B Corporation Blog Post](http://www.bcorporation.net/community/kickstarter-inc) 
  
