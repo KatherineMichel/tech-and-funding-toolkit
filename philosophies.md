@@ -47,7 +47,7 @@ Lists of Tools
 [Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas) 
 
 
-Clayton Christensen Innovator's Dilemma, Jobs to be Done
+Clayton Christensen Jobs to be Done
  [Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done)  
 
 Product
@@ -106,12 +106,6 @@ Business Models, Monetizing, Pricing Strategies- General
  [71 Ways to Monetize Digital Content](https://twitter.com/vivian/timelines/505375883063230465)  
  [71 Ways to Monetize Digital Content- Article](http://www.foliomag.com/2014/71-ways-monetize-digital-content#.VACqtvldXQq)  
  [Dave Winer How to Make Money on the Internet](http://scripting.com/davenet/2000/02/04/howToMakeMoneyOnTheInterne.html)  
-
-Product People- Sean Ellis
-
-[Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur))  
-[Growthhackers](https://growthhackers.com)  
-[Startup-Marketing](http://www.startup-marketing.com)  
 
 Steve Blank Lean LaunchPad Business Model Canvas
 
