@@ -59,7 +59,7 @@
 *   [Satya Patel](http://venturegeneratedcontent.com)
 *   [Scott Weiss](http://scott.a16z.com)
 *   [Semil Shah](http://blog.semilshah.com/about)
-*   [Sree Sreenivasan](https://twitter.com/sree)  
+*   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
 *   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 *   [Steven Sinofsky](http://blog.learningbyshipping.com)
 *   [Tomasz Tunguz](http://www.tomtunguz.com)
