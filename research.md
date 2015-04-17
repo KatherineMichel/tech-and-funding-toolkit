@@ -1,4 +1,59 @@
-  
+#### Microsoft Office and Financial Modelling  
+
+Office Live and Office Starter
+
+[Office Live](https://office.live.com/start/default.aspx)  
+[Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e)  
+
+Financial Modelling
+
+[GitSheet](http://www.gitsheet.org)  
+[Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com)  
+[Best Practice Modelling Example Models](http://www.bestpracticemodelling.com/downloads/example_models)  
+[Best Practice Modelling Interactive Training](http://www.bestpracticemodelling.com/training/best_practice)  
+[European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+[Spreadsheet Standards Review Board](http://www.ssrb.org)  
+[IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)  
+
+Wikipedia
+
+[Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents)  
+[Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics)  
+[Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists)  
+
+Data- Pew
+
+[Pew Forum](http://www.pewforum.org)  
+[Pew Global](http://www.pewglobal.org)  
+[Pew Research](http://www.pewresearch.org)  
+[Pew Research Fact Tank](http://www.pewresearch.org/fact-tank)  
+[Pew Internet](http://pewinternet.org)  
+
+Data- World Economic Forum
+
+[Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
+[World Economic Forum](http://www.weforum.org)  
+[World Economic Forum Reports Homepage](http://www.weforum.org/reports)  
+
+Reports- Analyst Groups
+
+[Altimeter Slideshare](http://www.slideshare.net/Altimeter) and [Altimeter Twitter](https://twitter.com/altimetergroup)  
+[Forrester](http://www.forrester.com/home)  
+[Gartner](http://www.gartner.com) and [Gartner Twitter](https://twitter.com/Gartner_inc)  
+[RedMonk Twitter](https://twitter.com/redmonk)  
+
+[O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com)  
+
+MOOCs
+
+[MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#)  
+[MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses/)  
+[Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)  
+[Stanford Online Courses](http://online.stanford.edu/courses)  
+[Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)  
+[EdX](https://www.edx.org)  
+[NovoEd](https://novoed.com)  
+[Udacity](https://www.udacity.com)  
 
 Corporate Law
 
@@ -20,15 +75,6 @@ Corporate Law- B Corporation
 [Benefitcorp](http://benefitcorp.net)  
 [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation)  
  
-Venture Capital and How Funding Works
-
-[Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
-[Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics)  
-[Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2)  
-[Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
-[Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
-[How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)  
-
 Companies and Financials
 
 [DealBook](http://dealbook.nytimes.com/?src=busfn)  
@@ -46,7 +92,6 @@ Companies and Financials
 [Wikinvest](http://www.wikinvest.com)  
 
 SEC
-
 [Securities and Exchange Commission](http://www.sec.gov/)  
 [SEC Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo)  
 [SEC Filings (10K Annual, 10Q Quarterly)](http://www.sec.gov/edgar.shtml)  
@@ -57,7 +102,6 @@ SEC
 [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K)  
 
 Regulatory Agencies- See Also SEC
-
 [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
 [Federal Aviation Administration](http://www.faa.gov)  
 [Federal Drug Administration](http://www.fda.gov)  
@@ -65,7 +109,6 @@ Regulatory Agencies- See Also SEC
 [The U.S. Small Business Administration](http://www.sba.gov)  
 
 International Business, Countries, Banks, and Currencies
-
 [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
 [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
 [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories)[Lists of Banks](http://en.wikipedia.org/wiki/Category:Lists_of_banks)  
@@ -75,7 +118,6 @@ International Business, Countries, Banks, and Currencies
 [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country)  
 
 Investment Terms
-
 [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
 [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
 [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
@@ -84,19 +126,13 @@ Investment Terms
 [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
 [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing)  
 
-[VC Funds at / Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
- 
-[Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)  
-
 Government Funding
-
 [Federal Business Opportunities](https://www.fbo.gov)  
 [DARPA Wikipedia](http://en.wikipedia.org/wiki/DARPA)  
 [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx)  
 [DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
 
 Berkshire Hathaway
-
 [Berkshire Hathaway](http://www.berkshirehathaway.com)  
 [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
 [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
@@ -104,7 +140,6 @@ Berkshire Hathaway
 [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher)  
 
 Economists, Investors, Philosophers
-
 [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
 [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
 [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
@@ -140,48 +175,87 @@ Economists, Investors, Philosophers
 [Reed Hastings Freedom and Responsibility Culture Edition 2 Slideshare](http://www.slideshare.net/reed2001/culture-1798664)  
 [Sequoia Capital RIP Good Times Slideshare](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation) 
 
-[Amy Jo Kim The 5 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-5-habits-of-breakthrough-innovators)  
+Events
+[Crunchbase Global Events List](http://www.crunchbase.com/events/all/global)  
+[Techmeme Events List](http://techmeme.com/events)  
+[TechCrunch Events](http://techcrunch.com/events) 
 
-[Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
-[Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc) 
+Designer/Developer Conferences
+[Apple WWDC](https://developer.apple.com/wwdc)  
+[Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014)  
+[Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+[F8 Facebook Developer Conference](https://www.fbf8.com)  
+[Google Design Form](http://www.google.com/design/form)  
+[Google IO](https://www.google.com/events/io)  
+[Google Summer of Code](hhttps://developers.google.com/open-source/soc/?csw=1)  
+[Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+[Twitter Flock](http://flock.fabric.io)  
 
-#### Microsoft Office and Financial Modelling  
-
-Office Live and Office Starter
-
-[Office Live](https://office.live.com/start/default.aspx)  
-[Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e)  
-
-Financial Modelling
-
-[GitSheet](http://www.gitsheet.org)  
-[Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com)  
-[Best Practice Modelling Example Models](http://www.bestpracticemodelling.com/downloads/example_models)  
-[Best Practice Modelling Interactive Training](http://www.bestpracticemodelling.com/training/best_practice)  
-[European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
-[Spreadsheet Standards Review Board](http://www.ssrb.org)  
-[IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)  
-
-
-
-[Angel Capital Associations](http://www.angelcapitalassociation.org)  
-[National Venture Capital Association](http://www.nvca.org) 
-
-[Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
-[Founders Club Learn](https://fundersclub.com/learn)  
-[Next View Ventures Blog](http://nextviewventures.com/blog)  
-[Silicon Valley Bank](http://www.svb.com)  
-[Spark Pays Own Legal Fees](http://pando.com/2013/04/24/put-away-your-wallet-startup-spark-decides-to-cover-its-own-legal-fees)  
-[StartX Stanford](http://startx.stanford.edu/companies)  
-[True University](http://trueuniversity.com) 
+Startup Competitions
+[Google for Entrepreneurs Demo Day](http://www.googleforentrepreneursdemoday.com)  
+[Twitter Hatch](http://hatch.io) 
  
+Jason and Launch
+[Jason Syndicate](https://angel.co/jason/syndicate)  
+[Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab)  
+[Launch Scale](http://events.launch.co/scale)  
+[Launch Festival](http://www.launchfestival.com) 
+ 
+High Profile Events
+[Gigaom Events](https://events.gigaom.com)  
+[LeWeb](http://leweb.co)  
+[Recode Events](http://recode.net/events)  
+[Salesforce Dreamforce](http://www.salesforce.com/dreamforce)  
+[SXSW](http://sxsw.com) 
+
+Metrics
+[Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate)  
+[Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel)  
+[Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart)  
+
+Peter Thiel Stanford CS183 Course- Precursor
+[Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)  
+[Coursera Stanford Startup Engineering MOOC GitHub](https://github.com/startup-class)  
+[Stanford CS 184 Startup Engineering MOOC](http://startup.stanford.edu)  
+[Syllabus](https://class.coursera.org/startup-001/wiki/syllabus)  
+[Lecture](https://class.coursera.org/startup-001/lecture)  
+[Guest Lectures](https://class.coursera.org/startup-001/wiki/guest-lectures)  
+[YCombinator Stanford Startup Class](http://startupclass.samaltman.com)  
+[YCombinator Stanford Startup Class YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)  
+
+#### News Aggregation, Research, MOOCs
+
+[Quora](http://www.quora.com)
+[Reddit](http://www.reddit.com)
+
+[Hacker News](https://news.ycombinator.com/news)  
+[Hacker News Top](https://github.com/rylans/hackernews-top) 
+[Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+[Nuzzel](http://nuzzel.com) 
+[Slideshare Slideshare](http://www.slideshare.net/Slideshare) [Slideshare Explore Tab](http://www.slideshare.net/popular/category)  
+[Slideshare Featured](http://www.slideshare.net/featured)  
+
+[Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)  
+[TED Talks](http://www.ted.com/talks)  
+
+Aggregation and Curation
+[Flipboard](https://flipboard.com) 
+[Feedly](http://feedly.com)  
+[Media Redef](http://www.mediaredefined.com/Originals)  
+[Redef](http://redef.com/channel/media) 
+
+[Tweetdeck](https://tweetdeck.twitter.com) 
+
+
+
+
+
 #### Legal Documents and Policies 
 
 [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
-[Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security)  
- 
-500 Startups, Tech Stars, and YCombinator Docs/RFS
+[Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
 
+500 Startups, Tech Stars, and YCombinator Docs/RFS
 [500 Startups Keep It Simple Security](http://500.co/kiss)  
 [Tech Stars Docs](http://www.techstars.com/docs)  
 [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
@@ -193,8 +267,18 @@ Financial Modelling
 [YCombinator RFS](http://www.ycombinator.com/rfs)  
 [YCombinator Sales Template Agreement](http://www.ycombinator.com/documents/#sales)  
 [YCombinator Handshake](http://www.ycombinator.com/handshake)  
-[YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)  
+[YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware) 
 
+[Angel Capital Associations](http://www.angelcapitalassociation.org)  
+
+[Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
+[Founders Club Learn](https://fundersclub.com/learn)  
+[Next View Ventures Blog](http://nextviewventures.com/blog)  
+[Silicon Valley Bank](http://www.svb.com)  
+[Spark Pays Own Legal Fees](http://pando.com/2013/04/24/put-away-your-wallet-startup-spark-decides-to-cover-its-own-legal-fees)  
+[StartX Stanford](http://startx.stanford.edu/companies)  
+[True University](http://trueuniversity.com) 
+ 
 Startup Docs- Legal (See also 500 Startups, Tech Stars, and YCombinator Docs/RFS)
 
 [409A](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A)  
@@ -255,258 +339,20 @@ Cap Table
 [Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)  
 [Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)  
   
-Metrics
-
-[Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate)  
-[Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel)  
-[Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart)  
-
-#### Tech Podcasts and Courses
-
-VC and Tech Podcasts
-
-Peter Thiel Stanford CS183 Course- Precursor
-
-[Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)  
-
-Stanford CS 184/Coursera: Startup Engineering Course
-
-[Coursera Stanford Startup Engineering MOOC GitHub](https://github.com/startup-class)  
-[Stanford CS 184 Startup Engineering MOOC](http://startup.stanford.edu)  
-[Syllabus](https://class.coursera.org/startup-001/wiki/syllabus)  
-[Lecture](https://class.coursera.org/startup-001/lecture)  
-[Guest Lectures](https://class.coursera.org/startup-001/wiki/guest-lectures)  
-
-YCombinator Stanford Startup Class
-
-[YCombinator Stanford Startup Class](http://startupclass.samaltman.com)  
-[YCombinator Stanford Startup Class YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)  
-
-#### News Aggregation, Research, MOOCs
-
-http://www.quora.com
-http://www.reddit.com
-
-[Hacker News](https://news.ycombinator.com/news)  
-[Hacker News Top](https://github.com/rylans/hackernews-top) 
-[Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-[Nuzzel](http://nuzzel.com) 
-[Slideshare Slideshare](http://www.slideshare.net/Slideshare) [Slideshare Explore Tab](http://www.slideshare.net/popular/category)  
-[Slideshare Featured](http://www.slideshare.net/featured)  
-
-[Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)  
-[TED Talks](http://www.ted.com/talks)  
-
-Aggregation and Curation
-Flipbook
-
-[Feedly](http://feedly.com)  
-[Media Redef](http://www.mediaredefined.com/Originals)  
-[Redef](http://redef.com/channel/media)  
-[The Skimm](http://www.theskimm.com)  
-
-Wikipedia
-
-[Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents)  
-[Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics)  
-[Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists)  
-
-Data- Pew
-
-[Pew Forum](http://www.pewforum.org)  
-[Pew Global](http://www.pewglobal.org)  
-[Pew Research](http://www.pewresearch.org)  
-[Pew Research Fact Tank](http://www.pewresearch.org/fact-tank)  
-[Pew Internet](http://pewinternet.org)  
-
-Data- World Economic Forum
-
-[Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
-[World Economic Forum](http://www.weforum.org)  
-[World Economic Forum Reports Homepage](http://www.weforum.org/reports)  
-
-Reports- Analyst Groups
-
-[Altimeter Slideshare](http://www.slideshare.net/Altimeter) and [Altimeter Twitter](https://twitter.com/altimetergroup)  
-[Forrester](http://www.forrester.com/home)  
-[Gartner](http://www.gartner.com) and [Gartner Twitter](https://twitter.com/Gartner_inc)  
-[RedMonk Twitter](https://twitter.com/redmonk)  
-
-[O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com)  
-
-MOOCs
-
-[MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#)  
-[MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses/)  
-[Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)  
-[Stanford Online Courses](http://online.stanford.edu/courses)  
-[Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)  
-[EdX](https://www.edx.org)  
-[NovoEd](https://novoed.com)  
-[Udacity](https://www.udacity.com)  
-
-[Slide Rule](https://www.mysliderule.com) 
-[Alison](http://alison.com)  
  
+
+
+
+
+
 
  
  
-#### Various Articles
 
- Startups Versus Big Companies
 
-[Startups Versus Big Companies](https://medium.com/the-year-of-the-looking-glass/start-ups-versus-big-companies-f275800e78e5)  
 
-Businessweek 85 Ideas
-
-[Businessweek 85 Ideas](http://www.businessweek.com/features/85ideas)  
- [Asymco Comments- Businessweek 85 Ideas](https://twitter.com/asymco/status/540629209455271936)  
-
-Fast Company Most Innovative Companies 2015
-
-[Fast Company Most Innovative Companies 2015](http://www.fastcompany.com/section/most-innovative-companies-2015)  
- [Fast Company Most Innovative Companies 2015- Media](http://www.fastcompany.com/3041669/most-innovative-companies-2015/the-worlds-top-10-most-innovative-companies-of-2015-in-media)  
- [Fast Company Most Innovative Companies 2015- Retail](http://www.fastcompany.com/3041661/most-innovative-companies-2015/the-worlds-top-10-most-innovative-companies-of-2015-in-retail)  
-
-Mark Cranney Sales Process
-
-[Mark Cranney Sales Process](https://a16z.files.wordpress.com/2014/05/cranney_salesprocess.jpg)  
-
-IDC's 2015 Marketing Technology Map
-
-[IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg)  
- [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018)  
-
-Find Tech Reporters
-
-[Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters)  
-
-Epic Launch Strategies
-
-[Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy)  
- [Harry's](hhttp://fourhourworkweek.com/2014/07/21/harrys-prelaunchr-email)  
-
-More Places and Ways to Promote
-
-[27 Websites to Submit Your Startup GitHub](http://www.inboundio.com/blog/27-websites-to-submit-your-startup)  
- [How Startups ...](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)  
- [Massive List of Web App Directories to Promote Your Startup](http://justinmcgill.net/massive-list-of-web-app-directories-to-promote-your-startup)  
- [Places to Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)  
- [Startup Lister](https://startuplister.com/the-list)  
-
-Startup Transparency- Medium
-
-[Medium Inside](https://medium.com/inside)  
- [Medium Inside Launch](https://medium.com/inside/hatching-inside-medium-5ae60292d655)  
-
-Startup Transparency- Buffer
-
-[Buffer App ](https://bufferapp.com) [Buffer App About](https://bufferapp.com/about) [Buffer App Blog](https://blog.bufferapp.com) [Buffer App Blog Template](https://github.com/bufferapp/buffer-blog-v2) [Buffer App Slideshare](http://www.slideshare.net/Bufferapp) [Buffer App Transparency](https://bufferapp.com/transparency) [Buffer Dashboard](https://buffer.baremetrics.io/dashboard)  
- [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4)  
-
-Startup Transparency- More
-
-[Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
- [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence)  
-
-#### Dev Conferences, Hackathons 
-
-Designer/Developer Conferences
-
-[Apple WWDC](https://developer.apple.com/wwdc)  
- [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014)  
- [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
- [F8 Facebook Developer Conference](https://www.fbf8.com)  
- [Google Design Form](http://www.google.com/design/form)  
- [Google IO](https://www.google.com/events/io)  
- [Google Summer of Code](hhttps://developers.google.com/open-source/soc/?csw=1)  
- [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
- [Twitter Flock](http://flock.fabric.io)  
-
-Startup Competitions
-
-[Google for Entrepreneurs Demo Day](http://www.googleforentrepreneursdemoday.com)  
-[Twitter Hatch](http://hatch.io) 
  
-Events
 
-[Crunchbase Global Events List](http://www.crunchbase.com/events/all/global)  
-[Techmeme Events List](http://techmeme.com/events)  
-[TechCrunch Events](http://techcrunch.com/events) 
- 
-Jason and Launch
-
-[Jason Syndicate](https://angel.co/jason/syndicate)  
- [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab)  
- [Launch Scale](http://events.launch.co/scale)  
- [Launch Festival Speakers](http://www.launchfestival.com/speakers)  
- [Launch Scale Speakers](http://events.launch.co/scale/#jhitchco)  
-
-High Profile Events
-
-[Gigaom Events](https://events.gigaom.com)  
- [LeWeb](http://leweb.co)  
- [Recode Events](http://recode.net/events)  
- [Salesforce Dreamforce](http://www.salesforce.com/dreamforce)  
- [SXSW](http://sxsw.com)  
- 
-#### Libraries, Academic, Journalism, Petitions 
-
-Libraries
-
-[City of London Business Library](http://www.cityoflondon.gov.uk/business/economic-research-and-information/city-business-library/Pages/default.aspx)  
- [Library of Congress News and Periodical Resources](http://www.loc.gov/rr/news/lists.html)  
- [Lancaster University Library](http://libweb.lancs.ac.uk/)  
- [The British Library](http://www.bl.uk/)  
-
-Scholarly Journals
-
-[Science Direct](http://www.sciencedirect.com/)  
- [Elselvier](http://www.elsevier.com/)  
-
-Tweetdeck, Twitter Lists, and Tumblr
-
-[Tweetdeck](https://tweetdeck.twitter.com)  
- [Anthony De La Rosa Tweetdeck Overview](http://multijournalism.wordpress.com/resources/tweetdeck/)  
- [Anthony De La Rosa Setting up Twitter Lists on Tweetdeck](http://soupsoup.net/2013/06/04/social-journalist-guides-setting-up-twitter-lists-on-tweetdeck/)  
- [Matthew Keys: How to Build Awesome and Useful Twitter Lists](http://sixtimesanhour.com/2012/12/how-to-build-awesome-and-useful-twitter-lists-for-news-events/)  
- [Matthew Keys: Tumblr Tutorial](http://www.matthewkeys.net/tumblr)  
- [Twitter List Copy API](http://noahliebman.com/listcopy/connect.php)  
- [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887)  
-
-Guardian Directory of News Websites
-
-[Guardian Directory of News Websites, Country-by-Country](http://www.guardian.co.uk/worldnewsguide/)  
-
-Handbooks and Style Guides
-
-[Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
- [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides)  
- [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism)  
- [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)  
- [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
- [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
- [Guardian Observer Style Guide](http://www.theguardian.com/guardian-observer-style-guide-a)  
- [Guardian Observer Style Guide](http://www.theguardian.com/guardian-observer-style-guide-p)  
- [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)  
- [New York Times Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014)  
- [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
- [Telegraph Style Guide Wikipedia](http://www.telegraph.co.uk/topics/about-us/style-book)  
-
-Computational Journalism
-
-[Jonathan Stray Lecture, “Big Data” Analysis Techniques](http://jmsc.hku.hk/courses/jmsc6041spring2013/2013/02/14/introduction-computer-science-and-journalism/)  
- [Jonathan Stray, Computational Journalism Reading List](http://jonathanstray.com/a-computational-journalism-reading-list)  
-
-Historical Documents
-
-[U.N. Universal Declaration of Human Rights](http://www.un.org/en/documents/udhr/)  
- [Declaration of Independence, Constitution, Bill of Rights](http://www.archives.gov/exhibits/charters/charters.html)  
-
-Petitions
-
-[No. 10 Petitions GitHub](https://github.com/mysociety/petitions)  
- [White House Petitions GitHub](https://github.com/WhiteHouse/petitions)  
 
 #### Computers, Phones, Apps, Websites, Platforms
 
@@ -1367,6 +1213,45 @@ Laws, Theories, Logic
 [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
 [Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model)  
  
+#### Various Articles
+
+[Startups Versus Big Companies](https://medium.com/the-year-of-the-looking-glass/start-ups-versus-big-companies-f275800e78e5)  
+[Businessweek 85 Ideas](http://www.businessweek.com/features/85ideas)  
+[Asymco Comments- Businessweek 85 Ideas](https://twitter.com/asymco/status/540629209455271936)  
+[Fast Company Most Innovative Companies 2015](http://www.fastcompany.com/section/most-innovative-companies-2015)
+[Fast Company Most Innovative Companies 2015- Media](http://www.fastcompany.com/3041669/most-innovative-companies-2015/the-worlds-top-10-most-innovative-companies-of-2015-in-media)  
+[Fast Company Most Innovative Companies 2015- Retail](http://www.fastcompany.com/3041661/most-innovative-companies-2015/the-worlds-top-10-most-innovative-companies-of-2015-in-retail)  
+[Mark Cranney Sales Process](https://a16z.files.wordpress.com/2014/05/cranney_salesprocess.jpg)  
+[IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg)  
+[Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018)  
+
+[Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters)  
+
+Epic Launch Strategies
+[Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy)  
+[Harry's](hhttp://fourhourworkweek.com/2014/07/21/harrys-prelaunchr-email)  
+
+More Places and Ways to Promote
+
+[27 Websites to Submit Your Startup GitHub](http://www.inboundio.com/blog/27-websites-to-submit-your-startup)  
+[How Startups ...](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)  
+[Massive List of Web App Directories to Promote Your Startup](http://justinmcgill.net/massive-list-of-web-app-directories-to-promote-your-startup)  
+[Places to Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)  
+[Startup Lister](https://startuplister.com/the-list)  
+
+Startup Transparency- Medium
+[Medium Inside](https://medium.com/inside)  
+[Medium Inside Launch](https://medium.com/inside/hatching-inside-medium-5ae60292d655)  
+
+Startup Transparency- Buffer
+
+[Buffer App ](https://bufferapp.com) [Buffer App About](https://bufferapp.com/about) [Buffer App Blog](https://blog.bufferapp.com) [Buffer App Blog Template](https://github.com/bufferapp/buffer-blog-v2) [Buffer App Slideshare](http://www.slideshare.net/Bufferapp) [Buffer App Transparency](https://bufferapp.com/transparency) [Buffer Dashboard](https://buffer.baremetrics.io/dashboard)  
+[Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4)  
+
+[VC Funds at / Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
+ 
+[Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0) 
+
 MOOC- Special Tracks
 
 [Udacity Google Track](https://www.udacity.com/lp/google)  
@@ -1383,6 +1268,18 @@ Fantasy Venture Capital
 Transaction Services
 [Fortis](http://fortisrep.com) 
 
+Startup Transparency- More
+[Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+[Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence)  
+
+Venture Capital and How Funding Works
+[Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
+[Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics)  
+[Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2)  
+[Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
+[Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
+[How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png) 
+
 [500 Distrofund](http://500.co/distrofund) 
 [500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform) 
 People- General
@@ -1393,10 +1290,15 @@ People- General
 [Marc Andreessen Industry List Tweetstorm](https://twitter.com/pngmarca/status/523961618116276224)  
 [Robert Scoble Twitter Lists](https://twitter.com/Scobleizer/lists)  
 [Web Summit Investors](https://websummit.net/investors)  
-
+[Launch Festival Speakers](http://www.launchfestival.com/speakers)  
+[Launch Scale Speakers](http://events.launch.co/scale/#jhitchco) 
 [Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
 [Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
 [Nuzzel Online Marketing List](http://nuzzel.com/kentlind/online-marketing) 
+
+[Amy Jo Kim The 5 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-5-habits-of-breakthrough-innovators)  
+[Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
+[Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc)
 
 Crazy Egg, Hiten Shah, Neil Patel, Quicksprout
 EMarketer, Distribution Hacks
@@ -1475,3 +1377,58 @@ IPO
 [PwC Roadmap for an IPO](http://www.pwc.com/en_US/us/transaction-services/publications/assets/roadmap-to-an-ipo.pdf)  
 [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
 [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
+
+[The Skimm](http://www.theskimm.com)  
+
+[Slide Rule](https://www.mysliderule.com) 
+[Alison](http://alison.com) 
+
+#### Libraries, Academic, Journalism, Petitions 
+
+Libraries
+
+[City of London Business Library](http://www.cityoflondon.gov.uk/business/economic-research-and-information/city-business-library/Pages/default.aspx)  
+[Library of Congress News and Periodical Resources](http://www.loc.gov/rr/news/lists.html)  
+[Lancaster University Library](http://libweb.lancs.ac.uk/)  
+[The British Library](http://www.bl.uk/)  
+
+Scholarly Journals
+
+[Science Direct](http://www.sciencedirect.com/)  
+[Elselvier](http://www.elsevier.com/)  
+
+Tweetdeck, Twitter Lists, and Tumblr
+[Anthony De La Rosa Tweetdeck Overview](http://multijournalism.wordpress.com/resources/tweetdeck/)  
+[Anthony De La Rosa Setting up Twitter Lists on Tweetdeck](http://soupsoup.net/2013/06/04/social-journalist-guides-setting-up-twitter-lists-on-tweetdeck/)  
+[Matthew Keys: How to Build Awesome and Useful Twitter Lists](http://sixtimesanhour.com/2012/12/how-to-build-awesome-and-useful-twitter-lists-for-news-events/)  
+[Matthew Keys: Tumblr Tutorial](http://www.matthewkeys.net/tumblr)  
+[Twitter List Copy API](http://noahliebman.com/listcopy/connect.php)  
+[Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887)  
+
+[Guardian Directory of News Websites, Country-by-Country](http://www.guardian.co.uk/worldnewsguide/)  
+
+Handbooks and Style Guides
+[Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
+[List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides)  
+[BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism)  
+[BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)  
+[BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
+[Economist Style Guide](http://www.economist.com/styleguide/introduction)  
+[Guardian Observer Style Guide](http://www.theguardian.com/guardian-observer-style-guide-a)  
+[Guardian Observer Style Guide](http://www.theguardian.com/guardian-observer-style-guide-p)  
+[New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage) 
+[New York Times Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014)  
+[Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
+[Telegraph Style Guide Wikipedia](http://www.telegraph.co.uk/topics/about-us/style-book)  
+
+Computational Journalism
+[Jonathan Stray Lecture, “Big Data” Analysis Techniques](http://jmsc.hku.hk/courses/jmsc6041spring2013/2013/02/14/introduction-computer-science-and-journalism/)  
+ [Jonathan Stray, Computational Journalism Reading List](http://jonathanstray.com/a-computational-journalism-reading-list)  
+
+Historical Documents
+[U.N. Universal Declaration of Human Rights](http://www.un.org/en/documents/udhr/)  
+ [Declaration of Independence, Constitution, Bill of Rights](http://www.archives.gov/exhibits/charters/charters.html)  
+
+Petitions
+[No. 10 Petitions GitHub](https://github.com/mysociety/petitions)  
+[White House Petitions GitHub](https://github.com/WhiteHouse/petitions)  
