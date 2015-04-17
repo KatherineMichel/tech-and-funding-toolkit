@@ -75,7 +75,7 @@ Tech and Venture Capital Toolkit
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
 *   [A16Z](http://a16z.com), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [First Round](http://firstround.com)
-*   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library) [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+*   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [KPCB](http://www.kpcb.com) and [KPCB Podcasts](https://soundcloud.com/kleinerperkins) 
 *   [Sequoia Capital](http://www.sequoiacap.com) 
 
@@ -87,19 +87,13 @@ Tech and Venture Capital Toolkit
 
 #### Company and Product Databases
 
-*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
+*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [Betalist](http://betalist.com)  
 *   [CB Insights](https://www.cbinsights.com), [Blog](https://www.cbinsights.com/blog), [Twitter](https://twitter.com/CBinsights)  
-*   [CrunchBase](http://www.crunchbase.com)  
+*   [CrunchBase](http://www.crunchbase.com) and [API](https://developer.crunchbase.com)
 *   [Datafox](http://www.datafox.co), [Blog](http://www.datafox.co/blog), [Twitter](https://twitter.com/datafoxco)
 *   [Mattermark](http://mattermark.com)  
-*   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com)  
-
-#### Company and Product Database APIs
-
-*   [Angelist API](https://angel.co/api)  
-*   [Crunchbase API](https://developer.crunchbase.com)  
-*   [Product Hunt API](https://rrhoover.typeform.com/to/U49PTQ), [GitHub](https://github.com/producthunt/producthunt-api), [Docs](https://api.producthunt.com/v1/docs) 
+*   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
 
 #### Venture Analysis from Different Angles
 
