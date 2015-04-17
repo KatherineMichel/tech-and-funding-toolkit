@@ -107,6 +107,11 @@ Tech and Venture Capital Toolkit
 *   [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf)  
 *   [Tomasz Tunguz How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)  
 
+#### Philosophies
+
+*   [The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160) and [How The Innovator's Dilemma Affects You by Mark Suster- ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+
 #### Idea State Machine and Idea Maze
 
 *   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
