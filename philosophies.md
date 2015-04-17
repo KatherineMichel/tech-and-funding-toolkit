@@ -86,7 +86,6 @@ Business Models, Monetizing, Pricing Strategies- General
  [Fred Wilson Revenue Models](http://avc.com/2012/12/mba-mondays-revenue-models)  
  [Fred Wilson Revenue Models- Hackpad](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)  
  [Fred Wilson Revenue Models- YCombinator](https://news.ycombinator.com/item?id=4924647)  
- [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)  
  [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
  [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
  [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors)  
