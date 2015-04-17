@@ -3,22 +3,22 @@
 Corporate Law
 
 [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law)  
- [SBA Corporations](http://www.sba.gov/content/corporation)  
- [IRS Corporations](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Corporations)  
- [State of Delaware](http://corp.delaware.gov)  
- [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law)  
- [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3)  
- [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company)  
- [SBA LLC](http://www.sba.gov/content/limited-liability-company-llc)  
- [IRS LLC](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Limited-Liability-Company-LLC)  
- [S Corporation Wikipedia](http://en.wikipedia.org/wiki/S_corporation)  
- [SBA S Corporation](http://www.sba.gov/content/s-corporation)  
- [IRS S Corporation](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/S-Corporations)  
+[SBA Corporations](http://www.sba.gov/content/corporation)  
+[IRS Corporations](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Corporations)  
+[State of Delaware](http://corp.delaware.gov)  
+[Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law)  
+[IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3)  
+[LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company)  
+[SBA LLC](http://www.sba.gov/content/limited-liability-company-llc)  
+[IRS LLC](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Limited-Liability-Company-LLC)  
+[S Corporation Wikipedia](http://en.wikipedia.org/wiki/S_corporation)  
+[SBA S Corporation](http://www.sba.gov/content/s-corporation)  
+[IRS S Corporation](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/S-Corporations)  
 
-Corporate Law- B Corporation and Examples
+Corporate Law- B Corporation
 
 [Benefitcorp](http://benefitcorp.net)  
- [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation)  
+[Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation)  
  
 Venture Capital and How Funding Works
 
@@ -29,108 +29,67 @@ Venture Capital and How Funding Works
  [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
  [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)  
 
-Venture Associations
-
 [Angel Capital Associations](http://www.angelcapitalassociation.org)  
- [National Venture Capital Association](http://www.nvca.org)  
+[National Venture Capital Association](http://www.nvca.org)  
 
- [VC Funds at / Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
- 
-
-Fantasy Venture Capital
-
-[Sandhill Exchange](http://sandhill.exchange)  
- [Valleyball](http://valleyball.co)  
- 
 Companies and Financials
 
- [Dealbook](http://dealbook.nytimes.com/?src=busfn)  
- 
+[DealBook](http://dealbook.nytimes.com/?src=busfn)  
+[PitchBook](http://blog.pitchbook.com) 
+
+[Nasdaq](http://www.nasdaq.com)  
+[StockTwits](http://stocktwits.com)  
+[Wealthfront Blog](https://blog.wealthfront.com)  
+
 [Bloomberg](http://www.bloomberg.com/)  
- [Google Finance](https://www.google.com/finance)  
- [MarketWatch](http://www.marketwatch.com)  
- [Nasdaq](http://www.nasdaq.com)  
- [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)  
- [StockTwits](http://stocktwits.com)  
- [StockTwits StockTwits](http://stocktwits.com/stocktwits)  
- [StockTwits Charts](http://stocktwits.com/home#charts)  
- [StockTwits Developers](http://stocktwits.com/developers)  
- [Wealthfront Blog](https://blog.wealthfront.com)  
- [Wikinvest](http://www.wikinvest.com)  
- [Yahoo Finance](http://finance.yahoo.com)  
+[MarketWatch](http://www.marketwatch.com) 
+
+[Google Finance](https://www.google.com/finance) 
+[Yahoo Finance](http://finance.yahoo.com)  
+[Wikinvest](http://www.wikinvest.com)  
 
 SEC
 
 [Securities and Exchange Commission](http://www.sec.gov/)  
- [SEC Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo)  
- [SEC Filings (10K Annual, 10Q Quarterly)](http://www.sec.gov/edgar.shtml)  
- [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)  
- [SEC Forms Index](http://www.sec.gov/info/edgar/forms/edgform.pdf)  
- [SEC Forms List](http://www.sec.gov/forms#.U98mrj90zIU)  
- [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
- [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K)  
+[SEC Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo)  
+[SEC Filings (10K Annual, 10Q Quarterly)](http://www.sec.gov/edgar.shtml)  
+[SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)  
+[SEC Forms Index](http://www.sec.gov/info/edgar/forms/edgform.pdf)  
+[SEC Forms List](http://www.sec.gov/forms#.U98mrj90zIU)  
+[Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
+[Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K)  
 
 Regulatory Agencies- See Also SEC
 
 [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
- [Federal Aviation Administration](http://www.faa.gov)  
- [Federal Drug Administration](http://www.fda.gov)  
- [Federal Trade Commission, Bureau of consumer Protection](http://www.business.ftc.gov)  
- [The U.S. Small Business Administration](http://www.sba.gov)  
+[Federal Aviation Administration](http://www.faa.gov)  
+[Federal Drug Administration](http://www.fda.gov)  
+[Federal Trade Commission, Bureau of consumer Protection](http://www.business.ftc.gov)  
+[The U.S. Small Business Administration](http://www.sba.gov)  
 
 International Business, Countries, Banks, and Currencies
 
 [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
- [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
- [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories)[Lists of Banks](http://en.wikipedia.org/wiki/Category:Lists_of_banks)  
- [List of Central Banks](http://en.wikipedia.org/wiki/List_of_central_banks)  
- [List of Financial Regulatory Authorities by Country](http://en.wikipedia.org/wiki/List_of_financial_regulatory_authorities_by_country)  
- [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
- [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country)  
-
-Economists, Investors, Philosophers
-
-[List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
- [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
- [Friedrich nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
- [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
- [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
- [Rene Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
- [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
- [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner)  
+[Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
+[Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories)[Lists of Banks](http://en.wikipedia.org/wiki/Category:Lists_of_banks)  
+[List of Central Banks](http://en.wikipedia.org/wiki/List_of_central_banks)  
+[List of Financial Regulatory Authorities by Country](http://en.wikipedia.org/wiki/List_of_financial_regulatory_authorities_by_country)  
+[List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
+[Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country)  
 
 Investment Terms
 
 [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
- [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
- [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
- [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
- [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
- [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
- [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing)  
+[Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
+[Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
+[Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
+[Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
+[Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
+[Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing)  
 
-IPO
-
-[PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
- [PwC Roadmap for an IPO](http://www.pwc.com/en_US/us/transaction-services/publications/assets/roadmap-to-an-ipo.pdf)  
- [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
- [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp)  
-
-Transaction Services
-
-[Fortis](http://fortisrep.com)  
-
-Types of Acquisitions
-
+[VC Funds at / Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
+ 
 [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)  
-
-Berkshire Hathaway
-
-[Berkshire Hathaway](http://www.berkshirehathaway.com)  
- [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
- [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
- [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
- [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher)  
 
 Government Funding
 
@@ -139,9 +98,42 @@ Government Funding
 [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx)  
 [DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
 
+Transaction Services
+
+[Fortis](http://fortisrep.com) 
+
+Berkshire Hathaway
+
+[Berkshire Hathaway](http://www.berkshirehathaway.com)  
+[Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
+[Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
+[Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
+[Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher)  
+
+Economists, Investors, Philosophers
+
+[List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
+[List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+[Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
+[Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
+[Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
+[Rene Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
+[Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
+[Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
+
+IPO
+
+[PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
+[PwC Roadmap for an IPO](http://www.pwc.com/en_US/us/transaction-services/publications/assets/roadmap-to-an-ipo.pdf)  
+[Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
+[Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
+
 #### VC Resources, People
  
 [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
+
+http://www.quora.com
+http://www.reddit.com
 
 [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
 
@@ -164,12 +156,9 @@ Government Funding
 [Sequoia Capital RIP Good Times Slideshare](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation) 
 
 [Amy Jo Kim The 5 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-5-habits-of-breakthrough-innovators)  
-[The Ultimate Guide List for Startups Applying to 500 Startups](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-500-startups-accelerator)  
-[The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator) 
 
 [Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
 [Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc) 
- 
 [500 Distrofund](http://500.co/distrofund) 
 [500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform) 
 More VC Website Resources
@@ -1417,6 +1406,15 @@ MOOC- Special Tracks
 
 [Udacity Google Track](https://www.udacity.com/lp/google)  
 
+Fantasy Venture Capital
+[Sandhill Exchange](http://sandhill.exchange)  
+[Valleyball](http://valleyball.co) 
+
+[StockTwits StockTwits](http://stocktwits.com/stocktwits)  
+[StockTwits Charts](http://stocktwits.com/home#charts)  
+[StockTwits Developers](http://stocktwits.com/developers) 
+[NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)  
+
 Crazy Egg, KISSmetrics, KISSinsights, Hiten Shah, Neil Patel, Quicksprout
 EMarketer, Distribution Hacks
 [KISSinsights](http://www.kissinsights.com) 
@@ -1480,4 +1478,7 @@ Hackathons
 
 [Ello B Corporation Blog Post](https://ello.co/lucian/post/pyVDFHEYzhJHdNp30ra5Cg)  
 [Kickstarter B Corporation Blog Post](http://www.bcorporation.net/community/kickstarter-inc) 
+
+[The Ultimate Guide List for Startups Applying to 500 Startups](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-500-startups-accelerator)  
+[The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator) 
  
