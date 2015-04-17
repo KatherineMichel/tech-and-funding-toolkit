@@ -80,7 +80,7 @@ Tech and Venture Capital Toolkit
 
 #### Accelerators 
 
-*   [500 Startups](http://500.co)
+*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Events](http://500.co/events), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com)
 
@@ -116,8 +116,6 @@ Tech and Venture Capital Toolkit
 
 #### Growth, Marketing, and Content Resources
 
-*   [500 Startups Activity](http://500.co/activity), [500 Startups Events](http://500.co/events), [500 Startups Slideshare](http://www.slideshare.net/500startups)  
-*   [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)  
 *   [Distribution Hacks](http://distributionhacks.com) 
 *   [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](hhttps://twitter.com/CrazyEgg)  
