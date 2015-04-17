@@ -105,9 +105,11 @@ Tech and Venture Capital Toolkit
 
 #### Philosophies
 
+*   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Clay Christensen's The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
 *   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
 *   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+*   [The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](https://books.google.com/books?id=r9x-OXdzpPcC&printsec=frontcover&dq=lean+startup&hl=en&sa=X&ei=dqgwVYWPGbXbsASR8YHIBw&ved=0CDEQ6AEwAA#v=onepage&q=lean%20startup&f=false)
 
 #### Idea State Machine and Idea Maze
 
