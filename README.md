@@ -62,6 +62,7 @@ Tech and Venture Capital Toolkit
 *   [Sam Altman](http://blog.samaltman.com)
 *   [Satya Patel](http://venturegeneratedcontent.com)
 *   [Scott Weiss](http://scott.a16z.com)
+*   [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
 *   [Semil Shah](http://blog.semilshah.com/about)
 *   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
 *   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
@@ -136,6 +137,7 @@ Tech and Venture Capital Toolkit
 #### Growth, Marketing, and Content Resources
 
 *   [Distribution Hacks](http://distributionhacks.com) 
+*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com) 
 *   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
 *   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
 *   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
