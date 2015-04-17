@@ -29,9 +29,6 @@ Venture Capital and How Funding Works
 [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
 [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)  
 
-[Angel Capital Associations](http://www.angelcapitalassociation.org)  
-[National Venture Capital Association](http://www.nvca.org)  
-
 Companies and Financials
 
 [DealBook](http://dealbook.nytimes.com/?src=busfn)  
@@ -166,7 +163,9 @@ Financial Modelling
 [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)  
 
 
-More VC Website Resources
+
+[Angel Capital Associations](http://www.angelcapitalassociation.org)  
+[National Venture Capital Association](http://www.nvca.org) 
 
 [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
 [Founders Club Learn](https://fundersclub.com/learn)  
@@ -177,8 +176,6 @@ More VC Website Resources
 [True University](http://trueuniversity.com) 
  
 #### Legal Documents and Policies 
-
-Convertible Bond and Security
 
 [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
 [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security)  
