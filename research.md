@@ -23,11 +23,11 @@ Corporate Law- B Corporation
 Venture Capital and How Funding Works
 
 [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
- [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics)  
- [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2)  
- [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
- [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
- [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)  
+[Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics)  
+[Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2)  
+[Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
+[Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
+[How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)  
 
 [Angel Capital Associations](http://www.angelcapitalassociation.org)  
 [National Venture Capital Association](http://www.nvca.org)  
@@ -98,10 +98,6 @@ Government Funding
 [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx)  
 [DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
 
-Transaction Services
-
-[Fortis](http://fortisrep.com) 
-
 Berkshire Hathaway
 
 [Berkshire Hathaway](http://www.berkshirehathaway.com)  
@@ -121,25 +117,17 @@ Economists, Investors, Philosophers
 [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
 
-IPO
-
-[PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
-[PwC Roadmap for an IPO](http://www.pwc.com/en_US/us/transaction-services/publications/assets/roadmap-to-an-ipo.pdf)  
-[Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
-[Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
-
 #### VC Resources, People
  
 [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
-http://www.quora.com
-http://www.reddit.com
+[The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)  
+[Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
 
 [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
 
 [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) (click online.wsj.com from [Google search results](https://www.google.com/?q=software+is+eating+the+world) to get past the paywall)  
 [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)  
-[Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction)  
 [The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 [Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing) 
 [Startup Gene Pool Engineering](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf) 
@@ -159,45 +147,35 @@ http://www.reddit.com
 
 [Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
 [Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc) 
-[500 Distrofund](http://500.co/distrofund) 
-[500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform) 
-More VC Website Resources
 
-[Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
- [Founders Club Learn](https://fundersclub.com/learn)  
- [Next View Ventures Blog](http://nextviewventures.com/blog)  
- [Silicon Valley Bank](http://www.svb.com)  
- [Spark Pays Own Legal Fees](http://pando.com/2013/04/24/put-away-your-wallet-startup-spark-decides-to-cover-its-own-legal-fees)  
- [StartX Stanford](http://startx.stanford.edu/companies)  
- [True University](http://trueuniversity.com)  
-
-People- General
-
- [500 Startups Mentors](http://500.co/mentors)  
- [Angelist People](https://angel.co/people)  
- [GMC Following Twitter](https://twitter.com/gmc/following)  
- [Marc Andreessen Industry List](http://nuzzel.com/pmarca/industry)  
- [Marc Andreessen Industry List Tweetstorm](https://twitter.com/pngmarca/status/523961618116276224)  
- [Robert Scoble Twitter Lists](https://twitter.com/Scobleizer/lists)  
- [Web Summit Investors](https://websummit.net/investors)  
- 
 #### Microsoft Office and Financial Modelling  
 
 Office Live and Office Starter
 
 [Office Live](https://office.live.com/start/default.aspx)  
- [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e)  
+[Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e)  
 
 Financial Modelling
 
 [GitSheet](http://www.gitsheet.org)  
- [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com)  
- [Best Practice Modelling Example Models](http://www.bestpracticemodelling.com/downloads/example_models)  
- [Best Practice Modelling Interactive Training](http://www.bestpracticemodelling.com/training/best_practice)  
- [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
- [Spreadsheet Standards Review Board](http://www.ssrb.org)  
- [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)  
+[Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com)  
+[Best Practice Modelling Example Models](http://www.bestpracticemodelling.com/downloads/example_models)  
+[Best Practice Modelling Interactive Training](http://www.bestpracticemodelling.com/training/best_practice)  
+[European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+[Spreadsheet Standards Review Board](http://www.ssrb.org)  
+[IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)  
 
+
+More VC Website Resources
+
+[Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
+[Founders Club Learn](https://fundersclub.com/learn)  
+[Next View Ventures Blog](http://nextviewventures.com/blog)  
+[Silicon Valley Bank](http://www.svb.com)  
+[Spark Pays Own Legal Fees](http://pando.com/2013/04/24/put-away-your-wallet-startup-spark-decides-to-cover-its-own-legal-fees)  
+[StartX Stanford](http://startx.stanford.edu/companies)  
+[True University](http://trueuniversity.com) 
+ 
 #### Legal Documents and Policies 
 
 Convertible Bond and Security
@@ -223,73 +201,63 @@ Convertible Bond and Security
 Startup Docs- Legal (See also 500 Startups, Tech Stars, and YCombinator Docs/RFS)
 
 [409A](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A)  
- [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com)  
- [Cooley Go](http://www.cooleygo.com)  
- [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents)  
- [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators)  
- [Docracy](http://www.docracy.com)  
- [Docracy Documents](http://www.docracy.com/application/dochome)  
- [Example Simple Asset Purchase Agreement](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement)  
- [Legal Docs GitHub](https://github.com/papertrail/legal-docs)  
- [Legal Docs GitHub](https://github.com/zikula-modules/Legal)  
- [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)  
- [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881)  
- [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx)  
- [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp)  
- [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0)  
- [Rocket Lawyer](https://www.rocketlawyer.com)  
- [SeriesSeed](http://www.seriesseed.com)  
- [SeriesSeed GitHub](https://github.com/seriesseed/equity)  
- [Shake Simply Legal](http://www.shakelaw.com)  
- [Venture Docs](https://venturedocs.com/documents)  
- [Visible](https://visible.vc)  
- [Wilmerhale Launch](http://launch.wilmerhale.com)  
- [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
+[Clerky (Incorporation and Equity Compensation)](https://www.clerky.com)  
+[Cooley Go](http://www.cooleygo.com)  
+[Cooley Go Documents](http://www.cooleygo.com/info-hub/documents)  
+[Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators)  
+[Docracy](http://www.docracy.com)  
+[Docracy Documents](http://www.docracy.com/application/dochome)  
+[Example Simple Asset Purchase Agreement](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement)  
+[Legal Docs GitHub](https://github.com/papertrail/legal-docs)  
+[Legal Docs GitHub](https://github.com/zikula-modules/Legal)  
+[National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)  
+[Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881)  
+[Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx)  
+[Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp)  
+[Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0)  
+[Rocket Lawyer](https://www.rocketlawyer.com)  
+[SeriesSeed](http://www.seriesseed.com)  
+[SeriesSeed GitHub](https://github.com/seriesseed/equity)  
+[Shake Simply Legal](http://www.shakelaw.com)  
+[Venture Docs](https://venturedocs.com/documents)  
+[Visible](https://visible.vc)  
+[Wilmerhale Launch](http://launch.wilmerhale.com)  
+[Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 
 Startup Docs- Term Sheet Generators
 
 [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
- [WSGR Term Sheet Generator](https://dealbuilder.wsgr.com)  
+[WSGR Term Sheet Generator](https://dealbuilder.wsgr.com)  
 
 Startup Docs- Decks and Update Emails
 
 [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board)  
- [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck)  
- [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail)  
- [Next View Startup Board Decks Template](http://nextviewventures.com/blog/free-startup-board-decks-template)  
- [Update My VC Email Template](https://mail.google.com/mail/u/0/?view=cm&amp;amp;amp;fs=1&amp;amp;amp;tf=1&amp;amp;amp;to&amp;amp;amp;su=Investor+Update&amp;amp;amp;body=Highlights:%0A%0AWhat+milestones+or+accomplishments+are+you+most+proud+of?%0A%0ALowlights:%0A%0AWhat+are+the+things+you%E2%80%99re+most+disappointed+about?%0A%0AProduct:%0A%0AWhat+has+shipped+and+has+the+roadmap+shifted?%0A%0AKPIs/Core+Metrics:%0A%0AHow+is+the+business+/+product+performing?%0A%0ABusiness+Development:%0A%0ADid+you+close+any+notable+deals+/+partnerships?++What+opportunities+are+in+the+pipeline?%0A%0AHiring:%0A%0AWere+any+key+employees+hired+or+fired?+What+positions+are+currently+open?%0A%0AFinancing:%0A%0AHow+much+cash+is+left+in+the+bank?+What+is+the+current+burn?++When+do+you+run+out+of+cash?%0A%0APress:%0A%0AAny+notable+press+mentions?%0A%0AHelp+Wanted/Asks:%0A%0AWhere+do+you+need+the+most+help+from+your+investors+and+advisors?%0A%0AKudos:%0A%0AWhich+investors+and+advisors+went+above+and+beyond+to+help+the+company?%0A%0A)  
+[IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck)  
+[IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail)  
+[Next View Startup Board Decks Template](http://nextviewventures.com/blog/free-startup-board-decks-template)  
+[Update My VC Email Template](https://mail.google.com/mail/u/0/?view=cm&amp;amp;amp;fs=1&amp;amp;amp;tf=1&amp;amp;amp;to&amp;amp;amp;su=Investor+Update&amp;amp;amp;body=Highlights:%0A%0AWhat+milestones+or+accomplishments+are+you+most+proud+of?%0A%0ALowlights:%0A%0AWhat+are+the+things+you%E2%80%99re+most+disappointed+about?%0A%0AProduct:%0A%0AWhat+has+shipped+and+has+the+roadmap+shifted?%0A%0AKPIs/Core+Metrics:%0A%0AHow+is+the+business+/+product+performing?%0A%0ABusiness+Development:%0A%0ADid+you+close+any+notable+deals+/+partnerships?++What+opportunities+are+in+the+pipeline?%0A%0AHiring:%0A%0AWere+any+key+employees+hired+or+fired?+What+positions+are+currently+open?%0A%0AFinancing:%0A%0AHow+much+cash+is+left+in+the+bank?+What+is+the+current+burn?++When+do+you+run+out+of+cash?%0A%0APress:%0A%0AAny+notable+press+mentions?%0A%0AHelp+Wanted/Asks:%0A%0AWhere+do+you+need+the+most+help+from+your+investors+and+advisors?%0A%0AKudos:%0A%0AWhich+investors+and+advisors+went+above+and+beyond+to+help+the+company?%0A%0A)  
 
 Startup Docs- Operations
 
 [IA Ventures Resources](http://resources.iaventures.com)  
- [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex)  
- [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)  
- [Invoice Generator](https://www.free-invoice-generator.com)  
- [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources)  
- [Next View Post Fundraise Checklist](http://nextviewventures.com/blog/wp-content/uploads/2014/12/Post-Seed-Checklist-for-Entrepreneurs-NextView-Ventures.pdf)  
- [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf)  
- [Update My VC](http://updatemyvc.com)  
- [Update My VC Library](http://updatemyvc.com/library)  
+[IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex)  
+[IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)  
+[Invoice Generator](https://www.free-invoice-generator.com)  
+[Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources)  
+[Next View Post Fundraise Checklist](http://nextviewventures.com/blog/wp-content/uploads/2014/12/Post-Seed-Checklist-for-Entrepreneurs-NextView-Ventures.pdf)  
+[Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf)  
+[Update My VC](http://updatemyvc.com)  
+[Update My VC Library](http://updatemyvc.com/library)  
 
 Cap Table
 
-[Capitalization Table Wikipedi](http://en.wikipedia.org/wiki/Capitalization_table)  
- [Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)  
- [Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)  
- [Captable.io](https://captable.io)  
- [Eshares Inc](https://www.esharesinc.com)  
+[Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table)  
+[Captable.io](https://captable.io)  
+[Eshares Inc](https://www.esharesinc.com)
 
-Email
-
-[MailChimp Patterns](http://ux.mailchimp.com/patterns)  
-[MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
-[Send with Us Guide](https://www.sendwithus.com/resources/guide)  
-[Send with Us GitHub](https://github.com/sendwithus/templates)  
-[Really Good Email](http://reallygoodemails.com)  
-[Voice and Tone](http://voiceandtone.com)  
-
-[The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)  
-
+[Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)  
+[Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)  
+  
 Metrics
 
 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate)  
@@ -319,17 +287,15 @@ YCombinator Stanford Startup Class
 
 #### News Aggregation, Research, MOOCs
 
-Hacker News
+http://www.quora.com
+http://www.reddit.com
 
 [Hacker News](https://news.ycombinator.com/news)  
+[Hacker News Top](https://github.com/rylans/hackernews-top) 
 [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 [Nuzzel](http://nuzzel.com) 
 [Slideshare Slideshare](http://www.slideshare.net/Slideshare) [Slideshare Explore Tab](http://www.slideshare.net/popular/category)  
-[Slideshare Features](http://www.slideshare.net/features)  
-
-[Slideshare Developers](http://www.slideshare.net/developers)  
-
-Google Talks and Ted Talks
+[Slideshare Featured](http://www.slideshare.net/featured)  
 
 [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)  
 [TED Talks](http://www.ted.com/talks)  
@@ -1104,6 +1070,8 @@ Yahoo and Bing- Developer
 Slideshare Insight
 
 [Slideshare Insight](http://www.slideshare.net/insight)  
+[Slideshare Features](http://www.slideshare.net/features)  
+[Slideshare Developers](http://www.slideshare.net/developers) 
 
 GitHub Analytics
 
@@ -1415,12 +1383,30 @@ Fantasy Venture Capital
 [StockTwits Developers](http://stocktwits.com/developers) 
 [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)  
 
-Crazy Egg, KISSmetrics, KISSinsights, Hiten Shah, Neil Patel, Quicksprout
-EMarketer, Distribution Hacks
-[KISSinsights](http://www.kissinsights.com) 
- 
-[Econsultancy Periodic Table of Marketing Content](https://assets.econsultancy.com/images/0004/5832/The_Periodic_Table_of_Content_Marketing.png)
+Transaction Services
+[Fortis](http://fortisrep.com) 
+
+[500 Distrofund](http://500.co/distrofund) 
+[500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform) 
+People- General
+[500 Startups Mentors](http://500.co/mentors)  
+[Angelist People](https://angel.co/people)  
+[GMC Following Twitter](https://twitter.com/gmc/following)  
+[Marc Andreessen Industry List](http://nuzzel.com/pmarca/industry)  
+[Marc Andreessen Industry List Tweetstorm](https://twitter.com/pngmarca/status/523961618116276224)  
+[Robert Scoble Twitter Lists](https://twitter.com/Scobleizer/lists)  
+[Web Summit Investors](https://websummit.net/investors)  
+
+[Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
+[Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
 [Nuzzel Online Marketing List](http://nuzzel.com/kentlind/online-marketing) 
+
+Crazy Egg, Hiten Shah, Neil Patel, Quicksprout
+EMarketer, Distribution Hacks
+
+[KISSinsights](http://www.kissinsights.com) 
+
+[Econsultancy Periodic Table of Marketing Content](https://assets.econsultancy.com/images/0004/5832/The_Periodic_Table_of_Content_Marketing.png)
 
 [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources)  
 [Kissmetrics Marketing Guides](https://blog.kissmetrics.com/marketing-guides)  
@@ -1437,12 +1423,17 @@ EMarketer, Distribution Hacks
 [Moz Peter Meyers Slideshare](http://www.slideshare.net/crumplezone)  
 
 [Best of Slideshare 2014](http://www.slideshare.net/Slideshare/best-of-slideshare-2014)  
-[Hacker News Top](https://github.com/rylans/hackernews-top)  
 [Hacker News Welcome](https://news.ycombinator.com/newswelcome.html)  
 [Hacker News FAQs](https://news.ycombinator.com/newsfaq.html)  
 [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)  
-[Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
-[Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
+
+Email
+[MailChimp Patterns](http://ux.mailchimp.com/patterns)  
+[MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
+[Send with Us Guide](https://www.sendwithus.com/resources/guide)  
+[Send with Us GitHub](https://github.com/sendwithus/templates)  
+[Really Good Email](http://reallygoodemails.com)  
+[Voice and Tone](http://voiceandtone.com)  
 
 [Policies Showcase GitHub](https://github.com/showcases/policies)  
 [App.net Template Terms GitHub](https://github.com/appdotnet/template-terms-of-service)  
@@ -1482,3 +1473,8 @@ Hackathons
 [The Ultimate Guide List for Startups Applying to 500 Startups](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-500-startups-accelerator)  
 [The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator) 
  
+IPO
+[PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
+[PwC Roadmap for an IPO](http://www.pwc.com/en_US/us/transaction-services/publications/assets/roadmap-to-an-ipo.pdf)  
+[Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
+[Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
