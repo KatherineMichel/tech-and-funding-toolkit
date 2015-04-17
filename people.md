@@ -6,12 +6,15 @@
 *   [Andrew Chen](http://andrewchen.co/list-of-essays)
 *   [Anil Dash](http://dashes.com/anil)
 *   [Ben Bajarin](http://atbenbajarin.com)  
+*   [Ben and Tim Bajarin](https://techpinions.com) 
 *   [Ben Horowitz](http://www.bhorowitz.com)   
+*   [Ben Thompson](http://stratechery.com)  
 *   [Benedict Evans](http://ben-evans.com) and [Benedict Evans Slideshare](http://www.slideshare.net/bge20)
 *   [Beth Kanter Slideshare](http://www.slideshare.net/kanter)
 *   [Bill and Melinda Gates](http://www.thegatesnotes.com) 
 *   [Bill Gurley](http://abovethecrowd.com)
 *   [Brad Feld](http://www.feld.com)
+*   [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 *   [Chris Dixon](http://cdixon.org)   
@@ -28,6 +31,7 @@
 *   [Jay Rosen](http://pressthink.org)   
 *   [Jeff Jarvis](http://buzzmachine.com) 
 *   [Jeff Jordan](http://jeff.a16z.com)   
+*   [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
 *   [John Battelle](http://battellemedia.com)   
 *   [John Gruber](http://daringfireball.net)   
 *   [Kevin Marks](http://www.kevinmarks.com)   
@@ -54,22 +58,8 @@
 *   [Scott Weiss](http://scott.a16z.com)
 *   [Semil Shah](http://blog.semilshah.com/about)
 *   [Sree Sreenivasan](https://twitter.com/sree)  
-*   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
+*   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 *   [Steven Sinofsky](http://blog.learningbyshipping.com)
 *   [Tomasz Tunguz](http://www.tomtunguz.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
-
-
-http://www.web-strategist.com
-http://techpinions.com
-http://stratechery.com
-
-*   [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
-*   [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
-Loic
-
-
-
-
-
