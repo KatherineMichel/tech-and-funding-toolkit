@@ -179,17 +179,6 @@ Events
 [Techmeme Events List](http://techmeme.com/events)  
 [TechCrunch Events](http://techcrunch.com/events) 
 
-Designer/Developer Conferences
-[Apple WWDC](https://developer.apple.com/wwdc)  
-[Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014)  
-[Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-[F8 Facebook Developer Conference](https://www.fbf8.com)  
-[Google Design Form](http://www.google.com/design/form)  
-[Google IO](https://www.google.com/events/io)  
-[Google Summer of Code](hhttps://developers.google.com/open-source/soc/?csw=1)  
-[Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-[Twitter Flock](http://flock.fabric.io)  
-
 Startup Competitions
 [Google for Entrepreneurs Demo Day](http://www.googleforentrepreneursdemoday.com)  
 [Twitter Hatch](http://hatch.io) 
@@ -370,34 +359,6 @@ Wayback Machine and Search Code
  [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)  
  [Search Code](https://searchcode.com)  
  [Nerdy Data](http://nerdydata.com)  
-
-Built With (Exluding Django)
-
-[Built With](http://builtwith.com)  
- [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
- [Built with Bootstrap](http://expo.getbootstrap.com)  
- [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
- [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
- [Squarespace (Website Examples)](http://www.squarespace.com)  
- [Volusion (Website Examples)](http://www.volusion.com)  
- [CSS Zen Garden Homepage](http://www.csszengarden.com/)  
- [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns/)  
- [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide)  
-
-Wordpress VIP
-
-[Wordpress VIP](http://vip.wordpress.com)  
- [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
-
-Website Re-Designs
-
-[Designers Dilemna for Media Websites](http://mashable.com/2014/09/24/designers-dilemma-for-media-websites/#:eyJzIjoidCIsImkiOiJfNWwydWRib3l2cXFsZ3IzNHB3b3V5XyJ9)  
- [Buzzfeed](http://www.poynter.org/latest-news/top-stories/237429/why-the-mobile-preview-feature-in-buzzfeeds-cms-matters-even-if-your-publication-is-nothing-like-buzzfeed)  
- [Loverly](http://pando.com/2014/09/25/loverly-sees-traffic-surge-450-in-90-days-following-a-content-focused-redesign)  
- [Smashing Magazine](http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study)  
- [Sports Illustrated](http://mashable.com/2014/06/23/sports-illustrated-gambling)  
- [Time Magazine](http://www.adweek.com/news/press/time-relaunches-web-redesign-156098)  
- [Wired](http://www.wired.co.uk/news/archive/2014-09/04/building-the-new-wired-website-landing-pages)  
 
 One-Page Apps
 
