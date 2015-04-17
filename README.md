@@ -121,7 +121,7 @@ Tech and Venture Capital Toolkit
  
 #### Business Models, Pricing, Product Tiers
 
-[Product Tier Selection- A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
+*   [Product Tier Selection- A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 #### Demo
 
