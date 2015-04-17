@@ -72,6 +72,7 @@ Tech and Venture Capital Toolkit
 *   [Tomasz Tunguz](http://www.tomtunguz.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
+*   [Youngme Moon](https://twitter.com/YoungmeMoon)
 
 #### Firms
 
