@@ -46,8 +46,9 @@ Fantasy Venture Capital
  
 Companies and Financials
 
-[Bloomberg](http://www.bloomberg.com/)  
  [Dealbook](http://dealbook.nytimes.com/?src=busfn)  
+ 
+[Bloomberg](http://www.bloomberg.com/)  
  [Google Finance](https://www.google.com/finance)  
  [MarketWatch](http://www.marketwatch.com)  
  [Nasdaq](http://www.nasdaq.com)  
@@ -327,15 +328,6 @@ Social Media Guidelines
 
 #### Metrics 
 
-OKRs
-[How Google Sets Goals Objectives and Key Results OKRs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-
-Pirate Metrics- Regular and Mobile
-
-[Dave McClure Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-[Edith Yeung Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-
 [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)  
 [Sears OKR Case Study](https://www.linkedin.com/pulse/sears-holding-company-study-shows-okrs-impact-bottom-line-ben-lamorte)  
 
@@ -378,21 +370,10 @@ Hacker News
 [Hacker News](https://news.ycombinator.com/news)  
 [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 [Nuzzel](http://nuzzel.com) 
-
- [Hacker News Top](https://github.com/rylans/hackernews-top)  
- [Hacker News Welcome](https://news.ycombinator.com/newswelcome.html)  
- [Hacker News FAQs](https://news.ycombinator.com/newsfaq.html)  
- [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)  
-   
- [Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
- [Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
-
-Slideshare- General
-
 [Slideshare Slideshare](http://www.slideshare.net/Slideshare) [Slideshare Explore Tab](http://www.slideshare.net/popular/category)  
- [Slideshare Features](http://www.slideshare.net/features)  
- [Slideshare Developers](http://www.slideshare.net/developers)  
- [Best of Slideshare 2014](http://www.slideshare.net/Slideshare/best-of-slideshare-2014)  
+[Slideshare Features](http://www.slideshare.net/features)  
+
+[Slideshare Developers](http://www.slideshare.net/developers)  
 
 Google Talks and Ted Talks
 
@@ -460,53 +441,56 @@ MOOC- Special Tracks
 
 #### Growth, Marketing, Content 
 
-Growth, Marketing, Content
-
 [Distribution Hacks](http://distributionhacks.com)  
- [Econsultancy](https://econsultancy.com)  
- [Econsultancy Periodic Table of Marketing Content](https://assets.econsultancy.com/images/0004/5832/The_Periodic_Table_of_Content_Marketing.png)  
- [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) [Nuzzel Online Marketing List](http://nuzzel.com/kentlind/online-marketing) [PSFK Slideshare](http://www.slideshare.net/PSFK)   
-
-Crazy Egg, KISSmetrics, KISSinsights, Hiten Shah, Neil Patel
+[Econsultancy](https://econsultancy.com)  
+[EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+[PSFK Slideshare](http://www.slideshare.net/PSFK)   
 
 [CrazyEgg](http://www.crazyegg.com)  
- [CrazyEgg Twitter](hhttps://twitter.com/CrazyEgg)  
- [Hiten Shah](https://twitter.com/hnshah)  
- [Kissmetrics](https://www.kissmetrics.com)  
- [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
- [Kissmetrics Twitter](https://twitter.com/KISSmetrics)  
- [Kissmetrics Blog](https://blog.kissmetrics.com)  
- [Kissmetrics Marketing Guides](https://blog.kissmetrics.com/marketing-guides)  
- [Kissmetrics Infographics](https://blog.kissmetrics.com/infographics)  
- [Kissmetrics Webinars](https://blog.kissmetrics.com/webinars)  
- [KISSinsights](http://www.kissinsights.com)  
- [Quicksprout](http://www.quicksprout.com)  
-
-HubSpot
-
+[CrazyEgg Twitter](hhttps://twitter.com/CrazyEgg)  
+[Hiten Shah](https://twitter.com/hnshah)  
+[Kissmetrics](https://www.kissmetrics.com)  
+[Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
+[Kissmetrics Twitter](https://twitter.com/KISSmetrics)  
+[Kissmetrics Blog](https://blog.kissmetrics.com)  
+[Quicksprout](http://www.quicksprout.com)  
+[Moz](http://moz.com) 
 [HubSpot Blog](http://blog.hubspot.com)  
- [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources)  
- [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-
-Marketing Land, Search Engine Land, and Search Marketing Expo
-
+[HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
 [Marketing Land](http://marketingland.com)  
- [Marketing Land Infographics](http://marketingland.com/library/infographics)  
- [Marketing Land How To](http://marketingland.com/library/how-to)  
- [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
- [Search Engine Land](http://searchengineland.com)  
- [Search Engine Land Infographics](http://searchengineland.com/library/infographics)  
- [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)  
- [Search Marketing Expo](http://searchmarketingexpo.com)  
+[Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+[Search Engine Land](http://searchengineland.com) 
+[Search Engine Land Slideshare](http://www.slideshare.net/searchengineland) 
+  
+Crazy Egg, KISSmetrics, KISSinsights, Hiten Shah, Neil Patel, Quicksprout
 
-Moz
+[KISSinsights](http://www.kissinsights.com) 
+ 
+[Econsultancy Periodic Table of Marketing Content](https://assets.econsultancy.com/images/0004/5832/The_Periodic_Table_of_Content_Marketing.png)
+[Nuzzel Online Marketing List](http://nuzzel.com/kentlind/online-marketing) 
 
-[Moz](http://moz.com)  
- [Moz Tools](http://moz.com/tools)  
- [Moz Rand Fishkin Slideshare](http://www.slideshare.net/randfish)  
- [Moz Cyrus Shepard Slideshare](http://www.slideshare.net/cyrusshepard)  
- [Moz Peter Meyers Slideshare](http://www.slideshare.net/crumplezone)  
+[HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources)  
+[Kissmetrics Marketing Guides](https://blog.kissmetrics.com/marketing-guides)  
+[Kissmetrics Infographics](https://blog.kissmetrics.com/infographics)  
+[Kissmetrics Webinars](https://blog.kissmetrics.com/webinars) 
+[Marketing Land Infographics](http://marketingland.com/library/infographics)  
+[Marketing Land How To](http://marketingland.com/library/how-to)  
+[Search Engine Land Infographics](http://searchengineland.com/library/infographics)  
+[Search Marketing Expo](http://searchmarketingexpo.com)  
 
+[Moz Tools](http://moz.com/tools)  
+[Moz Rand Fishkin Slideshare](http://www.slideshare.net/randfish)  
+[Moz Cyrus Shepard Slideshare](http://www.slideshare.net/cyrusshepard)  
+[Moz Peter Meyers Slideshare](http://www.slideshare.net/crumplezone)  
+
+[Best of Slideshare 2014](http://www.slideshare.net/Slideshare/best-of-slideshare-2014)  
+[Hacker News Top](https://github.com/rylans/hackernews-top)  
+[Hacker News Welcome](https://news.ycombinator.com/newswelcome.html)  
+[Hacker News FAQs](https://news.ycombinator.com/newsfaq.html)  
+[Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)  
+[Nuzzel Angellist](http://nuzzel.com/abrams/angellist)  
+[Nuzzel Startup Communities](http://nuzzel.com/startupcommunities)  
+ 
 #### Various Articles
 
 Software and Mobile are Eating the World, Creative Destruction
