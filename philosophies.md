@@ -14,8 +14,23 @@ Product
 [Product Management Wikipedia](http://en.wikipedia.org/wiki/Product_management)  
 [Product Manager Wikipedia](http://en.wikipedia.org/wiki/Product_manager)  
 
-Eric Ries-MVP
-[Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+Market and Market Research (See also Angelist and Betalist)
+[Market Research Category Wikipedia](http://en.wikipedia.org/wiki/Category:Market_research)  
+[Industry or Market Research Wikipedia](http://en.wikipedia.org/wiki/Industry_or_market_research)  
+[Market Wikipedia](http://en.wikipedia.org/wiki/Market_(economics))  
+[Market(Size Economics) Wikipedia](http://en.wikipedia.org/wiki/Market_(economics)#Size_parameters)  
+[Market Analysis Wikipedia](http://en.wikipedia.org/wiki/Market_analysis)  
+[Market Share Wikipedia](http://en.wikipedia.org/wiki/Market_share)  
+[Market Segmentation Wikipedia](http://en.wikipedia.org/wiki/Market_segmentation)  
+[Target Market Wikipedia](http://en.wikipedia.org/wiki/Target_market)  
+[Relevant Market Wikipedia](http://en.wikipedia.org/wiki/Relevant_market)  
+
+Demographics and Population
+
+[Demographics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Demographics)  
+[Demographics Wikipedia](http://en.wikipedia.org/wiki/Demographics)  
+[Demographics Analysis Wikipedia](http://en.wikipedia.org/wiki/Demographic_analysis)  
+[Sagacity Segmentation Wikipedia](http://en.wikipedia.org/wiki/Sagacity_segmentation)
 
 [Possible Startups](http://possiblestartups.com)  
 
@@ -33,25 +48,6 @@ Lists of Tools
 
 Clayton Christensen Jobs to be Done
 [Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done)  
-
-Market and Market Research (See also Angelist and Betalist)
-
-[Market Research Category Wikipedia](http://en.wikipedia.org/wiki/Category:Market_research)  
-[Industry or Market Research Wikipedia](http://en.wikipedia.org/wiki/Industry_or_market_research)  
-[Market Wikipedia](http://en.wikipedia.org/wiki/Market_(economics))  
-[Market(Size Economics) Wikipedia](http://en.wikipedia.org/wiki/Market_(economics)#Size_parameters)  
-[Market Analysis Wikipedia](http://en.wikipedia.org/wiki/Market_analysis)  
-[Market Share Wikipedia](http://en.wikipedia.org/wiki/Market_share)  
-[Market Segmentation Wikipedia](http://en.wikipedia.org/wiki/Market_segmentation)  
-[Target Market Wikipedia](http://en.wikipedia.org/wiki/Target_market)  
-[Relevant Market Wikipedia](http://en.wikipedia.org/wiki/Relevant_market)  
-
-Demographics and Population
-
-[Demographics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Demographics)  
-[Demographics Wikipedia](http://en.wikipedia.org/wiki/Demographics)  
-[Demographics Analysis Wikipedia](http://en.wikipedia.org/wiki/Demographic_analysis)  
-[Sagacity Segmentation Wikipedia](http://en.wikipedia.org/wiki/Sagacity_segmentation)  
 
 Secrets of Market Sizing, Pricing, and Product Market Fit
 [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing)  
@@ -88,7 +84,7 @@ Business Model Canvas
 [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)  
 [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas)  
 
-Eric Ries, Lean Startup, and Minimum Viable Product
+Eric Ries, Lean Startup
 [The Lean Startup](http://www.stpia.ir/files/The%20Lean%20Startup%20.pdf)  
  
 Lean and Social Lean Business Model Canvas
