@@ -121,7 +121,7 @@ Tech and Venture Capital Toolkit
 
 #### Software and Mobile are Eating the World, Software is Reorganizing the World
 
-*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) (click online.wsj.com from [Google search results](https://www.google.com/?q=software+is+eating+the+world) to get past the paywall)  
+*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
 *   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
 *   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
 *   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
@@ -163,9 +163,9 @@ Tech and Venture Capital Toolkit
 
 *   [Distribution Hacks](http://distributionhacks.com) 
 *   [Sean Ellis: Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com) 
-*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg: Twitter](https://twitter.com/CrazyEgg)  
 *   [Hiten Shah: Twitter](https://twitter.com/hnshah) and [Neil Patel: Twitter](https://twitter.com/neilpatel)
-*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics: Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
+*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics: Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics: Slideshare](http://www.slideshare.net/kissmetrics)  
 *   [Quicksprout](http://www.quicksprout.com)  
 *   [Moz](http://moz.com) 
 *   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot: Slideshare](http://www.slideshare.net/HubSpot)  
@@ -174,3 +174,8 @@ Tech and Venture Capital Toolkit
 *   [Econsultancy](https://econsultancy.com)  
 *   [EMarketer: Slideshare](http://www.slideshare.net/eMarketerInc) 
 *   [PSFK](http://www.psfk.com) and [PSFK: Slideshare](http://www.slideshare.net/PSFK) 
+
+#### Popular Tools
+
+*   [Office Live](https://office.live.com/start/default.aspx) 
+
