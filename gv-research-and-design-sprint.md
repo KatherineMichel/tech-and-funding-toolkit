@@ -1,3 +1,10 @@
+#### Google Ventures Library and Design Studio
+
+[Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library)  
+[Google Ventures Library](http://www.gv.com/library)  
+[Google Ventures Library- Design](http://www.gv.com/library/design)  
+[Google Ventures Design Studio](http://www.gv.com/#design-studio)  
+
 #### Google Ventures Research Guide
 
 *   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
@@ -37,6 +44,16 @@
 *   [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 *   [Use Real Words](http://gettingreal.37signals.com/ch11_Use_Real_Words.php)  
+
+#### Google Ventures Research and Design Sprint- User Testing and UX
+
+Jacob Nielsen's User Testing Advice
+
+[Why You Only Need to Test with 5 Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users)  
+[Thinking Aloud the 1 Usability Tool](http://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool)  
+
+UX Metrics
+[HEART Framework](http://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product ) 
 
 #### Thoughtbot Playbook and Design Sprint
 
