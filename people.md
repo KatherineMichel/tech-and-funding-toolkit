@@ -63,3 +63,16 @@
 *   [Tomasz Tunguz](http://www.tomtunguz.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
+
+#### Firms
+
+*   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
+*   [A16Z](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+*   [First Round](http://firstround.com)
+*   [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+*   [KPCB](http://www.kpcb.com)
+*   [Sequoia Capital](http://www.sequoiacap.com) 
+
+#### Accelerators 
+*   [500 Startups](http://500.co)
+ 
