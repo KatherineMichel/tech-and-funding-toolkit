@@ -3,6 +3,7 @@
 *   [Albert Wenger](http://continuations.com)
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
 *   [Alex Osterwalder](http://www.alexosterwalder.com) and [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder)
+*   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim)
 *   [Andrew Chen](http://andrewchen.co/list-of-essays)
 *   [Anil Dash](http://dashes.com/anil)
 *   [Ben Bajarin](http://atbenbajarin.com)  
@@ -38,7 +39,7 @@
 *   [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 *   [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)  
 *   [Louis Gray](http://blog.louisgray.com)
-*   [Marc Andreessen](http://blog.pmarca.com)   
+*   [Marc Andreessen](http://blog.pmarca.com), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
 *   [Marco Arment](http://www.marco.org)
 *   [Mark Suster](http://www.bothsidesofthetable.com) and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
 *   [Marshall Kirkpatrick](http://marshallk.com)
@@ -51,6 +52,7 @@
 *   [Om Malik](http://om.co)
 *   [Paul Graham](http://paulgraham.com/articles.html)
 *   [Peter Levine](http://peter.a16z.com)
+*   [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 *   [Robert Scoble](https://www.facebook.com/RobertScoble)
 *   [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
 *   [Sam Altman](http://blog.samaltman.com)
@@ -74,5 +76,7 @@
 *   [Sequoia Capital](http://www.sequoiacap.com) 
 
 #### Accelerators 
+
 *   [500 Startups](http://500.co)
- 
+*   [Techstars](http://www.techstars.com)
+*   [YCombinator](http://ycombinator.com)
