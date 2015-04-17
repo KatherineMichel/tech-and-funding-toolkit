@@ -37,8 +37,6 @@ Venture Associations
  [National Venture Capital Association](http://www.nvca.org)  
 
 VC Firms and Syndicates
-
-[Lst of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms)  
  [VC Funds at / Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0)  
  [Warburg Pincus](http://www.warburgpincus.com)  
  [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)  
@@ -125,10 +123,6 @@ Transaction Services
 
 [Fortis](http://fortisrep.com)  
 
-A16Z Valuation Advice
-
-[A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)  
-
 Types of Acquisitions
 
 [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)  
@@ -149,9 +143,8 @@ Government Funding
  [DARPA Open Catalog](http://www.darpa.mil/opencatalog)  
 
 #### VC Resources, People
-
+ 
 500 Startups
-
 [500 Startups Activity](http://500.co/activity)  
  [500 Startups Events](http://500.co/events)  
  [500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform)  
@@ -161,48 +154,28 @@ Government Funding
  [Edith Yeung Slideshare](http://www.slideshare.net/EdithYeung)  
  [Edith Yeung Newsletter](http://us8.campaign-archive1.com/?u=27ce150e68b412e5a5c44f72a&amp;amp;amp;id=655b131cfc)  
 
-The Ultimate Guide List for Startups Applying to 500 Startups and YCombinator
-
-[The Ultimate Guide List for Startups Applying to 500 Startups](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-500-startups-accelerator)  
- [The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator)  
-
-Marc Andreessen and A16Z
+ 
+[AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
 [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)  
- [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com) [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) [Marc Andreessen Guide to Career Planning](http://pmarchive.com/guide_to_career_planning_part1.html) [A16Z](http://a16z.com)  
- [A16Z Slideshare](http://www.slideshare.net/a16z)  
- [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)  
-
-Paul Graham
-
-[Paul Graham, Before the Startup](http://paulgraham.com/before.html)  
- [Paul Graham, Startup = Growth](http://www.paulgraham.com/growth.html)  
- [Paul Graham, Startup Mistakes](http://www.paulgraham.com/startupmistakes.html)  
-
-Fred Wilson
-
- [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)  
-
-Chris Dixon
-
+[Marc Andreessen Guide to Career Planning](http://pmarchive.com/guide_to_career_planning_part1.html)  
+[A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 [Chris Dixon Startup School YouTube](https://www.youtube.com/watch?v=akOazwgDiSI)  
- [Summary of Chris Dixon Startup School YouTube](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
+[Summary of Chris Dixon Startup School YouTube](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md) 
+[Paul Graham, Before the Startup](http://paulgraham.com/before.html)  
+[Paul Graham, Startup = Growth](http://www.paulgraham.com/growth.html)  
+[Paul Graham, Startup Mistakes](http://www.paulgraham.com/startupmistakes.html)  
+[Reed Hastings Freedom and Responsibility Culture Edition 1 Slideshare](http://www.slideshare.net/reed2001/culture-2009)  
+[Reed Hastings Freedom and Responsibility Culture Edition 2 Slideshare](http://www.slideshare.net/reed2001/culture-1798664)  
+[Sequoia Capital RIP Good Times Slideshare](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation) 
 
-Reed Hastings and Netflix Freedom and Responsibility Culture
+ 
 
-[Reed Hastings Slideshare](http://www.slideshare.net/reed2001)  
- [Freedom and Responsibility Culture Edition 1 Slideshare](http://www.slideshare.net/reed2001/culture-2009)  
- [Reed Hastings Edition 2 Slideshare](http://www.slideshare.net/reed2001/culture-1798664)  
+[Amy Jo Kim The 5 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-5-habits-of-breakthrough-innovators)  
+[The Ultimate Guide List for Startups Applying to 500 Startups](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-500-startups-accelerator)  
+ [The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator) 
 
-Amy Jo Kim
-
-[Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim)  
- [Amy Jo Kim The 5 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-5-habits-of-breakthrough-innovators)  
-
-Sequoia Capital
-
-[Sequoia Capital](http://www.sequoiacap.com)  
- [RIP Good Times Slideshare](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)  
+ 
 
 Venture Hacks
 
@@ -212,10 +185,7 @@ Venture Hacks
 More VC Website Resources
 
 [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
- [First Round](http://firstround.com)  
  [Founders Club Learn](https://fundersclub.com/learn)  
- [Google for Entrepreneurs](https://www.googleforentrepreneurs.com)  
- [KPCB](http://www.kpcb.com)  
  [Next View Ventures Blog](http://nextviewventures.com/blog)  
  [Silicon Valley Bank](http://www.svb.com)  
  [Spark Pays Own Legal Fees](http://pando.com/2013/04/24/put-away-your-wallet-startup-spark-decides-to-cover-its-own-legal-fees)  
