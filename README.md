@@ -67,6 +67,7 @@ Tech and Venture Capital Toolkit
 *   [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
 *   [Semil Shah](http://blog.semilshah.com/about)
 *   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
+*   [Startup L. Jackson](http://startupljackson.com)  
 *   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 *   [Steven Sinofsky](http://blog.learningbyshipping.com)
 *   [Tomasz Tunguz](http://www.tomtunguz.com)
