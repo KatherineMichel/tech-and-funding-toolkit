@@ -94,7 +94,7 @@ Tech and Venture Capital Toolkit
 *   [CB Insights](https://www.cbinsights.com), [Blog](https://www.cbinsights.com/blog), [Twitter](https://twitter.com/CBinsights)  
 *   [CrunchBase](http://www.crunchbase.com) and [API](https://developer.crunchbase.com)
 *   [Datafox](http://www.datafox.co), [Blog](http://www.datafox.co/blog), [Twitter](https://twitter.com/datafoxco)
-*   [Mattermark](http://mattermark.com)  
+*   [Mattermark](http://mattermark.com) and [Mattermark Slideshare](http://www.slideshare.net/Mattermark)         
 *   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
 
 #### Venture Analysis from Different Angles
