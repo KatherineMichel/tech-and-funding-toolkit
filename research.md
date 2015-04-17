@@ -19,9 +19,7 @@ Corporate Law- B Corporation and Examples
 
 [Benefitcorp](http://benefitcorp.net)  
  [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation)  
- [Ello B Corporation Blog Post](https://ello.co/lucian/post/pyVDFHEYzhJHdNp30ra5Cg)  
- [Kickstarter B Corporation Blog Post](http://www.bcorporation.net/community/kickstarter-inc)  
-
+ 
 Venture Capital and How Funding Works
 
 [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
@@ -177,6 +175,9 @@ Venture Hacks
 [The Ultimate Guide List for Startups Applying to YCombinator](http://kevinwilliamdavid.com/blog/the-ultimate-guide-list-for-startups-applying-to-y-combinator) 
 
 [500 Startups Google Form](https://docs.google.com/forms/d/12VazUx4ee4aumaQYUeiUsAh56sPmkSupBOZtLbyAmcQ/viewform) 
+[Ello B Corporation Blog Post](https://ello.co/lucian/post/pyVDFHEYzhJHdNp30ra5Cg)  
+[Kickstarter B Corporation Blog Post](http://www.bcorporation.net/community/kickstarter-inc) 
+ 
 More VC Website Resources
 
 [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual)  
@@ -269,16 +270,6 @@ Startup Docs- Decks and Update Emails
  [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail)  
  [Next View Startup Board Decks Template](http://nextviewventures.com/blog/free-startup-board-decks-template)  
  [Update My VC Email Template](https://mail.google.com/mail/u/0/?view=cm&amp;amp;amp;fs=1&amp;amp;amp;tf=1&amp;amp;amp;to&amp;amp;amp;su=Investor+Update&amp;amp;amp;body=Highlights:%0A%0AWhat+milestones+or+accomplishments+are+you+most+proud+of?%0A%0ALowlights:%0A%0AWhat+are+the+things+you%E2%80%99re+most+disappointed+about?%0A%0AProduct:%0A%0AWhat+has+shipped+and+has+the+roadmap+shifted?%0A%0AKPIs/Core+Metrics:%0A%0AHow+is+the+business+/+product+performing?%0A%0ABusiness+Development:%0A%0ADid+you+close+any+notable+deals+/+partnerships?++What+opportunities+are+in+the+pipeline?%0A%0AHiring:%0A%0AWere+any+key+employees+hired+or+fired?+What+positions+are+currently+open?%0A%0AFinancing:%0A%0AHow+much+cash+is+left+in+the+bank?+What+is+the+current+burn?++When+do+you+run+out+of+cash?%0A%0APress:%0A%0AAny+notable+press+mentions?%0A%0AHelp+Wanted/Asks:%0A%0AWhere+do+you+need+the+most+help+from+your+investors+and+advisors?%0A%0AKudos:%0A%0AWhich+investors+and+advisors+went+above+and+beyond+to+help+the+company?%0A%0A)  
-
-Startup Docs- Famous Pitch Decks
-
-[Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
- [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
- [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck)  
- [Mattermark Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
- [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
- [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation)  
- [Mixpanel Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m)  
 
 Startup Docs- Operations
 
