@@ -19,6 +19,7 @@ Tech and Venture Capital Toolkit
 *   [Bill Gurley](http://abovethecrowd.com)
 *   [Brad Feld](http://www.feld.com)
 *   [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
+*   [Carlota Perez](http://www.carlotaperez.org) 
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 *   [Chris Dixon](http://cdixon.org)   
@@ -106,6 +107,7 @@ Tech and Venture Capital Toolkit
 #### Philosophies
 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+*   [AVC on Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Clay Christensen The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
 *   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
 *   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
