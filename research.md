@@ -37,8 +37,8 @@ Data- World Economic Forum
 
 Reports- Analyst Groups
 
-[Altimeter Slideshare](http://www.slideshare.net/Altimeter) and [Altimeter Twitter](https://twitter.com/altimetergroup)  
-[Forrester](http://www.forrester.com/home)  
+[Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup)  
+[Forrester](http://www.forrester.com/home) and [Forrester Blog(http://blogs.forrester.com)
 [Gartner](http://www.gartner.com) and [Gartner Twitter](https://twitter.com/Gartner_inc)  
 [RedMonk Twitter](https://twitter.com/redmonk)  
 
@@ -153,7 +153,6 @@ Economists, Investors, Philosophers
  
 [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
-[The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)  
 [Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
 
 [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
@@ -214,14 +213,10 @@ Metrics
 [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart)  
 
 Peter Thiel Stanford CS183 Course- Precursor
-[Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)  
-[Coursera Stanford Startup Engineering MOOC GitHub](https://github.com/startup-class)  
-[Stanford CS 184 Startup Engineering MOOC](http://startup.stanford.edu)  
-[Syllabus](https://class.coursera.org/startup-001/wiki/syllabus)  
-[Lecture](https://class.coursera.org/startup-001/lecture)  
-[Guest Lectures](https://class.coursera.org/startup-001/wiki/guest-lectures)  
+[Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
+https://www.coursera.org/course/startup
 [YCombinator Stanford Startup Class](http://startupclass.samaltman.com)  
-[YCombinator Stanford Startup Class YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)  
+[YCombinator Stanford Startup Class YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
 
 #### News Aggregation, Research, MOOCs
 
@@ -1423,3 +1418,9 @@ Petitions
 Awesome and Awesome Awesomeness
 [Awesome GitHub](https://github.com/sindresorhus/awesome)  
 [Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)  
+
+[Coursera Stanford Startup Engineering MOOC GitHub](https://github.com/startup-class)  
+[Stanford CS 184 Startup Engineering MOOC](http://startup.stanford.edu)  
+[Syllabus](https://class.coursera.org/startup-001/wiki/syllabus)  
+[Lecture](https://class.coursera.org/startup-001/lecture)  
+[Guest Lectures](https://class.coursera.org/startup-001/wiki/guest-lectures) 
