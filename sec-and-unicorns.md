@@ -5,6 +5,29 @@ Internet Platforms
 [Rocket Internet](https://www.rocket-internet.com)  
 [Unified Internet](http://www.united-internet.de/en/home.html) 
 
+Etsy
+Shopify S-1
+http://www.sec.gov/Archives/edgar/data/1594805/000119312515129273/d863202df1.htm
+
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001324424&owner=exclude&count=40" target="_blank">Expedia SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001526520&owner=exclude&count=40" target="_blank">Trip Advisor SEC</a><br>
+
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&owner=exclude&count=40" target="_blank">Amazon SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468516&owner=exclude&count=40&hidefilings=0" target="_blank">AOL SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320193&owner=exclude&count=40&hidefilings=0" target="_blank">Apple SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001329099&owner=exclude&count=40" target="_blank">Baidu SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001313275&owner=exclude&count=40" target="_blank">Brightcove SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000933036&owner=exclude&count=40" target="_blank">Rent-a-Center SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001094005&owner=exclude&count=40" target="_blank">SINA SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001104188&owner=exclude&count=40" target="_blank">SOHU SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001576789&owner=exclude&count=40" target="_blank">Wix SEC</a><br>
+                                <a href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001011006&owner=exclude&count=40" target="_blank">Yahoo SEC</a><br>
+
+http://en.wikipedia.org/wiki/Form_D
+
+http://www.sec.gov/Archives/edgar/data/1620197/000162019714000001/xslFormDX01/primary_doc.xml
+http://www.sec.gov/Archives/edgar/data/1633072/000163307215000001/xslFormDX01/primary_doc.xml
+http://www.sec.gov/Archives/edgar/data/1616552/000161655215000002/xslFormDX01/primary_doc.xml
 S-1 Filings
 
 [Box S-1](http://www.sec.gov/Archives/edgar/data/1372612/000119312514112417/d642425ds1.htm)  
