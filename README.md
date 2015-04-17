@@ -83,7 +83,7 @@ Tech and Venture Capital Toolkit
 *   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [KPCB](http://www.kpcb.com) and [KPCB Podcasts](https://soundcloud.com/kleinerperkins) 
 *   [Sequoia Capital](http://www.sequoiacap.com) 
-*   [Union Square Ventures](https://www.usv.com), [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
+*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
 #### Accelerators 
 
