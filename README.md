@@ -23,6 +23,7 @@ Tech and Venture Capital Toolkit
 *   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 *   [Chris Dixon](http://cdixon.org)   
 *   [Chris Sacca Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca Old](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
+*   [Clay Christensen](http://www.claytonchristensen.com) 
 *   [Danielle Morrill](http://www.daniellemorrill.com) 
 *   [Dave McClure](http://500hats.com)
 *   [Dave Winer](http://scripting.com)   
@@ -109,9 +110,9 @@ Tech and Venture Capital Toolkit
 
 #### Philosophies
 
-*   [The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+*   [Clay Christiensen's The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
 *   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-*   [How The Innovator's Dilemma Affects You by Mark Suster- ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
 
 #### Idea State Machine and Idea Maze
 
