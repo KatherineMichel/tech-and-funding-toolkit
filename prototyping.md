@@ -1,29 +1,7 @@
-  
-Pretotyping
-
-[Pretotyping Resources](http://www.pretotyping.org/resources.html)  
-[Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf)  
-[Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit)  
-[Next View Ventures Pretotyping](http://nextviewventures.com/blog/pretotyping-product-market-fit-google-alberto-savoia)  
-[Pretotyping Blogspot](http://pretotyping.blogspot.com)  
-
-Demos
-
-[Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration)  
- [Demo Mode Wikipedia](http://en.wikipedia.org/wiki/Demo_mode)  
-
 Lorem Ipsum
 
 [Lipsum](http://www.lipsum.com)  
  [Cupcake Ipsum](http://www.cupcakeipsum.com)  
-
-Possible Startups
-
-[Possible Startups](http://possiblestartups.com)  
-
-Name Generators
-
-[Namium](http://www.naminum.com)  
 
 Device Mockups
 
