@@ -9,10 +9,6 @@ Name Generators
 
 [Namium](http://www.naminum.com) 
 
-Maslow
-
-[Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)  
-
 Strategy- General
 
 [Strategy Series Wikipedia](http://en.wikipedia.org/wiki/Strategy)  
@@ -105,11 +101,6 @@ Business Model Canvas
 [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas)  
 
 Eric Ries, Lean Startup, and Minimum Viable Product
-
-[StartUp Lessons Learned](http://www.startuplessonslearned.com)  
-[StartUp Lessons Learned Slideshare](http://www.slideshare.net/startuplessonslearned)  
-[The Lean Startup Principles](http://theleanstartup.com/principles)  
-[The Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup)  
 [The Lean Startup](http://www.stpia.ir/files/The%20Lean%20Startup%20.pdf)  
  
 Lean and Social Lean Business Model Canvas
