@@ -11,7 +11,7 @@ Table of Contents
 - [Company and Product Databases](#company-and-product-databases)
 - [MOOCs, TED Talks, Google Talks, Wikipedia](#moocs-ted-talks-google-talks-wikipedia)
 - [Aggregated, Curated News Sources](aggregated-curated-news-sources)
-- [Events Lists](#event-lists)
+- [Events Lists](#events-lists)
 - [Venture Analysis](#venture-analysis)
 - [Philosophies, Milestones](#philosophies-milestones)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
