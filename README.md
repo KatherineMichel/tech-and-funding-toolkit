@@ -505,5 +505,10 @@ Hiring and Payroll
 #### Other Enormous Tool Lists
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
 *   [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
+*   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
+
+Awesome Awesomeness
+*   [Sindre Sorhus: Awesome GitHub](hhttps://github.com/sindresorhus/awesome)
+*   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 
 [Back to Top](#)
