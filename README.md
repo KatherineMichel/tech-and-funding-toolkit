@@ -4,26 +4,26 @@ Table of Contents
 -----------------
 
 - [Venture Capitalists](#venture-capitalists)
-- [Tech Analysts, Thought Leaders](#tech-analysts,-thought-leaders)
+- [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
 - [Firms](#firms)
 - [Accelerators](#accelerators) 
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
 - [MOOCs, TEDTalks, Google Talks, Wikipedia](#)
 - [Aggregated/Curated News Sources]()
-- [Events Lists](#)
-- [Venture Analysis](#)
+- [Events Lists](#event-lists)
+- [Venture Analysis](#venture-analysis)
 - [Philosophies, Milestones](#)
 - [Lean Startup and Launchpad](#)
 - [Software and Mobile are Eating the World, Software is Reorganizing the World](#)
 - [Creative Destruction and Innovator's Dilemma](#)
 - [Idea State Machine and Idea Maze](#)
 - [Business Models, Pricing, Product Tiers](#)
-- [Demo](#)
-- [Notable Pitch Decks](#)
-- [Metrics](#)
+- [Demo](#demo)
+- [Notable Pitch Decks](#notable-pitch-decks)
+- [Metrics](#metrics)
 - [Growth, Marketing, and Content Resources](#)
-- [Popular Tools](#)
+- [Popular Tools](#popular-tools)
 
 #### Venture Capitalists
 
