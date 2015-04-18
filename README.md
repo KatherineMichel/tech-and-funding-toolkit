@@ -234,8 +234,11 @@ General Research
  
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 *   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)  
 *   [Google Scholar](https://scholar.google.com)
+
+Surveys
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
+*   [SurveyMonkey](https://www.surveymonkey.com)
 
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
@@ -403,14 +406,14 @@ KPCB and John Maeda Design in Tech Report
 
 #### Startup Transparency Example
 
-*   [Buffer App ](https://bufferapp.com), [Buffer App About](https://bufferapp.com/about), [Buffer App Blog](https://blog.bufferapp.com), and [Buffer App Slideshare](http://www.slideshare.net/Bufferapp) 
-*   [Buffer App Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+*   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+*   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
 
 #### Popular Tools
 
 Project Management
 *   [Asana](https://asana.com) and [Instagantt](http://instagantt.com)
-*   [Office Live](https://office.live.com/start/default.aspx) 
+*   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) 
 *   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 *   [Slack](https://slack.com) 
 *   [Trello](https://trello.com)
@@ -422,9 +425,10 @@ Google Office
 *   [Google Calendar](https://www.google.com/calendar) 
 
 Email
+*   [MailChimp](http://mailchimp.com)
 *   [Mailgun](http://www.mailgun.com)  
 *   [Mandrill](http://mandrill.com)  
-*   [Sendgrid](http://sendgrid.com)  
+*   [SendGrid](http://sendgrid.com)  
  
 Group Communication/Chat
 *   [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
@@ -432,17 +436,17 @@ Group Communication/Chat
  
 Livestreaming, Video, Audio 
 *   [Livestream](http://new.livestream.com) 
-*   [Soundcloud](https://soundcloud.com)  
+*   [SoundCloud](https://soundcloud.com)  
 *   [Vimeo](https://vimeo.com)  
 
 Calendar 
 *   [Sunrise](https://calendar.sunrise.am)
 
 Social Media and Distribution 
-*   [Buffer App ](https://bufferapp.com)
+*   [Buffer](https://bufferapp.com)
 *   [Hootsuite](https://hootsuite.com)
 *   [Storify](https://storify.com)  
-*   [Tweetdeck](https://tweetdeck.twitter.com) 
+*   [TweetDeck](https://tweetdeck.twitter.com) 
 
 Task Automation
 *   [IFTTT](https://ifttt.com) 
