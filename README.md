@@ -136,6 +136,13 @@ Table of Contents
 *   [Federal Business Opportunities](https://www.fbo.gov)  
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 
+#### Government Digital
+
+*   [Government- 18F](https://18f.gsa.gov)  
+*   [Government- U.S. CIO Playbook](http://playbook.cio.gov)  
+*   [Government- DigitalGov Resources](http://www.digitalgov.gov/resources)  
+*   [Government- Usability](http://www.usability.gov)
+
 #### Company and Product Databases
 
 *   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks: Slideshare](http://www.slideshare.net/venturehacks)  
@@ -207,7 +214,7 @@ Table of Contents
 #### Analyst Reports
 
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter: Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter: Twitter](https://twitter.com/altimetergroup) 
-*   [Forrester](http://www.forrester.com/home) and [Forrester Blog(http://blogs.forrester.com)
+*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
 *   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), and [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp)  
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
