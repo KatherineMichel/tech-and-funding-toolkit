@@ -17,13 +17,14 @@ Table of Contents
 - [Companies and Financials](#companies-and-financials)
 - [Analyst Reports](#analyst-reports)
 - [Venture Analysis](#venture-analysis)
+- [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Philosophies, Milestones](#philosophies-milestones)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-- [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Creative Destruction and Innovator's Dilemma](#creative-destruction-and-innovators-dilemma)
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Business Models, Pricing, Product Tiers](#business-models-pricing-product-tiers)
-- [Demo](#demo)
+- [Pretotyping and Prototyping](#pretotyping-and-prototyping)
+- [Research and Design Sprint](#research-and-design-sprint)
 - [Notable Pitch Decks](#notable-pitch-decks)
 - [Metrics](#metrics)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
@@ -216,12 +217,27 @@ Development
 *   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
 *   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
 
+General Research
+ 
+*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)  
+*   [Google Forms- About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
+*   [Google Scholar](https://scholar.google.com)
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
 *   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
 *   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)  
 
+#### Software and Mobile are Eating the World, Software is Reorganizing the World
+
+*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
+*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
+*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
+*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
+*   
 #### Philosophies, Milestones
 
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
@@ -238,15 +254,11 @@ Development
 
 #### Lean Startup and Launchpad
 
-*   [The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](https://books.google.com/books?id=r9x-OXdzpPcC&printsec=frontcover&dq=lean+startup&hl=en&sa=X&ei=dqgwVYWPGbXbsASR8YHIBw&ved=0CDEQ6AEwAA#v=onepage&q=lean%20startup&f=false)
+*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](https://books.google.com/books?id=r9x-OXdzpPcC&printsec=frontcover&dq=lean+startup&hl=en&sa=X&ei=dqgwVYWPGbXbsASR8YHIBw&ved=0CDEQ6AEwAA#v=onepage&q=lean%20startup&f=false)
+*   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 *   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-
-#### Software and Mobile are Eating the World, Software is Reorganizing the World
-
-*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
-*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
-*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
-*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
+*   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
+*   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas) *   [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com) and [Strategyzer](https://strategyzer.com)
 
 #### Creative Destruction and Innovator's Dilemma
 
@@ -265,10 +277,12 @@ Development
 *   [List of Web Business Models: GitHub](https://gist.github.com/ndarville/4295324) 
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
-#### Demo
-
-*   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+#### Pretotyping and Prototyping
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
+*   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+
+#### Research and Design Sprint
+
 *   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
 *   [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions), [Day 1](http://www.gv.com/lib/the-gv-research-sprint-day-1), [Day 2](http://www.gv.com/lib/the-gv-research-sprint-day-2), [Day 3](http://www.gv.com/lib/the-gv-research-sprint-day-3), [Day 4](http://www.gv.com/lib/the-gv-research-sprint-day-4) 
 *   [Google Ventures Design Sprint](http://www.gv.com/sprint), and [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
