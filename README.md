@@ -110,6 +110,17 @@ Tech and Venture Capital Toolkit
 *   [Mattermark](http://mattermark.com) and [Mattermark: Slideshare](http://www.slideshare.net/Mattermark)        
 *   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API: GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
 
+#### Aggregated/Curated News Sources
+
+Aggregation and Curation
+*   [Feedly](http://feedly.com)  
+*   [Flipboard](https://flipboard.com) 
+*   [Hacker News](https://news.ycombinator.com/news), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Nuzzel](http://nuzzel.com) 
+*   [Quora](http://www.quora.com)
+*   [Reddit](http://www.reddit.com)
+*   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
+
 #### Venture Analysis from Different Angles
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
