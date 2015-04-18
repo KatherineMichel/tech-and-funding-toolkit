@@ -137,6 +137,7 @@ Table of Contents
 #### Accelerators 
 
 *   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
+*   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com)
 
@@ -413,6 +414,11 @@ Website Launch Checklist
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
 
 #### Analytics, Ads, Cards, Video
+
+Sharing Buttons
+*   [AddThis](http://addthis.com)  
+*   [AddToAny](https://www.addtoany.com) 
+*   [ShareThis](http://sharethis.com)
 
 Social Media
 *   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
