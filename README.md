@@ -9,6 +9,7 @@ Table of Contents
 - [Accelerators](#accelerators) 
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
+- [App and Website Statistics](#app-and-website-statistics)
 - [Aggregated, Curated News Sources](#aggregated-curated-news-sources)
 - [Learning Resources](#learning-resources)
 - [Research](#research)
@@ -165,6 +166,24 @@ Table of Contents
 *   [GitHub Explore](https://github.com/explore) 
 *   [Mattermark](http://mattermark.com) and [Mattermark Slideshare](http://www.slideshare.net/Mattermark)        
 *   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
+
+App Stores
+*   [Apple Store](http://store.apple.com/us)  
+*   [Google Play](https://play.google.com)  
+*   [Salesforce App Exchange](https://appexchange.salesforce.com)  
+
+Product/Service Directories
+*   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+*   [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+#### App and Website Statistics
+
+*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+*   [Apple Store Charts](https://www.apple.com/itunes/charts)
+*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
+*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 
 #### Aggregated, Curated News Sources
 
