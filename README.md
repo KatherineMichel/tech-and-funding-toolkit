@@ -9,8 +9,10 @@ Table of Contents
 - [Accelerators](#accelerators) 
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
-- [MOOCs, TED Talks, Google Talks, Wikipedia](#moocs-ted-talks-google-talks-wikipedia)
 - [Aggregated, Curated News Sources](#aggregated-curated-news-sources)
+- [MOOCs, TED Talks, Google Talks, Wikipedia](#moocs-ted-talks-google-talks-wikipedia)
+- [Books](#books)
+- [Courses](#courses)
 - [Events Lists](#events-lists)
 - [Venture Analysis](#venture-analysis)
 - [Philosophies, Milestones](#philosophies-milestones)
@@ -138,6 +140,17 @@ Table of Contents
 *   [Mattermark](http://mattermark.com) and [Mattermark: Slideshare](http://www.slideshare.net/Mattermark)        
 *   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API: GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
 
+#### Aggregated, Curated News Sources
+
+*   [Feedly](http://feedly.com)  
+*   [Flipboard](https://flipboard.com) 
+*   [Hacker News](https://news.ycombinator.com/news), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Nuzzel](http://nuzzel.com) 
+*   [Quora](http://www.quora.com)
+*   [Reddit](http://www.reddit.com)
+*   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
+*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
+*   
 #### MOOCs, TED Talks, Google Talks, Wikipedia
 
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
@@ -150,17 +163,13 @@ Table of Contents
 *   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
 *   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists)  
 
-#### Aggregated, Curated News Sources
+#### Books 
 
-*   [Feedly](http://feedly.com)  
-*   [Flipboard](https://flipboard.com) 
-*   [Hacker News](https://news.ycombinator.com/news), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-*   [Nuzzel](http://nuzzel.com) 
-*   [Quora](http://www.quora.com)
-*   [Reddit](http://www.reddit.com)
-*   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
-*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
-
+#### Courses
+*   [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
+*   [Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
+*   [YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
+     
 #### Events Lists
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 *   [Techmeme Events List](http://techmeme.com/events) 
