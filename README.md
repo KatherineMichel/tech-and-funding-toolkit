@@ -27,7 +27,7 @@ Table of Contents
 - [Design](#design)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
-- [Research and Design Sprint Supporting Docs](#research and-design-sprint-supporting-docs)
+- [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Metrics](#metrics)
 - [Analytics, Ads, Cards, Video](#analytics-ads-cards-video)
@@ -379,7 +379,7 @@ Website Launch Checklist
 *   [Google Ventures Design Sprint](http://www.gv.com/sprint), [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage), and [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
 *   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5) 
 
-#### Research and Design Sprint Supporting Docs
+#### Google Ventures Research and Design Sprint Supporting Docs
 
 *   [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
 *   [Google Ventures Research Plan and Interview Guide](http://www.gv.com/ds-redirect/images/content/research-worksheet.pdf)  
