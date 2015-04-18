@@ -8,6 +8,7 @@ Tech and Venture Capital Toolkit
 *   [Ben Horowitz](http://www.bhorowitz.com)  
 *   [Bill Gurley](http://abovethecrowd.com)
 *   [Brad Feld](http://www.feld.com)
+*   [Bubba Murarka](http://bubba.vc)
 *   [Jason Calacanis](http://calacanis.com)
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Chris Dixon](http://cdixon.org)   
@@ -58,6 +59,7 @@ Tech and Venture Capital Toolkit
 *   [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang: Slideshare](http://www.slideshare.net/jeremiah_owyang) 
 *   [John Battelle](http://battellemedia.com)   
 *   [John Gruber](http://daringfireball.net)   
+*   [Justin Kan](http://justinkan.com)
 *   [Kevin Marks](http://www.kevinmarks.com)   
 *   [Kevin Weil: Slideshare](http://www.slideshare.net/kevinweil) 
 *   [Loic Le Meur: Slideshare](http://www.slideshare.net/loiclemeur)  
@@ -209,5 +211,43 @@ Tech and Venture Capital Toolkit
 
 #### Popular Tools
 
+Project Management
 *   [Office Live](https://office.live.com/start/default.aspx) 
+*   [Quip](https://quip.com) and [Quip Blog- Integrations](https://quip.com/blog/integrations)
+*   [Slack](https://slack.com) 
+
+Email
+*   [Mailgun](http://www.mailgun.com)  
+*   [Mandrill](http://mandrill.com)  
+*   [Sendgrid](http://sendgrid.com)  
+ 
+Group Communication/Chat
+*   [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
+*   [Skype](http://www.skype.com/en) 
+ 
+Livestreaming, Video, Audio 
+*   [Livestream](http://new.livestream.com) 
+*   [Soundcloud](https://soundcloud.com)  
+*   [Vimeo](https://vimeo.com)  
+
+Calendar 
+*   [Sunrise](https://calendar.sunrise.am)
+
+Social Media and Distribution 
+*   [Hootsuite](https://hootsuite.com)
+*   [Storify](https://storify.com)  
+*   [Tweetdeck](https://tweetdeck.twitter.com) 
+
+Task Automation
+*   [IFTTT](https://ifttt.com) 
+
+Payments
+*   [Paypal](https://www.paypal.com)
+*   [Stripe](https://stripe.com)
+
+Hiring and Payroll
+*   [Lever](http://lever.co)  
+*   [Zenefits](http://www.zenefits.com)
+*   [ZenPayroll](https://zenpayroll.com) 
+
 
