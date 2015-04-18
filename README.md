@@ -169,6 +169,7 @@ Table of Contents
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) 
 *   [Hacker News](https://news.ycombinator.com/news), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), and [Medium Highlights](https://medium.com/@ev/highlights)
 *   [Nuzzel](http://nuzzel.com) 
 *   [Quora](http://www.quora.com)
 *   [Reddit](http://www.reddit.com)
