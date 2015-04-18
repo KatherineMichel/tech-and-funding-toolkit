@@ -178,6 +178,7 @@ MOOCs
 *   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#) and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
 *   [EdX](https://www.edx.org)  
 *   [Udacity](https://www.udacity.com)
+*   [Udemy](https://www.udemy.com)
 *   [NovoEd](https://novoed.com)  
 *   [University of Reddit](http://universityofreddit.com) 
 
@@ -232,8 +233,9 @@ Books
 
 Courses
 *   [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
-*   [Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
-*   [YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
+*   [Balaji S. Srinivasan and Vijay S. Pande: Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
+*   [Marissa Mayer: Ideas Come from Everywhere (New Product Development Process)](https://www.udemy.com/ideas-come-from-everywhere)
+*   [Sam Altman: YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
      
 #### Events Lists
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
