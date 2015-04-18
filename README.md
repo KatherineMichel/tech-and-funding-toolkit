@@ -350,6 +350,7 @@ Beta Testing
 *   [Crashlytics Beta Testing](http://try.crashlytics.com/beta)  
 
 Miscellaneous
+*   [Namium (Name Generator)](http://www.naminum.com)
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 
 #### Design
@@ -520,7 +521,7 @@ Hiring and Payroll
 *   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
 
 Awesome Awesomeness
-*   [Sindre Sorhus: Awesome GitHub](hhttps://github.com/sindresorhus/awesome)
+*   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 
 [Back to Top](#)
