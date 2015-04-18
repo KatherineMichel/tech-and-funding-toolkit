@@ -315,4 +315,4 @@ Hiring and Payroll
 *   [Zenefits](http://www.zenefits.com)
 *   [ZenPayroll](https://zenpayroll.com) 
 
-[Back to Top](#)
+<center>[Back to Top](#)</center>
