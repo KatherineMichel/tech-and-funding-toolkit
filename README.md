@@ -210,6 +210,10 @@ Table of Contents
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
 *   [RedMonk: Twitter](https://twitter.com/redmonk)  
 
+Development
+*   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
+*   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
