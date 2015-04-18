@@ -221,7 +221,7 @@ Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
 *   [Google Research](http://research.google.com/index.html)  
 *   [Google Research Papers](http://research.google.com/pubs/papers.html) 
-*   
+
 #### Books and Courses
 
 Books
