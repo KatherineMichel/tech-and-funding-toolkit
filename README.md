@@ -35,7 +35,7 @@ Table of Contents
 - [Startup Transparency Example](#startup-transparency-example)
 - [Popular Tools](#popular-tools)
 - [Other Enormous Tool Lists](#other-enormous-tool-lists)
-- 
+
 #### Venture Capitalists 
 
 *   [Albert Wenger](http://continuations.com)
