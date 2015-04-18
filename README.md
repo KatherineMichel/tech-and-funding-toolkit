@@ -3,10 +3,10 @@ Tech and Venture Capital Toolkit
 Table of Contents
 -----------------
 
-- [Venture Capitalists](#### Venture Capitalists)
+- [Venture Capitalists](#venture-capitalists)
 
 
-#### Venture Captalists
+#### Venture Capitalists
 
 *   [Albert Wenger](http://continuations.com)
 *   [Andrew Chen](http://andrewchen.co/list-of-essays)
