@@ -27,7 +27,8 @@ Table of Contents
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Popular Tools](#popular-tools)
 
-### Venture Capitalists [Back to Top](#)
+#### Venture Capitalists 
+[Back to Top](#)
 
 *   [Albert Wenger](http://continuations.com)
 *   [Andrew Chen](http://andrewchen.co/list-of-essays)
