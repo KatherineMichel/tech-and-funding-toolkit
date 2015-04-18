@@ -91,6 +91,11 @@ Tech and Venture Capital Toolkit
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com)
 
+#### Government Funding
+
+*   [Federal Business Opportunities](https://www.fbo.gov)  
+*   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+
 #### Company and Product Databases
 
 *   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks: Slideshare](http://www.slideshare.net/venturehacks)  
@@ -109,6 +114,8 @@ Tech and Venture Capital Toolkit
 
 #### Philosophies
 
+*   [The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
+*   [Balaji Srinivasan: Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [AVC on Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
