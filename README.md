@@ -112,6 +112,18 @@ Tech and Venture Capital Toolkit
 *   [Mattermark](http://mattermark.com) and [Mattermark: Slideshare](http://www.slideshare.net/Mattermark)        
 *   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API: GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
 
+#### MOOCs, TEDTalks, Google Talks, Wikipedia
+
+*   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
+*   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
+*   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#) and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+*   [EdX](https://www.edx.org)  
+*   [Udacity](https://www.udacity.com)
+*   [NovoEd](https://novoed.com)  
+*   [TED Talks](http://www.ted.com/talks)  
+*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
+*   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists)  
+
 #### Aggregated/Curated News Sources
 
 *   [Feedly](http://feedly.com)  
@@ -121,11 +133,13 @@ Tech and Venture Capital Toolkit
 *   [Quora](http://www.quora.com)
 *   [Reddit](http://www.reddit.com)
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
+*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
 #### Events Lists
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 *   [Techmeme Events List](http://techmeme.com/events) 
 *   [500 Startups Events](http://500.co/events)
+*   [Startup School](http://www.startupschool.org)
 *   [TechCrunch Events](http://techcrunch.com/events)  
 *   [Recode Events](http://recode.net/events) 
 *   [LeWeb](http://leweb.co) 
