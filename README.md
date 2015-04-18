@@ -336,13 +336,12 @@ Prototyping Software
 Bootstrap, Font Awesome, Foundation
 
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap)  
-*   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo)  
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
- 
-Beta Testing and Analytics
-*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta)  
-*   [Mixpanel](https://mixpanel.com) 
- 
+*   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+
+Beta Testing
+*   [Crashlytics Beta Testing](http://try.crashlytics.com/beta)  
+
 Miscellaneous
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 
@@ -447,6 +446,11 @@ Project Management
 *   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 *   [Slack](https://slack.com) 
 *   [Trello](https://trello.com)
+
+Testing, Reporting, Analytics
+*   [Crashlytics](http://try.crashlytics.com)
+*   [Mixpanel](https://mixpanel.com) 
+*   [Optimizely](https://www.optimizely.com)  
 
 Google Office
 *   [Google Gmail](http://gmail.com)  
