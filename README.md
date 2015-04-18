@@ -10,12 +10,11 @@ Table of Contents
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
 - [Aggregated, Curated News Sources](#aggregated-curated-news-sources)
-- [MOOCs, TED Talks, Google Talks, Wikipedia](#moocs-ted-talks-google-talks-wikipedia)
-- [Books](#books)
-- [Courses](#courses)
+- [Learning Resources](#learning-resources)
+- [Research](#research)
+- [Books and Courses](#books-and-courses)
 - [Events Lists](#events-lists)
 - [Companies and Financials](#companies-and-financials)
-- [Analyst Reports](#analyst-reports)
 - [Venture Analysis](#venture-analysis)
 - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Philosophies, Milestones](#philosophies-milestones)
@@ -124,7 +123,7 @@ Table of Contents
 *   [A16Z](http://a16z.com), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [First Round](http://firstround.com)
 *   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-*   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate) and [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab) 
+*   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [KPCB](http://www.kpcb.com) and [KPCB Podcasts](https://soundcloud.com/kleinerperkins) 
 *   [Sequoia Capital](http://www.sequoiacap.com) 
 *   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
@@ -169,25 +168,66 @@ Table of Contents
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
-#### MOOCs, TED Talks, Google Talks, Wikipedia
+#### Learning Resources
 
+MOOCs
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 *   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
 *   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#) and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
 *   [EdX](https://www.edx.org)  
 *   [Udacity](https://www.udacity.com)
 *   [NovoEd](https://novoed.com)  
-*   [TED Talks](http://www.ted.com/talks)  
+
+Google and TED Talks
 *   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
-*   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists)  
+*   [TED Talks](http://www.ted.com/talks)  
 
-#### Books 
+Coding and Math 
+*   [Codecademy](http://www.codecademy.com) 
+*   [Khan Academy](https://www.khanacademy.org)  
+*   [Wolfram Alpha](https://www.wolframalpha.com)  
 
+#### Research
+
+Wikipedia
+*   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+
+Analyst Groups
+*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
+*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
+*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), and [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp) 
+*   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
+*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
+*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
+*   [RedMonk Twitter](https://twitter.com/redmonk)  
+
+Development
+*   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
+*   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
+
+General Research
+ 
+*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+*   [Google Scholar](https://scholar.google.com)
+
+Surveys
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
+*   [SurveyMonkey](https://www.surveymonkey.com)
+
+Facebook and Google Research
+*   [Facebook Research](https://research.facebook.com)  
+*   [Google Research](http://research.google.com/index.html)  
+*   [Google Research Papers](http://research.google.com/pubs/papers.html) 
+*   
+#### Books and Courses
+
+Books
 *   [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
 *   [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
 *   [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 
-#### Courses
+Courses
 *   [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
 *   [Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
 *   [YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
@@ -215,35 +255,6 @@ Table of Contents
 *   [Nasdaq](http://www.nasdaq.com)  
 *   [StockTwits](http://stocktwits.com)  
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
-
-#### Analyst Reports
-
-*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
-*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), and [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp) 
-*   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
-*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
-*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
-*   [RedMonk Twitter](https://twitter.com/redmonk)  
-
-Development
-*   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
-*   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
-
-General Research
- 
-*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-*   [Google Scholar](https://scholar.google.com)
-
-Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
-*   [SurveyMonkey](https://www.surveymonkey.com)
-
-Facebook and Google Research
-*   [Facebook Research](https://research.facebook.com)  
-*   [Google Research](http://research.google.com/index.html)  
-*   [Google Research Papers](http://research.google.com/pubs/papers.html) 
 
 #### Venture Analysis
 
@@ -390,6 +401,8 @@ Website Launch Checklist
 *   [How Google Sets Goals Objectives and Key Results OKRs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
+#### Social Media, Analytics, Ads, Cards, Video
 
 #### Growth, Marketing, and Content Resources
 
