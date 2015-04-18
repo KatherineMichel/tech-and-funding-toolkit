@@ -26,6 +26,7 @@ Table of Contents
 - [Pretotyping and Prototyping](#pretotyping-and-prototyping)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
+- [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research and-design-sprint-supporting-docs)
 - [Notable Pitch Decks](#notable-pitch-decks)
 - [Metrics](#metrics)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
@@ -305,7 +306,16 @@ Facebook and Google Research
 #### Google Ventures Design Sprint
 
 *   [Google Ventures Design Sprint](http://www.gv.com/sprint), [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage), and [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
-*   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5)  
+*   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5) 
+
+#### Google Ventures Research and Design Sprint Supporting Docs
+
+*   [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [Google Ventures Research Quick and Dirty Research PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
+*   [Google Ventures Research Plan and Interview Guide](http://www.gv.com/ds-redirect/images/content/research-worksheet.pdf)  
+*   [Google Ventures Research Sprint Sample Craig's List Ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png)  
+*   [Google Ventures Research Sprint Sample NDA (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)  
+*   [Google Ventures Research Sprint Sample Recruiting Screener Worksheet #1 (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) and [Google Ventures Research Sprint Sample Recruiting Screener Worksheet #2](https://drive.google.com/previewtemplate?id=1E96r55rFIXcpMWhcVADL2aX11Q5MaS8IifvFIE1pLGs&mode=public&ddrp=1#) 
+*   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 
 #### Notable Pitch Decks
