@@ -30,6 +30,7 @@ Table of Contents
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research and-design-sprint-supporting-docs)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Metrics](#metrics)
+- [Social Media, Analytics, Ads, Cards, Video](#social-media-analytics-ads-cards-video)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Startup Transparency Example](#startup-transparency-example)
 - [Popular Tools](#popular-tools)
