@@ -10,7 +10,7 @@ Table of Contents
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
 - [App and Website Statistics](#app-and-website-statistics)
-- [Aggregated, Curated News Sources](#aggregated-curated-news-sources)
+- [News Sources](#news-sources)
 - [Learning Resources](#learning-resources)
 - [Research](#research)
 - [Books and Courses](#books-and-courses)
@@ -187,8 +187,14 @@ Product/Service Directories
 *   [Google Play Top Apps](https://play.google.com/store/apps/top)  
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 
-#### Aggregated, Curated News Sources
+#### News Sources
 
+Business and Tech
+*   [Harvard Business review](https://hbr.org) 
+*   [New York Times](http://www.nytimes.com)
+*   [Wall Street Journal](http://www.wsj.com)
+
+Aggregated, Curated News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) 
 *   [Hacker News](https://news.ycombinator.com/news), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
@@ -318,7 +324,7 @@ Courses
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
-*   [Vinod	Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+*   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
 #### Lean Startup and Launchpad
 
