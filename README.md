@@ -177,6 +177,7 @@ MOOCs
 *   [EdX](https://www.edx.org)  
 *   [Udacity](https://www.udacity.com)
 *   [NovoEd](https://novoed.com)  
+*   [University of Reddit](http://universityofreddit.com) 
 
 Google and TED Talks
 *   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
@@ -403,6 +404,8 @@ Website Launch Checklist
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
 
 #### Social Media, Analytics, Ads, Cards, Video
+
+*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 
 #### Growth, Marketing, and Content Resources
 
