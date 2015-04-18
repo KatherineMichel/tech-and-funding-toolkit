@@ -487,6 +487,10 @@ Social Media and Distribution
 *   [Storify](https://storify.com)  
 *   [TweetDeck](https://tweetdeck.twitter.com) 
 
+Customer Relationship Management
+*   [Salesforce](https://www.salesforce.com)
+*   [RelateIQ](https://www.relateiq.com) 
+
 Task Automation
 *   [IFTTT](https://ifttt.com) 
 
