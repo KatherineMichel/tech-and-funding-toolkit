@@ -154,7 +154,8 @@ Table of Contents
 *   [CB Insights](https://www.cbinsights.com), [Blog](https://www.cbinsights.com/blog), [Twitter](https://twitter.com/CBinsights)  
 *   [CrunchBase](http://www.crunchbase.com) and [API](https://developer.crunchbase.com)
 *   [Datafox](http://www.datafox.co), [Blog](http://www.datafox.co/blog), [Twitter](https://twitter.com/datafoxco)
-*   [Mattermark](http://mattermark.com) and [Mattermark: Slideshare](http://www.slideshare.net/Mattermark)        
+*   [GitHub Explore](https://github.com/explore) 
+*   [Mattermark](http://mattermark.com) and [Mattermark Slideshare](http://www.slideshare.net/Mattermark)        
 *   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
 
 #### Aggregated, Curated News Sources
@@ -326,6 +327,9 @@ Miscellaneous
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 
 #### Design
+
+GitHub
+*   [Styleguide GitHub](https://github.com/styleguide)  
 
 Ideo
 *   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), and [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
