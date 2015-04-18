@@ -15,6 +15,7 @@ Table of Contents
 - [Courses](#courses)
 - [Events Lists](#events-lists)
 - [Companies and Financials](#companies-and-financials)
+- [Analyst Reports](#analyst-reports)
 - [Venture Analysis](#venture-analysis)
 - [Philosophies, Milestones](#philosophies-milestones)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
@@ -200,6 +201,15 @@ Table of Contents
 *   [StockTwits](http://stocktwits.com)  
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 
+#### Analyst Reports
+
+*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter: Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter: Twitter](https://twitter.com/altimetergroup) 
+*   [Forrester](http://www.forrester.com/home) and [Forrester Blog(http://blogs.forrester.com)
+*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc)  
+*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
+*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
+*   [RedMonk: Twitter](https://twitter.com/redmonk)  
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
@@ -218,6 +228,7 @@ Table of Contents
 *   [Startup Gene Pool Engineering](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 *   [Chris Dixon: Startup School Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
+*   [Facebook's First Proposal](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
 
 #### Lean Startup and Launchpad
 
