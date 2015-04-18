@@ -313,13 +313,29 @@ Photoshop and Gimp
 Prototyping Software
 *   [Keynotopia](http://keynotopia.com) and [Super Bundle](http://keynotopia.com/keynotopia-super-bundle)  
 
+Beta Testing and Analytics
+*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta)  
+*   [Mixpanel](https://mixpanel.com) 
+ 
+Miscellaneous
+*   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
+
 #### Design
 
+Ideo
 *   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), and [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
 
-*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) 
+Google Design Approach
 
+*   [Google Fonts](http://www.google.com/fonts) and [Google Fonts: GitHub](https://github.com/google/fonts)  
+*   [Google Design](http://www.google.com/design/#resources)  
+*   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+*   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit: GitHub](https://github.com/google/web-starter-kit)  
+*   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html) and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0) 
+ 
+Miscellaneous
 *   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
+*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) 
 
 #### Google Ventures Research Sprint
 
