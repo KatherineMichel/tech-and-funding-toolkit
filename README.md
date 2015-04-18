@@ -118,6 +118,7 @@ Table of Contents
 *   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
 *   [Startup L. Jackson](http://startupljackson.com)  
 *   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
+*   [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
 *   [Vala Afshar Twitter](https://twitter.com/ValaAfshar)
