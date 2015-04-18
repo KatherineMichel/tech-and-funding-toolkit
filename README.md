@@ -23,7 +23,8 @@ Table of Contents
 - [Creative Destruction and Innovator's Dilemma](#creative-destruction-and-innovators-dilemma)
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Business Models, Pricing, Product Tiers](#business-models-pricing-product-tiers)
-- [Pretotyping and Prototyping](#pretotyping-and-prototyping)
+- [Pretotyping](#pretotyping)
+- [Prototyping](#prototyping)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research and-design-sprint-supporting-docs)
@@ -269,6 +270,7 @@ Facebook and Google Research
 
 *   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](https://books.google.com/books?id=r9x-OXdzpPcC&printsec=frontcover&dq=lean+startup&hl=en&sa=X&ei=dqgwVYWPGbXbsASR8YHIBw&ved=0CDEQ6AEwAA#v=onepage&q=lean%20startup&f=false)
 *   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
+*   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 *   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
 *   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
@@ -293,10 +295,22 @@ Facebook and Google Research
 *   [List of Web Business Models: GitHub](https://gist.github.com/ndarville/4295324) 
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
-#### Pretotyping and Prototyping
+#### Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
-*   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+
+#### Prototyping
+
+Device Mockups
+*   [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
+*   [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
+ 
+Photoshop and Gimp
+*   [Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
+*   [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
+ 
+Prototyping Software
+*   [Keynotopia](http://keynotopia.com) and [Super Bundle](http://keynotopia.com/keynotopia-super-bundle)  
 
 #### Google Ventures Research Sprint
 
