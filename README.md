@@ -112,17 +112,20 @@ Tech and Venture Capital Toolkit
 *   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
 *   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)  
 
-#### Philosophies
+#### Philosophies, Milestones
 
 *   [The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Balaji Srinivasan: Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [AVC on Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
-*   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
-*   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
-*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+*   [Sequoia Capital RIP Good Times Slideshare](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
+*   [Startup Gene Pool Engineering](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+*   [Chris Dixon Startup School YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
+*   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
+
+#### Lean Startup and Launchpad
+
 *   [The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](https://books.google.com/books?id=r9x-OXdzpPcC&printsec=frontcover&dq=lean+startup&hl=en&sa=X&ei=dqgwVYWPGbXbsASR8YHIBw&ved=0CDEQ6AEwAA#v=onepage&q=lean%20startup&f=false)
 *   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 
@@ -132,6 +135,13 @@ Tech and Venture Capital Toolkit
 *   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
 *   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
 *   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
+
+#### Creative Destruction and Innovator's Dilemma
+
+*   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
+*   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
+*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
 
 #### Idea State Machine and Idea Maze
 
