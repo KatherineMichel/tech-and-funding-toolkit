@@ -168,7 +168,7 @@ Table of Contents
 *   [Reddit](http://www.reddit.com)
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
-*   
+
 #### MOOCs, TED Talks, Google Talks, Wikipedia
 
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
