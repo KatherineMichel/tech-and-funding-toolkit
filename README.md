@@ -24,7 +24,8 @@ Table of Contents
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Business Models, Pricing, Product Tiers](#business-models-pricing-product-tiers)
 - [Pretotyping and Prototyping](#pretotyping-and-prototyping)
-- [Research and Design Sprint](#research-and-design-sprint)
+- [Google Ventures Research Sprint](#google-ventures-research-sprint)
+- [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Notable Pitch Decks](#notable-pitch-decks)
 - [Metrics](#metrics)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
@@ -232,6 +233,11 @@ General Research
 *   [Google Forms- About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 *   [Google Scholar](https://scholar.google.com)
 
+Facebook and Google Research
+*   [Facebook Research](https://research.facebook.com)  
+*   [Google Research](http://research.google.com/index.html)  
+*   [Google Research Papers](http://research.google.com/pubs/papers.html) 
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
@@ -291,12 +297,16 @@ General Research
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
 *   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 
-#### Research and Design Sprint
+#### Google Ventures Research Sprint
 
 *   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
 *   [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions), [Day 1](http://www.gv.com/lib/the-gv-research-sprint-day-1), [Day 2](http://www.gv.com/lib/the-gv-research-sprint-day-2), [Day 3](http://www.gv.com/lib/the-gv-research-sprint-day-3), [Day 4](http://www.gv.com/lib/the-gv-research-sprint-day-4) 
-*   [Google Ventures Design Sprint](http://www.gv.com/sprint), and [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
+
+#### Google Ventures Design Sprint
+
+*   [Google Ventures Design Sprint](http://www.gv.com/sprint), [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage), and [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
 *   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5)  
+*   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 
 #### Notable Pitch Decks
 
