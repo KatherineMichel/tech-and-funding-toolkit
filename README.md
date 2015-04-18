@@ -27,10 +27,10 @@ Table of Contents
 - [Design](#design)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
-- [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research and-design-sprint-supporting-docs)
+- [Research and Design Sprint Supporting Docs](#research and-design-sprint-supporting-docs)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Metrics](#metrics)
-- [Social Media, Analytics, Ads, Cards, Video](#social-media-analytics-ads-cards-video)
+- [Analytics, Ads, Cards, Video](#analytics-ads-cards-video)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Startup Transparency Example](#startup-transparency-example)
 - [Popular Tools](#popular-tools)
@@ -379,7 +379,7 @@ Website Launch Checklist
 *   [Google Ventures Design Sprint](http://www.gv.com/sprint), [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage), and [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
 *   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5) 
 
-#### Google Ventures Research and Design Sprint Supporting Docs
+#### Research and Design Sprint Supporting Docs
 
 *   [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
 *   [Google Ventures Research Plan and Interview Guide](http://www.gv.com/ds-redirect/images/content/research-worksheet.pdf)  
@@ -405,11 +405,15 @@ Website Launch Checklist
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
 
-#### Social Media, Analytics, Ads, Cards, Video
+#### Analytics, Ads, Cards, Video
 
+Social Media
 *   [Facebook Pages](https://www.facebook.com/about/pages)
 *   [Google+](https://plus.google.com)
 *   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+
+Amazon
+*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 
 #### Growth, Marketing, and Content Resources
 
