@@ -53,7 +53,7 @@ Table of Contents
 *   [Jason Calcanis](http://calacanis.com)
 *   [Jeff Jordan](http://jeff.a16z.com)  
 *   [Marc Andreessen](http://blog.pmarca.com), [Marc Andreessen: Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen: Another Old Blog](http://pmarchive.com) and [Marc Andreessen: Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
-*   [Mark Suster](http://www.bothsidesofthetable.com) and [Mark Suster: Slideshare](http://www.slideshare.net/msuster)
+*   [Mark Suster](http://www.bothsidesofthetable.com) and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
 *   [M.G. Siegler](http://parislemon.com) 
 *   [Naveen Selvadurai](http://x.naveen.com)
 *   [Om Malik](http://om.co)
@@ -68,37 +68,37 @@ Table of Contents
 
 #### Tech Analysts, Thought Leaders
 
-*   [Alex Howard: Slideshare](http://www.slideshare.net/digiphile)
+*   [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
 *   [Alex Osterwalder](http://www.alexosterwalder.com) and [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder)
-*   [Amy Jo Kim: Slideshare](http://www.slideshare.net/amyjokim)
+*   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim)
 *   [Anil Dash](http://dashes.com/anil)
 *   [Ben Bajarin](http://atbenbajarin.com)  
 *   [Ben and Tim Bajarin](https://techpinions.com) 
 *   [Ben Thompson](http://stratechery.com)  
-*   [Benedict Evans](http://ben-evans.com) and [Benedict Evans: Slideshare](http://www.slideshare.net/bge20)
-*   [Beth Kanter: Slideshare](http://www.slideshare.net/kanter)
+*   [Benedict Evans](http://ben-evans.com) and [Benedict Evans Slideshare](http://www.slideshare.net/bge20)
+*   [Beth Kanter Slideshare](http://www.slideshare.net/kanter)
 *   [Bill and Melinda Gates](http://www.thegatesnotes.com) 
 *   [Brian Solis](http://www.briansolis.com) and [Brian Solis: Slideshare](http://www.slideshare.net/briansolis)
 *   [Carlota Perez](http://www.carlotaperez.org) 
-*   [Charline Li: Slideshare](http://www.slideshare.net/charleneli) 
+*   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 *   [Clay Christensen](http://www.claytonchristensen.com) 
 *   [Danielle Morrill](http://www.daniellemorrill.com) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
 *   [Dave Winer](http://scripting.com)   
 *   [Doc Searls](http://blogs.law.harvard.edu/doc) 
 *   [Edward Tufte](http://www.edwardtufte.com) 
-*   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries](StartUp Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
-*   [Guy Kawasaki: Slideshare](http://www.slideshare.net/GKawasaki) 
+*   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (StartUp Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
+*   [Guy Kawasaki Slideshare](http://www.slideshare.net/GKawasaki) 
 *   [Horace Dediu](http://www.asymco.com) 
 *   [Jay Rosen](http://pressthink.org)   
 *   [Jeff Jarvis](http://buzzmachine.com) 
-*   [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang: Slideshare](http://www.slideshare.net/jeremiah_owyang) 
+*   [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
 *   [John Battelle](http://battellemedia.com)   
 *   [John Gruber](http://daringfireball.net)   
 *   [John Resig](http://ejohn.org/blog) 
 *   [Justin Kan](http://justinkan.com)
 *   [Kevin Marks](http://www.kevinmarks.com)   
-*   [Kevin Weil: Slideshare](http://www.slideshare.net/kevinweil) 
-*   [Loic Le Meur: Slideshare](http://www.slideshare.net/loiclemeur)  
+*   [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
+*   [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)  
 *   [Louis Gray](http://blog.louisgray.com)
 *   [Marco Arment](http://www.marco.org)
 *   [Marshall Kirkpatrick](http://marshallk.com)
@@ -106,32 +106,32 @@ Table of Contents
 *   [Matt Mullenweg](http://ma.tt)
 *   [Michael Arrington](http://uncrunched.com) 
 *   [Naval Ravikant](http://startupboy.com)
-*   [Reed Hastings: Slideshare](http://www.slideshare.net/reed2001) 
+*   [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 *   [Robert Scoble](https://www.facebook.com/RobertScoble)
 *   [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
-*   [Sean Ellis: Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
-*   [Sree Sreenivasan: Twitter](https://twitter.com/sree)  
+*   [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
+*   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
 *   [Startup L. Jackson](http://startupljackson.com)  
-*   [Steve Blank](http://steveblank.com), [Steve Blank: Slideshare](http://www.slideshare.net/sblank), and [Steve Blank: Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
+*   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
-*   [Vala Afshar: Twitter](https://twitter.com/ValaAfshar)
-*   [Youngme Moon: Twitter](https://twitter.com/YoungmeMoon)
+*   [Vala Afshar Twitter](https://twitter.com/ValaAfshar)
+*   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 #### Firms
 
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
-*   [A16Z](http://a16z.com), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z: Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+*   [A16Z](http://a16z.com), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [First Round](http://firstround.com)
 *   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-*   [Jason Calcanis: Syndicate](https://angel.co/jason/syndicate) and [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab) 
+*   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate) and [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab) 
 *   [KPCB](http://www.kpcb.com) and [KPCB Podcasts](https://soundcloud.com/kleinerperkins) 
 *   [Sequoia Capital](http://www.sequoiacap.com) 
 *   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
 #### Accelerators 
 
-*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups: Slideshare](http://www.slideshare.net/500startups), [Dave McClure: Slideshare](http://www.slideshare.net/dmc500hats) 
+*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com)
 
@@ -149,13 +149,13 @@ Table of Contents
 
 #### Company and Product Databases
 
-*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks: Slideshare](http://www.slideshare.net/venturehacks)  
+*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [Betalist](http://betalist.com)  
 *   [CB Insights](https://www.cbinsights.com), [Blog](https://www.cbinsights.com/blog), [Twitter](https://twitter.com/CBinsights)  
 *   [CrunchBase](http://www.crunchbase.com) and [API](https://developer.crunchbase.com)
 *   [Datafox](http://www.datafox.co), [Blog](http://www.datafox.co/blog), [Twitter](https://twitter.com/datafoxco)
 *   [Mattermark](http://mattermark.com) and [Mattermark: Slideshare](http://www.slideshare.net/Mattermark)        
-*   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API: GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
+*   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
 
 #### Aggregated, Curated News Sources
 
@@ -217,12 +217,13 @@ Table of Contents
 
 #### Analyst Reports
 
-*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter: Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter: Twitter](https://twitter.com/altimetergroup) 
+*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), and [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp)  
+*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), and [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp) 
+*   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
-*   [RedMonk: Twitter](https://twitter.com/redmonk)  
+*   [RedMonk Twitter](https://twitter.com/redmonk)  
 
 Development
 *   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
@@ -233,7 +234,6 @@ General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 *   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 *   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)  
-*   [Google Forms- About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 *   [Google Scholar](https://scholar.google.com)
 
 Facebook and Google Research
@@ -261,7 +261,6 @@ Facebook and Google Research
 *   [Balaji Srinivasan: Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [AVC on Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework)
-*   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Startup Gene Pool Engineering](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 *   [Chris Dixon: Startup School Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
@@ -293,7 +292,7 @@ Facebook and Google Research
  
 #### Business Models, Pricing, Product Tiers
   
-*   [List of Web Business Models: GitHub](https://gist.github.com/ndarville/4295324) 
+*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 #### Pretotyping
@@ -313,6 +312,12 @@ Photoshop and Gimp
 Prototyping Software
 *   [Keynotopia](http://keynotopia.com) and [Super Bundle](http://keynotopia.com/keynotopia-super-bundle)  
 
+Bootstrap, Font Awesome, Foundation
+
+*   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap)  
+*   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo)  
+*   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+ 
 Beta Testing and Analytics
 *   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta)  
 *   [Mixpanel](https://mixpanel.com) 
@@ -327,10 +332,10 @@ Ideo
 
 Google Design Approach
 
-*   [Google Fonts](http://www.google.com/fonts) and [Google Fonts: GitHub](https://github.com/google/fonts)  
+*   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
 *   [Google Design](http://www.google.com/design/#resources)  
 *   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-*   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit: GitHub](https://github.com/google/web-starter-kit)  
+*   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 *   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html) and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0) 
  
 Design Schools and Philosophies
@@ -357,6 +362,7 @@ KPCB and John Maeda Design in Tech Report
 *   [Google Ventures Research Sprint Sample Craig's List Ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png)  
 *   [Google Ventures Research Sprint Sample NDA (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)  
 *   [Google Ventures Research Sprint Sample Recruiting Screener Worksheet #1 (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) and [Sample Recruiting Screener Worksheet #2](https://drive.google.com/previewtemplate?id=1E96r55rFIXcpMWhcVADL2aX11Q5MaS8IifvFIE1pLGs&mode=public&ddrp=1#) 
+*   [Google Forms: About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 
@@ -378,22 +384,22 @@ KPCB and John Maeda Design in Tech Report
 #### Growth, Marketing, and Content Resources
 
 *   [Distribution Hacks](http://distributionhacks.com) 
-*   [Sean Ellis: Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com) 
-*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg: Twitter](https://twitter.com/CrazyEgg)  
-*   [Hiten Shah: Twitter](https://twitter.com/hnshah) and [Neil Patel: Twitter](https://twitter.com/neilpatel)
-*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics: Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics: Slideshare](http://www.slideshare.net/kissmetrics)  
+*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com) 
+*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+*   [Hiten Shah: Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
 *   [Quicksprout](http://www.quicksprout.com)  
 *   [Moz](http://moz.com) 
 *   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot: Slideshare](http://www.slideshare.net/HubSpot)  
-*   [Marketing Land](http://marketingland.com) and [Marketing Land: Slideshare](http://www.slideshare.net/marketing-land)  
-*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land: Slideshare](http://www.slideshare.net/searchengineland) 
+*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland) 
 *   [Econsultancy](https://econsultancy.com)  
-*   [EMarketer: Slideshare](http://www.slideshare.net/eMarketerInc) 
-*   [PSFK](http://www.psfk.com) and [PSFK: Slideshare](http://www.slideshare.net/PSFK) 
+*   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+*   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
 
 #### Startup Transparency Example
 
-*   [Buffer App ](https://bufferapp.com), [Buffer App About](https://bufferapp.com/about), [Buffer App Blog](https://blog.bufferapp.com), and [Buffer App: Slideshare](http://www.slideshare.net/Bufferapp) 
+*   [Buffer App ](https://bufferapp.com), [Buffer App About](https://bufferapp.com/about), [Buffer App Blog](https://blog.bufferapp.com), and [Buffer App Slideshare](http://www.slideshare.net/Bufferapp) 
 *   [Buffer App Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
 
 #### Popular Tools
@@ -401,7 +407,7 @@ KPCB and John Maeda Design in Tech Report
 Project Management
 *   [Asana](https://asana.com) and [Instagantt](http://instagantt.com)
 *   [Office Live](https://office.live.com/start/default.aspx) 
-*   [Quip](https://quip.com) and [Quip Blog- Integrations](https://quip.com/blog/integrations)
+*   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 *   [Slack](https://slack.com) 
 *   [Trello](https://trello.com)
 
