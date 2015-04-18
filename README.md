@@ -11,7 +11,7 @@ Tech and Venture Capital Toolkit
 *   [Jason Calacanis](http://calacanis.com)
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Chris Dixon](http://cdixon.org)   
-*   [Chris Sacca: Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca Old](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
+*   [Chris Sacca: Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
 *   [Dave McClure](http://500hats.com)
 *   [Fred Wilson](http://www.avc.com) 
 *   [Hunter Walk](http://hunterwalk.com)  
@@ -112,7 +112,6 @@ Tech and Venture Capital Toolkit
 
 #### Aggregated/Curated News Sources
 
-Aggregation and Curation
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) 
 *   [Hacker News](https://news.ycombinator.com/news), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
