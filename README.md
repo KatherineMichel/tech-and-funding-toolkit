@@ -205,7 +205,7 @@ Table of Contents
 
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter: Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter: Twitter](https://twitter.com/altimetergroup) 
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog(http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc)  
+*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), and [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp)  
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
 *   [RedMonk: Twitter](https://twitter.com/redmonk)  
