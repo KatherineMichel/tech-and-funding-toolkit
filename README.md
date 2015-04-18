@@ -448,7 +448,10 @@ Task Automation
 *   [IFTTT](https://ifttt.com) 
 
 Payments
+*   [Apple Pay](https://www.apple.com/apple-pay) 
+*   [Bitcoin](https://bitcoin.org/en) 
 *   [Paypal](https://www.paypal.com)
+*   [Square](https://squareup.com)
 *   [Stripe](https://stripe.com)
 
 Hiring and Payroll
