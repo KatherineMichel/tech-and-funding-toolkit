@@ -9,20 +9,20 @@ Table of Contents
 - [Accelerators](#accelerators) 
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
-- [MOOCs, TEDTalks, Google Talks, Wikipedia](#)
-- [Aggregated/Curated News Sources]()
+- [MOOCs, TED Talks, Google Talks, Wikipedia](#moocs-ted-talks-google-talks-wikipedia)
+- [Aggregated, Curated News Sources](aggregated-curated-news-sources)
 - [Events Lists](#event-lists)
 - [Venture Analysis](#venture-analysis)
-- [Philosophies, Milestones](#)
-- [Lean Startup and Launchpad](#)
-- [Software and Mobile are Eating the World, Software is Reorganizing the World](#)
-- [Creative Destruction and Innovator's Dilemma](#)
-- [Idea State Machine and Idea Maze](#)
-- [Business Models, Pricing, Product Tiers](#)
+- [Philosophies, Milestones](#philosophies-milestones)
+- [Lean Startup and Launchpad](#lean-startup-and-launchpad)
+- [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
+- [Creative Destruction and Innovator's Dilemma](#creative-destruction-and-innovators-dilemma)
+- [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
+- [Business Models, Pricing, Product Tiers](#business-models-pricing-product-tiers)
 - [Demo](#demo)
 - [Notable Pitch Decks](#notable-pitch-decks)
 - [Metrics](#metrics)
-- [Growth, Marketing, and Content Resources](#)
+- [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Popular Tools](#popular-tools)
 
 #### Venture Capitalists
@@ -136,7 +136,7 @@ Table of Contents
 *   [Mattermark](http://mattermark.com) and [Mattermark: Slideshare](http://www.slideshare.net/Mattermark)        
 *   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API: GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
 
-#### MOOCs, TEDTalks, Google Talks, Wikipedia
+#### MOOCs, TED Talks, Google Talks, Wikipedia
 
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 *   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
@@ -148,7 +148,7 @@ Table of Contents
 *   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
 *   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists)  
 
-#### Aggregated/Curated News Sources
+#### Aggregated, Curated News Sources
 
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) 
