@@ -72,6 +72,7 @@ Table of Contents
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
 *   [Alex Osterwalder](http://www.alexosterwalder.com) and [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder)
 *   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim)
+*   [Andrew Sullivan](http://dish.andrewsullivan.com)  
 *   [Anil Dash](http://dashes.com/anil)
 *   [Ben Bajarin](http://atbenbajarin.com)  
 *   [Ben and Tim Bajarin](https://techpinions.com) 
@@ -89,6 +90,7 @@ Table of Contents
 *   [Edward Tufte](http://www.edwardtufte.com) 
 *   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
 *   [Guy Kawasaki Slideshare](http://www.slideshare.net/GKawasaki) 
+*   [Hiten Shah](http://hitenism.com) 
 *   [Horace Dediu](http://www.asymco.com) 
 *   [Jay Rosen](http://pressthink.org)   
 *   [Jeff Jarvis](http://buzzmachine.com) 
@@ -107,10 +109,12 @@ Table of Contents
 *   [Matt Mullenweg](http://ma.tt)
 *   [Michael Arrington](http://uncrunched.com) 
 *   [Naval Ravikant](http://startupboy.com)
+*   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
 *   [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 *   [Robert Scoble](https://www.facebook.com/RobertScoble)
 *   [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
 *   [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
+*   [Shane Parrish (Farnam Street Blog)](http://www.farnamstreetblog.com) 
 *   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
 *   [Startup L. Jackson](http://startupljackson.com)  
 *   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
@@ -410,7 +414,7 @@ Website Launch Checklist
 #### Analytics, Ads, Cards, Video
 
 Social Media
-*   [Facebook Pages](https://www.facebook.com/about/pages)
+*   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 *   [Google+](https://plus.google.com)
 *   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 
@@ -427,6 +431,7 @@ Amazon
 *   [Quicksprout](http://www.quicksprout.com)  
 *   [Moz](http://moz.com) 
 *   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot: Slideshare](http://www.slideshare.net/HubSpot)  
+*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
 *   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
 *   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland) 
 *   [Econsultancy](https://econsultancy.com)  
