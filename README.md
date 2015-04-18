@@ -140,10 +140,10 @@ Table of Contents
 
 #### Government Digital
 
-*   [Government- 18F](https://18f.gsa.gov)  
-*   [Government- U.S. CIO Playbook](http://playbook.cio.gov)  
-*   [Government- DigitalGov Resources](http://www.digitalgov.gov/resources)  
-*   [Government- Usability](http://www.usability.gov)
+*   [18F](https://18f.gsa.gov)  
+*   [U.S. CIO Playbook](http://playbook.cio.gov)  
+*   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
+*   [Government Usability](http://www.usability.gov)
 
 #### Company and Product Databases
 
@@ -310,11 +310,11 @@ Facebook and Google Research
 
 #### Google Ventures Research and Design Sprint Supporting Docs
 
-*   [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [Google Ventures Research Quick and Dirty Research PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
+*   [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
 *   [Google Ventures Research Plan and Interview Guide](http://www.gv.com/ds-redirect/images/content/research-worksheet.pdf)  
 *   [Google Ventures Research Sprint Sample Craig's List Ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png)  
 *   [Google Ventures Research Sprint Sample NDA (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)  
-*   [Google Ventures Research Sprint Sample Recruiting Screener Worksheet #1 (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) and [Google Ventures Research Sprint Sample Recruiting Screener Worksheet #2](https://drive.google.com/previewtemplate?id=1E96r55rFIXcpMWhcVADL2aX11Q5MaS8IifvFIE1pLGs&mode=public&ddrp=1#) 
+*   [Google Ventures Research Sprint Sample Recruiting Screener Worksheet #1 (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) and [Sample Recruiting Screener Worksheet #2](https://drive.google.com/previewtemplate?id=1E96r55rFIXcpMWhcVADL2aX11Q5MaS8IifvFIE1pLGs&mode=public&ddrp=1#) 
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 
