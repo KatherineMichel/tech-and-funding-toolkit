@@ -82,7 +82,7 @@ Table of Contents
 *   [Dave Winer](http://scripting.com)   
 *   [Doc Searls](http://blogs.law.harvard.edu/doc) 
 *   [Edward Tufte](http://www.edwardtufte.com) 
-*   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries] (StartUp Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
+*   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries](StartUp Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
 *   [Guy Kawasaki: Slideshare](http://www.slideshare.net/GKawasaki) 
 *   [Horace Dediu](http://www.asymco.com) 
 *   [Jay Rosen](http://pressthink.org)   
