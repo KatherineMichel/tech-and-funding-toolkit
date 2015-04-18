@@ -258,7 +258,10 @@ General Research
 *   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 *   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
-*   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas) *   [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com) and [Strategyzer](https://strategyzer.com)
+*   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas
+*   [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com) and [Strategyzer](https://strategyzer.com)
+*   [Alex Osterwalder: Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas: Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
+*   [Alex Osterwalder: Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
 
 #### Creative Destruction and Innovator's Dilemma
 
