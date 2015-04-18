@@ -14,6 +14,7 @@ Table of Contents
 - [Books](#books)
 - [Courses](#courses)
 - [Events Lists](#events-lists)
+- [Companies and Financials](#companies-and-financials)
 - [Venture Analysis](#venture-analysis)
 - [Philosophies, Milestones](#philosophies-milestones)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
@@ -25,6 +26,7 @@ Table of Contents
 - [Notable Pitch Decks](#notable-pitch-decks)
 - [Metrics](#metrics)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
+- [Startup Transparency Example](#startup-transparency-example)
 - [Popular Tools](#popular-tools)
 
 #### Venture Capitalists 
@@ -185,6 +187,19 @@ Table of Contents
 *   [LeWeb](http://leweb.co) 
 *   [SXSW](http://sxsw.com) 
 
+#### Companies and Financials
+
+*   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
+*   [PitchBook](http://blog.pitchbook.com) 
+*   [Bloomberg](http://www.bloomberg.com)  
+*   [MarketWatch](http://www.marketwatch.com) 
+*   [Google Finance](https://www.google.com/finance) 
+*   [Yahoo Finance](http://finance.yahoo.com)  
+*   [Wikinvest](http://www.wikinvest.com)
+*   [Nasdaq](http://www.nasdaq.com)  
+*   [StockTwits](http://stocktwits.com)  
+*   [Wealthfront Blog](https://blog.wealthfront.com)  
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
@@ -272,6 +287,11 @@ Table of Contents
 *   [EMarketer: Slideshare](http://www.slideshare.net/eMarketerInc) 
 *   [PSFK](http://www.psfk.com) and [PSFK: Slideshare](http://www.slideshare.net/PSFK) 
 
+#### Startup Transparency Example
+
+*   [Buffer App ](https://bufferapp.com), [Buffer App About](https://bufferapp.com/about), [Buffer App Blog](https://blog.bufferapp.com), and [Buffer App: Slideshare](http://www.slideshare.net/Bufferapp) 
+*   [Buffer App Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
 #### Popular Tools
 
 Project Management
@@ -305,6 +325,7 @@ Calendar
 *   [Sunrise](https://calendar.sunrise.am)
 
 Social Media and Distribution 
+*   [Buffer App ](https://bufferapp.com)
 *   [Hootsuite](https://hootsuite.com)
 *   [Storify](https://storify.com)  
 *   [Tweetdeck](https://tweetdeck.twitter.com) 
