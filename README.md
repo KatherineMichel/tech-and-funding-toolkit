@@ -89,6 +89,7 @@ Table of Contents
 *   [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang: Slideshare](http://www.slideshare.net/jeremiah_owyang) 
 *   [John Battelle](http://battellemedia.com)   
 *   [John Gruber](http://daringfireball.net)   
+*   [John Resig](http://ejohn.org/blog) 
 *   [Justin Kan](http://justinkan.com)
 *   [Kevin Marks](http://www.kevinmarks.com)   
 *   [Kevin Weil: Slideshare](http://www.slideshare.net/kevinweil) 
@@ -109,6 +110,7 @@ Table of Contents
 *   [Steve Blank](http://steveblank.com), [Steve Blank: Slideshare](http://www.slideshare.net/sblank), and [Steve Blank: Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
+*   [Vala Afshar: Twitter](https://twitter.com/ValaAfshar)
 *   [Youngme Moon: Twitter](https://twitter.com/YoungmeMoon)
 
 #### Firms
