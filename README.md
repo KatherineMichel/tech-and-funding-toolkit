@@ -319,6 +319,8 @@ Prototyping Software
 
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) 
 
+*   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
+
 #### Google Ventures Research Sprint
 
 *   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
