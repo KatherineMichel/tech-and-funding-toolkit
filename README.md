@@ -8,6 +8,7 @@ Tech and Venture Capital Toolkit
 *   [Ben Horowitz](http://www.bhorowitz.com)  
 *   [Bill Gurley](http://abovethecrowd.com)
 *   [Brad Feld](http://www.feld.com)
+*   [Jason Calacanis](http://calacanis.com)
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Chris Dixon](http://cdixon.org)   
 *   [Chris Sacca: Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca Old](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
@@ -117,6 +118,7 @@ Tech and Venture Capital Toolkit
 
 #### Philosophies, Milestones
 
+*   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 *   [The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Balaji Srinivasan: Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
@@ -124,7 +126,7 @@ Tech and Venture Capital Toolkit
 *   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Startup Gene Pool Engineering](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-*   [Chris Dixon Startup School YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
+*   [Chris Dixon: Startup School Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
 
 #### Lean Startup and Launchpad
