@@ -25,6 +25,7 @@ Table of Contents
 - [Business Models, Pricing, Product Tiers](#business-models-pricing-product-tiers)
 - [Pretotyping](#pretotyping)
 - [Prototyping](#prototyping)
+- [Design](#design)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research and-design-sprint-supporting-docs)
@@ -311,6 +312,10 @@ Photoshop and Gimp
  
 Prototyping Software
 *   [Keynotopia](http://keynotopia.com) and [Super Bundle](http://keynotopia.com/keynotopia-super-bundle)  
+
+#### Design
+
+*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) 
 
 #### Google Ventures Research Sprint
 
