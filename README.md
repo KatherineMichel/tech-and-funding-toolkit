@@ -93,7 +93,7 @@ Tech and Venture Capital Toolkit
 
 #### Accelerators 
 
-*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Events](http://500.co/events), [500 Startups: Slideshare](http://www.slideshare.net/500startups), [Dave McClure: Slideshare](http://www.slideshare.net/dmc500hats) 
+*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups: Slideshare](http://www.slideshare.net/500startups), [Dave McClure: Slideshare](http://www.slideshare.net/dmc500hats) 
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com)
 
@@ -122,6 +122,14 @@ Tech and Venture Capital Toolkit
 *   [Reddit](http://www.reddit.com)
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 
+#### Events Lists
+*   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+*   [Techmeme Events List](http://techmeme.com/events) 
+*   [500 Startups Events](http://500.co/events)
+*   [TechCrunch Events](http://techcrunch.com/events)  
+*   [Recode Events](http://recode.net/events) 
+*   [LeWeb](http://leweb.co) 
+
 #### Venture Analysis from Different Angles
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
@@ -131,7 +139,7 @@ Tech and Venture Capital Toolkit
 #### Philosophies, Milestones
 
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
-*   [The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
+*   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Balaji Srinivasan: Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [AVC on Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework)
