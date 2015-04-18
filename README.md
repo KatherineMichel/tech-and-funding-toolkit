@@ -276,17 +276,18 @@ Courses
 
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
+*   [Kurt von Hammerstein-Equord: Classification of Officers](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
 *   [Balaji Srinivasan: Chess Boxing](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [AVC on Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
-*   [Startup Gene Pool Engineering](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+*   [Vinod	Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 *   [Chris Dixon: Startup School Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
 
 #### Lean Startup and Launchpad
 
-*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](https://books.google.com/books?id=r9x-OXdzpPcC&printsec=frontcover&dq=lean+startup&hl=en&sa=X&ei=dqgwVYWPGbXbsASR8YHIBw&ved=0CDEQ6AEwAA#v=onepage&q=lean%20startup&f=false)
+*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
 *   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 *   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 *   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
@@ -420,7 +421,7 @@ Amazon
 *   [Distribution Hacks](http://distributionhacks.com) 
 *   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com) 
 *   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
-*   [Hiten Shah: Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
 *   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
 *   [Quicksprout](http://www.quicksprout.com)  
 *   [Moz](http://moz.com) 
