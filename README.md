@@ -28,7 +28,6 @@ Table of Contents
 - [Popular Tools](#popular-tools)
 
 #### Venture Capitalists 
-[Back to Top](#)
 
 *   [Albert Wenger](http://continuations.com)
 *   [Andrew Chen](http://andrewchen.co/list-of-essays)
@@ -316,4 +315,4 @@ Hiring and Payroll
 *   [Zenefits](http://www.zenefits.com)
 *   [ZenPayroll](https://zenpayroll.com) 
 
-
+[Back to Top](#)
