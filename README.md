@@ -333,9 +333,12 @@ Google Design Approach
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit: GitHub](https://github.com/google/web-starter-kit)  
 *   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html) and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0) 
  
-Miscellaneous
+Design Schools and Philosophies
+*   [D-Lab MIT](http://d-lab.mit.edu) 
 *   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
-*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) 
+
+KPCB and John Maeda Design in Tech Report
+*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
 #### Google Ventures Research Sprint
 
