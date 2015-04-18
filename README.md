@@ -142,10 +142,11 @@ Table of Contents
 
 #### Government Digital
 
-*   [18F](https://18f.gsa.gov)  
+*   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
 *   [U.S. CIO Playbook](http://playbook.cio.gov)  
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Government Usability](http://www.usability.gov)
+*   [Code for America](http://www.codeforamerica.org)
 
 #### Company and Product Databases
 
@@ -406,6 +407,8 @@ Website Launch Checklist
 
 #### Social Media, Analytics, Ads, Cards, Video
 
+*   [Facebook Pages](https://www.facebook.com/about/pages)
+*   [Google+](https://plus.google.com)
 *   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 
 #### Growth, Marketing, and Content Resources
