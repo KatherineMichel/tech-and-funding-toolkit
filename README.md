@@ -129,6 +129,7 @@ Tech and Venture Capital Toolkit
 *   [TechCrunch Events](http://techcrunch.com/events)  
 *   [Recode Events](http://recode.net/events) 
 *   [LeWeb](http://leweb.co) 
+*   [SXSW](http://sxsw.com) 
 
 #### Venture Analysis from Different Angles
 
@@ -223,6 +224,12 @@ Project Management
 *   [Office Live](https://office.live.com/start/default.aspx) 
 *   [Quip](https://quip.com) and [Quip Blog- Integrations](https://quip.com/blog/integrations)
 *   [Slack](https://slack.com) 
+
+Google Office
+*   [Google Gmail](http://gmail.com)  
+*   [Google Drive](https://www.google.com/drive) 
+*   [Google Docs](https://docs.google.com)  
+*   [Google Calendar](https://www.google.com/calendar) 
 
 Email
 *   [Mailgun](http://www.mailgun.com)  
