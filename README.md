@@ -95,6 +95,7 @@ Table of Contents
 *   [Hiten Shah](http://hitenism.com) 
 *   [Horace Dediu](http://www.asymco.com) 
 *   [Jay Rosen](http://pressthink.org)   
+*   [Jeff Atwood](http://blog.codinghorror.com)
 *   [Jeff Jarvis](http://buzzmachine.com) 
 *   [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
 *   [John Battelle](http://battellemedia.com)   
@@ -505,18 +506,33 @@ Amazon
 
 #### Growth, Marketing, and Content Resources
 
+Distribution, Growth, Sales Hacking
 *   [Distribution Hacks](http://distributionhacks.com) 
-*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com) 
-*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+*   [Saleshacker](http://www.saleshacker.com)
+
+Marketing and Search Engine Land
+*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
+
+Hiten Shah and Neil Patel
 *   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
-*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics)  
-*   [Quicksprout](http://www.quicksprout.com)  
-*   [Moz](http://moz.com) 
+*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
+*   [Quicksprout](http://www.quicksprout.com) 
+
+Popular Tools
+*   [Buffer](https://bufferapp.com)
+*   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
+*   [Detour Blog](http://blog.detour.com)
 *   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot: Slideshare](http://www.slideshare.net/HubSpot)  
 *   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland) 
-*   [Econsultancy](https://econsultancy.com)  
+*   [Intercom Blog](http://blog.intercom.io)
+*   [Moz](http://moz.com) 
+*   [URX Blog](http://blog.urx.com/urx-blog) 
+
+Digital Novel
+*   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
 *   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
 *   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
 
