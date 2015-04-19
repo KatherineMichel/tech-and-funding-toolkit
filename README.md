@@ -49,7 +49,7 @@ Table of Contents
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Chris Dixon](http://cdixon.org)   
 *   [Chris Sacca via Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca: Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
-*   [Dave McClure](http://500hats.com)
+*   [Dave McClure Medium](https://medium.com/@davemcclure)and [Dave McClure: Old Blog](http://500hats.com)
 *   [Fred Wilson](http://www.avc.com) 
 *   [Hunter Walk](http://hunterwalk.com)  
 *   [Jason Calcanis](http://calacanis.com)
@@ -130,7 +130,7 @@ Table of Contents
 #### Firms
 
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
-*   [A16Z](http://a16z.com), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+*   [A16Z](http://a16z.com), [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [First Round](http://firstround.com)
 *   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
@@ -317,8 +317,7 @@ Unicorns
 *   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
 *   [William Mougayar The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
 *   [Hackpad Billion Dollar Valuations For Vintage Years 2003-2014](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-*   [OSV Research Unicorns, Startups, and Giants](http://osvresearch.com)  
-*   [The $6 Billion Opportunity](http://shaigoldman.com/2014/10/16/the-600b-opportunity) 
+*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
 
 #### Venture Analysis
 
