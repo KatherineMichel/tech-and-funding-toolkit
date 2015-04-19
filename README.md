@@ -310,6 +310,7 @@ Companies, Financials
 *   [Nasdaq](http://www.nasdaq.com)  
 *   [StockTwits](http://stocktwits.com)  
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
+*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 
 Unicorns
 *   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
@@ -395,7 +396,8 @@ Photoshop and Gimp
  
 Prototyping Software
 *   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle](http://keynotopia.com/keynotopia-super-bundle)  
-
+*   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
+ 
 Bootstrap, Font Awesome, Foundation
 
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap)  
