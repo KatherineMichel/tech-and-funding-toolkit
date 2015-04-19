@@ -308,7 +308,7 @@ Companies, Financials
 *   [Yahoo Finance](http://finance.yahoo.com)  
 *   [Wikinvest](http://www.wikinvest.com)
 *   [Nasdaq](http://www.nasdaq.com)  
-*   [StockTwits](http://stocktwits.com)  
+*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 
