@@ -1,6 +1,6 @@
 Tech and Venture Capital Toolkit
 ====================
-Curated list of high quality, mostly free resources
+Curated list of high quality resources
 
 Table of Contents
 -----------------
@@ -312,6 +312,16 @@ MOOCs
 
 #### Regulatory Agencies, Companies, Financials
 
+Corporate Law
+*   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
+*   [Internal Revenue Service: Tax Information for Busineses](http://www.irs.gov/Businesses)
+*   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
+*   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
+
+Delaware
+*   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
+*   [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
+
 Securities and Exchange Commission (SEC)
 *   [EDGAR About](http://www.sec.gov/edgar.shtml) and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
 *   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
@@ -321,6 +331,7 @@ Regulatory Agencies
 *   [Federal Aviation Administration](http://www.faa.gov)  
 *   [Federal Drug Administration](http://www.fda.gov)  
 *   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
+*   [Internal Revenue Service](http://www.irs.gov)
 *   [Securities and Exchange Commission](http://www.sec.gov)
 *   [Small Business Administration](http://www.sba.gov) 
 
