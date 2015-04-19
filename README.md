@@ -31,9 +31,9 @@ Table of Contents
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Metrics](#metrics)
-- [Analytics, Ads, Cards, Video](#analytics-ads-cards-video)
+- [Sharing, Analytics, Ads, Cards, Video](#sharing-analytics-ads-cards-video)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
-- [Startup Transparency Example](#startup-transparency-example)
+- [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
 - [Other Enormous Tool Lists](#other-enormous-tool-lists)
 
@@ -197,7 +197,7 @@ Business and Tech
 Aggregated, Curated News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) 
-*   [Hacker News](https://news.ycombinator.com/news), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), and [Medium Highlights](https://medium.com/@ev/highlights)
 *   [Nuzzel](http://nuzzel.com) 
 *   [Quora](http://www.quora.com)
@@ -446,7 +446,7 @@ Website Launch Checklist
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
 
-#### Analytics, Ads, Cards, Video
+#### Sharing, Analytics, Ads, Cards, Video
 
 Sharing Buttons
 *   [AddThis](http://addthis.com)  
@@ -455,8 +455,9 @@ Sharing Buttons
 
 Social Media
 *   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-*   [Google+](https://plus.google.com)
+*   [Google+](https://plus.google.com), [Google Analytics](http://www.google.com/analytics)
 *   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
 
 Amazon
 *   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
@@ -472,16 +473,21 @@ Amazon
 *   [Moz](http://moz.com) 
 *   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot: Slideshare](http://www.slideshare.net/HubSpot)  
 *   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
 *   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland) 
 *   [Econsultancy](https://econsultancy.com)  
 *   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
 *   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
 
-#### Startup Transparency Example
+#### Startup Transparency Examples
 
+Buffer
 *   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
 *   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Medium
+*   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
 
 #### Popular Tools
 
