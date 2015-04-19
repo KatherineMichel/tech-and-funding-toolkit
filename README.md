@@ -7,7 +7,7 @@ Table of Contents
 
 - [Venture Capitalists](#venture-capitalists)
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
-- [Firms](#firms)
+- [VC Firms and Accelerators](#vc-firms-and-accelerators)
 - [Accelerators](#accelerators) 
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
@@ -132,12 +132,12 @@ Table of Contents
 *   [Vala Afshar Twitter](https://twitter.com/ValaAfshar)
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
-#### Firms
+#### VC Firms and Accelerators
 
-List of Firms
+Lists of VC Firms and Accelerators
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
 
-Firm Resources
+VC Firm Resources
 *   [A16Z](http://a16z.com), [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [Expa](http://expa.com) and [Expa Portfolio](http://expa.com/#portfolio)
 *   [First Round](http://firstround.com), [First Round Magazines](http://firstround.com/review/magazines), and [First Round Review](http://firstround.com/review)
@@ -147,8 +147,7 @@ Firm Resources
 *   [Sequoia Capital](http://www.sequoiacap.com) 
 *   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
 
-#### Accelerators 
-
+Accelerator Resources
 *   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
