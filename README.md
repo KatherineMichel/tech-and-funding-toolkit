@@ -15,7 +15,7 @@ Table of Contents
 - [Research](#research)
 - [Books and Courses](#books-and-courses)
 - [Events Lists](#events-lists)
-- [Companies and Financials](#companies-and-financials)
+- [Regulatory Agencies, Companies and Financials](#regulatory-agencies-companies-and-financials)
 - [Venture Analysis](#venture-analysis)
 - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Philosophies, Milestones](#philosophies-milestones)
@@ -199,7 +199,8 @@ Aggregated, Curated News Sources
 *   [Flipboard](https://flipboard.com) 
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
-*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), and [Medium Highlights](https://medium.com/@ev/highlights)
+*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
+*   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
 *   [Nuzzel](http://nuzzel.com) 
 *   [Quora](http://www.quora.com)
 *   [Reddit](http://www.reddit.com)
@@ -286,8 +287,17 @@ Courses
 *   [LeWeb](http://leweb.co) 
 *   [SXSW](http://sxsw.com) 
 
-#### Companies and Financials
+#### Regulatory Agencies, Companies, Financials
 
+Regulatory Agencies
+*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
+*   [Federal Aviation Administration](http://www.faa.gov)  
+*   [Federal Drug Administration](http://www.fda.gov)  
+*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
+*   [Securities and Exchange Commission](http://www.sec.gov)
+*   [Small Business Administration](http://www.sba.gov) 
+
+Companies, Financials
 *   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
 *   [PitchBook](http://blog.pitchbook.com) 
 *   [Bloomberg](http://www.bloomberg.com)  
