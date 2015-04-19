@@ -247,7 +247,7 @@ Google and TED Talks
 Coding and Math 
 *   [Codecademy](http://www.codecademy.com) 
 *   [Khan Academy](https://www.khanacademy.org)  
-*   [Wolfram Alpha](https://www.wolframalpha.com)  
+*   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 
 #### Research
 
