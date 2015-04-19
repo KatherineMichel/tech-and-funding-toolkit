@@ -200,8 +200,7 @@ Business and Tech
 *   [Harvard Business review](https://hbr.org) 
 *   [Inc.](http://www.inc.com)
 *   [New York Times](http://www.nytimes.com)
-*   [Wall Street Journal](http://www.wsj.com)
-*   [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+*   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
 
 Aggregated, Curated News Sources
 *   [Feedly](http://feedly.com)  
@@ -269,8 +268,7 @@ Surveys
 
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
-*   [Google Research](http://research.google.com/index.html)  
-*   [Google Research Papers](http://research.google.com/pubs/papers.html) 
+*   [Google Research](http://research.google.com/index.html) and [Google Research Papers](http://research.google.com/pubs/papers.html) 
 
 #### Books and Courses
 
