@@ -387,12 +387,6 @@ Miscellaneous
 
 #### Design
 
-Responsive Design
-*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-
-GitHub Styleguide
-*   [Styleguide GitHub](https://github.com/styleguide)  
-
 Ideo
 *   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), and [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
 
@@ -407,6 +401,17 @@ Google Design Approach
 Design Schools and Philosophies
 *   [D-Lab MIT](http://d-lab.mit.edu) 
 *   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
+
+Responsive Design
+*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+
+GitHub Styleguide
+*   [Styleguide GitHub](https://github.com/styleguide) 
+
+Portfolio Websites
+*   [Behance](https://www.behance.net)  
+*   [Dribbble](https://dribbble.com)  
+*   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
 
 KPCB and John Maeda Design in Tech Report
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
