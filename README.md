@@ -134,10 +134,13 @@ Table of Contents
 
 #### Firms
 
+List of Firms
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
+
+Firm Resources
 *   [A16Z](http://a16z.com), [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [Expa](http://expa.com) and [Expa Portfolio](http://expa.com/#portfolio)
-*   [First Round](http://firstround.com)
+*   [First Round](http://firstround.com), [First Round Magazines](http://firstround.com/review/magazines), and [First Round Review](http://firstround.com/review)
 *   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [KPCB](http://www.kpcb.com), [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
@@ -523,8 +526,12 @@ Sharing Buttons
 Social Media
 *   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 *   [Google+](https://plus.google.com), [Google Analytics](http://www.google.com/analytics)
+*   [Pinterest Blog](http://blog.pinterest.com) and [Pinterest Business](https://business.pinterest.com)
+*   [Snapchat Blog](http://blog.snapchat.com)
 *   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+*   [Twitter Business](https://biz.twitter.com)
 *   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+*   [Twitter Curator](https://curator.twitter.com)
 
 Amazon
 *   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
@@ -546,13 +553,17 @@ Hiten Shah and Neil Patel
 *   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
 *   [Quicksprout](http://www.quicksprout.com) 
 
+Presentations and Infographics
+*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+*   [Slideshare Haiku Deck](https://www.slideshare.net/create)
+
 Popular Tools
 *   [Buffer](https://bufferapp.com)
 *   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
 *   [Detour Blog](http://blog.detour.com)
-*   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot: Slideshare](http://www.slideshare.net/HubSpot)  
-*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+*   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
 *   [Intercom Blog](http://blog.intercom.io)
+*   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
 *   [Moz](http://moz.com) 
 *   [URX Blog](http://blog.urx.com/urx-blog) 
 
