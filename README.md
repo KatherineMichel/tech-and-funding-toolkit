@@ -198,6 +198,7 @@ Aggregated, Curated News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) 
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), and [Medium Highlights](https://medium.com/@ev/highlights)
 *   [Nuzzel](http://nuzzel.com) 
 *   [Quora](http://www.quora.com)
@@ -386,7 +387,10 @@ Miscellaneous
 
 #### Design
 
-GitHub
+Responsive Design
+*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+
+GitHub Styleguide
 *   [Styleguide GitHub](https://github.com/styleguide)  
 
 Ideo
@@ -473,7 +477,6 @@ Amazon
 *   [Moz](http://moz.com) 
 *   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot: Slideshare](http://www.slideshare.net/HubSpot)  
 *   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
 *   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland) 
 *   [Econsultancy](https://econsultancy.com)  
