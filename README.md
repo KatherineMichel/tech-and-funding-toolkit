@@ -209,7 +209,7 @@ Tech
 
 Aggregated, Curated News Sources
 *   [Feedly](http://feedly.com)  
-*   [Flipboard](https://flipboard.com) 
+*   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
@@ -422,6 +422,7 @@ Beta Testing
 Miscellaneous
 *   [Namium (Name Generator)](http://www.naminum.com)
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
+*   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
 #### Design
 
@@ -446,6 +447,12 @@ Responsive Design
 GitHub Styleguide
 *   [Styleguide GitHub](https://github.com/styleguide) 
 
+Design Publications
+
+*   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+*   [Smashing Magazine](http://www.smashingmagazine.com) 
+*   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+ 
 Portfolio Websites
 *   [Behance](https://www.behance.net)  
 *   [Dribbble](https://dribbble.com)  
