@@ -192,7 +192,7 @@ Product/Service Directories
 
 #### News Sources
 
-Business and Tech
+Business
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
 *   [Entreprener](http://www.entrepreneur.com)
@@ -201,6 +201,11 @@ Business and Tech
 *   [Inc.](http://www.inc.com)
 *   [New York Times](http://www.nytimes.com)
 *   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+
+Tech
+*   [Recode](http://recode.net)
+*   [TechCrunch](http://techcrunch.com)
+*   [The Next Web](http://thenextweb.com)
 
 Aggregated, Curated News Sources
 *   [Feedly](http://feedly.com)  
