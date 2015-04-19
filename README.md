@@ -1,5 +1,7 @@
 Tech and Venture Capital Toolkit
 ====================
+Curated list of high quality, mostly free resources
+
 Table of Contents
 -----------------
 
