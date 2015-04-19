@@ -160,14 +160,14 @@ Table of Contents
 
 #### Company and Product Databases
 
-*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
+*   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [Angelist API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [Betalist](http://betalist.com)  
-*   [CB Insights](https://www.cbinsights.com), [Blog](https://www.cbinsights.com/blog), [Twitter](https://twitter.com/CBinsights)  
-*   [CrunchBase](http://www.crunchbase.com) and [API](https://developer.crunchbase.com)
-*   [Datafox](http://www.datafox.co), [Blog](http://www.datafox.co/blog), [Twitter](https://twitter.com/datafoxco)
+*   [CB Insights](https://www.cbinsights.com), [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights)  
+*   [CrunchBase](http://www.crunchbase.com) and [CrunchBase API](https://developer.crunchbase.com)
+*   [Datafox](http://www.datafox.co), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [GitHub Explore](https://github.com/explore) 
 *   [Mattermark](http://mattermark.com) and [Mattermark Slideshare](http://www.slideshare.net/Mattermark)        
-*   [Product Hunt](http://www.producthunt.com), [Blog](http://blog.producthunt.com), [API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [API GitHub](https://github.com/producthunt/producthunt-api), [API Docs](https://api.producthunt.com/v1/docs)
+*   [Product Hunt](http://www.producthunt.com), [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
 App Stores
 *   [Apple Store](http://store.apple.com/us)  
@@ -370,7 +370,7 @@ Photoshop and Gimp
 *   [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
  
 Prototyping Software
-*   [Keynotopia](http://keynotopia.com) and [Super Bundle](http://keynotopia.com/keynotopia-super-bundle)  
+*   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle](http://keynotopia.com/keynotopia-super-bundle)  
 
 Bootstrap, Font Awesome, Foundation
 
@@ -503,7 +503,7 @@ Project Management
 
 Two Factor Authentication
 
-*   [Two Factor Authentication List](https://twofactorauth.org), [Facebook Two Factor Authentication](https://www.facebook.com/note.php?note_id=10150172618258920), [Google Two Factor Authentication](https://support.google.com/accounts/answer/180744?hl=en), [Twitter Two Factor Authentication](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub Two Factor Authentication](https://github.com/blog/1614-two-factor-authentication) 
+*   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
 Google Office
 *   [Google Gmail](http://gmail.com)  
