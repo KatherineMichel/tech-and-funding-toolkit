@@ -110,6 +110,7 @@ Table of Contents
 *   [Matt Cutts](http://www.mattcutts.com/blog)   
 *   [Matt Mullenweg](http://ma.tt)
 *   [Michael Arrington](http://uncrunched.com) 
+*   [Michael Mauboussin](http://michaelmauboussin.com)
 *   [Naval Ravikant](http://startupboy.com)
 *   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
 *   [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
