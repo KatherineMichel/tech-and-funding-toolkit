@@ -136,6 +136,7 @@ Table of Contents
 
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
 *   [A16Z](http://a16z.com), [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+*   [Expa](http://expa.com) and [Expa Portfolio](http://expa.com/#portfolio)
 *   [First Round](http://firstround.com)
 *   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
