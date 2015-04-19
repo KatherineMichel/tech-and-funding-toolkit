@@ -310,6 +310,10 @@ MOOCs
 
 #### Regulatory Agencies, Companies, Financials
 
+Securities and Exchange Commission (SEC)
+*   [EDGAR About](http://www.sec.gov/edgar.shtml) and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
+*   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
+
 Regulatory Agencies
 *   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
 *   [Federal Aviation Administration](http://www.faa.gov)  
