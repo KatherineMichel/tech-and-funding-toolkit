@@ -101,6 +101,7 @@ Table of Contents
 *   [John Gruber](http://daringfireball.net)   
 *   [John Resig](http://ejohn.org/blog) 
 *   [Justin Kan](http://justinkan.com)
+*   [Kevin Kelly](http://kk.org/kk)
 *   [Kevin Marks](http://www.kevinmarks.com)   
 *   [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 *   [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)  
@@ -325,6 +326,7 @@ Unicorns
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
 *   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
 *   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)  
+*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 
 #### Software and Mobile are Eating the World, Software is Reorganizing the World
 
