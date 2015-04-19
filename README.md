@@ -309,6 +309,17 @@ Companies, Financials
 *   [StockTwits](http://stocktwits.com)  
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 
+Unicorns
+*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+*   [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+*   [William Mougayar The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+*   [Hackpad Billion Dollar Valuations For Vintage Years 2003-2014](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+*   [OSV Research Unicorns, Startups, and Giants](http://osvresearch.com)  
+*   [The $6 Billion Opportunity](http://shaigoldman.com/2014/10/16/the-600b-opportunity) 
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
