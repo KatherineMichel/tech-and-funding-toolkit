@@ -501,10 +501,9 @@ Project Management
 *   [Slack](https://slack.com) 
 *   [Trello](https://trello.com)
 
-Testing, Reporting, Analytics
-*   [Crashlytics](http://try.crashlytics.com)
-*   [Mixpanel](https://mixpanel.com) 
-*   [Optimizely](https://www.optimizely.com)  
+Two Factor Authentication
+
+*   [Two Factor Authentication List](https://twofactorauth.org), [Facebook Two Factor Authentication](https://www.facebook.com/note.php?note_id=10150172618258920), [Google Two Factor Authentication](https://support.google.com/accounts/answer/180744?hl=en), [Twitter Two Factor Authentication](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub Two Factor Authentication](https://github.com/blog/1614-two-factor-authentication) 
 
 Google Office
 *   [Google Gmail](http://gmail.com)  
@@ -554,6 +553,11 @@ Hiring and Payroll
 *   [Lever](http://lever.co)  
 *   [Zenefits](http://www.zenefits.com)
 *   [ZenPayroll](https://zenpayroll.com) 
+
+Testing, Reporting, Analytics
+*   [Crashlytics](http://try.crashlytics.com)
+*   [Mixpanel](https://mixpanel.com) 
+*   [Optimizely](https://www.optimizely.com)  
 
 #### Other Enormous Tool Lists
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
