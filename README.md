@@ -31,6 +31,7 @@ Table of Contents
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
+- [Code](#code)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Metrics](#metrics)
 - [Sharing, Analytics, Ads, Cards, Video](#sharing-analytics-ads-cards-video)
@@ -525,6 +526,16 @@ Website Launch Checklist
 *   [Google Forms: About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
+
+#### Code
+
+Code Hosting
+*   [GitHub](https://github.com/github)
+*   [Google Code](http://code.google.com)
+
+Code Search
+*   [Search Code](https://searchcode.com)  
+*   [Nerdy Data](http://nerdydata.com)  
 
 #### Notable Proposals and Pitch Decks
 
