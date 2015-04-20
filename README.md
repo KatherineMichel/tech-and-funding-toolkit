@@ -149,7 +149,7 @@ VC Firm Resources
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [KPCB](http://www.kpcb.com), [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
 *   [Sequoia Capital](http://www.sequoiacap.com) 
-*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [AVC MBA Mondays](http://www.avc.com/a_vc/mba-mondays)
+*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](hhttp://avc.com/archive/#mba_mondays_archive)
 
 Accelerator Resources
 *   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
