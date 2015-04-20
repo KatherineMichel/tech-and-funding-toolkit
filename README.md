@@ -139,6 +139,7 @@ Table of Contents
 
 Lists of VC Firms and Accelerators
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
+*   [Angelist Syndicates](https://angel.co/syndicates) and [Angelist Investing](https://angel.co/investing)
 
 VC Firm Resources
 *   [A16Z](http://a16z.com), [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
@@ -171,6 +172,7 @@ Accelerator Resources
 
 #### Company and Product Databases
 
+Databases
 *   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [Angelist API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [Betalist](http://betalist.com)  
 *   [CB Insights](https://www.cbinsights.com), [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights)  
@@ -179,6 +181,14 @@ Accelerator Resources
 *   [GitHub Explore](https://github.com/explore) 
 *   [Mattermark](http://mattermark.com) and [Mattermark Slideshare](http://www.slideshare.net/Mattermark)        
 *   [Product Hunt](http://www.producthunt.com), [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+
+Database Info and Benchmarking
+*   [Angelist Markets](https://angel.co/markets), [Angelist Companies](https://angel.co/companies), [Angelist Trending](https://angel.co/companies/trending), [Angelist Valuations](https://angel.co/valuations), and [Angelist Salaries](https://angel.co/salaries)
+*   [Betalist Markets](http://betalist.com/markets)
+*   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph) and [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
+*   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
+*   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking) and [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
+*   [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 
 App Stores
 *   [Apple Store](http://store.apple.com/us)  
