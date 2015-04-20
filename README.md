@@ -1,6 +1,6 @@
 Tech and Venture Capital Toolkit
 ====================
-Curated list of high quality resources
+Curated list of high quality resources, mostly free
 
 Table of Contents
 -----------------
@@ -44,11 +44,13 @@ Table of Contents
 *   [Albert Wenger](http://continuations.com)
 *   [Andrew Chen](http://andrewchen.co/list-of-essays)
 *   [Ben Horowitz](http://www.bhorowitz.com)  
+*   [Bijan Sabet](http://bijansabet.com)
 *   [Bill Gurley](http://abovethecrowd.com)
 *   [Brad Feld](http://www.feld.com)
 *   [Bubba Murarka](http://bubba.vc)
 *   [Jason Calacanis](http://calacanis.com)
 *   [Charles Hudson](http://www.charleshudson.net) 
+*   [Charlie O'Donnell](http://www.thisisgoingtobebig.com) 
 *   [Chris Dixon](http://cdixon.org)   
 *   [Chris Sacca via Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca: Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
 *   [Dave McClure Medium](https://medium.com/@davemcclure)and [Dave McClure: Old Blog](http://500hats.com)
@@ -100,6 +102,7 @@ Table of Contents
 *   [Jeff Atwood](http://blog.codinghorror.com)
 *   [Jeff Jarvis](http://buzzmachine.com) 
 *   [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
+*   [Joel Spolsky](http://www.joelonsoftware.com)
 *   [John Battelle](http://battellemedia.com)   
 *   [John Gruber](http://daringfireball.net)   
 *   [John Resig](http://ejohn.org/blog) 
@@ -331,6 +334,7 @@ Regulatory Agencies
 *   [Federal Aviation Administration](http://www.faa.gov)  
 *   [Federal Drug Administration](http://www.fda.gov)  
 *   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
+*   [Financial Accounting Standards Board](http://www.fasb.org)
 *   [Internal Revenue Service](http://www.irs.gov)
 *   [Securities and Exchange Commission](http://www.sec.gov)
 *   [Small Business Administration](http://www.sba.gov) 
@@ -383,6 +387,7 @@ Unicorns
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
+*   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) 
@@ -650,8 +655,10 @@ Payments
 
 Hiring and Payroll
 *   [Lever](http://lever.co)  
-*   [Zenefits](http://www.zenefits.com)
+*   [Jobvite](http://www.jobvite.com)
+*   [QuickBooks](http://quickbooks.intuit.com)
 *   [ZenPayroll](https://zenpayroll.com) 
+*   [Zenefits](http://www.zenefits.com)
 
 Testing, Reporting, Analytics
 *   [Crashlytics](http://try.crashlytics.com)
