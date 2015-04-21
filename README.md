@@ -43,7 +43,7 @@ Table of Contents
 #### Venture Capitalists 
 
 *   [Albert Wenger](http://continuations.com)
-*   [Andrew Chen](http://andrewchen.co/list-of-essays)
+*   [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent)
 *   [Ben Horowitz](http://www.bhorowitz.com)  
 *   [Bijan Sabet](http://bijansabet.com/archive)
 *   [Bill Gurley](http://abovethecrowd.com/archives)
@@ -53,13 +53,13 @@ Table of Contents
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Charlie O'Donnell](http://www.thisisgoingtobebig.com) 
 *   [Chris Dixon](http://cdixon.org)   
-*   [Chris Sacca via Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca: Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
-*   [Dave McClure Medium](https://medium.com/@davemcclure)and [Dave McClure: Old Blog](http://500hats.com)
-*   [Fred Wilson](http://www.avc.com) 
+*   [Chris Sacca via Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
+*   [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
+*   [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
 *   [Hunter Walk](http://hunterwalk.com)  
 *   [Jason Calcanis](http://calacanis.com)
 *   [Jeff Jordan](http://jeff.a16z.com)  
-*   [Marc Andreessen](http://blog.pmarca.com), [Marc Andreessen: Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen: Another Old Blog](http://pmarchive.com) and [Marc Andreessen: Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
+*   [Marc Andreessen](http://blog.pmarca.com), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com) and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
 *   [Mark Suster](http://www.bothsidesofthetable.com) and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
 *   [M.G. Siegler](http://parislemon.com) 
 *   [Naveen Selvadurai](http://x.naveen.com)
@@ -151,7 +151,7 @@ VC Firm Resources
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [KPCB](http://www.kpcb.com), [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
 *   [Sequoia Capital](http://www.sequoiacap.com) 
-*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
+*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
 
 Accelerator Resources
 *   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
