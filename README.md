@@ -178,7 +178,7 @@ Databases
 *   [Angelist](https://angel.co), [Angelist U.K.](https://angel.co/uk), [Angelist API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [Betalist](http://betalist.com)  
 *   [CB Insights](https://www.cbinsights.com), [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights)  
-*   [CrunchBase](http://www.crunchbase.com) and [CrunchBase API](https://developer.crunchbase.com)
+*   [CrunchBase](http://www.crunchbase.com), [CrunchBase Sitemap](https://www.crunchbase.com/sitemap), and [CrunchBase API](https://developer.crunchbase.com)
 *   [Datafox](http://www.datafox.co), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [GitHub Explore](https://github.com/explore) 
 *   [Mattermark](http://mattermark.com) and [Mattermark Slideshare](http://www.slideshare.net/Mattermark)        
@@ -262,6 +262,7 @@ Google and TED Talks
 Coding and Math 
 *   [Codecademy](http://www.codecademy.com) 
 *   [Khan Academy](https://www.khanacademy.org)  
+*   [Skillshare](http://www.skillshare.com/classes)
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 
 #### Research
@@ -287,8 +288,9 @@ Development
 
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+*   [Google Books](hhttps://books.google.com)
 *   [Google Scholar](https://scholar.google.com)
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
 Surveys
 *   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
