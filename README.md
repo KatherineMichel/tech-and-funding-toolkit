@@ -42,18 +42,18 @@ Table of Contents
 
 #### Venture Capitalists 
 
-*   [Albert Wenger](http://continuations.com)
+*   [Albert Wenger](http://continuations.com), [Albert Wenger Archive](http://continuations.com/archive), and [Albert Wenger Tech Tuesday](http://continuations.com/tagged/tech-tuesday)
 *   [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent)
 *   [Ben Horowitz](http://www.bhorowitz.com)  
-*   [Bijan Sabet](http://bijansabet.com/archive)
-*   [Bill Gurley](http://abovethecrowd.com/archives)
+*   [Bijan Sabet Archive](http://bijansabet.com/archive)
+*   [Bill Gurley Archives](http://abovethecrowd.com/archives)
 *   [Brad Feld](http://www.feld.com) and [Brad Feld Archive](http://www.feld.com/archive)
 *   [Bubba Murarka](http://bubba.vc)
 *   [Jason Calacanis](http://calacanis.com)
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Charlie O'Donnell](http://www.thisisgoingtobebig.com) 
 *   [Chris Dixon](http://cdixon.org)   
-*   [Chris Sacca via Lowercase Capital](http://lowercasecapital.com) and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
+*   [Chris Sacca via Lowercase Capital](http://lowercasecapital.com/cables), [Lowercase Creed](http://lowercasecapital.com/creed), [Lowercase Prospecting](http://lowercasecapital.com/prospecting), and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
 *   [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
 *   [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
 *   [Hunter Walk](http://hunterwalk.com)  
