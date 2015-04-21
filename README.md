@@ -334,6 +334,7 @@ Corporate Law
 *   [Internal Revenue Service: Tax Information for Busineses](http://www.irs.gov/Businesses)
 *   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
 *   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
+*   [Benefitcorp Website](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
 
 Delaware
 *   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
@@ -354,6 +355,7 @@ Regulatory Agencies
 *   [Small Business Administration](http://www.sba.gov) 
 
 Companies, Financials
+*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
 *   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
 *   [PitchBook](http://blog.pitchbook.com) 
 *   [Bloomberg](http://www.bloomberg.com)  
