@@ -128,7 +128,7 @@ Table of Contents
 *   [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
 *   [Shane Parrish (Farnam Street Blog)](http://www.farnamstreetblog.com) 
 *   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
-*   [Startup L. Jackson](http://startupljackson.com)  
+*   [Startup L. Jackson Archive](http://startupljackson.com/archive)  
 *   [Steve Blank](http://steveblank.com), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 *   [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
