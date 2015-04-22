@@ -399,6 +399,7 @@ Unicorns
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Chris Dixon: Startup School Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
+*   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 *   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
