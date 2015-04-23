@@ -446,6 +446,7 @@ Unicorns
 *   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
 *   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
 *   [Clay Christensen: Attacker's Advantage](hhttp://www.sciencedirect.com/science/article/pii/004873339300764K)  
+*   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
 
 #### Idea State Machine and Idea Maze
 
