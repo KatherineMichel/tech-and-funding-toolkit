@@ -72,8 +72,9 @@ Table of Contents
 *   [Scott Weiss Archive](http://scott.a16z.com/archive)
 *   [Semil Shah Archive](http://blog.semilshah.com/archive)
 *   [Steven Sinofsky](http://blog.learningbyshipping.com)
-*   [Tomasz Tunguz](http://www.tomtunguz.com)
+*   [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), and [Tomasz Tunguz Old Blog (Ex Post Facto)](http://www.tomtunguz.com)
 
+https://ttunguz.wordpress.com
 #### Tech Analysts, Thought Leaders
 
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
