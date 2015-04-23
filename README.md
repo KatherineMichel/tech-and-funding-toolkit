@@ -235,6 +235,7 @@ Aggregated, Curated News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Inside Top](https://www.inside.com/top)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
 *   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
@@ -335,20 +336,24 @@ MOOCs
 
 Corporate Law
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
-*   [Internal Revenue Service: Tax Information for Busineses](http://www.irs.gov/Businesses)
+*   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
 *   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
+*   [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) and [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
 *   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
-*   [Benefitcorp Website](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
+*   [Benefitcorp](http://benefitcorp.net) 
+*   [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
 
 Delaware
 *   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
 *   [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
+*   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
+*   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
 Securities and Exchange Commission (SEC)
 *   [EDGAR About](http://www.sec.gov/edgar.shtml) and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
 *   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
 
-Regulatory Agencies
+Regulatory Agencies and Rules
 *   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
 *   [Federal Aviation Administration](http://www.faa.gov)  
 *   [Federal Drug Administration](http://www.fda.gov)  
@@ -357,6 +362,7 @@ Regulatory Agencies
 *   [Internal Revenue Service](http://www.irs.gov)
 *   [Securities and Exchange Commission](http://www.sec.gov)
 *   [Small Business Administration](http://www.sba.gov) 
+*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
 Companies, Financials
 *   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
@@ -372,6 +378,9 @@ Companies, Financials
 *   [PricewaterhouseCoopers](http://www.pwc.com) 
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+
+Investor Vocab
+*   [Investor Words](http://www.investorwords.com)
 
 Unicorns
 *   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
