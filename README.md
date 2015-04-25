@@ -416,7 +416,7 @@ Unicorns
 
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
-*   [Chris Dixon: Startup School Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
+*   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
@@ -427,6 +427,7 @@ Unicorns
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
+*   [Peter Thiel: Secrets](http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes) and [Tomasz Tunguz: Startup Judo](http://tomtunguz.com/startup-judo-the-secrets-you-should-know-before-starting-a-company)
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) 
@@ -457,7 +458,7 @@ Unicorns
 *   [Clay Christensen: Attacker's Advantage](hhttp://www.sciencedirect.com/science/article/pii/004873339300764K)  
 *   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
 
-#### Tomasz Tunguz Tools
+#### Startup Tools: Tomasz Tunguz
 *   [SaaS Category](http://tomtunguz.com/categories/saas)
 *   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
 *   [Financial Planning for Startups](ttp://tomtunguz.com/financial-planning-for-startups)
