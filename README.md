@@ -322,7 +322,7 @@ MOOCs
 *   [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance)
 
 Course Builders
-*   [Google Course Build](https://code.google.com/p/course-builder)
+*   [Google Course Builder](https://code.google.com/p/course-builder)
 
 #### Events Lists
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
@@ -401,6 +401,8 @@ Unicorns
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
 *   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
 *   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)  
+*   [The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
+*   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 
 #### Software and Mobile are Eating the World, Software is Reorganizing the World
@@ -418,7 +420,6 @@ Unicorns
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
-*   [John Boyd via Tomasz Tunguz](http://tomtunguz.com/ooda), [Organization Climate](http://en.wikipedia.org/wiki/Organisation_climate), [OODA](http://en.wikipedia.org/wiki/OODA_loop )
 *   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 *   [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 *   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
@@ -426,9 +427,7 @@ Unicorns
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
-*   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
-*   [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox)
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) 
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
@@ -440,12 +439,13 @@ Unicorns
 *   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
 *   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 *   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+*   [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
 *   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 *   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
 *   [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
 *   [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com) and [Strategyzer](https://strategyzer.com)
-*   [Alex Osterwalder: Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
-*   [Alex Osterwalder: Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
+*   [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
+*   [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
 *   [Business Model Fiddle](http://bmfiddle.com)
 
 #### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
@@ -456,6 +456,23 @@ Unicorns
 *   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
 *   [Clay Christensen: Attacker's Advantage](hhttp://www.sciencedirect.com/science/article/pii/004873339300764K)  
 *   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
+
+#### Tomasz Tunguz Tools
+*   [SaaS Category](http://tomtunguz.com/categories/saas)
+*   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
+*   [Financial Planning for Startups](ttp://tomtunguz.com/financial-planning-for-startups)
+*   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
+*   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
+*   [Hypothesis Testing](http://en.wikipedia.org/wiki/Hypothesis)
+*   [John Boyd Military Strategy via Tomasz Tunguz](http://tomtunguz.com/ooda), [Organization Climate](http://en.wikipedia.org/wiki/Organisation_climate), [OODA](http://en.wikipedia.org/wiki/OODA_loop )
+*   [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
+*   [Parkinson's Law](http://tomtunguz.com/the-bike-rack-effect), [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law_of_triviality), and [Parkinson's Law Book](http://www.amazon.com/Parkinsons-Law-C-Northcote-Parkinson/dp/1568490151/ref=sr_1_1?ie=UTF8&qid=1358799355&sr=8-1&keywords=parkinson%27s+law)
+*   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
+*   [Quick And Dirty Product/Market Fit Validation: Can You Hit Your Quota?](http://tomtunguz.com/quick-idea-validation)
+*   [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
+*   [Three Minute Technique used by IDEO and Stanford d.School](http://tomtunguz.com/three-minutes) 
+*   ["Toothbrush Test"](http://tomtunguz.com/best-metric)
+*   ["Using Price & Demand Curves To Inform Startup Product Roadmaps"](http://tomtunguz.com/price-demand-curves-pmf)
 
 #### Idea State Machine and Idea Maze
 
@@ -581,7 +598,7 @@ Code Search
 
 #### Metrics
 
-*   [How Google Sets Goals Objectives and Key Results OKRs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
 
