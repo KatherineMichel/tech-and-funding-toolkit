@@ -257,8 +257,9 @@ MOOCs
 *   [NovoEd](https://novoed.com)  
 *   [University of Reddit](http://universityofreddit.com) 
 
-Google and TED Talks
+Google, Google Tech, and TED Talks
 *   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
+*   [Google Tech Talks](hhttps://www.youtube.com/user/GoogleTechTalks) 
 *   [TED Talks](http://www.ted.com/talks)  
 
 Coding and Math 
@@ -400,8 +401,9 @@ Unicorns
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
 *   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
-*   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)  
-*   [The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
+*   [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
+*   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
+*   [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 
@@ -415,6 +417,7 @@ Unicorns
 #### Philosophies, Milestones
 
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
+*   [Buckminster Fuller "worldwide technological revolution" Prediction via Tomasz Tunguz](http://tomtunguz.com/forty-seven-year-prediction) 
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
@@ -460,19 +463,24 @@ Unicorns
 
 #### Startup Tools: Tomasz Tunguz
 *   [SaaS Category](http://tomtunguz.com/categories/saas)
+*   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
 *   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
-*   [Financial Planning for Startups](ttp://tomtunguz.com/financial-planning-for-startups)
+*   [Financial Planning for Startups](ttp://tomtunguz.com/financial-planning-for-startups) and [The Board Plan and the Stretch Plan](http://tomtunguz.com/predictability-and-ambition)
 *   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
+*   [Holacracy: "Should Your Startup Adopt a New Management Style?"](http://tomtunguz.com/holacracy) and [Holacracy.com](http://holacracy.org)
 *   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
 *   [Hypothesis Testing](http://en.wikipedia.org/wiki/Hypothesis)
 *   [John Boyd Military Strategy via Tomasz Tunguz](http://tomtunguz.com/ooda), [Organization Climate](http://en.wikipedia.org/wiki/Organisation_climate), [OODA](http://en.wikipedia.org/wiki/OODA_loop )
 *   [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
+*   [On on Ones](http://tomtunguz.com/one-on-ones)
 *   [Parkinson's Law](http://tomtunguz.com/the-bike-rack-effect), [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law_of_triviality), and [Parkinson's Law Book](http://www.amazon.com/Parkinsons-Law-C-Northcote-Parkinson/dp/1568490151/ref=sr_1_1?ie=UTF8&qid=1358799355&sr=8-1&keywords=parkinson%27s+law)
+*   [Pitches: "The 7 Questions A Startup Should Answer in their Fund Raising Pitch"](http://tomtunguz.com/pitch-deck) and [Framing Your Startup’s Sales Pitch; Focus on Value, Not on Cost](http://tomtunguz.com/software-efficiency-pitches)
 *   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
 *   [Quick And Dirty Product/Market Fit Validation: Can You Hit Your Quota?](http://tomtunguz.com/quick-idea-validation)
 *   [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
 *   [Three Minute Technique used by IDEO and Stanford d.School](http://tomtunguz.com/three-minutes) 
 *   ["Toothbrush Test"](http://tomtunguz.com/best-metric)
+*   [Usability Lab](http://tomtunguz.com/usability-lab)
 *   ["Using Price & Demand Curves To Inform Startup Product Roadmaps"](http://tomtunguz.com/price-demand-curves-pmf)
 
 #### Idea State Machine and Idea Maze
