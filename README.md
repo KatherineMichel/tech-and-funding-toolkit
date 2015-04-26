@@ -262,7 +262,7 @@ MOOCs
 
 Google, Google Tech, and TED Talks
 *   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
-*   [Google Tech Talks](hhttps://www.youtube.com/user/GoogleTechTalks) 
+*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks) 
 *   [TED Talks](http://www.ted.com/talks)  
 
 Coding and Math 
@@ -273,6 +273,7 @@ Coding and Math
 
 Shows
 *   [This Week in Startups](http://thisweekinstartups.com), 
+
 #### Research
 
 Wikipedia
@@ -302,7 +303,7 @@ Development
 
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
-*   [Google Books](hhttps://books.google.com)
+*   [Google Books](https://books.google.com)
 *   [Google Scholar](https://scholar.google.com)
 *   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
@@ -473,7 +474,7 @@ Unicorns
 *   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
 *   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
 *   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
-*   [Clay Christensen: Attacker's Advantage](hhttp://www.sciencedirect.com/science/article/pii/004873339300764K)  
+*   [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
 *   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
 
 #### Startup Tools: Tomasz Tunguz
@@ -487,7 +488,7 @@ Unicorns
 *   [Eliot Schmuckler: Working Backwards](http://tomtunguz.com/working-backwards) and [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
 *   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
 *   [Evidence Based Scheduling](http://tomtunguz.com/engineering-predictability), [Joel Spolsky's Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html), and [Monte Carlo Simulation Wikipedia](http://en.wikipedia.org/wiki/Monte_Carlo_method)
-*   [Financial Planning for Startups](ttp://tomtunguz.com/financial-planning-for-startups) and [The Board Plan and the Stretch Plan](http://tomtunguz.com/predictability-and-ambition)
+*   [Financial Planning for Startups](http://tomtunguz.com/financial-planning-for-startups) and [The Board Plan and the Stretch Plan](http://tomtunguz.com/predictability-and-ambition)
 *   [Fogg Behavior Model](http://tomtunguz.com/great-products-turn-motivation-into-capability) and [Fogg Behaviour Model Website](http://www.behaviormodel.org)
 *   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
 *   [Holacracy: "Should Your Startup Adopt a New Management Style?"](http://tomtunguz.com/holacracy) and [Holacracy.com](http://holacracy.org)
@@ -507,6 +508,7 @@ Unicorns
 *   [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
 *   [Scientific Method vs. Inverted Pyramid](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
 *   [Startup Research and Sociology](http://tomtunguz.com/the-value-of-startup-research)
+*   [Steven Covey: Prioritization Matrix](http://tomtunguz.com/urgent-vs-important)
 *   [Three Minute Technique used by IDEO and Stanford d.School](http://tomtunguz.com/three-minutes) 
 *   ["Toothbrush Test"](http://tomtunguz.com/best-metric)
 *   [Usability Lab](http://tomtunguz.com/usability-lab)
