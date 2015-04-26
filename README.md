@@ -432,6 +432,7 @@ Unicorns
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
+*   [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
 *   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 *   [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 *   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
@@ -475,16 +476,20 @@ Unicorns
 
 #### Startup Tools: Tomasz Tunguz
 *   [SaaS Category](http://tomtunguz.com/categories/saas)
+*   [Anticipatory Computing: The Next Big Thing Is Enabling Laziness](http://tomtunguz.com/iot-and-laziness)
 *   [Bullet Journal](http://www.bulletjournal.com)
 *   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
+*   [Creativity Wikipedia](http://en.wikipedia.org/wiki/Creativity)
 *   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
 *   [Evidence Based Scheduling](http://tomtunguz.com/engineering-predictability), [Joel Spolsky's Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html), and [Monte Carlo Simulation Wikipedia](http://en.wikipedia.org/wiki/Monte_Carlo_method)
 *   [Financial Planning for Startups](ttp://tomtunguz.com/financial-planning-for-startups) and [The Board Plan and the Stretch Plan](http://tomtunguz.com/predictability-and-ambition)
+*   [Fogg Behavior Model](http://tomtunguz.com/great-products-turn-motivation-into-capability) and [Fogg Behaviour Model Website](http://www.behaviormodel.org)
 *   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
 *   [Holacracy: "Should Your Startup Adopt a New Management Style?"](http://tomtunguz.com/holacracy) and [Holacracy.com](http://holacracy.org)
 *   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
 *   [Hypothesis Testing](http://en.wikipedia.org/wiki/Hypothesis)
 *   [John Boyd Military Strategy via Tomasz Tunguz](http://tomtunguz.com/ooda), [Organization Climate](http://en.wikipedia.org/wiki/Organisation_climate), [OODA](http://en.wikipedia.org/wiki/OODA_loop )
+*   [Linear vs. Compounding/Exponential Growth](http://tomtunguz.com/the-path-to-exponential-growth)
 *   [Maximizing the Value of Investor Referrals](http://tomtunguz.com/investor-referrals)
 *   [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
 *   [One on Ones](http://tomtunguz.com/one-on-ones)
