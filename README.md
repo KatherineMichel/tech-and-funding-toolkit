@@ -271,6 +271,8 @@ Coding and Math
 *   [Skillshare](http://www.skillshare.com/classes)
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 
+Shows
+*   [This Week in Startups](http://thisweekinstartups.com), 
 #### Research
 
 Wikipedia
@@ -488,7 +490,7 @@ Unicorns
 *   [One on Ones](http://tomtunguz.com/one-on-ones)
 *   [Parkinson's Law](http://tomtunguz.com/the-bike-rack-effect), [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law_of_triviality), and [Parkinson's Law Book](http://www.amazon.com/Parkinsons-Law-C-Northcote-Parkinson/dp/1568490151/ref=sr_1_1?ie=UTF8&qid=1358799355&sr=8-1&keywords=parkinson%27s+law)
 *   [Peter Drucker: The Myth of the Generalist from Drucker’s Effective Executive](http://tomtunguz.com/the-myth-of-the-generalist)
-*   [Pitches: "The 7 Questions A Startup Should Answer in their Fund Raising Pitch"](http://tomtunguz.com/pitch-deck) and [Framing Your Startup’s Sales Pitch; Focus on Value, Not on Cost](http://tomtunguz.com/software-efficiency-pitches)
+*   [Pitches: "The 7 Questions A Startup Should Answer in their Fund Raising Pitch"](http://tomtunguz.com/pitch-deck), [Framing Your Startup’s Sales Pitch; Focus on Value, Not on Cost](http://tomtunguz.com/software-efficiency-pitches), and [The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability)
 *   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
 *   [Quick And Dirty Product/Market Fit Validation: Can You Hit Your Quota?](http://tomtunguz.com/quick-idea-validation)
 *   [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
