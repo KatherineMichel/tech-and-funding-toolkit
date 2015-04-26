@@ -285,9 +285,12 @@ Analyst Groups
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
 
+Management Consulting Firms
+*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
+
 Think Tanks
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
-*   
+
 Development
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
 *   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
@@ -587,6 +590,9 @@ Website Launch Checklist
 *   [Google Ventures Design Sprint](http://www.gv.com/sprint), [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage), and [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
 *   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5) 
 
+Thoughtbot Version
+*   [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint), and [Design sprint Book](http://www.designsprintbook.com)
+
 #### Google Ventures Research and Design Sprint Supporting Docs
 
 *   [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
@@ -689,6 +695,10 @@ Medium
 *   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
 
 #### Popular Tools
+
+Project Management Associations
+*   [Association for Project Management](http://www.apm.org.uk/)  
+*   [Project Management Institute](http://www.pmi.org/) 
 
 Project Management
 *   [Asana](https://asana.com) and [Instagantt](http://instagantt.com)
