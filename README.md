@@ -60,6 +60,7 @@ Table of Contents
 *   [Hunter Walk](http://hunterwalk.com)  
 *   [Jason Calcanis](http://calacanis.com)
 *   [Jeff Jordan Archives](http://jeff.a16z.com/archives)  
+*   [John Lilly Slideshare](http://www.slideshare.net/johnolilly)
 *   [Marc Andreessen Archive](http://blog.pmarca.com/archive), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
 *   [Mark Suster](http://www.bothsidesofthetable.com), [Mark Suster Archive](http://www.bothsidesofthetable.com/archive), and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
 *   [M.G. Siegler Archive](http://parislemon.com/archive) 
@@ -72,7 +73,7 @@ Table of Contents
 *   [Scott Weiss Archive](http://scott.a16z.com/archive)
 *   [Semil Shah Archive](http://blog.semilshah.com/archive)
 *   [Steven Sinofsky](http://blog.learningbyshipping.com)
-*   [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), and [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com)
+*   [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 
 #### Tech Analysts, Thought Leaders
 
@@ -96,8 +97,9 @@ Table of Contents
 *   [Doc Searls](http://blogs.law.harvard.edu/doc) 
 *   [Edward Tufte](http://www.edwardtufte.com) 
 *   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
-*   [Ev Williams Medium](https://medium.com/@ev) 
-*   [Guy Kawasaki Slideshare](http://www.slideshare.net/GKawasaki) 
+*   [Eric Schmidt](http://www.slideshare.net/ericschmidt)
+*   Ev Williams Medium](https://medium.com/@ev) 
+*   [Guy Kawasaki Slideshare](http://www.slideshare.net/GKawasaki) and [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
 *   [Hiten Shah](http://hitenism.com) 
 *   [Horace Dediu](http://www.asymco.com) 
 *   [Jay Rosen](http://pressthink.org)   
@@ -126,7 +128,7 @@ Table of Contents
 *   [Rick Klau Medium](https://medium.com/@rklau)
 *   [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
 *   [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
-*   [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
+*   [Sean Ellis Slideshare](http://www.slideshare.net/seanellis) and [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
 *   [Shane Parrish (Farnam Street Blog)](http://www.farnamstreetblog.com) 
 *   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
 *   [Startup L. Jackson Archive](http://startupljackson.com/archive)  
@@ -134,7 +136,7 @@ Table of Contents
 *   [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 *   [Tren Griffin](http://25iq.com)
-*   [Vala Afshar Twitter](https://twitter.com/ValaAfshar)
+*   [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
 *   [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
@@ -421,6 +423,7 @@ Unicorns
 *   [Buckminster Fuller "worldwide technological revolution" Prediction via Tomasz Tunguz](http://tomtunguz.com/forty-seven-year-prediction) 
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
+*   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
