@@ -1,6 +1,6 @@
 Tech and Venture Capital Toolkit
 ====================
-Curated list of high quality resources, mostly free
+Curated List of High Quality Resources, Mostly Free
 
 Table of Contents
 -----------------
