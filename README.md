@@ -164,8 +164,9 @@ Accelerator Resources
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
-*   [YCombinator](http://ycombinator.com)
-
+*   [True University](http://trueuniversity.com) 
+*   [YCombinator](http://ycombinator.com), [YCombinator RFS](http://www.ycombinator.com/rfs), and [YCombinator Handshake](http://www.ycombinator.com/handshake) 
+  
 #### Government Funding
 
 *   [Federal Business Opportunities](https://www.fbo.gov)  
@@ -369,8 +370,11 @@ Transaction Services
 *   [Fortis](http://fortisrep.com) 
 
 Securities and Exchange Commission (SEC)
-*   [EDGAR About](http://www.sec.gov/edgar.shtml) and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
+*   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
 *   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
+*   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
+*   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
+*   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
 
 Regulatory Agencies and Rules
 *   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
@@ -418,6 +422,12 @@ Convertible Bonds and Securities
 *   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
 *   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
 
+500 Startups, Tech Stars, and YCombinator Docs/RFS
+*   [500 Startups Keep It Simple Security](http://500.co/kiss)  
+*   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+*   [YCombinator Library](http://ycombinator.com/lib.html)  
+*   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents)  
+ 
 Cap Tables
 *   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table)  
 *   [Captable.io](https://captable.io)  
@@ -600,6 +610,8 @@ Design Schools and Philosophies
 
 Responsive Design
 *   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+Responsive Design and Examples, Media Queries
+*   [Responsive Design Examples](http://mediaqueri.es)  
 
 GitHub Styleguide
 *   [Styleguide GitHub](https://github.com/styleguide) 
