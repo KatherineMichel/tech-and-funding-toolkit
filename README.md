@@ -18,6 +18,7 @@ Table of Contents
 - [Books and Courses](#books-and-courses)
 - [Events Lists](#events-lists)
 - [Regulatory Agencies, Companies and Financials](#regulatory-agencies-companies-and-financials)
+- [Documents](#documents)
 - [Venture Analysis](#venture-analysis)
 - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Philosophies, Milestones](#philosophies-milestones)
@@ -410,6 +411,17 @@ Unicorns
 *   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
 *   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+#### Documents
+
+Convertible Bonds and Securities
+*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
+*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
+
+Cap Tables
+*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table)  
+*   [Captable.io](https://captable.io)  
+*   [Eshares Inc](https://www.esharesinc.com)
 
 #### Venture Analysis
 
