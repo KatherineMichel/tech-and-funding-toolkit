@@ -173,8 +173,13 @@ Accelerator Resources
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
 *   [True University](http://trueuniversity.com) 
-*   [YCombinator](http://ycombinator.com), [YCombinator RFS](http://www.ycombinator.com/rfs), and [YCombinator Handshake](http://www.ycombinator.com/handshake) 
+*   [YCombinator](http://ycombinator.com) and [YCombinator Handshake](http://www.ycombinator.com/handshake) 
   
+RFS and Trends
+*   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
+*   [What We're Curious About at Homebrew](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
+*   [YCombinator RFS](http://www.ycombinator.com/rfs), 
+
 #### Government Funding
 
 *   [Federal Business Opportunities](https://www.fbo.gov)  
