@@ -362,6 +362,9 @@ Delaware
 *   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
 *   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
+Transaction Services
+*   [Fortis](http://fortisrep.com) 
+
 Securities and Exchange Commission (SEC)
 *   [EDGAR About](http://www.sec.gov/edgar.shtml) and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
 *   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
@@ -539,7 +542,8 @@ Photoshop and Gimp
 *   [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
  
 Prototyping Software
-*   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle](http://keynotopia.com/keynotopia-super-bundle)  
+*   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+*   [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
 *   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
  
 Bootstrap, Font Awesome, Foundation
@@ -639,11 +643,10 @@ Code Search
 *   [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
 *   [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
 
-#### Metrics
+#### Launch Strategies
 
-*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+Epic
+*   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
 
 #### Sharing, Analytics, Ads, Cards, Video
 
