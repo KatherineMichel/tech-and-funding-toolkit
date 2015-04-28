@@ -34,6 +34,7 @@ Table of Contents
 - [Code](#code)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Metrics](#metrics)
+- [Launch Strategies](#launch-strategies)
 - [Sharing, Analytics, Ads, Cards, Video](#sharing-analytics-ads-cards-video)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Startup Transparency Examples](#startup-transparency-examples)
