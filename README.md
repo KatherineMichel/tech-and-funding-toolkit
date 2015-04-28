@@ -512,6 +512,10 @@ Cap Tables
 *   [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
 *   [Business Model Fiddle](http://bmfiddle.com)
 
+Spinoffs
+*   [Lean Canvas](https://leanstack.com/LeanCanvas.pdf)  
+*   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
+
 #### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
 
 *   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
