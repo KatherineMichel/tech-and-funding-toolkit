@@ -144,9 +144,8 @@ Table of Contents
 
 #### VC, VC Firms and Accelerators
 
-VC
-*   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
 Venture Capital and How Funding Works
+*   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
 *   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
 *   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
@@ -773,7 +772,8 @@ Two Factor Authentication
 
 *   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
-Google Office
+Google Products, Office
+*   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
 *   [Google Gmail](http://gmail.com)  
 *   [Google Drive](https://www.google.com/drive) 
 *   [Google Docs](https://docs.google.com)  
