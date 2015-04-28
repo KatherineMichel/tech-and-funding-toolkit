@@ -7,7 +7,7 @@ Table of Contents
 
 - [Venture Capitalists](#venture-capitalists)
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
-- [VC Firms and Accelerators](#vc-firms-and-accelerators)
+- [VC, VC Firms and Accelerators](#vc-vc-firms-and-accelerators)
 - [Accelerators](#accelerators) 
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
@@ -142,7 +142,14 @@ Table of Contents
 *   [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
-#### VC Firms and Accelerators
+#### VC, VC Firms and Accelerators
+
+VC
+*   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
+Venture Capital and How Funding Works
+*   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
+*   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
+*   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
 
 Lists of VC Firms and Accelerators
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
