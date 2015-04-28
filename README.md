@@ -177,7 +177,8 @@ Accelerator Resources
   
 RFS and Trends
 *   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
-*   [What We're Curious About at Homebrew](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
+*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
+*   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs), 
 
 #### Government Funding
