@@ -159,9 +159,11 @@ VC Firm Resources
 *   [A16Z](http://a16z.com), [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [Expa](http://expa.com) and [Expa Portfolio](http://expa.com/#portfolio)
 *   [First Round](http://firstround.com), [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), and [First Round Review](http://firstround.com/review)
+*   [Founders Club Learn](https://fundersclub.com/learn)  
 *   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [KPCB](http://www.kpcb.com), [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
+*   [Next View Ventures Blog](http://nextviewventures.com/blog) 
 *   [Sequoia Capital](http://www.sequoiacap.com) 
 *   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
 
