@@ -276,6 +276,7 @@ Coding and Math
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 
 Shows
+*   [Heart Startup](http://hearstartup.com) 
 *   [This Week in Startups](http://thisweekinstartups.com), 
 
 #### Research
