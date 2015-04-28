@@ -43,7 +43,7 @@ Table of Contents
 #### Venture Capitalists 
 
 *   [Albert Wenger](http://continuations.com), [Albert Wenger Archive](http://continuations.com/archive), and [Albert Wenger Tech Tuesday](http://continuations.com/tagged/tech-tuesday)
-*   [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent)
+*   [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent), [Andrew Chen Lecture Description](http://us5.campaign-archive2.com/?u=96c185f15d9646d8014b765b7&id=9707a51462&e=d7ca30ca7d)
 *   [Balaji Srinivasan A16Z](http://a16z.com/tag/balaji-s-srinivasan) and [Balaji Srinivasan Twitter](https://twitter.com/balajis) 
 *   [Ben Horowitz](http://www.bhorowitz.com)  
 *   [Bijan Sabet Archive](http://bijansabet.com/archive)
@@ -159,6 +159,7 @@ VC Firm Resources
 
 Accelerator Resources
 *   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
+*   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com)
@@ -432,6 +433,7 @@ Unicorns
 *   [Buckminster Fuller "worldwide technological revolution" Prediction via Tomasz Tunguz](http://tomtunguz.com/forty-seven-year-prediction) 
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
+*   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
