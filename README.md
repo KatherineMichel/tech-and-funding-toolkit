@@ -165,6 +165,7 @@ VC Firm Resources
 *   [KPCB](http://www.kpcb.com), [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
 *   [Next View Ventures Blog](http://nextviewventures.com/blog) 
 *   [Sequoia Capital](http://www.sequoiacap.com) 
+*   [True University](http://trueuniversity.com) 
 *   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
 
 Accelerator Resources
@@ -172,7 +173,6 @@ Accelerator Resources
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
-*   [True University](http://trueuniversity.com) 
 *   [YCombinator](http://ycombinator.com) and [YCombinator Handshake](http://www.ycombinator.com/handshake) 
   
 RFS and Trends
