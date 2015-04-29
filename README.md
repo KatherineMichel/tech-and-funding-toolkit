@@ -504,6 +504,7 @@ Notable Quotes
 *   [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
 *   [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
 *   [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
+*   [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
 *   [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 
 #### Lean Startup and Launchpad
