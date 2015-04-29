@@ -177,8 +177,8 @@ Accelerator Resources
   
 RFS and Trends
 *   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
-*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
+*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs), 
 
 #### Government Funding
@@ -468,7 +468,6 @@ Cap Tables
 #### Philosophies, Milestones
 
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
-*   [Buckminster Fuller "worldwide technological revolution" Prediction via Tomasz Tunguz](http://tomtunguz.com/forty-seven-year-prediction) 
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
@@ -484,7 +483,6 @@ Cap Tables
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-*   [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
 *   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [Peter Thiel: Secrets](http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes) and [Tomasz Tunguz: Startup Judo](http://tomtunguz.com/startup-judo-the-secrets-you-should-know-before-starting-a-company)
@@ -495,8 +493,18 @@ Cap Tables
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-*   [Wayne Gretzky: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 *   [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
+
+Notable Quotes
+*   [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
+*   [Doublas Adams via Chris Dixon: "I've Come up with a Set of Rule that Describe Our Reactions to Technologies](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
+*   [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
+*   [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
+*   [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
+*   [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
+*   [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
+*   [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
+*   [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 
 #### Lean Startup and Launchpad
 
