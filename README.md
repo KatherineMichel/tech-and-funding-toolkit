@@ -7,8 +7,7 @@ Table of Contents
 
 - [Venture Capitalists](#venture-capitalists)
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
-- [VC, VC Firms and Accelerators](#vc-vc-firms-and-accelerators)
-- [Accelerators](#accelerators) 
+- [VC, VC Firms, Accelerators, Resources](#vc-vc-firms-accelerators-resources)
 - [Government Funding](#government-funding)
 - [Company and Product Databases](#company-and-product-databases)
 - [App and Website Statistics](#app-and-website-statistics)
@@ -18,7 +17,6 @@ Table of Contents
 - [Books and Courses](#books-and-courses)
 - [Events Lists](#events-lists)
 - [Regulatory Agencies, Companies and Financials](#regulatory-agencies-companies-and-financials)
-- [Documents](#documents)
 - [Venture Analysis](#venture-analysis)
 - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Philosophies, Milestones](#philosophies-milestones)
@@ -37,6 +35,7 @@ Table of Contents
 - [Metrics](#metrics)
 - [Launch Strategies](#launch-strategies)
 - [Sharing, Analytics, Ads, Cards, Video](#sharing-analytics-ads-cards-video)
+- [Internationalization](#internationalization)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
@@ -147,7 +146,7 @@ Table of Contents
 *   [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
-#### VC, VC Firms and Accelerators
+#### VC, VC Firms, Accelerators, Resources
 
 Venture Capital and How Funding Works
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
@@ -188,6 +187,23 @@ RFS and Trends
 *   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
 *   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs), 
+
+Documents
+
+Convertible Bonds and Securities
+*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
+*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
+
+500 Startups, Tech Stars, and YCombinator Docs/RFS
+*   [500 Startups Keep It Simple Security](http://500.co/kiss)  
+*   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+*   [YCombinator Library](http://ycombinator.com/lib.html)  
+*   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents)  
+ 
+Cap Tables
+*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table)  
+*   [Captable.io](https://captable.io)  
+*   [Eshares Inc](https://www.esharesinc.com)
 
 #### Government Funding
 
@@ -441,23 +457,6 @@ Unicorns
 *   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
 *   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
-
-#### Documents
-
-Convertible Bonds and Securities
-*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
-*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
-
-500 Startups, Tech Stars, and YCombinator Docs/RFS
-*   [500 Startups Keep It Simple Security](http://500.co/kiss)  
-*   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
-*   [YCombinator Library](http://ycombinator.com/lib.html)  
-*   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents)  
- 
-Cap Tables
-*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table)  
-*   [Captable.io](https://captable.io)  
-*   [Eshares Inc](https://www.esharesinc.com)
 
 #### Venture Analysis
 
@@ -751,6 +750,14 @@ Social Media
 
 Amazon
 *   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+
+#### Internationalization
+
+*   [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
+*   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
+*   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
+*   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
+*   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 
 #### Growth, Marketing, and Content Resources
 
