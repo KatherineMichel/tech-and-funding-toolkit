@@ -458,6 +458,8 @@ Unicorns
 *   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
 
+*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
@@ -752,6 +754,8 @@ Amazon
 *   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 
 #### Internationalization
+
+*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
 
 *   [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
 *   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
