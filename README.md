@@ -160,18 +160,21 @@ Lists of VC Firms and Accelerators
 *   [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
 *   [Angelist Syndicates](https://angel.co/syndicates) and [Angelist Investing](https://angel.co/investing)
 
-VC Firm Resources
-*   [A16Z](http://a16z.com), [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
-*   [Expa](http://expa.com) and [Expa Portfolio](http://expa.com/#portfolio)
-*   [First Round](http://firstround.com), [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), and [First Round Review](http://firstround.com/review)
+Angel and VC Firm Resources
+*   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+*   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
+*   [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), and [First Round Review](http://firstround.com/review)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
-*   [Google Ventures](http://www.gv.com), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+*   [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+*   [IA Ventures Resources](http://resources.iaventures.com) 
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
-*   [KPCB](http://www.kpcb.com), [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
-*   [Next View Ventures Blog](http://nextviewventures.com/blog) 
-*   [Sequoia Capital](http://www.sequoiacap.com) 
+*   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
+*   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents) 
+*   [Next View Ventures Blog](http://nextviewventures.com/blog) and [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources) 
+*   [RRE Ventures: Update My VC](http://updatemyvc.com)  
+*   [SeriesSeed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+*   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
-*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
 
 Accelerator Resources
 *   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
@@ -212,7 +215,7 @@ Databases
 *   [Product Hunt](http://www.producthunt.com), [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
 Database Info and Benchmarking
-*   [Angelist Markets](https://angel.co/markets), [Angelist Companies](https://angel.co/companies), [Angelist Trending](https://angel.co/companies/trending), [Angelist Valuations](https://angel.co/valuations), and [Angelist Salaries](https://angel.co/salaries)
+*   [Angelist Markets](https://angel.co/markets), [Angelist Companies](https://angel.co/companies), [Angelist Trending](https://angel.co/companies/trending), [Angelist Valuations](https://angel.co/valuations), [Angelist Salaries](https://angel.co/salaries), and [Angelist Leads](https://angel.co/people/leads)
 *   [Betalist Markets](http://betalist.com/markets)
 *   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph) and [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 *   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
@@ -480,6 +483,7 @@ Cap Tables
 *   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
 *   [Chris Dixon: Climbing the Wrong Hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill) and [Hill Climbing: Wikipedia](http://en.wikipedia.org/wiki/Hill_climbing)
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
+*   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
 *   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
@@ -698,6 +702,7 @@ Thoughtbot Version
 *   [Google Forms: About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
+*   [Gamestorming](http://www.gamestorming.com)
 
 #### Code
 
@@ -724,6 +729,8 @@ Code Search
 
 Epic
 *   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
+
+*   [Amazon Example Press Release](http://aws.amazon.com/new) 
 
 #### Sharing, Analytics, Ads, Cards, Video
 
@@ -783,6 +790,8 @@ Digital Novel
 
 #### Startup Transparency Examples
 
+*   [Income Reports](http://www.incomereports.co)
+
 Buffer
 *   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
 *   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
@@ -793,8 +802,8 @@ Medium
 #### Popular Tools
 
 Project Management Associations
-*   [Association for Project Management](http://www.apm.org.uk/)  
-*   [Project Management Institute](http://www.pmi.org/) 
+*   [Association for Project Management](http://www.apm.org.uk)  
+*   [Project Management Institute](http://www.pmi.org) 
 
 Project Management
 *   [Asana](https://asana.com) and [Instagantt](http://instagantt.com)
