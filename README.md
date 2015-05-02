@@ -77,7 +77,7 @@ Table of Contents
 *   [Satya Patel](http://venturegeneratedcontent.com)
 *   [Scott Weiss Archive](http://scott.a16z.com/archive)
 *   [Semil Shah Archive](http://blog.semilshah.com/archive)
-*   [Steven Sinofsky](http://blog.learningbyshipping.com)
+*   [Steven Sinofsky](http://blog.learningbyshipping.com) and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
 *   [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 
 #### Tech Analysts, Thought Leaders
@@ -121,6 +121,7 @@ Table of Contents
 *   [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 *   [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)  
 *   [Louis Gray](http://blog.louisgray.com)
+*   [Luke Wroblewski](hhttp://www.lukew.com/ff?tag=mobile)
 *   [Marco Arment](http://www.marco.org)
 *   [Marshall Kirkpatrick](http://marshallk.com)
 *   [Matt Cutts](http://www.mattcutts.com/blog)   
@@ -735,9 +736,13 @@ Code Search
 
 #### Launch Strategies
 
+General
+[How Famoous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
+
 Epic
 *   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
 
+Example Press Release
 *   [Amazon Example Press Release](http://aws.amazon.com/new) 
 
 #### Sharing, Analytics, Ads, Cards, Video
