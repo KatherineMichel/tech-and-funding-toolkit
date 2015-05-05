@@ -27,6 +27,12 @@ Funding
 *   [A Unified Theory of VC Suckage](http://www.paulgraham.com/venturecapital.html)
 *   [Could VC be a Casualty of the Recession?](http://www.paulgraham.com/divergence.html)
 
+Ops
+*   [Hiring is Obsolete](hhttp://www.paulgraham.com/hiring.html)
+*   [The Equity Equation](http://www.paulgraham.com/equity.html)
+
+
+
 
 
 
