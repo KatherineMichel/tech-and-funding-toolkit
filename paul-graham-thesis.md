@@ -32,6 +32,11 @@ Founders
 *   [You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)
 *   [After the Ladder](http://www.paulgraham.com/ladder.html)
 
+Hacker
+*   [Hackers and Painters](http://www.paulgraham.com/hp.html)
+*   [Great Hackers](http://www.paulgraham.com/gh.html)
+*   [The Word "Hacker"](http://www.paulgraham.com/gba.html)
+
 Funding
 *   [How to Fund a Startups](http://www.paulgraham.com/startupfunding.html)
 *   [How to Raise Money](http://www.paulgraham.com/fr.html)
@@ -40,19 +45,14 @@ Funding
 *   [How to Present to Investors](http://www.paulgraham.com/investors.html)
 *   [How to Convince Investors](http://www.paulgraham.com/convince.html)
 *   [The Pooled-Risk Company Management Company](http://www.paulgraham.com/prcmc.html)
+*   [Investor Herd Dynamics](http://www.paulgraham.com/herd.html)
+*   [High Resolution Fundraising](http://www.paulgraham.com/hiresfund.html)
 
+Welth and Investors
 *   [How to Make Wealth](http://www.paulgraham.com/wealth.html)
 *   [How to Be an Angel Investor](http://www.paulgraham.com/angelinvesting.html)
 *   [Super Angels](http://www.paulgraham.com/superangels.html)
-*   [The Future of Startup Funding ](http://www.paulgraham.com/future.html)
 *   [Black Swan Farming](http://www.paulgraham.com/swan.html)
-*   [High Resolution Fundraising](http://www.paulgraham.com/hiresfund.html)
-*   [Investor Herd Dynamics](http://www.paulgraham.com/herd.html)
-*   [Startup Investing Trends](http://www.paulgraham.com/invtrend.html)
-*   [A New Venture Animal](http://www.paulgraham.com/ycombinator.html)
-*   [The Venture Capital Squeeze](http://www.paulgraham.com/vcsqueeze.html)
-*   [A Unified Theory of VC Suckage](http://www.paulgraham.com/venturecapital.html)
-*   [Could VC be a Casualty of the Recession?](http://www.paulgraham.com/divergence.html)
 *   [The Ronco Principle](http://www.paulgraham.com/ronco.html)
 
 Ops
@@ -82,13 +82,17 @@ Patents
 *   [Are Software Patents Evil?](http://www.paulgraham.com/softwarepatents.html)
 *   [The Patent Pledge](http://www.paulgraham.com/patentpledge.html)
 
-Bubble
-*   [What the Bubble Got Right](http://www.paulgraham.com/bubble.html)
-
 Trends
 *   [The Future of Web Startups](http://www.paulgraham.com/webstartups.html)
+*   [What the Bubble Got Right](http://www.paulgraham.com/bubble.html)
+*   [The Future of Startup Funding ](http://www.paulgraham.com/future.html)
+*   [Startup Investing Trends](http://www.paulgraham.com/invtrend.html)
+*   [Could VC be a Casualty of the Recession?](http://www.paulgraham.com/divergence.html)
+*   [The Venture Capital Squeeze](http://www.paulgraham.com/vcsqueeze.html)
+*   [A Unified Theory of VC Suckage](http://www.paulgraham.com/venturecapital.html)
 *   [Inequality and Risk](http://www.paulgraham.com/inequality.html)
 *   [Mind the Gap](http://www.paulgraham.com/gap.html)
+*   [An Alternative Theory of Unions](http://www.paulgraham.com/unions.html)
 
 School and Credentials
 *   [News from the Front](http://www.paulgraham.com/colleges.html)
@@ -113,7 +117,8 @@ Words of Wisdom
 *   [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
 *   [The Top of My Todo List](http://www.paulgraham.com/todo.html)
 
-
+YC Ethos
+*   [A New Venture Animal](http://www.paulgraham.com/ycombinator.html)
 
 
 
