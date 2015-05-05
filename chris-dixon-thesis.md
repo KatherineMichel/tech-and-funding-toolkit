@@ -19,6 +19,7 @@ Starting Up General Advice
 *   [Naming your startup](http://cdixon.org/2009/04/18/naming-your-startup)
 *   [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret)
 *   [Underhyping your startup](http://cdixon.org/2010/04/06/underhyping-your-startup)
+*   [The myth of the overnight success](http://cdixon.org/2012/03/16/the-myth-of-the-overnight-success)
 
 Research
 *   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
@@ -27,6 +28,8 @@ Research
 *   [Founder/market fit](http://cdixon.org/2011/06/20/foundermarket-fit)
 *   [Timing your startup](http://cdixon.org/2010/11/07/timing-your-startup)
 *   [Competition is overrated](http://cdixon.org/2010/06/26/competition-is-overrated)
+*   [Some thoughts on incumbents](http://cdixon.org/2010/10/08/some-thoughts-on-incumbents)
+*   [Incumbents](http://cdixon.org/2010/01/26/incumbents)
 *   [Understanding your market](http://cdixon.org/2009/10/11/understanding-your-market)
 
 Pitch
@@ -65,6 +68,7 @@ Ops
 *   [Good bizdev cannibalizes itself](http://cdixon.org/2010/08/28/good-bizdev-cannibalizes-itself)
 *   [Outsource things you don’t care about](http://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
 *   [The farther away the better](http://cdixon.org/2009/06/22/the-farther-away-the-better)
+*   [“It is the human friction that makes the sparks”](http://cdixon.org/2012/02/20/it-is-the-human-friction-that-makes-the-sparks)
 *   [Agency problems](http://cdixon.org/2012/10/20/agency-problems)
 
 HR
@@ -96,13 +100,17 @@ Patents
 *   [Software patents should be abolished](http://cdixon.org/2009/09/24/software-patents-should-be-abolished)
 
 Trends
+*   [Incumbents die due to irrelevance or ineptitude](http://cdixon.org/2012/04/26/incumbents-die-due-to-irrelevance-or-ineptitude)
 *   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
 
 Words of Wisdom
+*   [Blogging to learn](http://cdixon.org/2012/05/10/blogging-to-learn)
 *   [“Meaningful” startups](http://cdixon.org/2012/04/18/meaningful-startups)
 *   [Do you want to sell sugar water or do you want to change the world?](http://cdixon.org/2011/08/28/do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world)
 *   [Builders and extractors](http://cdixon.org/2010/06/20/builders-and-extractors)
 *   [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](http://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough)
 *   [The importance of asking people questions](http://cdixon.org/2009/10/06/the-importance-of-asking-people-questions)
 *   [Getting a job in venture capital](http://cdixon.org/2009/09/08/getting-a-job-in-venture-capital)
+*   [Thanks…](http://cdixon.org/2009/09/17/thanks)
+
 
