@@ -23,6 +23,7 @@ Starting Up General Advice
 Research
 *   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
 *   [The product lens](http://cdixon.org/2012/12/03/the-product-lens)
+*   [What jobs are users hiring your product to perform?](http://cdixon.org/2011/12/21/what-jobs-are-users-hiring-your-product-to-perform)
 *   [Founder/market fit](http://cdixon.org/2011/06/20/foundermarket-fit)
 *   [Timing your startup](http://cdixon.org/2010/11/07/timing-your-startup)
 *   [Competition is overrated](http://cdixon.org/2010/06/26/competition-is-overrated)
@@ -59,6 +60,7 @@ Programming
 Ops
 *   [Some tips for interacting with the press](http://cdixon.org/2012/03/02/some-tips-for-interacting-with-the-press)
 *   [Maximizing capacity utilization as a startup premise](http://cdixon.org/2012/01/05/maximizing-capacity-utilization-as-a-startup-premise)
+*   [Always have 18 months of cash in the bank](http://cdixon.org/2011/12/06/always-have-18-months-of-cash-in-the-bank)
 *   [Business development: the Goldilocks principle](http://cdixon.org/2011/11/29/business-development-the-goldilocks-principle)
 *   [Good bizdev cannibalizes itself](http://cdixon.org/2010/08/28/good-bizdev-cannibalizes-itself)
 *   [Outsource things you don’t care about](http://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
@@ -82,4 +84,11 @@ Bubble
 
 Trends
 *   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
+
+Words of Wisdom
+*   [“Meaningful” startups](http://cdixon.org/2012/04/18/meaningful-startups)
+*   [Do you want to sell sugar water or do you want to change the world?](http://cdixon.org/2011/08/28/do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world)
+*   [Builders and extractors](http://cdixon.org/2010/06/20/builders-and-extractors)
+*   [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](http://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough)
+*   [The importance of asking people questions](http://cdixon.org/2009/10/06/the-importance-of-asking-people-questions)
 
