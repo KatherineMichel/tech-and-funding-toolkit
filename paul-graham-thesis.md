@@ -125,6 +125,7 @@ YC Ethos
 *   [Why YC](http://www.paulgraham.com/whyyc.html)
 *   [Why to Move to a Startup Hub](http://www.paulgraham.com/startuphubs.html)
 *   [Why Startup Hubs Work](http://www.paulgraham.com/hubs.html)
+*   [What Kate Saw in Silicon Valley](http://www.paulgraham.com/kate.html)
 
 
 
