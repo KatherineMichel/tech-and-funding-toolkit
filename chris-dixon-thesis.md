@@ -23,6 +23,16 @@ Starting Up General Advice
 *   [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret)
 *   [Underhyping your startup](http://cdixon.org/2010/04/06/underhyping-your-startup)
 
+Equity Grants
+*   [Dividing equity between founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders)
+*   [The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant)
+
+Term Sheet
+*   [TheFunded term sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet)
+*   [Don’t shop your term sheet](http://cdixon.org/2009/09/02/dont-shop-your-term-sheet)
+*   [Founder vesting](http://cdixon.org/2009/04/21/founder-vesting)
+*   [Backing out of a term sheet](http://cdixon.org/2010/02/03/backing-out-of-a-term-sheet)
+
 Ops
 *   [Outsource things you don’t care about](http://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
 
