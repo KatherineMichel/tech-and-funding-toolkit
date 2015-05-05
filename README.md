@@ -121,7 +121,7 @@ Table of Contents
 *   [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 *   [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)  
 *   [Louis Gray](http://blog.louisgray.com)
-*   [Luke Wroblewski](hhttp://www.lukew.com/ff?tag=mobile)
+*   [Luke Wroblewski](http://www.lukew.com/ff?tag=mobile)
 *   [Marco Arment](http://www.marco.org)
 *   [Marshall Kirkpatrick](http://marshallk.com)
 *   [Matt Cutts](http://www.mattcutts.com/blog)   
@@ -187,7 +187,7 @@ RFS and Trends
 *   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
 *   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
 *   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
-*   [YCombinator RFS](http://www.ycombinator.com/rfs), 
+*   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
 Documents
 
@@ -311,7 +311,7 @@ Google, Google Tech, and TED Talks
 Coding and Math 
 *   [Codecademy](http://www.codecademy.com) 
 *   [Khan Academy](https://www.khanacademy.org)  
-*   [Project Euler](hhttps://projecteuler.net) 
+*   [Project Euler](https://projecteuler.net) 
 *   [Skillshare](http://www.skillshare.com/classes)
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 
@@ -659,7 +659,6 @@ Design Schools and Philosophies
 
 Responsive Design
 *   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-Responsive Design and Examples, Media Queries
 *   [Responsive Design Examples](http://mediaqueri.es)  
 
 GitHub Styleguide
@@ -684,7 +683,6 @@ Licenses
 
 KPCB and John Maeda Design in Tech Report
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
 Website Launch Checklist
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
@@ -737,7 +735,7 @@ Code Search
 #### Launch Strategies
 
 General
-[How Famoous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
+*   [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
 
 Epic
 *   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
