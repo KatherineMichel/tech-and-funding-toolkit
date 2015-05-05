@@ -46,6 +46,13 @@ Hacking and Open Source
 *   [The Word "Hacker"](http://www.paulgraham.com/gba.html)
 *   [What Business Can Learn from Open Source](http://www.paulgraham.com/opensource.html)
 
+Design and Making
+*   [How Art Can Be Good](http://www.paulgraham.com/goodart.html)
+*   [Copy What You Like](http://www.paulgraham.com/copy.html)
+*   [Taste for Makers](http://www.paulgraham.com/taste.html)
+*   [Six Principles for Making New Things](http://www.paulgraham.com/newthings.html)
+*   [Design and Research](http://www.paulgraham.com/desres.html)
+
 Funding
 *   [How to Fund a Startups](http://www.paulgraham.com/startupfunding.html)
 *   [How to Raise Money](http://www.paulgraham.com/fr.html)
@@ -58,7 +65,7 @@ Funding
 *   [High Resolution Fundraising](http://www.paulgraham.com/hiresfund.html)
 *   [Writing and Speaking](http://www.paulgraham.com/speak.html)
 
-Welth and Investors
+Wealth and Investors
 *   [How to Make Wealth](http://www.paulgraham.com/wealth.html)
 *   [How to Be an Angel Investor](http://www.paulgraham.com/angelinvesting.html)
 *   [Super Angels](http://www.paulgraham.com/superangels.html)
@@ -117,6 +124,7 @@ Words of Wisdom
 
 Trends
 *   [Why Startups Condense in America](http://www.paulgraham.com/america.html)
+*   [Made in USA](http://www.paulgraham.com/usa.html)
 *   [How to Be Silicon Valley](http://www.paulgraham.com/siliconvalley.html)
 *   [Can You Buy a Silicon Valley?  Maybe.](http://www.paulgraham.com/maybe.html)
 *   [A Local Revolution?](http://www.paulgraham.com/revolution.html)
