@@ -11,6 +11,7 @@ Ideas
 *   [A Word to the Resourceful (Ambitious Ideas)](http://www.paulgraham.com/ambitious.html)
 
 Startups
+*   [Before the Startup](http://www.paulgraham.com/before.html)
 *   [How to Start a Startup](http://www.paulgraham.com/start.html)
 *   [What Startups Are Really Like](http://www.paulgraham.com/really.html)
 *   [Startups in 13 Sentences](http://www.paulgraham.com/13sentences.html)
@@ -18,6 +19,12 @@ Startups
 *   [A Student's Guide to Startups](http://www.paulgraham.com/mit.html)
 *   [Why to Start a Startup in a Bad Economy](http://www.paulgraham.com/badeconomy.html)
 *   [Why to Not Not Start a Startup](http://www.paulgraham.com/notnot.html)
+*   [The Hardest Lessons for Startups to Learn](http://www.paulgraham.com/startuplessons.html)
+
+Founders
+*   [What We Look for in Founders](http://www.paulgraham.com/founders.html)
+*   [Learning from Founders](http://www.paulgraham.com/foundersatwork.html)
+*   [Five Founders](http://www.paulgraham.com/5founders.html)
 
 Funding
 *   [How to Fund a Startups](http://www.paulgraham.com/startupfunding.html)
@@ -30,6 +37,7 @@ Funding
 
 *   [How to Make Wealth](http://www.paulgraham.com/wealth.html)
 *   [How to Be an Angel Investor](http://www.paulgraham.com/angelinvesting.html)
+*   [Super Angels](http://www.paulgraham.com/superangels.html)
 *   [The Future of Startup Funding ](http://www.paulgraham.com/future.html)
 *   [Black Swan Farming](http://www.paulgraham.com/swan.html)
 *   [High Resolution Fundraising](http://www.paulgraham.com/hiresfund.html)
@@ -47,6 +55,7 @@ Ops
 *   [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 *   [Founder Control](http://www.paulgraham.com/control.html)
 *   [Don't Talk to Corp Dev](http://www.paulgraham.com/corpdev.html)
+*   [Ramen Profitable](http://www.paulgraham.com/ramenprofitable.html)
 
 Scale and Growth
 *   [Do Things that Don't Scale](http://www.paulgraham.com/ds.html)
