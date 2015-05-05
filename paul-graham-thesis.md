@@ -35,6 +35,7 @@ Ops
 *   [Hiring is Obsolete](http://www.paulgraham.com/hiring.html)
 *   [The Equity Equation](http://www.paulgraham.com/equity.html)
 *   [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+*   [Founder Control](http://www.paulgraham.com/control.html)
 *   [Don't Talk to Corp Dev](http://www.paulgraham.com/corpdev.html)
 
 Scale and Growth
