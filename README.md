@@ -318,7 +318,7 @@ Coding and Math
 Shows
 *   [Heart Startup](http://hearstartup.com) 
 *   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
-*   [This Week in Startups](http://thisweekinstartups.com), 
+*   [This Week in Startups](http://thisweekinstartups.com)
 
 #### Research
 
