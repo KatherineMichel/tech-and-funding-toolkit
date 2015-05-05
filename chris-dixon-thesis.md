@@ -2,11 +2,12 @@ Blog
 *   [Chris Dixon Blog](http://cdixon.org)
 
 Ideas
+*   [“The great ideas have come from people who weren’t paid to have great ideas”](http://cdixon.org/2014/10/20/for-every-new-good-idea-you-have-there-ten-thousand-foolish-ones)
+*   [“A lot of the best tech startups are ideas that have been around for years”](http://cdixon.org/2014/10/15/a-lot-of-the-best-tech-startups-are-ideas-that-have-been-around-for-years)
+*   [What the smartest people do on the weekend is what everyone else will do during the week in ten years](http://cdixon.org/2013/03/03/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years)
 *   [The next big thing is sitting right in front of you](http://cdixon.org/2011/07/03/the-next-big-thing-is-sitting-right-in-front-of-you)
 *   [Developing new startup ideas](http://cdixon.org/2010/03/14/developing-new-startup-ideas)
 *   [The next big thing will start out looking like a toy](http://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy)
-*   [“A lot of the best tech startups are ideas that have been around for years”](http://cdixon.org/2014/10/15/a-lot-of-the-best-tech-startups-are-ideas-that-have-been-around-for-years)
-*   [What the smartest people do on the weekend is what everyone else will do during the week in ten years](http://cdixon.org/2013/03/03/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years)
 
 Startups
 *   [There are two kinds of people in the world](http://cdixon.org/2011/04/27/there-are-two-kinds-of-people-in-the-world)
@@ -17,6 +18,11 @@ Starting Up General Advice
 *   [Naming your startup](http://cdixon.org/2009/04/18/naming-your-startup)
 *   [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret)
 *   [Underhyping your startup](http://cdixon.org/2010/04/06/underhyping-your-startup)
+
+Programming
+*   [Bedrock programming](http://cdixon.org/2012/02/07/bedrock-programming)
+*   [Who should learn to program?](http://cdixon.org/2012/01/31/who-should-learn-to-program)
+*   [The only college major that matters](http://cdixon.org/2009/09/06/the-only-college-major-that-matters)
 
 Planning, Business Plans, Law
 *   [Plans are nothing, but planning is indispensable](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable)
@@ -39,7 +45,9 @@ Cost/Price, Revenue/Margin
 *   [Revenue vs margin](http://cdixon.org/2012/01/22/revenue-vs-margin)
 
 Ops
+*   [Some tips for interacting with the press](http://cdixon.org/2012/03/02/some-tips-for-interacting-with-the-press)
 *   [Outsource things you don’t care about](http://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
+*   [Agency problems](http://cdixon.org/2012/10/20/agency-problems)
 
 Pivoting
 *   [Pivoting](http://cdixon.org/2010/06/15/pivoting)
@@ -49,9 +57,13 @@ Endings
 *   [When should you give up on an idea?](http://cdixon.org/2012/05/25/when-should-you-give-up-on-an-idea)
 *   [Shutting down](http://cdixon.org/2010/01/09/shutting-down)
 
+Silicon Valley
+*   [It’s not East Coast vs West Coast, it’s about making more places like the Valley](http://cdixon.org/2010/02/27/its-not-east-coast-vs-west-coast-its-about-making-more-places-like-the-valley)
+
 Bubble
 *   [Is it a tech bubble?](http://cdixon.org/2012/04/29/is-it-a-tech-bubble)
 *   [A few points about the “tech bubble” debate](http://cdixon.org/2011/03/27/a-few-points-about-the-tech-bubble-debate)
 
-
+Trends
+*   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
 
