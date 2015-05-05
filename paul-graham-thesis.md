@@ -9,6 +9,9 @@ Ideas
 *   [Organic Startup Ideas](http://www.paulgraham.com/organic.html)
 *   [The Top Idea in Your Mind](http://www.paulgraham.com/top.html)
 *   [A Word to the Resourceful (Ambitious Ideas)](http://www.paulgraham.com/ambitious.html)
+*   [The Power of the Marginal](http://www.paulgraham.com/marginal.html)
+*   [Schlep Blindness](http://www.paulgraham.com/schlep.html)
+*   [See Randomness](http://www.paulgraham.com/randomness.html)
 
 Startups
 *   [Before the Startup](http://www.paulgraham.com/before.html)
@@ -78,6 +81,13 @@ Patents
 *   [Are Software Patents Evil?](http://www.paulgraham.com/softwarepatents.html)
 *   [The Patent Pledge](http://www.paulgraham.com/patentpledge.html)
 
+Bubble
+*   [What the Bubble Got Right](http://www.paulgraham.com/bubble.html)
+
+School and Credentials
+*   [News from the Front](http://www.paulgraham.com/colleges.html)
+*   [Undergraduation](http://www.paulgraham.com/college.html)
+
 Words of Wisdom
 *   [Is It Worth Being Wise?](http://www.paulgraham.com/wisdom.html)
 *   [How to Do What You Love](http://www.paulgraham.com/love.html)
@@ -86,9 +96,11 @@ Words of Wisdom
 *   [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html)
 *   [How to Disagree](http://www.paulgraham.com/disagree.html)
 *   [Two Kinds of Judgement](http://www.paulgraham.com/judgement.html)
-
-
-
+*   [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
+*   [Disconnecting Distraction](http://www.paulgraham.com/distraction.html)
+*   [Good and Bad Procrastination](http://www.paulgraham.com/procrastination.html)
+*   [Persuade xor Discover](http://www.paulgraham.com/discover.html)
+*   [Mean People Fail](http://www.paulgraham.com/mean.html)
 
 
 
