@@ -2,6 +2,14 @@ Blog
 
 *   [Paul Graham Articles](http://paulgraham.com/articles.html)
 
+YC Ethos
+*   [A New Venture Animal](http://www.paulgraham.com/ycombinator.html)
+*   [What I Did this Summer](http://www.paulgraham.com/sfp.html)
+*   [Why YC](http://www.paulgraham.com/whyyc.html)
+*   [Why to Move to a Startup Hub](http://www.paulgraham.com/startuphubs.html)
+*   [Why Startup Hubs Work](http://www.paulgraham.com/hubs.html)
+*   [What Kate Saw in Silicon Valley](http://www.paulgraham.com/kate.html)
+
 Ideas
 *   [Ideas for Startups](http://www.paulgraham.com/ideas.html)
 *   [Why Smart People Have Bad Ideas](http://www.paulgraham.com/bronze.html)
@@ -84,18 +92,6 @@ Patents
 *   [Are Software Patents Evil?](http://www.paulgraham.com/softwarepatents.html)
 *   [The Patent Pledge](http://www.paulgraham.com/patentpledge.html)
 
-Trends
-*   [The Future of Web Startups](http://www.paulgraham.com/webstartups.html)
-*   [What the Bubble Got Right](http://www.paulgraham.com/bubble.html)
-*   [The Future of Startup Funding ](http://www.paulgraham.com/future.html)
-*   [Startup Investing Trends](http://www.paulgraham.com/invtrend.html)
-*   [Could VC be a Casualty of the Recession?](http://www.paulgraham.com/divergence.html)
-*   [The Venture Capital Squeeze](http://www.paulgraham.com/vcsqueeze.html)
-*   [A Unified Theory of VC Suckage](http://www.paulgraham.com/venturecapital.html)
-*   [Inequality and Risk](http://www.paulgraham.com/inequality.html)
-*   [Mind the Gap](http://www.paulgraham.com/gap.html)
-*   [An Alternative Theory of Unions](http://www.paulgraham.com/unions.html)
-
 School and Credentials
 *   [News from the Front](http://www.paulgraham.com/colleges.html)
 *   [Undergraduation](http://www.paulgraham.com/college.html)
@@ -119,18 +115,23 @@ Words of Wisdom
 *   [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
 *   [The Top of My Todo List](http://www.paulgraham.com/todo.html)
 
-YC Ethos
-*   [A New Venture Animal](http://www.paulgraham.com/ycombinator.html)
-*   [What I Did this Summer](http://www.paulgraham.com/sfp.html)
-*   [Why YC](http://www.paulgraham.com/whyyc.html)
-*   [Why to Move to a Startup Hub](http://www.paulgraham.com/startuphubs.html)
-*   [Why Startup Hubs Work](http://www.paulgraham.com/hubs.html)
-*   [What Kate Saw in Silicon Valley](http://www.paulgraham.com/kate.html)
-
-
-
-
-
+Trends
+*   [Why Startups Condense in America](http://www.paulgraham.com/america.html)
+*   [How to Be Silicon Valley](http://www.paulgraham.com/siliconvalley.html)
+*   [Can You Buy a Silicon Valley?  Maybe.](http://www.paulgraham.com/maybe.html)
+*   [A Local Revolution?](http://www.paulgraham.com/revolution.html)
+*   [Cities and Ambition](http://www.paulgraham.com/cities.html)
+*   [The High-Res Society](http://www.paulgraham.com/highres.html)
+*   [The Future of Web Startups](http://www.paulgraham.com/webstartups.html)
+*   [What the Bubble Got Right](http://www.paulgraham.com/bubble.html)
+*   [The Future of Startup Funding ](http://www.paulgraham.com/future.html)
+*   [Startup Investing Trends](http://www.paulgraham.com/invtrend.html)
+*   [Could VC be a Casualty of the Recession?](http://www.paulgraham.com/divergence.html)
+*   [The Venture Capital Squeeze](http://www.paulgraham.com/vcsqueeze.html)
+*   [A Unified Theory of VC Suckage](http://www.paulgraham.com/venturecapital.html)
+*   [Inequality and Risk](http://www.paulgraham.com/inequality.html)
+*   [Mind the Gap](http://www.paulgraham.com/gap.html)
+*   [An Alternative Theory of Unions](http://www.paulgraham.com/unions.html)
 
 
 
