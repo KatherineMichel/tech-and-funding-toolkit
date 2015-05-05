@@ -23,6 +23,7 @@ Startups
 *   [Why to Start a Startup in a Bad Economy](http://www.paulgraham.com/badeconomy.html)
 *   [Why to Not Not Start a Startup](http://www.paulgraham.com/notnot.html)
 *   [The Hardest Lessons for Startups to Learn](http://www.paulgraham.com/startuplessons.html)
+*   [Be Good](http://www.paulgraham.com/good.html)
 
 Founders
 *   [What We Look for in Founders](http://www.paulgraham.com/founders.html)
@@ -87,6 +88,7 @@ Bubble
 School and Credentials
 *   [News from the Front](http://www.paulgraham.com/colleges.html)
 *   [Undergraduation](http://www.paulgraham.com/college.html)
+*   [After Credentials](http://www.paulgraham.com/credentials.html)
 
 Words of Wisdom
 *   [Is It Worth Being Wise?](http://www.paulgraham.com/wisdom.html)
@@ -101,9 +103,9 @@ Words of Wisdom
 *   [Good and Bad Procrastination](http://www.paulgraham.com/procrastination.html)
 *   [Persuade xor Discover](http://www.paulgraham.com/discover.html)
 *   [Mean People Fail](http://www.paulgraham.com/mean.html)
-
-
-
+*   [Keep Your Identity Small](http://www.paulgraham.com/identity.html)
+*   [The Top of My Todo List](http://www.paulgraham.com/todo.html)
+*   [The Island Test](http://www.paulgraham.com/island.html)
 
 
 
