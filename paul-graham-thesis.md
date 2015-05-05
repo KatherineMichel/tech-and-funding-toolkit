@@ -85,6 +85,11 @@ Patents
 Bubble
 *   [What the Bubble Got Right](http://www.paulgraham.com/bubble.html)
 
+Trends
+*   [The Future of Web Startups](http://www.paulgraham.com/webstartups.html)
+*   [Inequality and Risk](http://www.paulgraham.com/inequality.html)
+*   [Mind the Gap](http://www.paulgraham.com/gap.html)
+
 School and Credentials
 *   [News from the Front](http://www.paulgraham.com/colleges.html)
 *   [Undergraduation](http://www.paulgraham.com/college.html)
@@ -98,14 +103,17 @@ Words of Wisdom
 *   [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html)
 *   [How to Disagree](http://www.paulgraham.com/disagree.html)
 *   [Two Kinds of Judgement](http://www.paulgraham.com/judgement.html)
-*   [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
+*   [The Island Test](http://www.paulgraham.com/island.html)
 *   [Disconnecting Distraction](http://www.paulgraham.com/distraction.html)
 *   [Good and Bad Procrastination](http://www.paulgraham.com/procrastination.html)
 *   [Persuade xor Discover](http://www.paulgraham.com/discover.html)
 *   [Mean People Fail](http://www.paulgraham.com/mean.html)
 *   [Keep Your Identity Small](http://www.paulgraham.com/identity.html)
+*   [What You Can't Say](http://www.paulgraham.com/say.html)
+*   [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
 *   [The Top of My Todo List](http://www.paulgraham.com/todo.html)
-*   [The Island Test](http://www.paulgraham.com/island.html)
+
+
 
 
 
