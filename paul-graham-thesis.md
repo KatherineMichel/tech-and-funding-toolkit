@@ -29,6 +29,7 @@ Funding
 *   [The Venture Capital Squeeze](http://www.paulgraham.com/vcsqueeze.html)
 *   [A Unified Theory of VC Suckage](http://www.paulgraham.com/venturecapital.html)
 *   [Could VC be a Casualty of the Recession?](http://www.paulgraham.com/divergence.html)
+*   [The Ronco Principle](http://www.paulgraham.com/ronco.html)
 
 Ops
 *   [Hiring is Obsolete](http://www.paulgraham.com/hiring.html)
@@ -40,6 +41,15 @@ Scale and Growth
 *   [Do Things that Don't Scale](http://www.paulgraham.com/ds.html)
 *   [Startup = Growth](http://www.paulgraham.com/growth.html)
 *   [The Acceleration of Addictiveness](http://www.paulgraham.com/addiction.html)
+
+Mishaps
+*   [The Fatal Pinch](http://www.paulgraham.com/pinch.html)
+*   [How Not to Die](http://www.paulgraham.com/die.html)
+*   [The 18 Mistakes That Kill Startups](http://www.paulgraham.com/startupmistakes.html)
+
+Patents
+*   [Are Software Patents Evil?](http://www.paulgraham.com/softwarepatents.html)
+*   [The Patent Pledge](http://www.paulgraham.com/patentpledge.html)
 
 
 
