@@ -8,6 +8,16 @@ Ideas
 *   [How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html)
 *   [Organic Startup Ideas](http://www.paulgraham.com/organic.html)
 *   [The Top Idea in Your Mind](http://www.paulgraham.com/top.html)
+*   [A Word to the Resourceful (Ambitious Ideas)](http://www.paulgraham.com/ambitious.html)
+
+Startups
+*   [How to Start a Startup](http://www.paulgraham.com/start.html)
+*   [What Startups Are Really Like](http://www.paulgraham.com/really.html)
+*   [Startups in 13 Sentences](http://www.paulgraham.com/13sentences.html)
+*   [The Other Half of "Artists Ship"](http://www.paulgraham.com/artistsship.html)
+*   [A Student's Guide to Startups](http://www.paulgraham.com/mit.html)
+*   [Why to Start a Startup in a Bad Economy](http://www.paulgraham.com/badeconomy.html)
+*   [Why to Not Not Start a Startup](http://www.paulgraham.com/notnot.html)
 
 Funding
 *   [How to Fund a Startups](http://www.paulgraham.com/startupfunding.html)
@@ -42,6 +52,11 @@ Scale and Growth
 *   [Do Things that Don't Scale](http://www.paulgraham.com/ds.html)
 *   [Startup = Growth](http://www.paulgraham.com/growth.html)
 *   [The Acceleration of Addictiveness](http://www.paulgraham.com/addiction.html)
+
+Resourcefulness and Determination
+*   [A Word to the Resourceful](http://www.paulgraham.com/word.html)
+*   [Relentlessly Resourceful](http://www.paulgraham.com/relres.html)
+*   [The Anatomy of Determination](http://www.paulgraham.com/determination.html)
 
 Mishaps
 *   [The Fatal Pinch](http://www.paulgraham.com/pinch.html)
