@@ -1,5 +1,4 @@
 Blog
-
 *   [Paul Graham Articles](http://paulgraham.com/articles.html)
 
 YC Ethos
