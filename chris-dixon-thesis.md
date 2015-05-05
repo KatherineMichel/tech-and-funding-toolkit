@@ -67,6 +67,16 @@ Ops
 *   [The farther away the better](http://cdixon.org/2009/06/22/the-farther-away-the-better)
 *   [Agency problems](http://cdixon.org/2012/10/20/agency-problems)
 
+HR
+*   [What to look for in hiring a VP Engineering for your internet startup](http://cdixon.org/2008/04/17/what-to-look-for-in-hiring-a-vp-engineering-for-your-internet-startup)
+*   [Recruiting programmers to your startup](http://cdixon.org/2011/12/29/recruiting-programmers-to-your-startup)
+*   [Showing up](http://cdixon.org/2011/04/13/showing-up)
+*   [The ideal startup career path](http://cdixon.org/2009/10/22/the-ideal-startup-career-path)
+*   [Joining a startup is far less risky than most people think](http://cdixon.org/2009/05/11/joining-a-startup-is-far-less-risky-than-most-people-think)
+*   [Firing](http://cdixon.org/2012/06/20/firing)
+*   [The credentials trap](http://cdixon.org/2013/02/13/the-credentials-trap)
+*   [Twelve months notice](http://cdixon.org/2009/10/24/twelve-months-notice)
+
 Pivoting
 *   [Pivoting](http://cdixon.org/2010/06/15/pivoting)
 *   [Pivoting into a new corporate structure](http://cdixon.org/2011/08/02/pivoting-into-a-new-corporate-structure)
@@ -82,6 +92,9 @@ Bubble
 *   [Is it a tech bubble?](http://cdixon.org/2012/04/29/is-it-a-tech-bubble)
 *   [A few points about the “tech bubble” debate](http://cdixon.org/2011/03/27/a-few-points-about-the-tech-bubble-debate)
 
+Patents
+*   [Software patents should be abolished](http://cdixon.org/2009/09/24/software-patents-should-be-abolished)
+
 Trends
 *   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
 
@@ -91,4 +104,5 @@ Words of Wisdom
 *   [Builders and extractors](http://cdixon.org/2010/06/20/builders-and-extractors)
 *   [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](http://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough)
 *   [The importance of asking people questions](http://cdixon.org/2009/10/06/the-importance-of-asking-people-questions)
+*   [Getting a job in venture capital](http://cdixon.org/2009/09/08/getting-a-job-in-venture-capital)
 
