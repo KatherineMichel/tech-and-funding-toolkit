@@ -20,6 +20,7 @@ Starting Up General Advice
 *   [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret)
 *   [Underhyping your startup](http://cdixon.org/2010/04/06/underhyping-your-startup)
 *   [The myth of the overnight success](http://cdixon.org/2012/03/16/the-myth-of-the-overnight-success)
+*   [And then, suddenly, it works](http://cdixon.org/2012/02/11/and-then-suddenly-it-works)
 
 Research
 *   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
@@ -80,6 +81,19 @@ HR
 *   [Firing](http://cdixon.org/2012/06/20/firing)
 *   [The credentials trap](http://cdixon.org/2013/02/13/the-credentials-trap)
 *   [Twelve months notice](http://cdixon.org/2009/10/24/twelve-months-notice)
+
+Strategies
+*   [Come for the tool, stay for the network](http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network)
+*   [How bundling benefits sellers and buyers](http://cdixon.org/2012/07/08/how-bundling-benefits-sellers-and-buyers)
+*   [The real strategy behind tiered data plans](http://cdixon.org/2012/06/27/the-real-strategy-behind-tiered-data-plans)
+*   [Give away the diagnostic, sell the remedy](http://cdixon.org/2012/03/27/give-away-the-diagnostic-sell-the-remedy)
+*   [Building products from improvised user behaviors](http://cdixon.org/2012/01/02/building-products-from-improvised-user-behaviors)
+*   [Selling pickaxes during a gold rush](http://cdixon.org/2011/02/05/selling-pickaxes-during-a-gold-rush)
+*   [The “thin edge of the wedge” strategy](http://cdixon.org/2010/12/27/the-thin-edge-of-the-wedge-strategy)
+*   [The bowling pin strategy](http://cdixon.org/2010/08/21/the-bowling-pin-strategy)
+*   [Designing products for single and multiplayer modes](http://cdixon.org/2010/06/12/designing-products-for-single-and-multiplayer-modes)
+*   [Dividing free and paid features in “freemium” products](http://cdixon.org/2009/09/04/dividing-free-and-paid-features-in-freemium-products)
+*   [Six strategies for overcoming “chicken and egg” problems](http://cdixon.org/2009/08/25/six-strategies-for-overcoming-chicken-and-egg-problems)
 
 Pivoting
 *   [Pivoting](http://cdixon.org/2010/06/15/pivoting)
