@@ -13,15 +13,15 @@ Startups
 *   [“Otherwise do something else”](http://cdixon.org/2011/12/02/otherwise-do-something-else)
 *   [The default state of a startup is failure](http://cdixon.org/2012/05/19/the-default-state-of-a-startup-is-failure)
 
-Planning, Business Plans, Law
-*   [Plans are nothing, but planning is indispensable](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable)
-*   [Advice for writing startup business plans](http://cdixon.org/2008/04/14/advice-for-writing-startup-business-plans)
-*   [Entrepreneurs need to learn some law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
-
 Starting Up General Advice
 *   [Naming your startup](http://cdixon.org/2009/04/18/naming-your-startup)
 *   [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret)
 *   [Underhyping your startup](http://cdixon.org/2010/04/06/underhyping-your-startup)
+
+Planning, Business Plans, Law
+*   [Plans are nothing, but planning is indispensable](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable)
+*   [Advice for writing startup business plans](http://cdixon.org/2008/04/14/advice-for-writing-startup-business-plans)
+*   [Entrepreneurs need to learn some law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
 
 Equity Grants
 *   [Dividing equity between founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders)
@@ -32,6 +32,11 @@ Term Sheet
 *   [Don’t shop your term sheet](http://cdixon.org/2009/09/02/dont-shop-your-term-sheet)
 *   [Founder vesting](http://cdixon.org/2009/04/21/founder-vesting)
 *   [Backing out of a term sheet](http://cdixon.org/2010/02/03/backing-out-of-a-term-sheet)
+
+Cost/Price, Revenue/Margin
+*   [What’s the relationship between cost and price?](http://cdixon.org/2009/10/17/whats-the-relationship-between-cost-and-price)
+*   [Pricing to the demand curve](http://cdixon.org/2012/07/04/pricing-to-the-demand-curve)
+*   [Revenue vs margin](http://cdixon.org/2012/01/22/revenue-vs-margin)
 
 Ops
 *   [Outsource things you don’t care about](http://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
