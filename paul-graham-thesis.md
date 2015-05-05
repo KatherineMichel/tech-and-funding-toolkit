@@ -32,10 +32,11 @@ Founders
 *   [You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)
 *   [After the Ladder](http://www.paulgraham.com/ladder.html)
 
-Hacker
+Hacking and Open Source
 *   [Hackers and Painters](http://www.paulgraham.com/hp.html)
 *   [Great Hackers](http://www.paulgraham.com/gh.html)
 *   [The Word "Hacker"](http://www.paulgraham.com/gba.html)
+*   [What Business Can Learn from Open Source](http://www.paulgraham.com/opensource.html)
 
 Funding
 *   [How to Fund a Startups](http://www.paulgraham.com/startupfunding.html)
@@ -47,6 +48,7 @@ Funding
 *   [The Pooled-Risk Company Management Company](http://www.paulgraham.com/prcmc.html)
 *   [Investor Herd Dynamics](http://www.paulgraham.com/herd.html)
 *   [High Resolution Fundraising](http://www.paulgraham.com/hiresfund.html)
+*   [Writing and Speaking](http://www.paulgraham.com/speak.html)
 
 Welth and Investors
 *   [How to Make Wealth](http://www.paulgraham.com/wealth.html)
@@ -119,6 +121,12 @@ Words of Wisdom
 
 YC Ethos
 *   [A New Venture Animal](http://www.paulgraham.com/ycombinator.html)
+*   [What I Did this Summer](http://www.paulgraham.com/sfp.html)
+*   [Why YC](http://www.paulgraham.com/whyyc.html)
+*   [Why to Move to a Startup Hub](http://www.paulgraham.com/startuphubs.html)
+*   [Why Startup Hubs Work](http://www.paulgraham.com/hubs.html)
+
+
 
 
 
