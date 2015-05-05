@@ -8,6 +8,7 @@ Ideas
 *   [The next big thing is sitting right in front of you](http://cdixon.org/2011/07/03/the-next-big-thing-is-sitting-right-in-front-of-you)
 *   [Developing new startup ideas](http://cdixon.org/2010/03/14/developing-new-startup-ideas)
 *   [The next big thing will start out looking like a toy](http://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy)
+*   [The myth of the Eureka moment](http://cdixon.org/2009/05/15/the-myth-of-the-eureka-moment)
 
 Startups
 *   [There are two kinds of people in the world](http://cdixon.org/2011/04/27/there-are-two-kinds-of-people-in-the-world)
@@ -18,6 +19,17 @@ Starting Up General Advice
 *   [Naming your startup](http://cdixon.org/2009/04/18/naming-your-startup)
 *   [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret)
 *   [Underhyping your startup](http://cdixon.org/2010/04/06/underhyping-your-startup)
+
+Research
+*   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
+*   [The product lens](http://cdixon.org/2012/12/03/the-product-lens)
+*   [Founder/market fit](http://cdixon.org/2011/06/20/foundermarket-fit)
+*   [Timing your startup](http://cdixon.org/2010/11/07/timing-your-startup)
+*   [Competition is overrated](http://cdixon.org/2010/06/26/competition-is-overrated)
+*   [Understanding your market](http://cdixon.org/2009/10/11/understanding-your-market)
+
+Pitch
+*   [Size markets using narratives, not numbers](http://cdixon.org/2010/04/03/size-markets-using-narratives-not-numbers)
 
 Programming
 *   [Bedrock programming](http://cdixon.org/2012/02/07/bedrock-programming)
