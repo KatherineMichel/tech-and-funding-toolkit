@@ -31,11 +31,6 @@ Research
 Pitch
 *   [Size markets using narratives, not numbers](http://cdixon.org/2010/04/03/size-markets-using-narratives-not-numbers)
 
-Programming
-*   [Bedrock programming](http://cdixon.org/2012/02/07/bedrock-programming)
-*   [Who should learn to program?](http://cdixon.org/2012/01/31/who-should-learn-to-program)
-*   [The only college major that matters](http://cdixon.org/2009/09/06/the-only-college-major-that-matters)
-
 Planning, Business Plans, Law
 *   [Plans are nothing, but planning is indispensable](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable)
 *   [Advice for writing startup business plans](http://cdixon.org/2008/04/14/advice-for-writing-startup-business-plans)
@@ -56,9 +51,18 @@ Cost/Price, Revenue/Margin
 *   [Pricing to the demand curve](http://cdixon.org/2012/07/04/pricing-to-the-demand-curve)
 *   [Revenue vs margin](http://cdixon.org/2012/01/22/revenue-vs-margin)
 
+Programming
+*   [Bedrock programming](http://cdixon.org/2012/02/07/bedrock-programming)
+*   [Who should learn to program?](http://cdixon.org/2012/01/31/who-should-learn-to-program)
+*   [The only college major that matters](http://cdixon.org/2009/09/06/the-only-college-major-that-matters)
+
 Ops
 *   [Some tips for interacting with the press](http://cdixon.org/2012/03/02/some-tips-for-interacting-with-the-press)
+*   [Maximizing capacity utilization as a startup premise](http://cdixon.org/2012/01/05/maximizing-capacity-utilization-as-a-startup-premise)
+*   [Business development: the Goldilocks principle](http://cdixon.org/2011/11/29/business-development-the-goldilocks-principle)
+*   [Good bizdev cannibalizes itself](http://cdixon.org/2010/08/28/good-bizdev-cannibalizes-itself)
 *   [Outsource things you don’t care about](http://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
+*   [The farther away the better](http://cdixon.org/2009/06/22/the-farther-away-the-better)
 *   [Agency problems](http://cdixon.org/2012/10/20/agency-problems)
 
 Pivoting
