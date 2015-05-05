@@ -25,6 +25,8 @@ Founders
 *   [What We Look for in Founders](http://www.paulgraham.com/founders.html)
 *   [Learning from Founders](http://www.paulgraham.com/foundersatwork.html)
 *   [Five Founders](http://www.paulgraham.com/5founders.html)
+*   [You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)
+*   [After the Ladder](http://www.paulgraham.com/ladder.html)
 
 Funding
 *   [How to Fund a Startups](http://www.paulgraham.com/startupfunding.html)
@@ -76,8 +78,14 @@ Patents
 *   [Are Software Patents Evil?](http://www.paulgraham.com/softwarepatents.html)
 *   [The Patent Pledge](http://www.paulgraham.com/patentpledge.html)
 
-
-
+Words of Wisdom
+*   [Is It Worth Being Wise?](http://www.paulgraham.com/wisdom.html)
+*   [How to Do What You Love](http://www.paulgraham.com/love.html)
+*   [What Doesn't Seem Like Work?](http://www.paulgraham.com/work.html)
+*   [How to Lose Time and Money](http://www.paulgraham.com/selfindulgence.html)
+*   [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html)
+*   [How to Disagree](http://www.paulgraham.com/disagree.html)
+*   [Two Kinds of Judgement](http://www.paulgraham.com/judgement.html)
 
 
 
