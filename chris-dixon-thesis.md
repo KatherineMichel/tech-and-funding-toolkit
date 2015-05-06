@@ -32,17 +32,19 @@ Risk
 *   [The problem with investing based on pattern recognition](http://cdixon.org/2012/03/07/the-problem-with-investing-based-on-pattern-recognition)
 
 Research
-*   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
+*   [“It’s pretty difficult to solve big problems in four years”](http://cdixon.org/2014/07/06/its-pretty-difficult-to-solve-big-problems-in-four-years)
+*   [Some problems are so hard they need to be solved piece by piece](http://cdixon.org/2012/11/23/some-problems-are-so-hard-they-need-to-be-solved-piece-by-piece)
 *   [The product lens](http://cdixon.org/2012/12/03/the-product-lens)
 *   [What jobs are users hiring your product to perform?](http://cdixon.org/2011/12/21/what-jobs-are-users-hiring-your-product-to-perform)
+*   [Forces that affect whether a large company will buy your product (according to Marc Andreessen)](http://cdixon.org/2011/12/15/forces-that-affect-whether-a-large-company-will-buy-your-product-according-to-marc-andreessen)
+*   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
 *   [Founder/market fit](http://cdixon.org/2011/06/20/foundermarket-fit)
 *   [Timing your startup](http://cdixon.org/2010/11/07/timing-your-startup)
 *   [Competition is overrated](http://cdixon.org/2010/06/26/competition-is-overrated)
 *   [Some thoughts on incumbents](http://cdixon.org/2010/10/08/some-thoughts-on-incumbents)
 *   [Incumbents](http://cdixon.org/2010/01/26/incumbents)
 *   [Understanding your market](http://cdixon.org/2009/10/11/understanding-your-market)
-*   [“It’s pretty difficult to solve big problems in four years”](http://cdixon.org/2014/07/06/its-pretty-difficult-to-solve-big-problems-in-four-years)
-*   [Some problems are so hard they need to be solved piece by piece](http://cdixon.org/2012/11/23/some-problems-are-so-hard-they-need-to-be-solved-piece-by-piece)
+*   [The challenge of creating a new category](http://cdixon.org/2009/10/20/the-challenge-of-creating-a-new-category)
 
 Pitch
 *   [Pitching the VC partnership](http://cdixon.org/2009/08/27/pitching-the-vc-partnership)
@@ -53,6 +55,7 @@ Planning, Business Plans, Law
 *   [Plans are nothing, but planning is indispensable](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable)
 *   [Advice for writing startup business plans](http://cdixon.org/2008/04/14/advice-for-writing-startup-business-plans)
 *   [Entrepreneurs need to learn some law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
+*   [Don’t be creative about the wrong things](http://cdixon.org/2010/02/16/dont-be-creative-about-the-wrong-things)
 
 Equity Grants
 *   [Dividing equity between founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders)
