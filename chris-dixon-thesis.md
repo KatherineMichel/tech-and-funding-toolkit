@@ -40,6 +40,8 @@ Research
 *   [Understanding your market](http://cdixon.org/2009/10/11/understanding-your-market)
 
 Pitch
+*   [Pitching the VC partnership](http://cdixon.org/2009/08/27/pitching-the-vc-partnership)
+*   [Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea)
 *   [Size markets using narratives, not numbers](http://cdixon.org/2010/04/03/size-markets-using-narratives-not-numbers)
 
 Planning, Business Plans, Law
