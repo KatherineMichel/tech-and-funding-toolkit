@@ -88,6 +88,7 @@ Ops
 *   [The farther away the better](http://cdixon.org/2009/06/22/the-farther-away-the-better)
 *   [“It is the human friction that makes the sparks”](http://cdixon.org/2012/02/20/it-is-the-human-friction-that-makes-the-sparks)
 *   [Agency problems](http://cdixon.org/2012/10/20/agency-problems)
+*   [Vanity milestones](http://cdixon.org/2012/09/11/vanity-milestones)
 
 HR
 *   [What to look for in hiring a VP Engineering for your internet startup](http://cdixon.org/2008/04/17/what-to-look-for-in-hiring-a-vp-engineering-for-your-internet-startup)
