@@ -46,10 +46,15 @@ Research
 *   [Understanding your market](http://cdixon.org/2009/10/11/understanding-your-market)
 *   [The challenge of creating a new category](http://cdixon.org/2009/10/20/the-challenge-of-creating-a-new-category)
 
-VC Firms
+Incubators, Angel Investors, VC Firms
+*   [Incubators](http://cdixon.org/2009/09/04/incubators)
+*   [How to select your angel investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors)
+*   [The segmentation of the venture industry](http://cdixon.org/2010/09/26/the-segmentation-of-the-venture-industry)
 *   [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter)
 *   [Which VC firm should I pitch?](http://cdixon.org/2009/09/05/which-vc-firm-should-i-pitch)
 *   [It’s the partner, not the firm](http://cdixon.org/2009/08/19/its-the-partner-not-the-firm)
+*   [Information is the (other) currency of venture capital](http://cdixon.org/2009/09/02/information-is-the-other-currency-of-venture-capital)
+*   [VC’s care about the upside case, not the mean](http://cdixon.org/2009/08/31/vcs-care-about-the-upside-case-not-the-mean)
 *   [Being friendly has become a competitive advantage in VC](http://cdixon.org/2010/01/29/being-friendly-has-become-a-competitive-advantage-in-vc)
 *   [Big timing](http://cdixon.org/2012/02/24/big-timing)
 
