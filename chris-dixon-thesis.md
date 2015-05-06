@@ -27,6 +27,7 @@ Risk
 *   [Different types of risk](http://cdixon.org/2012/06/06/different-types-of-risk)
 *   [Financing risk](http://cdixon.org/2011/04/21/financing-risk)
 *   [The risks of being a small investor in a private company](http://cdixon.org/2012/04/26/the-risks-of-being-a-small-investor-in-a-private-company)
+*   [The problem with investing based on pattern recognition](http://cdixon.org/2012/03/07/the-problem-with-investing-based-on-pattern-recognition)
 
 Research
 *   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
