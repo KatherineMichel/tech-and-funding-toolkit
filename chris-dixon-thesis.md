@@ -46,6 +46,13 @@ Research
 *   [Understanding your market](http://cdixon.org/2009/10/11/understanding-your-market)
 *   [The challenge of creating a new category](http://cdixon.org/2009/10/20/the-challenge-of-creating-a-new-category)
 
+VC Firms
+*   [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter)
+*   [Which VC firm should I pitch?](http://cdixon.org/2009/09/05/which-vc-firm-should-i-pitch)
+*   [It’s the partner, not the firm](http://cdixon.org/2009/08/19/its-the-partner-not-the-firm)
+*   [Being friendly has become a competitive advantage in VC](http://cdixon.org/2010/01/29/being-friendly-has-become-a-competitive-advantage-in-vc)
+*   [Big timing](http://cdixon.org/2012/02/24/big-timing)
+
 Pitch
 *   [Pitching the VC partnership](http://cdixon.org/2009/08/27/pitching-the-vc-partnership)
 *   [Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea)
