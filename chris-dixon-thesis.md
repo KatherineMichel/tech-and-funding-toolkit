@@ -65,9 +65,11 @@ Equity Versus Convertible
 *   [Why seed investors don’t like convertible notes](http://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes)
 
 Funding Rounds
+*   [Shoehorning startups into the VC model](http://cdixon.org/2012/07/19/shoehorning-startups-into-the-vc-model)
 *   [Best practices for raising a VC round](http://cdixon.org/2011/05/04/best-practices-for-raising-a-vc-round)
 *   [Ideal first round funding terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
 *   [The importance of investor signaling in venture pricing](http://cdixon.org/2010/03/12/the-importance-of-investor-signaling-in-venture-pricing)
+*   [Inside versus outside financings: the nightclub effect](http://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect)
 *   [Once you take money, the clock starts ticking](http://cdixon.org/2012/02/26/once-you-take-money-the-clock-starts-ticking)
 *   [Some thoughts on when to raise money, and the current financing environment](http://cdixon.org/2012/06/02/some-thoughts-on-when-to-raise-money-and-the-current-financing-environment)
 
@@ -84,6 +86,11 @@ The Problem
 *   [The other problem with venture capital: management fees](http://cdixon.org/2009/08/26/the-other-problem-with-venture-capital-management-fees)
 *   [The downside of accelerated investment decisions](http://cdixon.org/2011/07/29/the-downside-of-accelerated-investment-decisions)
 *   [Later-stage rounds and “setting the bar too high”](http://cdixon.org/2011/12/13/later-stage-rounds-and-setting-the-bar-too-high)
+
+Acquisitions
+*   [Three types of acquisitions](http://cdixon.org/2011/12/10/three-types-of-acquisitions)
+*   [The economic logic behind tech and talent acquisitions](http://cdixon.org/2012/10/19/the-economic-logic-behind-tech-and-talent-acquisitions)
+*   [Notes on the acquisition process](http://cdixon.org/2012/09/10/notes-on-the-acquisition-process)
 
 Pitch
 *   [Pitching the VC partnership](http://cdixon.org/2009/08/27/pitching-the-vc-partnership)
