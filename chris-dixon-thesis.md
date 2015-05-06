@@ -44,6 +44,7 @@ Planning, Business Plans, Law
 Equity Grants
 *   [Dividing equity between founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders)
 *   [The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant)
+*   [Owning equity in your company should be as common as owning equity in your home](http://cdixon.org/2011/09/13/owning-equity-in-your-company-should-be-as-common-as-owning-equity-in-your-home)
 
 Term Sheet
 *   [TheFunded term sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet)
@@ -114,6 +115,10 @@ Patents
 *   [Software patents should be abolished](http://cdixon.org/2009/09/24/software-patents-should-be-abolished)
 
 Trends
+*   [Ten million users is the new one million users](http://cdixon.org/2012/08/03/ten-million-is-the-new-one-million)
+*   [Increasing velocity](http://cdixon.org/2012/04/11/increasing-velocity)
+*   [The internet is reshaping our economy from one of huge corporations with lots of jobs to huge platforms with lots of income streams](http://cdixon.org/2012/02/26/the-internet-is-reshaping-our-economy-from-one-of-huge-corporations-with-lots-of-jobs-to-huge-platforms-with-lots-of-income-streams)
+*   [Technology and job creation](http://cdixon.org/2011/12/09/technology-and-job-creation)
 *   [Incumbents die due to irrelevance or ineptitude](http://cdixon.org/2012/04/26/incumbents-die-due-to-irrelevance-or-ineptitude)
 *   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
 
