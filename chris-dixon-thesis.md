@@ -14,6 +14,7 @@ Startups
 *   [There are two kinds of people in the world](http://cdixon.org/2011/04/27/there-are-two-kinds-of-people-in-the-world)
 *   [“Otherwise do something else”](http://cdixon.org/2011/12/02/otherwise-do-something-else)
 *   [The default state of a startup is failure](http://cdixon.org/2012/05/19/the-default-state-of-a-startup-is-failure)
+*   [Is now a good time to start a company?](http://cdixon.org/2009/09/07/is-now-a-good-time-to-start-a-company)
 
 Starting Up General Advice
 *   [Naming your startup](http://cdixon.org/2009/04/18/naming-your-startup)
@@ -21,6 +22,11 @@ Starting Up General Advice
 *   [Underhyping your startup](http://cdixon.org/2010/04/06/underhyping-your-startup)
 *   [The myth of the overnight success](http://cdixon.org/2012/03/16/the-myth-of-the-overnight-success)
 *   [And then, suddenly, it works](http://cdixon.org/2012/02/11/and-then-suddenly-it-works)
+
+Risk
+*   [Different types of risk](http://cdixon.org/2012/06/06/different-types-of-risk)
+*   [Financing risk](http://cdixon.org/2011/04/21/financing-risk)
+*   [The risks of being a small investor in a private company](http://cdixon.org/2012/04/26/the-risks-of-being-a-small-investor-in-a-private-company)
 
 Research
 *   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
