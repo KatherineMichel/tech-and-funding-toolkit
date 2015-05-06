@@ -13,6 +13,8 @@ Ideas
 Startups
 *   [There are two kinds of people in the world](http://cdixon.org/2011/04/27/there-are-two-kinds-of-people-in-the-world)
 *   [“Otherwise do something else”](http://cdixon.org/2011/12/02/otherwise-do-something-else)
+*   [Capabilities and sensibilities](http://cdixon.org/2012/07/17/capabilities-and-sensibilities)
+*   [Critics and practitioners](http://cdixon.org/2012/06/17/critics-and-practitioners)
 *   [The default state of a startup is failure](http://cdixon.org/2012/05/19/the-default-state-of-a-startup-is-failure)
 *   [Is now a good time to start a company?](http://cdixon.org/2009/09/07/is-now-a-good-time-to-start-a-company)
 
@@ -39,6 +41,8 @@ Research
 *   [Some thoughts on incumbents](http://cdixon.org/2010/10/08/some-thoughts-on-incumbents)
 *   [Incumbents](http://cdixon.org/2010/01/26/incumbents)
 *   [Understanding your market](http://cdixon.org/2009/10/11/understanding-your-market)
+*   [“It’s pretty difficult to solve big problems in four years”](http://cdixon.org/2014/07/06/its-pretty-difficult-to-solve-big-problems-in-four-years)
+*   [Some problems are so hard they need to be solved piece by piece](http://cdixon.org/2012/11/23/some-problems-are-so-hard-they-need-to-be-solved-piece-by-piece)
 
 Pitch
 *   [Pitching the VC partnership](http://cdixon.org/2009/08/27/pitching-the-vc-partnership)
@@ -101,6 +105,7 @@ Strategies
 *   [Building products from improvised user behaviors](http://cdixon.org/2012/01/02/building-products-from-improvised-user-behaviors)
 *   [Selling pickaxes during a gold rush](http://cdixon.org/2011/02/05/selling-pickaxes-during-a-gold-rush)
 *   [The “thin edge of the wedge” strategy](http://cdixon.org/2010/12/27/the-thin-edge-of-the-wedge-strategy)
+*   [The “ladies’ night” strategy](http://cdixon.org/2010/10/17/the-ladies-night-strategy)
 *   [The bowling pin strategy](http://cdixon.org/2010/08/21/the-bowling-pin-strategy)
 *   [Designing products for single and multiplayer modes](http://cdixon.org/2010/06/12/designing-products-for-single-and-multiplayer-modes)
 *   [Collective knowledge systems](http://cdixon.org/2010/01/17/collective-knowledge-systems)
@@ -152,10 +157,11 @@ Trends
 Words of Wisdom
 *   [Blogging to learn](http://cdixon.org/2012/05/10/blogging-to-learn)
 *   [“Meaningful” startups](http://cdixon.org/2012/04/18/meaningful-startups)
+*   [Some lessons learned](http://cdixon.org/2011/09/28/some-lessons-learned)
 *   [Do you want to sell sugar water or do you want to change the world?](http://cdixon.org/2011/08/28/do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world)
+*   [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](http://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough)
 *   [Builders and extractors](http://cdixon.org/2010/06/20/builders-and-extractors)
 *   [Man and superman](http://cdixon.org/2009/10/10/man-and-superman)
-*   [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](http://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough)
 *   [The importance of asking people questions](http://cdixon.org/2009/10/06/the-importance-of-asking-people-questions)
 *   [Getting a job in venture capital](http://cdixon.org/2009/09/08/getting-a-job-in-venture-capital)
 *   [Thanks…](http://cdixon.org/2009/09/17/thanks)
