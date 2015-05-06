@@ -104,6 +104,11 @@ Endings
 *   [When should you give up on an idea?](http://cdixon.org/2012/05/25/when-should-you-give-up-on-an-idea)
 *   [Shutting down](http://cdixon.org/2010/01/09/shutting-down)
 
+Adoption
+*   [Three levels of enthusiasm for technology](http://cdixon.org/2014/08/02/three-levels-of-enthusiasm-for-technology)
+*   [Techies and normals](http://cdixon.org/2010/01/22/techies-and-normals)
+*   [Non-linearity of technology adoption](http://cdixon.org/2009/09/10/non-linearity-of-technology-adoption)
+
 Silicon Valley
 *   [It’s not East Coast vs West Coast, it’s about making more places like the Valley](http://cdixon.org/2010/02/27/its-not-east-coast-vs-west-coast-its-about-making-more-places-like-the-valley)
 
@@ -127,6 +132,7 @@ Words of Wisdom
 *   [“Meaningful” startups](http://cdixon.org/2012/04/18/meaningful-startups)
 *   [Do you want to sell sugar water or do you want to change the world?](http://cdixon.org/2011/08/28/do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world)
 *   [Builders and extractors](http://cdixon.org/2010/06/20/builders-and-extractors)
+*   [Man and superman](http://cdixon.org/2009/10/10/man-and-superman)
 *   [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](http://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough)
 *   [The importance of asking people questions](http://cdixon.org/2009/10/06/the-importance-of-asking-people-questions)
 *   [Getting a job in venture capital](http://cdixon.org/2009/09/08/getting-a-job-in-venture-capital)
