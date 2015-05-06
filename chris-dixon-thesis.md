@@ -91,6 +91,7 @@ HR
 
 Strategies
 *   [Come for the tool, stay for the network](http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network)
+*   [Two eras of the internet: pull and push](http://cdixon.org/2014/12/21/two-eras-of-the-internet-pull-and-push)
 *   [How bundling benefits sellers and buyers](http://cdixon.org/2012/07/08/how-bundling-benefits-sellers-and-buyers)
 *   [The real strategy behind tiered data plans](http://cdixon.org/2012/06/27/the-real-strategy-behind-tiered-data-plans)
 *   [Give away the diagnostic, sell the remedy](http://cdixon.org/2012/03/27/give-away-the-diagnostic-sell-the-remedy)
@@ -99,6 +100,8 @@ Strategies
 *   [The “thin edge of the wedge” strategy](http://cdixon.org/2010/12/27/the-thin-edge-of-the-wedge-strategy)
 *   [The bowling pin strategy](http://cdixon.org/2010/08/21/the-bowling-pin-strategy)
 *   [Designing products for single and multiplayer modes](http://cdixon.org/2010/06/12/designing-products-for-single-and-multiplayer-modes)
+*   [Collective knowledge systems](http://cdixon.org/2010/01/17/collective-knowledge-systems)
+*   [What carries you up will also bring you down](http://cdixon.org/2009/10/13/what-carries-you-up-will-also-bring-you-down)
 *   [Dividing free and paid features in “freemium” products](http://cdixon.org/2009/09/04/dividing-free-and-paid-features-in-freemium-products)
 *   [Six strategies for overcoming “chicken and egg” problems](http://cdixon.org/2009/08/25/six-strategies-for-overcoming-chicken-and-egg-problems)
 
@@ -137,6 +140,7 @@ Trends
 *   [Incumbents die due to irrelevance or ineptitude](http://cdixon.org/2012/04/26/incumbents-die-due-to-irrelevance-or-ineptitude)
 *   [Predicting the future of the Internet is easy: anything it hasn’t yet dramatically transformed, it will.](http://cdixon.org/2011/01/13/predicting-the-future-of-the-internet-is-easy-anything-it-hasnt-yet-dramatically-transformed-it-will)
 *   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
+*   [The tradeoff between open and closed](http://cdixon.org/2010/04/25/the-tradeoff-between-open-and-closed)
 
 Words of Wisdom
 *   [Blogging to learn](http://cdixon.org/2012/05/10/blogging-to-learn)
