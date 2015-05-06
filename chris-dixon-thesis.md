@@ -126,11 +126,16 @@ Patents
 *   [Software patents should be abolished](http://cdixon.org/2009/09/24/software-patents-should-be-abolished)
 
 Trends
+*   [The next twenty years are going to make this last twenty years just pale](http://cdixon.org/2014/06/15/the-next-twenty-years-are-going-to-make-this-last-twenty-years-just-pale)
+*   [Software eats software development](http://cdixon.org/2014/04/13/software-eats-software-development)
+*   [The decline of the mobile web](http://cdixon.org/2014/04/07/the-decline-of-the-mobile-web)
+*   [Full stack startups](http://cdixon.org/2014/03/15/full-stack-startups)
 *   [Ten million users is the new one million users](http://cdixon.org/2012/08/03/ten-million-is-the-new-one-million)
 *   [Increasing velocity](http://cdixon.org/2012/04/11/increasing-velocity)
 *   [The internet is reshaping our economy from one of huge corporations with lots of jobs to huge platforms with lots of income streams](http://cdixon.org/2012/02/26/the-internet-is-reshaping-our-economy-from-one-of-huge-corporations-with-lots-of-jobs-to-huge-platforms-with-lots-of-income-streams)
 *   [Technology and job creation](http://cdixon.org/2011/12/09/technology-and-job-creation)
 *   [Incumbents die due to irrelevance or ineptitude](http://cdixon.org/2012/04/26/incumbents-die-due-to-irrelevance-or-ineptitude)
+*   [Predicting the future of the Internet is easy: anything it hasn’t yet dramatically transformed, it will.](http://cdixon.org/2011/01/13/predicting-the-future-of-the-internet-is-easy-anything-it-hasnt-yet-dramatically-transformed-it-will)
 *   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
 
 Words of Wisdom
