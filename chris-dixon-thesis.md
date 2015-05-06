@@ -64,6 +64,27 @@ Equity Versus Convertible
 *   [Converts versus equity deals](http://cdixon.org/2010/08/31/converts-versus-equity-deals)
 *   [Why seed investors don’t like convertible notes](http://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes)
 
+Funding Rounds
+*   [Best practices for raising a VC round](http://cdixon.org/2011/05/04/best-practices-for-raising-a-vc-round)
+*   [Ideal first round funding terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
+*   [The importance of investor signaling in venture pricing](http://cdixon.org/2010/03/12/the-importance-of-investor-signaling-in-venture-pricing)
+*   [Once you take money, the clock starts ticking](http://cdixon.org/2012/02/26/once-you-take-money-the-clock-starts-ticking)
+*   [Some thoughts on when to raise money, and the current financing environment](http://cdixon.org/2012/06/02/some-thoughts-on-when-to-raise-money-and-the-current-financing-environment)
+
+Seed Financing
+*   [Notes on raising seed financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing)
+*   [What’s the right amount of seed money to raise?](http://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise)
+*   [The most important question to ask before taking seed money](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money)
+*   [Revisited: big VCs investing in seed rounds](http://cdixon.org/2012/04/02/revisited-big-vcs-investing-in-seed-rounds)
+*   [It’s not that seed investors are smarter – it’s that entrepreneurs are](http://cdixon.org/2010/07/05/its-not-that-seed-investors-are-smarter-its-that-entrepreneurs-are)
+
+The Problem
+*   [The problem with taking seed money from big VCs](http://cdixon.org/2009/08/14/the-problem-with-taking-seed-money-from-big-vcs)
+*   [The problem with tranched VC investments](http://cdixon.org/2009/08/15/the-problem-with-tranched-vc-investments)
+*   [The other problem with venture capital: management fees](http://cdixon.org/2009/08/26/the-other-problem-with-venture-capital-management-fees)
+*   [The downside of accelerated investment decisions](http://cdixon.org/2011/07/29/the-downside-of-accelerated-investment-decisions)
+*   [Later-stage rounds and “setting the bar too high”](http://cdixon.org/2011/12/13/later-stage-rounds-and-setting-the-bar-too-high)
+
 Pitch
 *   [Pitching the VC partnership](http://cdixon.org/2009/08/27/pitching-the-vc-partnership)
 *   [Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea)
@@ -78,8 +99,9 @@ Planning, Business Plans, Law
 Equity Grants
 *   [Dividing equity between founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders)
 *   [The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant)
-*   [Owning equity in your company should be as common as owning equity in your home](http://cdixon.org/2011/09/13/owning-equity-in-your-company-should-be-as-common-as-owning-equity-in-your-home)
+*   [The worst time to join a startup is right after it gets initial VC financing](http://cdixon.org/2009/08/25/the-worst-time-to-join-a-startup-is-right-after-it-gets-initial-vc-financing)
 *   [Question from a reader](http://cdixon.org/2009/09/02/question-from-a-reader)
+*   [Owning equity in your company should be as common as owning equity in your home](http://cdixon.org/2011/09/13/owning-equity-in-your-company-should-be-as-common-as-owning-equity-in-your-home)
 
 Term Sheet
 *   [TheFunded term sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet)
