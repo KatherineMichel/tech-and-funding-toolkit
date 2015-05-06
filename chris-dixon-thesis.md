@@ -137,6 +137,7 @@ Ops
 *   [“It is the human friction that makes the sparks”](http://cdixon.org/2012/02/20/it-is-the-human-friction-that-makes-the-sparks)
 *   [Agency problems](http://cdixon.org/2012/10/20/agency-problems)
 *   [Vanity milestones](http://cdixon.org/2012/09/11/vanity-milestones)
+*   [Growth curves of startups](http://cdixon.org/2011/12/07/growth-curves-of-startups)
 
 HR
 *   [What to look for in hiring a VP Engineering for your internet startup](http://cdixon.org/2008/04/17/what-to-look-for-in-hiring-a-vp-engineering-for-your-internet-startup)
