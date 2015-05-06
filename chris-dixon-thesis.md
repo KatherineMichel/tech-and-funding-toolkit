@@ -50,6 +50,7 @@ Incubators, Angel Investors, VC Firms
 *   [Incubators](http://cdixon.org/2009/09/04/incubators)
 *   [How to select your angel investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors)
 *   [The segmentation of the venture industry](http://cdixon.org/2010/09/26/the-segmentation-of-the-venture-industry)
+*   [Every time an engineer joins Google, a startup dies](http://cdixon.org/2010/02/11/every-time-an-engineer-joins-google-a-startup-dies)
 *   [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter)
 *   [Which VC firm should I pitch?](http://cdixon.org/2009/09/05/which-vc-firm-should-i-pitch)
 *   [It’s the partner, not the firm](http://cdixon.org/2009/08/19/its-the-partner-not-the-firm)
@@ -57,6 +58,11 @@ Incubators, Angel Investors, VC Firms
 *   [VC’s care about the upside case, not the mean](http://cdixon.org/2009/08/31/vcs-care-about-the-upside-case-not-the-mean)
 *   [Being friendly has become a competitive advantage in VC](http://cdixon.org/2010/01/29/being-friendly-has-become-a-competitive-advantage-in-vc)
 *   [Big timing](http://cdixon.org/2012/02/24/big-timing)
+
+Equity Versus Convertible
+*   [Equity value](http://cdixon.org/2012/06/06/equity-value)
+*   [Converts versus equity deals](http://cdixon.org/2010/08/31/converts-versus-equity-deals)
+*   [Why seed investors don’t like convertible notes](http://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes)
 
 Pitch
 *   [Pitching the VC partnership](http://cdixon.org/2009/08/27/pitching-the-vc-partnership)
@@ -73,6 +79,7 @@ Equity Grants
 *   [Dividing equity between founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders)
 *   [The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant)
 *   [Owning equity in your company should be as common as owning equity in your home](http://cdixon.org/2011/09/13/owning-equity-in-your-company-should-be-as-common-as-owning-equity-in-your-home)
+*   [Question from a reader](http://cdixon.org/2009/09/02/question-from-a-reader)
 
 Term Sheet
 *   [TheFunded term sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet)
