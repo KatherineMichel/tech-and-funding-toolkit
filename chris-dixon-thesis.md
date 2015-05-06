@@ -129,10 +129,13 @@ Patents
 *   [Software patents should be abolished](http://cdixon.org/2009/09/24/software-patents-should-be-abolished)
 
 Trends
-*   [The next twenty years are going to make this last twenty years just pale](http://cdixon.org/2014/06/15/the-next-twenty-years-are-going-to-make-this-last-twenty-years-just-pale)
+*   [We asked for flying cars and all we got was the entire planet communicating instantly via pocket supercomputers](http://cdixon.org/2014/10/28/we-asked-for-flying-cars-and-all-we-got-was-the-entire-planet-communicating-instantly-via-pocket-supercomputers)
+*   []()[The next twenty years are going to make this last twenty years just pale](http://cdixon.org/2014/06/15/the-next-twenty-years-are-going-to-make-this-last-twenty-years-just-pale)
 *   [Software eats software development](http://cdixon.org/2014/04/13/software-eats-software-development)
 *   [The decline of the mobile web](http://cdixon.org/2014/04/07/the-decline-of-the-mobile-web)
 *   [Full stack startups](http://cdixon.org/2014/03/15/full-stack-startups)
+*   [Technology predictions](http://cdixon.org/2013/04/06/technology-predictions)
+*   [The computing deployment phase](http://cdixon.org/2013/02/10/the-computing-deployment-phase)
 *   [Ten million users is the new one million users](http://cdixon.org/2012/08/03/ten-million-is-the-new-one-million)
 *   [Increasing velocity](http://cdixon.org/2012/04/11/increasing-velocity)
 *   [The internet is reshaping our economy from one of huge corporations with lots of jobs to huge platforms with lots of income streams](http://cdixon.org/2012/02/26/the-internet-is-reshaping-our-economy-from-one-of-huge-corporations-with-lots-of-jobs-to-huge-platforms-with-lots-of-income-streams)
@@ -141,6 +144,7 @@ Trends
 *   [Predicting the future of the Internet is easy: anything it hasn’t yet dramatically transformed, it will.](http://cdixon.org/2011/01/13/predicting-the-future-of-the-internet-is-easy-anything-it-hasnt-yet-dramatically-transformed-it-will)
 *   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
 *   [The tradeoff between open and closed](http://cdixon.org/2010/04/25/the-tradeoff-between-open-and-closed)
+*   [What if online business model innovation is slowing down?](http://cdixon.org/2009/09/28/what-if-online-business-model-innovation-is-slowing-down)
 
 Words of Wisdom
 *   [Blogging to learn](http://cdixon.org/2012/05/10/blogging-to-learn)
