@@ -1,6 +1,9 @@
 Blog
 *   [Chris Dixon Blog](http://cdixon.org)
 
+Startup School "Secret" Talk
+*   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
+
 Ideas
 *   [“The great ideas have come from people who weren’t paid to have great ideas”](http://cdixon.org/2014/10/20/for-every-new-good-idea-you-have-there-ten-thousand-foolish-ones)
 *   [“A lot of the best tech startups are ideas that have been around for years”](http://cdixon.org/2014/10/15/a-lot-of-the-best-tech-startups-are-ideas-that-have-been-around-for-years)
@@ -219,6 +222,7 @@ Words of Wisdom
 *   [Builders and extractors](http://cdixon.org/2010/06/20/builders-and-extractors)
 *   [Man and superman](http://cdixon.org/2009/10/10/man-and-superman)
 *   [The importance of asking people questions](http://cdixon.org/2009/10/06/the-importance-of-asking-people-questions)
+*   [Chris Dixon: Climbing the Wrong Hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill) and [Hill Climbing: Wikipedia](http://en.wikipedia.org/wiki/Hill_climbing)
 *   [Getting a job in venture capital](http://cdixon.org/2009/09/08/getting-a-job-in-venture-capital)
 *   [Thanks…](http://cdixon.org/2009/09/17/thanks)
 
