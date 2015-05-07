@@ -485,8 +485,6 @@ Unicorns
 
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
-*   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
-*   [Chris Dixon: Climbing the Wrong Hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill) and [Hill Climbing: Wikipedia](http://en.wikipedia.org/wiki/Hill_climbing)
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
 *   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
