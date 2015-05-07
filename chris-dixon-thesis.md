@@ -196,8 +196,9 @@ Patents
 *   [Software patents should be abolished](http://cdixon.org/2009/09/24/software-patents-should-be-abolished)
 
 Trends
+*   [“The Future of Reading Depends on the Future of Learning Difficult to Learn Things”](http://cdixon.org/2014/11/08/the-future-of-reading-depends-on-the-future-of-learning-difficult-to-learn-things)
 *   [We asked for flying cars and all we got was the entire planet communicating instantly via pocket supercomputers](http://cdixon.org/2014/10/28/we-asked-for-flying-cars-and-all-we-got-was-the-entire-planet-communicating-instantly-via-pocket-supercomputers)
-*   []()[The next twenty years are going to make this last twenty years just pale](http://cdixon.org/2014/06/15/the-next-twenty-years-are-going-to-make-this-last-twenty-years-just-pale)
+*   [The next twenty years are going to make this last twenty years just pale](http://cdixon.org/2014/06/15/the-next-twenty-years-are-going-to-make-this-last-twenty-years-just-pale)
 *   [Software eats software development](http://cdixon.org/2014/04/13/software-eats-software-development)
 *   [The decline of the mobile web](http://cdixon.org/2014/04/07/the-decline-of-the-mobile-web)
 *   [Full stack startups](http://cdixon.org/2014/03/15/full-stack-startups)
