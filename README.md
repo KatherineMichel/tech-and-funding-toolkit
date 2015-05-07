@@ -410,6 +410,7 @@ Delaware
 *   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
 Law and Transaction Services
+*   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914) via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
 *   [Gunderson Dettmer](http://www.gunder.com)
 *   [Fenwick and West LLP](https://www.fenwick.com/pages/default.aspx)
 *   [Wilson Sonsini Goodrich and Rosati](https://www.wsgr.com/WSGR/Default.aspx)
@@ -485,6 +486,7 @@ Unicorns
 #### Philosophies, Milestones
 
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
+*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
@@ -492,6 +494,7 @@ Unicorns
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
+*   [Jeff Bezos Regret Minimization Framework via Bijan Sabet](http://bijansabet.com/post/147533511/jeff-bezos-regret-minimization-framework)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
 *   [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
 *   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
