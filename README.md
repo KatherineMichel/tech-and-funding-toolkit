@@ -408,7 +408,10 @@ Delaware
 *   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
 *   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
-Transaction Services
+Law and Transaction Services
+*   [Gunderson Dettmer](http://www.gunder.com)
+*   [Fenwick and West LLP](https://www.fenwick.com/pages/default.aspx)
+*   [Wilson Sonsini Goodrich and Rosati](https://www.wsgr.com/WSGR/Default.aspx)
 *   [Fortis](http://fortisrep.com) 
 
 Securities and Exchange Commission (SEC)
