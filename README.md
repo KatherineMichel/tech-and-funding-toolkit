@@ -316,6 +316,7 @@ Coding and Math
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 
 Shows
+*   [Founder Stories](http://techcrunch.com/video/founder-stories)
 *   [Heart Startup](http://hearstartup.com) 
 *   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
 *   [This Week in Startups](http://thisweekinstartups.com)
