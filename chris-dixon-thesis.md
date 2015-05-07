@@ -121,10 +121,13 @@ Cost/Price, Revenue/Margin
 *   [Pricing to the demand curve](http://cdixon.org/2012/07/04/pricing-to-the-demand-curve)
 *   [Revenue vs margin](http://cdixon.org/2012/01/22/revenue-vs-margin)
 
-Programming
+Programming and Platform Risks
 *   [Bedrock programming](http://cdixon.org/2012/02/07/bedrock-programming)
 *   [Who should learn to program?](http://cdixon.org/2012/01/31/who-should-learn-to-program)
 *   [The only college major that matters](http://cdixon.org/2009/09/06/the-only-college-major-that-matters)
+*   [Platform distribution risks](http://cdixon.org/2012/02/15/platform-distribution-risks)
+*   [The importance of predictability for platform developers](http://cdixon.org/2011/02/22/the-importance-of-predictability-for-platform-developers)
+*   [The importance of institutional redundancy](http://cdixon.org/2009/11/20/the-importance-of-institutional-redundancy)
 
 Ops
 *   [Some tips for interacting with the press](http://cdixon.org/2012/03/02/some-tips-for-interacting-with-the-press)
