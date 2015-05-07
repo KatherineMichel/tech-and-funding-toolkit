@@ -489,6 +489,7 @@ Unicorns
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
 *   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
+*   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
@@ -501,6 +502,7 @@ Unicorns
 *   [Mark Cranney: Sales Process](https://a16z.files.wordpress.com/2014/05/cranney_salesprocess.jpg) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+*   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
 *   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [Peter Thiel: Secrets](http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes) and [Tomasz Tunguz: Startup Judo](http://tomtunguz.com/startup-judo-the-secrets-you-should-know-before-starting-a-company)
