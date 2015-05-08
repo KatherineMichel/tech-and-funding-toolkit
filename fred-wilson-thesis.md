@@ -30,6 +30,7 @@ Financing Options
 *   [Capital Equipment Loans and Leases](http://avc.com/2011/08/financing-options-capital-equipment-loans-and-leases)
 *   [Bridge Loans](http://avc.com/2011/08/financing-options-bridge-loans)   
 *   [Working Capital Financing](http://avc.com/2011/08/financing-options-working-capital-financing)
+*   [Revenue Based Financing](http://avc.com/2011/10/revenue-based-financing)
 
 ROI
 *   [How To Calculate A Return On Investment](http://avc.com/2010/02/corporate-entity)
@@ -60,14 +61,23 @@ Pricing A Follow-On Venture Investment
 *   [Pricing A Follow-On Venture Investment](http://avc.com/2011/08/pricing-a-follow-on-venture-investment)
 *   [Pricing A Follow-On Venture Investment Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdGJNMW1yVzg3YWtpeWtCVkhoa3FtalE&hl=en_US)
 
+Key Business Metrics
+*   [Key Business Metrics](http://avc.com/2010/04/key-business-metrics)
+
 Burn Rate 
 *   [Burn Rate](http://avc.com/2011/12/burn-rate)
 *   [How Much To Burn While Building Product](http://avc.com/2011/12/how-much-to-burn-while-building-product)
 *   [Burn Rates: How Much?](http://avc.com/2011/12/burn-rates-how-much)
 
+Roles
+*   [What A CEO Does](http://avc.com/2010/08/what-a-ceo-does)
+*   [What A CEO Does (continued)](http://avc.com/2010/09/what-a-ceo-does-continued)
+*   [VP Engineering Vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto)
+*   [VP Finance vs CFO](http://avc.com/2011/10/vp-finance-vs-cfo)
+
 Management Team
 *   [What A Management Team Does](http://avc.com/2011/02/what-a-management-team-does)
-*   [Scaling The Management Team](hhttp://avc.com/2011/12/scaling-the-management-team)
+*   [Scaling The Management Team](http://avc.com/2011/12/scaling-the-management-team)
 *   [The Management Team – While Building Product](http://avc.com/2012/01/the-management-team-while-building-product)
 *   [The Management Team – While Building Usage](http://avc.com/2012/01/the-management-team-while-building-usage)
 *   [The Management Team – While Building The Business](http://avc.com/2010/09/outsourcing)
