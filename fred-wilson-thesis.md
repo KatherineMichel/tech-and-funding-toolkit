@@ -82,6 +82,25 @@ Management Team
 *   [The Management Team – While Building Usage](http://avc.com/2012/01/the-management-team-while-building-usage)
 *   [The Management Team – While Building The Business](http://avc.com/2010/09/outsourcing)
 
+Board of Directors
+*   [MBA Mondays Series: The Board Of Directors](http://avc.com/2012/02/mba-mondays-series-the-board-of-directors)
+*   [Role and Responsibilities](http://avc.com/2012/03/the-board-of-directors-role-and-responsibilities)
+*   [Selecting, Electing & Evolving](http://avc.com/2012/03/the-board-of-directors-selecting-electing-evolving)
+*   [The Board Chair](http://avc.com/2012/03/the-board-of-directors-the-board-chair)
+*   [Board Chemistry](http://avc.com/2012/03/the-board-of-directors-board-chemistry)
+*   [Board Meetings](http://avc.com/2012/04/the-board-of-directors-board-meetings)
+*   [Board Committees](http://avc.com/2012/04/the-board-of-directors-board-committees)
+
+HR
+*   [MBA Mondays Series: Human Capital](http://avc.com/2012/05/mba-mondays-series-human-capital)
+*   [People](http://avc.com/2012/05/mba-mondays-series-people)
+*   [Culture And Fit](http://avc.com/2012/05/mba-mondays-culture-and-fit)
+*   [Where To Find Strong Talent](http://avc.com/2012/05/mba-mondays-where-to-find-strong-talent)
+*   [Optimal Headcount At Various Stages](http://avc.com/2012/06/mba-mondays-optimal-headcount-at-various-stages)
+*   [Best Hiring Practices](http://avc.com/2012/06/mba-mondays-best-hiring-practices)
+*   [Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees)   
+*   [Asking An Employee To Leave The Company](http://avc.com/2012/07/mba-mondays-asking-an-employee-to-leave-the-company)
+
 Outsourcing and Offshoring
 *   [Outsourcing](http://avc.com/2010/09/outsourcing)
 *   [Outsourcing vs Offshoring](http://avc.com/2010/09/outsourcing-vs-offshoring)
