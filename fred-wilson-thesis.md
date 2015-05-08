@@ -29,6 +29,11 @@ Cap Tables
 *   [Cap Tables](http://avc.com/2011/09/mba-mondays-cap-tables)
 *   [Cap Tables Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US#gid=0)
 
+Liquidation Analysis
+*   [Liquidation Analysis](http://avc.com/2011/10/liquidation-analysis)
+*   [Liquidation Analysis (Continued)](http://avc.com/2011/10/liquidation-analysis-continued)
+*   [Liquidation Analysis Google Doc (Second Tab)](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US)
+
 Determining Valuation Multiples, Revenue Multiples And Growth
 *   [Determining Valuation Multiples](http://avc.com/2011/09/determining-valuation-multiples)
 *   [SaaS Valuation Multiples Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdElGcFZLSlJMOTFQZ0JiSjB6N3dHSHc&hl=en_US)
@@ -38,6 +43,11 @@ Determining Valuation Multiples, Revenue Multiples And Growth
 Pricing A Follow-On Venture Investment
 *   [Pricing A Follow-On Venture Investment](http://avc.com/2011/08/pricing-a-follow-on-venture-investment)
 *   [Pricing A Follow-On Venture Investment Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdGJNMW1yVzg3YWtpeWtCVkhoa3FtalE&hl=en_US)
+
+Burn Rate 
+*   [Burn Rate](http://avc.com/2011/12/burn-rate)
+*   [How Much To Burn While Building Product](http://avc.com/2011/12/how-much-to-burn-while-building-product)
+*   [Burn Rates: How Much?](http://avc.com/2011/12/burn-rates-how-much)
 
 
 
