@@ -15,6 +15,22 @@ Corporate Entity
 *   [Corporate Entities](http://avc.com/2010/02/corporate-entity)
 *   [Piercing The Corporate Veil](http://avc.com/2010/03/piercing-the-corporate-veil)
 
+Financing Options
+*   [Financing Options For Small Tech Companies](http://avc.com/2011/05/financing-options-for-small-tech-companies)
+*   [Financing Options For Startups](http://avc.com/2011/05/financing-options-for-startups)
+*   [Friends and Family](hhttp://avc.com/2011/05/financing-options-friends-and-family)
+*   [Contests/Prizes/Accelerator Programs](http://avc.com/2011/06/financing-options-contestsprizesaccelerator-programs)
+*   [Government Grants](http://avc.com/2011/06/financing-options-government-grants)
+*   [Customers](http://avc.com/2011/06/financing-options-customers)
+*   [Vendor Financing](http://avc.com/2011/06/financing-options-vendor-financing)
+*   [Convertible Debt](http://avc.com/2011/07/financing-options-convertible-debt)
+*   [Preferred Stock](http://avc.com/2011/07/financing-options-preferred-stock)
+*   [Here’s Why You Need A Liquidation Preference](http://avc.com/2010/08/heres-why-you-need-a-liquidation-preference)
+*   [Venture Debt](http://avc.com/2011/07/financings-options-venture-debt)
+*   [Capital Equipment Loans and Leases](http://avc.com/2011/08/financing-options-capital-equipment-loans-and-leases)
+*   [Bridge Loans](http://avc.com/2011/08/financing-options-bridge-loans)   
+*   [Working Capital Financing](http://avc.com/2011/08/financing-options-working-capital-financing)
+
 ROI
 *   [How To Calculate A Return On Investment](http://avc.com/2010/02/corporate-entity)
 *   [Return On Investment Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AvqoGGDowi93dGZmZUp3RVFrZGpxRHZfazJwZWhmRlE&hl=en)
@@ -48,6 +64,11 @@ Burn Rate
 *   [Burn Rate](http://avc.com/2011/12/burn-rate)
 *   [How Much To Burn While Building Product](http://avc.com/2011/12/how-much-to-burn-while-building-product)
 *   [Burn Rates: How Much?](http://avc.com/2011/12/burn-rates-how-much)
+
+Outsourcing and Offshoring
+*   [Outsourcing](http://avc.com/2010/09/outsourcing)
+*   [Outsourcing vs Offshoring](http://avc.com/2010/09/outsourcing-vs-offshoring)
+
 
 
 
