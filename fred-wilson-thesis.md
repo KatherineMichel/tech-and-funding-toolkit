@@ -32,6 +32,18 @@ Financing Options
 *   [Working Capital Financing](http://avc.com/2011/08/financing-options-working-capital-financing)
 *   [Revenue Based Financing](http://avc.com/2011/10/revenue-based-financing)
 
+Revenue Models
+*   [My Favorite Business Model](http://avc.com/2006/03/my_favorite_bus)
+*   [Transaction Processing](http://avc.com/2013/01/mba-mondays-revenue-models-transaction-processing)
+*   [Subscriptions](http://avc.com/2013/01/mba-mondays-revenue-models-subscriptions)
+*   [Peer to Peer](http://avc.com/2013/01/mba-mondays-revenue-models-peer-to-peer)
+*   [Licensing](http://avc.com/2013/01/mba-mondays-revenue-models-licensing)
+*   [Mobile](http://avc.com/2013/02/mba-mondays-revenue-models-mobile)
+*   [Gaming](http://avc.com/2013/02/mba-mondays-revenue-models-gaming)
+*   [Data](http://avc.com/2013/02/mba-mondays-revenue-models-data)
+*   [Commerce](http://avc.com/2012/12/mba-mondays-revenue-models-commerce)
+*   [Advertising](http://avc.com/2012/12/mba-mondays-revenue-models-advertising)
+
 ROI
 *   [How To Calculate A Return On Investment](http://avc.com/2010/02/corporate-entity)
 *   [Return On Investment Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AvqoGGDowi93dGZmZUp3RVFrZGpxRHZfazJwZWhmRlE&hl=en)
