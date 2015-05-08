@@ -5,7 +5,7 @@ MBA Mondays
 *   [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive)
 
 Financial Statements
-*   [Analyzing Financial Statements](hhttp://avc.com/2010/04/analyzing-financial-statements)
+*   [Analyzing Financial Statements](http://avc.com/2010/04/analyzing-financial-statements)
 *   [Cash Flow](http://avc.com/2010/03/cash-flow)
 *   [The Balance Sheet](http://avc.com/2010/03/the-balance-sheet)
 *   [The Profit and Loss Statement](http://avc.com/2010/03/the-profit-and-loss-statement)
@@ -17,7 +17,7 @@ Corporate Entity
 
 ROI
 *   [How To Calculate A Return On Investment](http://avc.com/2010/02/corporate-entity)
-*   [Return On Investment Google Doc](hhttps://docs.google.com/spreadsheet/ccc?key=0AvqoGGDowi93dGZmZUp3RVFrZGpxRHZfazJwZWhmRlE&hl=en)
+*   [Return On Investment Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AvqoGGDowi93dGZmZUp3RVFrZGpxRHZfazJwZWhmRlE&hl=en)
 
 Time Value of Money
 *   [The Time Value Of Money](http://avc.com/2010/02/the-time-value-of-money)
@@ -25,6 +25,19 @@ Time Value of Money
 *   [Compounding Interest](http://avc.com/2010/02/compounding-interest)
 *   [Compounding Interest Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AvqoGGDowi93dDdFc0dCRGlBc0FFSV9zb3dYZllpSFE&hl=en)
 
+Cap Tables
+*   [Cap Tables](http://avc.com/2011/09/mba-mondays-cap-tables)
+*   [Cap Tables Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US#gid=0)
+
+Determining Valuation Multiples, Revenue Multiples And Growth
+*   [Determining Valuation Multiples](http://avc.com/2011/09/determining-valuation-multiples)
+*   [SaaS Valuation Multiples Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdElGcFZLSlJMOTFQZ0JiSjB6N3dHSHc&hl=en_US)
+*   [Revenue Multiples And Growth](http://avc.com/2014/12/revenue-multiples-and-growth)
+*   [EBITDA](http://avc.com/2011/09/ebitda)
+
+Pricing A Follow-On Venture Investment
+*   [Pricing A Follow-On Venture Investment](http://avc.com/2011/08/pricing-a-follow-on-venture-investment)
+*   [Pricing A Follow-On Venture Investment Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdGJNMW1yVzg3YWtpeWtCVkhoa3FtalE&hl=en_US)
 
 
 
