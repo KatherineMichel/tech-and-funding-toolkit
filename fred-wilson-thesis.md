@@ -18,7 +18,7 @@ Corporate Entity
 Financing Options
 *   [Financing Options For Small Tech Companies](http://avc.com/2011/05/financing-options-for-small-tech-companies)
 *   [Financing Options For Startups](http://avc.com/2011/05/financing-options-for-startups)
-*   [Friends and Family](hhttp://avc.com/2011/05/financing-options-friends-and-family)
+*   [Friends and Family](http://avc.com/2011/05/financing-options-friends-and-family)
 *   [Contests/Prizes/Accelerator Programs](http://avc.com/2011/06/financing-options-contestsprizesaccelerator-programs)
 *   [Government Grants](http://avc.com/2011/06/financing-options-government-grants)
 *   [Customers](http://avc.com/2011/06/financing-options-customers)
@@ -64,6 +64,13 @@ Burn Rate
 *   [Burn Rate](http://avc.com/2011/12/burn-rate)
 *   [How Much To Burn While Building Product](http://avc.com/2011/12/how-much-to-burn-while-building-product)
 *   [Burn Rates: How Much?](http://avc.com/2011/12/burn-rates-how-much)
+
+Management Team
+*   [What A Management Team Does](http://avc.com/2011/02/what-a-management-team-does)
+*   [Scaling The Management Team](hhttp://avc.com/2011/12/scaling-the-management-team)
+*   [The Management Team – While Building Product](http://avc.com/2012/01/the-management-team-while-building-product)
+*   [The Management Team – While Building Usage](http://avc.com/2012/01/the-management-team-while-building-usage)
+*   [The Management Team – While Building The Business](http://avc.com/2010/09/outsourcing)
 
 Outsourcing and Offshoring
 *   [Outsourcing](http://avc.com/2010/09/outsourcing)
