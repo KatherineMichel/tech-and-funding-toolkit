@@ -81,7 +81,7 @@ M.A.
 *   [Breakup Fees](http://avc.com/2011/02/ma-issues-breakup-fees)
 *   [Reps, Warranties, Indemnities, and Escrows](http://avc.com/2011/02/ma-issues-reps-warranties-indemnities-and-escrows)
 *   [Governmental Approvals](http://avc.com/2011/02/ma-issues-governmental-approvals)
-*   [Timing](hhttp://avc.com/2011/03/ma-issues-timing)
+*   [Timing](http://avc.com/2011/03/ma-issues-timing)
 *   [Consideration](http://avc.com/2011/03/ma-issues-consideration)
 *   [Price](http://avc.com/2011/04/ma-issues-price)
 
