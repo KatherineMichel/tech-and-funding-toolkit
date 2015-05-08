@@ -23,8 +23,13 @@ Equity Versus Convertible
 
 Valuation and Dilution
 *   [The Dreaded Question of Valuation](http://www.bothsidesofthetable.com/2009/07/28/the-dreaded-question-of-valuation)
-*   [Want to Know How VCs Calculate Valuation Differently from Founders?](hhttp://www.bothsidesofthetable.com/2010/07/22/want-to-know-how-vcs-calculate-valuation-differently-from-founders)
+*   [Want to Know How VCs Calculate Valuation Differently from Founders?](http://www.bothsidesofthetable.com/2010/07/22/want-to-know-how-vcs-calculate-valuation-differently-from-founders)
 *   [Understanding How Dilution Affects You at a Startup](http://www.bothsidesofthetable.com/2011/10/14/understanding-how-dilution-affects-you-at-a-startup)
+
+Equity, Taking Money off the Table, Stock Options
+*   [Founders, Ownership and Prenuptials](http://www.bothsidesofthetable.com/2009/08/18/founders-ownership-and-stock-options)
+*   [Should Founders Be Allowed to Take Money off the Table?](http://www.bothsidesofthetable.com/2009/09/02/should-founders-be-allowed-to-take-money-off-the-table)
+*   [How to Discuss Stock Options with Your Team](http://www.bothsidesofthetable.com/2010/09/06/how-to-discuss-stock-options-with-your-team)
 
 Pro-Rata
 *   [What all Entrepreneurs Need to Know About Prorata Rights](http://www.bothsidesofthetable.com/2014/10/12/the-authoritative-guide-to-prorata-rights)
