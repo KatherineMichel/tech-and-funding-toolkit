@@ -125,6 +125,20 @@ HR
 *   [Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees)   
 *   [Asking An Employee To Leave The Company](http://avc.com/2012/07/mba-mondays-asking-an-employee-to-leave-the-company)
 
+Employee Equity
+*   [Employee Equity Wealthfront](http://avc.com/2013/11/employee-equity)
+*   [Employee Equity](http://avc.com/2010/09/employee-equity-2) 
+*   [Cap Table Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US#gid=0) 
+*   [Dilution](http://avc.com/2010/10/employee-equity-dilution) 
+*   [Dilution Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AvqoGGDowi93dHdOWG5aMDNNVDJ4d2FqeXlFcWJCUFE&hl=en) 
+*   [Appreciation](http://avc.com/2010/10/employee-equity-appreciation) 
+*   [The Liquidation Overhang](http://avc.com/2010/10/employee-equity-the-liquidation-overhang) 
+*   [Options](http://avc.com/2010/10/employee-equity-options) 
+*   [The Option Strike Price](http://avc.com/2010/11/employee-equity-the-option-strike-price) 
+*   [Restricted Stock and RSUs](http://avc.com/2010/11/employee-equity-restricted-stock-and-rsus) 
+*   [Vesting](http://avc.com/2010/11/employee-equity-vesting) 
+*   [How Much?](http://avc.com/2010/11/employee-equity-how-much) 
+
 Outsourcing and Offshoring
 *   [Outsourcing](http://avc.com/2010/09/outsourcing)
 *   [Outsourcing vs Offshoring](http://avc.com/2010/09/outsourcing-vs-offshoring)
