@@ -13,6 +13,10 @@ Choosing and Reference Checking a VC
 Due Diligence
 *   [How Much Information Should you Give VCs for Due Diligence?](http://www.bothsidesofthetable.com/2012/08/27/how-much-information-should-you-give-vcs-for-due-diligence)
 
+Business Plans, NDAs and Confidentiality
+*   [Are Business Plans Still Necessary?](http://www.bothsidesofthetable.com/2009/11/03/are-business-plans-still-necessary)
+*   [On NDAs and Confidentiality](http://www.bothsidesofthetable.com/2009/07/26/on-ndas-and-confidentiality)
+
 Number of Investors
 *   [How Many Investors are Too Many?](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many)
 *   [The Problem with Party Rounds](http://www.bothsidesofthetable.com/2011/09/01/the-problem-with-collecting-logos-at-startups)
