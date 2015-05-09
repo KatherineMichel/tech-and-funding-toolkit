@@ -43,7 +43,7 @@ Revenue Models
 *   [Fred Wilson Revenue Models Hackpad](http://avc.com/2012/11/mba-mondays-revenue-models-2)
 *   [Fred Wilson Revenue Models Hackpad Take 1](http://avc.com/2012/11/mba-mondays-the-revenue-model-hackpad)
 *   [Fred Wilson Revenue Models Hackpad Take 2](http://avc.com/2012/11/mba-mondays-the-revenue-model-hackpad-take-two)
-*   [Hackpad Final](https://hackpad.com/EgXuEtSibE7#Web-And-Mobile-Revenue-Models-(final)
+*   [Hackpad Final](https://hackpad.com/EgXuEtSibE7#Web-And-Mobile-Revenue-Models-(final))
 *   [Hackpad Preliminary](https://hackpad.com/Ch2paBpUyIU#Web-and-Mobile-Revenue-Models)
 *   [Transaction Processing](http://avc.com/2013/01/mba-mondays-revenue-models-transaction-processing)
 *   [Subscriptions](http://avc.com/2013/01/mba-mondays-revenue-models-subscriptions)
