@@ -151,6 +151,8 @@ Table of Contents
 
 Theses
 *   [Chris Dixon Thesis](chris-dixon-thesis.md) 
+*   [Fred Wilson Thesis](fred-wilson-thesis.md)
+*   [Mark Suster Thesis](mark-suster-thesis.md)
 *   [Paul Graham Thesis](paul-graham-thesis.md) 
 
 Venture Capital and How Funding Works
