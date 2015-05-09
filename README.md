@@ -613,6 +613,10 @@ Spinoffs
 
 #### Prototyping
 
+*   [Prototyping Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
+*   [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
+*   [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
+
 Device Mockups
 *   [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
 *   [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
