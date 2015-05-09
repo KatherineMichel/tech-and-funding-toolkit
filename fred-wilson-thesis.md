@@ -154,7 +154,9 @@ HR
 *   [Optimal Headcount At Various Stages](http://avc.com/2012/06/mba-mondays-optimal-headcount-at-various-stages)
 *   [Best Hiring Practices](http://avc.com/2012/06/mba-mondays-best-hiring-practices)
 *   [Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees)   
+*   [360 Reviews](http://avc.com/2011/04/360-reviews) 
 *   [Asking An Employee To Leave The Company](http://avc.com/2012/07/mba-mondays-asking-an-employee-to-leave-the-company)
+*   [Exit Interviews](http://avc.com/2013/09/exit-interviews) 
 
 Employee Equity
 *   [Employee Equity Wealthfront](http://avc.com/2013/11/employee-equity)
