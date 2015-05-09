@@ -39,7 +39,12 @@ Financing Options
 *   [Revenue Based Financing](http://avc.com/2011/10/revenue-based-financing)
 
 Revenue Models
-*   [My Favorite Business Model](http://avc.com/2006/03/my_favorite_bus)
+*   [Fred Wilson Revenue Models](http://avc.com/2012/12/mba-mondays-revenue-models)
+*   [Fred Wilson Revenue Models Hackpad](http://avc.com/2012/11/mba-mondays-revenue-models-2)
+*   [Fred Wilson Revenue Models Hackpad Take 1](http://avc.com/2012/11/mba-mondays-the-revenue-model-hackpad)
+*   [Fred Wilson Revenue Models Hackpad Take 2](http://avc.com/2012/11/mba-mondays-the-revenue-model-hackpad-take-two)
+*   [Hackpad Final](https://hackpad.com/EgXuEtSibE7#Web-And-Mobile-Revenue-Models-(final)
+*   [Hackpad Preliminary](https://hackpad.com/Ch2paBpUyIU#Web-and-Mobile-Revenue-Models)
 *   [Transaction Processing](http://avc.com/2013/01/mba-mondays-revenue-models-transaction-processing)
 *   [Subscriptions](http://avc.com/2013/01/mba-mondays-revenue-models-subscriptions)
 *   [Peer to Peer](http://avc.com/2013/01/mba-mondays-revenue-models-peer-to-peer)
@@ -49,6 +54,8 @@ Revenue Models
 *   [Data](http://avc.com/2013/02/mba-mondays-revenue-models-data)
 *   [Commerce](http://avc.com/2012/12/mba-mondays-revenue-models-commerce)
 *   [Advertising](http://avc.com/2012/12/mba-mondays-revenue-models-advertising)
+*   [My Favorite Business Model](http://avc.com/2006/03/my_favorite_bus)
+*   [Fred Wilson Revenue Models- YCombinator Discussion](https://news.ycombinator.com/item?id=4924647) 
 
 Profit, Income, Capital
 *   [Profitless Prosperity](http://avc.com/2013/10/they-dont-make-any-money)
