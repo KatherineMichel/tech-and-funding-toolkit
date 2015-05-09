@@ -63,7 +63,7 @@ Table of Contents
 *   [Caterina Fake](http://caterina.net)
 *   [Charles Hudson](http://www.charleshudson.net) 
 *   [Charlie O'Donnell](http://www.thisisgoingtobebig.com) and [Charlie O'Donnell Meet with Me](http://www.thisisgoingtobebig.com/meet-with-me) 
-*   [Chris Dixon](http://cdixon.org) and [Chris Dixon Old Blog (Nonchalantrepreneur)](http://nonchalantrepreneur.com)
+*   [Chris Dixon](http://cdixon.org), [Chris Dixon Old Blog (Nonchalantrepreneur)](http://nonchalantrepreneur.com), and [Chris Dixon Medium](https://medium.com/@cdixon)
 *   [Chris Sacca via Lowercase Capital](http://lowercasecapital.com/cables), [Lowercase Creed](http://lowercasecapital.com/creed), [Lowercase Prospecting](http://lowercasecapital.com/prospecting), and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
 *   [Christine Herron](http://www.christine.net)
 *   [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
