@@ -72,7 +72,7 @@ Table of Contents
 *   [Hunter Walk](http://hunterwalk.com)  
 *   [Jason Calcanis](http://calacanis.com)
 *   [Jeff Jordan Archives](http://jeff.a16z.com/archives)  
-*   [Jessica Livingston](http://foundersatwork.posthaven.com)
+*   [Jessica Livingston](http://foundersatwork.posthaven.com) and [Jessica Livingston Old Blog](http://www.foundersatwork.com/blog.html)
 *   [John Lilly Tumblr](http://lilly.tumblr.com) and [John Lilly Slideshare](http://www.slideshare.net/johnolilly)
 *   [Marc Andreessen Archive](http://blog.pmarca.com/archive), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
 *   [Mark Suster](http://www.bothsidesofthetable.com), [Mark Suster Archive](http://www.bothsidesofthetable.com/archive), and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
@@ -86,6 +86,7 @@ Table of Contents
 *   [Satya Patel](http://venturegeneratedcontent.com)
 *   [Scott Weiss Archive](http://scott.a16z.com/archive)
 *   [Semil Shah Archive](http://blog.semilshah.com/archive)
+*   [Seth Levine](http://www.sethlevine.com)
 *   [Steven Sinofsky](http://blog.learningbyshipping.com) and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
 *   [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 
@@ -159,7 +160,7 @@ Table of Contents
 #### VC, VC Firms, Accelerators, Resources
 
 A Few Thoughts
-*   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](hhttp://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
+*   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
 *   [Fred Wilson: The Venture Capital Math Problem](http://avc.com/2009/04/the-venture-capital-math-problem) 
 *   [Fred Wilson: The Biggest Loser Can Be The Biggest Winner](http://avc.com/2009/08/the-biggest-loser-can-be-the-biggest-winner)  
 
@@ -201,6 +202,7 @@ RFS and Trends
 Documents
 
 Convertible Bonds and Securities
+*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
 *   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
 *   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
 
