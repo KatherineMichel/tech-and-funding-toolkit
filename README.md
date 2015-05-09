@@ -533,6 +533,7 @@ Unicorns
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
+*   [Reid Hoffman: "world-changing startups need to be premised on 'Accurate Contrarian Theories'"](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1685)
 *   [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
 *   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
