@@ -151,18 +151,11 @@ Burn Rate
 *   [How Much To Burn While Building Product](http://avc.com/2011/12/how-much-to-burn-while-building-product)
 *   [Burn Rates: How Much?](http://avc.com/2011/12/burn-rates-how-much)
 
-Roles
-*   [What A CEO Does](http://avc.com/2010/08/what-a-ceo-does)
-*   [What A CEO Does (continued)](http://avc.com/2010/09/what-a-ceo-does-continued)
-*   [VP Engineering Vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto)
-*   [VP Finance vs CFO](http://avc.com/2011/10/vp-finance-vs-cfo)
-
-Management Team
-*   [What A Management Team Does](http://avc.com/2011/02/what-a-management-team-does)
-*   [Scaling The Management Team](http://avc.com/2011/12/scaling-the-management-team)
-*   [The Management Team – While Building Product](http://avc.com/2012/01/the-management-team-while-building-product)
-*   [The Management Team – While Building Usage](http://avc.com/2012/01/the-management-team-while-building-usage)
-*   [The Management Team – While Building The Business](http://avc.com/2010/09/outsourcing)
+Scaling
+*   [Turning Your Team](http://avc.com/2013/08/mba-mondays-turning-your-team)
+*   [The Similarities Between Building and Scaling a Product and a Company](http://avc.com/2013/08/the-similarities-between-building-and-scaling-a-product-and-a-company)
+*   [When Its Not Your Team](http://avc.com/2013/08/mba-mondays-when-its-not-your-team)
+*   [Building A Company vs Building A Business](http://avc.com/2011/10/building-a-company-vs-building-a-business)
 
 Board of Directors
 *   [MBA Mondays Series: The Board Of Directors](http://avc.com/2012/02/mba-mondays-series-the-board-of-directors)
@@ -172,6 +165,20 @@ Board of Directors
 *   [Board Chemistry](http://avc.com/2012/03/the-board-of-directors-board-chemistry)
 *   [Board Meetings](http://avc.com/2012/04/the-board-of-directors-board-meetings)
 *   [Board Committees](http://avc.com/2012/04/the-board-of-directors-board-committees)
+
+Management Team
+*   [What A Management Team Does](http://avc.com/2011/02/what-a-management-team-does)
+*   [Scaling The Management Team](http://avc.com/2011/12/scaling-the-management-team)
+*   [The Management Team – While Building Product](http://avc.com/2012/01/the-management-team-while-building-product)
+*   [The Management Team – While Building Usage](http://avc.com/2012/01/the-management-team-while-building-usage)
+*   [The Management Team – While Building The Business](http://avc.com/2010/09/outsourcing)
+*   [Leveraging Your Partners To Grow And Develop Your Team](http://avc.com/2012/07/mba-mondays-leveraging-your-partners-to-grow-and-develop-your-team)
+
+Roles
+*   [What A CEO Does](http://avc.com/2010/08/what-a-ceo-does)
+*   [What A CEO Does (continued)](http://avc.com/2010/09/what-a-ceo-does-continued)
+*   [VP Engineering Vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto)
+*   [VP Finance vs CFO](http://avc.com/2011/10/vp-finance-vs-cfo)
 
 HR
 *   [MBA Mondays Series: Human Capital](http://avc.com/2012/05/mba-mondays-series-human-capital)
