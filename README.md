@@ -759,7 +759,8 @@ General
 Epic
 *   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
 
-Example Press Release
+Tools
+*   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
 *   [Amazon Example Press Release](http://aws.amazon.com/new) 
 
 #### Sharing, Analytics, Ads, Cards, Video
