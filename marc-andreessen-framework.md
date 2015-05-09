@@ -1,3 +1,4 @@
+*   [Marc Andreessen Archive](http://blog.pmarca.com/archive), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
 
 *   [Part 1: Why not to do a startup](http://pmarchive.com/guide_to_startups_part1.html)
 *   [Part 2: When the VCs say "no"](http://pmarchive.com/guide_to_startups_part2.html)
