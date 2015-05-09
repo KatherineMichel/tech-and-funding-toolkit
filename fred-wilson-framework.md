@@ -133,6 +133,14 @@ M.A.
 *   [Consideration](http://avc.com/2011/03/ma-issues-consideration)
 *   [Price](http://avc.com/2011/04/ma-issues-price)
 
+Strategy and Product
+*   [What Is Strategy?](http://avc.com/2013/06/what-is-strategy)
+*   [Product > Strategy > Business Model](http://avc.com/2013/06/product-strategy-business-model)
+*   [Revenue Traction Doesn’t Mean Product Market Fit](http://avc.com/2013/03/revenue-traction-doesnt-mean-product-market-fit)
+
+Sales
+*   [Sales Leads On A Small Budget](http://avc.com/2013/06/mba-mondays-sales-leads-on-a-small-budget)
+ 
 Key Business Metrics
 *   [Key Business Metrics](http://avc.com/2010/04/key-business-metrics)
 *   [LTV > CPA](http://avc.com/2011/04/ltv-cpa)
