@@ -1,5 +1,5 @@
 Blog
-*   [Blog](http://www.bothsidesofthetable.com)
+*   [Mark Suster Blog](http://www.bothsidesofthetable.com)
 
 The Entrepreneur Thesis
 *   [The Entrepreneur Thesis](http://www.bothsidesofthetable.com/2010/03/01/the-entrepreneur-thesis)
