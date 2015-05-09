@@ -5,6 +5,7 @@ Curated List of High Quality Resources, Mostly Free
 Table of Contents
 -----------------
 
+- [Investor Frameworks](#investor-frameworks)
 - [Venture Capitalists](#venture-capitalists)
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
 - [VC, VC Firms, Accelerators, Resources](#vc-vc-firms-accelerators-resources)
@@ -40,6 +41,13 @@ Table of Contents
 - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
 - [Other Enormous Tool Lists](#other-enormous-tool-lists)
+
+#### Investor Frameworks
+
+*   [Chris Dixon Thesis](chris-dixon-framework.md) 
+*   [Fred Wilson Thesis](fred-wilson-framework.md)
+*   [Mark Suster Thesis](mark-suster-framework.md)
+*   [Paul Graham Thesis](paul-graham-framework.md) 
 
 #### Venture Capitalists 
 
@@ -149,12 +157,6 @@ Table of Contents
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 #### VC, VC Firms, Accelerators, Resources
-
-Theses
-*   [Chris Dixon Thesis](chris-dixon-thesis.md) 
-*   [Fred Wilson Thesis](fred-wilson-thesis.md)
-*   [Mark Suster Thesis](mark-suster-thesis.md)
-*   [Paul Graham Thesis](paul-graham-thesis.md) 
 
 Venture Capital and How Funding Works
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
