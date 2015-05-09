@@ -737,6 +737,7 @@ Code Search
 
 #### Notable Proposals and Pitch Decks
 
+*   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
 *   [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
 *   [Facebook's First Proposal](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
 *   [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
