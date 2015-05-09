@@ -83,6 +83,13 @@ Pricing A Follow-On Venture Investment
 *   [Pricing A Follow-On Venture Investment](http://avc.com/2011/08/pricing-a-follow-on-venture-investment)
 *   [Pricing A Follow-On Venture Investment Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdGJNMW1yVzg3YWtpeWtCVkhoa3FtalE&hl=en_US)
 
+Risk and Return
+*   [Risk And Return](http://avc.com/2010/06/risk-and-return)
+*   [Diversification](http://avc.com/2010/06/diversification)
+*   [Hedging](http://avc.com/2010/06/hedging)
+*   [Currency Risk In A Business](http://avc.com/2010/07/currency-risk-in-a-business)
+*   [Purchasing Power Parity](http://avc.com/2010/07/purchasing-power-parity)
+
 M.A.
 *   [M&A Fundamentals](http://avc.com/2010/12/ma-fundamentals)
 *   [The Integration Plan](http://avc.com/2011/01/ma-issues-the-integration-plan)
