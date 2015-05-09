@@ -151,6 +151,7 @@ Table of Contents
 
 Theses
 *   [Chris Dixon Thesis](chris-dixon-thesis.md) 
+*   [Paul Graham Thesis](paul-graham-thesis.md) 
 
 Venture Capital and How Funding Works
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
