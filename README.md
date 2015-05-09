@@ -574,6 +574,7 @@ Notable Quotes
 *   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 *   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 *   [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
+*   [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
 *   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 *   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
 *   [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
@@ -583,7 +584,9 @@ Notable Quotes
 *   [Business Model Fiddle](http://bmfiddle.com)
 
 Spinoffs
+*   [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
 *   [Lean Canvas](https://leanstack.com/LeanCanvas.pdf)  
+*   [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
 *   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 
 #### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
