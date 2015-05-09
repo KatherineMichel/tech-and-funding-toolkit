@@ -122,6 +122,10 @@ Risk and Return
 *   [Currency Risk In A Business](http://avc.com/2010/07/currency-risk-in-a-business)
 *   [Purchasing Power Parity](http://avc.com/2010/07/purchasing-power-parity)
 
+Buying and Selling
+*   [Buying and Selling Assets](http://avc.com/2010/12/buying-and-selling-assets)
+*   [Selling Your Company](http://avc.com/2010/12/selling-your-company-1)
+
 M.A.
 *   [M&A Fundamentals](http://avc.com/2010/12/ma-fundamentals)
 *   [The Integration Plan](http://avc.com/2011/01/ma-issues-the-integration-plan)
