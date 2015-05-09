@@ -552,6 +552,7 @@ Unicorns
 *   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
+*   [Stewart Butterfield: We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
