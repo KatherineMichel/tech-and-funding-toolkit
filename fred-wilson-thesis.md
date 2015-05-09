@@ -193,6 +193,15 @@ Arcanery
 *   [A New MBA Mondays Series: Business Arcanery](http://avc.com/2011/11/a-new-mba-mondays-series-arcanery)
 *   [Going Concern](http://avc.com/2011/11/business-arcanery-going-concern)
 
+Words of Wisdom
+*   [Focus](http://avc.com/2013/08/focus)
+*   [Success Has A Thousand Fathers](http://avc.com/2013/05/success-has-a-thousand-fathers)
+*   [Great Entrepreneurs Will Listen To You But Will Follow Their Own Instincts](http://avc.com/2013/05/great-entrepreneurs-will-listen-to-you-but-will-follow-their-own-instincts)
+*   [Because It’s Standard](http://avc.com/2013/04/because-its-standard)
+*   [You Are Working Too Hard And Not Getting Anywhere](http://avc.com/2013/04/you-are-working-too-hard-and-not-getting-anywhere)
+*   [Tenacity And Persistence Pays Off](http://avc.com/2013/04/tenacity-and-persistence-pays-off)
+*   [Don’t Let A Good Crisis Go To Waste](http://avc.com/2013/04/dont-let-a-good-crisis-go-to-waste)
+
 
 
 
