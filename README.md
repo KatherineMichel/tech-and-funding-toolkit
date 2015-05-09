@@ -44,10 +44,10 @@ Table of Contents
 
 #### Investor Frameworks
 
-*   [Chris Dixon Thesis](chris-dixon-framework.md) 
-*   [Fred Wilson Thesis](fred-wilson-framework.md)
-*   [Mark Suster Thesis](mark-suster-framework.md)
-*   [Paul Graham Thesis](paul-graham-framework.md) 
+*   [Chris Dixon Frameworks](chris-dixon-framework.md) 
+*   [Fred Wilson Frameworks](fred-wilson-framework.md)
+*   [Mark Suster Frameworks](mark-suster-framework.md)
+*   [Paul Graham Frameworks](paul-graham-framework.md) 
 
 #### Venture Capitalists 
 
