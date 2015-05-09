@@ -158,6 +158,11 @@ Table of Contents
 
 #### VC, VC Firms, Accelerators, Resources
 
+A Few Thoughts
+*   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](hhttp://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
+*   [Fred Wilson: The Venture Capital Math Problem](http://avc.com/2009/04/the-venture-capital-math-problem) 
+*   [Fred Wilson: The Biggest Loser Can Be The Biggest Winner](http://avc.com/2009/08/the-biggest-loser-can-be-the-biggest-winner)  
+
 Venture Capital and How Funding Works
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
