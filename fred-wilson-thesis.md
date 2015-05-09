@@ -50,6 +50,11 @@ Revenue Models
 *   [Commerce](http://avc.com/2012/12/mba-mondays-revenue-models-commerce)
 *   [Advertising](http://avc.com/2012/12/mba-mondays-revenue-models-advertising)
 
+Profit, Income, Capital
+*   [Profitless Prosperity](http://avc.com/2013/10/they-dont-make-any-money)
+*   [Recycling Capital](http://avc.com/2011/04/reinvesting-capital)
+*   [Ordinary Income vs Capital Gains](http://avc.com/2011/05/ordinary-income-vs-capital-gains)
+
 Pricing, Bookings, Revenue, Collections, Commission
 *   [Price: Why Lower Isn’t Always Better](http://avc.com/2010/04/price-why-lower-isnt-always-better)
 *   [Bookings vs Revenues vs Collections](http://avc.com/2010/08/bookings-vs-revenues-vs-collections)
