@@ -10,10 +10,16 @@ Financial Statements
 *   [The Balance Sheet](http://avc.com/2010/03/the-balance-sheet)
 *   [The Profit and Loss Statement](http://avc.com/2010/03/the-profit-and-loss-statement)
 *   [Accounting](http://avc.com/2010/03/accounting)
+*   [Opportunity Costs](http://avc.com/2010/07/opportunity-costs)
+*   [Sunk Costs](http://avc.com/2010/07/sunk-costs)
+*   [Off Balance Sheet Liabilities](http://avc.com/2010/08/off-balance-sheet-liabilities)
 
 Corporate Entity
 *   [Corporate Entities](http://avc.com/2010/02/corporate-entity)
 *   [Piercing The Corporate Veil](http://avc.com/2010/03/piercing-the-corporate-veil)
+
+Due Diligence
+*   [You Can Do Too Much Due Diligence](http://avc.com/2013/05/you-can-do-too-much-due-diligence)
 
 Financing Options
 *   [Financing Options For Small Tech Companies](http://avc.com/2011/05/financing-options-for-small-tech-companies)
@@ -43,6 +49,10 @@ Revenue Models
 *   [Data](http://avc.com/2013/02/mba-mondays-revenue-models-data)
 *   [Commerce](http://avc.com/2012/12/mba-mondays-revenue-models-commerce)
 *   [Advertising](http://avc.com/2012/12/mba-mondays-revenue-models-advertising)
+
+Margins
+*   [Margins](http://avc.com/2011/04/margins)
+*   [Margins (continued)](http://avc.com/2011/04/margins-continued)
 
 ROI
 *   [How To Calculate A Return On Investment](http://avc.com/2010/02/corporate-entity)
@@ -87,6 +97,7 @@ M.A.
 
 Key Business Metrics
 *   [Key Business Metrics](http://avc.com/2010/04/key-business-metrics)
+*   [LTV > CPA](http://avc.com/2011/04/ltv-cpa)
 
 Burn Rate 
 *   [Burn Rate](http://avc.com/2011/12/burn-rate)
