@@ -254,6 +254,9 @@ Databases
 *   [Mattermark](http://mattermark.com), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), and [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)      
 *   [Product Hunt](http://www.producthunt.com), [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
+Public
+*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
+
 Database Info and Benchmarking
 *   [Angelist Markets](https://angel.co/markets), [Angelist Companies](https://angel.co/companies), [Angelist Trending](https://angel.co/companies/trending), [Angelist Valuations](https://angel.co/valuations), [Angelist Salaries](https://angel.co/salaries), and [Angelist Leads](https://angel.co/people/leads)
 *   [Betalist Markets](http://betalist.com/markets)
