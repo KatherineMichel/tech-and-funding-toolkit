@@ -16,6 +16,13 @@ Fundraising
 *   [What I Learned From a Two-Year Fund Raising Process](http://tomtunguz.com/fund-raising-is-much-more-than-a-transaction)
 *   [Building auction pressure in financings](http://tomtunguz.com/how-i-would-raise)
 
+Presentations
+*   [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](http://tomtunguz.com/storytelling-duarte)
+
+Financial Statements and Metrics
+*   [A Startup's Rosetta Stone; How to Succinctly Communicate the Details of a Business](http://www.tomtunguz.com/financial-statements)
+*   [The 10 Most Important Metrics in a Startup's Financial Statements](http://www.tomtunguz.com/ten-financial-metrics)
+
 Compensation Trends
 *   [The Surprising Compensation Trends of Startup Executives](http://tomtunguz.com/vpe-vpp-compensation-trends)
 *   [The Unexpected Compensation Trends of Post-Series A Startup Founder/CEOs](http://www.tomtunguz.com/compensation-trends)
@@ -26,7 +33,6 @@ Equity Trends
 
 Benchmarks
 *   [The Antidote to Burnout is Progress](http://tomtunguz.com/burnout)
-Your Startup’s 10 Most Important Metrics
 
 Metrics
 *   [Your Startup’s 10 Most Important Metrics](http://www.tomtunguz.com/your-startups-10-most-important-metrics)
