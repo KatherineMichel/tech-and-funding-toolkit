@@ -207,6 +207,8 @@ Convertible Bonds and Securities
 *   [YCombinator Library](http://ycombinator.com/lib.html)  
 *   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents)  
  
+*   [TechCrunch: The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet), [The Funded](http://thefunded.com), and [The Funded: Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet)
+
 Cap Tables
 *   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table)  
 *   [Captable.io](https://captable.io)  
@@ -418,7 +420,7 @@ Delaware
 Law and Transaction Services
 *   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914) via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
 *   [Gunderson Dettmer](http://www.gunder.com)
-*   [Fenwick and West LLP](https://www.fenwick.com/pages/default.aspx)
+*   [Fenwick and West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick and West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
 *   [Wilson Sonsini Goodrich and Rosati](https://www.wsgr.com/WSGR/Default.aspx)
 *   [Fortis](http://fortisrep.com) 
 
@@ -471,6 +473,7 @@ Unicorns
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
 
 *   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
 
 #### Venture Analysis
 
@@ -529,7 +532,7 @@ Unicorns
 
 Notable Quotes
 *   [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
-*   [Doublas Adams: "I've Come up with a Set of Rule that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
+*   [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
 *   [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
 *   [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
 *   [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
@@ -777,7 +780,7 @@ Popular Tools
 *   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
 *   [Intercom Blog](http://blog.intercom.io)
 *   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-*   [Moz](http://moz.com) 
+*   [Moz](http://moz.com) and [Moz Tools](http://moz.com/tools) 
 *   [URX Blog](http://blog.urx.com/urx-blog) 
 
 Digital Novel
