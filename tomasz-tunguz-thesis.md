@@ -1,4 +1,17 @@
+*   [Blog](http://tomtunguz.com)
+
 *   [SaaS Category](http://tomtunguz.com/categories/saas)
+
+Compensation Trends
+*   [The Surprising Compensation Trends of Startup Executives](http://tomtunguz.com/vpe-vpp-compensation-trends)
+*   [The Unexpected Compensation Trends of Post-Series A Startup Founder/CEOs](http://www.tomtunguz.com/compensation-trends)
+
+Equity Trends
+*   [Surprising Trends in Startup Founder Equity Stakes](http://tomtunguz.com/trends-in-founder-compensation)
+*   [Why Series A Startup Founder CEO Equity Stakes Have Grown 40% in Five Years](http://tomtunguz.com/2014-founder-compensation-trends)
+
+
+
 *   [Anticipatory Computing: The Next Big Thing Is Enabling Laziness](http://tomtunguz.com/iot-and-laziness)
 *   [Bullet Journal](http://www.bulletjournal.com)
 *   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
