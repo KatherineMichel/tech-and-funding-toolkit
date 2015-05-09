@@ -1,5 +1,7 @@
-*   [Blog](http://tomtunguz.com)
+Blog
+*   [Tomasz Tunguz Blog](http://tomtunguz.com)
 
+SaaS Category
 *   [SaaS Category](http://tomtunguz.com/categories/saas)
 
 Compensation Trends
@@ -9,6 +11,11 @@ Compensation Trends
 Equity Trends
 *   [Surprising Trends in Startup Founder Equity Stakes](http://tomtunguz.com/trends-in-founder-compensation)
 *   [Why Series A Startup Founder CEO Equity Stakes Have Grown 40% in Five Years](http://tomtunguz.com/2014-founder-compensation-trends)
+
+Burnout
+*   [Startup Best Practices #8; Getting the Most from Your Team By Preventing Burnout](http://tomtunguz.com/managing-energy)
+*   [The Antidote to Burnout is Progress](http://tomtunguz.com/burnout)
+ 
 
 
 
