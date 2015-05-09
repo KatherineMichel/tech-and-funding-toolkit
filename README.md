@@ -480,6 +480,9 @@ Companies, Financials
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 
+How to Read A Finacial Report
+*   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
+
 Investor Vocab
 *   [Investor Words](http://www.investorwords.com)
 
