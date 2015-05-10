@@ -9,7 +9,8 @@ Table of Contents
 - [Venture Capitalists](#venture-capitalists)
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
 - [VC, VC Firms, Accelerators, Resources](#vc-vc-firms-accelerators-resources)
-- [Government Funding](#government-funding)
+- [Government Funding and Digital](#government-funding-and-digital)
+- [Regulatory Agencies, Companies and Financials](#regulatory-agencies-companies-and-financials)
 - [Company and Product Databases](#company-and-product-databases)
 - [App and Website Statistics](#app-and-website-statistics)
 - [News Sources](#news-sources)
@@ -17,7 +18,6 @@ Table of Contents
 - [Research](#research)
 - [Books and Courses](#books-and-courses)
 - [Events Lists](#events-lists)
-- [Regulatory Agencies, Companies and Financials](#regulatory-agencies-companies-and-financials)
 - [Venture Analysis](#venture-analysis)
 - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Philosophies, Milestones](#philosophies-milestones)
@@ -241,18 +241,86 @@ Document Libraries
 *   [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
 
-#### Government Funding
+#### Regulatory Agencies, Companies, Financials
 
-*   [Federal Business Opportunities](https://www.fbo.gov)  
-*   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+Corporate Law
+*   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
+*   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
+*   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
+*   [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) and [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
+*   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
+*   [Benefitcorp](http://benefitcorp.net) 
+*   [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
 
-#### Government Digital
+Delaware
+*   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
+*   [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
+*   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
+*   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
-*   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
-*   [U.S. CIO Playbook](http://playbook.cio.gov)  
-*   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
-*   [Government Usability](http://www.usability.gov)
-*   [Code for America](http://www.codeforamerica.org)
+Law and Transaction Services
+*   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+*   [Gunderson Dettmer](http://www.gunder.com)
+*   [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
+*   [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
+*   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
+*   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+*   [Fortis](http://fortisrep.com) 
+
+Securities and Exchange Commission (SEC)
+*   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
+*   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
+*   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
+*   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
+*   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
+
+Regulatory Agencies and Rules
+*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
+*   [Federal Aviation Administration](http://www.faa.gov)  
+*   [Federal Drug Administration](http://www.fda.gov)  
+*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
+*   [Financial Accounting Standards Board](http://www.fasb.org)
+*   [Internal Revenue Service](http://www.irs.gov)
+*   [Securities and Exchange Commission](http://www.sec.gov)
+*   [Small Business Administration](http://www.sba.gov) 
+*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
+
+Companies, Financials
+*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
+*   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
+*   [PitchBook](http://blog.pitchbook.com) 
+*   [Bloomberg](http://www.bloomberg.com)  
+*   [MarketWatch](http://www.marketwatch.com) 
+*   [PE Hub](https://www.pehub.com)
+*   [Google Finance](https://www.google.com/finance) 
+*   [Yahoo Finance](http://finance.yahoo.com)  
+*   [Wikinvest](http://www.wikinvest.com)
+*   [Nasdaq](http://www.nasdaq.com)  
+*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
+*   [PricewaterhouseCoopers](http://www.pwc.com) 
+*   [Wealthfront Blog](https://blog.wealthfront.com)  
+*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+
+How to Read A Finacial Report
+*   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
+
+Investor Vocab
+*   [Investor Words](http://www.investorwords.com)
+
+Unicorns
+*   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
+*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+*   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+*   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+*   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
 
 #### Company and Product Databases
 
@@ -404,6 +472,17 @@ Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
 *   [Google Research](http://research.google.com/index.html) and [Google Research Papers](http://research.google.com/pubs/papers.html) 
 
+#### Government Funding and Digital
+
+*   [Federal Business Opportunities](https://www.fbo.gov)  
+*   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+
+*   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
+*   [U.S. CIO Playbook](http://playbook.cio.gov)  
+*   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
+*   [Government Usability](http://www.usability.gov)
+*   [Code for America](http://www.codeforamerica.org)
+
 #### Books and Courses
 
 Books
@@ -433,87 +512,6 @@ Course Builders
 *   [Recode Events](http://recode.net/events) 
 *   [LeWeb](http://leweb.co) 
 *   [SXSW](http://sxsw.com) 
-
-#### Regulatory Agencies, Companies, Financials
-
-Corporate Law
-*   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
-*   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
-*   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
-*   [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) and [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
-*   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
-*   [Benefitcorp](http://benefitcorp.net) 
-*   [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
-
-Delaware
-*   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
-*   [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
-*   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
-*   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
-
-Law and Transaction Services
-*   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-*   [Gunderson Dettmer](http://www.gunder.com)
-*   [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
-*   [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
-*   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
-*   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-*   [Fortis](http://fortisrep.com) 
-
-Securities and Exchange Commission (SEC)
-*   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
-*   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
-*   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
-*   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
-*   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
-
-Regulatory Agencies and Rules
-*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
-*   [Federal Aviation Administration](http://www.faa.gov)  
-*   [Federal Drug Administration](http://www.fda.gov)  
-*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
-*   [Financial Accounting Standards Board](http://www.fasb.org)
-*   [Internal Revenue Service](http://www.irs.gov)
-*   [Securities and Exchange Commission](http://www.sec.gov)
-*   [Small Business Administration](http://www.sba.gov) 
-*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
-
-Companies, Financials
-*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
-*   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
-*   [PitchBook](http://blog.pitchbook.com) 
-*   [Bloomberg](http://www.bloomberg.com)  
-*   [MarketWatch](http://www.marketwatch.com) 
-*   [PE Hub](https://www.pehub.com)
-*   [Google Finance](https://www.google.com/finance) 
-*   [Yahoo Finance](http://finance.yahoo.com)  
-*   [Wikinvest](http://www.wikinvest.com)
-*   [Nasdaq](http://www.nasdaq.com)  
-*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
-*   [PricewaterhouseCoopers](http://www.pwc.com) 
-*   [Wealthfront Blog](https://blog.wealthfront.com)  
-*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
-
-How to Read A Finacial Report
-*   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
-
-Investor Vocab
-*   [Investor Words](http://www.investorwords.com)
-
-Unicorns
-*   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
-*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
-*   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
-*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
-*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
-*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
-*   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
-*   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
-
-*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
-*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
 
 #### Venture Analysis
 
