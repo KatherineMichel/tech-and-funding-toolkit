@@ -453,8 +453,10 @@ Delaware
 Law and Transaction Services
 *   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Gunderson Dettmer](http://www.gunder.com)
-*   [Fenwick and West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick and West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
-*   [Wilson Sonsini Goodrich and Rosati](https://www.wsgr.com/WSGR/Default.aspx)
+*   [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
+*   [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
+*   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
+*   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Fortis](http://fortisrep.com) 
 
 Securities and Exchange Commission (SEC)
