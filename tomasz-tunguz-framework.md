@@ -4,7 +4,23 @@ Blog
 SaaS Category
 *   [SaaS Category](http://tomtunguz.com/categories/saas)
 
-Cost of Startuping Up
+Characteristics of Billion Dollar Companies
+*   [Dream Teams; The Characteristics of Billion-Dollar Startup Founders](http://www.tomtunguz.com/founders-with-cs)
+*   [The Seed Investment Patterns of Billion Dollar Startups](http://www.tomtunguz.com/seed-follow-ons)
+*   [The Key Financing Attributes of Startups in the Billion Dollar Club](http://www.tomtunguz.com/composition-1b-club)
+*   [Revenue per Employee Benchmarks of Billion Dollar Companies](http://www.tomtunguz.com/revenue-per-employee)
+*   [The Characteristics of a Billion Dollar Consumer Hardware Startup](http://www.tomtunguz.com/gopro-s1)
+
+Characteristics of Billion Dollar SaaS Companies
+*   [The Financing Trends of Billion Dollar SaaS Companies](http://www.tomtunguz.com/fundraising-history-saas-publics)
+*   [The Employee Productivity Patterns of Billion Dollar SaaS Companies](http://www.tomtunguz.com/employee-productivity-patterns-saas)
+*   [he Ratio of Engineers to Sales People in Billion Dollar SaaS Startups](http://tomtunguz.com/saas-spend-allocation-benchmarks)
+
+The Innovator's Dilemma and Solution for SaaS Startups
+*   [The Innovator's Dilemma for SaaS Startups](http://www.tomtunguz.com/saas-innovators-dilemma)
+*   [The Innovator's Solution for SaaS Startups - The Flywheel SaaS Company](hhttp://www.tomtunguz.com/saas-innovators-solution)
+
+Cost of Starting Up
 *   [Do Startups Require Less Capital to Succeed than 10 Years Ago?](http://www.tomtunguz.com/cloud-vc-dollar-efficiency)
 *   [The Rising Costs of Scaling a Startup](http://www.tomtunguz.com/rising-costs-of-startups)
 
@@ -31,8 +47,15 @@ Equity Trends
 *   [Surprising Trends in Startup Founder Equity Stakes](http://tomtunguz.com/trends-in-founder-compensation)
 *   [Why Series A Startup Founder CEO Equity Stakes Have Grown 40% in Five Years](http://tomtunguz.com/2014-founder-compensation-trends)
 
+How Much Should Your Startup Spend on...
+*   [How Much Should Your Startup Spend on Managing Churn?](http://www.tomtunguz.com/how-much-should-your-startup-spend-on-managing-churn)
+*   [How Much Should Your Startup Spend to Grow?](http://www.tomtunguz.com/segmenting-saas-growth)
+*   [How Much Should Your Startup Spend on Customer Account Expansion?](http://www.tomtunguz.com/upsell-ratios)
+
+Burn Rate
+*   [How Much Cash Should Your Startup Burn?](http://www.tomtunguz.com/monthly-burn-benchmarks)
+
 Benchmarks
-*   [The Antidote to Burnout is Progress](http://tomtunguz.com/burnout)
 
 Metrics
 *   [Your Startup’s 10 Most Important Metrics](http://www.tomtunguz.com/your-startups-10-most-important-metrics)
