@@ -499,6 +499,7 @@ Unicorns
 
 *   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 *   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
 
 #### Venture Analysis
 
@@ -527,6 +528,7 @@ Unicorns
 *   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
+*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Jeff Bezos Regret Minimization Framework via Bijan Sabet](http://bijansabet.com/post/147533511/jeff-bezos-regret-minimization-framework)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
