@@ -635,6 +635,7 @@ Spinoffs
 
 #### Prototyping
 
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design)
 *   [Prototyping Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
 *   [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
 *   [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
