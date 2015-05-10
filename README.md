@@ -234,11 +234,11 @@ Document Libraries
 *   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
 *   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
 *   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
-*   [SeriesSeed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+*   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
 *   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), and [Incorporation Documents](http://fi.co/information/agreements)
 *   [Venture Docs](https://venturedocs.com/documents)  
 *   [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
-*   [WSGR Term Sheet Generator](https://dealbuilder.wsgr.com)
+*   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
 
 #### Government Funding
 
@@ -451,7 +451,7 @@ Delaware
 *   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
 Law and Transaction Services
-*   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914) via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
+*   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Gunderson Dettmer](http://www.gunder.com)
 *   [Fenwick and West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick and West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
 *   [Wilson Sonsini Goodrich and Rosati](https://www.wsgr.com/WSGR/Default.aspx)
