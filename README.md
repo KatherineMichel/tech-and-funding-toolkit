@@ -166,6 +166,7 @@ A Few Thoughts
 
 Venture Capital and How Funding Works
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
+*   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
 *   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
 *   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
