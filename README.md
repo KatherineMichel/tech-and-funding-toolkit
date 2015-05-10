@@ -553,6 +553,7 @@ Unicorns
 *   [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
 *   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
+*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Stewart Butterfield: We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
