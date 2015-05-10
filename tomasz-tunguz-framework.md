@@ -24,6 +24,25 @@ Cost of Starting Up
 *   [Do Startups Require Less Capital to Succeed than 10 Years Ago?](http://www.tomtunguz.com/cloud-vc-dollar-efficiency)
 *   [The Rising Costs of Scaling a Startup](http://www.tomtunguz.com/rising-costs-of-startups)
 
+Strategy
+*   [A Startup’s Guide to Maximizing Last Mover Advantage](http://tomtunguz.com/last-mover-advantage)
+*   [John Boyd Military Strategy via Tomasz Tunguz](http://tomtunguz.com/ooda), [Organization Climate](http://en.wikipedia.org/wiki/Organisation_climate), [OODA](http://en.wikipedia.org/wiki/OODA_loop )
+
+High Level Analysis 
+*   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
+
+Research and Planning
+*   [Eliot Schmuckler: Working Backwards](http://tomtunguz.com/working-backwards) and [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
+*   [Evidence Based Scheduling](http://tomtunguz.com/engineering-predictability), [Joel Spolsky's Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html), and [Monte Carlo Simulation Wikipedia](http://en.wikipedia.org/wiki/Monte_Carlo_method)
+*   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
+*   [Hypothesis Testing](http://en.wikipedia.org/wiki/Hypothesis)
+*   [Scientific Method vs. Inverted Pyramid](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
+*   [Startup Research and Sociology](http://tomtunguz.com/the-value-of-startup-research)
+
+Networking
+*   [Maximizing the Value of Investor Referrals](http://tomtunguz.com/investor-referrals)
+*   [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
+
 Fundraising
 *   [It’s Time to Start Worrying About the Next Round for Your Startup](http://tomtunguz.com/thinking-through-valuations)
 *   [The Four Key Steps in Startup Fund Raising Processes](http://tomtunguz.com/vc-process-stages)
@@ -38,6 +57,7 @@ Presentations and Pitches
 *   [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](http://tomtunguz.com/storytelling-duarte)
 
 Financial Statements and Metrics
+*   [Financial Planning for Startups](http://tomtunguz.com/financial-planning-for-startups) and [The Board Plan and the Stretch Plan](http://tomtunguz.com/predictability-and-ambition)
 *   [A Startup's Rosetta Stone; How to Succinctly Communicate the Details of a Business](http://www.tomtunguz.com/financial-statements)
 *   [The 10 Most Important Metrics in a Startup's Financial Statements](http://www.tomtunguz.com/ten-financial-metrics)
 
@@ -57,46 +77,38 @@ How Much Should Your Startup Spend on...
 Burn Rate
 *   [How Much Cash Should Your Startup Burn?](http://www.tomtunguz.com/monthly-burn-benchmarks)
 
-Benchmarks
-
-Metrics
+Benchmarks and Metrics
 *   [Your Startup’s 10 Most Important Metrics](http://www.tomtunguz.com/your-startups-10-most-important-metrics)
+
+Operations
+*   [Bullet Journal](http://www.bulletjournal.com)
+*   [Dominic Orr: Brutal Intellectual Honesty](http://tomtunguz.com/intellectual-honesty)
+*   [Holacracy: "Should Your Startup Adopt a New Management Style?"](http://tomtunguz.com/holacracy) and [Holacracy.com](http://holacracy.org)
+*   [One on Ones](http://tomtunguz.com/one-on-ones)
+*   [Parkinson's Law](http://tomtunguz.com/the-bike-rack-effect), [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law_of_triviality), and [Parkinson's Law Book](http://www.amazon.com/Parkinsons-Law-C-Northcote-Parkinson/dp/1568490151/ref=sr_1_1?ie=UTF8&qid=1358799355&sr=8-1&keywords=parkinson%27s+law)
+*   [Peter Drucker: The Myth of the Generalist from Drucker’s Effective Executive](http://tomtunguz.com/the-myth-of-the-generalist)
+*   [Peter Drucker: Three Fundamentals of Communication](http://tomtunguz.com/improving-your-communication-skills)
+*   [Steven Covey: Prioritization Matrix](http://tomtunguz.com/urgent-vs-important)
 
 Burnout
 *   [Startup Best Practices #8; Getting the Most from Your Team By Preventing Burnout](http://tomtunguz.com/managing-energy)
 *   [The Antidote to Burnout is Progress](http://tomtunguz.com/burnout)
  
+Postmortem
+*   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
+
 Words of Wisdom
-*   [A Startup’s Guide to Maximizing Last Mover Advantage](http://tomtunguz.com/last-mover-advantage)
-*   [Bullet Journal](http://www.bulletjournal.com)
+
+
 
 
 *   [Anticipatory Computing: The Next Big Thing Is Enabling Laziness](http://tomtunguz.com/iot-and-laziness)
-*   [Carol Dweck: Fixed Mindset and Growth Mindset/Feedback Loop](http://tomtunguz.com/management-feedback-loops)
 *   [Creativity Wikipedia](http://en.wikipedia.org/wiki/Creativity)
-*   [Dominic Orr: Brutal Intellectual Honesty](http://tomtunguz.com/intellectual-honesty)
-*   [Eliot Schmuckler: Working Backwards](http://tomtunguz.com/working-backwards) and [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
-*   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
-*   [Financial Planning for Startups](http://tomtunguz.com/financial-planning-for-startups) and [The Board Plan and the Stretch Plan](http://tomtunguz.com/predictability-and-ambition)
-*   [Evidence Based Scheduling](http://tomtunguz.com/engineering-predictability), [Joel Spolsky's Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html), and [Monte Carlo Simulation Wikipedia](http://en.wikipedia.org/wiki/Monte_Carlo_method)
+*   [Carol Dweck: Fixed Mindset and Growth Mindset/Feedback Loop](http://tomtunguz.com/management-feedback-loops)
 *   [Fogg Behavior Model](http://tomtunguz.com/great-products-turn-motivation-into-capability) and [Fogg Behaviour Model Website](http://www.behaviormodel.org)
-*   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
-*   [Holacracy: "Should Your Startup Adopt a New Management Style?"](http://tomtunguz.com/holacracy) and [Holacracy.com](http://holacracy.org)
-*   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
-*   [Hypothesis Testing](http://en.wikipedia.org/wiki/Hypothesis)
-*   [John Boyd Military Strategy via Tomasz Tunguz](http://tomtunguz.com/ooda), [Organization Climate](http://en.wikipedia.org/wiki/Organisation_climate), [OODA](http://en.wikipedia.org/wiki/OODA_loop )
 *   [Linear vs. Compounding/Exponential Growth](http://tomtunguz.com/the-path-to-exponential-growth)
-*   [Maximizing the Value of Investor Referrals](http://tomtunguz.com/investor-referrals)
 *   [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
-*   [One on Ones](http://tomtunguz.com/one-on-ones)
-*   [Parkinson's Law](http://tomtunguz.com/the-bike-rack-effect), [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law_of_triviality), and [Parkinson's Law Book](http://www.amazon.com/Parkinsons-Law-C-Northcote-Parkinson/dp/1568490151/ref=sr_1_1?ie=UTF8&qid=1358799355&sr=8-1&keywords=parkinson%27s+law)
-*   [Peter Drucker: The Myth of the Generalist from Drucker’s Effective Executive](http://tomtunguz.com/the-myth-of-the-generalist)
-*   [Peter Drucker: Three Fundamentals of Communication](http://tomtunguz.com/improving-your-communication-skills)
-*   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
-*   [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
-*   [Scientific Method vs. Inverted Pyramid](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
-*   [Startup Research and Sociology](http://tomtunguz.com/the-value-of-startup-research)
-*   [Steven Covey: Prioritization Matrix](http://tomtunguz.com/urgent-vs-important)
+*   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
 *   [Three Minute Technique used by IDEO and Stanford d.School](http://tomtunguz.com/three-minutes) 
 *   ["Toothbrush Test"](http://tomtunguz.com/best-metric)
 *   [Usability Lab](http://tomtunguz.com/usability-lab)
