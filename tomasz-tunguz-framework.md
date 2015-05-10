@@ -37,15 +37,14 @@ High Level Analysis
 *   [How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
 *   [The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 *   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
-*   [Not Sharing the Opportunity to Learn is a Cardinal Sin (The Story of O'Neill)](http://tomtunguz.com/postmortems)
-*   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
+*   [Your Startup’s Three Horizons](http://tomtunguz.com/mckinseys-3-horizons) and [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
 
 Research and Planning
 *   [Reverse Engineering Your Startup’s Success; Eliot Schmuckler: Working Backwards](http://tomtunguz.com/working-backwards) and [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
 *   [Evidence Based Scheduling](http://tomtunguz.com/engineering-predictability), [Joel Spolsky's Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html), and [Monte Carlo Simulation Wikipedia](http://en.wikipedia.org/wiki/Monte_Carlo_method)
 *   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
 *   [Hypothesis Testing](http://en.wikipedia.org/wiki/Hypothesis)
-*   [The biggest professional challenge of my career\x26#58; communication (Scientific Method vs. Inverted Pyramid)](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
+*   [The biggest professional challenge of my career: communication (Scientific Method vs. Inverted Pyramid)](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
 *   [Startup Research and Sociology](http://tomtunguz.com/the-value-of-startup-research)
 
 Networking
@@ -106,7 +105,6 @@ How Much Should Your Startup Spend on...
 Product and Growth
 *   [Carol Dweck: Fixed Mindset and Growth Mindset/Feedback Loop](http://tomtunguz.com/management-feedback-loops)
 *   [Linear vs. Compounding/Exponential Growth](http://tomtunguz.com/the-path-to-exponential-growth)
-*   [Your Startup’s Three Horizons](http://tomtunguz.com/mckinseys-3-horizons) and [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
 *   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
 *   [The 3 Minute Technique for Brainstorming Your Startup's Product Roadmap (used by IDEO and Stanford d.School)](http://tomtunguz.com/three-minutes) 
 *   [The One Best Metric for Your Startup to Maximize ("Toothbrush Test")](http://tomtunguz.com/best-metric)
@@ -143,6 +141,10 @@ Burnout
 *   [Startup Best Practices #8; Getting the Most from Your Team By Preventing Burnout](http://tomtunguz.com/managing-energy)
 *   [The Antidote to Burnout is Progress](http://tomtunguz.com/burnout)
  
+Postmortem
+*   [Not Sharing the Opportunity to Learn is a Cardinal Sin (The Story of O'Neill)](http://tomtunguz.com/postmortems)
+*   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
+
 Words of Wisdom
 *   [The dumbest guy in the room](http://tomtunguz.com/the-dumbest-guy-in-the-room)
 
