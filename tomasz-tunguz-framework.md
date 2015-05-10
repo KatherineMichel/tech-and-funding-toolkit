@@ -24,6 +24,9 @@ Cost of Starting Up
 *   [Do Startups Require Less Capital to Succeed than 10 Years Ago?](http://www.tomtunguz.com/cloud-vc-dollar-efficiency)
 *   [The Rising Costs of Scaling a Startup](http://www.tomtunguz.com/rising-costs-of-startups)
 
+Naming a Startup
+*   [Using Data to Pick the Optimal Name for Your Startup](http://tomtunguz.com/startup-names)
+
 Strategy
 *   [A Startup’s Guide to Maximizing Last Mover Advantage](http://tomtunguz.com/last-mover-advantage)
 *   [Military Strategy Applied to Startups (John Boyd Military Strategy)](http://tomtunguz.com/ooda), [Organization Climate](http://en.wikipedia.org/wiki/Organisation_climate), and  [OODA](http://en.wikipedia.org/wiki/OODA_loop )
@@ -56,6 +59,20 @@ Fundraising
 *   [The Most Important Principle of Start Up Fund Raising](http://tomtunguz.com/most-important-principle-of-fund-raising)
 *   [What I Learned From a Two-Year Fund Raising Process](http://tomtunguz.com/fund-raising-is-much-more-than-a-transaction)
 *   [Building auction pressure in financings](http://tomtunguz.com/how-i-would-raise)
+
+Impact of Sector
+*   [The Hottest Startup Sectors](http://tomtunguz.com/hot-sectors-2014)
+*   [The Technology Sectors that Create the Most Value](http://tomtunguz.com/top-250-it-companies)
+*   [How Your Startup's Sector Affects Your Ability to Raise a Series A](http://tomtunguz.com/seed-follow-ons-by-sector)
+
+Impact of Location
+*   [The Impact of a Startup's Location on Its Ability to Raise Capital](http://tomtunguz.com/followon-by-geo)
+*   [The Impact of Investor Geography on Your Seed, Series A and B Check Size](http://tomtunguz.com/investor-location-round-size)
+*   [The Impact of a Startup's Location on its Acquisition Potential](http://tomtunguz.com/location-impact-ma)
+
+Impact of Time of Year
+*   [The Best Times of Year to Raise Capital for Your Startup](http://tomtunguz.com/what-time-of-year-to-raise)
+*   [The Worst Time of Year to Raise A Seed Round](http://tomtunguz.com/seed-timing)
 
 Presentations and Pitches
 *   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
