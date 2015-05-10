@@ -106,7 +106,7 @@ How Much Should Your Startup Spend on...
 Product and Growth
 *   [Carol Dweck: Fixed Mindset and Growth Mindset/Feedback Loop](http://tomtunguz.com/management-feedback-loops)
 *   [Linear vs. Compounding/Exponential Growth](http://tomtunguz.com/the-path-to-exponential-growth)
-*   [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
+*   [Your Startup’s Three Horizons](http://tomtunguz.com/mckinseys-3-horizons) and [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
 *   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
 *   [The 3 Minute Technique for Brainstorming Your Startup's Product Roadmap (used by IDEO and Stanford d.School)](http://tomtunguz.com/three-minutes) 
 *   [The One Best Metric for Your Startup to Maximize ("Toothbrush Test")](http://tomtunguz.com/best-metric)
