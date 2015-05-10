@@ -202,8 +202,9 @@ RFS and Trends
 
 Documents
 
-Convertible Bonds and Securities
+Cap Table, Convertible Bonds, Securities, Equity
 *   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
+*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
 *   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
 *   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
 
@@ -213,22 +214,28 @@ Convertible Bonds and Securities
 *   [YCombinator Library](http://ycombinator.com/lib.html)  
 *   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents)  
  
-Cap Tables
-*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table)  
+Document Web Services
 *   [Captable.io](https://captable.io)  
+*   [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
 *   [Eshares Inc](https://www.esharesinc.com)
+*   [Visible](https://visible.vc) 
 
-More Templates
+Document Libraries
+*   [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents)  
+*   [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
 *   [IA Ventures Resources](http://resources.iaventures.com) 
 *   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents) 
 *   [Next View Ventures Blog](http://nextviewventures.com/blog) and [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources) 
+*   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881)  
+*   [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp) 
+*   [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx)  
+*   [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
+*   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
+*   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
 *   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
 *   [SeriesSeed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
 *   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), and [Incorporation Documents](http://fi.co/information/agreements)
-
-Random Templates
-*   [Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
-*   [Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
+*   [WSGR Term Sheet Generator](https://dealbuilder.wsgr.com)
 
 #### Government Funding
 
