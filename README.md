@@ -175,6 +175,7 @@ Lists of VC Firms and Accelerators
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
 *   [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
 *   [Angelist Syndicates](https://angel.co/syndicates) and [Angelist Investing](https://angel.co/investing)
+*   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
 Angel and VC Firm Resources
 *   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
