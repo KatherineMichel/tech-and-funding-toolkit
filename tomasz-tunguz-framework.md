@@ -33,9 +33,9 @@ Strategy
 *   [Startup Judo- The Secret You Should Know Before Starting a Company](http://tomtunguz.com/startup-judo-the-secrets-you-should-know-before-starting-a-company) and [Peter Thiel- Secrets](http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes)
 
 High Level Analysis 
-*   [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
-*   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
-*   [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
+*   [Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
+*   [How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
+*   [The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 *   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
 *   [Not Sharing the Opportunity to Learn is a Cardinal Sin (The Story of O'Neill)](http://tomtunguz.com/postmortems)
 *   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
@@ -74,6 +74,9 @@ Impact of Time of Year
 *   [The Best Times of Year to Raise Capital for Your Startup](http://tomtunguz.com/what-time-of-year-to-raise)
 *   [The Worst Time of Year to Raise A Seed Round](http://tomtunguz.com/seed-timing)
 
+Impact of Competition
+*   [How Competition Strengthens Startups (Robert Ciadini: Social Proof)](http://tomtunguz.com/how-competition-strengthens-startups)
+*   [Do More Competitors in a Sector Decrease Fundraising Success?](http://tomtunguz.com/company-founding-trends)  
 Presentations and Pitches
 *   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
 *   [Pitches: "The 7 Questions A Startup Should Answer in their Fund Raising Pitch"](http://tomtunguz.com/pitch-deck), [Framing Your Startup’s Sales Pitch; Focus on Value, Not on Cost](http://tomtunguz.com/software-efficiency-pitches), and [The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability)
