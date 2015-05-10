@@ -9,13 +9,13 @@ Table of Contents
 - [Venture Capitalists](#venture-capitalists)
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
 - [VC, VC Firms, Accelerators, Resources](#vc-vc-firms-accelerators-resources)
-- [Government Funding and Digital](#government-funding-and-digital)
 - [Regulatory Agencies, Companies and Financials](#regulatory-agencies-companies-and-financials)
 - [Company and Product Databases](#company-and-product-databases)
 - [App and Website Statistics](#app-and-website-statistics)
 - [News Sources](#news-sources)
-- [Learning Resources](#learning-resources)
 - [Research](#research)
+- [Government Funding and Digital](#government-funding-and-digital)
+- [Learning Resources](#learning-resources)
 - [Books and Courses](#books-and-courses)
 - [Events Lists](#events-lists)
 - [Venture Analysis](#venture-analysis)
@@ -397,36 +397,6 @@ Aggregated, Curated News Sources
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
-#### Learning Resources
-
-MOOCs
-*   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
-*   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
-*   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#) and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-*   [EdX](https://www.edx.org)  
-*   [Udacity](https://www.udacity.com)
-*   [Udemy](https://www.udemy.com)
-*   [NovoEd](https://novoed.com)  
-*   [University of Reddit](http://universityofreddit.com) 
-
-Google, Google Tech, and TED Talks
-*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
-*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks) 
-*   [TED Talks](http://www.ted.com/talks)  
-
-Coding and Math 
-*   [Codecademy](http://www.codecademy.com) 
-*   [Khan Academy](https://www.khanacademy.org)  
-*   [Project Euler](https://projecteuler.net) 
-*   [Skillshare](http://www.skillshare.com/classes)
-*   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
-
-Shows
-*   [Founder Stories](http://techcrunch.com/video/founder-stories)
-*   [Heart Startup](http://hearstartup.com) 
-*   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
-*   [This Week in Startups](http://thisweekinstartups.com)
-
 #### Research
 
 Wikipedia
@@ -482,6 +452,36 @@ Facebook and Google Research
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Government Usability](http://www.usability.gov)
 *   [Code for America](http://www.codeforamerica.org)
+
+#### Learning Resources
+
+MOOCs
+*   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
+*   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
+*   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#) and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+*   [EdX](https://www.edx.org)  
+*   [Udacity](https://www.udacity.com)
+*   [Udemy](https://www.udemy.com)
+*   [NovoEd](https://novoed.com)  
+*   [University of Reddit](http://universityofreddit.com) 
+
+Google, Google Tech, and TED Talks
+*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
+*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks) 
+*   [TED Talks](http://www.ted.com/talks)  
+
+Coding and Math 
+*   [Codecademy](http://www.codecademy.com) 
+*   [Khan Academy](https://www.khanacademy.org)  
+*   [Project Euler](https://projecteuler.net) 
+*   [Skillshare](http://www.skillshare.com/classes)
+*   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
+
+Shows
+*   [Founder Stories](http://techcrunch.com/video/founder-stories)
+*   [Heart Startup](http://hearstartup.com) 
+*   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
+*   [This Week in Startups](http://thisweekinstartups.com)
 
 #### Books and Courses
 
