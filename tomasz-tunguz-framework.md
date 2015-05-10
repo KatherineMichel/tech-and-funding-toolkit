@@ -50,7 +50,7 @@ Research and Planning
 
 Networking
 *   [Maximizing the Value of Investor Referrals](http://tomtunguz.com/investor-referrals)
-*   [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
+*   [Using The Friend Paradox to Maximize Your Effectiveness at Startup Networking Events](http://tomtunguz.com/best-way-to-work-a-room) and [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
 
 Fundraising
 *   [It’s Time to Start Worrying About the Next Round for Your Startup](http://tomtunguz.com/thinking-through-valuations)
