@@ -37,7 +37,7 @@ High Level Analysis
 *   [How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
 *   [The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 *   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
-*   [A six-step framework to make strategic decisions (McKinsey)](http://tomtunguz.com/a-sixstep-framework-to-make-strategic-decisions) and [HBR: Bringing Science to the Art of Strategy](ttps://hbr.org/2012/09/bringing-science-to-the-art-of-strategy/ar/1)
+*   [A six-step framework to make strategic decisions (McKinsey)](http://tomtunguz.com/a-sixstep-framework-to-make-strategic-decisions) and [HBR: Bringing Science to the Art of Strategy](https://hbr.org/2012/09/bringing-science-to-the-art-of-strategy/ar/1)
 *   [Your Startup’s Three Horizons](http://tomtunguz.com/mckinseys-3-horizons) and [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
 
 Research and Planning
@@ -134,7 +134,7 @@ Burn Rate
 Benchmarks and Metrics
 *   [Your Startup’s 10 Most Important Metrics](http://www.tomtunguz.com/your-startups-10-most-important-metrics)
 
-Cohort Analysis
+Cohort Analysis (including R)
 *   [Interpreting Cohort Data: The 3 Key Analyses for Measuring Your Startup’s Product Performance](http://tomtunguz.com/interpreting-cohort-data)
 *   [Cohort Analysis For Startups: Six Summary Reports To Understand Your Customer Base (With Code)](http://tomtunguz.com/cohort-analysis-with-r)
 
@@ -143,11 +143,13 @@ Operations
 *   [Creativity Wikipedia](http://en.wikipedia.org/wiki/Creativity)
 *   [How To Take Exceptional Notes and Be Productive with Paper](http://tomtunguz.com/how-to-take-exceptional-notes-and-be-productive-with-paper) and [Bullet Journal](http://www.bulletjournal.com)
 *   [Holacracy: "Should Your Startup Adopt a New Management Style?"](http://tomtunguz.com/holacracy) and [Holacracy.com](http://holacracy.org)
+*   [Mastering Feedback Loops in Startups](http://tomtunguz.com/feedback-loops)
 *   [On negotiation](http://tomtunguz.com/negotiation-take-aways)
 *   [One on Ones](http://tomtunguz.com/one-on-ones)
 *   [Parkinson's Law](http://tomtunguz.com/the-bike-rack-effect), [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law_of_triviality), and [Parkinson's Law Book](http://www.amazon.com/Parkinsons-Law-C-Northcote-Parkinson/dp/1568490151/ref=sr_1_1?ie=UTF8&qid=1358799355&sr=8-1&keywords=parkinson%27s+law)
 *   [Peter Drucker: The Myth of the Generalist from Drucker’s Effective Executive](http://tomtunguz.com/the-myth-of-the-generalist)
 *   [Peter Drucker: Three Fundamentals of Communication](http://tomtunguz.com/improving-your-communication-skills)
+*   [Ruthlessness and Grit in Startups (Management Feedback Loops)](http://tomtunguz.com/management-feedback-loops)
 *   [Steven Covey: Prioritization Matrix](http://tomtunguz.com/urgent-vs-important)
 
 Partnerships
