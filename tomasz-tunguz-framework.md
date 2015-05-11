@@ -14,7 +14,7 @@ Characteristics of Billion Dollar Companies
 Characteristics of Billion Dollar SaaS Companies
 *   [The Financing Trends of Billion Dollar SaaS Companies](http://www.tomtunguz.com/fundraising-history-saas-publics)
 *   [The Employee Productivity Patterns of Billion Dollar SaaS Companies](http://www.tomtunguz.com/employee-productivity-patterns-saas)
-*   [he Ratio of Engineers to Sales People in Billion Dollar SaaS Startups](http://tomtunguz.com/saas-spend-allocation-benchmarks)
+*   [The Ratio of Engineers to Sales People in Billion Dollar SaaS Startups](http://tomtunguz.com/saas-spend-allocation-benchmarks)
 
 B Corporation
 *   [The B Corporation: A Novel Structure for Mission Driven Startups](http://tomtunguz.com/the-b-corporation)
