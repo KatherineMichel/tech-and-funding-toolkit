@@ -24,6 +24,9 @@ Cost of Starting Up
 *   [Do Startups Require Less Capital to Succeed than 10 Years Ago?](http://www.tomtunguz.com/cloud-vc-dollar-efficiency)
 *   [The Rising Costs of Scaling a Startup](http://www.tomtunguz.com/rising-costs-of-startups)
 
+Should founders join incubators?
+*   [Should founders join incubators?](http://tomtunguz.com/should-founders-join-incubators)
+
 Naming a Startup
 *   [Using Data to Pick the Optimal Name for Your Startup](http://tomtunguz.com/startup-names)
 
@@ -164,6 +167,9 @@ Burnout
 Postmortem
 *   [Not Sharing the Opportunity to Learn is a Cardinal Sin (The Story of O'Neill)](http://tomtunguz.com/postmortems)
 *   [Postmortem Wikipedia](http://en.wikipedia.org/wiki/Postmortem_documentation)
+
+Trends
+*   [The Failure Fetish Fallacy: Learning is at the Core of Startup Land](http://tomtunguz.com/the-failure-fetish-fallacy)
 
 Words of Wisdom
 *   [The dumbest guy in the room](http://tomtunguz.com/the-dumbest-guy-in-the-room)
