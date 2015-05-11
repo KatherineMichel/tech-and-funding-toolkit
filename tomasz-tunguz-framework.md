@@ -130,6 +130,7 @@ Team Building and Managing
 *   [Startup Management Best Practices: Situational Management](http://tomtunguz.com/management-best-practice-1)
 *   [The Characteristics of the Most Successful Teams](http://tomtunguz.com/emotional_intelligence)
 *   [The Part They Don’t Tell You About Startup Team Building](http://tomtunguz.com/the-part-they-dont-tell-you-about-team-building)
+*   [The Power Of Team Work In Startups](http://tomtunguz.com/harmony)
 *   [What a Dog and a Monkey Taught Me About Management at Google](http://tomtunguz.com/a-dog-and-a-monkey)
 
 Compensation Trends
