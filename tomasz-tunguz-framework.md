@@ -50,9 +50,12 @@ Research and Planning
 *   [Evidence Based Scheduling](http://tomtunguz.com/engineering-predictability), [Joel Spolsky's Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html), and [Monte Carlo Simulation Wikipedia](http://en.wikipedia.org/wiki/Monte_Carlo_method)
 *   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
 *   [Hypothesis Testing](http://en.wikipedia.org/wiki/Hypothesis)
+*   [Incremental Innovation is Just As Powerful as Disruption](http://tomtunguz.com/incrementalism)
 *   [Reverse Engineering Your Startup’s Success; Eliot Schmuckler: Working Backwards](http://tomtunguz.com/working-backwards) and [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
+*   [Startup Playbook: Reverse-Engineering Clay Christensen’s Market Disruptions](http://tomtunguz.com/the-five-barriers-to-disrupting-a-market) and [Clayton Christensen and Maxwell Wessel: Surviving Disruption](https://hbr.org/2012/12/surviving-disruption/ar/1)
 *   [Startup Research and Sociology](http://tomtunguz.com/the-value-of-startup-research)
 *   [The biggest professional challenge of my career: communication (Scientific Method vs. Inverted Pyramid)](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
+*   [The idea factory](http://tomtunguz.com/the-idea-factory)
 *   [Using Statements of Work to Accelerate Sales Cycle and Align Sales, Customer Success and Marketing](http://www.tomtunguz.com/statements-of-work)
 
 Product, Market, Value Proposition, Roadmap
