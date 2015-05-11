@@ -16,6 +16,9 @@ Characteristics of Billion Dollar SaaS Companies
 *   [The Employee Productivity Patterns of Billion Dollar SaaS Companies](http://www.tomtunguz.com/employee-productivity-patterns-saas)
 *   [he Ratio of Engineers to Sales People in Billion Dollar SaaS Startups](http://tomtunguz.com/saas-spend-allocation-benchmarks)
 
+B Corporation
+*   [The B Corporation: A Novel Structure for Mission Driven Startups](http://tomtunguz.com/the-b-corporation)
+
 The Innovator's Dilemma and Solution for SaaS Startups
 *   [The Innovator's Dilemma for SaaS Startups](http://www.tomtunguz.com/saas-innovators-dilemma)
 *   [The Innovator's Solution for SaaS Startups - The Flywheel SaaS Company](http://www.tomtunguz.com/saas-innovators-solution)
@@ -24,7 +27,7 @@ Cost of Starting Up
 *   [Do Startups Require Less Capital to Succeed than 10 Years Ago?](http://www.tomtunguz.com/cloud-vc-dollar-efficiency)
 *   [The Rising Costs of Scaling a Startup](http://www.tomtunguz.com/rising-costs-of-startups)
 
-Should founders join incubators?
+Incubators
 *   [Should founders join incubators?](http://tomtunguz.com/should-founders-join-incubators)
 
 Naming a Startup
@@ -44,12 +47,12 @@ High Level Analysis
 *   [Your Startup’s Three Horizons](http://tomtunguz.com/mckinseys-3-horizons) and [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
 
 Research and Planning
-*   [Reverse Engineering Your Startup’s Success; Eliot Schmuckler: Working Backwards](http://tomtunguz.com/working-backwards) and [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
 *   [Evidence Based Scheduling](http://tomtunguz.com/engineering-predictability), [Joel Spolsky's Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html), and [Monte Carlo Simulation Wikipedia](http://en.wikipedia.org/wiki/Monte_Carlo_method)
 *   [Founder's Null Hypothesis](http://tomtunguz.com/null-hypothesis-for-entrepreneurs), based on [Null Hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) a technique for defeating [Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
 *   [Hypothesis Testing](http://en.wikipedia.org/wiki/Hypothesis)
-*   [The biggest professional challenge of my career: communication (Scientific Method vs. Inverted Pyramid)](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
+*   [Reverse Engineering Your Startup’s Success; Eliot Schmuckler: Working Backwards](http://tomtunguz.com/working-backwards) and [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
 *   [Startup Research and Sociology](http://tomtunguz.com/the-value-of-startup-research)
+*   [The biggest professional challenge of my career: communication (Scientific Method vs. Inverted Pyramid)](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
 
 Networking
 *   [Maximizing the Value of Investor Referrals](http://tomtunguz.com/investor-referrals)
@@ -80,6 +83,7 @@ Impact of Time of Year
 Impact of Competition
 *   [How Competition Strengthens Startups (Robert Ciadini: Social Proof)](http://tomtunguz.com/how-competition-strengthens-startups)
 *   [Do More Competitors in a Sector Decrease Fundraising Success?](http://tomtunguz.com/company-founding-trends)  
+
 Presentations and Pitches
 *   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
 *   [Pitches: "The 7 Questions A Startup Should Answer in their Fund Raising Pitch"](http://tomtunguz.com/pitch-deck), [Framing Your Startup’s Sales Pitch; Focus on Value, Not on Cost](http://tomtunguz.com/software-efficiency-pitches), and [The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability)
@@ -138,8 +142,8 @@ Benchmarks and Metrics
 *   [Your Startup’s 10 Most Important Metrics](http://www.tomtunguz.com/your-startups-10-most-important-metrics)
 
 Cohort Analysis (including R)
-*   [Interpreting Cohort Data: The 3 Key Analyses for Measuring Your Startup’s Product Performance](http://tomtunguz.com/interpreting-cohort-data)
 *   [Cohort Analysis For Startups: Six Summary Reports To Understand Your Customer Base (With Code)](http://tomtunguz.com/cohort-analysis-with-r)
+*   [Interpreting Cohort Data: The 3 Key Analyses for Measuring Your Startup’s Product Performance](http://tomtunguz.com/interpreting-cohort-data)
 
 Operations
 *   [Brutal Intellectual Honesty](http://tomtunguz.com/intellectual-honesty) and [Dominic Orr: Stanford ecorner](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1868)
@@ -172,6 +176,8 @@ Trends
 *   [The Failure Fetish Fallacy: Learning is at the Core of Startup Land](http://tomtunguz.com/the-failure-fetish-fallacy)
 
 Words of Wisdom
+*   [Every Damn Day (Excellence)](http://tomtunguz.com/excellence)
 *   [The dumbest guy in the room](http://tomtunguz.com/the-dumbest-guy-in-the-room)
+
 
 
