@@ -37,6 +37,7 @@ High Level Analysis
 *   [How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
 *   [The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 *   [End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
+*   [A six-step framework to make strategic decisions (McKinsey)](http://tomtunguz.com/a-sixstep-framework-to-make-strategic-decisions) and [HBR: Bringing Science to the Art of Strategy](ttps://hbr.org/2012/09/bringing-science-to-the-art-of-strategy/ar/1)
 *   [Your Startup’s Three Horizons](http://tomtunguz.com/mckinseys-3-horizons) and [McKinsey's Three Horizons](http://www.mckinsey.com/insights/strategy/enduring_ideas_the_three_horizons_of_growth)
 
 Research and Planning
@@ -89,6 +90,14 @@ Financial Statements and Metrics
 *   [A Startup's Rosetta Stone; How to Succinctly Communicate the Details of a Business](http://www.tomtunguz.com/financial-statements)
 *   [The 10 Most Important Metrics in a Startup's Financial Statements](http://www.tomtunguz.com/ten-financial-metrics)
 
+HR
+*   [A Startup’s Step-by-Step Guide to Working with Recruiters](http://tomtunguz.com/working-with-a-retained-search-firm)
+*   [Anatomy of a Reference Check](http://tomtunguz.com/anatomy-of-a-reference-check)
+*   [Hacking the Performance Evaluation](http://tomtunguz.com/hacking-performance-reviews)
+*   [My approach to building a hiring pipeline](http://tomtunguz.com/my-approach-to-building-a-hiring-pipeline)
+*   [Quantifying the Cost of a Bad Hire](http://www.tomtunguz.com/quantifying-cost-bad-hire)
+*   [The Most Effective Questions to Use When Interviewing Candidates](http://tomtunguz.com/job-interviews)
+
 Compensation Trends
 *   [The Surprising Compensation Trends of Startup Executives](http://tomtunguz.com/vpe-vpp-compensation-trends)
 *   [The Unexpected Compensation Trends of Post-Series A Startup Founder/CEOs](http://www.tomtunguz.com/compensation-trends)
@@ -106,11 +115,13 @@ Product and Growth
 *   [Carol Dweck: Fixed Mindset and Growth Mindset/Feedback Loop](http://tomtunguz.com/management-feedback-loops)
 *   [Linear vs. Compounding/Exponential Growth](http://tomtunguz.com/the-path-to-exponential-growth)
 *   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
+*   [Nailing Your Startup's Value Proposition](http://tomtunguz.com/value-proposition-diagram-redux) and [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/books)
 *   [The 3 Minute Technique for Brainstorming Your Startup's Product Roadmap (used by IDEO and Stanford d.School)](http://tomtunguz.com/three-minutes) 
 *   [The One Best Metric for Your Startup to Maximize ("Toothbrush Test")](http://tomtunguz.com/best-metric)
 *   [Usability Lab](http://tomtunguz.com/usability-lab)
 *   [Quick And Dirty Product/Market Fit Validation: Can You Hit Your Quota?](http://tomtunguz.com/quick-idea-validation)
 *   ["Using Price & Demand Curves To Inform Startup Product Roadmaps"](http://tomtunguz.com/price-demand-curves-pmf)
+*   [Why the Petal Diagram Isn't the Best Competition Diagram for Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition) and [Steve Blank: A New Way to Look at Competitors](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors)
 
 Human Behavior
 *   [Anticipatory Computing: The Next Big Thing Is Enabling Laziness](http://tomtunguz.com/iot-and-laziness)
@@ -131,11 +142,17 @@ Operations
 *   [Creativity Wikipedia](http://en.wikipedia.org/wiki/Creativity)
 *   [How To Take Exceptional Notes and Be Productive with Paper](http://tomtunguz.com/how-to-take-exceptional-notes-and-be-productive-with-paper) and [Bullet Journal](http://www.bulletjournal.com)
 *   [Holacracy: "Should Your Startup Adopt a New Management Style?"](http://tomtunguz.com/holacracy) and [Holacracy.com](http://holacracy.org)
+*   [On negotiation](http://tomtunguz.com/negotiation-take-aways)
 *   [One on Ones](http://tomtunguz.com/one-on-ones)
 *   [Parkinson's Law](http://tomtunguz.com/the-bike-rack-effect), [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law_of_triviality), and [Parkinson's Law Book](http://www.amazon.com/Parkinsons-Law-C-Northcote-Parkinson/dp/1568490151/ref=sr_1_1?ie=UTF8&qid=1358799355&sr=8-1&keywords=parkinson%27s+law)
 *   [Peter Drucker: The Myth of the Generalist from Drucker’s Effective Executive](http://tomtunguz.com/the-myth-of-the-generalist)
 *   [Peter Drucker: Three Fundamentals of Communication](http://tomtunguz.com/improving-your-communication-skills)
 *   [Steven Covey: Prioritization Matrix](http://tomtunguz.com/urgent-vs-important)
+
+Partnerships
+*   [A Startup’s Guide to Outsourcing](http://tomtunguz.com/outsourcing)
+*   [Distribution partnerships for startups](http://tomtunguz.com/partnerships)
+*   [Partnerships for startups: key deal terms](http://tomtunguz.com/partnerships-for-startups-part-2)
 
 Burnout
 *   [Startup Best Practices #8; Getting the Most from Your Team By Preventing Burnout](http://tomtunguz.com/managing-energy)
