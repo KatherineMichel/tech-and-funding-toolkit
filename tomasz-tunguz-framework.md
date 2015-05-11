@@ -53,6 +53,7 @@ Research and Planning
 *   [Reverse Engineering Your Startup’s Success; Eliot Schmuckler: Working Backwards](http://tomtunguz.com/working-backwards) and [Reverse Engineering Wikipedia](http://en.wikipedia.org/wiki/Reverse_engineering) 
 *   [Startup Research and Sociology](http://tomtunguz.com/the-value-of-startup-research)
 *   [The biggest professional challenge of my career: communication (Scientific Method vs. Inverted Pyramid)](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
+*   [Using Statements of Work to Accelerate Sales Cycle and Align Sales, Customer Success and Marketing](http://www.tomtunguz.com/statements-of-work)
 
 Product, Market, Value Proposition, Roadmap
 *   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
@@ -111,9 +112,22 @@ HR
 *   [A Startup’s Step-by-Step Guide to Working with Recruiters](http://tomtunguz.com/working-with-a-retained-search-firm)
 *   [Anatomy of a Reference Check](http://tomtunguz.com/anatomy-of-a-reference-check)
 *   [Hacking the Performance Evaluation](http://tomtunguz.com/hacking-performance-reviews)
+*   [How to Retain Your Startup's Best Employees](http://tomtunguz.com/free-agents)
 *   [My approach to building a hiring pipeline](http://tomtunguz.com/my-approach-to-building-a-hiring-pipeline)
 *   [Quantifying the Cost of a Bad Hire](http://www.tomtunguz.com/quantifying-cost-bad-hire)
+*   [Searching for Eric Schmidt](http://tomtunguz.com/searching-for-eric-schmidt)
+*   [The Fundamental Challenge of Your Startup’s First Hire: Leading and Learning at the Same Time](http://tomtunguz.com/management-and-teaching)
 *   [The Most Effective Questions to Use When Interviewing Candidates](http://tomtunguz.com/job-interviews)
+*   [Why Humility is Essential for Every New Startup Hire](http://tomtunguz.com/why-humility-is-essential-for-every-new-startup-hire)
+
+Team Building and Managing
+*   [All great managers are alike](http://tomtunguz.com/startup-management-lessons-from-woody-allen)
+*   [Crossing the People Management Chasm: A Necessity of Startup Growth](http://tomtunguz.com/three-types-of-managers)
+*   [Great startup management teams are built with interlocking parts](http://tomtunguz.com/management-teams-are-interlocking-parts)
+*   [Startup Management Best Practices: Situational Management](http://tomtunguz.com/management-best-practice-1)
+*   [The Characteristics of the Most Successful Teams](http://tomtunguz.com/emotional_intelligence)
+*   [The Part They Don’t Tell You About Startup Team Building](http://tomtunguz.com/the-part-they-dont-tell-you-about-team-building)
+*   [What a Dog and a Monkey Taught Me About Management at Google](http://tomtunguz.com/a-dog-and-a-monkey)
 
 Compensation Trends
 *   [The Surprising Compensation Trends of Startup Executives](http://tomtunguz.com/vpe-vpp-compensation-trends)
@@ -156,6 +170,7 @@ Operations
 *   [Creativity Wikipedia](http://en.wikipedia.org/wiki/Creativity)
 *   [How To Take Exceptional Notes and Be Productive with Paper](http://tomtunguz.com/how-to-take-exceptional-notes-and-be-productive-with-paper) and [Bullet Journal](http://www.bulletjournal.com)
 *   [Holacracy: "Should Your Startup Adopt a New Management Style?"](http://tomtunguz.com/holacracy) and [Holacracy.com](http://holacracy.org)
+*   [Startup Management Best Practices #4: Managing Monkeys (William Oncken Jr.)](http://tomtunguz.com/managing-the-monkey)
 *   [Mastering Feedback Loops in Startups](http://tomtunguz.com/feedback-loops)
 *   [On negotiation](http://tomtunguz.com/negotiation-take-aways)
 *   [One on Ones](http://tomtunguz.com/one-on-ones)
@@ -181,8 +196,13 @@ Postmortem
 Trends
 *   [The Failure Fetish Fallacy: Learning is at the Core of Startup Land](http://tomtunguz.com/the-failure-fetish-fallacy)
 
+VC Firm
+*   [The 3 Different Strategies of Venture Funds](http://tomtunguz.com/the-3-different-strategies-of-venture-funds)
+*   [The VC Firm of the Future](http://tomtunguz.com/the-venture-fund-of-the-future)
+
 Words of Wisdom
 *   [Every Damn Day (Excellence)](http://tomtunguz.com/excellence)
+*   [How Will I Enable Greatness Today?](http://tomtunguz.com/how-will-i-enable-greatness-today)
 *   [The dumbest guy in the room](http://tomtunguz.com/the-dumbest-guy-in-the-room)
 
 
