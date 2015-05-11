@@ -89,6 +89,7 @@ Financial Statements and Metrics
 *   [Financial Planning for Startups](http://tomtunguz.com/financial-planning-for-startups) and [A Startup’s Two Financial Plans: The Board Plan And The Stretch Plan](http://tomtunguz.com/predictability-and-ambition)
 *   [A Startup's Rosetta Stone; How to Succinctly Communicate the Details of a Business](http://www.tomtunguz.com/financial-statements)
 *   [The 10 Most Important Metrics in a Startup's Financial Statements](http://www.tomtunguz.com/ten-financial-metrics)
+*   [The Most Under-Appreciated Startup Team Member](http://tomtunguz.com/the-most-underrated-startup-member)
 
 HR
 *   [A Startup’s Step-by-Step Guide to Working with Recruiters](http://tomtunguz.com/working-with-a-retained-search-firm)
