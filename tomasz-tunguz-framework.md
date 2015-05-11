@@ -54,6 +54,14 @@ Research and Planning
 *   [Startup Research and Sociology](http://tomtunguz.com/the-value-of-startup-research)
 *   [The biggest professional challenge of my career: communication (Scientific Method vs. Inverted Pyramid)](http://tomtunguz.com/the-biggest-professional-challenge-of-my-career-communication) and [The Minto Pyramid Principle](http://www.amazon.com/The-Minto-Pyramid-Principle-Thinking/dp/0273710516/ref=sr_1_1?ie=UTF8&qid=1358866618&sr=8-1&keywords=minto+pyramid+principle)
 
+Product, Market, Value Proposition, Roadmap
+*   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
+*   [Nailing Your Startup's Value Proposition](http://tomtunguz.com/value-proposition-diagram-redux) and [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/books)
+*   [The 3 Minute Technique for Brainstorming Your Startup's Product Roadmap (used by IDEO and Stanford d.School)](http://tomtunguz.com/three-minutes) 
+*   [Quick And Dirty Product/Market Fit Validation: Can You Hit Your Quota?](http://tomtunguz.com/quick-idea-validation)
+*   ["Using Price & Demand Curves To Inform Startup Product Roadmaps"](http://tomtunguz.com/price-demand-curves-pmf)
+*   [Why the Petal Diagram Isn't the Best Competition Diagram for Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition) and [Steve Blank: A New Way to Look at Competitors](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors)
+
 Networking
 *   [Maximizing the Value of Investor Referrals](http://tomtunguz.com/investor-referrals)
 *   [Using The Friend Paradox to Maximize Your Effectiveness at Startup Networking Events](http://tomtunguz.com/best-way-to-work-a-room) and [Scott Feld: Friendship Paradox](http://en.wikipedia.org/wiki/Friendship_paradox) 
@@ -87,6 +95,7 @@ Impact of Competition
 Presentations and Pitches
 *   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
 *   [Pitches: "The 7 Questions A Startup Should Answer in their Fund Raising Pitch"](http://tomtunguz.com/pitch-deck), [Framing Your Startup’s Sales Pitch; Focus on Value, Not on Cost](http://tomtunguz.com/software-efficiency-pitches), and [The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability)
+*   [Stories, not sentences](http://tomtunguz.com/stories-not-sentences)
 *   [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](http://tomtunguz.com/storytelling-duarte)
 
 Due Diligence
@@ -119,21 +128,18 @@ How Much Should Your Startup Spend on...
 *   [How Much Should Your Startup Spend to Grow?](http://www.tomtunguz.com/segmenting-saas-growth)
 *   [How Much Should Your Startup Spend on Customer Account Expansion?](http://www.tomtunguz.com/upsell-ratios)
 
-Product and Growth
-*   [Carol Dweck: Fixed Mindset and Growth Mindset/Feedback Loop](http://tomtunguz.com/management-feedback-loops)
-*   [Linear vs. Compounding/Exponential Growth](http://tomtunguz.com/the-path-to-exponential-growth)
-*   [How to Nail Your Product Market Fit and Sales Pitch with a Value Proposition Diagram (VPD)](http://tomtunguz.com/how-to-nail-your-sales-pitch-with-a-value-proposition-diagram)
-*   [Nailing Your Startup's Value Proposition](http://tomtunguz.com/value-proposition-diagram-redux) and [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/books)
-*   [The 3 Minute Technique for Brainstorming Your Startup's Product Roadmap (used by IDEO and Stanford d.School)](http://tomtunguz.com/three-minutes) 
-*   [The One Best Metric for Your Startup to Maximize ("Toothbrush Test")](http://tomtunguz.com/best-metric)
+Design
+*   [Creating the Strangely Familiar](http://tomtunguz.com/jony-ive)
 *   [Usability Lab](http://tomtunguz.com/usability-lab)
-*   [Quick And Dirty Product/Market Fit Validation: Can You Hit Your Quota?](http://tomtunguz.com/quick-idea-validation)
-*   ["Using Price & Demand Curves To Inform Startup Product Roadmaps"](http://tomtunguz.com/price-demand-curves-pmf)
-*   [Why the Petal Diagram Isn't the Best Competition Diagram for Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition) and [Steve Blank: A New Way to Look at Competitors](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors)
 
 Human Behavior
 *   [Anticipatory Computing: The Next Big Thing Is Enabling Laziness](http://tomtunguz.com/iot-and-laziness)
 *   [Great products turn motivation into capability](http://tomtunguz.com/great-products-turn-motivation-into-capability) and [Fogg Behaviour Model Website](http://www.behaviormodel.org)
+*   [The One Best Metric for Your Startup to Maximize ("Toothbrush Test")](http://tomtunguz.com/best-metric)
+
+Growth
+*   [Carol Dweck: Fixed Mindset and Growth Mindset/Feedback Loop](http://tomtunguz.com/management-feedback-loops)
+*   [Linear vs. Compounding/Exponential Growth](http://tomtunguz.com/the-path-to-exponential-growth)
 
 Burn Rate
 *   [How Much Cash Should Your Startup Burn?](http://www.tomtunguz.com/monthly-burn-benchmarks)
