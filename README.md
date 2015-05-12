@@ -763,12 +763,21 @@ Code Search
 *   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
 *   [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
 *   [Facebook's First Proposal](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
+*   [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
+*   [Buzzfeed's First Pitch Deck to Investors](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
 *   [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
+*   [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
 *   [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
 *   [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
 *   [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
 *   [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
+*   [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
 *   [Snapchat for Business](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
+*   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
+*   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+
+Templates
+*   [Zenpayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
 
 #### Launch Strategies
 
