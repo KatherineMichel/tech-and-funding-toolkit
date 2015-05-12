@@ -768,6 +768,7 @@ Code Search
 *   [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
 *   [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
 *   [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
+*   [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
 *   [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
 *   [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
 *   [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
@@ -782,6 +783,7 @@ Code Search
 *   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
 *   [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
 *   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+
 
 Templates
 *   [Peter Thiel Pitch Deck](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
