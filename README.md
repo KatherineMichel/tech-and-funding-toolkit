@@ -650,6 +650,7 @@ Spinoffs
 *   [Prototyping Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
 *   [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
 *   [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
+*   [Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration) 
 
 Device Mockups
 *   [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
@@ -770,8 +771,13 @@ Code Search
 #### Notable Proposals and Pitch Decks
 
 *   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
+
+Pitch Deck Search
 *   [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
 *   [Pitch Envy](http://www.pitchenvy.com)
+*   [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
+
+Notable Proposals and Pitch Decks
 *   [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
 *   [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
 *   [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
@@ -792,7 +798,6 @@ Code Search
 *   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
 *   [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
 *   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
-
 
 Templates
 *   [Peter Thiel Pitch Deck](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
