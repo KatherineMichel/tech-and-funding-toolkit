@@ -388,6 +388,9 @@ Tech
 *   [TechCrunch](http://techcrunch.com)
 *   [The Next Web](http://thenextweb.com)
 
+Leaderboard
+*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
+
 Aggregated, Curated News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
@@ -706,7 +709,8 @@ Responsive Design
 *   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
 *   [Responsive Design Examples](http://mediaqueri.es)  
 
-GitHub Styleguide
+Styleguides
+*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 *   [Styleguide GitHub](https://github.com/styleguide) 
 
 Design Publications
@@ -800,7 +804,8 @@ Notable Proposals and Pitch Decks
 *   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
 
 Templates
-*   [Peter Thiel Pitch Deck](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
+*   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
+*   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
 *   [Zenpayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
 
 #### Launch Strategies
