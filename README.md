@@ -343,7 +343,7 @@ Public
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 
 Database Info and Benchmarking
-*   [Angelist Markets](https://angel.co/markets), [Angelist Companies](https://angel.co/companies), [Angelist Trending](https://angel.co/companies/trending), [Angelist Valuations](https://angel.co/valuations), [Angelist Salaries](https://angel.co/salaries), and [Angelist Leads](https://angel.co/people/leads)
+*   [Angelist Help](https://angel.co/help), [Angelist Markets](https://angel.co/markets), [Angelist Companies](https://angel.co/companies), [Angelist Trending](https://angel.co/companies/trending), [Angelist Valuations](https://angel.co/valuations), [Angelist Salaries](https://angel.co/salaries), and [Angelist Leads](https://angel.co/people/leads)
 *   [Betalist Markets](http://betalist.com/markets)
 *   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph) and [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 *   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
@@ -649,7 +649,7 @@ Spinoffs
 
 #### Prototyping
 
-*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design)
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
 *   [Prototyping Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
 *   [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
 *   [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
