@@ -246,7 +246,7 @@ Document Libraries
 *   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
 *   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
 *   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
-*   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), and [Incorporation Documents](http://fi.co/information/agreements)
+*   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#)
 *   [Venture Docs](https://venturedocs.com/documents)  
 *   [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
