@@ -118,6 +118,7 @@ Table of Contents
 *   [Guy Kawasaki](http://guykawasaki.com) and [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
 *   [Hiten Shah](http://hitenism.com) 
 *   [Horace Dediu](http://www.asymco.com) 
+*   [Jason M. Lemkin (SaaStr](http://www.saastr.com)
 *   [Jay Rosen](http://pressthink.org)   
 *   [Jeff Atwood](http://blog.codinghorror.com)
 *   [Jeff Jarvis](http://buzzmachine.com) 
@@ -195,7 +196,7 @@ Angel and VC Firm Resources
 *   [True University](http://trueuniversity.com) 
 
 Accelerator Resources
-*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), and [WMD](http://wmd.co)
+*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [WMD](http://wmd.co), and [Warm Gun(http://warmgun.com)
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
@@ -521,11 +522,13 @@ MOOCs
 *   [500 Startups Events](http://500.co/events)
 *   [Startup School](http://www.startupschool.org)
 *   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
+*   [Mobile Ecosystem Forum](http://mefglobalforum.org)
 *   [TechCrunch Events](http://techcrunch.com/events)  
 *   [Recode Events](http://recode.net/events) 
 *   [LeWeb](http://leweb.co) 
 *   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 *   [SXSW](http://sxsw.com) 
+*   [KC Addys](http://aafkc.com/addys)
 
 #### Venture Analysis
 
