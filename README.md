@@ -551,6 +551,7 @@ MOOCs
 *   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
+*   [Douglas C. Engelbart: The Mother of All Demos](hhttp://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
 *   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
@@ -765,6 +766,10 @@ Thoughtbot Version
 
 #### Code
 
+Guides for Development
+*   [Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Developer
 *   [Apple Developer](https://developer.apple.com)
 
 Code Hosting
