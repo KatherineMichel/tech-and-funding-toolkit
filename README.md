@@ -114,7 +114,7 @@ Table of Contents
 *   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
 *   [Eric Schmidt](http://www.slideshare.net/ericschmidt)
 *   [Ev Williams Medium](https://medium.com/@ev) 
-*   [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
+*   [Guy Kawasaki](http://guykawasaki.com) and [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
 *   [Hiten Shah](http://hitenism.com) 
 *   [Horace Dediu](http://www.asymco.com) 
 *   [Jay Rosen](http://pressthink.org)   
@@ -194,7 +194,7 @@ Angel and VC Firm Resources
 *   [True University](http://trueuniversity.com) 
 
 Accelerator Resources
-*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats) 
+*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), and [WMD](http://wmd.co)
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
