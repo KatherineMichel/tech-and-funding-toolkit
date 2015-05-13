@@ -56,7 +56,7 @@ Table of Contents
 *   [Andy Weissman](http://blog.aweissman.com)
 *   [Balaji Srinivasan A16Z](http://a16z.com/tag/balaji-s-srinivasan) and [Balaji Srinivasan Twitter](https://twitter.com/balajis) 
 *   [Ben Horowitz](http://www.bhorowitz.com)  
-*   [Bijan Sabet Archive](http://bijansabet.com/archive)
+*   [Bijan Sabet Archive](http://bijansabet.com/archive) and [Bijan Sabet SoundCloud](https://soundcloud.com/bijan)
 *   [Bill Gurley Archives](http://abovethecrowd.com/archives)
 *   [Brad Feld](http://www.feld.com) and [Brad Feld Archive](http://www.feld.com/archive)
 *   [Bubba Murarka](http://bubba.vc)
@@ -814,6 +814,7 @@ Notable Proposals and Pitch Decks
 Templates
 *   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
 *   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
+*   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
 *   [Zenpayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
 
 #### Launch Strategies
