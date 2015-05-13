@@ -164,6 +164,11 @@ A Few Thoughts
 *   [Fred Wilson: The Venture Capital Math Problem](http://avc.com/2009/04/the-venture-capital-math-problem) 
 *   [Fred Wilson: The Biggest Loser Can Be The Biggest Winner](http://avc.com/2009/08/the-biggest-loser-can-be-the-biggest-winner)  
 
+Investment Theses
+*   [Fred Wilson: Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
+*   [Fred Wilson: Dave McClure’s Investment Thesis](http://avc.com/2010/07/dave-mcclures-investment-thesis) 
+*   [Dave McClure: MoneyBall for Startups: Invest BEFORE Product/Market Fit, Double-Down AFTER.](http://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
+
 Venture Capital and How Funding Works
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
 *   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
@@ -412,8 +417,13 @@ Analyst Groups
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
 
 Industry and Product Classifications
+*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
 *   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
 *   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
 Management Consulting Firms
 *   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
@@ -499,9 +509,6 @@ Courses
 MOOCs
 *   [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance)
 
-Course Builders
-*   [Google Course Builder](https://code.google.com/p/course-builder)
-
 #### Events Lists
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 *   [Techmeme Events List](http://techmeme.com/events) 
@@ -511,6 +518,7 @@ Course Builders
 *   [TechCrunch Events](http://techcrunch.com/events)  
 *   [Recode Events](http://recode.net/events) 
 *   [LeWeb](http://leweb.co) 
+*   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 *   [SXSW](http://sxsw.com) 
 
 #### Venture Analysis
@@ -653,6 +661,7 @@ Photoshop and Gimp
  
 Prototyping Software
 *   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+*   [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
 *   [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
 *   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
  
