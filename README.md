@@ -97,7 +97,7 @@ Table of Contents
 #### Tech Analysts, Thought Leaders
 
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
-*   [Alex Osterwalder](http://www.alexosterwalder.com) and [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder)
+*   [Alex Osterwalder](http://www.alexosterwalder.com), [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder), and [Alex Osterwalder Slideshare](http://www.slideshare.net/Alex.Osterwalder)
 *   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim)
 *   [Andrew Sullivan](http://dish.andrewsullivan.com)  
 *   [Anil Dash](http://dashes.com/anil)
