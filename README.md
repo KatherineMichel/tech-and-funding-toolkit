@@ -226,6 +226,9 @@ Cap Table, Convertible Bonds, Securities, Equity
 *   [YCombinator Library](http://ycombinator.com/lib.html)  
 *   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents)  
  
+Term Sheets 101
+*   [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
+
 Document Web Services
 *   [Captable.io](https://captable.io)  
 *   [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
