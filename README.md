@@ -478,6 +478,7 @@ Facebook and Google Research
 *   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
 *   [U.S. CIO Playbook](http://playbook.cio.gov)  
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
+*   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
 *   [Government Usability](http://www.usability.gov)
 *   [Code for America](http://www.codeforamerica.org)
 
