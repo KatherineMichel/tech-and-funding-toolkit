@@ -41,6 +41,7 @@ Table of Contents
 - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
 - [Other Enormous Tool Lists](#other-enormous-tool-lists)
+- [Vocabulary](#vocabulary)
 
 #### Investor Frameworks
 
@@ -143,6 +144,7 @@ Table of Contents
 *   [Michael Mauboussin](http://michaelmauboussin.com)
 *   [Naval Ravikant](http://startupboy.com)
 *   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
+*   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 *   [Rick Klau Medium](https://medium.com/@rklau)
 *   [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
@@ -331,6 +333,9 @@ Unicorns
 *   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 *   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
 *   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
+
+Types of Acquisitions
+*   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
 
 #### Company and Product Databases
 
@@ -557,42 +562,27 @@ MOOCs
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
 *   [Douglas C. Engelbart: The Mother of All Demos](hhttp://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
 *   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
-*   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
-*   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
-*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
-*   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
 *   [Jeff Bezos Regret Minimization Framework via Bijan Sabet](http://bijansabet.com/post/147533511/jeff-bezos-regret-minimization-framework)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
 *   [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
 *   [Judo Strategy: Turning Your Competitors' Strength to Your Advantage HBR](http://harvardbusiness.org/product/judo-strategy-turning-your-competitors-strength-to/an/2530-HBK-ENG) and [Judo Strategy: Turning Your Competitors' Strength to Your Advantage Amazon](http://www.amazon.com/Judo-Strategy-Competitors-Strength-Advantage/dp/1578512530)
-*   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
 *   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 *   [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 *   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
-*   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 *   [Mark Cranney: Sales Process](https://a16z.files.wordpress.com/2014/05/cranney_salesprocess.jpg) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-*   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
-*   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
-*   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
-*   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
 *   [Reid Hoffman: "world-changing startups need to be premised on 'Accurate Contrarian Theories'"](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1685)
-*   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
 *   [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
 *   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
-*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Stewart Butterfield: We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
-*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
-*   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 *   [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
 
@@ -992,5 +982,21 @@ Testing, Reporting, Analytics
 Awesome Awesomeness
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+
+#### Vocabulary
+
+*   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
+*   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
+*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
+*   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
+*   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
+*   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
+*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+*   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
+*   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
+*   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
+*   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
+*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
+*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
 [Back to Top](#)
