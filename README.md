@@ -200,7 +200,7 @@ Angel and VC Firm Resources
 *   [True University](http://trueuniversity.com) 
 
 Accelerator Resources
-*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [WMD](http://wmd.co), and [Warm Gun(http://warmgun.com)
+*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
@@ -643,7 +643,13 @@ Spinoffs
 
 #### Business Models, Pricing, Product Tiers
   
+*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
 *   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
+*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
+*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
+*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
+*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 #### Pretotyping
