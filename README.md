@@ -802,21 +802,17 @@ Notable Proposals and Pitch Decks
 *   [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
 *   [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
 *   [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
-*   [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
-*   [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
-*   [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
-*   [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
-*   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
-*   [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
-*   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
 
 Templates
-*   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
+*   [Guy KUniverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
 *   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
 *   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
 *   [Zenpayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
 
 #### Launch Strategies
+
+Launch Guides
+*   [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
 
 General
 *   [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
