@@ -359,7 +359,7 @@ Databases
 *   [Datafox](http://www.datafox.co), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [GitHub Explore](https://github.com/explore) 
 *   [Mattermark](http://mattermark.com), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), and [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)      
-*   [Product Hunt](http://www.producthunt.com), [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+*   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections) [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
 Public
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
