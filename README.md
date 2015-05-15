@@ -394,9 +394,8 @@ Wayback Machine
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 
 #### News Sources
-
 Guardian Directory of News Websites
-*   [Guardian Directory of News Websites, Country-by-Country](http://www.guardian.co.uk/worldnewsguide) 
+*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
 
 Business
 *   [Business Insider](http://www.businessinsider.com)
