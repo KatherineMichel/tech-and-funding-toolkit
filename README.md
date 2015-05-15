@@ -484,6 +484,7 @@ Facebook and Google Research
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 
 U.S.
+*   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
 *   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
 *   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
@@ -492,9 +493,14 @@ U.S.
 *   [Code for America](http://www.codeforamerica.org)
 
 U.K.
+*   [GOV.UK GitHub](https://github.com/alphagov)
 *   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
+*   [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
 *   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [Service design phases](https://www.gov.uk/service-manual/phases)
 *   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
+
+Australia
+*   [Australia Digital Transformation Office](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 
 #### Learning Resources
 
