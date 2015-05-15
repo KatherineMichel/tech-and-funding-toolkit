@@ -901,8 +901,11 @@ Tools
 *   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
 *   [Amazon Example Press Release](http://aws.amazon.com/new) 
 
-Handbooks and Style Guides 
+Journalism Handbooks
 *   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
+*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf)
+
+Journalism Style Guides 
 *   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
 *   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
 *   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
