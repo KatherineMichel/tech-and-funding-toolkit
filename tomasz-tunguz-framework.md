@@ -4,6 +4,20 @@ Blog
 SaaS Category
 *   [SaaS Category](http://tomtunguz.com/categories/saas)
 
+SaaS S-1 Analysis (How 7 Key SaaS Metrics Stack Up)
+*   [Benchmarking Box's S-1](http://www.tomtunguz.com/box-ipo) and [S-1](http://www.sec.gov/Archives/edgar/data/1372612/000119312514112417/d642425ds1.htm#toc642425_10)
+*   [Benchmarking Box's Updated S-1](http://www.tomtunguz.com/box-s-1-updated) and [S-1](https://www.sec.gov/Archives/edgar/data/1372612/000119312514439087/d642425ds1a.htm)
+*   [Benchmarking HubSpot's S-1](http://www.tomtunguz.com/hubspot-ipo) and [S-1](http://www.sec.gov/Archives/edgar/data/1404655/000119312514320044/d697256ds1.htm)
+*   [Benchmarking LinkedIn's S-1](http://www.tomtunguz.com/linkedin-s-1) 
+*   [Benchmarking MobileIron's S-1](http://www.tomtunguz.com/mobileiron-s-1) and [S-1](http://www.nasdaq.com/markets/ipos/filing.ashx?filingid=9468351)
+*   [Benchmarking New Relic's S-1](http://www.tomtunguz.com/new-relic-s-1) and [S-1](http://www.sec.gov/Archives/edgar/data/1448056/000119312514406260/d709327ds1.htm)
+*   [Benchmarking Salesforce's S-1](http://www.tomtunguz.com/salesforce-s-1) and [S-1](http://www.sec.gov/Archives/edgar/data/1108524/000119312503096073/ds1.htm)
+*   [Benchmarking Tableau's S-1](http://www.tomtunguz.com/tableau-s-1) and [S-1](http://www.sec.gov/Archives/edgar/data/1303652/000119312513138700/d469057ds1.htm)
+*   [Benchmarking Veeva's S-1](http://www.tomtunguz.com/veeva-s-1)
+*   [Benchmarking WorkDay's S-1](http://www.tomtunguz.com/workday-s-1) and [S-1](http://www.sec.gov/Archives/edgar/data/1327811/000119312512375787/d385110ds1.htm)
+*   [Benchmarking Xero's S-1 ](http://www.tomtunguz.com/xero-s-1) 
+*   [Benchmarking Zendesk's S-1](http://www.tomtunguz.com/zendesk-ipo) and [S-1](http://www.sec.gov/Archives/edgar/data/1463172/000119312514137878/d665368ds1.htm)
+
 Characteristics of Billion Dollar Companies
 *   [Dream Teams; The Characteristics of Billion-Dollar Startup Founders](http://www.tomtunguz.com/founders-with-cs)
 *   [The Seed Investment Patterns of Billion Dollar Startups](http://www.tomtunguz.com/seed-follow-ons)
