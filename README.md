@@ -458,6 +458,7 @@ Think Tanks
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
 
 Development and Government Data
+*   [Dot Gov Domains](https://github.com/GSA/data)
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
 *   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
 *   [OECD Data](https://data.oecd.org) and [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
@@ -469,6 +470,7 @@ Development and Government Data
 *   [U.K. Government Publications](https://www.gov.uk/government/publications)
 *   [U.S. Census](http://www.census.gov)
 *   [U.S. Data](http://www.data.gov)
+*   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
 *   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
 
 General Research
