@@ -241,11 +241,11 @@ Document Libraries
 *   [Docracy Documents](http://www.docracy.com/application/dochome) 
 *   [IA Ventures Resources](http://resources.iaventures.com) 
 *   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
-*   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents) 
+*   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
 *   [Next View Ventures Blog](http://nextviewventures.com/blog) and [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources) 
 *   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881)  
 *   [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp) 
-*   [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx)  
+*   [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx)
 *   [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
 *   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
 *   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
@@ -426,6 +426,7 @@ Aggregated, Curated News Sources
 
 Wikipedia
 *   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+*   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 
 Analyst Groups
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
