@@ -24,7 +24,7 @@ Table of Contents
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
-- [Business Models, Pricing, Product Tiers](#business-models-pricing-product-tiers)
+- [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Pretotyping](#pretotyping)
 - [Prototyping](#prototyping)
 - [Design](#design)
@@ -653,15 +653,25 @@ Spinoffs
 *   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
 *   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
 
-#### Business Models, Pricing, Product Tiers
+#### Market, Business Models, Pricing, Product Tiers
   
+Market
+*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
+*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
+*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
+
+Business Models
 *   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
 *   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
 *   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
-*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
-*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
 *   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
 *   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
+
+Pricing Strategies
+*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
+
+Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 #### Pretotyping
