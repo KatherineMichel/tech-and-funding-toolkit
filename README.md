@@ -457,12 +457,19 @@ Management Consulting Firms
 Think Tanks
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
 
-Development
+Development and Government Data
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
 *   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
+*   [OECD Data](https://data.oecd.org) and [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
+*   [Our World in Data](http://ourworldindata.org)
+*   [United Nations Statistics Division](http://unstats.un.org)
+*   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
 *   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
 *   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf) and [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
+*   [U.K. Government Publications](https://www.gov.uk/government/publications)
 *   [U.S. Census](http://www.census.gov)
+*   [U.S. Data](http://www.data.gov)
+*   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
 
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
