@@ -395,6 +395,9 @@ Wayback Machine
 
 #### News Sources
 
+Guardian Directory of News Websites
+*   [Guardian Directory of News Websites, Country-by-Country](http://www.guardian.co.uk/worldnewsguide) 
+
 Business
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
@@ -1039,7 +1042,7 @@ Social Media and Distribution
 *   [Buffer](https://bufferapp.com)
 *   [Hootsuite](https://hootsuite.com)
 *   [Storify](https://storify.com)  
-*   [TweetDeck](https://tweetdeck.twitter.com) 
+*   [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
 
 Customer Relationship Management
 *   [Salesforce](https://www.salesforce.com)
