@@ -464,14 +464,18 @@ Development and Government Data
 *   [OECD Data](https://data.oecd.org) and [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
 *   [Our World in Data](http://ourworldindata.org)
 *   [United Nations Statistics Division](http://unstats.un.org)
+*   [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
 *   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
+*   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
 *   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
 *   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf) and [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
 *   [U.K. Government Publications](https://www.gov.uk/government/publications)
 *   [U.S. Census](http://www.census.gov)
 *   [U.S. Data](http://www.data.gov)
 *   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
+*   [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
 *   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
+*   [U.S. Project Open Data](https://project-open-data.cio.gov)
 
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
