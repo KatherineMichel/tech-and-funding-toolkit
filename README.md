@@ -494,6 +494,7 @@ U.S.
 U.K.
 *   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
 *   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [Service design phases](https://www.gov.uk/service-manual/phases)
+*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
 
 #### Learning Resources
 
