@@ -344,6 +344,11 @@ Unicorns
 Types of Acquisitions
 *   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
 
+IPO
+*   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
+*   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
+*   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
+
 #### Company and Product Databases
 
 Databases
