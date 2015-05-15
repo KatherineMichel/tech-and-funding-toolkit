@@ -427,16 +427,6 @@ Aggregated, Curated News Sources
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
-Style Guides
-*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
-*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
-*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
-*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
-*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
-*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
-*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
-*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
-
 #### Research
 
 Wikipedia
@@ -907,6 +897,17 @@ Epic
 Tools
 *   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
 *   [Amazon Example Press Release](http://aws.amazon.com/new) 
+
+Handbooks and Style Guides 
+*   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
+*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
+*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
+*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
+*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
+*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
+*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
+*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
 
 #### Sharing, Analytics, Ads, Cards, Video
 
