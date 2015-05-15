@@ -109,7 +109,6 @@ Impact of Time of Year
 Impact of Competition
 *   [How Competition Strengthens Startups (Robert Ciadini: Social Proof)](http://tomtunguz.com/how-competition-strengthens-startups)
 *   [Do More Competitors in a Sector Decrease Fundraising Success?](http://tomtunguz.com/company-founding-trends)  
-
 Presentations and Pitches
 *   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
 *   [Pitches: "The 7 Questions A Startup Should Answer in their Fund Raising Pitch"](http://tomtunguz.com/pitch-deck), [Framing Your Startup’s Sales Pitch; Focus on Value, Not on Cost](http://tomtunguz.com/software-efficiency-pitches), and [The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability)
@@ -178,6 +177,14 @@ Burn Rate
 
 Benchmarks and Metrics
 *   [Your Startup’s 10 Most Important Metrics](http://www.tomtunguz.com/your-startups-10-most-important-metrics)
+*   [Why You Should Be Measuring Time To Utility For Your Product](http://tomtunguz.com/time-to-utility)
+
+Churn
+*   [Why Your Startup's Churn Rate Affects Your Company's Ability to Plan Its Future](http://www.tomtunguz.com/churn-predictability-valuation)
+*   [The Maximum Viable Churn Rate for a Startup](http://www.tomtunguz.com/maximum-viable-churn)
+*   [Why Everything I Thought I Knew About Churn Is Wrong](http://www.tomtunguz.com/churn-fallacies)
+*   [Why Negative Churn is Such a Powerful Growth Mechanism](http://www.tomtunguz.com/negative-churn)
+*   [The Three Churn Mitigation Strategies of SaaS Startups](http://www.tomtunguz.com/churn-mitigation)
 
 Cohort Analysis (including R)
 *   [Cohort Analysis For Startups: Six Summary Reports To Understand Your Customer Base (With Code)](http://tomtunguz.com/cohort-analysis-with-r)
@@ -202,6 +209,11 @@ Partnerships
 *   [A Startup’s Guide to Outsourcing](http://tomtunguz.com/outsourcing)
 *   [Distribution partnerships for startups](http://tomtunguz.com/partnerships)
 *   [Partnerships for startups: key deal terms](http://tomtunguz.com/partnerships-for-startups-part-2)
+
+Systems Thinking and Learning Organization
+*   [Startup Best Practices #10 - Building Your Startup's Institutional Memory](http://tomtunguz.com/email-transparency)
+*   [Systems thinking for startups](http://tomtunguz.com/learning-organizations)
+*   [Willing to be misunderstood](http://tomtunguz.com/amazons-key-tenets)
 
 Burnout
 *   [Startup Best Practices #8; Getting the Most from Your Team By Preventing Burnout](http://tomtunguz.com/managing-energy)
