@@ -256,7 +256,7 @@ Document Libraries
 *   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
 *   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#)
 *   [Venture Docs](https://venturedocs.com/documents)  
-*   [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
+*   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
 
 #### Regulatory Agencies, Companies, Financials
