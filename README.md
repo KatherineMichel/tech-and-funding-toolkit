@@ -483,12 +483,17 @@ Facebook and Google Research
 *   [Federal Business Opportunities](https://www.fbo.gov)  
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 
+U.S.
 *   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
-*   [U.S. CIO Playbook](http://playbook.cio.gov)  
+*   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
 *   [Government Usability](http://www.usability.gov)
 *   [Code for America](http://www.codeforamerica.org)
+
+U.K.
+*   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
+*   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [Service design phases](https://www.gov.uk/service-manual/phases)
 
 #### Learning Resources
 
