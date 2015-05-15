@@ -427,6 +427,16 @@ Aggregated, Curated News Sources
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
+Style Guides
+*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
+*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
+*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
+*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
+*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
+*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
+*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
+
 #### Research
 
 Wikipedia
@@ -495,6 +505,10 @@ Surveys
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
 *   [Google Research](http://research.google.com/index.html) and [Google Research Papers](http://research.google.com/pubs/papers.html) 
+
+Scholarly Journals
+*   [Science Direct](http://www.sciencedirect.com)  
+*   [Elselvier](http://www.elsevier.com)  
 
 #### Government Funding and Digital
 
@@ -619,6 +633,7 @@ MOOCs
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 *   [Mark Cranney: Sales Process](https://a16z.files.wordpress.com/2014/05/cranney_salesprocess.jpg) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+*   [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
 *   [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664)  
 *   [Reid Hoffman: "world-changing startups need to be premised on 'Accurate Contrarian Theories'"](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1685)
