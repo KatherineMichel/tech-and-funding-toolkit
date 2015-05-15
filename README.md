@@ -471,7 +471,7 @@ Development and Government Data
 *   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
 *   [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org)
 *   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
-*   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
+*   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports), and [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
 *   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf) and [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
 *   [U.K. Government Publications](https://www.gov.uk/government/publications)
 *   [U.S. Census](http://www.census.gov)
@@ -511,6 +511,7 @@ U.S.
 *   [Code for America](http://www.codeforamerica.org)
 
 U.K.
+*   [Digital Transformation](https://www.gov.uk/transformation)
 *   [GOV.UK GitHub](https://github.com/alphagov)
 *   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
 *   [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
@@ -614,6 +615,7 @@ MOOCs
 *   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 *   [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 *   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
+*   [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 *   [Mark Cranney: Sales Process](https://a16z.files.wordpress.com/2014/05/cranney_salesprocess.jpg) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
