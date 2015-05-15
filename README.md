@@ -819,6 +819,7 @@ Notable Proposals and Pitch Decks
 
 Templates
 *   [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
+*   [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
 *   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
 *   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
 *   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
