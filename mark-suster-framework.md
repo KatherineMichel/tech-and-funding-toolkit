@@ -4,6 +4,9 @@ Blog
 The Entrepreneur Thesis
 *   [The Entrepreneur Thesis](http://www.bothsidesofthetable.com/2010/03/01/the-entrepreneur-thesis)
 
+The Four Main Things that Investors Look for in a Startup
+*   [The Four Main Things that Investors Look for in a Startup](http://www.bothsidesofthetable.com/2010/10/06/the-four-main-things-that-investors-look-for-in-a-startup)
+
 Choosing and Reference Checking a VC
 *   [Choose Your VC Investor Carefully](http://www.bothsidesofthetable.com/2009/10/25/choose-your-vc-investor-carefully)
 *   [What I Would Look for When Choosing a VC; Knowing What I Know Now?](http://www.bothsidesofthetable.com/2014/01/22/what-i-would-look-for-when-choosing-a-vc-knowing-what-i-know-now)
@@ -38,6 +41,10 @@ Equity, Taking Money off the Table, Stock Options
 Pro-Rata
 *   [What all Entrepreneurs Need to Know About Prorata Rights](http://www.bothsidesofthetable.com/2014/10/12/the-authoritative-guide-to-prorata-rights)
 *   [Why Super Pro-rata Rights are Not a Good Deal for Entrepreneurs](http://www.bothsidesofthetable.com/2011/09/25/why-super-pro-rata-rights-are-not-a-good-deal-for-entrepreneurs)
+
+Board Observers
+*   [Why I Don't Like Board Observers](http://www.bothsidesofthetable.com/2009/10/14/when-the-board-of-a-startup-votes-theres-a-problem)
+*   [Rethinking Board Observers – The Role of the “Silent Observer”](http://www.bothsidesofthetable.com/2012/08/16/rethinking-board-observers-the-role-of-the-silent-observer)
 
 Aquihire
 *   [The Corrosive Downside of Acquihires](http://www.bothsidesofthetable.com/2013/05/13/the-corrosive-downside-of-acquihires)
