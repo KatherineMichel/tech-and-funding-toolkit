@@ -1,4 +1,4 @@
-Term Sheets
+Term Sheet
 *   [Price](http://www.feld.com/archives/2005/01/term-sheet-price.html) 
 *   [Liquidation Preference](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html) 
 *   [Board of Directors](http://www.feld.com/archives/2005/01/term-sheet-board-of-directors.html) 
