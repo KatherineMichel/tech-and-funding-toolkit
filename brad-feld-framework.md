@@ -26,6 +26,9 @@ Term Sheet
 *   [Compelled Sale Right](http://www.feld.com/archives/2006/06/term-sheet-compelled-sale-right.html) 
 *   [Annoying Term Sheet Things](http://www.feld.com/archives/2006/09/annoying-term-sheet-things.html) 
 *   [Entrepreneurs Blogging About Term Sheets](http://www.feld.com/archives/2007/04/entrepreneurs-blogging-about-term-sheets.html) 
+*   [Revisiting the Term Sheet](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
+*   [Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
+*   [The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
 
 Letter of Intent
 *   [Letter of Intent](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
