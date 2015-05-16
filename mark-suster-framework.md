@@ -1,10 +1,15 @@
 Blog
 *   [Mark Suster Blog](http://www.bothsidesofthetable.com)
 
-The Entrepreneur Thesis
-*   [The Entrepreneur Thesis](http://www.bothsidesofthetable.com/2010/03/01/the-entrepreneur-thesis)
+Raising VC
+*   [Raising VC: Do you need, when to raise, how much](http://bothsidesofthetable.com/pitching-a-vc)
+*   [Do You Really Even Need VC?](http://www.bothsidesofthetable.com/2009/07/22/do-you-really-even-need-vc)
+*   [8 Questions to Help Decide if You Should be Raising Money Now](http://www.bothsidesofthetable.com/2011/02/17/8-questions-to-help-decide-if-you-should-be-raising-money-now)
+*   [Why Startups Should Raise Money at the Top End of Normal](http://www.bothsidesofthetable.com/2011/06/05/why-startups-should-raise-money-at-the-top-end-of-normal)
+*   [What is the Right Amount of Money to Raise at a Startup?](http://www.bothsidesofthetable.com/2010/03/11/what-is-the-right-amount-of-money-to-raise-at-a-startup)
 
-The Four Main Things that Investors Look for in a Startup
+The Entrepreneur Thesis and The Four Main Things that Investors Look for in a Startup
+*   [The Entrepreneur Thesis](http://www.bothsidesofthetable.com/2010/03/01/the-entrepreneur-thesis)
 *   [The Four Main Things that Investors Look for in a Startup](http://www.bothsidesofthetable.com/2010/10/06/the-four-main-things-that-investors-look-for-in-a-startup)
 
 Choosing and Reference Checking a VC
