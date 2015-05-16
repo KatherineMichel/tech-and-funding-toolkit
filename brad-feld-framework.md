@@ -29,7 +29,7 @@ Term Sheets
 
 Letter of Intent
 *   [Letter of Intent](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
-*   [Foreplay](hhttp://www.feld.com/archives/2005/09/letter-of-intent-foreplay.html) 
+*   [Foreplay](http://www.feld.com/archives/2005/09/letter-of-intent-foreplay.html) 
 *   [Structure of a Deal](http://www.feld.com/archives/2005/10/letter-of-intent-structure-of-a-deal.html) 
 *   [Structure – Asset vs. Stock](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html) 
 *   [Asset Sale – Heart or Leaves?](http://www.feld.com/archives/2005/11/asset-sale-heart-or-leaves.html) 
