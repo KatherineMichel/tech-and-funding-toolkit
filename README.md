@@ -204,7 +204,7 @@ Accelerator Resources
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
-*   [YCombinator](http://ycombinator.com), [YCList](http://yclist.com), and [YCombinator Handshake](http://www.ycombinator.com/handshake) 
+*   [YCombinator](http://ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
   
 RFS and Trends
 *   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
@@ -636,6 +636,7 @@ MOOCs
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Stewart Butterfield: We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
+*   [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
