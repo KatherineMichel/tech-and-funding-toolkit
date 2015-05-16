@@ -30,8 +30,9 @@ Characteristics of Billion Dollar SaaS Companies
 *   [The Employee Productivity Patterns of Billion Dollar SaaS Companies](http://www.tomtunguz.com/employee-productivity-patterns-saas)
 *   [The Ratio of Engineers to Sales People in Billion Dollar SaaS Startups](http://tomtunguz.com/saas-spend-allocation-benchmarks)
 
-B Corporation
-*   [The B Corporation: A Novel Structure for Mission Driven Startups](http://tomtunguz.com/the-b-corporation)
+SaaS General
+*   [The Five Characteristics of An Ideal SaaS Company](http://www.tomtunguz.com/five-characteristics-of-an-ideal-saas-company)
+*   [The Importance of Segmentation for Your SaaS Startup](http://tomtunguz.com/customer-segmentation)
 
 The Innovator's Dilemma and Solution for SaaS Startups
 *   [The Innovator's Dilemma for SaaS Startups](http://www.tomtunguz.com/saas-innovators-dilemma)
@@ -43,6 +44,9 @@ Cost of Starting Up
 
 Incubators
 *   [Should founders join incubators?](http://tomtunguz.com/should-founders-join-incubators)
+
+Ideas
+*   [It all starts as a hobby](http://tomtunguz.com/it-all-starts-as-a-hobby)
 
 Naming a Startup
 *   [Using Data to Pick the Optimal Name for Your Startup](http://tomtunguz.com/startup-names)
@@ -95,6 +99,7 @@ Fundraising
 Impact of Sector
 *   [The Hottest Startup Sectors](http://tomtunguz.com/hot-sectors-2014)
 *   [The Technology Sectors that Create the Most Value](http://tomtunguz.com/top-250-it-companies)
+*   [The Startup Sector That’s Quietly Booming](http://tomtunguz.com/financial-innovation)
 *   [How Your Startup's Sector Affects Your Ability to Raise a Series A](http://tomtunguz.com/seed-follow-ons-by-sector)
 
 Impact of Location
@@ -122,6 +127,7 @@ Financial Statements and Metrics
 *   [Financial Planning for Startups](http://tomtunguz.com/financial-planning-for-startups) and [A Startup’s Two Financial Plans: The Board Plan And The Stretch Plan](http://tomtunguz.com/predictability-and-ambition)
 *   [A Startup's Rosetta Stone; How to Succinctly Communicate the Details of a Business](http://www.tomtunguz.com/financial-statements)
 *   [The 10 Most Important Metrics in a Startup's Financial Statements](http://www.tomtunguz.com/ten-financial-metrics)
+*   [Why Revenue Isn't the Most Important Financial Metric for Startups](http://www.tomtunguz.com/gross-margin-trends-saas)
 *   [The Most Under-Appreciated Startup Team Member](http://tomtunguz.com/the-most-underrated-startup-member)
 
 HR
@@ -230,6 +236,9 @@ VC Firm
 *   [The 3 Different Strategies of Venture Funds](http://tomtunguz.com/the-3-different-strategies-of-venture-funds)
 *   [The VC Firm of the Future](http://tomtunguz.com/the-venture-fund-of-the-future)
 
+B Corporation
+*   [The B Corporation: A Novel Structure for Mission Driven Startups](http://tomtunguz.com/the-b-corporation)
+*   
 Words of Wisdom
 *   [Every Damn Day (Excellence)](http://tomtunguz.com/excellence)
 *   [How Will I Enable Greatness Today?](http://tomtunguz.com/how-will-i-enable-greatness-today)
