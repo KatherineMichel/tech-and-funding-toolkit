@@ -38,6 +38,10 @@ The Innovator's Dilemma and Solution for SaaS Startups
 *   [The Innovator's Dilemma for SaaS Startups](http://www.tomtunguz.com/saas-innovators-dilemma)
 *   [The Innovator's Solution for SaaS Startups - The Flywheel SaaS Company](http://www.tomtunguz.com/saas-innovators-solution)
 
+Startups General
+*   [A Collection of Uncommon Points of View on Startups](http://tomtunguz.com/zero-to-one)
+*   [Must startup founders be charismatic?](http://tomtunguz.com/must-startup-founders-be-charismatic)
+
 Cost of Starting Up
 *   [Do Startups Require Less Capital to Succeed than 10 Years Ago?](http://www.tomtunguz.com/cloud-vc-dollar-efficiency)
 *   [The Rising Costs of Scaling a Startup](http://www.tomtunguz.com/rising-costs-of-startups)
@@ -209,6 +213,7 @@ Operations
 *   [Peter Drucker: The Myth of the Generalist from Drucker’s Effective Executive](http://tomtunguz.com/the-myth-of-the-generalist)
 *   [Peter Drucker: Three Fundamentals of Communication](http://tomtunguz.com/improving-your-communication-skills)
 *   [Ruthlessness and Grit in Startups (Management Feedback Loops)](http://tomtunguz.com/management-feedback-loops)
+*   [Skate to where the puck will be (Distribution Partnerships)](http://tomtunguz.com/partnerships)
 *   [Steven Covey: Prioritization Matrix](http://tomtunguz.com/urgent-vs-important)
 
 Partnerships
