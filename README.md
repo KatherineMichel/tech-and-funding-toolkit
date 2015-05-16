@@ -324,6 +324,7 @@ How to Read A Finacial Report
 *   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
 
 Investor Vocab
+*   [Investopedia](http://www.investopedia.com)
 *   [Investor Words](http://www.investorwords.com)
 
 Unicorns
@@ -480,6 +481,7 @@ Development and Government Data
 *   [U.S. Data](http://www.data.gov)
 *   [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
 *   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
+*   [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
 *   [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
 *   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
 *   [U.S. Project Open Data](https://project-open-data.cio.gov)
