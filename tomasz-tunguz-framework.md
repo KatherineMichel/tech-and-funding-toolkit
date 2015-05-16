@@ -121,7 +121,7 @@ Impact of Competition
 Presentations and Pitches
 *   [Clearing, Content, Transition: "A Simple Tool to Organize, Remember and Deliver Your Important Presentations"](http://tomtunguz.com/clearing-content-transition)
 *   [Pitches: "The 7 Questions A Startup Should Answer in their Fund Raising Pitch"](http://tomtunguz.com/pitch-deck), [Framing Your Startup’s Sales Pitch; Focus on Value, Not on Cost](http://tomtunguz.com/software-efficiency-pitches), and [The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability)
-*   [Stories, not sentences](http://tomtunguz.com/stories-not-sentences)
+*   [Stories, not sentences](http://tomtunguz.com/stories-not-sentences)A Collection of Uncommon Points of View on
 *   [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](http://tomtunguz.com/storytelling-duarte)
 
 Due Diligence
