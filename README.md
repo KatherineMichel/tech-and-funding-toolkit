@@ -60,6 +60,7 @@ Table of Contents
 *   [Ben Horowitz](http://www.bhorowitz.com)  
 *   [Bijan Sabet Archive](http://bijansabet.com/archive) and [Bijan Sabet SoundCloud](https://soundcloud.com/bijan)
 *   [Bill Gurley Archives](http://abovethecrowd.com/archives)
+*   [Bill Janeway](http://www.doingcapitalism.com)
 *   [Brad Feld](http://www.feld.com) and [Brad Feld Archive](http://www.feld.com/archive)
 *   [Bubba Murarka](http://bubba.vc)
 *   [Caterina Fake](http://caterina.net)
