@@ -162,7 +162,7 @@ Table of Contents
 *   [Stowe Boyd](http://stoweboyd.com)
 *   [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
-*   [Tren Griffin](http://25iq.com)
+*   [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 *   [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
 *   [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
