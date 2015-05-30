@@ -1130,7 +1130,13 @@ General
 *   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
+*   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
+
+Finance
+*   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
+*   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
+*   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 
 [Back to Top](#)
