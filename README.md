@@ -114,6 +114,7 @@ Table of Contents
 *   [Carlota Perez](http://www.carlotaperez.org) 
 *   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 *   [Clay Christensen](http://www.claytonchristensen.com) 
+*   [Dan Olsen Presentations Page 1](http://olsensolutions.com/speaking), [Dan Olsen Presentations Page 2](http://product-jobs.com/speaking2), [Dan Olsen Presentations Page 3](http://product-jobs.com/speaking3), and [Dan Olsen Slideshare](http://www.slideshare.net/dan_o)
 *   [Danielle Morrill](http://www.daniellemorrill.com), [Danielle Morrill Medium](https://medium.com/@DanielleMorrill) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
 *   [Dave Winer](http://scripting.com)   
 *   [Doc Searls](http://blogs.law.harvard.edu/doc) 
