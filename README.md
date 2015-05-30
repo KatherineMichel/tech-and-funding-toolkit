@@ -112,7 +112,7 @@ Table of Contents
 *   [Carlota Perez](http://www.carlotaperez.org) 
 *   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 *   [Clay Christensen](http://www.claytonchristensen.com) 
-*   [Danielle Morrill](http://www.daniellemorrill.com) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
+*   [Danielle Morrill](http://www.daniellemorrill.com), [Danielle Morrill Medium](https://medium.com/@DanielleMorrill) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
 *   [Dave Winer](http://scripting.com)   
 *   [Doc Searls](http://blogs.law.harvard.edu/doc) 
 *   [Edward Tufte](http://www.edwardtufte.com) 
@@ -445,6 +445,7 @@ Analyst Groups
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
 *   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), and [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474)
 *   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
+*   [IDC](http://www.idc.com)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
@@ -464,12 +465,10 @@ Management Consulting Firms
 Think Tanks
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
 
-Development and Government Data
-*   [Dot Gov Domains](https://github.com/GSA/data)
-*   [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
-*   [U.S. Executive Order -- Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+International and Development Data
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
 *   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
+*   [International Monetary Fund](https://www.imf.org) 
 *   [OECD Data](https://data.oecd.org) and [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
 *   [Our World in Data](http://ourworldindata.org)
 *   [United Nations Statistics Division](http://unstats.un.org)
@@ -480,7 +479,12 @@ Development and Government Data
 *   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
 *   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports), and [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
 *   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf) and [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
+
+U.K. and U.S. Data
+*   [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
 *   [U.K. Government Publications](https://www.gov.uk/government/publications)
+*   [U.S. Executive Order -- Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+*   [U.S. Dot Gov Domains](https://github.com/GSA/data)
 *   [U.S. Census](http://www.census.gov)
 *   [U.S. Data](http://www.data.gov)
 *   [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
@@ -491,7 +495,7 @@ Development and Government Data
 *   [U.S. Project Open Data](https://project-open-data.cio.gov)
 
 Patent Search
-*   [U.S. Patent and Trademark Office]()
+*   [U.S. Patent and Trademark Office](http://www.uspto.gov)
 *   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
 
 General Research
@@ -635,7 +639,7 @@ MOOCs
 *   [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
 *   [Judo Strategy: Turning Your Competitors' Strength to Your Advantage HBR](http://harvardbusiness.org/product/judo-strategy-turning-your-competitors-strength-to/an/2530-HBK-ENG) and [Judo Strategy: Turning Your Competitors' Strength to Your Advantage Amazon](http://www.amazon.com/Judo-Strategy-Competitors-Strength-Advantage/dp/1578512530)
 *   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
-*   [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
+*   [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 *   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
 *   [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 *   [Marc Andreessen: The Only Thing that Matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
@@ -998,7 +1002,7 @@ Popular Tools
 *   [Buffer](https://bufferapp.com)
 *   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
 *   [Detour Blog](http://blog.detour.com)
-*   [HubSpot Blog](http://blog.hubspot.com) and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+*   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
 *   [Intercom Blog](http://blog.intercom.io)
 *   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
 *   [Moz](http://moz.com) and [Moz Tools](http://moz.com/tools) 
