@@ -856,6 +856,15 @@ Code Search
 *   [Search Code](https://searchcode.com)  
 *   [Nerdy Data](http://nerdydata.com)  
 
+Engineering Blogs
+*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+*   [LinkedIn Engineering](http://engineering.linkedin.com)  
+*   [Pinterest Engineering](http://engineering.pinterest.com)  
+*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+*   [Uber Developers](https://devblog.uber.com)  
+*   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
 #### Notable Proposals and Pitch Decks
 
 *   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
