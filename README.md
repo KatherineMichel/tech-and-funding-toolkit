@@ -1152,6 +1152,7 @@ Finance and Investment Terms
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
+*   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 *   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
@@ -1192,6 +1193,7 @@ Laws, Theories, Logic
 *   [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
 *   [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
 *   [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
+*   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
 *   [Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
 
