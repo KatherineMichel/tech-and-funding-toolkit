@@ -198,6 +198,7 @@ Angel and VC Firm Resources
 *   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
+*   [Felicis Numbers](http://www.felicis.com/numbers)
 *   [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), and [First Round Review](http://firstround.com/review)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
 *   [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
@@ -445,8 +446,7 @@ Wikipedia
 Analyst Groups
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), and [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474)
-*   [Gartner Technology Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
+*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
 *   [IDC](http://www.idc.com)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
@@ -503,6 +503,7 @@ Patent Search
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 *   [Google Books](https://books.google.com)
+*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
 *   [Google Scholar](https://scholar.google.com)
 *   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
@@ -1152,6 +1153,7 @@ Finance and Investment Terms
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
+*   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
 *   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 *   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
