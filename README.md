@@ -1135,9 +1135,21 @@ General
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
-Finance
+Finance and Investment Terms
+*   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
+*   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
 *   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
+*   [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
+*   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
 *   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
+*   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
+*   [Inflection Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
+*   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
+*   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
+*   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
+*   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
+*   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
+*   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 
 [Back to Top](#)
