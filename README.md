@@ -531,6 +531,8 @@ U.K.
 Australia
 *   [Australia Digital Transformation Office](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 
+E-Residence
+*   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
 #### Learning Resources
 
 MOOCs
