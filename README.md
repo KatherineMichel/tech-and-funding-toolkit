@@ -204,7 +204,7 @@ Angel and VC Firm Resources
 *   [True University](http://trueuniversity.com) 
 
 Accelerator Resources
-*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
+*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
@@ -422,6 +422,7 @@ Aggregated, Curated News Sources
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [Inside Top](https://www.inside.com/top)
+*   [Launch Ticker](https://www.launchticker.com)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
 *   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
@@ -1079,7 +1080,8 @@ Payments
 *   [Square](https://squareup.com)
 *   [Stripe](https://stripe.com)
 
-Hiring and Payroll
+Admin, Hiring, Payroll
+*   [Clara Labs](https://claralabs.com) 
 *   [Lever](http://lever.co)  
 *   [Jobvite](http://www.jobvite.com)
 *   [QuickBooks](http://quickbooks.intuit.com)
