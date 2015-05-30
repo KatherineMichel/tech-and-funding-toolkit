@@ -292,6 +292,10 @@ Law and Transaction Services
 *   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Fortis](http://fortisrep.com) 
 
+General Solicitation
+*   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
+*   [AngelList General Solicitation](https://angel.co/help/general-solicitation)
+
 Securities and Exchange Commission (SEC)
 *   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
 *   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
