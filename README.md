@@ -185,6 +185,7 @@ Venture Capital and How Funding Works
 
 Lists of VC Firms and Accelerators
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
+*   [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
 *   [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
@@ -422,11 +423,12 @@ Aggregated, Curated News Sources
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [Inside Top](https://www.inside.com/top)
+*   [Klout (including Topic Expertise)](https://klout.com/home)
 *   [Launch Ticker](https://www.launchticker.com)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
 *   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
-*   [Nuzzel](http://nuzzel.com) 
+*   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
 *   [Quora](http://www.quora.com)
 *   [Reddit](http://www.reddit.com)
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
@@ -488,6 +490,10 @@ Development and Government Data
 *   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
 *   [U.S. Project Open Data](https://project-open-data.cio.gov)
 
+Patent Search
+*   [U.S. Patent and Trademark Office]()
+*   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
+
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 *   [Google Books](https://books.google.com)
@@ -533,6 +539,7 @@ Australia
 
 E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
+
 #### Learning Resources
 
 MOOCs
