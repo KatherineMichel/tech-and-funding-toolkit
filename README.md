@@ -778,9 +778,6 @@ Portfolio Websites
 Flickr
 *   [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
 
-Licenses
-*   [Creative Commons](https://creativecommons.org/licenses)
-
 KPCB and John Maeda Design in Tech Report
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
@@ -825,6 +822,15 @@ Developer
 Code Hosting
 *   [GitHub](https://github.com/github)
 *   [Google Code](http://code.google.com)
+
+Licenses
+*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+*   [Creative Commons](https://creativecommons.org/licenses)
+*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 Code Search
 *   [Search Code](https://searchcode.com)  
