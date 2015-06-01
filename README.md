@@ -837,6 +837,10 @@ Code Search
 *   [Search Code](https://searchcode.com)  
 *   [Nerdy Data](http://nerdydata.com)  
 
+A/B Testing
+*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+*   [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
+
 Engineering Blogs
 *   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
 *   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
