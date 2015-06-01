@@ -453,6 +453,7 @@ Analyst Groups
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
 *   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
 *   [IDC](http://www.idc.com)
+*   [McKinsey & Company](http://www.mckinsey.com)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
@@ -995,11 +996,21 @@ Project Management Associations
 
 Project Management Software
 *   [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
-*   [Asana](https://asana.com) and [Instagantt](http://instagantt.com)
+*   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
 *   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
 *   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 *   [Slack](https://slack.com) 
 *   [Trello](https://trello.com)
+
+Project Management Methodologies
+
+*   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management) 
+*   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
+*   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming)
+*   [Extreme Programming](http://www.extremeprogramming.org) 
+*   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
+*   [Scrum Guide](hhttp://www.scrumguides.org/scrum-guide.html)
+*   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
 
 #### Popular Tools
 
