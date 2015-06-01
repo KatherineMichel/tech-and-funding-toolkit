@@ -1149,10 +1149,13 @@ Awesome Awesomeness
 
 General
 *   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
+*   [Early Adopter wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
+*   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
+*   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
 *   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
@@ -1160,6 +1163,7 @@ General
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
 *   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
+*   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
@@ -1216,6 +1220,7 @@ Laws, Theories, Logic
 *   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
 *   [Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
 *   [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
+*   [Selection Bias Wikipedia](http://en.wikipedia.org/wiki/Selection_bias)
 *   [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
 *   [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
 *   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
