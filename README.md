@@ -634,7 +634,8 @@ MOOCs
 
 #### Lean Startup and Launchpad
 
-*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
+*   [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
 *   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 *   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 *   [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
@@ -1015,7 +1016,7 @@ Project Management Methodologies
 *   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming)
 *   [Extreme Programming](http://www.extremeprogramming.org) 
 *   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
-*   [Scrum Guide](hhttp://www.scrumguides.org/scrum-guide.html)
+*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
 *   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
 
 #### Popular Tools
