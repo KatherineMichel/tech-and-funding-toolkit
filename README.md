@@ -253,6 +253,7 @@ Document Libraries
 *   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
 *   [Next View Ventures Blog](http://nextviewventures.com/blog) and [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources) 
 *   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881), [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
+*   [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
 *   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
 *   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
 *   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
