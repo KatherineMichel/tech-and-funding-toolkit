@@ -725,13 +725,9 @@ Prototyping Software
 *   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
  
 Bootstrap, Font Awesome, Foundation
-
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap)  
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 *   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-
-Beta Testing
-*   [Crashlytics Beta Testing](http://try.crashlytics.com/beta)  
 
 Miscellaneous
 *   [Namium (Name Generator)](http://www.naminum.com)
@@ -840,9 +836,15 @@ Code Search
 *   [Search Code](https://searchcode.com)  
 *   [Nerdy Data](http://nerdydata.com)  
 
-A/B Testing
-*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+Beta Testing
+*   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+
+Testing, Reporting, Analytics
+*   [Crashlytics](http://try.crashlytics.com)
+*   [Mixpanel](https://mixpanel.com) 
+*   [Optimizely](https://www.optimizely.com) 
 *   [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
+*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
 
 Engineering Blogs
 *   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
@@ -1033,10 +1035,12 @@ Two Factor Authentication
 *   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
 Google Products, Office
+*   [Google Products](http://www.google.com/intl/en/about/products) 
 *   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
 *   [Google Gmail](http://gmail.com)  
 *   [Google Drive](https://www.google.com/drive) 
 *   [Google Docs](https://docs.google.com)  
+*   [Google Drawings](https://docs.google.com/drawings)  
 *   [Google Calendar](https://www.google.com/calendar) 
 
 Email
@@ -1084,11 +1088,6 @@ Admin, Hiring, Payroll
 *   [QuickBooks](http://quickbooks.intuit.com)
 *   [ZenPayroll](https://zenpayroll.com) 
 *   [Zenefits](http://www.zenefits.com)
-
-Testing, Reporting, Analytics
-*   [Crashlytics](http://try.crashlytics.com)
-*   [Mixpanel](https://mixpanel.com) 
-*   [Optimizely](https://www.optimizely.com)  
 
 #### Other Enormous Tool Lists
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
