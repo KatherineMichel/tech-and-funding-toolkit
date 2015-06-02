@@ -83,7 +83,7 @@ Table of Contents
 *   [Marc Andreessen Archive](http://blog.pmarca.com/archive), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
 *   [Mark Suster](http://www.bothsidesofthetable.com), [Mark Suster Archive](http://www.bothsidesofthetable.com/archive), and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
 *   [Megan Quinn Twitter](https://twitter.com/msquinn)
-*   [M.G. Siegler Archive](http://parislemon.com/archive) 
+*   [M.G. Siegler 500ish](https://500ish.com) and [M.G. Siegler Archive](http://parislemon.com/archive) 
 *   [Naveen Selvadurai the Artist](http://x.naveen.com)
 *   [Om Malik](http://om.co)
 *   [Paul Graham](http://paulgraham.com/articles.html)
