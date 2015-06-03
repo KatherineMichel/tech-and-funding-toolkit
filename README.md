@@ -205,7 +205,7 @@ Angel and VC Firm Resources
 *   [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
-*   [Passion Capital Numbers (2011-2015)](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
+*   [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
 
