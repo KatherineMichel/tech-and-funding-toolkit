@@ -379,7 +379,7 @@ Public
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 
 Database Info and Benchmarking
-*   [AngelList Help](https://angel.co/help), [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads)
+*   [AngelList Help](https://angel.co/help), AngelList Funds](https://angel.co/funds), [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads), [AngelList Jobs](https://angel.co/jobs)
 *   [Betalist Markets](http://betalist.com/markets)
 *   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph) and [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 *   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
