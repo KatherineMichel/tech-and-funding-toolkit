@@ -250,6 +250,7 @@ Document Libraries
 *   [Docracy Documents](http://www.docracy.com/application/dochome) 
 *   [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
 *   [IA Ventures Resources](http://resources.iaventures.com) 
+*   [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github)
 *   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
 *   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
 *   [Next View Ventures Blog](http://nextviewventures.com/blog) and [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources) 
@@ -365,13 +366,13 @@ IPO
 #### Company and Product Databases
 
 Databases
-*   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [AngelList API](https://angel.co/api), [Venture Hacks](http://venturehacks.com) and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
+*   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [AngelList API](https://angel.co/api), [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [Betalist](http://betalist.com)  
 *   [CB Insights](https://www.cbinsights.com), [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
 *   [CrunchBase](http://www.crunchbase.com), [CrunchBase Sitemap](https://www.crunchbase.com/sitemap), and [CrunchBase API](https://developer.crunchbase.com)
 *   [Datafox](http://www.datafox.co), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [GitHub Explore](https://github.com/explore) 
-*   [Mattermark](http://mattermark.com), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), and [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)      
+*   [Mattermark](http://mattermark.com), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), [Mattermark General and Administrative](http://mattermark.com/category/general-administrative), and [Mattermark API](https://mattermark.com/api)  
 *   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections) [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
 Public
