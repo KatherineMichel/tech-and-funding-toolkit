@@ -785,6 +785,13 @@ KPCB and John Maeda Design in Tech Report
 Website Launch Checklist
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
+Company Design
+*   [Medium Design](https://medium.com/designing-medium)  
+*   [IBM Design](https://www.ibm.com/design)  
+*   [eBay/PayPal](http://ebay.com/design)  
+*   [Twitter Design](https://twitter.com/design)  
+*   [Uber Design](https://www.uber.com/design) 
+
 #### Google Ventures Research Sprint
 
 *   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
