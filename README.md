@@ -1050,6 +1050,8 @@ Google Products, Office
 *   [Google Docs](https://docs.google.com)  
 *   [Google Drawings](https://docs.google.com/drawings)  
 *   [Google Calendar](https://www.google.com/calendar) 
+*   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
+*   [Google Flights](https://www.google.com/flights)  
 
 Email
 *   [MailChimp](http://mailchimp.com)
@@ -1058,6 +1060,7 @@ Email
 *   [SendGrid](http://sendgrid.com)  
  
 Group Communication/Chat
+*   [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
 *   [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
 *   [Skype](http://www.skype.com/en) 
  
