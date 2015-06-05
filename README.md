@@ -784,10 +784,11 @@ Design Publications
 *   [Smashing Magazine](http://www.smashingmagazine.com) 
 *   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
  
-Portfolio Websites
+Portfolio and Community Websites
 *   [Behance](https://www.behance.net)  
 *   [Dribbble](https://dribbble.com)  
 *   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
+*   [Zurb Tavern](http://zurb.com/tavern) 
 
 Flickr
 *   [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
@@ -834,6 +835,9 @@ Thoughtbot Version
 
 #### Code, Sharing, Analytics
 
+DevCenter
+*   [DevCenter Website](DevCenter.me)  
+
 Guides for Development
 *   [Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
@@ -842,6 +846,8 @@ Developer Conferences
 *   [F8 Facebook Developer Conference](https://www.fbf8.com) 
 *   [Google IO](https://www.google.com/events/io)  
 *   [Google Summer of Code](hhttps://developers.google.com/open-source/soc/?csw=1) 
+*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+*   [Twitter Flock](http://flock.fabric.io) 
 
 Apple
 *   [Apple Developer](https://developer.apple.com)
@@ -923,6 +929,7 @@ Testing, Reporting, Analytics
 *   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
 
 Engineering Blogs
+*   [Buffer Engineering](https://overflow.bufferapp.com)
 *   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
 *   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
 *   [LinkedIn Engineering](http://engineering.linkedin.com)  
