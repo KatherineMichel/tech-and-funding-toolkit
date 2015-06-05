@@ -727,10 +727,11 @@ Bootstrap, Font Awesome, Foundation
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 *   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 
-Good, Basic Templates
+Good, Basic Templates, Themes
 *   [HTML5 UP](http://html5up.net) 
 *   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero GitHub](https://github.com/iatek/bootstrap-zero) 
+*   [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
 *   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
 *   [Start Bootstrap](http://startbootstrap.com) and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 
