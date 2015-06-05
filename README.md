@@ -838,8 +838,14 @@ Google
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
 *   [Google+](https://plus.google.com)
 
-More Social Media
+Pinterest
 *   [Pinterest Blog](http://blog.pinterest.com) and [Pinterest Business](https://business.pinterest.com)
+
+Slideshare
+*   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
+*   [Slideshare Haiku Deck](https://www.slideshare.net/create)
+
+Snapchat
 *   [Snapchat Blog](http://blog.snapchat.com)
 
 Twitter
@@ -997,15 +1003,12 @@ Hiten Shah and Neil Patel
 *   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
 *   [Quicksprout](http://www.quicksprout.com) 
 
-Presentations and Infographics
-*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-*   [Slideshare Haiku Deck](https://www.slideshare.net/create)
-
 Popular Tools
 *   [Buffer](https://bufferapp.com)
 *   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
 *   [Detour Blog](http://blog.detour.com)
 *   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
 *   [Intercom Blog](http://blog.intercom.io)
 *   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
 *   [Moz](http://moz.com) and [Moz Tools](http://moz.com/tools) 
