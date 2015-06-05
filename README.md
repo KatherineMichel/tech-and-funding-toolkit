@@ -717,6 +717,11 @@ Prototyping Software
 *   [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
 *   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
  
+Quickie Websites
+*   [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
+*   [Squarespace Templates](http://www.squarespace.com/templates)
+*   [Wix Templates](http://www.wix.com/website/templates)
+
 Bootstrap, Font Awesome, Foundation
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap)  
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
