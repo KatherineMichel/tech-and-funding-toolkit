@@ -706,10 +706,12 @@ Device Mockups
 *   [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
 *   [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
  
-Photoshop and Gimp
+Photoshop and Similar
 *   [Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
 *   [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
- 
+*   [Inkscape](http://www.inkscape.org/en)  
+*   [Serif](http://www.serif.com) 
+
 Prototyping Software
 *   [Keynote](https://www.apple.com/mac/keynote)
 *   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
@@ -846,14 +848,22 @@ Apple
  
 Facebook
 *   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+*   [Facebook Code](https://code.facebook.com)
 *   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 
 Google
 *   [Google Developers](https://developers.google.com) 
+*   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 *   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+*   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
+*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) 
 *   [Google Analytics](http://www.google.com/analytics)
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
 *   [Google+](https://plus.google.com)
+
+LinkedIn
+*   [LinkedIn Ads](https://www.linkedin.com/ads/start)  
+*   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
 
 Pinterest
 *   [Pinterest Blog](http://blog.pinterest.com) and [Pinterest Business](https://business.pinterest.com)
