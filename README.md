@@ -573,13 +573,6 @@ Google, Google Tech, and TED Talks
 *   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks) 
 *   [TED Talks](http://www.ted.com/talks)  
 
-Coding and Math 
-*   [Codecademy](http://www.codecademy.com) 
-*   [Khan Academy](https://www.khanacademy.org)  
-*   [Project Euler](https://projecteuler.net) 
-*   [Skillshare](http://www.skillshare.com/classes)
-*   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
-
 Shows
 *   [Founder Stories](http://techcrunch.com/video/founder-stories)
 *   [Heart Startup](http://hearstartup.com) 
