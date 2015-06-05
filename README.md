@@ -735,6 +735,12 @@ Good, Basic Templates, Themes
 *   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
 *   [Start Bootstrap](http://startbootstrap.com) and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 
+Kickstarters
+*   [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+*   [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
+*   [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
+*   [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
+
 Miscellaneous
 *   [Namium (Name Generator)](http://www.naminum.com)
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
