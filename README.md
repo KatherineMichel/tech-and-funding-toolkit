@@ -824,6 +824,8 @@ Guides for Development
 Developer Conferences
 *   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
 *   [F8 Facebook Developer Conference](https://www.fbf8.com) 
+*   [Google IO](https://www.google.com/events/io)  
+*   [Google Summer of Code](hhttps://developers.google.com/open-source/soc/?csw=1) 
 
 Apple
 *   [Apple Developer](https://developer.apple.com)
@@ -834,6 +836,7 @@ Facebook
 
 Google
 *   [Google Developers](https://developers.google.com) 
+*   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 *   [Google Analytics](http://www.google.com/analytics)
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
 *   [Google+](https://plus.google.com)
@@ -858,6 +861,7 @@ Twitter
 *   [Twitter Data](https://twitter.com/TwitterData)
 *   [Twitter News](https://twitter.com/TwitterForNews)  
 *   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+*   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
 
 YouTube (Google)
 *   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
@@ -884,11 +888,6 @@ Code Search
 *   [Search Code](https://searchcode.com)  
 *   [Nerdy Data](http://nerdydata.com)  
 
-Sharing Buttons
-*   [AddThis](http://addthis.com)  
-*   [AddToAny](https://www.addtoany.com) 
-*   [ShareThis](http://sharethis.com)
-
 Beta Testing
 *   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
 
@@ -907,6 +906,15 @@ Engineering Blogs
 *   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
 *   [Uber Developers](https://devblog.uber.com)  
 *   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+Sharing Buttons
+*   [AddThis](http://addthis.com)  
+*   [AddToAny](https://www.addtoany.com) 
+*   [ShareThis](http://sharethis.com)
+
+Graph- General (See Also Facebook Open Graph)
+*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
+*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
 
 #### Internationalization
 
@@ -1074,6 +1082,8 @@ Google Products, Office
 *   [Google Calendar](https://www.google.com/calendar) 
 *   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
 *   [Google Flights](https://www.google.com/flights)  
+*   [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
+*   [Google Translate](https://translate.google.com/?hl=en)  
 
 Email
 *   [MailChimp](http://mailchimp.com)
