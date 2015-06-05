@@ -30,11 +30,10 @@ Table of Contents
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
-- [Code](#code)
+- [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Metrics](#metrics)
 - [Launch Strategies](#launch-strategies)
-- [Sharing, Analytics, Ads, Cards, Video](#sharing-analytics-ads-cards-video)
 - [Internationalization](#internationalization)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Startup Transparency Examples](#startup-transparency-examples)
@@ -812,13 +811,48 @@ Thoughtbot Version
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 *   [Gamestorming](http://www.gamestorming.com)
 
-#### Code
+#### Code, Sharing, Analytics
 
 Guides for Development
 *   [Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
-Developer
+Developer Conferences
+*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
+
+Apple
 *   [Apple Developer](https://developer.apple.com)
+ 
+Facebook
+*   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+
+Google
+*   [Google Developers](https://developers.google.com) 
+*   [Google Analytics](http://www.google.com/analytics)
+*   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
+*   [Google+](https://plus.google.com)
+
+More Social Media
+*   [Pinterest Blog](http://blog.pinterest.com) and [Pinterest Business](https://business.pinterest.com)
+*   [Snapchat Blog](http://blog.snapchat.com)
+
+Twitter
+*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+*   [Twitter Business](https://biz.twitter.com)
+*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+*   [Twitter Curator](https://curator.twitter.com)
+*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+*   [Twitter Data](https://twitter.com/TwitterData)   
+*   [Twitter News](https://twitter.com/TwitterForNews)  
+*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+
+YouTube (Google)
+*   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
+*   [YouTube Creators](http://www.youtube.com/yt/creators)  
+*   [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Amazon
+*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 
 Code Hosting
 *   [GitHub](https://github.com/github)
@@ -836,6 +870,11 @@ Licenses
 Code Search
 *   [Search Code](https://searchcode.com)  
 *   [Nerdy Data](http://nerdydata.com)  
+
+Sharing Buttons
+*   [AddThis](http://addthis.com)  
+*   [AddToAny](https://www.addtoany.com) 
+*   [ShareThis](http://sharethis.com)
 
 Beta Testing
 *   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
@@ -855,6 +894,16 @@ Engineering Blogs
 *   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
 *   [Uber Developers](https://devblog.uber.com)  
 *   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+#### Internationalization
+
+*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
+
+*   [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
+*   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
+*   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
+*   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
+*   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 
 #### Notable Proposals and Pitch Decks
 
@@ -923,47 +972,6 @@ Journalism Style Guides
 *   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
 *   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
 *   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
-
-#### Sharing, Analytics, Ads, Cards, Video
-
-Sharing Buttons
-*   [AddThis](http://addthis.com)  
-*   [AddToAny](https://www.addtoany.com) 
-*   [ShareThis](http://sharethis.com)
-
-Social Media
-*   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-*   [Google+](https://plus.google.com), [Google Analytics](http://www.google.com/analytics)
-*   [Pinterest Blog](http://blog.pinterest.com) and [Pinterest Business](https://business.pinterest.com)
-*   [Snapchat Blog](http://blog.snapchat.com)
-
-Twitter
-*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
-*   [Twitter Business](https://biz.twitter.com)
-*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-*   [Twitter Curator](https://curator.twitter.com)
-*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-*   [Twitter Data](https://twitter.com/TwitterData)   
-*   [Twitter News](https://twitter.com/TwitterForNews)  
-*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
-
-YouTube
-*   [Google YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
-*   [Google YouTube Creators](http://www.youtube.com/yt/creators)  
-*   [Google YouTube Developers](https://www.youtube.com/yt/dev) and [Google YouTube Developers](https://developers.google.com/youtube)  
-
-Amazon
-*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
-
-#### Internationalization
-
-*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
-
-*   [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
-*   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
-*   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
-*   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
-*   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 
 #### Growth, Marketing, and Content Resources
 
