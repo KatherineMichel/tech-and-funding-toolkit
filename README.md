@@ -824,6 +824,7 @@ Apple
 *   [Apple Developer](https://developer.apple.com)
  
 Facebook
+*   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 *   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 
 Google
@@ -837,13 +838,13 @@ More Social Media
 *   [Snapchat Blog](http://blog.snapchat.com)
 
 Twitter
-*   [Twitter Dev](https://dev.twitter.com)
+*   [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
 *   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 *   [Twitter Business](https://biz.twitter.com)
 *   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
 *   [Twitter Curator](https://curator.twitter.com)
 *   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-*   [Twitter Data](https://twitter.com/TwitterData)   
+*   [Twitter Data](https://twitter.com/TwitterData)
 *   [Twitter News](https://twitter.com/TwitterForNews)  
 *   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
 
