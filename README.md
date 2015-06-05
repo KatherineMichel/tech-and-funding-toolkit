@@ -936,10 +936,21 @@ Social Media
 *   [Google+](https://plus.google.com), [Google Analytics](http://www.google.com/analytics)
 *   [Pinterest Blog](http://blog.pinterest.com) and [Pinterest Business](https://business.pinterest.com)
 *   [Snapchat Blog](http://blog.snapchat.com)
+
+Twitter
 *   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 *   [Twitter Business](https://biz.twitter.com)
 *   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
 *   [Twitter Curator](https://curator.twitter.com)
+*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+*   [Twitter Data](https://twitter.com/TwitterData)   
+*   [Twitter News](https://twitter.com/TwitterForNews)  
+*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+
+YouTube
+*   [Google YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
+*   [Google YouTube Creators](http://www.youtube.com/yt/creators)  
+*   [Google YouTube Developers](https://www.youtube.com/yt/dev) and [Google YouTube Developers](https://developers.google.com/youtube)  
 
 Amazon
 *   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
