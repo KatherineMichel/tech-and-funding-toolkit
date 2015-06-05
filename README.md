@@ -993,6 +993,7 @@ Templates
 
 Launch Guides
 *   [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
+*   [Marketing Checklist for Indie Game Developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers)
 
 General
 *   [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
@@ -1081,7 +1082,6 @@ Project Management Software
 *   [Trello](https://trello.com)
 
 Project Management Methodologies
-
 *   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management) 
 *   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
 *   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming)
@@ -1089,6 +1089,9 @@ Project Management Methodologies
 *   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
 *   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
+
+Quality
+*   [ISO](http://www.iso.org/iso/home.html) 
 
 #### Popular Tools
 
