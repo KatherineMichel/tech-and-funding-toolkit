@@ -863,6 +863,10 @@ Developer Conferences
 *   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
 *   [Twitter Flock](http://flock.fabric.io) 
 
+*   [Facebook Pages](https://www.facebook.com)
+*   [Google+](https://plus.google.com)
+*   [Twitter](https://twitter.com)  
+
 Apple
 *   [Apple Developer](https://developer.apple.com)
  
@@ -879,7 +883,6 @@ Google
 *   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) 
 *   [Google Analytics](http://www.google.com/analytics)
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-*   [Google+](https://plus.google.com)
 
 LinkedIn
 *   [LinkedIn Ads](https://www.linkedin.com/ads/start)  
@@ -1144,6 +1147,14 @@ Livestreaming, Video, Audio
 *   [Livestream](http://new.livestream.com) 
 *   [SoundCloud](https://soundcloud.com)  
 *   [Vimeo](https://vimeo.com)  
+*   [YouTube](https://www.youtube.com) 
+
+Photo Hosting
+*   [Flickr](https://www.flickr.com) 
+*   [Picasa](https://picasa.google.com)
+
+Document Hosting
+*   [Scribd](https://www.scribd.com)
 
 Calendar 
 *   [Sunrise](https://calendar.sunrise.am)
