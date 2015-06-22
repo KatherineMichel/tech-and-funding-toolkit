@@ -1119,6 +1119,10 @@ Two Factor Authentication
 
 *   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
+Browsers
+*   [Google Chrome](http://www.google.com/chrome)
+*   [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+ 
 Google Products, Office
 *   [Google Products](http://www.google.com/intl/en/about/products) 
 *   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
