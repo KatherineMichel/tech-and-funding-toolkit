@@ -839,7 +839,7 @@ Company Design
 *   [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5) 
 
 Thoughtbot Version
-*   [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint), and [Design Sprint Book](http://www.designsprintbook.com)
+*   [Thoughtbot Blog Post](http://robots.thoughtbot.com/the-product-design-sprint), [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint), and [Design Sprint Book](http://www.designsprintbook.com)
 *   [Basecamp: A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
 *   [Trello Design Sprint Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
