@@ -26,7 +26,7 @@ Table of Contents
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Pretotyping](#pretotyping)
 - [Prototyping](#prototyping)
-- [Design](#design)
+- [Design and Usability](#design-and-usability)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
@@ -749,7 +749,7 @@ Miscellaneous
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-#### Design
+#### Design and Usability
 
 Design- General
 *   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
@@ -757,7 +757,24 @@ Design- General
 *   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
 
 Ideo
-*   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), and [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
+*   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
+
+Nielson Norman
+*   [Nielson Norman Group](http://www.nngroup.com)
+*   [Nielson Norman Group: How Many Test Users in a Usability Study?](http://www.nngroup.com/articles/how-many-test-users)
+*   [Nielson Norman Group Free Reports](http://www.nngroup.com/reports/free)
+*   [Nielson Norman Group How to Recruit Participants for Usability Studies](http://www.nngroup.com/reports/how-to-recruit-participants-usability-studies)
+*   [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
+*   [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
+
+Stanford Institute of Design
+*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
+*   [Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
+*   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf)
+*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
+*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
+*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
+*   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
 Google Design Approach
 
@@ -767,10 +784,6 @@ Google Design Approach
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 *   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html) and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0) 
  
-Design Schools and Philosophies
-*   [D-Lab MIT](http://d-lab.mit.edu) 
-*   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
-
 Responsive Design
 *   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
 *   [Responsive Design Examples](http://mediaqueri.es)  
