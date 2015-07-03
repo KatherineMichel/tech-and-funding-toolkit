@@ -505,9 +505,10 @@ U.K. and U.S. Data
 *   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
 *   [U.S. Project Open Data](https://project-open-data.cio.gov)
 
-Patent Search
+Patent Search and FOIA
 *   [U.S. Patent and Trademark Office](http://www.uspto.gov)
 *   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
+*   [FOIA](http://foia.state.gov)
 
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
@@ -851,6 +852,9 @@ Thoughtbot Version
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 
 #### Code, Sharing, Analytics
+
+Thoughtbot Playbook
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com) 
 
 DevCenter
 *   [DevCenter Website](DevCenter.me)  
