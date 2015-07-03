@@ -768,21 +768,10 @@ Nielson Norman
 *   [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
 
 Stanford Institute of Design
-*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
-*   [Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
-*   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf)
-*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
-*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
-*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
-*   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start), [Use Our Methods](http://dschool.stanford.edu/use-our-methods), [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf), [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
 Usability Gov
-*   [Government Usability](http://www.usability.gov)
-*   [What and Why](http://www.usability.gov/what-and-why/index.html)
-*   [Guidelines](http://guidelines.usability.gov)
-*   [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html)
-*   [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html)
-*   [Get Involved](http://www.usability.gov/get-involved/blog)
+*   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
 
 Nesta DIY
 
