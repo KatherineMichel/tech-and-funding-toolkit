@@ -775,7 +775,9 @@ Usability Gov
 
 Nesta DIY
 
-*   [Nesta](http://www.nesta.org.uk), [Nesta DIY](http://diytoolkit.org), [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit), and [Nesta DIY Tools](http://diytoolkit.org/tools)
+*   [Nesta](http://www.nesta.org.uk), 
+*   [Nesta DIY](http://diytoolkit.org), [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit), and [Nesta DIY Tools](http://diytoolkit.org/tools)
+*   [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills), and [Nesta Publications](http://www.nesta.org.uk/publications)
 
 Google Design Approach
 
