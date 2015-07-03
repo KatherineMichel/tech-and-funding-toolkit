@@ -552,7 +552,7 @@ U.K.
 *   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
 
 Australia
-*   [Australia Digital Transformation Office](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
+*   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 
 E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
