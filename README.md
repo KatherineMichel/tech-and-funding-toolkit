@@ -536,7 +536,7 @@ Scholarly Journals
 
 U.S.
 *   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
-*   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
+*   [18F](https://18f.gsa.gov), [18F GitHub](https://github.com/18F), and [18F Guides](https://pages.18f.gov/guides)
 *   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
