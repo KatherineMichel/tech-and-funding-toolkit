@@ -1156,6 +1156,7 @@ Google Products, Office
 *   [Google Flights](https://www.google.com/flights)  
 *   [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
 *   [Google Translate](https://translate.google.com/?hl=en)  
+*   [Let Me Google that for You](http://lmgtfy.com) 
 
 Email
 *   [MailChimp](http://mailchimp.com)
