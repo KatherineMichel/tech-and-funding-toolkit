@@ -762,7 +762,7 @@ Australia Digital Transformation Office
 *   [Australia Digital Transformation Office How to Apply the Standard](https://www.dto.gov.au/standard/how-apply-standard)
 
 Ideo
-*   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
+*   [IDEO](http://www.ideo.com), [IDEO Org](http://www.ideo.org), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
 
 Nesta DIY
 *   [Nesta](http://www.nesta.org.uk), 
@@ -779,7 +779,9 @@ Nielson Norman
 *   [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
 
 Stanford Institute of Design
-*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start), [Use Our Methods](http://dschool.stanford.edu/use-our-methods), [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf), [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start), [Use Our Methods](http://dschool.stanford.edu/use-our-methods)
+*   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf),
+*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
 The Digital Tookit for the Arts
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
