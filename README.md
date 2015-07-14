@@ -545,18 +545,13 @@ U.S.
 *   [Government Usability](http://www.usability.gov)
 *   [Code for America](http://www.codeforamerica.org)
 
-U.K.
+U.K. Gov
 *   [Digital Transformation](https://www.gov.uk/transformation)
 *   [GOV.UK GitHub](https://github.com/alphagov)
-*   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
-*   [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
-*   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
-*   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases)
-*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
+*   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
 
 Australia
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
-*   [Australia Digital Transformation Office How to Apply the Standard](https://www.dto.gov.au/standard/how-apply-standard)
 
 E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
@@ -763,6 +758,9 @@ Design- General
 *   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
 *   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
 
+Australia Digital Transformation Office
+*   [Australia Digital Transformation Office How to Apply the Standard](https://www.dto.gov.au/standard/how-apply-standard)
+
 Ideo
 *   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
 
@@ -787,12 +785,9 @@ The Digital Tookit for the Arts
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
 
 U.K. Gov
-
-*   [Discovery](https://www.gov.uk/service-manual/phases/discovery.html)
-*   [Alpha](https://www.gov.uk/service-manual/phases/alpha.html)
-*   [Beta](https://www.gov.uk/service-manual/phases/beta)
-*   [Live](https://www.gov.uk/service-manual/phases/live)
-*   [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
+*   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
+*   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases), [Discovery](https://www.gov.uk/service-manual/phases/discovery.html), [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Beta](https://www.gov.uk/service-manual/phases/beta), [Live](https://www.gov.uk/service-manual/phases/live), and [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
+*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
 
 Usability Gov
 *   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
