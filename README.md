@@ -856,8 +856,8 @@ Thoughtbot Version
 
 #### Code, Sharing, Analytics
 
-Thoughtbot Playbook
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com) 
+Thoughtbot Playbook and Templates
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com) and [Thoughtbot Templates](https://github.com/thoughtbot/templates)
 
 DevCenter
 *   [DevCenter Website](DevCenter.me)  
