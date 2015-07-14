@@ -766,6 +766,12 @@ Design- General
 Ideo
 *   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
 
+Nesta DIY
+*   [Nesta](http://www.nesta.org.uk), 
+*   [Nesta Creative Enterprise Toolkit](http://www.nesta.org.uk/publications/creative-enterprise-toolkit) and [Nesta Creative Enterprise Toolkit PDF](http://www.nesta.org.uk/sites/default/files/cet_books_1-4.pdf)
+*   [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills), and [Nesta Publications](http://www.nesta.org.uk/publications)
+*   [Nesta DIY](http://diytoolkit.org), [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit), and [Nesta DIY Tools](http://diytoolkit.org/tools)
+
 Nielson Norman
 *   [Nielson Norman Group](http://www.nngroup.com)
 *   [Nielson Norman Group: How Many Test Users in a Usability Study?](http://www.nngroup.com/articles/how-many-test-users)
@@ -777,14 +783,19 @@ Nielson Norman
 Stanford Institute of Design
 *   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start), [Use Our Methods](http://dschool.stanford.edu/use-our-methods), [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf), [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
+The Digital Tookit for the Arts
+*   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
+
+U.K. Gov
+
+*   [Discovery](https://www.gov.uk/service-manual/phases/discovery.html)
+*   [Alpha](https://www.gov.uk/service-manual/phases/alpha.html)
+*   [Beta](https://www.gov.uk/service-manual/phases/beta)
+*   [Live](https://www.gov.uk/service-manual/phases/live)
+*   [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
+
 Usability Gov
 *   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
-
-Nesta DIY
-
-*   [Nesta](http://www.nesta.org.uk), 
-*   [Nesta DIY](http://diytoolkit.org), [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit), and [Nesta DIY Tools](http://diytoolkit.org/tools)
-*   [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills), and [Nesta Publications](http://www.nesta.org.uk/publications)
 
 Google Design Approach
 
