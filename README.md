@@ -863,8 +863,12 @@ Thoughtbot Playbook and Templates
 DevCenter
 *   [DevCenter Website](DevCenter.me)  
 
+Docs
+*   [Mozilla Developer](https://developer.mozilla.org/en-US) 
+*   [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
 Guides for Development
-*   [Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
 Built With (Exluding Django)
 *   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
