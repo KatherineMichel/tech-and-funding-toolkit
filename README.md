@@ -10,11 +10,11 @@ Table of Contents
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
 - [VC, VC Firms, Accelerators, Resources](#vc-vc-firms-accelerators-resources)
 - [Regulatory Agencies, Companies and Financials](#regulatory-agencies-companies-and-financials)
+- [Unicorns](#unicorns)
 - [Company and Product Databases](#company-and-product-databases)
 - [App and Website Statistics](#app-and-website-statistics)
-- [News Sources](#news-sources)
 - [Research](#research)
-- [Government Funding and Digital](#government-funding-and-digital)
+- [News Sources](#news-sources)
 - [Learning Resources](#learning-resources)
 - [Books and Courses](#books-and-courses)
 - [Events Lists](#events-lists)
@@ -24,12 +24,13 @@ Table of Contents
 - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-- [Pretotyping](#pretotyping)
-- [Prototyping](#prototyping)
+- [Government Digital](#government-digital)
 - [Design and Usability](#design-and-usability)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
+- [Pretotyping](#pretotyping)
+- [Prototyping](#prototyping)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Metrics](#metrics)
@@ -195,6 +196,9 @@ Lists of VC Firms and Accelerators
 
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
+*   [Federal Business Opportunities](https://www.fbo.gov)  
+*   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+
 Angel and VC Firm Resources
 *   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
@@ -342,17 +346,6 @@ Investor Vocab
 *   [Investopedia](http://www.investopedia.com)
 *   [Investor Words](http://www.investorwords.com)
 
-Unicorns
-*   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
-*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
-*   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
-*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
-*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
-*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
-*   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
-*   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
-
 *   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 *   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
 *   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
@@ -364,6 +357,19 @@ IPO
 *   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
 *   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
 *   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
+
+#### Unicorns
+
+Unicorns
+*   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
+*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+*   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+*   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+*   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
 
 #### Company and Product Databases
 
@@ -408,44 +414,6 @@ Wayback Machine
 *   [Apple Store Charts](https://www.apple.com/itunes/charts)
 *   [Google Play Top Apps](https://play.google.com/store/apps/top)  
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
-
-#### News Sources
-Guardian Directory of News Websites
-*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
-
-Business
-*   [Business Insider](http://www.businessinsider.com)
-*   [Economist](http://www.economist.com)
-*   [Entreprener](http://www.entrepreneur.com)
-*   [Forbes](http://www.forbes.com)
-*   [Harvard Business review](https://hbr.org) 
-*   [Inc.](http://www.inc.com)
-*   [New York Times](http://www.nytimes.com)
-*   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
-
-Tech
-*   [Recode](http://recode.net)
-*   [TechCrunch](http://techcrunch.com)
-*   [The Next Web](http://thenextweb.com)
-
-Leaderboard
-*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
-
-Aggregated, Curated News Sources
-*   [Feedly](http://feedly.com)  
-*   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
-*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-*   [Inside Top](https://www.inside.com/top)
-*   [Klout (including Topic Expertise)](https://klout.com/home)
-*   [Launch Ticker](https://www.launchticker.com)
-*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
-*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
-*   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
-*   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
-*   [Quora](http://www.quora.com)
-*   [Reddit](http://www.reddit.com)
-*   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
-*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
 #### Research
 
@@ -531,31 +499,43 @@ Scholarly Journals
 *   [Science Direct](http://www.sciencedirect.com)  
 *   [Elselvier](http://www.elsevier.com)  
 
-#### Government Funding and Digital
+#### News Sources
+Guardian Directory of News Websites
+*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
 
-*   [Federal Business Opportunities](https://www.fbo.gov)  
-*   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+Business
+*   [Business Insider](http://www.businessinsider.com)
+*   [Economist](http://www.economist.com)
+*   [Entreprener](http://www.entrepreneur.com)
+*   [Forbes](http://www.forbes.com)
+*   [Harvard Business review](https://hbr.org) 
+*   [Inc.](http://www.inc.com)
+*   [New York Times](http://www.nytimes.com)
+*   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
 
-U.S.
-*   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
-*   [18F](https://18f.gsa.gov), [18F GitHub](https://github.com/18F), [18F Guides](https://pages.18f.gov/guides), [18F Guides Template](https://pages.18f.gov/guides-template), and [18F Guides Template GitHub](https://github.com/18F/pages)
-*   [18F Open Source Policy](https://github.com/18F/open-source-policy), [18F Analytics Standards](https://github.com/18F/analytics-standards), and [18F API Standards](https://github.com/18f/api-standards)
-*   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
-*   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
-*   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
-*   [Government Usability](http://www.usability.gov)
-*   [Code for America](http://www.codeforamerica.org)
+Tech
+*   [Recode](http://recode.net)
+*   [TechCrunch](http://techcrunch.com)
+*   [The Next Web](http://thenextweb.com)
 
-U.K. Gov
-*   [Digital Transformation](https://www.gov.uk/transformation)
-*   [GOV.UK GitHub](https://github.com/alphagov)
-*   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
+Leaderboard
+*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
 
-Australia
-*   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
-
-E-Residence
-*   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
+Aggregated, Curated News Sources
+*   [Feedly](http://feedly.com)  
+*   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
+*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Inside Top](https://www.inside.com/top)
+*   [Klout (including Topic Expertise)](https://klout.com/home)
+*   [Launch Ticker](https://www.launchticker.com)
+*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
+*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
+*   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
+*   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
+*   [Quora](http://www.quora.com)
+*   [Reddit](http://www.reddit.com)
+*   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
+*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
 #### Learning Resources
 
@@ -693,64 +673,28 @@ Pricing Strategies
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
-#### Pretotyping
+#### Government Digital
 
-*   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
+U.S.
+*   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
+*   [18F](https://18f.gsa.gov), [18F GitHub](https://github.com/18F), [18F Guides](https://pages.18f.gov/guides), [18F Guides Template](https://pages.18f.gov/guides-template), and [18F Guides Template GitHub](https://github.com/18F/pages)
+*   [18F Open Source Policy](https://github.com/18F/open-source-policy), [18F Analytics Standards](https://github.com/18F/analytics-standards), and [18F API Standards](https://github.com/18f/api-standards)
+*   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
+*   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
+*   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
+*   [Government Usability](http://www.usability.gov)
+*   [Code for America](http://www.codeforamerica.org)
 
-#### Prototyping
+U.K. Gov
+*   [Digital Transformation](https://www.gov.uk/transformation)
+*   [GOV.UK GitHub](https://github.com/alphagov)
+*   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
 
-*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
-*   [Prototyping Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
-*   [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
-*   [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
-*   [Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration) 
+Australia
+*   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 
-Device Mockups
-*   [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
-*   [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
- 
-Photoshop and Similar
-*   [Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
-*   [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
-*   [Inkscape](http://www.inkscape.org/en)  
-*   [Serif](http://www.serif.com) 
-
-Prototyping Software
-*   [Keynote](https://www.apple.com/mac/keynote)
-*   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
-*   [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
-*   [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
-*   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
- 
-Quickie Websites
-*   [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
-*   [Squarespace Templates](http://www.squarespace.com/templates)
-*   [Wix Templates](http://www.wix.com/website/templates)
-
-Bootstrap, Font Awesome, Foundation
-*   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap)  
-*   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-*   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-*   [Zurb Library](http://zurb.com/library)
-
-Good, Basic Templates, Themes
-*   [HTML5 UP](http://html5up.net) 
-*   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-*   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero GitHub](https://github.com/iatek/bootstrap-zero) 
-*   [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-*   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
-*   [Start Bootstrap](http://startbootstrap.com) and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
-
-Kickstarters
-*   [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
-*   [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
-*   [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
-*   [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
-
-Miscellaneous
-*   [Namium (Name Generator)](http://www.naminum.com)
-*   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
-*   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+E-Residence
+*   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
 
 #### Design and Usability
 
@@ -877,6 +821,65 @@ Thoughtbot Version
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
+
+#### Pretotyping
+
+*   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
+
+#### Prototyping
+
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
+*   [Prototyping Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
+*   [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
+*   [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
+*   [Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration) 
+
+Device Mockups
+*   [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
+*   [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
+ 
+Photoshop and Similar
+*   [Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
+*   [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
+*   [Inkscape](http://www.inkscape.org/en)  
+*   [Serif](http://www.serif.com) 
+
+Prototyping Software
+*   [Keynote](https://www.apple.com/mac/keynote)
+*   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+*   [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
+*   [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
+*   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
+ 
+Quickie Websites
+*   [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
+*   [Squarespace Templates](http://www.squarespace.com/templates)
+*   [Wix Templates](http://www.wix.com/website/templates)
+
+Bootstrap, Font Awesome, Foundation
+*   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap)  
+*   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+*   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+*   [Zurb Library](http://zurb.com/library)
+
+Good, Basic Templates, Themes
+*   [HTML5 UP](http://html5up.net) 
+*   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
+*   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero GitHub](https://github.com/iatek/bootstrap-zero) 
+*   [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
+*   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
+*   [Start Bootstrap](http://startbootstrap.com) and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
+
+Kickstarters
+*   [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+*   [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
+*   [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
+*   [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
+
+Miscellaneous
+*   [Namium (Name Generator)](http://www.naminum.com)
+*   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
+*   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
 #### Code, Sharing, Analytics
 
