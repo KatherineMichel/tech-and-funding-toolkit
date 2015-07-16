@@ -779,7 +779,7 @@ Nielson Norman
 *   [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 *   [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
 
-# Service Design Tools
+Service Design Tools
 
 *   [Tools](http://www.servicedesigntools.org/repository)
 *   [Glossary](http://www.servicedesigntools.org/glossary)
