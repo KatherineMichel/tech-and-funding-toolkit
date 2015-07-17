@@ -27,6 +27,7 @@ Table of Contents
 - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
+- [Design](#desgn)
 - [Government Digital](#government-digital)
 - [Design and Usability](#design-and-usability)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
@@ -232,6 +233,13 @@ RFS and Trends
 *   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
+*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
+
+Types of Acquisitions
+*   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
@@ -280,8 +288,6 @@ Securities and Exchange Commission (SEC)
 *   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
 *   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
 
-#### Companies, Financials
-
 Regulatory Agencies and Rules
 *   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
 *   [Federal Aviation Administration](http://www.faa.gov)  
@@ -293,6 +299,8 @@ Regulatory Agencies and Rules
 *   [Securities and Exchange Commission](http://www.sec.gov)
 *   [Small Business Administration](http://www.sba.gov) 
 *   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
+
+#### Companies, Financials
 
 Companies, Financials
 *   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
@@ -316,13 +324,6 @@ How to Read A Finacial Report
 Investor Vocab
 *   [Investopedia](http://www.investopedia.com)
 *   [Investor Words](http://www.investorwords.com)
-
-*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
-*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
-
-Types of Acquisitions
-*   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
 
 IPO
 *   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
@@ -680,6 +681,44 @@ Pricing Strategies
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
+#### Design
+
+Responsive Design
+*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+*   [Responsive Design Examples](http://mediaqueri.es)  
+
+Styleguides
+*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+*   [Styleguide GitHub](https://github.com/styleguide) 
+
+Design Publications
+
+*   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+*   [Smashing Magazine](http://www.smashingmagazine.com) 
+*   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+ 
+Portfolio and Community Websites
+*   [Behance](https://www.behance.net)  
+*   [Dribbble](https://dribbble.com)  
+*   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
+*   [Zurb Tavern](http://zurb.com/tavern) 
+
+Flickr
+*   [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+KPCB and John Maeda Design in Tech Report
+*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+Website Launch Checklist
+*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
+
+Company Design
+*   [Medium Design](https://medium.com/designing-medium)  
+*   [IBM Design](https://www.ibm.com/design)  
+*   [eBay/PayPal](http://ebay.com/design)  
+*   [Twitter Design](https://twitter.com/design)  
+*   [Uber Design](https://www.uber.com/design) 
+
 #### Government Digital
 
 U.S.
@@ -765,42 +804,6 @@ Google Design Approach
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 *   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html), [Google Material Lite](http://www.getmdl.io/components/index.html), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0)
  
-Responsive Design
-*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-*   [Responsive Design Examples](http://mediaqueri.es)  
-
-Styleguides
-*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-*   [Styleguide GitHub](https://github.com/styleguide) 
-
-Design Publications
-
-*   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-*   [Smashing Magazine](http://www.smashingmagazine.com) 
-*   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
- 
-Portfolio and Community Websites
-*   [Behance](https://www.behance.net)  
-*   [Dribbble](https://dribbble.com)  
-*   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-*   [Zurb Tavern](http://zurb.com/tavern) 
-
-Flickr
-*   [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-KPCB and John Maeda Design in Tech Report
-*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
-Website Launch Checklist
-*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
-
-Company Design
-*   [Medium Design](https://medium.com/designing-medium)  
-*   [IBM Design](https://www.ibm.com/design)  
-*   [eBay/PayPal](http://ebay.com/design)  
-*   [Twitter Design](https://twitter.com/design)  
-*   [Uber Design](https://www.uber.com/design) 
-
 #### Google Ventures Research Sprint
 
 *   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
