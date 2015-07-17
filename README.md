@@ -11,6 +11,7 @@ Table of Contents
 - [VC Theory](#vc-theory)
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
+- [Industry and Product Classfications](#industry-and-product-classfications)
 - [Venture Analysis](#venture-analysis)
 - [Unicorns](#unicorns)
 - [Corporate Law](#corporate-law)
@@ -244,6 +245,17 @@ Types of Acquisitions
 *   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
+#### Industry and Product Classfications
+
+Industry and Product Classifications
+*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+
 #### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
@@ -441,9 +453,28 @@ Wayback Machine
 
 #### General Research
 
+Surveys
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
+*   [SurveyMonkey](https://www.surveymonkey.com)
+
+General Research
+*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
+*   [Google Books](https://books.google.com)
+*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
+*   [Google Scholar](https://scholar.google.com)
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
 Wikipedia
 *   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
 *   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+
+Facebook and Google Research
+*   [Facebook Research](https://research.facebook.com)  
+*   [Google Research](http://research.google.com/index.html) and [Google Research Papers](http://research.google.com/pubs/papers.html) 
+
+Scholarly Journals
+*   [Science Direct](http://www.sciencedirect.com)  
+*   [Elselvier](http://www.elsevier.com)  
 
 Analyst Groups
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
@@ -455,39 +486,11 @@ Analyst Groups
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
 
-Industry and Product Classifications
-*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
 Management Consulting Firms
 *   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
 
 Think Tanks
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
-
-General Research
-*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
-*   [Google Books](https://books.google.com)
-*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
-*   [Google Scholar](https://scholar.google.com)
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-
-Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
-*   [SurveyMonkey](https://www.surveymonkey.com)
-
-Facebook and Google Research
-*   [Facebook Research](https://research.facebook.com)  
-*   [Google Research](http://research.google.com/index.html) and [Google Research Papers](http://research.google.com/pubs/papers.html) 
-
-Scholarly Journals
-*   [Science Direct](http://www.sciencedirect.com)  
-*   [Elselvier](http://www.elsevier.com)  
 
 #### Government and International Data
 
