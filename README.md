@@ -12,11 +12,11 @@ Table of Contents
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
 - [Venture Analysis](#venture-analysis)
+- [Unicorns](#unicorns)
 - [Corporate Law](#corporate-law)
+- [Documents](#documents)
 - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
 - [Companies and Financials](#companies-and-financials)
-- [Documents](#documents)
-- [Unicorns](#unicorns)
 - [Company and Product Databases](#company-and-product-databases)
 - [App and Website Statistics](#app-and-website-statistics)
 - [Research](#research)
@@ -253,6 +253,19 @@ Types of Acquisitions
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 
+#### Unicorns
+
+Unicorns
+*   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
+*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+*   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+*   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+*   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
 #### Corporate Law
 
 Corporate Law
@@ -279,6 +292,52 @@ Law and Transaction Services
 *   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
 *   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Fortis](http://fortisrep.com) 
+
+#### Documents
+
+Cap Table, Convertible Bonds, Securities, Equity
+*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
+*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
+*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
+*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
+
+500 Startups, Tech Stars, and YCombinator Docs/RFS
+*   [500 Startups Keep It Simple Security](http://500.co/kiss)  
+*   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+*   [YCombinator Library](http://ycombinator.com/lib.html)  
+*   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents)  
+ 
+Term Sheets 101
+*   [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
+
+Document Web Services
+*   [Captable.io](https://captable.io)  
+*   [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
+*   [Eshares Inc](https://www.esharesinc.com)
+*   [Visible](https://visible.vc) 
+
+Document Libraries
+*   [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
+*   [Docracy Documents](http://www.docracy.com/application/dochome) 
+*   [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
+*   [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
+*   [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github)
+*   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
+*   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
+*   [Next View Ventures Blog](http://nextviewventures.com/blog) and [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources) 
+*   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881), [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
+*   [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
+*   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
+*   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
+*   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
+*   [Rocket Lawyer](https://www.rocketlawyer.com) 
+*   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
+*   [Shake Simply Legal](http://www.shakelaw.com) 
+*   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+*   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#)
+*   [Venture Docs](https://venturedocs.com/documents)  
+*   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
+*   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
 
 #### SEC and Other Regulatory Agencies
 
@@ -334,65 +393,6 @@ IPO
 *   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
 *   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
 *   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
-
-#### Documents
-
-Cap Table, Convertible Bonds, Securities, Equity
-*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
-*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
-*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
-*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
-
-500 Startups, Tech Stars, and YCombinator Docs/RFS
-*   [500 Startups Keep It Simple Security](http://500.co/kiss)  
-*   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
-*   [YCombinator Library](http://ycombinator.com/lib.html)  
-*   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents)  
- 
-Term Sheets 101
-*   [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
-
-Document Web Services
-*   [Captable.io](https://captable.io)  
-*   [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
-*   [Eshares Inc](https://www.esharesinc.com)
-*   [Visible](https://visible.vc) 
-
-Document Libraries
-*   [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
-*   [Docracy Documents](http://www.docracy.com/application/dochome) 
-*   [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
-*   [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
-*   [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github)
-*   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
-*   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
-*   [Next View Ventures Blog](http://nextviewventures.com/blog) and [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources) 
-*   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881), [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
-*   [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
-*   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
-*   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
-*   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
-*   [Rocket Lawyer](https://www.rocketlawyer.com) 
-*   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
-*   [Shake Simply Legal](http://www.shakelaw.com) 
-*   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
-*   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#)
-*   [Venture Docs](https://venturedocs.com/documents)  
-*   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
-*   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
-
-#### Unicorns
-
-Unicorns
-*   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
-*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
-*   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
-*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
-*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
-*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
-*   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
-*   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
 
 #### Company and Product Databases
 
