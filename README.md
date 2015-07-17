@@ -11,7 +11,7 @@ Table of Contents
 - [VC Theory](#vc-theory)
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
-- [Industry and Product Classfications](#industry-and-product-classfications)
+- [Industry and Product Classfications, Associations](#industry-and-product-classfications-associations)
 - [Venture Analysis](#venture-analysis)
 - [Unicorns](#unicorns)
 - [Corporate Law](#corporate-law)
@@ -245,9 +245,8 @@ Types of Acquisitions
 *   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
-#### Industry and Product Classfications
+#### Industry and Product Classfications, Associations
 
-Industry and Product Classifications
 *   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
 *   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
 *   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
@@ -268,7 +267,6 @@ Associations
 
 #### Unicorns
 
-Unicorns
 *   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
 *   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
 *   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
@@ -281,7 +279,6 @@ Unicorns
 
 #### Corporate Law
 
-Corporate Law
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
 *   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
 *   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
@@ -379,7 +376,6 @@ Regulatory Agencies and Rules
 
 #### Companies, Financials
 
-Companies, Financials
 *   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
 *   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
 *   [PitchBook](http://blog.pitchbook.com) 
