@@ -33,7 +33,7 @@ Table of Contents
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Design](#desgn)
 - [Government Digital](#government-digital)
-- [Design and Usability](#design-and-usability)
+- [Research and Design Toolkits](#research-and-design-toolkits)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
@@ -690,6 +690,11 @@ Product Tiers
 
 #### Design
 
+Design- General
+*   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
+*   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+*   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
+
 Responsive Design
 *   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
 *   [Responsive Design Examples](http://mediaqueri.es)  
@@ -749,12 +754,7 @@ Australia
 E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
 
-#### Design and Usability
-
-Design- General
-*   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
-*   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
-*   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
+#### Research and Design Toolkits
 
 Australia Digital Transformation Office
 *   [Australia Digital Transformation Office How to Apply the Standard](https://www.dto.gov.au/standard/how-apply-standard)
