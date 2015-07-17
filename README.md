@@ -19,7 +19,8 @@ Table of Contents
 - [Companies and Financials](#companies-and-financials)
 - [Company and Product Databases](#company-and-product-databases)
 - [App and Website Statistics](#app-and-website-statistics)
-- [Research](#research)
+- [General Research](#general-research)
+- [Government and International Data](#government-and-international-data)
 - [News Sources](#news-sources)
 - [Learning Resources](#learning-resources)
 - [Books and Courses](#books-and-courses)
@@ -438,7 +439,7 @@ Wayback Machine
 *   [Google Play Top Apps](https://play.google.com/store/apps/top)  
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 
-#### Research
+#### General Research
 
 Wikipedia
 *   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
@@ -468,6 +469,27 @@ Management Consulting Firms
 
 Think Tanks
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+
+General Research
+*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
+*   [Google Books](https://books.google.com)
+*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
+*   [Google Scholar](https://scholar.google.com)
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
+Surveys
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
+*   [SurveyMonkey](https://www.surveymonkey.com)
+
+Facebook and Google Research
+*   [Facebook Research](https://research.facebook.com)  
+*   [Google Research](http://research.google.com/index.html) and [Google Research Papers](http://research.google.com/pubs/papers.html) 
+
+Scholarly Journals
+*   [Science Direct](http://www.sciencedirect.com)  
+*   [Elselvier](http://www.elsevier.com)  
+
+#### Government and International Data
 
 International and Development Data
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
@@ -502,25 +524,6 @@ Patent Search and FOIA
 *   [U.S. Patent and Trademark Office](http://www.uspto.gov)
 *   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
 *   [FOIA](http://foia.state.gov)
-
-General Research
-*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
-*   [Google Books](https://books.google.com)
-*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
-*   [Google Scholar](https://scholar.google.com)
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-
-Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
-*   [SurveyMonkey](https://www.surveymonkey.com)
-
-Facebook and Google Research
-*   [Facebook Research](https://research.facebook.com)  
-*   [Google Research](http://research.google.com/index.html) and [Google Research Papers](http://research.google.com/pubs/papers.html) 
-
-Scholarly Journals
-*   [Science Direct](http://www.sciencedirect.com)  
-*   [Elselvier](http://www.elsevier.com)  
 
 #### News Sources
 Guardian Directory of News Websites
