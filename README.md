@@ -11,7 +11,8 @@ Table of Contents
 - [VC Theory](#vc-theory)
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 - [Venture Analysis](#venture-analysis)
-- [Regulatory Agencies, Companies and Financials](#regulatory-agencies-companies-and-financials)
+- [Corporate Law, Regulatory Agencies](#corporate-law-regulatory-agencies)
+- [Companies and Financials](#companies-and-financials)
 - [Documents](#documents)
 - [Unicorns](#unicorns)
 - [Company and Product Databases](#company-and-product-databases)
@@ -241,7 +242,7 @@ RFS and Trends
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 
-#### Regulatory Agencies, Companies, Financials
+#### Corporate Law, Regulatory Agencies
 
 Corporate Law
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
@@ -278,6 +279,8 @@ Securities and Exchange Commission (SEC)
 *   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
 *   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
 *   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
+
+#### Companies, Financials
 
 Regulatory Agencies and Rules
 *   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
