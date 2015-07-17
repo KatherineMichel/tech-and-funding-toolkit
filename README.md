@@ -10,8 +10,10 @@ Table of Contents
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
 - [VC Theory](#vc-theory)
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
+- [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
 - [Venture Analysis](#venture-analysis)
-- [Corporate Law, Regulatory Agencies](#corporate-law-regulatory-agencies)
+- [Corporate Law](#corporate-law)
+- [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
 - [Companies and Financials](#companies-and-financials)
 - [Documents](#documents)
 - [Unicorns](#unicorns)
@@ -226,19 +228,20 @@ Accelerator Resources
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
   
-RFS and Trends
-*   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
-*   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
-*   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
-*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
-*   [YCombinator RFS](http://www.ycombinator.com/rfs)
-
 *   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 *   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
 *   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
 
 Types of Acquisitions
 *   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
+
+#### RFS, Trends, Emerging Technologies
+
+*   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+*   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
+*   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
+*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
+*   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
 #### Venture Analysis
 
@@ -250,7 +253,7 @@ Types of Acquisitions
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 
-#### Corporate Law, Regulatory Agencies
+#### Corporate Law
 
 Corporate Law
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
@@ -276,6 +279,8 @@ Law and Transaction Services
 *   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
 *   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Fortis](http://fortisrep.com) 
+
+#### SEC and Other Regulatory Agencies
 
 General Solicitation
 *   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
