@@ -1397,6 +1397,7 @@ Laws, Theories, Logic
 *   [Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
 *   [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
 *   [God's Algorithm Wikipedia](http://en.m.wikipedia.org/wiki/God%27s_algorithm)  
+*   [Goodhart's Law Wikipedia](https://en.m.wikipedia.org/wiki/Goodhart%27s_law)
 *   [Good Old Days Wikipedia](http://rationalwiki.org/wiki/Good_old_days)   
 *   [Hotelling's Rule Wikipedia](http://en.wikipedia.org/wiki/Hotelling's_rule)  
 *   [If By Whiskey Wikipedia](http://en.wikipedia.org/wiki/If-by-whiskey)  
