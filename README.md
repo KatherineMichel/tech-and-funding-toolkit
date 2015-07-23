@@ -293,6 +293,11 @@ Delaware
 *   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
 *   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
+Kansas
+*   [State of Kansas Business](http://www.kansas.gov/business) 
+*   [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
+*   [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
+
 Law and Transaction Services
 *   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Cooley](http://www.cooley.com)
