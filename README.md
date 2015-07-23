@@ -764,6 +764,9 @@ U.K. Gov
 
 Australia
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
+*   [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/principles-digital-service-design/service-design-process)
+*   [Australia Digital Transformation Plan](https://www.dto.gov.au/standard/digital-transformation-plan), [Scope of the Standard](https://www.dto.gov.au/standard/digital-transformation-plan/scope-digital-service-standard), [Meeting the Standard](https://www.dto.gov.au/standard/digital-transformation-plan/meeting-standard)
+*   [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary) and [Sitemap](https://www.dto.gov.au/sitemap)
 
 E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
