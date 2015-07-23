@@ -162,6 +162,7 @@ Table of Contents
 *   [Naval Ravikant](http://startupboy.com)
 *   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
+*   [Peter Rojas](http://roj.as/contact)
 *   [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 *   [Rick Klau Medium](https://medium.com/@rklau)
 *   [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
@@ -455,6 +456,7 @@ Wayback Machine
 *   [Apple Store Charts](https://www.apple.com/itunes/charts)
 *   [Google Play Top Apps](https://play.google.com/store/apps/top)  
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
+*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
 #### General Research
 
