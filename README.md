@@ -832,7 +832,9 @@ U.K. Gov
 U.S. Aid Learning Lab
 *   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
 *   [U.S. Aid Project Design Development and Implementation](http://usaidlearninglab.org/learning-guide/project-design-development-implementation), [U.S. Aid Project Design](http://usaidlearninglab.org/learning-guide/project-design), and [U.S. Aid Project Implementation](http://usaidlearninglab.org/learning-guide/project-implementation-overview)
-*   [U.S. Aid Glossary](http://usaidlearninglab.org/learning-guide/glossary)
+*   [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
+*   [U.S. Aid Library](http://usaidlearninglab.org/library)
+*   [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
 
 Usability Gov
 *   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
