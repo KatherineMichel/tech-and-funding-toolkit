@@ -1362,7 +1362,7 @@ Awesome Awesomeness
 
 General
 *   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
-*   [Early Adopter wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
+*   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
@@ -1377,6 +1377,7 @@ General
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
 *   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
+*   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
 *   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
@@ -1399,6 +1400,7 @@ Finance and Investment Terms
 *   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 *   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
+*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 
 Laws, Theories, Logic  
