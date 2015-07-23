@@ -492,6 +492,7 @@ Analyst Groups
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
+*   [State of the Internet](http://www.stateoftheinternet.com)
 
 Management Consulting Firms
 *   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
