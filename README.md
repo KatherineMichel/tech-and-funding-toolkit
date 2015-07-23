@@ -925,8 +925,8 @@ Miscellaneous
 
 #### Code, Sharing, Analytics
 
-Thoughtbot Playbook and Templates
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com) and [Thoughtbot Templates](https://github.com/thoughtbot/templates)
+Thoughtbot Playbook, Blog, Styleguide, Templates
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), and [Thoughtbot Templates](https://github.com/thoughtbot/templates)
 
 DevCenter
 *   [DevCenter Website](DevCenter.me)  
