@@ -1,6 +1,6 @@
 Tech and Venture Capital Toolkit
 ====================
-Curated List of High Quality Resources, Mostly Free; See also...
+Curated list of high quality resources, mostly free. See also...
 
 My Resources
 *   [Kati Michel Twitter Lists](https://twitter.com/KatiMichel/lists), [VC, Accelerator, Startups](https://twitter.com/KatiMichel/lists/vc-accelerator-startups/members)
