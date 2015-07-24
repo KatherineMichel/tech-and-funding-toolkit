@@ -1209,7 +1209,7 @@ Project Management Methodologies
 *   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
 *   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
 *   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
-*   [Extreme Programming](http://www.extremeprogramming.org) 
+*   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
 *   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
 *   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
