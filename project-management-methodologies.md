@@ -4,6 +4,12 @@ See also...
 
 *   [Tech and Venture Capital Toolkit Project Management](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/README.md#project-management)
 
+## Wikipedia
+
+* [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
+* [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
+* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
+
 ## Usability Gov Project Management
 
 * [Project Management](http://www.usability.gov/what-and-why/project-management.html)
