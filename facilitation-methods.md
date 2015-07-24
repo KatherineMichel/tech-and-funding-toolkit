@@ -225,6 +225,14 @@ Sustainability and Growth
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
 
+# Interaction Design Encyclopedia
+
+*   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia), [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
+
+# Knowledge Sharing Toolkit
+
+*   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
+
 # Nesta DIY, Nesta Methods
 
 Project Management
