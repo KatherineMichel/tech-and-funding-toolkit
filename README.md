@@ -1203,6 +1203,18 @@ Medium
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
 
+Project Management Associations
+*   [Association for Project Management](http://www.apm.org.uk)  
+*   [Project Management Institute](http://www.pmi.org) 
+
+Project Management Software
+*   [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
+*   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
+*   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
+*   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
+*   [Slack](https://slack.com) 
+*   [Trello](https://trello.com)
+
 Software Development Philosophies
 *   [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
 *   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
@@ -1217,22 +1229,13 @@ Project Management Methodologies
 *   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
 *   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
-*   [Lean Software Dev Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
-
-Project Management Associations
-*   [Association for Project Management](http://www.apm.org.uk)  
-*   [Project Management Institute](http://www.pmi.org) 
+*   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
+*   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
+*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
+*   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
 
 Quality
 *   [ISO](http://www.iso.org/iso/home.html) 
-
-Project Management Software
-*   [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
-*   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
-*   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
-*   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
-*   [Slack](https://slack.com) 
-*   [Trello](https://trello.com)
 
 #### Popular Tools
 
