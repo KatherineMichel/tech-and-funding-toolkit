@@ -939,8 +939,9 @@ Miscellaneous
 
 #### Code, Sharing, Analytics
 
-Thoughtbot Playbook, Blog, Styleguide, Templates
+Digital Agency Playbook, Blog, Styleguide, Templates
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), and [Thoughtbot Templates](https://github.com/thoughtbot/templates)
+*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
 DevCenter
 *   [DevCenter Website](DevCenter.me)  
