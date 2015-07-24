@@ -1,4 +1,4 @@
-# My Work
+# My Work and Links
 
 My Previous Sprints
 * [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
@@ -31,6 +31,7 @@ Twitter Lists and Nuzzel
 
 Language
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
+*   [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar)
 
 Social Media and Entertainment
 *   [Blogspot](http://katherinemichel.blogspot.co.uk) 
