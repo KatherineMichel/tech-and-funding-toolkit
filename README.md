@@ -60,10 +60,10 @@ Table of Contents
 
 #### Investor Frameworks
 
-*   [Chris Dixon Framework](chris-dixon-framework.md) 
-*   [Fred Wilson Framework](fred-wilson-framework.md)
-*   [Mark Suster Framework](mark-suster-framework.md)
-*   [Paul Graham Framework](paul-graham-framework.md) 
+*   [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
+*   [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
+*   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
+*   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
 
 #### Venture Capitalists 
 
