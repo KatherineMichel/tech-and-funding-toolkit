@@ -768,6 +768,8 @@ U.K. Gov
 *   [Digital Transformation](https://www.gov.uk/transformation)
 *   [GOV.UK GitHub](https://github.com/alphagov)
 *   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
+*   [U.K. Government Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default), [Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-standard.html), and [Design Standards](https://www.gov.uk/design-principles)
+*   [U.K. Government Performance](https://www.gov.uk/performance)
 
 Australia
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
@@ -832,7 +834,7 @@ U.K. Gov
 *   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
 *   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases), [Discovery](https://www.gov.uk/service-manual/phases/discovery.html), [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Beta](https://www.gov.uk/service-manual/phases/beta), [Live](https://www.gov.uk/service-manual/phases/live), and [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
 *   [Chief Technology Officers](https://www.gov.uk/service-manual/chief-technology-officers), [Service Managers](https://www.gov.uk/service-manual/service-managers), [Technical Architect](https://www.gov.uk/service-manual/technical-architects),  [Designers](https://www.gov.uk/service-manual/designers), [Developers](https://www.gov.uk/service-manual/developers), [User Researchers](https://www.gov.uk/service-manual/user-researchers), [Web Ops](https://www.gov.uk/service-manual/web-ops), [Performance Analysts](https://www.gov.uk/service-manual/performance-analysts), and [Content Designers](https://www.gov.uk/service-manual/content-designers)
-*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
+*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide), and [U.K. Government Style Guide A to Z](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
 U.S. Aid Learning Lab
 *   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
