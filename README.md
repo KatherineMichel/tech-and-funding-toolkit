@@ -123,6 +123,7 @@ Table of Contents
 *   [Beth Kanter Slideshare](http://www.slideshare.net/kanter)
 *   [Bill and Melinda Gates](http://www.thegatesnotes.com) 
 *   [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
+*   [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
 *   [Carlota Perez](http://www.carlotaperez.org) 
 *   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 *   [Clay Christensen](http://www.claytonchristensen.com) 
