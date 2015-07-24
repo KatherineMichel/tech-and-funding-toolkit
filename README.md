@@ -602,6 +602,9 @@ Shows
 *   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
 *   [This Week in Startups](http://thisweekinstartups.com)
 
+Because I Just Like It
+*   [PBS](http://www.pbs.org)
+
 #### Books and Courses
 
 Books
@@ -1233,6 +1236,11 @@ Project Management Methodologies
 *   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 *   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
+
+Process Improvement
+*   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
+*   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
+*   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
 
 Quality
 *   [ISO](http://www.iso.org/iso/home.html) 
