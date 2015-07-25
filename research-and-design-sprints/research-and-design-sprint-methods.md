@@ -496,8 +496,6 @@ Assisted Digital
 * [Researching assisted digital users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
 
 The team
-*   [Chief Technology Officers](https://www.gov.uk/service-manual/chief-technology-officers), [Service Managers](https://www.gov.uk/service-manual/service-managers), [Technical Architect](https://www.gov.uk/service-manual/technical-architects),  [Designers](https://www.gov.uk/service-manual/designers), [Developers](https://www.gov.uk/service-manual/developers), [User Researchers](https://www.gov.uk/service-manual/user-researchers), [Web Ops](https://www.gov.uk/service-manual/web-ops), [Performance Analysts](https://www.gov.uk/service-manual/performance-analysts), and [Content Designers](https://www.gov.uk/service-manual/content-designers)
-
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
 * [The team](https://www.gov.uk/service-manual/the-team/index.html)
 * [Job Descriptions](https://www.gov.uk/service-manual/the-team/recruitment/job-descriptions.html)
