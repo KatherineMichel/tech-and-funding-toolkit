@@ -88,49 +88,6 @@ Case Studies
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 *  [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and  [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
 
-# IDEO Design Methods
-
-## Possible Phases
-
-* Process
-* Inspiration
-* Ideation
-* Implementation
-
-
-## Possible Supplies
-
-General
-* A place to meet
-* Wall or board
-* Whiteboard
-* Paper (small, large sheets)
-* Post-its
-* Pens
-* Notebook
-* Magazines
-* Glue
-* Tape
-* Art supplies
-* Camera 
-
-Research and Prototyping
-* Prototyping materials
-* Computer, internet connection
-* Research materials
-* Spreadsheet program
-
-Fieldwork
-* Travel
-* Accommodation
-* Tools for work
-* Contact
-
-Real World Testing
-* Space
-* Staff
-* Permits
-
 ## Methods
 
 Project Management
