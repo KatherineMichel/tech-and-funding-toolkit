@@ -786,6 +786,10 @@ E-Residence
 Australia Digital Transformation Office
 *   [Australia Digital Transformation Office How to Apply the Standard](https://www.dto.gov.au/standard/how-apply-standard)
 
+Games
+*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki)
+*  [Innovation Games: Games](http://www.innovationgames.com)
+
 HubSpot
 *   [HubSpot Library](https://library.hubspot.com)
 
@@ -794,6 +798,12 @@ Ideo
 
 Interaction Design Encyclopedia
 *   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia)
+
+Kick Off Meetings
+* [Good Kick Off Meetings](http://goodkickoffmeetings.com)
+
+Knowledge Sharing Toolkit
+*   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
 
 LEGO® SERIOUS PLAY®
 *   [LEGO® SERIOUS PLAY® Method](http://www.lego.com/en-us/seriousplay/the-method)
@@ -822,6 +832,9 @@ Stanford Institute of Design
 *   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf),
 *   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
+Strategyzer
+* [Workshop Toolkit](http://www.stattys.com/products.html?acc=e4da3b7fbbce2345d7772b0674a318d5&bannerid=3)
+
 The Digital Tookit for the Arts
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
 
@@ -844,6 +857,9 @@ U.S. Aid Learning Lab
 *   [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
 *   [U.S. Aid Library](http://usaidlearninglab.org/library)
 *   [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
+
+Usability BOK
+* [Usability BOK](http://www.usabilitybok.org)
 
 Usability Gov
 *   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
