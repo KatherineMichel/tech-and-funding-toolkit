@@ -5,6 +5,10 @@
 * [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
 * [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 
+Usability Gov Organization
+* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+
 # User Centered Design
 
 Australian Government Digital Transformation Office User Centred Design
@@ -496,29 +500,6 @@ Assisted Digital
 * [Assisted digital action plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html)
 * [Researching assisted digital users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
 
-The team
-* [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
-* [The team](https://www.gov.uk/service-manual/the-team/index.html)
-* [Job Descriptions](https://www.gov.uk/service-manual/the-team/recruitment/job-descriptions.html)
-* [Recruitment Hub](https://www.gov.uk/service-manual/the-team/recruitment/hub.html)
-* [Working with specialist suppliers](https://www.gov.uk/service-manual/the-team/working-with-specialists.html)
-* [Your working environment](https://www.gov.uk/service-manual/the-team/working-environment.html)
-* [Technology leadership](https://www.gov.uk/service-manual/the-team/recruitment/scs-orgdesign.html)
-* [Accessibility skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
-
-Roles
-* [Chief Technology Officers Resources](https://www.gov.uk/service-manual/chief-technology-officers)
-* [Technical Architect Resources](https://www.gov.uk/service-manual/technical-architects)
-* [Service Managers Resources](https://www.gov.uk/service-manual/service-managers) and [Service Managers Skills](https://www.gov.uk/service-manual/the-team/service-manager.html)
-* [Delivery Manager](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
-* [Developers Resources](https://www.gov.uk/service-manual/developers) and [Developer Skills](https://www.gov.uk/service-manual/the-team/developer.html)
-* [Web Operations Resources](https://www.gov.uk/service-manual/web-ops) and [Web Operations skills](https://www.gov.uk/service-manual/the-team/web-operations.html)
-* [Designers Resources](https://www.gov.uk/service-manual/designers) and [Designer skills](https://www.gov.uk/service-manual/the-team/designer.html)
-* [Digital Leader](https://www.gov.uk/service-manual/the-team/digital-leader.html)
-* [User Researchers Resources](https://www.gov.uk/service-manual/user-researchers) and [User Researcher Skills](https://www.gov.uk/service-manual/the-team/user-researcher.html)
-* [Content Designers Resources](https://www.gov.uk/service-manual/content-designers) and [Content Designer Skills](https://www.gov.uk/service-manual/the-team/content-designer.html)
-* [Performance Analysts Resources](https://www.gov.uk/service-manual/performance-analysts)
-
 Development
 * [Governance](https://www.gov.uk/service-manual/governance/index.html)
 * [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
@@ -543,10 +524,6 @@ Scaling and Governance
 * [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
 * [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
 
-# Usability BOK
-
-* [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
-
 # Usability Gov User Testing Documents
 
 ## General
@@ -562,11 +539,11 @@ What, Why, How To and Tools
 * [Content Inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
 * [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
-* [Accessibility](http://www.usability.gov/what-and-why/accessibility.html)
 * [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
 
-Usability Experience, Research, Evaluation, and Testing
+Accessibility, Usability Experience, Research, Evaluation, and Testing
+* [Accessibility](http://www.usability.gov/what-and-why/accessibility.html)
 * [User Experience](http://www.usability.gov/what-and-why/user-experience.html)
 * [User Research](http://www.usability.gov/what-and-why/user-research.html)
 * [Usability Evaluation](http://www.usability.gov/what-and-why/usability-evaluation.html)
@@ -688,9 +665,9 @@ More
 * [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
 * [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
  
-Organization
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+# Usability BOK
+
+* [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
 
 # Zurb
 
