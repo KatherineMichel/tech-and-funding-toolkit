@@ -185,9 +185,6 @@ Workshops and Interviews
 
 # Service Design Tools Methods
 
-*   [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
-*   [Specification](http://www.servicedesigntools.org/tools/27)
-
 *   [Affinity Diagram](http://www.servicedesigntools.org/tools/23)
 
 *   [Character Profiles](http://www.servicedesigntools.org/tools/6)
