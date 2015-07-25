@@ -1,4 +1,4 @@
-# Facilitation Methods
+# Research and Design Sprint Methods
 
 * [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
 * [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
@@ -79,10 +79,6 @@ Case Studies
 
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 *  [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and  [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
-
-# HubSpot
-
-*   [HubSpot Library](https://library.hubspot.com)
 
 # IDEO Design Methods
 
@@ -241,19 +237,11 @@ Mindsets
 
 # Interaction Design Encyclopedia
 
-*   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia), [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
-
-# Kick Off Meetings
-
-* [Good Kick Off Meetings](http://goodkickoffmeetings.com)
+*   [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
 
 # Knowledge Sharing Toolkit
 
 *   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
-
-# LEGO® SERIOUS PLAY®
-
-*   [LEGO® SERIOUS PLAY® Method](http://www.lego.com/en-us/seriousplay/the-method)
 
 # Nesta DIY, Nesta Methods
 
@@ -449,21 +437,6 @@ Miscellaneous
 *   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
 *   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
-# Strategyzer
-
-* [Workshop Toolkit](http://www.stattys.com/products.html?acc=e4da3b7fbbce2345d7772b0674a318d5&bannerid=3)
-
-# The Digital Tookit for the Arts
-
-*   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
-
-# The Prince's Trust
-
-*   [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
-*   [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
-*   [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
-*   [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
-
 # U.K. Gov Methods
 
 Funding
@@ -614,14 +587,6 @@ Operations
 * [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
 * [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
 * [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
-
-# U.S. Aid Learning Lab
-
-*   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
-*   [U.S. Aid Project Design Development and Implementation](http://usaidlearninglab.org/learning-guide/project-design-development-implementation), [U.S. Aid Project Design](http://usaidlearninglab.org/learning-guide/project-design), and [U.S. Aid Project Implementation](http://usaidlearninglab.org/learning-guide/project-implementation-overview)
-*   [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
-*   [U.S. Aid Library](http://usaidlearninglab.org/library)
-*   [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
 
 # Usability BOK
 
