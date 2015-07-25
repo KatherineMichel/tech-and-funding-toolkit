@@ -25,7 +25,7 @@ Case Studies
 * [Case study: Connecting with customers on social media](https://www.dto.gov.au/standard/how-apply-standard/case-study-connecting-customers-social-media)
 * [Case study: Improving website user experiences](https://www.dto.gov.au/standard/how-apply-standard/case-study-improving-website-user-experiences)
 
-IDEO
+# IDEO
 
 Feedback and Iteration
 *   [Get Feedback](http://www.designkit.org/methods/57)
@@ -36,6 +36,11 @@ Feedback and Iteration
 Sustainability and Growth
 *   [Sustainable Revenue](http://www.designkit.org/methods/16)
 *   [Ways to Grow Framework](http://www.designkit.org/methods/38)
+
+# Service Design Tools
+
+*   [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
+*   [Specification](http://www.servicedesigntools.org/tools/27)
 
 # U.K. Gov
 
