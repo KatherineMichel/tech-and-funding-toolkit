@@ -25,7 +25,19 @@ Case Studies
 * [Case study: Connecting with customers on social media](https://www.dto.gov.au/standard/how-apply-standard/case-study-connecting-customers-social-media)
 * [Case study: Improving website user experiences](https://www.dto.gov.au/standard/how-apply-standard/case-study-improving-website-user-experiences)
 
-U.K. Gov
+IDEO
+
+Feedback and Iteration
+*   [Get Feedback](http://www.designkit.org/methods/57)
+*   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
+*   [Keep Iterating](http://www.designkit.org/methods/19)
+*   [Keep Getting Feedback](http://www.designkit.org/methods/59)
+
+Sustainability and Growth
+*   [Sustainable Revenue](http://www.designkit.org/methods/16)
+*   [Ways to Grow Framework](http://www.designkit.org/methods/38)
+
+# U.K. Gov
 
 Making Software
 * [Making software](https://www.gov.uk/service-manual/making-software/index.html)
