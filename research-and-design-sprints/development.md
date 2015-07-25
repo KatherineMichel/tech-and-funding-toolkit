@@ -49,6 +49,11 @@ Operations
 * [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
 * [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
 
+* [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
+* [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
+* [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
+* [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
+
 # Usability Gov
 
 What, Why, How To and Tools
