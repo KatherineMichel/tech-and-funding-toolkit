@@ -7,6 +7,13 @@
 
 # User Centered Design
 
+Australian Government Digital Transformation Office User Centred Design
+* [User-centred design](https://www.dto.gov.au/standard/how-apply-standard/user-centred-design)
+
+U.K. Gov User Centered Design and User Needs
+* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
+* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
+
 Usability Gov
 * [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
 * [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
@@ -24,9 +31,6 @@ Team and Culture
 * [The team](https://www.dto.gov.au/standard/how-apply-standard/team)
 * [Recruitment](https://www.dto.gov.au/standard/how-apply-standard/recruitment)
 * [Creating cultural change](https://www.dto.gov.au/standard/how-apply-standard/creating-cultural-change)
-
-User Centred Design
-* [User-centred design](https://www.dto.gov.au/standard/how-apply-standard/user-centred-design)
 
 User Research
 * [User research (chart)](ttps://www.dto.gov.au/standard/how-apply-standard/user-research)
@@ -439,19 +443,16 @@ Miscellaneous
 
 # U.K. Gov Methods
 
-Funding
-* [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
+User Centred Design Methods
+* [Card sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
+* [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
 
-User Centered Design and User Needs
-* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
-* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
+Accessibility
+* [Accessibility testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
+* [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
 
 User Research and Testing
 * [An introduction to user research techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
-* [Accessibility testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
-* [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
-* [Card sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
-* [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
 
 User Research Background Techniques
 * [User Research Tools](https://www.gov.uk/service-manual/user-centred-design/user-research/user-research-tools.html)
@@ -541,55 +542,6 @@ Scaling and Governance
 * [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
 * [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
 * [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
-
-Making Software
-* [Making software](https://www.gov.uk/service-manual/making-software/index.html)
-* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
-* [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
-* [Choosing technology](https://www.gov.uk/service-manual/making-software/choosing-technology.html)
-* [Configuration management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
-* [Cookies](https://www.gov.uk/service-manual/making-software/cookies.html)
-* [Deployment software](https://www.gov.uk/service-manual/making-software/deployment.html)
-* [Development environments](https://www.gov.uk/service-manual/making-software/development-environment.html)
-* [Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)
-* [Information security](https://www.gov.uk/service-manual/making-software/information-security.html)
-* [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
-* [Open standards and licensing](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
-* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
-* [Releasing software](https://www.gov.uk/service-manual/making-software/release-strategies.html)
-* [Sandbox and staging servers](https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html)
-* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
-* [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
-* [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
-* [Using open source software](https://www.gov.uk/service-manual/making-software/open-source.html)
-* [Version control](https://www.gov.uk/service-manual/making-software/version-control.html)
-
-Operations
-* [Operating a service](https://www.gov.uk/service-manual/operations/index.html)
-* [Cloud security](https://www.gov.uk/service-manual/operations/cloud-security.html)
-* [Devops](https://www.gov.uk/service-manual/operations/devops.html)
-* [Helpdesk](https://www.gov.uk/service-manual/operations/helpdesk.html)
-* [Hosting](https://www.gov.uk/service-manual/operations/hosting.html)
-* [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
-* [Managing user support](https://www.gov.uk/service-manual/operations/managing-user-support.html)
-* [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
-* [Operating a service.gov.uk subdomain](https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html)
-* [Service management](https://www.gov.uk/service-manual/operations/service-management.html)
-* [Uptime and availability](https://www.gov.uk/service-manual/operations/uptime-and-availability.html)
-* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
-* [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
-
-* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
-* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
-* [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
-* [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
-* [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
-* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
-* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
-* [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
-* [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
-* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
-* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
 
 # Usability BOK
 
