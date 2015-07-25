@@ -375,16 +375,6 @@ User Research Quantitative
 * [Online Research Panels](https://www.gov.uk/service-manual/user-centred-design/user-research/online-research-panels.html)
 * [Online Omnibus Survey](https://www.gov.uk/service-manual/user-centred-design/user-research/online-omnibus-survey.html)
 
-Measurement
-* [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
-* [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
-* [Using data](https://www.gov.uk/service-manual/measurement/using-data.html)
-* [Key performance indicators](https://www.gov.uk/service-manual/measurement/other-kpis.html)
-* [Completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
-* [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
-* [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
-* [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
-
 Assisted Digital
 * [Assisted digital](https://www.gov.uk/service-manual/assisted-digital/index.html)
 * [Assisted digital action plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html)
