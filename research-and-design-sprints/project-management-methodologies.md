@@ -67,6 +67,18 @@ Case Studies
 *   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
 *   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
 
+## IDEO
+
+Feedback and Iteration
+*   [Get Feedback](http://www.designkit.org/methods/57)
+*   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
+*   [Keep Iterating](http://www.designkit.org/methods/19)
+*   [Keep Getting Feedback](http://www.designkit.org/methods/59)
+
+Sustainability and Growth
+*   [Sustainable Revenue](http://www.designkit.org/methods/16)
+*   [Ways to Grow Framework](http://www.designkit.org/methods/38)
+
 ## U.K. Gov Agile
 
 Agile
