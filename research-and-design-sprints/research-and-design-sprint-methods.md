@@ -414,15 +414,9 @@ Scaling and Governance
 * [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
 * [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
 
-* [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
-* [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
-* [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
-* [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
 * [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
 
 # Usability Gov User Testing Documents
-
-## General
 
 Accessibility, Usability Experience, Research, Evaluation, and Testing
 * [Accessibility](http://www.usability.gov/what-and-why/accessibility.html)
