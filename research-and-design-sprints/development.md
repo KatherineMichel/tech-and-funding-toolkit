@@ -21,6 +21,10 @@ Open Source
 * [Using APIs](https://www.dto.gov.au/standard/how-apply-standard/using-apis)
 * [Open data](https://www.dto.gov.au/standard/how-apply-standard/open-data)
 
+Analytics and Measurement
+* [Analytics tools](https://www.dto.gov.au/standard/how-apply-standard/analytics-tools)
+* [Measurement](https://www.dto.gov.au/standard/how-apply-standard/measurement)
+
 Case Studies
 * [Case study: Connecting with customers on social media](https://www.dto.gov.au/standard/how-apply-standard/case-study-connecting-customers-social-media)
 * [Case study: Improving website user experiences](https://www.dto.gov.au/standard/how-apply-standard/case-study-improving-website-user-experiences)
