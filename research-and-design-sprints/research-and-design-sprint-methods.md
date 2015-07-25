@@ -504,14 +504,19 @@ The team
 * [Your working environment](https://www.gov.uk/service-manual/the-team/working-environment.html)
 * [Technology leadership](https://www.gov.uk/service-manual/the-team/recruitment/scs-orgdesign.html)
 * [Accessibility skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
-* [Service Managers](https://www.gov.uk/service-manual/the-team/service-manager.html)
+
+Roles
+*   [Chief Technology Officers Resources](https://www.gov.uk/service-manual/chief-technology-officers)
+*   [Technical Architect Resources](https://www.gov.uk/service-manual/technical-architects)
+* [Service Managers Resources](https://www.gov.uk/service-manual/service-managers) and [Service Managers Skills](https://www.gov.uk/service-manual/the-team/service-manager.html)
 * [Delivery Manager](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
-* [Developer skills](https://www.gov.uk/service-manual/the-team/developer.html)
-* [Web operations skills](https://www.gov.uk/service-manual/the-team/web-operations.html)
-* [Designer skills](https://www.gov.uk/service-manual/the-team/designer.html)
+* [Developers Resources](https://www.gov.uk/service-manual/developers) and [Developer Skills](https://www.gov.uk/service-manual/the-team/developer.html)
+* [Web Operations Resources](https://www.gov.uk/service-manual/web-ops) and [Web Operations skills](https://www.gov.uk/service-manual/the-team/web-operations.html)
+* [Designers Resources](https://www.gov.uk/service-manual/designers) and [Designer skills](https://www.gov.uk/service-manual/the-team/designer.html)
 * [Digital Leader](https://www.gov.uk/service-manual/the-team/digital-leader.html)
-* [User researcher skills](https://www.gov.uk/service-manual/the-team/user-researcher.html)
-* [Content Designer](https://www.gov.uk/service-manual/the-team/content-designer.html)
+* [User Researchers Resources](https://www.gov.uk/service-manual/user-researchers) and [User Researcher Skills](https://www.gov.uk/service-manual/the-team/user-researcher.html)
+* [Content Designers Resources](https://www.gov.uk/service-manual/content-designers) and [Content Designer Skills](https://www.gov.uk/service-manual/the-team/content-designer.html)
+* [Performance Analysts Resources](https://www.gov.uk/service-manual/performance-analysts)
 
 Development
 * [Governance](https://www.gov.uk/service-manual/governance/index.html)
