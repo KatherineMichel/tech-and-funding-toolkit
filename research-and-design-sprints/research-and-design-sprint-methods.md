@@ -170,22 +170,7 @@ Sustainability and Growth
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
 
-# Interaction Design Encyclopedia
-
-*   [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
-
-# Knowledge Sharing Toolkit
-
-*   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
-
 # Nesta DIY, Nesta Methods
-
-Project Management
-*   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
-*   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
-*   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
-*   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
-*   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
 
 Idea Generation
 *   [Idea Generator Events](http://www.nesta.org.uk/publications/idea-generation-events) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_idea_generation_events.pdf)
@@ -525,6 +510,14 @@ More
 * [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
 * [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
  
+# Interaction Design Encyclopedia
+
+*   [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
+
+# Knowledge Sharing Toolkit
+
+*   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
+
 # Nielson Norman User Testing Documents
 
 Appendix B: Sample Scripts and Forms 164
