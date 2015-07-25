@@ -5,10 +5,6 @@
 * [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
 * [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 
-Usability Gov Organization
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
-
 # User Centered Design
 
 Australian Government Digital Transformation Office User Centred Design
