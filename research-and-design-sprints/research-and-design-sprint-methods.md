@@ -34,10 +34,6 @@ Testing
 * [Usability testing](https://www.dto.gov.au/standard/how-apply-standard/usability-testing)
 * [Testing web accessibility](https://www.dto.gov.au/standard/how-apply-standard/testing-web-accessibility)
 
-Analytics and Measurement
-* [Analytics tools](https://www.dto.gov.au/standard/how-apply-standard/analytics-tools)
-* [Measurement](https://www.dto.gov.au/standard/how-apply-standard/measurement)
-
 Government and Services
 * [Government as a platform](https://www.dto.gov.au/standard/how-apply-standard/government-platform)
 * [Common government solutions](https://www.dto.gov.au/standard/how-apply-standard/common-government-solutions)
