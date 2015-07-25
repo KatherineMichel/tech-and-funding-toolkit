@@ -31,11 +31,6 @@ Wikipedia
 
 # Australian Government Digital Transformation Office Methods
 
-Team and Culture
-* [The team](https://www.dto.gov.au/standard/how-apply-standard/team)
-* [Recruitment](https://www.dto.gov.au/standard/how-apply-standard/recruitment)
-* [Creating cultural change](https://www.dto.gov.au/standard/how-apply-standard/creating-cultural-change)
-
 User Research
 * [User research (chart)](ttps://www.dto.gov.au/standard/how-apply-standard/user-research)
 
