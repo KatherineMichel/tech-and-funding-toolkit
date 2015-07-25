@@ -137,16 +137,6 @@ Prototyping
 
 ## Nesta DIY Frameworks
 
-*   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
-*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
-*   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
-*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
-
-Stakeholders
-*   [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
-*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
-*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
-
 Planning Tools
 *   [Problem Definition](http://diytoolkit.org/tools/problem-definition-2)
 *   [SWOT Analysis](http://diytoolkit.org/tools/swot-analysis-2)
