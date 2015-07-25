@@ -375,12 +375,6 @@ User Research Quantitative
 * [Online Research Panels](https://www.gov.uk/service-manual/user-centred-design/user-research/online-research-panels.html)
 * [Online Omnibus Survey](https://www.gov.uk/service-manual/user-centred-design/user-research/online-omnibus-survey.html)
 
-Websites
-* [Domain Names](https://www.gov.uk/service-manual/domain-names/index.html)
-* [Browsers and devices](https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html)
-* [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
-* [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
-
 Measurement
 * [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
 * [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
