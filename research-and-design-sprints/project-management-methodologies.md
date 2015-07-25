@@ -56,6 +56,10 @@ Agile
 * [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
 * [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
 
+Usability Gov Organization
+* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+
 ## Agile Allegiance
 
 * [Subway](http://guide.agilealliance.org/subway.html)
