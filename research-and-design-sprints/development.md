@@ -60,6 +60,16 @@ Websites
 * [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
 * [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
 
+Measurement
+* [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
+* [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
+* [Using data](https://www.gov.uk/service-manual/measurement/using-data.html)
+* [Key performance indicators](https://www.gov.uk/service-manual/measurement/other-kpis.html)
+* [Completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
+* [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
+* [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
+* [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
+
 # Usability Gov
 
 What, Why, How To and Tools
