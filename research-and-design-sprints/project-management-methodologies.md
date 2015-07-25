@@ -10,20 +10,30 @@ See also...
 * [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 * [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 
-Nesta DIY, Nesta Project Management
+## Design Kit Project Management
+*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
+*   [How We Might](http://www.designkit.org/methods/3)
+*   [Design Principles](http://www.designkit.org/methods/27)
+*   [Recruiting Tools](http://www.designkit.org/methods/22)
+*   [Co-Creation Session](http://www.designkit.org/methods/33)
+*   [Creating a Project Plan](http://www.designkit.org/methods/9)
+*   [Build a Team](http://www.designkit.org/methods/10)
+*   [Business Model Canvas](http://www.designkit.org/methods/41)
+*   [Build Partnerships](http://www.designkit.org/methods/17)
+*   [Roadmap](http://www.designkit.org/methods/7)
+*   [Define Success](http://www.designkit.org/methods/55)
+*   [Measure and Evaluate](http://www.designkit.org/methods/40)
+*   [Staff Your Project](http://www.designkit.org/methods/56)
+*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
+*   [Create a Pitch](http://www.designkit.org/methods/37)
+*   [Funding Strategy](http://www.designkit.org/methods/54)
+
+## Nesta DIY, Nesta Project Management
 *   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
 *   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
 *   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
 *   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
 *   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
-
-## Usability Gov Project Management
-
-* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
-* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
-* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
-* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
-* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
 
 ## U.K. Gov Agile
 
@@ -37,6 +47,14 @@ Agile
 * [Quality](https://www.gov.uk/service-manual/agile/quality.html)
 * [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
 * [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
+
+## Usability Gov Project Management
+
+* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
+* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
+* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
+* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
+* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
 
 ## Agile Allegiance
 
