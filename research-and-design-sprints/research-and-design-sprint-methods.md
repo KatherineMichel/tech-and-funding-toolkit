@@ -442,26 +442,37 @@ Miscellaneous
 Funding
 * [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
 
-Service Design Phases
-* [Service design phases](https://www.gov.uk/service-manual/phases/index.html)
-
-Governance
-* [Governing the alpha phase](https://www.gov.uk/service-manual/phases/index.html)
-* [Governing the beta phase](https://www.gov.uk/service-manual/governance/governing-the-beta-phase.html)
-* [Governing the discovery phase](https://www.gov.uk/service-manual/governance/governing-the-discovery-phase.html)
-* [Governing the live phase](https://www.gov.uk/service-manual/governance/governing-the-live-phase.html)
-
 User Centered Design and User Needs
 * [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
 * [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
 
 User Research and Testing
-* [User-centred design in alpha and beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
 * [An introduction to user research techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
 * [Accessibility testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
 * [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
 * [Card sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
 * [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
+
+User Research Background Techniques
+* [User Research Tools](https://www.gov.uk/service-manual/user-centred-design/user-research/user-research-tools.html)
+* [User Research Briefs](https://www.gov.uk/service-manual/user-centred-design/user-research/user-research-briefs) and [Example Briefs](https://www.gov.uk/service-manual/assets/documents/IDAQualBrief.pdf)
+* [Survey Designs](https://www.gov.uk/service-manual/user-centred-design/user-research/survey-design)
+* [Sampling Methodologies](https://www.gov.uk/service-manual/user-centred-design/user-research/sampling-methodologies.html)
+
+User Research Qualitative Techniques
+* [Ethnographic Research](https://www.gov.uk/service-manual/user-centred-design/user-research/ethnographic-research)
+* [Expert Review](https://www.gov.uk/service-manual/user-centred-design/user-research/expert-review.html)
+* [Guerrilla Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/guerrilla-testing.html)
+* [Same Day User Testing (Online Qualitative)](https://www.gov.uk/service-manual/user-centred-design/user-research/same-day-user-testing.html)
+* [Lab Based User Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/lab-based-user-testing.html)
+* [Focus Groups, Mini Groups, and 1:1 Interviews](https://www.gov.uk/service-manual/user-centred-design/user-research/focus-groups-mini-groups-interviews)
+* [Community User Groups](https://www.gov.uk/service-manual/user-centred-design/user-research/community-user-groups.html)
+
+User Research Quantitative
+* [User Research Surveys](https://www.gov.uk/service-manual/user-centred-design/user-research/user-research-surveys)
+* [Remote Usability](https://www.gov.uk/service-manual/user-centred-design/user-research/remote-usability.html)
+* [Online Research Panels](https://www.gov.uk/service-manual/user-centred-design/user-research/online-research-panels.html)
+* [Online Omnibus Survey](https://www.gov.uk/service-manual/user-centred-design/user-research/online-omnibus-survey.html)
 
 Websites
 * [Domain Names](https://www.gov.uk/service-manual/domain-names/index.html)
