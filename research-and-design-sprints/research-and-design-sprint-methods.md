@@ -26,13 +26,13 @@ Wikipedia
 # Australian Government Digital Transformation Office Methods
 
 User Research
-* [User research (chart)](ttps://www.dto.gov.au/standard/how-apply-standard/user-research)
+* [User Research (chart)](ttps://www.dto.gov.au/standard/how-apply-standard/user-research)
 
 Testing
-* [Testing services](https://www.dto.gov.au/standard/how-apply-standard/testing-services)
+* [Testing Services](https://www.dto.gov.au/standard/how-apply-standard/testing-services)
 * [Guerrilla Testing services](https://www.dto.gov.au/standard/how-apply-standard/testing-services#guerrilla)
-* [Usability testing](https://www.dto.gov.au/standard/how-apply-standard/usability-testing)
-* [Testing web accessibility](https://www.dto.gov.au/standard/how-apply-standard/testing-web-accessibility)
+* [Usability Testing](https://www.dto.gov.au/standard/how-apply-standard/usability-testing)
+* [Testing Web Accessibility](https://www.dto.gov.au/standard/how-apply-standard/testing-web-accessibility)
 
 Government and Services
 * [Government as a platform](https://www.dto.gov.au/standard/how-apply-standard/government-platform)
@@ -242,11 +242,6 @@ Miscellaneous
 
 # U.K. Gov Methods
 
-Assisted Digital
-* [Assisted digital](https://www.gov.uk/service-manual/assisted-digital/index.html)
-* [Assisted digital action plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html)
-* [Researching assisted digital users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
-
 Development
 * [Governance](https://www.gov.uk/service-manual/governance/index.html)
 * [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
@@ -259,11 +254,6 @@ Development
 * [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
 * [What to expect from the show and tell](https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html)
 * [Seeing progress](https://www.gov.uk/service-manual/governance/seeing-progress.html)
-
-Scaling and Governance
-* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
-* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
-* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
 
 * [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
 
