@@ -1424,6 +1424,7 @@ General
 *   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
 *   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
 *   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
+*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 *   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
@@ -1435,6 +1436,7 @@ General
 *   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
+*   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
 Finance and Investment Terms
