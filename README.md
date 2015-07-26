@@ -37,7 +37,7 @@ Table of Contents
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Design](#desgn)
 - [Government Digital](#government-digital)
-- [Research and Design Toolkits](#research-and-design-toolkits)
+- [More Research and Design Toolkits](#more-research-and-design-toolkits)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
@@ -751,7 +751,43 @@ Company Design
 *   [Twitter Design](https://twitter.com/design)  
 *   [Uber Design](https://www.uber.com/design) 
 
-#### Government Digital
+#### Government Digital (including Research and Design Sprints)
+
+Australia
+*   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
+*   [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/service-design-process)
+*   [Australia Digital Transformation Office Design Guides](https://www.dto.gov.au/design-guides)
+*   [Australia Digital Transformation Plan](https://www.dto.gov.au/standard/digital-transformation-plan), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard), [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
+*   [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary) and [Sitemap](https://www.dto.gov.au/sitemap)
+
+Estonian E-Residence
+*   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
+
+The Prince's Trust
+*   [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
+*   [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
+*   [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
+*   [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
+
+U.K. Gov
+*   [Digital Transformation](https://www.gov.uk/transformation)
+*   [GOV.UK GitHub](https://github.com/alphagov)
+*   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
+*   [U.K. Government Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default), [Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-standard.html), and [Design Standards](https://www.gov.uk/design-principles)
+*   [U.K. Government Performance](https://www.gov.uk/performance)
+*   [U.K. Government Standards Hub](http://standards.data.gov.uk)
+*   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
+*   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases/index.html), [User Centred Design in Alpha and Beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
+*   [Discovery](https://www.gov.uk/service-manual/phases/discovery.html) and [Governing the Discovery Phase](https://www.gov.uk/service-manual/governance/governing-the-discovery-phase.html)
+*   [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Ideal Alphas](https://www.gov.uk/service-manual/phases/ideal-alphas), and [Governing the Alpha Phase](https://www.gov.uk/service-manual/governance/governing-the-alpha-phase.html)
+*   [Beta](https://www.gov.uk/service-manual/phases/beta) and [Governing the Beta Phase](https://www.gov.uk/service-manual/governance/governing-the-beta-phase.html)
+*   [Live](https://www.gov.uk/service-manual/phases/live) and [Governing the Live Phase](https://www.gov.uk/service-manual/governance/governing-the-live-phase.html)
+*   [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
+*   [Assisted Digital Information Template](https://www.gov.uk/service-manual/assets/documents/assisted-digital-information-template.pdf)
+*   [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html), [Assisted Digital Action Plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html), and [Researching Assisted Digital Users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
+*   [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
+*   [Print Form Template](https://www.gov.uk/service-manual/assets/documents/print-forms/template-form.pdf)
+*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), [Writing for U.K. Gov](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide), and [U.K. Government Style Guide A to Z](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
 U.S. Gov
 *   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
@@ -761,28 +797,19 @@ U.S. Gov
 *   [CIO Tech Federal Acquisition Regulation (FAR) Playbook](https://playbook.cio.gov/techfar), [CIO Tech Federal Acquisition Regulation (FAR) Playbook GitHub](https://github.com/WhiteHouse/playbook/blob/gh-pages/_includes/techfar-online.md), and [CIO Tech Federal Acquisition Regulation (FAR) Playbook PDF](https://playbook.cio.gov/assets/TechFAR%20Handbook_2014-08-07.pdf)
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
-*   [Government Usability](http://www.usability.gov)
 *   [Code for America](http://www.codeforamerica.org)
 
-U.K. Gov
-*   [Digital Transformation](https://www.gov.uk/transformation)
-*   [GOV.UK GitHub](https://github.com/alphagov)
-*   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
-*   [U.K. Government Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default), [Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-standard.html), and [Design Standards](https://www.gov.uk/design-principles)
-*   [U.K. Government Performance](https://www.gov.uk/performance)
-*   [U.K. Government Standards Hub](http://standards.data.gov.uk)
+Usability Gov
+*   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
 
-Australia
-*   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
-*   [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/service-design-process)
-*   [Australia Digital Transformation Office Design Guides](https://www.dto.gov.au/design-guides)
-*   [Australia Digital Transformation Plan](https://www.dto.gov.au/standard/digital-transformation-plan), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard), [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
-*   [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary) and [Sitemap](https://www.dto.gov.au/sitemap)
+U.S. Aid Learning Lab
+*   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
+*   [U.S. Aid Project Design Development and Implementation](http://usaidlearninglab.org/learning-guide/project-design-development-implementation), [U.S. Aid Project Design](http://usaidlearninglab.org/learning-guide/project-design), and [U.S. Aid Project Implementation](http://usaidlearninglab.org/learning-guide/project-implementation-overview)
+*   [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
+*   [U.S. Aid Library](http://usaidlearninglab.org/library)
+*   [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
 
-E-Residence
-*   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
-
-#### Research and Design Toolkits
+#### More Research and Design Toolkits
 
 Games
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki)
@@ -836,38 +863,8 @@ Strategyzer
 The Digital Tookit for the Arts
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
 
-The Prince's Trust
-*   [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
-*   [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
-*   [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
-*   [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
-
-U.K. Gov
-*   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
-*   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases/index.html), [User Centred Design in Alpha and Beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
-*   [Discovery](https://www.gov.uk/service-manual/phases/discovery.html) and [Governing the Discovery Phase](https://www.gov.uk/service-manual/governance/governing-the-discovery-phase.html)
-*   [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Ideal Alphas](https://www.gov.uk/service-manual/phases/ideal-alphas), and [Governing the Alpha Phase](https://www.gov.uk/service-manual/governance/governing-the-alpha-phase.html)
-*   [Beta](https://www.gov.uk/service-manual/phases/beta) and [Governing the Beta Phase](https://www.gov.uk/service-manual/governance/governing-the-beta-phase.html)
-*   [Live](https://www.gov.uk/service-manual/phases/live) and [Governing the Live Phase](https://www.gov.uk/service-manual/governance/governing-the-live-phase.html)
-*   [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
-*   [Assisted Digital Information Template](https://www.gov.uk/service-manual/assets/documents/assisted-digital-information-template.pdf)
-*   [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html), [Assisted Digital Action Plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html), and [Researching Assisted Digital Users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
-*   [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
-*   [Print Form Template](https://www.gov.uk/service-manual/assets/documents/print-forms/template-form.pdf)
-*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), [Writing for U.K. Gov](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide), and [U.K. Government Style Guide A to Z](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
-
-U.S. Aid Learning Lab
-*   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
-*   [U.S. Aid Project Design Development and Implementation](http://usaidlearninglab.org/learning-guide/project-design-development-implementation), [U.S. Aid Project Design](http://usaidlearninglab.org/learning-guide/project-design), and [U.S. Aid Project Implementation](http://usaidlearninglab.org/learning-guide/project-implementation-overview)
-*   [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
-*   [U.S. Aid Library](http://usaidlearninglab.org/library)
-*   [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
-
 Usability BOK
 * [Usability BOK](http://www.usabilitybok.org)
-
-Usability Gov
-*   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
 
 Google Design Approach
 
