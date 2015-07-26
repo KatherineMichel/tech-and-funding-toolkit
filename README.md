@@ -41,6 +41,7 @@ Table of Contents
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
+- [Google Design Approach](#google-design-approach)
 - [Pretotyping](#pretotyping)
 - [Prototyping](#prototyping)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
@@ -812,7 +813,7 @@ U.S. Aid Learning Lab
 #### More Research and Design Toolkits
 
 Games
-*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki)
+*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 *  [Innovation Games: Games](http://www.innovationgames.com)
 
 HubSpot
@@ -866,14 +867,6 @@ The Digital Tookit for the Arts
 Usability BOK
 * [Usability BOK](http://www.usabilitybok.org)
 
-Google Design Approach
-
-*   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
-*   [Google Design](http://www.google.com/design/#resources)  
-*   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-*   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-*   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html), [Google Material Lite](http://www.getmdl.io/components/index.html), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0)
- 
 #### Google Ventures Research Sprint
 
 *   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
@@ -901,7 +894,14 @@ Thoughtbot Version
 *   [Google Forms: About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
-*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
+
+#### Google Design Approach
+
+*   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
+*   [Google Design](http://www.google.com/design/#resources)  
+*   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+*   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+*   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html), [Google Material Lite](http://www.getmdl.io/components/index.html), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0)
 
 #### Pretotyping
 
