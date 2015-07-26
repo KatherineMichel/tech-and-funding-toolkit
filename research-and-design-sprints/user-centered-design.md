@@ -1,7 +1,7 @@
 # User Centered Design
 
 Australian Government Digital Transformation Office User Centred Design
-* [User-centred design](https://www.dto.gov.au/standard/how-apply-standard/user-centred-design)
+* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
 
 U.K. Gov User Centered Design and User Needs
 * [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
