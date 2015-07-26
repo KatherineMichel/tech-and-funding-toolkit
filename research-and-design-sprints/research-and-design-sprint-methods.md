@@ -43,12 +43,7 @@ Government and Services
 * [Assisted digital](https://www.dto.gov.au/standard/how-apply-standard/assisted-digital)
 * [Integrating offline activity](https://www.dto.gov.au/standard/how-apply-standard/integrating-offline-activity)
 
-# Games
-
-*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
-*  [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and  [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
-
-## Methods
+# IDEO
 
 Audience
 *   [Define Your Audience](http://www.designkit.org/methods/11)
@@ -430,6 +425,11 @@ More
 * [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
  
 # 18F
+
+# Games
+
+*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
+*  [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and  [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
 
 # Interaction Design Encyclopedia
 
