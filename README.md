@@ -853,6 +853,7 @@ U.K. Gov
 *   [Live](https://www.gov.uk/service-manual/phases/live) and [Governing the Live Phase](https://www.gov.uk/service-manual/governance/governing-the-live-phase.html)
 *   [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
 *   [Assisted Digital Information Template](https://www.gov.uk/service-manual/assets/documents/assisted-digital-information-template.pdf)
+*   [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html), [Assisted Digital Action Plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html), and [Researching Assisted Digital Users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
 *   [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
 *   [Print Form Template](https://www.gov.uk/service-manual/assets/documents/print-forms/template-form.pdf)
 *   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), [Writing for U.K. Gov](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide), and [U.K. Government Style Guide A to Z](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
@@ -1438,6 +1439,7 @@ General
 *   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
 *   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
+*   [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
 Finance and Investment Terms
