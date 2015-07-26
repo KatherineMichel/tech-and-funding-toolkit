@@ -1,8 +1,8 @@
 # Australian Government Digital Transformation Office Team and Culture
 
-* [The team](https://www.dto.gov.au/standard/how-apply-standard/team)
-* [Recruitment](https://www.dto.gov.au/standard/how-apply-standard/recruitment)
-* [Creating cultural change](https://www.dto.gov.au/standard/how-apply-standard/creating-cultural-change)
+* [The team](https://www.dto.gov.au/design-guides/guide/team)
+* [Recruitment](https://www.dto.gov.au/design-guides/guide/recruitment)
+* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
 
 # IDEO Possible Roles
 
