@@ -181,6 +181,11 @@ Measurement
 * [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
 * [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
 
+Scaling and Governance
+* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
+* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
+* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
+
 ## Usability Gov Project Management
 
 * [Project Management](http://www.usability.gov/what-and-why/project-management.html)
