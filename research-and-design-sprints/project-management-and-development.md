@@ -20,34 +20,35 @@ Agile Project Management Methodologies
 
 * [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 * [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
-* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 
 Agile
 * [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods)
 * [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
 
 Agile Practices
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
 * [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
-* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
+* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
 * [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
 * [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
-* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
+* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
+* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
+
+* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
 * [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
 * [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 * [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
+* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
 * [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
-* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
+
+* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
 
 ## Australian Government Digital Transformation Office
 
