@@ -9,6 +9,11 @@ See also...
 * [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 * [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 
+### Australian Government Digital Transformation Office Project Management
+
+* [Analytics tools](https://www.dto.gov.au/design-guides/guide/analytics-tools)
+* [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
+
 ### Design Kit Project Management
 
 *   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
@@ -97,6 +102,9 @@ Measurement
 Usability Gov Organization
 * [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
 * [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+
+Measurement
+* [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
 
 ## Agile Project Management
 
@@ -246,10 +254,6 @@ Websites
 * [Domain names](https://www.dto.gov.au/design-guides/guide/domain-names)
 * [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
 
-Analytics and Measurement
-* [Analytics tools](https://www.dto.gov.au/design-guides/guide/analytics-tools)
-* [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
-
 Branding, Social Media and Content
 * [Branding](https://www.dto.gov.au/design-guides/guide/branding)
 * [Using social media to engage users](https://www.dto.gov.au/design-guides/guide/using-social-media-engage-users)
@@ -331,5 +335,4 @@ What, Why, How To and Tools
 * [Content Inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
 * [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
-* [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
