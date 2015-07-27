@@ -152,22 +152,43 @@ Agile
 
 ## U.K. Gov
 
+Scaling and Governance
+* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
+* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
+* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
+
 * [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
 * [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
-* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
-* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
-* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
-* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
-* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
-* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
+* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
+* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
+* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
+* [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
+* [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
+* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
+* [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
+
+Measurement
+* [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
+* [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
+* [Using data](https://www.gov.uk/service-manual/measurement/using-data.html)
+* [Key performance indicators](https://www.gov.uk/service-manual/measurement/other-kpis.html)
+* [Completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
+* [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
+* [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
+* [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
 
 Making Software
 * [Making software](https://www.gov.uk/service-manual/making-software/index.html)
-* [Choosing technology](https://www.gov.uk/service-manual/making-software/choosing-technology.html)
 * [Open standards and licensing](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
 * [Using open source software](https://www.gov.uk/service-manual/making-software/open-source.html)
+* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
 * [Version control](https://www.gov.uk/service-manual/making-software/version-control.html)
+* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
 * [Information security](https://www.gov.uk/service-manual/making-software/information-security.html)
+* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
+* [Choosing technology](https://www.gov.uk/service-manual/making-software/choosing-technology.html)
+* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
+* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
 * [Configuration management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
 * [Development environments](https://www.gov.uk/service-manual/making-software/development-environment.html)
 * [Sandbox and staging servers](https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html)
@@ -179,6 +200,7 @@ Making Software
 * [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
 * [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
 * [Cookies](https://www.gov.uk/service-manual/making-software/cookies.html)
+* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
 
 Operations
 * [Operating a service](https://www.gov.uk/service-manual/operations/index.html)
@@ -193,19 +215,6 @@ Operations
 * [Managing user support](https://www.gov.uk/service-manual/operations/managing-user-support.html)
 * [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
 * [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
-* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
-
-Scaling and Governance
-* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
-* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
-* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
-
-* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
-* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
-* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
-* [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
-* [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
-* [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
 
 Websites
 * [Domain Names](https://www.gov.uk/service-manual/domain-names/index.html)
@@ -216,16 +225,6 @@ Websites
 * [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
 * [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
 * [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
-
-Measurement
-* [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
-* [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
-* [Using data](https://www.gov.uk/service-manual/measurement/using-data.html)
-* [Key performance indicators](https://www.gov.uk/service-manual/measurement/other-kpis.html)
-* [Completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
-* [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
-* [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
-* [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
 
 ## Usability Gov Project Management
 
