@@ -1248,7 +1248,7 @@ Software Development Philosophies
 *   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
 
 Project Management Methodologies
-*   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management) 
+*   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
 *   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
 *   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
 *   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
