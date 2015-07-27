@@ -1247,20 +1247,22 @@ Software Development Philosophies
 *   [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
 *   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
 
-Project Management Methodologies
+Agile Project Management Methodologies
 *   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
 *   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
 *   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
 *   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
 *   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
 *   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
-*   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
-*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
-*   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
 *   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
 *   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 *   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
+*   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
+*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
+
+Waterfall Project Management Methodologies
+*   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
 
 Process Improvement
 *   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
