@@ -10,6 +10,10 @@ See also...
 * [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 * [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 
+Agile
+* [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods)
+* [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
+
 ## Australian Government Digital Transformation Office
 
 Open Source
