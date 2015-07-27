@@ -4,6 +4,18 @@ See also...
 
 *   [Tech and Venture Capital Toolkit Project Management](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/README.md#project-management)
 
+Agile Project Management Methodologies
+*   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
+*   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
+*   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
+*   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
+*   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
+*   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
+*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
+*   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
+*   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
+*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
+
 ## Wikipedia
 
 * [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
