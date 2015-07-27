@@ -11,7 +11,7 @@ Agile Project Management Methodologies
 *   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
 *   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
 *   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
-*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
+*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
 *   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
