@@ -12,30 +12,30 @@ See also...
 
 ## Australian Government Digital Transformation Office
 
-Websites
-* [Selecting a content management system](https://www.dto.gov.au/design-guides/guide/selecting-content-management-system)
-* [Domain names](https://www.dto.gov.au/design-guides/guide/domain-names)
-* [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
-
-Branding, Social Media and Content
-* [Branding](https://www.dto.gov.au/design-guides/guide/branding)
-* [Using social media to engage users](https://www.dto.gov.au/design-guides/guide/using-social-media-engage-users)
-* [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
-* [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
-
-Identity and Privacy
-* [Identity assurance](https://www.dto.gov.au/design-guides/guide/identity-assurance)
-* [Privacy requirements](https://www.dto.gov.au/design-guides/guide/privacy-requirements)
-
 Open Source
 * [Using open standards](https://www.dto.gov.au/design-guides/guide/using-open-standards)
 * [Sharing source code](https://www.dto.gov.au/design-guides/guide/sharing-source-code)
 * [Using APIs](https://www.dto.gov.au/design-guides/guide/using-apis)
 * [Open data](https://www.dto.gov.au/design-guides/guide/open-data)
 
+Identity and Privacy
+* [Identity assurance](https://www.dto.gov.au/design-guides/guide/identity-assurance)
+* [Privacy requirements](https://www.dto.gov.au/design-guides/guide/privacy-requirements)
+
+Websites
+* [Selecting a content management system](https://www.dto.gov.au/design-guides/guide/selecting-content-management-system)
+* [Domain names](https://www.dto.gov.au/design-guides/guide/domain-names)
+* [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
+
 Analytics and Measurement
 * [Analytics tools](https://www.dto.gov.au/design-guides/guide/analytics-tools)
 * [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
+
+Branding, Social Media and Content
+* [Branding](https://www.dto.gov.au/design-guides/guide/branding)
+* [Using social media to engage users](https://www.dto.gov.au/design-guides/guide/using-social-media-engage-users)
+* [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
+* [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
 
 Case Studies
 * [Case study: Connecting with customers on social media](https://www.dto.gov.au/design-guides/guide/case-study-connecting-customers-social-media)
@@ -61,6 +61,7 @@ Case Studies
 *   [Funding Strategy](http://www.designkit.org/methods/54)
 
 ## Nesta DIY, Nesta Project Management
+
 *   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
 *   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
 *   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
@@ -111,65 +112,70 @@ Agile
 
 ## U.K. Gov
 
+* [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
+* [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
+* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
+* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
+* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
+* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
+* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
+* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
+
 Making Software
 * [Making software](https://www.gov.uk/service-manual/making-software/index.html)
-* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
-* [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
 * [Choosing technology](https://www.gov.uk/service-manual/making-software/choosing-technology.html)
-* [Configuration management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
-* [Cookies](https://www.gov.uk/service-manual/making-software/cookies.html)
-* [Deployment software](https://www.gov.uk/service-manual/making-software/deployment.html)
-* [Development environments](https://www.gov.uk/service-manual/making-software/development-environment.html)
-* [Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)
-* [Information security](https://www.gov.uk/service-manual/making-software/information-security.html)
-* [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
 * [Open standards and licensing](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
-* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
-* [Releasing software](https://www.gov.uk/service-manual/making-software/release-strategies.html)
-* [Sandbox and staging servers](https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html)
-* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
-* [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
-* [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
 * [Using open source software](https://www.gov.uk/service-manual/making-software/open-source.html)
 * [Version control](https://www.gov.uk/service-manual/making-software/version-control.html)
+* [Information security](https://www.gov.uk/service-manual/making-software/information-security.html)
+* [Configuration management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
+* [Development environments](https://www.gov.uk/service-manual/making-software/development-environment.html)
+* [Sandbox and staging servers](https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html)
+* [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
+* [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
+* [Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)
+* [Deployment software](https://www.gov.uk/service-manual/making-software/deployment.html)
+* [Releasing software](https://www.gov.uk/service-manual/making-software/release-strategies.html)
+* [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
+* [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
+* [Cookies](https://www.gov.uk/service-manual/making-software/cookies.html)
 
 Operations
 * [Operating a service](https://www.gov.uk/service-manual/operations/index.html)
+* [Operating a service.gov.uk subdomain](https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html)
+* [Hosting](https://www.gov.uk/service-manual/operations/hosting.html)
 * [Cloud security](https://www.gov.uk/service-manual/operations/cloud-security.html)
+* [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
+* [Uptime and availability](https://www.gov.uk/service-manual/operations/uptime-and-availability.html)
+* [Service management](https://www.gov.uk/service-manual/operations/service-management.html)
 * [Devops](https://www.gov.uk/service-manual/operations/devops.html)
 * [Helpdesk](https://www.gov.uk/service-manual/operations/helpdesk.html)
-* [Hosting](https://www.gov.uk/service-manual/operations/hosting.html)
-* [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
 * [Managing user support](https://www.gov.uk/service-manual/operations/managing-user-support.html)
-* [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
-* [Operating a service.gov.uk subdomain](https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html)
-* [Service management](https://www.gov.uk/service-manual/operations/service-management.html)
-* [Uptime and availability](https://www.gov.uk/service-manual/operations/uptime-and-availability.html)
-* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
+* [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
 * [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
+* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
 
-* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
-* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
+Scaling and Governance
+* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
+* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
+* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
+
+* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
+* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
+* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
 * [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
-* [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
-* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
-* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
-* [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
 * [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
-* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
-* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
-
-* [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
-* [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
-* [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
-* [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
 
 Websites
 * [Domain Names](https://www.gov.uk/service-manual/domain-names/index.html)
 * [Browsers and devices](https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html)
 * [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
 * [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
+* [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
+* [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
+* [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
+* [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
 
 Measurement
 * [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
@@ -180,11 +186,6 @@ Measurement
 * [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
 * [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
 * [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
-
-Scaling and Governance
-* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
-* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
-* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
 
 ## Usability Gov Project Management
 
