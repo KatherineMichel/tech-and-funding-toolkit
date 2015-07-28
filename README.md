@@ -1263,8 +1263,12 @@ Agile Project Management Methodologies
 *   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 *   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-*   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
+*   [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
+
+Sprints
+*   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
+*   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
 
 Waterfall Project Management Methodologies
 *   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
