@@ -439,6 +439,10 @@ More
 
 # Nielson Norman User Testing Documents
 
+*   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
+*   [Interviewing Users](http://www.nngroup.com/articles/interviewing-users)
+*   [Why You Only Need to Test with Five Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users)
+
 Appendix B: Sample Scripts and Forms 164
 
 * Participant Summary Table 183
