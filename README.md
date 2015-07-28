@@ -775,7 +775,7 @@ U.K. Gov
 *   [GOV.UK GitHub](https://github.com/alphagov)
 *   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
 *   [U.K. Government Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default), [Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-standard.html), and [Design Standards](https://www.gov.uk/design-principles)
-*   [U.K. Government Performance](https://www.gov.uk/performance)
+*   [U.K. Government Performance](https://www.gov.uk/performance) and [U.K. Government Performance by Device Type](https://www.gov.uk/performance/site-activity/device-type)
 *   [U.K. Government Standards Hub](http://standards.data.gov.uk)
 *   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
 *   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases/index.html), [User Centred Design in Alpha and Beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
