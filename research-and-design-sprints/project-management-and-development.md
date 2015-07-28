@@ -119,6 +119,7 @@ Agile Project Management Methodologies
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
 *   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
+*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp) and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
 *   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
 
 Sprints
