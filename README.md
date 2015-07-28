@@ -1236,6 +1236,10 @@ Project Management Associations
 *   [Association for Project Management](http://www.apm.org.uk)  
 *   [Project Management Institute](http://www.pmi.org) 
 
+Quality
+*   [ISO](http://www.iso.org/iso/home.html) 
+*   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
+
 Project Management Software
 *   [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
 *   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
@@ -1269,9 +1273,6 @@ Process Improvement
 *   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
 *   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
-
-Quality
-*   [ISO](http://www.iso.org/iso/home.html) 
 
 #### Popular Tools
 
