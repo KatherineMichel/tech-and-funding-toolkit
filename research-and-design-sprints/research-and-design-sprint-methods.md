@@ -439,9 +439,13 @@ More
 
 # Nielson Norman User Testing Documents
 
-*   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
+*   [Which UX Research Methods](http://www.nngroup.com/articles/which-ux-research-methods)
 *   [Interviewing Users](http://www.nngroup.com/articles/interviewing-users)
 *   [Why You Only Need to Test with Five Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users)
+*   [Task Scenarios Usability Testing](http://www.nngroup.com/articles/task-scenarios-usability-testing)
+*   [Remote Usability Tests](http://www.nngroup.com/articles/remote-usability-tests)
+*   [Mental Models (referenced in Card Sorting)](http://www.nngroup.com/articles/mental-models)
+*   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
 
 Appendix B: Sample Scripts and Forms 164
 
