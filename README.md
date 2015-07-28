@@ -778,6 +778,7 @@ U.K. Gov
 *   [U.K. Government Performance](https://www.gov.uk/performance) and [U.K. Government Performance by Device Type](https://www.gov.uk/performance/site-activity/device-type)
 *   [U.K. Government Standards Hub](http://standards.data.gov.uk)
 *   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
+*   [Governance Principles Blog Post](https://digitaltransformation.blog.gov.uk/2014/06/24/governance-principles) and [Governance Principles](https://www.gov.uk/service-manual/governance/governance-principles)
 *   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases/index.html), [User Centred Design in Alpha and Beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
 *   [Discovery](https://www.gov.uk/service-manual/phases/discovery.html) and [Governing the Discovery Phase](https://www.gov.uk/service-manual/governance/governing-the-discovery-phase.html)
 *   [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Ideal Alphas](https://www.gov.uk/service-manual/phases/ideal-alphas), and [Governing the Alpha Phase](https://www.gov.uk/service-manual/governance/governing-the-alpha-phase.html)
