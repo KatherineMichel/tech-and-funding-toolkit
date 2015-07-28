@@ -235,6 +235,10 @@ Agile Practices
 * [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
 * [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
 
+### 18F Agile Project Management
+* [Agile Principles and Practices](https://pages.18f.gov/agile)
+* [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
+
 ## Development
 
 ### Australian Government Digital Transformation Office Development
