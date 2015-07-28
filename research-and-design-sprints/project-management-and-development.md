@@ -121,6 +121,10 @@ Agile Project Management Methodologies
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
 *   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
 
+Sprints
+*   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
+*   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
+
 ### Agile Wikipedia
 
 * [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods)
