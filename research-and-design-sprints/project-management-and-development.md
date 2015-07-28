@@ -325,6 +325,8 @@ Websites
 * [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
 * [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
 * [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
+* [Design Patterns](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/index.html)
+* [Elements](https://www.gov.uk/service-manual/user-centred-design/resources/elements/index.html)
 
 ### Usability Gov Development
 
