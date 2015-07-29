@@ -207,6 +207,115 @@ Workshops and Interviews
 *   [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
 *   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
+
+## Service Design Tools 
+
+### Methods
+
+*   [Affinity Diagram](http://www.servicedesigntools.org/tools/23)
+
+*   [Character Profiles](http://www.servicedesigntools.org/tools/6)
+*   [Storyboard](http://www.servicedesigntools.org/tools/13)  
+*   [Use Cases](http://www.servicedesigntools.org/tools/19)  
+*   [Role Play](http://www.servicedesigntools.org/tools/42) 
+*   [Role Script](http://www.servicedesigntools.org/tools/44) 
+*   [Personas](http://www.servicedesigntools.org/tools/40)  
+*   [Actors Map](http://www.servicedesigntools.org/tools/36)
+*   [Motivation Matrix](http://www.servicedesigntools.org/tools/20)
+
+*   [Tomorrow Headlines](http://www.servicedesigntools.org/tools/14)
+*   [Poster](http://www.servicedesigntools.org/tools/29)
+
+*   [Cognitive Walkthrough](http://www.servicedesigntools.org/tools/11)
+*   [Constructive Interaction](http://www.servicedesigntools.org/tools/31)
+
+*   [Blueprint](http://www.servicedesigntools.org/tools/35)
+*   [Customer Journey Map](http://www.servicedesigntools.org/tools/8)  
+*   [Offering Map](http://www.servicedesigntools.org/tools/38)
+*   [Service Image](http://www.servicedesigntools.org/tools/121)
+*   [Touchpoints Matrix](http://www.servicedesigntools.org/tools/108) 
+
+*   [Evidencing](http://www.servicedesigntools.org/tools/43)
+
+*   [Storytelling](http://www.servicedesigntools.org/tools/9)
+
+*   [Mind Map](http://www.servicedesigntools.org/tools/15) 
+*   [System Map](http://www.servicedesigntools.org/tools/28) 
+
+*   [Design Games](http://www.servicedesigntools.org/tools/45)
+*   [Moodboard](http://www.servicedesigntools.org/tools/17)
+*   [Group Sketching](http://www.servicedesigntools.org/tools/34)
+*   [Lego Serious Play](http://www.servicedesigntools.org/tools/46)
+*   [Issue Card](http://www.servicedesigntools.org/tools/32)
+
+*   [Mock Up](http://www.servicedesigntools.org/tools/18)
+*   [Rough Prototyping](http://www.servicedesigntools.org/tools/30)
+*   [Experience Prototype](http://www.servicedesigntools.org/tools/21)
+*   [Service Prototype](http://www.servicedesigntools.org/tools/24)
+
+*   [Heuristic Evaluation](http://www.servicedesigntools.org/tools/16) 
+
+*   [Usability Testing](http://www.servicedesigntools.org/tools/10)
+*   [Wizard of Oz](http://www.servicedesigntools.org/tools/22)
+
+## Stanford Institute of Design 
+
+### Methods
+
+Interviews
+*   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
+*   [Interview for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-for-empathy.pdf) 
+
+Stoke, Brainstorming, Selection, Saturation, Group
+*   [Stoke](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/stoke.pdf)
+*   [Brainstorm Rules](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf)
+*   [Facilitate a Brainstorm](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/facilitate-a-brainstorm.pdf)
+*   [Selection](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/selection.pdf)
+*   [Saturate and Group](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/saturate-and-group.pdf)
+
+Prototyping
+*   [Prototype for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-for-empathy.pdf)
+*   [Prototype for Test](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-to-test.pdf)
+
+What, Why, How
+*   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdf) 
+*   [Why, How, Laddering](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/why-how-laddering.pdf)
+
+Miscellaneous
+*   [Extreme Users](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/extreme-users.pdf) 
+*   [Empathy Map](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
+*   [Point of View Madlib](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/point-of-view-madlib.pdf)
+*   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
+*   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
+
+## Thoughtbot
+
+### Methods
+
+   * [Business Model Canvas](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Business.md)
+   * [Competitive Analysis](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Competitive_Analysis.md)
+   * [Customer](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Customer.md)
+   * [Forces](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Forces.md)
+   * [Inspirational Info Source](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Inspiration_Info_Source.md)
+   * [Problem Statement](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/problem-statement.md)
+   * [Problem Value Prop](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Problem_Value_Prop.md)
+   * [Critical Path](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/critical-path.md)
+   * [Mind Mapping](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/mind-mapping.md)
+   * [Crazy Eights](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/crazy-eights.md)
+   * [Storyboards](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/storyboards.md)
+   * [Silent Critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/silent-critique.md)
+   * [Group Critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/group-critique.md)
+   * [3-12-3](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/3-12-3.md)
+   * [Open Card Sorting](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/card-sorting.md)
+   * [Pitch Practice](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/pitch-practice.md)
+   * [Terms](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Terms.md)
+   * [Start an Assumptions Board](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/assumptions.md)
+   * [Risks](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Risks.md)
+   * [Start an Back-burner Board](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/back-burner.md)
+   * [Needs / Wants / Desires](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/needs-wants-desires.md)
+   * [Five Whys](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/five-whys.md)
+   * [Who / What / Where / When](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/who-what-when-where.md)
+
 ## U.K. Gov
 
 ### The Team
@@ -287,108 +396,6 @@ Wikipedia
 * [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
 * [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
 * [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-
-# Service Design Tools Methods
-
-*   [Affinity Diagram](http://www.servicedesigntools.org/tools/23)
-
-*   [Character Profiles](http://www.servicedesigntools.org/tools/6)
-*   [Storyboard](http://www.servicedesigntools.org/tools/13)  
-*   [Use Cases](http://www.servicedesigntools.org/tools/19)  
-*   [Role Play](http://www.servicedesigntools.org/tools/42) 
-*   [Role Script](http://www.servicedesigntools.org/tools/44) 
-*   [Personas](http://www.servicedesigntools.org/tools/40)  
-*   [Actors Map](http://www.servicedesigntools.org/tools/36)
-*   [Motivation Matrix](http://www.servicedesigntools.org/tools/20)
-
-*   [Tomorrow Headlines](http://www.servicedesigntools.org/tools/14)
-*   [Poster](http://www.servicedesigntools.org/tools/29)
-
-*   [Cognitive Walkthrough](http://www.servicedesigntools.org/tools/11)
-*   [Constructive Interaction](http://www.servicedesigntools.org/tools/31)
-
-*   [Blueprint](http://www.servicedesigntools.org/tools/35)
-*   [Customer Journey Map](http://www.servicedesigntools.org/tools/8)  
-*   [Offering Map](http://www.servicedesigntools.org/tools/38)
-*   [Service Image](http://www.servicedesigntools.org/tools/121)
-*   [Touchpoints Matrix](http://www.servicedesigntools.org/tools/108) 
-
-*   [Evidencing](http://www.servicedesigntools.org/tools/43)
-
-*   [Storytelling](http://www.servicedesigntools.org/tools/9)
-
-*   [Mind Map](http://www.servicedesigntools.org/tools/15) 
-*   [System Map](http://www.servicedesigntools.org/tools/28) 
-
-*   [Design Games](http://www.servicedesigntools.org/tools/45)
-*   [Moodboard](http://www.servicedesigntools.org/tools/17)
-*   [Group Sketching](http://www.servicedesigntools.org/tools/34)
-*   [Lego Serious Play](http://www.servicedesigntools.org/tools/46)
-*   [Issue Card](http://www.servicedesigntools.org/tools/32)
-
-*   [Mock Up](http://www.servicedesigntools.org/tools/18)
-*   [Rough Prototyping](http://www.servicedesigntools.org/tools/30)
-*   [Experience Prototype](http://www.servicedesigntools.org/tools/21)
-*   [Service Prototype](http://www.servicedesigntools.org/tools/24)
-
-*   [Heuristic Evaluation](http://www.servicedesigntools.org/tools/16) 
-
-*   [Usability Testing](http://www.servicedesigntools.org/tools/10)
-*   [Wizard of Oz](http://www.servicedesigntools.org/tools/22)
-
-# Stanford Institute of Design Methods
-
-Interviews
-*   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
-*   [Interview for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-for-empathy.pdf) 
-
-Stoke, Brainstorming, Selection, Saturation, Group
-*   [Stoke](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/stoke.pdf)
-*   [Brainstorm Rules](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf)
-*   [Facilitate a Brainstorm](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/facilitate-a-brainstorm.pdf)
-*   [Selection](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/selection.pdf)
-*   [Saturate and Group](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/saturate-and-group.pdf)
-
-Prototyping
-*   [Prototype for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-for-empathy.pdf)
-*   [Prototype for Test](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-to-test.pdf)
-
-What, Why, How
-*   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdf) 
-*   [Why, How, Laddering](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/why-how-laddering.pdf)
-
-Miscellaneous
-*   [Extreme Users](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/extreme-users.pdf) 
-*   [Empathy Map](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
-*   [Point of View Madlib](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/point-of-view-madlib.pdf)
-*   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
-*   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
-
-# Thoughtbot
-
-   * [Business Model Canvas](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Business.md)
-   * [Competitive Analysis](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Competitive_Analysis.md)
-   * [Customer](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Customer.md)
-   * [Forces](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Forces.md)
-   * [Inspirational Info Source](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Inspiration_Info_Source.md)
-   * [Problem Statement](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/problem-statement.md)
-   * [Problem Value Prop](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Problem_Value_Prop.md)
-   * [Critical Path](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/critical-path.md)
-   * [Mind Mapping](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/mind-mapping.md)
-   * [Crazy Eights](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/crazy-eights.md)
-   * [Storyboards](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/storyboards.md)
-   * [Silent Critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/silent-critique.md)
-   * [Group Critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/group-critique.md)
-   * [3-12-3](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/3-12-3.md)
-   * [Open Card Sorting](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/card-sorting.md)
-   * [Pitch Practice](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/pitch-practice.md)
-   * [Terms](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Terms.md)
-   * [Start an Assumptions Board](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/assumptions.md)
-   * [Risks](https://github.com/thoughtbot/design-sprint/blob/master/1-Understand/Materials/Risks.md)
-   * [Start an Back-burner Board](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/back-burner.md)
-   * [Needs / Wants / Desires](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/needs-wants-desires.md)
-   * [Five Whys](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/five-whys.md)
-   * [Who / What / Where / When](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/who-what-when-where.md)
 
 # U.K. Gov Methods
 
