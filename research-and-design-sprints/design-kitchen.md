@@ -1,5 +1,7 @@
 # Design Kitchen
 
+## 18F
+
 ## Australian Government Digital Transformation Office
 
 ### Team and Culture
@@ -579,8 +581,21 @@ More
 * [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
 * [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
 
+## Wikipedia
 
-# Research and Design Sprint Methods
+### Methods
+
+* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
+* [Six Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
+* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
+* [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
+* [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
+
+## Zurb
+
+* [Card Sorting](http://zurb.com/word/card-sorting)
+
+
 
 ## User Centered Design and Testing
 
@@ -600,18 +615,7 @@ Usability Gov
 Wikipedia
 *   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
 
-## Methods
-
-### Wikipedia
-
-* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
-* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
-* [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
-* [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-
-# 18F
-
-# Games
+# Gamestorming
 
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 *  [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and  [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
@@ -627,7 +631,3 @@ Wikipedia
 # Usability BOK
 
 * [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
-
-# Zurb
-
-* [Card Sorting](http://zurb.com/word/card-sorting)
