@@ -1034,7 +1034,7 @@ Pinterest
 
 Slideshare
 *   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
-*   [Slideshare Haiku Deck](https://www.slideshare.net/create)
+*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools) and [Slideshare Haiku Deck](https://www.slideshare.net/create)
 
 Snapchat
 *   [Snapchat Blog](http://blog.snapchat.com)
