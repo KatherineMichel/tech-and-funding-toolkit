@@ -30,6 +30,8 @@ Government and Services
 * [Assisted digital](https://www.dto.gov.au/design-guides/guide/assisted-digital)
 * [Integrating offline activity](https://www.dto.gov.au/design-guides/guide/integrating-offline-activity)
 
+## Gamestorming
+
 ## IDEO
 
 ### Phases
@@ -137,6 +139,12 @@ Prototyping and Piloting
 
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
+
+## Interaction Design Encyclopedia
+
+*   [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
+
+## Knowledge Sharing Toolkit
 
 ## Nielson Norman
 
@@ -434,6 +442,12 @@ User Research Quantitative
 * [Online Research Panels](https://www.gov.uk/service-manual/user-centred-design/user-research/online-research-panels.html)
 * [Online Omnibus Survey](https://www.gov.uk/service-manual/user-centred-design/user-research/online-omnibus-survey.html)
 
+## Usability BOK
+
+### Methods
+
+* [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
+
 ## Usability Gov 
 
 ### Possible Roles
@@ -614,20 +628,3 @@ Usability Gov
 
 Wikipedia
 *   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
-
-# Gamestorming
-
-*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
-*  [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and  [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
-
-# Interaction Design Encyclopedia
-
-*   [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
-
-# Knowledge Sharing Toolkit
-
-*   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
-
-# Usability BOK
-
-* [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
