@@ -1424,6 +1424,7 @@ General
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
+*   [Groupthink Wikipedia](https://en.wikipedia.org/wiki/Groupthink)
 *   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
 *   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
 *   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
