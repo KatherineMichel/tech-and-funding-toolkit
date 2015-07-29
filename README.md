@@ -1010,7 +1010,7 @@ Developer Conferences
 *   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
 *   [F8 Facebook Developer Conference](https://www.fbf8.com) 
 *   [Google IO](https://www.google.com/events/io)  
-*   [Google Summer of Code](hhttps://developers.google.com/open-source/soc/?csw=1) 
+*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
 *   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
 *   [Twitter Flock](http://flock.fabric.io) 
 
@@ -1274,7 +1274,7 @@ Agile Project Management Methodologies
 *   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
 *   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
 *   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
-*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
+*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
 *   [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
