@@ -1,5 +1,23 @@
 # Design Kitchen
 
+## User Centered Design and Testing
+
+Australian Government Digital Transformation Office User Centred Design
+* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
+
+U.K. Gov User Centered Design and User Needs
+* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
+* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
+
+Usability Gov
+* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
+* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
+* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
+* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
+
+Wikipedia
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
+
 ## 18F
 
 ## Australian Government Digital Transformation Office
@@ -600,31 +618,11 @@ More
 ### Methods
 
 * [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
-* [Six Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
+* [Six Thinking Hats Wikipedia](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
 * [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
-* [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_Case_Diagram)
 * [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 
 ## Zurb
 
 * [Card Sorting](http://zurb.com/word/card-sorting)
-
-
-
-## User Centered Design and Testing
-
-Australian Government Digital Transformation Office User Centred Design
-* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
-
-U.K. Gov User Centered Design and User Needs
-* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
-* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
-
-Usability Gov
-* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
-* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
-* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
-* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
-
-Wikipedia
-*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
