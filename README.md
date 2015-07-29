@@ -41,6 +41,7 @@ Table of Contents
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
 - [Google Ventures Design Sprint](#google-ventures-design-sprint)
 - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
+- [Google Design Sprint](#google-design-sprint)
 - [Google Design Approach](#google-design-approach)
 - [Pretotyping](#pretotyping)
 - [Prototyping](#prototyping)
