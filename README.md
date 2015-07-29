@@ -822,23 +822,8 @@ Games
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 *  [Innovation Games: Games](http://www.innovationgames.com)
 
-HubSpot
-*   [HubSpot Library](https://library.hubspot.com)
-
 Ideo
 *   [IDEO](http://www.ideo.com), [IDEO Org](http://www.ideo.org), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
-
-Interaction Design Encyclopedia
-*   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia)
-
-Kick Off Meetings
-* [Good Kick Off Meetings](http://goodkickoffmeetings.com)
-
-Knowledge Sharing Toolkit
-*   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
-
-LEGO® SERIOUS PLAY®
-*   [LEGO® SERIOUS PLAY® Method](http://www.lego.com/en-us/seriousplay/the-method)
 
 Nesta DIY
 *   [Nesta](http://www.nesta.org.uk), 
@@ -854,23 +839,20 @@ Nielson Norman
 *   [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 *   [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
 
-Service Design Tools
-
-*   [Tools](http://www.servicedesigntools.org/repository)
-*   [Glossary](http://www.servicedesigntools.org/glossary)
-
 Stanford Institute of Design
 *   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start), [Use Our Methods](http://dschool.stanford.edu/use-our-methods)
 *   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf),
 *   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
-Strategyzer
-* [Workshop Toolkit](http://www.stattys.com/products.html?acc=e4da3b7fbbce2345d7772b0674a318d5&bannerid=3)
-
-The Digital Tookit for the Arts
+Miscellaneous
+*   [Good Kick Off Meetings](http://goodkickoffmeetings.com)
+*   [HubSpot Library](https://library.hubspot.com)
+*   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia)
+*   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
+*   [LEGO® SERIOUS PLAY® Method](http://www.lego.com/en-us/seriousplay/the-method)
+*   [Service Design Tools](http://www.servicedesigntools.org/repository) and [Glossary](http://www.servicedesigntools.org/glossary)
+* [Strategyzer Workshop Toolkit](http://www.stattys.com/products.html?acc=e4da3b7fbbce2345d7772b0674a318d5&bannerid=3)
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
-
-Usability BOK
 * [Usability BOK](http://www.usabilitybok.org)
 
 #### Google Ventures Research Sprint
@@ -900,7 +882,6 @@ Thoughtbot Version
 *   [Google Forms: About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
-
 #### Google Design Sprint
 
 *   [Google Design Sprint](https://developers.google.com/design-sprint)  
