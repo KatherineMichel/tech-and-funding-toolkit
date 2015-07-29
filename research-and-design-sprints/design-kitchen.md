@@ -1,26 +1,11 @@
 # Design Kitchen
 
-## User Centered Design and Testing
-
-Australian Government Digital Transformation Office User Centred Design
-* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
-
-U.K. Gov User Centered Design and User Needs
-* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
-* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
-
-Usability Gov
-* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
-* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
-* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
-* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
-
-Wikipedia
-*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
-
 ## 18F
 
 ## Australian Government Digital Transformation Office
+
+### User Centred Design
+* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
 
 ### Team and Culture
 
@@ -386,6 +371,10 @@ Miscellaneous
 
 ## U.K. Gov
 
+### User Centered Design and User Needs
+* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
+* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
+
 ### The Team
 
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
@@ -467,6 +456,13 @@ User Research Quantitative
 * [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
 
 ## Usability Gov 
+
+### User-Centered Design
+
+* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
+* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
+* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
+* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
 
 ### Possible Roles
 
@@ -614,6 +610,12 @@ More
 * [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
 
 ## Wikipedia
+
+## User Centered Design and Testing
+
+### User Centered Design
+
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
 
 ### Methods
 
