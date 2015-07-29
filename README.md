@@ -899,6 +899,14 @@ Thoughtbot Version
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 
+#### Google Design Sprint
+
+*   [Google Design Sprint](https://developers.google.com/design-sprint)  
+*   [Google Design Sprint Personas](https://developers.google.com/design-sprint/downloads/DesignSprint-Personas.pdf)
+*   [Google Product Design Sprint](https://developers.google.com/design-sprint/product) and [PDF](https://developers.google.com/design-sprint/downloads/DesignSprintMethods.pdf)
+*   [Google New Form Factors Design Sprint](https://developers.google.com/design-sprint/new-form-factors) and [PDF](https://developers.google.com/design-sprint/downloads/DesignSprint-NewFormFactors.pdf), [Android Wear Flow](https://developers.google.com/design-sprint/downloads/DesignSprint-AndroidWearFlow.pdf) and [Presentation](https://docs.google.com/presentation/d/1rPGOnfRmIxXiJmGaC_2FYt_bBTR8Euu15U2kNU3auQk/edit#slide=id.p4)
+*   [Android Wear Creative Vision](https://developer.android.com/design/wear/creative-vision.html), and [Android Wear Principles](https://developer.android.com/design/wear/principles.html)
+
 #### Google Design Approach
 
 *   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
