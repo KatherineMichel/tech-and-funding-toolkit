@@ -1,14 +1,24 @@
 # Design Kitchen
 
+## Australian Government Digital Transformation Office
+
+### Team and Culture
+
+* [The team](https://www.dto.gov.au/design-guides/guide/team)
+* [Recruitment](https://www.dto.gov.au/design-guides/guide/recruitment)
+* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
+
 ## IDEO
 
-Phases
+### Phases
+
 * Process
 * Inspiration
 * Ideation
 * Implementation
 
-Possible Roles
+### Possible Roles
+
 * Design Team
 * Project Lead
 * Person you’re designing for
@@ -19,7 +29,8 @@ Possible Roles
 * Interviewer
 * Interviewees
 
-Possible Supplies
+### Possible Supplies
+
 General
 * A place to meet
 * Wall or board
@@ -51,108 +62,7 @@ Real World Testing
 * Staff
 * Permits
 
-## Australian Government Digital Transformation Office Team and Culture
-
-* [The team](https://www.dto.gov.au/design-guides/guide/team)
-* [Recruitment](https://www.dto.gov.au/design-guides/guide/recruitment)
-* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
-
-## U.K. Gov
-
-The team
-* [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
-* [The team](https://www.gov.uk/service-manual/the-team/index.html)
-* [Job Descriptions](https://www.gov.uk/service-manual/the-team/recruitment/job-descriptions.html)
-* [Recruitment Hub](https://www.gov.uk/service-manual/the-team/recruitment/hub.html)
-* [Working with specialist suppliers](https://www.gov.uk/service-manual/the-team/working-with-specialists.html)
-* [Your working environment](https://www.gov.uk/service-manual/the-team/working-environment.html)
-* [Technology leadership](https://www.gov.uk/service-manual/the-team/recruitment/scs-orgdesign.html)
-* [Accessibility skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
-
-Roles
-* [Chief Technology Officers Resources](https://www.gov.uk/service-manual/chief-technology-officers)
-* [Technical Architect Resources](https://www.gov.uk/service-manual/technical-architects)
-* [Service Managers Resources](https://www.gov.uk/service-manual/service-managers) and [Service Managers Skills](https://www.gov.uk/service-manual/the-team/service-manager.html)
-* [Delivery Manager](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
-* [Developers Resources](https://www.gov.uk/service-manual/developers) and [Developer Skills](https://www.gov.uk/service-manual/the-team/developer.html)
-* [Web Operations Resources](https://www.gov.uk/service-manual/web-ops) and [Web Operations skills](https://www.gov.uk/service-manual/the-team/web-operations.html)
-* [Designers Resources](https://www.gov.uk/service-manual/designers) and [Designer skills](https://www.gov.uk/service-manual/the-team/designer.html)
-* [Digital Leader](https://www.gov.uk/service-manual/the-team/digital-leader.html)
-* [User Researchers Resources](https://www.gov.uk/service-manual/user-researchers) and [User Researcher Skills](https://www.gov.uk/service-manual/the-team/user-researcher.html)
-* [Content Designers Resources](https://www.gov.uk/service-manual/content-designers) and [Content Designer Skills](https://www.gov.uk/service-manual/the-team/content-designer.html)
-* [Performance Analysts Resources](https://www.gov.uk/service-manual/performance-analysts)
-
-## Usability Gov 
-
-Possible Roles
-* Accessibility
-* Business Analyst
-* Change Management
-* Content Strategy
-* Enterprise Architecture
-* Information Architecture
-* Interaction Design
-* Marketing
-* Metrics Analysis
-* Project Management
-* Quality Assurance
-* Subject Matter Expertise
-* Technical Development
-* User Research
-* Usability Testing
-* User Research Design
-* Visual Design
-
-# Research and Design Sprint Methods
-
-## User Centered Design and Testing
-
-Australian Government Digital Transformation Office User Centred Design
-* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
-
-U.K. Gov User Centered Design and User Needs
-* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
-* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
-
-Usability Gov
-* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
-* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
-* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
-* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
-
-Wikipedia
-*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
-
-## Methods
-
-### Wikipedia
-
-* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
-* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
-* [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
-* [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-
-# Australian Government Digital Transformation Office Methods
-
-User Research
-* [User Research (chart)](ttps://www.dto.gov.au/design-guides/guide/user-research)
-
-Testing
-* [Testing Services](https://www.dto.gov.au/design-guides/guide/testing-services)
-* [Guerrilla Testing services](https://www.dto.gov.au/design-guides/guide/testing-services#guerrilla)
-* [Usability Testing](https://www.dto.gov.au/design-guides/guide/usability-testing)
-* [Testing Web Accessibility](https://www.dto.gov.au/design-guides/guide/testing-web-accessibility)
-
-Government and Services
-* [Government as a platform](https://www.dto.gov.au/design-guides/guide/government-platform)
-* [Common government solutions](https://www.dto.gov.au/design-guides/guide/common-government-solutions)
-* [Building digital services](https://www.dto.gov.au/design-guides/guide/building-digital-services)
-* [Building secure services](https://www.dto.gov.au/design-guides/guide/building-secure-services)
-* [Designing inclusive services](https://www.dto.gov.au/design-guides/guide/designing-inclusive-services)
-* [Assisted digital](https://www.dto.gov.au/design-guides/guide/assisted-digital)
-* [Integrating offline activity](https://www.dto.gov.au/design-guides/guide/integrating-offline-activity)
-
-# IDEO
+### IDEO Methods
 
 Audience
 *   [Define Your Audience](http://www.designkit.org/methods/11)
@@ -205,6 +115,107 @@ Prototyping and Piloting
 
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
+
+## U.K. Gov
+
+### The Team
+
+* [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
+* [The team](https://www.gov.uk/service-manual/the-team/index.html)
+* [Job Descriptions](https://www.gov.uk/service-manual/the-team/recruitment/job-descriptions.html)
+* [Recruitment Hub](https://www.gov.uk/service-manual/the-team/recruitment/hub.html)
+* [Working with specialist suppliers](https://www.gov.uk/service-manual/the-team/working-with-specialists.html)
+* [Your working environment](https://www.gov.uk/service-manual/the-team/working-environment.html)
+* [Technology leadership](https://www.gov.uk/service-manual/the-team/recruitment/scs-orgdesign.html)
+* [Accessibility skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
+
+### Roles
+
+* [Chief Technology Officers Resources](https://www.gov.uk/service-manual/chief-technology-officers)
+* [Technical Architect Resources](https://www.gov.uk/service-manual/technical-architects)
+* [Service Managers Resources](https://www.gov.uk/service-manual/service-managers) and [Service Managers Skills](https://www.gov.uk/service-manual/the-team/service-manager.html)
+* [Delivery Manager](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
+* [Developers Resources](https://www.gov.uk/service-manual/developers) and [Developer Skills](https://www.gov.uk/service-manual/the-team/developer.html)
+* [Web Operations Resources](https://www.gov.uk/service-manual/web-ops) and [Web Operations skills](https://www.gov.uk/service-manual/the-team/web-operations.html)
+* [Designers Resources](https://www.gov.uk/service-manual/designers) and [Designer skills](https://www.gov.uk/service-manual/the-team/designer.html)
+* [Digital Leader](https://www.gov.uk/service-manual/the-team/digital-leader.html)
+* [User Researchers Resources](https://www.gov.uk/service-manual/user-researchers) and [User Researcher Skills](https://www.gov.uk/service-manual/the-team/user-researcher.html)
+* [Content Designers Resources](https://www.gov.uk/service-manual/content-designers) and [Content Designer Skills](https://www.gov.uk/service-manual/the-team/content-designer.html)
+* [Performance Analysts Resources](https://www.gov.uk/service-manual/performance-analysts)
+
+## Usability Gov 
+
+### Possible Roles
+
+* Accessibility
+* Business Analyst
+* Change Management
+* Content Strategy
+* Enterprise Architecture
+* Information Architecture
+* Interaction Design
+* Marketing
+* Metrics Analysis
+* Project Management
+* Quality Assurance
+* Subject Matter Expertise
+* Technical Development
+* User Research
+* Usability Testing
+* User Research Design
+* Visual Design
+
+
+
+
+# Research and Design Sprint Methods
+
+## User Centered Design and Testing
+
+Australian Government Digital Transformation Office User Centred Design
+* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
+
+U.K. Gov User Centered Design and User Needs
+* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
+* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
+
+Usability Gov
+* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
+* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
+* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
+* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
+
+Wikipedia
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
+
+## Methods
+
+### Wikipedia
+
+* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
+* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
+* [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
+* [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
+
+# Australian Government Digital Transformation Office Methods
+
+User Research
+* [User Research (chart)](ttps://www.dto.gov.au/design-guides/guide/user-research)
+
+Testing
+* [Testing Services](https://www.dto.gov.au/design-guides/guide/testing-services)
+* [Guerrilla Testing services](https://www.dto.gov.au/design-guides/guide/testing-services#guerrilla)
+* [Usability Testing](https://www.dto.gov.au/design-guides/guide/usability-testing)
+* [Testing Web Accessibility](https://www.dto.gov.au/design-guides/guide/testing-web-accessibility)
+
+Government and Services
+* [Government as a platform](https://www.dto.gov.au/design-guides/guide/government-platform)
+* [Common government solutions](https://www.dto.gov.au/design-guides/guide/common-government-solutions)
+* [Building digital services](https://www.dto.gov.au/design-guides/guide/building-digital-services)
+* [Building secure services](https://www.dto.gov.au/design-guides/guide/building-secure-services)
+* [Designing inclusive services](https://www.dto.gov.au/design-guides/guide/designing-inclusive-services)
+* [Assisted digital](https://www.dto.gov.au/design-guides/guide/assisted-digital)
+* [Integrating offline activity](https://www.dto.gov.au/design-guides/guide/integrating-offline-activity)
 
 # Nesta DIY, Nesta Methods
 
