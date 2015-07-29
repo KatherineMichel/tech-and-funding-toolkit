@@ -438,6 +438,7 @@ Database Info and Benchmarking
 *   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
 *   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking) and [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 *   [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+*   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
 
 App Stores
 *   [Apple Store](http://store.apple.com/us)  
