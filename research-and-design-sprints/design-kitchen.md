@@ -207,7 +207,6 @@ Workshops and Interviews
 *   [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
 *   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
-
 ## Service Design Tools 
 
 ### Methods
@@ -343,61 +342,7 @@ Miscellaneous
 * [Content Designers Resources](https://www.gov.uk/service-manual/content-designers) and [Content Designer Skills](https://www.gov.uk/service-manual/the-team/content-designer.html)
 * [Performance Analysts Resources](https://www.gov.uk/service-manual/performance-analysts)
 
-## Usability Gov 
-
-### Possible Roles
-
-* Accessibility
-* Business Analyst
-* Change Management
-* Content Strategy
-* Enterprise Architecture
-* Information Architecture
-* Interaction Design
-* Marketing
-* Metrics Analysis
-* Project Management
-* Quality Assurance
-* Subject Matter Expertise
-* Technical Development
-* User Research
-* Usability Testing
-* User Research Design
-* Visual Design
-
-
-
-
-# Research and Design Sprint Methods
-
-## User Centered Design and Testing
-
-Australian Government Digital Transformation Office User Centred Design
-* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
-
-U.K. Gov User Centered Design and User Needs
-* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
-* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
-
-Usability Gov
-* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
-* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
-* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
-* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
-
-Wikipedia
-*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
-
-## Methods
-
-### Wikipedia
-
-* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
-* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
-* [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
-* [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-
-# U.K. Gov Methods
+### Methods
 
 Development
 * [Governance](https://www.gov.uk/service-manual/governance/index.html)
@@ -446,7 +391,29 @@ User Research Quantitative
 * [Online Research Panels](https://www.gov.uk/service-manual/user-centred-design/user-research/online-research-panels.html)
 * [Online Omnibus Survey](https://www.gov.uk/service-manual/user-centred-design/user-research/online-omnibus-survey.html)
 
-# Usability Gov User Testing Documents
+## Usability Gov 
+
+### Possible Roles
+
+* Accessibility
+* Business Analyst
+* Change Management
+* Content Strategy
+* Enterprise Architecture
+* Information Architecture
+* Interaction Design
+* Marketing
+* Metrics Analysis
+* Project Management
+* Quality Assurance
+* Subject Matter Expertise
+* Technical Development
+* User Research
+* Usability Testing
+* User Research Design
+* Visual Design
+
+### User Testing
 
 Accessibility, Usability Experience, Research, Evaluation, and Testing
 * [Accessibility](http://www.usability.gov/what-and-why/accessibility.html)
@@ -463,7 +430,7 @@ Accessibility, Usability Experience, Research, Evaluation, and Testing
 * [No Fail Accessibility Testing](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html)
 * [HHS Usability Lab](http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html)
 
-## Planning
+### Planning Document Templates
 
 Overview Documents
 * [UX Study Overview Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/ux-study-overview-template.html)
@@ -495,7 +462,7 @@ Persona Development
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
-## Initiation
+### Initiation Document Templates
 
 Test Screener
 * [Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
@@ -520,7 +487,7 @@ Receipts (Adult and Minor)
 * [Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
 * [Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
 
-## Reports
+### Report Templates
 
 Usability Test Results Reports
 * [Report Template: Usability Test DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html)
@@ -539,7 +506,7 @@ Metrics Report
 Card Sort Results Report
 * [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
 
-## Methods
+### Methods
 
 Focus Groups, Interviews, Surveys
 * [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
@@ -570,7 +537,37 @@ User Engagement
 More
 * [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
 * [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
- 
+
+
+# Research and Design Sprint Methods
+
+## User Centered Design and Testing
+
+Australian Government Digital Transformation Office User Centred Design
+* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
+
+U.K. Gov User Centered Design and User Needs
+* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
+* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
+
+Usability Gov
+* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
+* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
+* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
+* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
+
+Wikipedia
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
+
+## Methods
+
+### Wikipedia
+
+* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
+* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
+* [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram)
+* [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
+
 # 18F
 
 # Games
