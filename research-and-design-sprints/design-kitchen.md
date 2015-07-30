@@ -467,7 +467,10 @@ User Research Quantitative
 
 ### Methods
 
-* [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
+* [Stakeholder Meeting](http://www.usabilitybok.org/stakeholder-meeting)
+* [Storyboard](http://www.usabilitybok.org/storyboard)
+
+* [User Research Methods](http://www.usabilitybok.org/user-research-methods)
 
 * Case Study
 * Checklist
@@ -483,15 +486,22 @@ User Research Quantitative
 * Pluralistic Usability Walkthrough
 * Critical Incident Technique (CIT)
 
-* Ethnography
-* Field Study
-* Context of Use Analysis
-* Contextual Inquiry
 * Culture
 
-* Cultural Probe
-* Diary Study
-* Photo Study
+[Context of Use Methods](http://www.usabilitybok.org/context-of-use-methods)
+* [Context of Use Analysis](http://www.usabilitybok.org/context-of-use-analysis)
+* [Contextual Inquiry](http://www.usabilitybok.org/contextual-inquiry)
+* [Longitudinal Study](http://www.usabilitybok.org/longitudinal-study)
+
+[Ethnographic Methods](http://www.usabilitybok.org/ethnographic-methods)
+* [Ethnography](http://www.usabilitybok.org/ethnography)
+* [Cultural Probe](http://www.usabilitybok.org/cultural-probe)
+* [Participant Observation](http://www.usabilitybok.org/participant-observation)
+
+[Field Study Methods](http://www.usabilitybok.org/field-study-methods)
+* [Field Study](http://www.usabilitybok.org/field-study)
+* [Diary Study](http://www.usabilitybok.org/diary-study)
+* [Photo Study](http://www.usabilitybok.org/photo-study)
 
 * Participatory Design
 * Facilitator
@@ -559,7 +569,6 @@ User Research Quantitative
 * Fitts' Law
 * Gestalt Principles
 * Industrial Design
-* Longitudinal Study
 
 * Testing (Usability)
 * Think-aloud Protocol
