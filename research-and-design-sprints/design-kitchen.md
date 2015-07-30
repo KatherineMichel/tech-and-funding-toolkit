@@ -10,12 +10,6 @@
 ### User Centred Design
 * [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
 
-### Team and Culture
-
-* [The team](https://www.dto.gov.au/design-guides/guide/team)
-* [Recruitment](https://www.dto.gov.au/design-guides/guide/recruitment)
-* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
-
 ### Methods
 
 User Research
