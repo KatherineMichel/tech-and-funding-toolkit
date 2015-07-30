@@ -523,15 +523,8 @@ User Research Quantitative
 * Facilitator
 * Moderator
 
-* Brainstorming
-* Metaphor Brainstorming
-* Braindrawing
-* Brainwriting
-
 * Taxonomy
 * Information Architecture (IA)
-* Free Listing
-* Card Sorting
 * Site Map
 
 [Task Analysis and Modeling Methods](http://www.usabilitybok.org/task-analysis-modeling-methods)
@@ -543,12 +536,27 @@ User Research Quantitative
 * [GOMS](http://www.usabilitybok.org/goms)
 * [KLM-GOMS](http://www.usabilitybok.org/klm-goms)
 
+[Design Methods](http://www.usabilitybok.org/design-methods)
+
+[Generating Ideas](http://www.usabilitybok.org/generating-ideas)
+* [Brainstorming](http://www.usabilitybok.org/brainstorming)
+* [Metaphor Brainstorming](http://www.usabilitybok.org/metaphor-brainstorming)
+* [Braindrawing](http://www.usabilitybok.org/braindrawing)
+* [Brainwriting](http://www.usabilitybok.org/brainwriting)
+
+* [Free Listing](http://www.usabilitybok.org/free-listing)
+* [Card Sorting](http://www.usabilitybok.org/card-sorting)
+
+* [Function Allocation](http://www.usabilitybok.org/function-allocation)
+* [Physical Ergonomics](http://www.usabilitybok.org/physical-ergonomics)
+
+[Prototyping Methods](http://www.usabilitybok.org/prototyping-methods)
 * Storyboard
 * Prototype
 * Rapid Prototyping
 * Paper Prototyping (Synonyms: Low-fidelity prototype)
 * Wireframe
-* Parallel Design
+* [Parallel Design](http://www.usabilitybok.org/parallel-design)
 
 * Likert Scale
 * Rating Scales
@@ -580,7 +588,6 @@ User Research Quantitative
 * User-Centered Design (UCD)
 * Wayfinding
 * Conspicuity
-* Function Allocation
 * Affordance
 * Fitts' Law
 * Gestalt Principles
