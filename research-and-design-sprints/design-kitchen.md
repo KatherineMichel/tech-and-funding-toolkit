@@ -469,14 +469,9 @@ User Research Quantitative
 
 * [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
 
-* Affinity Diagramming (Synonyms: Mind mapping)
 * Affordance
-* Claims Analysis
-* Conspicuity
-* Context of Use Analysis
 * Critical Incident Technique (CIT)
 * Fitts' Law
-* Formative Evaluation
 * Gestalt Principles
 * Industrial Design
 * Longitudinal Study
@@ -484,6 +479,7 @@ User Research Quantitative
 * Case Study
 * Checklist
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
+* Affinity Diagramming (Synonyms: Mind mapping)
 
 * Competitor Analysis
 
@@ -495,6 +491,7 @@ User Research Quantitative
 
 * Ethnography
 * Field Study
+* Context of Use Analysis
 * Contextual Inquiry
 * Culture
 
@@ -549,19 +546,22 @@ User Research Quantitative
 * Internationalization
 * Localization
 
+* Interface
 * Human Factors
 * Function Allocation
 * Human-Computer Interaction (HCI)
 * Interaction Design
-* Interface
-
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
 * Usability
 * Usability Engineering
 * Usability Evaluation
+* Formative Evaluation
 * User Experience (UE)
 * User-Centered Design (UCD)
 * Wayfinding
+* Claims Analysis
+* Conspicuity
+
 * Testing (Usability)
 * Think-aloud Protocol
 * Wizard of Oz
