@@ -469,13 +469,6 @@ User Research Quantitative
 
 * [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
 
-* Affordance
-* Critical Incident Technique (CIT)
-* Fitts' Law
-* Gestalt Principles
-* Industrial Design
-* Longitudinal Study
-
 * Case Study
 * Checklist
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
@@ -488,6 +481,7 @@ User Research Quantitative
 * Heuristic Walkthrough
 * Cognitive Walkthrough
 * Pluralistic Usability Walkthrough
+* Critical Incident Technique (CIT)
 
 * Ethnography
 * Field Study
@@ -548,7 +542,6 @@ User Research Quantitative
 
 * Interface
 * Human Factors
-* Function Allocation
 * Human-Computer Interaction (HCI)
 * Interaction Design
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
@@ -561,6 +554,12 @@ User Research Quantitative
 * Wayfinding
 * Claims Analysis
 * Conspicuity
+* Function Allocation
+* Affordance
+* Fitts' Law
+* Gestalt Principles
+* Industrial Design
+* Longitudinal Study
 
 * Testing (Usability)
 * Think-aloud Protocol
