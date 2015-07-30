@@ -484,7 +484,11 @@ User Research Quantitative
 * [Pluralistic Usability Walkthrough](http://www.usabilitybok.org/pluralistic-walkthrough)
 * [Metaphors of Human Thinking](http://www.usabilitybok.org/metaphors-of-human-thinking-mot)
 * [Persona Based Inspection](http://www.usabilitybok.org/persona-based-inspection)
-* Critical Incident Technique (CIT)
+
+[Evaluating Usage of an Existing System](http://www.usabilitybok.org/evaluate-usage-of-existing-system)
+* [Critical Incident Technique (CIT)](http://www.usabilitybok.org/critical-incident-technique)
+* [User Edit](http://www.usabilitybok.org/user-edit)
+* [Web Analytics](http://www.usabilitybok.org/web-analytics)
 
 * Culture
 
@@ -514,6 +518,11 @@ User Research Quantitative
 * [Cultural Probe](http://www.usabilitybok.org/cultural-probe)
 * [Participant Observation](http://www.usabilitybok.org/participant-observation)
 
+[Questionnaire and Survey Methods](http://www.usabilitybok.org/questionnaire-survey-methods)
+* [Rating Scales](http://www.usabilitybok.org/rating-scales)
+* [Satisfaction Questionnaire](http://www.usabilitybok.org/satisfaction-questionnaire)
+* [System Usability Scale (SUS)](http://www.usabilitybok.org/sus)
+
 [Field Study Methods](http://www.usabilitybok.org/field-study-methods)
 * [Field Study](http://www.usabilitybok.org/field-study)
 * [Diary Study](http://www.usabilitybok.org/diary-study)
@@ -538,6 +547,8 @@ User Research Quantitative
 [Cognitive Models](http://www.usabilitybok.org/cognitive-models)
 * [GOMS](http://www.usabilitybok.org/goms)
 * [KLM-GOMS](http://www.usabilitybok.org/klm-goms)
+
+[Design](http://www.usabilitybok.org/design)
 
 [Design Methods](http://www.usabilitybok.org/design-methods)
 
@@ -597,9 +608,14 @@ User Research Quantitative
 * Gestalt Principles
 * Industrial Design
 
-* Testing (Usability)
-* Think-aloud Protocol
-* Wizard of Oz
+[Usability Testing Methods](http://www.usabilitybok.org/usability-testing-methods)
+* [Testing (Usability)](http://www.usabilitybok.org/usability-testing)
+* [Benchmark Testing](http://www.usabilitybok.org/benchmark-testing)
+* [Competitive Usability Testing](http://www.usabilitybok.org/competitive-usability-testing)
+* [Summative Usability Testing](http://www.usabilitybok.org/summative-usability-testing)
+* [Remote Evaluation](http://www.usabilitybok.org/remote-evaluation)
+* [Think-aloud Protocol](http://www.usabilitybok.org/think-aloud-testing)
+* [Wizard of Oz](http://www.usabilitybok.org/wizard-of-oz)
 
 * Iterative Design
 
