@@ -469,12 +469,10 @@ User Research Quantitative
 
 * [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
 
-* 7 plus or minus 2
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
 * Affinity Diagramming (Synonyms: Mind mapping)
 * Affordance
 * Checklist
-* Chunking
 * Claims Analysis
 * Conspicuity
 * Context of Use Analysis
@@ -490,22 +488,16 @@ User Research Quantitative
 * Function Allocation
 * Gestalt Principles
 * Graceful Degradation
-* Hick's law (Hick-Hyman law)
 * Human Factors
 * Human-Computer Interaction (HCI)
 * Industrial Design
-* Information Architecture (IA)
 * Interaction Design
 * Interface
 * Iterative Design
 * KLM-GOMS
 * Longitudinal Study
-* Parallel Design
-* Participatory Design
-* Site Map
 * Storyboard
 * Task
-* Taxonomy
 * Testing (Usability)
 * Think-aloud Protocol
 * Usability
@@ -532,11 +524,11 @@ User Research Quantitative
 * Diary Study
 * Photo Study
 
-* Phone Interview
-
+* Participatory Design
 * Facilitator
 * Moderator
 * Focus Group
+* Phone Interview
 
 * Case Study
 * Scenario
@@ -547,15 +539,23 @@ User Research Quantitative
 * Braindrawing
 * Brainwriting
 
+* Taxonomy
+* Information Architecture (IA)
 * Card Sorting
-* 
+* Site Map
+
 * Prototype
 * Rapid Prototyping
 * Paper Prototyping (Synonyms: Low-fidelity prototype)
 * Wireframe
+* Parallel Design
 
 * Likert Scale
 * Rating Scales
+
+* 7 plus or minus 2
+* Chunking
+* Hick's law (Hick-Hyman law)
 
 * Learnability
 * Readability (Synonyms: Plain language)
