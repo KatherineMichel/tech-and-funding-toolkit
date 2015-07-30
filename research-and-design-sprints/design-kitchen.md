@@ -470,7 +470,7 @@ User Research Quantitative
 * [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
 
 * 7 plus or minus 2
-* Accessibility (Synonyms: ARIA, Section 508, WAI WCAG
+* Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
 * Affinity Diagramming (Synonyms: Mind mapping)
 * Affordance
 * Braindrawing
@@ -497,7 +497,7 @@ User Research Quantitative
 * Ethnography
 * Facilitator
 * Field Study
-* Fishbone Diagram
+* Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 * Fitts' Law
 * Focus Group
 * Formative Evaluation
@@ -524,7 +524,7 @@ User Research Quantitative
 * Longitudinal Study
 * Metaphor Brainstorming
 * Moderator
-* Paper Prototyping
+* Paper Prototyping (Synonyms: Low-fidelity prototype)
 * Parallel Design
 * Participatory Design
 * Persona
@@ -534,7 +534,7 @@ User Research Quantitative
 * Prototype
 * Rapid Prototyping
 * Rating Scales
-* Readability
+* Readability (Synonyms: Plain language)
 * Scenario
 * Site Map
 * Storyboard
