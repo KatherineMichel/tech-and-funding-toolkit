@@ -477,34 +477,13 @@ User Research Quantitative
 * Conspicuity
 * Context of Use Analysis
 * Critical Incident Technique (CIT)
-* Easy to Learn
-* Effective
-* Efficiency
-* Engaging
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 * Fitts' Law
 * Formative Evaluation
-* Free Listing
 * Function Allocation
 * Gestalt Principles
-* Graceful Degradation
-* Human Factors
-* Human-Computer Interaction (HCI)
 * Industrial Design
-* Interaction Design
-* Interface
-* Iterative Design
-* KLM-GOMS
 * Longitudinal Study
-* Storyboard
-* Task
-* Testing (Usability)
-* Think-aloud Protocol
-* Usability
-* Usability Engineering
-* Usability Evaluation
-* User Experience (UE)
-* User-Centered Design (UCD)
 * Wayfinding
 
 * Competitor Analysis
@@ -541,9 +520,14 @@ User Research Quantitative
 
 * Taxonomy
 * Information Architecture (IA)
+* Free Listing
 * Card Sorting
 * Site Map
 
+* Task
+* KLM-GOMS
+
+* Storyboard
 * Prototype
 * Rapid Prototyping
 * Paper Prototyping (Synonyms: Low-fidelity prototype)
@@ -557,13 +541,33 @@ User Research Quantitative
 * Chunking
 * Hick's law (Hick-Hyman law)
 
+* Effective
+* Efficiency
+* Engaging
+* Easy to Learn
 * Learnability
 * Readability (Synonyms: Plain language)
 
 * Internationalization
 * Localization
 
+* Human Factors
+* Human-Computer Interaction (HCI)
+* Interaction Design
+* Interface
+
+* Usability
+* Usability Engineering
+* Usability Evaluation
+* User Experience (UE)
+* User-Centered Design (UCD)
+* Testing (Usability)
+* Think-aloud Protocol
 * Wizard of Oz
+
+* Iterative Design
+
+* Graceful Degradation
 
 ## Usability Gov 
 
