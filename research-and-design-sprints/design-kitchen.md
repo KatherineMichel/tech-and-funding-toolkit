@@ -451,31 +451,6 @@ User Research Quantitative
 
 ### Methods
 
-* [Stakeholder Meeting](http://www.usabilitybok.org/stakeholder-meeting)
-* [Storyboard](http://www.usabilitybok.org/storyboard)
-
-* [User Research Methods](http://www.usabilitybok.org/user-research-methods)
-
-* Case Study
-* Checklist
-* Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
-
-[Usability Inspection Methods](http://www.usabilitybok.org/usability-inspection-methods)
-* Heuristic
-* [Heuristic Evaluation](http://www.usabilitybok.org/heuristic-evaluation)
-* [Heuristic Walkthrough](http://www.usabilitybok.org/heuristic-walkthrough)
-* [Cognitive Walkthrough](http://www.usabilitybok.org/cognitive-walkthrough)
-* [Pluralistic Usability Walkthrough](http://www.usabilitybok.org/pluralistic-walkthrough)
-* [Metaphors of Human Thinking](http://www.usabilitybok.org/metaphors-of-human-thinking-mot)
-* [Persona Based Inspection](http://www.usabilitybok.org/persona-based-inspection)
-
-[Evaluating Usage of an Existing System](http://www.usabilitybok.org/evaluate-usage-of-existing-system)
-* [Critical Incident Technique (CIT)](http://www.usabilitybok.org/critical-incident-technique)
-* [User Edit](http://www.usabilitybok.org/user-edit)
-* [Web Analytics](http://www.usabilitybok.org/web-analytics)
-
-* Culture
-
 [Planning](http://www.usabilitybok.org/planning)
 * [Checklist](http://www.usabilitybok.org/checklist)
 * [Stakeholder Meeting](http://www.usabilitybok.org/stakeholder-meeting)
@@ -491,6 +466,30 @@ User Research Quantitative
 * [Affinity Diagramming (Synonyms: Mind mapping)](http://www.usabilitybok.org/affinity-diagram)
 * [Claims Analysis](http://www.usabilitybok.org/claims-analysis)
 * [Quality Function Deployment](http://www.usabilitybok.org/quality-function-deployment-qfd)
+
+* [User Research Methods](http://www.usabilitybok.org/user-research-methods)
+
+[Usability Inspection Methods](http://www.usabilitybok.org/usability-inspection-methods)
+* [Heuristic Evaluation](http://www.usabilitybok.org/heuristic-evaluation)
+* [Heuristic Walkthrough](http://www.usabilitybok.org/heuristic-walkthrough)
+* [Cognitive Walkthrough](http://www.usabilitybok.org/cognitive-walkthrough)
+* [Pluralistic Usability Walkthrough](http://www.usabilitybok.org/pluralistic-walkthrough)
+* [Metaphors of Human Thinking](http://www.usabilitybok.org/metaphors-of-human-thinking-mot)
+* [Persona Based Inspection](http://www.usabilitybok.org/persona-based-inspection)
+
+[Task Analysis and Modeling Methods](http://www.usabilitybok.org/task-analysis-modeling-methods)
+* [Task Analysis](http://www.usabilitybok.org/task-analysis)
+* [Cognitive Task Analysis](http://www.usabilitybok.org/cognitive-task-analysis)
+* [Hierarchical Task Analysis](http://www.usabilitybok.org/hierarchical-task-analysis)
+
+[Cognitive Models](http://www.usabilitybok.org/cognitive-models)
+* [GOMS](http://www.usabilitybok.org/goms)
+* [KLM-GOMS](http://www.usabilitybok.org/klm-goms)
+
+[Evaluating Usage of an Existing System](http://www.usabilitybok.org/evaluate-usage-of-existing-system)
+* [Critical Incident Technique (CIT)](http://www.usabilitybok.org/critical-incident-technique)
+* [User Edit](http://www.usabilitybok.org/user-edit)
+* [Web Analytics](http://www.usabilitybok.org/web-analytics)
 
 [Context of Use Methods](http://www.usabilitybok.org/context-of-use-methods)
 * [Context of Use Analysis](http://www.usabilitybok.org/context-of-use-analysis)
@@ -516,25 +515,6 @@ User Research Quantitative
 * [Focus Group](http://www.usabilitybok.org/focus-group)
 
 * [Participatory Design](http://www.usabilitybok.org/participatory-design)
-* Facilitator
-* Moderator
-
-* Taxonomy
-* Information Architecture (IA)
-* Site Map
-
-[Task Analysis and Modeling Methods](http://www.usabilitybok.org/task-analysis-modeling-methods)
-* [Task Analysis](http://www.usabilitybok.org/task-analysis)
-* [Cognitive Task Analysis](http://www.usabilitybok.org/cognitive-task-analysis)
-* [Hierarchical Task Analysis](http://www.usabilitybok.org/hierarchical-task-analysis)
-
-[Cognitive Models](http://www.usabilitybok.org/cognitive-models)
-* [GOMS](http://www.usabilitybok.org/goms)
-* [KLM-GOMS](http://www.usabilitybok.org/klm-goms)
-
-[Design](http://www.usabilitybok.org/design)
-
-[Design Methods](http://www.usabilitybok.org/design-methods)
 
 [Generating Ideas](http://www.usabilitybok.org/generating-ideas)
 * [Brainstorming](http://www.usabilitybok.org/brainstorming)
@@ -550,11 +530,29 @@ User Research Quantitative
 
 [Prototyping Methods](http://www.usabilitybok.org/prototyping-methods)
 * [Storyboard](http://www.usabilitybok.org/storyboard)
-* Prototype
 * [Rapid Prototyping](http://www.usabilitybok.org/rapid-prototyping)
 * [Paper Prototyping (Synonyms: Low-fidelity prototype)](http://www.usabilitybok.org/paper-prototyping)
 * [Wireframe](http://www.usabilitybok.org/wireframe)
 * [Parallel Design](http://www.usabilitybok.org/parallel-design)
+
+[Design](http://www.usabilitybok.org/design)
+
+[Design Methods](http://www.usabilitybok.org/design-methods)
+
+* Heuristic
+
+* Facilitator
+* Moderator
+
+* Taxonomy
+* Information Architecture (IA)
+* Site Map
+
+* Case Study
+* Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
+* Culture
+
+* Prototype
 
 * Likert Scale
 * Rating Scales
