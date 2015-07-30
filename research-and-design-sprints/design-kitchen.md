@@ -158,7 +158,8 @@ Mindsets
 
 ## Interaction Design Encyclopedia
 
-*   [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
+*   [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html)
+*   [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
 
 ## Knowledge Sharing Toolkit
 
@@ -467,6 +468,88 @@ User Research Quantitative
 ### Methods
 
 * [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
+
+* 7 plus or minus 2
+* Accessibility (Synonyms: ARIA, Section 508, WAI WCAG
+* Affinity Diagramming (Synonyms: Mind mapping)
+* Affordance
+* Braindrawing
+* Brainstorming
+* Brainwriting
+* Card Sorting
+* Case Study
+* Checklist
+* Chunking
+* Claims Analysis
+* Cognitive Walkthrough
+* Competitor Analysis
+* Conspicuity
+* Context of Use Analysis
+* Contextual Inquiry
+* Critical Incident Technique (CIT)
+* Cultural Probe
+* Culture
+* Diary Study
+* Easy to Learn
+* Effective
+* Efficiency
+* Engaging
+* Ethnography
+* Facilitator
+* Field Study
+* Fishbone Diagram
+* Fitts' Law
+* Focus Group
+* Formative Evaluation
+* Free Listing
+* Function Allocation
+* Gestalt Principles
+* Graceful Degradation
+* Heuristic
+* Heuristic Evaluation
+* Heuristic Walkthrough
+* Hick's law (Hick-Hyman law)
+* Human Factors
+* Human-Computer Interaction (HCI)
+* Industrial Design
+* Information Architecture (IA)
+* Interaction Design
+* Interface
+* Internationalization
+* Iterative Design
+* KLM-GOMS
+* Learnability
+* Likert Scale
+* Localization
+* Longitudinal Study
+* Metaphor Brainstorming
+* Moderator
+* Paper Prototyping
+* Parallel Design
+* Participatory Design
+* Persona
+* Phone Interview
+* Photo Study
+* Pluralistic Usability Walkthrough
+* Prototype
+* Rapid Prototyping
+* Rating Scales
+* Readability
+* Scenario
+* Site Map
+* Storyboard
+* Task
+* Taxonomy
+* Testing (Usability)
+* Think-aloud Protocol
+* Usability
+* Usability Engineering
+* Usability Evaluation
+* User Experience (UE)
+* User-Centered Design (UCD)
+* Wayfinding
+* Wireframe
+* Wizard of Oz
 
 ## Usability Gov 
 
