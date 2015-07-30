@@ -5,16 +5,6 @@
 * [Accessibility](https://pages.18f.gov/accessibility)
 * [Grouplets](https://pages.18f.gov/grouplet-playbook)
 
-* [Frontend](https://pages.18f.gov/frontend)
-* [Analytics](https://github.com/18F/analytics-standards)
-* [Content](https://pages.18f.gov/content-guide)
-
-* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
-* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
-* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
-* [Before you Ship](https://pages.18f.gov/before-you-ship)
-* [APIs](https://github.com/18f/api-standards)
-
 ## Australian Government Digital Transformation Office
 
 ### User Centred Design
