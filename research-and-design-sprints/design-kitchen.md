@@ -29,7 +29,7 @@
 ### Methods
 
 User Research
-* [User Research (chart)](ttps://www.dto.gov.au/design-guides/guide/user-research)
+* [User Research (chart)](https://www.dto.gov.au/design-guides/guide/user-research)
 
 Testing
 * [Testing Services](https://www.dto.gov.au/design-guides/guide/testing-services)
