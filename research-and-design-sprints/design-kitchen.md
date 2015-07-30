@@ -485,17 +485,21 @@ User Research Quantitative
 
 * Culture
 
-Planning (including Stakeholder Workshop)
+[Planning](http://www.usabilitybok.org/planning)
+* [Checklist](http://www.usabilitybok.org/checklist)
+* [Stakeholder Meeting](http://www.usabilitybok.org/stakeholder-meeting)
 
 [Requirements Methods](http://www.usabilitybok.org/requirements-methods)
-* [Affinity Diagramming (Synonyms: Mind mapping)](http://www.usabilitybok.org/affinity-diagram)
-* [Claims Analysis](http://www.usabilitybok.org/claims-analysis)
+* [Stakeholder Interview](http://www.usabilitybok.org/stakeholder-interview)
 * [Competitor Analysis](http://www.usabilitybok.org/competitor-analysis)
 * [Future Workshop](http://www.usabilitybok.org/future-workshop)
-* [Persona](http://www.usabilitybok.org/persona)
-* [Quality Function Deployment](http://www.usabilitybok.org/quality-function-deployment-qfd)
-* [Stakeholder Interview](http://www.usabilitybok.org/stakeholder-interview)
 * [Scenario of Use](http://www.usabilitybok.org/scenario-of-use)
+* [Use Case](http://www.usabilitybok.org/use-case)
+* [Persona](http://www.usabilitybok.org/persona)
+* [Usability Benchmark](http://www.usabilitybok.org/usability-benchmark)
+* [Affinity Diagramming (Synonyms: Mind mapping)](http://www.usabilitybok.org/affinity-diagram)
+* [Claims Analysis](http://www.usabilitybok.org/claims-analysis)
+* [Quality Function Deployment](http://www.usabilitybok.org/quality-function-deployment-qfd)
 
 [Context of Use Methods](http://www.usabilitybok.org/context-of-use-methods)
 * [Context of Use Analysis](http://www.usabilitybok.org/context-of-use-analysis)
@@ -530,8 +534,14 @@ Planning (including Stakeholder Workshop)
 * Card Sorting
 * Site Map
 
-* Task
-* KLM-GOMS
+[Task Analysis and Modeling Methods](http://www.usabilitybok.org/task-analysis-modeling-methods)
+* [Task Analysis](http://www.usabilitybok.org/task-analysis)
+* [Cognitive Task Analysis](http://www.usabilitybok.org/cognitive-task-analysis)
+* [Hierarchical Task Analysis](http://www.usabilitybok.org/hierarchical-task-analysis)
+
+[Cognitive Models](http://www.usabilitybok.org/cognitive-models)
+* [GOMS](http://www.usabilitybok.org/goms)
+* [KLM-GOMS](http://www.usabilitybok.org/klm-goms)
 
 * Storyboard
 * Prototype
