@@ -475,9 +475,6 @@ User Research Quantitative
 * Case Study
 * Checklist
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
-* Affinity Diagramming (Synonyms: Mind mapping)
-
-* Competitor Analysis
 
 * Heuristic
 * Heuristic Evaluation
@@ -487,6 +484,18 @@ User Research Quantitative
 * Critical Incident Technique (CIT)
 
 * Culture
+
+Planning (including Stakeholder Workshop)
+
+[Requirements Methods](http://www.usabilitybok.org/requirements-methods)
+* [Affinity Diagramming (Synonyms: Mind mapping)](http://www.usabilitybok.org/affinity-diagram)
+* [Claims Analysis](http://www.usabilitybok.org/claims-analysis)
+* [Competitor Analysis](http://www.usabilitybok.org/competitor-analysis)
+* [Future Workshop](http://www.usabilitybok.org/future-workshop)
+* [Persona](http://www.usabilitybok.org/persona)
+* [Quality Function Deployment](http://www.usabilitybok.org/quality-function-deployment-qfd)
+* [Stakeholder Interview](http://www.usabilitybok.org/stakeholder-interview)
+* [Scenario of Use](http://www.usabilitybok.org/scenario-of-use)
 
 [Context of Use Methods](http://www.usabilitybok.org/context-of-use-methods)
 * [Context of Use Analysis](http://www.usabilitybok.org/context-of-use-analysis)
@@ -502,15 +511,13 @@ User Research Quantitative
 * [Field Study](http://www.usabilitybok.org/field-study)
 * [Diary Study](http://www.usabilitybok.org/diary-study)
 * [Photo Study](http://www.usabilitybok.org/photo-study)
+* [Phone Interview](http://www.usabilitybok.org/phone-interview)
+
+* [Focus Group](http://www.usabilitybok.org/focus-group)
 
 * Participatory Design
 * Facilitator
 * Moderator
-* Focus Group
-* Phone Interview
-
-* Scenario
-* Persona
 
 * Brainstorming
 * Metaphor Brainstorming
@@ -562,7 +569,6 @@ User Research Quantitative
 * User Experience (UE)
 * User-Centered Design (UCD)
 * Wayfinding
-* Claims Analysis
 * Conspicuity
 * Function Allocation
 * Affordance
