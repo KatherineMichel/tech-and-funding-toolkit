@@ -611,8 +611,6 @@ More
 
 ## Wikipedia
 
-## User Centered Design and Testing
-
 ### User Centered Design
 
 *   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
