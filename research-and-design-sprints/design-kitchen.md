@@ -473,9 +473,6 @@ User Research Quantitative
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
 * Affinity Diagramming (Synonyms: Mind mapping)
 * Affordance
-* Braindrawing
-* Brainstorming
-* Brainwriting
 * Card Sorting
 * Case Study
 * Checklist
@@ -485,21 +482,13 @@ User Research Quantitative
 * Competitor Analysis
 * Conspicuity
 * Context of Use Analysis
-* Contextual Inquiry
 * Critical Incident Technique (CIT)
-* Cultural Probe
-* Culture
-* Diary Study
 * Easy to Learn
 * Effective
 * Efficiency
 * Engaging
-* Ethnography
-* Facilitator
-* Field Study
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 * Fitts' Law
-* Focus Group
 * Formative Evaluation
 * Free Listing
 * Function Allocation
@@ -515,26 +504,16 @@ User Research Quantitative
 * Information Architecture (IA)
 * Interaction Design
 * Interface
-* Internationalization
 * Iterative Design
 * KLM-GOMS
-* Learnability
 * Likert Scale
-* Localization
 * Longitudinal Study
-* Metaphor Brainstorming
-* Moderator
-* Paper Prototyping (Synonyms: Low-fidelity prototype)
 * Parallel Design
 * Participatory Design
 * Persona
 * Phone Interview
-* Photo Study
 * Pluralistic Usability Walkthrough
-* Prototype
-* Rapid Prototyping
 * Rating Scales
-* Readability (Synonyms: Plain language)
 * Scenario
 * Site Map
 * Storyboard
@@ -548,8 +527,36 @@ User Research Quantitative
 * User Experience (UE)
 * User-Centered Design (UCD)
 * Wayfinding
-* Wireframe
 * Wizard of Oz
+
+* Ethnography
+* Field Study
+* Contextual Inquiry
+* Culture
+
+* Cultural Probe
+* Diary Study
+* Photo Study
+
+* Facilitator
+* Moderator
+* Focus Group
+
+* Brainstorming
+* Metaphor Brainstorming
+* Braindrawing
+* Brainwriting
+
+* Prototype
+* Rapid Prototyping
+* Paper Prototyping (Synonyms: Low-fidelity prototype)
+* Wireframe
+
+* Learnability
+* Readability (Synonyms: Plain language)
+
+* Internationalization
+* Localization
 
 ## Usability Gov 
 
