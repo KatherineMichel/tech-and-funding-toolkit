@@ -473,13 +473,9 @@ User Research Quantitative
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
 * Affinity Diagramming (Synonyms: Mind mapping)
 * Affordance
-* Card Sorting
-* Case Study
 * Checklist
 * Chunking
 * Claims Analysis
-* Cognitive Walkthrough
-* Competitor Analysis
 * Conspicuity
 * Context of Use Analysis
 * Critical Incident Technique (CIT)
@@ -494,9 +490,6 @@ User Research Quantitative
 * Function Allocation
 * Gestalt Principles
 * Graceful Degradation
-* Heuristic
-* Heuristic Evaluation
-* Heuristic Walkthrough
 * Hick's law (Hick-Hyman law)
 * Human Factors
 * Human-Computer Interaction (HCI)
@@ -506,15 +499,9 @@ User Research Quantitative
 * Interface
 * Iterative Design
 * KLM-GOMS
-* Likert Scale
 * Longitudinal Study
 * Parallel Design
 * Participatory Design
-* Persona
-* Phone Interview
-* Pluralistic Usability Walkthrough
-* Rating Scales
-* Scenario
 * Site Map
 * Storyboard
 * Task
@@ -527,7 +514,14 @@ User Research Quantitative
 * User Experience (UE)
 * User-Centered Design (UCD)
 * Wayfinding
-* Wizard of Oz
+
+* Competitor Analysis
+
+* Heuristic
+* Heuristic Evaluation
+* Heuristic Walkthrough
+* Cognitive Walkthrough
+* Pluralistic Usability Walkthrough
 
 * Ethnography
 * Field Study
@@ -538,25 +532,38 @@ User Research Quantitative
 * Diary Study
 * Photo Study
 
+* Phone Interview
+
 * Facilitator
 * Moderator
 * Focus Group
+
+* Case Study
+* Scenario
+* Persona
 
 * Brainstorming
 * Metaphor Brainstorming
 * Braindrawing
 * Brainwriting
 
+* Card Sorting
+* 
 * Prototype
 * Rapid Prototyping
 * Paper Prototyping (Synonyms: Low-fidelity prototype)
 * Wireframe
+
+* Likert Scale
+* Rating Scales
 
 * Learnability
 * Readability (Synonyms: Plain language)
 
 * Internationalization
 * Localization
+
+* Wizard of Oz
 
 ## Usability Gov 
 
