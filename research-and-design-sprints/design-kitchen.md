@@ -476,11 +476,14 @@ User Research Quantitative
 * Checklist
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 
+[Usability Inspection Methods](http://www.usabilitybok.org/usability-inspection-methods)
 * Heuristic
-* Heuristic Evaluation
-* Heuristic Walkthrough
-* Cognitive Walkthrough
-* Pluralistic Usability Walkthrough
+* [Heuristic Evaluation](http://www.usabilitybok.org/heuristic-evaluation)
+* [Heuristic Walkthrough](http://www.usabilitybok.org/heuristic-walkthrough)
+* [Cognitive Walkthrough](http://www.usabilitybok.org/cognitive-walkthrough)
+* [Pluralistic Usability Walkthrough](http://www.usabilitybok.org/pluralistic-walkthrough)
+* [Metaphors of Human Thinking](http://www.usabilitybok.org/metaphors-of-human-thinking-mot)
+* [Persona Based Inspection](http://www.usabilitybok.org/persona-based-inspection)
 * Critical Incident Technique (CIT)
 
 * Culture
@@ -519,7 +522,7 @@ User Research Quantitative
 
 * [Focus Group](http://www.usabilitybok.org/focus-group)
 
-* Participatory Design
+* [Participatory Design](http://www.usabilitybok.org/participatory-design)
 * Facilitator
 * Moderator
 
@@ -551,11 +554,11 @@ User Research Quantitative
 * [Physical Ergonomics](http://www.usabilitybok.org/physical-ergonomics)
 
 [Prototyping Methods](http://www.usabilitybok.org/prototyping-methods)
-* Storyboard
+* [Storyboard](http://www.usabilitybok.org/storyboard)
 * Prototype
-* Rapid Prototyping
-* Paper Prototyping (Synonyms: Low-fidelity prototype)
-* Wireframe
+* [Rapid Prototyping](http://www.usabilitybok.org/rapid-prototyping)
+* [Paper Prototyping (Synonyms: Low-fidelity prototype)](http://www.usabilitybok.org/paper-prototyping)
+* [Wireframe](http://www.usabilitybok.org/wireframe)
 * [Parallel Design](http://www.usabilitybok.org/parallel-design)
 
 * Likert Scale
@@ -582,8 +585,9 @@ User Research Quantitative
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
 * Usability
 * Usability Engineering
-* Usability Evaluation
-* Formative Evaluation
+[Usability Evaluation Methods](http://www.usabilitybok.org/usability-evaluation-methods)
+* [Formative Evaluation](http://www.usabilitybok.org/formative-evaluation)
+* [Summative Evaluation](http://www.usabilitybok.org/summative-evaluation)
 * User Experience (UE)
 * User-Centered Design (UCD)
 * Wayfinding
