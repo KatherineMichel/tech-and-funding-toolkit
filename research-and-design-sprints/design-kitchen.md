@@ -469,22 +469,21 @@ User Research Quantitative
 
 * [Usability BOK Storyboard](http://www.usabilitybok.org/storyboard)
 
-* Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
 * Affinity Diagramming (Synonyms: Mind mapping)
 * Affordance
-* Checklist
 * Claims Analysis
 * Conspicuity
 * Context of Use Analysis
 * Critical Incident Technique (CIT)
-* Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 * Fitts' Law
 * Formative Evaluation
-* Function Allocation
 * Gestalt Principles
 * Industrial Design
 * Longitudinal Study
-* Wayfinding
+
+* Case Study
+* Checklist
+* Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 
 * Competitor Analysis
 
@@ -509,7 +508,6 @@ User Research Quantitative
 * Focus Group
 * Phone Interview
 
-* Case Study
 * Scenario
 * Persona
 
@@ -552,15 +550,18 @@ User Research Quantitative
 * Localization
 
 * Human Factors
+* Function Allocation
 * Human-Computer Interaction (HCI)
 * Interaction Design
 * Interface
 
+* Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
 * Usability
 * Usability Engineering
 * Usability Evaluation
 * User Experience (UE)
 * User-Centered Design (UCD)
+* Wayfinding
 * Testing (Usability)
 * Think-aloud Protocol
 * Wizard of Oz
