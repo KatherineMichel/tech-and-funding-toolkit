@@ -874,7 +874,8 @@ Miscellaneous
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
 
 Thoughtbot Version
-* [Thoughtbot's Product Design Sprint Blog Post](http://robots.thoughtbot.com/the-product-design-sprint), [Thoughtbot's DIY Design Sprints Blog Post](https://robots.thoughtbot.com/diy-design-sprints), [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint), and [Design Sprint Book](http://www.designsprintbook.com)
+* [Thoughtbot's Product Design Sprint Blog Post](http://robots.thoughtbot.com/the-product-design-sprint), [Thoughtbot's DIY Design Sprints Blog Post](https://robots.thoughtbot.com/diy-design-sprints), [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
+*   [Design Sprint Book](http://www.designsprintbook.com) and [How to conduct a Design Sprint](http://radar.oreilly.com/2015/05/how-to-conduct-a-design-sprint.html)
 *   [Template for finding people on Craigslist](https://gist.github.com/croaky/1a1ff3902b4321984b0b) and [A simple consent form](https://gist.github.com/croaky/bf97025689b019293f78), and [NDA](https://thoughtbot.com/documents/thoughtbot-mutual-nda.pdf)
 *   [Basecamp: A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
 *   [Trello Design Sprint Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
@@ -889,8 +890,11 @@ Thoughtbot Version
 *   [Google Forms: About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 *   [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
+
 #### Google Design Sprint
 
+*   [Udacity Google Product Design: Validation and UX Through Design Sprints](https://www.udacity.com/course/product-design--ud509)
+*   [Google I/O 2014 - The design sprint: from Google Ventures to GoogleX](https://www.youtube.com/watch?v=aWQUSiOZ0x8)
 *   [Google Design Sprint](https://developers.google.com/design-sprint)  
 *   [Google Design Sprint Personas](https://developers.google.com/design-sprint/downloads/DesignSprint-Personas.pdf)
 *   [Google Product Design Sprint](https://developers.google.com/design-sprint/product) and [PDF](https://developers.google.com/design-sprint/downloads/DesignSprintMethods.pdf)
