@@ -667,6 +667,12 @@ Accessibility, Usability Experience, Research, Evaluation, and Testing
 
 ### Planning Document Templates
 
+Kick-Off Meetings
+* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
+
+Persona Development 
+* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
+
 Overview Documents
 * [UX Study Overview Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/ux-study-overview-template.html)
 * [Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
@@ -687,12 +693,6 @@ Position Descriptions and Interview Questions
 * [Position Description: Usability Specialist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-specialist.html)
 * [Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
 * [Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
-
-Kick-Off Meetings
-* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
-
-Persona Development 
-* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
