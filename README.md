@@ -2,10 +2,6 @@ Tech and Venture Capital Toolkit
 ====================
 Curated list of high quality resources, mostly free. See also...
 
-My Resources
-*   [Kati Michel Twitter Lists](https://twitter.com/KatiMichel/lists), [VC, Accelerator, Startups](https://twitter.com/KatiMichel/lists/vc-accelerator-startups/members)
-*   [Kati Michel Nuzzel Profile](http://nuzzel.com/KatiMichel), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
-
 Table of Contents
 -----------------
 
