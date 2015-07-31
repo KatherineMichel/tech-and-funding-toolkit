@@ -126,6 +126,7 @@ Table of Contents
 *   [Bill and Melinda Gates](http://www.thegatesnotes.com) 
 *   [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
 *   [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
+*   [C. Todd Lombardo Speaker Deck](https://speakerdeck.com/iamctodd)
 *   [Carlota Perez](http://www.carlotaperez.org) 
 *   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 *   [Clay Christensen](http://www.claytonchristensen.com) 
@@ -403,6 +404,7 @@ Regulatory Agencies and Rules
 *   [PricewaterhouseCoopers](http://www.pwc.com) 
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+*   [Great Place to Work](http://www.greatplacetowork.com)
 
 How to Read A Finacial Report
 *   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
@@ -818,6 +820,10 @@ U.S. Aid Learning Lab
 
 #### More Research and Design Toolkits
 
+User Centered Design, User Experience, Usability
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
+*   [Usability Wikipedia](https://en.wikipedia.org/wiki/Usability_testing)
+
 Games
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 *  [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
@@ -904,7 +910,6 @@ Thoughtbot Version
 
 #### Prototyping
 
-*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
 *   [Prototyping Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
 *   [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
 *   [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
