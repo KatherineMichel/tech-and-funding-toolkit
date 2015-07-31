@@ -4,113 +4,28 @@ See also...
 
 *   [Tech and Venture Capital Toolkit Project Management](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/README.md#project-management)
 
-## Project Management
+## Wikipedia
 
+Project Management
 * [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 * [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 
-### Australian Government Digital Transformation Office Project Management
+## 18F
 
-* [Analytics tools](https://www.dto.gov.au/design-guides/guide/analytics-tools)
-* [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
+Agile Project Management
+* [Agile Principles and Practices](https://pages.18f.gov/agile)
+* [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
 
-#### Team and Culture
+Development
+* [Frontend](https://pages.18f.gov/frontend)
+* [Analytics](https://github.com/18F/analytics-standards)
+* [Content](https://pages.18f.gov/content-guide)
 
-* [The team](https://www.dto.gov.au/design-guides/guide/team)
-* [Recruitment](https://www.dto.gov.au/design-guides/guide/recruitment)
-* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
-
-### Design Kit Project Management
-
-*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
-*   [How We Might](http://www.designkit.org/methods/3)
-*   [Design Principles](http://www.designkit.org/methods/27)
-*   [Recruiting Tools](http://www.designkit.org/methods/22)
-*   [Co-Creation Session](http://www.designkit.org/methods/33)
-*   [Creating a Project Plan](http://www.designkit.org/methods/9)
-*   [Build a Team](http://www.designkit.org/methods/10)
-*   [Business Model Canvas](http://www.designkit.org/methods/41)
-*   [Build Partnerships](http://www.designkit.org/methods/17)
-*   [Roadmap](http://www.designkit.org/methods/7)
-*   [Define Success](http://www.designkit.org/methods/55)
-*   [Measure and Evaluate](http://www.designkit.org/methods/40)
-*   [Staff Your Project](http://www.designkit.org/methods/56)
-*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
-*   [Create a Pitch](http://www.designkit.org/methods/37)
-*   [Funding Strategy](http://www.designkit.org/methods/54)
-
-Stakeholders
-*   [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
-*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
-*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
-
-### IDEO Project Management
-
-Sustainability and Growth
-*   [Sustainable Revenue](http://www.designkit.org/methods/16)
-*   [Ways to Grow Framework](http://www.designkit.org/methods/38)
-
-### Nesta Project Management
-
-*   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
-*   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
-*   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
-*   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
-*   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
-
-### Nesta DIY Project Management
-
-*   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
-*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
-*   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
-*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
-
-### Service Design Tools Project Management
-
-*   [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
-*   [Specification](http://www.servicedesigntools.org/tools/27)
-
-### U.K. Gov Project Management
-
-Scaling and Governance
-* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
-* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
-* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
-
-* [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
-* [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
-* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
-* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
-* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
-* [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
-* [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
-* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
-* [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
-
-Measurement
-* [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
-* [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
-* [Using data](https://www.gov.uk/service-manual/measurement/using-data.html)
-* [Key performance indicators](https://www.gov.uk/service-manual/measurement/other-kpis.html)
-* [Completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
-* [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
-* [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
-* [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
-
-### Usability Gov Project Management
-
-* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
-* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
-* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
-* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
-* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
-
-Usability Gov Organization
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
-
-Measurement
-* [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
+* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
+* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
+* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
+* [Before you Ship](https://pages.18f.gov/before-you-ship)
+* [APIs](https://github.com/18f/api-standards)
 
 ## Agile Project Management
 
@@ -132,7 +47,7 @@ Sprints
 *   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
 *   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
 
-### Agile Wikipedia
+## Agile Wikipedia
 
 * [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods)
 * [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
@@ -162,7 +77,7 @@ Agile Practices
 
 * [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
 
-### Agile Allegiance
+## Agile Allegiance
 
 * [Subway](http://guide.agilealliance.org/subway.html)
 * [Resources](http://agilealliance.org/resources)
@@ -235,37 +150,18 @@ Agile Practices
 
 * [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
 
-### U.K. Gov Agile Project Management
+## Australian Government Digital Transformation Office Project Management
 
-* [Agile](https://www.gov.uk/service-manual/agile/index.html)
-* [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
-* [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
-* [Training and learning about agile](https://www.gov.uk/service-manual/agile/training-and-learning.html)
-* [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
-* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
-* [Quality](https://www.gov.uk/service-manual/agile/quality.html)
-* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
-* [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
+Team and Culture
+* [The team](https://www.dto.gov.au/design-guides/guide/team)
+* [Recruitment](https://www.dto.gov.au/design-guides/guide/recruitment)
+* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
 
-### 18F Agile Project Management
-* [Agile Principles and Practices](https://pages.18f.gov/agile)
-* [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
+Analytics and Measurement
+* [Analytics tools](https://www.dto.gov.au/design-guides/guide/analytics-tools)
+* [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
 
-## Development
-
-### 18F
-
-* [Frontend](https://pages.18f.gov/frontend)
-* [Analytics](https://github.com/18F/analytics-standards)
-* [Content](https://pages.18f.gov/content-guide)
-
-* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
-* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
-* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
-* [Before you Ship](https://pages.18f.gov/before-you-ship)
-* [APIs](https://github.com/18f/api-standards)
-
-### Australian Government Digital Transformation Office Development
+Development
 
 Open Source
 * [Using open standards](https://www.dto.gov.au/design-guides/guide/using-open-standards)
@@ -292,14 +188,98 @@ Case Studies
 * [Case study: Connecting with customers on social media](https://www.dto.gov.au/design-guides/guide/case-study-connecting-customers-social-media)
 * [Case study: Improving website user experiences](https://www.dto.gov.au/design-guides/guide/case-study-improving-website-user-experiences)
 
-### IDEO Development
+## Design Kit 
 
+Project Management
+*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
+*   [How We Might](http://www.designkit.org/methods/3)
+*   [Design Principles](http://www.designkit.org/methods/27)
+*   [Recruiting Tools](http://www.designkit.org/methods/22)
+*   [Co-Creation Session](http://www.designkit.org/methods/33)
+*   [Creating a Project Plan](http://www.designkit.org/methods/9)
+*   [Build a Team](http://www.designkit.org/methods/10)
+*   [Business Model Canvas](http://www.designkit.org/methods/41)
+*   [Build Partnerships](http://www.designkit.org/methods/17)
+*   [Roadmap](http://www.designkit.org/methods/7)
+*   [Define Success](http://www.designkit.org/methods/55)
+*   [Measure and Evaluate](http://www.designkit.org/methods/40)
+*   [Staff Your Project](http://www.designkit.org/methods/56)
+*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
+*   [Create a Pitch](http://www.designkit.org/methods/37)
+*   [Funding Strategy](http://www.designkit.org/methods/54)
+
+Stakeholders
+*   [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
+*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
+*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
+
+## IDEO 
+
+Project Management
+
+Sustainability and Growth
+*   [Sustainable Revenue](http://www.designkit.org/methods/16)
+*   [Ways to Grow Framework](http://www.designkit.org/methods/38)
+
+Development
 *   [Get Feedback](http://www.designkit.org/methods/57)
 *   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
 *   [Keep Iterating](http://www.designkit.org/methods/19)
 *   [Keep Getting Feedback](http://www.designkit.org/methods/59)
 
-### U.K. Gov Development
+## Nesta 
+
+Project Management
+*   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
+*   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
+*   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
+*   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
+*   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
+
+## Nesta DIY 
+
+Project Management
+*   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
+*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
+*   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
+*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
+
+## Service Design Tools 
+
+Project Management
+*   [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
+*   [Specification](http://www.servicedesigntools.org/tools/27)
+
+## U.K. Gov 
+
+Project Management
+
+Scaling and Governance
+* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
+* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
+* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
+
+* [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
+* [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
+* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
+* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
+* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
+* [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
+* [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
+* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
+* [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
+
+Measurement
+* [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
+* [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
+* [Using data](https://www.gov.uk/service-manual/measurement/using-data.html)
+* [Key performance indicators](https://www.gov.uk/service-manual/measurement/other-kpis.html)
+* [Completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
+* [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
+* [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
+* [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
+
+Development
 
 Making Software
 * [Making software](https://www.gov.uk/service-manual/making-software/index.html)
@@ -352,9 +332,23 @@ Websites
 * [Design Patterns](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/index.html)
 * [Elements](https://www.gov.uk/service-manual/user-centred-design/resources/elements/index.html)
 
-### Usability Gov Development
+## Usability Gov 
 
-What, Why, How To and Tools
+Project Management
+* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
+* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
+* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
+* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
+* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
+
+Usability Gov Organization
+* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+
+Measurement
+* [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
+
+Design and Development
 * [Information Architecture](http://www.usability.gov/what-and-why/information-architecture.html)
 * [User Interface Design](http://www.usability.gov/what-and-why/user-interface-design.html)
 * [User Interface Elements](http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
@@ -366,3 +360,16 @@ What, Why, How To and Tools
 * [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
+
+## U.K. Gov Agile 
+
+Project Management
+* [Agile](https://www.gov.uk/service-manual/agile/index.html)
+* [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
+* [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
+* [Training and learning about agile](https://www.gov.uk/service-manual/agile/training-and-learning.html)
+* [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
+* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
+* [Quality](https://www.gov.uk/service-manual/agile/quality.html)
+* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
+* [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
