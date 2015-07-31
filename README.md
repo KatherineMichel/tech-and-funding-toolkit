@@ -1072,7 +1072,8 @@ Licenses
 *   [Creative Commons](https://creativecommons.org/licenses)
 *   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
-Beta Testing
+Alpha and Beta Testing
+*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 *   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
 
 Testing, Reporting, Analytics
