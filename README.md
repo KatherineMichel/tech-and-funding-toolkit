@@ -767,6 +767,14 @@ Australia
 *   [Australia Digital Transformation Plan](https://www.dto.gov.au/standard/digital-transformation-plan), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard), [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
 *   [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary) and [Sitemap](https://www.dto.gov.au/sitemap)
 
+Australia Government Web Guide (Deprecated)
+*   [Australian Government Web Guide (Deprecated)](http://webguide.gov.au)
+*   [Australian Government Web Guide (Deprecated), Usability](http://webguide.gov.au/accessibility-usability), [Australian Government Web Guide (Deprecated), Usability Testing](http://webguide.gov.au/accessibility-usability/usability-testing), and [Australian Government Web Guide (deprecated), User Needs Analysis](http://webguide.gov.au/accessibility-usability/user-needs-analysis)
+
+Australian Government Department of Finance Archive
+*   [Australian Government Department of Finance Archive](http://www.finance.gov.au/archive)
+*   [Australian Government Department of Finance Archive Better Practice Checklists Guidance](http://www.finance.gov.au/archive/agimo-archive/better-practice-checklists-guidance) and [Australian Government Department of Finance Archive Better Practice Checklists](http://www.finance.gov.au/agimo-archive/better-practice-checklists) 
+
 Estonian E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
 
