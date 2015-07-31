@@ -1265,8 +1265,8 @@ Agile Project Management Methodologies
 *   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
 *   [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
-*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp) and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
+*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
+*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
 
 Sprints
 *   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
