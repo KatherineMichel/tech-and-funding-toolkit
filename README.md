@@ -469,12 +469,15 @@ Surveys
 *   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
 *   [SurveyMonkey](https://www.surveymonkey.com)
 
+Google Insights and Trends
+*   [Google Insights](http://www.google.com/insights)
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 *   [Google Books](https://books.google.com)
 *   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
 *   [Google Scholar](https://scholar.google.com)
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
 Wikipedia
 *   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
@@ -951,7 +954,9 @@ Prototyping Software
  
 Quickie Websites
 *   [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
+*   [Google Tag Manager](http://www.google.com/tagmanager)
 *   [Squarespace Templates](http://www.squarespace.com/templates)
+*   [Weebly Themes](http://www.weebly.com/themes)
 *   [Wix Templates](http://www.wix.com/website/templates)
 
 Bootstrap, Font Awesome, Foundation
