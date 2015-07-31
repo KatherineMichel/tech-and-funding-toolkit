@@ -785,7 +785,7 @@ The Prince's Trust
 *   [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
 
 U.K. Gov
-*   [Digital Transformation](https://www.gov.uk/transformation)
+*   [Digital Transformation](https://www.gov.uk/transformation) and [Digital Transformation Blog](https://digitaltransformation.blog.gov.uk)
 *   [GOV.UK GitHub](https://github.com/alphagov)
 *   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
 *   [U.K. Government Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default), [Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-standard.html), and [Design Standards](https://www.gov.uk/design-principles)
