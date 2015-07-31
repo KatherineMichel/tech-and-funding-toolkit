@@ -142,6 +142,7 @@ Mindsets
 
 ## Interaction Design Encyclopedia
 
+*   [Emotion and Website Design](https://www.interaction-design.org/encyclopedia/emotion_and_website_design.html)
 *   [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html)
 *   [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
 
