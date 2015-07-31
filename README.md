@@ -1441,6 +1441,7 @@ Awesome Awesomeness
 
 General
 *   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
+*   [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
