@@ -15,6 +15,21 @@
 User Research
 * [User Research (chart)](https://www.dto.gov.au/design-guides/guide/user-research)
 
+User Research Subguides
+* [Professional Research Methods](https://www.dto.gov.au/design-guides/subguides/professional-research-methods)
+* [High Level Design](https://www.dto.gov.au/design-guides/subguides/high-level-design)
+* [Affinity Diagramming](https://www.dto.gov.au/design-guides/subguides/affinity-diagramming)
+* [Ethonographic Research](https://www.dto.gov.au/design-guides/subguides/ethnographic-research)
+* [Interviews](https://www.dto.gov.au/design-guides/subguides/interviews)
+* [Workshops](https://www.dto.gov.au/design-guides/subguides/workshops)
+* [Scenarios](https://www.dto.gov.au/design-guides/subguides/scenarios)
+* [User Pathways](https://www.dto.gov.au/design-guides/subguides/user-pathways)
+* [User Stories](https://www.dto.gov.au/design-guides/subguides/user-stories)
+* [Personas](https://www.dto.gov.au/design-guides/subguides/personas)
+* [Card Sorting](https://www.dto.gov.au/design-guides/subguides/card-sorting)
+* [Wireframing](https://www.dto.gov.au/design-guides/subguides/wireframing)
+* [Prototyping](https://www.dto.gov.au/design-guides/subguides/prototyping)
+
 Testing
 * [Testing Services](https://www.dto.gov.au/design-guides/guide/testing-services)
 * [Guerrilla Testing services](https://www.dto.gov.au/design-guides/guide/testing-services#guerrilla)
