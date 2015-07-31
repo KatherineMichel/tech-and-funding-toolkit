@@ -1458,6 +1458,7 @@ Finance and Investment Terms
 *   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
 *   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
 *   [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
+*   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
 *   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
 *   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
