@@ -1373,8 +1373,13 @@ Payments
 *   [Square](https://squareup.com)
 *   [Stripe](https://stripe.com)
 
+File Storage
+*   [Box](https://www.box.com) 
+*   [Dropbox](https://www.dropbox.com)
+
 Admin, Hiring, Payroll
 *   [Clara Labs](https://claralabs.com) 
+*   [Evernote](https://evernote.com)
 *   [Lever](http://lever.co)  
 *   [Jobvite](http://www.jobvite.com)
 *   [QuickBooks](http://quickbooks.intuit.com)
