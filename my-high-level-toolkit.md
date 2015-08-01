@@ -146,6 +146,19 @@ Lightning Demos
 * Related/adjacent products
 * Innovators in the space
 
+Studies
+* Context of Use Analysis
+* Context of Use Methods
+* Contextual Inquiry
+* Longitudinal Study
+* Ethnography
+* Ethnographic Research and Methods
+* Evaluating (Usage of) an Existing System
+* Diagnostic Evaluation
+* Field Study and Methods
+* Diary Study
+* Photo Study
+
 Market Analysis
 * Overall market knowledge
 * Market map
@@ -189,7 +202,8 @@ Potential Saboteurs
 
 Personas, Use Cases, Role Play
 * Customer Archetype/Personas
-* Use Cases/Use Case Diagram
+* User Story, Scenarios, Use Cases/Use Case Diagram, User Pathways
+* Typologies
 * Role Play and Script
 
 Customer Journey Map
