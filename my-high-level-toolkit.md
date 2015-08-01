@@ -29,6 +29,7 @@ Project
 * Phases
 * Project Team Roles and Responsibilities
 * Stakeholders, Stakeholder Interviews, Stakeholder Meeting
+* Kick-Off Meeting
 * Critical Path
 * Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress, determine success)
 * SMART
@@ -114,8 +115,6 @@ Revenue model options
 * Pay-per-use
 * Referral
 * Affiliate
-
-Kick-Off Meeting
 
 Research Sprint
 
@@ -203,7 +202,7 @@ Potential Saboteurs
 
 Personas, Use Cases, Role Play
 * Customer Archetype/Personas
-* Use Cases
+* Use Cases/Use Case Diagram
 * Role Play and Script
 
 Customer Journey
@@ -225,9 +224,10 @@ What does the world look like without this problem?
 * 3 years after launch?
 * 10 years after launch?
 
-Tomorrow
-* Tomorrow's headline
-* Tomorrow's SEC Filing
+Future Workshop
+* Tomorrow Headlines
+* Tomorrow SEC Filing
+* Poster
 
 Design Sprint
 
@@ -243,14 +243,17 @@ Creative
 * Crazy Eights
 * Storyboard
 * Mindmap
-* Brainstorm
+* Brainstorm (Rules and Facilitation), (Metaphor Brainstorming, Braindrawing, Brainwriting)
 * Collage
 * System Map
+* Lego Serious Play and Lego Journey Map
 
 Web Design
+* Taxonomy, Information Architecture (IA)
 * Website Requirements
 * Free Listing
 * Card Sorting (Open and Closed)
+* Site Map
 * Parallel Design
 
 Critique
@@ -263,6 +266,7 @@ User Testing
 * Mock Up
 * Prototype
 * Pilot
+* Wizard of Oz
 
 Design Principles
 
