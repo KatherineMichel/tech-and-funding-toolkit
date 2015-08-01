@@ -18,42 +18,6 @@
 * Planning Tools
 * Checklist
 
-* Design and Methods
-* High Level Design
-* Design Guidelines
-* Styles Guides
-
-* Pitch Practice
-
-* Task Analysis and Modeling Methods
-* Cognitive Task Analysis
-* Hierarchical Task Analysis
-* Allocate Tasks
-
-* Internationalization
-* Localization
-
-* Evaluating (Usage of) an Existing System
-* Diagnostic Evaluation
-
-* Heuristic
-* Heuristic Evaluation/Expert Review/Expert Interview/Expert Evaluation
-* Heuristic Walkthrough
-* Cognitive Walkthrough
-* Pluralistic Usability Walkthrough
-
-* Context of Use Analysis
-* Context of Use Methods
-* Contextual Inquiry
-
-* Longitudinal Study
-* Ethnography
-* Ethnographic Research and Methods
-* Field Study and Methods
-* Diary Study
-* Photo Study
-
-* Cultural Probe
 * Analogous Inspiration
 * Secondary Research
 * Peers Observing Peers
@@ -71,16 +35,6 @@
 * Conversation Starters
 * Stoke
 
-* Target Audiences
-* Target Group
-* Define Your Audience
-* Extremes and Mainstreams
-* Extreme Users
-
-* User Story
-* Scenarios of Use
-* User Pathways
-* Typologies
 * Persona Based Inspection
 
 * Prototyping Protocol
@@ -239,13 +193,6 @@ Why, How, Laddering
 * Chunking
 * Hick's law (Hick-Hyman law)
 
-* Effective
-* Efficiency
-* Engaging
-* Easy to Learn
-* Learnability
-* Readability (Synonyms: Plain language)
-
 * Interface
 * Human Factors
 * Human-Computer Interaction (HCI)
@@ -282,9 +229,6 @@ SOW Template: Usability and Focus Group Participant Recruitment DOCX
 SOW Template: Usability Task Order Request DOCX
 Introduction to Testing with Moderator Interaction DOCX
 Introduction to Testing without Moderator Interaction DOCX
-Position Description: Usability Specialist DOCX
-Usability Intern Interview Questions & Sample Projects Template DOCX
-Position Description: Usability Intern DOCX
 Measurable Usability Goals Template DOCX
 Usability Test Screener: Government website DOCX
 Usability Test Screener: Website (example 1) DOCX
@@ -292,8 +236,6 @@ Usability Test Screener: Website (example 2) DOCX
 Usability Test Screener - Mobile Device Testing DOCX
 Usability Test Screener: Online Survey DOCX
 Email Template: Usability Study Recruiting DOCX
-Consent Form (Adult) DOCX
-Consent Form (Minor) DOCX
 Consent & Recording Release Form (Adult) DOCX
 Consent & Recording Release Form (Minor) DOCX
 Digital Recording Release Form DOCX
@@ -310,9 +252,6 @@ Report Template: Survey DOCX
 Report Template: Survey Research Findings PPTX
 Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX
 Report Template: Card Sort Results DOCX
-
-## 18F
-## Gamestorming
 
 ## IDEO
 
@@ -375,39 +314,6 @@ Real World Testing
 *   [Mental Models (referenced in Card Sorting)](http://www.nngroup.com/articles/mental-models)
 *   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
 
-### User Testing Documents
-
-Appendix B: Sample Scripts and Forms 164
-
-* Participant Summary Table 183
-
-* Sample Filled-In Participant Summary Table 97 and 183
-* Participant Database Information to Track 175
-
-* Interview Topics for Meeting with the System Team 169
-* Interview Questions for the System Team 170
-
-* Sample Questions for Eliciting Sensitive Information 59 and 167
-* Sample Questions for Eliciting Web Experience 60-61, 168
-* Sample Participant Screening Script and Questionnaire 65-71, 176
-* Sample Script for Preliminary Contact by Study Sponsor 58, 183
-* Confirmation Message 166
-
-* Sample Background Questionnaire 108, 164
-* Dealing with Unqualified Participants 167
-
-* Sample Consent, Voucher Forms 109-115
-* Minor Consent Form 172
-* Nondisclosure Agreement 174
-* Participation Consent Form 174
-* Receipt Form 184
-* Voucher Form 185
-
-* Sample Thank you 120
-* Thank-You Note 185
-
-User Centered Design and User Needs
-* [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
 * [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
 
 ### The Team
@@ -607,14 +513,10 @@ Branding, Social Media and Content
 Project Management
 *   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
 *   [How We Might](http://www.designkit.org/methods/3)
-*   [Design Principles](http://www.designkit.org/methods/27)
 *   [Recruiting Tools](http://www.designkit.org/methods/22)
 *   [Co-Creation Session](http://www.designkit.org/methods/33)
-*   [Creating a Project Plan](http://www.designkit.org/methods/9)
 *   [Build a Team](http://www.designkit.org/methods/10)
-*   [Business Model Canvas](http://www.designkit.org/methods/41)
 *   [Build Partnerships](http://www.designkit.org/methods/17)
-*   [Roadmap](http://www.designkit.org/methods/7)
 *   [Define Success](http://www.designkit.org/methods/55)
 *   [Measure and Evaluate](http://www.designkit.org/methods/40)
 *   [Staff Your Project](http://www.designkit.org/methods/56)
@@ -644,8 +546,6 @@ Development
 ## Nesta 
 
 Project Management
-*   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
-*   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
 *   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
 *   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
 *   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
@@ -653,9 +553,7 @@ Project Management
 ## Nesta DIY 
 
 Project Management
-*   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
 *   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
-*   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
 *   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
 
 ## Service Design Tools 
@@ -694,8 +592,6 @@ Measurement
 * [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
 
 Websites
-* [Domain Names](https://www.gov.uk/service-manual/domain-names/index.html)
-* [Browsers and devices](https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html)
 * [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
 * [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
 * [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
@@ -707,22 +603,11 @@ Websites
 
 ## Usability Gov 
 
-Project Management
-* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
-* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
-* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
-* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
-* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
-
 Usability Gov Organization
 * [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
 * [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
-Measurement
-* [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
-
 Design and Development
-* [Information Architecture](http://www.usability.gov/what-and-why/information-architecture.html)
 * [User Interface Design](http://www.usability.gov/what-and-why/user-interface-design.html)
 * [User Interface Elements](http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
 * [Interaction Design](http://www.usability.gov/what-and-why/interaction-design.html)
@@ -734,68 +619,4 @@ Design and Development
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
 
-Case Studies
-* [Case study: Connecting with customers on social media](https://www.dto.gov.au/design-guides/guide/case-study-connecting-customers-social-media)
-* [Case study: Improving website user experiences](https://www.dto.gov.au/design-guides/guide/case-study-improving-website-user-experiences)
-
-Development
-
-* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
-* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
-* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
-* [Before you Ship](https://pages.18f.gov/before-you-ship)
-* [APIs](https://github.com/18f/api-standards)
-
-Open Source
-* [Using open standards](https://www.dto.gov.au/design-guides/guide/using-open-standards)
-* [Sharing source code](https://www.dto.gov.au/design-guides/guide/sharing-source-code)
-* [Using APIs](https://www.dto.gov.au/design-guides/guide/using-apis)
-* [Open data](https://www.dto.gov.au/design-guides/guide/open-data)
-
-Identity and Privacy
-* [Identity assurance](https://www.dto.gov.au/design-guides/guide/identity-assurance)
-* [Privacy requirements](https://www.dto.gov.au/design-guides/guide/privacy-requirements)
-
-Websites
-* [Selecting a content management system](https://www.dto.gov.au/design-guides/guide/selecting-content-management-system)
-* [Domain names](https://www.dto.gov.au/design-guides/guide/domain-names)
 * [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
-
-Making Software
-* [Making software](https://www.gov.uk/service-manual/making-software/index.html)
-* [Open standards and licensing](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
-* [Using open source software](https://www.gov.uk/service-manual/making-software/open-source.html)
-* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
-* [Version control](https://www.gov.uk/service-manual/making-software/version-control.html)
-* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
-* [Information security](https://www.gov.uk/service-manual/making-software/information-security.html)
-* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
-* [Choosing technology](https://www.gov.uk/service-manual/making-software/choosing-technology.html)
-* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
-* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
-* [Configuration management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
-* [Development environments](https://www.gov.uk/service-manual/making-software/development-environment.html)
-* [Sandbox and staging servers](https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html)
-* [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
-* [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
-* [Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)
-* [Deployment software](https://www.gov.uk/service-manual/making-software/deployment.html)
-* [Releasing software](https://www.gov.uk/service-manual/making-software/release-strategies.html)
-* [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
-* [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
-* [Cookies](https://www.gov.uk/service-manual/making-software/cookies.html)
-* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
-
-Operations
-* [Operating a service](https://www.gov.uk/service-manual/operations/index.html)
-* [Operating a service.gov.uk subdomain](https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html)
-* [Hosting](https://www.gov.uk/service-manual/operations/hosting.html)
-* [Cloud security](https://www.gov.uk/service-manual/operations/cloud-security.html)
-* [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
-* [Uptime and availability](https://www.gov.uk/service-manual/operations/uptime-and-availability.html)
-* [Service management](https://www.gov.uk/service-manual/operations/service-management.html)
-* [Devops](https://www.gov.uk/service-manual/operations/devops.html)
-* [Helpdesk](https://www.gov.uk/service-manual/operations/helpdesk.html)
-* [Managing user support](https://www.gov.uk/service-manual/operations/managing-user-support.html)
-* [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
-* [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
