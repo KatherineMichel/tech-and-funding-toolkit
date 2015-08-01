@@ -304,6 +304,18 @@ Internationalization and Localization
 
 ## Design Sprint
 
+### Possible Roles
+
+* Design Team
+* Project Lead
+* Person you’re designing for
+* Key Partners, Stakeholders
+* Expert
+* Staff
+* Community Members
+* Interviewer
+* Interviewees
+
 ### Possible Supplies
 
 IDEO Possible Supplies: Design Sprint (IDEO)
