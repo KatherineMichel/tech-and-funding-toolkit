@@ -7,6 +7,17 @@ Beginnings, Problem, Idea, Vision
 * Business Idea and Vision
 * Inspiration
 
+World 
+What does the world look like without this problem? 
+* How will world be different 18 months after launch? 
+* 3 years after launch?
+* 10 years after launch?
+
+Future Workshop
+* Tomorrow Headlines
+* Tomorrow SEC Filing
+* Poster
+
 ## Business Analysis and Plan
 
 Business
@@ -21,6 +32,21 @@ Business Plan Example
 * Finances, Planning
 * Staff and Management Team
 * Operations and Resources
+
+Strategic Analysis
+*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
+*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
+
+* PESTLIED
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
 
 ## Business Model Canvas
 
@@ -83,7 +109,7 @@ Customer impact
 * Will your product create network effects?
 * Does it have organic demand versus requiring marketing spend?
 
-## Customers
+### Customers
 
 Target
 * Target Audiences/Target Group
@@ -109,17 +135,6 @@ Before and After
 * "Before" visualized (without product)
 * "After" visualized (with product) (How will the product influence, change the customer's life?)
 
-World 
-What does the world look like without this problem? 
-* How will world be different 18 months after launch? 
-* 3 years after launch?
-* 10 years after launch?
-
-Future Workshop
-* Tomorrow Headlines
-* Tomorrow SEC Filing
-* Poster
-
 Customers
 * Motivation (Pleasure or Pain)
 * Resource Flow
@@ -139,7 +154,7 @@ Influencers, Recommenders
 
 Potential Saboteurs
 
-## Cost Structure and Revenue Streams
+### Cost Structure and Revenue Streams
 
 Business Model, Financial Model
 
@@ -182,22 +197,6 @@ Learn how other side works, buys, how to optimize, how to address each side of t
 
 Verify Product/Market Fit
 
-## Strategic Analysis
-
-*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
-*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
-*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
-
-* PESTLIED
-* ANSOF
-* Strategic Groups
-* Resource-Based Approach
-* N-Step
-* Prescriptive
-* Kaleidoscope
-* Kant
-* Kotter
-
 ## Project
 
 * Project Charter, Project Plan/Project Definition Plan, Statement of Work
@@ -215,6 +214,24 @@ Verify Product/Market Fit
 
 ## Research Sprint
 
+Assumptions, Risks, Back-Burner
+* Start an Assumptions Board
+* Risks
+* Start an Back-burner Board
+
+Thoughtbot Risks 
+*Identify all assumptions and knowledge gaps that introduce risk. Gathering them here will help us in assessing the riskiest ones and making actionable plans for reducing that risk so we can move forward confidently and as risk averse as possible.*
+
+Thoughtbot Assumptions
+* Assumptions about our product
+* Assumptions about the the market/problem
+* Assumptions about the customers
+
+Thoughtbot Questions
+* Questions about the customer
+* Questions about the market/problem
+* Questions about our product
+
 Competitor Analysis
 * Competitive grid
 * Time spent using competitor and adjacent products
@@ -228,12 +245,22 @@ Lightning Demos/Lightning Presentations
 * Related/adjacent products
 * Innovators in the space
 
-Heuristic and Walkthroughs
+Heuristic and Walkthrough
 * Heuristic
 * Heuristic Evaluation/Expert Review/Expert Interview/Expert Evaluation
 * Heuristic Walkthrough
 * Cognitive Walkthrough
 * Pluralistic Usability Walkthrough
+
+Input and Feedback
+* Tour (Guided Tour, Experience Tour, Shadowing)
+* Interviews (Preparation and Guide), (1:1/Individual and Group), (Phone and Online)
+* In Depth Interviews
+* Intercept Interviews (Guerilla)
+* Contextual Interview (Contextual)
+* Interview for Empathy
+* Focus Group, Mini Groups
+* Questionnaire/Survey (Design), (Paper and Online)
 
 Tasks
 * Task Analysis and Modeling Methods
@@ -270,31 +297,6 @@ Participation
 * Participant Observation
 * Participatory Design
 * Participatory Evaluation (Prototype)
-
-Assumptions, Risks, Back-Burner
-* Start an Assumptions Board
-* Risks
-* Start an Back-burner Board
-
-Thoughtbot Risks 
-*Identify all assumptions and knowledge gaps that introduce risk. Gathering them here will help us in assessing the riskiest ones and making actionable plans for reducing that risk so we can move forward confidently and as risk averse as possible.*
-
-Thoughtbot Assumptions
-* Assumptions about our product
-* Assumptions about the the market/problem
-* Assumptions about the customers
-
-Thoughtbot Questions
-* Questions about the customer
-* Questions about the market/problem
-* Questions about our product
-
-Input and Feedback
-* Heuristic Evaluation
-* Tour
-* Interviews (Preparation and Guide), (Individual and Group), (Phone and Online)
-* Focus Group
-* Questionnaire/Survey (Design), (Paper and Online)
 
 Design Games
 * Affinity Diagramming (Synonym: Mind mapping)
@@ -335,6 +337,10 @@ User Testing
 * Easy to Learn
 * Learnability
 * Readability (Synonyms: Plain language)
+
+
+
+
 
 Design Principles
 * Design and Methods
