@@ -1,35 +1,21 @@
 # My Toolkit
 
-Terminology
-* Define Terminology
+## Vision
 
 Beginnings, Problem, Idea, Vision
 * Problem Definition Statement
 * Business Idea and Vision
 * Inspiration
 
+## Business Analysis and Plan
+
 Business
-* Venture Analysis
-* Statement of Work
+* Venture Analysis, Pitch Practice
 * Business Case/Business Plan, Cost Benefit Analysis
-* Requirements Gathering Methods and Meeting
+* Define Terminology
 
-Project
-* Project Charter
-* Project Plan/Project Definition Plan
-* Project Approach: Agile/Scrum, Lean, Waterfall
-* Phases
-* Project Team Roles and Responsibilities
-* Stakeholders, Stakeholder Interviews, Stakeholder Meeting
-* Kick-Off Meeting
-* Critical Path
-* Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress, determine success)
-* SMART
-* Quality Function Deployment
-* Timeline
-* Pitch Practice
+## Strategic Analysis
 
-Strategic Analysis
 *   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 *   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
@@ -52,7 +38,7 @@ Business Plan Example
 * Staff and Management Team
 * Operations and Resources
 
-Business Model Canvas
+## Business Model Canvas
 
    * [Business Model Canvas](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
 [![](business-model-canvas/the-business-model-canvas.jpg)](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
@@ -67,32 +53,32 @@ Business Model Canvas
 * Cost Structure (What will it cost?)
 * Revenue Streams (How much will you make?)
 
-Value Proposition
+### Value Proposition
 * What value will people get from this product?
 
-Customer Segments
+### Customer Segments
 * Who are your customers or who do you expect them to be?
 * Define distinctive customer types (day to day users)
 * For customer segment #1, 2, 3...
 
-Key Partners
+### Key Partners
 * List key partners (target/necessary) 
 * What they will provide
 * What company will give in return ("value exchange")
 
-Partner Types
+### Partner Types
 * Strategic alliances
 * Joint new business efforts
 * Coopetition
 * Key suppliers
 * Traffic partners
 
-Key Resources
+### Key Resources
 * List key resources (critical to success)
 * How will company find/secure
 * Identify key resource costs
 
-Key Resources Types
+### Key Resources Types
 
 * Physical resources
 * Financial resources
@@ -102,7 +88,7 @@ Key Resources Types
 
 Dependency analysis
 
-Distribution Channels
+### Distribution Channels
 * Distribution Channel Diagram
 * Distribution Channel Plan
 * Channel Responsibility Map
@@ -154,7 +140,22 @@ Learn how other side works, buys, how to optimize, how to address each side of t
 
 Verify Product/Market Fit
 
-Research Sprint
+## Project
+
+* Project Charter, Project Plan/Project Definition Plan, Statement of Work
+* Project Approach: Agile/Scrum, Lean, Waterfall
+* Phases
+* Requirements Gathering Methods and Meeting
+* Project Team Roles and Responsibilities
+* Stakeholders, Stakeholder Interviews, Stakeholder Meeting
+* Kick-Off Meeting
+* Critical Path
+* Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress, determine success)
+* SMART
+* Quality Function Deployment
+* Timeline
+
+## Research Sprint
 
 Competitor Analysis
 * Competitive grid
@@ -163,11 +164,6 @@ Competitor Analysis
 * Competitor traffic analysis/measurement
 * Competitive product and pricing information
 * Competitor press releases
-
-Target
-* Target Audiences/Target Group
-* Define Your Audience
-* Extremes and Mainstreams, Extreme Users
 
 Lightning Demos/Lightning Presentations
 * Competitor/potential competitor products
@@ -204,6 +200,11 @@ Internationalization and Localization
 * Cultural Probe
 * Internationalization
 * Localization
+
+Target
+* Target Audiences/Target Group
+* Define Your Audience
+* Extremes and Mainstreams, Extreme Users
 
 Personas, Use Cases, Role Play
 * Customer Archetype/Personas
@@ -254,7 +255,7 @@ Influencers, Recommenders
 
 Potential Saboteurs
 
-Design Sprint
+## Design Sprint
 
 Creative Workshop
 * Facilitator, Moderator
