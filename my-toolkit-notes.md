@@ -14,6 +14,10 @@
 * Interface
 * Interaction Design 
 
+* User Interface Design
+* User Interface Elements
+* Visual Design
+
 * Human Factors
 * Human-Computer Interaction (HCI)
 * Usability Engineering
@@ -224,51 +228,31 @@ Card Sort Results DOCX
 ## Nielson Norman
 
 *   [Which UX Research Methods](http://www.nngroup.com/articles/which-ux-research-methods)
-*   [Why You Only Need to Test with Five Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users)
 *   [Task Scenarios Usability Testing](http://www.nngroup.com/articles/task-scenarios-usability-testing)
 *   [Mental Models (referenced in Card Sorting)](http://www.nngroup.com/articles/mental-models)
 *   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
 
-* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
-
-* [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
-
-### Methods
+* User needs
+* Recruitment
 
 Development
 * [Governance](https://www.gov.uk/service-manual/governance/index.html)
-* [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
-* [Introduction to governance for service delivery](https://www.gov.uk/service-manual/governance/introduction-to-governance-for-service-delivery.html)
 * [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
-* [Assurance
 * [Assurance from those outside the service team](https://www.gov.uk/service-manual/governance/assurance-from-those-outside-the-service-team.html)
 * [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
 * [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
 * [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
-* [What to expect from the show and tell
-
-## 18F
-
-Agile Project Management
-* [Agile Principles and Practices](https://pages.18f.gov/agile)
-* [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
-
-Development
-* [Frontend](https://pages.18f.gov/frontend)
-* [Content](https://pages.18f.gov/content-guide)
-
-## Agile Project Management
+* Show and tell
 
 Agile Project Management Methodologies
 *   Extreme Programming and Extreme Project Management
-*   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
-*   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
-*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
-*   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-*   Scrum
+*   Lean Software Development
+*   Kaizen Wikipedia
+*   Kanban Development
+*   Just-in-Time
+*   Scrum Software Development
 
 Agile Practices
-* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 * [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
@@ -296,8 +280,7 @@ Agile Practices
 * [Resources](http://agilealliance.org/resources)
 * [Site Map](http://agilealliance.org/site-map)
 
-* [Project chartering](http://guide.agilealliance.org/guide/project-chartering.html)
-* [Version control](http://guide.agilealliance.org/guide/versioncontrol.html)
+* Project chartering (Rich Picture)
 * [Refactoring](http://guide.agilealliance.org/guide/refactoring.html)
 * [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
 * [Heartbeat retrospective](http://guide.agilealliance.org/guide/heartbeatretro.html)
@@ -355,54 +338,34 @@ Agile Practices
 * [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
 
 Project Management
-* [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
 * [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
 * [Quality](https://www.gov.uk/service-manual/agile/quality.html)
-* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
-* [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
 
-## Australian Government Digital Transformation Office Project Management
+*   Sustainable Revenue
+*   Ways to Grow Framework
 
-* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
+Capabilities Assessment
+Creating cultural change
+Recruiting, Building a Team, Building Partnerships
+Create a Pitch
+Funding Sources, Funding Strategies
+Retrospectives
+*   Setting up a Venture
+*   How We Might
+*   Co-Creation Session
 
-Analytics and Measurement
-* [Analytics tools](https://www.dto.gov.au/design-guides/guide/analytics-tools)
-* [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
-
-Branding, Social Media and Content
-* [Branding](https://www.dto.gov.au/design-guides/guide/branding)
-* [Using social media to engage users](https://www.dto.gov.au/design-guides/guide/using-social-media-engage-users)
-* [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
-* [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
+Define Success
+Analytics Tools
+Measurement, Measure and Evaluate
 
 ## Design Kit 
 
 Project Management
 *   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
-*   [How We Might](http://www.designkit.org/methods/3)
-*   [Recruiting Tools](http://www.designkit.org/methods/22)
-*   [Co-Creation Session](http://www.designkit.org/methods/33)
-*   [Build a Team](http://www.designkit.org/methods/10)
-*   [Build Partnerships](http://www.designkit.org/methods/17)
-*   [Define Success](http://www.designkit.org/methods/55)
-*   [Measure and Evaluate](http://www.designkit.org/methods/40)
 *   [Staff Your Project](http://www.designkit.org/methods/56)
-*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
-*   [Create a Pitch](http://www.designkit.org/methods/37)
-*   [Funding Strategy](http://www.designkit.org/methods/54)
 
-Stakeholders
-*   [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
 *   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
 *   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
-
-## IDEO 
-
-Project Management
-
-Sustainability and Growth
-*   [Sustainable Revenue](http://www.designkit.org/methods/16)
-*   [Ways to Grow Framework](http://www.designkit.org/methods/38)
 
 Development
 *   [Get Feedback](http://www.designkit.org/methods/57)
@@ -410,33 +373,21 @@ Development
 *   [Keep Iterating](http://www.designkit.org/methods/19)
 *   [Keep Getting Feedback](http://www.designkit.org/methods/59)
 
-## Nesta 
+Usability Gov Organization
+* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
-Project Management
 *   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
-*   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
-*   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
 
-## Nesta DIY 
-
-Project Management
 *   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
 *   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
 
-## Service Design Tools 
-
-Project Management
 *   [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
 *   [Specification](http://www.servicedesigntools.org/tools/27)
-
-## U.K. Gov 
-
-Project Management
 
 * [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 * [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
-* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
 * [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
 * [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
@@ -454,24 +405,17 @@ Measurement
 Websites
 * [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
 * [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
-* [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
-* [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
-* [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
 * [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
 * [Design Patterns](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/index.html)
 * [Elements](https://www.gov.uk/service-manual/user-centred-design/resources/elements/index.html)
 
-## Usability Gov 
-
-Usability Gov Organization
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+Branding, Social Media and Content
+* [Branding](https://www.dto.gov.au/design-guides/guide/branding)
+* [Using social media to engage users](https://www.dto.gov.au/design-guides/guide/using-social-media-engage-users)
+* [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
+* [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
 
 Design and Development
-* [User Interface Design](http://www.usability.gov/what-and-why/user-interface-design.html)
-* [User Interface Elements](http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
-* [Interaction Design](http://www.usability.gov/what-and-why/interaction-design.html)
-* [Visual Design](http://www.usability.gov/what-and-why/visual-design.html)
 * [Color Basic](http://www.usability.gov/how-to-and-tools/methods/color-basics.html)
 * [Content Strategy](http://www.usability.gov/what-and-why/content-strategy.html)
 * [Content Inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
@@ -480,3 +424,6 @@ Design and Development
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
 
 * [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
+
+* [Frontend](https://pages.18f.gov/frontend)
+* [Content](https://pages.18f.gov/content-guide)
