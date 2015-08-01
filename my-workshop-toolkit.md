@@ -1,8 +1,6 @@
 * Planning Usability
 * ISO 13407: Human centred design processes for interactive systems/Observation of Users Patterns
 
-* Design and Methods
-* High Level Design
 * Usability and Testing
 * Accessibility and Testing
 * User Centered/Centred Design and Methods
@@ -17,30 +15,15 @@
 * Interaction Design 
 
 * Getting Started
-* Problem Definition
 * Planning Tools
-* Stakeholder
-* Stakeholder Interview and Meeting
-* Requirements Methods and Meeting
 * Checklist
-* Competitor Analysis
-* SWOT Analysis
-* Cost Benefit Analysis
+
+* Design and Methods
+* High Level Design
 * Design Guidelines
 * Styles Guides
 
-* Problem Statement
-* Problem Value Prop
-* Critical Path
-* Quality Function Deployment
 * Pitch Practice
-* Terms
-* Business Model Canvas
-* Competitive Analysis
-* Customer
-* Forces
-
-* System Map
 
 * Task Analysis and Modeling Methods
 * Cognitive Task Analysis
@@ -80,20 +63,10 @@
 * Shadowing
 
 * Focus Groups, Mini Groups, and 1:1 Interviews
-* Interviews
-* Interview Preparation
-* Interview Guide
-* Individual Interviews
 * In Depth Interviews
-* Phone Interview (Adding: Online Interview)
 * Intercept Interviews (Guerilla)
-* Group Interview
 * Contextual Interview (Contextual)
 * Interview for Empathy
-* Surveys
-* Questionnaire and Survey Methods
-* Survey Designs
-* Online Surveys
 
 * Conversation Starters
 * Stoke
@@ -103,77 +76,16 @@
 * Define Your Audience
 * Extremes and Mainstreams
 * Extreme Users
-* Resource Flow
-* Pleasure
-
-* Future Workshop
-* Tomorrow Headlines
-* Poster
-
-* Creative Workshop
-* Workshops
-* Facilitator
-* Moderator
-* Six Thinking Hats
-* Thinking Hats
-
-* Start an Assumptions Board
-* Risks
-* Start an Back-burner Board
-
-* Lego Serious Play
-* Lego Journey Map
-
-* Storytelling
-
-* Brainstorm Rules
-* Facilitate a Brainstorm
-* Brainstorming
-* Metaphor Brainstorming
-* Braindrawing
-* Brainwriting
-
-* Design Games
-* Collage
-* Draw It
-* Mash Ups
-* Moodboard
-* Group Sketching
 
 * User Story
-* Use Cases/Scenarios of Use
-* Use Case Diagram 
+* Scenarios of Use
 * User Pathways
 * Typologies
-* Personas
 * Persona Based Inspection
-* Role Play, Role Script
-* Customer Journey Map
-
-* Taxonomy
-* Information Architecture (IA)
-* Site Map
-
-* Free Listing
-* Card Sorting
-* Open Card Sorting
-
-* Affinity Diagramming (Synonyms: Mind mapping)
-* Mind Mapping
-* Crazy Eights
-* Storyboarding
-
-* Dotmocracy
-* Silent Critique
-* Group Critique
 
 * Participant Observation
 * Participatory Design
 * Participatory Evaluation/Evaluate Prototype
-
-* Parallel Design
-* Mock Up
-* Wireframing
 
 * Prototyping Protocol
 * Prototyping Framework
@@ -194,9 +106,6 @@
 * Running a Usability Test
 * Reporting Usability Test Results
 * User Testing Analysis
-
-* Wizard of Oz
-* Pilot
 
 * Performance Testing
 * Remote Testing
@@ -860,47 +769,6 @@ Measurement
 * [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
 * [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
 
-Development
-
-Making Software
-* [Making software](https://www.gov.uk/service-manual/making-software/index.html)
-* [Open standards and licensing](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
-* [Using open source software](https://www.gov.uk/service-manual/making-software/open-source.html)
-* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
-* [Version control](https://www.gov.uk/service-manual/making-software/version-control.html)
-* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
-* [Information security](https://www.gov.uk/service-manual/making-software/information-security.html)
-* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
-* [Choosing technology](https://www.gov.uk/service-manual/making-software/choosing-technology.html)
-* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
-* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
-* [Configuration management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
-* [Development environments](https://www.gov.uk/service-manual/making-software/development-environment.html)
-* [Sandbox and staging servers](https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html)
-* [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
-* [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
-* [Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)
-* [Deployment software](https://www.gov.uk/service-manual/making-software/deployment.html)
-* [Releasing software](https://www.gov.uk/service-manual/making-software/release-strategies.html)
-* [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
-* [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
-* [Cookies](https://www.gov.uk/service-manual/making-software/cookies.html)
-* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
-
-Operations
-* [Operating a service](https://www.gov.uk/service-manual/operations/index.html)
-* [Operating a service.gov.uk subdomain](https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html)
-* [Hosting](https://www.gov.uk/service-manual/operations/hosting.html)
-* [Cloud security](https://www.gov.uk/service-manual/operations/cloud-security.html)
-* [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
-* [Uptime and availability](https://www.gov.uk/service-manual/operations/uptime-and-availability.html)
-* [Service management](https://www.gov.uk/service-manual/operations/service-management.html)
-* [Devops](https://www.gov.uk/service-manual/operations/devops.html)
-* [Helpdesk](https://www.gov.uk/service-manual/operations/helpdesk.html)
-* [Managing user support](https://www.gov.uk/service-manual/operations/managing-user-support.html)
-* [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
-* [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
-
 Websites
 * [Domain Names](https://www.gov.uk/service-manual/domain-names/index.html)
 * [Browsers and devices](https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html)
@@ -954,3 +822,44 @@ Project Management
 * [Quality](https://www.gov.uk/service-manual/agile/quality.html)
 * [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
 * [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
+
+Development
+
+Making Software
+* [Making software](https://www.gov.uk/service-manual/making-software/index.html)
+* [Open standards and licensing](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
+* [Using open source software](https://www.gov.uk/service-manual/making-software/open-source.html)
+* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
+* [Version control](https://www.gov.uk/service-manual/making-software/version-control.html)
+* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
+* [Information security](https://www.gov.uk/service-manual/making-software/information-security.html)
+* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
+* [Choosing technology](https://www.gov.uk/service-manual/making-software/choosing-technology.html)
+* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
+* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
+* [Configuration management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
+* [Development environments](https://www.gov.uk/service-manual/making-software/development-environment.html)
+* [Sandbox and staging servers](https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html)
+* [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
+* [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
+* [Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)
+* [Deployment software](https://www.gov.uk/service-manual/making-software/deployment.html)
+* [Releasing software](https://www.gov.uk/service-manual/making-software/release-strategies.html)
+* [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
+* [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
+* [Cookies](https://www.gov.uk/service-manual/making-software/cookies.html)
+* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
+
+Operations
+* [Operating a service](https://www.gov.uk/service-manual/operations/index.html)
+* [Operating a service.gov.uk subdomain](https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html)
+* [Hosting](https://www.gov.uk/service-manual/operations/hosting.html)
+* [Cloud security](https://www.gov.uk/service-manual/operations/cloud-security.html)
+* [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
+* [Uptime and availability](https://www.gov.uk/service-manual/operations/uptime-and-availability.html)
+* [Service management](https://www.gov.uk/service-manual/operations/service-management.html)
+* [Devops](https://www.gov.uk/service-manual/operations/devops.html)
+* [Helpdesk](https://www.gov.uk/service-manual/operations/helpdesk.html)
+* [Managing user support](https://www.gov.uk/service-manual/operations/managing-user-support.html)
+* [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
+* [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
