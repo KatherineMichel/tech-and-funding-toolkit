@@ -1,4 +1,30 @@
-# Advertising Methods
+# Miscellaneous Tools
+
+## Branded Documents
+
+Branded Documents and Sites (print, email, online)
+* Website/Blog/Social Media Presence
+* Directory Cover and Contents
+* Catalog/Product List
+* Flier
+* Brochure, Pamphlet
+* Poster
+* Newsletter
+* Bulletin
+* PowerPoint Slides
+* Letterhead and Envelope
+* Postcards (informational, product/service, special offer)
+* Business Card/Placeholder
+* Email (newsletter, even-activity, event-speaker)
+* Envelope
+* Labels
+* Electronic Advertisements
+* Media Advertisement
+* Calendar
+* Committee agendas
+* Committee minutes
+
+## Advertising Methods
 
 Traditional Advertising Methods
 * TV        
@@ -36,3 +62,24 @@ Additional Ideas
 * UMC Media Kit
 
 Adapted From UMC Communications Marketing Tactics
+
+## HubSpot
+
+* Personas
+* Case Studies
+* Fact Sheet Templates
+
+Campaign Planning and Project Management
+* RFP
+* Marketing Budgets
+* Marketing Reports
+* SMART Marketing
+* Kickoff
+
+Templates
+* PowerPoint Templates
+* Blog Templates
+* Infographic
+* Ebook Templates
+* Checklists
+
