@@ -14,22 +14,6 @@ Business
 * Business Case/Business Plan, Cost Benefit Analysis
 * Define Terminology
 
-## Strategic Analysis
-
-*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
-*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
-*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
-
-* PESTLIED
-* ANSOF
-* Strategic Groups
-* Resource-Based Approach
-* N-Step
-* Prescriptive
-* Kaleidoscope
-* Kant
-* Kotter
-
 Business Plan Example
 * Executive Summary
 * Business Overview
@@ -99,6 +83,64 @@ Customer impact
 * Will your product create network effects?
 * Does it have organic demand versus requiring marketing spend?
 
+## Customers
+
+Target
+* Target Audiences/Target Group
+* Define Your Audience
+* Extremes and Mainstreams, Extreme Users
+
+Personas, Use Cases, Role Play
+* Customer Archetype/Personas
+* User Story, Scenarios, Use Cases/Use Case Diagram, User Pathways
+* Typologies
+* Role Play and Script
+
+Customer Journey Map
+
+One page "Day in the life of the customer" user story, including:
+* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
+* Product vision
+* Product features
+* Product benefits
+* Jobs the product will do
+
+Before and After
+* "Before" visualized (without product)
+* "After" visualized (with product) (How will the product influence, change the customer's life?)
+
+World 
+What does the world look like without this problem? 
+* How will world be different 18 months after launch? 
+* 3 years after launch?
+* 10 years after launch?
+
+Future Workshop
+* Tomorrow Headlines
+* Tomorrow SEC Filing
+* Poster
+
+Customers
+* Motivation (Pleasure or Pain)
+* Resource Flow
+* Become the customer
+
+Customer Influence Map
+
+Influencers, Recommenders
+* List those who could influence a customer’s buying decision
+
+"Economic Buyers" (The person whose budget pays for it)
+* Does the economic buyer already have budget for product
+* Does budget need to be approved?
+
+"Decision Makers"* 
+* Person who can kill purchase (for example by not approving budget)
+
+Potential Saboteurs
+
+## Cost Structure and Revenue Streams
+
 Business Model, Financial Model
 
 Pricing Tactics options
@@ -139,6 +181,22 @@ Multi-sided Market
 Learn how other side works, buys, how to optimize, how to address each side of the market, other distribution channel, create sales roadmap, create two problem presentations for multi-sided markets
 
 Verify Product/Market Fit
+
+## Strategic Analysis
+
+*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
+*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
+
+* PESTLIED
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
 
 ## Project
 
@@ -200,60 +258,6 @@ Internationalization and Localization
 * Cultural Probe
 * Internationalization
 * Localization
-
-Target
-* Target Audiences/Target Group
-* Define Your Audience
-* Extremes and Mainstreams, Extreme Users
-
-Personas, Use Cases, Role Play
-* Customer Archetype/Personas
-* User Story, Scenarios, Use Cases/Use Case Diagram, User Pathways
-* Typologies
-* Role Play and Script
-
-Customer Journey Map
-
-One page "Day in the life of the customer" user story, including:
-* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
-* Product vision
-* Product features
-* Product benefits
-* Jobs the product will do
-
-Before and After
-* "Before" visualized (without product)
-* "After" visualized (with product) (How will the product influence, change the customer's life?)
-
-World 
-What does the world look like without this problem? 
-* How will world be different 18 months after launch? 
-* 3 years after launch?
-* 10 years after launch?
-
-Future Workshop
-* Tomorrow Headlines
-* Tomorrow SEC Filing
-* Poster
-
-Customers
-* Motivation (Pleasure or Pain)
-* Resource Flow
-* Become the customer
-
-Customer Influence Map
-
-Influencers, Recommenders
-* List those who could influence a customer’s buying decision
-
-"Economic Buyers" (The person whose budget pays for it)
-* Does the economic buyer already have budget for product
-* Does budget need to be approved?
-
-"Decision Makers"* 
-* Person who can kill purchase (for example by not approving budget)
-
-Potential Saboteurs
 
 ## Design Sprint
 
