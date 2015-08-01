@@ -364,6 +364,41 @@ Board
 * Advisory Board Roadmap
 * Formal Advisory Board List
 
+Business Goals
+* Immediate business goals: in 1 month, 3 months, 6 months
+* Long term business goals: 1 year from now
+
+Going Forward
+* Roadmap
+* Feedback and Iteration
+* Scaling, Sustainability, and Growth
+
+Preliminary/Product Specifications
+* 18-month schedule of product delivery dates
+* MVP delivery date/features
+* List key follow-on product enhancements anticipated
+* Estimate current product and follow-on products
+* Will there be a series of products? 
+
+## Design
+
+Design Principles
+* Design and Methods
+* High Level Design
+* Design Guidelines
+* Styles Guides
+
+## Product Features and Benefits
+
+Product Feature List
+* List product features, review and prioritize list
+* 10 one- or two-sentence descriptions of product features
+
+Product Benefit List
+* List benefits through customer's eyes
+* Under the features, summarize benefits for each
+* Do the benefits needs to be explained?
+
 ## MVP
 
 * Low Fidelity Minimum Viable Product
@@ -397,9 +432,9 @@ Product Messaging/Positioning Statement
 * Team members given responsibilities
 * Steps identified to close a sale, deliver product
 
-### 
+### Sales and Marketing Materials Toolset 
 
-Sales and Marketing Materials Toolset (adapted from Steve Blank, Lean Customer Development) 
+(Adapted from Steve Blank, Lean Customer Development) 
 
 * PowerPoint sales presentation
 * Presentation leave-behind folder or brochure
@@ -435,7 +470,7 @@ For B-to-C companies
 * Coupons
 * Ad slicks
 
-Meetings
+## Meetings
 
 Prepare
 * Research target contacts
@@ -488,38 +523,11 @@ Scorecard (Feedback for)
 
 Spreadsheet
 
-## Design
 
-Design Principles
-* Design and Methods
-* High Level Design
-* Design Guidelines
-* Styles Guides
 
-Going Forward
-* Roadmap
-* Feedback and Iteration
-* Scaling, Sustainability, and Growth
 
-Business Goals
-* Immediate business goals: in 1 month, 3 months, 6 months
-* Long term business goals: 1 year from now
 
-Preliminary/Product Specifications
-* 18-month schedule of product delivery dates
-* MVP delivery date/features
-* List key follow-on product enhancements anticipated
-* Estimate current product and follow-on products
-* Will there be a series of products? 
 
-Product Feature List
-* List product features, review and prioritize list
-* 10 one- or two-sentence descriptions of product features
-
-Product Benefit List
-* List benefits through customer's eyes
-* Under the features, summarize benefits for each
-* Do the benefits needs to be explained?
 
 Summary Reports
 
@@ -538,44 +546,7 @@ Survey Question Type
 * Open ended with image
 
 
-## Advertising Methods
 
-Traditional Advertising Methods
-* TV        
-* Outdoor
-* Direct Mail
-* Cinema
-* Radio
-
-Small Market Outreach- Less than $300
-* Local Organization Memberships (ex . Chamber of Commerce, Kiwanis)
-* Community Service (nursing, home, food pantry, local schools,  youth programs, parks, hospitals, homeless shelters, Meals on Wheels)
-* Distribute Postcards/Flyers/Newsletter through Direct Mail/Email/by hand
-* Word of Mouth Campaign
-* Host Community Events/Activities at church or local school (concerts, sporting events, fairs, festivals, associations)
-* Articles/ads/announcements placed in free or low cost spots by local Radio, TV, Magazine, or Newspaper outlets, at their discretion
-* Website/Social Media Profiles- Ads, Analytics, Viral Content, Sharing Capability
-
-Medium Market Outreach- $300 to $1000
-* Same activities as for Small Market Outreach, but with larger budget 
-
-Additional Ideas
-* Outside signs, banners (ex. posters, yard signs, door hangers)
-* Grocery carts advertisements 
-* Novelty items- car magnets, church sportswear/apparel, freebies
-
-Large Market Outreach- Over $1000
-* Same activities as for Small/Medium Market Outreach, but with larger budget 
-
-Additional Ideas
-* Mass Mailings
-* Significant Radio, TV, Newspaper, Magazine Ad Campaign 
-* Significant Internet/Social Media Advertising Campaign
-* Host significant events
-* Billboards
-* UMC Media Kit
-
-Adapted From UMC Communications Marketing Tactics
 
 ### Considerations
 
