@@ -491,7 +491,7 @@ User Research Quantitative
 * [Cognitive Walkthrough](http://www.usabilitybok.org/cognitive-walkthrough)
 * [Pluralistic Usability Walkthrough](http://www.usabilitybok.org/pluralistic-walkthrough)
 * [Metaphors of Human Thinking](http://www.usabilitybok.org/metaphors-of-human-thinking-mot)
-* [Persona Based Inspection](http://www.usabilitybok.org/persona-based-inspection)
+* [Persona Based Inspection](http://www.usabilitybok.org/persona-based-inspection) (TBD)
 
 [Task Analysis and Modeling Methods](http://www.usabilitybok.org/task-analysis-modeling-methods)
 * [Task Analysis](http://www.usabilitybok.org/task-analysis)
