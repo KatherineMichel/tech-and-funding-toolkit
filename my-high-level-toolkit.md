@@ -234,12 +234,12 @@ Design Sprint
 Input and Feedback
 * Heuristic Evaluation
 * Tour
-* Interview
+* Interviews (Preparation and Guide), (Individual and Group), (Phone and Online)
 * Focus Group
-* Survey
+* Questionnaire/Survey (Design), (Paper and Online)
 
 Creative
-* Affinity Diagramming (Synonyms: Mind mapping)
+* Affinity Diagramming (Synonym: Mind mapping)
 * Crazy Eights
 * Storyboard
 * Mindmap
