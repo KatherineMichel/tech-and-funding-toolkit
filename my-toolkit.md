@@ -252,6 +252,13 @@ Methods and Channels
 * Qualitative: Information (listening)
 * Online, Email, Telephone, Mail, In person/on the street
 
+IDEO Possible Supplies: Fieldwork Materials  (IDEO)
+* Travel
+* Accommodation
+* Tools for work
+* Contact
+* Forms
+
 Heuristic and Walkthrough
 * Heuristic
 * Heuristic Evaluation/Expert Review/Expert Interview/Expert Evaluation
@@ -296,6 +303,22 @@ Internationalization and Localization
 * Localization
 
 ## Design Sprint
+
+### Possible Supplies
+
+IDEO Possible Supplies: Design Sprint (IDEO)
+* A place to meet
+* Wall or board
+* Whiteboard
+* Paper (small, large sheets)
+* Post-its
+* Pens
+* Notebook
+* Magazines
+* Glue
+* Tape
+* Art supplies
+* Camera 
 
 Creative Workshop
 * Facilitator, Moderator
@@ -345,6 +368,18 @@ User Testing
 * Pilot
 * Wizard of Oz
 
+Possible Supplies: Research and Prototyping Materials (IDEO)
+* Prototyping materials
+* Computer, internet connection
+* Research materials
+* Spreadsheet program
+
+Possible Supplies: Real World Testing Materials (IDEO)
+* Space
+* Staff
+* Permits
+
+Measurement
 * Effective
 * Efficiency
 * Engaging
