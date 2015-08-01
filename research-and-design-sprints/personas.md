@@ -1,5 +1,16 @@
 # Personas
 
+## Australian Government Digital Transformation Office
+
+* Persona group (for example, web manager)
+* Fictional name
+* Job titles and major responsibilities
+* Demographics such as age, education, ethnicity, and family status
+* Goals and tasks they are trying to complete using the service
+* Physical, social, and technological environment
+* Quote that sums up what matters most to the persona
+* Picture representing the user group
+
 ## Nesta DIY
 
 * Picture
