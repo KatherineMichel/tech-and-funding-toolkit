@@ -11,8 +11,8 @@ Beginnings, Problem, Idea, Vision
 Business
 * Venture Analysis
 * Statement of Work
-* Business Case/Business Plan
-* Requirements
+* Business Case/Business Plan, Cost Benefit Analysis
+* Requirements Gathering Methods and Meeting
 
 Business Plan Example
 * Executive Summary
@@ -28,10 +28,11 @@ Project
 * Project Approach: Agile/Scrum, Lean, Waterfall
 * Phases
 * Project Team Roles and Responsibilities
-* Stakeholders
+* Stakeholders, Stakeholder Interviews, Stakeholder Meeting
 * Critical Path
 * Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress, determine success)
 * SMART
+* Quality Function Deployment
 * Timeline
 
 Business Model Canvas
@@ -238,6 +239,7 @@ Input and Feedback
 * Survey
 
 Creative
+* Affinity Diagramming (Synonyms: Mind mapping)
 * Crazy Eights
 * Storyboard
 * Mindmap
@@ -247,11 +249,18 @@ Creative
 
 Web Design
 * Website Requirements
-* Card Sorting 
+* Free Listing
+* Card Sorting (Open and Closed)
 * Parallel Design
+
+Critique
+* Dotmocracy
+* Silent Critique
+* Group Critique
 
 User Testing
 * Wireframe
+* Mock Up
 * Prototype
 * Pilot
 
