@@ -278,23 +278,29 @@ Workshops and Interviews
 ## New Zealand Government Web Toolkit
 
 ### Methods
+
 *   [Analytics](https://webtoolkit.govt.nz/guidance/service-design/tools/analytics)
-*   [Brainstorming](https://webtoolkit.govt.nz/guidance/service-design/tools/brainstorming)
-*   [Card Sorting](https://webtoolkit.govt.nz/guidance/service-design/tools/card-sorting)
+
+*   [Usability](https://webtoolkit.govt.nz/guidance/service-design/tools/usability)
+
 *   [Ethnography](https://webtoolkit.govt.nz/guidance/service-design/tools/ethnography)
 *   [Focus Group](https://webtoolkit.govt.nz/guidance/service-design/tools/focus-groups)
 *   [In Depth Interviews](https://webtoolkit.govt.nz/guidance/service-design/tools/in-depth-interviews)
 *   [Intercept Interviews](https://webtoolkit.govt.nz/guidance/service-design/tools/intercept-interviews)
+
+*   [Storytelling](https://webtoolkit.govt.nz/guidance/service-design/tools/storytelling)
+*   [5 Whys](https://webtoolkit.govt.nz/guidance/service-design/tools/5-whys)
+*   [Brainstorming](https://webtoolkit.govt.nz/guidance/service-design/tools/brainstorming)
+*   [Card Sorting](https://webtoolkit.govt.nz/guidance/service-design/tools/card-sorting)
+
+*   [Scenarios](https://webtoolkit.govt.nz/guidance/service-design/tools/scenarios)
+*   [Typologies](https://webtoolkit.govt.nz/guidance/service-design/tools/typologies)
 *   [Personas](https://webtoolkit.govt.nz/guidance/service-design/tools/personas)
+
 *   [Protopying](https://webtoolkit.govt.nz/guidance/service-design/tools/prototyping)
 *   [Recruiting Users](https://webtoolkit.govt.nz/guidance/service-design/tools/recruiting-users)
-*   [Scenarios](https://webtoolkit.govt.nz/guidance/service-design/tools/scenarios)
-*   [Storytelling](https://webtoolkit.govt.nz/guidance/service-design/tools/storytelling)
 *   [Tree Testing](https://webtoolkit.govt.nz/guidance/service-design/tools/tree-testing)
-*   [Typologies](https://webtoolkit.govt.nz/guidance/service-design/tools/typologies)
-*   [Usability](https://webtoolkit.govt.nz/guidance/service-design/tools/usability)
 *   [User Testing Analysis](https://webtoolkit.govt.nz/guidance/service-design/tools/user-testing-analysis)
-*   [5 Whys](https://webtoolkit.govt.nz/guidance/service-design/tools/5-whys)
 
 ## Service Design Tools 
 
