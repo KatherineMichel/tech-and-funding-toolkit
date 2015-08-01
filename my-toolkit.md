@@ -332,6 +332,17 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 * Art supplies
 * Camera 
 
+### Agile Project Management
+
+* Facilitation
+* Use Case
+* User Story
+* Personas
+* Story splitting
+* Story mapping
+
+### Workshop
+
 Creative Workshop
 * Facilitator, Moderator
 * Thinking Hats
