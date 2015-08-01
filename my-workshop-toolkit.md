@@ -83,10 +83,6 @@
 * Typologies
 * Persona Based Inspection
 
-* Participant Observation
-* Participatory Design
-* Participatory Evaluation/Evaluate Prototype
-
 * Prototyping Protocol
 * Prototyping Framework
 * Prototyping Methods
@@ -155,6 +151,15 @@ Remote Usability
 User Research Methods
 Motivation Matrix
 
+Team Persona Cards
+Activity Sheet 
+Testing Plan 
+Activity Sheet 2 
+Telephone Template
+
+Web Analytics
+Analytics
+
 Download Your Learnings
 Bundle Ideas
 Create a Concept
@@ -166,7 +171,6 @@ Explore Your Hunch
 Gut Check
 Create Insight Statements
 Top Five
-Mindsets
 Emotion and Website Design
 Sampling Methodologies
 Claims Analysis
@@ -176,7 +180,6 @@ Cognitive Models
 GOMS
 KLM-GOMS
 User Edit
-Web Analytics
 Generating Ideas
 Function Allocation
 Physical Ergonomics
@@ -192,11 +195,6 @@ Evidence of Impact
 Account of Change
 Leverage Points
 Consolidating Learning from Development
-Team Persona Cards
-Activity Sheet 
-Testing Plan 
-Activity Sheet 2 
-Telephone Template
 Mapping Scales PDF
 Systems Innovation
 Evidence Planning
@@ -212,8 +210,6 @@ Improvement Triggers
 Blueprint
 Marketing Mix
 Scaling Plan Tool
-Analytics
-5 Whys
 Character Profiles
 Actors Map
 Constructive Interaction
@@ -226,10 +222,11 @@ Issue Card
 Selection
 Saturate and Group
 Point of View Madlib
-I Like, I Wish, What If
 Inspirational Info Source
 3-12-3
 Needs / Wants / Desires
+I Like, I Wish, What If
+5 Whys
 Who / What / Where / When
 What, Why, How
 Why, How, Laddering
