@@ -352,7 +352,7 @@ User Testing
 * Learnability
 * Readability (Synonyms: Plain language)
 
-##
+## Organization
 
 Organization
 * Organization Structure (Founders, Investors, Board)
@@ -372,38 +372,7 @@ Board
 * Initial Activities to Test
 * Sequential Optimization Plan
 
-
-Design Principles
-* Design and Methods
-* High Level Design
-* Design Guidelines
-* Styles Guides
-
-Going Forward
-* Roadmap
-* Feedback and Iteration
-* Scaling, Sustainability, and Growth
-
-Business Goals
-* Immediate business goals: in 1 month, 3 months, 6 months
-* Long term business goals: 1 year from now
-
-Preliminary/Product Specifications
-* 18-month schedule of product delivery dates
-* MVP delivery date/features
-* List key follow-on product enhancements anticipated
-* Estimate current product and follow-on products
-* Will there be a series of products? 
-
-Product Feature List
-* List product features, review and prioritize list
-* 10 one- or two-sentence descriptions of product features
-
-Product Benefit List
-* List benefits through customer's eyes
-* Under the features, summarize benefits for each
-* Do the benefits needs to be explained?
-
+## Company Positioning
 
 Company Messaging/Positioning Statement
 
@@ -417,7 +386,7 @@ Product Messaging/Positioning Statement
 * Match product positioning with market type
 * Validate positioning with customers, analyst/influencers
 
-Sales
+## Sales
 * Customer Access Map
 * Sales Channel Action Plan
 * Sales Roadmap, Sales Playbook
@@ -427,6 +396,8 @@ Sales
 * Sales channel management
 * Team members given responsibilities
 * Steps identified to close a sale, deliver product
+
+### 
 
 Sales and Marketing Materials Toolset (adapted from Steve Blank, Lean Customer Development) 
 
@@ -517,6 +488,39 @@ Scorecard (Feedback for)
 
 Spreadsheet
 
+## Design
+
+Design Principles
+* Design and Methods
+* High Level Design
+* Design Guidelines
+* Styles Guides
+
+Going Forward
+* Roadmap
+* Feedback and Iteration
+* Scaling, Sustainability, and Growth
+
+Business Goals
+* Immediate business goals: in 1 month, 3 months, 6 months
+* Long term business goals: 1 year from now
+
+Preliminary/Product Specifications
+* 18-month schedule of product delivery dates
+* MVP delivery date/features
+* List key follow-on product enhancements anticipated
+* Estimate current product and follow-on products
+* Will there be a series of products? 
+
+Product Feature List
+* List product features, review and prioritize list
+* 10 one- or two-sentence descriptions of product features
+
+Product Benefit List
+* List benefits through customer's eyes
+* Under the features, summarize benefits for each
+* Do the benefits needs to be explained?
+
 Summary Reports
 
 Survey Question Type
@@ -533,51 +537,6 @@ Survey Question Type
 * Large image choice
 * Open ended with image
 
-## Demographics
-
-* Total population
-* Urban, rural, farm
-* Metropolitan
-* Race and hispanic
-* Age and sex
-* Households
-* Marital status
-* Fertility
-* School attendance
-* Education
-* Place of birth
-* Foreign born
-* Country of birth
-* Nativity/parentage
-* Labor force
-* Occupation
-* Industry
-* States
-* Race/ethnicity
-
-## Documents
-
-Branded Documents and Sites (print, email, online)
-* Website/Blog/Social Media Presence
-* Directory Cover and Contents
-* Catalog/Product List
-* Flier
-* Brochure, Pamphlet
-* Poster
-* Newsletter
-* Bulletin
-* PowerPoint Slides
-* Letterhead and Envelope
-* Postcards (informational, product/service, special offer)
-* Business Card/Placeholder
-* Email (newsletter, even-activity, event-speaker)
-* Envelope
-* Labels
-* Electronic Advertisements
-* Media Advertisement
-* Calendar
-* Committee agendas
-* Committee minutes
 
 ## Advertising Methods
 
