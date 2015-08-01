@@ -319,13 +319,6 @@ Report Template: Card Sort Results DOCX
 
 ## IDEO
 
-### Phases
-
-* Process
-* Inspiration
-* Ideation
-* Implementation
-
 ### Possible Roles
 
 * Design Team
@@ -431,20 +424,6 @@ User Centered Design and User Needs
 * [Technology leadership](https://www.gov.uk/service-manual/the-team/recruitment/scs-orgdesign.html)
 * [Accessibility skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
 
-### Roles
-
-* [Chief Technology Officers Resources](https://www.gov.uk/service-manual/chief-technology-officers)
-* [Technical Architect Resources](https://www.gov.uk/service-manual/technical-architects)
-* [Service Managers Resources](https://www.gov.uk/service-manual/service-managers) and [Service Managers Skills](https://www.gov.uk/service-manual/the-team/service-manager.html)
-* [Delivery Manager](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
-* [Developers Resources](https://www.gov.uk/service-manual/developers) and [Developer Skills](https://www.gov.uk/service-manual/the-team/developer.html)
-* [Web Operations Resources](https://www.gov.uk/service-manual/web-ops) and [Web Operations skills](https://www.gov.uk/service-manual/the-team/web-operations.html)
-* [Designers Resources](https://www.gov.uk/service-manual/designers) and [Designer skills](https://www.gov.uk/service-manual/the-team/designer.html)
-* [Digital Leader](https://www.gov.uk/service-manual/the-team/digital-leader.html)
-* [User Researchers Resources](https://www.gov.uk/service-manual/user-researchers) and [User Researcher Skills](https://www.gov.uk/service-manual/the-team/user-researcher.html)
-* [Content Designers Resources](https://www.gov.uk/service-manual/content-designers) and [Content Designer Skills](https://www.gov.uk/service-manual/the-team/content-designer.html)
-* [Performance Analysts Resources](https://www.gov.uk/service-manual/performance-analysts)
-
 ### Methods
 
 Development
@@ -467,38 +446,7 @@ Development
 * [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
 * [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
 
-### Possible Roles
-
-* Accessibility
-* Business Analyst
-* Change Management
-* Content Strategy
-* Enterprise Architecture
-* Information Architecture
-* Interaction Design
-* Marketing
-* Metrics Analysis
-* Project Management
-* Quality Assurance
-* Subject Matter Expertise
-* Technical Development
-* User Research
-* Usability Testing
-* User Research Design
-* Visual Design
-
-
 # Project Management and Development
-
-See also... 
-
-*   [Tech and Venture Capital Toolkit Project Management](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/README.md#project-management)
-
-## Wikipedia
-
-Project Management
-* [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
-* [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 
 ## 18F
 
@@ -510,12 +458,6 @@ Development
 * [Frontend](https://pages.18f.gov/frontend)
 * [Analytics](https://github.com/18F/analytics-standards)
 * [Content](https://pages.18f.gov/content-guide)
-
-* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
-* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
-* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
-* [Before you Ship](https://pages.18f.gov/before-you-ship)
-* [APIs](https://github.com/18f/api-standards)
 
 ## Agile Project Management
 
@@ -581,7 +523,6 @@ Agile Practices
 * [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
 * [Heartbeat retrospective](http://guide.agilealliance.org/guide/heartbeatretro.html)
 
-* [Usability testing](http://guide.agilealliance.org/guide/usability.html)
 * [User stories](http://guide.agilealliance.org/guide/user-stories.html)
 * [Facilitation](http://guide.agilealliance.org/guide/facilitation.html)
 * [Personas](http://guide.agilealliance.org/guide/personas.html)
@@ -640,6 +581,13 @@ Agile Practices
 
 * [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
 
+Project Management
+* [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
+* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
+* [Quality](https://www.gov.uk/service-manual/agile/quality.html)
+* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
+* [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
+
 ## Australian Government Digital Transformation Office Project Management
 
 Team and Culture
@@ -651,32 +599,11 @@ Analytics and Measurement
 * [Analytics tools](https://www.dto.gov.au/design-guides/guide/analytics-tools)
 * [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
 
-Development
-
-Open Source
-* [Using open standards](https://www.dto.gov.au/design-guides/guide/using-open-standards)
-* [Sharing source code](https://www.dto.gov.au/design-guides/guide/sharing-source-code)
-* [Using APIs](https://www.dto.gov.au/design-guides/guide/using-apis)
-* [Open data](https://www.dto.gov.au/design-guides/guide/open-data)
-
-Identity and Privacy
-* [Identity assurance](https://www.dto.gov.au/design-guides/guide/identity-assurance)
-* [Privacy requirements](https://www.dto.gov.au/design-guides/guide/privacy-requirements)
-
-Websites
-* [Selecting a content management system](https://www.dto.gov.au/design-guides/guide/selecting-content-management-system)
-* [Domain names](https://www.dto.gov.au/design-guides/guide/domain-names)
-* [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
-
 Branding, Social Media and Content
 * [Branding](https://www.dto.gov.au/design-guides/guide/branding)
 * [Using social media to engage users](https://www.dto.gov.au/design-guides/guide/using-social-media-engage-users)
 * [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
 * [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
-
-Case Studies
-* [Case study: Connecting with customers on social media](https://www.dto.gov.au/design-guides/guide/case-study-connecting-customers-social-media)
-* [Case study: Improving website user experiences](https://www.dto.gov.au/design-guides/guide/case-study-improving-website-user-experiences)
 
 ## Design Kit 
 
@@ -810,20 +737,32 @@ Design and Development
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
 
-## U.K. Gov Agile 
-
-Project Management
-* [Agile](https://www.gov.uk/service-manual/agile/index.html)
-* [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
-* [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
-* [Training and learning about agile](https://www.gov.uk/service-manual/agile/training-and-learning.html)
-* [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
-* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
-* [Quality](https://www.gov.uk/service-manual/agile/quality.html)
-* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
-* [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
+Case Studies
+* [Case study: Connecting with customers on social media](https://www.dto.gov.au/design-guides/guide/case-study-connecting-customers-social-media)
+* [Case study: Improving website user experiences](https://www.dto.gov.au/design-guides/guide/case-study-improving-website-user-experiences)
 
 Development
+
+* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
+* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
+* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
+* [Before you Ship](https://pages.18f.gov/before-you-ship)
+* [APIs](https://github.com/18f/api-standards)
+
+Open Source
+* [Using open standards](https://www.dto.gov.au/design-guides/guide/using-open-standards)
+* [Sharing source code](https://www.dto.gov.au/design-guides/guide/sharing-source-code)
+* [Using APIs](https://www.dto.gov.au/design-guides/guide/using-apis)
+* [Open data](https://www.dto.gov.au/design-guides/guide/open-data)
+
+Identity and Privacy
+* [Identity assurance](https://www.dto.gov.au/design-guides/guide/identity-assurance)
+* [Privacy requirements](https://www.dto.gov.au/design-guides/guide/privacy-requirements)
+
+Websites
+* [Selecting a content management system](https://www.dto.gov.au/design-guides/guide/selecting-content-management-system)
+* [Domain names](https://www.dto.gov.au/design-guides/guide/domain-names)
+* [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
 
 Making Software
 * [Making software](https://www.gov.uk/service-manual/making-software/index.html)
