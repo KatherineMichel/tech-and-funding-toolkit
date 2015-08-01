@@ -21,16 +21,7 @@
 * Analogous Inspiration
 * Secondary Research
 * Peers Observing Peers
-* Guided Tour
 * Immersion
-* Experience Tour
-* Shadowing
-
-* Focus Groups, Mini Groups, and 1:1 Interviews
-* In Depth Interviews
-* Intercept Interviews (Guerilla)
-* Contextual Interview (Contextual)
-* Interview for Empathy
 
 * Conversation Starters
 * Stoke
