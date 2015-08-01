@@ -21,8 +21,10 @@ Future Workshop
 ## Business Analysis and Plan
 
 Business
-* Venture Analysis, Pitch Practice
+* Venture Analysis, Create a Pitch, Pitch Practice
 * Business Case/Business Plan, Cost Benefit Analysis
+* Setting up a Venture
+* Capabilities Assessment
 * Define Terminology
 
 Business Plan Example
@@ -297,6 +299,10 @@ Studies
 * Diary Study
 * Photo Study
 
+Cognitive Models
+* GOMS
+* KLM-GOMS
+
 Internationalization and Localization
 * Cultural Probe
 * Internationalization
@@ -334,6 +340,7 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 
 ### Agile Project Management
 
+* Everybody owns the problem
 * Facilitation
 * Use Case
 * User Story
@@ -345,12 +352,13 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 
 Creative Workshop
 * Facilitator, Moderator
+* "How might we..."
 * Thinking Hats
 * Mindsets
 
 Participation
 * Participant Observation
-* Participatory Design
+* Participatory Design/Co-Creation
 * Participatory Evaluation (Prototype)
 
 Design Games
