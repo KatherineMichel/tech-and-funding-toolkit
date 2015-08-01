@@ -2,17 +2,24 @@
 * ISO 13407: Human centred design processes for interactive systems/Observation of Users Patterns
 
 * Usability and Testing
-* Accessibility and Testing
-* User Centered/Centred Design and Methods
+* Accessibility (Synonyms: ARIA, Section 508, WAI WCAG) and Testing
+* User Centered/Centred Design and Methods (UCD)
 * User Research (chart) and Testing
 * An introduction to user research techniques
 * User Research Background Techniques
-* User Research Tools
+* Professional User Research Tools and Methods
 * User Research Briefs
-* Professional Research Methods
-* User Experience 
+* User Experience (UE)
 * User Engagement
+* Interface
 * Interaction Design 
+
+* Human Factors
+* Human-Computer Interaction (HCI)
+* Usability Engineering
+[Usability Evaluation Methods](http://www.usabilitybok.org/usability-evaluation-methods)
+* [Formative Evaluation](http://www.usabilitybok.org/formative-evaluation)
+* [Summative Evaluation](http://www.usabilitybok.org/summative-evaluation)
 
 * Getting Started
 * Planning Tools
@@ -41,7 +48,7 @@
 * Prototype for Empathy
 * Prototype for Test
 
-* Usability Testing
+* Usability Evaluation/Testing and Methods
 * Planning a Usability Test
 * Recruiting Usability Test Participants/Recruiting Users
 * Running a Usability Test
@@ -59,7 +66,7 @@
 * Rating Scales
 * Likert Scale
 * Satisfaction Questionnaire
-* Usability Benchmark
+* Usability Benchmark/Benchmark Testing
 * System Usability Scale (SUS)
 * Critical Incident Technique (CIT)/Critical Incident Analysis
 
@@ -72,15 +79,12 @@ Same Day User Testing (Online Qualitative)
 Lab Based User Testing
 Tree Testing
 
-Usability Testing Methods
-Benchmark Testing
 Competitive Usability Testing
 Summative Usability Testing
 Remote Evaluation
 Think-aloud Protocol
 Iterative Design
 Graceful Degradation
-Usability Evaluation
 No Fail Accessibility Testing
 HHS Usability Lab
 
@@ -90,10 +94,7 @@ User Research Qualitative Techniques
 Community User Groups
 Online Research Panels
 Online Omnibus Survey
-User Research Quantitative
-User Research Surveys
-Remote Usability
-User Research Methods
+Remote Usability Tests
 Motivation Matrix
 
 Team Persona Cards
@@ -116,6 +117,7 @@ Explore Your Hunch
 Gut Check
 Create Insight Statements
 Top Five
+
 Emotion and Website Design
 Sampling Methodologies
 Claims Analysis
@@ -178,23 +180,11 @@ Why, How, Laddering
 
 * Case Study
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
-* Culture
 
 * 7 plus or minus 2
 * Chunking
 * Hick's law (Hick-Hyman law)
 
-* Interface
-* Human Factors
-* Human-Computer Interaction (HCI)
-* Interaction Design
-* Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
-* Usability Engineering
-[Usability Evaluation Methods](http://www.usabilitybok.org/usability-evaluation-methods)
-* [Formative Evaluation](http://www.usabilitybok.org/formative-evaluation)
-* [Summative Evaluation](http://www.usabilitybok.org/summative-evaluation)
-* User Experience (UE)
-* User-Centered Design (UCD)
 * Wayfinding
 * Conspicuity
 * Affordance
@@ -208,8 +198,6 @@ Designing inclusive services
 Assisted digital
 Integrating offline activity
 
-Questions to Ask at Kick-Off Meetings DOCX
-Persona Development Discussion Guide DOCX
 UX Study Overview Template DOCX
 Usability Study Process and Materials Checklist DOCX
 Usability Test Plan Template DOCX
@@ -221,102 +209,29 @@ SOW Template: Usability Task Order Request DOCX
 Introduction to Testing with Moderator Interaction DOCX
 Introduction to Testing without Moderator Interaction DOCX
 Measurable Usability Goals Template DOCX
-Usability Test Screener: Government website DOCX
-Usability Test Screener: Website (example 1) DOCX
-Usability Test Screener: Website (example 2) DOCX
-Usability Test Screener - Mobile Device Testing DOCX
-Usability Test Screener: Online Survey DOCX
-Email Template: Usability Study Recruiting DOCX
-Consent & Recording Release Form (Adult) DOCX
-Consent & Recording Release Form (Minor) DOCX
-Digital Recording Release Form DOCX
-Digital Recording Release Form (Minor) DOCX
-Consent Form: Remote Usability Test (Adult) DOCX
-Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX
-Receipt Form: Usability Test Compensation (Minor) DOCX
-Report Template: Usability Test DOCX
-Report Template: Usability Test Results (Short/Informal) DOCX
-Report Template: Usability Test Results (Long/Formal) DOCX
-Report Template: Usability Test Results PowerPoint (Short) PPTX
-Report Template: Usability Test Results PowerPoint (Long) PPTX
-Report Template: Survey DOCX
-Report Template: Survey Research Findings PPTX
-Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX
-Report Template: Card Sort Results DOCX
-
-## IDEO
-
-### Possible Roles
-
-* Design Team
-* Project Lead
-* Person you’re designing for
-* Key Partners, Stakeholders
-* Expert
-* Staff
-* Community Members
-* Interviewer
-* Interviewees
-
-### Possible Supplies
-
-General
-* A place to meet
-* Wall or board
-* Whiteboard
-* Paper (small, large sheets)
-* Post-its
-* Pens
-* Notebook
-* Magazines
-* Glue
-* Tape
-* Art supplies
-* Camera 
-
-Research and Prototyping
-* Prototyping materials
-* Computer, internet connection
-* Research materials
-* Spreadsheet program
-
-Fieldwork
-* Travel
-* Accommodation
-* Tools for work
-* Contact
-
-Real World Testing
-* Space
-* Staff
-* Permits
-
-
-
+Recruiting Screener: Website, Mobile Device Testing, Online Survey
+Usability Study Recruiting Email Template DOCX
+Consent Form, Consent & Recording Release Form, Digital Recording Release Form, Remote Usability Test
+Usability Test Compensation Receipt Form 
+Usability Test DOCX
+Usability Test Results (Short/Informal) DOCX and PPTX
+Usability Test Results (Long/Formal) DOCX and PPTX
+Survey Research Findings DOCS and PPTX
+Metrics PowerPoint (Statistics Review and Design Implications) PPTX
+Card Sort Results DOCX
 
 ## Knowledge Sharing Toolkit
 ## Nielson Norman
 
 *   [Which UX Research Methods](http://www.nngroup.com/articles/which-ux-research-methods)
-*   [Interviewing Users](http://www.nngroup.com/articles/interviewing-users)
 *   [Why You Only Need to Test with Five Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users)
 *   [Task Scenarios Usability Testing](http://www.nngroup.com/articles/task-scenarios-usability-testing)
-*   [Remote Usability Tests](http://www.nngroup.com/articles/remote-usability-tests)
 *   [Mental Models (referenced in Card Sorting)](http://www.nngroup.com/articles/mental-models)
 *   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
 
 * [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
 
-### The Team
-
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
-* [The team](https://www.gov.uk/service-manual/the-team/index.html)
-* [Job Descriptions](https://www.gov.uk/service-manual/the-team/recruitment/job-descriptions.html)
-* [Recruitment Hub](https://www.gov.uk/service-manual/the-team/recruitment/hub.html)
-* [Working with specialist suppliers](https://www.gov.uk/service-manual/the-team/working-with-specialists.html)
-* [Your working environment](https://www.gov.uk/service-manual/the-team/working-environment.html)
-* [Technology leadership](https://www.gov.uk/service-manual/the-team/recruitment/scs-orgdesign.html)
-* [Accessibility skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
 
 ### Methods
 
@@ -325,22 +240,12 @@ Development
 * [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
 * [Introduction to governance for service delivery](https://www.gov.uk/service-manual/governance/introduction-to-governance-for-service-delivery.html)
 * [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
-* [Assurance for digital services](https://www.gov.uk/service-manual/governance/assurance-for-digital-services.html)
+* [Assurance
 * [Assurance from those outside the service team](https://www.gov.uk/service-manual/governance/assurance-from-those-outside-the-service-team.html)
 * [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
 * [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
 * [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
-* [What to expect from the show and tell](https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html)
-* [Seeing progress](https://www.gov.uk/service-manual/governance/seeing-progress.html)
-
-* [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
-
-* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
-* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
-* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
-* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
-
-# Project Management and Development
+* [What to expect from the show and tell
 
 ## 18F
 
@@ -350,33 +255,17 @@ Agile Project Management
 
 Development
 * [Frontend](https://pages.18f.gov/frontend)
-* [Analytics](https://github.com/18F/analytics-standards)
 * [Content](https://pages.18f.gov/content-guide)
 
 ## Agile Project Management
 
 Agile Project Management Methodologies
-*   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
-*   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
-*   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
-*   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
+*   Extreme Programming and Extreme Project Management
 *   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
 *   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 *   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-*   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
-*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
-*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp) and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
-*   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
-
-Sprints
-*   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
-*   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
-
-## Agile Wikipedia
-
-* [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods)
-* [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
+*   Scrum
 
 Agile Practices
 * [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
@@ -395,8 +284,6 @@ Agile Practices
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 
 * [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
-* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
-* [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 * [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
 * [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
 * [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
@@ -410,27 +297,19 @@ Agile Practices
 * [Site Map](http://agilealliance.org/site-map)
 
 * [Project chartering](http://guide.agilealliance.org/guide/project-chartering.html)
-* [Planning poker](http://guide.agilealliance.org/guide/poker.html)
 * [Version control](http://guide.agilealliance.org/guide/versioncontrol.html)
-* [Pair programming](http://guide.agilealliance.org/guide/pairing.html)
 * [Refactoring](http://guide.agilealliance.org/guide/refactoring.html)
 * [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
 * [Heartbeat retrospective](http://guide.agilealliance.org/guide/heartbeatretro.html)
 
-* [User stories](http://guide.agilealliance.org/guide/user-stories.html)
-* [Facilitation](http://guide.agilealliance.org/guide/facilitation.html)
-* [Personas](http://guide.agilealliance.org/guide/personas.html)
 * [Quick design session](http://guide.agilealliance.org/guide/quickdesign.html)
 * [Simple design](http://guide.agilealliance.org/guide/simple-design.html)
-* [Story splitting](http://guide.agilealliance.org/guide/split.html)
-* [Story mapping](http://guide.agilealliance.org/guide/storymap.html)
 * [Role-feature-reason](http://guide.agilealliance.org/guide/rolefeature.html)
 * [Three C's](http://guide.agilealliance.org/guide/threecs.html)
 * [Invest](http://guide.agilealliance.org/guide/invest.html)
 * [Given - When - Then](http://guide.agilealliance.org/guide/gwt.html)
 
 * [Scrum of Scrums](http://guide.agilealliance.org/guide/scrumofscrums.html)
-* [Team](http://guide.agilealliance.org/guide/team.html)
 * [Team room](http://guide.agilealliance.org/guide/teamroom.html)
 * [Collective ownership](http://guide.agilealliance.org/guide/cco.html)
 * [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
@@ -484,9 +363,6 @@ Project Management
 
 ## Australian Government Digital Transformation Office Project Management
 
-Team and Culture
-* [The team](https://www.dto.gov.au/design-guides/guide/team)
-* [Recruitment](https://www.dto.gov.au/design-guides/guide/recruitment)
 * [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
 
 Analytics and Measurement
@@ -557,12 +433,6 @@ Project Management
 
 Project Management
 
-Scaling and Governance
-* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
-* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
-* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
-
-* [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
 * [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 * [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
@@ -573,7 +443,6 @@ Scaling and Governance
 * [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
 
 Measurement
-* [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
 * [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
 * [Using data](https://www.gov.uk/service-manual/measurement/using-data.html)
 * [Key performance indicators](https://www.gov.uk/service-manual/measurement/other-kpis.html)
