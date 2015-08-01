@@ -245,6 +245,13 @@ Lightning Demos/Lightning Presentations
 * Related/adjacent products
 * Innovators in the space
 
+### Data Gathering Methods
+
+Methods and Channels
+* Quantitative: Data (analytics)
+* Qualitative: Information (listening)
+* Online, Email, Telephone, Mail, In person/on the street
+
 Heuristic and Walkthrough
 * Heuristic
 * Heuristic Evaluation/Expert Review/Expert Interview/Expert Evaluation
@@ -260,7 +267,9 @@ Input and Feedback
 * Contextual Interview (Contextual)
 * Interview for Empathy
 * Focus Group, Mini Groups
-* Questionnaire/Survey (Design), (Paper and Online)
+* Questionnaire/Survey/Poll (Design), (Paper and Online)
+* Forums/Panels
+* Facilitation
 
 Tasks
 * Task Analysis and Modeling Methods
@@ -311,6 +320,10 @@ Design Games
 * Miscellaneous: Mash Ups, Moodboard
 * Lego Serious Play and Lego Journey Map
 
+Problem Methods
+* Problem Structuring 
+* Problem Solving Methods
+
 Web Design
 * Taxonomy, Information Architecture (IA)
 * Website Requirements
@@ -320,6 +333,7 @@ Web Design
 * Parallel Design
 
 Critique
+* Share, discuss
 * Dotmocracy
 * Silent Critique
 * Group Critique
@@ -338,8 +352,25 @@ User Testing
 * Learnability
 * Readability (Synonyms: Plain language)
 
+##
 
+Organization
+* Organization Structure (Founders, Investors, Board)
+* Organization Chart
+* Company 3-5 Core Values
 
+Board
+* Initial List of Advisory Board Prospects
+* Advisory Board Roadmap
+* Formal Advisory Board List
+
+## MVP
+
+* Low Fidelity Minimum Viable Product
+* High Fidelity Minimum Viable Product
+* Dashboard
+* Initial Activities to Test
+* Sequential Optimization Plan
 
 
 Design Principles
@@ -347,13 +378,6 @@ Design Principles
 * High Level Design
 * Design Guidelines
 * Styles Guides
-
-MVP
-* Low Fidelity Minimum Viable Product
-* High Fidelity Minimum Viable Product
-* Dashboard
-* Initial Activities to Test
-* Sequential Optimization Plan
 
 Going Forward
 * Roadmap
@@ -380,15 +404,6 @@ Product Benefit List
 * Under the features, summarize benefits for each
 * Do the benefits needs to be explained?
 
-Organization
-* Organization Structure (Founders, Investors, Board)
-* Organization Chart
-* Company 3-5 Core Values
-
-Board
-* Initial List of Advisory Board Prospects
-* Advisory Board Roadmap
-* Formal Advisory Board List
 
 Company Messaging/Positioning Statement
 
@@ -501,31 +516,6 @@ Scorecard (Feedback for)
 * Sales results compared to sales estimates/quota
 
 Spreadsheet
-
-## Data Gathering Methods
-
-* Quantitative: Data (analytics)
-* Qualitative: Information (listening)
-
-Data Gathering Methods
-* Surveys (Survey Monkey)
-* Polls
-* Interviews
-* Focus Groups
-* Facilitation 
-* Forums/Panels
-
-Channels
-* Online
-* Email
-* Telephone
-* Mail
-* In person/on the street
-
-Facilitation
-* Brainstorm, share, discuss
-* Problem Structuring 
-* Problem Solving Methods
 
 Summary Reports
 
