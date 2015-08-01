@@ -2,19 +2,8 @@
 
 ## Australian Government Digital Transformation Office
 
-* Persona group (for example, web manager)
-* Fictional name
-* Job titles and major responsibilities
-* Demographics such as age, education, ethnicity, and family status
-* Goals and tasks they are trying to complete using the service
-* Physical, social, and technological environment
-* Quote that sums up what matters most to the persona
-* Picture representing the user group
-
 ## Nesta DIY
 
-* Picture
-* Persona name
 * Audience segment
 * Who am I?
 * My interests
@@ -35,8 +24,6 @@ Include
 * Business objectives
 
 Details
-* Name
-* Photograph
 * Demographics: (age, gender, education, ethnicity, or marital status, children, home location)
 * Occupation details
 * Technology comfort level
@@ -77,7 +64,7 @@ Elements of a Persona
 * Fictional name
 * Job titles and major responsibilities
 * Demographics such as age, education, ethnicity, and family status
-* The goals and tasks they are trying to complete using the site
+* The goals and tasks they are trying to complete using the site/service
 * Their physical, social, and technological environment
 * A quote that sums up what matters most to the persona as it relates to your site
 * Casual pictures representing that user group
