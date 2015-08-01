@@ -14,17 +14,9 @@ Business
 * Business Case/Business Plan, Cost Benefit Analysis
 * Requirements Gathering Methods and Meeting
 
-Business Plan Example
-* Executive Summary
-* Business Overview
-* Sales and Marketing
-* Finances, Planning
-* Staff and Management Team
-* Operations and Resources
-
 Project
 * Project Charter
-* Project Definition Plan
+* Project Plan/Project Definition Plan
 * Project Approach: Agile/Scrum, Lean, Waterfall
 * Phases
 * Project Team Roles and Responsibilities
@@ -35,6 +27,30 @@ Project
 * SMART
 * Quality Function Deployment
 * Timeline
+* Pitch Practice
+
+Strategic Analysis
+*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
+*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
+
+* PESTLIED
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
+
+Business Plan Example
+* Executive Summary
+* Business Overview
+* Sales and Marketing
+* Finances, Planning
+* Staff and Management Team
+* Operations and Resources
 
 Business Model Canvas
 
@@ -116,49 +132,6 @@ Revenue model options
 * Referral
 * Affiliate
 
-Research Sprint
-
-Strategic Analysis
-*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
-*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
-*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
-
-* PESTLIED
-* ANSOF
-* Strategic Groups
-* Resource-Based Approach
-* N-Step
-* Prescriptive
-* Kaleidoscope
-* Kant
-* Kotter
-
-Competitor Analysis
-* Competitive grid
-* Time spent using competitor and adjacent products
-* Competitor company description, vision, mission statement, product positioning statement for comparison
-* Competitor traffic analysis/measurement
-* Competitive product and pricing information
-* Competitor press releases
-
-Lightning Demos
-* Competitor/potential competitor products
-* Related/adjacent products
-* Innovators in the space
-
-Studies
-* Context of Use Analysis
-* Context of Use Methods
-* Contextual Inquiry
-* Longitudinal Study
-* Ethnography
-* Ethnographic Research and Methods
-* Evaluating (Usage of) an Existing System
-* Diagnostic Evaluation
-* Field Study and Methods
-* Diary Study
-* Photo Study
-
 Market Analysis
 * Overall market knowledge
 * Market map
@@ -181,24 +154,56 @@ Learn how other side works, buys, how to optimize, how to address each side of t
 
 Verify Product/Market Fit
 
-Customers
-* Motivation (Pleasure or Pain)
-* Resource Flow
-* Become the customer
+Research Sprint
 
-Customer Influence Map
+Competitor Analysis
+* Competitive grid
+* Time spent using competitor and adjacent products
+* Competitor company description, vision, mission statement, product positioning statement for comparison
+* Competitor traffic analysis/measurement
+* Competitive product and pricing information
+* Competitor press releases
 
-Influencers, Recommenders
-* List those who could influence a customer’s buying decision
+Target
+* Target Audiences/Target Group
+* Define Your Audience
+* Extremes and Mainstreams, Extreme Users
 
-"Economic Buyers" (The person whose budget pays for it)
-* Does the economic buyer already have budget for product
-* Does budget need to be approved?
+Lightning Demos/Lightning Presentations
+* Competitor/potential competitor products
+* Related/adjacent products
+* Innovators in the space
 
-"Decision Makers"* 
-* Person who can kill purchase (for example by not approving budget)
+Heuristic and Walkthroughs
+* Heuristic
+* Heuristic Evaluation/Expert Review/Expert Interview/Expert Evaluation
+* Heuristic Walkthrough
+* Cognitive Walkthrough
+* Pluralistic Usability Walkthrough
 
-Potential Saboteurs
+Tasks
+* Task Analysis and Modeling Methods
+* Cognitive Task Analysis
+* Hierarchical Task Analysis
+* Allocate Tasks
+
+Studies
+* Context of Use Analysis
+* Context of Use Methods
+* Contextual Inquiry
+* Longitudinal Study
+* Ethnography
+* Ethnographic Research and Methods
+* Evaluating (Usage of) an Existing System
+* Diagnostic Evaluation
+* Field Study and Methods
+* Diary Study
+* Photo Study
+
+Internationalization and Localization
+* Cultural Probe
+* Internationalization
+* Localization
 
 Personas, Use Cases, Role Play
 * Customer Archetype/Personas
@@ -229,6 +234,25 @@ Future Workshop
 * Tomorrow Headlines
 * Tomorrow SEC Filing
 * Poster
+
+Customers
+* Motivation (Pleasure or Pain)
+* Resource Flow
+* Become the customer
+
+Customer Influence Map
+
+Influencers, Recommenders
+* List those who could influence a customer’s buying decision
+
+"Economic Buyers" (The person whose budget pays for it)
+* Does the economic buyer already have budget for product
+* Does budget need to be approved?
+
+"Decision Makers"* 
+* Person who can kill purchase (for example by not approving budget)
+
+Potential Saboteurs
 
 Design Sprint
 
@@ -300,7 +324,18 @@ User Testing
 * Pilot
 * Wizard of Oz
 
+* Effective
+* Efficiency
+* Engaging
+* Easy to Learn
+* Learnability
+* Readability (Synonyms: Plain language)
+
 Design Principles
+* Design and Methods
+* High Level Design
+* Design Guidelines
+* Styles Guides
 
 MVP
 * Low Fidelity Minimum Viable Product
