@@ -204,7 +204,7 @@ Verify Product/Market Fit
 ## Project
 
 * Project Charter, Project Plan/Project Definition Plan, Statement of Work
-* Project Approach: Agile/Scrum, Lean, Waterfall
+* Project Approach: Agile/Scrum/Kanban, Lean, Waterfall
 * Phases
 * Requirements Gathering Methods and Meeting
 * Project Team Roles and Responsibilities
@@ -432,11 +432,14 @@ Possible Supplies: Real World Testing Materials (IDEO)
 * Permits
 
 Measurement
-* Effective
-* Efficiency
-* Engaging
-* Easy to Learn
-* Learnability
+* Rating Scales
+* Likert Scale
+* Satisfaction Questionnaire
+* Usability Benchmark/Benchmark Testing
+* System Usability Scale (SUS)
+* Critical Incident Technique (CIT)/Critical Incident Analysis
+* Effective, Efficiency, Engaging
+* Learnability, Easy to Learn
 * Readability (Synonyms: Plain language)
 
 Feedback and Iteration
