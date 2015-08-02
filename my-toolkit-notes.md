@@ -112,8 +112,6 @@ Why, How, Laddering
 Building digital services, Building secure services
 Integrating offline activity
 
-Analytics Tools
-
 UX Study Overview Template DOCX
 Usability Study Process and Materials Checklist DOCX
 Usability Test Plan Template DOCX
@@ -130,19 +128,11 @@ Card Sort Results DOCX
 * How delivery teams manage their work
 
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-* Agile Testing Wikipedia, Test Driven Development, Acceptance Test Driven Development, Behavior Driven Development
 * [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 
-* Pair Programming
-* Iterative and Incremental Development Wikipedia
-* Continuous Integration and deployment
-* Code Refactoring
-
 * [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
-
-* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
 
 ## Agile Allegiance
 
@@ -161,7 +151,6 @@ Card Sort Results DOCX
 * [Team room](http://guide.agilealliance.org/guide/teamroom.html)
 * [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
 * [Niko-niko calendar](http://guide.agilealliance.org/guide/nikoniko.html)
-* [Daily meeting](http://guide.agilealliance.org/guide/daily.html)
 
 * [Lead time](http://guide.agilealliance.org/guide/leadtime.html)
 * [Sustainable pace](http://guide.agilealliance.org/guide/sustainable.html)
@@ -173,20 +162,15 @@ Card Sort Results DOCX
 * [Definition of Done](http://guide.agilealliance.org/guide/definition-of-done.html)
 * [Definition of Ready](http://guide.agilealliance.org/guide/definition-of-ready.html)
 
-* [ATDD](http://guide.agilealliance.org/guide/atdd.html)
 * [Automated build](http://guide.agilealliance.org/guide/autobuild.html)
 * [Backlog grooming](http://guide.agilealliance.org/guide/backlog-grooming.html)
 * [Backlog](http://guide.agilealliance.org/guide/backlog.html)
-* [BDD](http://guide.agilealliance.org/guide/bdd.html)
 * [Exploratory testing](http://guide.agilealliance.org/guide/exploratory.html)
 * [Mock objects](http://guide.agilealliance.org/guide/mocks.html)
-* [TDD](http://guide.agilealliance.org/guide/tdd.html)
 * [Unit testing](http://guide.agilealliance.org/guide/unittest.html)
 * [CRC cards](http://guide.agilealliance.org/guide/crc.html)
 
 * [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
-
-* [Quality](https://www.gov.uk/service-manual/agile/quality.html)
 
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
