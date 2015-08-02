@@ -1,15 +1,10 @@
-* Planning Usability
 * ISO 13407: Human centred design processes for interactive systems/Observation of Users Patterns
 
-* Usability and Testing
 * Usability Engineering
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG) and Testing
 * User Centered/Centred Design and Methods (UCD)
 * User Needs
-* User Research (chart) and Testing
-* An introduction to user research techniques
-* User Research Background Techniques
-* Professional User Research Tools and Methods
+* User Research and Methods
 * User Research Briefs
 * User Experience (UX/UE)
 * User Engagement
@@ -88,11 +83,10 @@ I Like, I Wish, What If
 Who / What / When / Where/ Why / How
 Why, How, Laddering
 
-*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
-*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
-
-*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
-*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
+* People Connections Map
+* Experience Map
+* Innovation Flowchart
+* Critical Tasks List
 
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 
@@ -123,20 +117,11 @@ Survey Research Findings DOCS and PPTX
 Metrics PowerPoint (Statistics Review and Design Implications) PPTX
 Card Sort Results DOCX
 
-* How delivery teams manage their work
-
-* [Subway](http://guide.agilealliance.org/subway.html)
-
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 * [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
-
-* [Role-feature-reason](http://guide.agilealliance.org/guide/rolefeature.html)
-* [Three C's](http://guide.agilealliance.org/guide/threecs.html)
-* [Invest](http://guide.agilealliance.org/guide/invest.html)
-* [Given - When - Then](http://guide.agilealliance.org/guide/gwt.html)
 
 * [Lead time](http://guide.agilealliance.org/guide/leadtime.html)
 * [Sustainable pace](http://guide.agilealliance.org/guide/sustainable.html)
