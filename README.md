@@ -775,6 +775,7 @@ KPCB and John Maeda Design in Tech Report
 
 Website Launch Checklist
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
+*   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 
 Company Design
 *   [Medium Design](https://medium.com/designing-medium)  
