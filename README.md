@@ -555,13 +555,14 @@ International Organizations Reports and Data
 International Organizations Special Reports: Business and Competitiveness
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
 *   [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
-*   [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) 
+*   [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
+*   [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
 *   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
 *   [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
 *   [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
 
 International Organizations Special Reports: Development
-*   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
+*   [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index)  
 *   [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
 *   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
 *   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
@@ -569,8 +570,12 @@ International Organizations Special Reports: Development
 International Info
 *   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
 *   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
+*   [Lists of Countries by Number of Internet Users Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users) 
+*   [Lists of Countries by Number of Mobile Phones in Use Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use) 
+*   [Lists of Countries by Smartphone Penetration Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) 
 *   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
 *   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
+*   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
 #### News Sources
 Guardian Directory of News Websites
