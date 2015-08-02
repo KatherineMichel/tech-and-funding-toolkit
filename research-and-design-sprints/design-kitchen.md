@@ -3,7 +3,6 @@
 ## 18F
 
 * [Accessibility](https://pages.18f.gov/accessibility)
-* [Grouplets](https://pages.18f.gov/grouplet-playbook)
 
 ## Australian Government Digital Transformation Office
 
