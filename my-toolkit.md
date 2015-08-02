@@ -211,6 +211,7 @@ Verify Product/Market Fit
 * Phases
 * Requirements Gathering Methods and Meeting
 * Project Team Roles and Responsibilities
+* Recruitment, Building a Team, Building Partnerships
 * Governance
 * Spending Controls
 * Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors Map," "Motivation Matrix"
@@ -261,6 +262,7 @@ Methods and Channels
 * Quantitative: Data (analytics)
 * Qualitative: Information (listening)
 * Online, Email, Telephone, Mail, In person/on the street
+* Sampling Methodologies
 
 IDEO Possible Supplies: Fieldwork Materials  (IDEO)
 * Travel
@@ -284,12 +286,15 @@ Studies
 * Peers Observing Peers
 * Immersion
 
+Usability Inspection Methods
 Heuristic and Walkthrough
 * Heuristic
 * Heuristic Evaluation/Expert Review/Expert Interview/Expert Evaluation
 * Heuristic Walkthrough
 * Cognitive Walkthrough
 * Pluralistic Usability Walkthrough
+* Metaphors of Human Thinking
+* Persona Based Inspection
 
 Input and Feedback
 * Tour (Guided Tour, Experience Tour, Shadowing)
@@ -384,6 +389,10 @@ Participation
 * Participant Observation
 * Participatory Design/Co-Creation
 * Participatory Evaluation (Prototype)
+
+Generating Ideas
+* Idea Generator Events
+* Fast Idea Generator
 
 Design Games
 * Affinity Diagramming (Synonym: Mind mapping)
