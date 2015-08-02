@@ -342,13 +342,17 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 
 ### Agile Project Management
 
-* Everybody owns the problem
+* Project Chartering (Example: Rich Picture)
+* Everybody Owns the Problem (Collective Ownership)
+* Story-Driven Modeling/Heartbeat Retrospective
+* Time Boxing
 * Facilitation
 * Use Case
 * User Story
 * Personas 
 * Story splitting
 * Story mapping
+* Show and Tell
 * Retrospectives
 
 ### Workshop
