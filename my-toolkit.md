@@ -371,6 +371,7 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 * Facilitation
 * Use Case
 * User Story
+* Role-Feature-Reason, Three C's, INVEST
 * Personas 
 * Story splitting
 * Story mapping
@@ -557,6 +558,7 @@ Design Principles
 * Continuous Integration and deployment
 * Code Refactoring, Rules of Simplicity
 * Agile Testing Wikipedia, Test Driven Development, Acceptance Test Driven Development, Behavior Driven Development
+* Give-Then-When
 * Definition of Done and Definition of Ready
 * Backlog, Backlog Grooming
 * Scrum of Scrums
