@@ -1454,6 +1454,7 @@ Awesome Awesomeness
 *   [Stewart Butterfield: We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 *   [Strategy for Information Markets/Features of Goods Wikipedia](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Features_of_Goods) via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
+*   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
@@ -1524,7 +1525,7 @@ Finance and Investment Terms
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-*   [Productivity](https://en.wikipedia.org/wiki/Productivity)
+*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 *   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
 *   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
 *   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
