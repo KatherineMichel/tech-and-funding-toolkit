@@ -85,10 +85,9 @@ Question Ladder
 Promises Potential Map
 Value Mapping
 Improvement Triggers
-Blueprint
+Blueprint/Blueprint
 Marketing Mix
 Constructive Interaction
-Blueprint
 Offering Map
 Service Image
 Touchpoints Matrix
@@ -169,15 +168,15 @@ Card Sort Results DOCX
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 * [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-* [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Acceptance Test Driven Development
+* [Behavior Driven Development
 * [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 
-* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
 * [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
-* [Continuous deployment](http://guide.agilealliance.org/guide/cd.html)
+* [Continuous Integration and deployment](http://guide.agilealliance.org/guide/cd.html)
 * [Frequent releases](http://guide.agilealliance.org/guide/frequent-release.html)
+* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
 
 * [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
@@ -194,8 +193,6 @@ Card Sort Results DOCX
 
 * [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
 
-* [Quick design session](http://guide.agilealliance.org/guide/quickdesign.html)
-* [Simple design](http://guide.agilealliance.org/guide/simple-design.html)
 * [Role-feature-reason](http://guide.agilealliance.org/guide/rolefeature.html)
 * [Three C's](http://guide.agilealliance.org/guide/threecs.html)
 * [Invest](http://guide.agilealliance.org/guide/invest.html)
@@ -205,7 +202,6 @@ Card Sort Results DOCX
 * [Team room](http://guide.agilealliance.org/guide/teamroom.html)
 * [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
 * [Niko-niko calendar](http://guide.agilealliance.org/guide/nikoniko.html)
-* [Kanban board](http://guide.agilealliance.org/guide/kanban.html)
 * [Daily meeting](http://guide.agilealliance.org/guide/daily.html)
 
 * [Lead time](http://guide.agilealliance.org/guide/leadtime.html)
@@ -231,11 +227,8 @@ Card Sort Results DOCX
 
 * [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
 
-Project Management
-* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
 * [Quality](https://www.gov.uk/service-manual/agile/quality.html)
 
-*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
 *   [Staff Your Project](http://www.designkit.org/methods/56)
 
 *   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
@@ -256,11 +249,10 @@ Usability Gov Organization
 
 Measurement
 * [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
-* [Using data](https://www.gov.uk/service-manual/measurement/using-data.html)
-* [Key performance indicators](https://www.gov.uk/service-manual/measurement/other-kpis.html)
-* [Completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
-* [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
-* [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
+* Key performance indicators
+* Completion rate
+* Digital take-up
+* Measuring cost per transaction
 
 Websites
 * [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
@@ -278,6 +270,5 @@ Branding, Social Media and Content
 * [Content](https://pages.18f.gov/content-guide)
 * [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
 * [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
-* [Content Strategy](http://www.usability.gov/what-and-why/content-strategy.html)
-* [Content Inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
-* [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
+* Content Strategy
+* Content Inventory
