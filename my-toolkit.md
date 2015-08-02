@@ -212,12 +212,13 @@ Verify Product/Market Fit
 * Requirements Gathering Methods and Meeting
 * Project Team Roles and Responsibilities
 * Recruitment, Staff, Your Project, Building a Team, Building Partnerships
-* Governance, Reporting, Assurance (Internal and External)
+* Governance, Reporting, Quality, Assurance (Internal and External)
 * Spending Controls
 * Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors Map," "Motivation Matrix"
 * Kick-Off Meeting
 * Critical Path
 * Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress)
+* Example Metrics: Key Performance Indicators, Completion Rate, Digital Take Up, Measuring Cost per Transaction
 * SMART
 * Quality Function Deployment
 * Timeline
@@ -376,6 +377,7 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 * Task Board/Kanban Board (Information Radiator), Sign Up for Tasks
 * Show and Tell
 * Retrospectives/Heartbeat Retrospective
+* Niko-Niko Calendar (Mood Board)
 
 ### Workshop
 
@@ -485,7 +487,7 @@ Measurement (Testing and Post-Release)
 * Effective, Efficiency, Engaging
 * Learnability, Easy to Learn
 * Readability (Synonyms: Plain language)
-* Analytics (Example: Web Analytics)
+* Analytics, Analytics Tools (Example: Web Analytics)
 
 Feedback and Iterative Design
 * Get Feedback, Integrate Feedback and Iterate
@@ -544,11 +546,26 @@ Design Principles
 * High Level Design
 * Styles Guides
 
+## Agile Development
+
+* Team room
+* Daily Meeting
+* Three questions
+* Planning Poker
+* Pair Programming
+* Iterative and Incremental Development
+* Continuous Integration and deployment
+* Code Refactoring, Rules of Simplicity
+* Agile Testing Wikipedia, Test Driven Development, Acceptance Test Driven Development, Behavior Driven Development
+* Definition of Done and Definition of Ready
+* Backlog, Backlog Grooming
+* Scrum of Scrums
+
 ## MVP
 
 * Low Fidelity Minimum Viable Product
 * High Fidelity Minimum Viable Product
-* Dashboard
+* Dashboard ("Performance Platform")
 * Initial Activities to Test
 * Sequential Optimization Plan
 
