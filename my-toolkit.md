@@ -730,3 +730,67 @@ Summary Reports
   * [add questions to the ‘risks’ doc]
   
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
+
+## Design Sprint Methods
+
+* Innovation Flowchart
+* Asking the Right Questions
+* Working with the Right People
+* Causes Diagram
+* Divergence and Convergence Diamond
+* Blueprinting
+* Evidence of Impact
+* Account of Change
+* Leverage Points
+* Consolidating Learning from Development
+* Mapping Scales PDF
+* Systems Innovation
+* Evidence Planning
+* Leaning Loop
+* Storyworld
+* Causes Diagram
+* Theory of Change
+* Empathy Map
+* Question Ladder
+* Promises Potential Map
+* Value Mapping
+* Improvement Triggers
+* Blueprint/Blueprint
+* Marketing Mix
+* Constructive Interaction
+* Offering Map
+* Service Image
+* Touchpoints Matrix
+* Evidencing
+* Issue Card
+* Selection
+* Saturate and Group
+* Point of View Madlib
+* 3-12-3
+* Needs / Wants / Desires
+* I Like, I Wish, What If
+* 5 Whys
+* Who / What / When / Where/ Why / How
+* Why, How, Laddering
+* People Connections Map
+* Experience Map
+* Innovation Flowchart
+* Critical Tasks List
+* Testing Plan 
+* Team Persona Cards
+* Activity Sheets 1 and 2
+* Telephone Template
+* * Checklist
+* Claims Analysis
+* Function Allocation
+* Physical Ergonomics
+* Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
+* 7 plus or minus 2
+* Chunking
+* Hick's law (Hick-Hyman law)
+* Wayfinding
+* Conspicuity
+* Affordance
+* Fitts' Law
+* Gestalt Principles
+* Industrial Design
