@@ -13,7 +13,6 @@
 * User Research Briefs
 * User Experience (UX/UE)
 * User Engagement
-* Interface
 
 * Human Factors
 * Human-Computer Interaction (HCI)
@@ -22,17 +21,13 @@
 * User Interface Elements
 * Visual Design
 
-Recruitment, Building a Team, Building Partnerships
-
-* Planning Tools
-* Checklist
+Inclusive services
+Assisted digital
 
 * Analogous Inspiration
 * Secondary Research
 
 Community User Groups
-
-* Persona Based Inspection
 
 Testing Services
 No Fail Accessibility Testing
@@ -43,17 +38,18 @@ Team Persona Cards
 Activity Sheets 1 and 2
 Telephone Template
 
+User Edit (TBD)
+
 Emotion and Website Design
-Sampling Methodologies
+
 Claims Analysis
-Usability Inspection Methods
-Metaphors of Human Thinking
-User Edit
-Generating Ideas
+
 Function Allocation
 Physical Ergonomics
-Idea Generator Events
-Fast Idea Generator
+
+Other Planning Tools
+* Checklist
+
 Innovation Flowchart
 Asking the Right Questions
 Working with the Right People
@@ -107,10 +103,7 @@ Why, How, Laddering
 * Gestalt Principles
 * Industrial Design
 
-Building digital services
-Building secure services
-Designing inclusive services
-Assisted digital
+Building digital services, Building secure services
 Integrating offline activity
 
 Analytics Tools
@@ -120,24 +113,14 @@ Usability Study Process and Materials Checklist DOCX
 Usability Test Plan Template DOCX
 What to Test/Note taker’s Guide DOCX
 SOW: Web Usability Testing, Web Usability Consulting, Usability and Focus Group Participant Recruitment, Usability Task Order Request
-Introduction to Testing with Moderator Interaction DOCX
-Introduction to Testing without Moderator Interaction DOCX
-Measurable Usability Goals Template DOCX
+Measurable Usability Goals
 Recruiting Screener: Website, Mobile Device Testing, Online Survey
-Usability Study Recruiting Email Template DOCX
-Consent Form, Consent & Recording Release Form, Digital Recording Release Form, Remote Usability Test
-Usability Test Compensation Receipt Form 
 Usability Test DOCX
-Usability Test Results (Short/Informal) DOCX and PPTX
-Usability Test Results (Long/Formal) DOCX and PPTX
+Usability Test Results (Short/Informal) and (Long/Formal) DOCX and PPTX
 Survey Research Findings DOCS and PPTX
 Metrics PowerPoint (Statistics Review and Design Implications) PPTX
 Card Sort Results DOCX
 
-*   Task Scenarios Usability Testing
-*   Mental Models (referenced in Card Sorting)
-
-* Governance
 * Assurance from those outside the service team
 * Self assurance by agile teams
 * How delivery teams manage their work
@@ -221,11 +204,9 @@ Card Sort Results DOCX
 * Digital take-up
 * Measuring cost per transaction
 
-* Design Patterns
 * Branding
 * Frontend
-* Common website elements
+* Common website elements/Design Patterns
 * Color Basic
-* Multimedia and Training
 * Content Strategy
 * Content Inventory
