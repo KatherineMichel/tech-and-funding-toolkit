@@ -166,6 +166,8 @@ Why, How, Laddering
 * Gestalt Principles
 * Industrial Design
 
+Current Users, Potential Users, User Segments
+
 Building digital services
 Building secure services
 Designing inclusive services
@@ -203,7 +205,7 @@ Card Sort Results DOCX
 
 *   [Which UX Research Methods](http://www.nngroup.com/articles/which-ux-research-methods)
 *   [Task Scenarios Usability Testing](http://www.nngroup.com/articles/task-scenarios-usability-testing)
-*   [Mental Models (referenced in Card Sorting)](http://www.nngroup.com/articles/mental-models)
+*   Mental Models (referenced in Card Sorting)
 *   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
 
 Development
@@ -213,7 +215,6 @@ Development
 * [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
 * [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
 * [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
-* Show and tell
 
 Agile Project Management Methodologies
 *   Extreme Programming and Extreme Project Management
@@ -238,8 +239,6 @@ Agile Project Management Methodologies
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 
 * [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
-
-* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
 
 ## Agile Allegiance
 
@@ -310,17 +309,12 @@ Usability Gov Organization
 * [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
 * [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
-*   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
-
 *   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
 *   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
-
-*   [Specification](http://www.servicedesigntools.org/tools/27)
 
 * [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 * [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
-* [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
 * [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
 * [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
@@ -344,18 +338,17 @@ Websites
 Branding, Social Media and Content
 * [Branding](https://www.dto.gov.au/design-guides/guide/branding)
 * [Using social media to engage users](https://www.dto.gov.au/design-guides/guide/using-social-media-engage-users)
+
+* [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
+
+* [Frontend](https://pages.18f.gov/frontend)
+* [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
+* [Color Basic](http://www.usability.gov/how-to-and-tools/methods/color-basics.html)
+* [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
+
+* [Content](https://pages.18f.gov/content-guide)
 * [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
 * [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
-
-Design and Development
-* [Color Basic](http://www.usability.gov/how-to-and-tools/methods/color-basics.html)
 * [Content Strategy](http://www.usability.gov/what-and-why/content-strategy.html)
 * [Content Inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
 * [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
-* [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
-* [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
-
-* [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
-
-* [Frontend](https://pages.18f.gov/frontend)
-* [Content](https://pages.18f.gov/content-guide)
