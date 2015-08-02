@@ -211,8 +211,8 @@ Verify Product/Market Fit
 * Phases
 * Requirements Gathering Methods and Meeting
 * Project Team Roles and Responsibilities
-* Recruitment, Building a Team, Building Partnerships
-* Governance
+* Recruitment, Staff, Your Project, Building a Team, Building Partnerships
+* Governance, Reporting, Assurance (Internal and External)
 * Spending Controls
 * Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors Map," "Motivation Matrix"
 * Kick-Off Meeting
