@@ -14,19 +14,14 @@
 * User Experience (UX/UE)
 * User Engagement
 * Interface
-* Interaction Design 
 
+* Human Factors
+* Human-Computer Interaction (HCI)
+* Interaction Design 
 * User Interface Design
 * User Interface Elements
 * Visual Design
 
-* Human Factors
-* Human-Computer Interaction (HCI)
-[Usability Evaluation Methods](http://www.usabilitybok.org/usability-evaluation-methods)
-* [Formative Evaluation](http://www.usabilitybok.org/formative-evaluation)
-* [Summative Evaluation](http://www.usabilitybok.org/summative-evaluation)
-
-Creating cultural change
 Recruitment, Building a Team, Building Partnerships
 
 * Getting Started
@@ -43,57 +38,15 @@ Recruitment, Building a Team, Building Partnerships
 
 * Persona Based Inspection
 
-* Prototyping Protocol
-* Prototyping Framework
-* Prototyping Methods
-* Prototype Testing Plan
-* Determine What to Prototype, Who to Involve
-* Prototyping, Paper Prototyping (Synonyms: Low-fidelity prototype), Rapid Prototyping
-* Rough Prototyping
-* Live Prototyping
-* Experience Prototype
-* Service Prototype
-* Prototype for Empathy
-* Prototype for Test
-
-* Rating Scales
-* Likert Scale
-* Satisfaction Questionnaire
-* Usability Benchmark/Benchmark Testing
-* System Usability Scale (SUS)
-* Critical Incident Technique (CIT)/Critical Incident Analysis
-
-Attitude Questionnaire/Subjective Assessment/User Satisfaction (Testing and Post-Release)
-
 Testing Services
-Guerrilla Testing services
-Testing Web Accessibility
-Same Day User Testing (Online Qualitative)
-Lab Based User Testing
-Tree Testing
-
-Competitive Usability Testing
-Summative Usability Testing
-Remote Evaluation
-Think-aloud Protocol
-Iterative Design
-Graceful Degradation
 No Fail Accessibility Testing
 HHS Usability Lab
 
-
-
-User Research Qualitative Techniques
 Community User Groups
-Online Research Panels
-Online Omnibus Survey
-Remote Usability Tests
-Motivation Matrix
 
-Team Persona Cards
-Activity Sheet 
 Testing Plan 
-Activity Sheet 2 
+Team Persona Cards
+Activity Sheets 1 and 2
 Telephone Template
 
 Web Analytics
@@ -152,7 +105,6 @@ Who / What / Where / When
 What, Why, How
 Why, How, Laddering
 
-* Case Study
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 
 * 7 plus or minus 2
@@ -165,8 +117,6 @@ Why, How, Laddering
 * Fitts' Law
 * Gestalt Principles
 * Industrial Design
-
-Current Users, Potential Users, User Segments
 
 Building digital services
 Building secure services
@@ -207,15 +157,12 @@ Card Sort Results DOCX
 *   Mental Models (referenced in Card Sorting)
 
 * Governance
-* Life of a service
 * Assurance from those outside the service team
 * Self assurance by agile teams
 * How delivery teams manage their work
 * Setting up the right reporting
 
-Agile Project Management Methodologies
 *   Extreme Programming and Extreme Project Management
-*   Lean Software Development
 *   Kaizen Wikipedia
 *   Just-in-Time
 
