@@ -7,8 +7,8 @@ Beginnings, Problem, Idea, Vision
 * Business Idea and Vision
 * Inspiration
 
-World 
-What does the world look like without this problem? 
+World
+* What does the world look like without this problem? 
 * How will world be different 18 months after launch? 
 * 3 years after launch?
 * 10 years after launch?
