@@ -340,7 +340,7 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 * Art supplies
 * Camera 
 
-### Agile Project Management
+### Agile-Scrum Software Development/Project Management (and Kanban)
 
 * Project Chartering (Example: Rich Picture)
 * Cross Functional Team
@@ -354,6 +354,7 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 * Personas 
 * Story splitting
 * Story mapping
+* Task Board (Information Radiator), Sign Up for Tasks
 * Show and Tell
 * Retrospectives
 
