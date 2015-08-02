@@ -207,14 +207,16 @@ Verify Product/Market Fit
 ## Project
 
 * Project Charter, Project Plan/Project Definition Plan, Statement of Work
-* Project Approach: Agile/Scrum/Kanban, Lean, Waterfall
+* Project Approach: Agile/Scrum/Kanban, Extreme, Lean, Kaizen, Waterfall
 * Phases
 * Requirements Gathering Methods and Meeting
 * Project Team Roles and Responsibilities
+* Governance
+* Spending Controls
 * Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors Map," "Motivation Matrix"
 * Kick-Off Meeting
 * Critical Path
-* Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress, determine success)
+* Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress)
 * SMART
 * Quality Function Deployment
 * Timeline
@@ -267,6 +269,21 @@ IDEO Possible Supplies: Fieldwork Materials  (IDEO)
 * Contact
 * Forms
 
+Studies
+* Context of Use Analysis
+* Context of Use Methods
+* Contextual Inquiry
+* Longitudinal Study
+* Ethnography
+* Ethnographic Research and Methods
+* Evaluating (Usage of) an Existing System
+* Diagnostic Evaluation
+* Field Study and Methods
+* Diary Study
+* Photo Study
+* Peers Observing Peers
+* Immersion
+
 Heuristic and Walkthrough
 * Heuristic
 * Heuristic Evaluation/Expert Review/Expert Interview/Expert Evaluation
@@ -286,29 +303,20 @@ Input and Feedback
 * Online Omnibus Survey
 * Forums/Panels (Online and Off)
 * Facilitation
+* Conversation Starters, Stoke
+
+Cognitive Models
+* GOMS
+* KLM-GOMS
+
+Organization
+* Organization Schemes
 
 Tasks
 * Task Analysis, Task Analysis Grid, and Task Modeling Methods
 * Cognitive Task Analysis
 * Hierarchical Task Analysis
 * Allocate Tasks
-
-Studies
-* Context of Use Analysis
-* Context of Use Methods
-* Contextual Inquiry
-* Longitudinal Study
-* Ethnography
-* Ethnographic Research and Methods
-* Evaluating (Usage of) an Existing System
-* Diagnostic Evaluation
-* Field Study and Methods
-* Diary Study
-* Photo Study
-
-Cognitive Models
-* GOMS
-* KLM-GOMS
 
 Internationalization and Localization
 * Cultural Probe
@@ -351,7 +359,8 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 * Cross Functional Team
 * Creating a Culture that Supports Change
 * Everybody Owns the Problem (Collective Ownership)
-* Story-Driven Modeling/Heartbeat Retrospective
+* Simple Design/Quick Design Session
+* Story-Driven Modeling
 * Time Boxing
 * Facilitation
 * Use Case
@@ -359,9 +368,9 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 * Personas 
 * Story splitting
 * Story mapping
-* Task Board (Information Radiator), Sign Up for Tasks
+* Task Board/Kanban Board (Information Radiator), Sign Up for Tasks
 * Show and Tell
-* Retrospectives
+* Retrospectives/Heartbeat Retrospective
 
 ### Workshop
 
@@ -398,6 +407,7 @@ Web Design
 * Website Requirements
 * Free Listing
 * Card Sorting (Open and Closed)
+* Mental Models (referenced in Card Sorting)
 * Site Map
 * Parallel Design
 
@@ -434,6 +444,7 @@ User Testing
 * Usability/Web Accessibility Evaluation/Testing and Methods
 * Planning, Recruiting Usability Test Participants, Running Test, Analysis, Reporting Results
 * Think-aloud Protocol
+* Task Scenarios Usability Testing
 * Same Day User Testing (Online Qualitative)
 * Remote Evaluation/Testing
 * Guerilla Testing
@@ -465,6 +476,7 @@ Measurement (Testing and Post-Release)
 * Effective, Efficiency, Engaging
 * Learnability, Easy to Learn
 * Readability (Synonyms: Plain language)
+* Analytics (Example: Web Analytics)
 
 Feedback and Iterative Design
 * Get Feedback, Integrate Feedback and Iterate
@@ -505,9 +517,9 @@ Preliminary/Product Specifications
 ## Design
 
 Design Principles
-* Design and Methods
+* Design Guidelines and Methods
+* Frame Your Design Challenge
 * High Level Design
-* Design Guidelines
 * Styles Guides
 
 ## Product Features and Benefits
