@@ -24,17 +24,13 @@
 
 Recruitment, Building a Team, Building Partnerships
 
-* Getting Started
 * Planning Tools
 * Checklist
 
 * Analogous Inspiration
 * Secondary Research
-* Peers Observing Peers
-* Immersion
 
-* Conversation Starters
-* Stoke
+Community User Groups
 
 * Persona Based Inspection
 
@@ -42,15 +38,10 @@ Testing Services
 No Fail Accessibility Testing
 HHS Usability Lab
 
-Community User Groups
-
 Testing Plan 
 Team Persona Cards
 Activity Sheets 1 and 2
 Telephone Template
-
-Web Analytics
-Analytics
 
 Emotion and Website Design
 Sampling Methodologies
@@ -100,8 +91,7 @@ Point of View Madlib
 Needs / Wants / Desires
 I Like, I Wish, What If
 5 Whys
-Who / What / Where / When
-What, Why, How
+Who / What / When / Where/ Why / How
 Why, How, Laddering
 
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
@@ -123,18 +113,13 @@ Designing inclusive services
 Assisted digital
 Integrating offline activity
 
-Define Success
 Analytics Tools
-Measurement, Measure and Evaluate
 
 UX Study Overview Template DOCX
 Usability Study Process and Materials Checklist DOCX
 Usability Test Plan Template DOCX
 What to Test/Note taker’s Guide DOCX
-SOW Template: Web Usability Testing DOCX
-SOW Template: Web Usability Consulting DOCX
-SOW Template: Usability and Focus Group Participant Recruitment DOCX
-SOW Template: Usability Task Order Request DOCX
+SOW: Web Usability Testing, Web Usability Consulting, Usability and Focus Group Participant Recruitment, Usability Task Order Request
 Introduction to Testing with Moderator Interaction DOCX
 Introduction to Testing without Moderator Interaction DOCX
 Measurable Usability Goals Template DOCX
@@ -149,9 +134,6 @@ Survey Research Findings DOCS and PPTX
 Metrics PowerPoint (Statistics Review and Design Implications) PPTX
 Card Sort Results DOCX
 
-## Knowledge Sharing Toolkit
-## Nielson Norman
-
 *   Task Scenarios Usability Testing
 *   Mental Models (referenced in Card Sorting)
 
@@ -161,22 +143,13 @@ Card Sort Results DOCX
 * How delivery teams manage their work
 * Setting up the right reporting
 
-*   Extreme Programming and Extreme Project Management
-*   Kaizen Wikipedia
-*   Just-in-Time
-
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development
-* [Behavior Driven Development
+* Agile Testing Wikipedia, Test Driven Development, Acceptance Test Driven Development, Behavior Driven Development
 * [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 
 * [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
 * [Continuous Integration and deployment](http://guide.agilealliance.org/guide/cd.html)
-* [Frequent releases](http://guide.agilealliance.org/guide/frequent-release.html)
-* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
 
 * [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
@@ -234,41 +207,25 @@ Card Sort Results DOCX
 *   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
 *   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
 
-Usability Gov Organization
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
-
 *   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
 *   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
 
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 * [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
-* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
-* [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
+* User stories for web operations
+* [Performance Platform (Dashboard)](https://www.gov.uk/service-manual/measurement/performance-platform.html)
 
-Measurement
-* [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
 * Key performance indicators
 * Completion rate
 * Digital take-up
 * Measuring cost per transaction
 
-Websites
-* [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
-* [Design Patterns](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/index.html)
-* [Elements](https://www.gov.uk/service-manual/user-centred-design/resources/elements/index.html)
-
-Branding, Social Media and Content
-* [Branding](https://www.dto.gov.au/design-guides/guide/branding)
-
-* [Frontend](https://pages.18f.gov/frontend)
-* [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
-* [Color Basic](http://www.usability.gov/how-to-and-tools/methods/color-basics.html)
-* [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
-
-* [Content](https://pages.18f.gov/content-guide)
-* [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
-* [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
+* Design Patterns
+* Branding
+* Frontend
+* Common website elements
+* Color Basic
+* Multimedia and Training
 * Content Strategy
 * Content Inventory
