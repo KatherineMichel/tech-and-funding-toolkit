@@ -173,8 +173,12 @@ Card Sort Results DOCX
 * [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
 * [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+
 * [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
 * [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
+* [Continuous deployment](http://guide.agilealliance.org/guide/cd.html)
+* [Frequent releases](http://guide.agilealliance.org/guide/frequent-release.html)
+
 * [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
@@ -219,13 +223,7 @@ Card Sort Results DOCX
 * [Backlog grooming](http://guide.agilealliance.org/guide/backlog-grooming.html)
 * [Backlog](http://guide.agilealliance.org/guide/backlog.html)
 * [BDD](http://guide.agilealliance.org/guide/bdd.html)
-* [Continuous deployment](http://guide.agilealliance.org/guide/cd.html)
 * [Exploratory testing](http://guide.agilealliance.org/guide/exploratory.html)
-* [Frequent releases](http://guide.agilealliance.org/guide/frequent-release.html)
-* [Incremental development](http://guide.agilealliance.org/guide/incremental.html)
-* [Integration](http://guide.agilealliance.org/guide/integration.html)
-* [Iteration](http://guide.agilealliance.org/guide/iteration.html)
-* [Iterative development](http://guide.agilealliance.org/guide/iterative.html)
 * [Mock objects](http://guide.agilealliance.org/guide/mocks.html)
 * [TDD](http://guide.agilealliance.org/guide/tdd.html)
 * [Unit testing](http://guide.agilealliance.org/guide/unittest.html)
@@ -250,7 +248,6 @@ Usability Gov Organization
 *   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
 *   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
 
-* [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 * [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
@@ -264,20 +261,14 @@ Measurement
 * [Completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
 * [Digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
 * [Measuring cost per transaction](https://www.gov.uk/service-manual/measurement/cost-per-transaction.html)
-* [User satisfaction](https://www.gov.uk/service-manual/measurement/user-satisfaction.html)
 
 Websites
-* [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
-* [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
 * [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
 * [Design Patterns](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/index.html)
 * [Elements](https://www.gov.uk/service-manual/user-centred-design/resources/elements/index.html)
 
 Branding, Social Media and Content
 * [Branding](https://www.dto.gov.au/design-guides/guide/branding)
-* [Using social media to engage users](https://www.dto.gov.au/design-guides/guide/using-social-media-engage-users)
-
-* [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
 
 * [Frontend](https://pages.18f.gov/frontend)
 * [Common website elements](https://www.dto.gov.au/design-guides/guide/common-website-elements)
