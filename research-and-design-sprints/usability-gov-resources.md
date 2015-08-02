@@ -490,3 +490,47 @@ Results
 User profiles [or personas]
 
 Next steps
+
+## Usability Test Report [Long/Formal] Report DOCX
+
+Usability Test Report for [Product Name]
+
+Date of Report: 	[Month Day, Year] 
+Date of Test:  	[Month Day, Year]
+Location of Test:  	[City, State]  
+
+
+Prepared for: 		[First Name, Last Name]
+Phone Number:		[XXX-XXX-XXXX]
+Email: 		[name@address.gov] 
+
+
+Prepared by: 		[First Name, Last Name]
+Phone Number:		[XXX-XXX-XXXX]
+Email: 		[name@address.gov] 
+
+Table of Contents
+
+Executive Summary	3
+Methodology	3
+What happened during the usability test	3
+Who we tested	3
+What participants did	4
+What data we collected	4
+Where we tested	4
+Introductory Questions & Tasks	5
+Findings & Recommendations	6
+Home Page Issues	7
+Scenario #1	8
+Exit Questions/User Impressions	9
+Appendices	10
+
+## Usability Test Report [Long/Formal] Report PPTX
+
+Background
+Study goals
+Methodology
+Participants
+Findings 
+Recommendations
+
