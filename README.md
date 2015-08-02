@@ -1046,7 +1046,7 @@ Developer Conferences
 *   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
 *   [Twitter Flock](http://flock.fabric.io) 
 
-*   [Facebook Pages](https://www.facebook.com)
+*   [Facebook](https://www.facebook.com)
 *   [Google+](https://plus.google.com)
 *   [Twitter](https://twitter.com)  
 
@@ -1057,6 +1057,7 @@ Facebook
 *   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 *   [Facebook Code](https://code.facebook.com)
 *   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+*   [Facebook Business](https://www.facebook.com/business)
 
 Google
 *   [Google Developers](https://developers.google.com) 
@@ -1065,6 +1066,8 @@ Google
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
 *   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) 
 *   [Google Analytics](http://www.google.com/analytics)
+
+Google Ads
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
 
 LinkedIn
@@ -1076,7 +1079,7 @@ Pinterest
 
 Slideshare
 *   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
-*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools) and [Slideshare Haiku Deck](https://www.slideshare.net/create)
+*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
 
 Snapchat
 *   [Snapchat Blog](http://blog.snapchat.com)
@@ -1130,7 +1133,7 @@ Alpha and Beta Testing
 
 Testing, Reporting, Analytics
 *   [Crashlytics](http://try.crashlytics.com)
-*   [Mixpanel](https://mixpanel.com) 
+*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
 *   [Optimizely](https://www.optimizely.com) 
 *   [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
 *   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
@@ -1214,6 +1217,7 @@ Epic
 Tools
 *   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
 *   [Amazon Example Press Release](http://aws.amazon.com/new) 
+*   [Sandwich Video](http://sandwichvideo.com)
 
 Journalism Handbooks
 *   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
@@ -1518,6 +1522,8 @@ Finance and Investment Terms
 *   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
+*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+*   [Productivity](https://en.wikipedia.org/wiki/Productivity)
 *   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
 *   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
 *   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
