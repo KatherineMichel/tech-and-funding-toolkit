@@ -449,6 +449,44 @@ Recommendations
 
 Conclusion
 
+## Usability Test [Short/ Informal] Report DOCX
 
+Date of Report:		[Month Day, Year] 
+Date of Test:  		[Month Day, Year]
+Location of Test:  	[City, State]  
 
+Prepared for: 		[Name]
+Phone Number:		[XXX-XXX-XXXX]
+Email: 		[name@address.gov] 
 
+Prepared by: 		[Name]
+Phone Number:		[XXX-XXX-XXXX]
+Email: 			[name@address.gov]
+
+Executive Summary
+
+Methodology
+
+Major findings and recommendations
+
+Detailed findings and recommendations
+
+Scenario 1 - 
+
+Scenario 2 – 
+
+Scenario 3 – 
+
+Exit Questions/User Impressions
+
+## Usability Test [Short/ Informal] Report PPTX
+
+Background
+
+Methodology
+
+Results
+
+User profiles [or personas]
+
+Next steps
