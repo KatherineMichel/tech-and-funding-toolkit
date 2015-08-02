@@ -374,7 +374,7 @@ Design Games
 * Collage
 * Draw It (Individual and Group)
 * System Map
-* Miscellaneous: Mash Ups, Moodboard
+* Miscellaneous: Mash Ups, Moodboard, Download Your Learnings, Bundle Ideas, Create a Concept, Create Frameworks, Share Inspiring Stories, Get Visual, Find Themes, Explore Your Hunch, Gut Check, Create Insight Statements, Top Five
 * Lego Serious Play and Lego Journey Map
 
 Problem Methods
@@ -407,6 +407,17 @@ Possible Supplies: Research and Prototyping Materials (IDEO)
 * Computer, internet connection
 * Research materials
 * Spreadsheet program
+
+User Testing
+* Usability Evaluation/Testing and Methods
+* Planning, Recruiting Usability Test Participants, Running Test, Reporting Results
+* User Testing Analysis
+* Remote Testing
+* Performance Testing
+* Mobile Device Testing
+* First Click Testing
+* Eye Tracking
+* Post Release Testing
 
 Possible Supplies: Real World Testing Materials (IDEO)
 * Space
