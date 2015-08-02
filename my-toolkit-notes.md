@@ -25,6 +25,10 @@
 * [Formative Evaluation](http://www.usabilitybok.org/formative-evaluation)
 * [Summative Evaluation](http://www.usabilitybok.org/summative-evaluation)
 
+* User needs
+Creating cultural change
+Recruitment, Building a Team, Building Partnerships
+
 * Getting Started
 * Planning Tools
 * Checklist
@@ -127,9 +131,6 @@ Sampling Methodologies
 Claims Analysis
 Usability Inspection Methods
 Metaphors of Human Thinking
-Cognitive Models
-GOMS
-KLM-GOMS
 User Edit
 Generating Ideas
 Function Allocation
@@ -160,9 +161,6 @@ Value Mapping
 Improvement Triggers
 Blueprint
 Marketing Mix
-Scaling Plan Tool
-Character Profiles
-Actors Map
 Constructive Interaction
 Blueprint
 Offering Map
@@ -173,7 +171,6 @@ Issue Card
 Selection
 Saturate and Group
 Point of View Madlib
-Inspirational Info Source
 3-12-3
 Needs / Wants / Desires
 I Like, I Wish, What If
@@ -201,6 +198,10 @@ Building secure services
 Designing inclusive services
 Assisted digital
 Integrating offline activity
+
+Define Success
+Analytics Tools
+Measurement, Measure and Evaluate
 
 UX Study Overview Template DOCX
 Usability Study Process and Materials Checklist DOCX
@@ -232,9 +233,6 @@ Card Sort Results DOCX
 *   [Mental Models (referenced in Card Sorting)](http://www.nngroup.com/articles/mental-models)
 *   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
 
-* User needs
-* Recruitment
-
 Development
 * [Governance](https://www.gov.uk/service-manual/governance/index.html)
 * [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
@@ -252,7 +250,6 @@ Agile Project Management Methodologies
 *   Just-in-Time
 *   Scrum Software Development
 
-Agile Practices
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 * [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
@@ -341,37 +338,11 @@ Project Management
 * [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
 * [Quality](https://www.gov.uk/service-manual/agile/quality.html)
 
-*   Sustainable Revenue
-*   Ways to Grow Framework
-
-Capabilities Assessment
-Creating cultural change
-Recruiting, Building a Team, Building Partnerships
-Create a Pitch
-Funding Sources, Funding Strategies
-Retrospectives
-*   Setting up a Venture
-*   How We Might
-*   Co-Creation Session
-
-Define Success
-Analytics Tools
-Measurement, Measure and Evaluate
-
-## Design Kit 
-
-Project Management
 *   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
 *   [Staff Your Project](http://www.designkit.org/methods/56)
 
 *   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
 *   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
-
-Development
-*   [Get Feedback](http://www.designkit.org/methods/57)
-*   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
-*   [Keep Iterating](http://www.designkit.org/methods/19)
-*   [Keep Getting Feedback](http://www.designkit.org/methods/59)
 
 Usability Gov Organization
 * [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
@@ -382,7 +353,6 @@ Usability Gov Organization
 *   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
 *   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
 
-*   [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
 *   [Specification](http://www.servicedesigntools.org/tools/27)
 
 * [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
