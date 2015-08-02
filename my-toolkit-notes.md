@@ -2,8 +2,10 @@
 * ISO 13407: Human centred design processes for interactive systems/Observation of Users Patterns
 
 * Usability and Testing
+* Usability Engineering
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG) and Testing
 * User Centered/Centred Design and Methods (UCD)
+* User Needs
 * User Research (chart) and Testing
 * An introduction to user research techniques
 * User Research Background Techniques
@@ -20,12 +22,10 @@
 
 * Human Factors
 * Human-Computer Interaction (HCI)
-* Usability Engineering
 [Usability Evaluation Methods](http://www.usabilitybok.org/usability-evaluation-methods)
 * [Formative Evaluation](http://www.usabilitybok.org/formative-evaluation)
 * [Summative Evaluation](http://www.usabilitybok.org/summative-evaluation)
 
-* User needs
 Creating cultural change
 Recruitment, Building a Team, Building Partnerships
 
@@ -55,21 +55,6 @@ Recruitment, Building a Team, Building Partnerships
 * Service Prototype
 * Prototype for Empathy
 * Prototype for Test
-
-* Usability Evaluation/Testing and Methods
-* Planning a Usability Test
-* Recruiting Usability Test Participants/Recruiting Users
-* Running a Usability Test
-* Reporting Usability Test Results
-* User Testing Analysis
-
-* Performance Testing
-* Remote Testing
-* Mobile Device Testing
-* Post Release Testing
-
-* First Click Testing
-* Eye Tracking
 
 * Rating Scales
 * Likert Scale
@@ -113,18 +98,6 @@ Telephone Template
 
 Web Analytics
 Analytics
-
-Download Your Learnings
-Bundle Ideas
-Create a Concept
-Create Frameworks
-Share Inspiring Stories
-Get Visual
-Find Themes
-Explore Your Hunch
-Gut Check
-Create Insight Statements
-Top Five
 
 Emotion and Website Design
 Sampling Methodologies
@@ -265,9 +238,6 @@ Agile Project Management Methodologies
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 
 * [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
-* [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
-* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
-* [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
 
 * [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
 
@@ -277,10 +247,7 @@ Agile Project Management Methodologies
 * [Resources](http://agilealliance.org/resources)
 * [Site Map](http://agilealliance.org/site-map)
 
-* Project chartering (Rich Picture)
-* [Refactoring](http://guide.agilealliance.org/guide/refactoring.html)
 * [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
-* [Heartbeat retrospective](http://guide.agilealliance.org/guide/heartbeatretro.html)
 
 * [Quick design session](http://guide.agilealliance.org/guide/quickdesign.html)
 * [Simple design](http://guide.agilealliance.org/guide/simple-design.html)
@@ -291,10 +258,8 @@ Agile Project Management Methodologies
 
 * [Scrum of Scrums](http://guide.agilealliance.org/guide/scrumofscrums.html)
 * [Team room](http://guide.agilealliance.org/guide/teamroom.html)
-* [Collective ownership](http://guide.agilealliance.org/guide/cco.html)
 * [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
 * [Information radiators](http://guide.agilealliance.org/guide/information-radiator.html)
-* [Burndown chart](http://guide.agilealliance.org/guide/burndown.html)
 * [Task board](http://guide.agilealliance.org/guide/taskboard.html)
 * [Sign up for tasks](http://guide.agilealliance.org/guide/sign-up-for-tasks.html)
 * [Niko-niko calendar](http://guide.agilealliance.org/guide/nikoniko.html)
@@ -303,9 +268,7 @@ Agile Project Management Methodologies
 
 * [Lead time](http://guide.agilealliance.org/guide/leadtime.html)
 * [Sustainable pace](http://guide.agilealliance.org/guide/sustainable.html)
-* [Timebox](http://guide.agilealliance.org/guide/timebox.html)
 * [Estimation](http://guide.agilealliance.org/guide/estimation.html)
-* [Velocity](http://guide.agilealliance.org/guide/velocity.html)
 * [Points (estimates in)](http://guide.agilealliance.org/guide/points-estimates-in.html)
 * [Relative estimation](http://guide.agilealliance.org/guide/relative.html)
 * [Milestone retrospective](http://guide.agilealliance.org/guide/milestone-retro.html)
@@ -313,7 +276,6 @@ Agile Project Management Methodologies
 * [Definition of Done](http://guide.agilealliance.org/guide/definition-of-done.html)
 * [Definition of Ready](http://guide.agilealliance.org/guide/definition-of-ready.html)
 
-* [Acceptance testing](http://guide.agilealliance.org/guide/acceptance.html)
 * [ATDD](http://guide.agilealliance.org/guide/atdd.html)
 * [Automated build](http://guide.agilealliance.org/guide/autobuild.html)
 * [Backlog grooming](http://guide.agilealliance.org/guide/backlog-grooming.html)
