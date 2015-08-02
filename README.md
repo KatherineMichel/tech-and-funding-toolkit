@@ -270,6 +270,10 @@ Associations
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 
+Website Launch Checklist
+*   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
+*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
+
 #### Unicorns
 
 *   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
@@ -772,10 +776,6 @@ Flickr
 
 KPCB and John Maeda Design in Tech Report
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
-Website Launch Checklist
-*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
-*   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 
 Company Design
 *   [Medium Design](https://medium.com/designing-medium)  
