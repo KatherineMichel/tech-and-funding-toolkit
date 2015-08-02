@@ -35,22 +35,6 @@ Other Planning Tools
 Building digital services, Building secure services
 Integrating offline activity
 
-UX Study Overview Template DOCX
-Usability Study Process and Materials Checklist DOCX
-Usability Test Plan Template DOCX
-What to Test/Note taker’s Guide DOCX
-SOW: Web Usability Testing, Web Usability Consulting, Usability and Focus Group Participant Recruitment, Usability Task Order Request
-Measurable Usability Goals
-Recruiting Screener: Website, Mobile Device Testing, Online Survey
-Usability Test Results (Short/Informal) and (Long/Formal) DOCX and PPTX
-Survey Research Findings DOCS and PPTX
-Metrics PowerPoint (Statistics Review and Design Implications) PPTX
-Card Sort Results DOCX
-
-* [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
-* [Automated build](http://guide.agilealliance.org/guide/autobuild.html)
-
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
 
