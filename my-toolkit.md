@@ -473,6 +473,22 @@ User Testing
 * Post Release Testing
 * Pilot
 
+User Testing Planning Documents
+* UX Study Overview 
+* Usability Study Process and Materials Checklist DOCX
+* Usability Test Plan
+* What to Test/Note taker’s Guide DOCX
+* SOW: Web Usability Testing, Web Usability Consulting, Usability and Focus Group Participant Recruitment, Usability 
+* Task Order Request
+* Measurable Usability Goals
+* Recruiting Screener: Website, Mobile Device Testing, Online Survey
+
+User Testing Results: Document or Powerpoint
+* Usability Rest Results (Short/Informal) and (Long/Formal)
+* Survey Results Report
+* Metrics Results Report
+* Card Sort Results Report
+
 Possible Supplies: Real World Testing Materials (IDEO)
 * Space
 * Staff
@@ -549,6 +565,7 @@ Design Principles
 
 ## Agile Development
 
+* Agile Modeling
 * Team room
 * Daily Meeting
 * Three questions
@@ -558,10 +575,25 @@ Design Principles
 * Continuous Integration and deployment
 * Code Refactoring, Rules of Simplicity
 * Agile Testing Wikipedia, Test Driven Development, Acceptance Test Driven Development, Behavior Driven Development
+* Exploratory Testing, Unit Testing, Mock Objects
+* Automated Build
 * Give-Then-When
+* CRC Cards
 * Definition of Done and Definition of Ready
+* Domain Driven Design
 * Backlog, Backlog Grooming
+* Ubiquitous Language
 * Scrum of Scrums
+
+Timeframe
+* Velocity Software Development
+* Burn Down Chart
+* Lead time (Lean)
+* Sustainable Pace
+* Estimation
+* Points (Estimates In)
+* Relative Estimation
+* Milestone Retrospective
 
 ## MVP
 
