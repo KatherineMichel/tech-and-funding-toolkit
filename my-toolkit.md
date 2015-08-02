@@ -21,10 +21,12 @@ Future Workshop
 ## Business Analysis and Plan
 
 Business
-* Venture Analysis, Create a Pitch, Pitch Practice
+* Venture Analysis
+* Capabilities Assessment
 * Business Case/Business Plan, Cost Benefit Analysis
 * Setting up a Venture
-* Capabilities Assessment
+* Funding Sources, Funding Strategy
+* Create a Pitch, Pitch Practice
 * Define Terminology
 
 Business Plan Example
@@ -119,7 +121,7 @@ Target
 * Extremes and Mainstreams, Extreme Users
 
 Personas, Use Cases, Role Play
-* Customer Archetype/Personas
+* Customer Archetype/Personas ((a.k.a. "Character Profile")
 * User Story, Scenarios, Use Cases/Use Case Diagram, User Pathways
 * Typologies
 * Role Play and Script
@@ -206,7 +208,7 @@ Verify Product/Market Fit
 * Phases
 * Requirements Gathering Methods and Meeting
 * Project Team Roles and Responsibilities
-* Stakeholders, Stakeholder Interviews, Stakeholder Meeting
+* Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors" Map
 * Kick-Off Meeting
 * Critical Path
 * Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress, determine success)
@@ -281,7 +283,7 @@ Input and Feedback
 * Facilitation
 
 Tasks
-* Task Analysis and Modeling Methods
+* Task Analysis, Task Analysis Grid, and Task Modeling Methods
 * Cognitive Task Analysis
 * Hierarchical Task Analysis
 * Allocate Tasks
@@ -344,9 +346,10 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 * Facilitation
 * Use Case
 * User Story
-* Personas
+* Personas 
 * Story splitting
 * Story mapping
+* Retrospectives
 
 ### Workshop
 
@@ -418,6 +421,10 @@ Measurement
 * Learnability
 * Readability (Synonyms: Plain language)
 
+Feedback and Iteration
+* Get Feedback, Integrate Feedback and Iterate
+* Keep Iterating, Keep Getting Feedback
+
 ## Organization
 
 Organization
@@ -437,7 +444,7 @@ Business Goals
 Going Forward
 * Roadmap
 * Feedback and Iteration
-* Scaling, Sustainability, and Growth
+* Scaling (Scaling Planning Tool), Sustainable Revenue, Ways to Grow
 
 Preliminary/Product Specifications
 * 18-month schedule of product delivery dates
