@@ -510,6 +510,30 @@ Think Tanks
 
 #### Government and International Data
 
+U.S. Departments
+*   [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
+*   [U.S. Census](http://www.census.gov)
+*   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
+*   [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
+
+Patent Search and FOIA
+*   [U.S. Patent and Trademark Office](http://www.uspto.gov)
+*   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
+*   [FOIA](http://foia.state.gov)
+
+U.S. Open Government, Data
+*   [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+*   [U.S. Dot Gov Domains](https://github.com/GSA/data)
+*   [U.S. Data](http://www.data.gov)
+*   [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
+*   [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
+*   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
+*   [U.S. Project Open Data](https://project-open-data.cio.gov)
+
+G8 and U.K. Data 
+*   [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
+*   [U.K. Government Publications](https://www.gov.uk/government/publications)
+
 International and Development Data
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
 *   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
@@ -525,24 +549,13 @@ International and Development Data
 *   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports), and [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
 *   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf) and [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
 
-U.K. and U.S. Data
-*   [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
-*   [U.K. Government Publications](https://www.gov.uk/government/publications)
-*   [U.S. Executive Order -- Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
-*   [U.S. Dot Gov Domains](https://github.com/GSA/data)
-*   [U.S. Census](http://www.census.gov)
-*   [U.S. Data](http://www.data.gov)
-*   [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
-*   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
-*   [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
-*   [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
-*   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
-*   [U.S. Project Open Data](https://project-open-data.cio.gov)
+*   [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
 
-Patent Search and FOIA
-*   [U.S. Patent and Trademark Office](http://www.uspto.gov)
-*   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
-*   [FOIA](http://foia.state.gov)
+International Info
+*   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
+*   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
+*   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
+*   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 
 #### News Sources
 Guardian Directory of News Websites
@@ -1126,12 +1139,6 @@ Graph- General (See Also Facebook Open Graph)
 
 *   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
 
-*   [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
-*   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
-*   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
-*   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
-*   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
-
 #### Notable Proposals and Pitch Decks
 
 *   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
@@ -1514,8 +1521,8 @@ Laws, Theories, Logic
 *   [False Positive Wikipedia](http://en.wikipedia.org/wiki/False_positive)  
 *   [Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
 *   [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
-*   [God's Algorithm Wikipedia](http://en.m.wikipedia.org/wiki/God%27s_algorithm)  
-*   [Goodhart's Law Wikipedia](https://en.m.wikipedia.org/wiki/Goodhart%27s_law)
+*   [God's Algorithm Wikipedia](http://en.wikipedia.org/wiki/God%27s_algorithm)  
+*   [Goodhart's Law Wikipedia](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 *   [Good Old Days Wikipedia](http://rationalwiki.org/wiki/Good_old_days)   
 *   [Hotelling's Rule Wikipedia](http://en.wikipedia.org/wiki/Hotelling's_rule)  
 *   [If By Whiskey Wikipedia](http://en.wikipedia.org/wiki/If-by-whiskey)  
