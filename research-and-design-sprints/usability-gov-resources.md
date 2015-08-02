@@ -362,3 +362,93 @@ Data analysis
 * Prepare summary of findings and recommendations; include video clips 
 * Present and distribute summary of findings and recommendations
 * Send thank you notes
+
+## Card Sort Results Report
+
+Card Sort Results Report Template
+
+Testing Conducted _________________
+
+Prepared by:		[Company]
+
+Prepared for:	[Client]
+
+Submitted:		[Date]
+Document Status
+Item 
+Description
+Document Title
+
+File Name
+
+Disposition
+
+Author(s)
+
+Document Description
+
+Document Revision History
+Version #
+Date
+Changed By
+Description
+
+EXECUTIVE SUMMARY
+
+Recommendations include:
+
+TEST OBJECTIVE
+
+PARTICIPANTS
+ 
+METHODOLOGY
+
+DATA COLLECTED
+
+ANALYSIS
+
+RESULTS
+
+CARD GROUPING
+
+Similarity Matrix of the Combined Participants
+
+CATEGORIES
+
+PARTICIPANT COMMENT
+
+CARD SORT COMMENTS
+
+QUESTIONNAIRE RESULTS
+
+RECOMMENDATIONS
+
+APPENDIX A – CARD LISTING
+
+APPENDIX B – CARD SORT FINDINGS
+
+## Usability Test Report
+
+[Name of Web Application/Site] Test
+
+[Name of Report Writer]
+
+[Report Date]
+
+Table of Contents [Insert Table of Contents]
+
+Introduction
+
+Executive Summary
+
+Methodology
+ 
+Results
+
+Recommendations
+
+Conclusion
+
+
+
+
