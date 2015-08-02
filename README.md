@@ -534,22 +534,31 @@ G8 and U.K. Data
 *   [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
 *   [U.K. Government Publications](https://www.gov.uk/government/publications)
 
-International and Development Data
-*   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
-*   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
+International Organizations
 *   [International Monetary Fund](https://www.imf.org) 
-*   [OECD Data](https://data.oecd.org) and [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
+*   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
+*   [World Economic Forum](http://www.weforum.org)
+
+International Organizations Reports and Data
+*   [OECD Data](https://data.oecd.org)
 *   [Our World in Data](http://ourworldindata.org)
 *   [United Nations Statistics Division](http://unstats.un.org)
-*   [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
-*   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
-*   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
 *   [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org)
-*   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
-*   [World Economic Forum](http://www.weforum.org), [World Economic Forum Reports Homepage](http://www.weforum.org/reports), and [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
-*   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf) and [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
+*   [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
 
-*   [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org)  
+International Organizations Special Reports: Business and Competitiveness
+*   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
+*   [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
+*   [World Bank- Doing Business Country Rankings](http://www.doingbusiness.org) 
+*   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
+*   [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
+*   [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
+
+International Organizations Special Reports: Development
+*   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
+*   [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
+*   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
+*   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
 
 International Info
 *   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
