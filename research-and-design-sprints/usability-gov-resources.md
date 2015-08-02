@@ -3,6 +3,7 @@
 ## Questions to Ask at Kick-Off Meetings
 
 1.  Define purpose/vision for the site
+
 * What is the purpose of the site? 
 * What are the goals of the site?
 
