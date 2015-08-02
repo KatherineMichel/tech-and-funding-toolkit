@@ -413,41 +413,26 @@ CARD GROUPING
 
 Similarity Matrix of the Combined Participants
 
-CATEGORIES
-
-PARTICIPANT COMMENT
-
-CARD SORT COMMENTS
-
-QUESTIONNAIRE RESULTS
-
-RECOMMENDATIONS
-
-APPENDIX A – CARD LISTING
-
-APPENDIX B – CARD SORT FINDINGS
+* CATEGORIES
+* PARTICIPANT COMMENT
+* CARD SORT COMMENTS
+* QUESTIONNAIRE RESULTS
+* RECOMMENDATIONS
+* APPENDIX A – CARD LISTING
+* APPENDIX B – CARD SORT FINDINGS
 
 ## Usability Test Report
 
-[Name of Web Application/Site] Test
-
-[Name of Report Writer]
-
-[Report Date]
-
-Table of Contents [Insert Table of Contents]
-
-Introduction
-
-Executive Summary
-
-Methodology
- 
-Results
-
-Recommendations
-
-Conclusion
+* [Name of Web Application/Site] Test
+* [Name of Report Writer]
+* [Report Date]
+* Table of Contents [Insert Table of Contents]
+* Introduction
+* Executive Summary
+* Methodology
+* Results
+* Recommendations
+* Conclusion
 
 ## Usability Test [Short/ Informal] Report DOCX
 
@@ -463,33 +448,18 @@ Prepared by: 		[Name]
 Phone Number:		[XXX-XXX-XXXX]
 Email: 			[name@address.gov]
 
-Executive Summary
-
-Methodology
-
-Major findings and recommendations
-
-Detailed findings and recommendations
-
-Scenario 1 - 
-
-Scenario 2 – 
-
-Scenario 3 – 
-
-Exit Questions/User Impressions
-
-## Usability Test [Short/ Informal] Report PPTX
-
-Background
-
-Methodology
-
-Results
-
-User profiles [or personas]
-
-Next steps
+* Executive Summary
+* Methodology
+* Who we tested
+* What participants did
+* What data we collected
+* Major findings and recommendations
+* Detailed findings and recommendations
+* Introductory Questions & Tasks
+* Scenario 1 - 
+* Scenario 2 – 
+* Scenario 3 – 
+* Exit Questions/User Impressions
 
 ## Usability Test Report [Long/Formal] Report DOCX
 
@@ -499,38 +469,43 @@ Date of Report: 	[Month Day, Year]
 Date of Test:  	[Month Day, Year]
 Location of Test:  	[City, State]  
 
-
 Prepared for: 		[First Name, Last Name]
 Phone Number:		[XXX-XXX-XXXX]
 Email: 		[name@address.gov] 
-
 
 Prepared by: 		[First Name, Last Name]
 Phone Number:		[XXX-XXX-XXXX]
 Email: 		[name@address.gov] 
 
 Table of Contents
+* Executive Summary
+* Methodology
+* What happened during the usability test
+* Who we tested
+* What participants did
+* What data we collected
+* Where we tested
+* Introductory Questions & Tasks
+* Findings & Recommendations
+* Home Page Issues
+* Scenario #1
+* Exit Questions/User Impressions
+* Appendices
 
-Executive Summary	3
-Methodology	3
-What happened during the usability test	3
-Who we tested	3
-What participants did	4
-What data we collected	4
-Where we tested	4
-Introductory Questions & Tasks	5
-Findings & Recommendations	6
-Home Page Issues	7
-Scenario #1	8
-Exit Questions/User Impressions	9
-Appendices	10
+## Usability Test [Short/ Informal] Report PPTX
+
+* Background
+* Methodology
+* Results
+* User profiles [or personas]
+* Next steps
 
 ## Usability Test Report [Long/Formal] Report PPTX
 
-Background
-Study goals
-Methodology
-Participants
-Findings 
-Recommendations
+* Background
+* Study goals
+* Methodology
+* Participants
+* Findings 
+* Recommendations
 
