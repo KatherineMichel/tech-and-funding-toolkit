@@ -90,6 +90,12 @@ I Like, I Wish, What If
 Who / What / When / Where/ Why / How
 Why, How, Laddering
 
+*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
+*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
+
+*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
+*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
+
 * Fishbone Diagram (Synonyms: Cause-and-effect diagram, Fault tree diagram, Ishikawa diagram, Root cause analysis)
 
 * 7 plus or minus 2
@@ -121,21 +127,18 @@ Survey Research Findings DOCS and PPTX
 Metrics PowerPoint (Statistics Review and Design Implications) PPTX
 Card Sort Results DOCX
 
-* Assurance from those outside the service team
-* Self assurance by agile teams
 * How delivery teams manage their work
-* Setting up the right reporting
 
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 * Agile Testing Wikipedia, Test Driven Development, Acceptance Test Driven Development, Behavior Driven Development
 * [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 
-* [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
-* [Continuous Integration and deployment](http://guide.agilealliance.org/guide/cd.html)
+* Pair Programming
+* Iterative and Incremental Development Wikipedia
+* Continuous Integration and deployment
+* Code Refactoring
 
-* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 
@@ -185,18 +188,8 @@ Card Sort Results DOCX
 
 * [Quality](https://www.gov.uk/service-manual/agile/quality.html)
 
-*   [Staff Your Project](http://www.designkit.org/methods/56)
-
-*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
-*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
-
-*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
-*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
-
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
-* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
-* User stories for web operations
 * [Performance Platform (Dashboard)](https://www.gov.uk/service-manual/measurement/performance-platform.html)
 
 * Key performance indicators
