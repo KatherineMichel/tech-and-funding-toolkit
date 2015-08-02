@@ -452,6 +452,18 @@ Possible Supplies: Research and Prototyping Materials (IDEO)
 * Research materials
 * Spreadsheet program
 
+User
+* User Centered/Centred Design (UCD)
+* User Needs
+* User Research, User Research Briefs
+* User Experience (UX/UE)
+* User Engagement
+* Human Factors, Human-Computer Interaction (HCI)
+* User Interface Design, User Interface Elements, Visual Design
+* Interaction Design 
+* Usability Engineering
+* Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
+
 User Testing
 * Usability/Web Accessibility Evaluation/Testing and Methods
 * Planning, Recruiting Usability Test Participants, Running Test, Analysis, Reporting Results
@@ -765,6 +777,7 @@ Summary Reports
 
 ## Design Sprint Methods
 
+Other Planning Tools
 * Innovation Flowchart
 * Asking the Right Questions
 * Working with the Right People
