@@ -13,6 +13,8 @@ What does the world look like without this problem?
 * 3 years after launch?
 * 10 years after launch?
 
+Creating Cultural Change
+
 Future Workshop
 * Tomorrow Headlines
 * Tomorrow SEC Filing
@@ -119,6 +121,7 @@ Target
 * Target Audiences/Target Group
 * Define Your Audience
 * Extremes and Mainstreams, Extreme Users
+* Current Users, Potential Users, User Segments
 
 Personas, Use Cases, Role Play
 * Customer Archetype/Personas ((a.k.a. "Character Profile")
@@ -208,7 +211,7 @@ Verify Product/Market Fit
 * Phases
 * Requirements Gathering Methods and Meeting
 * Project Team Roles and Responsibilities
-* Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors" Map
+* Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors Map," "Motivation Matrix"
 * Kick-Off Meeting
 * Critical Path
 * Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress, determine success)
@@ -248,6 +251,7 @@ Lightning Demos/Lightning Presentations
 * Competitor/potential competitor products
 * Related/adjacent products
 * Innovators in the space
+* Case Study
 
 ### User Research Data Gathering Methods
 
@@ -279,7 +283,8 @@ Input and Feedback
 * Interview for Empathy
 * Focus Group, Mini Groups
 * Questionnaire/Survey/Poll (Design), (Paper and Online)
-* Forums/Panels
+* Online Omnibus Survey
+* Forums/Panels (Online and Off)
 * Facilitation
 
 Tasks
@@ -402,12 +407,22 @@ Critique
 * Silent Critique
 * Group Critique
 
-User Testing
+Wireframe, Mock Up, Prototype
 * Wireframe
 * Mock Up
 * Prototype
-* Pilot
-* Wizard of Oz
+* Prototyping Protocol
+* Prototyping Framework
+* Prototyping Methods
+* What to Prototype, Who to Involve
+* Paper Prototyping (Synonyms: Low-fidelity prototype)
+* Rapid Prototyping
+* Rough Prototyping
+* Live Prototyping
+* Experience Prototype
+* Service Prototype
+* Prototype for Empathy
+* Prototype for Test
 
 Possible Supplies: Research and Prototyping Materials (IDEO)
 * Prototyping materials
@@ -416,25 +431,34 @@ Possible Supplies: Research and Prototyping Materials (IDEO)
 * Spreadsheet program
 
 User Testing
-* Usability Evaluation/Testing and Methods
-* Planning, Recruiting Usability Test Participants, Running Test, Reporting Results
-* User Testing Analysis
-* Remote Testing
+* Usability/Web Accessibility Evaluation/Testing and Methods
+* Planning, Recruiting Usability Test Participants, Running Test, Analysis, Reporting Results
+* Think-aloud Protocol
+* Same Day User Testing (Online Qualitative)
+* Remote Evaluation/Testing
+* Guerilla Testing
+* Lab Based Testing
 * Performance Testing
+* Competitive Usability Testing
+* Summative Usability Testing
+* Formative Usability Testing
+* Tree Testing
+* Wizard of Oz
 * Mobile Device Testing
 * First Click Testing
 * Eye Tracking
 * Post Release Testing
+* Pilot
 
 Possible Supplies: Real World Testing Materials (IDEO)
 * Space
 * Staff
 * Permits
 
-Measurement
+Measurement (Testing and Post-Release)
 * Rating Scales
 * Likert Scale
-* Satisfaction Questionnaire
+* Attitude/User Satisfaction Questionnaire/Subjective Assessment
 * Usability Benchmark/Benchmark Testing
 * System Usability Scale (SUS)
 * Critical Incident Technique (CIT)/Critical Incident Analysis
@@ -442,9 +466,13 @@ Measurement
 * Learnability, Easy to Learn
 * Readability (Synonyms: Plain language)
 
-Feedback and Iteration
+Feedback and Iterative Design
 * Get Feedback, Integrate Feedback and Iterate
 * Keep Iterating, Keep Getting Feedback
+
+Retirement
+* Life of a service
+* Graceful Degradation
 
 ## Organization
 
