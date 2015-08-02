@@ -38,8 +38,6 @@ Team Persona Cards
 Activity Sheets 1 and 2
 Telephone Template
 
-User Edit (TBD)
-
 Emotion and Website Design
 
 Claims Analysis
@@ -127,30 +125,18 @@ Card Sort Results DOCX
 
 * How delivery teams manage their work
 
+* [Subway](http://guide.agilealliance.org/subway.html)
+
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 * [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 
-* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
-
-## Agile Allegiance
-
-* [Subway](http://guide.agilealliance.org/subway.html)
-* [Resources](http://agilealliance.org/resources)
-* [Site Map](http://agilealliance.org/site-map)
-
-* [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
 
 * [Role-feature-reason](http://guide.agilealliance.org/guide/rolefeature.html)
 * [Three C's](http://guide.agilealliance.org/guide/threecs.html)
 * [Invest](http://guide.agilealliance.org/guide/invest.html)
 * [Given - When - Then](http://guide.agilealliance.org/guide/gwt.html)
-
-* [Scrum of Scrums](http://guide.agilealliance.org/guide/scrumofscrums.html)
-* [Team room](http://guide.agilealliance.org/guide/teamroom.html)
-* [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
-* [Niko-niko calendar](http://guide.agilealliance.org/guide/nikoniko.html)
 
 * [Lead time](http://guide.agilealliance.org/guide/leadtime.html)
 * [Sustainable pace](http://guide.agilealliance.org/guide/sustainable.html)
@@ -159,12 +145,7 @@ Card Sort Results DOCX
 * [Relative estimation](http://guide.agilealliance.org/guide/relative.html)
 * [Milestone retrospective](http://guide.agilealliance.org/guide/milestone-retro.html)
 
-* [Definition of Done](http://guide.agilealliance.org/guide/definition-of-done.html)
-* [Definition of Ready](http://guide.agilealliance.org/guide/definition-of-ready.html)
-
 * [Automated build](http://guide.agilealliance.org/guide/autobuild.html)
-* [Backlog grooming](http://guide.agilealliance.org/guide/backlog-grooming.html)
-* [Backlog](http://guide.agilealliance.org/guide/backlog.html)
 * [Exploratory testing](http://guide.agilealliance.org/guide/exploratory.html)
 * [Mock objects](http://guide.agilealliance.org/guide/mocks.html)
 * [Unit testing](http://guide.agilealliance.org/guide/unittest.html)
@@ -174,12 +155,6 @@ Card Sort Results DOCX
 
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 * [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
-* [Performance Platform (Dashboard)](https://www.gov.uk/service-manual/measurement/performance-platform.html)
-
-* Key performance indicators
-* Completion rate
-* Digital take-up
-* Measuring cost per transaction
 
 * Branding
 * Frontend
