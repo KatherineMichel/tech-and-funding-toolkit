@@ -343,6 +343,8 @@ IDEO Possible Supplies: Design Sprint (IDEO)
 ### Agile Project Management
 
 * Project Chartering (Example: Rich Picture)
+* Cross Functional Team
+* Creating a Culture that Supports Change
 * Everybody Owns the Problem (Collective Ownership)
 * Story-Driven Modeling/Heartbeat Retrospective
 * Time Boxing
