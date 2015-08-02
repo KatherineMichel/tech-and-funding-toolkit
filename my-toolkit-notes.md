@@ -11,7 +11,7 @@
 * User Research Background Techniques
 * Professional User Research Tools and Methods
 * User Research Briefs
-* User Experience (UE)
+* User Experience (UX/UE)
 * User Engagement
 * Interface
 * Interaction Design 
@@ -203,26 +203,21 @@ Card Sort Results DOCX
 ## Knowledge Sharing Toolkit
 ## Nielson Norman
 
-*   [Which UX Research Methods](http://www.nngroup.com/articles/which-ux-research-methods)
-*   [Task Scenarios Usability Testing](http://www.nngroup.com/articles/task-scenarios-usability-testing)
+*   Task Scenarios Usability Testing
 *   Mental Models (referenced in Card Sorting)
-*   [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
 
-Development
-* [Governance](https://www.gov.uk/service-manual/governance/index.html)
-* [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
-* [Assurance from those outside the service team](https://www.gov.uk/service-manual/governance/assurance-from-those-outside-the-service-team.html)
-* [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
-* [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
-* [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
+* Governance
+* Life of a service
+* Assurance from those outside the service team
+* Self assurance by agile teams
+* How delivery teams manage their work
+* Setting up the right reporting
 
 Agile Project Management Methodologies
 *   Extreme Programming and Extreme Project Management
 *   Lean Software Development
 *   Kaizen Wikipedia
-*   Kanban Development
 *   Just-in-Time
-*   Scrum Software Development
 
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 * [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
@@ -258,9 +253,6 @@ Agile Project Management Methodologies
 * [Scrum of Scrums](http://guide.agilealliance.org/guide/scrumofscrums.html)
 * [Team room](http://guide.agilealliance.org/guide/teamroom.html)
 * [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
-* [Information radiators](http://guide.agilealliance.org/guide/information-radiator.html)
-* [Task board](http://guide.agilealliance.org/guide/taskboard.html)
-* [Sign up for tasks](http://guide.agilealliance.org/guide/sign-up-for-tasks.html)
 * [Niko-niko calendar](http://guide.agilealliance.org/guide/nikoniko.html)
 * [Kanban board](http://guide.agilealliance.org/guide/kanban.html)
 * [Daily meeting](http://guide.agilealliance.org/guide/daily.html)
@@ -281,7 +273,6 @@ Agile Project Management Methodologies
 * [Backlog](http://guide.agilealliance.org/guide/backlog.html)
 * [BDD](http://guide.agilealliance.org/guide/bdd.html)
 * [Continuous deployment](http://guide.agilealliance.org/guide/cd.html)
-* [Continous integration](http://guide.agilealliance.org/guide/ci.html)
 * [Exploratory testing](http://guide.agilealliance.org/guide/exploratory.html)
 * [Frequent releases](http://guide.agilealliance.org/guide/frequent-release.html)
 * [Incremental development](http://guide.agilealliance.org/guide/incremental.html)
