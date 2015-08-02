@@ -524,6 +524,7 @@ Patent Search and FOIA
 *   [U.S. Patent and Trademark Office](http://www.uspto.gov)
 *   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
 *   [FOIA](http://foia.state.gov)
+*   [Stack Exchange Patents](http://patents.stackexchange.com)
 
 U.S. Open Government, Data
 *   [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
@@ -1103,6 +1104,13 @@ Amazon
 Code Hosting
 *   [GitHub](https://github.com/github)
 *   [Google Code](http://code.google.com)
+
+Question and Answer Forums
+*   [Quora](http://www.quora.com)
+*   [Stack Exchange](http://stackexchange.com)
+*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
+*   [Stack Overflow](http://stackoverflow.com)
+*   [Yahoo Answers](https://answers.yahoo.com)
 
 Licenses
 *   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
