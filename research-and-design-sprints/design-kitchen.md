@@ -858,6 +858,7 @@ More
 
 ### Methods
 
+* [Affinity Diagram Wikipedia](https://en.wikipedia.org/wiki/Affinity_diagram)
 * [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
 * [Six Thinking Hats Wikipedia](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
 * [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
