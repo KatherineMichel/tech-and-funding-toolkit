@@ -310,6 +310,7 @@ Input and Feedback
 * Forums/Panels (Online and Off)
 * Facilitation
 * Conversation Starters, Stoke
+* Community User Groups
 
 Cognitive Models
 * GOMS
@@ -323,6 +324,7 @@ Tasks
 * Cognitive Task Analysis
 * Hierarchical Task Analysis
 * Allocate Tasks
+* Integrating offline activity
 
 Internationalization and Localization
 * Cultural Probe
@@ -421,6 +423,7 @@ Web Design
 * Card Sorting (Open and Closed)
 * Mental Models (referenced in Card Sorting)
 * Site Map
+* Content Strategy, Content Inventory
 * Parallel Design
 
 Critique
@@ -463,6 +466,7 @@ User
 * Interaction Design 
 * Usability Engineering
 * Accessibility (Synonyms: ARIA, Section 508, WAI WCAG)
+* Assisted Digital, Inclusive Services
 
 User Testing
 * Usability/Web Accessibility Evaluation/Testing and Methods
@@ -574,6 +578,11 @@ Design Principles
 * Frame Your Design Challenge
 * High Level Design
 * Styles Guides
+* Branding
+* Frontend
+* Common website elements/Design Patterns
+* Color Basic
+* Emotion and Website Design
 
 ## Agile Development
 
@@ -839,3 +848,18 @@ Other Planning Tools
 * Fitts' Law
 * Gestalt Principles
 * Industrial Design
+
+## Extra
+
+* ISO 13407: Human centred design processes for interactive systems/Observation of Users Patterns
+
+* Analogous Inspiration
+* Secondary Research
+
+Testing Services
+HHS Usability Lab
+
+Building secure digital services
+
+* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
+* [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
