@@ -113,3 +113,14 @@ Technical
 * What are they looking for?
 * What is your person looking to do? 
 * What are his needs?
+
+## Measurable Usability Goals
+
+* Site URL:	
+* Site Owner:		
+* Site Definition
+* What is the purpose of the site? 
+* What are the goals of the site?
+* Who are the users of the site?  
+* Primary audience: 
+* Secondary audience: 
