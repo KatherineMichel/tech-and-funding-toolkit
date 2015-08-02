@@ -1501,7 +1501,7 @@ Finance and Investment Terms
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 
 Laws, Theories, Logic  
-*   [Baumo's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
+*   [Baumol's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
 *   [Benford's Law Wikipedia](http://en.wikipedia.org/wiki/Benford%27s_law)  
 *   [Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
 *   [Clark's Three Laws Wikipedia](http://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
