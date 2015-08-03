@@ -32,6 +32,7 @@ Table of Contents
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Design](#desgn)
+- [Project Management](#project-management)
 - [Government Digital](#government-digital)
 - [More Research and Design Toolkits](#more-research-and-design-toolkits)
 - [Google Ventures Research Sprint](#google-ventures-research-sprint)
@@ -48,7 +49,6 @@ Table of Contents
 - [Internationalization](#internationalization)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Startup Transparency Examples](#startup-transparency-examples)
-- [Project Management](#project-management)
 - [Popular Tools](#popular-tools)
 - [Other Enormous Tool Lists](#other-enormous-tool-lists)
 - [Philosophies, Milestones](#philosophies-milestones)
@@ -791,6 +791,60 @@ Company Design
 *   [Twitter Design](https://twitter.com/design)  
 *   [Uber Design](https://www.uber.com/design) 
 
+#### Project Management
+
+*   [Project Management Wikipedia](http://en.wikipedia.org/wiki/Project_management)  
+*   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics) and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
+*   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
+*   [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
+
+Project Management Associations
+*   [Association for Project Management](http://www.apm.org.uk)  
+*   [Project Management Institute](http://www.pmi.org) 
+
+Quality
+*   [ISO](http://www.iso.org/iso/home.html) 
+*   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
+
+Project Management Software
+*   [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
+*   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
+*   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
+*   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
+*   [Slack](https://slack.com) 
+*   [Trello](https://trello.com)
+
+Software Development Philosophies
+*   [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+*   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+
+Agile Project Management Methodologies
+*   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
+*   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
+*   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
+*   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
+*   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
+*   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
+*   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
+*   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
+*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
+*   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
+*   [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
+*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
+*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
+
+Sprints
+*   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
+*   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
+
+Waterfall Project Management Methodologies
+*   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
+
+Process Improvement
+*   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
+*   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
+*   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
+
 #### Government Digital (including Research and Design Sprints)
 
 Australia
@@ -1282,60 +1336,6 @@ Buffer
 
 Medium
 *   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-#### Project Management
-
-*   [Project Management Wikipedia](http://en.wikipedia.org/wiki/Project_management)  
-*   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics) and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
-*   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
-*   [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
-
-Project Management Associations
-*   [Association for Project Management](http://www.apm.org.uk)  
-*   [Project Management Institute](http://www.pmi.org) 
-
-Quality
-*   [ISO](http://www.iso.org/iso/home.html) 
-*   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
-
-Project Management Software
-*   [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
-*   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
-*   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
-*   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
-*   [Slack](https://slack.com) 
-*   [Trello](https://trello.com)
-
-Software Development Philosophies
-*   [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
-*   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
-
-Agile Project Management Methodologies
-*   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
-*   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
-*   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
-*   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
-*   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
-*   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
-*   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
-*   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
-*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
-*   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-*   [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
-*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
-
-Sprints
-*   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
-*   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
-
-Waterfall Project Management Methodologies
-*   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
-
-Process Improvement
-*   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
-*   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
-*   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
 
 #### Popular Tools
 
