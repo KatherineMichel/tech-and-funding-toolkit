@@ -1050,7 +1050,6 @@ Prototyping Software
  
 Quickie Websites
 *   [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
-*   [Google Tag Manager](http://www.google.com/tagmanager)
 *   [Squarespace Templates](http://www.squarespace.com/templates)
 *   [Weebly Themes](http://www.weebly.com/themes)
 *   [Wix Templates](http://www.wix.com/website/templates)
@@ -1149,6 +1148,9 @@ Google Ads
 Google Rich Snippets
 *   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
 
+Google Webmaster
+*   [Google Tag Manager](http://www.google.com/tagmanager)
+
 LinkedIn
 *   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
 *   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
@@ -1174,6 +1176,12 @@ Twitter
 *   [Twitter News](https://twitter.com/TwitterForNews)  
 *   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
 *   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
+
+Yahoo and Bing- Developer, Webmaster, and Ads
+*   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+*   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
+*   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
+*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://adcenter.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
 
 YouTube (Google)
 *   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
