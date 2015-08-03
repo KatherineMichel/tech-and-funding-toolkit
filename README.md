@@ -269,8 +269,10 @@ Associations
 *   [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+*   [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
 
-Website Launch Checklist
+List
+*   [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
 *   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
