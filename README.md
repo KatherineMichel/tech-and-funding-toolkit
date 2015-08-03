@@ -43,10 +43,10 @@ Table of Contents
 - [Pretotyping](#pretotyping)
 - [Prototyping](#prototyping)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
-- [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
-- [Metrics](#metrics)
-- [Launch Strategies](#launch-strategies)
+- [Social Media and Social Graph](#social-media-and-social-graph)
 - [Internationalization](#internationalization)
+- [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
+- [Launch Strategies](#launch-strategies)
 - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
@@ -1116,9 +1116,58 @@ Developer Conferences
 *   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
 *   [Twitter Flock](http://flock.fabric.io) 
 
-*   [Facebook](https://www.facebook.com)
-*   [Google+](https://plus.google.com)
-*   [Twitter](https://twitter.com)  
+*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
+*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
+*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
+
+Code Hosting
+*   [GitHub](https://github.com/github)
+*   [Google Code](http://code.google.com)
+
+Question and Answer Forums
+*   [Quora](http://www.quora.com)
+*   [Stack Exchange](http://stackexchange.com)
+*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
+*   [Stack Overflow](http://stackoverflow.com)
+*   [Yahoo Answers](https://answers.yahoo.com)
+
+Licenses
+*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+*   [Creative Commons](https://creativecommons.org/licenses)
+*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+Alpha and Beta Testing
+*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+*   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+
+Testing, Reporting, Analytics
+*   [Crashlytics](http://try.crashlytics.com)
+*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+*   [Optimizely](https://www.optimizely.com) 
+*   [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
+*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+
+Engineering Blogs
+*   [Buffer Engineering](https://overflow.bufferapp.com)
+*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+*   [LinkedIn Engineering](http://engineering.linkedin.com)  
+*   [Pinterest Engineering](http://engineering.pinterest.com)  
+*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+*   [Uber Developers](https://devblog.uber.com)  
+*   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+#### Social Media and Social Graph
+
+Amazon
+*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 
 Apple
 *   [Apple Developer](https://developer.apple.com)
@@ -1188,57 +1237,10 @@ YouTube (Google)
 *   [YouTube Creators](http://www.youtube.com/yt/creators)  
 *   [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
 
-Amazon
-*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
-
-Code Hosting
-*   [GitHub](https://github.com/github)
-*   [Google Code](http://code.google.com)
-
-Question and Answer Forums
-*   [Quora](http://www.quora.com)
-*   [Stack Exchange](http://stackexchange.com)
-*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
-*   [Stack Overflow](http://stackoverflow.com)
-*   [Yahoo Answers](https://answers.yahoo.com)
-
-Licenses
-*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
-*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-*   [Creative Commons](https://creativecommons.org/licenses)
-*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
-
-Alpha and Beta Testing
-*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-*   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-
-Testing, Reporting, Analytics
-*   [Crashlytics](http://try.crashlytics.com)
-*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-*   [Optimizely](https://www.optimizely.com) 
-*   [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
-*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-
-Engineering Blogs
-*   [Buffer Engineering](https://overflow.bufferapp.com)
-*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-*   [LinkedIn Engineering](http://engineering.linkedin.com)  
-*   [Pinterest Engineering](http://engineering.pinterest.com)  
-*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-*   [Uber Developers](https://devblog.uber.com)  
-*   [Yelp Engineering](http://engineeringblog.yelp.com) 
-
 Sharing Buttons
-*   [AddThis](http://addthis.com)  
+*   [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
 *   [AddToAny](https://www.addtoany.com) 
-*   [ShareThis](http://sharethis.com)
+*   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
 Graph- General (See Also Facebook Open Graph)
 *   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
