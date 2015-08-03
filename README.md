@@ -1138,10 +1138,10 @@ Google
 *   [Google Analytics](http://www.google.com/analytics)
 
 Google Ads
-*   [Google Ads](http://www.google.com/ads)
+*   [Google Ads](http://www.google.com/ads) 
 *   [Google AdMob (Apps)](http://www.google.com/admob)  
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords/?sourceid=awo&amp;amp;amp;subid=ww-et-awhp_nelsontest3_nel_p&amp;amp;amp;clickid), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home?__u=5835640870&amp;amp;amp;__c=9103097590&amp;amp;amp;authuser=0), [Google AdWords Help Center](https://support.google.com/adwords/?hl=en&amp;amp;amp;rd=1#topic=3119071), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords/?sourceid=awo&amp;amp;amp;subid=ww-et-awhp_nelsontest3_nel_p&amp;amp;amp;clickid), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home?__u=5835640870&amp;amp;amp;__c=9103097590&amp;amp;amp;authuser=0), [Google AdWords Help Center](https://support.google.com/adwords), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
 *   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
 *   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
 
