@@ -480,6 +480,7 @@ Surveys
 
 Google Insights and Trends
 *   [Google Insights](http://www.google.com/insights)
+*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/intl/en-gb/planning-tools) 
 *   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
 General Research
@@ -1138,7 +1139,15 @@ Google
 *   [Google Analytics](http://www.google.com/analytics)
 
 Google Ads
+*   [Google Ads](http://www.google.com/ads)
+*   [Google AdMob (Apps)](http://www.google.com/admob)  
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
+*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords/?sourceid=awo&amp;amp;amp;subid=ww-et-awhp_nelsontest3_nel_p&amp;amp;amp;clickid), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home?__u=5835640870&amp;amp;amp;__c=9103097590&amp;amp;amp;authuser=0), [Google AdWords Help Center](https://support.google.com/adwords/?hl=en&amp;amp;amp;rd=1#topic=3119071), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+*   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
+*   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+
+Google Rich Snippets
+*   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
 
 LinkedIn
 *   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
