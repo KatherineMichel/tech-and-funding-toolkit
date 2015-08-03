@@ -419,6 +419,8 @@ Investor Vocab
 *   [Investopedia](http://www.investopedia.com)
 *   [Investor Words](http://www.investorwords.com)
 
+*   [Mauboussin and Callahan: Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+
 IPO
 *   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
 *   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
