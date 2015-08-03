@@ -1056,7 +1056,7 @@ Prototyping Software
 *   [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
  
 Quickie Websites
-*   [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
+*   [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
 *   [Squarespace Templates](http://www.squarespace.com/templates)
 *   [Weebly Themes](http://www.weebly.com/themes)
 *   [Wix Templates](http://www.wix.com/website/templates)
@@ -1197,9 +1197,13 @@ Google Ads
 *   [Google Ads](http://www.google.com/ads) 
 *   [Google AdMob (Apps)](http://www.google.com/admob)  
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords/?sourceid=awo&amp;amp;amp;subid=ww-et-awhp_nelsontest3_nel_p&amp;amp;amp;clickid), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home?__u=5835640870&amp;amp;amp;__c=9103097590&amp;amp;amp;authuser=0), [Google AdWords Help Center](https://support.google.com/adwords), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
 *   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
 *   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+*   [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
+
+Google Monetization
+*   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
 
 Google Rich Snippets
 *   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
