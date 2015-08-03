@@ -419,6 +419,7 @@ Investor Vocab
 *   [Investopedia](http://www.investopedia.com)
 *   [Investor Words](http://www.investorwords.com)
 
+Measuring a Moat
 *   [Mauboussin and Callahan: Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
 
 IPO
@@ -495,7 +496,8 @@ Wikipedia
 
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
-*   [Google Research](http://research.google.com/index.html) and [Google Research Papers](http://research.google.com/pubs/papers.html) 
+*   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
+*   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
 
 Scholarly Journals
 *   [Science Direct](http://www.sciencedirect.com)  
@@ -547,7 +549,7 @@ G8 and U.K. Data
 
 International Organizations
 *   [International Monetary Fund](https://www.imf.org) 
-*   [Organisation for Economic Cooperation and Development](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
+*   [Organisation for Economic Cooperation and Development Wikipedia](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
 *   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
 *   [World Economic Forum](http://www.weforum.org)
 
@@ -655,6 +657,10 @@ Shows
 
 Because I Just Like It
 *   [PBS](http://www.pbs.org)
+
+Google for Education
+*   [Google Classroom](https://www.google.com/edu/products/productivity-tools/classroom)
+*   [Google Course Builder](https://code.google.com/p/course-builder)
 
 #### Books and Courses
 
@@ -1184,7 +1190,7 @@ Google
 *   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
 *   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) 
-*   [Google Analytics](http://www.google.com/analytics)
+*   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 
 Google Ads
 *   [Google Ads](http://www.google.com/ads) 
@@ -1205,7 +1211,9 @@ LinkedIn
 *   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
 
 Pinterest
-*   [Pinterest Blog](http://blog.pinterest.com) and [Pinterest Business](https://business.pinterest.com)
+*   [Pinterest for Developers](https://developers.pinterest.com) 
+*   [Pinterest Blog](http://blog.pinterest.com)
+*   [Pinterest for Business](https://business.pinterest.com)
 
 Slideshare
 *   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
@@ -1243,6 +1251,7 @@ Sharing Buttons
 *   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
 Graph- General (See Also Facebook Open Graph)
+*   [Schema Org](http://schema.org)
 *   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
 *   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
 
