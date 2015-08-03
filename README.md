@@ -455,6 +455,7 @@ App Stores
 *   [Apple Store](http://store.apple.com/us)  
 *   [Google Play](https://play.google.com)  
 *   [Salesforce App Exchange](https://appexchange.salesforce.com)  
+*   [Chrome Web Store](https://chrome.google.com/webstore)
 
 Product/Service Directories
 *   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
@@ -1189,7 +1190,7 @@ Google
 *   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 *   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
-*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) 
+*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 *   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 
 Google Ads
@@ -1211,6 +1212,7 @@ LinkedIn
 *   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
 
 Pinterest
+*   [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
 *   [Pinterest for Developers](https://developers.pinterest.com) 
 *   [Pinterest Blog](http://blog.pinterest.com)
 *   [Pinterest for Business](https://business.pinterest.com)
