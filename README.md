@@ -572,6 +572,11 @@ International Organizations Special Reports: Development
 *   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
 *   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
 
+Social Entrepreneurship
+*   [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
+*   [Gages Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
+*   [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
+
 International Info
 *   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
 *   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
