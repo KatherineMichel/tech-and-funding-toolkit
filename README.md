@@ -270,6 +270,7 @@ Associations
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 *   [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
+*   [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
 
 List
 *   [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
