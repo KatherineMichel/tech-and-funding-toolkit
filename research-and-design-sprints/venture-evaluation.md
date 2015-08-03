@@ -1,5 +1,30 @@
 # Venture Analysis
 
+Breaking Down A Typical VC/Startup Diligence Process
+
+First meeting
+* Founders/Team
+* Business
+* Go to market
+* The angle
+
+After the first meeting
+* Market Size Validation
+* Pitch-it-myself test
+* Six degrees of separation
+
+Second and third meetings
+* Pipeline: How many customers/users? How often are they using it? What are CAQ, LTV and churn metrics? How do those compare with industry benchmarks?
+* Product roadmap
+* Financing plan
+* Industry
+
+Additional meetings/Full partner meeting
+* Key issues analysis
+
+After the term sheet is signed, the lawyers step in.
+* Legal diligence
+
 ## [Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)
 
 People (founders, employees, other providers of resources to the venture):
