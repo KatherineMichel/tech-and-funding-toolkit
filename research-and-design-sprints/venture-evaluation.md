@@ -1,6 +1,42 @@
 # Venture Analysis
 
-Breaking Down A Typical VC/Startup Diligence Process
+## [Questions to ask before starting user research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
+
+Product roadmap
+* What’s the story of how this <feature, product, idea> got to this point?
+* What are upcoming goals, milestones, or decisions for this product?
+* What are the biggest risks to the success of the project? What keeps you awake at night?
+* What information could help you make decisions or prioritize your efforts?
+
+Users and markets
+* Who are your target users (or user groups)? What distinguishes them? (e.g. demographics, usage patterns, geographies, new vs. old, verticals, mobile vs. web, needs, expectations, pain points, etc.)
+* Which users are currently top priority for you? Why?
+
+UX goals and metrics
+* How do/will you measure performance and success of this product?
+* Do you have data that need explanation or that have highlighted possible issues in the existing user experience?
+
+Competition
+* What are the closest competitors to this <feature, product, idea>?
+* How does this compare to competitors?
+* What behaviors, conventions, or expectations might users bring to this product based on their experiences with other products?
+
+Explicit research needs
+* What are your three wishes for intelligence about your users, competitors, the marketplace, etc.?
+* Imagine the most useful, actionable research results possible. What would they tell you? How would you use them?
+
+Existing research
+* What data are you currently collecting (e.g. analytics, A/B, customer support, surveys, usability)?
+* What have you learned from the data/feedback you’re collecting?
+* What kinds of research efforts have been most/least valuable to you in the past? Why?
+
+Potential impact of research
+* What will you do with the research results?
+
+Timing and Scope
+* When is the latest date I can deliver results that will still be useful?
+
+## [Breaking Down A Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
 
 First meeting
 * Founders/Team
