@@ -367,7 +367,7 @@ Document Libraries
 
 General Solicitation
 *   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
-*   [AngelList General Solicitation](https://angel.co/help/general-solicitation)
+*   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
 
 Regulation A+
 *   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
