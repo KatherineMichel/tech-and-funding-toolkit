@@ -1179,7 +1179,15 @@ Amazon
 
 Apple
 *   [Apple Developer](https://developer.apple.com)
- 
+*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
+*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+*   [Apple Watchkit](https://developer.apple.com/watchkit)  
+*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
+*   [Apple Support](http://www.apple.com/support) 
+
 Facebook
 *   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 *   [Facebook Code](https://code.facebook.com)
