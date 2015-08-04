@@ -482,7 +482,7 @@ Surveys
 
 Google Insights and Trends
 *   [Google Insights](http://www.google.com/insights)
-*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/intl/en-gb/planning-tools) 
+*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
 *   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
 General Research
@@ -499,6 +499,7 @@ Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
 *   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
 *   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
+*   [Facebook Open Compute](http://www.opencompute.org)  
 
 Scholarly Journals
 *   [Science Direct](http://www.sciencedirect.com)  
@@ -1184,6 +1185,7 @@ Facebook
 *   [Facebook Code](https://code.facebook.com)
 *   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 *   [Facebook Business](https://www.facebook.com/business)
+*   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
 
 Google
 *   [Google Developers](https://developers.google.com) 
@@ -1197,9 +1199,11 @@ Google Ads
 *   [Google Ads](http://www.google.com/ads) 
 *   [Google AdMob (Apps)](http://www.google.com/admob)  
 *   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+*   [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
 *   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
 *   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+*   [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
 *   [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
 
 Google Monetization
@@ -1256,7 +1260,8 @@ Sharing Buttons
 *   [AddToAny](https://www.addtoany.com) 
 *   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
-Graph- General (See Also Facebook Open Graph)
+Graph and Schema- General (See Also Facebook Open Graph)
+*   [Open Graph Protocol Schema](http://ogp.me) 
 *   [Schema Org](http://schema.org)
 *   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
 *   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
