@@ -137,6 +137,7 @@ Table of Contents
 *   [Guy Kawasaki](http://guykawasaki.com) and [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
 *   [Hiten Shah](http://hitenism.com) 
 *   [Horace Dediu](http://www.asymco.com) 
+*   [Jake Knapp](https://medium.com/@jakek)
 *   [Jason M. Lemkin (SaaStr](http://www.saastr.com)
 *   [Jay Rosen](http://pressthink.org)   
 *   [Jeff Atwood](http://blog.codinghorror.com)
