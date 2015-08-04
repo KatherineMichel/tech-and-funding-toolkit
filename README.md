@@ -1586,6 +1586,7 @@ Finance and Investment Terms
 *   [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
+*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
 *   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
 *   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
 *   [Inflection Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
