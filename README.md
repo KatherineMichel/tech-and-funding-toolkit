@@ -477,7 +477,7 @@ Wayback Machine
 #### General Research
 
 Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
 *   [SurveyMonkey](https://www.surveymonkey.com)
 
 Google Insights and Trends
@@ -497,6 +497,7 @@ Wikipedia
 
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
+*   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
 *   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
 *   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
 *   [Facebook Open Compute](http://www.opencompute.org)  
@@ -1192,9 +1193,10 @@ Apple
 Facebook
 *   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 *   [Facebook Code](https://code.facebook.com)
-*   [Facebook Pages](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+*   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 *   [Facebook Business](https://www.facebook.com/business)
 *   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+*   [Fb Start for Mobile Startups](http://fbstart.com)
 
 Google
 *   [Google Developers](https://developers.google.com) 
@@ -1217,6 +1219,9 @@ Google Ads
 
 Google Monetization
 *   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
+
+Google 
+*   [Google News Publisher Help](https://support.google.com/news/publisher)
 
 Google Rich Snippets
 *   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
