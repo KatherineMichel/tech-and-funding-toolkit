@@ -1648,6 +1648,7 @@ Laws, Theories, Logic
 *   [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
 *   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
+*   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 *   [Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
 
 [Back to Top](#)
