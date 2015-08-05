@@ -1642,6 +1642,7 @@ Laws, Theories, Logic
 *   [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
 *   [Selection Bias Wikipedia](http://en.wikipedia.org/wiki/Selection_bias)
 *   [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
+*   [Simpson's Paradox Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 *   [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
 *   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
