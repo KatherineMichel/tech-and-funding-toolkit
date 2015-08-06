@@ -58,6 +58,20 @@ Table of Contents
 - [Notable Interviews and Presentations](#notable-interviews-and-presentations)
 - [Notable Quotes](#notable-quotes)
 - [Vocabulary](#vocabulary)
+- [Web Dev and Design](#web-dev-and-design)
+  - [GitHub and Markdown](#github-and-markdown)
+  - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
+  - [Deployment and Cloud](#deployment-and-cloud)
+  - [More Programming Languages, MVCs](#more-programming-languages-mvcs)
+  - [Unix and Linux](#unix-and-linux)
+  - [Databases](#databases)
+  - [SQL](#sql)
+  - [Node.js and Related](#nodejs-and-related)
+  - [More Command Line and Shell](#more-command-line-and-shell)
+  - [Dot Files](#dot-files)
+  - [More Back-End](#more-back-end)
+  - [Big Data](#big-data)
+  - [Software Manuals and Documentation](#software-manuals-and -documentation)
 
 ### People
 
@@ -1660,26 +1674,7 @@ Laws, Theories, Logic
 *   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 *   [Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
 
-Web Dev and Design Toolkit
-====================
-Curated list of high quality resources, mostly free. See also...
-
-Table of Contents
------------------
-
-- [GitHub and Markdown](#github-and-markdown)
-- [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
-- [Deployment and Cloud](#deployment-and-cloud)
-- [More Programming Languages, MVCs](#more-programming-languages-mvcs)
-- [Unix and Linux](#unix-and-linux)
-- [Databases](#databases)
-- [SQL](#sql)
-- [Node.js and Related](#nodejs-and-related)
-- [More Command Line and Shell](#more-command-line-and-shell)
-- [Dot Files](#dot-files)
-- [More Back-End](#more-back-end)
-- [Big Data](#big-data)
-- [Software Manuals and Documentation](#software-manuals-and -documentation)
+### Web Dev and Design
 
 #### GitHub and Markdown
 
