@@ -1,5 +1,7 @@
 Python- Django- Websites General
 
+https://github.com/DrkSephy/django-hackathon-starter
+
 [Django Sites](https://www.djangosites.org/with-source)  
 [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
 [KU Sports](http://www2.kusports.com)  
