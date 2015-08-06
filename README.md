@@ -6,6 +6,7 @@ Table of Contents
 -----------------
 
 - [Investor Frameworks](#investor-frameworks)
+- [People](#people)
 - [Venture Capitalists](#venture-capitalists)
 - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
 - [VC Theory](#vc-theory)
@@ -62,6 +63,8 @@ Table of Contents
 *   [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
 *   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
 *   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
+
+### People
 
 #### Venture Capitalists 
 
