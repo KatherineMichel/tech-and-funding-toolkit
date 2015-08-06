@@ -6,17 +6,18 @@ Table of Contents
 -----------------
 
 - [People](#people)
-  - [Venture Capitalists](#venture-capitalists)
+  - [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
+  - [Investor Frameworks](#investor-frameworks)
   - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
-- [Investor Frameworks](#investor-frameworks)
 - [VC Theory](#vc-theory)
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
 - [Industry and Product Classfications, Associations](#industry-and-product-classfications-associations)
 - [Venture Analysis](#venture-analysis)
 - [Unicorns](#unicorns)
-- [Corporate Law](#corporate-law)
-- [Documents](#documents)
+- [Corporate Law and Documents](#corporate-law-and-documents)
+  - [Corporate Law](#corporate-law)
+  - [Documents](#documents)
 - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
 - [Companies and Financials](#companies-and-financials)
 - [Company and Product Databases](#company-and-product-databases)
@@ -58,16 +59,9 @@ Table of Contents
 - [Notable Quotes](#notable-quotes)
 - [Vocabulary](#vocabulary)
 
-#### Investor Frameworks
-
-*   [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
-*   [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
-*   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
-*   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
-
 ### People
 
-#### Venture Capitalists 
+#### Venture Capitalists and Angel Investors
 
 *   [Albert Wenger](http://continuations.com), [Albert Wenger Archive](http://continuations.com/archive), and [Albert Wenger Tech Tuesday](http://continuations.com/tagged/tech-tuesday)
 *   [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent), [Andrew Chen Lecture Description](http://us5.campaign-archive2.com/?u=96c185f15d9646d8014b765b7&id=9707a51462&e=d7ca30ca7d)
@@ -110,6 +104,13 @@ Table of Contents
 *   [Seth Levine](http://www.sethlevine.com)
 *   [Steven Sinofsky](http://blog.learningbyshipping.com) and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
 *   [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
+
+#### Investor Frameworks
+
+*   [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
+*   [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
+*   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
+*   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
 
 #### Tech Analysts, Thought Leaders
 
@@ -293,6 +294,8 @@ List
 *   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
 *   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+### Corporate Law and Documents
 
 #### Corporate Law
 
