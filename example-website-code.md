@@ -1,5 +1,8 @@
 Table of Contents
 -----------------
+https://github.com/WhiteHouse/playbook
+https://github.com/mojombo/mojombo.github.io
+https://github.com/alphagov/government-service-design-manual
 
 - [Guardian](#guardian)
 - [Ruby, Rails](#ruby-rails)
