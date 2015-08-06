@@ -8,7 +8,6 @@ Table of Contents
 - [People](#people)
   - [Venture Capitalists](#venture-capitalists)
   - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
-
 - [Investor Frameworks](#investor-frameworks)
 - [VC Theory](#vc-theory)
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
@@ -36,7 +35,6 @@ Table of Contents
 - [Design](#desgn)
 - [Project Management](#project-management)
 - [Government Digital](#government-digital)
-
 - [Research and Design Sprints](#research-and-design-sprints)
   - [More Research and Design Toolkits](#more-research-and-design-toolkits)
   - [Google Ventures Research Sprint](#google-ventures-research-sprint)
@@ -939,6 +937,8 @@ U.S. Aid Learning Lab
 *   [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
 *   [U.S. Aid Library](http://usaidlearninglab.org/library)
 *   [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
+
+### Research and Design Sprints
 
 #### More Research and Design Toolkits
 
