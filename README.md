@@ -5,10 +5,10 @@ Curated list of high quality resources, mostly free. See also...
 Table of Contents
 -----------------
 
-- [Investor Frameworks](#investor-frameworks)
 - [People](#people)
-- [Venture Capitalists](#venture-capitalists)
-- [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
+  - [Venture Capitalists](#venture-capitalists)
+  - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
+- [Investor Frameworks](#investor-frameworks)
 - [VC Theory](#vc-theory)
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
