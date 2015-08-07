@@ -9,25 +9,27 @@ Table of Contents
   - [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   - [Investor Frameworks](#investor-frameworks)
   - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
-- [VC Theory](#vc-theory)
-- [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
-- [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
-- [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
+- [Venture](#venture)
+  - [VC Theory](#vc-theory)
+  - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
+  - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
+  - [Events Lists](#events-lists)
 - [Venture Analysis](#venture-analysis)
 - [Unicorns](#unicorns)
+- [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
 - [Corporate Law and Documents](#corporate-law-and-documents)
   - [Corporate Law](#corporate-law)
   - [Documents](#documents)
 - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
 - [Companies and Financials](#companies-and-financials)
 - [Company and Product Databases](#company-and-product-databases)
-- [App and Website Statistics](#app-and-website-statistics)
 - [General Research](#general-research)
 - [Government and International Data](#government-and-international-data)
-- [News Sources](#news-sources)
-- [Learning Resources](#learning-resources)
-- [Books and Courses](#books-and-courses)
-- [Events Lists](#events-lists)
+- [General Research and Learning](#general-research-and-learning)
+  - [App and Website Statistics](#app-and-website-statistics)
+  - [News Sources](#news-sources)
+  - [Learning Resources](#learning-resources)
+  - [Books and Courses](#books-and-courses)
 - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
@@ -203,6 +205,8 @@ Table of Contents
 *   [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
+### Venture
+
 #### VC Theory
 
 A Few Thoughts
@@ -272,15 +276,19 @@ Types of Acquisitions
 *   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
-#### Industry and Product Classifications, Associations
-
-*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+#### Events Lists
+*   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+*   [Techmeme Events List](http://techmeme.com/events) 
+*   [500 Startups Events](http://500.co/events)
+*   [Startup School](http://www.startupschool.org)
+*   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
+*   [Mobile Ecosystem Forum](http://mefglobalforum.org)
+*   [TechCrunch Events](http://techcrunch.com/events)  
+*   [Recode Events](http://recode.net/events) 
+*   [LeWeb](http://leweb.co) 
+*   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
+*   [SXSW](http://sxsw.com) 
+*   [KC Addys](http://aafkc.com/addys)
 
 #### Venture Analysis
 
@@ -310,6 +318,16 @@ List
 *   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
 *   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+#### Industry and Product Classifications, Associations
+
+*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
 ### Corporate Law and Documents
 
@@ -488,16 +506,6 @@ Product/Service Directories
 Wayback Machine
 *   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
 
-#### App and Website Statistics
-
-*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
-*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
-*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-*   [Apple Store Charts](https://www.apple.com/itunes/charts)
-*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
-*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
-*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
-
 #### General Research
 
 Surveys
@@ -617,6 +625,18 @@ International Info
 *   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
+### General Research and Learning
+
+#### App and Website Statistics
+
+*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+*   [Apple Store Charts](https://www.apple.com/itunes/charts)
+*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
+*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
+*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
+
 #### News Sources
 Guardian Directory of News Websites
 *   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
@@ -709,20 +729,6 @@ MOOCs
 
 Unconscious Bias
 *   [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
-
-#### Events Lists
-*   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-*   [Techmeme Events List](http://techmeme.com/events) 
-*   [500 Startups Events](http://500.co/events)
-*   [Startup School](http://www.startupschool.org)
-*   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
-*   [Mobile Ecosystem Forum](http://mefglobalforum.org)
-*   [TechCrunch Events](http://techcrunch.com/events)  
-*   [Recode Events](http://recode.net/events) 
-*   [LeWeb](http://leweb.co) 
-*   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
-*   [SXSW](http://sxsw.com) 
-*   [KC Addys](http://aafkc.com/addys)
 
 #### Software and Mobile are Eating the World, Software is Reorganizing the World
 
