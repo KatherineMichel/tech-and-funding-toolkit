@@ -12,7 +12,7 @@ Table of Contents
 - [VC Theory](#vc-theory)
 - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
-- [Industry and Product Classfications, Associations](#industry-and-product-classfications-associations)
+- [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
 - [Venture Analysis](#venture-analysis)
 - [Unicorns](#unicorns)
 - [Corporate Law and Documents](#corporate-law-and-documents)
@@ -271,7 +271,7 @@ Types of Acquisitions
 *   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
-#### Industry and Product Classfications, Associations
+#### Industry and Product Classifications, Associations
 
 *   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
 *   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
