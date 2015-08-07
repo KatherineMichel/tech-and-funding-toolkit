@@ -43,9 +43,10 @@ Table of Contents
   - [Design](#desgn)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
-- [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-- [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
+- [Philosophies](#philosophies)
+  - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
+  - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
@@ -1052,13 +1053,6 @@ Miscellaneous
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-#### Software and Mobile are Eating the World, Software is Reorganizing the World
-
-*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
-*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
-*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
-*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
-
 #### Lean Startup and Launchpad
 
 *   [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
@@ -1085,6 +1079,15 @@ Spinoffs
 *   [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
 *   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 *   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
+
+### Philosophies 
+
+#### Software and Mobile are Eating the World, Software is Reorganizing the World
+
+*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
+*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
+*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
+*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
 
 #### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
 
