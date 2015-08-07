@@ -373,7 +373,7 @@ Databases
 *   [CrunchBase](http://www.crunchbase.com), [CrunchBase Sitemap](https://www.crunchbase.com/sitemap), and [CrunchBase API](https://developer.crunchbase.com)
 *   [Datafox](http://www.datafox.co), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [GitHub Explore](https://github.com/explore) 
-*   [Mattermark](http://mattermark.com), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), [Mattermark General and Administrative](http://mattermark.com/category/general-administrative), and [Mattermark API](https://mattermark.com/api)  
+*   [Mattermark](http://mattermark.com), [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), [Mattermark General and Administrative](http://mattermark.com/category/general-administrative), and [Mattermark API](https://mattermark.com/api)  
 *   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections) [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
 Database Info and Benchmarking
@@ -427,11 +427,15 @@ Wayback Machine
 Guardian Directory of News Websites
 *   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
 
+NewsDiffs
+*   [NewsDiffs](http://newsdiffs.org)
+
 Business
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
 *   [Entreprener](http://www.entrepreneur.com)
 *   [Forbes](http://www.forbes.com)
+*   [Fortune](http://fortune.com)
 *   [Harvard Business review](https://hbr.org) 
 *   [Inc.](http://www.inc.com)
 *   [New York Times](http://www.nytimes.com)
@@ -440,7 +444,9 @@ Business
 Tech
 *   [Recode](http://recode.net)
 *   [TechCrunch](http://techcrunch.com)
+*   [Tech EU](http://tech.eu)
 *   [The Next Web](http://thenextweb.com)
+*   [Popular Mechanics](http://www.popularmechanics.com)
 
 Leaderboard
 *   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
@@ -944,6 +950,7 @@ Games
 
 Ideo
 *   [IDEO](http://www.ideo.com), [IDEO Org](http://www.ideo.org), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
+*   [Design Kit: The Course for Human-Centered Design](http://plusacumen.org/courses/hcd-for-social-innovation) 
 
 Nesta DIY
 *   [Nesta](http://www.nesta.org.uk), 
@@ -1762,6 +1769,7 @@ Programming and Math Learning Tools
 *   [Learn Code the Hard Way](http://learncodethehardway.org)  
 *   [Codecademy](http://www.codecademy.com)  
 *   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
+*   [Math Overflow](http://mathoverflow.net)
 *   [Project Euler](http://www.projecteuler.net)  
 *   [Project Euler Local](https://github.com/imsky/LocalEuler)  
 *   [Project Euler Problems](http://projecteuler.net/problems)  
