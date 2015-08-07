@@ -15,19 +15,22 @@ Table of Contents
   - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
   - [Events Lists](#events-lists)
 - [Venture Analysis](#venture-analysis)
+  - [Surveys and Trends](#surveys-and-trends)
+  - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
+  - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
   - [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
   - [Unicorns](#unicorns)
   - [Company and Product Databases](#company-and-product-databases)
   - [App and Website Statistics](#app-and-website-statistics)
   - [Companies and Financials](#companies-and-financials)
+  - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Government and International Data](#government-and-international-data)
-  - [General Research](#general-research)
+  - [Analyst Groups](#analyst-groups)
 - [Business Entity and and Regulation](#business-entity-and-regulation)
   - [Corporate Law](#corporate-law)
   - [Documents](#documents)
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
 - [General Research and Learning](#general-research-and-learning)
-  - [News Sources](#news-sources)
   - [Learning Resources](#learning-resources)
   - [Books and Courses](#books-and-courses)
 - [Project Management](#project-management)
@@ -47,8 +50,6 @@ Table of Contents
 - [Philosophies](#philosophies)
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
   - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
-- [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
-- [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Launch and Growth](#lauch-and-growth)
   - [Internationalization](#internationalization)
   - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
@@ -264,13 +265,6 @@ Accelerator Resources
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com), [YCombinator Fellowship](http://fellowship.ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
   
-*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
-*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
-
-Types of Acquisitions
-*   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
-
 #### RFS, Trends, Emerging Technologies
 
 *   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
@@ -310,6 +304,43 @@ List
 *   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
+#### Surveys and Trends
+
+Surveys
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
+*   [SurveyMonkey](https://www.surveymonkey.com)
+
+Google Insights and Trends
+*   [Google Insights](http://www.google.com/insights)
+*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
+#### Idea State Machine and Idea Maze
+
+*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
+*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
+#### Market, Business Models, Pricing, Product Tiers
+  
+Market
+*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
+*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
+*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
+
+Business Models
+*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
+*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
+*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
+*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
+*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
+
+Pricing Strategies
+*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
+
+Product Tiers
+*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
+
 #### Industry and Product Classifications, Associations
 
 *   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
@@ -344,9 +375,6 @@ Databases
 *   [Mattermark](http://mattermark.com), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), [Mattermark General and Administrative](http://mattermark.com/category/general-administrative), and [Mattermark API](https://mattermark.com/api)  
 *   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections) [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
-Public
-*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-
 Database Info and Benchmarking
 *   [AngelList Help](https://angel.co/help), AngelList Funds](https://angel.co/funds), [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads), [AngelList Jobs](https://angel.co/jobs)
 *   [Betalist Markets](http://betalist.com/markets)
@@ -355,12 +383,6 @@ Database Info and Benchmarking
 *   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking) and [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 *   [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 *   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-
-App Stores
-*   [Apple Store](http://store.apple.com/us)  
-*   [Google Play](https://play.google.com)  
-*   [Salesforce App Exchange](https://appexchange.salesforce.com)  
-*   [Chrome Web Store](https://chrome.google.com/webstore)
 
 Product/Service Directories
 *   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
@@ -374,8 +396,10 @@ Wayback Machine
 *   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
 *   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
 *   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-*   [Apple Store Charts](https://www.apple.com/itunes/charts)
-*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
+*   [Apple Store](http://store.apple.com/us)  and [Apple Store Charts](https://www.apple.com/itunes/charts)
+*   [Google Play](https://play.google.com) and [Google Play Top Apps](https://play.google.com/store/apps/top)  
+*   [Salesforce App Exchange](https://appexchange.salesforce.com)  
+*   [Chrome Web Store](https://chrome.google.com/webstore)
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 *   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
@@ -390,12 +414,54 @@ Wayback Machine
 *   [Google Finance](https://www.google.com/finance) 
 *   [Yahoo Finance](http://finance.yahoo.com)  
 *   [Wikinvest](http://www.wikinvest.com)
-*   [Nasdaq](http://www.nasdaq.com)  
+*   [Nasdaq](http://www.nasdaq.com) and [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 *   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
 *   [PricewaterhouseCoopers](http://www.pwc.com) 
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 *   [Great Place to Work](http://www.greatplacetowork.com)
+
+#### Business and Tech News Sources
+
+Guardian Directory of News Websites
+*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
+
+Business
+*   [Business Insider](http://www.businessinsider.com)
+*   [Economist](http://www.economist.com)
+*   [Entreprener](http://www.entrepreneur.com)
+*   [Forbes](http://www.forbes.com)
+*   [Harvard Business review](https://hbr.org) 
+*   [Inc.](http://www.inc.com)
+*   [New York Times](http://www.nytimes.com)
+*   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+
+Tech
+*   [Recode](http://recode.net)
+*   [TechCrunch](http://techcrunch.com)
+*   [The Next Web](http://thenextweb.com)
+
+Leaderboard
+*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
+
+Aggregated, Curated News Sources
+*   [Feedly](http://feedly.com)  
+*   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
+*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Inside Top](https://www.inside.com/top)
+*   [Klout (including Topic Expertise)](https://klout.com/home)
+*   [Launch Ticker](https://www.launchticker.com)
+*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
+*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
+*   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
+*   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
+*   [Quora](http://www.quora.com)
+*   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
+*   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
+*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
+
+Nuzzel Custom Feeds
+*   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
 
 #### Government and International Data
 
@@ -467,20 +533,7 @@ International Info
 *   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
-#### General Research
-
-Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
-*   [SurveyMonkey](https://www.surveymonkey.com)
-
-Google Insights and Trends
-*   [Google Insights](http://www.google.com/insights)
-*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-
-Scholarly Journals
-*   [Science Direct](http://www.sciencedirect.com)  
-*   [Elselvier](http://www.elsevier.com)  
+#### Analyst Groups
 
 Analyst Groups
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
@@ -593,6 +646,13 @@ IPO
 *   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
 *   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
 
+*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
+
+Types of Acquisitions
+*   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
+
 #### SEC and Other Regulatory Agencies
 
 General Solicitation
@@ -623,47 +683,6 @@ Regulatory Agencies and Rules
 
 ### General Research and Learning
 
-#### News Sources
-Guardian Directory of News Websites
-*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
-
-Business
-*   [Business Insider](http://www.businessinsider.com)
-*   [Economist](http://www.economist.com)
-*   [Entreprener](http://www.entrepreneur.com)
-*   [Forbes](http://www.forbes.com)
-*   [Harvard Business review](https://hbr.org) 
-*   [Inc.](http://www.inc.com)
-*   [New York Times](http://www.nytimes.com)
-*   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
-
-Tech
-*   [Recode](http://recode.net)
-*   [TechCrunch](http://techcrunch.com)
-*   [The Next Web](http://thenextweb.com)
-
-Leaderboard
-*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
-
-Aggregated, Curated News Sources
-*   [Feedly](http://feedly.com)  
-*   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
-*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-*   [Inside Top](https://www.inside.com/top)
-*   [Klout (including Topic Expertise)](https://klout.com/home)
-*   [Launch Ticker](https://www.launchticker.com)
-*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
-*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
-*   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
-*   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
-*   [Quora](http://www.quora.com)
-*   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
-*   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
-*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
-
-Nuzzel Custom Feeds
-*   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
-
 #### Learning Resources
 
 Wikipedia
@@ -691,6 +710,10 @@ General Research
 *   [Google Books](https://books.google.com)
 *   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
 *   [Google Scholar](https://scholar.google.com)
+
+Scholarly Journals
+*   [Science Direct](http://www.sciencedirect.com)  
+*   [Elselvier](http://www.elsevier.com) 
 
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
@@ -1101,32 +1124,6 @@ Spinoffs
 *   [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
 *   [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
 *   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
-
-#### Idea State Machine and Idea Maze
-
-*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
-*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-#### Market, Business Models, Pricing, Product Tiers
-  
-Market
-*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
-*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
-*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
-
-Business Models
-*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
-*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
-*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
-*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
-*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
-
-Pricing Strategies
-*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
-*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
-
-Product Tiers
-*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 ### Launch and Growth
 
