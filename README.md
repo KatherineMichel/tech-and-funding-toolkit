@@ -49,11 +49,12 @@ Table of Contents
   - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-- [Internationalization](#internationalization)
-- [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
-- [Launch Strategies](#launch-strategies)
-- [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
-- [Startup Transparency Examples](#startup-transparency-examples)
+- [Launch and Growth](#lauch-and-growth)
+  - [Internationalization](#internationalization)
+  - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
+  - [Launch Strategies](#launch-strategies)
+  - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
+  - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Social Media and Social Graph](#social-media-and-social-graph)
@@ -1126,6 +1127,8 @@ Pricing Strategies
 
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
+
+### Launch and Growth
 
 #### Internationalization
 
