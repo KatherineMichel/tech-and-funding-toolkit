@@ -49,8 +49,6 @@ Table of Contents
   - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
 - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-- [Code, Sharing, Analytics](#code-sharing-analytics)
-- [Social Media and Social Graph](#social-media-and-social-graph)
 - [Internationalization](#internationalization)
 - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 - [Launch Strategies](#launch-strategies)
@@ -62,6 +60,8 @@ Table of Contents
 - [Notable Interviews and Presentations](#notable-interviews-and-presentations)
 - [Notable Quotes](#notable-quotes)
 - [Vocabulary](#vocabulary)
+- [Code, Sharing, Analytics](#code-sharing-analytics)
+- [Social Media and Social Graph](#social-media-and-social-graph)
 - [Web Dev and Design](#web-dev-and-design)
   - [GitHub and Markdown](#github-and-markdown)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
@@ -1126,197 +1126,6 @@ Pricing Strategies
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
-#### Code, Sharing, Analytics
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), and [Thoughtbot Templates](https://github.com/thoughtbot/templates)
-*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
-
-DevCenter
-*   [DevCenter Website](DevCenter.me)  
-
-Docs
-*   [Mozilla Developer](https://developer.mozilla.org/en-US) 
-*   [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-
-Guides for Development
-*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Built With (Exluding Django)
-*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-*   [Built With](http://builtwith.com)  
-*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-*   [Built with Bootstrap](http://expo.getbootstrap.com)  
-*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-*   [Squarespace (Website Examples)](http://www.squarespace.com) 
-
-Code Search
-*   [Search Code](https://searchcode.com)  
-*   [Nerdy Data](http://nerdydata.com)  
-
-Developer Conferences
-*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
-*   [Google IO](https://www.google.com/events/io)  
-*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-*   [Twitter Flock](http://flock.fabric.io) 
-
-*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
-*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
-*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
-
-Code Hosting
-*   [GitHub](https://github.com/github)
-*   [Google Code](http://code.google.com)
-
-Question and Answer Forums
-*   [Quora](http://www.quora.com)
-*   [Stack Exchange](http://stackexchange.com)
-*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
-*   [Stack Overflow](http://stackoverflow.com)
-*   [Yahoo Answers](https://answers.yahoo.com)
-
-Licenses
-*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
-*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-*   [Creative Commons](https://creativecommons.org/licenses)
-*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
-
-Alpha and Beta Testing
-*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-*   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-
-Testing, Reporting, Analytics
-*   [Crashlytics](http://try.crashlytics.com)
-*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-*   [Optimizely](https://www.optimizely.com) 
-*   [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
-*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-
-Engineering Blogs
-*   [Buffer Engineering](https://overflow.bufferapp.com)
-*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-*   [LinkedIn Engineering](http://engineering.linkedin.com)  
-*   [Pinterest Engineering](http://engineering.pinterest.com)  
-*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-*   [Uber Developers](https://devblog.uber.com)  
-*   [Yelp Engineering](http://engineeringblog.yelp.com) 
-
-#### Social Media and Social Graph
-
-Amazon
-*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
-
-Apple
-*   [Apple Developer](https://developer.apple.com)
-*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
-*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-*   [Apple Watchkit](https://developer.apple.com/watchkit)  
-*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
-*   [Apple Support](http://www.apple.com/support) 
-
-Facebook
-*   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-*   [Facebook Code](https://code.facebook.com)
-*   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-*   [Facebook Business](https://www.facebook.com/business)
-*   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
-*   [Fb Start for Mobile Startups](http://fbstart.com)
-
-Google
-*   [Google Developers](https://developers.google.com) 
-*   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-*   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-*   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
-*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-*   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
-
-Google Ads
-*   [Google Ads](http://www.google.com/ads) 
-*   [Google AdMob (Apps)](http://www.google.com/admob)  
-*   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
-*   [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
-*   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
-*   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
-*   [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
-*   [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
-
-Google Monetization
-*   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
-
-Google 
-*   [Google News Publisher Help](https://support.google.com/news/publisher)
-
-Google Rich Snippets
-*   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-Google Webmaster
-*   [Google Tag Manager](http://www.google.com/tagmanager)
-
-LinkedIn
-*   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
-*   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
-
-Pinterest
-*   [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
-*   [Pinterest for Developers](https://developers.pinterest.com) 
-*   [Pinterest Blog](http://blog.pinterest.com)
-*   [Pinterest for Business](https://business.pinterest.com)
-
-Slideshare
-*   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
-*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
-
-Snapchat
-*   [Snapchat Blog](http://blog.snapchat.com)
-
-Twitter
-*   [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
-*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
-*   [Twitter Business](https://biz.twitter.com)
-*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-*   [Twitter Curator](https://curator.twitter.com)
-*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-*   [Twitter Data](https://twitter.com/TwitterData)
-*   [Twitter News](https://twitter.com/TwitterForNews)  
-*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
-*   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
-
-Yahoo and Bing- Developer, Webmaster, and Ads
-*   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
-*   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
-*   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
-*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://adcenter.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
-
-YouTube (Google)
-*   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
-*   [YouTube Creators](http://www.youtube.com/yt/creators)  
-*   [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
-
-Sharing Buttons
-*   [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
-*   [AddToAny](https://www.addtoany.com) 
-*   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
-
-Graph and Schema- General (See Also Facebook Open Graph)
-*   [Open Graph Protocol Schema](http://ogp.me) 
-*   [Schema Org](http://schema.org)
-*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
-*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
-
 #### Internationalization
 
 *   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
@@ -1686,6 +1495,197 @@ Laws, Theories, Logic
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
 *   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 *   [Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
+
+#### Code, Sharing, Analytics
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), and [Thoughtbot Templates](https://github.com/thoughtbot/templates)
+*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
+
+DevCenter
+*   [DevCenter Website](DevCenter.me)  
+
+Docs
+*   [Mozilla Developer](https://developer.mozilla.org/en-US) 
+*   [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+Guides for Development
+*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Built With (Exluding Django)
+*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+*   [Built With](http://builtwith.com)  
+*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+*   [Built with Bootstrap](http://expo.getbootstrap.com)  
+*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+*   [Squarespace (Website Examples)](http://www.squarespace.com) 
+
+Code Search
+*   [Search Code](https://searchcode.com)  
+*   [Nerdy Data](http://nerdydata.com)  
+
+Developer Conferences
+*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
+*   [Google IO](https://www.google.com/events/io)  
+*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+*   [Twitter Flock](http://flock.fabric.io) 
+
+*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
+*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
+*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
+
+Code Hosting
+*   [GitHub](https://github.com/github)
+*   [Google Code](http://code.google.com)
+
+Question and Answer Forums
+*   [Quora](http://www.quora.com)
+*   [Stack Exchange](http://stackexchange.com)
+*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
+*   [Stack Overflow](http://stackoverflow.com)
+*   [Yahoo Answers](https://answers.yahoo.com)
+
+Licenses
+*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+*   [Creative Commons](https://creativecommons.org/licenses)
+*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+Alpha and Beta Testing
+*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+*   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+
+Testing, Reporting, Analytics
+*   [Crashlytics](http://try.crashlytics.com)
+*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+*   [Optimizely](https://www.optimizely.com) 
+*   [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
+*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+
+Engineering Blogs
+*   [Buffer Engineering](https://overflow.bufferapp.com)
+*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+*   [LinkedIn Engineering](http://engineering.linkedin.com)  
+*   [Pinterest Engineering](http://engineering.pinterest.com)  
+*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+*   [Uber Developers](https://devblog.uber.com)  
+*   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+#### Social Media and Social Graph
+
+Amazon
+*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+
+Apple
+*   [Apple Developer](https://developer.apple.com)
+*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
+*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+*   [Apple Watchkit](https://developer.apple.com/watchkit)  
+*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
+*   [Apple Support](http://www.apple.com/support) 
+
+Facebook
+*   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+*   [Facebook Code](https://code.facebook.com)
+*   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+*   [Facebook Business](https://www.facebook.com/business)
+*   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+*   [Fb Start for Mobile Startups](http://fbstart.com)
+
+Google
+*   [Google Developers](https://developers.google.com) 
+*   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+*   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+*   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
+*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+*   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+
+Google Ads
+*   [Google Ads](http://www.google.com/ads) 
+*   [Google AdMob (Apps)](http://www.google.com/admob)  
+*   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
+*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+*   [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
+*   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
+*   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+*   [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
+*   [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
+
+Google Monetization
+*   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
+
+Google 
+*   [Google News Publisher Help](https://support.google.com/news/publisher)
+
+Google Rich Snippets
+*   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+Google Webmaster
+*   [Google Tag Manager](http://www.google.com/tagmanager)
+
+LinkedIn
+*   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
+*   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
+
+Pinterest
+*   [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
+*   [Pinterest for Developers](https://developers.pinterest.com) 
+*   [Pinterest Blog](http://blog.pinterest.com)
+*   [Pinterest for Business](https://business.pinterest.com)
+
+Slideshare
+*   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
+*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
+
+Snapchat
+*   [Snapchat Blog](http://blog.snapchat.com)
+
+Twitter
+*   [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
+*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+*   [Twitter Business](https://biz.twitter.com)
+*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+*   [Twitter Curator](https://curator.twitter.com)
+*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+*   [Twitter Data](https://twitter.com/TwitterData)
+*   [Twitter News](https://twitter.com/TwitterForNews)  
+*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+*   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
+
+Yahoo and Bing- Developer, Webmaster, and Ads
+*   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+*   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
+*   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
+*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://adcenter.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+
+YouTube (Google)
+*   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
+*   [YouTube Creators](http://www.youtube.com/yt/creators)  
+*   [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Sharing Buttons
+*   [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
+*   [AddToAny](https://www.addtoany.com) 
+*   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
+
+Graph and Schema- General (See Also Facebook Open Graph)
+*   [Open Graph Protocol Schema](http://ogp.me) 
+*   [Schema Org](http://schema.org)
+*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
+*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
 
 ### Web Dev and Design
 
