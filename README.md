@@ -15,18 +15,18 @@ Table of Contents
   - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
   - [Events Lists](#events-lists)
 - [Venture Analysis](#venture-analysis)
-- [Unicorns](#unicorns)
-- [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
+  - [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
+  - [Unicorns](#unicorns)
+  - [App and Website Statistics](#app-and-website-statistics)
+  - [Companies and Financials](#companies-and-financials)
 - [Corporate Law and Documents](#corporate-law-and-documents)
   - [Corporate Law](#corporate-law)
   - [Documents](#documents)
 - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
-- [Companies and Financials](#companies-and-financials)
 - [Company and Product Databases](#company-and-product-databases)
 - [General Research](#general-research)
 - [Government and International Data](#government-and-international-data)
 - [General Research and Learning](#general-research-and-learning)
-  - [App and Website Statistics](#app-and-website-statistics)
   - [News Sources](#news-sources)
   - [Learning Resources](#learning-resources)
   - [Books and Courses](#books-and-courses)
@@ -307,6 +307,16 @@ List
 *   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
+#### Industry and Product Classifications, Associations
+
+*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+
 #### Unicorns
 
 *   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
@@ -319,15 +329,33 @@ List
 *   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
 
-#### Industry and Product Classifications, Associations
+#### App and Website Statistics
 
-*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+*   [Apple Store Charts](https://www.apple.com/itunes/charts)
+*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
+*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
+*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
-Associations
-*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+#### Companies and Financials
+
+*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
+*   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
+*   [PitchBook](http://blog.pitchbook.com) 
+*   [Bloomberg](http://www.bloomberg.com)  
+*   [MarketWatch](http://www.marketwatch.com) 
+*   [PE Hub](https://www.pehub.com)
+*   [Google Finance](https://www.google.com/finance) 
+*   [Yahoo Finance](http://finance.yahoo.com)  
+*   [Wikinvest](http://www.wikinvest.com)
+*   [Nasdaq](http://www.nasdaq.com)  
+*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
+*   [PricewaterhouseCoopers](http://www.pwc.com) 
+*   [Wealthfront Blog](https://blog.wealthfront.com)  
+*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+*   [Great Place to Work](http://www.greatplacetowork.com)
 
 ### Corporate Law and Documents
 
@@ -408,6 +436,21 @@ Document Libraries
 *   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
 
+How to Read A Finacial Report
+*   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
+
+Investor Vocab
+*   [Investopedia](http://www.investopedia.com)
+*   [Investor Words](http://www.investorwords.com)
+
+Measuring a Moat
+*   [Mauboussin and Callahan: Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+
+IPO
+*   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
+*   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
+*   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
+
 #### SEC and Other Regulatory Agencies
 
 General Solicitation
@@ -435,39 +478,6 @@ Regulatory Agencies and Rules
 *   [Securities and Exchange Commission](http://www.sec.gov)
 *   [Small Business Administration](http://www.sba.gov) 
 *   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
-
-#### Companies, Financials
-
-*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
-*   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
-*   [PitchBook](http://blog.pitchbook.com) 
-*   [Bloomberg](http://www.bloomberg.com)  
-*   [MarketWatch](http://www.marketwatch.com) 
-*   [PE Hub](https://www.pehub.com)
-*   [Google Finance](https://www.google.com/finance) 
-*   [Yahoo Finance](http://finance.yahoo.com)  
-*   [Wikinvest](http://www.wikinvest.com)
-*   [Nasdaq](http://www.nasdaq.com)  
-*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
-*   [PricewaterhouseCoopers](http://www.pwc.com) 
-*   [Wealthfront Blog](https://blog.wealthfront.com)  
-*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
-*   [Great Place to Work](http://www.greatplacetowork.com)
-
-How to Read A Finacial Report
-*   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
-
-Investor Vocab
-*   [Investopedia](http://www.investopedia.com)
-*   [Investor Words](http://www.investorwords.com)
-
-Measuring a Moat
-*   [Mauboussin and Callahan: Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
-
-IPO
-*   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
-*   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
-*   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
 
 #### Company and Product Databases
 
@@ -626,16 +636,6 @@ International Info
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
 ### General Research and Learning
-
-#### App and Website Statistics
-
-*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
-*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
-*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-*   [Apple Store Charts](https://www.apple.com/itunes/charts)
-*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
-*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
-*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
 #### News Sources
 Guardian Directory of News Websites
