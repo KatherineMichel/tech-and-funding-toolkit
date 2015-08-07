@@ -21,10 +21,10 @@ Table of Contents
   - [App and Website Statistics](#app-and-website-statistics)
   - [Companies and Financials](#companies-and-financials)
   - [General Research](#general-research)
-- [Corporate Law and Documents](#corporate-law-and-documents)
+- [Business Entity and and Regulation](#business-entity-and-regulation)
   - [Corporate Law](#corporate-law)
   - [Documents](#documents)
-- [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
+  - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
 - [Government and International Data](#government-and-international-data)
 - [General Research and Learning](#general-research-and-learning)
   - [News Sources](#news-sources)
@@ -426,7 +426,7 @@ Management Consulting Firms
 Think Tanks
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
 
-### Corporate Law and Documents
+### Business Entity and and Regulation
 
 #### Corporate Law
 
