@@ -30,12 +30,6 @@ Table of Contents
   - [News Sources](#news-sources)
   - [Learning Resources](#learning-resources)
   - [Books and Courses](#books-and-courses)
-- [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
-- [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-- [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
-- [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
-- [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-- [Design](#desgn)
 - [Project Management](#project-management)
   - [Project Management Tools](#project-management-tools)
 - [Research and Design Sprints](#research-and-design-sprints)
@@ -46,8 +40,14 @@ Table of Contents
   - [Google Design Sprint](#google-design-sprint)
   - [Google Design Approach](#google-design-approach)
   - [More Research and Design Toolkits](#more-research-and-design-toolkits) 
+  - [Design](#desgn)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
+- [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
+- [Lean Startup and Launchpad](#lean-startup-and-launchpad)
+- [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
+- [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
+- [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Social Media and Social Graph](#social-media-and-social-graph)
 - [Internationalization](#internationalization)
@@ -730,117 +730,6 @@ MOOCs
 Unconscious Bias
 *   [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
 
-#### Software and Mobile are Eating the World, Software is Reorganizing the World
-
-*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
-*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
-*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
-*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
-
-#### Lean Startup and Launchpad
-
-*   [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
-*   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
-*   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-*   [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
-*   [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
-*   [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
-*   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-*   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
-*   [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
-*   [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
-*   [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
-*   [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
-*   [Business Model Fiddle](http://bmfiddle.com)
-
-Spinoffs
-*   [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
-*   [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
-*   [Lean Canvas](https://leanstack.com/LeanCanvas.pdf)  
-*   [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
-*   [Minimum Viable Canvas Resources](https://medium.com/minimum-viable-canvas), [Minimum Viable Canvas Intro](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65), [Using the Minimum Viable Canvas](https://medium.com/minimum-viable-canvas/using-the-minimum-viable-canvas-fae7e027cafc), [Minimum Viable Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*PlhNZAMQxiuwPN7TsRV20g.png), and [Minimum Viable Canvas Example](https://d262ilb51hltx0.cloudfront.net/max/800/1*gk40wStd6F-3GkGKO8M_wA.png) 
-*   [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
-*   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
-*   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
-
-#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
-
-*   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
-*   [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
-*   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
-*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
-*   [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
-*   [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
-*   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
-
-#### Idea State Machine and Idea Maze
-
-*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
-*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-#### Market, Business Models, Pricing, Product Tiers
-  
-Market
-*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
-*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
-*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
-
-Business Models
-*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
-*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
-*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
-*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
-*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
-
-Pricing Strategies
-*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
-*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
-
-Product Tiers
-*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
-
-#### Design
-
-Design- General
-*   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
-*   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
-*   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
-
-Responsive Design
-*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-*   [Responsive Design Examples](http://mediaqueri.es)  
-
-Styleguides
-*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-*   [Styleguide GitHub](https://github.com/styleguide) 
-
-Design Publications
-
-*   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-*   [Smashing Magazine](http://www.smashingmagazine.com) 
-*   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
- 
-Portfolio and Community Websites
-*   [Behance](https://www.behance.net)  
-*   [Dribbble](https://dribbble.com)  
-*   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-*   [Zurb Tavern](http://zurb.com/tavern) 
-
-Flickr
-*   [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-KPCB and John Maeda Design in Tech Report
-*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
-Company Design
-*   [Medium Design](https://medium.com/designing-medium)  
-*   [IBM Design](https://www.ibm.com/design)  
-*   [eBay/PayPal](http://ebay.com/design)  
-*   [Twitter Design](https://twitter.com/design)  
-*   [Uber Design](https://www.uber.com/design) 
-
 ### Project Management
 
 #### Project Management Tools
@@ -1062,6 +951,46 @@ Miscellaneous
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
 * [Usability BOK](http://www.usabilitybok.org)
 
+#### Design
+
+Design- General
+*   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
+*   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+*   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
+
+Responsive Design
+*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+*   [Responsive Design Examples](http://mediaqueri.es)  
+
+Styleguides
+*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+*   [Styleguide GitHub](https://github.com/styleguide) 
+
+Design Publications
+
+*   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+*   [Smashing Magazine](http://www.smashingmagazine.com) 
+*   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+ 
+Portfolio and Community Websites
+*   [Behance](https://www.behance.net)  
+*   [Dribbble](https://dribbble.com)  
+*   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
+*   [Zurb Tavern](http://zurb.com/tavern) 
+
+Flickr
+*   [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+KPCB and John Maeda Design in Tech Report
+*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+Company Design
+*   [Medium Design](https://medium.com/designing-medium)  
+*   [IBM Design](https://www.ibm.com/design)  
+*   [eBay/PayPal](http://ebay.com/design)  
+*   [Twitter Design](https://twitter.com/design)  
+*   [Uber Design](https://www.uber.com/design) 
+
 #### Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
@@ -1122,6 +1051,77 @@ Miscellaneous
 *   [Namium (Name Generator)](http://www.naminum.com)
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+
+#### Software and Mobile are Eating the World, Software is Reorganizing the World
+
+*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
+*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
+*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
+*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
+
+#### Lean Startup and Launchpad
+
+*   [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
+*   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
+*   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+*   [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
+*   [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
+*   [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
+*   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+*   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
+*   [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
+*   [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
+*   [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
+*   [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
+*   [Business Model Fiddle](http://bmfiddle.com)
+
+Spinoffs
+*   [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
+*   [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
+*   [Lean Canvas](https://leanstack.com/LeanCanvas.pdf)  
+*   [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
+*   [Minimum Viable Canvas Resources](https://medium.com/minimum-viable-canvas), [Minimum Viable Canvas Intro](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65), [Using the Minimum Viable Canvas](https://medium.com/minimum-viable-canvas/using-the-minimum-viable-canvas-fae7e027cafc), [Minimum Viable Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*PlhNZAMQxiuwPN7TsRV20g.png), and [Minimum Viable Canvas Example](https://d262ilb51hltx0.cloudfront.net/max/800/1*gk40wStd6F-3GkGKO8M_wA.png) 
+*   [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
+*   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
+*   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
+
+#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
+
+*   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
+*   [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
+*   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
+*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+*   [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
+*   [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
+*   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
+
+#### Idea State Machine and Idea Maze
+
+*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
+*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
+#### Market, Business Models, Pricing, Product Tiers
+  
+Market
+*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
+*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
+*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
+
+Business Models
+*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
+*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
+*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
+*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
+*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
+
+Pricing Strategies
+*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
+
+Product Tiers
+*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 #### Code, Sharing, Analytics
 
