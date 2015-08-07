@@ -51,11 +51,11 @@ Table of Contents
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
   - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Launch and Growth](#lauch-and-growth)
-  - [Metrics](#metrics)
-  - [Internationalization](#internationalization)
   - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
   - [Launch Strategies](#launch-strategies)
+  - [Metrics](#metrics)
   - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
+  - [Internationalization](#internationalization)
   - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
@@ -1137,14 +1137,6 @@ Spinoffs
 
 #### Metrics
 
-*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-#### Internationalization
-
-*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
-
 #### Notable Proposals and Pitch Decks
 
 *   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
@@ -1217,6 +1209,10 @@ Journalism Style Guides
 *   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
 *   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
 
+*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
 #### Growth, Marketing, and Content Resources
 
 Distribution, Growth, Sales Hacking
@@ -1249,6 +1245,10 @@ Digital Novel
 *   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
 *   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
 *   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
+
+#### Internationalization
+
+*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
 
 #### Startup Transparency Examples
 
