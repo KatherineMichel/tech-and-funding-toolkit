@@ -51,6 +51,7 @@ Table of Contents
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
   - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Launch and Growth](#lauch-and-growth)
+  - [Metrics](#metrics)
   - [Internationalization](#internationalization)
   - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
   - [Launch Strategies](#launch-strategies)
@@ -1126,6 +1127,12 @@ Spinoffs
 *   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
 
 ### Launch and Growth
+
+#### Metrics
+
+*   [How Google Sets Goals Objectives and Key Results OKRs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr)
 
 #### Internationalization
 
