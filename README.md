@@ -3262,10 +3262,10 @@ General
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
-*   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
 Finance and Investment Terms
+*   [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate)
 *   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
 *   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
 *   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
@@ -3286,6 +3286,7 @@ Finance and Investment Terms
 *   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
 *   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 *   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
+*   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
