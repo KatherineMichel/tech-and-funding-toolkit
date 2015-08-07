@@ -19,12 +19,12 @@ Table of Contents
   - [Unicorns](#unicorns)
   - [App and Website Statistics](#app-and-website-statistics)
   - [Companies and Financials](#companies-and-financials)
+  - [General Research](#general-research)
 - [Corporate Law and Documents](#corporate-law-and-documents)
   - [Corporate Law](#corporate-law)
   - [Documents](#documents)
 - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
 - [Company and Product Databases](#company-and-product-databases)
-- [General Research](#general-research)
 - [Government and International Data](#government-and-international-data)
 - [General Research and Learning](#general-research-and-learning)
   - [News Sources](#news-sources)
@@ -357,6 +357,38 @@ Associations
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 *   [Great Place to Work](http://www.greatplacetowork.com)
 
+#### General Research
+
+Surveys
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
+*   [SurveyMonkey](https://www.surveymonkey.com)
+
+Google Insights and Trends
+*   [Google Insights](http://www.google.com/insights)
+*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
+Scholarly Journals
+*   [Science Direct](http://www.sciencedirect.com)  
+*   [Elselvier](http://www.elsevier.com)  
+
+Analyst Groups
+*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
+*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
+*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+*   [IDC](http://www.idc.com)
+*   [McKinsey & Company](http://www.mckinsey.com)
+*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
+*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
+*   [RedMonk Twitter](https://twitter.com/redmonk)  
+*   [State of the Internet](http://www.stateoftheinternet.com)
+
+Management Consulting Firms
+*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
+
+Think Tanks
+*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+
 ### Corporate Law and Documents
 
 #### Corporate Law
@@ -516,55 +548,6 @@ Product/Service Directories
 Wayback Machine
 *   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
 
-#### General Research
-
-Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
-*   [SurveyMonkey](https://www.surveymonkey.com)
-
-Google Insights and Trends
-*   [Google Insights](http://www.google.com/insights)
-*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-
-General Research
-*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
-*   [Google Books](https://books.google.com)
-*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
-*   [Google Scholar](https://scholar.google.com)
-
-Wikipedia
-*   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
-*   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-
-Facebook and Google Research
-*   [Facebook Research](https://research.facebook.com)  
-*   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
-*   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
-*   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
-*   [Facebook Open Compute](http://www.opencompute.org)  
-
-Scholarly Journals
-*   [Science Direct](http://www.sciencedirect.com)  
-*   [Elselvier](http://www.elsevier.com)  
-
-Analyst Groups
-*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
-*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
-*   [IDC](http://www.idc.com)
-*   [McKinsey & Company](http://www.mckinsey.com)
-*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
-*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
-*   [RedMonk Twitter](https://twitter.com/redmonk)  
-*   [State of the Internet](http://www.stateoftheinternet.com)
-
-Management Consulting Firms
-*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
-
-Think Tanks
-*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
-
 #### Government and International Data
 
 U.S. Departments
@@ -680,6 +663,10 @@ Nuzzel Custom Feeds
 
 #### Learning Resources
 
+Wikipedia
+*   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+*   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+
 MOOCs
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 *   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
@@ -695,6 +682,19 @@ Google, Google Tech, and TED Talks
 *   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
 *   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks) 
 *   [TED Talks](http://www.ted.com/talks)  
+
+General Research
+*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
+*   [Google Books](https://books.google.com)
+*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
+*   [Google Scholar](https://scholar.google.com)
+
+Facebook and Google Research
+*   [Facebook Research](https://research.facebook.com)  
+*   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
+*   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
+*   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
+*   [Facebook Open Compute](http://www.opencompute.org)  
 
 Shows
 *   [Founder Stories](http://techcrunch.com/video/founder-stories)
