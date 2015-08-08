@@ -822,8 +822,16 @@ Project Management Software
 
 Software Development Philosophies
 *   [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+*   [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
 *   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
 *   [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
+
+Software Prototyping
+*   [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
+*   [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
+
+Software Project Management
+*   [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
 
 Agile Project Management Methodologies
 *   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
@@ -833,6 +841,7 @@ Agile Project Management Methodologies
 *   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
 *   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
 *   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
+*   [Lean IT Wikipedia](http://en.wikipedia.org/wiki/Lean_IT)
 *   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 *   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
 *   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
