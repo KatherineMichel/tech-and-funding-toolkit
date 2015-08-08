@@ -204,6 +204,7 @@ Table of Contents
 *   [Stowe Boyd](http://stoweboyd.com)
 *   [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
+*   [Tom Peters](http://excellencenow.com) and [Tom Peters Slides](http://tompeters.com/slides)
 *   [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 *   [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
 *   [W. Edwards Deming Wikipedia](http://en.wikipedia.org/wiki/W._Edwards_Deming)
@@ -464,6 +465,7 @@ Aggregated, Curated News Sources
 *   [Klout (including Topic Expertise)](https://klout.com/home)
 *   [Launch Ticker](https://www.launchticker.com)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
+*   [Matthew Keys](http://matthewkeys.net)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
 *   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
 *   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
@@ -3214,8 +3216,10 @@ Python- Django- Pinax
 *   [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 *   [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 *   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
+*   [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
+*   [Tom Peters: "Master Presentation"](http://tompeters.com/2014/09/new-annotated-master-presentation)
 *   [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
 
 #### Notable Quotes
