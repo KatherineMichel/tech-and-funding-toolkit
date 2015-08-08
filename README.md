@@ -1570,7 +1570,6 @@ Graph and Schema- General (See Also Facebook Open Graph)
 #### GitHub and Markdown
 
 Git
-
 *   [Git GitHub](https://github.com/git/git)  
 *   [Git GitHub](https://github.com/mojombo/git)  
 *   [Git GitHub](https://github.com/xlymian/git)  
@@ -1578,7 +1577,6 @@ Git
 *   [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
  
 GitHub
-
 *   [GitHub](https://github.com)  
 *   [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
 *   [GitHub Help](https://help.github.com)  
@@ -1591,19 +1589,16 @@ GitHub
 *   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
 
 GitHub Services Integration
-
 *   [Service Hooks GitHub](https://github.com/github/github-services)  
 *   [GitHub Integrations](https://github.com/integrations)  
 
 Markdown
-
 *   [Markdown](http://daringfireball.net/projects/markdown)  
 *   [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
 *   [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
 *   [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
 Git Learning Resources
-
 *   [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 *   [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
 *   [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
@@ -1633,7 +1628,6 @@ GitHub Alternatives
 *   [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
 
 Chromebook Ubuntu Installation
-
 *   [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
 *   [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
 *   [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
@@ -1643,7 +1637,6 @@ Chromebook Ubuntu Installation
 #### Deployment and Cloud
 
 Domize, DNSimple, Heroku
-
 *   [Domize](http://domize.com)  
 *   [DNSimple](https://dnsimple.com)  
 *   [DNSimple New Domain](https://dnsimple.com/domains/new)  
@@ -1655,56 +1648,46 @@ Domize, DNSimple, Heroku
 *   [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
 
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
-
 *   [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
 *   [Heroku SSL Self Certification](https://devcenter.heroku.com/articles/ssl-certificate-self)  
 *   [Heroku Custom Domains](https://devcenter.heroku.com/articles/custom-domains)  
 
 Namecheap
-
 *   [Namecheap](https://www.namecheap.com)  
 *   [Namecheap SSL Certificate Wildcard](https://www.namecheap.com/security/ssl-certificates/comodo/positivessl-wildcard.aspx)  
 
 DNS
-
 *   [Amazon Route 53](http://aws.amazon.com/route53)  
 
 Cloud Computing- General
-
 *   [Cloud Computing Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing)  
 
 IaaS- General and Alternatives to AWS
-
 *   [IaaS](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29)  
 *   [IaaS Service Models](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Service_models)  
 *   [Joyent](http://www.joyent.com)  
 *   [Rackspace Cloud](http://www.rackspace.com)  
 
 PaaS- General and Alternatives to Heroku (including Google App Engine)
-
 *   [PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service)  
 *   [DotCloud](https://www.dotcloud.com)  
 
 SaaS- General and Alternatives to GoogleApps
-
 *   [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
 Ubuntu (Debian) Deployment
-
 *   [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
 *   [AWS Ubuntu](https://help.ubuntu.com/community/EC2StartersGuide)  
 *   [AWS Ubuntu Server 14.04 LTS (HVM)](https://aws.amazon.com/marketplace/pp/B00JV9TBA6/ref=gtw_msl_title?ie=UTF8&amp;amp;amp;pf_rd_r=03MSJ27P1BFT09163JEP&amp;amp;amp;pf_rd_m=A33KC2ESLMUT5Y&amp;amp;amp;pf_rd_t=101&amp;amp;amp;pf_rd_i=awsmp-gateway-1&amp;amp;amp;pf_rd_p=1841533842&amp;amp;amp;pf_rd_s=right-3)  
 *   [Heroku Ubuntu](https://toolbelt.heroku.com/debian)  
 
 GitHub, Heroku, AWS SSH and SSH Keys
-
 *   [GitHub SSH](https://github.com/settings/ssh)  
 *   [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
 *   [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
 *   [AWS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)  
 
 Amazon Web Services
-
 *   [Amazon Web Services](http://aws.amazon.com)  
 *   [AWS Marketplace](https://aws.amazon.com/marketplace)  
 *   [AWS Developer Tools](https://aws.amazon.com/developertools)  
@@ -1712,7 +1695,6 @@ Amazon Web Services
 *   [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices)   
 
 AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Reference
-
 *   [AWS Regions](http://aws.amazon.com/articles/3912)  
 *   [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
 *   [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
@@ -1722,12 +1704,10 @@ AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Referenc
 *   [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html)  
 
 Amazon Web Services- Lambda
-
 *   [AWS Lambda](http://aws.amazon.com/lambda)  
 *   [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
 
 Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
-
 *   [Heroku](https://www.heroku.com)  
 *   [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
 *   [Heroku GitHub](https://github.com/heroku/heroku)  
@@ -1737,23 +1717,20 @@ Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure 
 *   [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
 
 Heroku- Buildpacks (Other than Node.js and Python)
-
 *   [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
 *   [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
 *   [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
 
 Heroku Multiple Environments and Site Staging
-
 *   [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 *   [Heroku Example Site Staging- Broken Link](http://example-site-staging.herokuapp.com)  
 *   [Staging Code on Heroku GitHub](https://github.com/digitalpulp/developer-handbook/wiki/Staging-code-on-heroku)  
-Digital Ocean (VPS)
 
+Digital Ocean (VPS)
 *   [Digital Ocean Pricing](https://www.digitalocean.com/pricing)  
 *   [Digital Ocean Community](https://www.digitalocean.com/community)  
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
-
 *   [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
 *   [Dokku](http://progrium.viewdocs.io/dokku/index)  
 *   [Dokku GitHub](https://github.com/progrium/dokku)  
@@ -1761,7 +1738,6 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 *   [Deis GitHub](https://github.com/deis/deis)  
 
 Google Cloud and App Engine
-
 *   [Google Cloud Products](https://cloud.google.com/products)  
 *   [Google Cloud Solutions](https://cloud.google.com/solutions)  
 *   [Google Cloud Developers](https://cloud.google.com/developers)  
@@ -1774,18 +1750,15 @@ Google Cloud and App Engine
 *   [Google Apps for Work](https://www.google.com/a/signup)  
 
 Docker
-
 *   [Docker](https://www.docker.com)  
 *   [Docker GitHub](https://github.com/dotcloud/docker)  
 *   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
 Cross Platform Dev Environment
-
 *   [Bowery](http://bowery.io)  
 *   [Firebase](https://www.firebase.com) 
 
 Content Delivery Network
-
 *   [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network)  
 *   [MAXCDN](https://www.maxcdn.com) 
 
@@ -1821,14 +1794,12 @@ Great Unsolved Problems in Computer Science
 #### More Programming Languages, MVCs
 
 Programming Languages- General
-
 *   [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-*   [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)  
+*   [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 *   [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
 *   [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
 
 Miscellaneous Programming Languages
-
 *   [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 *   [C Wikibook Wikipedia](http://en.wikibooks.org/wiki/C_Programming)  
 *   [Learn C the Hard Way](http://c.learncodethehardway.org)  
@@ -1853,7 +1824,6 @@ Miscellaneous Programming Languages
 *   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/mozilla/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 
 Ruby
-
 *   [Ruby](https://www.ruby-lang.org/en/)  
 *   [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language))  
 *   [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
@@ -1866,13 +1836,11 @@ Ruby
 *   [Capistrano GitHub](https://github.com/capistrano/capistrano)  
 
 Ruby- Executable Specification
-
 *   [Ruby Executable Specification](http://rubyspec.org)  
 *   [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
 *   [Ruby Testing Tool](http://rspec.info)  
 
 Rails, Jekyll- Preferred Templates and Documents
-
 *   [Ruby on Rails](http://rubyonrails.org)  
 *   [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
 *   [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
@@ -1881,7 +1849,6 @@ Rails, Jekyll- Preferred Templates and Documents
 *   [Jekyll Bootstrap (Clone repo) (Example Website) GitHub](https://github.com/plusjade/jekyllbootstrap.com)  
 
 JavaScript
-
 *   [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
 *   [JavaScript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 *   [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
@@ -1890,12 +1857,10 @@ JavaScript
 *   [The Best Free JavaScript Resources](http://jsbooks.revolunet.com/)  
 
 JavaScript Styleguide GitHub
-
 *   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 *   [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)  
 
 jQuery
-
 *   [jQuery GitHub](https://github.com/jquery/jquery)  
 *   [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
 *   [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
@@ -1904,7 +1869,6 @@ jQuery
 *   [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
 Golang, otherwise known as "Go"
-
 *   [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
 *   [Golang](http://golang.org)  
 *   [Golang Documentation](http://golang.org/doc)  
@@ -1916,7 +1880,6 @@ Golang, otherwise known as "Go"
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go)  
 
 Java- General
-
 *   [Java Website](http://www.java.com/en)  
 *   [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
 *   [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
@@ -1934,7 +1897,6 @@ Java- General
 *   [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet)  
 
 PHP
-
 *   [PHP](http://php.net)  
 *   [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
 *   [PHP Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/PHP_syntax_and_semantics)  
@@ -1945,11 +1907,9 @@ PHP
 *   [CakePHP GitHub](https://github.com/cakephp/cakephp)  
 
 WampServer
-
 *   [WampServer (PHP, Apache, MySQL) GitHub](http://www.wampserver.com/en)  
 
 PHP- Laravel- Preferred Templates and Documents
-
 *   [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
 *   [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
 *   [Laravel 4 Starter Kit GitHub](https://github.com/brunogaspar/laravel4-starter-kit)  
@@ -1957,7 +1917,6 @@ PHP- Laravel- Preferred Templates and Documents
 *   [Laravel 4 Generators GitHub](https://github.com/JeffreyWay/Laravel-4-Generators)  
 
 PHP- Wordpress- Preferred Templates and Documents
-
 *   [Wordpress.org](https://wordpress.org)  
 *   [Wordpress GitHub](https://github.com/WordPress/WordPress)  
 *   [Wordpress.com](https://wordpress.com)  
@@ -1974,18 +1933,15 @@ PHP- Wordpress- Preferred Templates and Documents
 *   [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
 
 PHP- Wordpress- Popular Themes
-
 *   [Bones GitHub](https://github.com/eddiemachado/bones)  
 *   [Roots GitHub](https://github.com/roots/roots)  
 *   [Underscore or _S GitHub](https://github.com/Automattic/_s)  
 
 WordPress Development
-
 *   [Wordpress Contributing](http://codex.wordpress.org/Contributing_to_WordPress)  
 *   [Wordpress Good First Bugs](https://core.trac.wordpress.org/tickets/good-first-bugs)  
 
 Wikitech Development
-
 *   [Wikipedia Development](https://www.mediawiki.org/wiki/Category:MediaWiki_Development)  
 *   [Wikipedia Search Engine](http://www.mediawiki.org/wiki/Help:CirrusSearch)  
 *   [Wikitech](https://wikitech.wikimedia.org/wiki/Main_Page)  
@@ -1996,7 +1952,6 @@ Wikitech Development
 #### Unix and Linux
 
 Unix
-
 *   [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
 *   [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 *   [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
@@ -2004,7 +1959,6 @@ Unix
 *   [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
 Unix Shell
-
 *   [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
 *   [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
 *   [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
@@ -2012,7 +1966,6 @@ Unix Shell
 *   [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
 
 Linux
-
 *   [Linux](http://www.linux.org)  
 *   [Canonical](http://www.canonical.com)  
 *   [Linux Foundation](http://www.linuxfoundation.org)  
@@ -2026,33 +1979,28 @@ Linux
 *   [Linux Journal](http://www.linuxjournal.com)  
 
 Linux- Ubuntu (Debian)
-
 *   [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
 *   [Ubuntu](http://www.ubuntu.com)  
 *   [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))  
  
 Linux- Ubuntu Dual Boot
-
 *   [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
 *   [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
 *   [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
 
 Ubuntu Terminal, Command Line, and Aptget
-
 *   [Linux Command](http://linuxcommand.org)  
 *   [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
 *   [Ubuntu Aptget](https://help.ubuntu.com/community/AptGet/Howto)  
 *   [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
 
 Ubuntu- + Programs
-
 *   [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
 *   [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
 *   [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
 *   [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
 
 Linux- Other Popular Distributions
-
 *   [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
 *   [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
 *   [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
@@ -2065,7 +2013,6 @@ Linux- Other Popular Distributions
 #### Databases
 
 Databases
-
 *   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
 *   [Category Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
 *   [Database Management Systems Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)  
@@ -2074,11 +2021,9 @@ Databases
 *   [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
 
 Stanford Open Classroom- Introduction to Databases
-
 *   [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
 
 Types of Databases
-
 *   [Category Types of Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
 *   [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
 *   [Relational Database Management System Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
@@ -2094,24 +2039,20 @@ Types of Databases
 *   [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
 
 Shard
-
 *   [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 #### SQL
 
 SQL
-
 *   [SQL Wikipedia](http://en.wikipedia.org/wiki/Sql)  
 *   [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
 
 SQLite (RDBMS, written in C)
-
 *   [SQLite](http://sqlite.org)  
 *   [SQLite Documentation](http://www.sqlite.org/docs.html)  
 *   [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
 
 PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-
 *   [PostgreSQL](http://www.postgresql.org)  
 *   [PostgreSQL Documentation](http://www.postgresql.org/docs)  
 *   [PostgreSQL GitHub](https://github.com/postgres/postgres)  
@@ -2120,11 +2061,9 @@ PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 *   [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
 
 Postgrest (PostgreSQL API)
-
 *   [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
 
 MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-
 *   [MySQL](http://www.mysql.com)  
 *   [MySQL Documentation](http://dev.mysql.com/doc)  
 *   [MySQL GitHub](https://github.com/twitter/mysql)  
