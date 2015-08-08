@@ -828,6 +828,8 @@ Waterfall Project Management Methodologies
 Process Improvement
 *   [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
 *   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
+*   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
+*   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
 *   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
 
