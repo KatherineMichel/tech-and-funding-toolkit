@@ -1395,6 +1395,10 @@ File Storage
 *   [Box](https://www.box.com) 
 *   [Dropbox](https://www.dropbox.com)
 
+Logistics
+*   [Craigslist](https://craigslist.org) 
+*   [Gumtree](http://www.gumtree.co)
+
 Admin, Hiring, Payroll
 *   [Clara Labs](https://claralabs.com) 
 *   [Evernote](https://evernote.com)
