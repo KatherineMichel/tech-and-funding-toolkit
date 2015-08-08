@@ -165,6 +165,7 @@ Table of Contents
 *   [Clay Christensen](http://www.claytonchristensen.com) 
 *   [Dan Olsen Presentations Page 1](http://olsensolutions.com/speaking), [Dan Olsen Presentations Page 2](http://product-jobs.com/speaking2), [Dan Olsen Presentations Page 3](http://product-jobs.com/speaking3), and [Dan Olsen Slideshare](http://www.slideshare.net/dan_o)
 *   [Danielle Morrill](http://www.daniellemorrill.com), [Danielle Morrill Medium](https://medium.com/@DanielleMorrill) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
+*   [Dao Nguyen](http://www.buzzfeed.com/daozers)
 *   [Dave Winer](http://scripting.com)   
 *   [Doc Searls](http://blogs.law.harvard.edu/doc) 
 *   [Edward Tufte](http://www.edwardtufte.com) 
