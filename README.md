@@ -423,7 +423,6 @@ Wayback Machine
 *   [Wikinvest](http://www.wikinvest.com)
 *   [Nasdaq](http://www.nasdaq.com) and [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 *   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
-*   [PricewaterhouseCoopers](http://www.pwc.com) 
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 *   [Great Place to Work](http://www.greatplacetowork.com)
@@ -437,6 +436,7 @@ NewsDiffs
 *   [NewsDiffs](http://newsdiffs.org)
 
 Business
+*   [BBC](http://www.bbc.com)
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
 *   [Entreprener](http://www.entrepreneur.com)
@@ -444,6 +444,7 @@ Business
 *   [Fortune](http://fortune.com)
 *   [Harvard Business review](https://hbr.org) 
 *   [Inc.](http://www.inc.com)
+*   [MIT Sloan Review](http://sloanreview.mit.edu)
 *   [New York Times](http://www.nytimes.com)
 *   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
 
@@ -480,6 +481,7 @@ Nuzzel Custom Feeds
 #### Government and International Data
 
 U.S. Departments
+*   [The White House](http://www.whitehouse.gov)
 *   [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
 *   [U.S. Census](http://www.census.gov)
 *   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
@@ -551,12 +553,14 @@ International Info
 
 Analyst Groups
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
+*   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
 *   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
 *   [IDC](http://www.idc.com)
-*   [McKinsey & Company](http://www.mckinsey.com)
+*   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
+*   [PricewaterhouseCoopers](http://www.pwc.com) 
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
 *   [State of the Internet](http://www.stateoftheinternet.com)
 
