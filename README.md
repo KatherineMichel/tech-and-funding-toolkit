@@ -262,7 +262,7 @@ Angel and VC Firm Resources
 *   [Felicis Numbers](http://www.felicis.com/numbers)
 *   [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), and [First Round 2005-2015](http://10years.firstround.com)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
-*   [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+*   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [Homebrew Companies](http://www.homebrew.co/#companies)
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
