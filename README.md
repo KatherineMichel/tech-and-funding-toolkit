@@ -267,6 +267,7 @@ Angel and VC Firm Resources
 *   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
 *   [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
+*   [Silicon Valley Bank](http://www.svb.com) 
 *   [StartX Stanford Companies](http://startx.stanford.edu/companies) 
 *   [True University](http://trueuniversity.com) 
 *   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
@@ -1228,6 +1229,7 @@ Notable Proposals and Pitch Decks
 *   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
 *   [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
 *   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+*   [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
 
 Templates
 *   [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
@@ -1808,6 +1810,7 @@ Programming and Math Learning Tools
 *   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
 *   [Learn Code the Hard Way](http://learncodethehardway.org)  
 *   [Codecademy](http://www.codecademy.com)  
+*   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
 *   [Kano Playground](http://art.kano.me/playground)
 *   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
 *   [Math Overflow](http://mathoverflow.net)
