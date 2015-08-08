@@ -128,6 +128,7 @@ Table of Contents
 *   [Paul Graham](http://paulgraham.com/articles.html)
 *   [Paul Kedrosky](http://paul.kedrosky.com)
 *   [Peter Levine Archives](http://peter.a16z.com/archives)
+*   [Reid Hoffman Slideshare](http://www.slideshare.net/reidhoffman/presentations)
 *   [Sam Altman Archive](http://blog.samaltman.com/archive)
 *   [Satya Patel](http://venturegeneratedcontent.com)
 *   [Scott Weiss Archive](http://scott.a16z.com/archive)
