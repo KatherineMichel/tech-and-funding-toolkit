@@ -1291,7 +1291,7 @@ Google Products, Office
 *   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
 *   [Google Gmail](http://gmail.com)  
 *   [Google Drive](https://www.google.com/drive) 
-*   [Google Docs](https://docs.google.com)  
+*   [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
 *   [Google Drawings](https://docs.google.com/drawings)  
 *   [Google Calendar](https://www.google.com/calendar) 
 *   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
@@ -1369,10 +1369,6 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 
 DevCenter
 *   [DevCenter Website](DevCenter.me)  
-
-Docs
-*   [Mozilla Developer](https://developer.mozilla.org/en-US) 
-*   [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 
 Guides for Development
 *   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -1789,6 +1785,7 @@ Programming and Math Learning Tools
 *   [Project Euler Local](https://github.com/imsky/LocalEuler)  
 *   [Project Euler Problems](http://projecteuler.net/problems)  
 *   [Skillshare](http://www.skillshare.com/classes)
+*   [W3 Web Development Tutorials](http://www.w3schools.com) 
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 
 Text Editor and Code Demonstration
@@ -1796,11 +1793,12 @@ Text Editor and Code Demonstration
 *   [Atom GitHub](ttps://github.com/atom/atom)
 *   [JSFiddle](http://jsfiddle.net)
 
-Mozilla Developer
+Documentation
+*   [IBM Redbooks Homepage](http://www.redbooks.ibm.com) and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 *   [Mozilla](http://mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+*   [World Wide Web Consortium Homepage](http://www.w3.org)  
 
 Great Unsolved Problems in Computer Science
-
 *   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
 
 #### More Programming Languages, MVCs
