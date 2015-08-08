@@ -814,6 +814,7 @@ Project Management Software
 Software Development Philosophies
 *   [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
 *   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+*   [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
 
 Agile Project Management Methodologies
 *   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
@@ -1089,6 +1090,9 @@ Quickie Websites
 *   [Squarespace Templates](http://www.squarespace.com/templates)
 *   [Weebly Themes](http://www.weebly.com/themes)
 *   [Wix Templates](http://www.wix.com/website/templates)
+
+Turn Key Websites
+*   [Wordpress VIP](http://vip.wordpress.com) and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
 
 Bootstrap, Font Awesome, Foundation
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
@@ -1640,7 +1644,8 @@ Chromebook Ubuntu Installation
 
 #### Deployment and Cloud
 
-Domize, DNSimple, Heroku
+IANA, Domize, DNSimple, Heroku
+*   [Internet Assigned Numbers Authority](http://www.iana.org)
 *   [Domize](http://domize.com)  
 *   [DNSimple](https://dnsimple.com)  
 *   [DNSimple New Domain](https://dnsimple.com/domains/new)  
