@@ -277,6 +277,11 @@ Accelerator Resources
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com), [YCombinator Fellowship](http://fellowship.ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
   
+Crowdfunding
+*   [Kickstarter](https://www.kickstarter.com)
+*   [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
+*   [Tilt](https://www.tilt.com)
+
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
