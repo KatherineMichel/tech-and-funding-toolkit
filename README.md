@@ -75,6 +75,15 @@ Table of Contents
   - [Big Data](#big-data)
   - [Software Manuals and Documentation](#software-manuals-and-documentation)
 - [Example Website Code](#example-website-code)
+  - [Guardian](#guardian)
+  - [Ruby, Rails](#ruby-rails)
+  - [PHP](#php)
+  - [Node.js](#nodejs)
+  - [Jekyll](#jekyll)
+  - [Newspapers](#newspapers)
+  - [Disqus](#disqus)
+- [Django Example Website Code](#django-example-website-code) 
+
 - [Appendix](#appendix)
   - [Philosophies, Milestones](#philosophies-milestones)
   - [Notable Interviews and Presentations](#notable-interviews-and-presentations)
@@ -2512,7 +2521,6 @@ Event Tracking
 #### Big Data
 
 Big Data- Lambda Architecture
-
 *   [Lambda Architecture](http://lambda-architecture.net)  
 *   [Lambda Calculus Wikipedia](http://en.wikipedia.org/wiki/Lambda_calculus)  
 *   [Lambda Calculus Categories Wikipedia](http://en.wikipedia.org/wiki/Category:Lambda_calculus)  
@@ -2521,7 +2529,6 @@ Big Data- Lambda Architecture
 *   [Nathan Marz GitHub](https://github.com/nathanmarz)  
 
 Big Data- Apache
-
 *   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list)  
 *   [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects)  
 *   [Apache Accumulo ("Secure Big Table") Wikipedia](http://en.wikipedia.org/wiki/Apache_Accumulo)  
@@ -2893,24 +2900,14 @@ https://github.com/mojombo/mojombo.github.io
 https://github.com/alphagov/government-service-design-manual
 https://github.com/plusjade/jekyll-bootstrap
 
-- [Guardian](#guardian)
-- [Ruby, Rails](#ruby-rails)
-- [PHP](#php)
-- [Node.js](#nodejs)
-- [Jekyll](#jekyll)
-- [Newspapers](#newspapers)
-- [Disqus](#disqus)
-
 #### Guardian
 
 Guardian Frontend (Ruby, Rails, Scala, Play, Node)
-
 *   [Guardian Frontend Home](http://www.theguardian.com/uk?view=mobile)
 *   [Guardian Frontend GitHub (clone repo, npm install, command line 'bundle,' lacking sbt)](https://github.com/guardian/frontend)  
 *   [Guardian Frontend Fonts GitHub](https://github.com/guardian/frontend-fonts)  
 
 Guardian Pasteup
-
 *   [Guardian Pasteup Style Homepage](http://www.theguardian.com/us)  
 *   [Guardian Pasteup GitHub (clone repo, use command line for 'bower install pasteup,' grunt serve, error, grunt --f)](https://github.com/guardian/pasteup)  
 *   [Guardian Pasteup Example GitHub](http://pasteup.guim.co.uk/index.html)  
@@ -2921,7 +2918,6 @@ Guardian Pasteup
 *   [Guardian Pasteup Palate GitHub](https://github.com/guardian/pasteup-palette)  
 
 Guardian Guss
-
 *   [Suit (Inspired Guss Grid System; 'Plays well with Angular') GitHub](https://github.com/suitcss/suit)  
 *   [Guardian Guss GitHub](https://github.com/guardian/guss)  
 *   [Guardian Guss Grid System GitHub](https://github.com/guardian/guss-grid-system)  
@@ -2961,7 +2957,6 @@ Guardian Miscellaneous
 *   [Discourse Docker Manager GitHub](https://github.com/discourse/docker_manager)  
 
 Stanford University Library 
-
 *   [Digital Collection Plugin GitHub](https://github.com/sul-dlss/spotlight)  
 *   [Digital Collection Foundation GitHub](https://github.com/projectblacklight/blacklight)  
 
@@ -3024,6 +3019,8 @@ ProPublica- News App and Data Style Guides
 
 Python- Django- Websites General
 
+### Django Example Website Code
+
 https://github.com/DrkSephy/django-hackathon-starter
 
 [Django Sites](https://www.djangosites.org/with-source)  
@@ -3031,7 +3028,6 @@ https://github.com/DrkSephy/django-hackathon-starter
 [KU Sports](http://www2.kusports.com)  
 
 Python- Django- Major Organizations and Projects that Use Django
-
 [18F GitHub](https://github.com/18F)  
 [Appdotnet GitHub](https://github.com/appdotnet)  
 [Celery GitHub](https://github.com/celery)  
@@ -3055,12 +3051,10 @@ Python- Django- Major Organizations and Projects that Use Django
 [Reddit GitHub](https://github.com/reddit)  
 
 Python- Django- Official Website and Code
-
 [Django Project](https://www.djangoproject.com)  
 [Django Project GitHub](https://github.com/django/djangoproject.com)  
 
 Django Girls (Python- Django)
-
 [Django Girls](http://djangogirls.org)  
 [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
 [Django Girls Tutorial](http://tutorial.djangogirls.org)  
@@ -3071,13 +3065,11 @@ Django Girls (Python- Django)
 [Django Girls Resources](https://github.com/DjangoGirls/resources)  
 
 18F and Peace Corps New Website (Python- Django)
-
 [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards)  
 [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
 [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site)  
 
 App.net (Python- Django (Also Node))
-
 [App.net Alpha Github](https://github.com/appdotnet/alpha)  
 [App.net Angular Github](https://github.com/appdotnet/angular-adn)  
 [App.net RSS Github](https://github.com/appdotnet/pourover)  
@@ -3088,31 +3080,25 @@ App.net (Python- Django (Also Node))
 [App.net Private Messaging Github](https://github.com/appdotnet/ohe)  
 
 Celery Project (Python- Django)
-
 [Celery Project](http://www.celeryproject.org)  
 [Celery Project GitHub](https://github.com/celery/celeryproject)  
 
 EdX (Python- Django (Also Ruby))
-
 [EdX Code Website](http://code.edx.org)  
 [EdX Platform Github](https://github.com/edx/edx-platform)  
 
 Elle (Python- Django)
-
 [Ella CMS GitHub](https://github.com/ella/ella)  
 
 Gov Track (Python- Django)
-
 [Gov Track](https://www.govtrack.us)  
 [Gov Track GitHub](https://github.com/govtrack/govtrack.us-web)  
 
 LA Times Datadesk Project Template (Python- Django)
-
 [LA Times Datadesk](http://www.latimes.com/local/datadesk)  
 [LA Times Datadesk Project Template GitHub](https://github.com/datadesk/django-project-template)  
 
 Mozilla Bedrock, FunFactory and Playdoh + Others (Python- 1/2 Django)
-
 [Bedrock GitHub](https://github.com/mozilla/bedrock)  
 [FunFactory GitHub](https://github.com/mozilla/funfactory)  
 [PlayDoh GitHub](https://github.com/mozilla/playdoh)  
@@ -3121,25 +3107,20 @@ Mozilla Bedrock, FunFactory and Playdoh + Others (Python- 1/2 Django)
 [Play Framework (Java and Scala) GitHub](https://github.com/playframework/playframework)  
 
 National Geospatial-Intelligence Agency (Python- Django)
-
 [GeoQ Geographic Data System GitHub](https://github.com/ngageoint/geoq)  
 [GeoEvents for Deployers and First Responders GitHub](https://github.com/ngageoint/geoevents)  
 
 OpenStack (Python- Django)
-
 [OpenStack Horizon GitHub](https://github.com/openstack/horizon)  
 [OpenStack Wikipedia](http://en.wikipedia.org/wiki/OpenStack)  
 
 Open Knowledge Foundation (Python- Django)
-
 [Open Knowledge Foundation GitHub](https://github.com/okfn/foundation)  
 
 Opps (Python- Django)
-
 [Opps CMS GitHub](https://github.com/opps/opps)  
 
 Reddit (Python- Adapted from Django)
-
 [Reddit Github](https://github.com/reddit/reddit)  
 [Reddit Install Script for Ubuntu Github](https://github.com/reddit/reddit/wiki/reddit-install-script-for-Ubuntu)  
 [Reddit Styleguide Github](https://github.com/reddit/styleguide)  
@@ -3149,12 +3130,10 @@ Reddit (Python- Adapted from Django)
 [Reddit Enhancement Suite Github](https://github.com/Photobucket/Reddit-Enhancement-Suite)  
 
 Bootcamp (Python- Django)
-
 [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
 [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
 
 NPR + Others (Python (Also Node for Less))
-
 [NPR App Templates (Python and OSX) GitHub](https://github.com/nprapps/app-template)  
 [Planet Money Makes a T-Shirt](http://planetmoney.com/shirt)  
 [Planet Money Makes a T-Shirt (Example Website) GitHub](https://github.com/nprapps/tshirt)  
@@ -3162,7 +3141,6 @@ NPR + Others (Python (Also Node for Less))
 [NPR Best Practices (Interesting file structure) GitHub](https://github.com/nprapps/bestpractices)  
 
 Miscellaneous (Python)
-
 [Chicago News Team's Docs including Paywall Instructions for Tarbell Github](https://github.com/newsapps/docs)  
 [Chicago News Team's Tarbell Github](https://github.com/newsapps/flask-tarbell)  
 [CKAN Data Management System Github](https://github.com/GSA/ckan)  
@@ -3175,13 +3153,11 @@ Miscellaneous (Python)
 [Zope Web App Server Github](https://github.com/zopefoundation/Zope)  
 
 Python- Django- Templates
-
 [Django + HTML5B + Bootstrap](https://github.com/xenith/django-base-template)  
 
 Python- Django- Cookiecutter
 
 Python- Django- Pinax
-
 [Pinax](http://pinaxproject.com)  
 [Pinax GitHub](https://github.com/pinax)  
 [Pinax Starter App GitHub](https://github.com/pinax/pinax-starter-app)  
