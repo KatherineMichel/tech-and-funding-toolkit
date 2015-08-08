@@ -2625,7 +2625,6 @@ API Docs (including Python- Django- Rest Framework Swagger)
 #### Python, Django, and Example Code
 
 Python (See also Data Science)
-
 [Python](http://www.python.org)  
 [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)  
@@ -2769,128 +2768,110 @@ Python- Django- BCrypt (Not just for Django)
 [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1)  
 
 Python- Django- Debug Toolbar
-
-[Django Debug Toolbar](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
-[Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
+*   [Django Debug Toolbar](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
+*   [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
 
 Python- Django- Migrations
-
-[South](http://south.aeracode.org)  
+*   [South](http://south.aeracode.org)  
 
 Python- Django and Celery (Also Example code)
-
-[Celery](http://www.celeryproject.org)  
-[Celery GitHub](https://github.com/celery/celery)  
-[Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html)  
+*   [Celery](http://www.celeryproject.org)  
+*   [Celery GitHub](https://github.com/celery/celery)  
+*   [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html)  
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
-
-[Django Rest Framework](http://www.django-rest-framework.org)  
-[Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
-[Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-[Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+*   [Django Rest Framework](http://www.django-rest-framework.org)  
+*   [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
+*   [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+*   [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
 
 Python- Django- Rest Framework GIS
-
-[Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-[Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-[Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-[Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+*   [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+*   [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+*   [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+*   [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
 
 Python- Python/Django- Internationalization and Localization, Translation
-
-[Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-[Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-[Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-[Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-[Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-[Django Local Flavor PyPa](https://pypi.python.org/pypi/django-localflavor)  
-[Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-[Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
+*   [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+*   [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+*   [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+*   [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+*   [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+*   [Django Local Flavor PyPa](https://pypi.python.org/pypi/django-localflavor)  
+*   [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+*   [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
 
 GeoDjango
-
-[GeoDjango](http://geodjango.org)  
+*   [GeoDjango](http://geodjango.org)  
 
 PostGIS (Spatial Database Extender for PostgreSQL)
-
-[PostGIS](http://postgis.net)  
-[PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-[UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-[UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-[Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+*   [PostGIS](http://postgis.net)  
+*   [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+*   [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+*   [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+*   [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
 
 SpatiaLite (Spatial Database Extender for SQLite)
-
-[SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-[SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-[SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+*   [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+*   [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+*   [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
 
 Python- Django-MPTT (Modified Pre-Order Traversal Tree)
-
-[Django-MPTT](http://django-mptt.github.io/django-mptt)  
-[Django-MPTT GitHub](https://github.com/django-mptt/django-mptt)  
-[Django-MPTT PyPi](https://pypi.python.org/pypi/django-mptt)  
+*   [Django-MPTT](http://django-mptt.github.io/django-mptt)  
+*   [Django-MPTT GitHub](https://github.com/django-mptt/django-mptt)  
+*   [Django-MPTT PyPi](https://pypi.python.org/pypi/django-mptt)  
 
 Python- Django-Treebeard (Modified Pre-Order Traversal Tree)
-
-[Django-Treebeard](https://tabo.pe/projects/django-treebeard)  
-[Django-Treebeard Docs](https://tabo.pe/projects/django-treebeard/docs/tip)  
-[Django-Treebeard GitHub](https://github.com/tabo/django-treebeard)  
+*   [Django-Treebeard](https://tabo.pe/projects/django-treebeard)  
+*   [Django-Treebeard Docs](https://tabo.pe/projects/django-treebeard/docs/tip)  
+*   [Django-Treebeard GitHub](https://github.com/tabo/django-treebeard)  
 
 Python- Django- CMS, E-Commerce
-
-[Django CMS](https://www.django-cms.org/en)  
-[Django CMS Wikipedia](http://en.wikipedia.org/wiki/Django-cms)  
-[Django CMS GitHub](https://github.com/divio/django-cms)  
-[Django CMS Admin Style GitHub](https://github.com/divio/djangocms-admin-style)  
-[Django CMS Column GitHub](https://github.com/divio/djangocms-column)  
-[Django CMS Style GitHub](https://github.com/divio/djangocms-style)  
-[Django CMS Text CK-Editor GitHub](https://github.com/divio/djangocms-text-ckeditor)  
-[Django CMS Online Demo](https://control.aldryn.com/demo/get-new)  
-[Django CMS E-Commerce](https://www.django-cms.org/en/e-commerce)  
+*   [Django CMS](https://www.django-cms.org/en)  
+*   [Django CMS Wikipedia](http://en.wikipedia.org/wiki/Django-cms)  
+*   [Django CMS GitHub](https://github.com/divio/django-cms)  
+*   [Django CMS Admin Style GitHub](https://github.com/divio/djangocms-admin-style)  
+*   [Django CMS Column GitHub](https://github.com/divio/djangocms-column)  
+*   [Django CMS Style GitHub](https://github.com/divio/djangocms-style)  
+*   [Django CMS Text CK-Editor GitHub](https://github.com/divio/djangocms-text-ckeditor)  
+*   [Django CMS Online Demo](https://control.aldryn.com/demo/get-new)  
+*   [Django CMS E-Commerce](https://www.django-cms.org/en/e-commerce)  
 
 Python- Django- Other CMS and E-Commerce Options
-
-[Django Fluent CMS](http://django-fluent.org)  
-[Django Fluent CMS GitHub](https://github.com/edoburu)  
-[Django Fluent CMS Docs](http://django-fluent.org/documentation)  
-[Django Shop GitHub](https://github.com/divio/django-shop)  
-[Mezzanine Docs](http://mezzanine.jupo.org/docs)  
-[Mezzanine Sites](http://mezzanine.jupo.org/sites)  
-[Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
-[Oscar Docs](http://django-oscar.readthedocs.org/en/latest)  
-[Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
-[Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
-[Wagtail CMS GitHub](https://github.com/torchbox/wagtail)  
-[Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template)  
+*   [Django Fluent CMS](http://django-fluent.org)  
+*   [Django Fluent CMS GitHub](https://github.com/edoburu)  
+*   [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
+*   [Django Shop GitHub](https://github.com/divio/django-shop)  
+*   [Mezzanine Docs](http://mezzanine.jupo.org/docs)  
+*   [Mezzanine Sites](http://mezzanine.jupo.org/sites)  
+*   [Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
+*   [Oscar Docs](http://django-oscar.readthedocs.org/en/latest)  
+*   [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
+*   [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
+*   [Wagtail CMS GitHub](https://github.com/torchbox/wagtail)  
+*   [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template)  
 
 Python- Django- TinyMCE
-
-[TinyMCE GitHub](https://github.com/tinymce/tinymce)  
+*   [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
 
 Python- Django- Python Social Auth
-
-[Python Social Auth](https://github.com/omab/python-social-auth)  
-[Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
-[Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
-[Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)  
+*   [Python Social Auth](https://github.com/omab/python-social-auth)  
+*   [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
+*   [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
+*   [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)  
 Python- Django- Search
-
-[Haystack](http://haystacksearch.org)  
-[Haystack GitHub](https://github.com/toastdriven/django-haystack)  
+*   [Haystack](http://haystacksearch.org)  
+*   [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
 
 Python- Imaging Library
-
-[Python Imaging Library](http://www.pythonware.com/products/pil)  
-[Python Imaging Library Docs](https://pillow.readthedocs.org)  
-[Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
-[Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)  
+*   [Python Imaging Library](http://www.pythonware.com/products/pil)  
+*   [Python Imaging Library Docs](https://pillow.readthedocs.org)  
+*   [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
+*   [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)  
 
 Python- Django- Forms
-
-[Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  
-[Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+*   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  
+*   [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
 
 ### Example Website Code
 
