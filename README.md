@@ -1149,8 +1149,6 @@ Spinoffs
 
 ### Launch and Growth
 
-#### Metrics
-
 #### Notable Proposals and Pitch Decks
 
 *   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
@@ -1224,10 +1222,6 @@ Journalism Style Guides
 *   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
 *   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
 
-*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
 #### Growth, Marketing, and Content Resources
 
 Distribution, Growth, Sales Hacking
@@ -1260,6 +1254,15 @@ Digital Novel
 *   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
 *   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
 *   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
+
+#### Metrics
+
+*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+*   [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate)  
+*   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
+*   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
 
 #### Internationalization
 
