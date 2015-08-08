@@ -1394,9 +1394,10 @@ Code Search
 *   [Search Code](https://searchcode.com)  
 *   [Nerdy Data](http://nerdydata.com)  
 
-Developer Conferences
+Designer/Developer Conferences
 *   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
 *   [F8 Facebook Developer Conference](https://www.fbf8.com) 
+*   [Google Design Form](http://www.google.com/design/form) 
 *   [Google IO](https://www.google.com/events/io)  
 *   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
 *   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
@@ -1834,17 +1835,14 @@ Miscellaneous Programming Languages
 *   [Angular Dart GitHub](https://github.com/angular/angular.dart)  
 *   [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
 *   [Julia GitHub](https://github.com/JuliaLang/julia)  
-*   [Hack](http://hacklang.org)  
-*   [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
+*   [Hack](http://hacklang.org) and [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
 *   [Haskell](http://www.haskell.org/haskellwiki/Haskell)  
 *   [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language))  
 *   [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
 *   [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
 *   [OCaml](http://ocaml.org)  
 *   [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
-*   [Rust](http://www.rust-lang.org)  
-*   [Rust GitHub](https://github.com/mozilla/rust)  
-*   [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
+*   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/mozilla/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 
 Ruby
 
