@@ -3137,6 +3137,7 @@ Finance and Investment Terms
 *   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
 *   [Inflection Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
+*   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
 *   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
