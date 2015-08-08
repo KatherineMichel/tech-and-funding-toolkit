@@ -256,6 +256,7 @@ Angel and VC Firm Resources
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Expa](http://expa.com) and [Expa Portfolio](http://expa.com/#portfolio)
 *   [Felicis Numbers](http://www.felicis.com/numbers)
+*   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 *   [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), and [First Round 2005-2015](http://10years.firstround.com)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
 *   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
