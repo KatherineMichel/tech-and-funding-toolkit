@@ -678,11 +678,10 @@ Types of Acquisitions
 
 #### SEC and Other Regulatory Agencies
 
-General Solicitation
+Special Rules
+*   [409A (Valuation)](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
 *   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
 *   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
-
-Regulation A+
 *   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
 
 Securities and Exchange Commission (SEC)
