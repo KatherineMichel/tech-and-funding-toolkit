@@ -1387,6 +1387,7 @@ Calendar
 Social Media and Distribution 
 *   [Buffer](https://bufferapp.com)
 *   [Hootsuite](https://hootsuite.com)
+*   [HubSpot CRM](http://www.hubspot.com/crm)
 *   [Storify](https://storify.com)  
 *   [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
 
