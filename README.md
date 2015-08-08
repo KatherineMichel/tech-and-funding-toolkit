@@ -503,6 +503,7 @@ Aggregated, Curated News Sources
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
 *   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
 *   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
+*   [Pocket](https://getpocket.com)
 *   [Quora](http://www.quora.com)
 *   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
