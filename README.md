@@ -255,6 +255,7 @@ Angel and VC Firm Resources
 *   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
+*   [Bessemer Venture Partners Blog](http://www.bvp.com/blog) and [Bessemer Venture Partners Anti-Portfolio](http://www.bvp.com/portfolio/antiportfolio)
 *   [Expa](http://expa.com) and [Expa Portfolio](http://expa.com/#portfolio)
 *   [Felicis Numbers](http://www.felicis.com/numbers)
 *   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
