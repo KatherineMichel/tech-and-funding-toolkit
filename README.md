@@ -1511,7 +1511,7 @@ Facebook
 *   [Fb Start for Mobile Startups](http://fbstart.com)
 
 Google
-*   [Google Developers](https://developers.google.com) 
+*   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
 *   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 *   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
