@@ -2133,7 +2133,6 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
  #### Node.js and Related
 
 Node.js
-
 *   [Node.js](http://nodejs.org)  
 *   [Node.js Docs/API](http://nodejs.org/api/)  
 *   [Node.js Design](https://www.joyent.com/developers/node/design)  
@@ -2151,13 +2150,11 @@ Node.js
 *   [Node Beginner](http://www.nodebeginner.org)  
 
 Node.js Launch and Ryan Dahl
-
 *   [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
 *   [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
 *   [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history)  
 
 Heroku- Node.js
-
 *   [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
 *   [Heroku App.json GitHub](https://github.com/heroku/app.json)  
 *   [Heroku Getting Started with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)  
@@ -2165,11 +2162,9 @@ Heroku- Node.js
 *   [Heroku Node.js Sample GitHub](https://github.com/heroku/node-js-sample)  
 
 Google Cloud- Node.js
-
 *   [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
 
 MEAN
-
 *   [MEAN](http://mean.io)  
 *   [MEAN Wikipedia](http://en.wikipedia.org/wiki/MEAN)  
 *   [MongoDB](https://www.mongodb.org)  
@@ -2181,14 +2176,12 @@ MEAN
 *   [Mongoose (Example Website) GitHub](https://github.com/LearnBoost/mongoose)  
 
 Node Add-ons
-
 *   [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
 *   [Nodemon GitHub](https://github.com/remy/nodemon)  
 *   [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
 *   [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
 
 MVCs General, Backbone, Ember
-
 *   [Todo MVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc)  
 *   [Backbone](http://backbonejs.org)  
 *   [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
@@ -2197,7 +2190,6 @@ MVCs General, Backbone, Ember
 *   [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
 
 Yo/Yeoman, Bower, Grunt
-
 *   [Yo GitHub](https://github.com/yeoman/yo)  
 *   [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
 *   [Yeoman Bootstrap Generator GitHub](https://github.com/yeoman/generator-bootstrap)  
@@ -2212,7 +2204,6 @@ Yo/Yeoman, Bower, Grunt
 *   [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com)  
 
 Compilation Resources
-
 *   [Gulp GitHub](https://github.com/gulpjs/gulp)  
 *   [Compass GitHub](https://github.com/chriseppstein/compass)  
 *   [Less GitHub](https://github.com/less/less.js)  
@@ -2220,7 +2211,6 @@ Compilation Resources
 *   [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
 
 Extension Languages
-
 *   [Jade](http://jade-lang.com)  
 *   [Jade GitHub](https://github.com/visionmedia/jade)  
 *   [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
@@ -2234,20 +2224,17 @@ Extension Languages
 *   [Underscore GitHub](https://github.com/jashkenas/underscore)  
 
 ElasticSearch
-
 *   [ElasticSearch](http://www.elasticsearch.org)  
 *   [ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch)  
 *   [ElasticSearch Rails GitHub](https://github.com/elasticsearch/elasticsearch-rails )  
 *   [ElasticSearch Ruby GitHub](https://github.com/elasticsearch/elasticsearch-ruby)  
 
 RabbitMQ
-
 *   [RabbitMQ Server GitHub](https://github.com/rabbitmq/rabbitmq-server)  
 *   [RabbitMQ Tutorials GitHub](https://github.com/rabbitmq/rabbitmq-tutorials)  
 *   [RabbitMQ ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-rabbitmq)  
 
 MongoDB (Document-based)
-
 *   [MongoDB](http://www.mongodb.org)  
 *   [MongoDB GitHub](https://github.com/mongodb/mongo)  
 *   [MongoDB Wikipedia](http://en.wikipedia.org/wiki/MongoDB)  
@@ -2259,7 +2246,6 @@ MongoDB (Document-based)
 *   [MongoDB ElasticSearch GitHub](https://github.com/richardwilly98/elasticsearch-river-mongodb)  
 
 MongoDB- Drivers and Natives
-
 *   [MongoDB Ruby Driver GitHub](https://github.com/mongodb/mongo-ruby-driver)  
 *   [MongoDB Java Driver GitHub](https://github.com/mongodb/mongo-java-driver )  
 *   [MongoDB Driver Examples GitHub](https://github.com/mongolab/mongodb-driver-examples)  
@@ -2267,7 +2253,6 @@ MongoDB- Drivers and Natives
 *   [Node MongoDB Native GitHub](https://github.com/christkv/node-mongodb-native)  
 
 Mongoose, Mongoid, Moped, Mongomapper
-
 *   [Mongoose.js](http://mongoosejs.com)  
 *   [Mongoose GitHub](https://github.com/LearnBoost/mongoose)  
 *   [Mongoose Elastic GitHub](https://github.com/Waidd/elasticmongoose)  
@@ -2279,19 +2264,16 @@ Mongoose, Mongoid, Moped, Mongomapper
 *   [Mongomapper GitHub](https://github.com/mongomapper/mongomapper)  
 
 V8 JavaScript Engine
-
 *   [V8 JavaScript Engine](http://en.wikipedia.org/wiki/V8_(JavaScript_engine))  
 *   [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
 
 Node Forks
-
 *   [IO.js GitHub](https://github.com/iojs/io.js)  
 *   [JXCore](http://jxcore.com/home) 
  
 #### More Command Line and Shell
 
 Command Line
-
 *   [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
 *   [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
 
@@ -2300,7 +2282,6 @@ Shell
 *   [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
 
 Bash and Zsh (Alternative)
-
 *   [Bash (Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 *   [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
 *   [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
@@ -2308,7 +2289,6 @@ Bash and Zsh (Alternative)
 *   [Oh-My-Zsh Wikipedia](https://github.com/robbyrussell/oh-my-zsh/releases)  
 
 Emacs and Vim (Alternative)
-
 *   [Emacs (Text Editor) GitHub](https://github.com/mirrors/emacs)  
 *   [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
 *   [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
@@ -2319,12 +2299,10 @@ Emacs and Vim (Alternative)
 *   [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
 Windows PowerShell
-
 *   [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
 *   [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell) 
 
 Shell/Text Editors- More
-
 *   [VisualStudio](http://www.visualstudio.com/en-us)  
 *   [Textmate](http://macromates.com)  
 *   [XCode](https://developer.apple.com/xcode)  
@@ -2334,20 +2312,17 @@ Shell/Text Editors- More
 *   [Lighttable](http://www.lighttable.com)  
 
 cURL
-
 *   [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
 
 #### Dot Files
 
 Dot Files
-
 *   [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
 *   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
 *   [Dotfiles](http://dotfiles.github.io)  
 *   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
 
 Course Dotfiles and AWS EC2 Setup
-
 *   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
 *   [Course EC2 Setup](https://github.com/startup-class/setup)  
 *   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh)  
@@ -2355,12 +2330,10 @@ Course Dotfiles and AWS EC2 Setup
 #### More Back-end
 
 Redis, Resque
-
 *   [Redis GitHub](https://github.com/antirez/redis)  
 *   [Resque GitHub](https://github.com/resque/resque)  
 
 Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
-
 *   [Web Cache Wikipedia](http://en.wikipedia.org/wiki/Web_cache)  
 *   [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)  
 *   [Squid Cache](http://www.squid-cache.org)  
@@ -2370,24 +2343,20 @@ Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
 *   [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
 
 Memcached (Object Caching)
-
 *   [Memcached](http://memcached.org)  
 
 Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
-
 *   [Nginx](http://nginx.com/products)  
 *   [Nginx GitHub](https://github.com/nginx/nginx)  
 *   [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx)  
 
 Jenkins CI and Travis CI (Continuous Integration), and PhantomJS (Testing, Automation, Scraping)
-
 *   [Jenkins](http://jenkins-ci.org)  
 *   [Travis CI GitHub](https://github.com/travis-ci/travis-ci)  
 *   [PhantomJS](http://phantomjs.org)  
 *   [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
 
 Ansible and Salt (Automation and Configuration Management)
-
 *   [Ansible Deployment](http://www.ansible.com)  
 *   [Ansible GitHub](https://github.com/ansible/ansible)  
 *   [Salt Docs](http://docs.saltstack.com/en/latest/contents.html)  
@@ -2395,12 +2364,10 @@ Ansible and Salt (Automation and Configuration Management)
 *   [Salt Django Formula GitHub](https://github.com/saltstack-formulas/django-formula)  
 
 Selenium (Automated Testing)
-
 *   [SeleniumHQ](http://www.seleniumhq.org)  
 *   [SeleniumHQ Docs](http://www.seleniumhq.org/docs)  
 
 WSGI
-
 *   [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
 *   [WSGI](http://wsgi.readthedocs.org/en/latest)  
 *   [WSGI Google Code](https://code.google.com/p/modwsgi)  
@@ -2409,39 +2376,32 @@ WSGI
 *   [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
 
 Gunicorn (Python WSGI HTTP Server for UNIX)
-
 *   [Gunicorn](http://gunicorn.org)  
 *   [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
 
 Waitress (Production-Quality Pure-Python WSGI Server)
-
 *   [Waitress](http://waitress.readthedocs.org/en/latest)  
 *   [Waitress GitHub](https://github.com/Pylons/waitress)  
 *   [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
 
 Trac Project Management and DB (Used with www.djangoproject.com)
-
 *   [Trac](http://trac.edgewall.org)  
 *   [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
 *   [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
 
 Optimization
-
 *   [Cloudflare](https://www.cloudflare.com)  
 
 Software Stacks
-
 *   [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
 *   [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
 
 Distributed and Parallel Computing
-
 *   [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
 *   [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
 *   [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing)  
 
 VMware, Vagrant, VirtualBox
-
 *   [VMware](http://www.vmware.com)  
 *   [VMware Wikipedia](http://en.wikipedia.org/wiki/VMware)  
 *   [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
@@ -2451,13 +2411,11 @@ VMware, Vagrant, VirtualBox
 *   [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox)  
 
 .NET
-
 *   [Microsoft.github.io](http://microsoft.github.io)  
 *   [Dotnet GitHub](https://github.com/dotnet)  
 *   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
 Chef and Puppet Labs
-
 *   [Chef GitHub](https://github.com/opscode/chef)  
 *   [BBC News Chef Cookbooks GitHub](https://github.com/BBC-News/chef-cookbooks)  
 *   [Puppet Labs GitHub](https://github.com/puppetlabs/puppet)  
@@ -2465,55 +2423,46 @@ Chef and Puppet Labs
 *   [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
 Erlang
-
 *   [Erlang](http://www.erlang.org/)  
 *   [Erlang GitHub](https://github.com/erlang/otp)  
 *   [Erlang Standard Library](http://www.erlang.org/doc/man_index.html)  
 *   [Erlang MongoDBGitHub](https://github.com/mongodb/mongodb-erlang)  
 
 BSD/Free BSD
-
 *   [BSD Wikipedia](http://en.wikipedia.org/wiki/BSD)  
 *   [Free BSD GitHub](https://github.com/freebsd)  
 *   [Free BSD GitHub](https://github.com/freebsd/freebsd)  
 *   [Free BSD Docs GitHub](https://github.com/freebsd/freebsd-doc)  
 
 JugglingDB
-
 *   [JugglingDB GitHub](https://github.com/1602/jugglingdb)  
 
 CouchDB (Document-based)
-
 *   [CouchDB GitHub](https://github.com/apache/couchdb)  
 *   [CouchDB ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-couchdb)  
 
 Normalization
-
-*   (https://github.com/necolas/normalize.css)  
+*   [Normalize GitHub](https://github.com/necolas/normalize.css)  
 *   [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
 *   [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
 *   [Shim GitHub](https://github.com/marstall/shim)  
 *   [Zepto GitHub](https://github.com/madrobby/zepto)  
 
 Real Time Application Frameworks
-
 *   [Engine.io GitHub](https://github.com/LearnBoost/engine.io)  
 *   [Socket.io GitHub](https://github.com/LearnBoost/socket.io)  
 
 Encryption
-
 *   [Encryption GitHub](https://github.com/ivanakimov/hashids.node.js)
 *   [Heartbleed Mass Test GitHub](https://github.com/musalbas/heartbleed-masstest)  
 *   [Node Encryption GitHub](https://github.com/ncb000gt/node.bcrypt.js)  
 
 Testing Frameworks
-
 *   [Flight GitHub](https://github.com/flightjs/flight)  
 *   [Mocha GitHub](https://github.com/visionmedia/mocha)  
 *   [Jasmine GitHub](https://github.com/pivotal/jasmine)  
 
 Event Tracking
-
 *   [EventHub Cross Device Event Tracking GitHub](https://github.com/Codecademy/EventHub)  
 *   [EventHub Client GitHub](https://github.com/Codecademy/EventHubClient)  
 
@@ -2543,19 +2492,16 @@ Big Data- Apache
 *   [Apache Python Library GitHub](https://github.com/apache/libcloud)  
 
 Log Monitoring
-
 *   [Apache Kafka (A high-throughput distributed messaging system- Apache Kafka is publish-subscribe messaging rethought as a distributed commit log) GitHub](https://github.com/apache/kafka)  
 *   [Apache Kafka Wikipedia](http://en.wikipedia.org/wiki/Apache_Kafka)  
 *   [Logstash](http://logstash.net)  
 *   [Facebook Scribe](https://github.com/facebook/scribe)  
 
 Big Data- Hadoop, MongoDB, and ElasticSearch
-
 *   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
 *   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop)  
 
 Big Data- Cascading, Cascalog, Scala, Scalding
-
 *   [Cascading GitHub](https://github.com/Cascading/cascading)  
 *   [Cascalog GitHub](https://github.com/nathanmarz/cascalog)  
 *   [Cascalog-Demo GitHub](https://github.com/nathanmarz/cascalog-demo)  
@@ -2574,15 +2520,12 @@ GNU Software and Manuals
 *   [GNU Software Manual](http://www.gnu.org/manual/manual.html)  
 
 Pandoc
-
 *   [Pandoc](http://johnmacfarlane.net/pandoc)  
 
 Dexy
-
 *   [Dexy](http://www.dexy.it)  
 
 GitBook
-
 *   [GitBook](https://www.gitbook.com)  
 *   [GitBook GitHub](https://github.com/GitbookIO)  
 *   [GitBook Documentation](http://help.gitbook.io)  
@@ -2590,31 +2533,25 @@ GitBook
 *   [GitBook Themes](http://help.gitbook.io/book/themes.html)  
 
 GitHub Wiki
-
 *   [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
 
 iPython
-
 *   [iPython](http://ipython.org)  
 
 LaTeX
-
 *   [LaTeX](http://latex-project.org)  
 *   [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
 *   [Share LaTeX](https://github.com/sharelatex/sharelatex)  
 
 Read the Docs
-
 *   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
 *   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
 
 Python- Django-Sphinxdoc
-
 *   [Sphinxdoc](http://sphinx-doc.org)  
 *   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
 
 API Docs (including Python- Django- Rest Framework Swagger)
-
 *   [Swagger API Docs](http://swagger.io)  
 *   [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger)  
 *   [Slate API Docs GitHub](https://github.com/tripit/slate)  
@@ -2625,147 +2562,128 @@ API Docs (including Python- Django- Rest Framework Swagger)
 #### Python, Django, and Example Code
 
 Python (See also Data Science)
-[Python](http://www.python.org)  
-[Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
-[Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)  
-[CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
-[Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
-[Python Standard Library](http://docs.python.org/2/library)  
-[Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
-[Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))  
-[PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
-[Virtualenv GitHub](https://github.com/pypa/virtualenv)  
-[Virtualenvwrapper-win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
-[Python Patterns Library](https://github.com/faif/python-patterns)  
+*   [Python](http://www.python.org)  
+*   [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
+*   [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)  
+*   [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
+*   [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
+*   [Python Standard Library](http://docs.python.org/2/library)  
+*   [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
+*   [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))  
+*   [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
+*   [Virtualenv GitHub](https://github.com/pypa/virtualenv)  
+*   [Virtualenvwrapper-win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
+*   [Python Patterns Library](https://github.com/faif/python-patterns)  
 
 Python- Packages
+*   [Python Packaging Authority GitHub](https://github.com/pypa)  
+*   [PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
+*   [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
+*   [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
+*   [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
+*   [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications)  
 
-[Python Packaging Authority GitHub](https://github.com/pypa)  
-[PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
-[PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-[PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-[Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
-[Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications)  
 Python- Books and Tutorials
-
-[Dive into Python (Deprecated)](http://www.diveintopython.net)  
-[O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
-[O'Reilly Think Python](http://www.greenteapress.com/thinkpython)  
-[O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-[Python Programming Wikibooks](http://en.wikibooks.org/wiki/Python_Programming)  
-[Python Tutorial](https://docs.python.org/2/tutorial)  
-[Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
-[Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-[Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
-[Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-[Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
-[Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
+*   [Dive into Python (Deprecated)](http://www.diveintopython.net)  
+*   [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
+*   [O'Reilly Think Python](http://www.greenteapress.com/thinkpython)  
+*   [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
+*   [Python Programming Wikibooks](http://en.wikibooks.org/wiki/Python_Programming)  
+*   [Python Tutorial](https://docs.python.org/2/tutorial)  
+*   [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
+*   [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
+*   [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
+*   [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
+*   [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
+*   [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
 
 Awesome Python
-
-[Awesome Python GitHub](https://github.com/vinta/awesome-python)  
-[Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-[Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-[Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
+*   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
+*   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+*   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+*   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
 
 Dedicated Python Hosting
-
 [Python Anywhere](https://www.pythonanywhere.com)  
 
 O'Reilly Test-Driven Development with Python
-
-[Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
-[Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment)  
+*   [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
+*   [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment)  
 
 Python and Django Conferences
-
-[PyCon](http://www.pycon.org)  
-[PyData](http://pydata.org)  
-[DjangoCon](http://www.djangocon.us)  
+*   [PyCon](http://www.pycon.org)  
+*   [PyData](http://pydata.org)  
+*   [DjangoCon](http://www.djangocon.us)  
 
 Python- Microframeworks and Template Engines
-
-[Bottle](http://bottlepy.org/docs/dev/index.html)  
-[Jinja](http://jinja.pocoo.org)  
-[Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
-[Flask](http://flask.pocoo.org)  
-[Flask GitHub](https://github.com/mitsuhiko/flask)  
-[Fabric](http://www.fabfile.org)  
-[Fabric GitHub](https://github.com/fabric/fabric)  
+*   [Bottle](http://bottlepy.org/docs/dev/index.html)  
+*   [Jinja](http://jinja.pocoo.org)  
+*   [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
+*   [Flask](http://flask.pocoo.org)  
+*   [Flask GitHub](https://github.com/mitsuhiko/flask)  
+*   [Fabric](http://www.fabfile.org)  
+*   [Fabric GitHub](https://github.com/fabric/fabric)  
 
 Python- Django
-
-[Django](https://www.djangoproject.com)  
-[Django Documentation](https://docs.djangoproject.com)  
-[Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
-[Django GitHub](https://github.com/django/django)  
+*   [Django](https://www.djangoproject.com)  
+*   [Django Documentation](https://docs.djangoproject.com)  
+*   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
+*   [Django GitHub](https://github.com/django/django)  
 
 Python- Django Jobs
-
-[Django Jobs](https://www.djangojobs.net)  
+*   [Django Jobs](https://www.djangojobs.net)  
 
 Python- Django- Packages
-
-[Django Packages](https://www.djangopackages.com)  
-[Django Packages GitHub](https://github.com/pydanny/djangopackages)  
+*   [Django Packages](https://www.djangopackages.com)  
+*   [Django Packages GitHub](https://github.com/pydanny/djangopackages)  
 
 Python- Django- Resources
-
-[Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
-[Awesome Django GitHub](https://github.com/rosarior/awesome-django)  
-[Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
-[Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
+*   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
+*   [Awesome Django GitHub](https://github.com/rosarior/awesome-django)  
+*   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
+*   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
 Python- Django- Books and Tutorials (Exluding Django Girls)
-
-[Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-[Django Book (Deprecated but useful)](http://www.djangobook.com)  
-[Light Weight Django](http://it-ebooks.info/book/2820)  
-[Light Weight Django GitHub](https://github.com/lightweightdjango)  
-[Tango with Django Tutorial](http://www.tangowithdjango.com)  
+*   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
+*   [Django Book (Deprecated but useful)](http://www.djangobook.com)  
+*   [Light Weight Django](http://it-ebooks.info/book/2820)  
+*   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+*   [Tango with Django Tutorial](http://www.tangowithdjango.com)  
 
 Python- PEP 3333 (Python Web Server Gateway Interface)
-
-[PEP 3333](https://www.python.org/dev/peps/pep-3333)  
+*   [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
 
 Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
-
-[Psycopg](http://initd.org/psycopg)  
-[Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
+*   [Psycopg](http://initd.org/psycopg)  
+*   [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
 
 Python- Heroku
-
-[Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
-[Heroku Python Category](https://devcenter.heroku.com/categories/python)  
-[Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python-o)  
-[Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
+*   [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
+*   [Heroku Python Category](https://devcenter.heroku.com/categories/python)  
+*   [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python-o)  
+*   [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
 
 Python- Django- AWS Elastic Beanstalk Deployment
-
-[Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
+*   [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
 
 Python- Django- Heroku Deployment
-
-[Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template)  
-[Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
-[Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
-[Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache)  
+*   [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template)  
+*   [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
+*   [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
+*   [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache)  
 
 Python- Django- Digital Ocean Deployment
-
-[Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
-[Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
-[Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
+*   [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
+*   [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
+*   [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
 
 Python- Django- Random SECRET_KEY
-
-[Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
+*   [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
 
 Python- Django- BCrypt (Not just for Django)
-
-[BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
-[BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
-[BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1)  
+*   [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
+*   [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
+*   [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1)  
 
 Python- Django- Debug Toolbar
 *   [Django Debug Toolbar](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
