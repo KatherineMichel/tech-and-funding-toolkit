@@ -67,6 +67,7 @@ Table of Contents
   - [Developer General](#developer-general)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Deployment and Cloud](#deployment-and-cloud)
+  - [Mobile](#mobile)
   - [Social Media and Social Graph](#social-media-and-social-graph)
   - [Testing](#testing)
   - [Databases](#databases)
@@ -1595,6 +1596,10 @@ Code Search
 *   [Search Code](https://searchcode.com)  
 *   [Nerdy Data](http://nerdydata.com)  
 
+Example
+*   [Example Org](http://www.example.org)  
+*   [Example Org Mobile](https://m.example.com) 
+
 Designer/Developer Conferences
 *   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
 *   [F8 Facebook Developer Conference](https://www.fbf8.com) 
@@ -1970,6 +1975,11 @@ Cross Platform Dev Environment
 Content Delivery Network
 *   [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network)  
 *   [MAXCDN](https://www.maxcdn.com) 
+
+#### Mobile
+
+Apple- Swift
+*   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))  
 
 #### Social Media and Social Graph
 
