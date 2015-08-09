@@ -1009,10 +1009,11 @@ Thoughtbot Version
 #### Google Design Approach
 
 *   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
+*   [Google Roboto GitHub](https://github.com/google/roboto) 
 *   [Google Design](http://www.google.com/design/#resources)  
 *   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-*   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html), [Google Material Lite](http://www.getmdl.io/components/index.html), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0)
+*   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Lite Components](http://www.getmdl.io/components/index.html), [Google Material Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
 
 #### More Research and Design Toolkits
 
