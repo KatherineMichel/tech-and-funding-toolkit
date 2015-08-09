@@ -69,7 +69,7 @@ Table of Contents
   - [Deployment and Cloud](#deployment-and-cloud)
   - [Mobile](#mobile)
   - [Social Media and Social Graph](#social-media-and-social-graph)
-  - [Testing](#testing)
+  - [Testing and Performance](#testing-and-performance)
   - [Databases](#databases)
   - [SQL](#sql)
   - [ASP](#asp)
@@ -2096,15 +2096,17 @@ Graph and Schema- General (See Also Facebook Open Graph)
 *   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
 *   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
 
-#### Testing
+#### Testing and Performance
 
 *   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
 *   [AWS Device Farm](https://aws.amazon.com/device-farm)
 *   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
 *   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
+*   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
 *   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 *   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-*   [Optimizely](https://www.optimizely.com) and [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
+*   [Optimizely](https://www.optimizely.com) and [Optimizely A/B Testing](https://www.optimizely.com/ab-testing) 
+*   [W3 Mobile Validator](http://validator.w3.org/mobile)
 
 #### Databases
 
