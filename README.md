@@ -79,6 +79,7 @@ Table of Contents
   - [More Back-End](#more-back-end)
   - [Big Data](#big-data)
   - [Software Manuals and Documentation](#software-manuals-and-documentation)
+  - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 - [Example Website Code](#example-website-code)
   - [Guardian](#guardian)
   - [Ruby, Rails](#ruby-rails)
@@ -2607,6 +2608,11 @@ API Docs (including Python- Django- Rest Framework Swagger)
 *   [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger)  
 *   [Slate API Docs GitHub](https://github.com/tripit/slate)  
 *   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com)  
+
+### Video Gaming and Virtual Reality
+
+*   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
+*   [Unity 3D](http://unity3d.com/unity)  
 
 ### Python and Django Toolkit
 
