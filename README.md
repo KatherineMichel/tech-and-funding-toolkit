@@ -64,6 +64,7 @@ Table of Contents
   - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
+  - [Developer General](#developer-general)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Deployment and Cloud](#deployment-and-cloud)
   - [Social Media and Social Graph](#social-media-and-social-graph)
@@ -302,7 +303,7 @@ Berkshire Hathaway
 Federal
 *   [Federal Business Opportunities](https://www.fbo.gov)  
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
-*   [National Science Foundation](https://www.nsf.gov/funding)
+*   [National Science Foundation Funding](https://www.nsf.gov/funding)
 
 #### RFS, Trends, Emerging Technologies
 
@@ -1439,77 +1440,6 @@ Admin, Hiring, Payroll
 *   [ZenPayroll](https://zenpayroll.com) 
 *   [Zenefits](http://www.zenefits.com)
 
-#### Code, Sharing, Analytics
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
-*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
-
-DevCenter
-*   [DevCenter Website](DevCenter.me)  
-
-Guides for Development
-*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Built With (Exluding Django)
-*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-*   [Built With](http://builtwith.com)  
-*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-*   [Built with Bootstrap](http://expo.getbootstrap.com)  
-*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-*   [Squarespace (Website Examples)](http://www.squarespace.com) 
-
-Code Search
-*   [Search Code](https://searchcode.com)  
-*   [Nerdy Data](http://nerdydata.com)  
-
-Designer/Developer Conferences
-*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
-*   [Google Design Form](http://www.google.com/design/form) 
-*   [Google IO](https://www.google.com/events/io)  
-*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-*   [Twitter Flock](http://flock.fabric.io) 
-
-*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
-*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
-*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
-
-Code Hosting
-*   [GitHub](https://github.com/github)
-*   [Google Code](http://code.google.com)
-
-Question and Answer Forums
-*   [Quora](http://www.quora.com)
-*   [Stack Exchange](http://stackexchange.com)
-*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
-*   [Stack Overflow](http://stackoverflow.com)
-*   [Yahoo Answers](https://answers.yahoo.com)
-
-Licenses
-*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
-*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-*   [Creative Commons](https://creativecommons.org/licenses)
-*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
-
-Engineering Blogs
-*   [Buffer Engineering](https://overflow.bufferapp.com)
-*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-*   [LinkedIn Engineering](http://engineering.linkedin.com)  
-*   [Pinterest Engineering](http://engineering.pinterest.com)  
-*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-*   [Uber Developers](https://devblog.uber.com)  
-*   [Yelp Engineering](http://engineeringblog.yelp.com) 
-
 ### Web Dev and Design
 
 #### Unix and Linux
@@ -1639,6 +1569,77 @@ Chromebook Ubuntu Installation
 *   [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
 *   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
 *   [Crouton GitHub](https://github.com/dnschneid/crouton)  
+
+#### Developer General
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
+*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
+
+DevCenter
+*   [DevCenter Website](DevCenter.me)  
+
+Guides for Development
+*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Built With (Exluding Django)
+*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+*   [Built With](http://builtwith.com)  
+*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+*   [Built with Bootstrap](http://expo.getbootstrap.com)  
+*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+*   [Squarespace (Website Examples)](http://www.squarespace.com) 
+
+Code Search
+*   [Search Code](https://searchcode.com)  
+*   [Nerdy Data](http://nerdydata.com)  
+
+Designer/Developer Conferences
+*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
+*   [Google Design Form](http://www.google.com/design/form) 
+*   [Google IO](https://www.google.com/events/io)  
+*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+*   [Twitter Flock](http://flock.fabric.io) 
+
+*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
+*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
+*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
+
+Code Hosting
+*   [GitHub](https://github.com/github)
+*   [Google Code](http://code.google.com)
+
+Question and Answer Forums
+*   [Quora](http://www.quora.com)
+*   [Stack Exchange](http://stackexchange.com)
+*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
+*   [Stack Overflow](http://stackoverflow.com)
+*   [Yahoo Answers](https://answers.yahoo.com)
+
+Licenses
+*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+*   [Creative Commons](https://creativecommons.org/licenses)
+*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+Engineering Blogs
+*   [Buffer Engineering](https://overflow.bufferapp.com)
+*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+*   [LinkedIn Engineering](http://engineering.linkedin.com)  
+*   [Pinterest Engineering](http://engineering.pinterest.com)  
+*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+*   [Uber Developers](https://devblog.uber.com)  
+*   [Yelp Engineering](http://engineeringblog.yelp.com) 
 
 #### Programming Languages, MVCs
 
