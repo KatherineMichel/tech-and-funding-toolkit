@@ -1378,6 +1378,7 @@ Livestreaming, Video, Audio
 
 Photo Hosting
 *   [Flickr](https://www.flickr.com) 
+*   [Google Photos](https://photos.google.com)
 *   [Picasa](https://picasa.google.com)
 
 Document Hosting
@@ -1804,7 +1805,7 @@ Docker
 
 Cross Platform Dev Environment
 *   [Bowery](http://bowery.io)  
-*   [Firebase](https://www.firebase.com) 
+*   [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
 
 Content Delivery Network
 *   [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network)  
@@ -1878,7 +1879,7 @@ Ruby
 *   [Ruby](https://www.ruby-lang.org/en/)  
 *   [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language))  
 *   [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
-*   [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org)  
+*   [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
 *   [Ruby GitHub](https://github.com/ruby/ruby)  
 *   [Ruby Gems GitHub](https://github.com/rubygems/rubygems)  
 *   [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0/)  
@@ -1887,8 +1888,7 @@ Ruby
 *   [Capistrano GitHub](https://github.com/capistrano/capistrano)  
 
 Ruby- Executable Specification
-*   [Ruby Executable Specification](http://rubyspec.org)  
-*   [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
+*   [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
 *   [Ruby Testing Tool](http://rspec.info)  
 
 Rails, Jekyll- Preferred Templates and Documents
