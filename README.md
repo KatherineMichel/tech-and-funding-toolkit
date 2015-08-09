@@ -1893,6 +1893,9 @@ Ubuntu (Debian) Deployment
 *   [AWS Ubuntu Server 14.04 LTS (HVM)](https://aws.amazon.com/marketplace/pp/B00JV9TBA6/ref=gtw_msl_title?ie=UTF8&amp;amp;amp;pf_rd_r=03MSJ27P1BFT09163JEP&amp;amp;amp;pf_rd_m=A33KC2ESLMUT5Y&amp;amp;amp;pf_rd_t=101&amp;amp;amp;pf_rd_i=awsmp-gateway-1&amp;amp;amp;pf_rd_p=1841533842&amp;amp;amp;pf_rd_s=right-3)  
 *   [Heroku Ubuntu](https://toolbelt.heroku.com/debian)  
 
+GitHub, AWS, Heroku Deployment Illustrated
+*   [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+
 GitHub, Heroku, AWS SSH and SSH Keys
 *   [GitHub SSH](https://github.com/settings/ssh)  
 *   [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
