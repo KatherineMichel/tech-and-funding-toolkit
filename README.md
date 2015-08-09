@@ -1981,6 +1981,9 @@ Content Delivery Network
 Apple- Swift
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))  
 
+Mobile World Congress
+*   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
+
 #### Social Media and Social Graph
 
 Apple
