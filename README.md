@@ -292,6 +292,11 @@ Crowdfunding
 *   [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
 *   [Tilt](https://www.tilt.com)
 
+Federal
+*   [Federal Business Opportunities](https://www.fbo.gov)  
+*   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+*   [National Science Foundation Funding](https://www.nsf.gov/funding)
+
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
@@ -302,10 +307,15 @@ Berkshire Hathaway
 *   [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
 *   [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
 
-Federal
-*   [Federal Business Opportunities](https://www.fbo.gov)  
-*   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
-*   [National Science Foundation Funding](https://www.nsf.gov/funding)
+Economists, Investors, Philosophers
+*   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
+*   [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+*   [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
+*   [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
+*   [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
+*   [Rene Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
+*   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
+*   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
 
 #### RFS, Trends, Emerging Technologies
 
