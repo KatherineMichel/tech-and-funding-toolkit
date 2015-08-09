@@ -1054,6 +1054,7 @@ Nesta DIY
 Nielson Norman
 *   [Nielson Norman Group](http://www.nngroup.com)
 *   [Nielson Norman Group: How Many Test Users in a Usability Study?](http://www.nngroup.com/articles/how-many-test-users)
+*   [Why You Only Need to Test with 5 Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users)
 *   [Nielson Norman Group Free Reports](http://www.nngroup.com/reports/free)
 *   [Nielson Norman Group How to Recruit Participants for Usability Studies](http://www.nngroup.com/reports/how-to-recruit-participants-usability-studies)
 *   [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
