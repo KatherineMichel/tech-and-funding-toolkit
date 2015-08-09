@@ -838,7 +838,7 @@ Project Management Software
 *   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
 *   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
 *   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
-*   [Slack](https://slack.com) 
+*   [Slack](https://slack.com) and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
 *   [Trello](https://trello.com)
 
 Software Development Philosophies
