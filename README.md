@@ -1812,6 +1812,7 @@ Google Cloud and App Engine
 Nitrous (IDE)
 
 *   [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
+*   [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
 Docker
 *   [Docker](https://www.docker.com)  
