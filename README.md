@@ -835,6 +835,8 @@ Unconscious Bias
 *   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics) and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
+*   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
+*   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 
 Project Management Associations
 *   [Association for Project Management](http://www.apm.org.uk)  
