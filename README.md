@@ -1086,6 +1086,7 @@ Design- General
 *   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
 *   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
 *   [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
+*   [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
 
 Responsive Design
 *   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
@@ -1598,6 +1599,8 @@ Web General
 *   [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
 *   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
 *   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+*   [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+*   [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
 *   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 *   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
