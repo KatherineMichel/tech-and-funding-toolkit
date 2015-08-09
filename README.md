@@ -2026,10 +2026,13 @@ Heroku Multiple Environments and Site Staging
 *   [Staging Code on Heroku GitHub](https://github.com/digitalpulp/developer-handbook/wiki/Staging-code-on-heroku)  
 
 Digital Ocean (VPS)
+*   [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
+*   [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
 *   [Digital Ocean Pricing](https://www.digitalocean.com/pricing)  
 *   [Digital Ocean Community](https://www.digitalocean.com/community)  
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
+*   [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
 *   [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
 *   [Dokku](http://progrium.viewdocs.io/dokku/index)  
 *   [Dokku GitHub](https://github.com/progrium/dokku)  
@@ -2039,6 +2042,8 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 Google Cloud and App Engine
 *   [Google Cloud Products](https://cloud.google.com/products)  
 *   [Google Cloud Solutions](https://cloud.google.com/solutions)  
+*   [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
+*   [Google Cloud Pricing](https://cloud.google.com/appengine/pricing) 
 *   [Google Cloud Developers](https://cloud.google.com/developers)  
 *   [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html)  
 *   [Google App Engine](https://developers.google.com/appengine)  
@@ -2049,7 +2054,6 @@ Google Cloud and App Engine
 *   [Google Apps for Work](https://www.google.com/a/signup)  
 
 Nitrous (IDE)
-
 *   [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 *   [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
