@@ -1016,7 +1016,7 @@ Thoughtbot Version
 *   [Google Design](http://www.google.com/design/#resources)  
 *   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-*   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Lite Components](http://www.getmdl.io/components/index.html), [Google Material Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+*   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Lite Components](http://www.getmdl.io/components/index.html), [Google Material Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
 
 #### More Research and Design Toolkits
 
@@ -2102,6 +2102,7 @@ Graph and Schema- General (See Also Facebook Open Graph)
 *   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
 *   [AWS Device Farm](https://aws.amazon.com/device-farm)
 *   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+*   [Google App Invites](https://developers.google.com/app-invites)
 *   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
 *   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
 *   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
