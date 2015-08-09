@@ -4,12 +4,6 @@ See also...
 
 *   [Tech and Venture Capital Toolkit Project Management](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/README.md#project-management)
 
-## Wikipedia
-
-Project Management
-* [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
-* [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
-
 ## 18F
 
 Agile Project Management
@@ -26,31 +20,6 @@ Development
 * [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
 * [Before you Ship](https://pages.18f.gov/before-you-ship)
 * [APIs](https://github.com/18f/api-standards)
-
-## Agile Project Management
-
-Agile Project Management Methodologies
-*   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
-*   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
-*   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
-*   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
-*   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
-*   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
-*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)) and [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban)
-*   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-*   [Scrum Software Development Wikipedia](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)
-*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
-*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp) and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
-*   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
-
-Sprints
-*   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
-*   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
-
-## Agile Wikipedia
-
-* [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods)
-* [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
 
 Agile Practices
 * [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
