@@ -865,6 +865,8 @@ Software Prototyping
 Software Project Management
 *   [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
 
+## Agile Wikipedia
+
 Agile Project Management Methodologies
 *   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
 *   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
@@ -895,6 +897,9 @@ Process Improvement
 *   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
 *   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
+
+Standards
+*   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
 
 ### Research and Design Sprints
 
