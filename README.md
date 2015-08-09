@@ -299,6 +299,7 @@ Berkshire Hathaway
 Federal
 *   [Federal Business Opportunities](https://www.fbo.gov)  
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+*   [National Science Foundation](https://www.nsf.gov/funding)
 
 #### RFS, Trends, Emerging Technologies
 
@@ -1924,6 +1925,7 @@ Golang, otherwise known as "Go"
 *   [Golang Packages](http://golang.org/pkg)  
 *   [Golang Search](http://go-search.org)  
 *   [Golang Play](http://play.golang.org)  
+*   [Golang Talks](https://talks.golang.org)
 *   [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
 *   [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go)  
