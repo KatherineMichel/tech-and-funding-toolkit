@@ -1519,9 +1519,6 @@ Engineering Blogs
 
 #### Social Media and Social Graph
 
-Amazon
-*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
-
 Apple
 *   [Apple Developer](https://developer.apple.com)
 *   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
@@ -1747,6 +1744,9 @@ GitHub, Heroku, AWS SSH and SSH Keys
 *   [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
 *   [AWS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)  
 
+Amazon
+*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+
 Amazon Web Services
 *   [Amazon Web Services](http://aws.amazon.com)  
 *   [AWS Marketplace](https://aws.amazon.com/marketplace)  
@@ -1808,6 +1808,10 @@ Google Cloud and App Engine
 *   [Google App Engine Code](http://code.google.com/p/googleappengine)  
 *   [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
 *   [Google Apps for Work](https://www.google.com/a/signup)  
+
+Nitrous (IDE)
+
+*   [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 
 Docker
 *   [Docker](https://www.docker.com)  
@@ -3168,6 +3172,7 @@ Finance and Investment Terms
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
 *   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
 *   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
+*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
 *   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
 *   [Inflection Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
