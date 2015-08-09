@@ -1430,7 +1430,7 @@ Admin, Hiring, Payroll
 #### Code, Sharing, Analytics
 
 Digital Agency Playbook, Blog, Styleguide, Templates
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), and [Thoughtbot Templates](https://github.com/thoughtbot/templates)
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
 DevCenter
@@ -2316,7 +2316,7 @@ Dot Files
 *   [Dotfiles](http://dotfiles.github.io)  
 *   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
 
-Course Dotfiles and AWS EC2 Setup
+STartup Class Dotfiles and AWS EC2 Setup
 *   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
 *   [Course EC2 Setup](https://github.com/startup-class/setup)  
 *   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh)  
