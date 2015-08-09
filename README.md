@@ -1967,6 +1967,7 @@ IaaS- General and Alternatives to AWS
 PaaS- General and Alternatives to Heroku (including Google App Engine)
 *   [PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service)  
 *   [DotCloud](https://www.dotcloud.com)  
+*   [OpenShift Pricing](https://www.openshift.com/products/pricing)
 
 SaaS- General and Alternatives to GoogleApps
 *   [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
