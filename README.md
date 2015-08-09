@@ -1142,6 +1142,9 @@ Photoshop and Similar
 *   [Inkscape](http://www.inkscape.org/en)  
 *   [Serif](http://www.serif.com) 
 
+Free Photos
+*   [MorgueFile](http://www.morguefile.com)  
+
 Prototyping Software
 *   [Keynote](https://www.apple.com/mac/keynote)
 *   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
@@ -1601,6 +1604,7 @@ Web General
 *   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
 *   [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
 *   [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+*   [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
 *   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 *   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
@@ -3204,6 +3208,7 @@ General
 *   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
 *   [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
+*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
