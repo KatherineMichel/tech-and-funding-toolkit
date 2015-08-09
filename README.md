@@ -855,6 +855,7 @@ Project Management Software
 *   [Trello](https://trello.com)
 
 Software Development Philosophies
+*   [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
 *   [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
 *   [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
 *   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
@@ -899,9 +900,6 @@ Process Improvement
 *   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
 *   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
-
-Standards
-*   [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
 
 ### Research and Design Sprints
 
