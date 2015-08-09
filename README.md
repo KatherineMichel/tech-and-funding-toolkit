@@ -1139,7 +1139,7 @@ Quickie Websites
 *   [Wix Templates](http://www.wix.com/website/templates)
 
 Turn Key Websites
-*   [Wordpress VIP](http://vip.wordpress.com) and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
+*   [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
 
 Bootstrap, Font Awesome, Foundation
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
@@ -1581,6 +1581,7 @@ Web General
 *   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
 *   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
 *   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+*   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
@@ -1920,6 +1921,7 @@ AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Referenc
 Amazon Web Services- Lambda
 *   [AWS Lambda](http://aws.amazon.com/lambda)  
 *   [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
+*   [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
 
 Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
 *   [Heroku](https://www.heroku.com)  
