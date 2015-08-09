@@ -149,7 +149,7 @@ Table of Contents
 *   [Adam Khan: Hack the Bird](http://www.amazon.com/Hack-Bird-Counterintuitive-Strategies-Entrepreneurs-ebook/dp/B00XFMQHVQ/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1433450574&sr=1-1&keywords=hack+the+bird&linkCode=sl1&tag=inthestabiz-20&linkId=AADRKVFBXUFE75JI)
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
 *   [Alex Osterwalder](http://www.alexosterwalder.com), [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder), and [Alex Osterwalder Slideshare](http://www.slideshare.net/Alex.Osterwalder)
-*   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim)
+*   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
 *   [Andrew Sullivan](http://dish.andrewsullivan.com)  
 *   [Anil Dash](http://dashes.com/anil)
 *   [Ben Bajarin](http://atbenbajarin.com)  
@@ -351,6 +351,7 @@ List
 Surveys
 *   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
 *   [SurveyMonkey](https://www.surveymonkey.com)
+*   [Typeform](https://subtraction.typeform.com)
 
 Google Insights and Trends
 *   [Google Insights](http://www.google.com/insights)
@@ -1055,6 +1056,7 @@ Design- General
 *   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
 *   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
 *   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
+*   [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
 
 Responsive Design
 *   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
@@ -1535,6 +1537,7 @@ Google
 *   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
 *   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 *   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+*   [Google Styleguides](https://github.com/google/styleguide)
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
 *   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 *   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
@@ -3170,6 +3173,8 @@ Finance and Investment Terms
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 
 Laws, Theories, Logic  
+*   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
+*   [List of Laws Wikipedia](http://en.wikipedia.org/wiki/List_of_laws) 
 *   [Baumol's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
 *   [Benford's Law Wikipedia](http://en.wikipedia.org/wiki/Benford%27s_law)  
 *   [Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
