@@ -64,7 +64,7 @@ Table of Contents
   - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
-  - [Developer General](#developer-general)
+  - [Designer and Developer General](#designer-and-developer-general)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Deployment and Cloud](#deployment-and-cloud)
   - [Mobile](#mobile)
@@ -1571,7 +1571,15 @@ Chromebook Ubuntu Installation
 *   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
 *   [Crouton GitHub](https://github.com/dnschneid/crouton)  
 
-#### Developer General
+#### Designer and Developer General
+
+Web General
+*   [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+*   [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+*   [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+*   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+*   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+*   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
