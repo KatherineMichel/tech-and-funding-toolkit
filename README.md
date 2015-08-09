@@ -184,7 +184,7 @@ Table of Contents
 *   [Jake Knapp](https://medium.com/@jakek)
 *   [Jason M. Lemkin (SaaStr](http://www.saastr.com)
 *   [Jay Rosen](http://pressthink.org)   
-*   [Jeff Atwood](http://blog.codinghorror.com)
+*   [Jeff Atwood](http://blog.codinghorror.com) and [Jeff Atwood GitHub](https://github.com/coding-horror)
 *   [Jeff Jarvis](http://buzzmachine.com) 
 *   [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
 *   [Joel Spolsky](http://www.joelonsoftware.com)
