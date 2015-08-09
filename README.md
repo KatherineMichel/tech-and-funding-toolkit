@@ -62,11 +62,12 @@ Table of Contents
 - [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Social Media and Social Graph](#social-media-and-social-graph)
 - [Web Dev and Design](#web-dev-and-design)
+  - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
+  - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Deployment and Cloud](#deployment-and-cloud)
-  - [More Programming Languages, MVCs](#more-programming-languages-mvcs)
-  - [Unix and Linux](#unix-and-linux)
+  - [Testing](#testing)
   - [Databases](#databases)
   - [SQL](#sql)
   - [ASP](#asp)
@@ -1496,17 +1497,6 @@ Licenses
 *   [Creative Commons](https://creativecommons.org/licenses)
 *   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
-Alpha and Beta Testing
-*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-*   [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-
-Testing, Reporting, Analytics
-*   [Crashlytics](http://try.crashlytics.com)
-*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-*   [Optimizely](https://www.optimizely.com) 
-*   [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
-*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-
 Engineering Blogs
 *   [Buffer Engineering](https://overflow.bufferapp.com)
 *   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
@@ -1623,6 +1613,67 @@ Graph and Schema- General (See Also Facebook Open Graph)
 
 ### Web Dev and Design
 
+#### Unix and Linux
+
+Unix
+*   [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+*   [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
+*   [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
+*   [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+*   [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
+
+Unix Shell
+*   [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+*   [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
+*   [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
+*   [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+*   [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
+
+Linux
+*   [Linux](http://www.linux.org)  
+*   [Canonical](http://www.canonical.com)  
+*   [Linux Foundation](http://www.linuxfoundation.org)  
+*   [Linux.com](http://www.linux.com)  
+*   [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
+*   [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
+*   [Linux GitHub](https://github.com/torvalds/linux)  
+*   [Linux in a Nutshell](http://it-ebooks.info/book/403)  
+*   [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)  
+*   [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
+*   [Linux Journal](http://www.linuxjournal.com)  
+
+Linux- Ubuntu (Debian)
+*   [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
+*   [Ubuntu](http://www.ubuntu.com)  
+*   [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))  
+ 
+Linux- Ubuntu Dual Boot
+*   [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
+*   [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
+*   [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
+
+Ubuntu Terminal, Command Line, and Aptget
+*   [Linux Command](http://linuxcommand.org)  
+*   [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
+*   [Ubuntu Aptget](https://help.ubuntu.com/community/AptGet/Howto)  
+*   [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
+
+Ubuntu- + Programs
+*   [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
+*   [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
+*   [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
+*   [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
+
+Linux- Other Popular Distributions
+*   [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
+*   [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
+*   [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
+*   [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
+*   [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
+*   [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
+*   [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
+*   [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
+
 #### GitHub and Markdown
 
 Git
@@ -1690,144 +1741,7 @@ Chromebook Ubuntu Installation
 *   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
 *   [Crouton GitHub](https://github.com/dnschneid/crouton)  
 
-#### Deployment and Cloud
-
-IANA, Domize, DNSimple, Heroku
-*   [Internet Assigned Numbers Authority](http://www.iana.org)
-*   [Domize](http://domize.com)  
-*   [DNSimple](https://dnsimple.com)  
-*   [DNSimple New Domain](https://dnsimple.com/domains/new)  
-*   [DNSimple Account Subscription](https://dnsimple.com/account/subscription/new)  
-*   [DNSimple Heroku](https://dnsimple.com/services-heroku)  
-*   [Heroku SSL Certificate DNSimple](https://devcenter.heroku.com/articles/ssl-certificate-dnsimple)  
-*   [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)  
-*   [DNSimple SSL Certifcate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)  
-*   [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
-
-Heroku SSL Endpoint, SSL Self Certification, Custom Domains
-*   [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
-*   [Heroku SSL Self Certification](https://devcenter.heroku.com/articles/ssl-certificate-self)  
-*   [Heroku Custom Domains](https://devcenter.heroku.com/articles/custom-domains)  
-
-Namecheap
-*   [Namecheap](https://www.namecheap.com)  
-*   [Namecheap SSL Certificate Wildcard](https://www.namecheap.com/security/ssl-certificates/comodo/positivessl-wildcard.aspx)  
-
-DNS
-*   [Amazon Route 53](http://aws.amazon.com/route53)  
-
-Cloud Computing- General
-*   [Cloud Computing Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing)  
-
-IaaS- General and Alternatives to AWS
-*   [IaaS](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29)  
-*   [IaaS Service Models](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Service_models)  
-*   [Joyent](http://www.joyent.com)  
-*   [Rackspace Cloud](http://www.rackspace.com)  
-
-PaaS- General and Alternatives to Heroku (including Google App Engine)
-*   [PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service)  
-*   [DotCloud](https://www.dotcloud.com)  
-
-SaaS- General and Alternatives to GoogleApps
-*   [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
-
-Ubuntu (Debian) Deployment
-*   [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
-*   [AWS Ubuntu](https://help.ubuntu.com/community/EC2StartersGuide)  
-*   [AWS Ubuntu Server 14.04 LTS (HVM)](https://aws.amazon.com/marketplace/pp/B00JV9TBA6/ref=gtw_msl_title?ie=UTF8&amp;amp;amp;pf_rd_r=03MSJ27P1BFT09163JEP&amp;amp;amp;pf_rd_m=A33KC2ESLMUT5Y&amp;amp;amp;pf_rd_t=101&amp;amp;amp;pf_rd_i=awsmp-gateway-1&amp;amp;amp;pf_rd_p=1841533842&amp;amp;amp;pf_rd_s=right-3)  
-*   [Heroku Ubuntu](https://toolbelt.heroku.com/debian)  
-
-GitHub, Heroku, AWS SSH and SSH Keys
-*   [GitHub SSH](https://github.com/settings/ssh)  
-*   [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
-*   [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
-*   [AWS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)  
-
-Amazon
-*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
-
-Amazon Web Services
-*   [Amazon Web Services](http://aws.amazon.com)  
-*   [AWS Marketplace](https://aws.amazon.com/marketplace)  
-*   [AWS Developer Tools](https://aws.amazon.com/developertools)  
-*   [AWS Tools](http://aws.amazon.com/tools)  
-*   [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices)   
-
-AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Reference
-*   [AWS Regions](http://aws.amazon.com/articles/3912)  
-*   [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
-*   [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
-*   [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
-*   [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
-*   [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)  
-*   [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html)  
-
-Amazon Web Services- Lambda
-*   [AWS Lambda](http://aws.amazon.com/lambda)  
-*   [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
-
-Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
-*   [Heroku](https://www.heroku.com)  
-*   [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
-*   [Heroku GitHub](https://github.com/heroku/heroku)  
-*   [Heroku Dev Center](https://devcenter.heroku.com)  
-*   [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
-*   [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-*   [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
-
-Heroku- Buildpacks (Other than Node.js and Python)
-*   [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
-*   [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
-*   [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
-
-Heroku Multiple Environments and Site Staging
-*   [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-*   [Heroku Example Site Staging- Broken Link](http://example-site-staging.herokuapp.com)  
-*   [Staging Code on Heroku GitHub](https://github.com/digitalpulp/developer-handbook/wiki/Staging-code-on-heroku)  
-
-Digital Ocean (VPS)
-*   [Digital Ocean Pricing](https://www.digitalocean.com/pricing)  
-*   [Digital Ocean Community](https://www.digitalocean.com/community)  
-
-Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
-*   [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
-*   [Dokku](http://progrium.viewdocs.io/dokku/index)  
-*   [Dokku GitHub](https://github.com/progrium/dokku)  
-*   [Deis](http://deis.io)  
-*   [Deis GitHub](https://github.com/deis/deis)  
-
-Google Cloud and App Engine
-*   [Google Cloud Products](https://cloud.google.com/products)  
-*   [Google Cloud Solutions](https://cloud.google.com/solutions)  
-*   [Google Cloud Developers](https://cloud.google.com/developers)  
-*   [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html)  
-*   [Google App Engine](https://developers.google.com/appengine)  
-*   [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
-*   [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
-*   [Google App Engine Code](http://code.google.com/p/googleappengine)  
-*   [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
-*   [Google Apps for Work](https://www.google.com/a/signup)  
-
-Nitrous (IDE)
-
-*   [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
-*   [Nitrous.IO GitHub](https://github.com/nitrous-io)
-
-Docker
-*   [Docker](https://www.docker.com)  
-*   [Docker GitHub](https://github.com/dotcloud/docker)  
-*   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
-
-Cross Platform Dev Environment
-*   [Bowery](http://bowery.io)  
-*   [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
-
-Content Delivery Network
-*   [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network)  
-*   [MAXCDN](https://www.maxcdn.com) 
-
-#### Learning to Program Resources
+#### Programming Languages, MVCs
 
 Programming and Math Learning Tools
 *   [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
@@ -1858,8 +1772,6 @@ Documentation
 
 Great Unsolved Problems in Computer Science
 *   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
-
-#### More Programming Languages, MVCs
 
 Programming Languages- General
 *   [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
@@ -2017,66 +1929,152 @@ Wikitech Development
 *   [Wikitech Account](https://wikitech.wikimedia.org/wiki/Special:Preferences)  
 *   [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git)  
 
-#### Unix and Linux
+#### Deployment and Cloud
 
-Unix
-*   [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-*   [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
-*   [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
-*   [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-*   [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
+IANA, Domize, DNSimple, Heroku
+*   [Internet Assigned Numbers Authority](http://www.iana.org)
+*   [Domize](http://domize.com)  
+*   [DNSimple](https://dnsimple.com)  
+*   [DNSimple New Domain](https://dnsimple.com/domains/new)  
+*   [DNSimple Account Subscription](https://dnsimple.com/account/subscription/new)  
+*   [DNSimple Heroku](https://dnsimple.com/services-heroku)  
+*   [Heroku SSL Certificate DNSimple](https://devcenter.heroku.com/articles/ssl-certificate-dnsimple)  
+*   [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)  
+*   [DNSimple SSL Certifcate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)  
+*   [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
 
-Unix Shell
-*   [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-*   [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
-*   [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
-*   [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-*   [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
+Heroku SSL Endpoint, SSL Self Certification, Custom Domains
+*   [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
+*   [Heroku SSL Self Certification](https://devcenter.heroku.com/articles/ssl-certificate-self)  
+*   [Heroku Custom Domains](https://devcenter.heroku.com/articles/custom-domains)  
 
-Linux
-*   [Linux](http://www.linux.org)  
-*   [Canonical](http://www.canonical.com)  
-*   [Linux Foundation](http://www.linuxfoundation.org)  
-*   [Linux.com](http://www.linux.com)  
-*   [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
-*   [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
-*   [Linux GitHub](https://github.com/torvalds/linux)  
-*   [Linux in a Nutshell](http://it-ebooks.info/book/403)  
-*   [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)  
-*   [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
-*   [Linux Journal](http://www.linuxjournal.com)  
+Namecheap
+*   [Namecheap](https://www.namecheap.com)  
+*   [Namecheap SSL Certificate Wildcard](https://www.namecheap.com/security/ssl-certificates/comodo/positivessl-wildcard.aspx)  
 
-Linux- Ubuntu (Debian)
-*   [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
-*   [Ubuntu](http://www.ubuntu.com)  
-*   [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))  
- 
-Linux- Ubuntu Dual Boot
-*   [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
-*   [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
-*   [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
+DNS
+*   [Amazon Route 53](http://aws.amazon.com/route53)  
 
-Ubuntu Terminal, Command Line, and Aptget
-*   [Linux Command](http://linuxcommand.org)  
-*   [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
-*   [Ubuntu Aptget](https://help.ubuntu.com/community/AptGet/Howto)  
-*   [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
+Cloud Computing- General
+*   [Cloud Computing Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing)  
 
-Ubuntu- + Programs
-*   [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
-*   [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
-*   [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
-*   [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
+IaaS- General and Alternatives to AWS
+*   [IaaS](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29)  
+*   [IaaS Service Models](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Service_models)  
+*   [Joyent](http://www.joyent.com)  
+*   [Rackspace Cloud](http://www.rackspace.com)  
 
-Linux- Other Popular Distributions
-*   [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
-*   [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
-*   [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
-*   [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
-*   [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
-*   [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
-*   [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
-*   [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
+PaaS- General and Alternatives to Heroku (including Google App Engine)
+*   [PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service)  
+*   [DotCloud](https://www.dotcloud.com)  
+
+SaaS- General and Alternatives to GoogleApps
+*   [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
+
+Ubuntu (Debian) Deployment
+*   [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
+*   [AWS Ubuntu](https://help.ubuntu.com/community/EC2StartersGuide)  
+*   [AWS Ubuntu Server 14.04 LTS (HVM)](https://aws.amazon.com/marketplace/pp/B00JV9TBA6/ref=gtw_msl_title?ie=UTF8&amp;amp;amp;pf_rd_r=03MSJ27P1BFT09163JEP&amp;amp;amp;pf_rd_m=A33KC2ESLMUT5Y&amp;amp;amp;pf_rd_t=101&amp;amp;amp;pf_rd_i=awsmp-gateway-1&amp;amp;amp;pf_rd_p=1841533842&amp;amp;amp;pf_rd_s=right-3)  
+*   [Heroku Ubuntu](https://toolbelt.heroku.com/debian)  
+
+GitHub, Heroku, AWS SSH and SSH Keys
+*   [GitHub SSH](https://github.com/settings/ssh)  
+*   [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
+*   [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
+*   [AWS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)  
+
+Amazon
+*   [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+
+Amazon Web Services
+*   [Amazon Web Services](http://aws.amazon.com)  
+*   [AWS Marketplace](https://aws.amazon.com/marketplace)  
+*   [AWS Developer Tools](https://aws.amazon.com/developertools)  
+*   [AWS Tools](http://aws.amazon.com/tools)  
+*   [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices)   
+
+AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Reference
+*   [AWS Regions](http://aws.amazon.com/articles/3912)  
+*   [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
+*   [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
+*   [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
+*   [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
+*   [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)  
+*   [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html)  
+
+Amazon Web Services- Lambda
+*   [AWS Lambda](http://aws.amazon.com/lambda)  
+*   [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
+
+Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
+*   [Heroku](https://www.heroku.com)  
+*   [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
+*   [Heroku GitHub](https://github.com/heroku/heroku)  
+*   [Heroku Dev Center](https://devcenter.heroku.com)  
+*   [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
+*   [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+*   [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
+
+Heroku- Buildpacks (Other than Node.js and Python)
+*   [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
+*   [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
+*   [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
+
+Heroku Multiple Environments and Site Staging
+*   [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+*   [Heroku Example Site Staging- Broken Link](http://example-site-staging.herokuapp.com)  
+*   [Staging Code on Heroku GitHub](https://github.com/digitalpulp/developer-handbook/wiki/Staging-code-on-heroku)  
+
+Digital Ocean (VPS)
+*   [Digital Ocean Pricing](https://www.digitalocean.com/pricing)  
+*   [Digital Ocean Community](https://www.digitalocean.com/community)  
+
+Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
+*   [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
+*   [Dokku](http://progrium.viewdocs.io/dokku/index)  
+*   [Dokku GitHub](https://github.com/progrium/dokku)  
+*   [Deis](http://deis.io)  
+*   [Deis GitHub](https://github.com/deis/deis)  
+
+Google Cloud and App Engine
+*   [Google Cloud Products](https://cloud.google.com/products)  
+*   [Google Cloud Solutions](https://cloud.google.com/solutions)  
+*   [Google Cloud Developers](https://cloud.google.com/developers)  
+*   [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html)  
+*   [Google App Engine](https://developers.google.com/appengine)  
+*   [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
+*   [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
+*   [Google App Engine Code](http://code.google.com/p/googleappengine)  
+*   [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
+*   [Google Apps for Work](https://www.google.com/a/signup)  
+
+Nitrous (IDE)
+
+*   [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
+*   [Nitrous.IO GitHub](https://github.com/nitrous-io)
+
+Docker
+*   [Docker](https://www.docker.com)  
+*   [Docker GitHub](https://github.com/dotcloud/docker)  
+*   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
+
+Cross Platform Dev Environment
+*   [Bowery](http://bowery.io)  
+*   [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
+
+Content Delivery Network
+*   [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network)  
+*   [MAXCDN](https://www.maxcdn.com) 
+
+#### Testing
+
+*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+*   [AWS Device Farm](https://aws.amazon.com/device-farm)
+*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+*   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
+*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+*   [Optimizely](https://www.optimizely.com) and [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)  
 
 #### Databases
 
