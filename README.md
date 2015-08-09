@@ -36,6 +36,7 @@ Table of Contents
 - [Project Management](#project-management)
   - [Project Management Tools](#project-management-tools)
 - [Research and Design Sprints](#research-and-design-sprints)
+  - [Basics](#basics)
   - [Government Digital](#government-digital)
   - [Google Ventures Research Sprint](#google-ventures-research-sprint)
   - [Google Ventures Design Sprint](#google-ventures-design-sprint)
@@ -882,6 +883,17 @@ Process Improvement
 
 ### Research and Design Sprints
 
+#### Basics
+
+Heuristic
+*   [Heuristic Wikipedia](http://en.wikipedia.org/wiki/Heuristic) and [Heuristic (Computer Science) Wikipedia](http://en.wikipedia.org/wiki/Heuristic_(computer_science)) 
+
+User Centered Design, User Experience, Usability
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
+*   [Usability Wikipedia](https://en.wikipedia.org/wiki/Usability_testing)
+*   [W3 Standards](http://www.w3.org/standards) and [W3 Web Accessibility Initiative](http://www.w3.org/WAI)
+*   [WAI Site Usability Testing Questions](http://www.w3.org/WAI/EO/Drafts/UCD/questions.html) and [See Also: Usability Gov](http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html)
+
 #### Government Digital
 
 Australia
@@ -1002,12 +1014,6 @@ Thoughtbot Version
 *   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html), [Google Material Lite](http://www.getmdl.io/components/index.html), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0)
 
 #### More Research and Design Toolkits
-
-User Centered Design, User Experience, Usability
-*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
-*   [Usability Wikipedia](https://en.wikipedia.org/wiki/Usability_testing)
-*   [W3 Standards](http://www.w3.org/standards) and [W3 Web Accessibility Initiative](http://www.w3.org/WAI)
-*   [WAI Site Usability Testing Questions](http://www.w3.org/WAI/EO/Drafts/UCD/questions.html) and [See Also: Usability Gov](http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html)
 
 Games
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
