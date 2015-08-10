@@ -3291,6 +3291,7 @@ Laws, Theories, Logic
 *   [Gall's Law Wikipedia](http://en.wikipedia.org/wiki/John_Gall_%28author%29#Gall.27s_law)   
 *   [Joy's Law Wikipedia](http://en.wikipedia.org/wiki/Joy%27s_Law_%28management%29)  
 *   [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_Effect) 
+*   [Magical Thinking Wikipedia](https://en.wikipedia.org/wiki/Magical_thinking)
 *   [Matthew Effect Wikipedia](http://en.wikipedia.org/wiki/Matthew_effect)  
 *   [Memory Hole Wikipedia](http://en.wikipedia.org/wiki/Memory_hole)  
 *   [Metcalf's Law Wikipedia](http://en.wikipedia.org/wiki/Metcalfe%27s_law)  
