@@ -3309,6 +3309,7 @@ Laws, Theories, Logic
 *   [Simpson's Paradox Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 *   [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
 *   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
+*   [Stockdale Paradox Wikipedia](https://en.wikipedia.org/wiki/James_Stockdale#Prisoner_of_war)
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
 *   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 *   [Tiebout Model Wkipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
