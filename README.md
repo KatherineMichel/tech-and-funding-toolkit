@@ -3241,6 +3241,7 @@ Finance and Investment Terms
 *   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
 *   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
 *   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
+*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
 *   [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
