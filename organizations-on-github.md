@@ -1,6 +1,21 @@
 # Organizations on GitHub
 
+## Government
+
+U.S.
  [18F](https://github.com/18F)  
+ [Code for America](https://github.com/codeforamerica)  
+ [Open Gov](https://github.com/opengov)  
+ [U.S. Aid](https://github.com/USAID)
+ [U.S. Department of Labor](https://github.com/USDepartmentofLabor)  
+ [U.S. General Services Administration](https://github.com/GSA) 
+ [WhiteHouse](https://github.com/WhiteHouse)  
+ 
+U.K.
+ [U.K. Gov](https://github.com/alphagov)
+ [Data Gov U.K.](https://github.com/datagovuk) 
+ 
+## Other
  [23andMe](https://github.com/23andMe)  
  [37Signals](https://github.com/37signals)  
  [AddThis](https://github.com/addthis)  
@@ -32,7 +47,6 @@
  [Chartbeat Labs](https://github.com/chartbeat-labs)  
  [Cloudera](https://github.com/cloudera)  
  [Codecademy](https://github.com/Codecademy)  
- [Code for America](https://github.com/codeforamerica)  
  [CoinApps](https://github.com/CoinApps)  
  [Coinbase](https://github.com/coinbase)  
  [Comcast](https://github.com/Comcast)  
@@ -41,7 +55,6 @@
  [craigslist](https://github.com/craigslist)  
  [Crowdtilt](https://github.com/Crowdtilt)  
  [Data Desk](https://github.com/datadesk)  
- [Data Gov U.K.](https://github.com/datagovuk)  
  [Digg](https://github.com/digg)  
  [Disqus](https://github.com/disqus)  
  [Dropbox](https://github.com/dropbox)  
@@ -110,7 +123,6 @@
  [New York Times](https://github.com/NYTimes)  
  [NYT Labs](https://github.com/nytlabs)  
  [OKFN](https://github.com/okfn)  
- [Open Gov](https://github.com/opengov)  
  [Open Library](https://github.com/openstack)  
  [OpenStack](https://github.com/openstack)  
  [PayPal](https://github.com/paypal)  
@@ -160,10 +172,6 @@
  [Uber](https://github.com/uber)  
  [Udacity](https://github.com/udacity)  
  [Upworthy](https://github.com/upworthy) 
- [U.K. Gov](https://github.com/alphagov)
- [U.S. Aid](https://github.com/USAID)
- [U.S. Department of Labor](https://github.com/USDepartmentofLabor)  
- [U.S. General Services Administration](https://github.com/GSA) 
  [Vimeo](https://github.com/vimeo)  
  [Vine](https://github.com/vine)  
  [Vox Media](https://github.com/voxmedia)  
@@ -173,7 +181,6 @@
  [Washington Post](https://github.com/washingtonpost)  
  [Washington Times](https://github.com/washingtontimes)  
  [Watsi](https://github.com/watsi)  
- [WhiteHouse](https://github.com/WhiteHouse)  
  [WordPress](https://github.com/WordPress)  
  [WordPress Plugins](https://github.com/wp-plugins)  
  [Wikidata](https://github.com/wikidata)  
