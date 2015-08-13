@@ -1795,7 +1795,8 @@ JavaScript
 *   [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 *   [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 *   [Eloquent JS](http://eloquentjavascript.net)  
-*   [The Best Free JavaScript Resources](http://jsbooks.revolunet.com/)  
+*   [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+*   [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
 
 JavaScript Styleguide GitHub
 *   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
