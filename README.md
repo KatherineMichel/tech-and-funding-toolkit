@@ -926,6 +926,14 @@ Persuasive Technology
 
 #### Government Digital
 
+Government Code
+*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
+*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
+*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
+*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
+*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
+*   [United States Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+
 Australia
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 *   [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/service-design-process)
@@ -975,7 +983,7 @@ U.S. Gov
 *   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
 *   [18F](https://18f.gsa.gov), [18F GitHub](https://github.com/18F), [18F Guides](https://pages.18f.gov/guides), [18F Guides Template](https://pages.18f.gov/guides-template), and [18F Guides Template GitHub](https://github.com/18F/pages)
 *   [18F Grouplets](https://pages.18f.gov/grouplet-playbook)
-*   [18F Open Source Policy](https://github.com/18F/open-source-policy), [18F Analytics Standards](https://github.com/18F/analytics-standards), and [18F API Standards](https://github.com/18f/api-standards)
+*   [18F Open Source Guide](https://pages.18f.gov/open-source-guide), [18F Open Source Policy](https://github.com/18F/open-source-policy), [18F Analytics Standards](https://github.com/18F/analytics-standards), and [18F API Standards](https://github.com/18f/api-standards)
 *   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
 *   [CIO Tech Federal Acquisition Regulation (FAR) Playbook](https://playbook.cio.gov/techfar), [CIO Tech Federal Acquisition Regulation (FAR) Playbook GitHub](https://github.com/WhiteHouse/playbook/blob/gh-pages/_includes/techfar-online.md), and [CIO Tech Federal Acquisition Regulation (FAR) Playbook PDF](https://playbook.cio.gov/assets/TechFAR%20Handbook_2014-08-07.pdf)
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
