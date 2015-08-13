@@ -623,6 +623,7 @@ Management Consulting Firms
 
 Think Tanks
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+*   [Startup Britain Resources](http://www.startupbritain.org/resources)
 
 ### Business Entity and and Regulation
 
