@@ -37,6 +37,7 @@ U.K.
 *   [BBC](https://github.com/bbc)  
 *   [BBC News](https://github.com/BBC-News)  
 *   [Behance](https://github.com/behance)  
+*   [Be My Eyes](https://github.com/bemyeyes)
 *   [Bitly](https://github.com/bitly)  
 *   [Bitcoin](https://github.com/bitcoin)  
 *   [Bloomberg](https://github.com/bloomberg)  
