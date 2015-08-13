@@ -3302,6 +3302,7 @@ Laws, Theories, Logic
 *   [Dunning–Kruger Effect Wikipedia](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
 *   [Echo Chamber Wikipedia](http://en.wikipedia.org/wiki/Echo_chamber_%28media%29)  
 *   [Ephemeralization Wikipedia](http://en.wikipedia.org/wiki/Ephemeralization)  
+*   [Eroom's Law]()
 *   [False Positive Wikipedia](http://en.wikipedia.org/wiki/False_positive)  
 *   [Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
 *   [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
