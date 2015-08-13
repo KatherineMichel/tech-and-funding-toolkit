@@ -1736,6 +1736,7 @@ Styleguides
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 *   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
 *   [Styleguide GitHub](https://github.com/styleguide) 
+*   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
 *   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
 *   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
 *   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
