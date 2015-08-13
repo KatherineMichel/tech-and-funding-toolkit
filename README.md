@@ -583,7 +583,8 @@ International Organizations Special Reports: Business and Competitiveness
 *   [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
 
 International Organizations Special Reports: Development
-*   [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index)  
+*   [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
+*   [Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
 *   [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
 *   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
 *   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
