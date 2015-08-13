@@ -2136,6 +2136,11 @@ Graph and Schema- General (See Also Facebook Open Graph)
 *   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
 *   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
 
+Cookies
+*   [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+*   [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+*   [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
+
 #### Testing and Performance
 
 *   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
