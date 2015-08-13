@@ -1101,15 +1101,6 @@ Responsive Design
 *   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
 *   [Responsive Design Examples](http://mediaqueri.es)  
 
-Styleguides
-*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-*   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-*   [Styleguide GitHub](https://github.com/styleguide) 
-*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
-*   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)  
-
 Design Publications
 
 *   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
@@ -1713,6 +1704,15 @@ Programming and Math Learning Tools
 *   [Skillshare](http://www.skillshare.com/classes)
 *   [W3 Web Development Tutorials](http://www.w3schools.com) 
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
+
+Styleguides
+*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+*   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+*   [Styleguide GitHub](https://github.com/styleguide) 
+*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
+*   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 
 Text Editor and Code Demonstration
 *   [Sublime Text Editor](http://www.sublimetext.com)
