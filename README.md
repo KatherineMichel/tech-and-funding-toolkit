@@ -433,6 +433,7 @@ Databases
 *   [GitHub Explore](https://github.com/explore) 
 *   [Mattermark](http://mattermark.com), [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), [Mattermark General and Administrative](http://mattermark.com/category/general-administrative), and [Mattermark API](https://mattermark.com/api)  
 *   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections) [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+*   [Tech EU Radar Online Database](http://radar.tech.eu) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
 
 Database Info and Benchmarking
 *   [AngelList Help](https://angel.co/help), AngelList Funds](https://angel.co/funds), [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads), [AngelList Jobs](https://angel.co/jobs)
@@ -1718,6 +1719,7 @@ Text Editor and Code Demonstration
 *   [Sublime Text Editor](http://www.sublimetext.com)
 *   [Atom GitHub](ttps://github.com/atom/atom)
 *   [JSFiddle](http://jsfiddle.net)
+*   [Codepen](http://codepen.io)
 
 Documentation
 *   [IBM Redbooks Homepage](http://www.redbooks.ibm.com) and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
