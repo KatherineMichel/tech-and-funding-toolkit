@@ -932,7 +932,8 @@ Government Code
 *   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
 *   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
 *   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
-*   [United States Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
 
 Australia
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
@@ -989,6 +990,7 @@ U.S. Gov
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
 *   [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
+*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov)
 
 Usability Gov
 *   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
