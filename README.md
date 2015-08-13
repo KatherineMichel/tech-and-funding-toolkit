@@ -1480,6 +1480,7 @@ Unix
 *   [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 *   [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
 *   [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+*   [Filesystem Hierarchy Standard](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 *   [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
 Unix Shell
@@ -1554,6 +1555,8 @@ GitHub
 *   [Showcases GitHub](https://github.com/showcases)  
 *   [Git Ignore GitHub](https://github.com/github/gitignore)  
 *   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
+*   [GitHub DCMA](https://github.com/github/dmca)
+*   [Octokit](https://github.com/octokit) 
 
 GitHub Services Integration
 *   [Service Hooks GitHub](https://github.com/github/github-services)  
@@ -1564,6 +1567,7 @@ Markdown
 *   [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
 *   [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
 *   [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+*   [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
 
 Git Learning Resources
 *   [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
@@ -1758,7 +1762,7 @@ Miscellaneous Programming Languages
 *   [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
 *   [OCaml](http://ocaml.org)  
 *   [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
-*   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/mozilla/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
+*   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 
 Ruby
 *   [Ruby](https://www.ruby-lang.org/en/)  
