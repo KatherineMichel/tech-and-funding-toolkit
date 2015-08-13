@@ -1740,6 +1740,7 @@ Programming Languages- General
 *   [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 *   [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
 *   [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+*   [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
 
 Miscellaneous Programming Languages
 *   [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
