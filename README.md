@@ -1052,7 +1052,12 @@ Thoughtbot Version
 *   [Google Design](http://www.google.com/design/#resources)  
 *   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google Material Design
 *   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Lite Components](http://www.getmdl.io/components/index.html), [Google Material Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+Polymer
+*   [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
 
 #### More Research and Design Toolkits
 
