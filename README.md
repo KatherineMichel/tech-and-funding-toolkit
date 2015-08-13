@@ -269,6 +269,7 @@ Angel and VC Firm Resources
 *   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 *   [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), and [First Round 2005-2015](http://10years.firstround.com)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
+*   [Google Capital](http://www.googlecapital.com)
 *   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [Homebrew Companies](http://www.homebrew.co/#companies)
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
@@ -990,7 +991,7 @@ U.S. Gov
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
 *   [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
-*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov)
+*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov) and [Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
 
 Usability Gov
 *   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
@@ -2071,10 +2072,16 @@ Content Delivery Network
 Apple- Swift
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))  
 
+Tools
+*   [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
+
 Mobile World Congress
 *   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
 
 #### Social Media and Social Graph
+
+RRSSB
+*   [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
 
 Apple
 *   [Apple Developer](https://developer.apple.com)
