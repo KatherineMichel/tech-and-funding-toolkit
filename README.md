@@ -1104,6 +1104,9 @@ Responsive Design
 Styleguides
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 *   [Styleguide GitHub](https://github.com/styleguide) 
+*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
+*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)  
 
 Design Publications
 
