@@ -703,6 +703,12 @@ Document Libraries
 *   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
 
+Financial Modelling
+*   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Example Models](http://www.bestpracticemodelling.com/downloads/example_models), and [Best Practice Modelling Interactive Training](http://www.bestpracticemodelling.com/training/best_practice)  
+*   [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+*   [Spreadsheet Standards Review Board](http://www.ssrb.org)  
+*   [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
+
 How to Read A Finacial Report
 *   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
 
