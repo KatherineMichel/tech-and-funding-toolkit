@@ -1484,6 +1484,13 @@ Unix
 *   [Filesystem Hierarchy Standard](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 *   [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
+Terms
+*   [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
+*   [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
+*   [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
+*   [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
+*   [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
+
 Unix Shell
 *   [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
 *   [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
