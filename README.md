@@ -2464,7 +2464,7 @@ Dot Files
 *   [Dotfiles](http://dotfiles.github.io)  
 *   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
 
-STartup Class Dotfiles and AWS EC2 Setup
+Startup Class Dotfiles and AWS EC2 Setup
 *   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
 *   [Course EC2 Setup](https://github.com/startup-class/setup)  
 *   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh)  
@@ -2607,6 +2607,10 @@ Testing Frameworks
 Event Tracking
 *   [EventHub Cross Device Event Tracking GitHub](https://github.com/Codecademy/EventHub)  
 *   [EventHub Client GitHub](https://github.com/Codecademy/EventHubClient)  
+
+Typeahead and Awesomeplete
+*   [Typeahead.js GitHub](https://github.com/twitter/typeahead.js)
+*   [Awesomeplete GitHub](https://github.com/LeaVerou/awesomplete)
 
 #### Big Data
 
