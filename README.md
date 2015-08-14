@@ -260,7 +260,7 @@ Lists of VC Firms and Accelerators
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
 Angel and VC Firm Resources
-*   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+*   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Seeds](http://a16z.com/seeds), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Bessemer Venture Partners Blog](http://www.bvp.com/blog) and [Bessemer Venture Partners Anti-Portfolio](http://www.bvp.com/portfolio/antiportfolio)
@@ -301,7 +301,8 @@ Federal
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
-Berkshire Hathaway
+Alphabet and Berkshire Hathaway
+*   [Alphabet](https://abc.xyz)
 *   [Berkshire Hathaway](http://www.berkshirehathaway.com)  
 *   [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
 *   [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
@@ -2612,6 +2613,9 @@ Typeahead and Awesomeplete
 *   [Typeahead.js GitHub](https://github.com/twitter/typeahead.js)
 *   [Awesomeplete GitHub](https://github.com/LeaVerou/awesomplete)
 
+Cron
+*   [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+
 #### Big Data
 
 Big Data- Lambda Architecture
@@ -3213,6 +3217,7 @@ Python- Django- Pinax
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
 *   [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
+*   [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
 *   [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
 *   [Jeff Bezos Regret Minimization Framework via Bijan Sabet](http://bijansabet.com/post/147533511/jeff-bezos-regret-minimization-framework)
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
