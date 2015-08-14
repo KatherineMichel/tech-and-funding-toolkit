@@ -1374,7 +1374,7 @@ Popular Tools
 *   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
 *   [Intercom Blog](http://blog.intercom.io)
 *   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-*   [Moz](http://moz.com) and [Moz Tools](http://moz.com/tools) 
+*   [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
 *   [URX Blog](http://blog.urx.com/urx-blog) 
 
 Digital Novel
