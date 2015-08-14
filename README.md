@@ -63,6 +63,7 @@ Table of Contents
 - [Web Dev and Design](#web-dev-and-design)
   - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
+  - [Open Source Management](#open-source-management)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   - [Designer and Developer General](#designer-and-developer-general)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
@@ -1620,6 +1621,10 @@ GitHub Alternatives
 *   [Sourceforge](http://sourceforge.net)  
 *   [Codebase](https://www.codebasehq.com)  
 
+#### Open Source Management
+
+*   [Open Source Management at Docker](https://github.com/docker/opensource)
+
 #### Mojombo Chromebook Recommendation
 
 *   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
@@ -1822,7 +1827,7 @@ Rails, Jekyll- Preferred Templates and Documents
 *   [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
 *   [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
 *   [Jekyll GitHub](https://github.com/jekyll/jekyll)  
-*   [Jekyll Bootstrap (Clone repo) (Example Website) GitHub](https://github.com/plusjade/jekyllbootstrap.com)  
+*   [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap) and [Jekyll Bootstrap Website (Clone repo) (Example Website) GitHub](https://github.com/plusjade/jekyllbootstrap.com)  
 
 JavaScript
 *   [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
