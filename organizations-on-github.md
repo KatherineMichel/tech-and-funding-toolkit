@@ -76,6 +76,7 @@ U.K.
 *   [Facebook](https://github.com/facebook)  
 *   [Facebook Archive](https://github.com/facebookarchive)  
 *   [Facebook Platform Samples](https://github.com/fbsamples)  
+*   [Fasholista](https://github.com/Fashiolista)
 *   [Food and Drug Administration (FDA)](https://github.com/FDA)  
 *   [Filament Group](https://github.com/filamentgroup)  
 *   [Financial Times](https://github.com/Financial-Times)  
