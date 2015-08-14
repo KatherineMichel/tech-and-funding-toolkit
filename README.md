@@ -1424,9 +1424,13 @@ Google Products, Office
 *   [Google Calendar](https://www.google.com/calendar) 
 *   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
 *   [Google Flights](https://www.google.com/flights)  
+*   [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
 *   [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
 *   [Google Translate](https://translate.google.com/?hl=en)  
 *   [Let Me Google that for You](http://lmgtfy.com) 
+
+API
+*   [Blockspring](https://www.blockspring.com)
 
 Email
 *   [MailChimp](http://mailchimp.com)
@@ -2181,7 +2185,7 @@ Yahoo and Bing- Developer, Webmaster, and Ads
 *   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
 *   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
 *   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
-*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://adcenter.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
 
 YouTube (Google)
 *   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
