@@ -577,6 +577,7 @@ International Organizations Reports and Data
 
 International Organizations Special Reports: Business and Competitiveness
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
+*   [International Innovation Index Wikipedia](https://en.wikipedia.org/wiki/International_Innovation_Index)
 *   [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
 *   [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
 *   [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
@@ -595,6 +596,10 @@ Social Entrepreneurship
 *   [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
 *   [Gages Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
 *   [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
+
+Happiness
+*   [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
+*   [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
 
 International Info
 *   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
