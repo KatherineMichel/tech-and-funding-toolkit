@@ -1113,9 +1113,9 @@ Miscellaneous
 *   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
 *   [LEGO® SERIOUS PLAY® Method](http://www.lego.com/en-us/seriousplay/the-method)
 *   [Service Design Tools](http://www.servicedesigntools.org/repository) and [Glossary](http://www.servicedesigntools.org/glossary)
-* [Strategyzer Workshop Toolkit](http://www.stattys.com/products.html?acc=e4da3b7fbbce2345d7772b0674a318d5&bannerid=3)
+*   [Strategyzer Workshop Toolkit](http://www.stattys.com/products.html?acc=e4da3b7fbbce2345d7772b0674a318d5&bannerid=3)
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
-* [Usability BOK](http://www.usabilitybok.org)
+*   [Usability BOK](http://www.usabilitybok.org)
 
 #### Design
 
