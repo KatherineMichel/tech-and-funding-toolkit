@@ -1839,6 +1839,9 @@ jQuery
 *   [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 *   [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
+JavaScript Facebook React
+*   [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+
 Golang, otherwise known as "Go"
 *   [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
 *   [Golang](http://golang.org)  
