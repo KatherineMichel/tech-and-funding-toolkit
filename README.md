@@ -89,10 +89,11 @@ Table of Contents
   - [Jekyll](#jekyll)
   - [Newspapers](#newspapers)
   - [Disqus](#disqus)
-- [Appendix](#appendix)
+- [General Resources](#general-resources)
   - [Philosophies, Milestones](#philosophies-milestones)
   - [Notable Interviews and Presentations](#notable-interviews-and-presentations)
   - [Notable Quotes](#notable-quotes)
+- [Appendix](#appendix)
   - [Other Enormous Tool Lists](#other-enormous-tool-lists)
   - [Vocabulary](#vocabulary)
 
@@ -3255,7 +3256,7 @@ ProPublica- News App and Data Style Guides
 *   [Disqus Python GitHub](https://github.com/disqus/disqus-python)  
 *   [Disqus Postgres GitHub](https://github.com/disqus/disqus-postgres)  
 
-### Appendix
+### General Resources
 
 #### Philosophies, Milestones
 
@@ -3316,6 +3317,8 @@ ProPublica- News App and Data Style Guides
 *   [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
 *   [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
 *   [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
+
+### Appendix
 
 #### Other Enormous Tool Lists
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
