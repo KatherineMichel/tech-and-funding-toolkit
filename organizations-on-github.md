@@ -6,6 +6,7 @@ U.S.
 
 *   [18F](https://github.com/18F)  
 *   [Code for America](https://github.com/codeforamerica)  
+*   [Consumer Financial Protection Bureau](https://github.com/cfpb)
 *   [Open Gov](https://github.com/opengov)  
 *   [Presidential Innovation Fellows](https://github.com/presidential-innovation-fellows)
 *   [U.S. Aid](https://github.com/USAID)
