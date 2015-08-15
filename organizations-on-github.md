@@ -62,6 +62,7 @@ U.K.
 *   [Crowdtilt](https://github.com/Crowdtilt)  
 *   [Data Desk](https://github.com/datadesk)  
 *   [Digg](https://github.com/digg)  
+*   [Digital Ocean](https://github.com/digitalocean)
 *   [Disqus](https://github.com/disqus)  
 *   [Dropbox](https://github.com/dropbox)  
 *   [Dwolla](https://github.com/dwolla)  
