@@ -63,7 +63,7 @@ Table of Contents
 - [Web Dev and Design](#web-dev-and-design)
   - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
-  - [Open Source Management](#open-source-management)
+  - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   - [Designer and Developer General](#designer-and-developer-general)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
@@ -1641,9 +1641,27 @@ GitHub Alternatives
 *   [Sourceforge](http://sourceforge.net)  
 *   [Codebase](https://www.codebasehq.com)  
 
-#### Open Source Management
+#### Open Source Management and Style Guides
 
+Open Source Management
 *   [Open Source Management at Docker](https://github.com/docker/opensource)
+
+Styleguides
+*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+*   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+*   [Styleguide GitHub](https://github.com/styleguide) 
+*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
+*   [Consumer Financial Protection Bureau Design Manual](https://github.com/cfpb/design-manual)
+*   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
+*   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+*   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
+*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
 #### Mojombo Chromebook Recommendation
 
@@ -1676,10 +1694,6 @@ Web General
 *   [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
 *   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 *   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
-*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
 DevCenter
 *   [DevCenter Website](DevCenter.me)  
@@ -1768,19 +1782,6 @@ Programming and Math Learning Tools
 *   [Skillshare](http://www.skillshare.com/classes)
 *   [W3 Web Development Tutorials](http://www.w3schools.com) 
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
-
-Styleguides
-*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-*   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-*   [Styleguide GitHub](https://github.com/styleguide) 
-*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
-*   [Consumer Financial Protection Bureau Design Manual](https://github.com/cfpb/design-manual)
-*   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
-*   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-*   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 
 Text Editor and Code Demonstration
 *   [Sublime Text Editor](http://www.sublimetext.com)
