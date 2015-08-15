@@ -941,6 +941,7 @@ Government Code
 *   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
 *   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
 *   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
+*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy) and [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual)
 *   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
 *   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
 *   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
