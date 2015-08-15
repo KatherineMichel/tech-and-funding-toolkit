@@ -3343,6 +3343,7 @@ General
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
+*   [Tacit Knowledge Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
 Finance and Investment Terms
