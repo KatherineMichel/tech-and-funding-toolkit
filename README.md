@@ -1978,6 +1978,10 @@ DNS
 Cloud Computing- General
 *   [Cloud Computing Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing)  
 
+Private Cloud
+*   [Convox](http://convox.com)
+*   [Librato](https://www.librato.com/heroku)
+
 IaaS- General and Alternatives to AWS
 *   [IaaS](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29)  
 *   [IaaS Service Models](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Service_models)  
