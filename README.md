@@ -3321,6 +3321,7 @@ General
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 *   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
+*   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
 *   [Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
