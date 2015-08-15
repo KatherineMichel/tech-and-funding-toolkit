@@ -194,7 +194,7 @@ Table of Contents
 *   [John Gruber](http://daringfireball.net)   
 *   [John Resig](http://ejohn.org/blog) 
 *   [Justin Kan](http://justinkan.com)
-*   [Kevin Kelly](http://kk.org/kk)
+*   [Kevin Kelly](http://kk.org/kk) and [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1)
 *   [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
 *   [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 *   [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)  
