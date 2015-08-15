@@ -1768,9 +1768,12 @@ Styleguides
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 *   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
 *   [Styleguide GitHub](https://github.com/styleguide) 
+*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
+*   [Consumer Financial Protection Bureau Design Manual](https://github.com/cfpb/design-manual)
 *   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
 *   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
 *   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
+*   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
 *   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
 *   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 
