@@ -962,6 +962,9 @@ Australian Government Department of Finance Archive
 *   [Australian Government Department of Finance Archive](http://www.finance.gov.au/archive)
 *   [Australian Government Department of Finance Archive Better Practice Checklists Guidance](http://www.finance.gov.au/archive/agimo-archive/better-practice-checklists-guidance) and [Australian Government Department of Finance Archive Better Practice Checklists](http://www.finance.gov.au/agimo-archive/better-practice-checklists) 
 
+BBC
+*   [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
+
 Estonian E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
 
@@ -1341,7 +1344,8 @@ Tools
 *   [Sandwich Video](http://sandwichvideo.com)
 
 Journalism Handbooks
-*   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
+*   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
+*   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
 *   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf)
 
 Journalism Style Guides 
