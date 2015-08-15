@@ -3266,6 +3266,7 @@ ProPublica- News App and Data Style Guides
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
 *   [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
+*   [Goods Matrix](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Features_of_goods.jpg/600px-Features_of_goods.jpg) via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
 *   [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
 *   [Jeff Bezos Regret Minimization Framework via Bijan Sabet](http://bijansabet.com/post/147533511/jeff-bezos-regret-minimization-framework)
