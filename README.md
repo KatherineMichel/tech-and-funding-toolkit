@@ -506,7 +506,7 @@ Business
 Tech
 *   [Recode](http://recode.net)
 *   [TechCrunch](http://techcrunch.com)
-*   [Tech EU](http://tech.eu)
+*   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
 *   [The Next Web](http://thenextweb.com)
 *   [Popular Mechanics](http://www.popularmechanics.com)
 
