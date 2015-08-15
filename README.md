@@ -261,7 +261,7 @@ Lists of VC Firms and Accelerators
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
 Angel and VC Firm Resources
-*   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Seeds](http://a16z.com/seeds), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+*   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Seeds](http://a16z.com/seeds), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Bessemer Venture Partners Blog](http://www.bvp.com/blog) and [Bessemer Venture Partners Anti-Portfolio](http://www.bvp.com/portfolio/antiportfolio)
