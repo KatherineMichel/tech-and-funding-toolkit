@@ -2111,6 +2111,9 @@ Tools
 Mobile World Congress
 *   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
 
+Miscellaneous
+*   [Launchkit](https://launchkit.io)
+
 #### Social Media and Social Graph
 
 RRSSB
