@@ -461,7 +461,7 @@ Wayback Machine
 *   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
 *   [Apple Store](http://store.apple.com/us)  and [Apple Store Charts](https://www.apple.com/itunes/charts)
 *   [Google Play](https://play.google.com) and [Google Play Top Apps](https://play.google.com/store/apps/top)  
-*   [Salesforce App Exchange](https://appexchange.salesforce.com)  
+*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
 *   [Chrome Web Store](https://chrome.google.com/webstore)
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 *   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
