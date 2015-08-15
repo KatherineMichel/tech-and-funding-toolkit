@@ -73,7 +73,7 @@ Table of Contents
   - [Testing and Performance](#testing-and-performance)
   - [Databases](#databases)
   - [SQL](#sql)
-  - [ASP](#asp)
+  - [.NET and ASP](#net-and-asp)
   - [Node.js and Related](#nodejs-and-related)
   - [More Command Line and Shell](#more-command-line-and-shell)
   - [Dot Files](#dot-files)
@@ -2318,8 +2318,14 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 *   [MySQL GitHub](https://github.com/twitter/mysql)  
 *   [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
  
-#### ASP
+#### .NET and ASP
 
+.NET
+*   [Microsoft.github.io](http://microsoft.github.io)  
+*   [Dotnet GitHub](https://github.com/dotnet)  
+*   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
+
+ASP
 *   [Active Server Pages Wikipedia](https://en.wikipedia.org/wiki/Active_Server_Pages)
 *   [ASP](http://www.asp.net), [ASP Downloads](http://www.asp.net/downloads), [ASP Home GitHub](https://github.com/aspnet/Home), [ASP Docs](http://docs.asp.net), and [ASP Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP Docker GitHub](https://github.com/aspnet/aspnet-docker)
@@ -2604,11 +2610,6 @@ VMware, Vagrant, VirtualBox
 *   [VagrantCloud](https://vagrantcloud.com)  
 *   [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
 *   [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox)  
-
-.NET
-*   [Microsoft.github.io](http://microsoft.github.io)  
-*   [Dotnet GitHub](https://github.com/dotnet)  
-*   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
 Chef and Puppet Labs
 *   [Chef GitHub](https://github.com/opscode/chef)  
