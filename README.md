@@ -2116,13 +2116,18 @@ Content Delivery Network
 Apple- Swift
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))  
 
+Android
+*   [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
+
 Tools
 *   [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
-
+*   [Genymotion](http://www.genymotion.com)  
+ 
 Mobile World Congress
 *   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
 
 Miscellaneous
+*   [Facebook Start](https://developers.facebook.com/products/fb-start) 
 *   [Launchkit](https://launchkit.io)
 
 #### Social Media and Social Graph
