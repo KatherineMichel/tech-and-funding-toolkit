@@ -3347,6 +3347,7 @@ General
 *   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
 *   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
 *   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
+*   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 *   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
