@@ -3073,8 +3073,8 @@ Stanford University Library
 *   [OpenBay GitHub](https://github.com/isohuntto/openbay)  
 
 #### Node
-Preferred Non-official Templates
 
+Preferred Non-official Templates
 *   [Hackathon-Starter GitHub](https://github.com/sahat/hackathon-starter)  
 *   [Satellizer GitHub](https://github.com/sahat/satellizer)  
 *   [Hackathon-Starter Companion- JS Recipes (Example Website) GitHub](https://github.com/sahat/jsrecipes)  
@@ -3088,7 +3088,6 @@ Preferred Non-official Templates
 *   [Skeleton (Problem starting Gulp; but nice page/file structure) GitHub](https://github.com/dstroot/skeleton)  
 
 Drupal
-
 *   [Drupal GitHub](https://github.com/drupal/drupal)  
 *   [Drupal Community](https://drupal.org/community)  
 
