@@ -579,7 +579,7 @@ International Organizations Reports and Data
 International Organizations Special Reports: Business and Competitiveness
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
 *   [International Innovation Index Wikipedia](https://en.wikipedia.org/wiki/International_Innovation_Index)
-*   [OECD Technology and Innovation](https://data.oecd.org/innovation-and-technology.htm)
+*   [OECD Innovation](http://www.oecd.org/innovation) and [OECD Technology and Innovation Data](https://data.oecd.org/innovation-and-technology.htm)
 *   [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
 *   [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
 *   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
@@ -990,6 +990,9 @@ U.K. Gov
 *   [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
 *   [Print Form Template](https://www.gov.uk/service-manual/assets/documents/print-forms/template-form.pdf)
 *   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), [Writing for U.K. Gov](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide), and [U.K. Government Style Guide A to Z](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
+
+U.K. Design Council
+*   [U.K. Design Council](http://www.designcouncil.org.uk)
 
 U.S. Gov
 *   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
