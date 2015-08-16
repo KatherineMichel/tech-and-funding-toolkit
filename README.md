@@ -1781,6 +1781,7 @@ Programming and Math Learning Tools
 *   [Project Euler](http://www.projecteuler.net)  
 *   [Project Euler Local](https://github.com/imsky/LocalEuler)  
 *   [Project Euler Problems](http://projecteuler.net/problems)  
+*   [Raspberry PI](http://www.raspberrypi.org)
 *   [Scratch (MIT)](https://scratch.mit.edu)
 *   [Skillshare](http://www.skillshare.com/classes)
 *   [W3 Web Development Tutorials](http://www.w3schools.com) 
