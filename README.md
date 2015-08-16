@@ -2123,12 +2123,20 @@ Android
 *   [Android Developer](http://developer.android.com/about/index.html) and [Google Developers Android](https://developers.google.com/android)  
 *   [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
 
+Emulator
+*   [Genymotion](http://www.genymotion.com) 
+
 Tools
 *   [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
-*   [Genymotion](http://www.genymotion.com)  
  
-Mobile World Congress
+Standards
 *   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
+
+IoT (including payments)
+*   [Arduino](http://www.arduino.cc)  
+*   [Estimote](http://estimote.com) and [Estimote GitHub](https://github.com/Estimote)
+*   [Radius Networks](http://developer.radiusnetworks.com) [Radius Networks GitHub](https://github.com/RadiusNetworks)
+*   [PayPal Beacon](https://www.paypal.com/us/webapps/mpp/beacon)  
 
 Miscellaneous
 *   [Facebook Start](https://developers.facebook.com/products/fb-start) 
