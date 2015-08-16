@@ -1328,6 +1328,7 @@ Templates
 *   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
 *   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
 *   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+*   [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
 *   [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
 
 #### Launch Strategies
