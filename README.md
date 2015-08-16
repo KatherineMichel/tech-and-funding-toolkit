@@ -2124,6 +2124,9 @@ Android
 *   [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
 *   [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
 
+IDE
+*   [Eclipse](http://www.eclipse.org) 
+
 Emulator
 *   [Genymotion](http://www.genymotion.com) 
 
