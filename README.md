@@ -3016,7 +3016,8 @@ Python- Django- Python Social Auth
 *   [Python Social Auth](https://github.com/omab/python-social-auth)  
 *   [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
 *   [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
-*   [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)  
+*   [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
+
 Python- Django- Search
 *   [Haystack](http://haystacksearch.org)  
 *   [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
