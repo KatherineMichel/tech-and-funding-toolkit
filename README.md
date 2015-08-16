@@ -2132,11 +2132,17 @@ Tools
 Standards
 *   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
 
-IoT (including payments)
+Internet of Things (including payments)
 *   [Arduino](http://www.arduino.cc)  
 *   [Estimote](http://estimote.com) and [Estimote GitHub](https://github.com/Estimote)
+*   [iBeacon Wikipedia](http://en.wikipedia.org/wiki/Ibeacon) 
 *   [Radius Networks](http://developer.radiusnetworks.com) [Radius Networks GitHub](https://github.com/RadiusNetworks)
 *   [PayPal Beacon](https://www.paypal.com/us/webapps/mpp/beacon)  
+
+Internet of Things- Geo-fencing
+*   [Geo-fence Wikipedia](http://en.wikipedia.org/wiki/Geo-fence)  
+*   [Google Geo-fences](https://developers.google.com/maps/documentation/tracks/geofences)  
+*   [Android Geo-fences](http://developer.android.com/training/location/geofencing.html)  
 
 Miscellaneous
 *   [Facebook Start](https://developers.facebook.com/products/fb-start) 
