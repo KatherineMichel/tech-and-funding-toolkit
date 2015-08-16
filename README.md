@@ -2130,6 +2130,12 @@ Emulator
 Tools
 *   [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
  
+Deep Linking
+*   [Deep Linking Wikipedia](http://en.wikipedia.org/wiki/Deep_linking)  
+*   [Applinks Documentation](http://applinks.org/documentation)  
+*   [Deeplink.me Documentation](https://www.deeplink.me)  
+*   [URXtech Developer Documentation](https://developers.urx.com) and [URXtech Documentation GitHub](https://github.com/URXtech)  
+
 Standards
 *   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
 
