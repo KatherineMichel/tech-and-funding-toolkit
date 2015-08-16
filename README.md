@@ -2140,7 +2140,11 @@ Deep Linking
 *   [URXtech Developer Documentation](https://developers.urx.com) and [URXtech Documentation GitHub](https://github.com/URXtech)  
 
 Standards
+*   [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
 *   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
+*   [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
+*   [W3.org](http://www.w3.org/Mobile) 
+*   [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language)  
 
 Internet of Things (including payments)
 *   [Arduino](http://www.arduino.cc)  
