@@ -2121,6 +2121,7 @@ Apple- Swift
 Android
 *   [Android.com](http://www.android.com), [Android GitHub](https://github.com/android), and [Android Wikipedia](http://en.wikipedia.org/wiki/Android_(operating_system))  
 *   [Android Developer](http://developer.android.com/about/index.html) and [Google Developers Android](https://developers.google.com/android)  
+*   [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
 *   [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
 
 Emulator
