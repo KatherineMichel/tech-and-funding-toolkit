@@ -1241,6 +1241,7 @@ Miscellaneous
 
 *   [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 *   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
+*   [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries)
 *   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 *   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 *   [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
@@ -3078,7 +3079,6 @@ Django Girls (Python- Django)
 *   [Django Girls Resources](https://github.com/DjangoGirls/resources)  
 
 18F and Peace Corps New Website (Python- Django)
-*   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards)  
 *   [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
 *   [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site)  
 
@@ -3221,6 +3221,9 @@ Drupal
 *   [Drupal Community](https://drupal.org/community)  
 
 #### Jekyll (based on Ruby)
+
+18F
+*   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
 
 U.K. Gov
 *   [U.K. Government Service Design Manual](https://github.com/alphagov/government-service-design-manual)
