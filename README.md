@@ -2154,6 +2154,7 @@ Internet of Things- Geo-fencing
 Miscellaneous
 *   [Facebook Start](https://developers.facebook.com/products/fb-start) 
 *   [Launchkit](https://launchkit.io)
+*   [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
 
 #### Social Media and Social Graph
 
