@@ -785,9 +785,10 @@ MOOCs
 *   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#) and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
 *   [Harvard University Online Learning](http://online-learning.harvard.edu) 
 *   [EdX](https://www.edx.org)  
+*   [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
 *   [Udacity](https://www.udacity.com)
 *   [Udemy](https://www.udemy.com)
-*   [NovoEd](https://novoed.com)  
+*   [NovoEd (Social Entrepreneurship)](https://novoed.com)  
 *   [University of Reddit](http://universityofreddit.com) 
 
 Google, Google Tech, and TED Talks
