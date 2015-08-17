@@ -88,7 +88,7 @@ Table of Contents
   - [Node.js](#nodejs)
   - [Jekyll](#jekyll)
   - [Government Code and Style Guides](#government-code-and-style-guides)
-  - [Newspapers](#newspapers)
+  - [Newspaper Code and Style Guides](#newspaper-code-and-style-guides)
   - [Disqus](#disqus)
 - [General Resources](#general-resources)
   - [Philosophies, Milestones](#philosophies-milestones)
@@ -1641,12 +1641,10 @@ GitHub Alternatives
 Open Source Management
 *   [Open Source Management at Docker](https://github.com/docker/opensource)
 
-Styleguides
+General Styleguides
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 *   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
 *   [Styleguide GitHub](https://github.com/styleguide) 
-*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
-*   [Consumer Financial Protection Bureau Design Manual](https://github.com/cfpb/design-manual)
 *   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
 *   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
 *   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
@@ -3228,7 +3226,8 @@ U.K. Gov
 
 U.S. 
 *   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
-*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy) and [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual)
+*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy)
+*   [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual) and [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
 *   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
 *   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
 *   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
@@ -3237,7 +3236,10 @@ U.S.
 Australia
 *   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
 
-#### Newspapers
+#### Newspaper Code and Style Guides
+
+BBC
+*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
 
 Guardian Frontend (Ruby, Rails, Scala, Play, Node)
 *   [Guardian Frontend Home](http://www.theguardian.com/uk?view=mobile)
