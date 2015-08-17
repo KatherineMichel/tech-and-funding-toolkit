@@ -81,12 +81,13 @@ Table of Contents
   - [Big Data](#big-data)
   - [Software Manuals and Documentation](#software-manuals-and-documentation)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
-- [Example Website Code](#example-website-code)
+- [Example Website Code and Style Guides](#example-website-code-and-style-guides)
   - [Python](#python) 
   - [Ruby, Rails](#ruby-rails)
   - [PHP](#php)
   - [Node.js](#nodejs)
   - [Jekyll](#jekyll)
+  - [Government Code and Style Guides](#government-code-and-style-guides)
   - [Newspapers](#newspapers)
   - [Disqus](#disqus)
 - [General Resources](#general-resources)
@@ -937,18 +938,6 @@ Persuasive Technology
 *   [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
 #### Government Digital
-
-Government Code
-*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
-*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
-*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
-*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
-*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy) and [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual)
-*   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
-*   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
-*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
-*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
-*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
 
 Australia
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
@@ -3034,7 +3023,7 @@ Python- Django- Forms
 *   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  
 *   [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
 
-### Example Website Code
+### Example Website Code and Style Guides
 
 #### Python Example Website Code
 
@@ -3223,13 +3212,30 @@ Drupal
 
 #### Jekyll (based on Ruby)
 
+#### Government Code and Style Guides
+
+GitHub Government 
+*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
+
 18F
+*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
 *   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
 
 U.K. Gov
-*   [U.K. Government Service Design Manual](https://github.com/alphagov/government-service-design-manual)
 *   [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
 *   [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
+*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
+
+U.S. 
+*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
+*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy) and [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual)
+*   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
+*   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
+*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
+
+Australia
+*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
 
 #### Newspapers
 
