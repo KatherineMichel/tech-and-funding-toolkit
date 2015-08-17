@@ -3243,6 +3243,10 @@ BBC
 
 Financial Times
 
+Guardian Developer
+*   [Guardian Developers GitHub](http://guardian.github.io/developers)
+*   [Guardian Developers](http://developers.theguardian.com) and [Guardian Developers Open Source](http://developers.theguardian.com/open-source.html)
+
 Guardian Frontend (Ruby, Rails, Scala, Play, Node)
 *   [Guardian Frontend Home](http://www.theguardian.com/uk?view=mobile)
 *   [Guardian Frontend Fonts GitHub](https://github.com/guardian/frontend-fonts) 
