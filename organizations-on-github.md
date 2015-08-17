@@ -131,6 +131,7 @@ U.K.
 *   [Justin.tv](https://github.com/justintv)  
 *   [Kickstarter](https://github.com/kickstarter)  
 *   [KISSmetrics](https://github.com/kissmetrics)  
+*   [Library of Congress](https://github.com/LibraryofCongress)
 *   [LinkedIn](https://github.com/linkedin)  
 *   [MailChimp](https://github.com/mailchimp)  
 *   [Mashable](https://github.com/mashable)  
