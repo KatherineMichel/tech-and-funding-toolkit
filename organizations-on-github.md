@@ -38,6 +38,7 @@ U.K.
 *   [AWS Labs](https://github.com/awslabs)  
 *   [BBC](https://github.com/bbc)  
 *   [BBC News](https://github.com/BBC-News)  
+*   [BBC News Labs](https://github.com/BBC-News-Labs)
 *   [Behance](https://github.com/behance)  
 *   [Be My Eyes](https://github.com/bemyeyes)
 *   [Bitly](https://github.com/bitly)  
