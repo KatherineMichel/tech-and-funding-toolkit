@@ -87,6 +87,7 @@ U.K.
 *   [Force.com](https://github.com/forcedotcom)  
 *   [Foursquare](https://github.com/foursquare)  
 *   [Freedom of Press](https://github.com/freedomofpress)  
+*   [FT Labs](https://github.com/ftlabs)
 *   [GitHub](https://github.com/github)  
 *   [GoDaddy](https://github.com/godaddy)  
 *   [Google](https://github.com/google)  
