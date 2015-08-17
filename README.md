@@ -3242,6 +3242,8 @@ BBC
 *   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
 
 Financial Times
+*   [Origami](http://origami.ft.com)
+*   [Origami Components](http://registry.origami.ft.com/components)
 
 Guardian Developer
 *   [Guardian Developers GitHub](http://guardian.github.io/developers)
