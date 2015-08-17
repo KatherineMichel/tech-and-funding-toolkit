@@ -2091,7 +2091,7 @@ Nitrous (IDE)
 *   [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
 Docker
-*   [Docker](https://www.docker.com)  
+*   [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 *   [Docker GitHub](https://github.com/dotcloud/docker)  
 *   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
