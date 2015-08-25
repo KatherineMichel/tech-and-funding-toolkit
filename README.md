@@ -3349,6 +3349,7 @@ ProPublica- News App and Data Style Guides
 *   [Strategy for Information Markets/Features of Goods Wikipedia](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Features_of_Goods) via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
+*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
