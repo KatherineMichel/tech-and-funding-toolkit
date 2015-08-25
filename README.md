@@ -847,6 +847,7 @@ MOOCs
 
 Unconscious Bias
 *   [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
+*   [Paradigm: Managing Unconscious Bias](https://app.box.com/s/bpk3v4umfbj8dkakepwvqpqt79y87tyt)
 
 ### Project Management
 
