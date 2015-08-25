@@ -1387,6 +1387,9 @@ Digital Novel
 *   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
 *   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
 
+Digital Stats
+*   [eMarketer](http://www.emarketer.com)
+
 #### Metrics
 
 *   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
