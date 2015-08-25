@@ -194,6 +194,7 @@ Table of Contents
 *   [John Battelle](http://battellemedia.com)   
 *   [John Gruber](http://daringfireball.net)   
 *   [John Resig](http://ejohn.org/blog) 
+*   [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
 *   [Justin Kan](http://justinkan.com)
 *   [Kevin Kelly](http://kk.org/kk) and [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1)
 *   [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
