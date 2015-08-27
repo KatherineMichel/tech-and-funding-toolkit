@@ -3416,6 +3416,7 @@ General
 *   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
 *   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
 *   [Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
+*   [Pareidolia Wikipedia](https://en.wikipedia.org/wiki/Pareidolia)
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
 *   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
