@@ -458,20 +458,23 @@ Wayback Machine
 
 #### App and Website Statistics
 
+*   [Apple Store](http://store.apple.com/us)
+*   [Google Play](https://play.google.com)
+*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+*   [Chrome Web Store](https://chrome.google.com/webstore)
+
+Apple and Google Statistics
+*   [Apple Store Charts](https://www.apple.com/itunes/charts)
+*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
+
+App and Website Statistics- General
 *   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
 *   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
 *   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-*   [Apple Store](http://store.apple.com/us)  and [Apple Store Charts](https://www.apple.com/itunes/charts)
-*   [Google Play](https://play.google.com) and [Google Play Top Apps](https://play.google.com/store/apps/top)  
-*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
-*   [Chrome Web Store](https://chrome.google.com/webstore)
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 *   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
 #### Business and Tech News Sources
-
-*   [PitchBook](http://blog.pitchbook.com) 
-*   [PE Hub](https://www.pehub.com)
 
 Companies
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
