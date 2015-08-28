@@ -3395,9 +3395,6 @@ ProPublica- News App and Data Style Guides
 *   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
-Tren Griffin and Charlie Munger
-*   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
-*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 *   [Strategy for Information Markets/Features of Goods Wikipedia](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Features_of_Goods) via [Tren Griffin](https://twitter.com/trengriffin)
 
 Human Emotion
@@ -3516,12 +3513,19 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 *   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
 *   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
 *   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
+*   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
 *   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
 *   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
 *   [Man with a Hammer Bias](https://twitter.com/trengriffin/status/635600100446728192)
 *   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
 *   [Social Proof Bias](https://twitter.com/trengriffin/status/636031049034653696)
 *   [Want it Now Bias](https://twitter.com/trengriffin/status/636719442760634368)
+
+Charlie Munger's 18 Biases
+*   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
