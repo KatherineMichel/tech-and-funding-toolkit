@@ -20,7 +20,7 @@ Table of Contents
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
   - [Unicorns](#unicorns)
   - [Company and Product Databases](#company-and-product-databases)
-  - [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
+  - [Companies, Industry and Product Classifications, Associations](#companies-industry-and-product-classfications-associations)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Analyst Groups](#analyst-groups)
   - [Government and International Data](#government-and-international-data)
@@ -466,7 +466,10 @@ Product/Service Directories
 Wayback Machine
 *   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
 
-#### Industry and Product Classifications, Associations
+#### Companies, Industry and Product Classifications, Associations
+
+Companies
+*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 
 *   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
 *   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
@@ -477,9 +480,6 @@ Associations
 *   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
 #### Business and Tech News Sources
-
-Companies
-*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 
 Business News
 *   [Bloomberg Business](http://www.bloomberg.com)  
