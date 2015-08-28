@@ -15,13 +15,12 @@ Table of Contents
   - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
   - [Events Lists](#events-lists)
 - [Venture Analysis](#venture-analysis)
-  - [Surveys and Trends](#surveys-and-trends)
+  - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
   - [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
   - [Unicorns](#unicorns)
   - [Company and Product Databases](#company-and-product-databases)
-  - [App and Website Statistics](#app-and-website-statistics)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Government and International Data](#government-and-international-data)
   - [Analyst Groups](#analyst-groups)
@@ -366,7 +365,7 @@ List
 *   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
-#### Surveys and Trends
+#### Surveys, Trends, Stats
 
 Surveys
 *   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
@@ -377,6 +376,17 @@ Google Insights and Trends
 *   [Google Insights](http://www.google.com/insights)
 *   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
 *   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
+Apple and Google Statistics
+*   [Apple Store Charts](https://www.apple.com/itunes/charts)
+*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
+
+App and Website Statistics- General
+*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
+*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
 #### Idea State Machine and Idea Maze
 
@@ -443,6 +453,12 @@ Databases and Benchmarking
 *   [Product Hunt Blog](http://blog.producthunt.com)
 *   [Tech EU Radar Online Database](http://radar.tech.eu) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
 
+Mobile and Browser
+*   [Apple Store](http://store.apple.com/us)
+*   [Google Play](https://play.google.com)
+*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+*   [Chrome Web Store](https://chrome.google.com/webstore)
+
 Database APIs
 *   [AngelList API](https://angel.co/api)
 *   [CrunchBase API](https://developer.crunchbase.com)
@@ -455,24 +471,6 @@ Product/Service Directories
 
 Wayback Machine
 *   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
-
-#### App and Website Statistics
-
-*   [Apple Store](http://store.apple.com/us)
-*   [Google Play](https://play.google.com)
-*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
-*   [Chrome Web Store](https://chrome.google.com/webstore)
-
-Apple and Google Statistics
-*   [Apple Store Charts](https://www.apple.com/itunes/charts)
-*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
-
-App and Website Statistics- General
-*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
-*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
-*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
-*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
 #### Business and Tech News Sources
 
