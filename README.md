@@ -442,7 +442,7 @@ Databases and Benchmarking- Freemium
 *   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
 *   [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), and [AngelList Salaries](https://angel.co/salaries)
 *   [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
-*   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
+*   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 *   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
 *   [GitHub Explore](https://github.com/explore) 
 *   [Makerbase](https://makerba.se)
