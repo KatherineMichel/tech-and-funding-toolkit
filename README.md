@@ -13,7 +13,7 @@ Table of Contents
   - [VC Theory](#vc-theory)
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
   - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
-  - [Events Lists](#events-lists)
+  - [Events, Talks, People](#events-talks-people)
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
@@ -328,9 +328,10 @@ Economists, Investors, Philosophers
 *   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
 *   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
-#### Events Lists
+#### Events, Talks, People
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 *   [Techmeme Events List](http://techmeme.com/events) 
+*   [Tech EU Events List](http://tech.eu/events)
 *   [500 Startups Events](http://500.co/events)
 *   [Startup School](http://www.startupschool.org)
 *   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
@@ -341,6 +342,18 @@ Economists, Investors, Philosophers
 *   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 *   [SXSW](http://sxsw.com) 
 *   [KC Addys](http://aafkc.com/addys)
+
+Google, Google Tech, and TED Talks
+*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
+*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks) 
+*   [TED Talks](http://www.ted.com/talks)  
+
+Shows
+*   [Founder Stories](http://techcrunch.com/video/founder-stories)
+*   [Heart Startup](http://hearstartup.com) 
+*   [Product Hunt Live](http://www.producthunt.com/live)
+*   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
+*   [This Week in Startups](http://thisweekinstartups.com)
 
 #### Venture Analysis
 
@@ -447,7 +460,7 @@ Blogs and Whatnot
 *   [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
 *   [Product Hunt Blog](http://blog.producthunt.com)
-*   [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
+*   [Tech EU Research](http://tech.eu/section/research) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
 
 Mobile and Browser
 *   [Apple Store](http://store.apple.com/us)
@@ -838,11 +851,6 @@ MOOCs
 *   [NovoEd (Social Entrepreneurship)](https://novoed.com)  
 *   [University of Reddit](http://universityofreddit.com) 
 
-Google, Google Tech, and TED Talks
-*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
-*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks) 
-*   [TED Talks](http://www.ted.com/talks)  
-
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 *   [Google Books](https://books.google.com)
@@ -859,12 +867,6 @@ Facebook and Google Research
 *   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
 *   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
 *   [Facebook Open Compute](http://www.opencompute.org)  
-
-Shows
-*   [Founder Stories](http://techcrunch.com/video/founder-stories)
-*   [Heart Startup](http://hearstartup.com) 
-*   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
-*   [This Week in Startups](http://thisweekinstartups.com)
 
 Because I Just Like It
 *   [PBS](http://www.pbs.org)
