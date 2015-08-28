@@ -22,7 +22,6 @@ Table of Contents
   - [Unicorns](#unicorns)
   - [Company and Product Databases](#company-and-product-databases)
   - [App and Website Statistics](#app-and-website-statistics)
-  - [Companies and Financials](#companies-and-financials)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Government and International Data](#government-and-international-data)
   - [Analyst Groups](#analyst-groups)
@@ -469,16 +468,13 @@ Wayback Machine
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 *   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
-#### Companies and Financials
+#### Business and Tech News Sources
 
 *   [PitchBook](http://blog.pitchbook.com) 
-*   [MarketWatch](http://www.marketwatch.com) 
 *   [PE Hub](https://www.pehub.com)
-*   [Wikinvest](http://www.wikinvest.com)
-*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-*   [Wealthfront Blog](https://blog.wealthfront.com)  
 
-#### Business and Tech News Sources
+Companies
+*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 
 Business News
 *   [Bloomberg Business](http://www.bloomberg.com)  
@@ -490,12 +486,15 @@ Business News
 *   [Inc.](http://www.inc.com)
 *   [New York Times Business](http://www.nytimes.com/pages/business/index.html, ), and [New York Times DealBook](http://dealbook.nytimes.com)
 *   [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+*   [Wealthfront Blog](https://blog.wealthfront.com) 
 
-Markets
+Markets and Finance
 *   [Google Finance](https://www.google.com/finance) 
 *   [Yahoo Finance](http://finance.yahoo.com)  
+*   [MarketWatch](http://www.marketwatch.com) 
 *   [Nasdaq](http://www.nasdaq.com)
 *   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
+*   [Wikinvest](http://www.wikinvest.com)
 
 Ivy League Business and Tech
 *   [Harvard Business Review](https://hbr.org) 
