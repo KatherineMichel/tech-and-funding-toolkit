@@ -488,21 +488,14 @@ Wayback Machine
 
 #### Business and Tech News Sources
 
-Directory of News Websites, Today's Front Pages, and NewsDiffs
-*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
-*   [Newseum Today's Front Pages](http://www.newseum.org/todaysfrontpages)
-*   [NewsDiffs](http://newsdiffs.org)
-
 Business
-*   [BBC](http://www.bbc.com)
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
 *   [Entreprener](http://www.entrepreneur.com)
 *   [Forbes](http://www.forbes.com)
 *   [Fortune](http://fortune.com)
 *   [Inc.](http://www.inc.com)
-*   [New York Times](http://www.nytimes.com)
-*   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+*   [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
 
 Ivy League Business and Tech
 *   [Harvard Business Review](https://hbr.org) 
@@ -516,6 +509,7 @@ Tech Aggregated
 *   [Reddit Technology](https://www.reddit.com/r/technology)
 
 Tech Periodical
+*   [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
 *   [Recode](http://recode.net)
 *   [TechCrunch](http://techcrunch.com)
 *   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
@@ -534,11 +528,15 @@ Leaderboard
 Nuzzel Custom Feeds
 *   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
 
-General News Sources
+General News Sources- High Brow
+*   [BBC](http://www.bbc.com)
+*   [New York Times](http://www.nytimes.com)
+*   [Wall Street Journal](http://www.wsj.com) and [Wall Street Journal Blog](http://blogs.wsj.com)
+
+Aggregated News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
 *   [Inside Top](https://www.inside.com/top)
-*   [Klout (including Topic Expertise)](https://klout.com/home)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Matthew Keys](http://matthewkeys.net)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
@@ -548,6 +546,14 @@ General News Sources
 *   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
+
+Directory of News Websites, Today's Front Pages, and NewsDiffs
+*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
+*   [Newseum Today's Front Pages](http://www.newseum.org/todaysfrontpages)
+*   [NewsDiffs](http://newsdiffs.org)
+
+People
+*   [Klout (including Topic Expertise)](https://klout.com/home)
 
 #### Government and International Data
 
