@@ -3461,7 +3461,6 @@ General
 *   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
 *   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
-*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 *   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
 *   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
 *   [Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
@@ -3509,6 +3508,8 @@ Finance and Investment Terms
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 
 Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
+*   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
 *   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
 *   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
 *   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
@@ -3525,6 +3526,7 @@ Charlie Munger's 18 Biases
 *   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
 
 Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 *   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 
 Laws, Theories, Logic  
