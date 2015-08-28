@@ -3513,9 +3513,11 @@ Finance and Investment Terms
 
 Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
-*   [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
-*   [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
+*   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
+*   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
+*   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
 *   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
+*   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
 
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
