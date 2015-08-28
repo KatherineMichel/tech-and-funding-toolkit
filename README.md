@@ -469,6 +469,7 @@ Unicorns
 Companies
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 
+Industry and Product Classifications
 *   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
 *   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
 *   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
