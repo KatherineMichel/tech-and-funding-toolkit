@@ -3517,6 +3517,7 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 *   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
 *   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
 *   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
+*   [Man with a Hammer Bias](https://twitter.com/trengriffin/status/635600100446728192)
 *   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
 
 Laws, Theories, Logic  
@@ -3546,7 +3547,8 @@ Laws, Theories, Logic
 *   [Is-Ought Problem Wikipedia](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)  
 *   [Gall's Law Wikipedia](http://en.wikipedia.org/wiki/John_Gall_%28author%29#Gall.27s_law)   
 *   [Joy's Law Wikipedia](http://en.wikipedia.org/wiki/Joy%27s_Law_%28management%29)  
-*   [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_Effect) 
+*   [Law of the Instrument Wikipedia](https://en.wikipedia.org/wiki/Law_of_the_instrument)
+*   [Lindy Effect Wikipedia](https://en.wikipedia.org/wiki/Lindy_Effect) 
 *   [Magical Thinking Wikipedia](https://en.wikipedia.org/wiki/Magical_thinking)
 *   [Matthew Effect Wikipedia](http://en.wikipedia.org/wiki/Matthew_effect)  
 *   [Memory Hole Wikipedia](http://en.wikipedia.org/wiki/Memory_hole)  
