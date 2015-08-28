@@ -429,12 +429,13 @@ Associations
 
 #### Company and Product Databases
 
-Databases
+Databases and Benchmarking
 *   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-*   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
+*   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [AngelList Help](https://angel.co/help), [AngelList Funds](https://angel.co/funds), [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads), [AngelList Jobs](https://angel.co/jobs)
+*   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 *   [Betalist](http://betalist.com) and [Betalist Markets](http://betalist.com/markets)
 *   [CB Insights](https://www.cbinsights.com), [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
-*   [CrunchBase](http://www.crunchbase.com), [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
+*   [CrunchBase](http://www.crunchbase.com), [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard), [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
 *   [Datafox](http://www.datafox.co), [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [GitHub Explore](https://github.com/explore) 
 *   [Makerbase](https://makerba.se)
@@ -443,11 +444,7 @@ Databases
 *   [Product Hunt Blog](http://blog.producthunt.com)
 *   [Tech EU Radar Online Database](http://radar.tech.eu) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
 
-Database Info and Benchmarking
-*   [AngelList Help](https://angel.co/help), AngelList Funds](https://angel.co/funds), [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads), [AngelList Jobs](https://angel.co/jobs)
-*   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph) and [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
-
-APIs
+Database APIs
 *   [AngelList API](https://angel.co/api)
 *   [CrunchBase API](https://developer.crunchbase.com)
 *   [Mattermark API](https://mattermark.com/api)  
@@ -511,6 +508,7 @@ Business
 
 Tech
 *   [Consumer Reports](http://www.consumerreports.org)
+*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [MIT Technology Review](http://www.technologyreview.com)
 *   [Popular Mechanics](http://www.popularmechanics.com)
 *   [Recode](http://recode.net)
@@ -521,10 +519,9 @@ Tech
 Leaderboard
 *   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
 
-Aggregated, Curated News Sources
+Aggregated, Curated General News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
-*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [Inside Top](https://www.inside.com/top)
 *   [Klout (including Topic Expertise)](https://klout.com/home)
 *   [Launch Ticker](https://www.launchticker.com)
