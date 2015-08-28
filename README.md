@@ -3508,9 +3508,12 @@ Finance and Investment Terms
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 
-Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
+Charlie Munger and Rational Decisions via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
 *   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
+*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
+
+Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
 *   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
 *   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
