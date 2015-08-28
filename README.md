@@ -416,35 +416,38 @@ Product Tiers
 
 #### Company and Product Databases
 
+Database List
+*   [AngelList](https://angel.co)
+*   [Betalist](http://betalist.com)
+*   [CB Insights](https://www.cbinsights.com)
+*   [CrunchBase](http://www.crunchbase.com)
+*   [Datafox](http://www.datafox.co)
+*   [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
+*   [Product Hunt](http://www.producthunt.com), 
+
 Databases and Benchmarking- Freemium
 *   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-*   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [AngelList Help](https://angel.co/help), [AngelList Funds](https://angel.co/funds), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads)
-*   [Betalist](http://betalist.com)
-*   [CrunchBase](http://www.crunchbase.com), [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
+*   [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), and [AngelList Salaries](https://angel.co/salaries)
+*   [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
+*   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 *   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
 *   [GitHub Explore](https://github.com/explore) 
 *   [Makerbase](https://makerba.se)
 *   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-*   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+*   [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+
+Europe and U.K.
+*   [AngelList U.K.](https://angel.co/uk)
 *   [Tech EU Radar Online Database](http://radar.tech.eu) 
 
-Markets and Regions
-*   [AngelList Markets](https://angel.co/markets)
-*   [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
-
 Blogs and Whatnot
-*   [AngelList Jobs](https://angel.co/jobs)
+*   [AngelList Jobs](https://angel.co/jobs) and [AngelList Help](https://angel.co/help)
 *   [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
 *   [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
 *   [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
 *   [Product Hunt Blog](http://blog.producthunt.com)
 *   [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
-
-Premium
-*   [CB Insights](https://www.cbinsights.com)
-*   [Datafox](http://www.datafox.co)
-*   [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
 
 Mobile and Browser
 *   [Apple Store](http://store.apple.com/us)
