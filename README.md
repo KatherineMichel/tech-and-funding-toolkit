@@ -430,25 +430,28 @@ Associations
 #### Company and Product Databases
 
 Databases
-*   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [AngelList API](https://angel.co/api), [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
-*   [Betalist](http://betalist.com)  
+*   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
+*   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
+*   [Betalist](http://betalist.com) and [Betalist Markets](http://betalist.com/markets)
 *   [CB Insights](https://www.cbinsights.com), [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
-*   [CrunchBase](http://www.crunchbase.com), [CrunchBase Sitemap](https://www.crunchbase.com/sitemap), and [CrunchBase API](https://developer.crunchbase.com)
-*   [Datafox](http://www.datafox.co), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
+*   [CrunchBase](http://www.crunchbase.com), [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
+*   [Datafox](http://www.datafox.co), [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 *   [GitHub Explore](https://github.com/explore) 
 *   [Makerbase](https://makerba.se)
-*   [Mattermark](http://mattermark.com), [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), [Mattermark General and Administrative](http://mattermark.com/category/general-administrative), and [Mattermark API](https://mattermark.com/api)  
-*   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections) [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+*   [Mattermark](http://mattermark.com), [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking) and [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), [Mattermark General and Administrative](http://mattermark.com/category/general-administrative), [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
+*   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+*   [Product Hunt Blog](http://blog.producthunt.com)
 *   [Tech EU Radar Online Database](http://radar.tech.eu) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
 
 Database Info and Benchmarking
 *   [AngelList Help](https://angel.co/help), AngelList Funds](https://angel.co/funds), [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads), [AngelList Jobs](https://angel.co/jobs)
-*   [Betalist Markets](http://betalist.com/markets)
 *   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph) and [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
-*   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
-*   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking) and [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-*   [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
-*   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
+
+APIs
+*   [AngelList API](https://angel.co/api)
+*   [CrunchBase API](https://developer.crunchbase.com)
+*   [Mattermark API](https://mattermark.com/api)  
+*   [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
 Product/Service Directories
 *   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
