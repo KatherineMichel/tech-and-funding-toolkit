@@ -507,12 +507,13 @@ Business
 *   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
 
 Tech
+*   [Consumer Reports](http://www.consumerreports.org)
 *   [MIT Technology Review](http://www.technologyreview.com)
+*   [Popular Mechanics](http://www.popularmechanics.com)
 *   [Recode](http://recode.net)
 *   [TechCrunch](http://techcrunch.com)
 *   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
 *   [The Next Web](http://thenextweb.com)
-*   [Popular Mechanics](http://www.popularmechanics.com)
 
 Leaderboard
 *   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
