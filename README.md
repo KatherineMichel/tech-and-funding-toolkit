@@ -1439,6 +1439,7 @@ Digital Stats
 
 #### Metrics
 
+*   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics)
 *   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
 *   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
