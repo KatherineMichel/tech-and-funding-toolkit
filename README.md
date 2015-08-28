@@ -509,16 +509,24 @@ Ivy League Business and Tech
 *   [MIT Sloan Review](http://sloanreview.mit.edu)
 *   [MIT Technology Review](http://www.technologyreview.com)
 
-Tech
-*   [Consumer Reports](http://www.consumerreports.org)
+Tech Aggregated
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-*   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
-*   [Popular Mechanics](http://www.popularmechanics.com)
+*   [Launch Ticker](https://www.launchticker.com)
 *   [Quora Technology](https://www.quora.com/Technology)
+*   [Reddit Technology](https://www.reddit.com/r/technology)
+
+Tech Periodical
 *   [Recode](http://recode.net)
 *   [TechCrunch](http://techcrunch.com)
 *   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
 *   [The Next Web](http://thenextweb.com)
+
+Tech Longform
+*   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
+
+Consumer Reports and Popular Mechanics
+*   [Consumer Reports](http://www.consumerreports.org)
+*   [Popular Mechanics](http://www.popularmechanics.com)
 
 Leaderboard
 *   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
@@ -531,7 +539,6 @@ General News Sources
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
 *   [Inside Top](https://www.inside.com/top)
 *   [Klout (including Topic Expertise)](https://klout.com/home)
-*   [Launch Ticker](https://www.launchticker.com)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Matthew Keys](http://matthewkeys.net)
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
