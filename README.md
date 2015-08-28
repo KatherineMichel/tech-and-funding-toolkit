@@ -561,6 +561,7 @@ Consumer Reports and Popular Mechanics
 *   [Popular Mechanics](http://www.popularmechanics.com)
 
 Leaderboard
+*   [REDEF Charts](http://redef.com/charts)
 *   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
 
 General News Sources- High Brow
@@ -579,7 +580,7 @@ Aggregated News Sources
 *   [Pocket](https://getpocket.com)
 *   [Quora](http://www.quora.com)
 *   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
-*   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
+*   [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
 Directory of News Websites, Today's Front Pages, and NewsDiffs
