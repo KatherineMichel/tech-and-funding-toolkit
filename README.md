@@ -504,9 +504,16 @@ Ivy League Business and Tech
 
 Tech Aggregated
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Inside Tech](https://www.inside.com/tech)
 *   [Launch Ticker](https://www.launchticker.com)
+*   [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
 *   [Quora Technology](https://www.quora.com/Technology)
 *   [Reddit Technology](https://www.reddit.com/r/technology)
+
+*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
+
+Nuzzel Custom Feeds
+*   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
 
 Tech Periodical
 *   [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
@@ -524,9 +531,6 @@ Consumer Reports and Popular Mechanics
 
 Leaderboard
 *   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
-
-Nuzzel Custom Feeds
-*   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
 
 General News Sources- High Brow
 *   [BBC](http://www.bbc.com)
@@ -565,7 +569,7 @@ Analyst Groups
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
 *   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+*   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
 *   [IDC](http://www.idc.com)
 *   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
