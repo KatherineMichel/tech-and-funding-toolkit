@@ -471,31 +471,31 @@ Wayback Machine
 
 #### Companies and Financials
 
-*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
-*   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
 *   [PitchBook](http://blog.pitchbook.com) 
-*   [Bloomberg](http://www.bloomberg.com)  
 *   [MarketWatch](http://www.marketwatch.com) 
 *   [PE Hub](https://www.pehub.com)
-*   [Google Finance](https://www.google.com/finance) 
-*   [Yahoo Finance](http://finance.yahoo.com)  
 *   [Wikinvest](http://www.wikinvest.com)
-*   [Nasdaq](http://www.nasdaq.com) and [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
+*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
-*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
-*   [Great Place to Work](http://www.greatplacetowork.com)
 
 #### Business and Tech News Sources
 
-Business
+Business News
+*   [Bloomberg Business](http://www.bloomberg.com)  
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
-*   [Entreprener](http://www.entrepreneur.com)
+*   [Entrepreneur](http://www.entrepreneur.com)
 *   [Forbes](http://www.forbes.com)
 *   [Fortune](http://fortune.com)
 *   [Inc.](http://www.inc.com)
+*   [New York Times Business](http://www.nytimes.com/pages/business/index.html, ), and [New York Times DealBook](http://dealbook.nytimes.com)
 *   [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+
+Markets
+*   [Google Finance](https://www.google.com/finance) 
+*   [Yahoo Finance](http://finance.yahoo.com)  
+*   [Nasdaq](http://www.nasdaq.com)
+*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
 
 Ivy League Business and Tech
 *   [Harvard Business Review](https://hbr.org) 
@@ -554,6 +554,10 @@ Directory of News Websites, Today's Front Pages, and NewsDiffs
 
 People
 *   [Klout (including Topic Expertise)](https://klout.com/home)
+
+Companies
+*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+*   [Great Place to Work](http://www.greatplacetowork.com)
 
 #### Government and International Data
 
@@ -3457,6 +3461,7 @@ Finance and Investment Terms
 *   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
 *   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
 *   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
+*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
 *   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
 *   [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
