@@ -18,12 +18,12 @@ Table of Contents
   - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-  - [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
   - [Unicorns](#unicorns)
   - [Company and Product Databases](#company-and-product-databases)
+  - [Industry and Product Classifications, Associations](#industry-and-product-classfications-associations)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
-  - [Government and International Data](#government-and-international-data)
   - [Analyst Groups](#analyst-groups)
+  - [Government and International Data](#government-and-international-data)
 - [Business Entity and and Regulation](#business-entity-and-regulation)
   - [Corporate Law](#corporate-law)
   - [Documents](#documents)
@@ -414,16 +414,6 @@ Pricing Strategies
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
-#### Industry and Product Classifications, Associations
-
-*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
 #### Unicorns
 
 *   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
@@ -471,6 +461,16 @@ Product/Service Directories
 
 Wayback Machine
 *   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
+
+#### Industry and Product Classifications, Associations
+
+*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
 #### Business and Tech News Sources
 
@@ -559,6 +559,28 @@ Companies
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 *   [Great Place to Work](http://www.greatplacetowork.com)
 
+#### Analyst Groups
+
+Analyst Groups
+*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
+*   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
+*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
+*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+*   [IDC](http://www.idc.com)
+*   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
+*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
+*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
+*   [PricewaterhouseCoopers](http://www.pwc.com) and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
+*   [RedMonk Twitter](https://twitter.com/redmonk)  
+*   [State of the Internet](http://www.stateoftheinternet.com)
+
+Management Consulting Firms
+*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
+
+Think Tanks
+*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+*   [Startup Britain Resources](http://www.startupbritain.org/resources)
+
 #### Government and International Data
 
 U.S. Departments
@@ -637,28 +659,6 @@ International Info
 *   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
 *   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
-
-#### Analyst Groups
-
-Analyst Groups
-*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
-*   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
-*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com) and [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
-*   [IDC](http://www.idc.com)
-*   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
-*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
-*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
-*   [PricewaterhouseCoopers](http://www.pwc.com) and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
-*   [RedMonk Twitter](https://twitter.com/redmonk)  
-*   [State of the Internet](http://www.stateoftheinternet.com)
-
-Management Consulting Firms
-*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
-
-Think Tanks
-*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
-*   [Startup Britain Resources](http://www.startupbritain.org/resources)
 
 ### Business Entity and and Regulation
 
