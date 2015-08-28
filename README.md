@@ -500,17 +500,21 @@ Business
 *   [Entreprener](http://www.entrepreneur.com)
 *   [Forbes](http://www.forbes.com)
 *   [Fortune](http://fortune.com)
-*   [Harvard Business review](https://hbr.org) 
 *   [Inc.](http://www.inc.com)
-*   [MIT Sloan Review](http://sloanreview.mit.edu)
 *   [New York Times](http://www.nytimes.com)
 *   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+
+Ivy League Business and Tech
+*   [Harvard Business Review](https://hbr.org) 
+*   [MIT Sloan Review](http://sloanreview.mit.edu)
+*   [MIT Technology Review](http://www.technologyreview.com)
 
 Tech
 *   [Consumer Reports](http://www.consumerreports.org)
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-*   [MIT Technology Review](http://www.technologyreview.com)
+*   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
 *   [Popular Mechanics](http://www.popularmechanics.com)
+*   [Quora Technology](https://www.quora.com/Technology)
 *   [Recode](http://recode.net)
 *   [TechCrunch](http://techcrunch.com)
 *   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
@@ -519,7 +523,10 @@ Tech
 Leaderboard
 *   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
 
-Aggregated, Curated General News Sources
+Nuzzel Custom Feeds
+*   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
+
+General News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
 *   [Inside Top](https://www.inside.com/top)
@@ -527,17 +534,13 @@ Aggregated, Curated General News Sources
 *   [Launch Ticker](https://www.launchticker.com)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Matthew Keys](http://matthewkeys.net)
-*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), and [Medium Highlights](https://medium.com/@ev/highlights)
-*   [Medium Backchannel](https://medium.com/backchannel), [Medium Matter](https://medium.com/matter), [Medium Message](https://medium.com/message) 
+*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
 *   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
 *   [Pocket](https://getpocket.com)
 *   [Quora](http://www.quora.com)
 *   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
 *   [Redef](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
-
-Nuzzel Custom Feeds
-*   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
 
 #### Government and International Data
 
