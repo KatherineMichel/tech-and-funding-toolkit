@@ -3511,6 +3511,12 @@ Finance and Investment Terms
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 
+Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
+*   [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
+*   [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
+*   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
+
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
 *   [List of Laws Wikipedia](http://en.wikipedia.org/wiki/List_of_laws) 
@@ -3519,7 +3525,6 @@ Laws, Theories, Logic
 *   [Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
 *   [Clark's Three Laws Wikipedia](http://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
 *   [Coase Theorem Wikipedia](http://en.wikipedia.org/wiki/Coase_theorem)  
-*   [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
 *   [Conway's Law Wikipedia](http://en.wikipedia.org/wiki/Conway%27s_law)   
 *   [Dunning–Kruger Effect Wikipedia](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
 *   [Echo Chamber Wikipedia](http://en.wikipedia.org/wiki/Echo_chamber_%28media%29)  
