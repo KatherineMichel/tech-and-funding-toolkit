@@ -3463,7 +3463,6 @@ Awesome Awesomeness
 
 General
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
-*   [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
 *   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
@@ -3580,9 +3579,9 @@ Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
 A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin)
 
 Business:
-Moats
+*   [Moat (Economic)](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
 Five Forces
-Brand
+*   [Brand Wikipedia](https://en.wikipedia.org/wiki/Brand)
 
 Accounting:
 Balance Sheet
@@ -3594,11 +3593,11 @@ Income Statement
 *   [Sunken Cost (Fallacy) Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 
 Economics:
-Agency Problem
-Asymmetric Information
-Behavioral Economics
-Cumulative Advantage
-Comparative Advantage
+*   [Agency Problem (Principal Agent Problem) Wikipedia](https://en.wikipedia.org/wiki/Principal-agent_problem)
+*   [Asymmetric Information Wikipedia](https://en.wikipedia.org/wiki/Information_asymmetry)
+*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+*   [Cumulative Advantage (Matthew Effect) Wikipedia](https://en.wikipedia.org/wiki/Matthew_effect)
+*   [Comparative Advantage Wikipedia](https://en.wikipedia.org/wiki/Comparative_advantage)
 Competitive Advantage
 Creative Destruction
 Diminishing Utility
@@ -3654,7 +3653,7 @@ Law of Large Numbers
 Mean, Median, Mode
 Normal Distribution
 Permutations
-Power Law
+*   [Power Law Wikipedia](https://en.wikipedia.org/wiki/Power_law)
 Regression Analysis
 Return to the Mean
 Scaling
@@ -3687,7 +3686,6 @@ Laws, Theories, Logic
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
 *   [List of Memory Biases Wikipedia](https://en.wikipedia.org/wiki/List_of_memory_biases)
 *   [List of Laws Wikipedia](http://en.wikipedia.org/wiki/List_of_laws) 
-*   [Power Law Wikipedia](https://en.wikipedia.org/wiki/Power_law)
 *   [Baumol's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
 *   [Benford's Law Wikipedia](http://en.wikipedia.org/wiki/Benford%27s_law)  
 *   [Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
@@ -3719,7 +3717,6 @@ Laws, Theories, Logic
 *   [Law of the Instrument Wikipedia](https://en.wikipedia.org/wiki/Law_of_the_instrument)
 *   [Lindy Effect Wikipedia](https://en.wikipedia.org/wiki/Lindy_Effect) 
 *   [Magical Thinking Wikipedia](https://en.wikipedia.org/wiki/Magical_thinking)
-*   [Matthew Effect Wikipedia](http://en.wikipedia.org/wiki/Matthew_effect)  
 *   [Memory Hole Wikipedia](http://en.wikipedia.org/wiki/Memory_hole)  
 *   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
 *   [Metcalf's Law Wikipedia](http://en.wikipedia.org/wiki/Metcalfe%27s_law)  
@@ -3732,7 +3729,6 @@ Laws, Theories, Logic
 *   [Parkinson's Law of Triviality (Bikeshedding) Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
 *   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
 *   [Poe's Law Wikipedia](https://en.wikipedia.org/wiki/Poe%27s_law)
-*   [Principal Agent Problem Wikipedia](https://en.wikipedia.org/wiki/Principal-agent_problem)
 *   [Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
 *   [Rock's Law (or Moore's Second Law) Wikipedia](https://en.wikipedia.org/wiki/Rock%27s_law)
 *   [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
