@@ -3598,15 +3598,15 @@ Economics:
 *   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
 *   [Cumulative Advantage (Matthew Effect) Wikipedia](https://en.wikipedia.org/wiki/Matthew_effect)
 *   [Comparative Advantage Wikipedia](https://en.wikipedia.org/wiki/Comparative_advantage)
-Competitive Advantage
+*   [Competitive Advantage Wikipedia](https://en.wikipedia.org/wiki/Competitive_advantage)
 Creative Destruction
-Diminishing Utility
-Economies of Scale
-Elasticity
-Externalities
-Markets
-Marginal Cost
-Marginal Utility
+*   [Diminishing Utility (Marginal Utility) Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
+*   [Economies of Scale Wikipedia](https://en.wikipedia.org/wiki/Economies_of_scale)
+*   [Elasticity Wikipedia](https://en.wikipedia.org/wiki/Elasticity_(economics))
+*   [Externality/Externalities Wikipedia](https://en.wikipedia.org/wiki/Externality)
+*   [Market(s) Wikipedia](https://en.wikipedia.org/wiki/Market_(economics))
+*   [Marginal Cost Wikipedia](https://en.wikipedia.org/wiki/Marginal_cost)
+*   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
 Monopoly and Oligopoly
 Network effects
 *   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
