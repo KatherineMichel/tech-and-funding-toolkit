@@ -264,24 +264,35 @@ Lists of VC Firms and Accelerators
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
-Angel and VC Firm Resources
-*   [A16Z Slideshare](http://www.slideshare.net/a16z), [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
+Random VC Funds and Manifestoes/Theses
+*   [Expa](http://expa.com) 
+*   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
+*   [Google Capital](http://www.googlecapital.com)
+*   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
+*   [Silicon Valley Bank](http://www.svb.com) 
+*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
+
+*   [500 Startups](http://500.co)
+*   [Techstars](http://www.techstars.com)
+
+Angel and VC Firm Blogs and Learning Resources
+*   [A16Z Slideshare](http://www.slideshare.net/a16z) and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
-*   [Expa](http://expa.com) 
-*   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 *   [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
-*   [Google Capital](http://www.googlecapital.com)
 *   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-*   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
-*   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
+*   [KPCB Insights](https://www.kpcb.com/insights) and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
-*   [Silicon Valley Bank](http://www.svb.com) 
 *   [True University](http://trueuniversity.com) 
-*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
+
+Accelerator Resources
+*   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
+*   [NFX Guild Program](http://www.nfx.com/company/program)
+*   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
+*   [YCombinator](http://ycombinator.com), [YCombinator Fellowship](http://fellowship.ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
 VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
@@ -299,23 +310,19 @@ VC Firm Portfolios and Anti-Portfolios
 *   [StartX Stanford Companies](http://startx.stanford.edu/companies) 
 *   [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
 
+VC Firm Newsletters
+*   [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+
 VC Firm Podcasts
 *   [A16Z Podcasts](https://soundcloud.com/a16z)
 *   [KPCB Podcasts](https://soundcloud.com/kleinerperkins)
 
-Accelerator Resources
-*   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
-*   [NFX Guild Program](http://www.nfx.com/company/program)
-*   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
-*   [Techstars](http://www.techstars.com)
-*   [YCombinator](http://ycombinator.com), [YCombinator Fellowship](http://fellowship.ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
-  
 Crowdfunding
 *   [Kickstarter](https://www.kickstarter.com)
 *   [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
 *   [Tilt](https://www.tilt.com)
 
-Federal
+Federal Opportunities and Funding
 *   [Federal Business Opportunities](https://www.fbo.gov)  
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 *   [National Science Foundation Funding](https://www.nsf.gov/funding)
