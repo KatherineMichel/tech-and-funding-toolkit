@@ -3608,16 +3608,16 @@ Creative Destruction
 *   [Marginal Cost Wikipedia](https://en.wikipedia.org/wiki/Marginal_cost)
 *   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
 Monopoly and Oligopoly
-Network effects
+*   [Network Effect(s) Wikipedia](https://en.wikipedia.org/wiki/Network_effect)
 *   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
-Price Discrimination
-Prisoner’s Dilemma
-Public and Private Goods.
+*   [Price Discrimination Wikipedia](https://en.wikipedia.org/wiki/Price_discrimination)
+*   [Prisoner's Dilemma Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+Public and Private Goods
 Specialization
-Supply and Demand
-Switching Costs
-Transaction Costs
-Tragedy of the Commons
+*   [Supply and Demand Wikipedia](https://en.wikipedia.org/wiki/Supply_and_demand)
+*   [Switching Costs/Barriers Wikipedia](https://en.wikipedia.org/wiki/Switching_barriers)
+*   [Transaction Cost(s) Wikipedia](https://en.wikipedia.org/wiki/Transaction_cost)
+*   [Tragedy of the Commons Wikipedia](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
 Time Value of Money
 Utility
 
