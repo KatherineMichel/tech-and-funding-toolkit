@@ -3536,6 +3536,7 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 *   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
 *   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
 *   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
+*   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
 *   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
 *   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
 *   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
@@ -3704,6 +3705,7 @@ The Blak Swan
 
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
+*   [List of Memory Biases Wikipedia](https://en.wikipedia.org/wiki/List_of_memory_biases)
 *   [List of Laws Wikipedia](http://en.wikipedia.org/wiki/List_of_laws) 
 *   [Power Law Wikipedia](https://en.wikipedia.org/wiki/Power_law)
 *   [Baumol's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
