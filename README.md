@@ -3538,12 +3538,16 @@ Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 
 More Models
+*   [Brook's Law (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law)
 *   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
+*   [Compounding Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
 *   [Extremistan (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
 *   [Lifetime Value Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value)
 *   [Mean Reversion Wikipedia](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
 *   [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
 *   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
+*   [The Babe Ruth Effect (in Venture Capital)](http://cdixon.org/2015/06/07/the-babe-ruth-effect-in-venture-capital) via [Chris Dixon](https://twitter.com/cdixon)
+*   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
 
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
