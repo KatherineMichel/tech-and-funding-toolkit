@@ -3536,6 +3536,11 @@ Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 *   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 
+More Models
+*   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
+*   [Lifetime Value Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value)
+*   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
+
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
 *   [List of Laws Wikipedia](http://en.wikipedia.org/wiki/List_of_laws) 
@@ -3578,12 +3583,14 @@ Laws, Theories, Logic
 *   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
 *   [Principal Agent Problem Wikipedia](https://en.wikipedia.org/wiki/Principal-agent_problem)
 *   [Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
+*   [Rock's Law (or Moore's Second Law) Wikipedia](https://en.wikipedia.org/wiki/Rock%27s_law)
 *   [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
 *   [Selection Bias Wikipedia](http://en.wikipedia.org/wiki/Selection_bias)
 *   [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
 *   [Simpson's Paradox Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 *   [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
 *   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
+*   [Stein's Law Wikipedia](https://en.wikipedia.org/wiki/Herbert_Stein#Philosophy)
 *   [Stockdale Paradox Wikipedia](https://en.wikipedia.org/wiki/James_Stockdale#Prisoner_of_war)
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
 *   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
