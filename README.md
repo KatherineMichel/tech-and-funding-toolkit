@@ -534,22 +534,19 @@ Ivy League Business and Tech
 *   [MIT Sloan Review](http://sloanreview.mit.edu)
 *   [MIT Technology Review](http://www.technologyreview.com)
 
-Tech Aggregated
+Tech Aggregated, Question and Answer Forums
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [Inside Tech](https://www.inside.com/tech)
 *   [Launch Ticker](https://www.launchticker.com)
 *   [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
 *   [Quora Technology](https://www.quora.com/Technology)
 *   [Reddit Technology](https://www.reddit.com/r/technology)
-
-*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
-
-Question and Answer Forums
-*   [Quora](http://www.quora.com)
-*   [Stack Exchange](http://stackexchange.com)
+*   [Stack Exchange Sites Technology](http://stackexchange.com/sites#technology)
 *   [Programmers Stack Exchange](http://programmers.stackexchange.com)
 *   [Stack Overflow](http://stackoverflow.com)
-*   [Yahoo Answers](https://answers.yahoo.com)
+*   [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
+
+*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 
 Nuzzel Custom Feeds
 *   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
@@ -577,6 +574,13 @@ General News Sources- High Brow
 *   [New York Times](http://www.nytimes.com)
 *   [Wall Street Journal](http://www.wsj.com) and [Wall Street Journal Blog](http://blogs.wsj.com)
 
+Question and Answer Forums
+*   [Quora](http://www.quora.com)
+*   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
+*   [Stack Exchange](http://stackexchange.com)
+*   [Stack Exchange Sites](http://stackexchange.com/sites) 
+*   [Yahoo Answers](https://answers.yahoo.com)
+
 Aggregated News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
@@ -586,8 +590,6 @@ Aggregated News Sources
 *   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
 *   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
 *   [Pocket](https://getpocket.com)
-*   [Quora](http://www.quora.com)
-*   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
 *   [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
