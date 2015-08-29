@@ -3538,7 +3538,10 @@ Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
 
 More Models
 *   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
+*   [Extremistan (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
 *   [Lifetime Value Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value)
+*   [Mean Reversion Wikipedia](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
+*   [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
 *   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
 
 Laws, Theories, Logic  
