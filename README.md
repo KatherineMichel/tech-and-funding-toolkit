@@ -543,6 +543,13 @@ Tech Aggregated
 
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 
+Question and Answer Forums
+*   [Quora](http://www.quora.com)
+*   [Stack Exchange](http://stackexchange.com)
+*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
+*   [Stack Overflow](http://stackoverflow.com)
+*   [Yahoo Answers](https://answers.yahoo.com)
+
 Nuzzel Custom Feeds
 *   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
 
@@ -1783,13 +1790,6 @@ Designer/Developer Conferences
 Code Hosting
 *   [GitHub](https://github.com/github)
 *   [Google Code](http://code.google.com)
-
-Question and Answer Forums
-*   [Quora](http://www.quora.com)
-*   [Stack Exchange](http://stackexchange.com)
-*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
-*   [Stack Overflow](http://stackoverflow.com)
-*   [Yahoo Answers](https://answers.yahoo.com)
 
 Licenses
 *   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
