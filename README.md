@@ -205,6 +205,7 @@ Table of Contents
 *   [Matt Mullenweg](http://ma.tt)
 *   [Michael Arrington](http://uncrunched.com) 
 *   [Michael Mauboussin](http://michaelmauboussin.com)
+*   [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 *   [Naval Ravikant](http://startupboy.com)
 *   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
