@@ -3450,6 +3450,7 @@ Awesome Awesomeness
 #### Vocabulary
 
 General
+*   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
 *   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
 *   [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
@@ -3457,6 +3458,7 @@ General
 *   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
+*   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Groupthink Wikipedia](https://en.wikipedia.org/wiki/Groupthink)
 *   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
@@ -3471,6 +3473,7 @@ General
 *   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
 *   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
 *   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
+*   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
 *   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
@@ -3478,15 +3481,18 @@ General
 *   [Tacit Knowledge Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
 *   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
+*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
 
 Finance and Investment Terms
 *   [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate)
+*   [Compounding Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
 *   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
 *   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
 *   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
 *   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
 *   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
 *   [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
+*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
 *   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
@@ -3506,6 +3512,8 @@ Finance and Investment Terms
 *   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
 *   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 *   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
+*   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
+*   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 *   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
@@ -3539,16 +3547,10 @@ Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
 
 More Models
 *   [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
-*   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
-*   [Compounding Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
 *   [Counterfactual Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_conditional)
 *   [Critical Mass (Disambiguation) Wikipedia](https://en.wikipedia.org/wiki/Critical_mass_(disambiguation))
-*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
 *   [Evolution Wikipedia](https://en.wikipedia.org/wiki/Evolution)
-*   [Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
-*   [Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 *   [Feedback Wikipedia](https://en.wikipedia.org/wiki/Feedback)
-*   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [First Principles Wikipedia](https://en.wikipedia.org/wiki/First_principle) versus [Analogy Wikipedia](https://en.wikipedia.org/wiki/Analogy)
 *   [Inertia Wikipedia](https://en.wikipedia.org/wiki/Inertia)
 *   [Jacobian Inverse Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#Inverse)
@@ -3561,8 +3563,6 @@ More Models
 *   Process versus Outcome
 *   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
 *   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
-*   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
-*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
 
 The Blak Swan
 *   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
