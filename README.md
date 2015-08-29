@@ -3412,8 +3412,6 @@ ProPublica- News App and Data Style Guides
 *   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
-*   [Strategy for Information Markets/Features of Goods Wikipedia](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Features_of_Goods) via [Tren Griffin](https://twitter.com/trengriffin)
-
 Human Emotion
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
@@ -3496,12 +3494,12 @@ Five Forces
 *   [Brand Wikipedia](https://en.wikipedia.org/wiki/Brand)
 
 Accounting:
-Balance Sheet
-Cash Flow Statement
-Depreciation
-Double-Entry
-Generally Accepted Accounting Principles
-Income Statement
+*   [Balance Sheet Wikipedia](https://en.wikipedia.org/wiki/Balance_sheet)
+*   [Cash Flow Statement Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_statement)
+*   [Depreciation Wikipedia](https://en.wikipedia.org/wiki/Depreciation)
+*   [Double-Entry (Bookkeeping System) Wikipedia](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system)
+*   [Generally Accepted Accounting Principles Wikipedia](https://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
+*   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
 *   [Sunken Cost (Fallacy) Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 
 Economics:
@@ -3524,7 +3522,8 @@ Creative Destruction
 *   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
 *   [Price Discrimination Wikipedia](https://en.wikipedia.org/wiki/Price_discrimination)
 *   [Prisoner's Dilemma Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
-Public and Private Goods
+*   [Public and Private Goods (Strategy for Information Markets/Features of Goods) Wikipedia](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Features_of_Goods)
+
 Specialization
 *   [Supply and Demand Wikipedia](https://en.wikipedia.org/wiki/Supply_and_demand)
 *   [Switching Costs/Barriers Wikipedia](https://en.wikipedia.org/wiki/Switching_barriers)
