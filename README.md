@@ -246,7 +246,10 @@ Investment Theses
 
 Venture Capital and How Funding Works
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
+*   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
 *   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
+*   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
+*   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
 *   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
 *   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
@@ -3474,12 +3477,11 @@ General
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
 *   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
-*   [Pareidolia Wikipedia](https://en.wikipedia.org/wiki/Pareidolia)
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
+*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 *   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
 *   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
 *   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
-*   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
 *   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
@@ -3491,39 +3493,48 @@ General
 
 Finance and Investment Terms
 *   [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate)
-*   [Compounding Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
-*   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
-*   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
-*   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
-*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
-*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
+*   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
 *   [Economic Moat](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
 *   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
-*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
-*   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
 *   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
 *   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
 *   [Inflection Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
-*   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 *   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
 *   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
-*   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization)  
-*   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
-*   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
-*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 *   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
-*   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+*   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
+*   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
+
+Accounting
+*   [Compounding Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
+*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
+*   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
 *   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
-*   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
+*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
+
+Ecomomics
+*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
+*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+
+Probability and Statistics
+*   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
 *   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
 *   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
-*   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
+
+Public Market
+*   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
+*   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
+*   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
+
+Demand-Side and Supply Side Economics
+*   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
+*   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
+
+Value Investing
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
-*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
-*   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 
 Charlie Munger and Rational Decisions via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
@@ -3715,6 +3726,7 @@ Laws, Theories, Logic
 *   [Clark's Three Laws Wikipedia](http://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
 *   [Coase Theorem Wikipedia](http://en.wikipedia.org/wiki/Coase_theorem)  
 *   [Conway's Law (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
+*   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
 *   [Dunning–Kruger Effect Wikipedia](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
 *   [Echo Chamber Wikipedia](http://en.wikipedia.org/wiki/Echo_chamber_%28media%29)  
 *   [Ephemeralization Wikipedia](http://en.wikipedia.org/wiki/Ephemeralization)  
@@ -3745,6 +3757,7 @@ Laws, Theories, Logic
 *   [No True Scotsman Wikipedia](http://en.wikipedia.org/wiki/No_true_Scotsman)  
 *   [Occam's Razor Wikipedia](http://en.wikipedia.org/wiki/Occam's_razor) 
 *   [Optimism Bias Wikipedia](http://en.wikipedia.org/wiki/Optimism_bias)  
+*   [Pareidolia Wikipedia](https://en.wikipedia.org/wiki/Pareidolia)
 *   [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law)  
 *   [Parkinson's Law of Triviality (Bikeshedding) Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
 *   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
