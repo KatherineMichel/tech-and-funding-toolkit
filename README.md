@@ -265,27 +265,43 @@ Lists of VC Firms and Accelerators
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
 Angel and VC Firm Resources
-*   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Seeds](http://a16z.com/seeds), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
+*   [A16Z Slideshare](http://www.slideshare.net/a16z), [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
-*   [Bessemer Venture Partners Blog](http://www.bvp.com/blog) and [Bessemer Venture Partners Anti-Portfolio](http://www.bvp.com/portfolio/antiportfolio)
-*   [Expa](http://expa.com) and [Expa Portfolio](http://expa.com/#portfolio)
-*   [Felicis Numbers](http://www.felicis.com/numbers)
+*   [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
+*   [Expa](http://expa.com) 
 *   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
-*   [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
+*   [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
 *   [Google Capital](http://www.googlecapital.com)
 *   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-*   [Homebrew Companies](http://www.homebrew.co/#companies)
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
-*   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
-*   [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
+*   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [Silicon Valley Bank](http://www.svb.com) 
-*   [StartX Stanford Companies](http://startx.stanford.edu/companies) 
 *   [True University](http://trueuniversity.com) 
-*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Portfolio](https://www.usv.com/portfolio), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
+*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
+
+VC Firm Apps
+*   [First Round Pitch App](http://firstround.com/openapp)
+*   [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
+
+VC Firm Numbers
+*   [Felicis Numbers](http://www.felicis.com/numbers)
+*   [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
+
+VC Firm Portfolios and Anti-Portfolios
+*   [A16Z Portfolio](http://a16z.com/portfolio) and [A16Z Seeds](http://a16z.com/seeds)
+*   [Bessemer Venture Partners Anti-Portfolio](http://www.bvp.com/portfolio/antiportfolio)
+*   [Expa Portfolio](http://expa.com/#portfolio)
+*   [Homebrew Companies](http://www.homebrew.co/#companies)
+*   [StartX Stanford Companies](http://startx.stanford.edu/companies) 
+*   [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
+
+VC Firm Podcasts
+*   [A16Z Podcasts](https://soundcloud.com/a16z)
+*   [KPCB Podcasts](https://soundcloud.com/kleinerperkins)
 
 Accelerator Resources
 *   [500 Startups](http://500.co), [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
