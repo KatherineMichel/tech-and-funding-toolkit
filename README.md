@@ -3509,7 +3509,6 @@ More Models
 *   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
 
 Network
-*   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
 *   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
 *   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
@@ -3526,8 +3525,6 @@ Metrics
 Accounting
 *   [Compounding Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
 *   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
-*   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
-*   [Sunken Cost Fallacy Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 
 Ecomomics
@@ -3594,7 +3591,7 @@ Depreciation
 Double-Entry
 Generally Accepted Accounting Principles
 Income Statement
-Sunk Cost
+*   [Sunken Cost (Fallacy) Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 
 Economics:
 Agency Problem
@@ -3613,7 +3610,7 @@ Marginal Cost
 Marginal Utility
 Monopoly and Oligopoly
 Network effects
-Opportunity Cost
+*   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
 Price Discrimination
 Prisoner’s Dilemma
 Public and Private Goods.
@@ -3626,8 +3623,8 @@ Time Value of Money
 Utility
 
 Management Science:
-Occam’s razor
-Parkinson’s Law
+*   [Occam's Razor Wikipedia](http://en.wikipedia.org/wiki/Occam's_razor) 
+*   [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law)  
 Process versus Outcome
 
 Computer Science:
@@ -3646,7 +3643,7 @@ Mathematics, Probability and Statistics:
 Agent Based Models
 Bayes Theorem
 Central Limit Theorem
-Complex Adaptive Systems
+*   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
 Correlation versus Causation
 Combinations
 Compounding
@@ -3730,10 +3727,8 @@ Laws, Theories, Logic
 *   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
 *   [Murphy's Law Wikipedia](https://en.wikipedia.org/wiki/Murphy%27s_law)
 *   [No True Scotsman Wikipedia](http://en.wikipedia.org/wiki/No_true_Scotsman)  
-*   [Occam's Razor Wikipedia](http://en.wikipedia.org/wiki/Occam's_razor) 
 *   [Optimism Bias Wikipedia](http://en.wikipedia.org/wiki/Optimism_bias)  
 *   [Pareidolia Wikipedia](https://en.wikipedia.org/wiki/Pareidolia)
-*   [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law)  
 *   [Parkinson's Law of Triviality (Bikeshedding) Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
 *   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
 *   [Poe's Law Wikipedia](https://en.wikipedia.org/wiki/Poe%27s_law)
