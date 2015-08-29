@@ -593,6 +593,10 @@ Aggregated News Sources
 *   [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
+Eccentric
+*   [Wait But Why](http://waitbutwhy.com)  
+*   [XKCD](http://xkcd.com)
+
 Directory of News Websites, Today's Front Pages, and NewsDiffs
 *   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
 *   [Newseum Today's Front Pages](http://www.newseum.org/todaysfrontpages)
