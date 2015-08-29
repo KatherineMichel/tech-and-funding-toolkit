@@ -12,7 +12,7 @@ Table of Contents
 - [Venture](#venture)
   - [VC Theory](#vc-theory)
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
-  - [RFS, Trends, Emerging Technologies](#rfs-trends-emerging-technologies)
+  - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
   - [Events, Talks, People](#events-talks-people)
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
@@ -264,16 +264,17 @@ Lists of VC Firms and Accelerators
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
-Random VC Funds and Manifestoes/Theses
+Random VC Funds/Accelerators and Manifestoes/Theses
+*   [500 Startups](http://500.co)
 *   [Expa](http://expa.com) 
 *   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 *   [Google Capital](http://www.googlecapital.com)
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
+*   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Silicon Valley Bank](http://www.svb.com) 
-*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
-
-*   [500 Startups](http://500.co)
 *   [Techstars](http://www.techstars.com)
+*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
+*   [YCombinator](http://ycombinator.com)
 
 Angel and VC Firm Blogs and Learning Resources
 *   [A16Z Slideshare](http://www.slideshare.net/a16z) and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
@@ -291,8 +292,7 @@ Angel and VC Firm Blogs and Learning Resources
 Accelerator Resources
 *   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 *   [NFX Guild Program](http://www.nfx.com/company/program)
-*   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
-*   [YCombinator](http://ycombinator.com), [YCombinator Fellowship](http://fellowship.ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+*   [YCombinator Fellowship](http://fellowship.ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
 VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
@@ -301,6 +301,13 @@ VC Firm Apps
 VC Firm Numbers
 *   [Felicis Numbers](http://www.felicis.com/numbers)
 *   [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
+
+RFS, Trends, Emerging Technologies
+*   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+*   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
+*   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
+*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
+*   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
 VC Firm Portfolios and Anti-Portfolios
 *   [A16Z Portfolio](http://a16z.com/portfolio) and [A16Z Seeds](http://a16z.com/seeds)
@@ -327,6 +334,8 @@ Federal Opportunities and Funding
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 *   [National Science Foundation Funding](https://www.nsf.gov/funding)
 
+#### Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al
+  
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
@@ -347,14 +356,6 @@ Economists, Investors, Philosophers
 *   [Rene Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
 *   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 *   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
-
-#### RFS, Trends, Emerging Technologies
-
-*   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
-*   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
-*   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
-*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
-*   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
 #### Events, Talks, People
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
