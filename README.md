@@ -16,7 +16,6 @@ Table of Contents
   - [Events, Talks, People](#events-talks-people)
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
-  - [Idea State Machine and Idea Maze](#idea-state-machine-and-idea-maze)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
   - [Company and Product Databases](#company-and-product-databases)
   - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
@@ -395,6 +394,10 @@ Shows
 *   [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
 *   [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
 
+Idea State Machine and Idea Maze
+*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
+*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
 Value
 *   [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
 *   [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
@@ -429,11 +432,6 @@ App and Website Statistics- General
 *   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 *   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
-
-#### Idea State Machine and Idea Maze
-
-*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
-*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
 
 #### Market, Business Models, Pricing, Product Tiers
   
