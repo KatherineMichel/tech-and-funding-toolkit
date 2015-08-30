@@ -276,7 +276,7 @@ Random VC Funds/Accelerators and Manifestoes/Theses
 *   [YCombinator](http://ycombinator.com)
 
 Angel and VC Firm Blogs and Learning Resources
-*   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z) and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
+*   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
@@ -469,7 +469,7 @@ Financial Modelling
 *   [Spreadsheet Standards Review Board](http://www.ssrb.org)  
 *   [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
 
-How to Read A Finacial Report
+How to Read A Financial Report
 *   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
 
 Investor Vocab
@@ -3625,7 +3625,7 @@ General
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
 *   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
-*   [Inflection Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
+*   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
 *   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
 *   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
 *   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
