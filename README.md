@@ -16,7 +16,7 @@ Table of Contents
   - [Events, Talks, People](#events-talks-people)
 - [Business Entity and and Regulation](#business-entity-and-regulation)
   - [Corporate Law](#corporate-law)
-  - [Documents](#documents)
+  - [More Documents](#more-documents)
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
@@ -416,7 +416,7 @@ Law and Transaction Services
 *   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Fortis](http://fortisrep.com) 
 
-#### Documents
+#### More Documents
 
 Cap Table, Convertible Bonds, Securities, Equity
 *   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
