@@ -276,7 +276,7 @@ Random VC Funds/Accelerators and Manifestoes/Theses
 *   [YCombinator](http://ycombinator.com)
 
 Angel and VC Firm Blogs and Learning Resources
-*   [A16Z Slideshare](http://www.slideshare.net/a16z) and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
+*   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z) and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
