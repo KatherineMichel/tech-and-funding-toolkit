@@ -3668,15 +3668,16 @@ Network
 
 Metrics
 *   [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate)
+*   [Customer Acquisition Cost](http://en.wikipedia.org/wiki/Customer_acquisition_cost)
+*   [Customer Lifetime Value Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value)
 *   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
 *   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
 *   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
-*   [Lifetime Value Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value)
 *   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
 *   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 
 Accounting
-*   [Compounding Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
+*   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
 *   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 
