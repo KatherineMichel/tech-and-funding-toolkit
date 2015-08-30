@@ -720,6 +720,9 @@ Tech Periodical
 *   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
 *   [The Next Web](http://thenextweb.com)
 
+SEC
+*   [SEC](http://www.sec.gov)
+
 Tech Longform
 *   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
 
