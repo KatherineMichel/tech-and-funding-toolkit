@@ -293,6 +293,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 
 Standard Docs
 *   [500 Startups Keep It Simple Security](http://500.co/kiss)  
+*   [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF)
 *   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
 *   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
 *   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
