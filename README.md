@@ -293,9 +293,11 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 
 Standard Docs
 *   [500 Startups Keep It Simple Security](http://500.co/kiss)  
+*   [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
 *   [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet) and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
 *   [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF)
 *   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
+*   [Sam Altman: A Founder Friendly Term Sheet](http://blog.samaltman.com/a-founder-friendly-term-sheet)
 *   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
 *   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
 *   [YCombinator Library](http://ycombinator.com/lib.html)  
