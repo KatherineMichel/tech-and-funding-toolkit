@@ -298,7 +298,7 @@ Standard Docs
 *   [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF)
 *   [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github)
 *   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
-*   [Sam Altman: A Founder Friendly Term Sheet](http://blog.samaltman.com/a-founder-friendly-term-sheet)
+*   [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
 *   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
 *   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
 *   [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
