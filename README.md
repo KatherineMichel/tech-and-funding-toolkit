@@ -264,7 +264,7 @@ Lists of VC Firms and Accelerators
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
 Random VC Funds/Accelerators and Manifestoes/Theses
-*   [500 Startups](http://500.co)
+*   [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
 *   [Expa](http://expa.com) 
 *   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 *   [Google Capital](http://www.googlecapital.com)
@@ -273,9 +273,10 @@ Random VC Funds/Accelerators and Manifestoes/Theses
 *   [Silicon Valley Bank](http://www.svb.com) 
 *   [Techstars](http://www.techstars.com)
 *   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
-*   [YCombinator](http://ycombinator.com)
+*   [YCombinator](http://ycombinator.com) and [YCombinator Fellowship](http://fellowship.ycombinator.com)
 
-Angel and VC Firm Blogs and Learning Resources
+Accelerator, Angel, VC Firm Blogs and Learning Resources
+*   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 *   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
@@ -284,14 +285,11 @@ Angel and VC Firm Blogs and Learning Resources
 *   [Founders Club Learn](https://fundersclub.com/learn)  
 *   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [KPCB Insights](https://www.kpcb.com/insights) and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
+*   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
-
-Accelerator Resources
-*   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Distrofund](http://500.co/distrofund), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
-*   [NFX Guild Program](http://www.nfx.com/company/program)
-*   [YCombinator Fellowship](http://fellowship.ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+*   [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
 VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
@@ -315,6 +313,7 @@ VC Firm Portfolios and Anti-Portfolios
 *   [Homebrew Companies](http://www.homebrew.co/#companies)
 *   [StartX Stanford Companies](http://startx.stanford.edu/companies) 
 *   [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
+*   [YCList](http://yclist.com)
 
 VC Firm Newsletters
 *   [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
