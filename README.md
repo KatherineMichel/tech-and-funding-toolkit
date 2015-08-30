@@ -345,6 +345,141 @@ Alphabet and Berkshire Hathaway
 *   [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
 *   [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
 
+Charlie Munger and Rational Decisions via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
+*   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
+*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
+*   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
+
+Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
+*   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
+*   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
+*   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
+*   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
+*   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
+*   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
+*   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
+*   [Loss Aversion](https://twitter.com/trengriffin/status/637791371345002496)
+*   [Man with a Hammer Bias](https://twitter.com/trengriffin/status/635600100446728192)
+*   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
+*   [Social Proof Bias](https://twitter.com/trengriffin/status/636031049034653696)
+*   [Want it Now Bias](https://twitter.com/trengriffin/status/636719442760634368)
+
+Charlie Munger's 18 Biases
+*   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+
+A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin)
+
+Business:
+*   [Moat (Economic)](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
+Five Forces
+*   [Brand Wikipedia](https://en.wikipedia.org/wiki/Brand)
+
+Accounting:
+*   [Balance Sheet Wikipedia](https://en.wikipedia.org/wiki/Balance_sheet)
+*   [Cash Flow Statement Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_statement)
+*   [Depreciation Wikipedia](https://en.wikipedia.org/wiki/Depreciation)
+*   [Double-Entry (Bookkeeping System) Wikipedia](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system)
+*   [Generally Accepted Accounting Principles Wikipedia](https://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
+*   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
+*   [Sunken Cost (Fallacy) Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
+
+Economics:
+*   [Agency Problem (Principal Agent Problem) Wikipedia](https://en.wikipedia.org/wiki/Principal-agent_problem)
+*   [Asymmetric Information Wikipedia](https://en.wikipedia.org/wiki/Information_asymmetry)
+*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+*   [Cumulative Advantage (Matthew Effect) Wikipedia](https://en.wikipedia.org/wiki/Matthew_effect)
+*   [Comparative Advantage Wikipedia](https://en.wikipedia.org/wiki/Comparative_advantage)
+*   [Competitive Advantage Wikipedia](https://en.wikipedia.org/wiki/Competitive_advantage)
+Creative Destruction
+*   [Diminishing Utility (Marginal Utility) Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
+*   [Economies of Scale Wikipedia](https://en.wikipedia.org/wiki/Economies_of_scale)
+*   [Elasticity Wikipedia](https://en.wikipedia.org/wiki/Elasticity_(economics))
+*   [Externality/Externalities Wikipedia](https://en.wikipedia.org/wiki/Externality)
+*   [Market(s) Wikipedia](https://en.wikipedia.org/wiki/Market_(economics))
+*   [Marginal Cost Wikipedia](https://en.wikipedia.org/wiki/Marginal_cost)
+*   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
+*   [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly) and [Oligopoly Wikipedia](https://en.wikipedia.org/wiki/Oligopoly)
+*   [Network Effect(s) Wikipedia](https://en.wikipedia.org/wiki/Network_effect)
+*   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
+*   [Price Discrimination Wikipedia](https://en.wikipedia.org/wiki/Price_discrimination)
+*   [Prisoner's Dilemma Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+*   [Public and Private Goods (Strategy for Information Markets/Features of Goods) Wikipedia](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Features_of_Goods)
+
+Specialization
+*   [Supply and Demand Wikipedia](https://en.wikipedia.org/wiki/Supply_and_demand)
+*   [Switching Costs/Barriers Wikipedia](https://en.wikipedia.org/wiki/Switching_barriers)
+*   [Transaction Cost(s) Wikipedia](https://en.wikipedia.org/wiki/Transaction_cost)
+*   [Tragedy of the Commons Wikipedia](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+*   [Time Value of Money Wikipedia](https://en.wikipedia.org/wiki/Time_value_of_money)
+*   [Utility Wikipedia](https://en.wikipedia.org/wiki/Utility)
+
+Management Science:
+*   [Occam's Razor Wikipedia](http://en.wikipedia.org/wiki/Occam's_razor) 
+*   [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law)  
+Process versus Outcome
+
+Computer Science:
+Abstractions
+Algorithms
+If-statements
+Recursion
+
+Engineering:
+Breakpoints
+Feedback loops
+Margin of Safety
+Redundancy
+ 
+Mathematics, Probability and Statistics:
+Agent Based Models
+Bayes Theorem
+Central Limit Theorem
+*   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
+Correlation versus Causation
+Combinations
+Compounding
+Decision Trees
+Inversion
+Kelly Optimization Model
+Law of Large Numbers
+Mean, Median, Mode
+Normal Distribution
+Permutations
+*   [Power Law Wikipedia](https://en.wikipedia.org/wiki/Power_law)
+Regression Analysis
+Return to the Mean
+Scaling
+Sensitivity Analysis
+
+Law:
+Burden of Proof
+Common law
+Due Process
+Duty of care
+Good Faith
+Negligence
+Presumption of Innocence
+Reasonable doubt
+
+Philosophy, Literature and Rhetoric:
+Metaphors
+Similes
+Abduction
+Pragmatism
+Realism
+Reductionism
+
+The Black Swan
+*   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
+*   [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
+*   [Extremistan (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+
 Economists, Investors, Philosophers
 *   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
 *   [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
@@ -3482,140 +3617,6 @@ Awesome Awesomeness
 *   [growth.supply](http://growth.supply/free)
 
 #### Vocabulary
-
-Charlie Munger and Rational Decisions via [Tren Griffin](https://twitter.com/trengriffin)
-*   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
-*   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
-*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
-*   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
-
-Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
-*   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
-*   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
-*   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
-*   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
-*   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
-*   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
-*   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
-*   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
-*   [Man with a Hammer Bias](https://twitter.com/trengriffin/status/635600100446728192)
-*   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
-*   [Social Proof Bias](https://twitter.com/trengriffin/status/636031049034653696)
-*   [Want it Now Bias](https://twitter.com/trengriffin/status/636719442760634368)
-
-Charlie Munger's 18 Biases
-*   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
-
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-
-A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin)
-
-Business:
-*   [Moat (Economic)](http://www.investopedia.com/ask/answers/05/economicmoat.asp)  
-Five Forces
-*   [Brand Wikipedia](https://en.wikipedia.org/wiki/Brand)
-
-Accounting:
-*   [Balance Sheet Wikipedia](https://en.wikipedia.org/wiki/Balance_sheet)
-*   [Cash Flow Statement Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_statement)
-*   [Depreciation Wikipedia](https://en.wikipedia.org/wiki/Depreciation)
-*   [Double-Entry (Bookkeeping System) Wikipedia](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system)
-*   [Generally Accepted Accounting Principles Wikipedia](https://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
-*   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
-*   [Sunken Cost (Fallacy) Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
-
-Economics:
-*   [Agency Problem (Principal Agent Problem) Wikipedia](https://en.wikipedia.org/wiki/Principal-agent_problem)
-*   [Asymmetric Information Wikipedia](https://en.wikipedia.org/wiki/Information_asymmetry)
-*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-*   [Cumulative Advantage (Matthew Effect) Wikipedia](https://en.wikipedia.org/wiki/Matthew_effect)
-*   [Comparative Advantage Wikipedia](https://en.wikipedia.org/wiki/Comparative_advantage)
-*   [Competitive Advantage Wikipedia](https://en.wikipedia.org/wiki/Competitive_advantage)
-Creative Destruction
-*   [Diminishing Utility (Marginal Utility) Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility)
-*   [Economies of Scale Wikipedia](https://en.wikipedia.org/wiki/Economies_of_scale)
-*   [Elasticity Wikipedia](https://en.wikipedia.org/wiki/Elasticity_(economics))
-*   [Externality/Externalities Wikipedia](https://en.wikipedia.org/wiki/Externality)
-*   [Market(s) Wikipedia](https://en.wikipedia.org/wiki/Market_(economics))
-*   [Marginal Cost Wikipedia](https://en.wikipedia.org/wiki/Marginal_cost)
-*   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
-*   [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly) and [Oligopoly Wikipedia](https://en.wikipedia.org/wiki/Oligopoly)
-*   [Network Effect(s) Wikipedia](https://en.wikipedia.org/wiki/Network_effect)
-*   [Opportunity Cost Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost)
-*   [Price Discrimination Wikipedia](https://en.wikipedia.org/wiki/Price_discrimination)
-*   [Prisoner's Dilemma Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
-*   [Public and Private Goods (Strategy for Information Markets/Features of Goods) Wikipedia](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Features_of_Goods)
-
-Specialization
-*   [Supply and Demand Wikipedia](https://en.wikipedia.org/wiki/Supply_and_demand)
-*   [Switching Costs/Barriers Wikipedia](https://en.wikipedia.org/wiki/Switching_barriers)
-*   [Transaction Cost(s) Wikipedia](https://en.wikipedia.org/wiki/Transaction_cost)
-*   [Tragedy of the Commons Wikipedia](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
-*   [Time Value of Money Wikipedia](https://en.wikipedia.org/wiki/Time_value_of_money)
-*   [Utility Wikipedia](https://en.wikipedia.org/wiki/Utility)
-
-Management Science:
-*   [Occam's Razor Wikipedia](http://en.wikipedia.org/wiki/Occam's_razor) 
-*   [Parkinson's Law Wikipedia](http://en.wikipedia.org/wiki/Parkinson's_law)  
-Process versus Outcome
-
-Computer Science:
-Abstractions
-Algorithms
-If-statements
-Recursion
-
-Engineering:
-Breakpoints
-Feedback loops
-Margin of Safety
-Redundancy
- 
-Mathematics, Probability and Statistics:
-Agent Based Models
-Bayes Theorem
-Central Limit Theorem
-*   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
-Correlation versus Causation
-Combinations
-Compounding
-Decision Trees
-Inversion
-Kelly Optimization Model
-Law of Large Numbers
-Mean, Median, Mode
-Normal Distribution
-Permutations
-*   [Power Law Wikipedia](https://en.wikipedia.org/wiki/Power_law)
-Regression Analysis
-Return to the Mean
-Scaling
-Sensitivity Analysis
-
-Law:
-Burden of Proof
-Common law
-Due Process
-Duty of care
-Good Faith
-Negligence
-Presumption of Innocence
-Reasonable doubt
-
-Philosophy, Literature and Rhetoric:
-Metaphors
-Similes
-Abduction
-Pragmatism
-Realism
-Reductionism
-
-The Blak Swan
-*   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
-*   [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
-*   [Extremistan (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
 
 General
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
