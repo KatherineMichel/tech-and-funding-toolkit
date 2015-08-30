@@ -300,6 +300,8 @@ Standard Docs
 *   [Sam Altman: A Founder Friendly Term Sheet](http://blog.samaltman.com/a-founder-friendly-term-sheet)
 *   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
 *   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+*   [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
+*   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#)
 *   [YCombinator Library](http://ycombinator.com/lib.html)  
 *   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement)](http://ycombinator.com/documents) 
 
@@ -590,7 +592,6 @@ Document Libraries
 *   [Rocket Lawyer](https://www.rocketlawyer.com) 
 *   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
 *   [Shake Simply Legal](http://www.shakelaw.com) 
-*   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#)
 *   [Venture Docs](https://venturedocs.com/documents)  
 *   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 
