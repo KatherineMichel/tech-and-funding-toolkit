@@ -293,6 +293,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 
 Standard Docs
 *   [500 Startups Keep It Simple Security](http://500.co/kiss)  
+*   [Brad Feld: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html)
 *   [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
 *   [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet) and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
 *   [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF)
