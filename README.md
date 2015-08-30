@@ -363,6 +363,7 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 *   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
 *   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
 *   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
+*   [Authority Bias](https://twitter.com/trengriffin/status/638003279448829952)
 *   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
 *   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
 *   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
