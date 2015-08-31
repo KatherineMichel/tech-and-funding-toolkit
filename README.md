@@ -263,6 +263,10 @@ Lists of VC Firms and Accelerators
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
+Association
+*   [Angel Capital Association](http://www.angelcapitalassociation.org)
+*   [British Private Equity and Venture Capital Association](http://www.bvca.co.uk)
+
 Random VC Funds/Accelerators and Manifestoes/Theses
 *   [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
 *   [Expa](http://expa.com) 
