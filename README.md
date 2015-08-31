@@ -853,7 +853,7 @@ Markets and Finance
 *   [Wikinvest](http://www.wikinvest.com)
 
 Ivy League Business and Tech
-*   [Harvard Business Review](https://hbr.org) 
+*   [Harvard Business Review](https://hbr.org), [Harvard Business Review, My HBR](https://hbr.org/my-hbr), and [Harvard Business Review Topics](https://hbr.org/topics)
 *   [Harvard Business School Working Knowledge](http://hbswk.hbs.edu)
 *   [MIT Sloan Review](http://sloanreview.mit.edu)
 *   [MIT Technology Review](http://www.technologyreview.com)
