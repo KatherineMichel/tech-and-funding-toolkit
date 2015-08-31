@@ -3810,6 +3810,7 @@ Laws, Theories, Logic
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
 *   [The Babe Ruth Effect (in Venture Capital)](http://cdixon.org/2015/06/07/the-babe-ruth-effect-in-venture-capital) via [Chris Dixon](https://twitter.com/cdixon) and [Expected Value Wikipedia](https://en.wikipedia.org/wiki/Expected_value)
 *   [The Golden Rule Wikipedia](https://en.wikipedia.org/wiki/Golden_Rule)
+*   The Pie Fallacy
 *   [Tiebout Model Wikipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
 
 [Back to Top](#)
