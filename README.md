@@ -243,8 +243,10 @@ Investment Theses
 *   [Fred Wilson: Dave McClure’s Investment Thesis](http://avc.com/2010/07/dave-mcclures-investment-thesis) 
 *   [Dave McClure: MoneyBall for Startups: Invest BEFORE Product/Market Fit, Double-Down AFTER.](http://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
 
-Venture Capital and How Funding Works
-*   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)  
+Angel Investing, Venture Capital and How Funding Works
+*   [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
+*   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
+*   [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
 *   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
