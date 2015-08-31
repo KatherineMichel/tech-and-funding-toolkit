@@ -266,6 +266,9 @@ Lists of VC Firms and Accelerators
 Association
 *   [Angel Capital Association](http://www.angelcapitalassociation.org)
 *   [British Private Equity and Venture Capital Association](http://www.bvca.co.uk)
+*   [National Association of Investment Companies](http://www.naicvc.com)
+*   [National Association of Investment Companies Partners](http://www.naicvc.com/resourcecenter.html)
+*   [National Venture Capital Association](http://nvca.org)
 
 Random VC Funds/Accelerators and Manifestoes/Theses
 *   [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
