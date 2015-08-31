@@ -317,6 +317,13 @@ Standard Docs- International
 *   [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
 *   [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
 
+RFS, Trends, Emerging Technologies
+*   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+*   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
+*   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
+*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
+*   [YCombinator RFS](http://www.ycombinator.com/rfs)
+
 VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
 *   [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
@@ -324,13 +331,6 @@ VC Firm Apps
 VC Firm Numbers
 *   [Felicis Numbers](http://www.felicis.com/numbers)
 *   [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
-
-RFS, Trends, Emerging Technologies
-*   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
-*   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
-*   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
-*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
-*   [YCombinator RFS](http://www.ycombinator.com/rfs)
 
 VC Firm Portfolios and Anti-Portfolios
 *   [A16Z Portfolio](http://a16z.com/portfolio) and [A16Z Seeds](http://a16z.com/seeds)
