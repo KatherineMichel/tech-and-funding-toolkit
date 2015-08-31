@@ -3574,7 +3574,7 @@ ProPublica- News App and Data Style Guides
 *   [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
-*   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework)
+*   [Carlota Perez Framework via Fred Wilson](http://avc.com/2015/02/the-carlota-perez-framework) and [Carlota Perez: Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](http://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
 *   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
