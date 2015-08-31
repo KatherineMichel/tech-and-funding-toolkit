@@ -310,7 +310,7 @@ Standard Docs and Terms
 *   [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github)
 *   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
 *   [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
-*   [Tech Stars Docs (in Conjuncion with Cooley Go)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+*   [Tech Stars Docs (in Conjunction with Cooley Go)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
 *   [Ted Wang (Fenwick & West) Series Seed](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
 *   [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
 *   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
@@ -515,7 +515,7 @@ Reductionism
 The Black Swan
 *   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
 *   [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
-*   [Extremistan (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+*   [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
 
 Economists, Investors, Philosophers
 *   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
@@ -609,7 +609,7 @@ Document Libraries
 *   [Docracy Documents](http://www.docracy.com/application/dochome) 
 *   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881), [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
 *   [Rocket Lawyer](https://www.rocketlawyer.com) 
-*   [Shake Simply Legal](http://www.shakelaw.com) 
+*   [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
 *   [Venture Docs](https://venturedocs.com/documents)  
 *   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 
@@ -650,7 +650,7 @@ IPO
 Valuation
 *   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 *   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
+*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
 
 Types of Acquisitions
 *   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
