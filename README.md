@@ -291,7 +291,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 *   [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
-Standard Docs
+Standard Docs and Terms
 *   [500 Startups Keep It Simple Security](http://500.co/kiss)  
 *   [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html)
 *   [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
@@ -306,11 +306,11 @@ Standard Docs
 *   [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
 *   [TheFunded Founder Institute Ideal First Round Term Sheet](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm)
-*   [YCombinator Library](http://ycombinator.com/lib.html)  
-*   [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents) 
+*   [YCombinator Library](http://ycombinator.com/lib.html), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents) 
 
 Standard Docs- International
 *   [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
+*   [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
 
 VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
