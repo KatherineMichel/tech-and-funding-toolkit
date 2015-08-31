@@ -854,6 +854,7 @@ Markets and Finance
 
 Ivy League Business and Tech
 *   [Harvard Business Review](https://hbr.org) 
+*   [Harvard Business School Working Knowledge](http://hbswk.hbs.edu)
 *   [MIT Sloan Review](http://sloanreview.mit.edu)
 *   [MIT Technology Review](http://www.technologyreview.com)
 
