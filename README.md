@@ -401,6 +401,7 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 *   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
 *   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
 *   [Authority Bias](https://twitter.com/trengriffin/status/638003279448829952)
+*   [Chemical Dependency Wikipedia](https://twitter.com/trengriffin/status/638520913302913024)
 *   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
 *   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
 *   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
