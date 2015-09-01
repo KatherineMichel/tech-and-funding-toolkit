@@ -888,6 +888,7 @@ Nuzzel Custom Feeds
 *   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), and [Press](http://nuzzel.com/pmarca/press)
 
 Tech Periodical
+*   [Mashable Tech](http://mashable.com/category/tech)
 *   [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
 *   [Recode](http://recode.net)
 *   [TechCrunch](http://techcrunch.com)
