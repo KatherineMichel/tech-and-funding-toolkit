@@ -3772,6 +3772,7 @@ Laws, Theories, Logic
 *   [Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
+*   [Flynn Effect Wikipedia](https://en.wikipedia.org/wiki/Flynn_effect)
 *   [Friendship Paradox Wikipedia](https://en.wikipedia.org/wiki/Friendship_paradox)
 *   [God's Algorithm Wikipedia](http://en.wikipedia.org/wiki/God%27s_algorithm)  
 *   [Goodhart's Law Wikipedia](https://en.wikipedia.org/wiki/Goodhart%27s_law)
