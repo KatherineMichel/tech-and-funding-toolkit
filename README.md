@@ -117,6 +117,7 @@ Table of Contents
 *   [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
 *   [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
 *   [Heidi Roizen](http://heidiroizen.tumblr.com)  
+*   [Howard Marks (Chairman, Oaktree Capital) Memos](http://www.oaktreecapital.com/memo.aspx)
 *   [Hunter Walk](http://hunterwalk.com)  
 *   [Jason Calcanis](http://calacanis.com)
 *   [Jeff Jordan Archives](http://jeff.a16z.com/archives)  
