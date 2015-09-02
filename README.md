@@ -385,6 +385,10 @@ Federal Opportunities and Funding
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
+Leveraged Buyouts
+*   [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
+*   [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
+
 Alphabet and Berkshire Hathaway
 *   [Alphabet](https://abc.xyz)
 *   [Berkshire Hathaway](http://www.berkshirehathaway.com)  
