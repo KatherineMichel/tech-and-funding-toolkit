@@ -102,6 +102,7 @@ Table of Contents
 *   [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent), [Andrew Chen Lecture Description](http://us5.campaign-archive2.com/?u=96c185f15d9646d8014b765b7&id=9707a51462&e=d7ca30ca7d)
 *   [Andy Weissman](http://blog.aweissman.com)
 *   [Balaji Srinivasan A16Z](http://a16z.com/tag/balaji-s-srinivasan) and [Balaji Srinivasan Twitter](https://twitter.com/balajis) 
+*   [Barry Ritholtz](http://www.ritholtz.com/blog)
 *   [Ben Horowitz](http://www.bhorowitz.com)  
 *   [Bijan Sabet Archive](http://bijansabet.com/archive) and [Bijan Sabet SoundCloud](https://soundcloud.com/bijan)
 *   [Bill Gurley Archives](http://abovethecrowd.com/archives)
