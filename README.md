@@ -850,6 +850,7 @@ Associations
 
 Business News
 *   [Bloomberg Business](http://www.bloomberg.com)  
+*   [BloombergView Tech](http://www.bloombergview.com/topics/tech)
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
 *   [Entrepreneur](http://www.entrepreneur.com)
