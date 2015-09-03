@@ -256,6 +256,7 @@ Angel Investing, Venture Capital and How Funding Works
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 *   [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
+*   [Dual Class Stock (important for public companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
 *   [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
 *   [Preferred_Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
 *   [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
