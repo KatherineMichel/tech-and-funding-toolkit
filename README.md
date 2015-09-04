@@ -2035,6 +2035,7 @@ Licenses
 *   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 Engineering Blogs
+*   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 *   [Buffer Engineering](https://overflow.bufferapp.com)
 *   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
 *   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
