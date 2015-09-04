@@ -154,6 +154,7 @@ Table of Contents
 #### Tech Analysts, Thought Leaders
 
 *   [Adam Khan: Hack the Bird](http://www.amazon.com/Hack-Bird-Counterintuitive-Strategies-Entrepreneurs-ebook/dp/B00XFMQHVQ/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1433450574&sr=1-1&keywords=hack+the+bird&linkCode=sl1&tag=inthestabiz-20&linkId=AADRKVFBXUFE75JI)
+*   [Alan Kay Wikipedia](https://en.wikipedia.org/wiki/Alan_Kay)
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
 *   [Alex Osterwalder](http://www.alexosterwalder.com), [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder), and [Alex Osterwalder Slideshare](http://www.slideshare.net/Alex.Osterwalder)
 *   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
