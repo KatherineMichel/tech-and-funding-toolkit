@@ -137,6 +137,7 @@ Table of Contents
 *   [Peter Levine Archives](http://peter.a16z.com/archives)
 *   [Reid Hoffman Slideshare](http://www.slideshare.net/reidhoffman/presentations)
 *   [Sam Altman Archive](http://blog.samaltman.com/archive)
+*   [Sam Lessin](http://blog.wlessin.com)
 *   [Satya Patel](http://venturegeneratedcontent.com)
 *   [Scott Weiss Archive](http://scott.a16z.com/archive)
 *   [Semil Shah Archive](http://blog.semilshah.com/archive)
