@@ -967,6 +967,7 @@ Companies
 #### Analyst Groups
 
 Analyst Groups
+*   [Accenture](https://www.accenture.com)
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
 *   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
