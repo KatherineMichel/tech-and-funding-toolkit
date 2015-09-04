@@ -948,6 +948,7 @@ Aggregated News Sources
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
 Eccentric
+*   [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org)
 *   [Wait But Why](http://waitbutwhy.com)  
 *   [XKCD](http://xkcd.com)
 
