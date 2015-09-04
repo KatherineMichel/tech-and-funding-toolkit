@@ -882,6 +882,7 @@ Ivy League Business and Tech
 *   [Harvard Business School Working Knowledge](http://hbswk.hbs.edu)
 *   [MIT Sloan Review](http://sloanreview.mit.edu)
 *   [MIT Technology Review](http://www.technologyreview.com)
+*   [Stanford News](http://news.stanford.edu)
 
 Tech Aggregated, Question and Answer Forums
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
