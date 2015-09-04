@@ -1115,6 +1115,7 @@ Google for Education
 Books
 *   [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
 *   [Bill Janeway: Doing Capitalism in the Innovation Economy: Markets, Speculation and the State](http://www.amazon.com/Doing-Capitalism-Innovation-Economy-Speculation/dp/1107031257)
+*   [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
 *   [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
 *   [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 *   [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
