@@ -885,6 +885,20 @@ Ivy League Business and Tech
 *   [MIT Technology Review](http://www.technologyreview.com)
 *   [Stanford News](http://news.stanford.edu)
 
+"Discovery Blogs" 
+*   Stanford 
+*   MIT 
+*   UCBerkley 
+*   CMU
+
+Stem Journals 
+*   [ACM Publications](https://www.acm.org/publications) and [Journal of the ACM](http://jacm.acm.org)
+*   [Electrical Engineering Times](http://www.eetimes.com)
+*   [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html)
+*   [New Scientist](https://www.newscientist.com)
+*   [Public Library of Science](https://www.plos.org)
+*   [Science News](https://www.sciencenews.org)
+
 Tech Aggregated, Question and Answer Forums
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 *   [Inside Tech](https://www.inside.com/tech)
