@@ -1069,7 +1069,8 @@ International Organizations Special Reports: Development
 
 Social Entrepreneurship
 *   [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
-*   [Gages Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
+*   [Gates Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
+*   [Gates Notes](http://www.gatesnotes.com)
 *   [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
 
 Happiness
