@@ -401,6 +401,9 @@ Alphabet and Berkshire Hathaway
 *   [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
 *   [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
 
+Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
+*   [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X/ref=sr_1_1?s=books&ie=UTF8&qid=1441421817&sr=1-1&keywords=charlie+munger+the+complete+investor)
+
 Charlie Munger and Rational Decisions via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
 *   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
