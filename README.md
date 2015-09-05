@@ -426,6 +426,7 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 *   [Liking Bias](https://twitter.com/trengriffin/status/638892092412964864)
 *   [Loss Aversion](https://twitter.com/trengriffin/status/637791371345002496)
 *   [Man with a Hammer Bias](https://twitter.com/trengriffin/status/635600100446728192)
+*   [Over Confidence Bias](https://twitter.com/trengriffin/status/639981770876715008)
 *   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
 *   [Social Proof Bias](https://twitter.com/trengriffin/status/636031049034653696)
 *   [Stress Induced Bias](https://twitter.com/trengriffin/status/639628831687479298)
