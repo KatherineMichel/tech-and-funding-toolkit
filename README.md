@@ -257,6 +257,7 @@ Angel Investing, Venture Capital and How Funding Works
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
 *   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
+*   [Termsheet](http://www.investopedia.com/terms/t/termsheet.asp)
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 *   [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
