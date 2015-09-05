@@ -422,6 +422,7 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 *   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
 *   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
 *   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
+*   [Envy Bias](https://twitter.com/trengriffin/status/640186451045384192)
 *   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
 *   [Liking Bias](https://twitter.com/trengriffin/status/638892092412964864)
 *   [Loss Aversion](https://twitter.com/trengriffin/status/637791371345002496)
