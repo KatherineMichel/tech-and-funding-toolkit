@@ -220,6 +220,7 @@ Table of Contents
 *   [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
 *   [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
 *   [Sean Ellis Slideshare](http://www.slideshare.net/seanellis) and [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
+*   [Sean Rose](https://medium.com/@sean_a_rose)
 *   [Shane Parrish (Farnam Street Blog)](http://www.farnamstreetblog.com) 
 *   [Sree Sreenivasan Twitter](https://twitter.com/sree)  
 *   [Startup L. Jackson Archive](http://startupljackson.com/archive)  
