@@ -303,7 +303,7 @@ Random VC Funds/Accelerators and Manifestoes/Theses
 *   [YCombinator](http://ycombinator.com) and [YCombinator Fellowship](http://fellowship.ycombinator.com)
 
 Accelerator, Angel, VC Firm Blogs and Learning Resources
-*   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
+*   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Demo Day](http://500demoday.co), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 *   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
