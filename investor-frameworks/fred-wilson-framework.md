@@ -1,7 +1,7 @@
 Blog
 *   [AVC](http://avc.com)
 
-#### MBA Mondays
+### MBA Mondays
 
 MBA Mondays
 *   [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive)
@@ -244,7 +244,10 @@ Words of Wisdom
 *   [Don’t Let A Good Crisis Go To Waste](http://avc.com/2013/04/dont-let-a-good-crisis-go-to-waste)
 *   [Competition – The Pros and Cons](http://avc.com/2011/05/competition-the-pros-and-cons)
 
+### Non-MBA Mondays
 
+Hobbyists
+*   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
 
 
 
