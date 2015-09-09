@@ -249,10 +249,15 @@ Words of Wisdom
 Hobbyists
 *   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
 
-Angel Investing
+Angel Investing and VC
 *   [The Purity Of Angel Investing](http://avc.com/2013/12/the-purity-of-angel-investing)
 *   [Angel Liquidity](http://avc.com/2010/08/angel-liquidity)
 *   [Angel vs VC?](http://avc.com/2010/07/angel-vs-vc)
+
+Convertible Debt
+*   [Late Stage Convertible Debt](http://avc.com/2013/04/late-state-convertible-debt)
+*   [Convertible Debt](http://avc.com/2012/09/convertible-debt)
+*   [Some Thoughts On Convertible Debt](http://avc.com/2010/08/some-thoughts-on-convertible-debt)
 
 Employee Equity
 *   [Employee Equity: Too Little?](http://avc.com/2014/04/employee-equity-too-little)
