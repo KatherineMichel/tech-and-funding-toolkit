@@ -1141,6 +1141,7 @@ Books
 *   [Bill Janeway: Doing Capitalism in the Innovation Economy: Markets, Speculation and the State](http://www.amazon.com/Doing-Capitalism-Innovation-Economy-Speculation/dp/1107031257)
 *   [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
 *   [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
+*   [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
 *   [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 *   [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
