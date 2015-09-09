@@ -276,6 +276,12 @@ VC- General
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
 *   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
 
+Lead Investor
+*   [What Exactly Is A Lead Investor?](http://avc.com/2011/11/what-exactly-is-a-lead-investor)
+
+Venture Firm Investment Decisions: Unanimous or Majority Rules?
+*   [Venture Firm Investment Decisions: Unanimous or Majority Rules?](http://avc.com/2010/10/venture-firm-investment-decisions-unanimous-or-majority-rules)
+
 Venture Funding Docs
 *   [Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs)
 
