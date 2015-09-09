@@ -254,11 +254,13 @@ Board
 *   [Independent Directors](http://avc.com/2014/07/independent-directors)
 *   [Who You Want On Your Board](http://avc.com/2013/01/who-you-want-on-your-board)
 *   [Board Of Directors, Continued](http://avc.com/2011/07/bored-of-directors-continued)
-*   [Board or No Board](http://avc.com/2011/07/bored-of-directors-continued)
+*   [Board or No Board](http://avc.com/2011/03/board-or-no-board/)
 *   [The Agile Board](http://avc.com/2010/05/the-agile-board)
 *   [The Executive Session](http://avc.com/2010/04/the-executive-session)
 
-
+Employee Equity
+*   [Employee Equity: Too Little?](http://avc.com/2014/04/employee-equity-too-little)
+*   [How To Allocate Founder and Employee Equity](http://avc.com/2011/04/how-to-allocate-founder-and-employee-equity)
 
 
 
