@@ -254,6 +254,15 @@ Angel Investing and VC
 *   [Angel Liquidity](http://avc.com/2010/08/angel-liquidity)
 *   [Angel vs VC?](http://avc.com/2010/07/angel-vs-vc)
 
+Term Sheets
+*   [Terms, Term Sheets, and Terminal Value](http://avc.com/2010/07/terms-term-sheets-and-terminal-value)
+
+Seed Rounds
+*   [More On Seed Rounds](http://avc.com/2015/01/more-on-seed-rounds)
+*   [Some Thoughts On Seed Investing](http://avc.com/2015/01/some-thoughts-on-seed-investing)
+*   [What Seed Financing Is For](http://avc.com/2014/06/what-seed-financing-is-for)
+*   [Some Thoughts On The Seed Fund Phenomenon](http://avc.com/2010/07/some-thoughts-on-the-seed-fund-phenomenon)
+
 Convertible Debt
 *   [Late Stage Convertible Debt](http://avc.com/2013/04/late-state-convertible-debt)
 *   [Convertible Debt](http://avc.com/2012/09/convertible-debt)
