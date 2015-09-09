@@ -267,6 +267,15 @@ Angel Investing and VC
 *   [Angel Liquidity](http://avc.com/2010/08/angel-liquidity)
 *   [Angel vs VC?](http://avc.com/2010/07/angel-vs-vc)
 
+VC- General
+*   [VC Fund Economics](http://avc.com/2014/05/vc-fund-economics)
+*   [The Difference Between Large Funds and Small Funds](http://avc.com/2014/04/the-difference-between-large-funds-and-small-funds)
+*   [On Corporate VCs](http://avc.com/2013/06/on-corporate-vcs)
+*   [Venture Capital Returns](http://avc.com/2013/02/venture-capital-returns)
+*   [There Are Two Venture Capital Industries](http://avc.com/2010/09/there-are-two-venture-capital-industries)
+*   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
+*   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
+
 Venture Funding Docs
 *   [Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs)
 
