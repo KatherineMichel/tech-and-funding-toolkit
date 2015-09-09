@@ -249,6 +249,17 @@ Words of Wisdom
 Hobbyists
 *   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
 
+Board
+*   [The Perfect Board](http://avc.com/2014/12/the-perfect-board)
+*   [Independent Directors](http://avc.com/2014/07/independent-directors)
+*   [Who You Want On Your Board](http://avc.com/2013/01/who-you-want-on-your-board)
+*   [Board Of Directors, Continued](http://avc.com/2011/07/bored-of-directors-continued)
+*   [Board or No Board](http://avc.com/2011/07/bored-of-directors-continued)
+*   [The Agile Board](http://avc.com/2010/05/the-agile-board)
+*   [The Executive Session](http://avc.com/2010/04/the-executive-session)
+
+
+
 
 
 
