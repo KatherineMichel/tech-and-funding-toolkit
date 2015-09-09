@@ -288,6 +288,9 @@ Board
 Outsourcing and Offshoring
 *   [Outsourcing Reversal](http://avc.com/2013/01/outsourcing-reversal)
 
+Cohort Analysis
+*   [Cohort Analysis](http://avc.com/2009/10/the-cohort-analysis)
+
 
 
 
