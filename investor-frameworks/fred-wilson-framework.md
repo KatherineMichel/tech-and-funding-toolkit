@@ -249,6 +249,9 @@ Words of Wisdom
 Hobbyists
 *   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
 
+Double Opt-In
+*   [The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction)
+
 Angel Investing and VC
 *   [The Purity Of Angel Investing](http://avc.com/2013/12/the-purity-of-angel-investing)
 *   [Angel Liquidity](http://avc.com/2010/08/angel-liquidity)
@@ -299,6 +302,9 @@ Outsourcing Reversal
 
 Cohort Analysis
 *   [Cohort Analysis](http://avc.com/2009/10/the-cohort-analysis)
+
+Postmortem
+*  [The Postmortem](http://avc.com/2010/10/the-postmortem)
 
 
 
