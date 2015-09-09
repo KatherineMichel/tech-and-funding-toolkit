@@ -254,6 +254,9 @@ Angel Investing and VC
 *   [Angel Liquidity](http://avc.com/2010/08/angel-liquidity)
 *   [Angel vs VC?](http://avc.com/2010/07/angel-vs-vc)
 
+Venture Funding Docs
+*   [Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs)
+
 Term Sheets
 *   [Terms, Term Sheets, and Terminal Value](http://avc.com/2010/07/terms-term-sheets-and-terminal-value)
 
@@ -285,7 +288,7 @@ Board
 *   [The Agile Board](http://avc.com/2010/05/the-agile-board)
 *   [The Executive Session](http://avc.com/2010/04/the-executive-session)
 
-Outsourcing and Offshoring
+Outsourcing Reversal
 *   [Outsourcing Reversal](http://avc.com/2013/01/outsourcing-reversal)
 
 Cohort Analysis
