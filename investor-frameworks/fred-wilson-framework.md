@@ -249,14 +249,10 @@ Words of Wisdom
 Hobbyists
 *   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
 
-Board
-*   [The Perfect Board](http://avc.com/2014/12/the-perfect-board)
-*   [Independent Directors](http://avc.com/2014/07/independent-directors)
-*   [Who You Want On Your Board](http://avc.com/2013/01/who-you-want-on-your-board)
-*   [Board Of Directors, Continued](http://avc.com/2011/07/bored-of-directors-continued)
-*   [Board or No Board](http://avc.com/2011/03/board-or-no-board/)
-*   [The Agile Board](http://avc.com/2010/05/the-agile-board)
-*   [The Executive Session](http://avc.com/2010/04/the-executive-session)
+Angel Investing
+*   [The Purity Of Angel Investing](http://avc.com/2013/12/the-purity-of-angel-investing)
+*   [Angel Liquidity](http://avc.com/2010/08/angel-liquidity)
+*   [Angel vs VC?](http://avc.com/2010/07/angel-vs-vc)
 
 Employee Equity
 *   [Employee Equity: Too Little?](http://avc.com/2014/04/employee-equity-too-little)
@@ -265,6 +261,15 @@ Employee Equity
 Pro Rata
 *   [The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity)
 *   [The Pro-Rata Participation Right](http://avc.com/2014/03/the-pro-rata-participation-right)
+
+Board
+*   [The Perfect Board](http://avc.com/2014/12/the-perfect-board)
+*   [Independent Directors](http://avc.com/2014/07/independent-directors)
+*   [Who You Want On Your Board](http://avc.com/2013/01/who-you-want-on-your-board)
+*   [Board Of Directors, Continued](http://avc.com/2011/07/bored-of-directors-continued)
+*   [Board or No Board](http://avc.com/2011/03/board-or-no-board/)
+*   [The Agile Board](http://avc.com/2010/05/the-agile-board)
+*   [The Executive Session](http://avc.com/2010/04/the-executive-session)
 
 Outsourcing and Offshoring
 *   [Outsourcing Reversal](http://avc.com/2013/01/outsourcing-reversal)
