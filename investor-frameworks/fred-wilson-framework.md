@@ -262,6 +262,8 @@ Employee Equity
 *   [Employee Equity: Too Little?](http://avc.com/2014/04/employee-equity-too-little)
 *   [How To Allocate Founder and Employee Equity](http://avc.com/2011/04/how-to-allocate-founder-and-employee-equity)
 
+Outsourcing and Offshoring
+*   [Outsourcing Reversal](http://avc.com/2013/01/outsourcing-reversal)
 
 
 
