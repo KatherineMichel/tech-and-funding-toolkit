@@ -252,6 +252,16 @@ Hobbyists
 Double Opt-In
 *   [The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction)
 
+Narrative
+*   [Numbers Can Ruin A Good Story](http://avc.com/2015/03/numbers-can-ruin-a-good-story)
+*   [Narratives Over Numbers](http://avc.com/2010/04/narratives-over-numbers)
+
+Pitches
+*   [Six Slides, Three Slides, or No Slides](http://avc.com/2011/09/six-slides-three-slides-or-no-slides)
+*   [Phone Pitches](http://avc.com/2010/07/phone-pitches)
+*   [Six Slides](http://avc.com/2010/06/six-slides)
+*   [Paying To Pitch](http://avc.com/2009/10/paying-to-pitch)
+
 Angel Investing and VC
 *   [The Purity Of Angel Investing](http://avc.com/2013/12/the-purity-of-angel-investing)
 *   [Angel Liquidity](http://avc.com/2010/08/angel-liquidity)
@@ -304,7 +314,7 @@ Cohort Analysis
 *   [Cohort Analysis](http://avc.com/2009/10/the-cohort-analysis)
 
 Postmortem
-*  [The Postmortem](http://avc.com/2010/10/the-postmortem)
+*   [The Postmortem](http://avc.com/2010/10/the-postmortem)
 
 
 
