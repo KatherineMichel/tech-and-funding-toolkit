@@ -262,6 +262,10 @@ Employee Equity
 *   [Employee Equity: Too Little?](http://avc.com/2014/04/employee-equity-too-little)
 *   [How To Allocate Founder and Employee Equity](http://avc.com/2011/04/how-to-allocate-founder-and-employee-equity)
 
+Pro Rata
+*   [The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity)
+*   [The Pro-Rata Participation Right](http://avc.com/2014/03/the-pro-rata-participation-right)
+
 Outsourcing and Offshoring
 *   [Outsourcing Reversal](http://avc.com/2013/01/outsourcing-reversal)
 
