@@ -303,6 +303,9 @@ Convertible Debt
 *   [Convertible Debt](http://avc.com/2012/09/convertible-debt)
 *   [Some Thoughts On Convertible Debt](http://avc.com/2010/08/some-thoughts-on-convertible-debt)
 
+Milton's Three Things
+*   [Milton’s “Three Things You Must Have”](http://avc.com/2010/11/miltons-three-things-you-must-have)
+
 Employee Equity
 *   [Employee Equity: Too Little?](http://avc.com/2014/04/employee-equity-too-little)
 *   [How To Allocate Founder and Employee Equity](http://avc.com/2011/04/how-to-allocate-founder-and-employee-equity)
