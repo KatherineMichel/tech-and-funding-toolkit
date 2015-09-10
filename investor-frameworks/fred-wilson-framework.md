@@ -88,7 +88,7 @@ Margins
 *   [Margins (continued)](http://avc.com/2011/04/margins-continued)
 
 ROI
-*   [How To Calculate A Return On Investment](http://avc.com/2010/02/corporate-entity)
+*   [How To Calculate A Return On Investment](http://avc.com/2010/01/how-to-calculate-a-return-on-investment)
 *   [Return On Investment Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AvqoGGDowi93dGZmZUp3RVFrZGpxRHZfazJwZWhmRlE&hl=en)
 
 Cap Tables
@@ -279,7 +279,11 @@ VC- General
 Lead Investor
 *   [What Exactly Is A Lead Investor?](http://avc.com/2011/11/what-exactly-is-a-lead-investor)
 
-Venture Firm Investment Decisions: Unanimous or Majority Rules?
+Competitor Fundraising
+*  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
+
+Venture Firm Investment Decisions
+*   [Deliberation](http://avc.com/2015/04/deliberation)
 *   [Venture Firm Investment Decisions: Unanimous or Majority Rules?](http://avc.com/2010/10/venture-firm-investment-decisions-unanimous-or-majority-rules)
 
 Venture Funding Docs
