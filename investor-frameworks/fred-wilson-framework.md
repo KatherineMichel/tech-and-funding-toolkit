@@ -246,6 +246,13 @@ Words of Wisdom
 
 ### Non-MBA Mondays
 
+Carlota Perez and USV Investment Thesis
+*   [The Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework)
+*   [Lineage](http://avc.com/2011/10/lineage)
+*   [Required Reading For The Carlota Perez Interview](http://avc.com/2011/10/required-reading-for-the-carlota-perez-interview)
+*   [My Interview With Carlota Perez](http://avc.com/2011/10/my-interview-of-carlota-perez)
+*   [Technological Revolutions And Financial Capital](http://avc.com/2011/05/technological-revolutions-and-financial-capital)
+
 Hobbyists
 *   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
 
