@@ -323,11 +323,14 @@ Board
 *   [The Agile Board](http://avc.com/2010/05/the-agile-board)
 *   [The Executive Session](http://avc.com/2010/04/the-executive-session)
 
-Outsourcing Reversal
-*   [Outsourcing Reversal](http://avc.com/2013/01/outsourcing-reversal)
+Reception Desk NDAs
+*   [Reception Desk NDAs](http://avc.com/2011/11/reception-desk-ndas)
+
+Stay Compensation
+*   [Stay Packages](http://avc.com/2010/04/stay-compensation)
 
 Outsourcing Reversal
-*   [Stay Packages](http://avc.com/2010/04/stay-compensation)
+*   [Outsourcing Reversal](http://avc.com/2013/01/outsourcing-reversal)
 
 Cohort Analysis
 *   [Cohort Analysis](http://avc.com/2009/10/the-cohort-analysis)
