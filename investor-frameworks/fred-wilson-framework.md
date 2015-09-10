@@ -357,6 +357,13 @@ Billion Dollar Valuations and Checks
 *   [The Billion Dollar Valuation Club](http://avc.com/2013/11/the-billion-dollar-valuation-club)
 *   [Where’s My Billion Dollar Check, I Wonder](http://avc.com/2012/05/wheres-my-billion-dollar-check-i-wonder)
 
+IPO
+*   [The Sub $1bn Revenues IPO Act](http://avc.com/2012/03/the-sub-1bn-revenues-ipo-act)
+*   [Some Thoughts On The IPO Market For Web Companies (cf. Chris Dixon)](http://avc.com/2011/12/some-thoughts-on-the-ipo-market-for-web-companies)
+*   [The Second Coming Of The Internet IPO](http://avc.com/2011/01/the-second-coming-of-the-internet-ipo)
+*   [Bashing The Collective Wisdom On IPOs](http://avc.com/2010/11/bashing-the-collective-wisdom-on-ipos)
+*   [IPOs Just Aren’t What They Used To Be](http://avc.com/2010/06/ipos-just-arent-what-they-used-to-be)
+
 Bubble
 *   [The Word Bubble](http://avc.com/2011/04/the-word-bubble)
 *   [Apocalypse and Bubbles](http://avc.com/2010/09/apocalypse-and-bubbles)
