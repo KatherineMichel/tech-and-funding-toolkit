@@ -352,6 +352,9 @@ Bubble
 *   [The Word Bubble](http://avc.com/2011/04/the-word-bubble)
 *   [Apocalypse and Bubbles](http://avc.com/2010/09/apocalypse-and-bubbles)
 
+Twitter Patent
+*   [The IPA](http://avc.com/2013/05/the-ipa)
+*   [The Twitter “Patent Hack”](http://avc.com/2012/04/the-twitter-patent-hack)
 
 
 
