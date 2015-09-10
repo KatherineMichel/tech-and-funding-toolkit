@@ -253,6 +253,10 @@ Carlota Perez and USV Investment Thesis
 *   [My Interview With Carlota Perez](http://avc.com/2011/10/my-interview-of-carlota-perez)
 *   [Technological Revolutions And Financial Capital](http://avc.com/2011/05/technological-revolutions-and-financial-capital)
 
+This for That and Cloning
+*   [This For That](http://avc.com/2014/01/this-for-that)
+*   [Cloning Successful Startups](http://avc.com/2012/04/cloning-successful-startups)
+
 Hobbyists
 *   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
 
