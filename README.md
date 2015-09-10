@@ -125,6 +125,7 @@ Table of Contents
 *   [Jerry Neumann (Reaction Wheel)](http://reactionwheel.net)
 *   [Jessica Livingston](http://foundersatwork.posthaven.com) and [Jessica Livingston Old Blog](http://www.foundersatwork.com/blog.html)
 *   [John Lilly Tumblr](http://lilly.tumblr.com) and [John Lilly Slideshare](http://www.slideshare.net/johnolilly)
+*   [Kanyi Maqubela](http://blog.kanyi.me)
 *   [Leo Polovets](http://codingvc.com)
 *   [Marc Andreessen Archive](http://blog.pmarca.com/archive), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
 *   [Mark Suster](http://www.bothsidesofthetable.com), [Mark Suster Archive](http://www.bothsidesofthetable.com/archive), and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
