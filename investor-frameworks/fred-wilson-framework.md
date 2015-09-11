@@ -334,6 +334,9 @@ Pro Rata
 Participating Preferred
 *   [An Evolved View Of The Participating Preferred](http://avc.com/2010/05/an-evolved-view-of-the-participating-preferred)
 
+Founder Liquidity
+*   [Founder Liquidity (cf. Mark Suster)](http://avc.com/2009/09/founder-liquidity)
+
 Board
 *   [The Perfect Board](http://avc.com/2014/12/the-perfect-board)
 *   [Independent Directors](http://avc.com/2014/07/independent-directors)
