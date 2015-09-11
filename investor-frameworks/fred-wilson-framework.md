@@ -422,6 +422,9 @@ Reinvesting Capital
 Stock Buybacks
 *   [Why I Don’t Like Stock Buybacks](http://avc.com/2010/06/why-i-dont-like-stock-buybacks)
 
+Public Filing
+*   [The Public Filing “Announcement”](http://avc.com/2010/12/the-public-filing-announcement)
+
 IPO
 *   [The Sub $1bn Revenues IPO Act](http://avc.com/2012/03/the-sub-1bn-revenues-ipo-act)
 *   [Some Thoughts On The IPO Market For Web Companies (cf. Chris Dixon)](http://avc.com/2011/12/some-thoughts-on-the-ipo-market-for-web-companies)
