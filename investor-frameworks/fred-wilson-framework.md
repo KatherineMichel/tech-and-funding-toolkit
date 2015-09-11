@@ -459,6 +459,10 @@ Bubble
 *   [The Word Bubble](http://avc.com/2011/04/the-word-bubble)
 *   [Apocalypse and Bubbles](http://avc.com/2010/09/apocalypse-and-bubbles)
 
+Embrace Your Fatness
+*   [The Fat Vs Lean Debate](http://avc.com/2010/05/the-fat-vs-lean-debate)
+*   [Being Fat Is Not Healthy](http://avc.com/2010/03/being-fat-is-not-healthy)
+
 Twitter Patent
 *   [The IPA](http://avc.com/2013/05/the-ipa)
 *   [The Twitter “Patent Hack”](http://avc.com/2012/04/the-twitter-patent-hack)
