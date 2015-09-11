@@ -253,6 +253,9 @@ Carlota Perez and USV Investment Thesis
 *   [My Interview With Carlota Perez](http://avc.com/2011/10/my-interview-of-carlota-perez)
 *   [Technological Revolutions And Financial Capital](http://avc.com/2011/05/technological-revolutions-and-financial-capital)
 
+The Dentist Office Software Story
+*   [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story)
+
 Hobbyists
 *   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
 
@@ -294,6 +297,9 @@ VC- General
 Lead Investor
 *   [Leading vs Following](http://avc.com/2013/09/leading-vs-following)
 *   [What Exactly Is A Lead Investor?](http://avc.com/2011/11/what-exactly-is-a-lead-investor)
+
+Third Party Validation
+*   [On Getting An Outside Lead](http://avc.com/2014/07/getting-an-outside-lead-the-myth-of-third-party-validation)
 
 Milestone Based Investing
 *   [Milestone Based Investing (cf. Chris Dixon)](http://avc.com/2009/08/milestone-based-investing)
@@ -374,8 +380,9 @@ Outsourcing Reversal
 Cohort Analysis
 *   [Cohort Analysis](http://avc.com/2009/10/the-cohort-analysis)
 
-Burn Rate
+Burn Rate and Runway
 *   [Burn Baby Burn (cf. Bill Gurley)](http://avc.com/2014/09/burn-baby-burn)
+*   [Maximizing Runway Can Minimize Success](http://avc.com/2013/09/maximizing-runway-can-minimize-success)
 
 Postmortem
 *   [The Postmortem](http://avc.com/2010/10/the-postmortem)
