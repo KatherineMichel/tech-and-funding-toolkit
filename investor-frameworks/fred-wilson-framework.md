@@ -395,6 +395,13 @@ Burn Rate and Runway
 *   [Burn Baby Burn (cf. Bill Gurley)](http://avc.com/2014/09/burn-baby-burn)
 *   [Maximizing Runway Can Minimize Success](http://avc.com/2013/09/maximizing-runway-can-minimize-success)
 
+Hits and Misses
+*   [Counting The Hits](http://avc.com/2014/04/counting-the-hits)
+*   [Loss Ratios In Early Stage VC](http://avc.com/2013/11/loss-ratios-in-early-stage-vc)
+*   [When Things Don’t Work Out](http://avc.com/2013/03/when-things-dont-work-out)
+*   [Let Your Winners Run](http://avc.com/2012/02/let-your-winners-run)
+*   [Swinging For The Fences](http://avc.com/2009/10/swinging-for-the-fences)
+
 Postmortem
 *   [The Postmortem](http://avc.com/2010/10/the-postmortem)
 
