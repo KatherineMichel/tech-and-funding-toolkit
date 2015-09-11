@@ -346,6 +346,9 @@ Employee Equity, Options and Offer Letters
 *   [How To Allocate Founder and Employee Equity](http://avc.com/2011/04/how-to-allocate-founder-and-employee-equity)
 *   [Equity Grant Math (cf. Chris Dixon)](http://avc.com/2009/08/equity-grant-math)
 
+Cap Tables
+*   [Broken Cap Tables](http://avc.com/2015/01/broken-cap-tables)
+
 Pro Rata
 *   [The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity)
 *   [The Pro-Rata Participation Right](http://avc.com/2014/03/the-pro-rata-participation-right)
@@ -399,6 +402,9 @@ Postmortem
 Billion Dollar Valuations and Checks
 *   [The Billion Dollar Valuation Club](http://avc.com/2013/11/the-billion-dollar-valuation-club)
 *   [Where’s My Billion Dollar Check, I Wonder](http://avc.com/2012/05/wheres-my-billion-dollar-check-i-wonder)
+
+Stock Buybacks
+*   [Why I Don’t Like Stock Buybacks](http://avc.com/2010/06/why-i-dont-like-stock-buybacks)
 
 IPO
 *   [The Sub $1bn Revenues IPO Act](http://avc.com/2012/03/the-sub-1bn-revenues-ipo-act)
