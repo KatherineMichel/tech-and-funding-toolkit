@@ -696,6 +696,8 @@ Special Rules
 *   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
 *   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
 *   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
+*   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
+*   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 
 Securities and Exchange Commission (SEC)
 *   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
