@@ -359,6 +359,9 @@ Outsourcing Reversal
 Cohort Analysis
 *   [Cohort Analysis](http://avc.com/2009/10/the-cohort-analysis)
 
+Burn Rate
+*   [Burn Baby Burn (cf. Bill Gurley)](http://avc.com/2014/09/burn-baby-burn)
+
 Postmortem
 *   [The Postmortem](http://avc.com/2010/10/the-postmortem)
 
