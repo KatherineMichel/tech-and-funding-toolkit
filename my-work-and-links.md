@@ -4,11 +4,11 @@ My Resources
 *   [Kati Michel Twitter Lists](https://twitter.com/KatiMichel/lists), [VC, Accelerator, Startups](https://twitter.com/KatiMichel/lists/vc-accelerator-startups/members)
 *   [Kati Michel Nuzzel Profile](http://nuzzel.com/KatiMichel), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
 
+Toolkit
+* [Tech and Venture Capital Toolkit](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit)
+
 My Previous Sprints
 * [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
-
-My Resources
-* [Tech and Venture Capital Toolkit](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit)
 
 Professional
 *   [AngelList](https://angel.co/katimichel)
