@@ -319,6 +319,7 @@ Competitor Fundraising
 Valuation and Ownership
 *   [The Valuation Trap](http://avc.com/2014/05/the-valuation-trap)
 *   [Valuation vs Ownership](http://avc.com/2013/06/valuation-vs-ownership)
+*   [Doubling Down On The Overpay](http://avc.com/2010/12/doubling-down-on-the-overpay)
 
 Price
 *   [Does Price Matter?](http://avc.com/2010/10/does-price-matter)
@@ -367,9 +368,6 @@ Pro Rata
 Participating Preferred
 *   [An Evolved View Of The Participating Preferred](http://avc.com/2010/05/an-evolved-view-of-the-participating-preferred)
 
-Qualified Small Business Stock
-*  [Qualified Small Business Stock](http://avc.com/2013/07/qualified-small-business-stock)
-
 Founder Liquidity
 *   [Some Thoughts On Founder Liquidity](http://avc.com/2014/12/some-thoughts-on-founder-liquidity)
 *   [Founder Liquidity (cf. Mark Suster)](http://avc.com/2009/09/founder-liquidity)
@@ -417,15 +415,21 @@ Billion Dollar Valuations and Checks
 Revenue Multiples and Growth
 *   [Revenue Multiples And Growth](http://avc.com/2014/12/revenue-multiples-and-growth)
 
+Bimodal Returns
+*   [The Fallacy Of Bimodal Returns](http://avc.com/2010/10/the-fallacy-of-bimodal-returns)
+
 Capital Gains
 *   [The 15% Tax Rate](http://avc.com/2012/01/the-15-tax-rate)
 *   [Why Taxing Carried Interest As Ordinary Income Is Good Policy (Capital Gains)](http://avc.com/2010/05/why-taxing-carried-interest-as-ordinary-income-is-good-policy)
-
+  
 Reinvesting Capital
 *   [Recycling Capital](http://avc.com/2011/04/reinvesting-capital)
 
 Stock Buybacks
 *   [Why I Don’t Like Stock Buybacks](http://avc.com/2010/06/why-i-dont-like-stock-buybacks)
+
+Qualified Small Business Stock
+*  [Qualified Small Business Stock](http://avc.com/2013/07/qualified-small-business-stock)
 
 Public Filing
 *   [The Public Filing “Announcement”](http://avc.com/2010/12/the-public-filing-announcement)
