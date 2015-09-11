@@ -307,13 +307,18 @@ Milestone Based Investing
 Fundraising
 *   [VCs as Gas Stations](http://avc.com/2015/04/vcs-as-gas-stations)
 *   [How Much Money To Raise](http://avc.com/2011/07/how-much-money-to-raise)
+*   [Continuous Financing](http://avc.com/2011/07/continuous-financing)
 *   [Raising Money During The Summer Slowdown](http://avc.com/2010/07/raising-money-during-the-summer-slowdown)
+
+Collusion
+*   [Collusion](http://avc.com/2010/09/collusion)
 
 Competitor Fundraising
 *  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
 
-Valuation
+Valuation and Ownership
 *   [The Valuation Trap](http://avc.com/2014/05/the-valuation-trap)
+*   [Valuation vs Ownership](http://avc.com/2013/06/valuation-vs-ownership)
 
 Price
 *   [Does Price Matter?](http://avc.com/2010/10/does-price-matter)
