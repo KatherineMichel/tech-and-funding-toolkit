@@ -285,6 +285,11 @@ Angel Investing and VC
 *   [Angel Liquidity](http://avc.com/2010/08/angel-liquidity)
 *   [Angel vs VC?](http://avc.com/2010/07/angel-vs-vc)
 
+VC Firm/Syndicate Structure
+*   [Are Universities The New VCs?](http://avc.com/2013/09/are-universities-the-new-vcs)
+*   [VC Syndicates: How Many VCs Is Too Many?](http://avc.com/2010/10/vc-syndicates-how-many-vcs-is-too-many)
+*   [What Is A “Venture Partner” And Why Does It Matter To You?](http://avc.com/2010/08/what-is-a-venture-partner-and-does-it-matter-to-you)
+
 VC- General
 *   [VC Fund Economics](http://avc.com/2014/05/vc-fund-economics)
 *   [The Difference Between Large Funds and Small Funds](http://avc.com/2014/04/the-difference-between-large-funds-and-small-funds)
