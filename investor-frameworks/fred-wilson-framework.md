@@ -291,6 +291,9 @@ Lead Investor
 *   [Leading vs Following](http://avc.com/2013/09/leading-vs-following)
 *   [What Exactly Is A Lead Investor?](http://avc.com/2011/11/what-exactly-is-a-lead-investor)
 
+Milestone Based Investing
+*   [Milestone Based Investing (cf. Chris Dixon)](http://avc.com/2009/08/milestone-based-investing)
+
 Competitor Fundraising
 *  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
 
@@ -339,6 +342,7 @@ Board
 *   [Board or No Board](http://avc.com/2011/03/board-or-no-board/)
 *   [The Agile Board](http://avc.com/2010/05/the-agile-board)
 *   [The Executive Session](http://avc.com/2010/04/the-executive-session)
+*   [Face To Face Board Meetings](http://avc.com/2009/08/face-to-face-board-meetings)
 
 Reception Desk NDAs
 *   [Reception Desk NDAs](http://avc.com/2011/11/reception-desk-ndas)
