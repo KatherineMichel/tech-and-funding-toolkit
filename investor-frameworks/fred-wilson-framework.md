@@ -304,6 +304,10 @@ Third Party Validation
 Milestone Based Investing
 *   [Milestone Based Investing (cf. Chris Dixon)](http://avc.com/2009/08/milestone-based-investing)
 
+Fundraising
+*   [How Much Money To Raise](http://avc.com/2011/07/how-much-money-to-raise)
+*   [Raising Money During The Summer Slowdown](http://avc.com/2010/07/raising-money-during-the-summer-slowdown)
+
 Valuation
 *   [The Valuation Trap](http://avc.com/2014/05/the-valuation-trap)
 
