@@ -315,6 +315,9 @@ Competitor Fundraising
 Valuation
 *   [The Valuation Trap](http://avc.com/2014/05/the-valuation-trap)
 
+Price
+*   [Does Price Matter?](http://avc.com/2010/10/does-price-matter)
+
 Venture Firm Investment Decisions
 *   [Deliberation](http://avc.com/2015/04/deliberation)
 *   [Venture Firm Investment Decisions: Unanimous or Majority Rules?](http://avc.com/2010/10/venture-firm-investment-decisions-unanimous-or-majority-rules)
