@@ -303,6 +303,7 @@ Venture Funding Docs
 
 Term Sheets
 *   [Terms, Term Sheets, and Terminal Value](http://avc.com/2010/07/terms-term-sheets-and-terminal-value)
+*   [The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet) and [The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
 
 Seed Rounds
 *   [More On Seed Rounds](http://avc.com/2015/01/more-on-seed-rounds)
