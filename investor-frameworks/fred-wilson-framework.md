@@ -298,8 +298,8 @@ Lead Investor
 Milestone Based Investing
 *   [Milestone Based Investing (cf. Chris Dixon)](http://avc.com/2009/08/milestone-based-investing)
 
-Competitor Fundraising
-*  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
+Valuation
+*   [The Valuation Trap](http://avc.com/2014/05/the-valuation-trap)
 
 Venture Firm Investment Decisions
 *   [Deliberation](http://avc.com/2015/04/deliberation)
@@ -326,7 +326,8 @@ Convertible Debt
 Milton's Three Things
 *   [Milton’s “Three Things You Must Have”](http://avc.com/2010/11/miltons-three-things-you-must-have)
 
-Employee Equity
+Employee Equity, Options and Offer Letters
+*   [Options and Offer Letters](http://avc.com/2014/04/options-and-offer-letters)
 *   [Employee Equity: Too Little?](http://avc.com/2014/04/employee-equity-too-little)
 *   [How To Allocate Founder and Employee Equity](http://avc.com/2011/04/how-to-allocate-founder-and-employee-equity)
 *   [Equity Grant Math (cf. Chris Dixon)](http://avc.com/2009/08/equity-grant-math)
@@ -338,8 +339,14 @@ Pro Rata
 Participating Preferred
 *   [An Evolved View Of The Participating Preferred](http://avc.com/2010/05/an-evolved-view-of-the-participating-preferred)
 
+Qualified Small Business Stock
+*  [Qualified Small Business Stock](http://avc.com/2013/07/qualified-small-business-stock)
+
 Founder Liquidity
 *   [Founder Liquidity (cf. Mark Suster)](http://avc.com/2009/09/founder-liquidity)
+
+Competitor Fundraising
+*  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
 
 Board
 *   [The Perfect Board](http://avc.com/2014/12/the-perfect-board)
