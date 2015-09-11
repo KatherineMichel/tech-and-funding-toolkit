@@ -386,6 +386,7 @@ Federal Opportunities and Funding
 *   [Federal Business Opportunities](https://www.fbo.gov)  
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 *   [National Science Foundation Funding](https://www.nsf.gov/funding)
+*   [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
 
 #### Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al
   
