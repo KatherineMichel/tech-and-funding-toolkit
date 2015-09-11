@@ -309,6 +309,9 @@ Fundraising
 *   [How Much Money To Raise](http://avc.com/2011/07/how-much-money-to-raise)
 *   [Raising Money During The Summer Slowdown](http://avc.com/2010/07/raising-money-during-the-summer-slowdown)
 
+Competitor Fundraising
+*  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
+
 Valuation
 *   [The Valuation Trap](http://avc.com/2014/05/the-valuation-trap)
 
@@ -363,13 +366,6 @@ Founder Liquidity
 *   [Some Thoughts On Founder Liquidity](http://avc.com/2014/12/some-thoughts-on-founder-liquidity)
 *   [Founder Liquidity (cf. Mark Suster)](http://avc.com/2009/09/founder-liquidity)
 
-Capital Gains
-*   [The 15% Tax Rate](http://avc.com/2012/01/the-15-tax-rate)
-*   [Why Taxing Carried Interest As Ordinary Income Is Good Policy (Capital Gains)](http://avc.com/2010/05/why-taxing-carried-interest-as-ordinary-income-is-good-policy)
-
-Competitor Fundraising
-*  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
-
 Board
 *   [The Perfect Board](http://avc.com/2014/12/the-perfect-board)
 *   [Independent Directors](http://avc.com/2014/07/independent-directors)
@@ -402,6 +398,16 @@ Postmortem
 Billion Dollar Valuations and Checks
 *   [The Billion Dollar Valuation Club](http://avc.com/2013/11/the-billion-dollar-valuation-club)
 *   [Where’s My Billion Dollar Check, I Wonder](http://avc.com/2012/05/wheres-my-billion-dollar-check-i-wonder)
+
+Revenue Multiples and Growth
+*   [Revenue Multiples And Growth](http://avc.com/2014/12/revenue-multiples-and-growth)
+
+Capital Gains
+*   [The 15% Tax Rate](http://avc.com/2012/01/the-15-tax-rate)
+*   [Why Taxing Carried Interest As Ordinary Income Is Good Policy (Capital Gains)](http://avc.com/2010/05/why-taxing-carried-interest-as-ordinary-income-is-good-policy)
+
+Reinvesting Capital
+*   [Recycling Capital](http://avc.com/2011/04/reinvesting-capital)
 
 Stock Buybacks
 *   [Why I Don’t Like Stock Buybacks](http://avc.com/2010/06/why-i-dont-like-stock-buybacks)
