@@ -405,6 +405,10 @@ Hits and Misses
 *   [Let Your Winners Run](http://avc.com/2012/02/let-your-winners-run)
 *   [Swinging For The Fences](http://avc.com/2009/10/swinging-for-the-fences)
 
+Exits
+*   [The Tug Of War Between M&A and VC](http://avc.com/2010/01/the-tug-of-war-between-ma-and-vc)
+*   [Who Decides When To Exit?](http://avc.com/2009/09/who-decides-when-to-exit)
+
 Postmortem
 *   [The Postmortem](http://avc.com/2010/10/the-postmortem)
 
