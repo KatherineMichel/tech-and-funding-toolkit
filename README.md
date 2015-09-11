@@ -557,6 +557,7 @@ Economists, Investors, Philosophers
 *   [Rene Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
 *   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 *   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
+*   [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 
 #### Events, Talks, People
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
