@@ -305,6 +305,9 @@ Venture Firm Investment Decisions
 *   [Deliberation](http://avc.com/2015/04/deliberation)
 *   [Venture Firm Investment Decisions: Unanimous or Majority Rules?](http://avc.com/2010/10/venture-firm-investment-decisions-unanimous-or-majority-rules)
 
+Handshake
+*   [Doing Business On A Handshake](http://avc.com/2013/03/doing-business-on-a-handshake)
+
 Venture Funding Docs
 *   [Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs)
 
