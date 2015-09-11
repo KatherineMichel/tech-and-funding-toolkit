@@ -346,6 +346,7 @@ Qualified Small Business Stock
 *  [Qualified Small Business Stock](http://avc.com/2013/07/qualified-small-business-stock)
 
 Founder Liquidity
+*   [Some Thoughts On Founder Liquidity](http://avc.com/2014/12/some-thoughts-on-founder-liquidity)
 *   [Founder Liquidity (cf. Mark Suster)](http://avc.com/2009/09/founder-liquidity)
 
 Competitor Fundraising
