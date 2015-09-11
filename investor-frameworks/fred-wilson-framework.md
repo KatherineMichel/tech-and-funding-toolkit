@@ -355,6 +355,9 @@ Founder Liquidity
 *   [Some Thoughts On Founder Liquidity](http://avc.com/2014/12/some-thoughts-on-founder-liquidity)
 *   [Founder Liquidity (cf. Mark Suster)](http://avc.com/2009/09/founder-liquidity)
 
+Carried Interest
+*   [Why Taxing Carried Interest As Ordinary Income Is Good Policy (Capital Gains)](http://avc.com/2010/05/why-taxing-carried-interest-as-ordinary-income-is-good-policy)
+
 Competitor Fundraising
 *  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
 
