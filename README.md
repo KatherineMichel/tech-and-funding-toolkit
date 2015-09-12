@@ -1002,6 +1002,7 @@ Analyst Groups
 *   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
 *   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+*   [GMO (Jeremy Grantham)](https://www.gmo.com)
 *   [IDC](http://www.idc.com)
 *   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
