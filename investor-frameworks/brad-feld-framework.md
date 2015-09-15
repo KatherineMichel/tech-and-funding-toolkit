@@ -35,14 +35,6 @@ Term Sheet
 *   [Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
 *   [The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
 
-Liquidation Preference
-*   [Liquidation Preference (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html) 
-*   [Liquidation Preferences](http://www.feld.com/archives/2004/07/liquidation-preferences.html)
-
-Right of First Refusal
-*   [Right of First Refusal (Term Sheet Series)](http://www.feld.com/archives/2005/06/term-sheet-right-of-first-refusal.html) 
-*   [Right of First Refusal](http://www.feld.com/archives/2006/04/right-of-first-refusal.html)
-
 Letter of Intent
 *   [Letter of Intent](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
 *   [Foreplay](http://www.feld.com/archives/2005/09/letter-of-intent-foreplay.html) 
@@ -61,6 +53,13 @@ Letter of Intent
 *   [Fees, Fees, and More Fees](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html) 
 *   [The Joy of Registration Rights](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
 
+Due Diligence
+*   [Is It Appropriate For VCs to Charge a Due Diligence Fee? cf. Fred Wilson](http://www.feld.com/archives/2006/07/is-it-appropriate-for-vcs-to-charge-a-due-diligence-fee.html)
+
+Liquidation Preference
+*   [Liquidation Preference (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html) 
+*   [Liquidation Preferences](http://www.feld.com/archives/2004/07/liquidation-preferences.html)
+
 Pro-Rata and Super Pro-Rata
 *   [Entrepreneurs: Just Say No To Super Pro-Rata Rights cf. Mark Suster](http://www.feld.com/archives/2011/09/entrepreneurs-just-say-no-to-super-pro-rata-rights.html) 
 *   [Seth Levine: What Does Pro-rata Mean?](http://www.feld.com/archives/2004/09/what-does-pro-rata-mean.html) 
@@ -68,6 +67,10 @@ Pro-Rata and Super Pro-Rata
 Stock Option Grants
 *   [A Different Approach to Refreshing Stock Option Grants](http://www.feld.com/archives/2013/01/a-different-approach-to-refreshing-stock-option-grants.html) 
 *   [How to Set The Strike Price on Stock Options](http://www.feld.com/archives/2006/05/how-to-set-the-strike-price-on-stock-options.html) 
+
+Right of First Refusal
+*   [Right of First Refusal (Term Sheet Series)](http://www.feld.com/archives/2005/06/term-sheet-right-of-first-refusal.html) 
+*   [Right of First Refusal](http://www.feld.com/archives/2006/04/right-of-first-refusal.html)
 
 Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
