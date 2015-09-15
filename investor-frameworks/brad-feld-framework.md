@@ -2,6 +2,11 @@ Blog
 *   [Brad Feld Blog](http://www.feld.com) 
 *   [Ask the VC](http://www.askthevc.com) 
 
+Hobbies and Maker Hours
+*   [What Do You Do On The Weekends? (cf. Chris Dixon)](http://www.feld.com/archives/2013/03/what-do-you-do-on-the-weekends.html)
+*   [Lessons From Maker Hours](http://www.feld.com/archives/2012/07/lessons-from-maker-hours.html)
+*   [Shifting Hard To Maker Mode For The Summer (cf. Paul Graham)](http://www.feld.com/archives/2012/06/shifting-hard-to-maker-mode-for-the-summer.html)
+
 Convertible Debt
 *   [How Convertible Debt Works](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html) 
 *   [Is It Important To Understand Convertible Debt Terms?](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
