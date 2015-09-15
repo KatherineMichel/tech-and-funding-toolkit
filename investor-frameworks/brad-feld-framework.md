@@ -149,8 +149,13 @@ Compensation for Board Members, Outside Directors, and Advisors
 *   [Compensation for Outside Directors](http://www.feld.com/archives/2005/06/compensation-for-outside-directors.html)
 *   [How Many Stock Options Should I Give An Advisor?](http://www.feld.com/archives/2006/05/how-many-stock-options-should-i-give-an-advisor.html) 
 
-CEO 360 Review
+Directors and CEOs
+*   [All CEOs Should Be An Outside Director For One Company](http://www.feld.com/archives/2012/08/all-ceos-should-be-an-outside-director-for-one-company.html)
 *   [The Power of a CEO 360 Review](http://www.feld.com/archives/2010/12/the-power-of-a-ceo-360-review.html)
+*   [Talking to Directors](http://www.feld.com/archives/2007/05/talking-to-directors.html)
+*   [Recruiting a New Director](http://www.feld.com/archives/2006/12/recruiting-a-new-director.html)
+*   [Talking To Fellow Directors About Replacing A CEO](http://www.feld.com/archives/2005/09/talking-to-fellow-directors-about-replacing-a-ceo.html)
+*   [Signs That A Board Should Consider Replacing The CEO (cf. Heidi Roizen)](http://www.feld.com/archives/2005/09/signs-that-a-board-should-consider-replacing-the-ceo.html)
 
 Aquihire
 *   [What Acquihire Really Means](http://www.feld.com/archives/2015/07/acquihire-really-means.html) 
