@@ -164,6 +164,10 @@ Domain Names
 *   [founders@yourcompanyname.com](http://www.feld.com/archives/2011/11/foundersyourcompanyname-com.html) 
 *   [Hint To Startups – Use Your Domain In Your Email Address](http://www.feld.com/archives/2010/03/hint-to-startups-use-your-domain-in-your-email-address.html) 
 
+80-19-1 Rule
+*   [More on 80-19-1](http://www.feld.com/archives/2006/09/more-on-80-19-1.html)
+*   [The 80-19-1 Rule](http://www.feld.com/archives/2006/08/the-80-19-1-rule.html)
+
 Code Red
 *   [Code Red](http://www.feld.com/archives/2011/12/code-red.html)
 
