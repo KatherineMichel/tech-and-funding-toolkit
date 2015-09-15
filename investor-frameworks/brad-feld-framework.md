@@ -1,5 +1,5 @@
 Blog
-*   [Brad Feld](http://www.feld.com) 
+*   [Brad Feld Blog](http://www.feld.com) 
 *   [Ask the VC](http://www.askthevc.com) 
 
 Convertible Debt
@@ -55,3 +55,9 @@ Letter of Intent
 *   [The No Shop Clause](http://www.feld.com/archives/2006/04/the-no-shop-clause.html) 
 *   [Fees, Fees, and More Fees](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html) 
 *   [The Joy of Registration Rights](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
+
+Delaware
+*   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
+*   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
+
+
