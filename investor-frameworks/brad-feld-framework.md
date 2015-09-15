@@ -65,6 +65,10 @@ Pro-Rata and Super Pro-Rata
 *   [Entrepreneurs: Just Say No To Super Pro-Rata Rights cf. Mark Suster](http://www.feld.com/archives/2011/09/entrepreneurs-just-say-no-to-super-pro-rata-rights.html) 
 *   [Seth Levine: What Does Pro-rata Mean?](http://www.feld.com/archives/2004/09/what-does-pro-rata-mean.html) 
 
+Stock Option Grants
+*   [A Different Approach to Refreshing Stock Option Grants](http://www.feld.com/archives/2013/01/a-different-approach-to-refreshing-stock-option-grants.html) 
+*   [How to Set The Strike Price on Stock Options](http://www.feld.com/archives/2006/05/how-to-set-the-strike-price-on-stock-options.html) 
+
 Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
 *   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
