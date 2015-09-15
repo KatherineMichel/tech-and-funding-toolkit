@@ -52,6 +52,10 @@ Letter of Intent
 Due Diligence
 *   [Is It Appropriate For VCs to Charge a Due Diligence Fee? (cf. Fred Wilson)](http://www.feld.com/archives/2006/07/is-it-appropriate-for-vcs-to-charge-a-due-diligence-fee.html)
 
+NDAs
+*   [Question Regarding NDAs](http://www.feld.com/archives/2006/10/question-regarding-ndas.html) 
+*   [Why Most VC’s Don’t Sign NDAs](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html) 
+
 No Shop Agreement/Clause
 *   [No Shop Agreement (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-no-shop-agreement.html) 
 *   [The No Shop Clause (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/the-no-shop-clause.html) 
