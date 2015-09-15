@@ -7,6 +7,10 @@ Hobbies and Maker Hours
 *   [Lessons From Maker Hours](http://www.feld.com/archives/2012/07/lessons-from-maker-hours.html)
 *   [Shifting Hard To Maker Mode For The Summer (cf. Paul Graham)](http://www.feld.com/archives/2012/06/shifting-hard-to-maker-mode-for-the-summer.html)
 
+Competition and First Mover
+*   [Competition](http://www.feld.com/archives/2011/07/competition.html) 
+*   [The First Mover](http://www.feld.com/archives/2011/08/be-the-first-mover.html) 
+
 Convertible Debt
 *   [How Convertible Debt Works (Term Sheet Series)](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html) 
 *   [Is It Important To Understand Convertible Debt Terms? (Term Sheet Series)](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
