@@ -105,6 +105,13 @@ Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
 *   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
 
+Bershire Hathaway
+*   [Berkshire Hathaway’s 2006 Chairman’s Letter](http://www.feld.com/archives/2007/03/berkshire-hathaways-2006-chairmans-letter.html) 
+*   [Berkshire Hathaway holdings as of 6/30/05](http://www.feld.com/archives/2005/08/berkshire-hathaway-holdings-as-of-63005.html) 
+*   [Warren Buffet’s Annual Shareholder Letter](http://www.feld.com/archives/2005/03/warren-buffets-annual-shareholder-letter.html) 
+*   [Requests for The Buffett Letters](http://www.feld.com/archives/2005/04/requests-for-the-buffett-letters.html) 
+*   [WThe Buffett Letters](http://www.feld.com/archives/2005/04/the-buffett-letters.html) 
+
 Board of Directors
 *   [Board of Directors (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-board-of-directors.html) 
 
