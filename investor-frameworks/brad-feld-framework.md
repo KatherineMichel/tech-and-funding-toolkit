@@ -8,7 +8,6 @@ Convertible Debt
 
 Term Sheet
 *   [Price](http://www.feld.com/archives/2005/01/term-sheet-price.html) 
-*   [Liquidation Preference](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html) 
 *   [Board of Directors](http://www.feld.com/archives/2005/01/term-sheet-board-of-directors.html) 
 *   [Protective Provisions](http://www.feld.com/archives/2005/01/term-sheet-protective-provisions.html) 
 *   [Drag Along](http://www.feld.com/archives/2005/02/term-sheet-drag-along.html) 
@@ -36,6 +35,10 @@ Term Sheet
 *   [Revisiting the Term Sheet](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
 *   [Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
 *   [The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
+
+Liquidation Preference
+*   [Liquidation Preference (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html) 
+*   [Liquidation Preferences](http://www.feld.com/archives/2004/07/liquidation-preferences.html)
 
 Right of First Refusal
 *   [Right of First Refusal (Term Sheet Series)](http://www.feld.com/archives/2005/06/term-sheet-right-of-first-refusal.html) 
