@@ -8,7 +8,6 @@ Convertible Debt
 
 Term Sheet
 *   [Price](http://www.feld.com/archives/2005/01/term-sheet-price.html) 
-*   [Board of Directors](http://www.feld.com/archives/2005/01/term-sheet-board-of-directors.html) 
 *   [Protective Provisions](http://www.feld.com/archives/2005/01/term-sheet-protective-provisions.html) 
 *   [Drag Along](http://www.feld.com/archives/2005/02/term-sheet-drag-along.html) 
 *   [Anti-Dilution](http://www.feld.com/archives/2005/03/term-sheet-anti-dilution.html) 
@@ -69,6 +68,9 @@ Pro-Rata and Super Pro-Rata
 Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
 *   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
+
+Board of Directors
+*   [Board of Directors (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-board-of-directors.html) 
 
 Compensation for Board Members, Outside Directors, and Advisors
 *   [Compensation for Board Members](http://www.feld.com/archives/2005/04/compensation-for-board-members.html) 
