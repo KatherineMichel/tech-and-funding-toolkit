@@ -70,4 +70,13 @@ Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
 *   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
 
+Compensation for Board Members, Outside Directors, and Advisors
+*   [Compensation for Board Members](http://www.feld.com/archives/2005/04/compensation-for-board-members.html) 
+*   [The Best Approach To A Board Package](http://www.feld.com/archives/2013/01/the-best-approach-to-a-board-package.html) 
+*   [PDF Your Board Package](http://www.feld.com/archives/2006/06/pdf-your-board-package.html) 
+*   [Compensation for Outside Directors](http://www.feld.com/archives/2005/06/compensation-for-outside-directors.html)
+*   [How Many Stock Options Should I Give An Advisor?](http://www.feld.com/archives/2006/05/how-many-stock-options-should-i-give-an-advisor.html) 
+
+
+
 
