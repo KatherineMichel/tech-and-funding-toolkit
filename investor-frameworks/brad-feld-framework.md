@@ -52,6 +52,14 @@ Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
 *   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
 
+Feld Technologies (Business Plan Case Study)
+*   [Business Plan – The Company](http://www.feld.com/archives/2006/01/business-plan-the-company.html)
+*   [Business Plan: Introduction: The Rise of Databases](http://www.feld.com/archives/2005/11/business-plan-introduction-the-rise-of-databases.html)
+*   [Business Plan – The Industry: Introduction](http://www.feld.com/archives/2005/11/business-plan-the-industry-introduction.html)
+*   [Business Plan – Charter](http://www.feld.com/archives/2005/11/business-plan-charter.html)
+*   [The Business Plan](http://www.feld.com/archives/2005/11/the-business-plan.html)
+*   [Precepts](http://www.feld.com/archives/2004/10/precepts.html)
+
 Sayahh (Finance Fridays/Term Sheet Series Case Study)
 *   [SayAhh Has Shut Down](http://www.feld.com/archives/2011/12/sayahh-has-shut-down.html) 
 *   [SayAhh’s Revenue Projections](http://www.feld.com/archives/2011/10/sayahh%E2%80%99s-revenue-projections.html)
