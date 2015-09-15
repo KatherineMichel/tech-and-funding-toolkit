@@ -90,6 +90,7 @@ No Shop Agreement/Clause
 
 Liquidation Preference
 *   [Liquidation Preference (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html) 
+*   [To Participate or Not (Participating Preferences)](http://www.feld.com/archives/2004/08/to-participate-or-not-participating-preferences.html)
 *   [Liquidation Preferences](http://www.feld.com/archives/2004/07/liquidation-preferences.html)
 
 Pro-Rata and Super Pro-Rata
