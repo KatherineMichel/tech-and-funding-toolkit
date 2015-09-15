@@ -149,6 +149,9 @@ Interviewing, Recruiting, and The Compensation Conversation
 Code Red
 *   [Code Red](http://www.feld.com/archives/2011/12/code-red.html)
 
+Giving Up Salary
+*   [Giving Up Salary for Equity After VC Funding](http://www.feld.com/archives/2006/06/giving-up-salary-for-equity-after-vc-funding.html)
+
 Restarts and Negative Overhang
 *   [Do Restarts Have A Negative Overhang?](http://www.feld.com/archives/2006/01/do-restarts-have-a-negative-overhang.html) 
 
