@@ -89,8 +89,16 @@ Right of First Refusal
 Escrow
 *   [Escrow (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html) 
 
+Audits- General
+*   [Auditors Make Me Insane](http://www.feld.com/archives/2008/02/auditors-make-me-insane.html) 
+*   [Audits – do them early](http://www.feld.com/archives/2004/10/audits-do-them-early.html) 
+
+Audits- FAS 157 ("fair value measurement")
+*   [FAS 157 – Another Annoying Accounting Provision](http://www.feld.com/archives/2008/06/fas-157-another-annoying-accounting-provision.html)
+*   [FAS 157 – The Eternal Sunshine of the Spotless Audit](http://www.feld.com/archives/2008/01/fas-157-the-eternal-sunshine-of-the-spotless-audit.html) 
+
 Signaling
-*   [Entrepreneurs Dislike Signaling; VCs Dislike Free Riders](http://www.feld.com/archives/2010/09/entrepreneurs-dislike-signaling-vcs-dislike-free-riders.html ) 
+*   [Entrepreneurs Dislike Signaling; VCs Dislike Free Riders](http://www.feld.com/archives/2010/09/entrepreneurs-dislike-signaling-vcs-dislike-free-riders.html) 
 *   [Addressing The VC Seed Investor Signaling Problem](http://www.feld.com/archives/2010/09/addressing-the-vc-seed-investor-signaling-problem.html) 
 
 Delaware
