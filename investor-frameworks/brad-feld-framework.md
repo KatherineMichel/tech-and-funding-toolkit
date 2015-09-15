@@ -20,7 +20,6 @@ Term Sheet
 *   [Conditions Precedent to Financing](http://www.feld.com/archives/2005/04/term-sheet-conditions-precedent-to-financing.html) 
 *   [Vesting](http://www.feld.com/archives/2005/05/term-sheet-vesting.html) 
 *   [Information and Registration Rights](http://www.feld.com/archives/2005/06/term-sheet-information-and-registration-rights.html) 
-*   [Right of First Refusal](http://www.feld.com/archives/2005/06/term-sheet-right-of-first-refusal.html) 
 *   [Voting Rights and Employee Pool](http://www.feld.com/archives/2005/07/term-sheet-voting-rights-and-employee-pool.html) 
 *   [Restriction on Sales, Proprietary Inventions, and Co-Sale Agreement](http://www.feld.com/archives/2005/07/term-sheet-restriction-on-sales-proprietary-inventions-and-co-sale-agreement.html) 
 *   [Founders Activities](http://www.feld.com/archives/2005/07/term-sheet-founders-activities.html) 
@@ -37,6 +36,10 @@ Term Sheet
 *   [Revisiting the Term Sheet](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
 *   [Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
 *   [The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
+
+Right of First Refusal
+*   [Right of First Refusal (Term Sheet Series)](http://www.feld.com/archives/2005/06/term-sheet-right-of-first-refusal.html) 
+*   [Right of First Refusal](http://www.feld.com/archives/2006/04/right-of-first-refusal.html)
 
 Letter of Intent
 *   [Letter of Intent](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
@@ -55,6 +58,10 @@ Letter of Intent
 *   [The No Shop Clause](http://www.feld.com/archives/2006/04/the-no-shop-clause.html) 
 *   [Fees, Fees, and More Fees](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html) 
 *   [The Joy of Registration Rights](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
+
+Pro-Rata and Super Pro-Rata
+*   [Entrepreneurs: Just Say No To Super Pro-Rata Rights cf. Mark Suster](http://www.feld.com/archives/2011/09/entrepreneurs-just-say-no-to-super-pro-rata-rights.html) 
+*   [Seth Levine: What Does Pro-rata Mean?](http://www.feld.com/archives/2004/09/what-does-pro-rata-mean.html) 
 
 Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
