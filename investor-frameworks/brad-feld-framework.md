@@ -16,6 +16,16 @@ Market Fit
 *   [Founder Market Fit](http://www.feld.com/archives/2012/08/founder-market-fit.html) 
 
 VC- General
+*   [Why VCs Should Recycle Their Management Fees](http://www.feld.com/archives/2014/05/vcs-recycle-management-fees.html)
+*   [Spending The Day With Another VC Firm](http://www.feld.com/archives/2014/05/spending-day-another-vc-firm.html)
+*   [How To Respond To A Cold Call Email From An Associate At A Big VC Firm](http://www.feld.com/archives/2012/08/how-to-respond-to-a-cold-call-email-from-an-associate-at-a-big-vc-firm.html)
+*   [Dear GP: Why Are You Blowing Me Off?](http://www.feld.com/archives/2011/07/dear-gp-why-are-you-blowing-me-off.html)
+*   [Give Your VCs Assignments (cf. Mark Suster)](http://www.feld.com/archives/2010/05/give-your-vcs-assignments.html)
+*   [Investment vs. Speculation](http://www.feld.com/archives/2009/03/investment-vs-speculation.html)
+*   [How To Get A Job In Venture Capital](http://www.feld.com/archives/2008/05/how-to-get-a-job-in-venture-capital.html)
+*   [A Mental Model For VC Investments](http://www.feld.com/archives/2006/05/a-mental-model-for-vc-investments.html)
+*   [Are You Accredited?](http://www.feld.com/archives/2006/03/are-you-accredited.html)
+*   [Venture Capital Deal Algebra](http://www.feld.com/archives/2004/07/venture-capital-deal-algebra.html)
 
 Angel Investors- General
 *   [Are Individual Angel Investors Starting To Get Tapped Out?](http://www.feld.com/archives/2015/09/individual-angel-investors-starting-get-tapped.html)
