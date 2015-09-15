@@ -126,10 +126,7 @@ Interviewing, Recruiting, and The Compensation Conversation
 Aquihire
 *   [What Acquihire Really Means](http://www.feld.com/archives/2015/07/acquihire-really-means.html) 
  
-
-
-
-
-
-
+Agents
+*   [Is Your Placement Agent Legit?](http://www.feld.com/archives/2006/01/is-your-placement-agent-legit.html)
+*   [Investment Agents – Good or Bad?](http://www.feld.com/archives/2005/12/investment-agents-good-or-bad.html)
 
