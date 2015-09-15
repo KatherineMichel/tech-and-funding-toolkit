@@ -22,7 +22,6 @@ Term Sheet
 *   [Restriction on Sales, Proprietary Inventions, and Co-Sale Agreement](http://www.feld.com/archives/2005/07/term-sheet-restriction-on-sales-proprietary-inventions-and-co-sale-agreement.html) 
 *   [Founders Activities](http://www.feld.com/archives/2005/07/term-sheet-founders-activities.html) 
 *   [Initial Public Offering Shares Purchase](http://www.feld.com/archives/2005/07/term-sheet-initial-public-offering-shares-purchase.html) 
-*   [No Shop Agreement](http://www.feld.com/archives/2005/08/term-sheet-no-shop-agreement.html) 
 *   [Unilateral or Serial Monogamy](http://www.feld.com/archives/2005/08/unilateral-or-serial-monogamy.html) 
 *   [Indemnification and Assignment](http://www.feld.com/archives/2005/08/term-sheet-indemnification-and-assignment.html) 
 *   [Term Sheet Series Wrap Up](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html) 
@@ -47,12 +46,15 @@ Letter of Intent
 *   [Confidentiality / Non-Disclosure Agreement](http://www.feld.com/archives/2006/02/letter-of-intent-confidentiality-non-disclosure-agreement.html) 
 *   [Employee Matters](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html) 
 *   [Conditions to Close](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html)
-*   [The No Shop Clause](http://www.feld.com/archives/2006/04/the-no-shop-clause.html) 
 *   [Fees, Fees, and More Fees](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html) 
 *   [The Joy of Registration Rights](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
 
 Due Diligence
 *   [Is It Appropriate For VCs to Charge a Due Diligence Fee? (cf. Fred Wilson)](http://www.feld.com/archives/2006/07/is-it-appropriate-for-vcs-to-charge-a-due-diligence-fee.html)
+
+No Shop Agreement/Clause
+*   [No Shop Agreement (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-no-shop-agreement.html) 
+*   [The No Shop Clause (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/the-no-shop-clause.html) 
 
 Liquidation Preference
 *   [Liquidation Preference (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html) 
