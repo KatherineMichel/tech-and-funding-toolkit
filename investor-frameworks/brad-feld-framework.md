@@ -1,3 +1,7 @@
+Blog
+*   [Brad Feld](http://www.feld.com) 
+*   [Ask the VC](http://www.askthevc.com) 
+
 Convertible Debt
 *   [How Convertible Debt Works](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html) 
 *   [Is It Important To Understand Convertible Debt Terms?](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
