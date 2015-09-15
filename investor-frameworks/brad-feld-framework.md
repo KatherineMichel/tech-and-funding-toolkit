@@ -15,6 +15,10 @@ Signaling
 *   [Entrepreneurs Dislike Signaling; VCs Dislike Free Riders](http://www.feld.com/archives/2010/09/entrepreneurs-dislike-signaling-vcs-dislike-free-riders.html) 
 *   [Addressing The VC Seed Investor Signaling Problem](http://www.feld.com/archives/2010/09/addressing-the-vc-seed-investor-signaling-problem.html) 
 
+Getting Attention
+*   [Getting A VC's Attention (cf. Fred Wilson)](http://www.feld.com/archives/2008/03/getting-a-vcs-attention.html) 
+*   [Getting My Attention](http://www.feld.com/archives/2007/11/getting-my-attention.html) 
+
 Saying No, Why Am I Passing, Asking for a Referral
 *   [Saying No In Less Than 60 Seconds](http://www.feld.com/archives/2009/06/say-no-in-less-than-60-seconds.html) 
 *   [Why Am I Passing?](http://www.feld.com/archives/2008/02/why-am-i-passing.html) 
