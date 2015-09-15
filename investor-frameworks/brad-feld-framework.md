@@ -8,36 +8,38 @@ Hobbies and Maker Hours
 *   [Shifting Hard To Maker Mode For The Summer (cf. Paul Graham)](http://www.feld.com/archives/2012/06/shifting-hard-to-maker-mode-for-the-summer.html)
 
 Convertible Debt
-*   [How Convertible Debt Works](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html) 
-*   [Is It Important To Understand Convertible Debt Terms?](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
+*   [How Convertible Debt Works (Term Sheet Series)](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html) 
+*   [Is It Important To Understand Convertible Debt Terms? (Term Sheet Series)](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
+
+Term Sheet- General
+*   [Revisiting the Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
+*   [Terms, Terms, and First Round Terms (Term Sheet Series) (cf. Fred Wilson)](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
+*   [The Challenge of The Ideal First Round Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
 
 Term Sheet
-*   [Price](http://www.feld.com/archives/2005/01/term-sheet-price.html) 
-*   [Protective Provisions](http://www.feld.com/archives/2005/01/term-sheet-protective-provisions.html) 
-*   [Drag Along](http://www.feld.com/archives/2005/02/term-sheet-drag-along.html) 
-*   [Anti-Dilution](http://www.feld.com/archives/2005/03/term-sheet-anti-dilution.html) 
-*   [Pay-to-Play](http://www.feld.com/archives/2005/03/term-sheet-pay-to-play.html) 
-*   [Dividends](http://www.feld.com/archives/2005/03/term-sheet-dividends.html) 
-*   [Redemption Rights](http://www.feld.com/archives/2005/03/term-sheet-redemption-rights.html) 
-*   [Conversion](http://www.feld.com/archives/2005/04/term-sheet-conversion.html) 
-*   [Conditions Precedent to Financing](http://www.feld.com/archives/2005/04/term-sheet-conditions-precedent-to-financing.html) 
-*   [Vesting](http://www.feld.com/archives/2005/05/term-sheet-vesting.html) 
-*   [Information and Registration Rights](http://www.feld.com/archives/2005/06/term-sheet-information-and-registration-rights.html) 
-*   [Voting Rights and Employee Pool](http://www.feld.com/archives/2005/07/term-sheet-voting-rights-and-employee-pool.html) 
-*   [Restriction on Sales, Proprietary Inventions, and Co-Sale Agreement](http://www.feld.com/archives/2005/07/term-sheet-restriction-on-sales-proprietary-inventions-and-co-sale-agreement.html) 
-*   [Founders Activities](http://www.feld.com/archives/2005/07/term-sheet-founders-activities.html) 
-*   [Initial Public Offering Shares Purchase](http://www.feld.com/archives/2005/07/term-sheet-initial-public-offering-shares-purchase.html) 
-*   [Unilateral or Serial Monogamy](http://www.feld.com/archives/2005/08/unilateral-or-serial-monogamy.html) 
-*   [Indemnification and Assignment](http://www.feld.com/archives/2005/08/term-sheet-indemnification-and-assignment.html) 
-*   [Term Sheet Series Wrap Up](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html) 
-*   [Contentious Issues and Lawyers](http://www.feld.com/archives/2005/12/term-sheets-contentious-issues-and-lawyers.html) 
-*   [An Entrepreneur on Term Sheet Terms](http://www.feld.com/archives/2006/01/an-entrepreneur-on-term-sheet-terms.html) 
-*   [Compelled Sale Right](http://www.feld.com/archives/2006/06/term-sheet-compelled-sale-right.html) 
-*   [Annoying Term Sheet Things](http://www.feld.com/archives/2006/09/annoying-term-sheet-things.html) 
-*   [Entrepreneurs Blogging About Term Sheets](http://www.feld.com/archives/2007/04/entrepreneurs-blogging-about-term-sheets.html) 
-*   [Revisiting the Term Sheet](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
-*   [Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
-*   [The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
+*   [Price (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-price.html) 
+*   [Protective Provisions (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-protective-provisions.html) 
+*   [Drag Along (Term Sheet Series)](http://www.feld.com/archives/2005/02/term-sheet-drag-along.html) 
+*   [Anti-Dilution (Term Sheet Series)](http://www.feld.com/archives/2005/03/term-sheet-anti-dilution.html) 
+*   [Pay-to-Play (Term Sheet Series)](http://www.feld.com/archives/2005/03/term-sheet-pay-to-play.html) 
+*   [Dividends (Term Sheet Series)](http://www.feld.com/archives/2005/03/term-sheet-dividends.html) 
+*   [Redemption Rights (Term Sheet Series)](http://www.feld.com/archives/2005/03/term-sheet-redemption-rights.html) 
+*   [Conversion (Term Sheet Series)](http://www.feld.com/archives/2005/04/term-sheet-conversion.html) 
+*   [Conditions Precedent to Financing (Term Sheet Series)](http://www.feld.com/archives/2005/04/term-sheet-conditions-precedent-to-financing.html) 
+*   [Vesting (Term Sheet Series)](http://www.feld.com/archives/2005/05/term-sheet-vesting.html) 
+*   [Information and Registration Rights (Term Sheet Series)](http://www.feld.com/archives/2005/06/term-sheet-information-and-registration-rights.html) 
+*   [Voting Rights and Employee Pool (Term Sheet Series)](http://www.feld.com/archives/2005/07/term-sheet-voting-rights-and-employee-pool.html) 
+*   [Restriction on Sales, Proprietary Inventions, and Co-Sale Agreement (Term Sheet Series)](http://www.feld.com/archives/2005/07/term-sheet-restriction-on-sales-proprietary-inventions-and-co-sale-agreement.html) 
+*   [Founders Activities (Term Sheet Series)](http://www.feld.com/archives/2005/07/term-sheet-founders-activities.html) 
+*   [Initial Public Offering Shares Purchase (Term Sheet Series)](http://www.feld.com/archives/2005/07/term-sheet-initial-public-offering-shares-purchase.html) 
+*   [Unilateral or Serial Monogamy (Term Sheet Series)](http://www.feld.com/archives/2005/08/unilateral-or-serial-monogamy.html) 
+*   [Indemnification and Assignment (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-indemnification-and-assignment.html) 
+*   [Term Sheet Series Wrap Up (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html) 
+*   [Contentious Issues and Lawyers (Term Sheet Series)](http://www.feld.com/archives/2005/12/term-sheets-contentious-issues-and-lawyers.html) 
+*   [An Entrepreneur on Term Sheet Terms (Term Sheet Series)](http://www.feld.com/archives/2006/01/an-entrepreneur-on-term-sheet-terms.html) 
+*   [Compelled Sale Right (Term Sheet Series)](http://www.feld.com/archives/2006/06/term-sheet-compelled-sale-right.html) 
+*   [Annoying Term Sheet Things (Term Sheet Series)](http://www.feld.com/archives/2006/09/annoying-term-sheet-things.html) 
+*   [Entrepreneurs Blogging About Term Sheets (Term Sheet Series)](http://www.feld.com/archives/2007/04/entrepreneurs-blogging-about-term-sheets.html) 
 
 Letter of Intent
 *   [Letter of Intent (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
@@ -50,7 +52,6 @@ Letter of Intent
 *   [Employee Matters (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html) 
 *   [Conditions to Close (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html)
 *   [Fees, Fees, and More Fees (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html) 
-*   [The Joy of Registration Rights (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
 
 Due Diligence
 *   [Is It Appropriate For VCs to Charge a Due Diligence Fee? (cf. Fred Wilson)](http://www.feld.com/archives/2006/07/is-it-appropriate-for-vcs-to-charge-a-due-diligence-fee.html)
@@ -72,18 +73,21 @@ Pro-Rata and Super Pro-Rata
 *   [Entrepreneurs: Just Say No To Super Pro-Rata Rights (cf. Mark Suster)](http://www.feld.com/archives/2011/09/entrepreneurs-just-say-no-to-super-pro-rata-rights.html) 
 *   [Seth Levine: What Does Pro-rata Mean?](http://www.feld.com/archives/2004/09/what-does-pro-rata-mean.html) 
 
-Escrow
-*   [Escrow (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html) 
-
 Stock Option Grants
 *   [A Different Approach to Refreshing Stock Option Grants](http://www.feld.com/archives/2013/01/a-different-approach-to-refreshing-stock-option-grants.html) 
 *   [How to Set The Strike Price on Stock Options](http://www.feld.com/archives/2006/05/how-to-set-the-strike-price-on-stock-options.html) 
 *   [Assumption of Stock Options (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-assumption-of-stock-options.html) 
 *   [Two Last Things On Assumption of Stock Options (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/two-last-things-on-assumption-of-stock-options.html) 
 
+Registration Rights
+*   [The Joy of Registration Rights (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
+
 Right of First Refusal
 *   [Right of First Refusal (Term Sheet Series)](http://www.feld.com/archives/2005/06/term-sheet-right-of-first-refusal.html) 
 *   [Right of First Refusal](http://www.feld.com/archives/2006/04/right-of-first-refusal.html)
+
+Escrow
+*   [Escrow (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html) 
 
 Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
