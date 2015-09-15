@@ -40,24 +40,24 @@ Term Sheet
 *   [The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
 
 Letter of Intent
-*   [Letter of Intent](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
-*   [Foreplay](http://www.feld.com/archives/2005/09/letter-of-intent-foreplay.html) 
-*   [Structure of a Deal](http://www.feld.com/archives/2005/10/letter-of-intent-structure-of-a-deal.html) 
-*   [Structure – Asset vs. Stock](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html) 
-*   [Asset Sale – Heart or Leaves?](http://www.feld.com/archives/2005/11/asset-sale-heart-or-leaves.html) 
-*   [Form of Consideration](http://www.feld.com/archives/2005/11/letter-of-intent-form-of-consideration.html) 
-*   [Representations, Warranties, and Indemnification](http://www.feld.com/archives/2006/01/letter-of-intent-representations-warranties-and-indemnification.html) 
-*   [Confidentiality / Non-Disclosure Agreement](http://www.feld.com/archives/2006/02/letter-of-intent-confidentiality-non-disclosure-agreement.html) 
-*   [Employee Matters](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html) 
-*   [Conditions to Close](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html)
-*   [Fees, Fees, and More Fees](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html) 
-*   [The Joy of Registration Rights](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
+*   [Letter of Intent (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
+*   [Foreplay (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/09/letter-of-intent-foreplay.html) 
+*   [Structure of a Deal (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/10/letter-of-intent-structure-of-a-deal.html) 
+*   [Structure – Asset vs. Stock (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html) 
+*   [Asset Sale – Heart or Leaves? (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/asset-sale-heart-or-leaves.html) 
+*   [Form of Consideration (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/letter-of-intent-form-of-consideration.html) 
+*   [Representations, Warranties, and Indemnification (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-representations-warranties-and-indemnification.html) 
+*   [Employee Matters (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html) 
+*   [Conditions to Close (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html)
+*   [Fees, Fees, and More Fees (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html) 
+*   [The Joy of Registration Rights (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
 
 Due Diligence
 *   [Is It Appropriate For VCs to Charge a Due Diligence Fee? (cf. Fred Wilson)](http://www.feld.com/archives/2006/07/is-it-appropriate-for-vcs-to-charge-a-due-diligence-fee.html)
 
-NDAs
+Confidentiality/Non-Disclosure Agreements
 *   [Question Regarding NDAs](http://www.feld.com/archives/2006/10/question-regarding-ndas.html) 
+*   [Confidentiality / Non-Disclosure Agreement (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/02/letter-of-intent-confidentiality-non-disclosure-agreement.html) 
 *   [Why Most VC’s Don’t Sign NDAs](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html) 
 
 No Shop Agreement/Clause
