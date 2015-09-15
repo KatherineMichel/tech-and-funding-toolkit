@@ -24,6 +24,12 @@ Saying No, Why Am I Passing, Asking for a Referral
 *   [Why Am I Passing?](http://www.feld.com/archives/2008/02/why-am-i-passing.html) 
 *   [Why Am I Passing?](http://www.feld.com/archives/2007/11/dont-ask-for-a-referral-if-i-say-no.html) 
 
+Delaware
+*   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
+*   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
+
+Seed Series
+
 Convertible Debt
 *   [How Convertible Debt Works (Term Sheet Series)](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html) 
 *   [Is It Important To Understand Convertible Debt Terms? (Term Sheet Series)](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
@@ -114,17 +120,6 @@ Audits- FAS 157 ("fair value measurement")
 *   [FAS 157 – Another Annoying Accounting Provision](http://www.feld.com/archives/2008/06/fas-157-another-annoying-accounting-provision.html)
 *   [FAS 157 – The Eternal Sunshine of the Spotless Audit](http://www.feld.com/archives/2008/01/fas-157-the-eternal-sunshine-of-the-spotless-audit.html) 
 
-Delaware
-*   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
-*   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
-
-Bershire Hathaway
-*   [Berkshire Hathaway’s 2006 Chairman’s Letter](http://www.feld.com/archives/2007/03/berkshire-hathaways-2006-chairmans-letter.html) 
-*   [Berkshire Hathaway holdings as of 6/30/05](http://www.feld.com/archives/2005/08/berkshire-hathaway-holdings-as-of-63005.html) 
-*   [Warren Buffet’s Annual Shareholder Letter](http://www.feld.com/archives/2005/03/warren-buffets-annual-shareholder-letter.html) 
-*   [Requests for The Buffett Letters](http://www.feld.com/archives/2005/04/requests-for-the-buffett-letters.html) 
-*   [WThe Buffett Letters](http://www.feld.com/archives/2005/04/the-buffett-letters.html) 
-
 Board of Directors
 *   [Board of Directors (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-board-of-directors.html) 
 
@@ -135,6 +130,9 @@ Compensation for Board Members, Outside Directors, and Advisors
 *   [Compensation for Outside Directors](http://www.feld.com/archives/2005/06/compensation-for-outside-directors.html)
 *   [How Many Stock Options Should I Give An Advisor?](http://www.feld.com/archives/2006/05/how-many-stock-options-should-i-give-an-advisor.html) 
 
+Aquihire
+*   [What Acquihire Really Means](http://www.feld.com/archives/2015/07/acquihire-really-means.html) 
+ 
 HR and Operations- General
 
 Domain Names
@@ -147,21 +145,23 @@ Interviewing, Recruiting, and The Compensation Conversation
 *   [More On Recruiting Programmers To Your Startup](http://www.feld.com/archives/2011/12/more-on-recruiting-programmers-to-your-startup.html)
 *   [Getting The Compensation Conversation Right](http://www.feld.com/archives/2012/05/getting-the-compensation-conversation-right.html)
 
-Aquihire
-*   [What Acquihire Really Means](http://www.feld.com/archives/2015/07/acquihire-really-means.html) 
- 
+Code Red
+*   [Code Red](http://www.feld.com/archives/2011/12/code-red.html)
+
 Restarts and Negative Overhang
 *   [Do Restarts Have A Negative Overhang?](http://www.feld.com/archives/2006/01/do-restarts-have-a-negative-overhang.html) 
+
+Failed Startup
+*   [Have A Wake For Failed Startups](http://www.feld.com/archives/2012/07/have-a-wake-for-failed-startups.html)
 
 Agents
 *   [Is Your Placement Agent Legit?](http://www.feld.com/archives/2006/01/is-your-placement-agent-legit.html)
 *   [Investment Agents – Good or Bad?](http://www.feld.com/archives/2005/12/investment-agents-good-or-bad.html)
 
-Code Red
-*   [Code Red](http://www.feld.com/archives/2011/12/code-red.html)
-
-Failed Startup
-*   [Have A Wake For Failed Startups](http://www.feld.com/archives/2012/07/have-a-wake-for-failed-startups.html)
-
-
+Bershire Hathaway
+*   [Berkshire Hathaway’s 2006 Chairman’s Letter](http://www.feld.com/archives/2007/03/berkshire-hathaways-2006-chairmans-letter.html) 
+*   [Berkshire Hathaway holdings as of 6/30/05](http://www.feld.com/archives/2005/08/berkshire-hathaway-holdings-as-of-63005.html) 
+*   [Warren Buffet’s Annual Shareholder Letter](http://www.feld.com/archives/2005/03/warren-buffets-annual-shareholder-letter.html) 
+*   [Requests for The Buffett Letters](http://www.feld.com/archives/2005/04/requests-for-the-buffett-letters.html) 
+*   [WThe Buffett Letters](http://www.feld.com/archives/2005/04/the-buffett-letters.html) 
 
