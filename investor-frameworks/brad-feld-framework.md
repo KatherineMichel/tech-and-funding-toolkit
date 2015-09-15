@@ -44,7 +44,6 @@ Letter of Intent
 *   [Form of Consideration](http://www.feld.com/archives/2005/11/letter-of-intent-form-of-consideration.html) 
 *   [Assumption of Stock Options](http://www.feld.com/archives/2006/01/letter-of-intent-assumption-of-stock-options.html) 
 *   [Representations, Warranties, and Indemnification](http://www.feld.com/archives/2006/01/letter-of-intent-representations-warranties-and-indemnification.html) 
-*   [Escrow](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html) 
 *   [Confidentiality / Non-Disclosure Agreement](http://www.feld.com/archives/2006/02/letter-of-intent-confidentiality-non-disclosure-agreement.html) 
 *   [Employee Matters](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html) 
 *   [Conditions to Close](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html)
@@ -53,20 +52,23 @@ Letter of Intent
 *   [The Joy of Registration Rights](http://www.feld.com/archives/2006/05/the-joy-of-registration-rights.html) 
 
 Due Diligence
-*   [Is It Appropriate For VCs to Charge a Due Diligence Fee? cf. Fred Wilson](http://www.feld.com/archives/2006/07/is-it-appropriate-for-vcs-to-charge-a-due-diligence-fee.html)
+*   [Is It Appropriate For VCs to Charge a Due Diligence Fee? (cf. Fred Wilson)](http://www.feld.com/archives/2006/07/is-it-appropriate-for-vcs-to-charge-a-due-diligence-fee.html)
 
 Liquidation Preference
 *   [Liquidation Preference (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-liquidation-preference.html) 
 *   [Liquidation Preferences](http://www.feld.com/archives/2004/07/liquidation-preferences.html)
 
 Pro-Rata and Super Pro-Rata
-*   [Entrepreneurs: Just Say No To Super Pro-Rata Rights cf. Mark Suster](http://www.feld.com/archives/2011/09/entrepreneurs-just-say-no-to-super-pro-rata-rights.html) 
+*   [Entrepreneurs: Just Say No To Super Pro-Rata Rights (cf. Mark Suster)](http://www.feld.com/archives/2011/09/entrepreneurs-just-say-no-to-super-pro-rata-rights.html) 
 *   [Seth Levine: What Does Pro-rata Mean?](http://www.feld.com/archives/2004/09/what-does-pro-rata-mean.html) 
+
+Escrow
+*   [Escrow (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html) 
 
 Stock Option Grants
 *   [A Different Approach to Refreshing Stock Option Grants](http://www.feld.com/archives/2013/01/a-different-approach-to-refreshing-stock-option-grants.html) 
 *   [How to Set The Strike Price on Stock Options](http://www.feld.com/archives/2006/05/how-to-set-the-strike-price-on-stock-options.html) 
-*   [Two Last Things On Assumption of Stock Options (Term Sheet Series)](http://www.feld.com/archives/2006/01/two-last-things-on-assumption-of-stock-options.html) 
+*   [Two Last Things On Assumption of Stock Options (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/two-last-things-on-assumption-of-stock-options.html) 
 
 Right of First Refusal
 *   [Right of First Refusal (Term Sheet Series)](http://www.feld.com/archives/2005/06/term-sheet-right-of-first-refusal.html) 
