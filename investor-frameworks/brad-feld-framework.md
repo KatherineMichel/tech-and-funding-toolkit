@@ -133,6 +133,10 @@ Compensation for Board Members, Outside Directors, and Advisors
 
 HR and Operations- General
 
+Domain Names
+*   [founders@yourcompanyname.com](http://www.feld.com/archives/2011/11/foundersyourcompanyname-com.html) 
+*   [Hint To Startups – Use Your Domain In Your Email Address](http://www.feld.com/archives/2010/03/hint-to-startups-use-your-domain-in-your-email-address.html) 
+
 Interviewing, Recruiting, and The Compensation Conversation
 *   [Guidelines For Interviewing At A Startup](http://www.feld.com/archives/2012/05/guidelines-for-interviewing-at-a-startup.html) 
 *   [Recruiting Software Developers By Showing Up With Pizza](http://www.feld.com/archives/2012/05/recruiting-software-developers-by-showing-up-with-pizza.html) 
