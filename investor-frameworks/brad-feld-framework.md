@@ -141,20 +141,24 @@ Compensation for Board Members, Outside Directors, and Advisors
 *   [Compensation for Outside Directors](http://www.feld.com/archives/2005/06/compensation-for-outside-directors.html)
 *   [How Many Stock Options Should I Give An Advisor?](http://www.feld.com/archives/2006/05/how-many-stock-options-should-i-give-an-advisor.html) 
 
+CEO 360 Review
+*   [The Power of a CEO 360 Review](http://www.feld.com/archives/2010/12/the-power-of-a-ceo-360-review.html)
+
 Aquihire
 *   [What Acquihire Really Means](http://www.feld.com/archives/2015/07/acquihire-really-means.html) 
  
-HR and Operations- General
-
-Domain Names
-*   [founders@yourcompanyname.com](http://www.feld.com/archives/2011/11/foundersyourcompanyname-com.html) 
-*   [Hint To Startups – Use Your Domain In Your Email Address](http://www.feld.com/archives/2010/03/hint-to-startups-use-your-domain-in-your-email-address.html) 
-
 Interviewing, Recruiting, and The Compensation Conversation
 *   [Guidelines For Interviewing At A Startup](http://www.feld.com/archives/2012/05/guidelines-for-interviewing-at-a-startup.html) 
 *   [Recruiting Software Developers By Showing Up With Pizza](http://www.feld.com/archives/2012/05/recruiting-software-developers-by-showing-up-with-pizza.html) 
 *   [More On Recruiting Programmers To Your Startup](http://www.feld.com/archives/2011/12/more-on-recruiting-programmers-to-your-startup.html)
 *   [Getting The Compensation Conversation Right](http://www.feld.com/archives/2012/05/getting-the-compensation-conversation-right.html)
+
+Payroll Frequency
+*   [Payroll – Bi-weekly vs. Semi-monthly](http://www.feld.com/archives/2004/08/payroll-bi-weekly-vs-semi-monthly.html)
+
+Domain Names
+*   [founders@yourcompanyname.com](http://www.feld.com/archives/2011/11/foundersyourcompanyname-com.html) 
+*   [Hint To Startups – Use Your Domain In Your Email Address](http://www.feld.com/archives/2010/03/hint-to-startups-use-your-domain-in-your-email-address.html) 
 
 Code Red
 *   [Code Red](http://www.feld.com/archives/2011/12/code-red.html)
