@@ -41,7 +41,6 @@ Letter of Intent
 *   [Structure – Asset vs. Stock](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html) 
 *   [Asset Sale – Heart or Leaves?](http://www.feld.com/archives/2005/11/asset-sale-heart-or-leaves.html) 
 *   [Form of Consideration](http://www.feld.com/archives/2005/11/letter-of-intent-form-of-consideration.html) 
-*   [Assumption of Stock Options](http://www.feld.com/archives/2006/01/letter-of-intent-assumption-of-stock-options.html) 
 *   [Representations, Warranties, and Indemnification](http://www.feld.com/archives/2006/01/letter-of-intent-representations-warranties-and-indemnification.html) 
 *   [Confidentiality / Non-Disclosure Agreement](http://www.feld.com/archives/2006/02/letter-of-intent-confidentiality-non-disclosure-agreement.html) 
 *   [Employee Matters](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html) 
@@ -74,6 +73,7 @@ Escrow
 Stock Option Grants
 *   [A Different Approach to Refreshing Stock Option Grants](http://www.feld.com/archives/2013/01/a-different-approach-to-refreshing-stock-option-grants.html) 
 *   [How to Set The Strike Price on Stock Options](http://www.feld.com/archives/2006/05/how-to-set-the-strike-price-on-stock-options.html) 
+*   [Assumption of Stock Options (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-assumption-of-stock-options.html) 
 *   [Two Last Things On Assumption of Stock Options (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/two-last-things-on-assumption-of-stock-options.html) 
 
 Right of First Refusal
