@@ -24,6 +24,10 @@ Saying No, Why Am I Passing, Asking for a Referral
 *   [Why Am I Passing?](http://www.feld.com/archives/2008/02/why-am-i-passing.html) 
 *   [Why Am I Passing?](http://www.feld.com/archives/2007/11/dont-ask-for-a-referral-if-i-say-no.html) 
 
+Funding Announcements
+*   [Transparent Funding Announcements](http://www.feld.com/archives/2015/04/transparent-funding-announcements.html)
+*   [Announce Your Financing In Conjunction With Your Form D Filing](http://www.feld.com/archives/2011/12/announce-your-financing-in-conjunction-with-your-form-d-filing.html)
+
 Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
 *   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
