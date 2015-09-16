@@ -84,6 +84,10 @@ Feld Technologies (Business Plan Case Study)
 *   [Business Plan – The Industry: Introduction](http://www.feld.com/archives/2005/11/business-plan-the-industry-introduction.html)
 *   [Business Plan – Charter](http://www.feld.com/archives/2005/11/business-plan-charter.html)
 *   [The Business Plan](http://www.feld.com/archives/2005/11/the-business-plan.html)
+
+Feld Technologies (More Business Documents)
+*   [The Feld Technologies Professional Services Agreement](http://www.feld.com/archives/2012/07/the-feld-technologies-professional-services-agreement.html)
+*   [The Simple Formal Beginnings Of Feld Technologies](http://www.feld.com/archives/2012/07/the-simple-formal-beginnings-of-feld-technologies.html)
 *   [Precepts](http://www.feld.com/archives/2004/10/precepts.html)
 
 Sayahh (Finance Fridays/Term Sheet Series Case Study)
