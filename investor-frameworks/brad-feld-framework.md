@@ -1,5 +1,5 @@
 Blog
-*   [Brad Feld Blog](http://www.feld.com) 
+*   [Brad Feld Blog](http://www.feld.com) and [Brad Feld Blog Archive](http://www.feld.com/archive)
 *   [Ask the VC](http://www.askthevc.com) and [Ask the VC Archives](http://www.askthevc.com/wp/archives)
 *   [Foundry Group Docs via Ask the VC](http://www.askthevc.com/wp/resources)
 *   [Starting a Blog Series on Financial Statements](http://www.feld.com/archives/2007/04/starting-a-blog-series-on-financial-statements.html)
