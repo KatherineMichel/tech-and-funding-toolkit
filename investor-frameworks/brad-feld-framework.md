@@ -20,6 +20,11 @@ Competition and First Mover
 *   [Competition](http://www.feld.com/archives/2011/07/competition.html) 
 *   [The First Mover](http://www.feld.com/archives/2011/08/be-the-first-mover.html) 
 
+Using Products
+*   [Use Your Competitors’ Products All The Time](http://www.feld.com/archives/2014/07/use-competitors-products-time.html) 
+*   [Should You Force Your Investors To Use Your Product?](http://www.feld.com/archives/2007/06/should-you-force-your-investors-to-use-your-product.html) 
+*   [Do Your Investors Use Your Product?](http://www.feld.com/archives/2006/09/do-your-investors-use-your-product.html) 
+
 Market Fit
 *   [The Illusion of Product/Market Fit for SaaS Companies](http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html) 
 *   [Founder Market Fit](http://www.feld.com/archives/2012/08/founder-market-fit.html) 
