@@ -164,6 +164,11 @@ Audits- FAS 157 ("fair value measurement")
 *   [FAS 157 – The Eternal Sunshine of the Spotless Audit](http://www.feld.com/archives/2008/01/fas-157-the-eternal-sunshine-of-the-spotless-audit.html) 
 
 Board of Directors
+*   [Board of Directors: Number of Meetings (Board of Directors Series)](http://www.feld.com/archives/2006/09/board-of-directors-number-of-meetings.html)
+*   [Board of Directors; The Agenda (Board of Directors Series)](http://www.feld.com/archives/2006/07/board-of-directors-the-agenda.html)
+*   [Board of Directors: A Little More on “The Chairman” Post (Board of Directors Series)](http://www.feld.com/archives/2006/07/board-of-directors-a-little-more-on-the-chairman-post.html)
+*   [Board of Directors: The Chairman (Board of Directors Series)](http://www.feld.com/archives/2006/07/board-of-directors-the-chairman.html)
+*   [Board of Directors: Duty of Care and Duty of Loyalty (Board of Directors Series)](http://www.feld.com/archives/2006/07/board-of-directors-duty-of-care-and-duty-of-loyalty.html)
 *   [Board of Directors (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-board-of-directors.html) 
 
 Compensation for Board Members, Outside Directors, and Advisors
