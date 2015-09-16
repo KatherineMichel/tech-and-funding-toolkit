@@ -230,14 +230,43 @@ Directors and CEOs
 *   [Talking To Fellow Directors About Replacing A CEO](http://www.feld.com/archives/2005/09/talking-to-fellow-directors-about-replacing-a-ceo.html)
 *   [Signs That A Board Should Consider Replacing The CEO (cf. Heidi Roizen)](http://www.feld.com/archives/2005/09/signs-that-a-board-should-consider-replacing-the-ceo.html)
 
-Competition and First Mover
-*   [Competition](http://www.feld.com/archives/2011/07/competition.html) 
-*   [The First Mover](http://www.feld.com/archives/2011/08/be-the-first-mover.html) 
+Board Meetings
+*   [Technical advisory board meeting](http://www.feld.com/archives/2004/05/technical-advisory-board-meeting.html)
+*   [The Full Day Quarterly Board Meeting](http://www.feld.com/archives/2015/04/full-day-quarterly-board-meeting.html)
+*   [The First Board Meeting](http://www.feld.com/archives/2015/02/first-board-meeting.html)
+*   [Expectations for Outside Board Members](http://www.feld.com/archives/2014/04/expectations-outside-board-members.html)
+*   [My Ideal Board Meeting](http://www.feld.com/archives/2014/02/ideal-board-meeting.html)
+*   [Mentor Whiplash About Early Board Members](http://www.feld.com/archives/2013/06/mentor-whiplash-about-early-board-members.html)
+*   [Do You Need A Board Chairman?](http://www.feld.com/archives/2013/03/do-you-need-a-board-chairman.html)
+*   [Monthly Financials, Quarterly Board Meetings, Continuous Communications](http://www.feld.com/archives/2012/05/monthly-financials-quarterly-board-meetings-continuous-communications.html)
+*   [Should VC Board Observers Rights Exist?](http://www.feld.com/archives/2012/05/should-vc-board-observers-rights-exist.html)
+*   [Retrospective Addiction Of A Madman Post Board Meeting](http://www.feld.com/archives/2012/02/retrospective-addiction-of-a-madman-post-board-meeting.html)
+*   [What Makes An Awesome Board Member?](http://www.feld.com/archives/2012/02/what-makes-an-awesome-board-member.html)
+*   [Great Board Meetings](http://www.feld.com/archives/2011/10/great-board-meetings.html)
+*   [Remote Board Attendance Via Skype](http://www.feld.com/archives/2011/07/remote-board-attendance-via-skype.html)
+*   [Note To CEO’s: Decisions Come From You, Not The Board](http://www.feld.com/archives/2011/07/note-to-ceos-decisions-come-from-you-not-the-board.html)
+*   [Abolish Board Meeting Update Calls](http://www.feld.com/archives/2011/06/abolish-board-meeting-update-calls.html)
+*   [Joining The Reinventing The Board Meeting Bandwagon](http://www.feld.com/archives/2011/06/joining-the-reinventing-the-board-meeting-bandwagon.html)
+*   [Start Every Board Meeting With A Demo](http://www.feld.com/archives/2011/01/start-every-board-meeting-with-a-demo.html)
+*   [Board Meeting Lessons From The Supreme Court](http://www.feld.com/archives/2009/11/board-meeting-lessons-from-the-supreme-court.html)
+*   [VC Behavior in Board Meetings](http://www.feld.com/archives/2009/08/vc-behavior-in-board-meetings.html)
+*   [The Best Board Meetings](http://www.feld.com/archives/2009/08/the-best-board-meetings.html)
+*   [The Closed Session of a Board Meeting](http://www.feld.com/archives/2008/04/the-closed-session-of-a-board-meeting.html)
+*   [Sample Board Meeting Minutes](http://www.feld.com/archives/2006/10/sample-board-meeting-minutes.html)
+*   [Board Meeting Rules](http://www.feld.com/archives/2006/10/board-meeting-rules.html)
+*   [Board Meetings – Do The Formal Stuff First](http://www.feld.com/archives/2006/06/board-meetings-do-the-formal-stuff-first.html)
+*   [Board Meeting Food](http://www.feld.com/archives/2006/01/board-meeting-food.html)
+*   [Ideal Board Meetings](http://www.feld.com/archives/2005/01/ideal-board-meetings.html)
+*   [Boards That Are Not Bored](http://www.feld.com/archives/2004/07/boards-that-are-not-bored.html)
 
 Using Products
 *   [Use Your Competitors’ Products All The Time](http://www.feld.com/archives/2014/07/use-competitors-products-time.html) 
 *   [Should You Force Your Investors To Use Your Product?](http://www.feld.com/archives/2007/06/should-you-force-your-investors-to-use-your-product.html) 
 *   [Do Your Investors Use Your Product?](http://www.feld.com/archives/2006/09/do-your-investors-use-your-product.html) 
+
+Competition and First Mover
+*   [Competition](http://www.feld.com/archives/2011/07/competition.html) 
+*   [The First Mover](http://www.feld.com/archives/2011/08/be-the-first-mover.html) 
 
 Market Fit
 *   [The Illusion of Product/Market Fit for SaaS Companies](http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html) 
