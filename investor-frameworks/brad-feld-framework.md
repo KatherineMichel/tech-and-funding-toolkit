@@ -105,9 +105,10 @@ Convertible Debt
 *   [Is It Important To Understand Convertible Debt Terms? (Term Sheet Series)](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
 
 Term Sheet- General
-*   [Revisiting the Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
-*   [Terms, Terms, and First Round Terms (Term Sheet Series) (cf. Fred Wilson)](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
 *   [The Challenge of The Ideal First Round Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
+*   [Terms, Terms, and First Round Terms (Term Sheet Series) (cf. Fred Wilson)](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
+*   [Revisiting the Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
+*   [Term Sheet Series Wrap Up (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html) 
 
 Term Sheet
 *   [Price (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-price.html) 
@@ -127,7 +128,6 @@ Term Sheet
 *   [Initial Public Offering Shares Purchase (Term Sheet Series)](http://www.feld.com/archives/2005/07/term-sheet-initial-public-offering-shares-purchase.html) 
 *   [Unilateral or Serial Monogamy (Term Sheet Series)](http://www.feld.com/archives/2005/08/unilateral-or-serial-monogamy.html) 
 *   [Indemnification and Assignment (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-indemnification-and-assignment.html) 
-*   [Term Sheet Series Wrap Up (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html) 
 *   [Contentious Issues and Lawyers (Term Sheet Series)](http://www.feld.com/archives/2005/12/term-sheets-contentious-issues-and-lawyers.html) 
 *   [An Entrepreneur on Term Sheet Terms (Term Sheet Series)](http://www.feld.com/archives/2006/01/an-entrepreneur-on-term-sheet-terms.html) 
 *   [Compelled Sale Right (Term Sheet Series)](http://www.feld.com/archives/2006/06/term-sheet-compelled-sale-right.html) 
