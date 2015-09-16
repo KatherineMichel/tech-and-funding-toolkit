@@ -23,6 +23,9 @@ Angel Investors- General
 *   [Are Individual Angel Investors Starting To Get Tapped Out?](http://www.feld.com/archives/2015/09/individual-angel-investors-starting-get-tapped.html)
 *   [How Many Angels is the Right Number](http://www.feld.com/archives/2004/12/how-many-angels-is-the-right-number.html)
 
+Financing
+*   [Bootstrapping Top 10 List](http://www.feld.com/archives/2004/08/bootstrapping-top-10-list.html)
+
 Signaling
 *   [Entrepreneurs Dislike Signaling; VCs Dislike Free Riders](http://www.feld.com/archives/2010/09/entrepreneurs-dislike-signaling-vcs-dislike-free-riders.html) 
 *   [Addressing The VC Seed Investor Signaling Problem](http://www.feld.com/archives/2010/09/addressing-the-vc-seed-investor-signaling-problem.html) 
