@@ -29,6 +29,10 @@ Market Fit
 *   [The Illusion of Product/Market Fit for SaaS Companies](http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html) 
 *   [Founder Market Fit](http://www.feld.com/archives/2012/08/founder-market-fit.html) 
 
+Lean-ish
+*   [Small Experiments, Often](http://www.feld.com/archives/2013/01/small-experiments-often.html)
+*   [Resegment If You Aren’t In The Top Three](http://www.feld.com/archives/2012/01/resegment-if-you-arent-in-the-top-three.html)
+
 VC- General
 *   [Why VCs Should Recycle Their Management Fees](http://www.feld.com/archives/2014/05/vcs-recycle-management-fees.html)
 *   [Spending The Day With Another VC Firm](http://www.feld.com/archives/2014/05/spending-day-another-vc-firm.html)
