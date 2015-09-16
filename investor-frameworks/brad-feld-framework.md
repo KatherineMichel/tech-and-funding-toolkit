@@ -3,6 +3,9 @@ Blog
 *   [Ask the VC](http://www.askthevc.com) and [Ask the VC Archives](http://www.askthevc.com/wp/archives)
 *   [Foundry Group Docs via Ask the VC](http://www.askthevc.com/wp/resources)
 
+Venture Deals
+*   [Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616/ref=dp_ob_title_bk)
+
 Hobbies and Maker Hours
 *   [What Do You Do On The Weekends? (cf. Chris Dixon)](http://www.feld.com/archives/2013/03/what-do-you-do-on-the-weekends.html)
 *   [Lessons From Maker Hours](http://www.feld.com/archives/2012/07/lessons-from-maker-hours.html)
