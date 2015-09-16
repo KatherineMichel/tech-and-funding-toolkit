@@ -180,6 +180,9 @@ Right of First Refusal
 Escrow
 *   [Escrow (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html) 
 
+EBITDA
+*   [Don’t Adjust My EBITDA](http://www.feld.com/archives/2007/05/dont-adjust-my-ebitda.html)
+
 409a
 *   [IRS Grants “Relief” on 409A](http://www.feld.com/archives/2006/10/irs-grants-relief-on-409a.html)
 *   [409A – Oh How I Love Thy Wiliness](http://www.feld.com/archives/2008/01/409a-oh-how-i-love-thy-wiliness.html)
