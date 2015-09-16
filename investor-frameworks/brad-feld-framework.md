@@ -7,6 +7,15 @@ Hobbies and Maker Hours
 *   [Lessons From Maker Hours](http://www.feld.com/archives/2012/07/lessons-from-maker-hours.html)
 *   [Shifting Hard To Maker Mode For The Summer (cf. Paul Graham)](http://www.feld.com/archives/2012/06/shifting-hard-to-maker-mode-for-the-summer.html)
 
+Story Telling, Demos, and Pitches
+*   [Getting Your Demos Right](http://www.feld.com/archives/2013/09/getting-your-demos-right.html)
+*   [Don’t Get Sick Of Telling Your Story](http://www.feld.com/archives/2013/06/dont-get-sick-of-telling-your-story.html)
+*   [Don’t Tell Me Your History In Chronological Order](http://www.feld.com/archives/2013/02/dont-tell-me-your-history-in-chronological-order.html)
+*   [If You Can’t Explain What You Do In A Paragraph, You’ve Got A Problem](http://www.feld.com/archives/2012/10/if-you-cant-explain-what-you-do-in-a-paragraph-youve-got-a-problem.html)
+*   [Entrepreneurial Story Telling](http://www.feld.com/archives/2010/10/entrepreneurial-story-telling.html)
+*   [Show Don’t Tell – Especially In Video Pitches](http://www.feld.com/archives/2010/02/show-dont-tell-especially-in-video-pitches.html)
+*   [The Torturous World of Powerpoint](http://www.feld.com/archives/2004/06/the-torturous-world-of-powerpoint.html)
+
 Competition and First Mover
 *   [Competition](http://www.feld.com/archives/2011/07/competition.html) 
 *   [The First Mover](http://www.feld.com/archives/2011/08/be-the-first-mover.html) 
