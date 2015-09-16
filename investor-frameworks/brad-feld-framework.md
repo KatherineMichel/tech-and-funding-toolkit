@@ -56,6 +56,13 @@ Funding Announcements
 *   [Transparent Funding Announcements](http://www.feld.com/archives/2015/04/transparent-funding-announcements.html)
 *   [Announce Your Financing In Conjunction With Your Form D Filing](http://www.feld.com/archives/2011/12/announce-your-financing-in-conjunction-with-your-form-d-filing.html)
 
+Entity Structure
+*   [What Structure Should I Use?](http://www.feld.com/archives/2006/03/what-structure-should-i-use.html)
+*   [What’s The Best Structure For A Pre-VC Investment?](http://www.feld.com/archives/2006/02/whats-the-best-structure-for-a-pre-vc-investment.html)
+*   [What’s The Best Corporate Structure For An Early Stage Company?](http://www.feld.com/archives/2006/02/whats-the-best-corporate-structure-for-an-early-stage-company.html)
+*   [S-Corp’s vs. LLC’s](http://www.feld.com/archives/2006/02/s-corps-vs-llcs.html)
+*   [You Don’t Want To Raise VC Money – Do An LLC](http://www.feld.com/archives/2006/02/you-dont-want-to-raise-vc-money-do-an-llc.html)
+
 Delaware
 *   [Why Incorporate In Delaware?](http://www.feld.com/archives/2006/05/why-incorporate-in-delaware.html) 
 *   [Entity Conversions In Delaware Just Got Easier](http://www.feld.com/archives/2006/03/entity-conversions-in-delaware-just-got-easier.html) 
