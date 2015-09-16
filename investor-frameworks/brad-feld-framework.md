@@ -56,7 +56,7 @@ Eliminate/Outlaw Vagueries
 Saying No, Why Am I Passing, Asking for a Referral
 *   [Saying No In Less Than 60 Seconds](http://www.feld.com/archives/2009/06/say-no-in-less-than-60-seconds.html) 
 *   [Why Am I Passing?](http://www.feld.com/archives/2008/02/why-am-i-passing.html) 
-*   [Why Am I Passing?](http://www.feld.com/archives/2007/11/dont-ask-for-a-referral-if-i-say-no.html) 
+*   [Don’t Ask For A Referral If I Say No](http://www.feld.com/archives/2007/11/dont-ask-for-a-referral-if-i-say-no.html) 
 
 Funding Announcements
 *   [Transparent Funding Announcements](http://www.feld.com/archives/2015/04/transparent-funding-announcements.html)
@@ -179,6 +179,9 @@ Right of First Refusal
 
 Escrow
 *   [Escrow (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html) 
+
+GAAP
+*   [GAAP and the Revenge of the Accountants](http://www.feld.com/archives/2007/04/gaap-and-the-revenge-of-the-accountants.html)
 
 EBITDA
 *   [Don’t Adjust My EBITDA](http://www.feld.com/archives/2007/05/dont-adjust-my-ebitda.html)
