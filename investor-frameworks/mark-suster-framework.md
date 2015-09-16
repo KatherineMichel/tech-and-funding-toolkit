@@ -51,6 +51,9 @@ Pro-Rata and Super Pro-Rata
 *   [What all Entrepreneurs Need to Know About Prorata Rights](http://www.bothsidesofthetable.com/2014/10/12/the-authoritative-guide-to-prorata-rights)
 *   [Why Super Pro-rata Rights are Not a Good Deal for Entrepreneurs](http://www.bothsidesofthetable.com/2011/09/25/why-super-pro-rata-rights-are-not-a-good-deal-for-entrepreneurs)
 
+Performance-Based Warrants
+*   [Should Your Startup Give Performance-Based Warrants?](http://www.bothsidesofthetable.com/2010/03/21/should-your-startup-give-performance-based-warrants)
+
 Board Observers
 *   [Why I Don't Like Board Observers](http://www.bothsidesofthetable.com/2009/10/14/when-the-board-of-a-startup-votes-theres-a-problem)
 *   [Rethinking Board Observers – The Role of the “Silent Observer”](http://www.bothsidesofthetable.com/2012/08/16/rethinking-board-observers-the-role-of-the-silent-observer)
@@ -58,4 +61,5 @@ Board Observers
 Aquihire
 *   [The Corrosive Downside of Acquihires](http://www.bothsidesofthetable.com/2013/05/13/the-corrosive-downside-of-acquihires)
 
-
+Burn Rate
+*   [What is the Right Burn Rate at a Startup Company?](http://www.bothsidesofthetable.com/2014/09/28/what-is-the-right-burn-rate-at-a-startup-company)
