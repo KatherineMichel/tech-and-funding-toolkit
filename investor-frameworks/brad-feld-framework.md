@@ -1,6 +1,7 @@
 Blog
 *   [Brad Feld Blog](http://www.feld.com) 
-*   [Ask the VC](http://www.askthevc.com) 
+*   [Ask the VC](http://www.askthevc.com) and [Ask the VC Archives](http://www.askthevc.com/wp/archives)
+*   [Foundry Group Docs via Ask the VC](http://www.askthevc.com/wp/resources)
 
 Hobbies and Maker Hours
 *   [What Do You Do On The Weekends? (cf. Chris Dixon)](http://www.feld.com/archives/2013/03/what-do-you-do-on-the-weekends.html)
