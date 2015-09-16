@@ -21,8 +21,10 @@ Choosing and Reference Checking a VC
 Due Diligence
 *   [How Much Information Should you Give VCs for Due Diligence?](http://www.bothsidesofthetable.com/2012/08/27/how-much-information-should-you-give-vcs-for-due-diligence)
 
-Business Plans, NDAs and Confidentiality
+Business Plans
 *   [Are Business Plans Still Necessary?](http://www.bothsidesofthetable.com/2009/11/03/are-business-plans-still-necessary)
+
+NDAs and Confidentiality
 *   [On NDAs and Confidentiality](http://www.bothsidesofthetable.com/2009/07/26/on-ndas-and-confidentiality)
 
 Number of Investors
@@ -33,9 +35,11 @@ Equity Versus Convertible
 *   [Is Convertible Debt Preferable to Equity?](http://www.bothsidesofthetable.com/2010/08/30/is-convertible-debt-preferable-to-equity)
 *   [The Truth About Convertible Debt at Startups and The Hidden Terms You Didn't Understand](http://www.bothsidesofthetable.com/2012/09/05/the-truth-about-convertible-debt-at-startups-and-the-hidden-terms-you-didnt-understand)
 
-Valuation and Dilution
+Valuation
 *   [The Dreaded Question of Valuation](http://www.bothsidesofthetable.com/2009/07/28/the-dreaded-question-of-valuation)
 *   [Want to Know How VCs Calculate Valuation Differently from Founders?](http://www.bothsidesofthetable.com/2010/07/22/want-to-know-how-vcs-calculate-valuation-differently-from-founders)
+
+Dilution
 *   [Understanding How Dilution Affects You at a Startup](http://www.bothsidesofthetable.com/2011/10/14/understanding-how-dilution-affects-you-at-a-startup)
 
 Equity, Taking Money off the Table, Stock Options
@@ -43,7 +47,7 @@ Equity, Taking Money off the Table, Stock Options
 *   [Should Founders Be Allowed to Take Money off the Table?](http://www.bothsidesofthetable.com/2009/09/02/should-founders-be-allowed-to-take-money-off-the-table)
 *   [How to Discuss Stock Options with Your Team](http://www.bothsidesofthetable.com/2010/09/06/how-to-discuss-stock-options-with-your-team)
 
-Pro-Rata
+Pro-Rata and Super Pro-Rata
 *   [What all Entrepreneurs Need to Know About Prorata Rights](http://www.bothsidesofthetable.com/2014/10/12/the-authoritative-guide-to-prorata-rights)
 *   [Why Super Pro-rata Rights are Not a Good Deal for Entrepreneurs](http://www.bothsidesofthetable.com/2011/09/25/why-super-pro-rata-rights-are-not-a-good-deal-for-entrepreneurs)
 
