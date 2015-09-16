@@ -95,6 +95,9 @@ VC Rights
 *   [VC Rights: Up, Down, And Know What The Fuck Is Going On](http://www.feld.com/archives/2012/05/vc-rights-up-down-and-know-what-the-fuck-is-going-on.html)
 
 Seed Series
+*   [The Silliness Of Recapping Seed Rounds](http://www.feld.com/archives/2015/07/silliness-recapping-seed-rounds.html)
+*   [Too Many Seed Investment Choices (cf. Foundry Group)](http://www.feld.com/archives/2012/05/too-many-seed-investment-choices.html)
+*   [Some Complexities of Venture Capital Seed Investing (cf. Mark Suster](http://www.feld.com/archives/2009/10/some-complexities-of-venture-capital-seed-investing.html)
 
 Standardized Seed Documents
 *   [Failing Fast at Standardized Seed Deal Documents](http://www.feld.com/archives/2010/04/failing-fast-at-standardized-seed-deal-documents.html) 
