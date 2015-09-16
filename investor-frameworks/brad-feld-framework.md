@@ -90,6 +90,16 @@ Feld Technologies (More Business Documents)
 *   [The Simple Formal Beginnings Of Feld Technologies](http://www.feld.com/archives/2012/07/the-simple-formal-beginnings-of-feld-technologies.html)
 *   [Precepts](http://www.feld.com/archives/2004/10/precepts.html)
 
+History of Brad Feld's Companies
+*   [2430 Denmark, Garland, Texas](http://www.feld.com/archives/2015/03/2430-denmark-garland-texas.html)
+*   [The Agony and Ecstasy of Selling My First Company](http://www.feld.com/archives/2015/02/the-agony-and-ecstacy-of-selling-my-first-company.html)
+*   [What Was The Address of Your First Real Office?](http://www.feld.com/archives/2010/05/what-was-the-address-of-your-first-real-office.html)
+*   [Startups at 351 Massachusetts Avenue in Cambridge, MA](http://www.feld.com/archives/2010/02/startups-at-351-massachusetts-avenue-in-cambridge-ma.html)
+*   [My First Office – 875 Main Street, Cambridge, MA 02139](http://www.feld.com/archives/2009/07/my-first-office-875-main-street-cambridge-ma-02139.html)
+*   [I Suck At Naming Things](http://www.feld.com/archives/2007/12/i-suck-at-naming-things.html)
+*   [My Zero-ith Company](http://www.feld.com/archives/2006/12/my-zero-ith-company.html)
+*   [Martingale Software – My First Company](http://www.feld.com/archives/2006/06/martingale-software-my-first-company.html)
+
 Sayahh (Finance Fridays/Term Sheet Series Case Study)
 *   [SayAhh Has Shut Down](http://www.feld.com/archives/2011/12/sayahh-has-shut-down.html) 
 *   [SayAhh’s Revenue Projections](http://www.feld.com/archives/2011/10/sayahh%E2%80%99s-revenue-projections.html)
