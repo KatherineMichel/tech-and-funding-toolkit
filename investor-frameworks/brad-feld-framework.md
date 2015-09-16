@@ -48,6 +48,10 @@ Getting Attention
 *   [Getting A VC's Attention (cf. Fred Wilson)](http://www.feld.com/archives/2008/03/getting-a-vcs-attention.html) 
 *   [Getting My Attention](http://www.feld.com/archives/2007/11/getting-my-attention.html) 
 
+Eliminate/Outlaw Vagueries
+*   [Eliminate Ranges From Your Negotiating Vocabulary](http://www.feld.com/archives/2009/09/eliminate-ranges-from-your-negotiating-vocabulary.html)
+*   [Outlawed Words: SOME and OK](http://www.feld.com/archives/2004/12/outlawed-words-some-and-ok.html)
+
 Saying No, Why Am I Passing, Asking for a Referral
 *   [Saying No In Less Than 60 Seconds](http://www.feld.com/archives/2009/06/say-no-in-less-than-60-seconds.html) 
 *   [Why Am I Passing?](http://www.feld.com/archives/2008/02/why-am-i-passing.html) 
