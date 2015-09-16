@@ -168,6 +168,7 @@ Table of Contents
 *   [Benedict Evans](http://ben-evans.com) and [Benedict Evans Slideshare](http://www.slideshare.net/bge20)
 *   [Beth Kanter Slideshare](http://www.slideshare.net/kanter)
 *   [Bill and Melinda Gates](http://www.thegatesnotes.com) 
+*   [Bob Lefsetz](http://lefsetz.com)
 *   [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
 *   [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
 *   [C. Todd Lombardo Speaker Deck](https://speakerdeck.com/iamctodd)
