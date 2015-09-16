@@ -7,32 +7,6 @@ Hobbies and Maker Hours
 *   [Lessons From Maker Hours](http://www.feld.com/archives/2012/07/lessons-from-maker-hours.html)
 *   [Shifting Hard To Maker Mode For The Summer (cf. Paul Graham)](http://www.feld.com/archives/2012/06/shifting-hard-to-maker-mode-for-the-summer.html)
 
-Story Telling, Demos, and Pitches
-*   [Getting Your Demos Right](http://www.feld.com/archives/2013/09/getting-your-demos-right.html)
-*   [Don’t Get Sick Of Telling Your Story](http://www.feld.com/archives/2013/06/dont-get-sick-of-telling-your-story.html)
-*   [Don’t Tell Me Your History In Chronological Order](http://www.feld.com/archives/2013/02/dont-tell-me-your-history-in-chronological-order.html)
-*   [If You Can’t Explain What You Do In A Paragraph, You’ve Got A Problem](http://www.feld.com/archives/2012/10/if-you-cant-explain-what-you-do-in-a-paragraph-youve-got-a-problem.html)
-*   [Entrepreneurial Story Telling](http://www.feld.com/archives/2010/10/entrepreneurial-story-telling.html)
-*   [Show Don’t Tell – Especially In Video Pitches](http://www.feld.com/archives/2010/02/show-dont-tell-especially-in-video-pitches.html)
-*   [The Torturous World of Powerpoint](http://www.feld.com/archives/2004/06/the-torturous-world-of-powerpoint.html)
-
-Competition and First Mover
-*   [Competition](http://www.feld.com/archives/2011/07/competition.html) 
-*   [The First Mover](http://www.feld.com/archives/2011/08/be-the-first-mover.html) 
-
-Using Products
-*   [Use Your Competitors’ Products All The Time](http://www.feld.com/archives/2014/07/use-competitors-products-time.html) 
-*   [Should You Force Your Investors To Use Your Product?](http://www.feld.com/archives/2007/06/should-you-force-your-investors-to-use-your-product.html) 
-*   [Do Your Investors Use Your Product?](http://www.feld.com/archives/2006/09/do-your-investors-use-your-product.html) 
-
-Market Fit
-*   [The Illusion of Product/Market Fit for SaaS Companies](http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html) 
-*   [Founder Market Fit](http://www.feld.com/archives/2012/08/founder-market-fit.html) 
-
-Lean-ish
-*   [Small Experiments, Often](http://www.feld.com/archives/2013/01/small-experiments-often.html)
-*   [Resegment If You Aren’t In The Top Three](http://www.feld.com/archives/2012/01/resegment-if-you-arent-in-the-top-three.html)
-
 VC- General
 *   [Why VCs Should Recycle Their Management Fees](http://www.feld.com/archives/2014/05/vcs-recycle-management-fees.html)
 *   [Spending The Day With Another VC Firm](http://www.feld.com/archives/2014/05/spending-day-another-vc-firm.html)
@@ -56,6 +30,18 @@ Signaling
 Getting Attention
 *   [Getting A VC's Attention (cf. Fred Wilson)](http://www.feld.com/archives/2008/03/getting-a-vcs-attention.html) 
 *   [Getting My Attention](http://www.feld.com/archives/2007/11/getting-my-attention.html) 
+
+Preparing for a Meeting with Brad Feld
+*   [Preparing For A First Meeting With Me](http://www.feld.com/archives/2009/05/preparing-for-a-first-meeting-with-me.html)
+
+Story Telling, Demos, and Pitches
+*   [Getting Your Demos Right](http://www.feld.com/archives/2013/09/getting-your-demos-right.html)
+*   [Don’t Get Sick Of Telling Your Story](http://www.feld.com/archives/2013/06/dont-get-sick-of-telling-your-story.html)
+*   [Don’t Tell Me Your History In Chronological Order](http://www.feld.com/archives/2013/02/dont-tell-me-your-history-in-chronological-order.html)
+*   [If You Can’t Explain What You Do In A Paragraph, You’ve Got A Problem](http://www.feld.com/archives/2012/10/if-you-cant-explain-what-you-do-in-a-paragraph-youve-got-a-problem.html)
+*   [Entrepreneurial Story Telling](http://www.feld.com/archives/2010/10/entrepreneurial-story-telling.html)
+*   [Show Don’t Tell – Especially In Video Pitches](http://www.feld.com/archives/2010/02/show-dont-tell-especially-in-video-pitches.html)
+*   [The Torturous World of Powerpoint](http://www.feld.com/archives/2004/06/the-torturous-world-of-powerpoint.html)
 
 Eliminate/Outlaw Vagueries
 *   [Eliminate Ranges From Your Negotiating Vocabulary](http://www.feld.com/archives/2009/09/eliminate-ranges-from-your-negotiating-vocabulary.html)
@@ -228,6 +214,23 @@ Directors and CEOs
 *   [Talking To Fellow Directors About Replacing A CEO](http://www.feld.com/archives/2005/09/talking-to-fellow-directors-about-replacing-a-ceo.html)
 *   [Signs That A Board Should Consider Replacing The CEO (cf. Heidi Roizen)](http://www.feld.com/archives/2005/09/signs-that-a-board-should-consider-replacing-the-ceo.html)
 
+Competition and First Mover
+*   [Competition](http://www.feld.com/archives/2011/07/competition.html) 
+*   [The First Mover](http://www.feld.com/archives/2011/08/be-the-first-mover.html) 
+
+Using Products
+*   [Use Your Competitors’ Products All The Time](http://www.feld.com/archives/2014/07/use-competitors-products-time.html) 
+*   [Should You Force Your Investors To Use Your Product?](http://www.feld.com/archives/2007/06/should-you-force-your-investors-to-use-your-product.html) 
+*   [Do Your Investors Use Your Product?](http://www.feld.com/archives/2006/09/do-your-investors-use-your-product.html) 
+
+Market Fit
+*   [The Illusion of Product/Market Fit for SaaS Companies](http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html) 
+*   [Founder Market Fit](http://www.feld.com/archives/2012/08/founder-market-fit.html) 
+
+Lean-ish
+*   [Small Experiments, Often](http://www.feld.com/archives/2013/01/small-experiments-often.html)
+*   [Resegment If You Aren’t In The Top Three](http://www.feld.com/archives/2012/01/resegment-if-you-arent-in-the-top-three.html)
+
 Aquihire
 *   [What Acquihire Really Means](http://www.feld.com/archives/2015/07/acquihire-really-means.html) 
  
@@ -247,6 +250,12 @@ Domain Names
 80-19-1 Rule
 *   [More on 80-19-1](http://www.feld.com/archives/2006/09/more-on-80-19-1.html)
 *   [The 80-19-1 Rule](http://www.feld.com/archives/2006/08/the-80-19-1-rule.html)
+
+Customer Support
+*   [Have Every New Employee Do Customer Support For Two Weeks](http://www.feld.com/archives/2012/09/have-every-new-employee-do-customer-support-for-two-weeks.html)
+
+Feedback
+*   [It’s Hard To Tell Someone They Suck](http://www.feld.com/archives/2012/06/its-hard-to-tell-someone-they-suck.html)
 
 Code Red
 *   [Code Red](http://www.feld.com/archives/2011/12/code-red.html)
