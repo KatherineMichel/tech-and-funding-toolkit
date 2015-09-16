@@ -104,6 +104,7 @@ Standardized Seed Documents
 *   [The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html)
 
 Convertible Debt
+*   [The Pre-money vs. Post-money Confusion With Convertible Notes (cf. Mark Suster)](http://www.feld.com/archives/2015/06/pre-money-vs-post-money-confusion-convertible-notes.html)
 *   [How Convertible Debt Works (Term Sheet Series)](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html) 
 *   [Is It Important To Understand Convertible Debt Terms? (Term Sheet Series)](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
 
