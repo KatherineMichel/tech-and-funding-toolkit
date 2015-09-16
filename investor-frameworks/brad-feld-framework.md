@@ -348,6 +348,13 @@ Giving Up Salary
 Restarts and Negative Overhang
 *   [Do Restarts Have A Negative Overhang?](http://www.feld.com/archives/2006/01/do-restarts-have-a-negative-overhang.html) 
 
+Burn Out, Depression, Failure
+*   [Talking About Failure](http://www.feld.com/archives/2013/06/talking-about-failure-2.html)
+*   [Depression and Entrepreneurs](http://www.feld.com/archives/2012/10/depression-and-entrepreneurs.html)
+*   [Burning Out](http://www.feld.com/archives/2008/01/burning-out.html)
+*   [It’s Not That I Don’t Suffer](http://www.feld.com/archives/2006/08/its-not-that-i-dont-suffer.html)
+*   [The Stockdale Paradox](http://www.feld.com/archives/2006/08/the-stockdale-paradox.html)
+
 Failed Startup
 *   [Have A Wake For Failed Startups](http://www.feld.com/archives/2012/07/have-a-wake-for-failed-startups.html)
 
