@@ -2,6 +2,7 @@ Blog
 *   [Brad Feld Blog](http://www.feld.com) 
 *   [Ask the VC](http://www.askthevc.com) and [Ask the VC Archives](http://www.askthevc.com/wp/archives)
 *   [Foundry Group Docs via Ask the VC](http://www.askthevc.com/wp/resources)
+*   [Starting a Blog Series on Financial Statements](http://www.feld.com/archives/2007/04/starting-a-blog-series-on-financial-statements.html)
 
 Venture Deals
 *   [Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616/ref=dp_ob_title_bk)
