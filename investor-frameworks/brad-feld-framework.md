@@ -274,6 +274,7 @@ Board Meetings
 *   [Boards That Are Not Bored](http://www.feld.com/archives/2004/07/boards-that-are-not-bored.html)
 
 Metrics
+*   [Financial Literacy](http://www.feld.com/archives/2011/07/financial-literacy.html)
 *   [Beware the Hockey Stick in Your Budget](http://www.feld.com/archives/2009/12/beware-the-hockey-stick-in-your-budget.html)
 *   [Metrics for An Enterprise Software Company (cf. Paul Kedrosky)](http://www.feld.com/archives/2007/02/metrics-for-an-enterprise-software-company.html )
 *   [Financial Metrics – The DOC Report](http://www.feld.com/archives/2004/08/financial-metrics-the-doc-report.html)
