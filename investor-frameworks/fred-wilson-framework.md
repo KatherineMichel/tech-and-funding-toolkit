@@ -1,6 +1,9 @@
 Blog
 *   [AVC](http://avc.com)
 
+USV Investment Thesis
+*   [USV Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
+
 ### MBA Mondays
 
 MBA Mondays
