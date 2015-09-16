@@ -799,6 +799,8 @@ Database List
 *   [CB Insights](https://www.cbinsights.com)
 *   [CrunchBase](http://www.crunchbase.com)
 *   [Datafox](http://www.datafox.co)
+*   [GitHub Explore](https://github.com/explore) 
+*   [Makerbase](https://makerba.se)
 *   [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
 *   [Product Hunt](http://www.producthunt.com), 
 
@@ -808,8 +810,6 @@ Databases and Benchmarking- Freemium
 *   [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
 *   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 *   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
-*   [GitHub Explore](https://github.com/explore) 
-*   [Makerbase](https://makerba.se)
 *   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 *   [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 
