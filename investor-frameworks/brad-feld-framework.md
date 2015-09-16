@@ -23,6 +23,9 @@ Angel Investors- General
 *   [Are Individual Angel Investors Starting To Get Tapped Out?](http://www.feld.com/archives/2015/09/individual-angel-investors-starting-get-tapped.html)
 *   [How Many Angels is the Right Number](http://www.feld.com/archives/2004/12/how-many-angels-is-the-right-number.html)
 
+Billion Dollar Company
+*   [How Can This Be A Billion Dollar Company?](http://www.feld.com/archives/2014/07/can-billion-dollar-company.html)
+
 Financing
 *   [Bootstrapping Top 10 List](http://www.feld.com/archives/2004/08/bootstrapping-top-10-list.html)
 
