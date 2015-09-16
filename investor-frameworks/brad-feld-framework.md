@@ -85,6 +85,10 @@ Sayahh (Finance Fridays/Term Sheet Series Case Study)
 
 Seed Series
 
+Standardized Seed Documents
+*   [Failing Fast at Standardized Seed Deal Documents](http://www.feld.com/archives/2010/04/failing-fast-at-standardized-seed-deal-documents.html) 
+*   [The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html)
+
 Convertible Debt
 *   [How Convertible Debt Works (Term Sheet Series)](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html) 
 *   [Is It Important To Understand Convertible Debt Terms? (Term Sheet Series)](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
