@@ -315,6 +315,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [KPCB Insights](https://www.kpcb.com/insights) and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
 *   [NFX Guild Program](http://www.nfx.com/company/program)
+*   [OS Fund Playbook](http://osfund.co/the-osf-playbook)
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
