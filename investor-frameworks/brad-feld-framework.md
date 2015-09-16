@@ -91,6 +91,9 @@ Sayahh (Finance Fridays/Term Sheet Series Case Study)
 *   [Setting Up Your Accounting System](http://www.feld.com/archives/2011/08/setting-up-your-accounting-system.html)
 *   [Finance Fridays: Getting Started – Allocating Equity and Founder’s Investment](http://www.feld.com/archives/2011/07/finance-fridays-getting-started-allocating-equity-and-founders-investment.html)
 
+VC Rights
+*   [VC Rights: Up, Down, And Know What The Fuck Is Going On](http://www.feld.com/archives/2012/05/vc-rights-up-down-and-know-what-the-fuck-is-going-on.html)
+
 Seed Series
 
 Standardized Seed Documents
