@@ -250,7 +250,7 @@ Directors and CEOs
 *   [Signs That A Board Should Consider Replacing The CEO (cf. Heidi Roizen)](http://www.feld.com/archives/2005/09/signs-that-a-board-should-consider-replacing-the-ceo.html)
 
 Board Meetings
-*   [Technical advisory board meeting](http://www.feld.com/archives/2004/05/technical-advisory-board-meeting.html)
+*   [The Board Operating System (cf. Anil Dash)](http://www.feld.com/archives/2015/04/board-operating-system.html)
 *   [The Full Day Quarterly Board Meeting](http://www.feld.com/archives/2015/04/full-day-quarterly-board-meeting.html)
 *   [The First Board Meeting](http://www.feld.com/archives/2015/02/first-board-meeting.html)
 *   [Expectations for Outside Board Members](http://www.feld.com/archives/2014/04/expectations-outside-board-members.html)
@@ -277,6 +277,7 @@ Board Meetings
 *   [Board Meeting Food](http://www.feld.com/archives/2006/01/board-meeting-food.html)
 *   [Ideal Board Meetings](http://www.feld.com/archives/2005/01/ideal-board-meetings.html)
 *   [Boards That Are Not Bored](http://www.feld.com/archives/2004/07/boards-that-are-not-bored.html)
+*   [Technical advisory board meeting](http://www.feld.com/archives/2004/05/technical-advisory-board-meeting.html)
 
 Metrics
 *   [Financial Literacy](http://www.feld.com/archives/2011/07/financial-literacy.html)
