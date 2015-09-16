@@ -804,7 +804,7 @@ Database List
 *   [GitHub Explore](https://github.com/explore) 
 *   [Makerbase](https://makerba.se)
 *   [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-*   [Product Hunt](http://www.producthunt.com), 
+*   [Product Hunt](http://www.producthunt.com) 
 
 Databases and Benchmarking- Freemium
 *   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
