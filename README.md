@@ -1036,6 +1036,7 @@ U.S. Departments
 *   [U.S. Census](http://www.census.gov)
 *   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
 *   [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
+*   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
 
 Patent Search and FOIA
 *   [U.S. Patent and Trademark Office](http://www.uspto.gov)
