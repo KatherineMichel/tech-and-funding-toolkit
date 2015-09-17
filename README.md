@@ -211,6 +211,7 @@ Table of Contents
 *   [Matt Cutts](http://www.mattcutts.com/blog)   
 *   [Matt Mullenweg](http://ma.tt)
 *   [Michael Arrington](http://uncrunched.com) 
+*   [Michael Dearing (Harrison Metal)](https://www.harrisonmetal.com)
 *   [Michael Mauboussin](http://michaelmauboussin.com)
 *   [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 *   [Naval Ravikant](http://startupboy.com)
