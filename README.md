@@ -319,7 +319,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
-*   [YCombinator Handshake](http://www.ycombinator.com/handshake), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+*   [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
 Standard Docs and Terms
 *   [500 Startups Keep It Simple Security](http://500.co/kiss)  
@@ -333,11 +333,11 @@ Standard Docs and Terms
 *   [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Term Sheet, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
 *   [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
 *   [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent, Convertible Promissory Note Purchase Agreement, Note, Term Sheet)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
-*   [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Stock Investment Agreement, Certificate of Incorporation)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+*   [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Preferred Stock Investment Agreement, Restated Certificate of Incorporation)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
 *   [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
 *   [TheFunded Founder Institute Document List (Bylaws, Certificate of Incorporation, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator, Plain Preferred Term Sheet)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm)
-*   [YCombinator Library](http://ycombinator.com/lib.html), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents) 
+*   [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
 
 Standard Docs- International
 *   [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
@@ -1156,6 +1156,7 @@ Books
 *   [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
 *   [Bill Janeway: Doing Capitalism in the Innovation Economy: Markets, Speculation and the State](http://www.amazon.com/Doing-Capitalism-Innovation-Economy-Speculation/dp/1107031257)
 *   [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
+*   [Dale Carnegie: How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 *   [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
 *   [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
 *   [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
