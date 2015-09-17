@@ -381,8 +381,9 @@ VC Firm Portfolios and Anti-Portfolios
 VC Firm Newsletters
 *   [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 
-VC Firm Podcasts
+VC Videos and Podcasts
 *   [A16Z Podcasts](https://soundcloud.com/a16z)
+*   [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
 *   [KPCB Podcasts](https://soundcloud.com/kleinerperkins)
 
 VC Firm Apps
