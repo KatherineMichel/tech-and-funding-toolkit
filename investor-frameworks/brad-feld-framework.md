@@ -158,16 +158,16 @@ Term Sheet
 *   [Price (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-price.html) 
 
 Letter of Intent
-*   [Letter of Intent (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
-*   [Foreplay (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/09/letter-of-intent-foreplay.html) 
-*   [Structure of a Deal (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/10/letter-of-intent-structure-of-a-deal.html) 
-*   [Structure – Asset vs. Stock (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html) 
-*   [Asset Sale – Heart or Leaves? (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/asset-sale-heart-or-leaves.html) 
-*   [Form of Consideration (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/letter-of-intent-form-of-consideration.html) 
 *   [Representations, Warranties, and Indemnification (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-representations-warranties-and-indemnification.html) 
 *   [Employee Matters (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html) 
 *   [Conditions to Close (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html)
 *   [Fees, Fees, and More Fees (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html) 
+*   [Structure – Asset vs. Stock (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html) 
+*   [Asset Sale – Heart or Leaves? (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/asset-sale-heart-or-leaves.html) 
+*   [Form of Consideration (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/11/letter-of-intent-form-of-consideration.html) 
+*   [Structure of a Deal (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/10/letter-of-intent-structure-of-a-deal.html) 
+*   [Letter of Intent (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/09/letter-of-intent.html) 
+*   [Foreplay (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2005/09/letter-of-intent-foreplay.html) 
 
 Due Diligence
 *   [Is It Appropriate For VCs to Charge a Due Diligence Fee? (cf. Fred Wilson)](http://www.feld.com/archives/2006/07/is-it-appropriate-for-vcs-to-charge-a-due-diligence-fee.html)
