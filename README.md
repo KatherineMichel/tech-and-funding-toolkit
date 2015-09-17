@@ -942,6 +942,7 @@ Tech Periodical
 *   [TechCrunch](http://techcrunch.com)
 *   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
 *   [The Next Web](http://thenextweb.com)
+*   [The Information (subscription based)](https://www.theinformation.com)
 
 SEC
 *   [SEC](http://www.sec.gov)
