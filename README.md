@@ -122,6 +122,7 @@ Table of Contents
 *   [Jeff Jordan Archives](http://jeff.a16z.com/archives)  
 *   [Jerry Neumann (Reaction Wheel)](http://reactionwheel.net)
 *   [Jessica Livingston](http://foundersatwork.posthaven.com) and [Jessica Livingston Old Blog](http://www.foundersatwork.com/blog.html)
+*   [Joanne Wilson](http://gothamgal.com)
 *   [John Lilly Tumblr](http://lilly.tumblr.com) and [John Lilly Slideshare](http://www.slideshare.net/johnolilly)
 *   [Kanyi Maqubela](http://blog.kanyi.me)
 *   [Leo Polovets](http://codingvc.com)
