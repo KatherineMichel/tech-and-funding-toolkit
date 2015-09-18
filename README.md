@@ -16,8 +16,7 @@ Table of Contents
   - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
   - [Events, Talks, People](#events-talks-people)
 - [Business Entity and and Regulation](#business-entity-and-regulation)
-  - [Corporate Law](#corporate-law)
-  - [Documents and Advice](#documents-and-Advice)
+  - [Corporate Law, Documents, and Advice](#corporate-law-documents-and-advice)
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
   - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
 - [Venture Analysis](#venture-analysis)
@@ -473,7 +472,7 @@ Shows
 
 ### Business Entity and and Regulation
 
-#### Corporate Law
+#### Corporate Law, Documents, and Advice
 
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
 *   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
@@ -504,8 +503,6 @@ Law and Transaction Services
 *   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
 *   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Fortis](http://fortisrep.com) 
-
-#### Documents and Advice
 
 VCs on Standard Docs and Terms
 *   [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
