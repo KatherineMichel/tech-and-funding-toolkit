@@ -496,8 +496,8 @@ Standard Docs and Terms
 
 Document Libraries
 *   [Docracy Documents](http://www.docracy.com/application/dochome) 
-*   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881), [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
-*   [Rocket Lawyer](https://www.rocketlawyer.com) 
+*   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
+*   [Rocket Lawyer (Starts at $7/month)](https://www.rocketlawyer.com) 
 *   [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
 *   [Venture Docs](https://venturedocs.com/documents)  
 *   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
