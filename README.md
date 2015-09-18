@@ -18,8 +18,6 @@ Table of Contents
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
   - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
 - [Venture Analysis](#venture-analysis)
-  - [Surveys, Trends, Stats](#surveys-trends-stats)
-  - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Analyst Groups](#analyst-groups)
   - [Government and International Data](#government-and-international-data)
@@ -41,6 +39,8 @@ Table of Contents
   - [Design](#desgn)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
+  - [Surveys, Trends, Stats](#surveys-trends-stats)
+  - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 - [Philosophies](#philosophies)
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
@@ -803,50 +803,6 @@ List
 *   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
-#### Surveys, Trends, Stats
-
-Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
-*   [SurveyMonkey](https://www.surveymonkey.com)
-*   [Typeform](https://subtraction.typeform.com)
-
-Google Insights and Trends
-*   [Google Insights](http://www.google.com/insights)
-*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-
-Apple and Google Statistics
-*   [Apple Store Charts](https://www.apple.com/itunes/charts)
-*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
-
-App and Website Statistics- General
-*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
-*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
-*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
-*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
-
-#### Market, Business Models, Pricing, Product Tiers
-  
-Market
-*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
-*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
-*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
-
-Business Models
-*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
-*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
-*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
-*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
-*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
-
-Pricing Strategies
-*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
-*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
-
-Product Tiers
-*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
-
 #### Business and Tech News Sources
 
 Business News
@@ -1559,6 +1515,50 @@ Miscellaneous
 *   [Namium (Name Generator)](http://www.naminum.com)
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+
+#### Surveys, Trends, Stats
+
+Surveys
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
+*   [SurveyMonkey](https://www.surveymonkey.com)
+*   [Typeform](https://subtraction.typeform.com)
+
+Google Insights and Trends
+*   [Google Insights](http://www.google.com/insights)
+*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
+Apple and Google Statistics
+*   [Apple Store Charts](https://www.apple.com/itunes/charts)
+*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
+
+App and Website Statistics- General
+*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
+*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
+
+#### Market, Business Models, Pricing, Product Tiers
+  
+Market
+*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
+*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
+*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
+
+Business Models
+*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
+*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
+*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
+*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
+*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
+
+Pricing Strategies
+*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
+
+Product Tiers
+*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 #### Lean Startup and Launchpad
 
