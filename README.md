@@ -16,9 +16,9 @@ Table of Contents
   - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
   - [Regulation, Business Entity, Documents](#regulation-business-entity-documents)
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
-  - [Business and Tech News Sources](#business-and-tech-news-sources)
-  - [Analyst Groups](#analyst-groups)
   - [Government and International Data](#government-and-international-data)
+  - [Analyst Groups](#analyst-groups)
+  - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
 - [General Research and Learning](#general-research-and-learning)
   - [Learning Resources](#learning-resources)
@@ -603,6 +603,115 @@ Regulatory Agencies and Rules
 *   [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
 *   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
+#### Government and International Data
+
+U.S. Departments
+*   [The White House](http://www.whitehouse.gov)
+*   [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
+*   [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
+*   [U.S. Census](http://www.census.gov)
+*   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
+*   [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
+
+Patent Search and FOIA
+*   [U.S. Patent and Trademark Office](http://www.uspto.gov)
+*   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
+*   [FOIA](http://foia.state.gov)
+*   [Stack Exchange Patents](http://patents.stackexchange.com)
+
+U.S. Open Government, Data
+*   [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+*   [U.S. Dot Gov Domains](https://github.com/GSA/data)
+*   [U.S. Data](http://www.data.gov)
+*   [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
+*   [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
+*   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
+*   [U.S. Project Open Data](https://project-open-data.cio.gov)
+
+G8 and U.K. Data 
+*   [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
+*   [U.K. Government Publications](https://www.gov.uk/government/publications)
+
+International Organizations
+*   [International Monetary Fund](https://www.imf.org) 
+*   [Organisation for Economic Cooperation and Development Wikipedia](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
+*   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
+*   [World Economic Forum](http://www.weforum.org)
+
+International Organizations Reports and Data
+*   [OECD Data](https://data.oecd.org)
+*   [Our World in Data](http://ourworldindata.org)
+*   [United Nations Statistics Division](http://unstats.un.org)
+*   [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org)
+*   [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
+
+International Organizations Special Reports: Business and Competitiveness
+*   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
+*   [International Innovation Index Wikipedia](https://en.wikipedia.org/wiki/International_Innovation_Index)
+*   [OECD Innovation](http://www.oecd.org/innovation) and [OECD Technology and Innovation Data](https://data.oecd.org/innovation-and-technology.htm)
+*   [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
+*   [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
+*   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
+*   [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
+*   [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
+
+International Organizations Special Reports: Development
+*   [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
+*   [Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
+*   [The 2015 Revision of World Population Prospects](http://esa.un.org/unpd/wpp)
+*   [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
+*   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
+*   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
+
+Social Entrepreneurship
+*   [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
+*   [Gates Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
+*   [Gates Notes](http://www.gatesnotes.com)
+*   [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
+
+Happiness
+*   [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
+*   [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
+
+International Info
+*   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
+*   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
+*   [Lists of Countries by Number of Internet Users Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users) 
+*   [Lists of Countries by Number of Mobile Phones in Use Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use) 
+*   [Lists of Countries by Smartphone Penetration Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) 
+*   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
+*   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
+*   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
+
+#### Analyst Groups
+
+Analyst Groups
+*   [Accenture](https://www.accenture.com)
+*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
+*   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
+*   [Constellation Research](https://www.constellationr.com)
+*   [Deloitte](http://www2.deloitte.com/us/en.html)
+*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
+*   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+*   [GMO (Jeremy Grantham)](https://www.gmo.com)
+*   [IDC](http://www.idc.com)
+*   [KPMG](http://www.kpmg.com/US/en/Pages/default.aspx)
+*   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
+*   [Nielsen](http://www.nielsen.com/us/en.html)
+*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
+*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
+*   [PricewaterhouseCoopers](http://www.pwc.com) and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
+*   [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
+*   [RedMonk Twitter](https://twitter.com/redmonk)  
+*   [State of the Internet](http://www.stateoftheinternet.com)
+
+Management Consulting Firms
+*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
+
+Think Tanks
+*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+*   [Startup Britain Resources](http://www.startupbritain.org/resources)
+
 #### Business and Tech News Sources
 
 Business News
@@ -728,115 +837,6 @@ People
 Companies
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 *   [Great Place to Work](http://www.greatplacetowork.com)
-
-#### Analyst Groups
-
-Analyst Groups
-*   [Accenture](https://www.accenture.com)
-*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
-*   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
-*   [Constellation Research](https://www.constellationr.com)
-*   [Deloitte](http://www2.deloitte.com/us/en.html)
-*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
-*   [GMO (Jeremy Grantham)](https://www.gmo.com)
-*   [IDC](http://www.idc.com)
-*   [KPMG](http://www.kpmg.com/US/en/Pages/default.aspx)
-*   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
-*   [Nielsen](http://www.nielsen.com/us/en.html)
-*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
-*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
-*   [PricewaterhouseCoopers](http://www.pwc.com) and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
-*   [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
-*   [RedMonk Twitter](https://twitter.com/redmonk)  
-*   [State of the Internet](http://www.stateoftheinternet.com)
-
-Management Consulting Firms
-*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
-
-Think Tanks
-*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
-*   [Startup Britain Resources](http://www.startupbritain.org/resources)
-
-#### Government and International Data
-
-U.S. Departments
-*   [The White House](http://www.whitehouse.gov)
-*   [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
-*   [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
-*   [U.S. Census](http://www.census.gov)
-*   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
-*   [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
-
-Patent Search and FOIA
-*   [U.S. Patent and Trademark Office](http://www.uspto.gov)
-*   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
-*   [FOIA](http://foia.state.gov)
-*   [Stack Exchange Patents](http://patents.stackexchange.com)
-
-U.S. Open Government, Data
-*   [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
-*   [U.S. Dot Gov Domains](https://github.com/GSA/data)
-*   [U.S. Data](http://www.data.gov)
-*   [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
-*   [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
-*   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
-*   [U.S. Project Open Data](https://project-open-data.cio.gov)
-
-G8 and U.K. Data 
-*   [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
-*   [U.K. Government Publications](https://www.gov.uk/government/publications)
-
-International Organizations
-*   [International Monetary Fund](https://www.imf.org) 
-*   [Organisation for Economic Cooperation and Development Wikipedia](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
-*   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
-*   [World Economic Forum](http://www.weforum.org)
-
-International Organizations Reports and Data
-*   [OECD Data](https://data.oecd.org)
-*   [Our World in Data](http://ourworldindata.org)
-*   [United Nations Statistics Division](http://unstats.un.org)
-*   [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org)
-*   [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
-
-International Organizations Special Reports: Business and Competitiveness
-*   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
-*   [International Innovation Index Wikipedia](https://en.wikipedia.org/wiki/International_Innovation_Index)
-*   [OECD Innovation](http://www.oecd.org/innovation) and [OECD Technology and Innovation Data](https://data.oecd.org/innovation-and-technology.htm)
-*   [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
-*   [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
-*   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
-*   [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
-*   [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
-
-International Organizations Special Reports: Development
-*   [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
-*   [Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
-*   [The 2015 Revision of World Population Prospects](http://esa.un.org/unpd/wpp)
-*   [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
-*   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
-*   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
-
-Social Entrepreneurship
-*   [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
-*   [Gates Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
-*   [Gates Notes](http://www.gatesnotes.com)
-*   [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
-
-Happiness
-*   [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
-*   [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
-
-International Info
-*   [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
-*   [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
-*   [Lists of Countries by Number of Internet Users Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users) 
-*   [Lists of Countries by Number of Mobile Phones in Use Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use) 
-*   [Lists of Countries by Smartphone Penetration Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) 
-*   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
-*   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
-*   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
 #### Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al
   
