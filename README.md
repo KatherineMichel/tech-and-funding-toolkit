@@ -15,8 +15,7 @@ Table of Contents
   - [Company and Product Databases](#company-and-product-databases)
   - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
   - [Events, Talks, People](#events-talks-people)
-- [Business Entity and and Regulation](#business-entity-and-regulation)
-  - [Corporate Law, Documents, and Advice](#corporate-law-documents-and-advice)
+  - [Regulation, Business Entity, Documents](#regulation-business-entity-documents)
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
   - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
 - [Venture Analysis](#venture-analysis)
@@ -470,9 +469,7 @@ Shows
 *   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
 *   [This Week in Startups](http://thisweekinstartups.com)
 
-### Business Entity and and Regulation
-
-#### Corporate Law, Documents, and Advice
+#### Regulation, Business Entity, Documents
 
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
 *   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
