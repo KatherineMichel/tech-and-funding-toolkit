@@ -17,7 +17,6 @@ Table of Contents
   - [Regulation, Business Entity, Documents](#regulation-business-entity-documents)
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
   - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
-- [Venture Analysis](#venture-analysis)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Analyst Groups](#analyst-groups)
   - [Government and International Data](#government-and-international-data)
@@ -41,6 +40,7 @@ Table of Contents
   - [Prototyping](#prototyping)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
+  - [Venture Analysis](#venture-analysis)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 - [Philosophies](#philosophies)
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
@@ -775,33 +775,6 @@ Economists, Investors, Philosophers
 *   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 *   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
 *   [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
-
-#### Venture Analysis
-
-*   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
-*   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
-*   [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
-*   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
-*   [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
-*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
-*   [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
-*   [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
-
-Idea State Machine and Idea Maze
-*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
-*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-Value
-*   [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
-*   [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
-*   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
-*   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
-*   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
-
-List
-*   [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
-*   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
-*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
 #### Business and Tech News Sources
 
@@ -1559,6 +1532,33 @@ Pricing Strategies
 
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
+
+#### Venture Analysis
+
+*   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
+*   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
+*   [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
+*   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
+*   [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
+*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+*   [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
+*   [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
+
+Idea State Machine and Idea Maze
+*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
+*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
+Value
+*   [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
+*   [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
+*   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
+*   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
+*   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
+
+List
+*   [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
+*   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
+*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
 #### Lean Startup and Launchpad
 
