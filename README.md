@@ -715,6 +715,7 @@ Securities and Exchange Commission (SEC)
 
 Central Banks/Reserves
 *   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
+*   [Kansas City Fed](https://www.kansascityfed.org)
 
 Regulatory Agencies and Rules
 *   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
