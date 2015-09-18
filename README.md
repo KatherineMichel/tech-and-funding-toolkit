@@ -12,6 +12,8 @@ Table of Contents
 - [Venture](#venture)
   - [VC Theory](#vc-theory)
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
+  - [Company and Product Databases](#company-and-product-databases)
+  - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
   - [Events, Talks, People](#events-talks-people)
 - [Business Entity and and Regulation](#business-entity-and-regulation)
   - [Corporate Law](#corporate-law)
@@ -21,8 +23,6 @@ Table of Contents
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-  - [Company and Product Databases](#company-and-product-databases)
-  - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Analyst Groups](#analyst-groups)
   - [Government and International Data](#government-and-international-data)
@@ -364,6 +364,85 @@ Federal Opportunities and Funding
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 *   [National Science Foundation Funding](https://www.nsf.gov/funding)
 *   [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
+
+#### Company and Product Databases
+
+Database List
+*   [AngelList](https://angel.co)
+*   [Betalist](http://betalist.com)
+*   [CB Insights](https://www.cbinsights.com)
+*   [CrunchBase](http://www.crunchbase.com)
+*   [Datafox](http://www.datafox.co)
+*   [GitHub Explore](https://github.com/explore) 
+*   [Makerbase](https://makerba.se)
+*   [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
+*   [Product Hunt](http://www.producthunt.com) 
+
+Databases and Benchmarking- Freemium
+*   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
+*   [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), and [AngelList Salaries](https://angel.co/salaries)
+*   [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
+*   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
+*   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
+*   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
+*   [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+
+Europe and U.K.
+*   [AngelList U.K.](https://angel.co/uk)
+*   [Tech EU Radar Online Database](http://radar.tech.eu) 
+
+Blogs and Whatnot
+*   [AngelList Jobs](https://angel.co/jobs) and [AngelList Help](https://angel.co/help)
+*   [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
+*   [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
+*   [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
+*   [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
+*   [Product Hunt Blog](http://blog.producthunt.com)
+*   [Tech EU Research](http://tech.eu/section/research) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
+
+Mobile and Browser
+*   [Apple Store](http://store.apple.com/us)
+*   [Google Play](https://play.google.com)
+*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+*   [Chrome Web Store](https://chrome.google.com/webstore)
+
+Database APIs
+*   [AngelList API](https://angel.co/api)
+*   [CrunchBase API](https://developer.crunchbase.com)
+*   [Mattermark API](https://mattermark.com/api)  
+*   [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+
+Product/Service Directories
+*   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+*   [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+Wayback Machine
+*   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
+
+#### Unicorns, Companies, Industry and Product Classifications, Associations
+
+Unicorns
+*   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
+*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+*   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+*   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+*   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+Companies
+*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
+
+Industry and Product Classifications
+*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
 #### Events, Talks, People
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
@@ -800,85 +879,6 @@ Pricing Strategies
 
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
-
-#### Company and Product Databases
-
-Database List
-*   [AngelList](https://angel.co)
-*   [Betalist](http://betalist.com)
-*   [CB Insights](https://www.cbinsights.com)
-*   [CrunchBase](http://www.crunchbase.com)
-*   [Datafox](http://www.datafox.co)
-*   [GitHub Explore](https://github.com/explore) 
-*   [Makerbase](https://makerba.se)
-*   [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-*   [Product Hunt](http://www.producthunt.com) 
-
-Databases and Benchmarking- Freemium
-*   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-*   [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), and [AngelList Salaries](https://angel.co/salaries)
-*   [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
-*   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
-*   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
-*   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-*   [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
-
-Europe and U.K.
-*   [AngelList U.K.](https://angel.co/uk)
-*   [Tech EU Radar Online Database](http://radar.tech.eu) 
-
-Blogs and Whatnot
-*   [AngelList Jobs](https://angel.co/jobs) and [AngelList Help](https://angel.co/help)
-*   [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
-*   [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
-*   [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
-*   [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
-*   [Product Hunt Blog](http://blog.producthunt.com)
-*   [Tech EU Research](http://tech.eu/section/research) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
-
-Mobile and Browser
-*   [Apple Store](http://store.apple.com/us)
-*   [Google Play](https://play.google.com)
-*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
-*   [Chrome Web Store](https://chrome.google.com/webstore)
-
-Database APIs
-*   [AngelList API](https://angel.co/api)
-*   [CrunchBase API](https://developer.crunchbase.com)
-*   [Mattermark API](https://mattermark.com/api)  
-*   [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
-
-Product/Service Directories
-*   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-*   [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-Wayback Machine
-*   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
-
-#### Unicorns, Companies, Industry and Product Classifications, Associations
-
-Unicorns
-*   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
-*   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
-*   [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
-*   [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
-*   [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
-*   [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
-*   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
-*   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-*   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
-
-Companies
-*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-
-Industry and Product Classifications
-*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
 #### Business and Tech News Sources
 
