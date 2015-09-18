@@ -3854,6 +3854,7 @@ Laws, Theories, Logic
 *   [Hotelling's Rule Wikipedia](http://en.wikipedia.org/wiki/Hotelling's_rule)  
 *   [If By Whiskey Wikipedia](http://en.wikipedia.org/wiki/If-by-whiskey)  
 *   [Indicator of Compromise Wikipedia](http://en.wikipedia.org/wiki/Indicator_of_compromise)  
+*   [Information Paradox (Arrow) Wikipedia](https://en.wikipedia.org/wiki/Arrow_information_paradox)
 *   [Is-Ought Problem Wikipedia](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)  
 *   [Gall's Law Wikipedia](http://en.wikipedia.org/wiki/John_Gall_%28author%29#Gall.27s_law)   
 *   [Joy's Law Wikipedia](http://en.wikipedia.org/wiki/Joy%27s_Law_%28management%29)  
