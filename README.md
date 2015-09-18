@@ -12,12 +12,12 @@ Table of Contents
 - [Venture](#venture)
   - [VC Theory](#vc-theory)
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
-  - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
   - [Events, Talks, People](#events-talks-people)
 - [Business Entity and and Regulation](#business-entity-and-regulation)
   - [Corporate Law](#corporate-law)
-  - [More Documents and Advice](#more-documents-and-Advice)
+  - [Documents and Advice](#documents-and-Advice)
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
+  - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
@@ -322,44 +322,6 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 *   [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
-VCs on Standard Docs and Terms
-*   [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
-*   [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
-*   [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
-*   [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
-
-Standard Docs and Terms
-*   [500 Startups Keep It Simple Security](http://500.co/kiss)  
-*   [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
-*   [Foundry Group Docs via Ask the VC (Series A Term Sheet, Series A Restated Certificate of Incorporation, Series A Preferred Stock Purchase Agreement, Investor Rights Agreement, Co-Sale Agreement, Voting Agreement, Bylaws)](http://www.askthevc.com/wp/resources)
-*   [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF)
-*   [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github) (in Conjunction with Cooley Go)
-*   [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Term Sheet, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
-*   [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
-*   [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Convertible Promissory Note Purchase Agreement, Note, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
-*   [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Restated Certificate of Incorporation, Preferred Stock Investment Agreement)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
-*   [TheFunded Founder Institute Document List (Certificate of Incorporation, Plain Preferred Term Sheet, Bylaws, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
-*   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm)
-*   [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
-
-Document Libraries
-*   [Docracy Documents](http://www.docracy.com/application/dochome) 
-*   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881), [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
-*   [Rocket Lawyer](https://www.rocketlawyer.com) 
-*   [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
-*   [Venture Docs](https://venturedocs.com/documents)  
-*   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
-
-Standard Docs- International
-*   [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
-*   [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
-*   [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
-
-VC Firm Pitch Deck and Operational Report Templates
-*   [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
-*   [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
-*   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
-
 RFS, Trends, Emerging Technologies
 *   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 *   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
@@ -402,6 +364,198 @@ Federal Opportunities and Funding
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 *   [National Science Foundation Funding](https://www.nsf.gov/funding)
 *   [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
+
+#### Events, Talks, People
+*   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+*   [Techmeme Events List](http://techmeme.com/events) 
+*   [Tech EU Events List](http://tech.eu/events)
+*   [500 Startups Events](http://500.co/events)
+*   [Startup School](http://www.startupschool.org)
+*   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
+*   [Mobile Ecosystem Forum](http://mefglobalforum.org)
+*   [TechCrunch Events](http://techcrunch.com/events)  
+*   [Recode Events](http://recode.net/events) 
+*   [LeWeb](http://leweb.co) 
+*   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
+*   [SXSW](http://sxsw.com) 
+*   [KC Addys](http://aafkc.com/addys)
+
+Google, Google Tech, and TED Talks
+*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
+*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
+*   [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), and[TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest)
+
+Shows
+*   [Founder Stories](http://techcrunch.com/video/founder-stories)
+*   [Heart Startup](http://hearstartup.com) 
+*   [Product Hunt Live](http://www.producthunt.com/live)
+*   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
+*   [This Week in Startups](http://thisweekinstartups.com)
+
+### Business Entity and and Regulation
+
+#### Corporate Law
+
+*   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
+*   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
+*   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
+*   [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) and [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
+*   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
+*   [Benefitcorp](http://benefitcorp.net) 
+*   [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
+
+Delaware
+*   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
+*   [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
+*   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
+*   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
+
+Kansas
+*   [State of Kansas Business](http://www.kansas.gov/business) 
+*   [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
+*   [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
+*   [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
+
+Law and Transaction Services
+*   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+*   [Cooley](http://www.cooley.com)
+*   [Gunderson Dettmer](http://www.gunder.com)
+*   [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
+*   [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
+*   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
+*   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+*   [Fortis](http://fortisrep.com) 
+
+#### Documents and Advice
+
+VCs on Standard Docs and Terms
+*   [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
+*   [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
+*   [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
+*   [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
+
+Standard Docs and Terms
+*   [500 Startups Keep It Simple Security](http://500.co/kiss)  
+*   [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
+*   [Foundry Group Docs via Ask the VC (Series A Term Sheet, Series A Restated Certificate of Incorporation, Series A Preferred Stock Purchase Agreement, Investor Rights Agreement, Co-Sale Agreement, Voting Agreement, Bylaws)](http://www.askthevc.com/wp/resources)
+*   [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF)
+*   [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github) (in Conjunction with Cooley Go)
+*   [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Term Sheet, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
+*   [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
+*   [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Convertible Promissory Note Purchase Agreement, Note, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+*   [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Restated Certificate of Incorporation, Preferred Stock Investment Agreement)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+*   [TheFunded Founder Institute Document List (Certificate of Incorporation, Plain Preferred Term Sheet, Bylaws, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
+*   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm)
+*   [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
+
+Document Libraries
+*   [Docracy Documents](http://www.docracy.com/application/dochome) 
+*   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881), [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
+*   [Rocket Lawyer](https://www.rocketlawyer.com) 
+*   [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
+*   [Venture Docs](https://venturedocs.com/documents)  
+*   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
+
+Standard Docs- International
+*   [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
+*   [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
+*   [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
+
+VC Firm Pitch Deck and Operational Report Templates
+*   [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
+*   [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
+*   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
+
+Cap Table, Convertible Bonds, Securities, Equity
+*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
+*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
+*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
+*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
+
+Term Sheets 101
+*   [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
+
+Document Web Services
+*   [Captable.io](https://captable.io)  
+*   [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
+*   [Eshares Inc](https://www.esharesinc.com)
+*   [Visible](https://visible.vc) 
+
+Cap Table
+*   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
+*   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
+
+Raising a Seed Round- The Spreadsheet
+*   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
+
+Equity Investment Simulation
+*   [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
+
+Aquihire
+*   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
+
+Financial Modelling
+*   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Example Models](http://www.bestpracticemodelling.com/downloads/example_models), and [Best Practice Modelling Interactive Training](http://www.bestpracticemodelling.com/training/best_practice)  
+*   [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+*   [Spreadsheet Standards Review Board](http://www.ssrb.org)  
+*   [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
+
+How to Read A Financial Report
+*   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
+
+Investor Vocab
+*   [Investopedia](http://www.investopedia.com)
+*   [Investor Words](http://www.investorwords.com)
+
+Measuring a Moat
+*   [Mauboussin and Callahan: Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+
+IPO
+*   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
+*   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
+*   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
+
+Valuation
+*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
+
+Types of Acquisitions
+*   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
+
+#### SEC and Other Regulatory Agencies
+
+Special Rules
+*   [409A (Valuation)](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
+*   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
+*   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
+*   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
+*   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
+*   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
+
+Securities and Exchange Commission (SEC)
+*   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
+*   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
+*   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
+*   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
+*   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
+
+Central Banks/Reserves
+*   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
+*   [Kansas City Fed](https://www.kansascityfed.org)
+
+Regulatory Agencies and Rules
+*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
+*   [Federal Aviation Administration](http://www.faa.gov)  
+*   [Federal Communications Commission](https://www.fcc.gov)
+*   [Federal Drug Administration](http://www.fda.gov)  
+*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
+*   [Financial Accounting Standards Board](http://www.fasb.org)
+*   [Internal Revenue Service](http://www.irs.gov)
+*   [Securities and Exchange Commission](http://www.sec.gov)
+*   [Small Business Administration](http://www.sba.gov) 
+*   [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
+*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
 #### Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al
   
@@ -575,160 +729,6 @@ Economists, Investors, Philosophers
 *   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 *   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
 *   [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
-
-#### Events, Talks, People
-*   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-*   [Techmeme Events List](http://techmeme.com/events) 
-*   [Tech EU Events List](http://tech.eu/events)
-*   [500 Startups Events](http://500.co/events)
-*   [Startup School](http://www.startupschool.org)
-*   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
-*   [Mobile Ecosystem Forum](http://mefglobalforum.org)
-*   [TechCrunch Events](http://techcrunch.com/events)  
-*   [Recode Events](http://recode.net/events) 
-*   [LeWeb](http://leweb.co) 
-*   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
-*   [SXSW](http://sxsw.com) 
-*   [KC Addys](http://aafkc.com/addys)
-
-Google, Google Tech, and TED Talks
-*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
-*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
-*   [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), and[TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest)
-
-Shows
-*   [Founder Stories](http://techcrunch.com/video/founder-stories)
-*   [Heart Startup](http://hearstartup.com) 
-*   [Product Hunt Live](http://www.producthunt.com/live)
-*   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
-*   [This Week in Startups](http://thisweekinstartups.com)
-
-### Business Entity and and Regulation
-
-#### Corporate Law
-
-*   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
-*   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
-*   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
-*   [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) and [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
-*   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
-*   [Benefitcorp](http://benefitcorp.net) 
-*   [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
-
-Delaware
-*   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
-*   [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
-*   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
-*   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
-
-Kansas
-*   [State of Kansas Business](http://www.kansas.gov/business) 
-*   [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
-*   [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
-*   [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
-
-Law and Transaction Services
-*   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-*   [Cooley](http://www.cooley.com)
-*   [Gunderson Dettmer](http://www.gunder.com)
-*   [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
-*   [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
-*   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
-*   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-*   [Fortis](http://fortisrep.com) 
-
-#### More Documents and Advice
-
-Cap Table, Convertible Bonds, Securities, Equity
-*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
-*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
-*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
-*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
-
-Term Sheets 101
-*   [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
-
-Document Web Services
-*   [Captable.io](https://captable.io)  
-*   [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
-*   [Eshares Inc](https://www.esharesinc.com)
-*   [Visible](https://visible.vc) 
-
-Cap Table
-*   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
-*   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
-
-Raising a Seed Round- The Spreadsheet
-*   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
-
-Equity Investment Simulation
-*   [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
-
-Aquihire
-*   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
-
-Financial Modelling
-*   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Example Models](http://www.bestpracticemodelling.com/downloads/example_models), and [Best Practice Modelling Interactive Training](http://www.bestpracticemodelling.com/training/best_practice)  
-*   [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
-*   [Spreadsheet Standards Review Board](http://www.ssrb.org)  
-*   [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
-
-How to Read A Financial Report
-*   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
-
-Investor Vocab
-*   [Investopedia](http://www.investopedia.com)
-*   [Investor Words](http://www.investorwords.com)
-
-Measuring a Moat
-*   [Mauboussin and Callahan: Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
-
-IPO
-*   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
-*   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
-*   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
-
-Valuation
-*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
-*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
-
-Types of Acquisitions
-*   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
-
-#### SEC and Other Regulatory Agencies
-
-Special Rules
-*   [409A (Valuation)](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
-*   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
-*   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
-*   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
-*   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
-*   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
-
-Securities and Exchange Commission (SEC)
-*   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
-*   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
-*   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
-*   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
-*   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
-
-Central Banks/Reserves
-*   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
-*   [Kansas City Fed](https://www.kansascityfed.org)
-
-Regulatory Agencies and Rules
-*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
-*   [Federal Aviation Administration](http://www.faa.gov)  
-*   [Federal Communications Commission](https://www.fcc.gov)
-*   [Federal Drug Administration](http://www.fda.gov)  
-*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
-*   [Financial Accounting Standards Board](http://www.fasb.org)
-*   [Internal Revenue Service](http://www.irs.gov)
-*   [Securities and Exchange Commission](http://www.sec.gov)
-*   [Small Business Administration](http://www.sba.gov) 
-*   [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
-*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
 #### Venture Analysis
 
