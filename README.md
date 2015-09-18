@@ -14,7 +14,6 @@ Table of Contents
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
   - [Company and Product Databases](#company-and-product-databases)
   - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-  - [Events, Talks, People](#events-talks-people)
   - [Regulation, Business Entity, Documents](#regulation-business-entity-documents)
   - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
   - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
@@ -26,6 +25,7 @@ Table of Contents
   - [Government and International Data](#government-and-international-data)
 - [General Research and Learning](#general-research-and-learning)
   - [Learning Resources](#learning-resources)
+  - [Events, Talks, People](#events-talks-people)
   - [Books and Courses](#books-and-courses)
 - [Project Management](#project-management)
   - [Project Management Tools](#project-management-tools)
@@ -441,33 +441,6 @@ Industry and Product Classifications
 
 Associations
 *   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
-#### Events, Talks, People
-*   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-*   [Techmeme Events List](http://techmeme.com/events) 
-*   [Tech EU Events List](http://tech.eu/events)
-*   [500 Startups Events](http://500.co/events)
-*   [Startup School](http://www.startupschool.org)
-*   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
-*   [Mobile Ecosystem Forum](http://mefglobalforum.org)
-*   [TechCrunch Events](http://techcrunch.com/events)  
-*   [Recode Events](http://recode.net/events) 
-*   [LeWeb](http://leweb.co) 
-*   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
-*   [SXSW](http://sxsw.com) 
-*   [KC Addys](http://aafkc.com/addys)
-
-Google, Google Tech, and TED Talks
-*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
-*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
-*   [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), and[TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest)
-
-Shows
-*   [Founder Stories](http://techcrunch.com/video/founder-stories)
-*   [Heart Startup](http://hearstartup.com) 
-*   [Product Hunt Live](http://www.producthunt.com/live)
-*   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
-*   [This Week in Startups](http://thisweekinstartups.com)
 
 #### Regulation, Business Entity, Documents
 
@@ -1152,6 +1125,33 @@ Because I Just Like It
 Google for Education
 *   [Google Classroom](https://www.google.com/edu/products/productivity-tools/classroom)
 *   [Google Course Builder](https://code.google.com/p/course-builder)
+
+#### Events, Talks, People
+*   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+*   [Techmeme Events List](http://techmeme.com/events) 
+*   [Tech EU Events List](http://tech.eu/events)
+*   [500 Startups Events](http://500.co/events)
+*   [Startup School](http://www.startupschool.org)
+*   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
+*   [Mobile Ecosystem Forum](http://mefglobalforum.org)
+*   [TechCrunch Events](http://techcrunch.com/events)  
+*   [Recode Events](http://recode.net/events) 
+*   [LeWeb](http://leweb.co) 
+*   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
+*   [SXSW](http://sxsw.com) 
+*   [KC Addys](http://aafkc.com/addys)
+
+Google, Google Tech, and TED Talks
+*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
+*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
+*   [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), and[TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest)
+
+Shows
+*   [Founder Stories](http://techcrunch.com/video/founder-stories)
+*   [Heart Startup](http://hearstartup.com) 
+*   [Product Hunt Live](http://www.producthunt.com/live)
+*   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
+*   [This Week in Startups](http://thisweekinstartups.com)
 
 #### Books and Courses
 
