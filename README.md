@@ -1736,7 +1736,7 @@ Business and Financial Metrics
 * 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), (ARR (annual recurring revenue), ARR per customer, MRR (monthly recurring revenue))
 * 3 Gross Profit
 * 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
-* 5 LTV (Life Time Value) (See also Bill Gurley)
+* 5 LTV (Life Time Value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
 * 6 Gross Merchandise Value (GMV) vs. Revenue
 * 7 Unearned or Deferred Revenue … and Billings
 * 8 CAC (Customer Acquisition Cost) … Blended vs. Paid, Organic vs. Inorganic
@@ -1746,8 +1746,7 @@ Product and Engagement Metrics
 * 10 Month-on-month (MoM) growth, CMGR 
 * 11 Churn
 * 12 Burn Rate (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
-* 13 Downloads (Vanity Metrics)
-Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.
+* 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
 
 Presenting Metrics Generally
 * 14 Cumulative Charts (vs. Growth Metrics)
