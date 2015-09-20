@@ -1740,7 +1740,7 @@ Business and Financial Metrics
 * 5 LTV (Life Time Value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
 * 6 Gross Merchandise Value (GMV) vs. Revenue
 * 7 Unearned or Deferred Revenue … and Billings
-* 8 CAC (Customer Acquisition Cost) … Blended vs. Paid, Organic vs. Inorganic
+* 8 [CAC (Customer Acquisition Cost) Wikipedia](https://en.wikipedia.org/wiki/Customer_acquisition_cost) … Blended vs. Paid, Organic vs. Inorganic
 
 Product and Engagement Metrics
 * 9 Active Users
