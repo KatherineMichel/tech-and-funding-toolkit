@@ -1730,6 +1730,32 @@ Digital Stats
 #### Metrics
 
 *   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics)
+
+Business and Financial Metrics
+* 1 Bookings vs. Revenue (Letters of intent and verbal agreements are neither revenue nor bookings.)
+* 2 Recurring Revenue vs. Total Revenue (ARR (annual recurring revenue), ARR per customer, MRR (monthly recurring revenue))
+* 3 Gross Profit
+* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV)
+* 5 LTV (Life Time Value) (See also Bill Gurley)
+* 6 Gross Merchandise Value (GMV) vs. Revenue
+* 7 Unearned or Deferred Revenue … and Billings
+* 8 CAC (Customer Acquisition Cost) … Blended vs. Paid, Organic vs. Inorganic
+
+Product and Engagement Metrics
+* 9 Active Users
+* 10 Month-on-month (MoM) growth, CMGR 
+* 11 Churn
+* 12 Burn Rate (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
+
+* 13 Downloads (Vanity Metrics)
+Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.
+
+Presenting Metrics Generally
+* 14 Cumulative Charts (vs. Growth Metrics)
+* 15 Chart Tricks
+* 16 Order of Operations
+
+More
 *   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
 *   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
