@@ -1729,6 +1729,7 @@ Digital Stats
 
 #### Metrics
 
+A16Z Metrics
 *   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics)
 
 Business and Financial Metrics
@@ -1753,11 +1754,20 @@ Presenting Metrics Generally
 * 15 Chart Tricks
 * 16 Order of Operations
 
-More
-*   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+Bill Gurley on LTV
+*   [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+
+OKRs
 *   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+KPIs
+*   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+
+Pirate Metrics
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
+Miscellaneous Metrics
 *   [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate)  
 *   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
 *   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
