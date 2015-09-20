@@ -1735,7 +1735,7 @@ A16Z Metrics
 Business and Financial Metrics
 * 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
 * 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), (ARR (annual recurring revenue), ARR per customer, MRR (monthly recurring revenue))
-* 3 Gross Profit
+* 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
 * 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
 * 5 LTV (Life Time Value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
 * 6 Gross Merchandise Value (GMV) vs. Revenue
@@ -1745,7 +1745,7 @@ Business and Financial Metrics
 Product and Engagement Metrics
 * 9 Active Users
 * 10 Month-on-month (MoM) growth, CMGR 
-* 11 Churn
+* 11 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate) 
 * 12 Burn Rate (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
 * 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
 
@@ -1768,7 +1768,6 @@ Pirate Metrics
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
 
 Miscellaneous Metrics
-*   [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate)  
 *   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
 *   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
 
