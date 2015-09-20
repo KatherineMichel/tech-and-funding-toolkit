@@ -136,6 +136,7 @@ Table of Contents
 *   [Paul Kedrosky](http://paul.kedrosky.com)
 *   [Peter Levine Archives](http://peter.a16z.com/archives)
 *   [Reid Hoffman Slideshare](http://www.slideshare.net/reidhoffman/presentations)
+*   [Roger Ehrenberg](http://informationarbitrage.com)
 *   [Sam Altman Archive](http://blog.samaltman.com/archive)
 *   [Sam Lessin](http://blog.wlessin.com)
 *   [Satya Patel](http://venturegeneratedcontent.com)
