@@ -1732,10 +1732,10 @@ Digital Stats
 *   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics)
 
 Business and Financial Metrics
-* 1 Bookings vs. Revenue (Letters of intent and verbal agreements are neither revenue nor bookings.)
-* 2 Recurring Revenue vs. Total Revenue (ARR (annual recurring revenue), ARR per customer, MRR (monthly recurring revenue))
+* 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
+* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), (ARR (annual recurring revenue), ARR per customer, MRR (monthly recurring revenue))
 * 3 Gross Profit
-* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV)
+* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
 * 5 LTV (Life Time Value) (See also Bill Gurley)
 * 6 Gross Merchandise Value (GMV) vs. Revenue
 * 7 Unearned or Deferred Revenue … and Billings
@@ -1746,7 +1746,6 @@ Product and Engagement Metrics
 * 10 Month-on-month (MoM) growth, CMGR 
 * 11 Churn
 * 12 Burn Rate (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
-
 * 13 Downloads (Vanity Metrics)
 Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.
 
