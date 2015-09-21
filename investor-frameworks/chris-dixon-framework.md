@@ -164,7 +164,7 @@ Strategies
 *   [Building products from improvised user behaviors](http://cdixon.org/2012/01/02/building-products-from-improvised-user-behaviors)
 *   [Selling pickaxes during a gold rush](http://cdixon.org/2011/02/05/selling-pickaxes-during-a-gold-rush)
 *   [The “thin edge of the wedge” strategy](http://cdixon.org/2010/12/27/the-thin-edge-of-the-wedge-strategy)
-*   [The “ladies’ night” strategy](http://cdixon.org/2010/10/17/the-ladies-night-strategy)
+*   [The “ladies’ night” strategy](http://cdixon.org/2010/10/17/the-ladies-night-strategy) and [Two-Sided Market Wikipedia](https://en.wikipedia.org/wiki/Two-sided_market)
 *   [The bowling pin strategy](http://cdixon.org/2010/08/21/the-bowling-pin-strategy)
 *   [Designing products for single and multiplayer modes](http://cdixon.org/2010/06/12/designing-products-for-single-and-multiplayer-modes)
 *   [Collective knowledge systems](http://cdixon.org/2010/01/17/collective-knowledge-systems)
