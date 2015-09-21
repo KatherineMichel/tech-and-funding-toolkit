@@ -62,11 +62,11 @@ Eliminate/Outlaw Vagueries
 Saying No, Why Am I Passing, Asking for a Referral
 *   [Saying No In Less Than 60 Seconds](http://www.feld.com/archives/2009/06/say-no-in-less-than-60-seconds.html) 
 *   [Why Am I Passing?](http://www.feld.com/archives/2008/02/why-am-i-passing.html) 
-*   [Don’t Ask For A Referral If I Say No (cf. Fred Wilson)](http://www.feld.com/archives/2007/11/dont-ask-for-a-referral-if-i-say-no.html) (left off here, going down)
+*   [Don’t Ask For A Referral If I Say No (cf. Fred Wilson)](http://www.feld.com/archives/2007/11/dont-ask-for-a-referral-if-i-say-no.html)
 
 Funding Announcements
 *   [Transparent Funding Announcements](http://www.feld.com/archives/2015/04/transparent-funding-announcements.html)
-*   [Announce Your Financing In Conjunction With Your Form D Filing](http://www.feld.com/archives/2011/12/announce-your-financing-in-conjunction-with-your-form-d-filing.html)
+*   [Announce Your Financing In Conjunction With Your Form D Filing](http://www.feld.com/archives/2011/12/announce-your-financing-in-conjunction-with-your-form-d-filing.html) and [SEC: Form D](http://www.sec.gov/answers/formd.htm) (left off here, going down)
 
 Entity Structure
 *   [What Structure Should I Use?](http://www.feld.com/archives/2006/03/what-structure-should-i-use.html)
