@@ -259,6 +259,7 @@ Carlota Perez and USV Investment Thesis
 *   [Required Reading For The Carlota Perez Interview](http://avc.com/2011/10/required-reading-for-the-carlota-perez-interview)
 *   [My Interview With Carlota Perez](http://avc.com/2011/10/my-interview-of-carlota-perez)
 *   [Technological Revolutions And Financial Capital](http://avc.com/2011/05/technological-revolutions-and-financial-capital)
+*   [Retooling Stale Businesses (cf. Carlota Perez)](http://avc.com/2010/08/retooling-stale-businesses)
 
 The Dentist Office Software Story
 *   [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story)
@@ -316,6 +317,7 @@ VC- General
 *   [Lockups and Insider Selling](http://avc.com/2012/08/lockups-and-insider-selling)
 *   [Entrepreneurs Have Control When Things Work, VCs Have Control When They Don’t (cf. Dave Winer)](http://avc.com/2012/07/entrepreneurs-have-control-when-things-work-vcs-have-control-when-things-dont-work)
 *   [The Power Of Diversification](http://avc.com/2012/07/the-power-of-diversification)
+*   [he Poker Analogy (From The Archives)](http://avc.com/2012/03/from-the-archives-the-poker-analogy)
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
 *   [Venture Capital Creating Systemic Risk???](http://avc.com/2010/04/venture-capital-creating-systemic-risk)
 *   [Plant More Seeds vs Tending The Crop](http://avc.com/2010/01/plant-more-seeds-vs-tending-the-crop)
@@ -378,6 +380,9 @@ Venture Firm Investment Decisions
 
 Handshake
 *   [Doing Business On A Handshake](http://avc.com/2013/03/doing-business-on-a-handshake)
+
+Don’t Let Good Friends Hear About It On TechCrunch
+*   [Don’t Let Good Friends Hear About It On TechCrunch](http://avc.com/2011/08/dont-let-good-friends-hear-about-it-on-techcrunch)
 
 Venture Funding Docs
 *   [A Challenge To Startup Lawyers](http://avc.com/2011/03/a-challenge-to-startup-lawyers)
@@ -548,3 +553,6 @@ Slow Money
 *   [My Favorite Money Manager](http://avc.com/2010/08/my-favorite-money-manager)
 *   [The 0.00% Yield](http://avc.com/2010/03/the-000-yield)
 *   [Slow Capital](http://avc.com/2009/10/slow-capital)
+
+The Other Co-Founder – Your Family
+*   [The Other Co-Founder – Your Family](http://avc.com/2012/02/the-other-co-founder-your-family)
