@@ -32,7 +32,7 @@ Billion Dollar Company
 *   [How Can This Be A Billion Dollar Company?](http://www.feld.com/archives/2014/07/can-billion-dollar-company.html)
 
 Financing
-*   [Bootstrapping Top 10 List](http://www.feld.com/archives/2004/08/bootstrapping-top-10-list.html)
+*   [Bootstrapping Top 10 List (cf. Fred Wilson, Jerry Colonna)](http://www.feld.com/archives/2004/08/bootstrapping-top-10-list.html)
 
 Signaling
 *   [Entrepreneurs Dislike Signaling; VCs Dislike Free Riders](http://www.feld.com/archives/2010/09/entrepreneurs-dislike-signaling-vcs-dislike-free-riders.html) 
