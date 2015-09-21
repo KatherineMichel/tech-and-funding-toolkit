@@ -177,7 +177,7 @@ Pivoting
 *   [Pivoting into a new corporate structure](http://cdixon.org/2011/08/02/pivoting-into-a-new-corporate-structure)
 
 Endings
-*   [When should you give up on an idea?](http://cdixon.org/2012/05/25/when-should-you-give-up-on-an-idea)
+*   [When should you give up on an idea? (cf. Bijan Sabet)](http://cdixon.org/2012/05/25/when-should-you-give-up-on-an-idea)
 *   [Shutting down](http://cdixon.org/2010/01/09/shutting-down)
 
 Adoption
