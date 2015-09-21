@@ -104,7 +104,7 @@ Liquidation Analysis
 *   [Liquidation Analysis Google Doc (Second Tab)](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US)
 
 Valuation, Option Pool, Ownership
-*   [The Valuation Blues (aka How FAS157 Is Tortuous)](http://avc.com/2009/01/the-valuation-b)
+*   [The Valuation Blues (aka How FAS157 Is Tortuous) (cf. Roger Ehrenberg)](http://avc.com/2009/01/the-valuation-b)
 *   [Enterprise Value and Market Value](http://avc.com/2010/08/enterprise-value-and-market-value)
 *   [Valuation and Option Pool](http://avc.com/2009/11/valuation-and-option-pool)
 *   [Sizing Option Pools In Connection With Financings](http://avc.com/2011/05/sizing-option-pools-in-connection-with-financings)
