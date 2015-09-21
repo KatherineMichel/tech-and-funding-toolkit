@@ -5,6 +5,9 @@ Thesis
 *   [USV Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
 *   [Helping others to achieve greatness as I attempt a bit of my own (cf. Dave McClure)](http://avc.com/2012/07/helping-others-to-achieve-greatness-as-i-attempt-a-bit-of-my-own)
 
+Tearing Down The Teardown
+*   [Tearing Down The Teardown](http://avc.com/2014/08/tearing-down-the-teardown)
+
 ### MBA Mondays
 
 MBA Mondays
