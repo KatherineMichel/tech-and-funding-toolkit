@@ -421,11 +421,11 @@ Postmortem
 *   [The Postmortem](http://avc.com/2010/10/the-postmortem)
 
 Billion Dollar Valuations and Checks
-*   [The Billion Dollar Valuation Club](http://avc.com/2013/11/the-billion-dollar-valuation-club)
+*   [The Billion Dollar Valuation Club (cf. Aileen Lee)](http://avc.com/2013/11/the-billion-dollar-valuation-club)
 *   [Where’s My Billion Dollar Check, I Wonder](http://avc.com/2012/05/wheres-my-billion-dollar-check-i-wonder)
 
 Social Proof, The Herd Instinct, Chasing Returns
-*   [Social Proof Is Dangerous](http://avc.com/2012/06/social-proof-is-dangerous)
+*   [Social Proof Is Dangerous (cf. Hunter Walk)](http://avc.com/2012/06/social-proof-is-dangerous)
 *   [Chasing Returns](http://avc.com/2010/11/chasing-returns)
 *   [The Herd Instinct](http://avc.com/2009/12/the-herd-instinct)
 
