@@ -303,7 +303,7 @@ VC- General
 *   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
 
 Lead Investor
-*   [Leading vs Following](http://avc.com/2013/09/leading-vs-following)
+*   [Leading vs Following (cf. Hunter Walk)](http://avc.com/2013/09/leading-vs-following)
 *   [What Exactly Is A Lead Investor?](http://avc.com/2011/11/what-exactly-is-a-lead-investor)
 
 Third Party Validation
