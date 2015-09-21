@@ -39,7 +39,7 @@ Signaling
 *   [Addressing The VC Seed Investor Signaling Problem](http://www.feld.com/archives/2010/09/addressing-the-vc-seed-investor-signaling-problem.html) 
 
 Getting Attention
-*   [Getting A VC's Attention (cf. Fred Wilson)](http://www.feld.com/archives/2008/03/getting-a-vcs-attention.html) 
+*   [Getting A VC's Attention (cf. Fred Wilson, Paul Kedrosky)](http://www.feld.com/archives/2008/03/getting-a-vcs-attention.html) 
 *   [Getting My Attention](http://www.feld.com/archives/2007/11/getting-my-attention.html) 
 
 Preparing for a Meeting with Brad Feld
