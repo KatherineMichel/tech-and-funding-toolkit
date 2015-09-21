@@ -210,7 +210,7 @@ Employee Equity
 *   [Appreciation](http://avc.com/2010/10/employee-equity-appreciation) 
 *   [The Liquidation Overhang](http://avc.com/2010/10/employee-equity-the-liquidation-overhang) 
 *   [Options](http://avc.com/2010/10/employee-equity-options) 
-*   [The Option Strike Price](http://avc.com/2010/11/employee-equity-the-option-strike-price) 
+*   [The Option Strike Price](http://avc.com/2010/11/employee-equity-the-option-strike-price) and [Internal Revenue Code Section 409A Wikipedia](https://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A)
 *   [Restricted Stock and RSUs](http://avc.com/2010/11/employee-equity-restricted-stock-and-rsus) 
 *   [Vesting](http://avc.com/2010/11/employee-equity-vesting) 
 *   [How Much?](http://avc.com/2010/11/employee-equity-how-much) 
