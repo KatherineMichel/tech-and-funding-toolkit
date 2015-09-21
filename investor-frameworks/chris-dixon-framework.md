@@ -81,7 +81,7 @@ Seed Financing
 *   [What’s the right amount of seed money to raise?](http://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise)
 *   [The most important question to ask before taking seed money](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money)
 *   [Revisited: big VCs investing in seed rounds](http://cdixon.org/2012/04/02/revisited-big-vcs-investing-in-seed-rounds)
-*   [It’s not that seed investors are smarter – it’s that entrepreneurs are](http://cdixon.org/2010/07/05/its-not-that-seed-investors-are-smarter-its-that-entrepreneurs-are)
+*   [It’s not that seed investors are smarter – it’s that entrepreneurs are (cf. Paul Kedrosky)](http://cdixon.org/2010/07/05/its-not-that-seed-investors-are-smarter-its-that-entrepreneurs-are)
 
 The Problem
 *   [The problem with taking seed money from big VCs](http://cdixon.org/2009/08/14/the-problem-with-taking-seed-money-from-big-vcs)
