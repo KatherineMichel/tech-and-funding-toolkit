@@ -301,6 +301,8 @@ VC- General
 *   [In Between: The Tough Place To Be](http://avc.com/2013/01/in-between-the-tough-place-to-be)
 *   [Hitting Your Stride](http://avc.com/2012/09/hitting-your-stride)
 *   [There Are Two Venture Capital Industries](http://avc.com/2010/09/there-are-two-venture-capital-industries)
+*   [Entrepreneurs Have Control When Things Work, VCs Have Control When They Don’t (cf. Dave Winer)](http://avc.com/2012/07/entrepreneurs-have-control-when-things-work-vcs-have-control-when-things-dont-work)
+*   [The Power Of Diversification](http://avc.com/2012/07/the-power-of-diversification)
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
 *   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
 
@@ -411,6 +413,9 @@ Cohort Analysis
 Burn Rate and Runway
 *   [Burn Baby Burn (cf. Bill Gurley)](http://avc.com/2014/09/burn-baby-burn)
 *   [Maximizing Runway Can Minimize Success](http://avc.com/2013/09/maximizing-runway-can-minimize-success)
+
+Growth
+*   [Growth (cf. Paul Graham)](http://avc.com/2012/09/growth)
 
 Hits and Misses
 *   [Counting The Hits (cf. Aileen Lee, William Mougayar)](http://avc.com/2014/04/counting-the-hits)
