@@ -122,7 +122,7 @@ Pricing A Follow-On Venture Investment
 
 Risk and Return
 *   [Risk And Return](http://avc.com/2010/06/risk-and-return) and [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
-*   [Diversification](http://avc.com/2010/06/diversification)
+*   [Diversification](http://avc.com/2010/06/diversification) and [Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 *   [Hedging](http://avc.com/2010/06/hedging)
 *   [Currency Risk In A Business](http://avc.com/2010/07/currency-risk-in-a-business)
 *   [Purchasing Power Parity](http://avc.com/2010/07/purchasing-power-parity)
