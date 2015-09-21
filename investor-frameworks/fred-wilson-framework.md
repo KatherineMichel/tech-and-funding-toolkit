@@ -260,7 +260,7 @@ The Dentist Office Software Story
 *   [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story)
 
 Hobbyists
-*   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued)
+*   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued) (cf. Chris Dixon and Paul Buchheit)
 
 Return and Ridicule, Mocked and Misunderstood
 *   [Return and Ridicule](http://avc.com/2013/04/return-and-ridicule)
