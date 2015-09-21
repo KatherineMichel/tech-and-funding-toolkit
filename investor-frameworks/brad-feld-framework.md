@@ -107,7 +107,7 @@ Sayahh (Finance Fridays/Term Sheet Series Case Study)
 *   [SayAhh’s Revenue Projections](http://www.feld.com/archives/2011/10/5491.html)
 *   [Sayahh’s Financial Statements For August 2011](http://www.feld.com/archives/2011/09/sayahhs-financial-statements-for-august-2011.html)
 *   [Introducing the Cap Table and Hiring the CTO](http://www.feld.com/archives/2011/09/introducing-the-cap-table-and-hiring-the-cto.html)
-*   [Overview of Balance Sheet and Statement of Cash Flows](http://www.feld.com/archives/2011/08/overview-of-balance-sheet-and-statement-of-cash-flows.html)
+*   [Overview of Balance Sheet and Statement of Cash Flows (cf. Fred Wilson)](http://www.feld.com/archives/2011/08/overview-of-balance-sheet-and-statement-of-cash-flows.html)
 *   [Setting Up Your Accounting System](http://www.feld.com/archives/2011/08/setting-up-your-accounting-system.html)
 *   [Finance Fridays: Getting Started – Allocating Equity and Founder’s Investment](http://www.feld.com/archives/2011/07/finance-fridays-getting-started-allocating-equity-and-founders-investment.html)
 
