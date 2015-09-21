@@ -239,7 +239,7 @@ Audits- FAS 157 ("fair value measurement")
 *   [FAS 157 – Another Annoying Accounting Provision](http://www.feld.com/archives/2008/06/fas-157-another-annoying-accounting-provision.html)
 *   [FAS 157 – The Eternal Sunshine of the Spotless Audit](http://www.feld.com/archives/2008/01/fas-157-the-eternal-sunshine-of-the-spotless-audit.html) 
 
-Board of Directors
+Board of Directors with Jim Lejeal
 *   [Board of Directors: Number of Meetings (Board of Directors Series)](http://www.feld.com/archives/2006/09/board-of-directors-number-of-meetings.html)
 *   [Board of Directors; The Agenda (Board of Directors Series)](http://www.feld.com/archives/2006/07/board-of-directors-the-agenda.html)
 *   [Board of Directors: A Little More on “The Chairman” Post (Board of Directors Series)](http://www.feld.com/archives/2006/07/board-of-directors-a-little-more-on-the-chairman-post.html)
@@ -249,7 +249,7 @@ Board of Directors
 
 Compensation for Board Members, Outside Directors, and Advisors
 *   [Compensation for Board Members](http://www.feld.com/archives/2005/04/compensation-for-board-members.html) 
-*   [The Best Approach To A Board Package](http://www.feld.com/archives/2013/01/the-best-approach-to-a-board-package.html) 
+*   [The Best Approach To A Board Package (Eric Ries)](http://www.feld.com/archives/2013/01/the-best-approach-to-a-board-package.html) 
 *   [PDF Your Board Package](http://www.feld.com/archives/2006/06/pdf-your-board-package.html) 
 *   [Compensation for Outside Directors](http://www.feld.com/archives/2005/06/compensation-for-outside-directors.html)
 *   [How Many Stock Options Should I Give An Advisor?](http://www.feld.com/archives/2006/05/how-many-stock-options-should-i-give-an-advisor.html) 
