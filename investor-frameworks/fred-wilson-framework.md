@@ -462,7 +462,7 @@ Bubble
 
 Embrace Your Fatness
 *   [The Fat Vs Lean Debate (cf. Ben Horowitz)](http://avc.com/2010/05/the-fat-vs-lean-debate)
-*   [Being Fat Is Not Healthy (cf. Ben Horowitz](http://avc.com/2010/03/being-fat-is-not-healthy)
+*   [Being Fat Is Not Healthy (cf. Ben Horowitz)](http://avc.com/2010/03/being-fat-is-not-healthy)
 
 Twitter Patent
 *   [The IPA](http://avc.com/2013/05/the-ipa)
