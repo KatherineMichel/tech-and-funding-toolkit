@@ -310,7 +310,7 @@ Competition and First Mover
 
 Market Fit
 *   [The Illusion of Product/Market Fit for SaaS Companies (cf. Ben Horowitz, Fred Wilson)](http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html) 
-*   [Founder Market Fit](http://www.feld.com/archives/2012/08/founder-market-fit.html) 
+*   [Founder Market Fit (cf. David Lee, Chris Dixon)](http://www.feld.com/archives/2012/08/founder-market-fit.html) 
 
 Lean-ish
 *   [Small Experiments, Often](http://www.feld.com/archives/2013/01/small-experiments-often.html)
