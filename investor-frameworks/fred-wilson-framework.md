@@ -433,7 +433,7 @@ Revenue Multiples and Growth
 *   [Revenue Multiples And Growth](http://avc.com/2014/12/revenue-multiples-and-growth)
 
 Bimodal Returns
-*   [The Fallacy Of Bimodal Returns](http://avc.com/2010/10/the-fallacy-of-bimodal-returns)
+*   [The Fallacy Of Bimodal Returns (cf. Bryce Roberts, Ron Garret](http://avc.com/2010/10/the-fallacy-of-bimodal-returns)
 
 Capital Gains
 *   [The 15% Tax Rate](http://avc.com/2012/01/the-15-tax-rate)
