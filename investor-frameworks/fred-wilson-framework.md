@@ -162,7 +162,7 @@ Burn Rate
 
 Scaling
 *   [Turning Your Team](http://avc.com/2013/08/mba-mondays-turning-your-team)
-*   [The Similarities Between Building and Scaling a Product and a Company](http://avc.com/2013/08/the-similarities-between-building-and-scaling-a-product-and-a-company)
+*   [The Similarities Between Building and Scaling a Product and a Company (cf. Roelof Botha)](http://avc.com/2013/08/the-similarities-between-building-and-scaling-a-product-and-a-company)
 *   [When Its Not Your Team](http://avc.com/2013/08/mba-mondays-when-its-not-your-team)
 *   [Building A Company vs Building A Business](http://avc.com/2011/10/building-a-company-vs-building-a-business)
 
