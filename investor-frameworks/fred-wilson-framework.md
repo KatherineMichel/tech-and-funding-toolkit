@@ -299,6 +299,7 @@ VC- General
 *   [On Corporate VCs](http://avc.com/2013/06/on-corporate-vcs)
 *   [Venture Capital Returns](http://avc.com/2013/02/venture-capital-returns)
 *   [In Between: The Tough Place To Be](http://avc.com/2013/01/in-between-the-tough-place-to-be)
+*   [Hitting Your Stride](http://avc.com/2012/09/hitting-your-stride)
 *   [There Are Two Venture Capital Industries](http://avc.com/2010/09/there-are-two-venture-capital-industries)
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
 *   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
@@ -446,6 +447,7 @@ Capital Gains
 *   [Why Taxing Carried Interest As Ordinary Income Is Good Policy (Capital Gains)](http://avc.com/2010/05/why-taxing-carried-interest-as-ordinary-income-is-good-policy)
 
 Reinvesting Capital
+*   [Profitable: To Be Or Not To Be? (cf. Mark Suster)](http://avc.com/2011/12/profitable-to-be-or-not-to-be)
 *   [Recycling Capital](http://avc.com/2011/04/reinvesting-capital)
 
 Stock Buybacks
