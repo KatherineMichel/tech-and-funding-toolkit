@@ -349,8 +349,8 @@ Term Sheets
 Seed Rounds
 *   [More On Seed Rounds](http://avc.com/2015/01/more-on-seed-rounds)
 *   [Some Thoughts On Seed Investing](http://avc.com/2015/01/some-thoughts-on-seed-investing)
-*   [What Seed Financing Is For](http://avc.com/2014/06/what-seed-financing-is-for)
-*   [Some Thoughts On The Seed Fund Phenomenon](http://avc.com/2010/07/some-thoughts-on-the-seed-fund-phenomenon)
+*   [What Seed Financing Is For (cf. Marc Andreessen](http://avc.com/2014/06/what-seed-financing-is-for)
+*   [Some Thoughts On The Seed Fund Phenomenon (cf. Paul Kedrosky, Chris Dixon, John Boyd)](http://avc.com/2010/07/some-thoughts-on-the-seed-fund-phenomenon)
 
 Convertible Debt
 *   [Late Stage Convertible Debt](http://avc.com/2013/04/late-state-convertible-debt)
