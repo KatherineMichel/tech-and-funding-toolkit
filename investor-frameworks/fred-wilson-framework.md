@@ -319,7 +319,7 @@ Fundraising
 *   [Raising Money During The Summer Slowdown](http://avc.com/2010/07/raising-money-during-the-summer-slowdown)
 
 Collusion
-*   [Collusion](http://avc.com/2010/09/collusion)
+*   [Collusion (cf. Michael Arrington](http://avc.com/2010/09/collusion)
 
 Competitor Fundraising
 *  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
