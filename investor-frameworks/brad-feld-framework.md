@@ -259,7 +259,7 @@ Directors and CEOs
 *   [The Power of a CEO 360 Review](http://www.feld.com/archives/2010/12/the-power-of-a-ceo-360-review.html)
 *   [Talking to Directors](http://www.feld.com/archives/2007/05/talking-to-directors.html)
 *   [Recruiting a New Director](http://www.feld.com/archives/2006/12/recruiting-a-new-director.html)
-*   [Talking To Fellow Directors About Replacing A CEO](http://www.feld.com/archives/2005/09/talking-to-fellow-directors-about-replacing-a-ceo.html)
+*   [Talking To Fellow Directors About Replacing A CEO (cf. Heidi Roizen)](http://www.feld.com/archives/2005/09/talking-to-fellow-directors-about-replacing-a-ceo.html)
 *   [Signs That A Board Should Consider Replacing The CEO (cf. Heidi Roizen)](http://www.feld.com/archives/2005/09/signs-that-a-board-should-consider-replacing-the-ceo.html)
 
 Board Meetings
