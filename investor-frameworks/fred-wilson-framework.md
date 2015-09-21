@@ -315,7 +315,7 @@ Milestone Based Investing
 Fundraising
 *   [VCs as Gas Stations](http://avc.com/2015/04/vcs-as-gas-stations)
 *   [How Much Money To Raise](http://avc.com/2011/07/how-much-money-to-raise)
-*   [Continuous Financing](http://avc.com/2011/07/continuous-financing)
+*   [Continuous Financing (cf. Chris Dixon and Mark Suster)](http://avc.com/2011/07/continuous-financing)
 *   [Raising Money During The Summer Slowdown](http://avc.com/2010/07/raising-money-during-the-summer-slowdown)
 
 Collusion
