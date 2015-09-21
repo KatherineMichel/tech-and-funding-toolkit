@@ -120,7 +120,7 @@ Seed Series
 *   [Some Complexities of Venture Capital Seed Investing (cf. Mark Suster)](http://www.feld.com/archives/2009/10/some-complexities-of-venture-capital-seed-investing.html)
 
 Standardized Seed Documents
-*   [Failing Fast at Standardized Seed Deal Documents](http://www.feld.com/archives/2010/04/failing-fast-at-standardized-seed-deal-documents.html) 
+*   [Failing Fast at Standardized Seed Deal Documents (cf. Jason Mendelson)](http://www.feld.com/archives/2010/04/failing-fast-at-standardized-seed-deal-documents.html) 
 *   [The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html)
 
 Convertible Debt
