@@ -362,8 +362,8 @@ Milton's Three Things
 
 Employee Equity, Options and Offer Letters
 *   [Options and Offer Letters](http://avc.com/2014/04/options-and-offer-letters)
-*   [Employee Equity: Too Little?](http://avc.com/2014/04/employee-equity-too-little)
-*   [How To Allocate Founder and Employee Equity](http://avc.com/2011/04/how-to-allocate-founder-and-employee-equity)
+*   [Employee Equity: Too Little? (cf. Sam Altman)](http://avc.com/2014/04/employee-equity-too-little)
+*   [How To Allocate Founder and Employee Equity (Joel Spolsky)](http://avc.com/2011/04/how-to-allocate-founder-and-employee-equity)
 *   [Equity Grant Math (cf. Chris Dixon)](http://avc.com/2009/08/equity-grant-math)
 
 Cap Tables
