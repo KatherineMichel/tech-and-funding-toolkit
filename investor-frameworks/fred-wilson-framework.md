@@ -301,7 +301,10 @@ VC- General
 *   [Venture Capital Returns](http://avc.com/2013/02/venture-capital-returns)
 *   [In Between: The Tough Place To Be](http://avc.com/2013/01/in-between-the-tough-place-to-be)
 *   [Hitting Your Stride](http://avc.com/2012/09/hitting-your-stride)
+*   [Can The Crowd Be More Patient?](http://avc.com/2012/04/can-the-crowd-be-more-patient)
+*   [Coming Of Age (cf. Ben Horowitz)](http://avc.com/2012/03/coming-of-age)
 *   [There Are Two Venture Capital Industries](http://avc.com/2010/09/there-are-two-venture-capital-industries)
+*   [Lockups and Insider Selling](http://avc.com/2012/08/lockups-and-insider-selling)
 *   [Entrepreneurs Have Control When Things Work, VCs Have Control When They Don’t (cf. Dave Winer)](http://avc.com/2012/07/entrepreneurs-have-control-when-things-work-vcs-have-control-when-things-dont-work)
 *   [The Power Of Diversification](http://avc.com/2012/07/the-power-of-diversification)
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
@@ -425,6 +428,9 @@ Hits and Misses
 *   [Let Your Winners Run](http://avc.com/2012/02/let-your-winners-run)
 *   [Swinging For The Fences](http://avc.com/2009/10/swinging-for-the-fences)
 
+Staying Independent
+*   [Staying Independent](http://avc.com/2012/04/staying-independent)
+
 Exits
 *   [The Tug Of War Between M&A and VC](http://avc.com/2010/01/the-tug-of-war-between-ma-and-vc)
 *   [Who Decides When To Exit?](http://avc.com/2009/09/who-decides-when-to-exit)
@@ -480,6 +486,10 @@ Embrace Your Fatness
 Twitter Patent
 *   [The IPA](http://avc.com/2013/05/the-ipa)
 *   [The Twitter “Patent Hack”](http://avc.com/2012/04/the-twitter-patent-hack)
+
+Slow Money
+*   [Bypassing Wall Street](http://avc.com/2012/08/bypassing-wall-street)
+*   [Budgets](http://avc.com/2012/03/budgets)
 
 
 
