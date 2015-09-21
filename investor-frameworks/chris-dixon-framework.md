@@ -53,7 +53,7 @@ Incubators, Angel Investors, VC Firms
 *   [Incubators](http://cdixon.org/2009/09/04/incubators)
 *   [How to select your angel investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors)
 *   [The segmentation of the venture industry](http://cdixon.org/2010/09/26/the-segmentation-of-the-venture-industry)
-*   [Every time an engineer joins Google, a startup dies](http://cdixon.org/2010/02/11/every-time-an-engineer-joins-google-a-startup-dies)
+*   [Every time an engineer joins Google, a startup dies (cf. Fred Wilson, Bill Gurley)](http://cdixon.org/2010/02/11/every-time-an-engineer-joins-google-a-startup-dies)
 *   [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter)
 *   [Which VC firm should I pitch?](http://cdixon.org/2009/09/05/which-vc-firm-should-i-pitch)
 *   [It’s the partner, not the firm](http://cdixon.org/2009/08/19/its-the-partner-not-the-firm)
