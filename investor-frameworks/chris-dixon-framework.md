@@ -152,7 +152,7 @@ HR
 *   [The ideal startup career path](http://cdixon.org/2009/10/22/the-ideal-startup-career-path)
 *   [Joining a startup is far less risky than most people think](http://cdixon.org/2009/05/11/joining-a-startup-is-far-less-risky-than-most-people-think)
 *   [Firing](http://cdixon.org/2012/06/20/firing)
-*   [The credentials trap](http://cdixon.org/2013/02/13/the-credentials-trap)
+*   [The credentials trap (cf. Jessica Livingstone, Peter Thiel)](http://cdixon.org/2013/02/13/the-credentials-trap)
 *   [Twelve months notice](http://cdixon.org/2009/10/24/twelve-months-notice)
 
 Strategies
