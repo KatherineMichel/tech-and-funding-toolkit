@@ -385,7 +385,7 @@ Board
 *   [Independent Directors](http://avc.com/2014/07/independent-directors)
 *   [Who You Want On Your Board](http://avc.com/2013/01/who-you-want-on-your-board)
 *   [Board Of Directors, Continued (cf. Brad Feld)](http://avc.com/2011/07/bored-of-directors-continued)
-*   [Board or No Board (cf. Matt Blumberg](http://avc.com/2011/03/board-or-no-board/)
+*   [Board or No Board (cf. Matt Blumberg)](http://avc.com/2011/03/board-or-no-board/)
 *   [The Agile Board (cf. Mark Suster)](http://avc.com/2010/05/the-agile-board)
 *   [The Executive Session](http://avc.com/2010/04/the-executive-session)
 *   [Face To Face Board Meetings](http://avc.com/2009/08/face-to-face-board-meetings)
