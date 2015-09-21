@@ -227,7 +227,7 @@ Sustainability
 *   [Week Three](http://avc.com/2012/10/how-to-be-in-business-forever-week-three)
 *   [Week Four](http://avc.com/2012/10/how-to-be-in-business-forever-week-four)
 *   [Sustainability Class Wrapup](http://avc.com/2012/10/mba-mondays-sustainably-class-wrapup)
-*   [One More Thing On Sustainability Before We Move On](http://avc.com/2012/11/mba-mondays-one-more-thing-on-sustainability-before-we-move-on)
+*   [One More Thing On Sustainability Before We Move On (cf. Clay Christensen)](http://avc.com/2012/11/mba-mondays-one-more-thing-on-sustainability-before-we-move-on)
 
 Bubble
 *   [The Bubble Question](http://avc.com/2014/03/the-bubble-question)
