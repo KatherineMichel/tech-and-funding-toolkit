@@ -125,7 +125,7 @@ Risk and Return
 *   [Diversification](http://avc.com/2010/06/diversification) and [Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 *   [Hedging](http://avc.com/2010/06/hedging)
 *   [Currency Risk In A Business](http://avc.com/2010/07/currency-risk-in-a-business)
-*   [Purchasing Power Parity](http://avc.com/2010/07/purchasing-power-parity)
+*   [Purchasing Power Parity](http://avc.com/2010/07/purchasing-power-parity), [Purchasing Power Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity), and [Big Mac Index Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
 
 Buying and Selling
 *   [Buying and Selling Assets](http://avc.com/2010/12/buying-and-selling-assets)
