@@ -295,6 +295,7 @@ VC Firm/Syndicate Structure
 *   [What Is A “Venture Partner” And Why Does It Matter To You?](http://avc.com/2010/08/what-is-a-venture-partner-and-does-it-matter-to-you)
 
 VC- General
+*   [The Rich Get Richer (MoneyTree Report)](http://avc.com/2015/04/the-rich-get-richer)
 *   [VC Fund Economics (cf. Charlie O’Donnell)](http://avc.com/2014/05/vc-fund-economics)
 *   [The Difference Between Large Funds and Small Funds](http://avc.com/2014/04/the-difference-between-large-funds-and-small-funds)
 *   [The Perception Of Conflict Is Conflict](http://avc.com/2014/02/the-perception-of-conflict-is-conflict)
@@ -313,6 +314,7 @@ VC- General
 *   [Entrepreneurs Have Control When Things Work, VCs Have Control When They Don’t (cf. Dave Winer)](http://avc.com/2012/07/entrepreneurs-have-control-when-things-work-vcs-have-control-when-things-dont-work)
 *   [The Power Of Diversification](http://avc.com/2012/07/the-power-of-diversification)
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
+*   [Venture Capital Creating Systemic Risk???](http://avc.com/2010/04/venture-capital-creating-systemic-risk)
 *   [Plant More Seeds vs Tending The Crop](http://avc.com/2010/01/plant-more-seeds-vs-tending-the-crop)
 *   [The Venture Diet Is Working](http://avc.com/2010/01/the-venture-diet-is-working)
 *   [Trading Deals, A Lost Art?](http://avc.com/2009/12/trading-deals-a-lost-art)
@@ -323,6 +325,9 @@ Great Companies, Investors, and Entrepreneurs
 *   [Difficult Is Good](http://avc.com/2011/02/difficult-is-good)
 *   [Matt Blumberg: 10 Characteristics Of Great Investors](http://avc.com/2009/09/10-characteristics-of-great-investors)
 *   [Ten Characteristics of Great Companies](http://avc.com/2009/09/ten-characteristics-of-great-companies)
+
+Reverse Engineering Investment Strategies
+*   [Product Idea: Reverse Engineering VC Investment Strategies](http://avc.com/2015/04/product-idea-reverse-engineering-vc-investment-strategies)
 
 Lead Investor
 *   [Leading vs Following (cf. Hunter Walk)](http://avc.com/2013/09/leading-vs-following)
@@ -339,6 +344,10 @@ Fundraising
 *   [How Much Money To Raise](http://avc.com/2011/07/how-much-money-to-raise)
 *   [Continuous Financing (cf. Chris Dixon and Mark Suster)](http://avc.com/2011/07/continuous-financing)
 *   [Raising Money During The Summer Slowdown](http://avc.com/2010/07/raising-money-during-the-summer-slowdown)
+
+When They Are Throwing Money At You/Competing To Win Deals
+*   [When They Are Throwing Money At You](http://avc.com/2011/01/when-they-are-throwing-money-at-you)
+*   [Competing To Win Deals](http://avc.com/2010/11/competing-to-win-deals)
 
 Collusion
 *   [Collusion (cf. Michael Arrington)](http://avc.com/2010/09/collusion)
@@ -536,8 +545,3 @@ Slow Money
 *   [My Favorite Money Manager](http://avc.com/2010/08/my-favorite-money-manager)
 *   [The 0.00% Yield](http://avc.com/2010/03/the-000-yield)
 *   [Slow Capital](http://avc.com/2009/10/slow-capital)
-
-
-
-
-
