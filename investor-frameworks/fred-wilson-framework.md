@@ -436,7 +436,7 @@ Bimodal Returns
 *   [The Fallacy Of Bimodal Returns (cf. Bryce Roberts, Ron Garret)](http://avc.com/2010/10/the-fallacy-of-bimodal-returns)
 
 Capital Gains
-*  [Qualified Small Business Stock (Sections 1202 and Sections 1045)](http://avc.com/2013/07/qualified-small-business-stock)  
+*  [Qualified Small Business Stock (IRS Sections 1202 and Sections 1045)](http://avc.com/2013/07/qualified-small-business-stock)  
 *   [The 15% Tax Rate](http://avc.com/2012/01/the-15-tax-rate)
 *   [Why Taxing Carried Interest As Ordinary Income Is Good Policy (Capital Gains)](http://avc.com/2010/05/why-taxing-carried-interest-as-ordinary-income-is-good-policy)
 
@@ -461,8 +461,8 @@ Bubble
 *   [Apocalypse and Bubbles (cf. Peter Thiel)](http://avc.com/2010/09/apocalypse-and-bubbles)
 
 Embrace Your Fatness
-*   [The Fat Vs Lean Debate](http://avc.com/2010/05/the-fat-vs-lean-debate)
-*   [Being Fat Is Not Healthy](http://avc.com/2010/03/being-fat-is-not-healthy)
+*   [The Fat Vs Lean Debate (cf. Ben Horowitz)](http://avc.com/2010/05/the-fat-vs-lean-debate)
+*   [Being Fat Is Not Healthy (cf. Ben Horowitz](http://avc.com/2010/03/being-fat-is-not-healthy)
 
 Twitter Patent
 *   [The IPA](http://avc.com/2013/05/the-ipa)
