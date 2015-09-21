@@ -149,7 +149,7 @@ Strategy and Product
 *   [Revenue Traction Doesn’t Mean Product Market Fit](http://avc.com/2013/03/revenue-traction-doesnt-mean-product-market-fit)
 
 Sales
-*   [Sales Leads On A Small Budget](http://avc.com/2013/06/mba-mondays-sales-leads-on-a-small-budget)
+*   [Russell Sachs: Sales Leads On A Small Budget](http://avc.com/2013/06/mba-mondays-sales-leads-on-a-small-budget)
  
 Key Business Metrics
 *   [Key Business Metrics](http://avc.com/2010/04/key-business-metrics)
