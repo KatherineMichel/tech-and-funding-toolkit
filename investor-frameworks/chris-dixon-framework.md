@@ -45,7 +45,7 @@ Research
 *   [Timing your startup](http://cdixon.org/2010/11/07/timing-your-startup)
 *   [Competition is overrated](http://cdixon.org/2010/06/26/competition-is-overrated)
 *   [Some thoughts on incumbents](http://cdixon.org/2010/10/08/some-thoughts-on-incumbents)
-*   [Incumbents](http://cdixon.org/2010/01/26/incumbents)
+*   [Incumbents](http://cdixon.org/2010/01/26/incumbents) and [Disruptive Innovation Wikipedia](https://en.wikipedia.org/wiki/Disruptive_innovation)
 *   [Understanding your market](http://cdixon.org/2009/10/11/understanding-your-market)
 *   [The challenge of creating a new category](http://cdixon.org/2009/10/20/the-challenge-of-creating-a-new-category)
 
