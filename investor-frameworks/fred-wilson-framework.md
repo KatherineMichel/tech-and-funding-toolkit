@@ -397,7 +397,7 @@ Stay Compensation
 *   [Stay Packages](http://avc.com/2010/04/stay-compensation)
 
 Outsourcing Reversal
-*   [Outsourcing Reversal](http://avc.com/2013/01/outsourcing-reversal)
+*   [Outsourcing Reversal (cf. Albert Wenger)](http://avc.com/2013/01/outsourcing-reversal)
 
 Cohort Analysis
 *   [Cohort Analysis](http://avc.com/2009/10/the-cohort-analysis)
