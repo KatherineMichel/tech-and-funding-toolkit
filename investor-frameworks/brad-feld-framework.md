@@ -131,11 +131,11 @@ Convertible Debt
 Term Sheet- General
 *   [The Challenge of The Ideal First Round Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
 *   [Terms, Terms, and First Round Terms (Term Sheet Series) (cf. Fred Wilson, Chris Dixon, Jason Mendelson)](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
+*   [Entrepreneurs Blogging About Term Sheets (Term Sheet Series)](http://www.feld.com/archives/2007/04/entrepreneurs-blogging-about-term-sheets.html) (cf. Fred Wilson)
 *   [Revisiting the Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
 *   [Term Sheet Series Wrap Up (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html) 
 
 Term Sheet
-*   [Entrepreneurs Blogging About Term Sheets (Term Sheet Series)](http://www.feld.com/archives/2007/04/entrepreneurs-blogging-about-term-sheets.html) 
 *   [Annoying Term Sheet Things (Term Sheet Series)](http://www.feld.com/archives/2006/09/annoying-term-sheet-things.html) 
 *   [Compelled Sale Right (Term Sheet Series)](http://www.feld.com/archives/2006/06/term-sheet-compelled-sale-right.html) 
 *   [An Entrepreneur on Term Sheet Terms (Term Sheet Series)](http://www.feld.com/archives/2006/01/an-entrepreneur-on-term-sheet-terms.html) 
