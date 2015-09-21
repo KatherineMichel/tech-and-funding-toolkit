@@ -218,7 +218,7 @@ Words of Wisdom
 *   [Blogging to learn](http://cdixon.org/2012/05/10/blogging-to-learn)
 *   [“Meaningful” startups](http://cdixon.org/2012/04/18/meaningful-startups)
 *   [Some lessons learned](http://cdixon.org/2011/09/28/some-lessons-learned)
-*   [Do you want to sell sugar water or do you want to change the world?](http://cdixon.org/2011/08/28/do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world)
+*   [Do you want to sell sugar water or do you want to change the world? (cf. Tim O'Reilly](http://cdixon.org/2011/08/28/do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world)
 *   [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](http://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough)
 *   [Builders and extractors](http://cdixon.org/2010/06/20/builders-and-extractors)
 *   [Man and superman](http://cdixon.org/2009/10/10/man-and-superman)
