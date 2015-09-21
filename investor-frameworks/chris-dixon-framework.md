@@ -77,7 +77,7 @@ Funding Rounds
 *   [Some thoughts on when to raise money, and the current financing environment](http://cdixon.org/2012/06/02/some-thoughts-on-when-to-raise-money-and-the-current-financing-environment)
 
 Seed Financing
-*   [Notes on raising seed financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing)
+*   [Notes on raising seed financing (cf. Paul Graham)](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing)
 *   [What’s the right amount of seed money to raise?](http://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise)
 *   [The most important question to ask before taking seed money](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money)
 *   [Revisited: big VCs investing in seed rounds](http://cdixon.org/2012/04/02/revisited-big-vcs-investing-in-seed-rounds)
