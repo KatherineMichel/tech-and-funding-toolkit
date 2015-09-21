@@ -436,17 +436,15 @@ Bimodal Returns
 *   [The Fallacy Of Bimodal Returns (cf. Bryce Roberts, Ron Garret)](http://avc.com/2010/10/the-fallacy-of-bimodal-returns)
 
 Capital Gains
+*  [Qualified Small Business Stock (Sections 1202 and Sections 1045)](http://avc.com/2013/07/qualified-small-business-stock)  
 *   [The 15% Tax Rate](http://avc.com/2012/01/the-15-tax-rate)
 *   [Why Taxing Carried Interest As Ordinary Income Is Good Policy (Capital Gains)](http://avc.com/2010/05/why-taxing-carried-interest-as-ordinary-income-is-good-policy)
-  
+
 Reinvesting Capital
 *   [Recycling Capital](http://avc.com/2011/04/reinvesting-capital)
 
 Stock Buybacks
 *   [Why I Don’t Like Stock Buybacks](http://avc.com/2010/06/why-i-dont-like-stock-buybacks)
-
-Qualified Small Business Stock
-*  [Qualified Small Business Stock](http://avc.com/2013/07/qualified-small-business-stock)
 
 Public Filing
 *   [The Public Filing “Announcement”](http://avc.com/2010/12/the-public-filing-announcement)
