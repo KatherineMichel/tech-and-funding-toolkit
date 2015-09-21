@@ -211,7 +211,7 @@ Trends
 *   [Incumbents die due to irrelevance or ineptitude](http://cdixon.org/2012/04/26/incumbents-die-due-to-irrelevance-or-ineptitude)
 *   [Predicting the future of the Internet is easy: anything it hasn’t yet dramatically transformed, it will.](http://cdixon.org/2011/01/13/predicting-the-future-of-the-internet-is-easy-anything-it-hasnt-yet-dramatically-transformed-it-will)
 *   [Old VC firms: get ready to be disrupted](http://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted)
-*   [The tradeoff between open and closed](http://cdixon.org/2010/04/25/the-tradeoff-between-open-and-closed)
+*   [The tradeoff between open and closed (cf. Clay Christensen, Joel Spolsky, Tom Eisenmann)](http://cdixon.org/2010/04/25/the-tradeoff-between-open-and-closed)
 *   [What if online business model innovation is slowing down?](http://cdixon.org/2009/09/28/what-if-online-business-model-innovation-is-slowing-down)
 
 Words of Wisdom
