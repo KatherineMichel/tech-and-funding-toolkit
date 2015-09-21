@@ -87,7 +87,7 @@ The Problem
 *   [The problem with taking seed money from big VCs](http://cdixon.org/2009/08/14/the-problem-with-taking-seed-money-from-big-vcs)
 *   [The problem with tranched VC investments](http://cdixon.org/2009/08/15/the-problem-with-tranched-vc-investments)
 *   [The other problem with venture capital: management fees (cf. Bill Gurley, Fred Wilson)](http://cdixon.org/2009/08/26/the-other-problem-with-venture-capital-management-fees)
-*   [The downside of accelerated investment decisions](http://cdixon.org/2011/07/29/the-downside-of-accelerated-investment-decisions)
+*   [The downside of accelerated investment decisions (cf. Seth Levine)](http://cdixon.org/2011/07/29/the-downside-of-accelerated-investment-decisions)
 *   [Later-stage rounds and “setting the bar too high”](http://cdixon.org/2011/12/13/later-stage-rounds-and-setting-the-bar-too-high)
 
 Acquisitions
