@@ -596,18 +596,23 @@ Central Banks/Reserves
 *   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
 *   [Kansas City Fed](https://www.kansascityfed.org)
 
-Regulatory Agencies and Rules
-*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
-*   [Federal Aviation Administration](http://www.faa.gov)  
-*   [Federal Communications Commission](https://www.fcc.gov)
-*   [Federal Drug Administration](http://www.fda.gov)  
-*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
+Accounting Principles
+*   [American Institute of CPAs](http://www.aicpa.org)
 *   [Financial Accounting Standards Board](http://www.fasb.org)
+*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
+
+Regulatory Agencies and Rules- Business and Finance Related
+*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
 *   [Internal Revenue Service](http://www.irs.gov)
 *   [Securities and Exchange Commission](http://www.sec.gov)
 *   [Small Business Administration](http://www.sba.gov) 
 *   [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
-*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
+
+Regulatory Agencies and Rules- General
+*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
+*   [Federal Aviation Administration](http://www.faa.gov)  
+*   [Federal Communications Commission](https://www.fcc.gov)
+*   [Federal Drug Administration](http://www.fda.gov)  
 
 #### Government and International Data
 
