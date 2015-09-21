@@ -220,7 +220,7 @@ Outsourcing and Offshoring
 *   [Outsourcing vs Offshoring](http://avc.com/2010/09/outsourcing-vs-offshoring)
 
 Sustainability
-*   [Sustainability](http://avc.com/2011/11/sustainability)
+*   [Sustainability (cf. Clay Christensen)](http://avc.com/2011/11/sustainability)
 *   [How to Be in Business Forever: A Class On Sustainability](http://avc.com/2012/08/how-to-be-in-business-forever-a-lesson-in-sustainability-2)
 *   [Week One](http://avc.com/2012/10/how-to-be-in-business-forever-a-lesson-in-sustainability)
 *   [Week Two](http://avc.com/2012/10/how-to-be-in-business-forever-week-two)
