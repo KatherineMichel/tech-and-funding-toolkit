@@ -354,8 +354,8 @@ Seed Rounds
 
 Convertible Debt
 *   [Late Stage Convertible Debt](http://avc.com/2013/04/late-state-convertible-debt)
-*   [Convertible Debt](http://avc.com/2012/09/convertible-debt)
-*   [Some Thoughts On Convertible Debt](http://avc.com/2010/08/some-thoughts-on-convertible-debt)
+*   [Convertible Debt (cf. Mark Suster)](http://avc.com/2012/09/convertible-debt)
+*   [Some Thoughts On Convertible Debt (cf. Seth Levine)](http://avc.com/2010/08/some-thoughts-on-convertible-debt)
 
 Milton's Three Things
 *   [Milton’s “Three Things You Must Have”](http://avc.com/2010/11/miltons-three-things-you-must-have)
