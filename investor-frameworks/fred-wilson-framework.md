@@ -41,7 +41,7 @@ Financing Options
 *   [Capital Equipment Loans and Leases](http://avc.com/2011/08/financing-options-capital-equipment-loans-and-leases)
 *   [Bridge Loans](http://avc.com/2011/08/financing-options-bridge-loans)   
 *   [Working Capital Financing](http://avc.com/2011/08/financing-options-working-capital-financing)
-*   [Revenue Based Financing](http://avc.com/2011/10/revenue-based-financing)
+*   [Andy Sack: Revenue Based Financing](http://avc.com/2011/10/revenue-based-financing)
 
 Revenue Models
 *   [Fred Wilson Revenue Models](http://avc.com/2012/12/mba-mondays-revenue-models)
