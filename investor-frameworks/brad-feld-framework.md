@@ -117,7 +117,7 @@ VC Rights
 Seed Series
 *   [The Silliness Of Recapping Seed Rounds](http://www.feld.com/archives/2015/07/silliness-recapping-seed-rounds.html)
 *   [Too Many Seed Investment Choices (cf. Foundry Group)](http://www.feld.com/archives/2012/05/too-many-seed-investment-choices.html)
-*   [Some Complexities of Venture Capital Seed Investing (cf. Mark Suster](http://www.feld.com/archives/2009/10/some-complexities-of-venture-capital-seed-investing.html)
+*   [Some Complexities of Venture Capital Seed Investing (cf. Mark Suster)](http://www.feld.com/archives/2009/10/some-complexities-of-venture-capital-seed-investing.html)
 
 Standardized Seed Documents
 *   [Failing Fast at Standardized Seed Deal Documents](http://www.feld.com/archives/2010/04/failing-fast-at-standardized-seed-deal-documents.html) 
