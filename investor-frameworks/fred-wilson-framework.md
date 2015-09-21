@@ -414,6 +414,9 @@ Reception Desk NDAs
 Stay Compensation
 *   [Stay Packages](http://avc.com/2010/04/stay-compensation)
 
+Parting Ways With A Founding Team Member
+*   [Parting Ways With A Founding Team Member](http://avc.com/2010/06/parting-ways-with-a-founding-team-member)
+
 Outsourcing Reversal
 *   [Outsourcing Reversal (cf. Albert Wenger)](http://avc.com/2013/01/outsourcing-reversal)
 
