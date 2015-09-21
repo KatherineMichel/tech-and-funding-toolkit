@@ -177,7 +177,7 @@ Board of Directors
 
 Management Team
 *   [What A Management Team Does](http://avc.com/2011/02/what-a-management-team-does)
-*   [Scaling The Management Team](http://avc.com/2011/12/scaling-the-management-team)
+*   [Scaling The Management Team (cf. Bijan Sabet)](http://avc.com/2011/12/scaling-the-management-team)
 *   [The Management Team – While Building Product](http://avc.com/2012/01/the-management-team-while-building-product)
 *   [The Management Team – While Building Usage](http://avc.com/2012/01/the-management-team-while-building-usage)
 *   [The Management Team – While Building The Business](http://avc.com/2010/09/outsourcing)
