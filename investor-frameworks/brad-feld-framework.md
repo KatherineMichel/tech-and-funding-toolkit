@@ -322,7 +322,7 @@ Aquihire
 Interviewing, Recruiting, and The Compensation Conversation
 *   [Guidelines For Interviewing At A Startup](http://www.feld.com/archives/2012/05/guidelines-for-interviewing-at-a-startup.html) 
 *   [Recruiting Software Developers By Showing Up With Pizza](http://www.feld.com/archives/2012/05/recruiting-software-developers-by-showing-up-with-pizza.html) 
-*   [More On Recruiting Programmers To Your Startup](http://www.feld.com/archives/2011/12/more-on-recruiting-programmers-to-your-startup.html)
+*   [More On Recruiting Programmers To Your Startup (cf. Chris Dixon)](http://www.feld.com/archives/2011/12/more-on-recruiting-programmers-to-your-startup.html)
 *   [Getting The Compensation Conversation Right](http://www.feld.com/archives/2012/05/getting-the-compensation-conversation-right.html)
 
 Payroll Frequency
