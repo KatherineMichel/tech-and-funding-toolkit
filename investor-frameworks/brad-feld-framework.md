@@ -4,7 +4,8 @@ Blog
 *   [Foundry Group Docs via Ask the VC](http://www.askthevc.com/wp/resources)
 *   [Starting a Blog Series on Financial Statements](http://www.feld.com/archives/2007/04/starting-a-blog-series-on-financial-statements.html)
 
-Venture Deals
+Books
+*   [Do More Faster](http://www.domorefasterbook.com)
 *   [Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616/ref=dp_ob_title_bk)
 
 Hobbies and Maker Hours
