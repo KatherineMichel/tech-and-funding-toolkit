@@ -306,11 +306,13 @@ VC- General
 *   [The Nature Of The Firm and Work Markets (cf. Ronald Coase)](http://avc.com/2012/03/the-nature-of-the-firm-and-work-markets)
 *   [Herky Jerky Investing](http://avc.com/2012/01/herky-jerky-investing)
 *   [Want To Be A VC? Start A Company.](http://avc.com/2011/11/want-to-be-a-vc-start-a-company)
+*   [What We Are Seeing](http://avc.com/2011/10/what-we-are-seeing)
 *   [There Are Two Venture Capital Industries](http://avc.com/2010/09/there-are-two-venture-capital-industries)
 *   [Lockups and Insider Selling](http://avc.com/2012/08/lockups-and-insider-selling)
 *   [Entrepreneurs Have Control When Things Work, VCs Have Control When They Don’t (cf. Dave Winer)](http://avc.com/2012/07/entrepreneurs-have-control-when-things-work-vcs-have-control-when-things-dont-work)
 *   [The Power Of Diversification](http://avc.com/2012/07/the-power-of-diversification)
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
+*   [The Venture Diet Is Working](http://avc.com/2010/01/the-venture-diet-is-working)
 *   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
 
 Great Companies, Investors, and Entrepreneurs
@@ -336,6 +338,10 @@ Fundraising
 
 Collusion
 *   [Collusion (cf. Michael Arrington)](http://avc.com/2010/09/collusion)
+
+Competing Companies
+*   [When A Company Is Too Close For Comfort](http://avc.com/2011/10/when-a-company-is-too-close-for-comfort)
+*   [Investing In Competing Companies (cf. Bijan Sabet)](http://avc.com/2011/03/investing-in-competing-companies)
 
 Competitor Fundraising and Competitor Attacks
 *  [Messing With A Competitor’s Fundraising](http://avc.com/2014/11/messing-with-a-competitors-fundraising)
@@ -416,6 +422,9 @@ Reception Desk NDAs
 
 Stay Compensation
 *   [Stay Packages](http://avc.com/2010/04/stay-compensation)
+
+Transitioning From One Job To Another
+*   [Transitioning From One Job To Another (cf. Mark Suster)](http://avc.com/2010/03/transitioning-from-one-job-to-another)
 
 Parting Ways With A Founding Team Member
 *   [Parting Ways With A Founding Team Member](http://avc.com/2010/06/parting-ways-with-a-founding-team-member)
@@ -500,7 +509,8 @@ Embrace Your Fatness
 *   [The Fat Vs Lean Debate (cf. Ben Horowitz)](http://avc.com/2010/05/the-fat-vs-lean-debate)
 *   [Being Fat Is Not Healthy (cf. Ben Horowitz)](http://avc.com/2010/03/being-fat-is-not-healthy)
 
-User Generated Content
+DMCA
+*   [Protect IP (fka COICA)](http://avc.com/2011/05/protect-ip-fka-coica)
 *   [A Big Victory For User Generated Content (DMCA)](http://avc.com/2010/06/a-big-victory-for-user-generated-content)
 
 Twitter Patent
@@ -514,6 +524,7 @@ Slow Money
 *   [Bypassing Wall Street](http://avc.com/2012/08/bypassing-wall-street)
 *   [Budgets](http://avc.com/2012/03/budgets)
 *   [My Favorite Money Manager](http://avc.com/2010/08/my-favorite-money-manager)
+*   [The 0.00% Yield](http://avc.com/2010/03/the-000-yield)
 *   [Slow Capital](http://avc.com/2009/10/slow-capital)
 
 
