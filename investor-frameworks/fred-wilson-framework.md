@@ -313,7 +313,9 @@ VC- General
 *   [Entrepreneurs Have Control When Things Work, VCs Have Control When They Don’t (cf. Dave Winer)](http://avc.com/2012/07/entrepreneurs-have-control-when-things-work-vcs-have-control-when-things-dont-work)
 *   [The Power Of Diversification](http://avc.com/2012/07/the-power-of-diversification)
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
+*   [Plant More Seeds vs Tending The Crop](http://avc.com/2010/01/plant-more-seeds-vs-tending-the-crop)
 *   [The Venture Diet Is Working](http://avc.com/2010/01/the-venture-diet-is-working)
+*   [Trading Deals, A Lost Art?](http://avc.com/2009/12/trading-deals-a-lost-art)
 *   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
 *   [The Biggest Loser Can Be The Biggest Winner (cf. Bill Gurley)](http://avc.com/2009/08/the-biggest-loser-can-be-the-biggest-winner)
 
@@ -353,6 +355,7 @@ Valuation and Ownership
 *   [The Valuation Trap](http://avc.com/2014/05/the-valuation-trap)
 *   [Valuation vs Ownership](http://avc.com/2013/06/valuation-vs-ownership)
 *   [Doubling Down On The Overpay](http://avc.com/2010/12/doubling-down-on-the-overpay)
+*   [The ‘We Need To Own’ Baloney](http://avc.com/2009/10/the-we-need-to-own-baloney)
 
 Price
 *   [Does Price Matter?](http://avc.com/2010/10/does-price-matter)
