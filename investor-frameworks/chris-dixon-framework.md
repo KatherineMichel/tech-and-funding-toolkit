@@ -122,7 +122,7 @@ Term Sheet
 Cost/Price, Revenue/Margin
 *   [What’s the relationship between cost and price?](http://cdixon.org/2009/10/17/whats-the-relationship-between-cost-and-price)
 *   [Pricing to the demand curve](http://cdixon.org/2012/07/04/pricing-to-the-demand-curve)
-*   [Revenue vs margin (cf. Fred wilson, Mark Suster)](http://cdixon.org/2012/01/22/revenue-vs-margin)
+*   [Revenue vs margin (cf. Fred Wilson, Mark Suster)](http://cdixon.org/2012/01/22/revenue-vs-margin)
 
 Programming and Platform Risks
 *   [Bedrock programming](http://cdixon.org/2012/02/07/bedrock-programming)
