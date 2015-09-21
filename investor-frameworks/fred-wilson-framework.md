@@ -281,7 +281,7 @@ Pitches
 *   [Six Slides, Three Slides, or No Slides](http://avc.com/2011/09/six-slides-three-slides-or-no-slides)
 *   [Phone Pitches](http://avc.com/2010/07/phone-pitches)
 *   [Six Slides](http://avc.com/2010/06/six-slides)
-*   [Paying To Pitch](http://avc.com/2009/10/paying-to-pitch)
+*   [Paying To Pitch (cf. Jason Calacanis)](http://avc.com/2009/10/paying-to-pitch)
 
 Angel Investing and VC
 *   [The Purity Of Angel Investing](http://avc.com/2013/12/the-purity-of-angel-investing)
