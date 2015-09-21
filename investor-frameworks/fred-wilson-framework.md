@@ -274,7 +274,7 @@ Double Opt-In
 *   [The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction)
 
 Narrative
-*   [Numbers Can Ruin A Good Story](http://avc.com/2015/03/numbers-can-ruin-a-good-story)
+*   [Numbers Can Ruin A Good Story (cf. Josh Kopelman)](http://avc.com/2015/03/numbers-can-ruin-a-good-story)
 *   [Narratives Over Numbers](http://avc.com/2010/04/narratives-over-numbers)
 
 Pitches
