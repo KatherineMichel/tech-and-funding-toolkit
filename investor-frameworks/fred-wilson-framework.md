@@ -297,6 +297,7 @@ VC Firm/Syndicate Structure
 VC- General
 *   [VC Fund Economics (cf. Charlie O’Donnell)](http://avc.com/2014/05/vc-fund-economics)
 *   [The Difference Between Large Funds and Small Funds](http://avc.com/2014/04/the-difference-between-large-funds-and-small-funds)
+*   [The Perception Of Conflict Is Conflict](http://avc.com/2014/02/the-perception-of-conflict-is-conflict)
 *   [On Corporate VCs](http://avc.com/2013/06/on-corporate-vcs)
 *   [Venture Capital Returns](http://avc.com/2013/02/venture-capital-returns)
 *   [In Between: The Tough Place To Be](http://avc.com/2013/01/in-between-the-tough-place-to-be)
@@ -314,6 +315,7 @@ VC- General
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
 *   [The Venture Diet Is Working](http://avc.com/2010/01/the-venture-diet-is-working)
 *   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
+*   [The Biggest Loser Can Be The Biggest Winner (cf. Bill Gurley)](http://avc.com/2009/08/the-biggest-loser-can-be-the-biggest-winner)
 
 Great Companies, Investors, and Entrepreneurs
 *   [Difficult Is Good](http://avc.com/2011/02/difficult-is-good)
@@ -453,12 +455,14 @@ Hits and Misses
 *   [When Things Don’t Work Out](http://avc.com/2013/03/when-things-dont-work-out)
 *   [Let Your Winners Run](http://avc.com/2012/02/let-your-winners-run)
 *   [Swinging For The Fences](http://avc.com/2009/10/swinging-for-the-fences)
+*   [Doubling Down](http://avc.com/2009/08/doubling-down)
 
 Staying Independent
 *   [Staying Independent](http://avc.com/2012/04/staying-independent)
 
-Exits
+Exits, M&A, The HR Acquisition
 *   [The Tug Of War Between M&A and VC](http://avc.com/2010/01/the-tug-of-war-between-ma-and-vc)
+*   [The HR Acquisition](http://avc.com/2009/12/the-hr-acquisition)
 *   [Who Decides When To Exit?](http://avc.com/2009/09/who-decides-when-to-exit)
 
 Postmortem
@@ -512,6 +516,9 @@ Embrace Your Fatness
 DMCA
 *   [Protect IP (fka COICA)](http://avc.com/2011/05/protect-ip-fka-coica)
 *   [A Big Victory For User Generated Content (DMCA)](http://avc.com/2010/06/a-big-victory-for-user-generated-content)
+
+No City Has A Lock On Innovation
+*   [No City Has A Lock On Innovation (cf. Chris Dixon)](http://avc.com/2011/08/no-city-has-a-lock-on-innovation)
 
 Twitter Patent
 *   [The IPA](http://avc.com/2013/05/the-ipa)
