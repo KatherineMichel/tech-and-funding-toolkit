@@ -70,7 +70,7 @@ Profit, Income, Capital
 Pricing, Bookings, Revenue, Collections, Commission
 *   [Price: Why Lower Isn’t Always Better](http://avc.com/2010/04/price-why-lower-isnt-always-better)
 *   [Bookings vs Revenues vs Collections](http://avc.com/2010/08/bookings-vs-revenues-vs-collections)
-*   [Commission Plans](http://avc.com/2010/08/commission-plans)
+*   [Jim Keenan: Commission Plans](http://avc.com/2010/08/commission-plans)
 
 Projections- Budgeting and Forecasting
 *   [Projections, Budgeting and Forecasting](http://avc.com/2010/04/projections-budgeting-and-forecasting)
