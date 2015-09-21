@@ -343,8 +343,8 @@ Venture Funding Docs
 *   [Standardized Venture Funding Docs (cf. Brad Feld)](http://avc.com/2010/03/standardized-venture-funding-docs)
 
 Term Sheets
-*   [Terms, Term Sheets, and Terminal Value](http://avc.com/2010/07/terms-term-sheets-and-terminal-value)
-*   [The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet) and [The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
+*   [Terms, Term Sheets, and Terminal Value (cf. Mark Suster)](http://avc.com/2010/07/terms-term-sheets-and-terminal-value)
+*   [The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet) and [The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued) (cf. Chris Dixon)
 
 Seed Rounds
 *   [More On Seed Rounds](http://avc.com/2015/01/more-on-seed-rounds)
