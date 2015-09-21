@@ -153,7 +153,7 @@ Sales
  
 Key Business Metrics
 *   [Key Business Metrics](http://avc.com/2010/04/key-business-metrics)
-*   [LTV > CPA](http://avc.com/2011/04/ltv-cpa)
+*   [Dan Lewis: LTV > CPA](http://avc.com/2011/04/ltv-cpa)
 
 Burn Rate 
 *   [Burn Rate](http://avc.com/2011/12/burn-rate)
