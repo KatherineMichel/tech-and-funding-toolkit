@@ -147,7 +147,7 @@ Ops
 
 HR
 *   [What to look for in hiring a VP Engineering for your internet startup](http://cdixon.org/2008/04/17/what-to-look-for-in-hiring-a-vp-engineering-for-your-internet-startup)
-*   [Recruiting programmers to your startup](http://cdixon.org/2011/12/29/recruiting-programmers-to-your-startup)
+*   [Recruiting programmers to your startup (cf. Naval Ravikant)](http://cdixon.org/2011/12/29/recruiting-programmers-to-your-startup)
 *   [Showing up](http://cdixon.org/2011/04/13/showing-up)
 *   [The ideal startup career path](http://cdixon.org/2009/10/22/the-ideal-startup-career-path)
 *   [Joining a startup is far less risky than most people think](http://cdixon.org/2009/05/11/joining-a-startup-is-far-less-risky-than-most-people-think)
