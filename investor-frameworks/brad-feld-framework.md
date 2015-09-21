@@ -51,7 +51,7 @@ Story Telling, Demos, and Pitches
 *   [Don’t Get Sick Of Telling Your Story](http://www.feld.com/archives/2013/06/dont-get-sick-of-telling-your-story.html)
 *   [Don’t Tell Me Your History In Chronological Order](http://www.feld.com/archives/2013/02/dont-tell-me-your-history-in-chronological-order.html)
 *   [If You Can’t Explain What You Do In A Paragraph, You’ve Got A Problem](http://www.feld.com/archives/2012/10/if-you-cant-explain-what-you-do-in-a-paragraph-youve-got-a-problem.html)
-*   [Entrepreneurial Story Telling](http://www.feld.com/archives/2010/10/entrepreneurial-story-telling.html) (left off here, going down)
+*   [Entrepreneurial Story Telling](http://www.feld.com/archives/2010/10/entrepreneurial-story-telling.html) 
 *   [Show Don’t Tell – Especially In Video Pitches](http://www.feld.com/archives/2010/02/show-dont-tell-especially-in-video-pitches.html)
 *   [The Torturous World of Powerpoint](http://www.feld.com/archives/2004/06/the-torturous-world-of-powerpoint.html)
 
@@ -62,7 +62,7 @@ Eliminate/Outlaw Vagueries
 Saying No, Why Am I Passing, Asking for a Referral
 *   [Saying No In Less Than 60 Seconds](http://www.feld.com/archives/2009/06/say-no-in-less-than-60-seconds.html) 
 *   [Why Am I Passing?](http://www.feld.com/archives/2008/02/why-am-i-passing.html) 
-*   [Don’t Ask For A Referral If I Say No](http://www.feld.com/archives/2007/11/dont-ask-for-a-referral-if-i-say-no.html) 
+*   [Don’t Ask For A Referral If I Say No (cf. Fred Wilson)](http://www.feld.com/archives/2007/11/dont-ask-for-a-referral-if-i-say-no.html) (left off here, going down)
 
 Funding Announcements
 *   [Transparent Funding Announcements](http://www.feld.com/archives/2015/04/transparent-funding-announcements.html)
