@@ -303,6 +303,7 @@ VC- General
 *   [Hitting Your Stride](http://avc.com/2012/09/hitting-your-stride)
 *   [Can The Crowd Be More Patient?](http://avc.com/2012/04/can-the-crowd-be-more-patient)
 *   [Coming Of Age (cf. Ben Horowitz)](http://avc.com/2012/03/coming-of-age)
+*   [The Nature Of The Firm and Work Markets (cf. Ronald Coase)](http://avc.com/2012/03/the-nature-of-the-firm-and-work-markets)
 *   [There Are Two Venture Capital Industries](http://avc.com/2010/09/there-are-two-venture-capital-industries)
 *   [Lockups and Insider Selling](http://avc.com/2012/08/lockups-and-insider-selling)
 *   [Entrepreneurs Have Control When Things Work, VCs Have Control When They Don’t (cf. Dave Winer)](http://avc.com/2012/07/entrepreneurs-have-control-when-things-work-vcs-have-control-when-things-dont-work)
@@ -420,6 +421,10 @@ Burn Rate and Runway
 
 Growth
 *   [Growth (cf. Paul Graham)](http://avc.com/2012/09/growth)
+*   [Step Function Growth (cf. Nick Denton)](http://avc.com/2010/12/step-function-growth)
+
+Startup Curve
+*   [The Startup Curve (cf. Paul Graham, Chris Dixon)](http://avc.com/2012/03/the-startup-curve)
 
 Hits and Misses
 *   [Counting The Hits (cf. Aileen Lee, William Mougayar)](http://avc.com/2014/04/counting-the-hits)
@@ -487,9 +492,14 @@ Twitter Patent
 *   [The IPA](http://avc.com/2013/05/the-ipa)
 *   [The Twitter “Patent Hack”](http://avc.com/2012/04/the-twitter-patent-hack)
 
+Mutual Company
+*   [The Mutual Company](http://avc.com/2014/01/the-mutual-company)
+
 Slow Money
 *   [Bypassing Wall Street](http://avc.com/2012/08/bypassing-wall-street)
 *   [Budgets](http://avc.com/2012/03/budgets)
+*   [My Favorite Money Manager](http://avc.com/2010/08/my-favorite-money-manager)
+*   [Slow Capital](http://avc.com/2009/10/slow-capital)
 
 
 
