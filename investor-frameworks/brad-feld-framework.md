@@ -20,7 +20,7 @@ VC- General
 *   [Give Your VCs Assignments (cf. Mark Suster)](http://www.feld.com/archives/2010/05/give-your-vcs-assignments.html)
 *   [Investment vs. Speculation](http://www.feld.com/archives/2009/03/investment-vs-speculation.html)
 *   [How To Get A Job In Venture Capital](http://www.feld.com/archives/2008/05/how-to-get-a-job-in-venture-capital.html)
-*   [A Mental Model For VC Investments](http://www.feld.com/archives/2006/05/a-mental-model-for-vc-investments.html)
+*   [A Mental Model For VC Investments (cf. Charlie Munger, David Cowan, Jerry Colonna)](http://www.feld.com/archives/2006/05/a-mental-model-for-vc-investments.html)
 *   [Are You Accredited?](http://www.feld.com/archives/2006/03/are-you-accredited.html)
 *   [Venture Capital Deal Algebra](http://www.feld.com/archives/2004/07/venture-capital-deal-algebra.html)
 
