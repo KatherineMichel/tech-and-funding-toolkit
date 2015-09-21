@@ -311,6 +311,11 @@ VC- General
 *   [Contrarian Investing](http://avc.com/2010/09/contrarian-investing)
 *   [Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
 
+Great Companies, Investors, and Entrepreneurs
+*   [Difficult Is Good](http://avc.com/2011/02/difficult-is-good)
+*   [Matt Blumberg: 10 Characteristics Of Great Investors](http://avc.com/2009/09/10-characteristics-of-great-investors)
+*   [Ten Characteristics of Great Companies](http://avc.com/2009/09/ten-characteristics-of-great-companies)
+
 Lead Investor
 *   [Leading vs Following (cf. Hunter Walk)](http://avc.com/2013/09/leading-vs-following)
 *   [What Exactly Is A Lead Investor? (cf. Glenn Kelman)](http://avc.com/2011/11/what-exactly-is-a-lead-investor)
@@ -420,6 +425,7 @@ Burn Rate and Runway
 *   [Maximizing Runway Can Minimize Success](http://avc.com/2013/09/maximizing-runway-can-minimize-success)
 
 Growth
+*   [Growth Is A Bitch](http://avc.com/2013/07/growth-is-a-bitch)
 *   [Growth (cf. Paul Graham)](http://avc.com/2012/09/growth)
 *   [Step Function Growth (cf. Nick Denton)](http://avc.com/2010/12/step-function-growth)
 
