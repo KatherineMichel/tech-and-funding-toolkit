@@ -452,8 +452,8 @@ Public Filing
 IPO
 *   [The Sub $1bn Revenues IPO Act](http://avc.com/2012/03/the-sub-1bn-revenues-ipo-act)
 *   [Some Thoughts On The IPO Market For Web Companies (cf. Chris Dixon)](http://avc.com/2011/12/some-thoughts-on-the-ipo-market-for-web-companies)
-*   [The Second Coming Of The Internet IPO](http://avc.com/2011/01/the-second-coming-of-the-internet-ipo)
-*   [Bashing The Collective Wisdom On IPOs](http://avc.com/2010/11/bashing-the-collective-wisdom-on-ipos)
+*   [The Second Coming Of The Internet IPO (cf. John Battelle)](http://avc.com/2011/01/the-second-coming-of-the-internet-ipo)
+*   [Bashing The Collective Wisdom On IPOs (cf. Bill Gurley)](http://avc.com/2010/11/bashing-the-collective-wisdom-on-ipos)
 *   [IPOs Just Aren’t What They Used To Be](http://avc.com/2010/06/ipos-just-arent-what-they-used-to-be)
 
 Bubble
