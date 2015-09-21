@@ -180,7 +180,7 @@ Management Team
 *   [Scaling The Management Team (cf. Bijan Sabet)](http://avc.com/2011/12/scaling-the-management-team)
 *   [The Management Team – While Building Product](http://avc.com/2012/01/the-management-team-while-building-product)
 *   [The Management Team – While Building Usage](http://avc.com/2012/01/the-management-team-while-building-usage)
-*   [The Management Team – While Building The Business](http://avc.com/2010/09/outsourcing)
+*   [The Management Team – While Building The Business](http://avc.com/2012/01/the-management-team-while-building-the-business)
 *   [Leveraging Your Partners To Grow And Develop Your Team](http://avc.com/2012/07/mba-mondays-leveraging-your-partners-to-grow-and-develop-your-team)
 
 Roles
@@ -216,7 +216,7 @@ Employee Equity
 *   [How Much?](http://avc.com/2010/11/employee-equity-how-much) 
 
 Outsourcing and Offshoring
-*   [Outsourcing](http://avc.com/2010/09/outsourcing)
+*   [Outsourcing](http://avc.com/2010/09/outsourcing) and [Outsourcing Wikipedia](https://en.wikipedia.org/wiki/Outsourcing)
 *   [Outsourcing vs Offshoring](http://avc.com/2010/09/outsourcing-vs-offshoring)
 
 Sustainability
