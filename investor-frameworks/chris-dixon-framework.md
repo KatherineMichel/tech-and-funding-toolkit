@@ -64,7 +64,7 @@ Incubators, Angel Investors, VC Firms
 
 Equity Versus Convertible
 *   [Equity value](http://cdixon.org/2012/06/06/equity-value)
-*   [Converts versus equity deals](http://cdixon.org/2010/08/31/converts-versus-equity-deals)
+*   [Converts versus equity deals (cf. Paul Graham, Mark Suster, Seth Levine)](http://cdixon.org/2010/08/31/converts-versus-equity-deals)
 *   [Why seed investors don’t like convertible notes](http://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes)
 
 Funding Rounds
