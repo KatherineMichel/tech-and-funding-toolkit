@@ -268,7 +268,7 @@ Board Meetings
 *   [The First Board Meeting](http://www.feld.com/archives/2015/02/first-board-meeting.html)
 *   [Expectations for Outside Board Members](http://www.feld.com/archives/2014/04/expectations-outside-board-members.html)
 *   [My Ideal Board Meeting](http://www.feld.com/archives/2014/02/ideal-board-meeting.html)
-*   [Mentor Whiplash About Early Board Members](http://www.feld.com/archives/2013/06/mentor-whiplash-about-early-board-members.html)
+*   [Mentor Whiplash About Early Board Members (cf. Steve Blank)](http://www.feld.com/archives/2013/06/mentor-whiplash-about-early-board-members.html)
 *   [Do You Need A Board Chairman?](http://www.feld.com/archives/2013/03/do-you-need-a-board-chairman.html)
 *   [Monthly Financials, Quarterly Board Meetings, Continuous Communications](http://www.feld.com/archives/2012/05/monthly-financials-quarterly-board-meetings-continuous-communications.html)
 *   [Should VC Board Observers Rights Exist?](http://www.feld.com/archives/2012/05/should-vc-board-observers-rights-exist.html)
