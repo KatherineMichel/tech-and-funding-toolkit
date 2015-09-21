@@ -244,7 +244,7 @@ Words of Wisdom
 *   [Because It’s Standard](http://avc.com/2013/04/because-its-standard)
 *   [You Are Working Too Hard And Not Getting Anywhere](http://avc.com/2013/04/you-are-working-too-hard-and-not-getting-anywhere)
 *   [Tenacity And Persistence Pays Off](http://avc.com/2013/04/tenacity-and-persistence-pays-off)
-*   [Don’t Let A Good Crisis Go To Waste](http://avc.com/2013/04/dont-let-a-good-crisis-go-to-waste)
+*   [Don’t Let A Good Crisis Go To Waste (cf. Albert Wenger)](http://avc.com/2013/04/dont-let-a-good-crisis-go-to-waste)
 *   [Competition – The Pros and Cons](http://avc.com/2011/05/competition-the-pros-and-cons)
 
 ### Non-MBA Mondays
