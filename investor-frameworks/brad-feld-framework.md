@@ -278,7 +278,7 @@ Board Meetings
 *   [Remote Board Attendance Via Skype](http://www.feld.com/archives/2011/07/remote-board-attendance-via-skype.html)
 *   [Note To CEO’s: Decisions Come From You, Not The Board](http://www.feld.com/archives/2011/07/note-to-ceos-decisions-come-from-you-not-the-board.html)
 *   [Abolish Board Meeting Update Calls (cf. Steve Blank)](http://www.feld.com/archives/2011/06/abolish-board-meeting-update-calls.html)
-*   [Joining The Reinventing The Board Meeting Bandwagon](http://www.feld.com/archives/2011/06/joining-the-reinventing-the-board-meeting-bandwagon.html)
+*   [Joining The Reinventing The Board Meeting Bandwagon (cf. Steve Blank)](http://www.feld.com/archives/2011/06/joining-the-reinventing-the-board-meeting-bandwagon.html)
 *   [Start Every Board Meeting With A Demo](http://www.feld.com/archives/2011/01/start-every-board-meeting-with-a-demo.html)
 *   [Board Meeting Lessons From The Supreme Court](http://www.feld.com/archives/2009/11/board-meeting-lessons-from-the-supreme-court.html)
 *   [VC Behavior in Board Meetings](http://www.feld.com/archives/2009/08/vc-behavior-in-board-meetings.html)
