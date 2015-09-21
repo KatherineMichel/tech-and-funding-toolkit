@@ -38,7 +38,7 @@ Research
 *   [“It’s pretty difficult to solve big problems in four years”](http://cdixon.org/2014/07/06/its-pretty-difficult-to-solve-big-problems-in-four-years)
 *   [Some problems are so hard they need to be solved piece by piece (cf. Andrew Parker)](http://cdixon.org/2012/11/23/some-problems-are-so-hard-they-need-to-be-solved-piece-by-piece)
 *   [The product lens](http://cdixon.org/2012/12/03/the-product-lens)
-*   [What jobs are users hiring your product to perform?](http://cdixon.org/2011/12/21/what-jobs-are-users-hiring-your-product-to-perform)
+*   [What jobs are users hiring your product to perform? (cf. Clay Christensen)](http://cdixon.org/2011/12/21/what-jobs-are-users-hiring-your-product-to-perform)
 *   [Forces that affect whether a large company will buy your product (according to Marc Andreessen)](http://cdixon.org/2011/12/15/forces-that-affect-whether-a-large-company-will-buy-your-product-according-to-marc-andreessen)
 *   [Accurate contrarian theories](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
 *   [Founder/market fit](http://cdixon.org/2011/06/20/foundermarket-fit)
