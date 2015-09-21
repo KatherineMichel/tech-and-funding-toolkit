@@ -159,6 +159,7 @@ Term Sheet
 *   [Price (Term Sheet Series)](http://www.feld.com/archives/2005/01/term-sheet-price.html) 
 
 Letter of Intent
+*   [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
 *   [Representations, Warranties, and Indemnification (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/01/letter-of-intent-representations-warranties-and-indemnification.html) 
 *   [Employee Matters (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html) 
 *   [Conditions to Close (Term Sheet Series/Letter of Intent Series)](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html)
