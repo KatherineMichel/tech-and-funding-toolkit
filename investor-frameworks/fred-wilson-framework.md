@@ -457,8 +457,8 @@ IPO
 *   [IPOs Just Aren’t What They Used To Be](http://avc.com/2010/06/ipos-just-arent-what-they-used-to-be)
 
 Bubble
-*   [The Word Bubble](http://avc.com/2011/04/the-word-bubble)
-*   [Apocalypse and Bubbles](http://avc.com/2010/09/apocalypse-and-bubbles)
+*   [The Word Bubble (cf. Michael Arrington)](http://avc.com/2011/04/the-word-bubble)
+*   [Apocalypse and Bubbles (cf. Peter Thiel)](http://avc.com/2010/09/apocalypse-and-bubbles)
 
 Embrace Your Fatness
 *   [The Fat Vs Lean Debate](http://avc.com/2010/05/the-fat-vs-lean-debate)
