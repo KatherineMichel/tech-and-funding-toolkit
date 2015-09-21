@@ -263,7 +263,7 @@ Hobbyists
 *   [Hobbyists](http://avc.com/2013/03/hobbyists) and [Hobbyists, Continued](http://avc.com/2013/08/hobbyists-continued) (cf. Chris Dixon and Paul Buchheit)
 
 Return and Ridicule, Mocked and Misunderstood
-*   [Return and Ridicule](http://avc.com/2013/04/return-and-ridicule)
+*   [Return and Ridicule (cf. Chris Dixon)](http://avc.com/2013/04/return-and-ridicule)
 *   [Mocked And Misunderstood](http://avc.com/2011/12/mocked-and-misunderstood)
 
 This for That and Cloning
