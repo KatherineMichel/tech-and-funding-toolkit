@@ -129,6 +129,7 @@ Convertible Debt
 *   [Is It Important To Understand Convertible Debt Terms? (Term Sheet Series)](http://www.feld.com/archives/2011/09/is-it-important-to-understand-convertible-debt-terms.html) 
 
 Term Sheet- General
+*   [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet)
 *   [The Challenge of The Ideal First Round Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html)
 *   [Terms, Terms, and First Round Terms (Term Sheet Series) (cf. Fred Wilson, Chris Dixon, Jason Mendelson)](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
 *   [Entrepreneurs Blogging About Term Sheets (Term Sheet Series) (cf. Fred Wilson)](http://www.feld.com/archives/2007/04/entrepreneurs-blogging-about-term-sheets.html)
