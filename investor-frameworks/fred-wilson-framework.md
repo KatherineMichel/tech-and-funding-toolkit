@@ -370,11 +370,11 @@ Cap Tables
 *   [Broken Cap Tables](http://avc.com/2015/01/broken-cap-tables)
 
 Pro Rata
-*   [The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity)
+*   [The Pro-Rata Opportunity (cf. Mark Suster)](http://avc.com/2014/07/the-pro-rata-opportunity)
 *   [The Pro-Rata Participation Right](http://avc.com/2014/03/the-pro-rata-participation-right)
 
 Participating Preferred
-*   [An Evolved View Of The Participating Preferred](http://avc.com/2010/05/an-evolved-view-of-the-participating-preferred)
+*   [An Evolved View Of The Participating Preferred (cf. Brad Feld)](http://avc.com/2010/05/an-evolved-view-of-the-participating-preferred)
 
 Founder Liquidity
 *   [Some Thoughts On Founder Liquidity](http://avc.com/2014/12/some-thoughts-on-founder-liquidity)
