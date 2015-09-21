@@ -294,7 +294,7 @@ VC Firm/Syndicate Structure
 *   [What Is A “Venture Partner” And Why Does It Matter To You?](http://avc.com/2010/08/what-is-a-venture-partner-and-does-it-matter-to-you)
 
 VC- General
-*   [VC Fund Economics](http://avc.com/2014/05/vc-fund-economics)
+*   [VC Fund Economics (cf. Charlie O’Donnell)](http://avc.com/2014/05/vc-fund-economics)
 *   [The Difference Between Large Funds and Small Funds](http://avc.com/2014/04/the-difference-between-large-funds-and-small-funds)
 *   [On Corporate VCs](http://avc.com/2013/06/on-corporate-vcs)
 *   [Venture Capital Returns](http://avc.com/2013/02/venture-capital-returns)
