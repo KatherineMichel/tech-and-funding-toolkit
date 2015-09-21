@@ -133,12 +133,12 @@ Term Sheet- General
 *   [Terms, Terms, and First Round Terms (Term Sheet Series) (cf. Fred Wilson, Chris Dixon, Jason Mendelson)](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html)
 *   [Entrepreneurs Blogging About Term Sheets (Term Sheet Series) (cf. Fred Wilson)](http://www.feld.com/archives/2007/04/entrepreneurs-blogging-about-term-sheets.html)
 *   [Revisiting the Term Sheet (Term Sheet Series)](http://www.feld.com/archives/2008/06/revisiting-the-term-sheet.html)
+*   [An Entrepreneur on Term Sheet Terms (Term Sheet Series)](http://www.feld.com/archives/2006/01/an-entrepreneur-on-term-sheet-terms.html) 
 *   [Term Sheet Series Wrap Up (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html) 
 
 Term Sheet
 *   [Annoying Term Sheet Things (Term Sheet Series)](http://www.feld.com/archives/2006/09/annoying-term-sheet-things.html) 
 *   [Compelled Sale Right (Term Sheet Series)](http://www.feld.com/archives/2006/06/term-sheet-compelled-sale-right.html) 
-*   [An Entrepreneur on Term Sheet Terms (Term Sheet Series)](http://www.feld.com/archives/2006/01/an-entrepreneur-on-term-sheet-terms.html) 
 *   [Contentious Issues and Lawyers (Term Sheet Series)](http://www.feld.com/archives/2005/12/term-sheets-contentious-issues-and-lawyers.html) 
 *   [Indemnification and Assignment (Term Sheet Series)](http://www.feld.com/archives/2005/08/term-sheet-indemnification-and-assignment.html) 
 *   [Unilateral or Serial Monogamy (Term Sheet Series)](http://www.feld.com/archives/2005/08/unilateral-or-serial-monogamy.html) 
