@@ -304,7 +304,7 @@ VC- General
 
 Lead Investor
 *   [Leading vs Following (cf. Hunter Walk)](http://avc.com/2013/09/leading-vs-following)
-*   [What Exactly Is A Lead Investor?](http://avc.com/2011/11/what-exactly-is-a-lead-investor)
+*   [What Exactly Is A Lead Investor? (cf. Glenn Kelman)](http://avc.com/2011/11/what-exactly-is-a-lead-investor)
 
 Third Party Validation
 *   [On Getting An Outside Lead](http://avc.com/2014/07/getting-an-outside-lead-the-myth-of-third-party-validation)
