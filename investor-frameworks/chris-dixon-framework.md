@@ -220,11 +220,11 @@ Words of Wisdom
 *   [Some lessons learned](http://cdixon.org/2011/09/28/some-lessons-learned)
 *   [Do you want to sell sugar water or do you want to change the world? (cf. Tim O'Reilly)](http://cdixon.org/2011/08/28/do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world)
 *   [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](http://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough)
-*   [Builders and extractors](http://cdixon.org/2010/06/20/builders-and-extractors)
+*   [Builders and extractors (cf. Tim O'Reilly)](http://cdixon.org/2010/06/20/builders-and-extractors)
 *   [Man and superman](http://cdixon.org/2009/10/10/man-and-superman)
 *   [The importance of asking people questions](http://cdixon.org/2009/10/06/the-importance-of-asking-people-questions)
 *   [Chris Dixon: Climbing the Wrong Hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill) and [Hill Climbing Wikipedia](http://en.wikipedia.org/wiki/Hill_climbing)
-*   [Getting a job in venture capital](http://cdixon.org/2009/09/08/getting-a-job-in-venture-capital)
+*   [Getting a job in venture capital (cf. Bill Gurley)](http://cdixon.org/2009/09/08/getting-a-job-in-venture-capital)
 *   [Thanks…](http://cdixon.org/2009/09/17/thanks)
 
 
