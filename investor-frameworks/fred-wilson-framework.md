@@ -400,7 +400,7 @@ Outsourcing Reversal
 *   [Outsourcing Reversal (cf. Albert Wenger)](http://avc.com/2013/01/outsourcing-reversal)
 
 Cohort Analysis
-*   [Cohort Analysis](http://avc.com/2009/10/the-cohort-analysis)
+*   [Cohort Analysis (cf. Dave McClure](http://avc.com/2009/10/the-cohort-analysis) and [Cohort Study Wikipedia](https://en.wikipedia.org/wiki/Cohort_study)
 
 Burn Rate and Runway
 *   [Burn Baby Burn (cf. Bill Gurley)](http://avc.com/2014/09/burn-baby-burn)
