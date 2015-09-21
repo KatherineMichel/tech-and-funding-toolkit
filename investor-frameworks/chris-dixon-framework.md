@@ -160,7 +160,7 @@ Strategies
 *   [Two eras of the internet: pull and push](http://cdixon.org/2014/12/21/two-eras-of-the-internet-pull-and-push)
 *   [How bundling benefits sellers and buyers](http://cdixon.org/2012/07/08/how-bundling-benefits-sellers-and-buyers)
 *   [The real strategy behind tiered data plans](http://cdixon.org/2012/06/27/the-real-strategy-behind-tiered-data-plans)
-*   [Give away the diagnostic, sell the remedy](http://cdixon.org/2012/03/27/give-away-the-diagnostic-sell-the-remedy)
+*   [Give away the diagnostic, sell the remedy (cf. Fred Wilson)](http://cdixon.org/2012/03/27/give-away-the-diagnostic-sell-the-remedy)
 *   [Building products from improvised user behaviors](http://cdixon.org/2012/01/02/building-products-from-improvised-user-behaviors)
 *   [Selling pickaxes during a gold rush](http://cdixon.org/2011/02/05/selling-pickaxes-during-a-gold-rush)
 *   [The “thin edge of the wedge” strategy](http://cdixon.org/2010/12/27/the-thin-edge-of-the-wedge-strategy)
