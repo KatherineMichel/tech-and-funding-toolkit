@@ -41,7 +41,7 @@ Research
 *   [What jobs are users hiring your product to perform? (cf. Clay Christensen)](http://cdixon.org/2011/12/21/what-jobs-are-users-hiring-your-product-to-perform)
 *   [Forces that affect whether a large company will buy your product (cf. Marc Andreessen)](http://cdixon.org/2011/12/15/forces-that-affect-whether-a-large-company-will-buy-your-product-according-to-marc-andreessen)
 *   [Accurate contrarian theories (cf. Reid Hoffman)](http://cdixon.org/2011/05/16/accurate-contrarian-theories)
-*   [Founder/market fit](http://cdixon.org/2011/06/20/foundermarket-fit)
+*   [Founder/market fit (cf. Marc Andreessen, David Lee, Paul Graham)](http://cdixon.org/2011/06/20/foundermarket-fit)
 *   [Timing your startup](http://cdixon.org/2010/11/07/timing-your-startup)
 *   [Competition is overrated](http://cdixon.org/2010/06/26/competition-is-overrated)
 *   [Some thoughts on incumbents](http://cdixon.org/2010/10/08/some-thoughts-on-incumbents)
