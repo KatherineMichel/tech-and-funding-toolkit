@@ -100,7 +100,7 @@ Cap Tables
 
 Liquidation Analysis
 *   [Liquidation Analysis](http://avc.com/2011/10/liquidation-analysis)
-*   [Liquidation Analysis (Continued)](http://avc.com/2011/10/liquidation-analysis-continued)
+*   [Liquidation Analysis (Continued) (cf. Brad Feld and Jason Mendelson)](http://avc.com/2011/10/liquidation-analysis-continued)
 *   [Liquidation Analysis Google Doc (Second Tab)](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US)
 
 Valuation, Option Pool, Ownership
