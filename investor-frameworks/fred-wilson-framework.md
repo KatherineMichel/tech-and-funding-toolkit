@@ -1,8 +1,9 @@
 Blog
 *   [AVC](http://avc.com)
 
-USV Investment Thesis
+Thesis
 *   [USV Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
+*   [Helping others to achieve greatness as I attempt a bit of my own (cf. Dave McClure)](http://avc.com/2012/07/helping-others-to-achieve-greatness-as-i-attempt-a-bit-of-my-own)
 
 ### MBA Mondays
 
