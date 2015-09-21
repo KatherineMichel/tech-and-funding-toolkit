@@ -203,7 +203,7 @@ Trends
 *   [The decline of the mobile web](http://cdixon.org/2014/04/07/the-decline-of-the-mobile-web)
 *   [Full stack startups](http://cdixon.org/2014/03/15/full-stack-startups)
 *   [Technology predictions](http://cdixon.org/2013/04/06/technology-predictions)
-*   [The computing deployment phase](http://cdixon.org/2013/02/10/the-computing-deployment-phase)
+*   [The computing deployment phase (cf. Carlota Perez via Fred Wilson)](http://cdixon.org/2013/02/10/the-computing-deployment-phase)
 *   [Ten million users is the new one million users](http://cdixon.org/2012/08/03/ten-million-is-the-new-one-million)
 *   [Increasing velocity](http://cdixon.org/2012/04/11/increasing-velocity)
 *   [The internet is reshaping our economy from one of huge corporations with lots of jobs to huge platforms with lots of income streams](http://cdixon.org/2012/02/26/the-internet-is-reshaping-our-economy-from-one-of-huge-corporations-with-lots-of-jobs-to-huge-platforms-with-lots-of-income-streams)
