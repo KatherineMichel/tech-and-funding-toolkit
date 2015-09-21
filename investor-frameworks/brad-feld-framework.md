@@ -333,7 +333,7 @@ Domain Names
 *   [Hint To Startups – Use Your Domain In Your Email Address](http://www.feld.com/archives/2010/03/hint-to-startups-use-your-domain-in-your-email-address.html) 
 
 80-19-1 Rule
-*   [More on 80-19-1](http://www.feld.com/archives/2006/09/more-on-80-19-1.html)
+*   [More on 80-19-1 (cf. Jason Calacanis)](http://www.feld.com/archives/2006/09/more-on-80-19-1.html)
 *   [The 80-19-1 Rule](http://www.feld.com/archives/2006/08/the-80-19-1-rule.html)
 
 Customer Support
