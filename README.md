@@ -148,6 +148,7 @@ Table of Contents
 
 #### Investor Frameworks
 
+*   [Brad Feld Framework](investor-frameworks/brad-feld-framework.md) 
 *   [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
 *   [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
 *   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
