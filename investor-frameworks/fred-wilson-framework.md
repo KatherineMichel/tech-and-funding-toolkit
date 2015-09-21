@@ -144,7 +144,7 @@ M.A.
 *   [Price](http://avc.com/2011/04/ma-issues-price)
 
 Strategy and Product
-*   [What Is Strategy?](http://avc.com/2013/06/what-is-strategy)
+*   [What Is Strategy?](http://avc.com/2013/06/what-is-strategy), [Strategy Wikipedia](https://en.wikipedia.org/wiki/Strategy), and [Strategic Management](https://en.wikipedia.org/wiki/Strategic_management)
 *   [Product > Strategy > Business Model](http://avc.com/2013/06/product-strategy-business-model)
 *   [Revenue Traction Doesn’t Mean Product Market Fit](http://avc.com/2013/03/revenue-traction-doesnt-mean-product-market-fit)
 
@@ -185,7 +185,7 @@ Management Team
 
 Roles
 *   [What A CEO Does](http://avc.com/2010/08/what-a-ceo-does)
-*   [What A CEO Does (continued)](http://avc.com/2010/09/what-a-ceo-does-continued)
+*   [Matt Blumberg: What A CEO Does (continued)](http://avc.com/2010/09/what-a-ceo-does-continued)
 *   [VP Engineering Vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto)
 *   [VP Finance vs CFO](http://avc.com/2011/10/vp-finance-vs-cfo)
 
