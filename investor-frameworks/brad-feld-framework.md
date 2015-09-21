@@ -305,11 +305,11 @@ Using Products
 *   [Do Your Investors Use Your Product?](http://www.feld.com/archives/2006/09/do-your-investors-use-your-product.html) 
 
 Competition and First Mover
-*   [Competition](http://www.feld.com/archives/2011/07/competition.html) 
+*   [Competition (cf. Clay Christensen)](http://www.feld.com/archives/2011/07/competition.html) 
 *   [The First Mover](http://www.feld.com/archives/2011/08/be-the-first-mover.html) 
 
 Market Fit
-*   [The Illusion of Product/Market Fit for SaaS Companies](http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html) 
+*   [The Illusion of Product/Market Fit for SaaS Companies (cf. Ben Horowitz, Fred Wilson)](http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html) 
 *   [Founder Market Fit](http://www.feld.com/archives/2012/08/founder-market-fit.html) 
 
 Lean-ish
