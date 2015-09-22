@@ -472,17 +472,25 @@ Associations
 *   [National Association of Investment Companies Partners](http://www.naicvc.com/resourcecenter.html)
 *   [National Venture Capital Association](http://nvca.org)
 
-Special Rules
+Special Rules- via AngelList
 *   [AngelList Help](https://angel.co/help)
 *   [AngelList Accreditation](https://angel.co/help/accreditation)
+*   [AngelList General Solicitation (Public Fundraising) 506(c)](https://angel.co/help/general-solicitation)
+
+Special Rules- via IRS
 *   [Internal Revenue Code section 409A (Valuation) Wikipedia](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
-*   Internal Revenue Code Sections 1202 
-*   Internal Revenue Code Sections 1045
+*   Internal Revenue Code Sections 1202 and 1045
+
+Special Rules- via SEC
+*   [Small Business and the SEC](http://www.sec.gov/info/smallbus/qasbsec.htm)
 *   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
+*   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
+*   [Final Rules and Amendments to Regulation A (March 25, 2015)](http://www.sec.gov/rules/final/2015/33-9741.pdf)
+*   [SEC Accredited Investors](http://www.sec.gov/answers/accred.htm)
+
+Special Rules- General
 *   Public Fundraising 506(b)
 *   Regulation A (Public Fundraising)
-*   [AngelList General Solicitation (Public Fundraising) 506(c)](https://angel.co/help/general-solicitation)
-*   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
 *   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
 *   [FAS 157](http://www.fasb.org/pdf/aop_FAS157.pdf)
 *   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
@@ -507,7 +515,7 @@ Accounting Principles
 Regulatory Agencies and Rules- Business and Finance Related
 *   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
 *   [Internal Revenue Service](http://www.irs.gov)
-*   [Securities and Exchange Commission](http://www.sec.gov)
+*   [Securities and Exchange Commission](http://www.sec.gov), [Securities and Exchange Commission Investor Pubs](http://www.sec.gov/investor/pubs.shtml), and [Investor.gov](http://investor.gov)
 *   [Small Business Administration](http://www.sba.gov) 
 *   [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
 
