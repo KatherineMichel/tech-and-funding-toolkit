@@ -489,14 +489,14 @@ Special Rules- via IRS
 
 Special Rules- via SEC
 *   [Small Business and the SEC](http://www.sec.gov/info/smallbus/qasbsec.htm)
-*   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
-*   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
+*   [SEC Rule 506, 506(b) (Public Fundraising)](http://www.sec.gov/answers/rule506.htm)
+*   Regulation A (Public Fundraising)
 *   [Final Rules and Amendments to Regulation A (March 25, 2015)](http://www.sec.gov/rules/final/2015/33-9741.pdf)
+*   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
+*   [Morrison Foester: Regulation A+: Final Rules Offer Important Capital Raising Alternatives](http://www.mofo.com/~/media/Files/ClientAlert/2015/03/150326RegulationA.pdf)
 *   [SEC Accredited Investors](http://www.sec.gov/answers/accred.htm)
 
 Special Rules- General
-*   Public Fundraising 506(b)
-*   Regulation A (Public Fundraising)
 *   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
 *   [FAS 157](http://www.fasb.org/pdf/aop_FAS157.pdf)
 *   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
