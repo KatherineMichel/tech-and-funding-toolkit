@@ -245,8 +245,6 @@ Investor Frameworks
 
 A Few Thoughts
 *   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
-*   [Fred Wilson: Dave McClure’s Investment Thesis](http://avc.com/2010/07/dave-mcclures-investment-thesis) 
-*   [Dave McClure: MoneyBall for Startups: Invest BEFORE Product/Market Fit, Double-Down AFTER.](http://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
 *   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
 *   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html) 
 
