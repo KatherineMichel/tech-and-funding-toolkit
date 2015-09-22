@@ -361,7 +361,7 @@ VC Firm Events
 VC Videos and Podcasts
 *   [A16Z Podcasts](https://soundcloud.com/a16z)
 *   [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
-*   [KPCB Podcasts](https://soundcloud.com/kleinerperkins)
+*   [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
 
 VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
