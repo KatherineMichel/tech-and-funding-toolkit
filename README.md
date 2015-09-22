@@ -245,6 +245,7 @@ Investor Frameworks
 
 A Few Thoughts
 *   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
+*   [Rake Poker Wikipedia](https://en.wikipedia.org/wiki/Rake_(poker))
 *   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
 
 Venture Capital and How Funding Works
@@ -568,6 +569,7 @@ VC Firm Pitch Deck and Operational Report Templates
 
 Term Sheets 101
 *   [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
+*   [Venture Hacks Top 10 Term Sheet Hacks](http://www.slideshare.net/venturehacks/top-10-term-sheet-hacks-presentation-725011)
 
 Document Web Services
 *   [Captable.io](https://captable.io)  
