@@ -247,7 +247,7 @@ Board of Directors with Jim Lejeal
 
 Compensation for Board Members, Outside Directors, and Advisors
 *   [Compensation for Board Members](http://www.feld.com/archives/2005/04/compensation-for-board-members.html) 
-*   [The Best Approach To A Board Package (Eric Ries)](http://www.feld.com/archives/2013/01/the-best-approach-to-a-board-package.html) 
+*   [The Best Approach To A Board Package (cf. Eric Ries)](http://www.feld.com/archives/2013/01/the-best-approach-to-a-board-package.html) 
 *   [PDF Your Board Package](http://www.feld.com/archives/2006/06/pdf-your-board-package.html) 
 *   [Compensation for Outside Directors](http://www.feld.com/archives/2005/06/compensation-for-outside-directors.html)
 *   [How Many Stock Options Should I Give An Advisor?](http://www.feld.com/archives/2006/05/how-many-stock-options-should-i-give-an-advisor.html) and [Non-Qualified Stock Option Wikipedia](https://en.wikipedia.org/wiki/Non-qualified_stock_option)
