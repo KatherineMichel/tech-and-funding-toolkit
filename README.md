@@ -7,7 +7,6 @@ Table of Contents
 
 - [People](#people)
   - [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
-  - [Investor Frameworks](#investor-frameworks)
   - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
 - [Venture](#venture)
   - [VC Theory](#vc-theory)
@@ -146,14 +145,6 @@ Table of Contents
 *   [Steven Sinofsky](http://blog.learningbyshipping.com) and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
 *   [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 
-#### Investor Frameworks
-
-*   [Brad Feld Framework](investor-frameworks/brad-feld-framework.md) 
-*   [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
-*   [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
-*   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
-*   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
-
 #### Tech Analysts, Thought Leaders
 
 *   [Adam Khan: Hack the Bird](http://www.amazon.com/Hack-Bird-Counterintuitive-Strategies-Entrepreneurs-ebook/dp/B00XFMQHVQ/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1433450574&sr=1-1&keywords=hack+the+bird&linkCode=sl1&tag=inthestabiz-20&linkId=AADRKVFBXUFE75JI)
@@ -245,6 +236,13 @@ Table of Contents
 
 #### VC Theory
 
+Investor Frameworks
+*   [Brad Feld Framework](investor-frameworks/brad-feld-framework.md) 
+*   [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
+*   [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
+*   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
+*   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
+
 A Few Thoughts
 *   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
 *   [Fred Wilson: The Venture Capital Math Problem](http://avc.com/2009/04/the-venture-capital-math-problem) 
@@ -255,7 +253,12 @@ Investment Theses
 *   [Fred Wilson: Dave McClure’s Investment Thesis](http://avc.com/2010/07/dave-mcclures-investment-thesis) 
 *   [Dave McClure: MoneyBall for Startups: Invest BEFORE Product/Market Fit, Double-Down AFTER.](http://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
 
-Angel Investing, Venture Capital and How Funding Works
+Venture Capital and How Funding Works
+*   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
+*   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
+*   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
+
+Venture Capital Terminology
 *   [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
 *   [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity)
@@ -275,9 +278,6 @@ Angel Investing, Venture Capital and How Funding Works
 *   [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
 *   [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
 *   [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
-*   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
-*   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
-*   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
 
 #### VC Firms, Accelerators, Resources
 
