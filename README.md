@@ -495,6 +495,7 @@ Special Rules- via SEC
 *   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
 *   [Morrison Foester: Regulation A+: Final Rules Offer Important Capital Raising Alternatives](http://www.mofo.com/~/media/Files/ClientAlert/2015/03/150326RegulationA.pdf)
 *   [SEC Accredited Investors](http://www.sec.gov/answers/accred.htm)
+*   [Investor.gov Accredited Investors](http://www.investor.gov/news-alerts/investor-bulletins/investor-bulletin-accredited-investors#.VFcvnIvF8m8)
 
 Special Rules- General
 *   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
