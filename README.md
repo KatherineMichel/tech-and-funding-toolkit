@@ -472,11 +472,14 @@ Kansas
 *   [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
 
 Special Rules
-*   [409A (Valuation)](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
+*   [Internal Revenue Code section 409A (Valuation) Wikipedia](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
+*   Internal Revenue Code Sections 1202 
+*   Internal Revenue Code Sections 1045
 *   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
 *   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
 *   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
 *   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
+*   [FAS157](http://www.fasb.org/pdf/aop_FAS157.pdf)
 *   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 
 Securities and Exchange Commission (SEC)
