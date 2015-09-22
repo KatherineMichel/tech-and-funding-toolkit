@@ -66,7 +66,7 @@ Saying No, Why Am I Passing, Asking for a Referral
 
 Funding Announcements
 *   [Transparent Funding Announcements](http://www.feld.com/archives/2015/04/transparent-funding-announcements.html)
-*   [Announce Your Financing In Conjunction With Your Form D Filing](http://www.feld.com/archives/2011/12/announce-your-financing-in-conjunction-with-your-form-d-filing.html) and [SEC: Form D](http://www.sec.gov/answers/formd.htm) (left off here, going down)
+*   [Announce Your Financing In Conjunction With Your Form D Filing](http://www.feld.com/archives/2011/12/announce-your-financing-in-conjunction-with-your-form-d-filing.html) and [SEC: Form D](http://www.sec.gov/answers/formd.htm)
 
 Entity Structure
 *   [What Structure Should I Use?](http://www.feld.com/archives/2006/03/what-structure-should-i-use.html)
