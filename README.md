@@ -14,8 +14,8 @@ Table of Contents
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
   - [Company and Product Databases](#company-and-product-databases)
   - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-  - [Regulation, Business Entity, Documents](#regulation-business-entity-documents)
-  - [SEC and Other Regulatory Agencies](#sec-and-other-regulatory-agencies)
+  - [Regulatory, Business Entity](#regulation-business-entity)
+  - [Documents and Advice](#documents-and-advice)
   - [Government and International Data](#government-and-international-data)
   - [Analyst Groups](#analyst-groups)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
@@ -447,13 +447,13 @@ Industry and Product Classifications
 Associations
 *   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
-#### Regulation, Business Entity, Documents
+#### Regulation, Business Entity
 
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
 *   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
 *   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
 *   [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) and [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
-*   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
+*   [Benefitcorp (not B Corporation) Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation)
 *   [Benefitcorp](http://benefitcorp.net) 
 *   [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
 
@@ -468,6 +468,45 @@ Kansas
 *   [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
 *   [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
 *   [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
+
+Special Rules
+*   [409A (Valuation)](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
+*   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
+*   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
+*   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
+*   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
+*   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
+
+Securities and Exchange Commission (SEC)
+*   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
+*   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
+*   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
+*   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
+*   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
+
+Central Banks/Reserves
+*   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
+*   [Kansas City Fed](https://www.kansascityfed.org)
+
+Accounting Principles
+*   [American Institute of CPAs](http://www.aicpa.org)
+*   [Financial Accounting Standards Board](http://www.fasb.org)
+*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
+
+Regulatory Agencies and Rules- Business and Finance Related
+*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
+*   [Internal Revenue Service](http://www.irs.gov)
+*   [Securities and Exchange Commission](http://www.sec.gov)
+*   [Small Business Administration](http://www.sba.gov) 
+*   [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
+
+Regulatory Agencies and Rules- General
+*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
+*   [Federal Aviation Administration](http://www.faa.gov)  
+*   [Federal Communications Commission](https://www.fcc.gov)
+*   [Federal Drug Administration](http://www.fda.gov)  
+
+#### Documents and Advice
 
 Law and Transaction Services
 *   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
@@ -575,45 +614,6 @@ Valuation
 
 Types of Acquisitions
 *   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
-
-#### SEC and Other Regulatory Agencies
-
-Special Rules
-*   [409A (Valuation)](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
-*   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
-*   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
-*   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
-*   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
-*   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
-
-Securities and Exchange Commission (SEC)
-*   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
-*   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
-*   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
-*   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
-*   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
-
-Central Banks/Reserves
-*   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
-*   [Kansas City Fed](https://www.kansascityfed.org)
-
-Accounting Principles
-*   [American Institute of CPAs](http://www.aicpa.org)
-*   [Financial Accounting Standards Board](http://www.fasb.org)
-*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
-
-Regulatory Agencies and Rules- Business and Finance Related
-*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
-*   [Internal Revenue Service](http://www.irs.gov)
-*   [Securities and Exchange Commission](http://www.sec.gov)
-*   [Small Business Administration](http://www.sba.gov) 
-*   [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
-
-Regulatory Agencies and Rules- General
-*   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
-*   [Federal Aviation Administration](http://www.faa.gov)  
-*   [Federal Communications Commission](https://www.fcc.gov)
-*   [Federal Drug Administration](http://www.fda.gov)  
 
 #### Government and International Data
 
