@@ -1,11 +1,15 @@
 Blog
 *   [AVC](http://avc.com)
 
-Thesis
+Thesis- USV
 *   [USV Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
-*   [Helping others to achieve greatness as I attempt a bit of my own (cf. Dave McClure)](http://avc.com/2012/07/helping-others-to-achieve-greatness-as-i-attempt-a-bit-of-my-own)
 
-Tearing Down The Teardown
+Thesis- Dave McClure
+*   [Helping others to achieve greatness as I attempt a bit of my own (cf. Dave McClure)](http://avc.com/2012/07/helping-others-to-achieve-greatness-as-i-attempt-a-bit-of-my-own)
+*   [Dave McClure’s Investment Thesis](http://avc.com/2010/07/dave-mcclures-investment-thesis) 
+*   [Dave McClure: MoneyBall for Startups: Invest BEFORE Product/Market Fit, Double-Down AFTER.](http://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
+
+CB Insights USV Teardown
 *   [Tearing Down The Teardown](http://avc.com/2014/08/tearing-down-the-teardown)
 
 ### MBA Mondays
