@@ -480,7 +480,7 @@ Associations
 
 Special Rules- via AngelList
 *   [AngelList Help](https://angel.co/help)
-*   [AngelList Accreditation](https://angel.co/help/accreditation)
+*   [AngelList Accreditation](https://angel.co/help/accreditation) and [AngelList API / Accreditation](https://angel.co/api/spec/accreditation)
 *   [AngelList General Solicitation (Public Fundraising) 506(c)](https://angel.co/help/general-solicitation)
 
 Special Rules- via IRS
@@ -491,6 +491,7 @@ Special Rules- via SEC
 *   [Small Business and the SEC](http://www.sec.gov/info/smallbus/qasbsec.htm)
 *   [SEC Rule 506, 506(b) (Public Fundraising)](http://www.sec.gov/answers/rule506.htm)
 *   Regulation A (Public Fundraising)
+*   [Eliminating the Prohibition Against General Solicitation and General Advertising in Rule 506 and Rule 144A Offerings](http://www.sec.gov/info/smallbus/secg/general-solicitation-small-entity-compliance-guide.htm)
 *   [Final Rules and Amendments to Regulation A (March 25, 2015)](http://www.sec.gov/rules/final/2015/33-9741.pdf)
 *   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
 *   [Morrison Foester: Regulation A+: Final Rules Offer Important Capital Raising Alternatives](http://www.mofo.com/~/media/Files/ClientAlert/2015/03/150326RegulationA.pdf)
