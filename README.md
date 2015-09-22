@@ -293,7 +293,7 @@ Lists of VC Firms and Accelerators
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
-Random VC Funds/Accelerators and Manifestoes/Theses
+Random VC Funds/Accelerators
 *   [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
 *   [Expa](http://expa.com) 
 *   [Google Capital](http://www.googlecapital.com)
@@ -305,7 +305,7 @@ Random VC Funds/Accelerators and Manifestoes/Theses
 *   [YCombinator](http://ycombinator.com)
 
 Accelerator, Angel, VC Firm Blogs and Learning Resources
-*   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Demo Day](http://500demoday.co), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
+*   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
 *   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
@@ -351,6 +351,12 @@ VC Firm Portfolios and Anti-Portfolios
 
 VC Firm Newsletters
 *   [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+
+VC Firm Demo Days
+*   [500 Startups Demo Day](http://500demoday.co)
+
+VC Firm Events
+*   [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 
 VC Videos and Podcasts
 *   [A16Z Podcasts](https://soundcloud.com/a16z)
