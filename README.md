@@ -751,6 +751,9 @@ Tech Periodical
 *   [The Next Web](http://thenextweb.com)
 *   [The Information (subscription based)](https://www.theinformation.com)
 
+Venture Analysis
+*   [PE HUB](https://www.pehub.com)
+
 Tech Longform
 *   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
 
