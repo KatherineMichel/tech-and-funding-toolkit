@@ -682,9 +682,14 @@ Business News
 *   [Forbes](http://www.forbes.com)
 *   [Fortune](http://fortune.com)
 *   [Inc.](http://www.inc.com)
-*   [New York Times Business](http://www.nytimes.com/pages/business/index.html, ), and [New York Times DealBook](http://dealbook.nytimes.com)
+*   [New York Times Business](http://www.nytimes.com/pages/business/index.html, )
 *   [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
 *   [Wealthfront Blog](https://blog.wealthfront.com) 
+
+Venture Analysis
+*   [New York Times DealBook](http://dealbook.nytimes.com)
+*   [PE HUB](https://www.pehub.com)
+*   [PitchBook](http://pitchbook.com)
 
 Markets and Finance
 *   [Google Finance](https://www.google.com/finance) 
@@ -745,9 +750,6 @@ Tech Periodical
 *   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
 *   [The Next Web](http://thenextweb.com)
 *   [The Information (subscription based)](https://www.theinformation.com)
-
-Venture Analysis
-*   [PE HUB](https://www.pehub.com)
 
 Tech Longform
 *   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
