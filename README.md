@@ -245,11 +245,6 @@ Investor Frameworks
 
 A Few Thoughts
 *   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
-*   [Fred Wilson: The Venture Capital Math Problem](http://avc.com/2009/04/the-venture-capital-math-problem) 
-*   [Fred Wilson: The Biggest Loser Can Be The Biggest Winner](http://avc.com/2009/08/the-biggest-loser-can-be-the-biggest-winner)  
-
-Investment Theses
-*   [Fred Wilson: Thematic vs Thesis Driven Investing](http://avc.com/2009/11/thematic-vs-thesis-driven-investing)
 *   [Fred Wilson: Dave McClure’s Investment Thesis](http://avc.com/2010/07/dave-mcclures-investment-thesis) 
 *   [Dave McClure: MoneyBall for Startups: Invest BEFORE Product/Market Fit, Double-Down AFTER.](http://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
 
