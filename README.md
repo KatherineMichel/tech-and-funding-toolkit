@@ -8,6 +8,7 @@ Table of Contents
 - [People](#people)
   - [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
+  - [Schools of Thought](#schools-of-thought)
 - [Venture](#venture)
   - [VC Theory](#vc-theory)
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
@@ -149,7 +150,6 @@ Table of Contents
 
 *   [Adam Khan: Hack the Bird](http://www.amazon.com/Hack-Bird-Counterintuitive-Strategies-Entrepreneurs-ebook/dp/B00XFMQHVQ/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1433450574&sr=1-1&keywords=hack+the+bird&linkCode=sl1&tag=inthestabiz-20&linkId=AADRKVFBXUFE75JI)
 *   [Alan Kay Wikipedia](https://en.wikipedia.org/wiki/Alan_Kay)
-*   [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
 *   [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
 *   [Alex Osterwalder](http://www.alexosterwalder.com), [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder), and [Alex Osterwalder Slideshare](http://www.slideshare.net/Alex.Osterwalder)
 *   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
@@ -163,7 +163,6 @@ Table of Contents
 *   [Bill and Melinda Gates](http://www.thegatesnotes.com) 
 *   [Bob Lefsetz](http://lefsetz.com)
 *   [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
-*   [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
 *   [C. Todd Lombardo Speaker Deck](https://speakerdeck.com/iamctodd)
 *   [Carlota Perez](http://www.carlotaperez.org) 
 *   [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
@@ -209,7 +208,6 @@ Table of Contents
 *   [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 *   [Naval Ravikant](http://startupboy.com)
 *   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
-*   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [Peter Rojas](http://roj.as/contact)
 *   [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 *   [Rick Klau Medium](https://medium.com/@rklau)
@@ -228,9 +226,14 @@ Table of Contents
 *   [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 *   [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
 *   [Venkatesh Rao Ribbonfarm](http://www.ribbonfarm.com) and [Venkatesh Rao Breaking Smart](http://breakingsmart.com)
-*   [W. Edwards Deming Wikipedia](http://en.wikipedia.org/wiki/W._Edwards_Deming)
 *   [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
+
+#### Schools of Thought
+*   [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
+*   [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
+*   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
+*   [W. Edwards Deming Wikipedia](http://en.wikipedia.org/wiki/W._Edwards_Deming)
 
 ### Venture
 
@@ -289,13 +292,6 @@ Lists of VC Firms and Accelerators
 *   [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
-
-Associations
-*   [Angel Capital Association](http://www.angelcapitalassociation.org)
-*   [British Private Equity and Venture Capital Association](http://www.bvca.co.uk)
-*   [National Association of Investment Companies](http://www.naicvc.com)
-*   [National Association of Investment Companies Partners](http://www.naicvc.com/resourcecenter.html)
-*   [National Venture Capital Association](http://nvca.org)
 
 Random VC Funds/Accelerators and Manifestoes/Theses
 *   [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
@@ -471,15 +467,24 @@ Kansas
 *   [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
 *   [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
 
+Associations
+*   [Angel Capital Association](http://www.angelcapitalassociation.org)
+*   [British Private Equity and Venture Capital Association](http://www.bvca.co.uk)
+*   [National Association of Investment Companies](http://www.naicvc.com)
+*   [National Association of Investment Companies Partners](http://www.naicvc.com/resourcecenter.html)
+*   [National Venture Capital Association](http://nvca.org)
+
 Special Rules
 *   [Internal Revenue Code section 409A (Valuation) Wikipedia](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
 *   Internal Revenue Code Sections 1202 
 *   Internal Revenue Code Sections 1045
 *   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
-*   [AngelList General Solicitation 506(c)](https://angel.co/help/general-solicitation)
+*   Public Fundraising 506(b)
+*   Regulation A (Public Fundraising)
+*   [AngelList General Solicitation (Public Fundraising) 506(c)](https://angel.co/help/general-solicitation)
 *   [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
 *   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
-*   [FAS157](http://www.fasb.org/pdf/aop_FAS157.pdf)
+*   [FAS 157](http://www.fasb.org/pdf/aop_FAS157.pdf)
 *   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 
 Securities and Exchange Commission (SEC)
