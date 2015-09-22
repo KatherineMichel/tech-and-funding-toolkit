@@ -246,11 +246,6 @@ Investor Frameworks
 *   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
 *   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
 
-A Few Thoughts
-*   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
-*   [Rake Poker Wikipedia](https://en.wikipedia.org/wiki/Rake_(poker))
-*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
-
 Venture Capital and How Funding Works
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
 *   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
