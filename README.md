@@ -536,6 +536,12 @@ Patent Search and FOIA
 *   [FOIA](http://foia.state.gov)
 *   [Stack Exchange Patents](http://patents.stackexchange.com)
 
+Digital Millennium Copyright Act
+*   [Digital Millennium Copyright Act Wikipedia](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)  
+*   [Digital Millennium Copyright Act](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)  
+*   [Buzzfeed DMCA Policy](http://www.buzzfeed.com/about/dmca)  
+*   [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
+
 #### Documents and Advice
 
 Law and Transaction Services
