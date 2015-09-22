@@ -247,20 +247,29 @@ A Few Thoughts
 *   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
 *   [Fred Wilson: Dave McClure’s Investment Thesis](http://avc.com/2010/07/dave-mcclures-investment-thesis) 
 *   [Dave McClure: MoneyBall for Startups: Invest BEFORE Product/Market Fit, Double-Down AFTER.](http://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
+*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
+*   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html) 
 
 Venture Capital and How Funding Works
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
-*   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html)  
 *   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
 
-Venture Capital Terminology
+Venture Capital Terminology- Documents
+*   [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
+*   [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet) and [Termsheet Investopedia](http://www.investopedia.com/terms/t/termsheet.asp)
+*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
+
+Venture Capital Terminology- Funding Instruments
+*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
+*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
+
+Venture Capital Terminology- General
 *   [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
 *   [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
 *   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
-*   [Termsheet](http://www.investopedia.com/terms/t/termsheet.asp)
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 *   [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
@@ -552,12 +561,6 @@ VC Firm Pitch Deck and Operational Report Templates
 *   [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
 *   [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
 *   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
-
-Cap Table, Convertible Bonds, Securities, Equity
-*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
-*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
-*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
-*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
 
 Term Sheets 101
 *   [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
