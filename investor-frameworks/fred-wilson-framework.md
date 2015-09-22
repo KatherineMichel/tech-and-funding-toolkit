@@ -206,7 +206,7 @@ HR
 *   [Exit Interviews](http://avc.com/2013/09/exit-interviews) 
 
 Employee Equity
-*   [Andy Rachleff: Employee Equity Wealthfront (SlideShare)](http://avc.com/2013/11/employee-equity)
+*   [Andy Rachleff: Employee Equity Wealthfront (Slideshare)](http://avc.com/2013/11/employee-equity)
 *   [Employee Equity](http://avc.com/2010/09/employee-equity-2) 
 *   [Cap Table Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US#gid=0) 
 *   [Dilution](http://avc.com/2010/10/employee-equity-dilution) 
