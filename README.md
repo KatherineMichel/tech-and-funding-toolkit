@@ -296,21 +296,20 @@ Lists of VC Firms and Accelerators
 Random VC Funds/Accelerators and Manifestoes/Theses
 *   [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
 *   [Expa](http://expa.com) 
-*   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 *   [Google Capital](http://www.googlecapital.com)
 *   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Silicon Valley Bank](http://www.svb.com) 
 *   [Techstars](http://www.techstars.com)
-*   [Union Square Ventures](https://www.usv.com), [Union Square Ventures Investment Thesis](https://www.usv.com/blog/investment-thesis-usv)
-*   [YCombinator](http://ycombinator.com) and [YCombinator Fellowship](http://fellowship.ycombinator.com)
+*   [Union Square Ventures](https://www.usv.com)
+*   [YCombinator](http://ycombinator.com)
 
 Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), [500 Startups Demo Day](http://500demoday.co), [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats), [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 *   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
-*   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
+*   [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 *   [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
 *   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
@@ -320,7 +319,15 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
-*   [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+*   [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+
+Blogs and Whatnot
+*   [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
+*   [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
+*   [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
+*   [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
+*   [Product Hunt Blog](http://blog.producthunt.com)
+*   [Tech EU Research](http://tech.eu/section/research) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
 
 RFS, Trends, Emerging Technologies
 *   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
@@ -380,7 +387,7 @@ Database List
 
 Databases and Benchmarking- Freemium
 *   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-*   [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), and [AngelList Salaries](https://angel.co/salaries)
+*   [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Jobs](https://angel.co/jobs) 
 *   [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
 *   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 *   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
@@ -390,15 +397,6 @@ Databases and Benchmarking- Freemium
 Europe and U.K.
 *   [AngelList U.K.](https://angel.co/uk)
 *   [Tech EU Radar Online Database](http://radar.tech.eu) 
-
-Blogs and Whatnot
-*   [AngelList Jobs](https://angel.co/jobs) and [AngelList Help](https://angel.co/help)
-*   [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
-*   [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
-*   [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
-*   [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
-*   [Product Hunt Blog](http://blog.producthunt.com)
-*   [Tech EU Research](http://tech.eu/section/research) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
 
 Mobile and Browser
 *   [Apple Store](http://store.apple.com/us)
@@ -468,13 +466,14 @@ Kansas
 *   [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
 
 Associations
-*   [Angel Capital Association](http://www.angelcapitalassociation.org)
+*   [Angel Capital Association](http://www.angelcapitalassociation.org) and [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [British Private Equity and Venture Capital Association](http://www.bvca.co.uk)
 *   [National Association of Investment Companies](http://www.naicvc.com)
 *   [National Association of Investment Companies Partners](http://www.naicvc.com/resourcecenter.html)
 *   [National Venture Capital Association](http://nvca.org)
 
 Special Rules
+*   [AngelList Help](https://angel.co/help)
 *   [AngelList Accreditation](https://angel.co/help/accreditation)
 *   [Internal Revenue Code section 409A (Valuation) Wikipedia](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
 *   Internal Revenue Code Sections 1202 
