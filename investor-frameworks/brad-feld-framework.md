@@ -368,5 +368,5 @@ Bershire Hathaway
 *   [Berkshire Hathaway holdings as of 6/30/05](http://www.feld.com/archives/2005/08/berkshire-hathaway-holdings-as-of-63005.html) 
 *   [Warren Buffet’s Annual Shareholder Letter](http://www.feld.com/archives/2005/03/warren-buffets-annual-shareholder-letter.html) 
 *   [Requests for The Buffett Letters](http://www.feld.com/archives/2005/04/requests-for-the-buffett-letters.html) 
-*   [WThe Buffett Letters](http://www.feld.com/archives/2005/04/the-buffett-letters.html) 
+*   [The Buffett Letters](http://www.feld.com/archives/2005/04/the-buffett-letters.html) 
 
