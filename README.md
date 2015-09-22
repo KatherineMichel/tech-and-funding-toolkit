@@ -597,6 +597,9 @@ Term Sheets 101
 *   [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
 *   [Venture Hacks Top 10 Term Sheet Hacks](http://www.slideshare.net/venturehacks/top-10-term-sheet-hacks-presentation-725011)
 
+Carried Interest 101
+*   [Wilson Sonsini Goodrich & Rosati: Venture Capital Fund Carried Interests](http://www.slideshare.net/Freddy56/venture-capital-fund-carried-interests)
+
 Document Web Services
 *   [Captable.io](https://captable.io)  
 *   [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
