@@ -605,6 +605,9 @@ IPO
 *   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
 *   [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
 
+Initial Public Offering of Facebook
+*   [Initial Public Offering of Facebook Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook)
+
 Valuation
 *   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 *   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
