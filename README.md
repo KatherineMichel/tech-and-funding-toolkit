@@ -484,6 +484,7 @@ Securities and Exchange Commission (SEC)
 *   [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
 *   [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
 *   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
+*   [Form D Wikipedia (cf. Brad Feld)](https://en.wikipedia.org/wiki/Form_D)
 
 Central Banks/Reserves
 *   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
