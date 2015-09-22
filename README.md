@@ -479,9 +479,11 @@ Associations
 *   [National Venture Capital Association](http://nvca.org)
 
 Special Rules- via AngelList
+*   [SEC No Action Relief Letter](http://www.sec.gov/divisions/marketreg/mr-noaction/2013/angellist-15a1.pdf)
 *   [AngelList Help](https://angel.co/help)
 *   [AngelList Accreditation](https://angel.co/help/accreditation) and [AngelList API / Accreditation](https://angel.co/api/spec/accreditation)
 *   [AngelList General Solicitation (Public Fundraising) 506(c)](https://angel.co/help/general-solicitation)
+*   K-1 Form (Syndicates)
 
 Special Rules- via IRS
 *   [Internal Revenue Code section 409A (Valuation) Wikipedia](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
