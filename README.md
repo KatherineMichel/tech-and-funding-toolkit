@@ -1802,6 +1802,9 @@ Miscellaneous Metrics
 *   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
 *   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
 
+Financial Metrics
+*   [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
+
 #### Internationalization
 
 *   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
