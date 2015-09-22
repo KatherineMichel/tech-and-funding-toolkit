@@ -15,9 +15,9 @@ Table of Contents
   - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
   - [Regulatory, Business Entity](#regulation-business-entity)
   - [Documents and Advice](#documents-and-advice)
-  - [Government and International Data](#government-and-international-data)
   - [Analyst Groups](#analyst-groups)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
+  - [Government and International Data](#government-and-international-data)
   - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
 - [General Research and Learning](#general-research-and-learning)
   - [Learning Resources](#learning-resources)
@@ -246,7 +246,6 @@ Investor Frameworks
 A Few Thoughts
 *   [Bill Gurley: What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
 *   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
-*   [Paul Graham Startup Funding](http://www.paulgraham.com/startupfunding.html) 
 
 Venture Capital and How Funding Works
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
@@ -508,6 +507,12 @@ Regulatory Agencies and Rules- General
 *   [Federal Communications Commission](https://www.fcc.gov)
 *   [Federal Drug Administration](http://www.fda.gov)  
 
+Patent Search and FOIA
+*   [U.S. Patent and Trademark Office](http://www.uspto.gov)
+*   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
+*   [FOIA](http://foia.state.gov)
+*   [Stack Exchange Patents](http://patents.stackexchange.com)
+
 #### Documents and Advice
 
 Law and Transaction Services
@@ -591,10 +596,6 @@ Financial Modelling
 How to Read A Financial Report
 *   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
 
-Investor Vocab
-*   [Investopedia](http://www.investopedia.com)
-*   [Investor Words](http://www.investorwords.com)
-
 Measuring a Moat
 *   [Mauboussin and Callahan: Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
 
@@ -611,6 +612,162 @@ Valuation
 Types of Acquisitions
 *   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
 
+#### Analyst Groups
+
+Analyst Groups
+*   [Accenture](https://www.accenture.com)
+*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
+*   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
+*   [Constellation Research](https://www.constellationr.com)
+*   [Deloitte](http://www2.deloitte.com/us/en.html)
+*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
+*   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+*   [GMO (Jeremy Grantham)](https://www.gmo.com)
+*   [IDC](http://www.idc.com)
+*   [KPMG](http://www.kpmg.com/US/en/Pages/default.aspx)
+*   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
+*   [Nielsen](http://www.nielsen.com/us/en.html)
+*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
+*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
+*   [PricewaterhouseCoopers](http://www.pwc.com) and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
+*   [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
+*   [RedMonk Twitter](https://twitter.com/redmonk)  
+*   [State of the Internet](http://www.stateoftheinternet.com)
+
+Management Consulting Firms
+*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
+
+Think Tanks
+*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+*   [Startup Britain Resources](http://www.startupbritain.org/resources)
+
+#### Business and Tech News Sources
+
+Business News
+*   [Bloomberg Business](http://www.bloomberg.com)  
+*   [BloombergView Tech](http://www.bloombergview.com/topics/tech)
+*   [Business Insider](http://www.businessinsider.com)
+*   [Economist](http://www.economist.com)
+*   [Entrepreneur](http://www.entrepreneur.com)
+*   [Forbes](http://www.forbes.com)
+*   [Fortune](http://fortune.com)
+*   [Inc.](http://www.inc.com)
+*   [New York Times Business](http://www.nytimes.com/pages/business/index.html, ), and [New York Times DealBook](http://dealbook.nytimes.com)
+*   [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+*   [Wealthfront Blog](https://blog.wealthfront.com) 
+
+Markets and Finance
+*   [Google Finance](https://www.google.com/finance) 
+*   [Yahoo Finance](http://finance.yahoo.com)  
+*   [MarketWatch](http://www.marketwatch.com) 
+*   [Nasdaq](http://www.nasdaq.com)
+*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
+*   [Wikinvest](http://www.wikinvest.com)
+
+Investor Vocab
+*   [Investopedia](http://www.investopedia.com)
+*   [Investor Words](http://www.investorwords.com)
+
+Ivy League Business and Tech
+*   [Harvard Business Review](https://hbr.org), [Harvard Business Review, My HBR](https://hbr.org/my-hbr), and [Harvard Business Review Topics](https://hbr.org/topics)
+*   [Harvard Business School Working Knowledge](http://hbswk.hbs.edu)
+*   [MIT Sloan Review](http://sloanreview.mit.edu)
+*   [MIT Technology Review](http://www.technologyreview.com)
+*   [Stanford News](http://news.stanford.edu)
+
+"Discovery Blogs" 
+*   Stanford 
+*   MIT 
+*   UCBerkley 
+*   CMU
+
+Stem Journals 
+*   [ACM Publications](https://www.acm.org/publications) and [Journal of the ACM](http://jacm.acm.org)
+*   [Electrical Engineering Times](http://www.eetimes.com)
+*   [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html)
+*   [New Scientist](https://www.newscientist.com)
+*   [Public Library of Science](https://www.plos.org)
+*   [Science News](https://www.sciencenews.org)
+
+Tech Aggregated, Question and Answer Forums
+*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+*   [Inside Tech](https://www.inside.com/tech)
+*   [Launch Ticker](https://www.launchticker.com)
+*   [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
+*   [Quora Technology](https://www.quora.com/Technology)
+*   [Reddit Technology](https://www.reddit.com/r/technology)
+*   [Stack Exchange Sites Technology](http://stackexchange.com/sites#technology)
+*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
+*   [Stack Overflow](http://stackoverflow.com)
+*   [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
+
+*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
+
+Nuzzel Custom Feeds
+*   [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
+*   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+Tech Periodical
+*   [Mashable Tech](http://mashable.com/category/tech)
+*   [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
+*   [Recode](http://recode.net)
+*   [TechCrunch](http://techcrunch.com)
+*   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
+*   [The Next Web](http://thenextweb.com)
+*   [The Information (subscription based)](https://www.theinformation.com)
+
+Tech Longform
+*   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
+
+Consumer Reports and Popular Mechanics
+*   [Consumer Reports](http://www.consumerreports.org)
+*   [Popular Mechanics](http://www.popularmechanics.com)
+
+Leaderboard
+*   [REDEF Charts](http://redef.com/charts)
+*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
+
+General News Sources- High Brow
+*   [BBC](http://www.bbc.com)
+*   [New York Times](http://www.nytimes.com)
+*   [Wall Street Journal](http://www.wsj.com) and [Wall Street Journal Blog](http://blogs.wsj.com)
+
+Question and Answer Forums
+*   [Quora](http://www.quora.com)
+*   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
+*   [Stack Exchange](http://stackexchange.com)
+*   [Stack Exchange Sites](http://stackexchange.com/sites) 
+*   [Yahoo Answers](https://answers.yahoo.com)
+
+Aggregated News Sources
+*   [Feedly](http://feedly.com)  
+*   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
+*   [Inside Top](https://www.inside.com/top)
+*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
+*   [Matthew Keys](http://matthewkeys.net)
+*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
+*   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
+*   [Pocket](https://getpocket.com)
+*   [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
+*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
+
+Eccentric
+*   [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org), via [Alain de Botton](https://twitter.com/alaindebotton)
+*   [Wait But Why](http://waitbutwhy.com)  
+*   [XKCD](http://xkcd.com)
+
+Directory of News Websites, Today's Front Pages, and NewsDiffs
+*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
+*   [Newseum Today's Front Pages](http://www.newseum.org/todaysfrontpages)
+*   [NewsDiffs](http://newsdiffs.org)
+
+People
+*   [Klout (including Topic Expertise)](https://klout.com/home)
+
+Companies
+*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+*   [Great Place to Work](http://www.greatplacetowork.com)
+
 #### Government and International Data
 
 U.S. Departments
@@ -620,12 +777,6 @@ U.S. Departments
 *   [U.S. Census](http://www.census.gov)
 *   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
 *   [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
-
-Patent Search and FOIA
-*   [U.S. Patent and Trademark Office](http://www.uspto.gov)
-*   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
-*   [FOIA](http://foia.state.gov)
-*   [Stack Exchange Patents](http://patents.stackexchange.com)
 
 U.S. Open Government, Data
 *   [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
@@ -690,161 +841,6 @@ International Info
 *   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
 *   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
-
-#### Analyst Groups
-
-Analyst Groups
-*   [Accenture](https://www.accenture.com)
-*   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
-*   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
-*   [Constellation Research](https://www.constellationr.com)
-*   [Deloitte](http://www2.deloitte.com/us/en.html)
-*   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
-*   [GMO (Jeremy Grantham)](https://www.gmo.com)
-*   [IDC](http://www.idc.com)
-*   [KPMG](http://www.kpmg.com/US/en/Pages/default.aspx)
-*   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
-*   [Nielsen](http://www.nielsen.com/us/en.html)
-*   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
-*   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
-*   [PricewaterhouseCoopers](http://www.pwc.com) and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
-*   [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
-*   [RedMonk Twitter](https://twitter.com/redmonk)  
-*   [State of the Internet](http://www.stateoftheinternet.com)
-
-Management Consulting Firms
-*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
-
-Think Tanks
-*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
-*   [Startup Britain Resources](http://www.startupbritain.org/resources)
-
-#### Business and Tech News Sources
-
-Business News
-*   [Bloomberg Business](http://www.bloomberg.com)  
-*   [BloombergView Tech](http://www.bloombergview.com/topics/tech)
-*   [Business Insider](http://www.businessinsider.com)
-*   [Economist](http://www.economist.com)
-*   [Entrepreneur](http://www.entrepreneur.com)
-*   [Forbes](http://www.forbes.com)
-*   [Fortune](http://fortune.com)
-*   [Inc.](http://www.inc.com)
-*   [New York Times Business](http://www.nytimes.com/pages/business/index.html, ), and [New York Times DealBook](http://dealbook.nytimes.com)
-*   [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
-*   [Wealthfront Blog](https://blog.wealthfront.com) 
-
-Markets and Finance
-*   [Google Finance](https://www.google.com/finance) 
-*   [Yahoo Finance](http://finance.yahoo.com)  
-*   [MarketWatch](http://www.marketwatch.com) 
-*   [Nasdaq](http://www.nasdaq.com)
-*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
-*   [Wikinvest](http://www.wikinvest.com)
-
-Ivy League Business and Tech
-*   [Harvard Business Review](https://hbr.org), [Harvard Business Review, My HBR](https://hbr.org/my-hbr), and [Harvard Business Review Topics](https://hbr.org/topics)
-*   [Harvard Business School Working Knowledge](http://hbswk.hbs.edu)
-*   [MIT Sloan Review](http://sloanreview.mit.edu)
-*   [MIT Technology Review](http://www.technologyreview.com)
-*   [Stanford News](http://news.stanford.edu)
-
-"Discovery Blogs" 
-*   Stanford 
-*   MIT 
-*   UCBerkley 
-*   CMU
-
-Stem Journals 
-*   [ACM Publications](https://www.acm.org/publications) and [Journal of the ACM](http://jacm.acm.org)
-*   [Electrical Engineering Times](http://www.eetimes.com)
-*   [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html)
-*   [New Scientist](https://www.newscientist.com)
-*   [Public Library of Science](https://www.plos.org)
-*   [Science News](https://www.sciencenews.org)
-
-Tech Aggregated, Question and Answer Forums
-*   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-*   [Inside Tech](https://www.inside.com/tech)
-*   [Launch Ticker](https://www.launchticker.com)
-*   [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
-*   [Quora Technology](https://www.quora.com/Technology)
-*   [Reddit Technology](https://www.reddit.com/r/technology)
-*   [Stack Exchange Sites Technology](http://stackexchange.com/sites#technology)
-*   [Programmers Stack Exchange](http://programmers.stackexchange.com)
-*   [Stack Overflow](http://stackoverflow.com)
-*   [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
-
-*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
-
-Nuzzel Custom Feeds
-*   [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-*   [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-Tech Periodical
-*   [Mashable Tech](http://mashable.com/category/tech)
-*   [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
-*   [Recode](http://recode.net)
-*   [TechCrunch](http://techcrunch.com)
-*   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
-*   [The Next Web](http://thenextweb.com)
-*   [The Information (subscription based)](https://www.theinformation.com)
-
-SEC
-*   [SEC](http://www.sec.gov)
-
-Tech Longform
-*   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
-
-Consumer Reports and Popular Mechanics
-*   [Consumer Reports](http://www.consumerreports.org)
-*   [Popular Mechanics](http://www.popularmechanics.com)
-
-Leaderboard
-*   [REDEF Charts](http://redef.com/charts)
-*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
-
-General News Sources- High Brow
-*   [BBC](http://www.bbc.com)
-*   [New York Times](http://www.nytimes.com)
-*   [Wall Street Journal](http://www.wsj.com) and [Wall Street Journal Blog](http://blogs.wsj.com)
-
-Question and Answer Forums
-*   [Quora](http://www.quora.com)
-*   [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
-*   [Stack Exchange](http://stackexchange.com)
-*   [Stack Exchange Sites](http://stackexchange.com/sites) 
-*   [Yahoo Answers](https://answers.yahoo.com)
-
-Aggregated News Sources
-*   [Feedly](http://feedly.com)  
-*   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
-*   [Inside Top](https://www.inside.com/top)
-*   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
-*   [Matthew Keys](http://matthewkeys.net)
-*   [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
-*   [Nuzzel (including Twitter List support)](http://nuzzel.com) 
-*   [Pocket](https://getpocket.com)
-*   [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
-*   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
-
-Eccentric
-*   [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org), via [Alain de Botton](https://twitter.com/alaindebotton)
-*   [Wait But Why](http://waitbutwhy.com)  
-*   [XKCD](http://xkcd.com)
-
-Directory of News Websites, Today's Front Pages, and NewsDiffs
-*   [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
-*   [Newseum Today's Front Pages](http://www.newseum.org/todaysfrontpages)
-*   [NewsDiffs](http://newsdiffs.org)
-
-People
-*   [Klout (including Topic Expertise)](https://klout.com/home)
-
-Companies
-*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
-*   [Great Place to Work](http://www.greatplacetowork.com)
 
 #### Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al
   
