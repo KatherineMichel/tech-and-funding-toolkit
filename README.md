@@ -1804,7 +1804,7 @@ Digital Stats
 #### Metrics
 
 A16Z Metrics
-*   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics)
+*   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
 Business and Financial Metrics
 * 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
