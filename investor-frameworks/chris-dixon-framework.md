@@ -106,6 +106,12 @@ Planning, Business Plans, Law
 *   [Entrepreneurs need to learn some law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
 *   [Don’t be creative about the wrong things](http://cdixon.org/2010/02/16/dont-be-creative-about-the-wrong-things)
 
+Term Sheet
+*   [TheFunded term sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet)
+*   [Don’t shop your term sheet](http://cdixon.org/2009/09/02/dont-shop-your-term-sheet)
+*   [Founder vesting](http://cdixon.org/2009/04/21/founder-vesting)
+*   [Backing out of a term sheet](http://cdixon.org/2010/02/03/backing-out-of-a-term-sheet)
+
 Equity Grants
 *   [Dividing equity between founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders)
 *   [The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant)
@@ -113,11 +119,9 @@ Equity Grants
 *   [Question from a reader](http://cdixon.org/2009/09/02/question-from-a-reader)
 *   [Owning equity in your company should be as common as owning equity in your home](http://cdixon.org/2011/09/13/owning-equity-in-your-company-should-be-as-common-as-owning-equity-in-your-home)
 
-Term Sheet
-*   [TheFunded term sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet)
-*   [Don’t shop your term sheet](http://cdixon.org/2009/09/02/dont-shop-your-term-sheet)
-*   [Founder vesting](http://cdixon.org/2009/04/21/founder-vesting)
-*   [Backing out of a term sheet](http://cdixon.org/2010/02/03/backing-out-of-a-term-sheet)
+Options (Black-Scholes Model)
+*   [Options](http://cdixon.org/2011/05/13/options), [Derivative (finance) Wikipedia](http://en.wikipedia.org/wiki/Derivative_(finance)), [Exogeny Wikipedia](http://en.wikipedia.org/wiki/Exogeny), and [Black–Scholes Model Wikipedia](http://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+*   [Options on early stage companies](http://cdixon.org/2009/08/18/options-on-early-stage-companies), [Volatility (finance) Wikipedia](http://en.wikipedia.org/wiki/Volatility_(finance)), and [ERI's Black-Scholes Calculator](http://www.erieri.com/BlackScholes)
 
 Cost/Price, Revenue/Margin
 *   [What’s the relationship between cost and price?](http://cdixon.org/2009/10/17/whats-the-relationship-between-cost-and-price)
