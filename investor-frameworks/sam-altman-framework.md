@@ -10,6 +10,9 @@ Y Combinator
 *   [Applying to YC](http://blog.samaltman.com/applying-to-yc)
 *   [The Worst Part of YC](http://blog.samaltman.com/the-worst-part-of-yc)
 
+RFS
+*   [New RFS -- Breakthrough Technologies](http://blog.samaltman.com/new-rfs-breakthrough-technologies)
+
 Deals
 *   [Black Swan Seed Rounds](http://blog.samaltman.com/black-swan-seed-rounds)
 *   [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
