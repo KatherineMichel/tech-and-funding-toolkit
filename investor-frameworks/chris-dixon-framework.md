@@ -141,7 +141,7 @@ Ops
 *   [Outsource things you don’t care about](http://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
 *   [The farther away the better](http://cdixon.org/2009/06/22/the-farther-away-the-better)
 *   [“It is the human friction that makes the sparks”](http://cdixon.org/2012/02/20/it-is-the-human-friction-that-makes-the-sparks)
-*   [Agency problems (cf. Fred Wilson)](http://cdixon.org/2012/10/20/agency-problems)
+*   [Agency problems (cf. Fred Wilson)](http://cdixon.org/2012/10/20/agency-problems) and [Principal–Agent Problem Wikipedia](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
 *   [Vanity milestones (cf. Eric Ries)](http://cdixon.org/2012/09/11/vanity-milestones)
 *   [Growth curves of startups](http://cdixon.org/2011/12/07/growth-curves-of-startups)
 
