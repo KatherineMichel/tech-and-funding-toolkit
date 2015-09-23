@@ -253,6 +253,7 @@ Venture Capital and How Funding Works
 Venture Capital Terminology- Documents
 *   [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
 *   [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet) and [Termsheet Investopedia](http://www.investopedia.com/terms/t/termsheet.asp)
+*   [NDA Wikipedia](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
 *   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
 
 Venture Capital Terminology- Funding Instruments
@@ -518,7 +519,7 @@ Accounting Principles
 *   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
 Regulatory Agencies and Rules- Business and Finance Related
-*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
+*   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
 *   [Internal Revenue Service](http://www.irs.gov)
 *   [Securities and Exchange Commission](http://www.sec.gov), [Securities and Exchange Commission Investor Pubs](http://www.sec.gov/investor/pubs.shtml), and [Investor.gov](http://investor.gov)
 *   [Small Business Administration](http://www.sba.gov) 
@@ -529,6 +530,18 @@ Regulatory Agencies and Rules- General
 *   [Federal Aviation Administration](http://www.faa.gov)  
 *   [Federal Communications Commission](https://www.fcc.gov)
 *   [Federal Drug Administration](http://www.fda.gov)  
+
+Ecommerce, Advertising, Marketing
+*   [FTC Advertising and Marketing on the Internet: Rules of the Road](http://www.business.ftc.gov/documents/bus28-advertising-and-marketing-internet-rules-road)
+*   [FTC Business Guide to the FTC's Mail or Telephone Order Merchandise Rule](http://www.business.ftc.gov/documents/bus02-business-guide-mail-and-telephone-order-merchandise-rule)
+*   [FTC CAN-SPAM Act: A Compliance Guide for Business](http://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business)
+*   [SBA Ecommerce Resources](http://www.sba.gov/content/ecommerce-resources)
+*   [SBA Online Advertising Law](http://www.sba.gov/content/online-advertising-law)
+
+Labor Law
+*   [1099 Non-Corporate Independent Contractors Wikipedia](http://en.wikipedia.org/wiki/IRS_tax_forms#1099_series)
+*   [National Labor Relations Act](http://www.nlrb.gov/resources/national-labor-relations-act) and [National Labor Relations Act Wikipedia](http://en.wikipedia.org/wiki/National_Labor_Relations_Act)
+*   [NCA Wikipedia](http://en.wikipedia.org/wiki/Non-compete_clause)
 
 Patent Search and FOIA
 *   [U.S. Patent and Trademark Office](http://www.uspto.gov)
