@@ -177,7 +177,7 @@ Strategies
 *   [Six strategies for overcoming “chicken and egg” problems](http://cdixon.org/2009/08/25/six-strategies-for-overcoming-chicken-and-egg-problems)
 
 Pivoting
-*   [Pivoting](http://cdixon.org/2010/06/15/pivoting)
+*   [Pivoting](http://cdixon.org/2010/06/15/pivoting) and [Sunk Costs Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs)
 *   [Pivoting into a new corporate structure (Founder Collective)](http://cdixon.org/2011/08/02/pivoting-into-a-new-corporate-structure)
 
 Endings
