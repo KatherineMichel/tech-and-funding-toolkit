@@ -509,6 +509,23 @@ Securities and Exchange Commission (SEC)
 *   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
 *   [Form D Wikipedia (cf. Brad Feld)](https://en.wikipedia.org/wiki/Form_D)
 
+Notable SEC Filings
+*   [Box S-1](http://www.sec.gov/Archives/edgar/data/1372612/000119312514112417/d642425ds1.htm)  
+*   [Etsy SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001370637&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Etsy S-1](http://www.sec.gov/Archives/edgar/data/1370637/000119312515077045/d806992ds1.htm)  
+*   [Facebook SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001326801&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Facebook S-1](http://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm)  
+*   [Groupon SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001490281&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Groupon S-1](http://www.sec.gov/Archives/edgar/data/1490281/000104746911005613/a2203913zs-1.htm)  
+*   [Hortonworks S-1](http://www.sec.gov/Archives/edgar/data/1610532/000119312514405390/d748349ds1.htm)  
+*   [HubSpot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001404655&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [HubSpot S-1](http://www.sec.gov/Archives/edgar/data/1404655/000119312514320044/d697256ds1.htm)  
+*   [Linkedin SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001271024&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [LinkedIn S-1](http://www.sec.gov/Archives/edgar/data/1271024/000119312511295272/d250692ds1.htm)  
+*   [RetailMeNot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001475274&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [RetailMeNot S-1](http://www.sec.gov/Archives/edgar/data/1475274/000119312513261481/d498394ds1.htm)  
+*   [Salesforce Marketing Cloud](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001108524&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Salesforce S-1](http://www.sec.gov/Archives/edgar/data/1108524/000119312503096073/ds1.htm)  
+*   [Shutterstock SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001549346&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Shutterstock S-1](http://www.sec.gov/Archives/edgar/data/1549346/000104746913008614/a2216433zs-1.htm)  
+*   [Trulia SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001349454&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Trulia S-1](http://www.sec.gov/Archives/edgar/data/1349454/000119312513089639/d493065ds1.htm)  
+*   [Twitter SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001418091&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Twitter S-1](http://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm)  
+*   [Zendesk SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001463172&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zendesk S-1](http://www.sec.gov/Archives/edgar/data/1463172/000119312514137878/d665368ds1.htm)  
+*   [Zillow SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001334814&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zillow S-1](http://www.sec.gov/Archives/edgar/data/1334814/000119312511100697/ds1.htm )  
+*   [Zynga SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001439404&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zynga S-1](http://www.sec.gov/Archives/edgar/data/1439404/000119312512113668/d312579ds1.htm)  
+
 Central Banks/Reserves
 *   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
 *   [Kansas City Fed](https://www.kansascityfed.org)
