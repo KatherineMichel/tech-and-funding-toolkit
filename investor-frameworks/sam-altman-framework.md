@@ -9,9 +9,13 @@ Y Combinator
 *   [Startups, Role Models, Risk, and Y Combinator](http://blog.samaltman.com/startups-role-models-risk-and-y-combinator)
 *   [Applying to YC](http://blog.samaltman.com/applying-to-yc)
 *   [The Worst Part of YC](http://blog.samaltman.com/the-worst-part-of-yc)
+*   [The Post-YC Slump](http://blog.samaltman.com/the-post-yc-slump)
 
 RFS
 *   [New RFS -- Breakthrough Technologies](http://blog.samaltman.com/new-rfs-breakthrough-technologies)
+
+Projects and Companies
+*   [Projects and Companies](http://blog.samaltman.com/projects-and-companies)
 
 Deals
 *   [Black Swan Seed Rounds](http://blog.samaltman.com/black-swan-seed-rounds)
@@ -23,13 +27,15 @@ Deals
 *   [Employee Retention](http://blog.samaltman.com/employee-retention)
 *   [Employee Equity](http://blog.samaltman.com/employee-equity)
 *   [How to hire](http://blog.samaltman.com/how-to-hire)
-*   [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
+*   [Unit Economics](http://blog.samaltman.com/unit-economics)
+*   [Financial Misstatements](http://blog.samaltman.com/financial-misstatements)
 
 Operations Advice
 *   [Super successful companies](http://blog.samaltman.com/super-successful-companies)
 *   [The Only Way to Grow Huge](http://blog.samaltman.com/the-only-way-to-grow-huge)
 *   [Value is created by doing](http://blog.samaltman.com/value-is-created-by-doing)
 *   [How things get done](http://blog.samaltman.com/how-things-get-done)
+*   [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
 
 Female Founders
 *   [What I've Learned From Female Founders So Far](http://blog.samaltman.com/what-ive-learned-from-female-founders-so-far)
