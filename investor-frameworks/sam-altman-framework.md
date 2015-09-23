@@ -26,12 +26,26 @@ Female Founders
 Non-Technical Founders
 *   [Non-technical founder? Learn to hack](http://blog.samaltman.com/non-technical-founder-learn-to-hack)
 
+Founder Depression
+*   [Founder Depression](http://blog.samaltman.com/founder-depression)
+
 Silicon Valley
 *   [Why Silicon Valley Works](http://blog.samaltman.com/why-silicon-valley-works)
 
 Bubble
 *   [Bubble talk](http://blog.samaltman.com/bubble-talk)
 *   [What to do if a bubble is starting](http://blog.samaltman.com/what-to-do-if-a-bubble-is-starting)
+
+Larger Picture
+*   [Technology predictions](http://blog.samaltman.com/technology-predictions)
+*   [The Economy](http://blog.samaltman.com/the-economy)
+*   [Policy for Growth and Innovation](http://blog.samaltman.com/policy-for-growth-and-innovation)
+*   [The Software Revolution](http://blog.samaltman.com/the-software-revolution)
+*   [The Software Revolution](http://blog.samaltman.com/electrons-and-atoms)
+*   [What happened to innovation?](http://blog.samaltman.com/what-happened-to-innovation-1)
+
+You and Your Research, by Richard Hamming
+*   [You and Your Research, by Richard Hamming](http://blog.samaltman.com/you-and-your-research)
 
 First World 
 *   [A Question](http://blog.samaltman.com/a-question)
