@@ -31,7 +31,7 @@ Starting Up General Advice
 Risk
 *   [Different types of risk](http://cdixon.org/2012/06/06/different-types-of-risk)
 *   [Financing risk](http://cdixon.org/2011/04/21/financing-risk)
-*   [The risks of being a small investor in a private company](http://cdixon.org/2012/04/26/the-risks-of-being-a-small-investor-in-a-private-company)
+*   [The risks of being a small investor in a private company](http://cdixon.org/2012/04/26/the-risks-of-being-a-small-investor-in-a-private-company) and [Jumpstart Our Business Startups Act Wikipedia](http://en.wikipedia.org/wiki/Jumpstart_Our_Business_Startups_Act)
 *   [The problem with investing based on pattern recognition](http://cdixon.org/2012/03/07/the-problem-with-investing-based-on-pattern-recognition)
 
 Research
@@ -174,7 +174,7 @@ Strategies
 
 Pivoting
 *   [Pivoting](http://cdixon.org/2010/06/15/pivoting)
-*   [Pivoting into a new corporate structure](http://cdixon.org/2011/08/02/pivoting-into-a-new-corporate-structure)
+*   [Pivoting into a new corporate structure (Founder Collective)](http://cdixon.org/2011/08/02/pivoting-into-a-new-corporate-structure)
 
 Endings
 *   [When should you give up on an idea? (cf. Bijan Sabet)](http://cdixon.org/2012/05/25/when-should-you-give-up-on-an-idea)
