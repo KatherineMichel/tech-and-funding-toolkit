@@ -269,6 +269,7 @@ Venture Capital Terminology- General
 *   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
+*   [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
 *   [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
 *   [Dual Class Stock (important for public companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
 *   [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
@@ -279,6 +280,8 @@ Venture Capital Terminology- General
 *   [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
 *   [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
 *   [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
+*   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
+*   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
 
 #### VC Firms, Accelerators, Resources
 
