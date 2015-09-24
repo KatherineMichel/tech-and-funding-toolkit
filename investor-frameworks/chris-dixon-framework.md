@@ -82,7 +82,7 @@ Funding Rounds
 *   [Some thoughts on when to raise money, and the current financing environment](http://cdixon.org/2012/06/02/some-thoughts-on-when-to-raise-money-and-the-current-financing-environment)
 
 Seed Financing
-*   [Notes on raising seed financing (cf. Paul Graham)](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing)
+*   [Notes on raising seed financing (cf. Paul Graham)  (See Also: Other Business Plan Resources)](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing) and [The Entrepreneur's Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914)
 *   [What’s the right amount of seed money to raise?](http://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise)
 *   [The most important question to ask before taking seed money](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money)
 *   [Revisited: big VCs investing in seed rounds](http://cdixon.org/2012/04/02/revisited-big-vcs-investing-in-seed-rounds)
@@ -103,13 +103,17 @@ Acquisitions
 Pitch
 *   [Pitching the VC partnership](http://cdixon.org/2009/08/27/pitching-the-vc-partnership)
 *   [Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea)
-*   [Size markets using narratives, not numbers](http://cdixon.org/2010/04/03/size-markets-using-narratives-not-numbers)
+*   [Size markets using narratives, not numbers  (See Also: Other Business Plan Resources)](http://cdixon.org/2010/04/03/size-markets-using-narratives-not-numbers)
 
 Planning, Business Plans, Law
 *   [Plans are nothing, but planning is indispensable](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable)
-*   [Advice for writing startup business plans](http://cdixon.org/2008/04/14/advice-for-writing-startup-business-plans)
+*   [Advice for writing startup business plans (See Also: Other Business Plan Resources)](http://cdixon.org/2008/04/14/advice-for-writing-startup-business-plans)
 *   [Entrepreneurs need to learn some law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
 *   [Don’t be creative about the wrong things](http://cdixon.org/2010/02/16/dont-be-creative-about-the-wrong-things)
+
+Other Business Plan Resources
+*   [David Cowan: How To NOT Write A Business Plan](http://whohastimeforthis.blogspot.com/2005/11/how-to-not-write-business-plan.html)
+*   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
 
 Term Sheet
 *   [TheFunded term sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet)
