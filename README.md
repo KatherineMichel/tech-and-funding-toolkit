@@ -1095,6 +1095,7 @@ Economists, Investors, Philosophers
 *   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 *   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
 *   [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
+*   [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
 
 ### General Research and Learning
 
