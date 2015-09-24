@@ -62,6 +62,9 @@ Incubators, Angel Investors, VC Firms
 *   [Being friendly has become a competitive advantage in VC](http://cdixon.org/2010/01/29/being-friendly-has-become-a-competitive-advantage-in-vc)
 *   [Big timing](http://cdixon.org/2012/02/24/big-timing)
 
+Allocation investing and the social premium
+*   [Allocation investing and the social premium](http://cdixon.org/2011/06/17/allocation-investing-and-the-social-premium), [Discounted Cash Flow](http://en.wikipedia.org/wiki/Discounted_cash_flow), [Capital Asset Pricing Model](http://en.wikipedia.org/wiki/Capital_asset_pricing_model), and [David F. Swenson: Yale Endowment Model Wikipedia](http://en.wikipedia.org/wiki/David_F._Swensen#The_Yale_.28or_Endowment.29_Model)
+
 Equity Versus Convertible
 *   [Equity value](http://cdixon.org/2012/06/06/equity-value)
 *   [Converts versus equity deals (cf. Paul Graham, Mark Suster, Seth Levine)](http://cdixon.org/2010/08/31/converts-versus-equity-deals)
