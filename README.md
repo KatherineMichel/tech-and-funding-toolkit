@@ -1828,6 +1828,30 @@ Presenting Metrics Generally
 * 15 Chart Tricks
 * 16 Order of Operations
 
+Business and Financial Metrics
+* Total Addressable Market (TAM) (Bottom Up/Top Down)
+* ARR (annual recurring revenue) ≠ Annual Run Rate
+* Average Revenue Per User (ARPU)
+* Gross Margins
+* Sell-Through Rate & Inventory Turns (Also: “close rate”, “conversion rate”, and “success rate”)
+
+Economic and Other Defining Qualities
+* Network Effects
+* Virality (viral coefficient or k-value)
+* Economies of Scale (“Scale”)
+
+Other Product and Engagement Metrics
+* Net Promoter Score (NPS)
+* Cohort Analysis
+* Registered Users
+* Active Users (MAUs (monthly active users), WAUs (weekly active users), DAUs (daily active users), and HAUs (hourly active users)), (uniques, visits, time on site, repeat visits)
+* Sources of Traffic (direct traffic, organic traffic, (SEO, SEM)
+* Customer Concentration Risk
+
+Presenting Metrics Generally
+* Truncating the Y-Axis
+* Cumulative Charts, Again
+
 Bill Gurley on Conversion and LTV
 *   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
 *   [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
