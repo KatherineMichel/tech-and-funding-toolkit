@@ -5,7 +5,7 @@ Startup School "Secret" Talk
 *   [Chris Dixon: Startup School "Secret" Talk YouTube](https://www.youtube.com/watch?v=akOazwgDiSI) and [Summary](https://github.com/charlesfeng/startup-school-2013/blob/master/ChrisDixon.md)  
 
 Ideas
-*   [“The great ideas have come from people who weren’t paid to have great ideas”](http://cdixon.org/2014/10/20/for-every-new-good-idea-you-have-there-ten-thousand-foolish-ones)
+*   [“The great ideas have come from people who weren’t paid to have great ideas” (cf. Isaac Asimov)](http://cdixon.org/2014/10/20/for-every-new-good-idea-you-have-there-ten-thousand-foolish-ones)
 *   [“A lot of the best tech startups are ideas that have been around for years”](http://cdixon.org/2014/10/15/a-lot-of-the-best-tech-startups-are-ideas-that-have-been-around-for-years)
 *   [What the smartest people do on the weekend is what everyone else will do during the week in ten years](http://cdixon.org/2013/03/03/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years)
 *   [The next big thing is sitting right in front of you](http://cdixon.org/2011/07/03/the-next-big-thing-is-sitting-right-in-front-of-you)
