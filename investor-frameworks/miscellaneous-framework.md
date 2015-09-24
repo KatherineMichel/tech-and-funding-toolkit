@@ -43,7 +43,8 @@ Should you give advisors equity in your startup?
 *   [Should you give advisors equity in your startup?](http://calacanis.com/2015/01/26/should-you-give-advisors-equity-in-your-startup)
 
 # Seth Levine
-*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
+*   [Beware of ASSHOLE VCs](http://www.sethlevine.com/wp/2011/07/beware-of-asshole-vcs)
+*   [Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
 
 # Stewart Butterfield
-*   [Stewart Butterfield: We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
+*   [We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
