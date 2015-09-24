@@ -438,6 +438,9 @@ Unicorns
 *   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
 
+The Terms Behind the Unicorn Valuations
+*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+
 Companies
 *   [Fortune 500](http://fortune.com/fortune500)
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
@@ -582,6 +585,10 @@ Digital Millennium Copyright Act
 
 #### Documents and Advice
 
+A16Z Funding and Valuation Advice
+*   [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
+*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+
 Law and Transaction Services
 *   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
@@ -680,8 +687,6 @@ Initial Public Offering of Facebook
 *   [Initial Public Offering of Facebook Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook)
 
 Valuation
-*   [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
-*   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
 *   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
 
 Types of Acquisitions
