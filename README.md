@@ -985,7 +985,7 @@ Accounting:
 *   [Double-Entry (Bookkeeping System) Wikipedia](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system)
 *   [Generally Accepted Accounting Principles Wikipedia](https://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
 *   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
-*   [Sunken Cost (Fallacy) Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
+*   [Sunk Cost (Fallacy) Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 
 Economics:
 *   [Agency Problem (Principal Agent Problem) Wikipedia](https://en.wikipedia.org/wiki/Principal-agent_problem)
@@ -1812,8 +1812,8 @@ Business and Financial Metrics
 * 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), (ARR (annual recurring revenue), ARR per customer, MRR (monthly recurring revenue))
 * 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
 * 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
-* 5 LTV (Life Time Value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
-* 6 Gross Merchandise Value (GMV) vs. Revenue
+* 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
+* 6 [Gross Merchandise Value (GMV)](http://www.investopedia.com/terms/g/gross-merchandise-value.asp) vs. Revenue
 * 7 Unearned or Deferred Revenue … and Billings
 * 8 [CAC (Customer Acquisition Cost) Wikipedia](https://en.wikipedia.org/wiki/Customer_acquisition_cost) … Blended vs. Paid, Organic vs. Inorganic
 
@@ -1821,7 +1821,7 @@ Product and Engagement Metrics
 * 9 Active Users
 * 10 Month-on-month (MoM) growth, CMGR 
 * 11 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate) 
-* 12 Burn Rate (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
+* 12 [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate) (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
 * 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
 
 Presenting Metrics Generally
@@ -3918,11 +3918,7 @@ Network
 *   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
 
 Metrics
-*   [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate)
-*   [Customer Acquisition Cost](http://en.wikipedia.org/wiki/Customer_acquisition_cost)
-*   [Customer Lifetime Value Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value)
 *   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
-*   [Gross Merchandise Value](http://www.investopedia.com/terms/g/gross-merchandise-value.asp)
 *   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
 *   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
 *   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
@@ -3945,9 +3941,8 @@ Probability and Statistics
 *   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 
 Public Market
-*   [Dual Class Stock](http://www.investopedia.com/terms/d/dualclassstock.asp)
 *   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
-*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
+*   [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
 
 Demand-Side and Supply Side Economics
