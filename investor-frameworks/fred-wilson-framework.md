@@ -106,7 +106,7 @@ Cap Tables
 *   [Cap Tables](http://avc.com/2011/09/mba-mondays-cap-tables)
 *   [Cap Tables Google Doc](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US#gid=0)
 
-Liquidation Analysis
+Liquidation Analysis (Waterfall)
 *   [Liquidation Analysis](http://avc.com/2011/10/liquidation-analysis)
 *   [Liquidation Analysis (Continued) (cf. Brad Feld and Jason Mendelson)](http://avc.com/2011/10/liquidation-analysis-continued)
 *   [Liquidation Analysis Google Doc (Second Tab)](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&hl=en_US)
