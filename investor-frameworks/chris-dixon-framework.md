@@ -164,6 +164,10 @@ HR
 *   [The credentials trap (cf. Jessica Livingstone, Peter Thiel)](http://cdixon.org/2013/02/13/the-credentials-trap)
 *   [Twelve months notice](http://cdixon.org/2009/10/24/twelve-months-notice)
 
+Exponential Growth
+*   [Exponential curves feel gradual and then sudden](http://cdixon.org/2015/05/12/exponential-curves-feel-gradual-and-then-sudden)
+*   [Non-linearity of technology adoption](http://cdixon.org/2009/09/10/non-linearity-of-technology-adoption)
+
 Strategies
 *   [Come for the tool, stay for the network](http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network)
 *   [Two eras of the internet: pull and push](http://cdixon.org/2014/12/21/two-eras-of-the-internet-pull-and-push)
@@ -192,7 +196,6 @@ Endings
 Adoption
 *   [Three levels of enthusiasm for technology](http://cdixon.org/2014/08/02/three-levels-of-enthusiasm-for-technology)
 *   [Techies and normals](http://cdixon.org/2010/01/22/techies-and-normals)
-*   [Non-linearity of technology adoption](http://cdixon.org/2009/09/10/non-linearity-of-technology-adoption)
 
 Silicon Valley
 *   [It’s not East Coast vs West Coast, it’s about making more places like the Valley](http://cdixon.org/2010/02/27/its-not-east-coast-vs-west-coast-its-about-making-more-places-like-the-valley)
