@@ -4015,7 +4015,7 @@ Laws, Theories, Logic
 *   [Stockdale Paradox Wikipedia](https://en.wikipedia.org/wiki/James_Stockdale#Prisoner_of_war)
 *   [Streetlight Effect Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect)
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
-*   [The Babe Ruth Effect (in Venture Capital)](http://cdixon.org/2015/06/07/the-babe-ruth-effect-in-venture-capital) via [Chris Dixon](https://twitter.com/cdixon) and [Expected Value Wikipedia](https://en.wikipedia.org/wiki/Expected_value)
+*   The Babe Ruth Effect via [Chris Dixon](https://twitter.com/cdixon)
 *   [The Golden Rule Wikipedia](https://en.wikipedia.org/wiki/Golden_Rule)
 *   The Pie Fallacy
 *   [Tiebout Model Wikipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
