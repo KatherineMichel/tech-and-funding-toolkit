@@ -15,6 +15,10 @@ PR and How to Go from a Nobody to a Somebody
 *   [How to go from a nobody to a somebody](http://calacanis.com/2015/01/12/how-to-go-from-a-nobody-to-a-somebody)
 *   [Jason Calacanis On How To Get PR For Your Startup: Fire Your PR Company](http://www.businessinsider.com/2008/8/jason-calacanis-on-how-to-get-pr-for-your-startup-fire-your-pr-company)
 
+Mockups and Presentations
+*   [A mockup is worth a thousand PowerPoint slides (or How to get angels to invest by making mocks)](http://calacanis.com/2015/01/06/a-mockup-is-worth-a-thousand-powerpoint-slides)
+*   [How to give a great presentation](http://calacanis.com/2015/01/03/how-to-give-a-great-presentation)
+
 Angels, Valuation, Seed Series A and B
 *   [The Valuation Game: The triple play strategy to land Triple N angels](http://calacanis.com/2015/01/31/the-valuation-game-the-triple-play-strategy-to-land-triple-n-angels)
 *   [How much should I raise in my angel round? How should I spend it?](http://calacanis.com/2015/01/21/how-much-should-i-raise-in-my-angel-round-how-should-i-spend-it)
