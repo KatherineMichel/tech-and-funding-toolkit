@@ -588,6 +588,7 @@ Law and Transaction Services
 *   [Gunderson Dettmer](http://www.gunder.com)
 *   [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
 *   [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
+*   [Walker Corporate Law Group, PLLC](http://walkercorporatelaw.com)
 *   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
 *   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Fortis](http://fortisrep.com) 
