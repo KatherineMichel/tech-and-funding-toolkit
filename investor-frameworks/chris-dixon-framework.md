@@ -129,7 +129,7 @@ Options (Black-Scholes Model)
 *   [Options on early stage companies](http://cdixon.org/2009/08/18/options-on-early-stage-companies), [Volatility (finance) Wikipedia](http://en.wikipedia.org/wiki/Volatility_(finance)), and [ERI's Black-Scholes Calculator](http://www.erieri.com/BlackScholes)
 
 Cost/Price, Revenue/Margin
-*   [What’s the relationship between cost and price?](http://cdixon.org/2009/10/17/whats-the-relationship-between-cost-and-price)
+*   [What’s the relationship between cost and price?](http://cdixon.org/2009/10/17/whats-the-relationship-between-cost-and-price) and [Robinson–Patman Act Wikipedia](http://en.wikipedia.org/wiki/Robinson%E2%80%93Patman_Act)
 *   [Pricing to the demand curve](http://cdixon.org/2012/07/04/pricing-to-the-demand-curve)
 *   [Revenue vs margin (cf. Fred Wilson, Mark Suster)](http://cdixon.org/2012/01/22/revenue-vs-margin)
 
