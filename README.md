@@ -232,6 +232,7 @@ Table of Contents
 #### Schools of Thought
 *   [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
 *   [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
+*   [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [W. Edwards Deming Wikipedia](http://en.wikipedia.org/wiki/W._Edwards_Deming)
 
