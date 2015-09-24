@@ -170,7 +170,7 @@ HR
 
 Exponential Growth
 *   [Exponential curves feel gradual and then sudden](http://cdixon.org/2015/05/12/exponential-curves-feel-gradual-and-then-sudden)
-*   [Non-linearity of technology adoption](http://cdixon.org/2009/09/10/non-linearity-of-technology-adoption)
+*   [Non-linearity of technology adoption (cf. Joel Spolsky)](http://cdixon.org/2009/09/10/non-linearity-of-technology-adoption)
 
 Strategies
 *   [Come for the tool, stay for the network](http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network)
