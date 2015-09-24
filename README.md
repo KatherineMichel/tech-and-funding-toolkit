@@ -4018,6 +4018,7 @@ Laws, Theories, Logic
 *   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
 *   [Stein's Law Wikipedia](https://en.wikipedia.org/wiki/Herbert_Stein#Philosophy)
 *   [Stockdale Paradox Wikipedia](https://en.wikipedia.org/wiki/James_Stockdale#Prisoner_of_war)
+*   [Streetlight Effect Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect)
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
 *   [The Babe Ruth Effect (in Venture Capital)](http://cdixon.org/2015/06/07/the-babe-ruth-effect-in-venture-capital) via [Chris Dixon](https://twitter.com/cdixon) and [Expected Value Wikipedia](https://en.wikipedia.org/wiki/Expected_value)
 *   [The Golden Rule Wikipedia](https://en.wikipedia.org/wiki/Golden_Rule)
