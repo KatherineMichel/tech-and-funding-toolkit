@@ -67,6 +67,9 @@ Allocation investing and the social premium
 *   [Allocation investing and the social premium](http://cdixon.org/2011/06/17/allocation-investing-and-the-social-premium), [Discounted Cash Flow](http://en.wikipedia.org/wiki/Discounted_cash_flow), [Capital Asset Pricing Model](http://en.wikipedia.org/wiki/Capital_asset_pricing_model), and [David F. Swenson: Yale Endowment Model Wikipedia](http://en.wikipedia.org/wiki/David_F._Swensen#The_Yale_.28or_Endowment.29_Model)
 *   [Institutional failure](http://cdixon.org/2010/01/30/institutional-failure), [Keynesian beauty contest Wikipedia](http://en.wikipedia.org/wiki/Keynesian_beauty_contest), and [Efficient-market hypothesis Wikipedia](http://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 
+Carry Fees
+*   [Money managers should pay the same tax rates as everyone else (cf. Fred Wilson)](http://cdixon.org/2010/06/01/money-managers-should-pay-the-same-tax-rates-as-everyone-else)
+
 Equity Versus Convertible
 *   [Equity value](http://cdixon.org/2012/06/06/equity-value)
 *   [Converts versus equity deals (cf. Paul Graham, Mark Suster, Seth Levine)](http://cdixon.org/2010/08/31/converts-versus-equity-deals)
@@ -239,7 +242,7 @@ Words of Wisdom
 *   [Builders and extractors (cf. Tim O'Reilly)](http://cdixon.org/2010/06/20/builders-and-extractors)
 *   [Man and superman](http://cdixon.org/2009/10/10/man-and-superman)
 *   [The importance of asking people questions](http://cdixon.org/2009/10/06/the-importance-of-asking-people-questions)
-*   [Chris Dixon: Climbing the Wrong Hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill) and [Hill Climbing Wikipedia](http://en.wikipedia.org/wiki/Hill_climbing)
+*   [Climbing the Wrong Hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill) and [Hill Climbing Wikipedia](http://en.wikipedia.org/wiki/Hill_climbing)
 *   [Getting a job in venture capital (cf. Bill Gurley)](http://cdixon.org/2009/09/08/getting-a-job-in-venture-capital)
 *   [Thanks…](http://cdixon.org/2009/09/17/thanks)
 
