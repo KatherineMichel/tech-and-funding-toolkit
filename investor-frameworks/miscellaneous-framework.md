@@ -1,3 +1,5 @@
+A16z
+*   [Mark Cranney: Sales Process](https://a16z.files.wordpress.com/2014/05/cranney_salesprocess.jpg) 
 
 Bijan Sabet
 *   [Jeff Bezos Regret Minimization Framework](http://bijansabet.com/post/147533511/jeff-bezos-regret-minimization-framework)
@@ -13,3 +15,5 @@ Jason Calacanis
 Seth Levine
 *   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
 
+Stewart Butterfield
+*   [Stewart Butterfield: We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
