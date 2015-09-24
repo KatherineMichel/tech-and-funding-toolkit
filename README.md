@@ -539,6 +539,7 @@ Central Banks/Reserves
 
 Accounting Principles
 *   [American Institute of CPAs](http://www.aicpa.org)
+*   [CFA (Chartered Financial Analyst) Institute](www.cfainstitute.org) and [CFA Institute Blog](https://blogs.cfainstitute.org)
 *   [Financial Accounting Standards Board](http://www.fasb.org)
 *   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
@@ -730,6 +731,7 @@ Business News
 *   [Wealthfront Blog](https://blog.wealthfront.com) 
 
 Venture Analysis
+*   [Graham and Doddsville](http://www.grahamanddoddsville.net)
 *   [New York Times DealBook](http://dealbook.nytimes.com)
 *   [PE HUB](https://www.pehub.com)
 *   [PitchBook](http://pitchbook.com)
@@ -752,6 +754,7 @@ Ivy League Business and Tech
 *   [MIT Sloan Review](http://sloanreview.mit.edu)
 *   [MIT Technology Review](http://www.technologyreview.com)
 *   [Stanford News](http://news.stanford.edu)
+*   [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
 
 "Discovery Blogs" 
 *   Stanford 
