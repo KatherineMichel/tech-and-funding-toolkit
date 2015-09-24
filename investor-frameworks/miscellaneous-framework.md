@@ -15,6 +15,15 @@ PR and How to Go from a Nobody to a Somebody
 *   [How to go from a nobody to a somebody](http://calacanis.com/2015/01/12/how-to-go-from-a-nobody-to-a-somebody)
 *   [Jason Calacanis On How To Get PR For Your Startup: Fire Your PR Company](http://www.businessinsider.com/2008/8/jason-calacanis-on-how-to-get-pr-for-your-startup-fire-your-pr-company)
 
+Angels, Valuation, Seed Series A and B
+*   [The Valuation Game: The triple play strategy to land Triple N angels](http://calacanis.com/2015/01/31/the-valuation-game-the-triple-play-strategy-to-land-triple-n-angels)
+*   [How much should I raise in my angel round? How should I spend it?](http://calacanis.com/2015/01/21/how-much-should-i-raise-in-my-angel-round-how-should-i-spend-it)
+*   [The Official Definitions of Seed, Series A, and Series B Rounds](http://calacanis.com/2015/01/18/the-official-definitions-of-seed-series-a-and-series-b-rounds)
+*   [Should you be an angel investor?](http://calacanis.com/2015/01/09/should-you-be-an-angel-investor)
+
+Down Round
+*   [How to manage running out of cash / doing a down round](http://calacanis.com/2015/02/10/how-to-manage-running-out-of-cash-doing-a-down-round)
+
 Unlimited Funding
 *   [Answer this question & you’ll get unlimited funding for your startup](http://calacanis.com/2015/02/04/answer-this-question-youll-get-unlimited-funding-for-your-startup)
 
