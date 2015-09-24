@@ -61,6 +61,7 @@ Incubators, Angel Investors, VC Firms
 *   [VC’s care about the upside case, not the mean](http://cdixon.org/2009/08/31/vcs-care-about-the-upside-case-not-the-mean)
 *   [Being friendly has become a competitive advantage in VC](http://cdixon.org/2010/01/29/being-friendly-has-become-a-competitive-advantage-in-vc)
 *   [Big timing](http://cdixon.org/2012/02/24/big-timing)
+*   [The Babe Ruth Effect (in Venture Capital)](http://cdixon.org/2015/06/07/the-babe-ruth-effect-in-venture-capital), [Loss Aversion Wikipedia](https://en.wikipedia.org/wiki/Loss_aversion), and [Expected Value Wikipedia](https://en.wikipedia.org/wiki/Expected_value)
 
 Allocation investing and the social premium
 *   [Allocation investing and the social premium](http://cdixon.org/2011/06/17/allocation-investing-and-the-social-premium), [Discounted Cash Flow](http://en.wikipedia.org/wiki/Discounted_cash_flow), [Capital Asset Pricing Model](http://en.wikipedia.org/wiki/Capital_asset_pricing_model), and [David F. Swenson: Yale Endowment Model Wikipedia](http://en.wikipedia.org/wiki/David_F._Swensen#The_Yale_.28or_Endowment.29_Model)
