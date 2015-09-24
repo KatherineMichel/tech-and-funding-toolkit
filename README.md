@@ -439,7 +439,9 @@ Unicorns
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
 
 Companies
+*   [Fortune 500](http://fortune.com/fortune500)
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
+*   [New York Stock Exchange](https://www.nyse.com)
 
 Industry and Product Classifications
 *   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
