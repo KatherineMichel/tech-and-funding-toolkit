@@ -76,3 +76,20 @@ Form D and Stealth Mode
 Fair Valuation (FAS 157, PEIGG Valuation Guidelines)
 *   [How Do Limited Partners Feel About "Fair Valuation" Guidelines?](http://www.askthevc.com/wp/archives/2007/01/how-do-limited-partners-feel-about-fair-valuation-guidelines.html)
 
+Board of Advisors
+*   [Are Advisory Boards Helpful?](http://www.askthevc.com/wp/archives/2007/03/are-advisory-boards-helpful.html)
+
+Board of Directors
+*   [The Role of an Early Stage Board of Directors](http://www.askthevc.com/wp/archives/2007/10/the-role-of-an-early-stage-board-of-directors.html)
+*   [Creating a Board of Directors During an Angel Round](http://www.askthevc.com/wp/archives/2007/08/creating-a-board-of-directors-during-an-angel-round.html)
+*   [How to Fill Early Board Positions In A Pre-Seed Company](http://www.askthevc.com/wp/archives/2007/03/how-to-fill-early-board-positions-in-a-pre-seed-company.html)
+
+Board Package
+*   [What’s An Appropriate Equity Package For A Founding Board Member?](http://www.askthevc.com/wp/archives/2008/06/whats-an-appropriate-equity-package-for-a-founding-board-member.html)
+*   [Concluding Thoughts about Good Board Packages](http://www.askthevc.com/wp/archives/2007/04/concluding-thoughts-about-good-board-packages.html)
+*   [Board Package Series – Overview and CEO Critical Thoughts](http://www.askthevc.com/wp/archives/2007/04/board-package-series-overview-and-ceo-critical-thoughts.html)
+*   [Board Package Series – Business Reporting](http://www.askthevc.com/wp/archives/2007/04/board-package-series-business-reporting.html)
+*   [Board Package Series – Board Administrative Issues](http://www.askthevc.com/wp/archives/2007/04/board-package-series-board-administrative-issues.html)
+*   [How to Create A Good Board Package](http://www.askthevc.com/wp/archives/2007/04/how-to-create-a-good-board-package.html)
+*   [Creating a Good Board Package Series](http://www.askthevc.com/wp/archives/2007/04/creating-a-good-board-package-series.html)
+
