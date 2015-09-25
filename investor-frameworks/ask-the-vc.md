@@ -39,7 +39,8 @@ Dilution
 *   [Is Dilution Considered When Talking About Equity Ranges?](http://www.askthevc.com/wp/archives/2008/08/is-dilution-considered-when-talking-about-equity-ranges.html)
 *   [How Do VC’s Determine Company Valuations?](http://www.askthevc.com/wp/archives/2007/01/how-do-vcs-determine-company-valuations.html)
 
-
+Redemption Rights
+*   [Do Venture Capitalist Ever Use Their Redemption Rights?](http://www.askthevc.com/wp/archives/2007/05/do-venture-capitalist-ever-use-their-redemption-rights.html)
 
 Non-Competes
-http://www.askthevc.com/wp/archives/2007/12/should-venture-backed-companies-require-non-competes.html 
+*   [Should Venture-backed Companies Require Non-Competes? (cf. Fred Wilson, Bijan Sabet](http://www.askthevc.com/wp/archives/2007/12/should-venture-backed-companies-require-non-competes.html)
