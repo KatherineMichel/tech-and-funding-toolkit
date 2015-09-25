@@ -23,6 +23,12 @@ Fundraising and SEC
 Tranched Financings (Milestones)
 *   [Tranched Financings](http://www.askthevc.com/wp/archives/2008/04/tranched-financings.html)
 
+Pro-Rata
+*   [Pro-rata Rights For Angels](http://www.askthevc.com/wp/archives/2012/06/pro-rata-rights-for-angels.html)
+
+Supra Pro-Rata
+*   [What are Supra Pro-Rata Rights?](http://www.askthevc.com/wp/archives/2007/06/what-are-supra-pro-rata-rights.html)
+
 Anti-Dilution
 *   [Angels – Keep It Simple and Fair](http://www.askthevc.com/wp/archives/2008/12/angels-keep-it-simple-and-fair.html)
 
