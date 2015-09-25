@@ -16,6 +16,9 @@ Capital Structure
 *   [What Do Venture Capitalists Think About Venture Debt?](http://www.askthevc.com/wp/archives/2007/07/what-do-venture-capitalists-think-about-venture-debt.html )
 *   [What is a Typical Capital Structure Like?](http://www.askthevc.com/wp/archives/2006/12/what-is-a-typical-capital-structure-like.html)
 
+NDAs
+*   [VCs and Non-Disclosure Agreements](http://www.askthevc.com/wp/archives/2007/01/vcs-and-non-disclosure-agreements.html)
+
 Fundraising and SEC
 *   [Can I Be Creative In My Financing Approaches Without Committing a Securities Violation?](http://www.askthevc.com/wp/archives/2007/06/can-i-be-creative-in-my-financing-approaches-without-committing-a-securities-violation.html) and [Blue Sky Law Wikipedia](https://en.wikipedia.org/wiki/Blue_sky_law)
 *   [How Can An Entrepreneur Fundraise Without Getting In Trouble With the SEC?](http://www.askthevc.com/wp/archives/2007/10/how-can-an-entrepreneur-fundraise-without-getting-in-trouble-with-the-sec.html)
@@ -35,3 +38,8 @@ Anti-Dilution
 Dilution
 *   [Is Dilution Considered When Talking About Equity Ranges?](http://www.askthevc.com/wp/archives/2008/08/is-dilution-considered-when-talking-about-equity-ranges.html)
 *   [How Do VC’s Determine Company Valuations?](http://www.askthevc.com/wp/archives/2007/01/how-do-vcs-determine-company-valuations.html)
+
+
+
+Non-Competes
+http://www.askthevc.com/wp/archives/2007/12/should-venture-backed-companies-require-non-competes.html 
