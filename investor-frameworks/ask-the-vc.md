@@ -15,3 +15,6 @@ Capital Structure
 *   [Is There A Distinction Between Seed and Early Stage](http://www.askthevc.com/wp/archives/2007/07/is-there-a-distinction-between-seed-and-early-stage.html)
 *   [What Do Venture Capitalists Think About Venture Debt?](http://www.askthevc.com/wp/archives/2007/07/what-do-venture-capitalists-think-about-venture-debt.html )
 *   [What is a Typical Capital Structure Like?](http://www.askthevc.com/wp/archives/2006/12/what-is-a-typical-capital-structure-like.html)
+
+Tranched Financings (Milestones)
+*   [Tranched Financings](http://www.askthevc.com/wp/archives/2008/04/tranched-financings.html)
