@@ -54,6 +54,9 @@ Information Rights
 Veto Rights
 *   [Do Venture Capitalists Always Get Veto Rights On A Company Raising More Money?](http://www.askthevc.com/wp/archives/2008/01/do-venture-capitalists-always-get-veto-rights-on-a-company-raising-more-money.html)
 
+Employment Contracts
+*   [Do Venture Capitalist Like To Change Pre-existing Employment Contracts?](http://www.askthevc.com/wp/archives/2007/06/do-venture-capitalist-like-to-change-pre-existing-employment-contracts.html)
+
 Indemnification Agreements
 *   [Why Is My Venture Capitalist Wasting My Money By Changing My Indemnification Agreements?](http://www.askthevc.com/wp/archives/2008/12/why-is-my-venture-capitalist-wasting-my-money-by-changing-my-indemnification-agreements.html)
 
