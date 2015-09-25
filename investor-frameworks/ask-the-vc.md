@@ -66,3 +66,10 @@ Indemnification Agreements
 Form D and Stealth Mode
 *   [Do You Need To File A Form D With A Financing?](http://www.askthevc.com/wp/archives/2012/08/do-you-need-to-file-a-form-d-with-a-financing.html)
 
+409A
+*   [Final Regulations Under Section 409A Released](http://www.askthevc.com/wp/archives/2007/04/final-regulations-under-section-409a-released.html)
+*   [California Gone "Mad" In Enforcement of 409A](http://www.askthevc.com/wp/archives/2007/01/california-gone-mad-in-enforcement-of-409a.html)
+
+Fair Valuation (FAS 157, PEIGG Valuation Guidelines)
+*   [How Do Limited Partners Feel About "Fair Valuation" Guidelines?](http://www.askthevc.com/wp/archives/2007/01/how-do-limited-partners-feel-about-fair-valuation-guidelines.html)
+
