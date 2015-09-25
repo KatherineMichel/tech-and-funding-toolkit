@@ -44,3 +44,6 @@ Redemption Rights
 
 Non-Competes
 *   [Should Venture-backed Companies Require Non-Competes? (cf. Fred Wilson, Bijan Sabet)](http://www.askthevc.com/wp/archives/2007/12/should-venture-backed-companies-require-non-competes.html)
+
+Indemnification Agreements
+*   [Why Is My Venture Capitalist Wasting My Money By Changing My Indemnification Agreements?](http://www.askthevc.com/wp/archives/2008/12/why-is-my-venture-capitalist-wasting-my-money-by-changing-my-indemnification-agreements.html)
