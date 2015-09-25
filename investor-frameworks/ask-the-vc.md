@@ -57,6 +57,9 @@ Information Rights
 Veto Rights
 *   [Do Venture Capitalists Always Get Veto Rights On A Company Raising More Money?](http://www.askthevc.com/wp/archives/2008/01/do-venture-capitalists-always-get-veto-rights-on-a-company-raising-more-money.html)
 
+Control Premium
+*   [Do Venture Deals Include Control Premiums?](http://www.askthevc.com/wp/archives/2007/06/do-venture-deals-include-control-premiums.html)
+
 Employment Contracts
 *   [Do Venture Capitalist Like To Change Pre-existing Employment Contracts?](http://www.askthevc.com/wp/archives/2007/06/do-venture-capitalist-like-to-change-pre-existing-employment-contracts.html)
 
