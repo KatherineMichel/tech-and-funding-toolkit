@@ -48,6 +48,9 @@ Non-Competes
 Audited Financials
 *   [Do Venture Capitalists Demand Audited Financials?](http://www.askthevc.com/wp/archives/2008/02/do-venture-capitalists-demand-audited-financials.html)
 
+Information Rights
+*   [What Are The Appropriate Information Rights for Angel Investors?](http://www.askthevc.com/wp/archives/2007/07/what-are-the-appropriate-information-rights-for-angel-investors.html)
+
 Indemnification Agreements
 *   [Why Is My Venture Capitalist Wasting My Money By Changing My Indemnification Agreements?](http://www.askthevc.com/wp/archives/2008/12/why-is-my-venture-capitalist-wasting-my-money-by-changing-my-indemnification-agreements.html)
 
