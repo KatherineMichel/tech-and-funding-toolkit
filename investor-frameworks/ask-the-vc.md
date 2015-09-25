@@ -51,6 +51,9 @@ Audited Financials
 Information Rights
 *   [What Are The Appropriate Information Rights for Angel Investors?](http://www.askthevc.com/wp/archives/2007/07/what-are-the-appropriate-information-rights-for-angel-investors.html)
 
+Veto Rights
+*   [Do Venture Capitalists Always Get Veto Rights On A Company Raising More Money?](http://www.askthevc.com/wp/archives/2008/01/do-venture-capitalists-always-get-veto-rights-on-a-company-raising-more-money.html)
+
 Indemnification Agreements
 *   [Why Is My Venture Capitalist Wasting My Money By Changing My Indemnification Agreements?](http://www.askthevc.com/wp/archives/2008/12/why-is-my-venture-capitalist-wasting-my-money-by-changing-my-indemnification-agreements.html)
 
