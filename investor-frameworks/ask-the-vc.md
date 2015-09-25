@@ -50,3 +50,7 @@ Audited Financials
 
 Indemnification Agreements
 *   [Why Is My Venture Capitalist Wasting My Money By Changing My Indemnification Agreements?](http://www.askthevc.com/wp/archives/2008/12/why-is-my-venture-capitalist-wasting-my-money-by-changing-my-indemnification-agreements.html)
+
+Form D and Stealth Mode
+*   [Do You Need To File A Form D With A Financing?](http://www.askthevc.com/wp/archives/2012/08/do-you-need-to-file-a-form-d-with-a-financing.html)
+
