@@ -26,6 +26,9 @@ Fundraising and SEC
 Tranched Financings (Milestones)
 *   [Tranched Financings](http://www.askthevc.com/wp/archives/2008/04/tranched-financings.html)
 
+PPM
+*   [Investing In An Angel Deal Without A PPM?](http://www.askthevc.com/wp/archives/2007/01/investing-in-an-angel-deal-without-a-ppm.html)
+
 Pro-Rata
 *   [Pro-rata Rights For Angels (cf. Joanne Wilson)](http://www.askthevc.com/wp/archives/2012/06/pro-rata-rights-for-angels.html)
 
