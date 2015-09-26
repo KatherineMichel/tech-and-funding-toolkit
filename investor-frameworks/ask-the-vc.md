@@ -91,6 +91,9 @@ Form D and Stealth Mode
 Fair Valuation (FAS 157, PEIGG Valuation Guidelines)
 *   [How Do Limited Partners Feel About "Fair Valuation" Guidelines?](http://www.askthevc.com/wp/archives/2007/01/how-do-limited-partners-feel-about-fair-valuation-guidelines.html)
 
+Shareholder Representative
+*   [Should I Be A Shareholder Representative?](http://www.askthevc.com/wp/archives/2008/05/should-i-be-a-shareholder-representative.html)
+
 Board of Advisors
 *   [Are Advisory Boards Helpful?](http://www.askthevc.com/wp/archives/2007/03/are-advisory-boards-helpful.html)
 
@@ -108,3 +111,5 @@ Board Package
 *   [How to Create A Good Board Package](http://www.askthevc.com/wp/archives/2007/04/how-to-create-a-good-board-package.html)
 *   [Creating a Good Board Package Series](http://www.askthevc.com/wp/archives/2007/04/creating-a-good-board-package-series.html)
 
+Tax on Carried Interest
+*   [How Will the New Tax Laws on Carry Affect Venture Capitalists?](http://www.askthevc.com/wp/archives/2007/08/how-will-the-new-tax-laws-on-carry-affect-venture-capitalists.html)
