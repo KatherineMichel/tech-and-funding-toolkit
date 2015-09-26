@@ -302,6 +302,10 @@ Legal Fees
 *   [How Much Should I Pay Lawyers To Complete My Financing?](http://www.askthevc.com/wp/archives/2007/07/how-much-should-i-pay-lawyers-to-complete-my-financing.html)
 *   [What Are Standard Legal Fee Arrangments For Un-Funded Startups?](http://www.askthevc.com/wp/archives/2007/06/what-are-standard-legal-fee-arrangments-for-un-funded-startups.html)
 
+Intellectual Property
+*   [Should I Protect My IP Before I Try To Build My Product?](http://www.askthevc.com/wp/archives/2008/05/should-i-protect-my-ip-before-i-try-to-build-my-product.html)
+*   [How Is Intellectual Property Split Between Separating Founders?](http://www.askthevc.com/wp/archives/2007/02/how-is-intellectual-property-split-between-separating-founders.html)
+
 Tax on Carried Interest
 *   [How Will the New Tax Laws on Carry Affect Venture Capitalists?](http://www.askthevc.com/wp/archives/2007/08/how-will-the-new-tax-laws-on-carry-affect-venture-capitalists.html)
 
