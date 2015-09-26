@@ -35,6 +35,9 @@ Business Plan
 *   [Should I Send My Business Plan To Every VC Firm I Have An Email Address For?](http://www.askthevc.com/wp/archives/2008/05/should-i-send-my-business-plan-to-every-vc-firm-i-have-an-email-address-for.html)
 *   [Do Venture Investors Require Business Plans?](http://www.askthevc.com/wp/archives/2007/06/do-venture-investors-require-business-plans.html)
 
+Seed Documents
+*   [Model Seed Documents – Direct From Techstars](http://www.askthevc.com/wp/archives/2009/02/model-seed-documents-direct-from-techstars.html)
+
 Letter of Intent
 *   [Are “Letters of Intent” Useful in VC Meetings](http://www.askthevc.com/wp/archives/2007/03/are-letters-of-intent-useful-in-vc-meetings.html)
 
@@ -46,6 +49,10 @@ Term Sheet- General
 *   [Term Sheet for an LLC vs. a Corporation](http://www.askthevc.com/wp/archives/2007/11/term-sheet-for-an-llc-vs-a-corporation.html)
 *   [Example Term Sheet](http://www.askthevc.com/wp/archives/2007/02/example-term-sheet.html)
 *   [How To Craft A Term Sheet?](http://www.askthevc.com/wp/archives/2007/01/how-to-craft-a-term-sheet.html)
+
+Cap Tables
+*   [Spreadsheets To Model Cap Tables](http://www.askthevc.com/wp/archives/2011/08/spreadsheets-to-model-cap-tables.html)
+*   [Model Cap Tables With VCHub](http://www.askthevc.com/wp/archives/2011/08/model-cap-tables-with-vchub.html)
 
 PPM
 *   [Investing In An Angel Deal Without A PPM?](http://www.askthevc.com/wp/archives/2007/01/investing-in-an-angel-deal-without-a-ppm.html)
