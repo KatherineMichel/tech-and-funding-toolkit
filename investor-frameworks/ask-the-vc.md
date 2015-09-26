@@ -240,5 +240,15 @@ Product
 *   [What Does A VC Mean When He Says Your Product Is “A Feature And Not A Company”?](http://www.askthevc.com/wp/archives/2012/01/what-does-a-vc-mean-when-he-says-your-product-is-a-feature-and-not-a-company.html)
 *   [Do VCs Care About Product Managers?](http://www.askthevc.com/wp/archives/2007/01/do-vcs-care-about-product-managers.html)
 
+Lawyers
+*   [Should A Company Use A Founder’s Spouse As Legal Counsel?](http://www.askthevc.com/wp/archives/2007/02/should-a-company-use-a-founders-spouse-as-legal-counsel.html)
+*   [When Is It Appropriate To Bring Your Lawyer Into Your Deal?](http://www.askthevc.com/wp/archives/2007/02/when-is-it-appropriate-to-bring-your-lawyer-into-your-deal.html)
+*   [How Do You Find A Good Law Firm?](http://www.askthevc.com/wp/archives/2007/01/how-do-you-find-a-good-law-firm.html)
+
+Legal Fees
+*   [Should I Pay My Lawyer A Success Fee For Venture Capital Intros?](http://www.askthevc.com/wp/archives/2008/07/should-i-pay-my-lawyer-a-success-fee-for-venture-capital-intros.html)
+*   [How Much Should I Pay Lawyers To Complete My Financing?](http://www.askthevc.com/wp/archives/2007/07/how-much-should-i-pay-lawyers-to-complete-my-financing.html)
+*   [What Are Standard Legal Fee Arrangments For Un-Funded Startups?](http://www.askthevc.com/wp/archives/2007/06/what-are-standard-legal-fee-arrangments-for-un-funded-startups.html)
+
 Tax on Carried Interest
 *   [How Will the New Tax Laws on Carry Affect Venture Capitalists?](http://www.askthevc.com/wp/archives/2007/08/how-will-the-new-tax-laws-on-carry-affect-venture-capitalists.html)
