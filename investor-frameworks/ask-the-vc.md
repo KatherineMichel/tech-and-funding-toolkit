@@ -29,6 +29,12 @@ Tranched Financings (Milestones)
 Communicating with Your Angel Investors
 *   [Communicating with Your Angel Investors](http://www.askthevc.com/wp/archives/2007/04/communicating-with-your-angel-investors.html)
 
+Business Plan
+*   [What Should You Do When An Investor Asks You For A Business Plan?](http://www.askthevc.com/wp/archives/2011/09/what-should-you-do-when-an-investor-asks-you-for-a-business-plan.html)
+*   [Should I Send My Business Plan to a VC?](http://www.askthevc.com/wp/archives/2009/01/should-i-send-my-business-plan-to-a-vc.html)
+*   [Should I Send My Business Plan To Every VC Firm I Have An Email Address For?](http://www.askthevc.com/wp/archives/2008/05/should-i-send-my-business-plan-to-every-vc-firm-i-have-an-email-address-for.html)
+*   [Do Venture Investors Require Business Plans?](http://www.askthevc.com/wp/archives/2007/06/do-venture-investors-require-business-plans.html)
+
 Letter of Intent
 *   [Are “Letters of Intent” Useful in VC Meetings](http://www.askthevc.com/wp/archives/2007/03/are-letters-of-intent-useful-in-vc-meetings.html)
 
