@@ -36,6 +36,7 @@ Twitter Lists and Nuzzel
 Language
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
 *   [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), and [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs)
+*   [Medium en Español](https://medium.com/espanol)
 
 Social Media and Entertainment
 *   [Blogspot](http://katherinemichel.blogspot.co.uk) 
