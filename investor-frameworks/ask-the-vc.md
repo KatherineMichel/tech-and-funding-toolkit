@@ -172,7 +172,6 @@ Options
 *   [I Cut The Wrong Deal With An Advisor – Should I Kill It?](http://www.askthevc.com/wp/archives/2008/04/i-cut-the-wrong-deal-with-an-advisor-should-i-kill-it.html)
 *   [What Happens to Unvested Options in a Merger?](http://www.askthevc.com/wp/archives/2008/01/what-happens-to-unvested-options-in-a-merger.html)
 *   [Equity Comp in Turnarounds and Consolidations](http://www.askthevc.com/wp/archives/2008/01/equity-comp-in-turnarounds-and-consolidations.html)
-*   [Can Employee #1000 Get Rich Off of Stock Options?](http://www.askthevc.com/wp/archives/2007/12/can-employee-1000-get-rich-off-of-stock-options.html)
 *   [What Are Typical Employment Contract Terms and Severance Benefits for a Startup?](http://www.askthevc.com/wp/archives/2007/11/what-are-typical-employment-contract-terms-and-severance-benefits-for-a-startup.html)
 *   [Compensation In A Very Early Stage Company](http://www.askthevc.com/wp/archives/2007/11/compensation-in-a-very-early-stage-company.html)
 *   [Generic Range of Equity Desired By a VC for Round 1 or 2](http://www.askthevc.com/wp/archives/2007/11/generic-range-of-equity-desired-by-a-vc-for-round-1-or-2.html)
@@ -190,6 +189,14 @@ Options
 *   [What’s A Reasonable Starting Point For An Option Pool?](http://www.askthevc.com/wp/archives/2007/02/whats-a-reasonable-starting-point-for-an-option-pool.html)
 *   [The IRS Is Urging Companies To Pay Liabilities Of Workers With Backdated Options.](http://www.askthevc.com/wp/archives/2007/02/the-irs-is-urging-companies-to-pay-liabilities-of-workers-with-backdated-options.html)
 *   [Why Don’t Companies Issue Non-Voting Stock To Employees / Investors?](http://www.askthevc.com/wp/archives/2007/01/why-dont-companies-issue-non-voting-stock-to-employees-investors.html)
+
+Founding Ownership and Exit
+*   [Can Employee #1000 Get Rich Off of Stock Options?](http://www.askthevc.com/wp/archives/2007/12/can-employee-1000-get-rich-off-of-stock-options.html)
+*   [Will A Talented Entrepreneur Make $1m From His Startup?](http://www.askthevc.com/wp/archives/2007/12/will-a-talented-entrepreneur-make-1m-from-his-startup.html)
+*   [Can Founders Cash Out At Time of Venture Investment?](http://www.askthevc.com/wp/archives/2007/06/can-founders-cash-out-at-time-of-venture-investment.html)
+*   [What Percentage of A Company Does a Typical Entrepreneur Own at Exit?](http://www.askthevc.com/wp/archives/2007/05/what-percentage-of-a-company-does-a-typical-entrepreneur-own-at-exit.html)
+*   [What Do Venture Capitalists Think About Founders Leaving and Starting New Businesses?](http://www.askthevc.com/wp/archives/2007/02/what-do-venture-capitalists-think-about-founders-leaving-and-starting-new-businesses.html)
+*   [How Do You Deal with Founders Stock When Some of the Founders Leave the Company Early?](http://www.askthevc.com/wp/archives/2006/12/how-do-you-deal-with-founders-stock-when-some-of-the-founders-leave-the-company-early.html)
 
 Finance and Accounting
 *   [Budgets in Early Stage Companies](http://www.askthevc.com/wp/archives/2007/05/budgets-in-early-stage-companies.html)
