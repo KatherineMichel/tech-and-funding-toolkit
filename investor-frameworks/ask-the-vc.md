@@ -202,5 +202,9 @@ Expense or Capitalize Engineering Costs
 Reimbursable Costs
 *   [What Costs Are Considered Reimbursable To The Founders Of A Startup Company?](http://www.askthevc.com/wp/archives/2012/09/what-costs-are-considered-reimbursable-to-the-founders-of-a-startup-company.html)
 
+Product
+*   [What Does A VC Mean When He Says Your Product Is “A Feature And Not A Company”?](http://www.askthevc.com/wp/archives/2012/01/what-does-a-vc-mean-when-he-says-your-product-is-a-feature-and-not-a-company.html)
+*   [Do VCs Care About Product Managers?](http://www.askthevc.com/wp/archives/2007/01/do-vcs-care-about-product-managers.html)
+
 Tax on Carried Interest
 *   [How Will the New Tax Laws on Carry Affect Venture Capitalists?](http://www.askthevc.com/wp/archives/2007/08/how-will-the-new-tax-laws-on-carry-affect-venture-capitalists.html)
