@@ -157,6 +157,12 @@ Board Package
 *   [How to Create A Good Board Package](http://www.askthevc.com/wp/archives/2007/04/how-to-create-a-good-board-package.html)
 *   [Creating a Good Board Package Series](http://www.askthevc.com/wp/archives/2007/04/creating-a-good-board-package-series.html)
 
+CEO
+*   [What Do I Say When I Don’t Think A Founder Will Be An Effective CEO?](http://www.askthevc.com/wp/archives/2008/04/what-do-i-say-when-i-dont-think-a-founder-will-be-an-effective-ceo.html)
+*   [Handling a Poor Reference on a New CEO Candidate](http://www.askthevc.com/wp/archives/2007/09/handling-a-poor-reference-on-a-new-ceo-candidate.html)
+*   [How Can You Replace the CEO of a Struggling Angel-Funded Company?](http://www.askthevc.com/wp/archives/2007/06/how-can-you-replace-the-ceo-of-a-struggling-angel-funded-company.html)
+*   [What Do Venture Capitalists Think About Founders Looking For A New CEO?](http://www.askthevc.com/wp/archives/2007/03/what-do-venture-capitalists-think-about-founders-looking-for-a-new-ceo.html)
+
 Roles
 *   [What’s the Difference between a CEO and COO?](http://www.askthevc.com/wp/archives/2008/03/whats-the-difference-between-a-ceo-and-coo.html)
 
