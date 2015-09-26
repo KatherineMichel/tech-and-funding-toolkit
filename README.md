@@ -954,6 +954,7 @@ Charlie Munger and Rational Decisions via [Tren Griffin](https://twitter.com/tre
 *   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
 *   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
 *   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
+*   [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 
 Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
