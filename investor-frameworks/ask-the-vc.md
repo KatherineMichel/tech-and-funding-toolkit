@@ -125,5 +125,11 @@ Finance and Accounting
 *   [Burn Rate for a Seed Financing](http://www.askthevc.com/wp/archives/2007/05/burn-rate-for-a-seed-financing.html)
 *   [How Do You Calculate Operating Cash Flow?](http://www.askthevc.com/wp/archives/2007/05/how-do-you-calculate-operating-cash-flow.html)
 
+Expense or Capitalize Engineering Costs
+*   [Should You Expense or Capitalize Your Engineering Costs?](http://www.askthevc.com/wp/archives/2008/05/should-you-expense-or-capitalize-your-engineering-costs.html)
+
+Reimbursable Costs
+*   [What Costs Are Considered Reimbursable To The Founders Of A Startup Company?](http://www.askthevc.com/wp/archives/2012/09/what-costs-are-considered-reimbursable-to-the-founders-of-a-startup-company.html)
+
 Tax on Carried Interest
 *   [How Will the New Tax Laws on Carry Affect Venture Capitalists?](http://www.askthevc.com/wp/archives/2007/08/how-will-the-new-tax-laws-on-carry-affect-venture-capitalists.html)
