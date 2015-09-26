@@ -304,3 +304,6 @@ Legal Fees
 
 Tax on Carried Interest
 *   [How Will the New Tax Laws on Carry Affect Venture Capitalists?](http://www.askthevc.com/wp/archives/2007/08/how-will-the-new-tax-laws-on-carry-affect-venture-capitalists.html)
+
+280G and Parachute Payments
+*   [What on Earth is 280G? What is a Parachute Payment?](http://www.askthevc.com/wp/archives/2006/12/what-on-earth-is-280g-what-is-a-parachute-payment.html)
