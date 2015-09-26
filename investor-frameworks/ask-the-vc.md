@@ -86,6 +86,20 @@ Business Plan
 *   [Should I Send My Business Plan To Every VC Firm I Have An Email Address For?](http://www.askthevc.com/wp/archives/2008/05/should-i-send-my-business-plan-to-every-vc-firm-i-have-an-email-address-for.html)
 *   [Do Venture Investors Require Business Plans?](http://www.askthevc.com/wp/archives/2007/06/do-venture-investors-require-business-plans.html)
 
+Projections, Addressable Market, Marketing, Launch
+*   [What Is The Appropriate Time Horizon Of A Financial Model for VC’s?](http://www.askthevc.com/wp/archives/2013/01/what-is-the-appropriate-time-horizon-of-a-financial-model-for-vcs.html)
+*   [Do VC’s Guess The Exit At The Beginning?](http://www.askthevc.com/wp/archives/2009/04/do-vcs-guess-the-exit-at-the-beginning.html)
+*   [Does The Concept of Addressable Market Matter?](http://www.askthevc.com/wp/archives/2009/04/does-the-concept-of-addressable-market-matter.html)
+*   [Start-up Cost Projections For First Time Entrepreneurs](http://www.askthevc.com/wp/archives/2009/05/start-up-cost-projections-for-first-time-entrepreneurs.html)
+*   [What Does Your Business Actually Do?](http://www.askthevc.com/wp/archives/2008/12/what-does-your-business-actually-do.html)
+*   [Are Eyeballs Good Enough?](http://www.askthevc.com/wp/archives/2008/07/are-eyeballs-good-enough.html)
+*   [Ad Revenue Models](http://www.askthevc.com/wp/archives/2007/11/ad-revenue-models.html)
+*   [Launching Into Specific Verticals and Geographies](http://www.askthevc.com/wp/archives/2007/07/launching-into-specific-verticals-and-geographies.html)
+*   [Critical Marketing Activites For A Startup](http://www.askthevc.com/wp/archives/2007/07/critical-marketing-activites-for-a-startup.html)
+*   [How Important is Brand Image at The Early Stages?](http://www.askthevc.com/wp/archives/2007/05/how-important-is-brand-image-at-the-early-stages.html)
+*   [How Do I Create Projections For My New Web Service?](http://www.askthevc.com/wp/archives/2007/03/how-do-i-create-projections-for-my-new-web-service.html)
+*   [How Targeted Should An Early-Staged Company Be?](http://www.askthevc.com/wp/archives/2007/02/how-targeted-should-an-early-staged-company-be.html)
+
 Seed Documents
 *   [Model Seed Documents – Direct From Techstars](http://www.askthevc.com/wp/archives/2009/02/model-seed-documents-direct-from-techstars.html)
 
