@@ -292,6 +292,14 @@ Product
 *   [What Does A VC Mean When He Says Your Product Is “A Feature And Not A Company”?](http://www.askthevc.com/wp/archives/2012/01/what-does-a-vc-mean-when-he-says-your-product-is-a-feature-and-not-a-company.html)
 *   [Do VCs Care About Product Managers?](http://www.askthevc.com/wp/archives/2007/01/do-vcs-care-about-product-managers.html)
 
+Winding Down
+*   [Preparing to Wind Down a Business: What information do you need?](http://www.askthevc.com/wp/archives/2009/11/preparing-to-wind-down-a-business-what-information-do-you-need.html)
+*   [When to Shut Down Your Company](http://www.askthevc.com/wp/archives/2009/10/when-to-shut-down-your-company.html)
+*   [How To Wind Down Your Company – New Series](http://www.askthevc.com/wp/archives/2009/10/how-to-wind-down-your-company-new-series.html)
+
+Failure
+*   [Do VCs Fund Entrepreneurs Who Have Failed At Previous Ventures](http://www.askthevc.com/wp/archives/2008/05/do-vcs-fund-entrepreneurs-who-have-failed-at-previous-ventures.html)
+
 Lawyers
 *   [Should A Company Use A Founder’s Spouse As Legal Counsel?](http://www.askthevc.com/wp/archives/2007/02/should-a-company-use-a-founders-spouse-as-legal-counsel.html)
 *   [When Is It Appropriate To Bring Your Lawyer Into Your Deal?](http://www.askthevc.com/wp/archives/2007/02/when-is-it-appropriate-to-bring-your-lawyer-into-your-deal.html)
