@@ -178,6 +178,13 @@ Options
 *   [Board Member / Advisory Member Compensation](http://www.askthevc.com/wp/archives/2007/06/board-member-advisory-member-compensation.html)
 *   [What are typical compensation numbers?](http://www.askthevc.com/wp/archives/2007/06/what-are-typical-compensation-numbers.html)
 *   [Trends in Compensation Packages in Venture-Backed Companies](http://www.askthevc.com/wp/archives/2007/05/trends-in-compensation-packages-in-venture-backed-companies.html)
+*   [Equity Compensation Terms](http://www.askthevc.com/wp/archives/2007/05/equity-compensation-terms.html)
+*   [Deferred Cash Compensation](http://www.askthevc.com/wp/archives/2007/05/deferred-cash-compensation.html)
+*   [Compensation in Venture-Backed Companies Before They Raise Money](http://www.askthevc.com/wp/archives/2007/05/compensation-in-venture-backed-companies-before-they-raise-money.html)
+*   [Compensation Packages in Venture-Backed Companies](http://www.askthevc.com/wp/archives/2007/05/compensation-packages-in-venture-backed-companies.html)
+*   [What’s A Reasonable Starting Point For An Option Pool?](http://www.askthevc.com/wp/archives/2007/02/whats-a-reasonable-starting-point-for-an-option-pool.html)
+*   [The IRS Is Urging Companies To Pay Liabilities Of Workers With Backdated Options.](http://www.askthevc.com/wp/archives/2007/02/the-irs-is-urging-companies-to-pay-liabilities-of-workers-with-backdated-options.html)
+*   [Why Don’t Companies Issue Non-Voting Stock To Employees / Investors?](http://www.askthevc.com/wp/archives/2007/01/why-dont-companies-issue-non-voting-stock-to-employees-investors.html)
 
 Finance and Accounting
 *   [Budgets in Early Stage Companies](http://www.askthevc.com/wp/archives/2007/05/budgets-in-early-stage-companies.html)
