@@ -120,5 +120,10 @@ Board Package
 *   [How to Create A Good Board Package](http://www.askthevc.com/wp/archives/2007/04/how-to-create-a-good-board-package.html)
 *   [Creating a Good Board Package Series](http://www.askthevc.com/wp/archives/2007/04/creating-a-good-board-package-series.html)
 
+Finance and Accounting
+*   [Budgets in Early Stage Companies](http://www.askthevc.com/wp/archives/2007/05/budgets-in-early-stage-companies.html)
+*   [Burn Rate for a Seed Financing](http://www.askthevc.com/wp/archives/2007/05/burn-rate-for-a-seed-financing.html)
+*   [How Do You Calculate Operating Cash Flow?](http://www.askthevc.com/wp/archives/2007/05/how-do-you-calculate-operating-cash-flow.html)
+
 Tax on Carried Interest
 *   [How Will the New Tax Laws on Carry Affect Venture Capitalists?](http://www.askthevc.com/wp/archives/2007/08/how-will-the-new-tax-laws-on-carry-affect-venture-capitalists.html)
