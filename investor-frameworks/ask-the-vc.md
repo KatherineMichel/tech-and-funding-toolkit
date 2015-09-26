@@ -26,6 +26,9 @@ Fundraising and SEC
 Tranched Financings (Milestones)
 *   [Tranched Financings](http://www.askthevc.com/wp/archives/2008/04/tranched-financings.html)
 
+Communicating with Your Angel Investors
+*   [Communicating with Your Angel Investors](http://www.askthevc.com/wp/archives/2007/04/communicating-with-your-angel-investors.html)
+
 Letter of Intent
 *   [Are “Letters of Intent” Useful in VC Meetings](http://www.askthevc.com/wp/archives/2007/03/are-letters-of-intent-useful-in-vc-meetings.html)
 
