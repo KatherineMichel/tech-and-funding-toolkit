@@ -2,6 +2,10 @@ Ask the VC
 *   [Ask the VC](http://www.askthevc.com) and [Ask the VC Archives](http://www.askthevc.com/wp/archives)
 *   [Welcome to Ask the VC](http://www.askthevc.com/wp/archives/2006/11/welcome-to-ask-the-vc.html)
 
+Founders
+*   [What Skills Do You Look For In Founders?](http://www.askthevc.com/wp/archives/2007/12/what-skills-do-you-look-for-in-founders.html)
+*   [I’ve Got A Huge Vision for Something, Now What?](http://www.askthevc.com/wp/archives/2007/12/ive-got-a-huge-vision-for-something-now-what.html)
+
 Entity
 *   [Choice of Entity – C Corps, S Corps, LLCs?](http://www.askthevc.com/wp/archives/2008/11/choice-of-entity-c-corps-s-corps-llcs.html) and [Corporate Entity Table](http://www.themoneyalert.com/Corp-Entity-Table.html)
 *   [How Does A Small Angel Investment Impact a Future VC Round?](http://www.askthevc.com/wp/archives/2008/03/how-does-a-small-angel-investment-impact-a-future-vc-round.html)
