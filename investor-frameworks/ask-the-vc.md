@@ -44,6 +44,26 @@ Business Plan
 Seed Documents
 *   [Model Seed Documents – Direct From Techstars](http://www.askthevc.com/wp/archives/2009/02/model-seed-documents-direct-from-techstars.html)
 
+Convertible Debt and Warrants
+*   [What Are Qualified Conditions Of Debt Conversion?](http://www.askthevc.com/wp/archives/2013/01/what-are-qualified-conditions-of-debt-conversion.html)
+*   [Is There More Than One Type Of Convertible Debt?](http://www.askthevc.com/wp/archives/2012/11/is-there-more-than-one-type-of-convertible-debt.html)
+*   [Convertible Debt – Other Terms](http://www.askthevc.com/wp/archives/2011/09/convertible-debt-other-terms.html)
+*   [Convertible Debt – Conversion In A Sale Of The Company](http://www.askthevc.com/wp/archives/2011/09/convertible-debt-conversion-in-a-sale-of-the-company.html)
+*   [Convertible Debt – Conversion Mechanics](http://www.askthevc.com/wp/archives/2011/09/convertible-debt-%e2%80%93-conversion-mechanics.html)
+*   [Convertible Debt – Valuation Caps](http://www.askthevc.com/wp/archives/2011/09/convertible-debt-%e2%80%93-valuation-caps.html)
+*   [Convertible Debt – The Discount](http://www.askthevc.com/wp/archives/2011/09/convertible-debt-%e2%80%93-the-discount.html)
+*   [Convertible Debt Series](http://www.askthevc.com/wp/archives/2011/09/convertible-debt-series.html)
+*   [Convertible Debt – Wrap Up](http://www.askthevc.com/wp/archives/2011/10/convertible-debt-wrap-up.html)
+*   [Convertible Debt – Early Versus Late Stage Dynamics](http://www.askthevc.com/wp/archives/2011/10/convertible-debt-early-versus-late-stage-dynamics.html)
+*   [Convertible Debt – Warrants](http://www.askthevc.com/wp/archives/2011/10/convertible-debt-warrants.html)
+*   [Series A Warrants Based On Milestones Versus A Deal With Two Closes](http://www.askthevc.com/wp/archives/2011/07/series-a-warrants-based-on-milestones-versus-a-deal-with-two-closes.html)
+*   [What Happens If Convertible Notes Are Called By Angel Investors?](http://www.askthevc.com/wp/archives/2007/12/what-happens-if-convertible-notes-are-called-by-angel-investors.html)
+*   [Should Entrepreneurs Be Worried About Convertible Notes as a First Financing Event?](http://www.askthevc.com/wp/archives/2007/06/should-entrepreneurs-be-worried-about-convertible-notes-as-a-first-financing-event.html)
+*   [Convertible Warrants In A Series A Round?](http://www.askthevc.com/wp/archives/2007/04/convertible-warrants-in-a-series-a-round.html)
+
+Warrants In A Deal With An Advisor
+*   [Warrants In A Deal With An Advisor](http://www.askthevc.com/wp/archives/2011/10/warrants-in-a-deal-with-an-advisor.html)
+
 Letter of Intent
 *   [Are “Letters of Intent” Useful in VC Meetings](http://www.askthevc.com/wp/archives/2007/03/are-letters-of-intent-useful-in-vc-meetings.html)
 
