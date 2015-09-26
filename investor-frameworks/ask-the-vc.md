@@ -209,6 +209,11 @@ Expense or Capitalize Engineering Costs
 Reimbursable Costs
 *   [What Costs Are Considered Reimbursable To The Founders Of A Startup Company?](http://www.askthevc.com/wp/archives/2012/09/what-costs-are-considered-reimbursable-to-the-founders-of-a-startup-company.html)
 
+Ops
+*   [What Do Venture Capitalists Think About Offshore Development Offices?](http://www.askthevc.com/wp/archives/2007/02/what-do-venture-capitalists-think-about-offshore-development-offices.html)
+*   [What To Do With An Alcoholic Business Partner](http://www.askthevc.com/wp/archives/2007/01/what-to-do-with-an-alcoholic-business-partner.html)
+*   [Check Your Sketchy “Business Coach’s” References](http://www.askthevc.com/wp/archives/2007/01/check-your-sketchy-business-coachs-references.html)
+
 Product
 *   [What Does A VC Mean When He Says Your Product Is “A Feature And Not A Company”?](http://www.askthevc.com/wp/archives/2012/01/what-does-a-vc-mean-when-he-says-your-product-is-a-feature-and-not-a-company.html)
 *   [Do VCs Care About Product Managers?](http://www.askthevc.com/wp/archives/2007/01/do-vcs-care-about-product-managers.html)
