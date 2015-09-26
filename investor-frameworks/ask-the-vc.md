@@ -26,6 +26,12 @@ Fundraising and SEC
 Tranched Financings (Milestones)
 *   [Tranched Financings](http://www.askthevc.com/wp/archives/2008/04/tranched-financings.html)
 
+Pitch
+*   [How Did We Get Our Idea For Our Startup?](http://www.askthevc.com/wp/archives/2008/06/how-did-we-get-our-idea-for-our-startup.html)
+*   [What’s The Best Material for the Pre-Pitch Introduction to a VC](http://www.askthevc.com/wp/archives/2008/04/whats-the-best-material-for-the-pre-pitch-introduction-to-a-vc.htm)
+*   [Are Watermarks On Presentations Useful?](http://www.askthevc.com/wp/archives/2007/12/are-watermarks-on-presentations-useful.html)
+*   [Do I Pitch A Better Mousetrap or A Different Version of Star Trek?](http://www.askthevc.com/wp/archives/2007/01/do-i-pitch-a-better-mousetrap-or-a-different-version-of-star-trek.html)
+
 Communicating with Your Angel Investors
 *   [Communicating with Your Angel Investors](http://www.askthevc.com/wp/archives/2007/04/communicating-with-your-angel-investors.html)
 
