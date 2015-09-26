@@ -23,6 +23,25 @@ Capital Structure
 NDAs
 *   [VCs and Non-Disclosure Agreements](http://www.askthevc.com/wp/archives/2007/01/vcs-and-non-disclosure-agreements.html)
 
+Fundraising
+*   [One Of Our Investors Just Closed Shop. What Should We Do?](http://www.askthevc.com/wp/archives/2013/01/one-of-our-investors-just-closed-shop-what-should-we-do.html)
+*   [Do My Early Stage Investors Own Too Much Of The Company?](http://www.askthevc.com/wp/archives/2012/04/do-my-early-stage-investors-own-too-much-of-the-company.html)
+*   [Do You Need To Be A Corporation To Raise VC Funding?](http://www.askthevc.com/wp/archives/2011/09/do-you-need-to-be-a-corporation-to-raise-vc-funding.html)
+*   [When Financings Fall Apart](http://www.askthevc.com/wp/archives/2011/08/when-financings-fall-apart.html)
+*   [If An Entrepreneur Has Children, Does It Impact Funding Decisions?](http://www.askthevc.com/wp/archives/2011/08/if-an-entrepreneur-has-children-does-it-impact-funding-decisions.html)
+*   [Is An Inside Round Good or Bad?](http://www.askthevc.com/wp/archives/2009/12/is-an-inside-round-good-or-bad.html)
+*   [What To Do When You Are In A Circular Discussion With A VC](http://www.askthevc.com/wp/archives/2008/10/what-to-do-when-you-are-in-a-circular-discussion-with-a-vc.html)
+*   [Why Wont The Venture Capitalist Return My Phone Call?](http://www.askthevc.com/wp/archives/2008/10/why-wont-the-venture-capitalist-return-my-phone-call.html)
+*   [How Do I Do Multiple Closings for an Angel Round?](http://www.askthevc.com/wp/archives/2008/09/how-do-i-do-multiple-closings-for-an-angel-round.html)
+*   [What Price Adjustments Do You See Prior To Closing In A Financing?](http://www.askthevc.com/wp/archives/2008/09/what-price-adjustments-do-you-see-prior-to-closing-in-a-financing.html)
+*   [How Should I Approach a VC I Don’t Know?](http://www.askthevc.com/wp/archives/2008/08/how-should-i-approach-a-vc-i-dont-know.html)
+*   [Am I In Trouble If I Don’t Raise Money From Kleiner?](http://www.askthevc.com/wp/archives/2008/07/am-i-in-trouble-if-i-dont-raise-money-from-kleiner.html)
+*   [What Is The Purpose of Venture Debt At The Series A Round?](http://www.askthevc.com/wp/archives/2008/07/what-is-the-purpose-of-venture-debt-at-the-series-a-round.html)
+*   [I’ve Got Angels Who Want To Invest But Not Lead – Now What?](http://www.askthevc.com/wp/archives/2008/06/ive-got-angels-who-want-to-invest-but-not-lead-now-what.html)
+*   [Do I Need a Team To Raise Venture Capital?](http://www.askthevc.com/wp/archives/2008/04/do-i-need-a-team-to-raise-venture-capital.html)
+*   [Do I Pick A Venture Capitalist Based On Money or Guidance?](http://www.askthevc.com/wp/archives/2008/04/do-i-pick-a-venture-capitalist-based-on-money-or-guidance.html)
+*   [Do Venture Capitalists Fund A Company With An Intent To Steal It?](http://www.askthevc.com/wp/archives/2008/01/do-venture-capitalists-fund-a-company-with-an-intent-to-steal-it.html)
+
 Fundraising and SEC
 *   [Can I Be Creative In My Financing Approaches Without Committing a Securities Violation?](http://www.askthevc.com/wp/archives/2007/06/can-i-be-creative-in-my-financing-approaches-without-committing-a-securities-violation.html) and [Blue Sky Law Wikipedia](https://en.wikipedia.org/wiki/Blue_sky_law)
 *   [How Can An Entrepreneur Fundraise Without Getting In Trouble With the SEC?](http://www.askthevc.com/wp/archives/2007/10/how-can-an-entrepreneur-fundraise-without-getting-in-trouble-with-the-sec.html)
