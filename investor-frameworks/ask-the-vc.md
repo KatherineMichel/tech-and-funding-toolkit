@@ -231,6 +231,7 @@ Reimbursable Costs
 *   [What Costs Are Considered Reimbursable To The Founders Of A Startup Company?](http://www.askthevc.com/wp/archives/2012/09/what-costs-are-considered-reimbursable-to-the-founders-of-a-startup-company.html)
 
 Ops
+*   [Location](http://www.askthevc.com/wp/archives/2007/03/location-location-location.html)
 *   [What Do Venture Capitalists Think About Offshore Development Offices?](http://www.askthevc.com/wp/archives/2007/02/what-do-venture-capitalists-think-about-offshore-development-offices.html)
 *   [What To Do With An Alcoholic Business Partner](http://www.askthevc.com/wp/archives/2007/01/what-to-do-with-an-alcoholic-business-partner.html)
 *   [Check Your Sketchy “Business Coach’s” References](http://www.askthevc.com/wp/archives/2007/01/check-your-sketchy-business-coachs-references.html)
