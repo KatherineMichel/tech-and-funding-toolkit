@@ -313,8 +313,25 @@ Tax on Carried Interest
 *   [What on Earth is 280G? What is a Parachute Payment?](http://www.askthevc.com/wp/archives/2006/12/what-on-earth-is-280g-what-is-a-parachute-payment.html)
 
 Strategic Entity, Private Equity, Hedge Funds, Brokers
+*   [Are People Who Claim To Be “VC Brokers” Legit?](http://www.askthevc.com/wp/archives/2011/08/are-people-who-claim-to-be-vc-brokers-legit.html)
 *   [What Are the Pros and Cons of Investment From a Strategic Entity?](http://www.askthevc.com/wp/archives/2008/08/what-are-the-pros-and-cons-of-investment-from-a-strategic-entity.html)
 *   [Hedge Funds and Early Stage Venture Capital](http://www.askthevc.com/wp/archives/2007/03/hedge-funds-and-early-stage-venture-capital.html)
 *   [What Is The Difference Between "Venture Capital" and "Private Equity?"](http://www.askthevc.com/wp/archives/2007/02/what-is-the-difference-between-venture-capital-and-private-equity.html)
 *   [An Investment Bankers’ View On Brokers in Early Stage Fundraising](http://www.askthevc.com/wp/archives/2007/07/an-investment-bankers-view-on-brokers-in-early-stage-fundraising.html)
 *   [What Is the Impact of Private Equity and Hedge Funds on VCs?](http://www.askthevc.com/wp/archives/2007/01/what-is-the-impact-of-private-equity-and-hedge-funds-on-vcs.html)
+*   [Are There Venture Capital Brokers?](http://www.askthevc.com/wp/archives/2007/01/are-there-venture-capital-brokers.html)
+
+VC Firm
+*   [Where Are The Best Executive Programs and Crash Courses for Venture Capital?](http://www.askthevc.com/wp/archives/2012/12/where-are-the-best-executive-programs-and-crash-courses-for-venture-capital.html)
+*   [What Are VC Firm’s Efforts To Connect Firms In Their Portfolio With Fresh MBA Grads?](http://www.askthevc.com/wp/archives/2011/11/what-are-vc-firms-efforts-to-connect-firms-in-their-portfolio-with-fresh-mba-grads.html)
+*   [How Do VCs Mitigate Risk In Their Investment Portfolios?](http://www.askthevc.com/wp/archives/2011/10/how-do-vcs-mitigate-risk-in-their-investment-portfolios.html)
+*   [How Hard Is It For A US VC To Fund A Company In Brazil?](http://www.askthevc.com/wp/archives/2011/08/how-hard-is-it-for-a-us-vc-to-fund-a-company-in-brazil.html)
+*   [Entrepreneurs Thoughts On VCs And Angels](http://www.askthevc.com/wp/archives/2011/08/entrepreneurs-thoughts-on-vcs-and-angels.html)
+*   [Looking for Angel Investors for a High Tech Venture?](http://www.askthevc.com/wp/archives/2009/12/looking-for-angel-investors-for-a-high-tech-venture.html)
+*   [How To Get A Job In Venture Capital](http://www.askthevc.com/wp/archives/2009/04/how-to-get-a-job-in-venture-capital-2.html)
+*   [What Do Venture Capitalists Think About Young Entrepreneurs?](http://www.askthevc.com/wp/archives/2009/03/what-do-venture-capitalists-think-about-young-entrepreneurs.html)
+*   [How Many Companies Should Be in a VC’s Fund?](http://www.askthevc.com/wp/archives/2008/10/how-many-companies-should-be-in-a-vcs-fund.html)
+*   [How Many Deals Should Be Needed To Return A VC Fund?](http://www.askthevc.com/wp/archives/2008/08/how-many-deals-should-be-needed-to-return-a-vc-fund.html)
+*   [How Can I Invest In A Venture Capital Firm?](http://www.askthevc.com/wp/archives/2008/07/how-can-i-invest-in-a-venture-capital-firm.html)
+*   [Should I Pay My Venture Capitalist To Consult For My Company?](http://www.askthevc.com/wp/archives/2008/07/should-i-pay-my-venture-capitalist-to-consult-for-my-company.html)
+*   [Getting Into The VC Business](http://www.askthevc.com/wp/archives/2008/05/getting-into-the-vc-business.html)
