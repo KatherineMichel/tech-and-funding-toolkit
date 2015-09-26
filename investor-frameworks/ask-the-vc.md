@@ -36,6 +36,9 @@ Pitch
 *   [Are Watermarks On Presentations Useful?](http://www.askthevc.com/wp/archives/2007/12/are-watermarks-on-presentations-useful.html)
 *   [Do I Pitch A Better Mousetrap or A Different Version of Star Trek?](http://www.askthevc.com/wp/archives/2007/01/do-i-pitch-a-better-mousetrap-or-a-different-version-of-star-trek.html)
 
+Exaggerating
+*   [Should You Exaggerate Your Size?](http://www.askthevc.com/wp/archives/2007/11/should-you-exaggerate-your-size.html)
+
 Communicating with Your Angel Investors
 *   [Communicating with Your Angel Investors](http://www.askthevc.com/wp/archives/2007/04/communicating-with-your-angel-investors.html)
 
