@@ -2,6 +2,21 @@ Ask the VC
 *   [Ask the VC](http://www.askthevc.com) and [Ask the VC Archives](http://www.askthevc.com/wp/archives)
 *   [Welcome to Ask the VC](http://www.askthevc.com/wp/archives/2006/11/welcome-to-ask-the-vc.html)
 
+Venture Deals
+*  [Venture Deals: Chapter 1: The Players](http://www.askthevc.com/wp/archives/2011/07/venture-deals-chapter-1-the-players.html)
+*  [Venture Deals: Chapter 2: How To Raise Money](http://www.askthevc.com/wp/archives/2011/07/venture-deals-chapter-2-how-to-raise-money.html)
+*  [Venture Deals: Chapter 3: Overview of the Term Sheet](http://www.askthevc.com/wp/archives/2011/07/venture-deals-chapter-3-overview-of-the-term-sheet.html)
+*  [Venture Deals: Chapter 4: Economic Terms of the Term Sheet](http://www.askthevc.com/wp/archives/2011/07/venture-deals-chapter-4-economic-terms-of-the-term-sheet.html)
+*  [Venture Deals: Chapter 5: Control Terms of the Term Sheet](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-5-control-terms-of-the-term-sheet.html)
+*  [Venture Deals: Chapter 6: Other Terms of the Term Sheet](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-6-other-terms-of-the-term-sheet.html)
+*  [Venture Deals: Chapter 7: The Capitalization Table](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-7-the-capitalization-table.html)
+*  [Venture Deals: Chapter 8: How Venture Capital Funds Work](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-8-how-venture-capital-funds-work.html)
+*  [Venture Deals: Chapter 9: Negotiation Tactics](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-9-negotiation-tactics.html)
+*  [Venture Deals: Chapter 10: Raising Money the Right Way](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-10-raising-money-the-right-way.html)
+*  [Venture Deals: Chapter 11: Issues at Different Financing Stages](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-11-issues-at-different-financing-stages.html)
+*  [Venture Deals: Chapter 12: Letters of Intent—The Other Term Sheet](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-12-letters-of-intent%e2%80%94the-other-term-sheet.html)
+*  [Venture Deals: Chapter 13: Legal Things Every Entrepreneur Should Know](http://www.askthevc.com/wp/archives/2011/08/venture-deals-chapter-13-legal-things-every-entrepreneur-should-know.html)
+ 
 Founders
 *   [What Skills Do You Look For In Founders?](http://www.askthevc.com/wp/archives/2007/12/what-skills-do-you-look-for-in-founders.html)
 *   [I’ve Got A Huge Vision for Something, Now What?](http://www.askthevc.com/wp/archives/2007/12/ive-got-a-huge-vision-for-something-now-what.html)
