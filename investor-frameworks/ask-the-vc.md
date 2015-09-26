@@ -140,6 +140,14 @@ Form D and Stealth Mode
 Fair Valuation (FAS 157, PEIGG Valuation Guidelines)
 *   [How Do Limited Partners Feel About "Fair Valuation" Guidelines?](http://www.askthevc.com/wp/archives/2007/01/how-do-limited-partners-feel-about-fair-valuation-guidelines.html)
 
+Number of Shares and Stock Certificates
+*   [What Is the Standard Number of Shares to Create in a New Company?](http://www.askthevc.com/wp/archives/2007/06/what-is-the-standard-number-of-shares-to-create-in-a-new-company.html)
+*   [Who Are Stock Certificates Issued To and When?](http://www.askthevc.com/wp/archives/2012/12/who-are-stock-certificates-issued-to-and-when.html)
+*   [How Many Shares Should I Use To Incorporate My Company?](http://www.askthevc.com/wp/archives/2011/10/how-many-shares-should-i-use-to-incorporate-my-company.html)
+
+Discount for Lack of Marketability of Stock
+*   [How Do VCs Discount For Lack Of Marketability of Stock?](http://www.askthevc.com/wp/archives/2007/03/how-do-vcs-discount-for-lack-of-marketability-of-stock.html)
+
 Shareholder Representative
 *   [Should I Be A Shareholder Representative?](http://www.askthevc.com/wp/archives/2008/05/should-i-be-a-shareholder-representative.html)
 
