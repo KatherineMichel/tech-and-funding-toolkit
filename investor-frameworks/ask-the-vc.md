@@ -156,6 +156,22 @@ Board Package
 Roles
 *   [What’s the Difference between a CEO and COO?](http://www.askthevc.com/wp/archives/2008/03/whats-the-difference-between-a-ceo-and-coo.html)
 
+Options
+*   [Where Can I Find Information on Starting Salaries for a SaaS Startup?](http://www.askthevc.com/wp/archives/2013/01/where-can-i-find-information-on-starting-salaries-for-a-saas-startup.html)
+*   [Issues with Equity Misalignment](http://www.askthevc.com/wp/archives/2013/01/issues-with-equity-misalignment.html)
+*   [Does Being The First Full-Time Paid Employee Affect That Founder’s Equity In The Company?](http://www.askthevc.com/wp/archives/2012/04/does-being-the-first-full-time-paid-employee-affect-that-founders-equity-in-the-company.html)
+*   [How Often Do Employees Of VC-backed Startups Get Stock Options?](http://www.askthevc.com/wp/archives/2012/04/how-often-do-employees-of-vc-backed-startups-get-stock-options.html)
+*   [How Do I Protect My Option Grant From A Down Round In The Future?](http://www.askthevc.com/wp/archives/2012/04/how-do-i-protect-my-option-grant-from-a-down-round-in-the-future.html)
+*   [Compensation In A Very Early State Company – Follow Up Question](http://www.askthevc.com/wp/archives/2008/09/compensation-in-a-very-early-state-company-follow-up-question.html)
+*   [What Kind of Benefits Can I Expect Working at a Startup?](http://www.askthevc.com/wp/archives/2008/05/what-kind-of-benefits-can-i-expect-working-at-a-startup.html)
+*   [I Cut The Wrong Deal With An Advisor – Should I Kill It?](http://www.askthevc.com/wp/archives/2008/04/i-cut-the-wrong-deal-with-an-advisor-should-i-kill-it.html)
+*   [What Happens to Unvested Options in a Merger?](http://www.askthevc.com/wp/archives/2008/01/what-happens-to-unvested-options-in-a-merger.html)
+*   [Equity Comp in Turnarounds and Consolidations](http://www.askthevc.com/wp/archives/2008/01/equity-comp-in-turnarounds-and-consolidations.html)
+*   [Can Employee #1000 Get Rich Off of Stock Options?](http://www.askthevc.com/wp/archives/2007/12/can-employee-1000-get-rich-off-of-stock-options.html)
+*   [What Are Typical Employment Contract Terms and Severance Benefits for a Startup?](http://www.askthevc.com/wp/archives/2007/11/what-are-typical-employment-contract-terms-and-severance-benefits-for-a-startup.html)
+*   [Compensation In A Very Early Stage Company](http://www.askthevc.com/wp/archives/2007/11/compensation-in-a-very-early-stage-company.html)
+*   [Generic Range of Equity Desired By a VC for Round 1 or 2](http://www.askthevc.com/wp/archives/2007/11/generic-range-of-equity-desired-by-a-vc-for-round-1-or-2.html)
+
 Finance and Accounting
 *   [Budgets in Early Stage Companies](http://www.askthevc.com/wp/archives/2007/05/budgets-in-early-stage-companies.html)
 *   [Burn Rate for a Seed Financing](http://www.askthevc.com/wp/archives/2007/05/burn-rate-for-a-seed-financing.html)
