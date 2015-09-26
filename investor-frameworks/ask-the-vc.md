@@ -171,6 +171,13 @@ Options
 *   [What Are Typical Employment Contract Terms and Severance Benefits for a Startup?](http://www.askthevc.com/wp/archives/2007/11/what-are-typical-employment-contract-terms-and-severance-benefits-for-a-startup.html)
 *   [Compensation In A Very Early Stage Company](http://www.askthevc.com/wp/archives/2007/11/compensation-in-a-very-early-stage-company.html)
 *   [Generic Range of Equity Desired By a VC for Round 1 or 2](http://www.askthevc.com/wp/archives/2007/11/generic-range-of-equity-desired-by-a-vc-for-round-1-or-2.html)
+*   [Places to Find Developers in Exchange for Sweat Equity](http://www.askthevc.com/wp/archives/2007/10/places-to-find-developers-in-exchange-for-sweat-equity.html)
+*   [How Much Equity Should an Early Stage COO/CFO Get?](http://www.askthevc.com/wp/archives/2007/10/how-much-equity-should-an-early-stage-coocfo-get.html)
+*   [How Much Equity Should I Get In My Startup?](http://www.askthevc.com/wp/archives/2007/09/how-much-equity-should-i-get-in-my-startup.html)
+*   [How Do You Value "Sweat Equity" in a New Restaurant Concept?](http://www.askthevc.com/wp/archives/2007/07/how-do-you-value-sweat-equity-in-a-new-restaurant-concept.html)
+*   [Board Member / Advisory Member Compensation](http://www.askthevc.com/wp/archives/2007/06/board-member-advisory-member-compensation.html)
+*   [What are typical compensation numbers?](http://www.askthevc.com/wp/archives/2007/06/what-are-typical-compensation-numbers.html)
+*   [Trends in Compensation Packages in Venture-Backed Companies](http://www.askthevc.com/wp/archives/2007/05/trends-in-compensation-packages-in-venture-backed-companies.html)
 
 Finance and Accounting
 *   [Budgets in Early Stage Companies](http://www.askthevc.com/wp/archives/2007/05/budgets-in-early-stage-companies.html)
