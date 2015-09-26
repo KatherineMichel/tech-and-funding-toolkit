@@ -156,6 +156,11 @@ Board Package
 Roles
 *   [What’s the Difference between a CEO and COO?](http://www.askthevc.com/wp/archives/2008/03/whats-the-difference-between-a-ceo-and-coo.html)
 
+Hires
+*   [How Do Startups Find Early Hires?](http://www.askthevc.com/wp/archives/2008/04/how-do-startups-find-early-hires.html)
+*   [What Should I Pay a Recruiter?](http://www.askthevc.com/wp/archives/2007/06/what-should-i-pay-a-recruiter.html)
+*   [Is Quality of The Team The Most Important Thing?](http://www.askthevc.com/wp/archives/2007/04/is-quality-of-the-team-the-most-important-thing.html)
+
 Options
 *   [Where Can I Find Information on Starting Salaries for a SaaS Startup?](http://www.askthevc.com/wp/archives/2013/01/where-can-i-find-information-on-starting-salaries-for-a-saas-startup.html)
 *   [Issues with Equity Misalignment](http://www.askthevc.com/wp/archives/2013/01/issues-with-equity-misalignment.html)
