@@ -26,6 +26,18 @@ Fundraising and SEC
 Tranched Financings (Milestones)
 *   [Tranched Financings](http://www.askthevc.com/wp/archives/2008/04/tranched-financings.html)
 
+Letter of Intent
+*   [Are “Letters of Intent” Useful in VC Meetings](http://www.askthevc.com/wp/archives/2007/03/are-letters-of-intent-useful-in-vc-meetings.html)
+
+Standard Terms and Valuations
+*   [What Are Standard Terms and Valuations?](http://www.askthevc.com/wp/archives/2007/01/what-are-standard-terms-and-valuations.html)
+
+Term Sheet- General
+*   [Founders Termination Clause In Term Sheets?](http://www.askthevc.com/wp/archives/2008/06/founders-termination-clause-in-term-sheets.html)
+*   [Term Sheet for an LLC vs. a Corporation](http://www.askthevc.com/wp/archives/2007/11/term-sheet-for-an-llc-vs-a-corporation.html)
+*   [Example Term Sheet](http://www.askthevc.com/wp/archives/2007/02/example-term-sheet.html)
+*   [How To Craft A Term Sheet?](http://www.askthevc.com/wp/archives/2007/01/how-to-craft-a-term-sheet.html)
+
 PPM
 *   [Investing In An Angel Deal Without A PPM?](http://www.askthevc.com/wp/archives/2007/01/investing-in-an-angel-deal-without-a-ppm.html)
 
@@ -41,6 +53,9 @@ Anti-Dilution
 Dilution
 *   [Is Dilution Considered When Talking About Equity Ranges?](http://www.askthevc.com/wp/archives/2008/08/is-dilution-considered-when-talking-about-equity-ranges.html)
 *   [How Do VC’s Determine Company Valuations?](http://www.askthevc.com/wp/archives/2007/01/how-do-vcs-determine-company-valuations.html)
+
+Share Buy Back
+*   [Do Companies Ever Buy Back VC Shares?](http://www.askthevc.com/wp/archives/2007/01/do-companies-ever-buy-back-vc-shares.html)
 
 Redemption Rights
 *   [Do Venture Capitalist Ever Use Their Redemption Rights? (See also: Registration Rights)](http://www.askthevc.com/wp/archives/2007/05/do-venture-capitalist-ever-use-their-redemption-rights.html)
