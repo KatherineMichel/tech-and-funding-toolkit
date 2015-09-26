@@ -307,3 +307,10 @@ Tax on Carried Interest
 
 280G and Parachute Payments
 *   [What on Earth is 280G? What is a Parachute Payment?](http://www.askthevc.com/wp/archives/2006/12/what-on-earth-is-280g-what-is-a-parachute-payment.html)
+
+Strategic Entity, Private Equity, Hedge Funds, Brokers
+*   [What Are the Pros and Cons of Investment From a Strategic Entity?](http://www.askthevc.com/wp/archives/2008/08/what-are-the-pros-and-cons-of-investment-from-a-strategic-entity.html)
+*   [Hedge Funds and Early Stage Venture Capital](http://www.askthevc.com/wp/archives/2007/03/hedge-funds-and-early-stage-venture-capital.html)
+*   [What Is The Difference Between "Venture Capital" and "Private Equity?"](http://www.askthevc.com/wp/archives/2007/02/what-is-the-difference-between-venture-capital-and-private-equity.html)
+*   [An Investment Bankers’ View On Brokers in Early Stage Fundraising](http://www.askthevc.com/wp/archives/2007/07/an-investment-bankers-view-on-brokers-in-early-stage-fundraising.html)
+*   [What Is the Impact of Private Equity and Hedge Funds on VCs?](http://www.askthevc.com/wp/archives/2007/01/what-is-the-impact-of-private-equity-and-hedge-funds-on-vcs.html)
