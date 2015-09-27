@@ -291,6 +291,7 @@ Venture Capital Terminology- General
 *   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
 *   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
 *   [Froth](http://www.investopedia.com/terms/f/froth.asp)
+*   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
 
 #### VC Firms, Accelerators, Resources
 
@@ -3957,8 +3958,10 @@ Metrics
 *   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 
 Accounting
+*   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
 *   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
 *   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
+*   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 
 Ecomomics
