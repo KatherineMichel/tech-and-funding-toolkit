@@ -22,7 +22,7 @@ Startups
 *   [Is now a good time to start a company?](http://cdixon.org/2009/09/07/is-now-a-good-time-to-start-a-company)
 
 Starting Up General Advice
-*   [Naming your startup](http://cdixon.org/2009/04/18/naming-your-startup)
+*   [Naming your startup](http://cdixon.org/2009/04/18/naming-your-startup) and [Portmanteau Wikipedia](https://en.wikipedia.org/wiki/Portmanteau)
 *   [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret)
 *   [Underhyping your startup](http://cdixon.org/2010/04/06/underhyping-your-startup)
 *   [The myth of the overnight success](http://cdixon.org/2012/03/16/the-myth-of-the-overnight-success)
