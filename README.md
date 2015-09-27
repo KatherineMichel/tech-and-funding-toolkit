@@ -525,6 +525,9 @@ Securities and Exchange Commission (SEC)
 *   [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
 *   [Form D Wikipedia (cf. Brad Feld)](https://en.wikipedia.org/wiki/Form_D)
 
+IPO List
+*   [Nasdaq IPO](http://www.nasdaq.com/markets/ipos)
+
 Notable SEC Filings
 *   [Box S-1](http://www.sec.gov/Archives/edgar/data/1372612/000119312514112417/d642425ds1.htm)  
 *   [Etsy SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001370637&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Etsy S-1](http://www.sec.gov/Archives/edgar/data/1370637/000119312515077045/d806992ds1.htm)  
