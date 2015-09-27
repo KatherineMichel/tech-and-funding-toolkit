@@ -17,7 +17,7 @@ Startups
 *   [There are two kinds of people in the world](http://cdixon.org/2011/04/27/there-are-two-kinds-of-people-in-the-world)
 *   [“Otherwise do something else”](http://cdixon.org/2011/12/02/otherwise-do-something-else)
 *   [Capabilities and sensibilities](http://cdixon.org/2012/07/17/capabilities-and-sensibilities)
-*   [Critics and practitioners](http://cdixon.org/2012/06/17/critics-and-practitioners)
+*   [Critics and practitioners (cf. Venkatesh Rao)](http://cdixon.org/2012/06/17/critics-and-practitioners)
 *   [The default state of a startup is failure](http://cdixon.org/2012/05/19/the-default-state-of-a-startup-is-failure)
 *   [Is now a good time to start a company?](http://cdixon.org/2009/09/07/is-now-a-good-time-to-start-a-company)
 
