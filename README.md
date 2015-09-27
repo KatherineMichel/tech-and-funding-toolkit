@@ -1200,6 +1200,7 @@ Books
 *   [Carlota Perez: Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](http://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
 *   [Dale Carnegie: How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 *   [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
+*   [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 *   [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
 *   [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 *   [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
