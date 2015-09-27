@@ -289,6 +289,7 @@ Venture Capital Terminology- General
 *   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
 *   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
 *   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
+*   [Froth](http://www.investopedia.com/terms/f/froth.asp)
 
 #### VC Firms, Accelerators, Resources
 
