@@ -57,7 +57,7 @@ Incubators, Angel Investors, VC Firms
 *   [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter)
 *   [It’s the partner, not the firm](http://cdixon.org/2009/08/19/its-the-partner-not-the-firm)
 *   [Information is the (other) currency of venture capital](http://cdixon.org/2009/09/02/information-is-the-other-currency-of-venture-capital)
-*   [VC’s care about the upside case, not the mean](http://cdixon.org/2009/08/31/vcs-care-about-the-upside-case-not-the-mean)
+*   [VC’s care about the upside case, not the mean](http://cdixon.org/2009/08/31/vcs-care-about-the-upside-case-not-the-mean) and [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
 *   [Being friendly has become a competitive advantage in VC](http://cdixon.org/2010/01/29/being-friendly-has-become-a-competitive-advantage-in-vc)
 *   [Big timing](http://cdixon.org/2012/02/24/big-timing)
 *   [The Babe Ruth Effect (in Venture Capital)](http://cdixon.org/2015/06/07/the-babe-ruth-effect-in-venture-capital), [Loss Aversion Wikipedia](https://en.wikipedia.org/wiki/Loss_aversion), and [Expected Value Wikipedia](https://en.wikipedia.org/wiki/Expected_value)
