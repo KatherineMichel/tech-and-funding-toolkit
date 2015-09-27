@@ -67,7 +67,7 @@ Allocation investing and the social premium
 *   [Institutional failure](http://cdixon.org/2010/01/30/institutional-failure), [Keynesian beauty contest Wikipedia](http://en.wikipedia.org/wiki/Keynesian_beauty_contest), and [Efficient-market hypothesis Wikipedia](http://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 
 Carry Fees
-*   [Money managers should pay the same tax rates as everyone else (cf. Fred Wilson)](http://cdixon.org/2010/06/01/money-managers-should-pay-the-same-tax-rates-as-everyone-else)
+*   [Money managers should pay the same tax rates as everyone else (cf. Fred Wilson)](http://cdixon.org/2010/06/01/money-managers-should-pay-the-same-tax-rates-as-everyone-else), [Capital Gain Wikipedia](https://en.wikipedia.org/wiki/Capital_gain), and [Ordinary Income Wikipedia](https://en.wikipedia.org/wiki/Ordinary_income)
 
 Equity Versus Convertible
 *   [Equity value](http://cdixon.org/2012/06/06/equity-value)
