@@ -55,7 +55,6 @@ Incubators, Angel Investors, VC Firms
 *   [The segmentation of the venture industry](http://cdixon.org/2010/09/26/the-segmentation-of-the-venture-industry)
 *   [Every time an engineer joins Google, a startup dies (cf. Fred Wilson, Bill Gurley)](http://cdixon.org/2010/02/11/every-time-an-engineer-joins-google-a-startup-dies)
 *   [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter)
-*   [Which VC firm should I pitch?](http://cdixon.org/2009/09/05/which-vc-firm-should-i-pitch)
 *   [It’s the partner, not the firm](http://cdixon.org/2009/08/19/its-the-partner-not-the-firm)
 *   [Information is the (other) currency of venture capital](http://cdixon.org/2009/09/02/information-is-the-other-currency-of-venture-capital)
 *   [VC’s care about the upside case, not the mean](http://cdixon.org/2009/08/31/vcs-care-about-the-upside-case-not-the-mean)
