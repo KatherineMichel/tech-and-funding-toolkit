@@ -281,11 +281,13 @@ Venture Capital Terminology- General
 *   [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
 *   [Employee Stock Ownership Plan Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_ownership_plan)
 *   [Employee Stock Option Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_option)
+*   [Restricted Stock Unit](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
 *   [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
 *   [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
 *   [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
 *   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
 *   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
+*   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
 
 #### VC Firms, Accelerators, Resources
 
