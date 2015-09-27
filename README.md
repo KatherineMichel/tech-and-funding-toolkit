@@ -247,6 +247,7 @@ Investor Frameworks
 *   [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
 *   [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
 *   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
+*   [Sam Altman Framework](investor-frameworks/sam-altman-framework.md)
 
 Venture Capital and How Funding Works
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
