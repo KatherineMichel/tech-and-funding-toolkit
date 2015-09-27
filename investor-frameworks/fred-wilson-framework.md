@@ -9,7 +9,8 @@ Thesis- Dave McClure
 *   [Dave McClure’s Investment Thesis](http://avc.com/2010/07/dave-mcclures-investment-thesis) 
 *   [Dave McClure: MoneyBall for Startups: Invest BEFORE Product/Market Fit, Double-Down AFTER.](http://500hats.typepad.com/500blogs/2010/07/moneyball-for-startups.html) 
 
-CB Insights USV Teardown
+Teardown
+*   [CB Insights: Union Square Ventures Teardown](https://www.cbinsights.com/blog/union-square-ventures-teardown)
 *   [Tearing Down The Teardown](http://avc.com/2014/08/tearing-down-the-teardown)
 
 ### MBA Mondays
