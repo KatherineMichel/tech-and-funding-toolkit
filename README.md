@@ -1100,6 +1100,7 @@ Antifragile and The Black Swan
 Economists, Investors, Philosophers
 *   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
 *   [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+*   [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 *   [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
 *   [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
 *   [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
@@ -3953,6 +3954,7 @@ Ecomomics
 *   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
 *   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
 *   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)
+*   [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
 *   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
 
 Probability and Statistics
