@@ -154,6 +154,7 @@ Table of Contents
 *   [Alex Osterwalder](http://www.alexosterwalder.com), [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder), and [Alex Osterwalder Slideshare](http://www.slideshare.net/Alex.Osterwalder)
 *   [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
 *   [Andrew Sullivan](http://dish.andrewsullivan.com)  
+*   [Andy Grove Wikipedia](https://en.wikipedia.org/wiki/Andrew_Grove)
 *   [Anil Dash](http://dashes.com/anil)
 *   [Ben Bajarin](http://atbenbajarin.com)  
 *   [Ben and Tim Bajarin](https://techpinions.com) 
