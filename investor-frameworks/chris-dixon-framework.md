@@ -31,7 +31,7 @@ Starting Up General Advice
 Risk
 *   [Different types of risk](http://cdixon.org/2012/06/06/different-types-of-risk)
 *   [Financing risk](http://cdixon.org/2011/04/21/financing-risk) and [Things startups do and don't need](http://nonchalantrepreneur.com/post/311546950/things-startups-do-and-dont-need)
-*   [The risks of being a small investor in a private company](http://cdixon.org/2012/04/26/the-risks-of-being-a-small-investor-in-a-private-company) and [Jumpstart Our Business Startups Act Wikipedia](http://en.wikipedia.org/wiki/Jumpstart_Our_Business_Startups_Act)
+*   [The risks of being a small investor in a private company](http://cdixon.org/2012/04/26/the-risks-of-being-a-small-investor-in-a-private-company), [Jumpstart Our Business Startups Act Wikipedia](http://en.wikipedia.org/wiki/Jumpstart_Our_Business_Startups_Act), and ["defensive capital"](http://cdixon.org/2012/04/02/revisited-big-vcs-investing-in-seed-rounds/#comment-486289000)
 *   [The problem with investing based on pattern recognition](http://cdixon.org/2012/03/07/the-problem-with-investing-based-on-pattern-recognition)
 
 Research
