@@ -177,6 +177,7 @@ Table of Contents
 *   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
 *   [Eric Schmidt](http://www.slideshare.net/ericschmidt)
 *   [Ev Williams Medium](https://medium.com/@ev) 
+*   [Felix Dennis Wikipedia](https://en.wikipedia.org/wiki/Felix_Dennis)
 *   [Guy Kawasaki](http://guykawasaki.com) and [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
 *   [Hiten Shah](http://hitenism.com) 
 *   [Horace Dediu](http://www.asymco.com) 
