@@ -269,6 +269,7 @@ Venture Capital Terminology- General
 *   [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
+*   [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
 *   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
