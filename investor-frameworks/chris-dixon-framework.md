@@ -70,7 +70,7 @@ Carry Fees
 *   [Money managers should pay the same tax rates as everyone else (cf. Fred Wilson)](http://cdixon.org/2010/06/01/money-managers-should-pay-the-same-tax-rates-as-everyone-else), [Capital Gain Wikipedia](https://en.wikipedia.org/wiki/Capital_gain), and [Ordinary Income Wikipedia](https://en.wikipedia.org/wiki/Ordinary_income)
 
 Equity Versus Convertible
-*   [Equity value](http://cdixon.org/2012/06/06/equity-value)
+*   [Equity value](http://cdixon.org/2012/06/06/equity-value), [Equity Value Wikipedia](https://en.wikipedia.org/wiki/Equity_value), [Present Value Wikipedia](https://en.wikipedia.org/wiki/Present_value), [Profit Margin Wikipedia](https://en.wikipedia.org/wiki/Profit_margin), [Market Inefficiency Wikipedia](https://en.wikipedia.org/wiki/Market_anomaly), [Regulation Wikipedia](https://en.wikipedia.org/wiki/Regulation), and [Economies of Scale Wikipedia](https://en.wikipedia.org/wiki/Economies_of_scale)
 *   [Converts versus equity deals (cf. Paul Graham, Mark Suster, Seth Levine)](http://cdixon.org/2010/08/31/converts-versus-equity-deals)
 *   [Why seed investors don’t like convertible notes](http://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes)
 
