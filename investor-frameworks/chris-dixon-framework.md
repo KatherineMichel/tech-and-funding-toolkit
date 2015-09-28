@@ -108,7 +108,7 @@ Pitch
 *   [Size markets using narratives, not numbers  (See Also: Other Business Plan Resources)](http://cdixon.org/2010/04/03/size-markets-using-narratives-not-numbers)
 
 Planning, Business Plans, Law
-*   [Plans are nothing, but planning is indispensable](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable)
+*   [Plans are nothing, but planning is indispensable (InfiniTrust a.k.a. SiteAdvisor Business Plan)](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable)
 *   [Advice for writing startup business plans (See Also: Other Business Plan Resources)](http://cdixon.org/2008/04/14/advice-for-writing-startup-business-plans)
 *   [Entrepreneurs need to learn some law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law)
 *   [Don’t be creative about the wrong things](http://cdixon.org/2010/02/16/dont-be-creative-about-the-wrong-things)
