@@ -152,7 +152,7 @@ Ops
 *   [Maximizing capacity utilization as a startup premise](http://cdixon.org/2012/01/05/maximizing-capacity-utilization-as-a-startup-premise) and [Capacity Utilization](http://www.businessdictionary.com/definition/capacity-utilization.html)
 *   [Always have 18 months of cash in the bank](http://cdixon.org/2011/12/06/always-have-18-months-of-cash-in-the-bank)
 *   [Business development: the Goldilocks principle](http://cdixon.org/2011/11/29/business-development-the-goldilocks-principle), [Goldilocks Principle Wikipedia](http://en.wikipedia.org/wiki/Goldilocks_principle), and [Rare Earth Hypothesis Wikipedia](http://en.wikipedia.org/wiki/Rare_Earth_hypothesis)
-*   [Good bizdev cannibalizes itself](http://cdixon.org/2010/08/28/good-bizdev-cannibalizes-itself)
+*   [Good bizdev cannibalizes itself](http://cdixon.org/2010/08/28/good-bizdev-cannibalizes-itself), [Cannibalization Wikipedia](https://en.wikipedia.org/wiki/Cannibalization_(marketing)), and [Business Development Wikipedia](https://en.wikipedia.org/wiki/Business_development)
 *   [Outsource things you don’t care about](http://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
 *   [The farther away the better](http://cdixon.org/2009/06/22/the-farther-away-the-better)
 *   [“It is the human friction that makes the sparks”](http://cdixon.org/2012/02/20/it-is-the-human-friction-that-makes-the-sparks)
