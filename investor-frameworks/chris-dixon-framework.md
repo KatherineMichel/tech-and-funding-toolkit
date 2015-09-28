@@ -137,7 +137,7 @@ Options (Black-Scholes Model)
 Cost/Price, Revenue/Margin
 *   [What’s the relationship between cost and price?](http://cdixon.org/2009/10/17/whats-the-relationship-between-cost-and-price), [Supply and Demand](http://www.investopedia.com/university/economics/economics3.asp), [Barriers to Entry Wikipedia](https://en.wikipedia.org/wiki/Barriers_to_entry), [Commoditization](https://en.wikipedia.org/wiki/Commoditization), [Fixed Cost Wikipedia](https://en.wikipedia.org/wiki/Fixed_cost), and [Variable Cost Wikipedia](https://en.wikipedia.org/wiki/Variable_cost)
 *   [Pricing to the demand curve](http://cdixon.org/2012/07/04/pricing-to-the-demand-curve), [Demand Curve Wikipedia](https://en.wikipedia.org/wiki/Demand_curve), [Consumer Surplus](http://www.investopedia.com/terms/c/consumer_surplus.asp), Proxy, and [Robinson–Patman Act Wikipedia](http://en.wikipedia.org/wiki/Robinson%E2%80%93Patman_Act)
-*   [Revenue vs margin (cf. Fred Wilson, Mark Suster)](http://cdixon.org/2012/01/22/revenue-vs-margin)
+*   [Revenue vs margin (cf. Fred Wilson, Mark Suster)](http://cdixon.org/2012/01/22/revenue-vs-margin), [Future Value Wikipedia](https://en.wikipedia.org/wiki/Future_value), and [Price Earnings Ratio Wikipedia](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio)
 
 Programming and Platform Risks
 *   [Bedrock programming](http://cdixon.org/2012/02/07/bedrock-programming)
