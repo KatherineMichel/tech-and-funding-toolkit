@@ -954,6 +954,7 @@ Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
 Leveraged Buyouts
+*   [Leveraged Buyout Wikipedia](https://en.wikipedia.org/wiki/Leveraged_buyout)
 *   [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
 *   [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
 
