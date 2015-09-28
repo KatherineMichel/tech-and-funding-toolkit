@@ -292,6 +292,9 @@ Venture Capital Terminology- General
 *   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
 *   [Froth](http://www.investopedia.com/terms/f/froth.asp)
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
+*   [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
+*   [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
+*   [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
 
 #### VC Firms, Accelerators, Resources
 
