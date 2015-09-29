@@ -22,7 +22,7 @@
     <p>source myvenv/bin/activate (myvenv is name you chose)</p>  
     <p>pip install -r requirements.txt (if needed)</p> 
     <p>pip install django==1.7.3</p>                                
-    <p>django-admin start project projectname</p>  
+    <p>django-admin startproject projectname</p>  
     <p>python manage.py migrate</p> 
     <p>python manage.py runserver</p> 
     <p>python manage.py startapp appname</p> 
