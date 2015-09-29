@@ -1200,6 +1200,7 @@ Shows
 #### Books and Courses
 
 Books
+*   [Andy Grove: High Output Management](http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 *   [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
 *   [Bill Janeway: Doing Capitalism in the Innovation Economy: Markets, Speculation and the State](http://www.amazon.com/Doing-Capitalism-Innovation-Economy-Speculation/dp/1107031257)
 *   [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
