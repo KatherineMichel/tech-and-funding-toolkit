@@ -3933,6 +3933,7 @@ General
 *   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
 *   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
 *   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
+*   [Karass](https://en.wiktionary.org/wiki/karass)
 *   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
 *   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
