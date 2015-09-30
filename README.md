@@ -1223,7 +1223,7 @@ Books
 *   [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 *   [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
 *   [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
-*   [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters)
+*   [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
 *   [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 Courses
