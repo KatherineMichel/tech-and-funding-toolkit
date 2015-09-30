@@ -23,6 +23,7 @@ Ideas
 Startups
 *   [Before the Startup](http://www.paulgraham.com/before.html)
 *   [How to Start a Startup](http://www.paulgraham.com/start.html)
+*   [Change Your Name](http://paulgraham.com/name.html)
 *   [What Startups Are Really Like](http://www.paulgraham.com/really.html)
 *   [Startups in 13 Sentences](http://www.paulgraham.com/13sentences.html)
 *   [The Other Half of "Artists Ship"](http://www.paulgraham.com/artistsship.html)
@@ -69,7 +70,6 @@ Wealth and Investors
 *   [How to Be an Angel Investor](http://www.paulgraham.com/angelinvesting.html)
 *   [Super Angels](http://www.paulgraham.com/superangels.html)
 *   [Black Swan Farming](http://www.paulgraham.com/swan.html)
-*   [The Ronco Principle](http://www.paulgraham.com/ronco.html)
 
 Ops
 *   [Hiring is Obsolete](http://www.paulgraham.com/hiring.html)
@@ -88,6 +88,10 @@ Resourcefulness and Determination
 *   [A Word to the Resourceful](http://www.paulgraham.com/word.html)
 *   [Relentlessly Resourceful](http://www.paulgraham.com/relres.html)
 *   [The Anatomy of Determination](http://www.paulgraham.com/determination.html)
+
+Niceness
+*   [Why It's Safe for Founders to Be Nice](http://paulgraham.com/safe.html)
+*   [The Ronco Principle](http://www.paulgraham.com/ronco.html)
 
 Mishaps
 *   [The Fatal Pinch](http://www.paulgraham.com/pinch.html)
