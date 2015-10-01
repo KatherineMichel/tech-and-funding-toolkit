@@ -48,10 +48,9 @@ STOCK OPTIONS/COMPENSATION
 
 *   [What is Section 409A?](http://www.startupcompanylawyer.com/2008/01/19/what-is-section-409a)
 *   [How do you set the exercise price of stock options to avoid Section 409A issues?](http://www.startupcompanylawyer.com/2009/01/01/how-do-you-set-the-exercise-price-of-stock-options-to-avoid-section-409a-issues)
-
 *   [What&#8217;s the difference between an ISO and an NSO?](http://www.startupcompanylawyer.com/2008/03/05/whats-the-difference-between-an-iso-and-an-nso)
 *   [Should a company allow early exercise of stock options?](http://www.startupcompanylawyer.com/2009/01/11/should-a-company-allow-early-exercise-of-stock-options)
-*   [Should a company allow exercises of stock options with promissory notes?])http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes)
+*   [Should a company allow exercises of stock options with promissory notes?](http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes)
 *   How many shares should be reserved under a stock option plan?
 *   [How much should you pay an executive in a startup company?](http://www.startupcompanylawyer.com/2009/05/01/how-much-should-you-pay-an-executive-in-a-startup-company)
 
@@ -69,57 +68,23 @@ CONVERTIBLE NOTE BRIDGE FINANCINGS
 *   [What does a convertible note bridge financing term sheet look like?](http://www.startupcompanylawyer.com/2007/04/27/what-does-a-convertible-note-bridge-financing-term-sheet-look-like)
 *   [What should the interest rate for a convertible bridge note be?](http://www.startupcompanylawyer.com/2007/04/27/what-should-the-interest-rate-for-a-convertible-bridge-note-be)
 *   [What should the conversion discount be for a bridge note into preferred stock?](http://www.startupcompanylawyer.com/2007/04/28/what-should-the-conversion-discount-be-for-a-bridge-note-into-preferred-stock)
-
-What is a convertible bridge note with a price cap?
-http://www.startupcompanylawyer.com/2010/01/11/what-is-a-convertible-bridge-note-with-a-price-cap
-
-What type of financing forces an automatic conversion of the promissory note into Preferred Stock?
-http://www.startupcompanylawyer.com/2007/04/29/what-type-of-financing-forces-an-automatic-conversion-of-the-promissory-note-into-preferred-stock
-
-What happens to the convertible promissory note if the maturity date is reached and there hasn&#8217;t been a financing?
-http://www.startupcompanylawyer.com/2007/04/29/what-happens-to-the-convertible-promissory-note-if-the-maturity-date-is-reached-and-there-hasnt-been-a-financing
-
-What happens if the Company is sold after the convertible bridge note is issued and before the maturity date or the next round of financing?
-http://www.startupcompanylawyer.com/2007/05/01/what-happens-if-the-company-is-sold-after-the-convertible-bridge-note-is-issued-and-before-the-maturity-date-or-the-next-round-of-financing
-
-What should the maturity date of the convertible note be?
-http://www.startupcompanylawyer.com/2007/05/02/what-should-the-maturity-date-of-the-convertible-note-be
-
-What should the terms of bridge loan warrant coverage be?
-http://www.startupcompanylawyer.com/2007/05/03/what-should-the-terms-of-bridge-loan-warrant-coverage-be
-
-Can you have multiple closings in a convertible note bridge financing?
-http://www.startupcompanylawyer.com/2007/05/04/can-you-have-multiple-closings-in-a-convertible-note-bridge-financing
-
-What does subordination mean in a convertible bridge note?
-http://www.startupcompanylawyer.com/2007/05/08/what-does-subordination-mean-in-a-convertible-bridge-note
-
-What is a security interest in connection with a convertible note?
-http://www.startupcompanylawyer.com/2007/05/09/what-is-a-security-interest-in-connection-with-a-convertible-note
-
-What should the representation and warranties in the note purchase agreement be?
-http://www.startupcompanylawyer.com/2007/05/10/what-should-the-representation-and-warranties-in-the-note-purchase-agreement-be
-
-Why should a majority of investors be able to amend the convertible notes?
-http://www.startupcompanylawyer.com/2007/05/11/why-should-a-majority-of-investors-be-able-to-amend-the-convertible-notes
-
-Who pays legal fees in a convertible note bridge financing and how much does it cost?
-http://www.startupcompanylawyer.com/2007/05/13/who-pays-legal-fees-in-a-convertible-note-bridge-financing-and-how-much-does-it-cost
-
-What is the economic difference between a conversion discount and warrant coverage for a convertible note?
-http://www.startupcompanylawyer.com/2007/06/22/what-is-the-economic-difference-between-a-conversion-discount-and-warrant-coverage-for-a-convertible-note
-
-What is the California Finance Lenders Law?
-http://www.startupcompanylawyer.com/2008/06/26/what-is-the-california-finance-lenders-law
-
-Is convertible debt with a price cap really the best financing structure?
-http://www.startupcompanylawyer.com/2011/01/09/is-convertible-debt-with-a-price-cap-really-the-best-financing-structure
-
-What are the terms of Yuri Milner/SV Angel’s Start Fund $150K investment into Y Combinator companies?
-http://www.startupcompanylawyer.com/2011/01/31/what-are-the-terms-of-yuri-milnersv-angels-start-fund-150k-investment-into-y-combinator-companies
-
-What is convertible equity (or a convertible security)?
-http://www.startupcompanylawyer.com/2012/08/31/what-is-convertible-equity-or-a-convertible-security
+*   [What is a convertible bridge note with a price cap?](http://www.startupcompanylawyer.com/2010/01/11/what-is-a-convertible-bridge-note-with-a-price-cap)
+*   [What type of financing forces an automatic conversion of the promissory note into Preferred Stock?](http://www.startupcompanylawyer.com/2007/04/29/what-type-of-financing-forces-an-automatic-conversion-of-the-promissory-note-into-preferred-stock)
+*   [What happens to the convertible promissory note if the maturity date is reached and there hasn&#8217;t been a financing?](http://www.startupcompanylawyer.com/2007/04/29/what-happens-to-the-convertible-promissory-note-if-the-maturity-date-is-reached-and-there-hasnt-been-a-financing)
+*   [What happens if the Company is sold after the convertible bridge note is issued and before the maturity date or the next round of financing?](http://www.startupcompanylawyer.com/2007/05/01/what-happens-if-the-company-is-sold-after-the-convertible-bridge-note-is-issued-and-before-the-maturity-date-or-the-next-round-of-financing)
+*   [What should the maturity date of the convertible note be?](http://www.startupcompanylawyer.com/2007/05/02/what-should-the-maturity-date-of-the-convertible-note-be)
+*   [What should the terms of bridge loan warrant coverage be?](http://www.startupcompanylawyer.com/2007/05/03/what-should-the-terms-of-bridge-loan-warrant-coverage-be)
+*   [Can you have multiple closings in a convertible note bridge financing?](http://www.startupcompanylawyer.com/2007/05/04/can-you-have-multiple-closings-in-a-convertible-note-bridge-financing)
+*   [What does subordination mean in a convertible bridge note?](http://www.startupcompanylawyer.com/2007/05/08/what-does-subordination-mean-in-a-convertible-bridge-note)
+*   [What is a security interest in connection with a convertible note?](http://www.startupcompanylawyer.com/2007/05/09/what-is-a-security-interest-in-connection-with-a-convertible-note)
+*   [What should the representation and warranties in the note purchase agreement be?](http://www.startupcompanylawyer.com/2007/05/10/what-should-the-representation-and-warranties-in-the-note-purchase-agreement-be)
+*   [Why should a majority of investors be able to amend the convertible notes?](http://www.startupcompanylawyer.com/2007/05/11/why-should-a-majority-of-investors-be-able-to-amend-the-convertible-notes)
+*   [Who pays legal fees in a convertible note bridge financing and how much does it cost?](http://www.startupcompanylawyer.com/2007/05/13/who-pays-legal-fees-in-a-convertible-note-bridge-financing-and-how-much-does-it-cost)
+*   [What is the economic difference between a conversion discount and warrant coverage for a convertible note?](http://www.startupcompanylawyer.com/2007/06/22/what-is-the-economic-difference-between-a-conversion-discount-and-warrant-coverage-for-a-convertible-note)
+*   [What is the California Finance Lenders Law?](http://www.startupcompanylawyer.com/2008/06/26/what-is-the-california-finance-lenders-law)
+*   [Is convertible debt with a price cap really the best financing structure?](http://www.startupcompanylawyer.com/2011/01/09/is-convertible-debt-with-a-price-cap-really-the-best-financing-structure)
+*   [What are the terms of Yuri Milner/SV Angel’s Start Fund $150K investment into Y Combinator companies?](http://www.startupcompanylawyer.com/2011/01/31/what-are-the-terms-of-yuri-milnersv-angels-start-fund-150k-investment-into-y-combinator-companies)
+*   [What is convertible equity (or a convertible security)?](http://www.startupcompanylawyer.com/2012/08/31/what-is-convertible-equity-or-a-convertible-security)
 
 SERIES A FINANCINGS</strong></p>
 
