@@ -48,7 +48,7 @@ Stock Options/Compensation
 
 *   [What is Section 409A?](http://www.startupcompanylawyer.com/2008/01/19/what-is-section-409a)
 *   [How do you set the exercise price of stock options to avoid Section 409A issues?](http://www.startupcompanylawyer.com/2009/01/01/how-do-you-set-the-exercise-price-of-stock-options-to-avoid-section-409a-issues)
-*   [What&#8217;s the difference between an ISO and an NSO?](http://www.startupcompanylawyer.com/2008/03/05/whats-the-difference-between-an-iso-and-an-nso)
+*   [What's the difference between an ISO and an NSO?](http://www.startupcompanylawyer.com/2008/03/05/whats-the-difference-between-an-iso-and-an-nso), [Incentive Stock Option Wikipedia](https://en.wikipedia.org/wiki/Incentive_stock_option), [Non-Qualified Stock Option Wikipedia](https://en.wikipedia.org/wiki/Non-qualified_stock_option), [Exercise (Strike) Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
 *   [Should a company allow early exercise of stock options?](http://www.startupcompanylawyer.com/2009/01/11/should-a-company-allow-early-exercise-of-stock-options)
 *   [Should a company allow exercises of stock options with promissory notes?](http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes)
 *   How many shares should be reserved under a stock option plan?
