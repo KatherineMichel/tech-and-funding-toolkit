@@ -679,6 +679,8 @@ Cap Table
 Raising a Seed Round- The Spreadsheet
 *   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
 
+*   [CompStudy](https://www.compstudy.com)
+
 Equity Investment Simulation
 *   [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
 
