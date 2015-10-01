@@ -12,132 +12,63 @@ Nav
 *   [M&A](http://www.startupcompanylawyer.com/category/ma)
 *   [General](http://www.startupcompanylawyer.com/category/general)
 
-<p><strong>INCORPORATION</strong></p>
+INCORPORATION
 
-What do you need to do before you quit your job to form a startup company?
-http://www.startupcompanylawyer.com/2009/01/08/what-do-you-need-to-do-before-you-quit-your-job-to-form-a-startup-company
+*   [What do you need to do before you quit your job to form a startup company?](http://www.startupcompanylawyer.com/2009/01/08/what-do-you-need-to-do-before-you-quit-your-job-to-form-a-startup-company)
+*   [When do I need to incorporate a company?](http://www.startupcompanylawyer.com/2009/07/20/when-do-i-need-to-incorporate-a-company)
+*   [What type of entity should I form?](http://www.startupcompanylawyer.com/2009/03/12/what-type-of-entity-should-i-form)
+*   [What state should I incorporate in?](http://www.startupcompanylawyer.com/2009/03/03/what-state-should-i-incorporate-in)
+*   [What is a certificate of incorporation?](http://www.startupcompanylawyer.com/2009/01/25/what-is-a-certificate-of-incorporation)
+*   [What are bylaws?](http://www.startupcompanylawyer.com/2009/02/15/what-are-bylaws)
+*   Why should a company follow corporate formalities?
+*   What does the board of directors do?
+*   What liabilities do the board or officers face?
+*   What do stockholders need to approve?
+*   [How many shares should be authorized in the certificate of incorporation?](http://www.startupcompanylawyer.com/2008/01/25/how-many-shares-should-be-authorized-in-the-certificate-of-incorporation)
+*   [What does fully-diluted capitalization mean?](http://www.startupcompanylawyer.com/2008/08/17/what-does-fully-diluted-capitalization-mean)
+*   [What is par value?](http://www.startupcompanylawyer.com/2008/07/18/what-is-par-value)
+*   What is an agent for service of process?
+*   [How do you calculate Delaware franchise taxes?](http://www.startupcompanylawyer.com/2008/02/01/how-do-you-calculate-delaware-franchise-taxes)
+*   [What trademark and other legal issues are involved in selecting a company name?](http://www.startupcompanylawyer.com/2008/03/07/what-trademark-and-other-legal-issues-are-involved-in-selecting-a-company-name)
+*   [What inspection and information rights does a stockholder have?](http://www.startupcompanylawyer.com/2008/02/09/what-inspection-and-information-rights-does-a-stockholder-have)
 
-When do I need to incorporate a company?
-http://www.startupcompanylawyer.com/2009/07/20/when-do-i-need-to-incorporate-a-company
+FOUNDERS ISSUES
 
-What type of entity should I form?
-http://www.startupcompanylawyer.com/2009/03/12/what-type-of-entity-should-i-form
-
-What state should I incorporate in?
-http://www.startupcompanylawyer.com/2009/03/03/what-state-should-i-incorporate-in
-
-What is a certificate of incorporation?
-http://www.startupcompanylawyer.com/2009/01/25/what-is-a-certificate-of-incorporation
-
-What are bylaws?
-http://www.startupcompanylawyer.com/2009/02/15/what-are-bylaws
-
-Why should a company follow corporate formalities?
-What does the board of directors do?
-What liabilities do the board or officers face?
-What do stockholders need to approve?
-
-How many shares should be authorized in the certificate of incorporation?
-http://www.startupcompanylawyer.com/2008/01/25/how-many-shares-should-be-authorized-in-the-certificate-of-incorporation
-
-What does fully-diluted capitalization mean?
-http://www.startupcompanylawyer.com/2008/08/17/what-does-fully-diluted-capitalization-mean
-
-What is par value?
-http://www.startupcompanylawyer.com/2008/07/18/what-is-par-value
-
-<p>14. What is an agent for service of process?</p>
-
-How do you calculate Delaware franchise taxes?
-http://www.startupcompanylawyer.com/2008/02/01/how-do-you-calculate-delaware-franchise-taxes
-
-What trademark and other legal issues are involved in selecting a company name?
-http://www.startupcompanylawyer.com/2008/03/07/what-trademark-and-other-legal-issues-are-involved-in-selecting-a-company-name
-
-What inspection and information rights does a stockholder have?
-http://www.startupcompanylawyer.com/2008/02/09/what-inspection-and-information-rights-does-a-stockholder-have
-
-<p><strong>FOUNDERS ISSUES</strong></p>
-
-Should founders pay for their stock in cash or contribute intellectual property?
-http://www.startupcompanylawyer.com/2009/01/14/should-founders-pay-for-their-stock-in-cash-or-contribute-intellectual-property
-
-Should founders stock be subject to vesting before a venture financing?
-http://www.startupcompanylawyer.com/2007/07/18/should-founders-stock-be-subject-to-vesting-before-a-venture-financing
-
-What should the vesting terms of founder stock be before a venture financing?
-http://www.startupcompanylawyer.com/2007/07/19/what-should-the-vesting-terms-of-founder-stock-be-before-a-venture-financing
-
-What is an 83(b) election?
-http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election
-
-What is qualified small business stock?
-http://www.startupcompanylawyer.com/2008/02/25/what-is-qualified-small-business-stock
-
-Obama proposes no capital gains tax on qualified small business stock
-http://www.startupcompanylawyer.com/2009/05/13/obama-proposes-no-capital-gains-tax-on-qualified-small-business-stock
-
-What is Series FF stock?
-http://www.startupcompanylawyer.com/2007/12/22/what-is-series-ff-stock
-
-What is Class F common stock?
-http://www.startupcompanylawyer.com/2009/04/23/what-is-class-f-common-stock
-
-What is TheFunded Founder Institute?
-http://www.startupcompanylawyer.com/2009/05/04/what-is-thefunded-founder-institute
+*   [Should founders pay for their stock in cash or contribute intellectual property?](http://www.startupcompanylawyer.com/2009/01/14/should-founders-pay-for-their-stock-in-cash-or-contribute-intellectual-property)
+*   [Should founders stock be subject to vesting before a venture financing?](http://www.startupcompanylawyer.com/2007/07/18/should-founders-stock-be-subject-to-vesting-before-a-venture-financing)
+*   [What should the vesting terms of founder stock be before a venture financing?](http://www.startupcompanylawyer.com/2007/07/19/what-should-the-vesting-terms-of-founder-stock-be-before-a-venture-financing)
+*   [What is an 83(b) election?](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election)
+*   [What is qualified small business stock?](http://www.startupcompanylawyer.com/2008/02/25/what-is-qualified-small-business-stock)
+*   [Obama proposes no capital gains tax on qualified small business stock](http://www.startupcompanylawyer.com/2009/05/13/obama-proposes-no-capital-gains-tax-on-qualified-small-business-stock)
+*   [What is Series FF stock?](http://www.startupcompanylawyer.com/2007/12/22/what-is-series-ff-stock)
+*   [What is Class F common stock?](http://www.startupcompanylawyer.com/2009/04/23/what-is-class-f-common-stock)
+*   [What is TheFunded Founder Institute?](http://www.startupcompanylawyer.com/2009/05/04/what-is-thefunded-founder-institute)
 
 STOCK OPTIONS/COMPENSATION
 
-What is Section 409A?
-http://www.startupcompanylawyer.com/2008/01/19/what-is-section-409a
+*   [What is Section 409A?](http://www.startupcompanylawyer.com/2008/01/19/what-is-section-409a)
+*   [How do you set the exercise price of stock options to avoid Section 409A issues?](http://www.startupcompanylawyer.com/2009/01/01/how-do-you-set-the-exercise-price-of-stock-options-to-avoid-section-409a-issues)
 
-How do you set the exercise price of stock options to avoid Section 409A issues?
-http://www.startupcompanylawyer.com/2009/01/01/how-do-you-set-the-exercise-price-of-stock-options-to-avoid-section-409a-issues
-
-What&#8217;s the difference between an ISO and an NSO?
-http://www.startupcompanylawyer.com/2008/03/05/whats-the-difference-between-an-iso-and-an-nso
-
-Should a company allow early exercise of stock options?
-http://www.startupcompanylawyer.com/2009/01/11/should-a-company-allow-early-exercise-of-stock-options
-
-Should a company allow exercises of stock options with promissory notes?
-http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes
-
-How many shares should be reserved under a stock option plan?</p>
-
-How much should you pay an executive in a startup company?
-http://www.startupcompanylawyer.com/2009/05/01/how-much-should-you-pay-an-executive-in-a-startup-company
+*   [What&#8217;s the difference between an ISO and an NSO?](http://www.startupcompanylawyer.com/2008/03/05/whats-the-difference-between-an-iso-and-an-nso)
+*   [Should a company allow early exercise of stock options?](http://www.startupcompanylawyer.com/2009/01/11/should-a-company-allow-early-exercise-of-stock-options)
+*   [Should a company allow exercises of stock options with promissory notes?])http://www.startupcompanylawyer.com/2009/01/18/should-a-company-allow-option-exercises-with-promissory-notes)
+*   How many shares should be reserved under a stock option plan?
+*   [How much should you pay an executive in a startup company?](http://www.startupcompanylawyer.com/2009/05/01/how-much-should-you-pay-an-executive-in-a-startup-company)
 
 GENERAL
 
-What is important in a confidentiality agreement or non-disclosure agreement (NDA)?
-http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda
-
-What are securities laws?
-http://www.startupcompanylawyer.com/2008/11/28/what-are-securities-laws
-
-What is an accredited investor?
-http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor
-
-Can a California company have unpaid interns?
-http://www.startupcompanylawyer.com/2010/04/15/can-a-california-company-have-unpaid-interns
-
-Is crowdfunding legal?
-http://www.startupcompanylawyer.com/2012/05/26/is-crowdfunding-legal
+*   [What is important in a confidentiality agreement or non-disclosure agreement (NDA)?](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda)
+*   [What are securities laws?](http://www.startupcompanylawyer.com/2008/11/28/what-are-securities-laws)
+*   [What is an accredited investor?](http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor)
+*   [Can a California company have unpaid interns?](http://www.startupcompanylawyer.com/2010/04/15/can-a-california-company-have-unpaid-interns)
+*   [Is crowdfunding legal?](http://www.startupcompanylawyer.com/2012/05/26/is-crowdfunding-legal)
 
 CONVERTIBLE NOTE BRIDGE FINANCINGS
 
-Should a startup company raise its seed round using a convertible note or Series A Preferred Stock?
-http://www.startupcompanylawyer.com/2007/04/27/should-a-startup-company-raise-its-seed-round-using-a-convertible-note-or-series-a-preferred-stock
-
-What does a convertible note bridge financing term sheet look like?
-http://www.startupcompanylawyer.com/2007/04/27/what-does-a-convertible-note-bridge-financing-term-sheet-look-like
-
-What should the interest rate for a convertible bridge note be?
-http://www.startupcompanylawyer.com/2007/04/27/what-should-the-interest-rate-for-a-convertible-bridge-note-be
-
-What should the conversion discount be for a bridge note into preferred stock?
-http://www.startupcompanylawyer.com/2007/04/28/what-should-the-conversion-discount-be-for-a-bridge-note-into-preferred-stock
+*   [Should a startup company raise its seed round using a convertible note or Series A Preferred Stock?](http://www.startupcompanylawyer.com/2007/04/27/should-a-startup-company-raise-its-seed-round-using-a-convertible-note-or-series-a-preferred-stock)
+*   [What does a convertible note bridge financing term sheet look like?](http://www.startupcompanylawyer.com/2007/04/27/what-does-a-convertible-note-bridge-financing-term-sheet-look-like)
+*   [What should the interest rate for a convertible bridge note be?](http://www.startupcompanylawyer.com/2007/04/27/what-should-the-interest-rate-for-a-convertible-bridge-note-be)
+*   [What should the conversion discount be for a bridge note into preferred stock?](http://www.startupcompanylawyer.com/2007/04/28/what-should-the-conversion-discount-be-for-a-bridge-note-into-preferred-stock)
 
 What is a convertible bridge note with a price cap?
 http://www.startupcompanylawyer.com/2010/01/11/what-is-a-convertible-bridge-note-with-a-price-cap
