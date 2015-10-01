@@ -103,82 +103,32 @@ SERIES A FINANCINGS
 *   [What is the priority of the liquidation preference when the Series B financing occurs?](http://www.startupcompanylawyer.com/2007/06/20/what-is-the-priority-of-the-liquidation-preference-when-the-series-b-financing-occurs)
 *   [Why do preferred stockholders have odd economic incentives upon a sale of company when they have non-participating preferred stock or particpating preferred stock with a cap?](http://www.startupcompanylawyer.com/2008/12/20/why-do-preferred-stockholders-have-odd-economic-incentives-upon-a-sale-of-company-when-they-have-non-participating-preferred-stock-or-particpating-preferred-stock-with-a-cap)
 
-What are redemption rights?
-http://www.startupcompanylawyer.com/2007/07/11/what-are-redemption-rights
-
-Why is preferred stock convertible into common stock?
-http://www.startupcompanylawyer.com/2007/07/13/why-is-preferred-stock-convertible-into-common-stock
-
-When should preferred stock be automatically converted into common stock?
-http://www.startupcompanylawyer.com/2007/07/15/when-should-preferred-stock-be-automatically-converted-into-common-stock
-
-What is anti-dilution protection?
-http://www.startupcompanylawyer.com/2007/07/28/what-is-anti-dilution-protection
-
-What is weighted average anti-dilution protection?
-http://www.startupcompanylawyer.com/2007/08/04/what-is-weighted-average-anti-dilution-protection
-
-What is full ratchet anti-dilution protection?
-http://www.startupcompanylawyer.com/2007/08/04/what-is-full-ratchet-anti-dilution-protection
-
-What is a pay to play provision?
-http://www.startupcompanylawyer.com/2007/08/04/what-is-a-pay-to-play-provision
-
-What are carveouts to anti-dilution protection?
-http://www.startupcompanylawyer.com/2007/08/04/what-are-carveouts-to-anti-dilution-protection
-
-What are protective provisions?
-http://www.startupcompanylawyer.com/2007/08/05/what-are-protective-provisions
-
-What stockholder approval is necessary to complete a venture financing?
-http://www.startupcompanylawyer.com/2007/08/07/what-stockholder-approval-is-necessary-to-complete-a-venture-financing
-
-What are information rights?
-http://www.startupcompanylawyer.com/2007/08/10/what-are-information-rights
-
-What are registration rights?
-http://www.startupcompanylawyer.com/2007/08/11/what-are-registration-rights
-
-What are demand registration rights?
-http://www.startupcompanylawyer.com/2007/08/12/what-are-demand-registration-rights
-
-What are piggyback registration rights?
-http://www.startupcompanylawyer.com/2007/08/15/what-are-piggyback-registration-rights
-
-What are S-3 registration rights?
-http://www.startupcompanylawyer.com/2007/08/18/what-are-s-3-registration-rights
-
-hat is a market standoff or IPO lockup provision?
-http://www.startupcompanylawyer.com/2007/08/25/what-is-a-market-standoff-or-ipo-lockup-provision
-
-What is a right of first offer or right to maintain proportionate ownership in future financings?
-http://www.startupcompanylawyer.com/2007/09/01/what-is-a-right-of-first-offer-or-right-to-maintain-proportionate-ownership-in-future-financings
-
-What is a right of first refusal and co-sale agreement?
-http://www.startupcompanylawyer.com/2007/09/17/what-is-a-right-of-first-refusal-and-co-sale-agreement
-
-What is a drag-along or bring-along provision?
-http://www.startupcompanylawyer.com/2007/11/07/what-is-a-drag-along-or-bring-along-provision
-
-What should the composition of the board be like and how are the board seats allocated?
-http://www.startupcompanylawyer.com/2007/11/27/what-should-the-composition-of-the-board-be-like-and-how-are-the-board-seats-allocated
-
-What are board observer rights?
-http://www.startupcompanylawyer.com/2007/12/01/what-are-board-observer-rights
-
-What is a management rights letter?
-http://www.startupcompanylawyer.com/2007/12/03/what-is-a-management-rights-letter
-
-What should legal fees for a Series A financing be?
-http://www.startupcompanylawyer.com/2007/12/08/what-should-legal-fees-in-a-series-a-financing-be
-
-What should the terms of the no shop be?
-http://www.startupcompanylawyer.com/2007/12/09/what-should-the-terms-of-the-no-shop-be
-
-Why should a term sheet be confidential?
-http://www.startupcompanylawyer.com/2007/12/13/why-should-a-term-sheet-be-confidential
-
-http://www.startupcompanylawyer.com/2007/12/15/what-are-the-conditions-to-closing-of-a-series-a-financing/">What are the conditions to closing of a Series A financing?
+*   [What are redemption rights?](http://www.startupcompanylawyer.com/2007/07/11/what-are-redemption-rights)
+*   [Why is preferred stock convertible into common stock?](http://www.startupcompanylawyer.com/2007/07/13/why-is-preferred-stock-convertible-into-common-stock)
+*   [When should preferred stock be automatically converted into common stock?](http://www.startupcompanylawyer.com/2007/07/15/when-should-preferred-stock-be-automatically-converted-into-common-stock)
+*   [What is anti-dilution protection?](http://www.startupcompanylawyer.com/2007/07/28/what-is-anti-dilution-protection)
+*   [What is weighted average anti-dilution protection?](http://www.startupcompanylawyer.com/2007/08/04/what-is-weighted-average-anti-dilution-protection)
+*   [What is full ratchet anti-dilution protection?](http://www.startupcompanylawyer.com/2007/08/04/what-is-full-ratchet-anti-dilution-protection)
+*   [What is a pay to play provision?](http://www.startupcompanylawyer.com/2007/08/04/what-is-a-pay-to-play-provision)
+*   [What are carveouts to anti-dilution protection?](http://www.startupcompanylawyer.com/2007/08/04/what-are-carveouts-to-anti-dilution-protection)
+*   [What are protective provisions?](http://www.startupcompanylawyer.com/2007/08/05/what-are-protective-provisions)
+*   [What stockholder approval is necessary to complete a venture financing?](http://www.startupcompanylawyer.com/2007/08/07/what-stockholder-approval-is-necessary-to-complete-a-venture-financing)
+*   [What are information rights?](http://www.startupcompanylawyer.com/2007/08/10/what-are-information-rights)
+*   [What are registration rights?](http://www.startupcompanylawyer.com/2007/08/11/what-are-registration-rights)
+*   [What are demand registration rights?](http://www.startupcompanylawyer.com/2007/08/12/what-are-demand-registration-rights)
+*   [What are piggyback registration rights?](http://www.startupcompanylawyer.com/2007/08/15/what-are-piggyback-registration-rights)
+*   [What are S-3 registration rights?](http://www.startupcompanylawyer.com/2007/08/18/what-are-s-3-registration-rights)
+*   [What is a market standoff or IPO lockup provision?](http://www.startupcompanylawyer.com/2007/08/25/what-is-a-market-standoff-or-ipo-lockup-provision)
+*   [What is a right of first offer or right to maintain proportionate ownership in future financings?](http://www.startupcompanylawyer.com/2007/09/01/what-is-a-right-of-first-offer-or-right-to-maintain-proportionate-ownership-in-future-financings)
+*   [What is a right of first refusal and co-sale agreement?](http://www.startupcompanylawyer.com/2007/09/17/what-is-a-right-of-first-refusal-and-co-sale-agreement)
+*   [What is a drag-along or bring-along provision?](http://www.startupcompanylawyer.com/2007/11/07/what-is-a-drag-along-or-bring-along-provision)
+*   [What should the composition of the board be like and how are the board seats allocated?](http://www.startupcompanylawyer.com/2007/11/27/what-should-the-composition-of-the-board-be-like-and-how-are-the-board-seats-allocated)
+*   [What are board observer rights?](http://www.startupcompanylawyer.com/2007/12/01/what-are-board-observer-rights)
+*   [What is a management rights letter?](http://www.startupcompanylawyer.com/2007/12/03/what-is-a-management-rights-letter)
+*   [What should legal fees for a Series A financing be?](http://www.startupcompanylawyer.com/2007/12/08/what-should-legal-fees-in-a-series-a-financing-be)
+*   [What should the terms of the no shop be?](http://www.startupcompanylawyer.com/2007/12/09/what-should-the-terms-of-the-no-shop-be)
+*   [Why should a term sheet be confidential?](http://www.startupcompanylawyer.com/2007/12/13/why-should-a-term-sheet-be-confidential)
+*   [http://www.startupcompanylawyer.com/2007/12/15/what-are-the-conditions-to-closing-of-a-series-a-financing](What are the conditions to closing of a Series A financing?)
 
 What does the legal opinion cover?
 http://www.startupcompanylawyer.com/2008/01/12/what-does-the-legal-opinion-cover
