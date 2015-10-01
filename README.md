@@ -3867,6 +3867,7 @@ ProPublica- News App and Data Style Guides
 *   [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
 *   [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
 *   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
+*   [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
