@@ -34,13 +34,13 @@ Incorporation
 
 Founders Issues
 
-*   [Should founders pay for their stock in cash or contribute intellectual property?](http://www.startupcompanylawyer.com/2009/01/14/should-founders-pay-for-their-stock-in-cash-or-contribute-intellectual-property)
+*   [Should founders pay for their stock in cash or contribute intellectual property?](http://www.startupcompanylawyer.com/2009/01/14/should-founders-pay-for-their-stock-in-cash-or-contribute-intellectual-property), [Par Value Wikipedia](https://en.wikipedia.org/wiki/Par_value), and [Internal Revenue Service Section 351](http://www.irs.gov/pub/irs-drop/rr-03-51.pdf)
 *   [Should founders stock be subject to vesting before a venture financing?](http://www.startupcompanylawyer.com/2007/07/18/should-founders-stock-be-subject-to-vesting-before-a-venture-financing)
 *   [What should the vesting terms of founder stock be before a venture financing?](http://www.startupcompanylawyer.com/2007/07/19/what-should-the-vesting-terms-of-founder-stock-be-before-a-venture-financing)
-*   [What is an 83(b) election?](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election)
-*   [What is qualified small business stock?](http://www.startupcompanylawyer.com/2008/02/25/what-is-qualified-small-business-stock)
-*   [Obama proposes no capital gains tax on qualified small business stock](http://www.startupcompanylawyer.com/2009/05/13/obama-proposes-no-capital-gains-tax-on-qualified-small-business-stock)
-*   [What is Series FF stock?](http://www.startupcompanylawyer.com/2007/12/22/what-is-series-ff-stock)
+*   [What is an 83(b) election?](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election) and [Restricted Stock Wikipedia](https://en.wikipedia.org/wiki/Restricted_stock)
+*   [What is qualified small business stock?](http://www.startupcompanylawyer.com/2008/02/25/what-is-qualified-small-business-stock), [Internal Revenue Service Section 1202](http://www.irs.gov/pub/irs-regs/ia2694.txt), and [Internal Revenue Service Section 1045](http://www.irs.gov/pub/irs-drop/rp98-48.pdf)
+*   [Obama proposes no capital gains tax on qualified small business stock](http://www.startupcompanylawyer.com/2009/05/13/obama-proposes-no-capital-gains-tax-on-qualified-small-business-stock) and [Alternative Minimum Tax Wikipedia](https://en.wikipedia.org/wiki/Alternative_minimum_tax)
+*   [What is Series FF stock?](http://www.startupcompanylawyer.com/2007/12/22/what-is-series-ff-stock), "Please note that anyone can obtain the Certificate of Incorporation of a Delaware company from the Secretary of State of Delaware"
 *   [What is Class F common stock?](http://www.startupcompanylawyer.com/2009/04/23/what-is-class-f-common-stock)
 *   [What is TheFunded Founder Institute?](http://www.startupcompanylawyer.com/2009/05/04/what-is-thefunded-founder-institute)
 
