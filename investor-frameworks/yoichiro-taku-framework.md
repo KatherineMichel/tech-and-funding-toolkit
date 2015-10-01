@@ -86,49 +86,22 @@ CONVERTIBLE NOTE BRIDGE FINANCINGS
 *   [What are the terms of Yuri Milner/SV Angel’s Start Fund $150K investment into Y Combinator companies?](http://www.startupcompanylawyer.com/2011/01/31/what-are-the-terms-of-yuri-milnersv-angels-start-fund-150k-investment-into-y-combinator-companies)
 *   [What is convertible equity (or a convertible security)?](http://www.startupcompanylawyer.com/2012/08/31/what-is-convertible-equity-or-a-convertible-security)
 
-SERIES A FINANCINGS</strong></p>
+SERIES A FINANCINGS
 
-What trends does WSGR see in venture financings?
-http://www.startupcompanylawyer.com/2007/06/28/what-trends-does-wsgr-see-in-venture-financings
-
-What does a Series A term sheet look like?
-http://www.startupcompanylawyer.com/2007/05/14/what-does-a-series-a-term-sheet-look-like
-
-What do definitive agreements for a Series A financing look like?
-http://www.startupcompanylawyer.com/2007/05/15/what-do-definitive-documents-for-a-series-a-financing-look-like
-
-Are Series A term sheets binding?
-http://www.startupcompanylawyer.com/2007/05/16/are-series-a-term-sheets-binding
-
-What is preferred stock and why is it issued to investors?
-http://www.startupcompanylawyer.com/2007/05/19/what-is-preferred-stock-and-why-is-it-issued-to-investors
-
-How do you calculate Series A price per share?
-http://www.startupcompanylawyer.com/2007/05/21/how-do-you-calculate-series-a-price-per-share
-
-Can you have multiple closings in a Series A financing?
-http://www.startupcompanylawyer.com/2007/05/23/can-you-have-multiple-closings-in-a-series-a-financing
-
-What is a dividend preference?
-http://www.startupcompanylawyer.com/2007/05/30/what-is-a-dividend-preference
-
-What is a liquidation preference?
-http://www.startupcompanylawyer.com/2007/06/11/what-is-a-liquidation-preference
-
-What is the amount of a typical liquidation preference?
-http://www.startupcompanylawyer.com/2007/06/12/what-is-the-amount-of-a-typical-liquidation-preference
-
-What is the difference between non-participating preferred stock and participating preferred stock?
-http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock
-
-What is a cap on a participating preferred liquidation preference?
-http://www.startupcompanylawyer.com/2007/06/18/what-is-a-cap-on-a-participating-preferred-liquidation-preference
-
-What is the priority of the liquidation preference when the Series B financing occurs?
-http://www.startupcompanylawyer.com/2007/06/20/what-is-the-priority-of-the-liquidation-preference-when-the-series-b-financing-occurs
-
-Why do preferred stockholders have odd economic incentives upon a sale of company when they have non-participating preferred stock or particpating preferred stock with a cap?
-http://www.startupcompanylawyer.com/2008/12/20/why-do-preferred-stockholders-have-odd-economic-incentives-upon-a-sale-of-company-when-they-have-non-participating-preferred-stock-or-particpating-preferred-stock-with-a-cap
+*   [What trends does WSGR see in venture financings?](http://www.startupcompanylawyer.com/2007/06/28/what-trends-does-wsgr-see-in-venture-financings)
+*   [What does a Series A term sheet look like?](http://www.startupcompanylawyer.com/2007/05/14/what-does-a-series-a-term-sheet-look-like)
+*   [What do definitive agreements for a Series A financing look like?](http://www.startupcompanylawyer.com/2007/05/15/what-do-definitive-documents-for-a-series-a-financing-look-like)
+*   [Are Series A term sheets binding?](http://www.startupcompanylawyer.com/2007/05/16/are-series-a-term-sheets-binding)
+*   [What is preferred stock and why is it issued to investors?](http://www.startupcompanylawyer.com/2007/05/19/what-is-preferred-stock-and-why-is-it-issued-to-investors)
+*   [How do you calculate Series A price per share?](http://www.startupcompanylawyer.com/2007/05/21/how-do-you-calculate-series-a-price-per-share)
+*   [Can you have multiple closings in a Series A financing?](http://www.startupcompanylawyer.com/2007/05/23/can-you-have-multiple-closings-in-a-series-a-financing)
+*   [What is a dividend preference?](http://www.startupcompanylawyer.com/2007/05/30/what-is-a-dividend-preference)
+*   [What is a liquidation preference?](http://www.startupcompanylawyer.com/2007/06/11/what-is-a-liquidation-preference)
+*   [What is the amount of a typical liquidation preference?](http://www.startupcompanylawyer.com/2007/06/12/what-is-the-amount-of-a-typical-liquidation-preference)
+*   [What is the difference between non-participating preferred stock and participating preferred stock?](http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock)
+*   [What is a cap on a participating preferred liquidation preference?](http://www.startupcompanylawyer.com/2007/06/18/what-is-a-cap-on-a-participating-preferred-liquidation-preference)
+*   [What is the priority of the liquidation preference when the Series B financing occurs?](http://www.startupcompanylawyer.com/2007/06/20/what-is-the-priority-of-the-liquidation-preference-when-the-series-b-financing-occurs)
+*   [Why do preferred stockholders have odd economic incentives upon a sale of company when they have non-participating preferred stock or particpating preferred stock with a cap?](http://www.startupcompanylawyer.com/2008/12/20/why-do-preferred-stockholders-have-odd-economic-incentives-upon-a-sale-of-company-when-they-have-non-participating-preferred-stock-or-particpating-preferred-stock-with-a-cap)
 
 What are redemption rights?
 http://www.startupcompanylawyer.com/2007/07/11/what-are-redemption-rights
