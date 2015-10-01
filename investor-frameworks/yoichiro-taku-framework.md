@@ -102,7 +102,6 @@ SERIES A FINANCINGS
 *   [What is a cap on a participating preferred liquidation preference?](http://www.startupcompanylawyer.com/2007/06/18/what-is-a-cap-on-a-participating-preferred-liquidation-preference)
 *   [What is the priority of the liquidation preference when the Series B financing occurs?](http://www.startupcompanylawyer.com/2007/06/20/what-is-the-priority-of-the-liquidation-preference-when-the-series-b-financing-occurs)
 *   [Why do preferred stockholders have odd economic incentives upon a sale of company when they have non-participating preferred stock or particpating preferred stock with a cap?](http://www.startupcompanylawyer.com/2008/12/20/why-do-preferred-stockholders-have-odd-economic-incentives-upon-a-sale-of-company-when-they-have-non-participating-preferred-stock-or-particpating-preferred-stock-with-a-cap)
-
 *   [What are redemption rights?](http://www.startupcompanylawyer.com/2007/07/11/what-are-redemption-rights)
 *   [Why is preferred stock convertible into common stock?](http://www.startupcompanylawyer.com/2007/07/13/why-is-preferred-stock-convertible-into-common-stock)
 *   [When should preferred stock be automatically converted into common stock?](http://www.startupcompanylawyer.com/2007/07/15/when-should-preferred-stock-be-automatically-converted-into-common-stock)
@@ -128,55 +127,30 @@ SERIES A FINANCINGS
 *   [What should legal fees for a Series A financing be?](http://www.startupcompanylawyer.com/2007/12/08/what-should-legal-fees-in-a-series-a-financing-be)
 *   [What should the terms of the no shop be?](http://www.startupcompanylawyer.com/2007/12/09/what-should-the-terms-of-the-no-shop-be)
 *   [Why should a term sheet be confidential?](http://www.startupcompanylawyer.com/2007/12/13/why-should-a-term-sheet-be-confidential)
-*   [http://www.startupcompanylawyer.com/2007/12/15/what-are-the-conditions-to-closing-of-a-series-a-financing](What are the conditions to closing of a Series A financing?)
-
-What does the legal opinion cover?
-http://www.startupcompanylawyer.com/2008/01/12/what-does-the-legal-opinion-cover
-
-What is Form D and what information gets publicly disclosed to the SEC in a financing?
-http://www.startupcompanylawyer.com/2008/08/03/what-is-form-d-and-what-information-gets-publicly-disclosed-to-the-sec-regarding-a-financing
-
-How do the sample Y Combinator Series AA financing documents differ from typical Series A financing documents (or what&#8217;s the difference between seed and venture financing terms)?
-http://www.startupcompanylawyer.com/2008/08/23/how-do-the-sample-y-combinator-series-aa-financing-documents-differ-from-typical-series-a-financing-documents-or-whats-the-difference-between-seed-and-venture-financing-terms
-
-How do the sample Series Seed financing documents differ from typical Series A financing documents?
-http://www.startupcompanylawyer.com/2010/03/14/how-do-the-sample-series-seed-financing-documents-differ-from-typical-series-a-financing-documents
-
-What is upgradeable Series A preferred stock?
-http://www.startupcompanylawyer.com/2008/09/12/what-is-upgradeable-series-a-preferred-stock
-
-How do you find federal and state government funding opportunities for clean tech and other companies?
-http://www.startupcompanylawyer.com/2009/12/22/how-do-you-find-federal-and-state-government-funding-opportunities-for-clean-tech-and-other-companies
+*   [What are the conditions to closing of a Series A financing?](http://www.startupcompanylawyer.com/2007/12/15/what-are-the-conditions-to-closing-of-a-series-a-financing)
+*   [What does the legal opinion cover?](http://www.startupcompanylawyer.com/2008/01/12/what-does-the-legal-opinion-cover)
+*   [What is Form D and what information gets publicly disclosed to the SEC in a financing?](http://www.startupcompanylawyer.com/2008/08/03/what-is-form-d-and-what-information-gets-publicly-disclosed-to-the-sec-regarding-a-financing)
+*   [How do the sample Y Combinator Series AA financing documents differ from typical Series A financing documents (or what&#8217;s the difference between seed and venture financing terms)?](http://www.startupcompanylawyer.com/2008/08/23/how-do-the-sample-y-combinator-series-aa-financing-documents-differ-from-typical-series-a-financing-documents-or-whats-the-difference-between-seed-and-venture-financing-terms)
+*   [How do the sample Series Seed financing documents differ from typical Series A financing documents?](http://www.startupcompanylawyer.com/2010/03/14/how-do-the-sample-series-seed-financing-documents-differ-from-typical-series-a-financing-documents)
+*   [What is upgradeable Series A preferred stock?](http://www.startupcompanylawyer.com/2008/09/12/what-is-upgradeable-series-a-preferred-stock)
+*   [How do you find federal and state government funding opportunities for clean tech and other companies?](http://www.startupcompanylawyer.com/2009/12/22/how-do-you-find-federal-and-state-government-funding-opportunities-for-clean-tech-and-other-companies)
 
 SERIES B FINANCINGS
-What does pari passu mean?
-Should the Series B liquidation preference be senior to the Series A?
-Should the Series B have a separate protective provision?
+*   What does pari passu mean?
+*   Should the Series B liquidation preference be senior to the Series A?
+*   Should the Series B have a separate protective provision?
 
 DOWN ROUNDS
 
-What deal terms appear in down round and highly dilutive financings?
-http://www.startupcompanylawyer.com/2008/10/23/what-deal-terms-appear-in-down-round-and-highly-dilutive-financings
+*   [What deal terms appear in down round and highly dilutive financings?](http://www.startupcompanylawyer.com/2008/10/23/what-deal-terms-appear-in-down-round-and-highly-dilutive-financings)
+*   [How can a board decrease litigation risk in an insider-led down round or dilutive financing?](http://www.startupcompanylawyer.com/2008/11/21/how-can-a-board-decrease-litigation-risk-in-an-insider-led-down-round-or-dilutive-financing)
+*   [If a down round financing is led by a new outside investor, does the board need to be concerned by the business judgment rule?](http://www.startupcompanylawyer.com/2008/12/13/if-a-down-round-financing-is-led-by-a-new-outside-investor-does-the-board-need-to-be-concerned-about-the-business-judgment-rule)
+*   [Should board members representing inside investors vote on the board resolutions authorizing the insider-led down round?](http://www.startupcompanylawyer.com/2008/12/27/should-board-members-representing-inside-investors-vote-on-the-board-resolutions-authorizing-the-insider-led-down-round)
 
-How can a board decrease litigation risk in an insider-led down round or dilutive financing?
-http://www.startupcompanylawyer.com/2008/11/21/how-can-a-board-decrease-litigation-risk-in-an-insider-led-down-round-or-dilutive-financing
+M&A
 
-If a down round financing is led by a new outside investor, does the board need to be concerned by the business judgment rule?
-http://www.startupcompanylawyer.com/2008/12/13/if-a-down-round-financing-is-led-by-a-new-outside-investor-does-the-board-need-to-be-concerned-about-the-business-judgment-rule
-
-Should board members representing inside investors vote on the board resolutions authorizing the insider-led down round?
-http://www.startupcompanylawyer.com/2008/12/27/should-board-members-representing-inside-investors-vote-on-the-board-resolutions-authorizing-the-insider-led-down-round
-
-M&amp;A
-What stockholder approval is necessary to sell a company?
-http://www.startupcompanylawyer.com/2007/08/09/what-stockholder-approval-is-necessary-to-sell-a-company
-
-What are directors&#8217; duties and what can they do to protect themselves in a sale of company?
-http://www.startupcompanylawyer.com/2008/05/15/what-are-directors-duties-and-what-can-they-do-to-protect-themselves-in-a-sale-of-company
-
-What does a liquidation preference spreadsheet look like?
-http://www.startupcompanylawyer.com/2008/11/17/what-does-a-liquidation-preference-spreadsheet-look-like
+*   [What stockholder approval is necessary to sell a company?](http://www.startupcompanylawyer.com/2007/08/09/what-stockholder-approval-is-necessary-to-sell-a-company)
+*   [What are directors&#8217; duties and what can they do to protect themselves in a sale of company?](http://www.startupcompanylawyer.com/2008/05/15/what-are-directors-duties-and-what-can-they-do-to-protect-themselves-in-a-sale-of-company)
+*   [What does a liquidation preference spreadsheet look like?](http://www.startupcompanylawyer.com/2008/11/17/what-does-a-liquidation-preference-spreadsheet-look-like)
 		
-		<div class="postmeta">
-			<p>Written by Yokum &middot; Filed Under <a href="http://www.startupcompanylawyer.com/category/index/" 
 	
