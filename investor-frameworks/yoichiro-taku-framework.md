@@ -12,7 +12,7 @@ Nav
 *   [M&A](http://www.startupcompanylawyer.com/category/ma)
 *   [General](http://www.startupcompanylawyer.com/category/general)
 
-INCORPORATION
+Incorporation
 
 *   [What do you need to do before you quit your job to form a startup company?](http://www.startupcompanylawyer.com/2009/01/08/what-do-you-need-to-do-before-you-quit-your-job-to-form-a-startup-company)
 *   [When do I need to incorporate a company?](http://www.startupcompanylawyer.com/2009/07/20/when-do-i-need-to-incorporate-a-company)
@@ -32,7 +32,7 @@ INCORPORATION
 *   [What trademark and other legal issues are involved in selecting a company name?](http://www.startupcompanylawyer.com/2008/03/07/what-trademark-and-other-legal-issues-are-involved-in-selecting-a-company-name)
 *   [What inspection and information rights does a stockholder have?](http://www.startupcompanylawyer.com/2008/02/09/what-inspection-and-information-rights-does-a-stockholder-have)
 
-FOUNDERS ISSUES
+Founders Issues
 
 *   [Should founders pay for their stock in cash or contribute intellectual property?](http://www.startupcompanylawyer.com/2009/01/14/should-founders-pay-for-their-stock-in-cash-or-contribute-intellectual-property)
 *   [Should founders stock be subject to vesting before a venture financing?](http://www.startupcompanylawyer.com/2007/07/18/should-founders-stock-be-subject-to-vesting-before-a-venture-financing)
@@ -44,7 +44,7 @@ FOUNDERS ISSUES
 *   [What is Class F common stock?](http://www.startupcompanylawyer.com/2009/04/23/what-is-class-f-common-stock)
 *   [What is TheFunded Founder Institute?](http://www.startupcompanylawyer.com/2009/05/04/what-is-thefunded-founder-institute)
 
-STOCK OPTIONS/COMPENSATION
+Stock Options/Compensation
 
 *   [What is Section 409A?](http://www.startupcompanylawyer.com/2008/01/19/what-is-section-409a)
 *   [How do you set the exercise price of stock options to avoid Section 409A issues?](http://www.startupcompanylawyer.com/2009/01/01/how-do-you-set-the-exercise-price-of-stock-options-to-avoid-section-409a-issues)
@@ -54,7 +54,7 @@ STOCK OPTIONS/COMPENSATION
 *   How many shares should be reserved under a stock option plan?
 *   [How much should you pay an executive in a startup company?](http://www.startupcompanylawyer.com/2009/05/01/how-much-should-you-pay-an-executive-in-a-startup-company)
 
-GENERAL
+General
 
 *   [What is important in a confidentiality agreement or non-disclosure agreement (NDA)?](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda)
 *   [What are securities laws?](http://www.startupcompanylawyer.com/2008/11/28/what-are-securities-laws)
@@ -62,7 +62,7 @@ GENERAL
 *   [Can a California company have unpaid interns?](http://www.startupcompanylawyer.com/2010/04/15/can-a-california-company-have-unpaid-interns)
 *   [Is crowdfunding legal?](http://www.startupcompanylawyer.com/2012/05/26/is-crowdfunding-legal)
 
-CONVERTIBLE NOTE BRIDGE FINANCINGS
+Convertible Note Bridge Financings
 
 *   [Should a startup company raise its seed round using a convertible note or Series A Preferred Stock?](http://www.startupcompanylawyer.com/2007/04/27/should-a-startup-company-raise-its-seed-round-using-a-convertible-note-or-series-a-preferred-stock)
 *   [What does a convertible note bridge financing term sheet look like?](http://www.startupcompanylawyer.com/2007/04/27/what-does-a-convertible-note-bridge-financing-term-sheet-look-like)
@@ -86,7 +86,7 @@ CONVERTIBLE NOTE BRIDGE FINANCINGS
 *   [What are the terms of Yuri Milner/SV Angel’s Start Fund $150K investment into Y Combinator companies?](http://www.startupcompanylawyer.com/2011/01/31/what-are-the-terms-of-yuri-milnersv-angels-start-fund-150k-investment-into-y-combinator-companies)
 *   [What is convertible equity (or a convertible security)?](http://www.startupcompanylawyer.com/2012/08/31/what-is-convertible-equity-or-a-convertible-security)
 
-SERIES A FINANCINGS
+Series A Financings
 
 *   [What trends does WSGR see in venture financings?](http://www.startupcompanylawyer.com/2007/06/28/what-trends-does-wsgr-see-in-venture-financings)
 *   [What does a Series A term sheet look like?](http://www.startupcompanylawyer.com/2007/05/14/what-does-a-series-a-term-sheet-look-like)
@@ -135,12 +135,13 @@ SERIES A FINANCINGS
 *   [What is upgradeable Series A preferred stock?](http://www.startupcompanylawyer.com/2008/09/12/what-is-upgradeable-series-a-preferred-stock)
 *   [How do you find federal and state government funding opportunities for clean tech and other companies?](http://www.startupcompanylawyer.com/2009/12/22/how-do-you-find-federal-and-state-government-funding-opportunities-for-clean-tech-and-other-companies)
 
-SERIES B FINANCINGS
+Series B Financings
+
 *   What does pari passu mean?
 *   Should the Series B liquidation preference be senior to the Series A?
 *   Should the Series B have a separate protective provision?
 
-DOWN ROUNDS
+Down Rounds
 
 *   [What deal terms appear in down round and highly dilutive financings?](http://www.startupcompanylawyer.com/2008/10/23/what-deal-terms-appear-in-down-round-and-highly-dilutive-financings)
 *   [How can a board decrease litigation risk in an insider-led down round or dilutive financing?](http://www.startupcompanylawyer.com/2008/11/21/how-can-a-board-decrease-litigation-risk-in-an-insider-led-down-round-or-dilutive-financing)
