@@ -29,7 +29,7 @@ Incorporation
 *   [What is par value?](http://www.startupcompanylawyer.com/2008/07/18/what-is-par-value)
 *   What is an agent for service of process?
 *   [How do you calculate Delaware franchise taxes?](http://www.startupcompanylawyer.com/2008/02/01/how-do-you-calculate-delaware-franchise-taxes)
-*   [What trademark and other legal issues are involved in selecting a company name?](http://www.startupcompanylawyer.com/2008/03/07/what-trademark-and-other-legal-issues-are-involved-in-selecting-a-company-name)
+*   [What trademark and other legal issues are involved in selecting a company name?](http://www.startupcompanylawyer.com/2008/03/07/what-trademark-and-other-legal-issues-are-involved-in-selecting-a-company-name) and [U.S. Trademark Law Wikipedia](https://en.wikipedia.org/wiki/United_States_trademark_law)
 *   [What inspection and information rights does a stockholder have?](http://www.startupcompanylawyer.com/2008/02/09/what-inspection-and-information-rights-does-a-stockholder-have) and [Delaware General Corporation Law Section 220(b)](http://delcode.delaware.gov/title8/c001/sc07)
 
 Founders Issues
