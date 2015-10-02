@@ -489,6 +489,9 @@ Delaware
 *   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
 *   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
+California
+*   [California Laws & Regulations](http://www.ca.gov/Work/LawsAndRegs.html)
+
 Kansas
 *   [State of Kansas Business](http://www.kansas.gov/business) 
 *   [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
