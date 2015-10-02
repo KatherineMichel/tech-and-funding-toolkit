@@ -66,7 +66,7 @@ Convertible Note Bridge Financings
 
 *   [Should a startup company raise its seed round using a convertible note or Series A Preferred Stock?](http://www.startupcompanylawyer.com/2007/04/27/should-a-startup-company-raise-its-seed-round-using-a-convertible-note-or-series-a-preferred-stock)
 *   [What does a convertible note bridge financing term sheet look like?](http://www.startupcompanylawyer.com/2007/04/27/what-does-a-convertible-note-bridge-financing-term-sheet-look-like)
-*   [What should the interest rate for a convertible bridge note be?](http://www.startupcompanylawyer.com/2007/04/27/what-should-the-interest-rate-for-a-convertible-bridge-note-be)
+*   [What should the interest rate for a convertible bridge note be?](http://www.startupcompanylawyer.com/2007/04/27/what-should-the-interest-rate-for-a-convertible-bridge-note-be) and [California Usury Law](http://www.leginfo.ca.gov/.const/.article_15)
 *   [What should the conversion discount be for a bridge note into preferred stock?](http://www.startupcompanylawyer.com/2007/04/28/what-should-the-conversion-discount-be-for-a-bridge-note-into-preferred-stock)
 *   [What is a convertible bridge note with a price cap?](http://www.startupcompanylawyer.com/2010/01/11/what-is-a-convertible-bridge-note-with-a-price-cap)
 *   [What type of financing forces an automatic conversion of the promissory note into Preferred Stock?](http://www.startupcompanylawyer.com/2007/04/29/what-type-of-financing-forces-an-automatic-conversion-of-the-promissory-note-into-preferred-stock)
