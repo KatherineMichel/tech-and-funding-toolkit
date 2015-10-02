@@ -6,7 +6,7 @@
 
 # Bill Gurley
 *   [What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
-*   [Rake Poker Wikipedia](https://en.wikipedia.org/wiki/Rake_(poker))
+*   [A Rake Too Far: Optimal Platform Pricing Strategy](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy) and [Rake Poker Wikipedia](https://en.wikipedia.org/wiki/Rake_(poker))
 
 # Jason Calacanis
 *   [Jason Calacanis Blog](http://calacanis.com)
