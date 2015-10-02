@@ -7,6 +7,7 @@
 # Bill Gurley
 *   [What Is Really Happening to the Venture Capital Industry?](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry) 
 *   [A Rake Too Far: Optimal Platform Pricing Strategy](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy) and [Rake Poker Wikipedia](https://en.wikipedia.org/wiki/Rake_(poker))
+*   [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
 
 # Jason Calacanis
 *   [Jason Calacanis Blog](http://calacanis.com)
