@@ -19,7 +19,7 @@ Incorporation
 *   [What type of entity should I form?](http://www.startupcompanylawyer.com/2009/03/12/what-type-of-entity-should-i-form)
 *   [What state should I incorporate in?](http://www.startupcompanylawyer.com/2009/03/03/what-state-should-i-incorporate-in)
 *   [What is a certificate of incorporation?](http://www.startupcompanylawyer.com/2009/01/25/what-is-a-certificate-of-incorporation)
-*   [What are bylaws?](http://www.startupcompanylawyer.com/2009/02/15/what-are-bylaws)
+*   [What are bylaws?](http://www.startupcompanylawyer.com/2009/02/15/what-are-bylaws), [IPO Lock-Up](http://www.investopedia.com/terms/i/ipolockup.asp), and [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
 *   Why should a company follow corporate formalities?
 *   What does the board of directors do?
 *   What liabilities do the board or officers face?
