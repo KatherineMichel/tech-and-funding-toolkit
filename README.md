@@ -602,6 +602,7 @@ Patent Search and FOIA
 *   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
 *   [FOIA](http://foia.state.gov)
 *   [Stack Exchange Patents](http://patents.stackexchange.com)
+*   [Twitter Innovator's Patent Agreement](https://github.com/twitter/innovators-patent-agreement)
 
 Digital Millennium Copyright Act
 *   [Digital Millennium Copyright Act Wikipedia](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)  
