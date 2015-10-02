@@ -225,7 +225,7 @@ Table of Contents
 *   [Stowe Boyd](http://stoweboyd.com)
 *   [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
 *   [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
-*   [Tom Peters](http://excellencenow.com) and [Tom Peters Slides](http://tompeters.com/slides)
+*   [Tom Peters](http://tompeters.com), [Tom Peters Slides](http://tompeters.com/slides), and [Tom Peters Excellence Now](http://excellencenow.com) 
 *   [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 *   [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
 *   [Venkatesh Rao Ribbonfarm](http://www.ribbonfarm.com) and [Venkatesh Rao Breaking Smart](http://breakingsmart.com)
@@ -3898,7 +3898,7 @@ Human Emotion
 *   [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
-*   [Tom Peters: "Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
+*   [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
 *   [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
 
 #### Notable Quotes
