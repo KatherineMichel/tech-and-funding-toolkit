@@ -485,6 +485,7 @@ Delaware
 *   [Delaware Code Online](http://delcode.delaware.gov)
 *   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
 *   [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
+*   [The Delaware Court of Chancery](http://courts.delaware.gov/chancery)
 *   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
 *   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
 
