@@ -154,4 +154,3 @@ M&A
 *   [What are directors&#8217; duties and what can they do to protect themselves in a sale of company?](http://www.startupcompanylawyer.com/2008/05/15/what-are-directors-duties-and-what-can-they-do-to-protect-themselves-in-a-sale-of-company)
 *   [What does a liquidation preference spreadsheet look like?](http://www.startupcompanylawyer.com/2008/11/17/what-does-a-liquidation-preference-spreadsheet-look-like)
 		
-	
