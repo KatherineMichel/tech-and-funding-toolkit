@@ -58,7 +58,7 @@ General
 
 *   [What is important in a confidentiality agreement or non-disclosure agreement (NDA)?](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda)
 *   [What are securities laws?](http://www.startupcompanylawyer.com/2008/11/28/what-are-securities-laws), [Small Business and the SEC](http://www.sec.gov/info/smallbus/qasbsec.htm), [Google S-1](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/ds1.htm), and [SEC Cease-and-Desist](http://www.sec.gov/litigation/admin/33-8523.htm)
-*   [What is an accredited investor?](http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor)
+*   [What is an accredited investor?](http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor), [Regulation D (Rules 501, 505, 506) Wikipedia](https://en.wikipedia.org/wiki/Regulation_D_(SEC)), and [Dodd–Frank Wall Street Reform and Consumer Protection Act Wikipedia](https://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act)
 *   [Can a California company have unpaid interns?](http://www.startupcompanylawyer.com/2010/04/15/can-a-california-company-have-unpaid-interns)
 *   [Is crowdfunding legal?](http://www.startupcompanylawyer.com/2012/05/26/is-crowdfunding-legal)
 
