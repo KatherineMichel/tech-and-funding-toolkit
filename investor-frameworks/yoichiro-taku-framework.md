@@ -26,15 +26,15 @@ Incorporation
 *   What do stockholders need to approve?
 *   [How many shares should be authorized in the certificate of incorporation?](http://www.startupcompanylawyer.com/2008/01/25/how-many-shares-should-be-authorized-in-the-certificate-of-incorporation)
 *   [What does fully-diluted capitalization mean?](http://www.startupcompanylawyer.com/2008/08/17/what-does-fully-diluted-capitalization-mean)
-*   [What is par value?](http://www.startupcompanylawyer.com/2008/07/18/what-is-par-value)
+*   [What is par value?](http://www.startupcompanylawyer.com/2008/07/18/what-is-par-value) and [Par Value Wikipedia](https://en.wikipedia.org/wiki/Par_value)
 *   What is an agent for service of process?
-*   [How do you calculate Delaware franchise taxes?](http://www.startupcompanylawyer.com/2008/02/01/how-do-you-calculate-delaware-franchise-taxes)
+*   [How do you calculate Delaware franchise taxes?](http://www.startupcompanylawyer.com/2008/02/01/how-do-you-calculate-delaware-franchise-taxes) and [State of Delaware How To Calculate Franchise Taxes](http://www.corp.delaware.gov/frtaxcalc.shtml)
 *   [What trademark and other legal issues are involved in selecting a company name?](http://www.startupcompanylawyer.com/2008/03/07/what-trademark-and-other-legal-issues-are-involved-in-selecting-a-company-name) and [U.S. Trademark Law Wikipedia](https://en.wikipedia.org/wiki/United_States_trademark_law)
 *   [What inspection and information rights does a stockholder have?](http://www.startupcompanylawyer.com/2008/02/09/what-inspection-and-information-rights-does-a-stockholder-have) and [Delaware General Corporation Law Section 220(b)](http://delcode.delaware.gov/title8/c001/sc07)
 
 Founders Issues
 
-*   [Should founders pay for their stock in cash or contribute intellectual property?](http://www.startupcompanylawyer.com/2009/01/14/should-founders-pay-for-their-stock-in-cash-or-contribute-intellectual-property), [Par Value Wikipedia](https://en.wikipedia.org/wiki/Par_value), and [Internal Revenue Service Section 351](http://www.irs.gov/pub/irs-drop/rr-03-51.pdf)
+*   [Should founders pay for their stock in cash or contribute intellectual property?](http://www.startupcompanylawyer.com/2009/01/14/should-founders-pay-for-their-stock-in-cash-or-contribute-intellectual-property), and [Internal Revenue Service Section 351](http://www.irs.gov/pub/irs-drop/rr-03-51.pdf)
 *   [Should founders stock be subject to vesting before a venture financing?](http://www.startupcompanylawyer.com/2007/07/18/should-founders-stock-be-subject-to-vesting-before-a-venture-financing)
 *   [What should the vesting terms of founder stock be before a venture financing?](http://www.startupcompanylawyer.com/2007/07/19/what-should-the-vesting-terms-of-founder-stock-be-before-a-venture-financing)
 *   [What is an 83(b) election?](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election) and [Restricted Stock Wikipedia](https://en.wikipedia.org/wiki/Restricted_stock)
