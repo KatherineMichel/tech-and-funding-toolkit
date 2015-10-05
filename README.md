@@ -1233,6 +1233,7 @@ Books
 *   [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
 *   [Carlota Perez: Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](http://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
 *   [Dale Carnegie: How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+*   [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
 *   [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
 *   [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 *   [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
