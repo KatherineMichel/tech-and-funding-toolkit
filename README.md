@@ -997,12 +997,21 @@ Alphabet and Berkshire Hathaway
 *   [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
 
 Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
-*   [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X/ref=sr_1_1?s=books&ie=UTF8&qid=1441421817&sr=1-1&keywords=charlie+munger+the+complete+investor)
+*   [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
 
-Charlie Munger and Rational Decisions via [Tren Griffin](https://twitter.com/trengriffin)
+Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+*   [A Dozen Things I’ve Learned from Charlie Munger About Benjamin Graham’s Value Investing System](http://25iq.com/2015/08/29/a-dozen-things-ive-learned-from-charlie-munger-about-benjamin-grahams-value-investing-system)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Risk](http://25iq.com/2015/09/05/a-dozen-things-ive-learned-from-charlie-munger-about-risk-2)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Inversion (including the Importance of being Consistently Not Stupid)](http://25iq.com/2015/09/12/a-dozen-things-ive-learned-from-charlie-munger-about-inversion-including-the-importance-of-being-consistently-not-stupid-2)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Mistakes](http://25iq.com/2015/09/19/a-dozen-things-ive-learned-from-charlie-munger-about-mistakes)
+*   [A Dozen Things I’ve Learned from Charlie Munger About The Berkshire System](http://25iq.com/2015/09/26/a-dozen-things-ive-learned-from-charlie-munger-about-the-berkshire-system)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Capital Allocation](http://25iq.com/2015/10/03/a-dozen-things-ive-learned-from-charlie-munger-about-capital-allocation)
+
+Rational Decisions 
 *   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
 *   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
-*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
 *   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
 *   [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 
