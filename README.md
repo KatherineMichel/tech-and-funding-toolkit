@@ -746,6 +746,7 @@ Analyst Groups
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
 *   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
 *   [Constellation Research](https://www.constellationr.com)
+*   [CreditSuisse Plus](https://plus.credit-suisse.com/researchplus)
 *   [Deloitte](http://www2.deloitte.com/us/en.html)
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
 *   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
