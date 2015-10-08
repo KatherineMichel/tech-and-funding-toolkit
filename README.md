@@ -368,6 +368,9 @@ VC Firm Portfolios and Anti-Portfolios
 *   [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
 *   [YCList](http://yclist.com)
 
+EquityZen
+*   [EquityZen](https://equityzen.com)
+
 VC Firm Newsletters
 *   [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 
@@ -698,10 +701,11 @@ Cap Table
 Raising a Seed Round- The Spreadsheet
 *   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
 
-*   [CompStudy](https://www.compstudy.com)
-
 Equity Investment Simulation
 *   [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
+
+Compensation
+*   [CompStudy](https://www.compstudy.com)
 
 Aquihire
 *   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
