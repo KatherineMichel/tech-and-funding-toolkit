@@ -1151,10 +1151,15 @@ Realism
 Reductionism
 
 Antifragile and The Black Swan
-*   [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+*   [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
 *   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
 *   [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
 *   [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+
+Nassim Nicholas Taleb's Teachings
+*   [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
+*   [How to (Not) Estimate Gini Coefficients for Fat
+Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
 
 Economists, Investors, Philosophers
 *   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
