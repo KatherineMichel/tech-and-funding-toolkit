@@ -200,6 +200,7 @@ Table of Contents
 *   [Kevin Kelly](http://kk.org/kk) and [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1)
 *   [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
 *   [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
+*   [Larry Summers](http://larrysummers.com)
 *   [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)  
 *   [Louis Gray](http://blog.louisgray.com)
 *   [Luke Wroblewski](http://www.lukew.com/ff?tag=mobile)
