@@ -778,7 +778,7 @@ Think Tanks
 #### Business and Tech News Sources
 
 Business News
-*   [Bloomberg Business](http://www.bloomberg.com)  
+*   [Bloomberg Business](http://www.bloomberg.com) and [Bloomberg Live](http://www.bloomberg.com/live)
 *   [BloombergView Tech](http://www.bloombergview.com/topics/tech)
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
