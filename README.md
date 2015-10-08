@@ -990,7 +990,7 @@ Leveraged Buyouts
 
 Alphabet and Berkshire Hathaway
 *   [Alphabet](https://abc.xyz)
-*   [Berkshire Hathaway](http://www.berkshirehathaway.com)  
+*   [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
 *   [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
 *   [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
 *   [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
