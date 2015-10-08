@@ -1949,6 +1949,18 @@ Presenting Metrics Generally
 * Truncating the Y-Axis
 * Cumulative Charts, Again
 
+Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
+* Return on Net Assets (RONA)
+* Return on Capital Employed (ROCE)
+* Internal Rate of Return (IRR)
+* Earnings Per Share (EPS)
+* Gross Margin Percentage
+* Economic Value Added (EVA)
+* Marginal Cost/Marginal Revenue
+* Debt/Equity
+* Net Present Value (NPV)
+* Revenue Per Employee
+
 Bill Gurley on Conversion and LTV
 *   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
 *   [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
