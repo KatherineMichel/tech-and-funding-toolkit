@@ -477,6 +477,9 @@ Associations
 
 #### Regulation, Business Entity
 
+U.S. Law
+*   [Cornell Law: U.S. Code](https://www.law.cornell.edu/uscode/text)
+
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
 *   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
 *   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
