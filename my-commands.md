@@ -14,7 +14,8 @@
     <p>git merge --abort (to undo a merge)</p>
     <p>cd ~</p>                                
 
-    <br><p>Django- Start Project/App</p>
+    <br><p>python -c "import django; print(django.get_version())"</p>
+    <p>Django- Start Project/App</p>
     <p>mkdir name</p>  
     <p>cd name</p> 
     <p>sudo apt-get install python-virtualenv</p>  
