@@ -29,6 +29,7 @@
     <p>python manage.py startapp appname</p> 
     <p>python manage.py makemigrations appname</p> 
     <p>python manage.py sqlmigrate appname 0001 (sql alternative)</p>
+    <p>python manage.py shell</p>
     <p>To exit virtual environment type deactivate</p>                                 
 
     <br><p>Heroku- Main Commands to Deploy</p>
