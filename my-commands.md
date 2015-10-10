@@ -26,6 +26,7 @@
     <p>django-admin startproject projectname</p>  
     <p>python manage.py migrate</p> 
     <p>python manage.py runserver port# (port# is optional)</p> 
+    <p>control-c</p> 
     <p>python manage.py startapp appname</p> 
     <p>python manage.py makemigrations appname</p> 
     <p>python manage.py sqlmigrate appname 0001 (sql alternative)</p>
