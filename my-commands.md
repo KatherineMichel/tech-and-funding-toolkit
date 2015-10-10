@@ -27,6 +27,7 @@
     <p>python manage.py migrate</p> 
     <p>python manage.py runserver port# (port# is optional)</p> 
     <p>python manage.py startapp appname</p> 
+    <p>python manage.py makemigrations appname</p> 
     <p>To exit virtual environment type deactivate</p>                                 
 
     <br><p>Heroku- Main Commands to Deploy</p>
