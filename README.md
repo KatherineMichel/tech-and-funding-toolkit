@@ -3450,7 +3450,7 @@ Awesome Python
 *   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
 
 Dedicated Python Hosting
-[Python Anywhere](https://www.pythonanywhere.com)  
+*   [Python Anywhere](https://www.pythonanywhere.com)  
 
 O'Reilly Test-Driven Development with Python
 *   [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
@@ -3475,6 +3475,10 @@ Python- Django
 *   [Django Documentation](https://docs.djangoproject.com)  
 *   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 *   [Django GitHub](https://github.com/django/django)  
+
+Python- Django- Git and Deployment
+*   [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
+*   [Deployment Checklist](https://docs.djangoproject.com/en/1.8/howto/deployment/checklist)
 
 Python- Django Jobs
 *   [Django Jobs](https://www.djangojobs.net)  
