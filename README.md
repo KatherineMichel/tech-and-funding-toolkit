@@ -3556,6 +3556,11 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 *   [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
 *   [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
 
+Python- Django- Rest Framework (Serialization/Deserialization)
+*   [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
+*   [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
+*   [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
+
 Python- Django- Rest Framework GIS
 *   [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
 *   [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
