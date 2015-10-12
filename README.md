@@ -3384,15 +3384,15 @@ LaTeX
 
 Read the Docs
 *   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+*   [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
 *   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
 
 Python- Django-Sphinxdoc
 *   [Sphinxdoc](http://sphinx-doc.org)  
 *   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
 
-API Docs (including Python- Django- Rest Framework Swagger)
+API Docs (see also Python- Django- Rest Framework Swagger)
 *   [Swagger API Docs](http://swagger.io)  
-*   [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger)  
 *   [Slate API Docs GitHub](https://github.com/tripit/slate)  
 *   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com)  
 
@@ -3547,6 +3547,7 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 *   [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
 *   [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
 *   [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+*   [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
 
 Python- Django- Rest Framework GIS
 *   [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
@@ -3693,6 +3694,9 @@ Python- Django- Pinax
 *   [Pinax Symposium](https://github.com/pinax/symposion)  
 
 Python- Django- Cookiecutter
+
+Pier Angelo
+*   [Pier Angelo GitHub](https://github.com/pierangelo1982)
 
 18F and Peace Corps New Website (Python- Django)
 *   [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
