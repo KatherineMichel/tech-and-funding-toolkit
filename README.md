@@ -3420,7 +3420,8 @@ Python (See also Data Science)
 *   [Virtualenvwrapper-win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
 *   [Python Patterns Library](https://github.com/faif/python-patterns)  
 
-Python- Packages
+Python- Packages/Libraries
+*   [Python Libraries Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
 *   [Python Packaging Authority GitHub](https://github.com/pypa)  
 *   [PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
 *   [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
