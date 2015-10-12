@@ -3679,6 +3679,18 @@ Django Girls (Python- Django)
 *   [Django Girls Coach](http://coach.djangogirls.org)  
 *   [Django Girls Resources](https://github.com/DjangoGirls/resources)  
 
+Bootcamp (Python- Django)
+*   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
+*   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
+
+Python- Django- Pinax
+*   [Pinax](http://pinaxproject.com)  
+*   [Pinax GitHub](https://github.com/pinax)  
+*   [Pinax Starter App GitHub](https://github.com/pinax/pinax-starter-app)  
+*   [Pinax Symposium](https://github.com/pinax/symposion)  
+
+Python- Django- Cookiecutter
+
 18F and Peace Corps New Website (Python- Django)
 *   [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
 *   [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site)  
@@ -3743,10 +3755,6 @@ Reddit (Python- Adapted from Django)
 *   [Reddit i18n Getting Started](http://www.reddit.com/r/i18n/wiki/getting_started)  
 *   [Reddit Enhancement Suite Github](https://github.com/Photobucket/Reddit-Enhancement-Suite)  
 
-Bootcamp (Python- Django)
-*   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
-*   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
-
 NPR + Others (Python (Also Node for Less))
 *   [NPR App Templates (Python and OSX) GitHub](https://github.com/nprapps/app-template)  
 *   [Planet Money Makes a T-Shirt](http://planetmoney.com/shirt)  
@@ -3768,14 +3776,6 @@ Miscellaneous (Python)
 
 Python- Django- Templates
 *   [Django + HTML5B + Bootstrap](https://github.com/xenith/django-base-template)  
-
-Python- Django- Cookiecutter
-
-Python- Django- Pinax
-*   [Pinax](http://pinaxproject.com)  
-*   [Pinax GitHub](https://github.com/pinax)  
-*   [Pinax Starter App GitHub](https://github.com/pinax/pinax-starter-app)  
-*   [Pinax Symposium](https://github.com/pinax/symposion)  
 
 #### Ruby, Rails
 
