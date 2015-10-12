@@ -3478,7 +3478,7 @@ Python- Django
 Python- Django Jobs
 *   [Django Jobs](https://www.djangojobs.net)  
 
-Python- Django- Packages
+Python- Django- Packages (See also Cookiecutter)
 *   [Django Packages](https://www.djangopackages.com)  
 *   [Django Packages GitHub](https://github.com/pydanny/djangopackages)  
 
@@ -3694,6 +3694,12 @@ Python- Django- Pinax
 *   [Pinax Symposium](https://github.com/pinax/symposion)  
 
 Python- Django- Cookiecutter
+*   [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django )
+*   [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
+*   [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
+*   [Cookiecutter PyPackage](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
+*   [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
+*   [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 
 Pier Angelo
 *   [Pier Angelo GitHub](https://github.com/pierangelo1982)
