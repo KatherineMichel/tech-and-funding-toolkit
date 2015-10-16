@@ -1965,18 +1965,18 @@ Presenting Metrics Generally
 Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
 * Return on Net Assets (RONA)
 * Return on Capital Employed (ROCE)
-* Internal Rate of Return (IRR)
+* [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
 * Earnings Per Share (EPS)
 * Gross Margin Percentage
-* Economic Value Added (EVA)
+* [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
 * Marginal Cost/Marginal Revenue
 * Debt/Equity
-* Net Present Value (NPV)
+* [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
 * Revenue Per Employee
 
 Ellen Chisa HBS Fin2
 * WACC
-* DCF
+* [Discounted Cash Flow Wikipedia](http://en.wikipedia.org/wiki/Discounted_cash_flow)
 * APV
 * Multiples
 * Bonds
