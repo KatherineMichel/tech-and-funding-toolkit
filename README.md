@@ -1963,8 +1963,8 @@ Presenting Metrics Generally
 * Cumulative Charts, Again
 
 Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
-* Return on Net Assets (RONA)
-* Return on Capital Employed (ROCE)
+* [Return on Net Assets (RONA) Wikipedia](https://en.wikipedia.org/wiki/Return_on_net_assets)
+* [Return on Capital Employed (ROCE) Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital_employed)
 * [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
 * Earnings Per Share (EPS)
 * Gross Margin Percentage
@@ -1975,13 +1975,13 @@ Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
 * Revenue Per Employee
 
 Ellen Chisa HBS Fin2
-* WACC
+* [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
 * [Discounted Cash Flow Wikipedia](http://en.wikipedia.org/wiki/Discounted_cash_flow)
-* APV
+* [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
 * Multiples
 * Bonds
 * Black-Scholes
-* Collars
+* [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
 
 Bill Gurley on Conversion and LTV
 *   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
