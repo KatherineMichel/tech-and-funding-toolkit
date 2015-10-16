@@ -1919,7 +1919,7 @@ A16Z Metrics
 
 Business and Financial Metrics
 * 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
-* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [(ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
+* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
 * 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
 * 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
 * 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
@@ -1970,7 +1970,7 @@ Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
 * [Earnings Per Share (EPS) Wikipedia](https://en.wikipedia.org/wiki/Earnings_per_share)
 * [Gross Margin (Percentage) Wikipedia](https://en.wikipedia.org/wiki/Gross_margin)
 * [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
-* Marginal Cost/Marginal Revenue
+* [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost)/[Marginal Revenue](https://en.wikipedia.org/wiki/Marginal_revenue)
 * Debt/Equity
 * [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
 * [Revenue (Net Income) Per Employee Wikipedia](https://en.wikipedia.org/wiki/Net_income_per_employee)
