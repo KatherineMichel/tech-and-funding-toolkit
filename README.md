@@ -4077,6 +4077,7 @@ More Models
 *   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
 
 Network
+*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
 *   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
 *   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
