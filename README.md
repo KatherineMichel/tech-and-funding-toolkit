@@ -1918,7 +1918,7 @@ A16Z Metrics
 
 Business and Financial Metrics
 * 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
-* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), (ARR (annual recurring revenue), ARR per customer, MRR (monthly recurring revenue))
+* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [(ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
 * 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
 * 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
 * 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
