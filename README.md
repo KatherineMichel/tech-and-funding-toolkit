@@ -539,6 +539,7 @@ Special Rules- via IRS
 
 Special Rules- via SEC
 *   [The Laws That Govern the Securities Industry](http://www.sec.gov/about/laws.shtml)
+*   [Glass-Steagall Legislation Wikipedia](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_Legislation)
 *   [Small Business and the SEC](http://www.sec.gov/info/smallbus/qasbsec.htm)
 *   [SEC Rule 506, 506(b) (Public Fundraising)](http://www.sec.gov/answers/rule506.htm)
 *   Regulation A (Public Fundraising)
@@ -4030,6 +4031,7 @@ General
 *   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
 *   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
+*   [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
