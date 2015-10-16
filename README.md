@@ -577,6 +577,7 @@ Notable SEC Filings
 *   [RetailMeNot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001475274&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [RetailMeNot S-1](http://www.sec.gov/Archives/edgar/data/1475274/000119312513261481/d498394ds1.htm)  
 *   [Salesforce Marketing Cloud](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001108524&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Salesforce S-1](http://www.sec.gov/Archives/edgar/data/1108524/000119312503096073/ds1.htm)  
 *   [Shutterstock SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001549346&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Shutterstock S-1](http://www.sec.gov/Archives/edgar/data/1549346/000104746913008614/a2216433zs-1.htm)  
+*   [Square S-1](http://www.sec.gov/Archives/edgar/data/1512673/000119312515343733/d937622ds1.htm)
 *   [Trulia SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001349454&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Trulia S-1](http://www.sec.gov/Archives/edgar/data/1349454/000119312513089639/d493065ds1.htm)  
 *   [Twitter SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001418091&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Twitter S-1](http://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm)  
 *   [Zendesk SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001463172&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zendesk S-1](http://www.sec.gov/Archives/edgar/data/1463172/000119312514137878/d665368ds1.htm)  
@@ -1966,13 +1967,13 @@ Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
 * [Return on Net Assets (RONA) Wikipedia](https://en.wikipedia.org/wiki/Return_on_net_assets)
 * [Return on Capital Employed (ROCE) Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital_employed)
 * [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
-* Earnings Per Share (EPS)
-* Gross Margin Percentage
+* [Earnings Per Share (EPS) Wikipedia](https://en.wikipedia.org/wiki/Earnings_per_share)
+* [Gross Margin (Percentage) Wikipedia](https://en.wikipedia.org/wiki/Gross_margin)
 * [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
 * Marginal Cost/Marginal Revenue
 * Debt/Equity
 * [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
-* Revenue Per Employee
+* [Revenue (Net Income) Per Employee Wikipedia](https://en.wikipedia.org/wiki/Net_income_per_employee)
 
 Ellen Chisa HBS Fin2
 * [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
@@ -1980,7 +1981,7 @@ Ellen Chisa HBS Fin2
 * [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
 * Multiples
 * Bonds
-* Black-Scholes
+* [Black-Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 * [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
 
 Bill Gurley on Conversion and LTV
