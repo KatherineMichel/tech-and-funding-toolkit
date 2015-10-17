@@ -466,7 +466,7 @@ The Terms Behind the Unicorn Valuations
 *   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
 
 Companies and Indices
-*   [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
+*   [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
 *   [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
 *   [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
 *   [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500)
