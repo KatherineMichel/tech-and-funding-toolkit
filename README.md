@@ -1032,6 +1032,7 @@ Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengri
 *   [A Dozen Things I’ve Learned from Charlie Munger about Mistakes](http://25iq.com/2015/09/19/a-dozen-things-ive-learned-from-charlie-munger-about-mistakes)
 *   [A Dozen Things I’ve Learned from Charlie Munger About The Berkshire System](http://25iq.com/2015/09/26/a-dozen-things-ive-learned-from-charlie-munger-about-the-berkshire-system)
 *   [A Dozen Things I’ve Learned from Charlie Munger about Capital Allocation](http://25iq.com/2015/10/03/a-dozen-things-ive-learned-from-charlie-munger-about-capital-allocation)
+*   [A Dozen Ways Charlie Munger Thinks like Philip Tetlock Suggests in his New Book Superforecasting](http://25iq.com/2015/10/17/a-dozen-ways-charlie-munger-thinks-like-philip-tetlock-suggests-in-his-new-book-superforecasting)
 
 Rational Decisions 
 *   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
