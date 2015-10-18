@@ -590,7 +590,7 @@ S-1
 *   A Note
 *   Risk Factors
 *   Special Note Regarding Forward-Looking Statements
-*   Industry and Market Data and Customer Testimonials
+*   Industry Data/Market Data/Company Metrics/User Metrics/Customer Testimonials
 *   Use of Proceeds
 *   Dividend Policy
 *   Capitalization
