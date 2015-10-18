@@ -336,6 +336,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 *   [KPCB Insights](https://www.kpcb.com/insights) and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
 *   [Nasdaq Entrepreneurial Center](http://thecenter.nasdaq.org)
+*   [NEA](http://www.nea.com)
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [OS Fund Playbook](http://osfund.co/the-osf-playbook)
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
@@ -817,6 +818,7 @@ Management Consulting Firms
 *   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
 
 Think Tanks
+*   [Brookings](http://www.brookings.edu)
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
 *   [Startup Britain Resources](http://www.startupbritain.org/resources)
 
