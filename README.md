@@ -4214,6 +4214,7 @@ Laws, Theories, Logic
 *   [Satisficing (versus Optimizing) Wikipedia](https://en.wikipedia.org/wiki/Satisficing)
 *   [Selection Bias Wikipedia](http://en.wikipedia.org/wiki/Selection_bias)
 *   [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
+*   [Silent Majority Wikipedia](https://en.wikipedia.org/wiki/Silent_majority)
 *   [Simpson's Paradox Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 *   [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
 *   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
