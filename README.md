@@ -472,7 +472,7 @@ Companies and Indices
 *   [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
 *   [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-*   [New York Stock Exchange](https://www.nyse.com)
+*   [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
 *   [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
 *   [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
 *   [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
