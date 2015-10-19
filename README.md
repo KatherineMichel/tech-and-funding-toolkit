@@ -470,6 +470,7 @@ Companies and Indices
 *   [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
 *   [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
 *   [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
+*   [Inc. 5000](http://www.inc.com/inc5000)
 *   [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 *   [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
@@ -828,7 +829,7 @@ Think Tanks
 
 Business News
 *   [Bloomberg Business](http://www.bloomberg.com) and [Bloomberg Live](http://www.bloomberg.com/live)
-*   [BloombergView Tech](http://www.bloombergview.com/topics/tech)
+*   [BloombergView](http://www.bloombergview.com) and [BloombergView Tech](http://www.bloombergview.com/topics/tech)
 *   [Business Insider](http://www.businessinsider.com)
 *   [Economist](http://www.economist.com)
 *   [Entrepreneur](http://www.entrepreneur.com)
