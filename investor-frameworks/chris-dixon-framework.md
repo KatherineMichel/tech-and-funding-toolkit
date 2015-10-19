@@ -132,7 +132,7 @@ Equity Grants
 
 Options (Black-Scholes Model)
 *   [Options](http://cdixon.org/2011/05/13/options), [Derivative (finance) Wikipedia](http://en.wikipedia.org/wiki/Derivative_(finance)), [Exogeny Wikipedia](http://en.wikipedia.org/wiki/Exogeny), and [Black–Scholes Model Wikipedia](http://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
-*   [Options on early stage companies](http://cdixon.org/2009/08/18/options-on-early-stage-companies), [Volatility (finance) Wikipedia](http://en.wikipedia.org/wiki/Volatility_(finance)), and [ERI's Black-Scholes Calculator](http://www.erieri.com/BlackScholes)
+*   [Options on early stage companies](http://cdixon.org/2009/08/18/options-on-early-stage-companies), [Volatility (finance) Wikipedia](http://en.wikipedia.org/wiki/Volatility_(finance)), [Call Option (European Call) Wikipedia](https://en.wikipedia.org/wiki/Call_option), [Option Style (European Call) Wikipedia](https://en.wikipedia.org/wiki/Option_style), and [ERI's Black-Scholes Calculator](http://www.erieri.com/BlackScholes)
 
 Cost/Price, Revenue/Margin
 *   [What’s the relationship between cost and price?](http://cdixon.org/2009/10/17/whats-the-relationship-between-cost-and-price), [Supply and Demand](http://www.investopedia.com/university/economics/economics3.asp), [Barriers to Entry Wikipedia](https://en.wikipedia.org/wiki/Barriers_to_entry), [Commoditization](https://en.wikipedia.org/wiki/Commoditization), [Fixed Cost Wikipedia](https://en.wikipedia.org/wiki/Fixed_cost), and [Variable Cost Wikipedia](https://en.wikipedia.org/wiki/Variable_cost)
