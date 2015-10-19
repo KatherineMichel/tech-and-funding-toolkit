@@ -847,6 +847,7 @@ Venture Analysis
 
 Markets and Finance
 *   [Google Finance](https://www.google.com/finance) 
+*   [Reuters Stocks](http://www.reuters.com/finance/stocks)
 *   [Yahoo Finance](http://finance.yahoo.com)  
 *   [MarketWatch](http://www.marketwatch.com) 
 *   [Nasdaq](http://www.nasdaq.com)
@@ -1038,6 +1039,8 @@ Economic Models
 *   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
 *   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
 *   [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+*   [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance))
+*   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)
   
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
