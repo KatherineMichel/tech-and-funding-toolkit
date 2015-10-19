@@ -474,6 +474,7 @@ Companies and Indices
 *   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
 *   [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
 *   [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
+*   [London Stock Exchange](http://www.londonstockexchange.com)
 *   [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
 *   [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
 *   [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
@@ -752,7 +753,7 @@ Aquihire
 *   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
 
 Financial Modelling
-*   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Example Models](http://www.bestpracticemodelling.com/downloads/example_models), and [Best Practice Modelling Interactive Training](http://www.bestpracticemodelling.com/training/best_practice)  
+*   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
 *   [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
 *   [Spreadsheet Standards Review Board](http://www.ssrb.org)  
 *   [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
