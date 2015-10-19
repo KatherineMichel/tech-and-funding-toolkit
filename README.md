@@ -1039,7 +1039,7 @@ Economic Models
 *   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
 *   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
 *   [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
-*   [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance))
+*   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)) and [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance))
 *   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
 *   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
 
@@ -1666,7 +1666,7 @@ Company Design
 
 #### Prototyping
 
-*   [Prototyping Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
+*   [Prototype Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
 *   [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
 *   [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
 *   [Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration) 
@@ -2059,6 +2059,7 @@ Miscellaneous Metrics
 *   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
 
 Miscellaneous
+*   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
 *   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
 
 #### Internationalization
