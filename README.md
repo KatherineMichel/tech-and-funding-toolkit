@@ -229,7 +229,7 @@ Table of Contents
 
 #### Economics
 *   [Ben Carlson](http://awealthofcommonsense.com)
-*   [Barry Ritholtz](http://www.ritholtz.com/blog)
+*   [Barry Ritholtz](http://www.ritholtz.com/blog) and [Barry Ritholtz Masters in Business](http://www.bloombergview.com/topics/masters-in-business)
 *   [Howard Marks (Chairman, Oaktree Capital) Memos](http://www.oaktreecapital.com/memo.aspx) and [It’s not Easy](http://www.oaktreecapital.com/MemoTree/It's%20Not%20Easy.pdf)
 *   [Jason Zweig](http://www.jasonzweig.com)
 *   [Joshua M. Brown (CEO, Ritholtz Wealth Management and The Reformed Broker)](http://thereformedbroker.com/about)
