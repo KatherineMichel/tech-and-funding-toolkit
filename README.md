@@ -702,7 +702,7 @@ Law and Transaction Services
 *   [Gunderson Dettmer](http://www.gunder.com)
 *   [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
 *   [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
-*   [Walker Corporate Law Group, PLLC](http://walkercorporatelaw.com)
+*   [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
 *   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx) and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
 *   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 *   [Fortis](http://fortisrep.com) 
@@ -712,6 +712,7 @@ VCs on Standard Docs and Terms
 *   [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
 *   [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
 *   [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
+*   [Walker Corporate Law Group, PLLC: VC Term Sheets – Protective Provisions](http://walkercorporatelaw.com/vc-issues/vc-term-sheets-%E2%80%93-protective-provisions)
 
 Standard Docs and Terms
 *   [500 Startups Keep It Simple Security](http://500.co/kiss)
