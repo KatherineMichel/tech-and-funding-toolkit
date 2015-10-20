@@ -259,9 +259,23 @@ Investor Frameworks
 *   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
 *   [Sam Altman Framework](investor-frameworks/sam-altman-framework.md)
 
+Funding Options
+*   [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
+*   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
+*   [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity)
+
 Venture Capital and How Funding Works
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
 *   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
+
+Venture Capital Terminology- General
+*   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
+*   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
+*   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
+*   [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
+*   [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
+*   [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
+*   [Froth](http://www.investopedia.com/terms/f/froth.asp)
 
 Venture Capital Terminology- Documents
 *   [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
@@ -273,18 +287,7 @@ Venture Capital Terminology- Funding Instruments
 *   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
 *   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
 
-Venture Capital Terminology- General
-*   [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
-*   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
-*   [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity)
-*   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
-*   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
-*   [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
-*   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
-*   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
-*   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
-*   [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
-*   [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
+Venture Capital Terminology- Stock
 *   [Dual Class Stock (important for public companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
 *   [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
 *   [Preferred_Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
@@ -296,14 +299,20 @@ Venture Capital Terminology- General
 *   [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
 *   [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
 *   [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
+*   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
+
+Venture Capital Terminology- Rights
+*   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
+*   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
+*   [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
 *   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
 *   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
-*   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
-*   [Froth](http://www.investopedia.com/terms/f/froth.asp)
+*   [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
+
+More
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
 *   [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
 *   [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
-*   [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
 
 #### VC Firms, Accelerators, Resources
 
