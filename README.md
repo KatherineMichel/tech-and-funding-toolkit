@@ -1256,6 +1256,7 @@ Economists, Investors, Philosophers
 *   [Karl Popper Wikipedia](https://en.wikipedia.org/wiki/Karl_Popper)
 *   [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
 *   [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
+*   [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
 *   [Rene Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
 *   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 *   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
