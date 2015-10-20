@@ -267,6 +267,7 @@ Funding Options
 Venture Capital and How Funding Works
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
 *   [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
+*   [Venture Dealr](http://dlopuch.github.io/venture-dealr)
 
 Venture Capital Terminology- General
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
