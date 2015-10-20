@@ -505,13 +505,26 @@ Associations
 U.S. Law
 *   [Cornell Law: U.S. Code](https://www.law.cornell.edu/uscode/text)
 
+Corporate Law- General
 *   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
-*   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
-*   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
 *   [Limited Partnership Wikipedia](https://en.wikipedia.org/wiki/Limited_partnership)
 *   [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) 
 *   [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
 *   [C Corp Wikipedia](https://en.wikipedia.org/wiki/C_corporation)
+
+Small Business Administration- Corporate Law
+*   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
+*   [SBA Corporations](http://www.sba.gov/content/corporation) 
+*   [SBA LLC](http://www.sba.gov/content/limited-liability-company-llc)  
+*   [SBA S Corporation](http://www.sba.gov/content/s-corporation) 
+
+IRS- Corporate Law
+*   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
+*   [IRS Corporations](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Corporations)   
+*   [IRS LLC](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Limited-Liability-Company-LLC)    
+*   [IRS S Corporation](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/S-Corporations) 
+
+Benefitcorp and B Corporation
 *   [Benefitcorp (not B Corporation) Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation)
 *   [Benefitcorp](http://benefitcorp.net) 
 *   [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
