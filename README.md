@@ -903,10 +903,13 @@ Tech Periodical
 *   [Mashable Tech](http://mashable.com/category/tech)
 *   [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
 *   [Recode](http://recode.net)
+*   [Stratechery (Partially Subscription Based)](https://stratechery.com)
 *   [TechCrunch](http://techcrunch.com)
+*   [Techpinions (Partially Subscription Based)](https://techpinions.com)
 *   [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
 *   [The Next Web](http://thenextweb.com)
-*   [The Information (subscription based)](https://www.theinformation.com)
+*   [The Information (Subscription Based)](https://www.theinformation.com)
+*   [Wired](http://www.wired.com)
 
 Tech Longform
 *   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
