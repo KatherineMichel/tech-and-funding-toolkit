@@ -194,6 +194,7 @@ U.K.
 *   [Vine](https://github.com/vine)  
 *   [The World Wide Web Consortium (W3C) ](https://github.com/w3c)  
 *   [W3Schools](https://github.com/w3schools)  
+*   [Walker & Co. Brands, Inc](https://github.com/WalkerAndCoBrandsInc)
 *   [Walmart Labs](https://github.com/walmartlabs)  
 *   [Watsi](https://github.com/watsi)  
 *   [WordPress](https://github.com/WordPress)  
