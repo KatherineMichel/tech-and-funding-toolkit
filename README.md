@@ -4046,7 +4046,6 @@ ProPublica- News App and Data Style Guides
 
 *   [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
-*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
 *   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
@@ -4072,6 +4071,10 @@ Human Emotion
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+
+Labs
+*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
+*   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
 
 #### Notable Interviews and Presentations
 
@@ -4209,6 +4212,9 @@ Demand-Side and Supply Side Economics
 Value Investing
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 
+Data Science
+*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
+
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
 *   [List of Memory Biases Wikipedia](https://en.wikipedia.org/wiki/List_of_memory_biases)
@@ -4230,6 +4236,7 @@ Laws, Theories, Logic
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
 *   [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
 *   [Flynn Effect Wikipedia](https://en.wikipedia.org/wiki/Flynn_effect)
+*   [Forcing Function Wikipedia](https://en.wikipedia.org/wiki/Forcing_function)
 *   [Friendship Paradox Wikipedia](https://en.wikipedia.org/wiki/Friendship_paradox)
 *   [God's Algorithm Wikipedia](http://en.wikipedia.org/wiki/God%27s_algorithm)  
 *   [Goodhart's Law Wikipedia](https://en.wikipedia.org/wiki/Goodhart%27s_law)
