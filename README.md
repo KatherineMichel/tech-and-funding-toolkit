@@ -1191,55 +1191,55 @@ Management Science:
 Process versus Outcome
 
 Computer Science:
-Abstractions
-Algorithms
-If-statements
-Recursion
+*   Abstractions
+*   Algorithms
+*   If-statements
+*   Recursion
 
 Engineering:
-Breakpoints
-Feedback loops
-Margin of Safety
-Redundancy
+*   Breakpoints
+*   Feedback loops
+*   Margin of Safety
+*   Redundancy
  
 Mathematics, Probability and Statistics:
-Agent Based Models
-Bayes Theorem
-Central Limit Theorem
+*   Agent Based Models
+*   Bayes Theorem
+*   Central Limit Theorem
 *   [Complex Adaptive Systems Wikipedia](https://en.wikipedia.org/wiki/Complex_adaptive_system)
-Correlation versus Causation
-Combinations
-Compounding
-Decision Trees
-Inversion
-Kelly Optimization Model
-Law of Large Numbers
-Mean, Median, Mode
-Normal Distribution
-Permutations
+*   Correlation versus Causation
+*   Combinations
+*   Compounding
+*   Decision Trees
+*   Inversion
+*   Kelly Optimization Model
+*   Law of Large Numbers
+*   Mean, Median, Mode
+*   Normal Distribution
+*   Permutations
 *   [Power Law Wikipedia](https://en.wikipedia.org/wiki/Power_law)
-Regression Analysis
-Return to the Mean
-Scaling
-Sensitivity Analysis
+*   Regression Analysis
+*   Return to the Mean
+*   Scaling
+*   Sensitivity Analysis
 
 Law:
-Burden of Proof
-Common law
-Due Process
-Duty of care
-Good Faith
-Negligence
-Presumption of Innocence
-Reasonable doubt
+*   Burden of Proof
+*   Common law
+*   Due Process
+*   Duty of care
+*   Good Faith
+*   Negligence
+*   Presumption of Innocence
+*   Reasonable doubt
 
 Philosophy, Literature and Rhetoric:
-Metaphors
-Similes
-Abduction
-Pragmatism
-Realism
-Reductionism
+*   Metaphors
+*   Similes
+*   Abduction
+*   Pragmatism
+*   Realism
+*   Reductionism
 
 Antifragile and The Black Swan
 *   [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
