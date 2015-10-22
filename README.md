@@ -325,17 +325,6 @@ Lists of VC Firms and Accelerators
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
-Random VC Funds/Accelerators
-*   [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
-*   [Expa](http://expa.com) 
-*   [Google Capital](http://www.googlecapital.com)
-*   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
-*   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
-*   [Silicon Valley Bank](http://www.svb.com) 
-*   [Techstars](http://www.techstars.com)
-*   [Union Square Ventures](https://www.usv.com)
-*   [YCombinator](http://ycombinator.com)
-
 Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
 *   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
