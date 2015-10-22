@@ -236,7 +236,7 @@ Table of Contents
 *   [Larry Summers](http://larrysummers.com)
 *   [Michael Mauboussin](http://michaelmauboussin.com)
 *   [Morgan Housel](http://www.morganhousel.com)
-*   [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+*   [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 *   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
 *   [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
