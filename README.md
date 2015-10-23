@@ -9,7 +9,8 @@ Table of Contents
   - [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
   - [Schools of Thought](#schools-of-thought)
-  - [Economics](#economics)
+  - [Economists, Philosophers](#economists-philosophers)
+  - [Markets and Institutional Investing](#markets-and-institutional-investing)
   - [Chance](#chance)
 - [Venture](#venture)
   - [VC Theory](#vc-theory)
@@ -235,7 +236,24 @@ Table of Contents
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [W. Edwards Deming Wikipedia](http://en.wikipedia.org/wiki/W._Edwards_Deming)
 
-#### Economics
+#### Economists, Philosophers
+*   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
+*   [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+*   [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+*   [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
+*   [George Soros Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
+*   [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
+*   [Karl Popper Wikipedia](https://en.wikipedia.org/wiki/Karl_Popper)
+*   [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+*   [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
+*   [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
+*   [Rene Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
+*   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
+*   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
+*   [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
+*   [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
+
+#### Markets and Institutional Investing 
 *   [Ben Carlson](http://awealthofcommonsense.com)
 *   [Barry Ritholtz](http://www.ritholtz.com/blog) and [Barry Ritholtz Masters in Business](http://www.bloombergview.com/topics/masters-in-business)
 *   [Howard Marks (Chairman, Oaktree Capital) Memos](http://www.oaktreecapital.com/memo.aspx) and [It’s not Easy](http://www.oaktreecapital.com/MemoTree/It's%20Not%20Easy.pdf)
@@ -1261,23 +1279,6 @@ Philosophy, Literature and Rhetoric:
 *   Pragmatism
 *   Realism
 *   Reductionism
-
-Economists, Investors, Philosophers
-*   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
-*   [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
-*   [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
-*   [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
-*   [George Soros Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
-*   [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
-*   [Karl Popper Wikipedia](https://en.wikipedia.org/wiki/Karl_Popper)
-*   [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
-*   [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
-*   [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
-*   [Rene Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
-*   [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
-*   [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
-*   [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
-*   [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
 
 ### General Research and Learning
 
