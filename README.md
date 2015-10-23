@@ -913,7 +913,7 @@ Markets and Finance
 *   [Wikinvest](http://www.wikinvest.com)
 
 Investor Vocab
-*   [Investopedia Dictionary](http://www.investopedia.com/dictionary)
+*   [Investopedia Dictionary](http://www.investopedia.com/dictionary) and [Investopedia Tutorials](http://www.investopedia.com/university)
 *   [Investor Words](http://www.investorwords.com)
 *   [Reuters Financial Glossary](http://glossary.reuters.com/index.php?title=Main_Page)
 
