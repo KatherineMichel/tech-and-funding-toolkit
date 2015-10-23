@@ -342,11 +342,13 @@ Venture Capital Terminology- Funding Instruments
 *   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
 *   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
 
-Venture Capital Terminology- Stock
+Venture Capital Terminology- Stock Classes
 *   [Dual Class Stock (important for public companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
 *   [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
 *   [Preferred_Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
 *   [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
+
+Venture Capital Terminology- Stock Options
 *   [Employee Stock Ownership Plan Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_ownership_plan)
 *   [Employee Stock Option Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_option)
 *   [Restricted Stock Unit](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
@@ -354,7 +356,6 @@ Venture Capital Terminology- Stock
 *   [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
 *   [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
 *   [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
-*   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
 
 Venture Capital Terminology- Rights
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
@@ -363,10 +364,14 @@ Venture Capital Terminology- Rights
 *   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
 *   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
 *   [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
+*   [Class B Shares](http://www.investopedia.com/terms/c/classbshares.asp)
+*   [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
+*   [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
 
 More
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
 *   [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
+*   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
 *   [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
 
 #### VC Firms, Accelerators, Resources
@@ -908,8 +913,9 @@ Markets and Finance
 *   [Wikinvest](http://www.wikinvest.com)
 
 Investor Vocab
-*   [Investopedia](http://www.investopedia.com)
+*   [Investopedia Dictionary](http://www.investopedia.com/dictionary)
 *   [Investor Words](http://www.investorwords.com)
+*   [Reuters Financial Glossary](http://glossary.reuters.com/index.php?title=Main_Page)
 
 Ivy League Business and Tech
 *   [Harvard Business Review](https://hbr.org), [Harvard Business Review, My HBR](https://hbr.org/my-hbr), and [Harvard Business Review Topics](https://hbr.org/topics)
