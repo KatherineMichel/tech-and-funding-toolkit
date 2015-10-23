@@ -360,7 +360,7 @@ Venture Capital Terminology- Stock Options
 
 Venture Capital Terminology- Rights
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
-*   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
+*   [Liquidation Preference (Also: Multiple Liquidation Preference)](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 *   [What is a senior liquidation preference?](https://www.quora.com/What-is-a-senior-liquidation-preference)
 *   [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
 *   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
