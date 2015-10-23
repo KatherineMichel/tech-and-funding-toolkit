@@ -857,6 +857,7 @@ Business News
 
 Venture Analysis
 *   [Graham and Doddsville](http://www.grahamanddoddsville.net)
+*   [Horsley Bridge](http://www.horsleybridge.com)
 *   [New York Times DealBook](http://dealbook.nytimes.com)
 *   [PE HUB](https://www.pehub.com)
 *   [PitchBook](http://pitchbook.com)
@@ -985,6 +986,8 @@ U.S. Departments
 *   [The White House](http://www.whitehouse.gov)
 *   [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
 *   [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
+*   [List of Federal Agencies in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States)
+*   [Independent Agencies of the United States Government Wikipedia](https://en.wikipedia.org/wiki/Independent_agencies_of_the_United_States_government)
 *   [U.S. Census](http://www.census.gov)
 *   [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
 *   [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
