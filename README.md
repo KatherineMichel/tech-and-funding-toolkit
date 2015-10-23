@@ -262,7 +262,7 @@ Table of Contents
 *   [Larry Summers](http://larrysummers.com)
 *   [Michael Batnick (The Irrelevant Investor)](https://theirrelevantinvestor.wordpress.com)
 *   [Morgan Housel](http://www.morganhousel.com)
-*   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
+*   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best)](http://szabo.best.vwh.net)
 *   [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
 #### Chance
