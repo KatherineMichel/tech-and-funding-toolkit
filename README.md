@@ -999,6 +999,7 @@ Aggregated News Sources
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
 Eccentric
+*   [Marginal Revolution](http://marginalrevolution.com)
 *   [Priceonomics](http://priceonomics.com)
 *   [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org), via [Alain de Botton](https://twitter.com/alaindebotton)
 *   [Wait But Why](http://waitbutwhy.com)  
