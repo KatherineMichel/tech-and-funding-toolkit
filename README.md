@@ -360,6 +360,7 @@ Venture Capital Terminology- Stock Options
 Venture Capital Terminology- Rights
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
 *   [Liquidation Preference](http://www.investopedia.com/terms/l/liquidation-preference.asp)
+*   [What is a senior liquidation preference?](https://www.quora.com/What-is-a-senior-liquidation-preference)
 *   [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
 *   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
 *   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
@@ -367,6 +368,7 @@ Venture Capital Terminology- Rights
 *   [Class B Shares](http://www.investopedia.com/terms/c/classbshares.asp)
 *   [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
 *   [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
+*   [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
 
 More
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
