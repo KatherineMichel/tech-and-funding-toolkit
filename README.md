@@ -293,6 +293,7 @@ Nassim Nicholas Taleb: Antifragile and The Black Swan
 *   [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
 *   [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
 *   [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
+*   [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
 
 Nassim Nicholas Taleb's Teachings
 *   [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
@@ -4200,6 +4201,7 @@ Accounting
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 
 Ecomomics
+*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
 *   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
 *   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
 *   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)
@@ -4279,6 +4281,7 @@ Laws, Theories, Logic
 *   [Parkinson's Law of Triviality (Bikeshedding) Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
 *   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
 *   [Poe's Law Wikipedia](https://en.wikipedia.org/wiki/Poe%27s_law)
+*   [Prisoner's Dilemma Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
 *   [Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
 *   [Rock's Law (or Moore's Second Law) Wikipedia](https://en.wikipedia.org/wiki/Rock%27s_law)
 *   [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
