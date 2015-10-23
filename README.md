@@ -8,8 +8,9 @@ Table of Contents
 - [People](#people)
   - [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
-  - [Economics](#economics)
   - [Schools of Thought](#schools-of-thought)
+  - [Economics](#economics)
+  - [Chance](#chance)
 - [Venture](#venture)
   - [VC Theory](#vc-theory)
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
@@ -227,6 +228,13 @@ Table of Contents
 *   [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 *   [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
+#### Schools of Thought
+*   [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
+*   [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
+*   [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
+*   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
+*   [W. Edwards Deming Wikipedia](http://en.wikipedia.org/wiki/W._Edwards_Deming)
+
 #### Economics
 *   [Ben Carlson](http://awealthofcommonsense.com)
 *   [Barry Ritholtz](http://www.ritholtz.com/blog) and [Barry Ritholtz Masters in Business](http://www.bloombergview.com/topics/masters-in-business)
@@ -234,18 +242,45 @@ Table of Contents
 *   [Jason Zweig](http://www.jasonzweig.com)
 *   [Joshua M. Brown (CEO, Ritholtz Wealth Management and The Reformed Broker)](http://thereformedbroker.com/about)
 *   [Larry Summers](http://larrysummers.com)
-*   [Michael Mauboussin](http://michaelmauboussin.com)
+*   [Michael Batnick (The Irrelevant Investor)](https://theirrelevantinvestor.wordpress.com)
 *   [Morgan Housel](http://www.morganhousel.com)
-*   [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 *   [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best](http://szabo.best.vwh.net)
+*   [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
+
+#### Chance
+*   [Michael Mauboussin](http://michaelmauboussin.com)
+*   [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 *   [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
-#### Schools of Thought
-*   [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
-*   [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
-*   [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
-*   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
-*   [W. Edwards Deming Wikipedia](http://en.wikipedia.org/wiki/W._Edwards_Deming)
+Mauboussin, Callahan, Rone, and Burns
+*   [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
+*   [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
+*   [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
+*   [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
+*   [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
+*   [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
+*   [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
+*   [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
+*   [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
+*   [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+*   [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+*   [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
+*   [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+*   [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
+*   [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+
+Nassim Nicholas Taleb: Antifragile and The Black Swan
+*   [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
+*   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
+*   [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
+*   [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+*   [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
+
+Nassim Nicholas Taleb's Teachings
+*   [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
+*   [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
+*   [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
+*   [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
 
 ### Venture
 
@@ -777,23 +812,6 @@ Financial Modelling
 How to Read A Financial Report
 *   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
 
-Mauboussin, Callahan, Rone, and Burns
-*   [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
-*   [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
-*   [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
-*   [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
-*   [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
-*   [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
-*   [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
-*   [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
-*   [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
-*   [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-*   [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-*   [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
-*   [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
-*   [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
-*   [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
-
 IPO
 *   [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
 *   [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
@@ -1243,19 +1261,6 @@ Philosophy, Literature and Rhetoric:
 *   Pragmatism
 *   Realism
 *   Reductionism
-
-Antifragile and The Black Swan
-*   [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
-*   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
-*   [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
-*   [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
-*   [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
-
-Nassim Nicholas Taleb's Teachings
-*   [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
-*   [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
-*   [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
-*   [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
 
 Economists, Investors, Philosophers
 *   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
