@@ -3997,6 +3997,8 @@ Human Emotion
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 
 Labs
+*   [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
+*   [Microsoft Garage](http://www.microsoft.com/en-us/garage)
 *   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
 *   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
 
