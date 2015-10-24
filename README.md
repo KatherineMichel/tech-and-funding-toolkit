@@ -22,7 +22,8 @@ Table of Contents
   - [Analyst Groups](#analyst-groups)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Government and International Data](#government-and-international-data)
-  - [Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al](#warren-buffet-charlie-munger-economists-philosophers-et-al)
+  - [Economics](#economics)
+  - [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
 - [General Research and Learning](#general-research-and-learning)
   - [Learning Resources](#learning-resources)
   - [Events, Talks, People](#events-talks-people)
@@ -1102,7 +1103,9 @@ International Info
 *   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
-#### Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al
+#### Economics
+
+#### Warren Buffet, Charlie Munger, Alphabet
   
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
