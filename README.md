@@ -1317,13 +1317,7 @@ Sprints
 Waterfall Project Management Methodologies
 *   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
 
-Process Improvement
-*   [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
-*   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
-*   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
-*   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
-*   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
-*   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
+Related Concepts
 *   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
 
 ### Research and Design Sprints
@@ -1690,13 +1684,6 @@ Product Tiers
 Idea State Machine and Idea Maze
 *   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
 *   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-Value
-*   [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
-*   [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
-*   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
-*   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
-*   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
 
 List
 *   [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
