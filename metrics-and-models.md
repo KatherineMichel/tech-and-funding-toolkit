@@ -20,6 +20,21 @@ Options Models
 Value Investing
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 
+Value
+*   [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
+*   [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
+*   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
+*   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
+*   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
+
+Process Improvement
+*   [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
+*   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
+*   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
+*   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
+*   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
+*   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
+
 A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin)
 
 Business:
