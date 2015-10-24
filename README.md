@@ -1642,6 +1642,7 @@ Books
 *   [Dale Carnegie: How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 *   [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
 *   [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
+*   [Howard Marks](http://www.amazon.com/Howard-Marks/e/B004LE5B00/ref=dp_byline_cont_book_1)
 *   [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 *   [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
 *   [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
