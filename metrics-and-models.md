@@ -20,34 +20,6 @@ Options Models
 Value Investing
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 
-Rational Decisions 
-*   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
-*   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
-*   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
-*   [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
-
-Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
-*   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
-*   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
-*   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
-*   [Authority Bias](https://twitter.com/trengriffin/status/638003279448829952)
-*   [Chemical Dependency Bias](https://twitter.com/trengriffin/status/638520913302913024)
-*   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
-*   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
-*   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
-*   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
-*   [Envy Bias](https://twitter.com/trengriffin/status/640186451045384192)
-*   ["If your way of making a living depends on X...](https://twitter.com/trengriffin/status/642160686194233344)
-*   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
-*   [Liking Bias](https://twitter.com/trengriffin/status/638892092412964864)
-*   [Loss Aversion](https://twitter.com/trengriffin/status/637791371345002496)
-*   [Man with a Hammer Bias](https://twitter.com/trengriffin/status/635600100446728192)
-*   [Over Confidence Bias](https://twitter.com/trengriffin/status/639981770876715008)
-*   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
-*   [Social Proof Bias](https://twitter.com/trengriffin/status/636031049034653696)
-*   [Stress Induced Bias](https://twitter.com/trengriffin/status/639628831687479298)
-*   [Want it Now Bias](https://twitter.com/trengriffin/status/636719442760634368)
-
 A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin)
 
 Business:
@@ -150,77 +122,99 @@ Philosophy, Literature and Rhetoric:
 *   Realism
 *   Reductionism
 
-#### Vocabulary
+Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
+*   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
+*   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
+*   [Authority Bias](https://twitter.com/trengriffin/status/638003279448829952)
+*   [Chemical Dependency Bias](https://twitter.com/trengriffin/status/638520913302913024)
+*   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
+*   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
+*   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
+*   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
+*   [Envy Bias](https://twitter.com/trengriffin/status/640186451045384192)
+*   ["If your way of making a living depends on X...](https://twitter.com/trengriffin/status/642160686194233344)
+*   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
+*   [Liking Bias](https://twitter.com/trengriffin/status/638892092412964864)
+*   [Loss Aversion](https://twitter.com/trengriffin/status/637791371345002496)
+*   [Man with a Hammer Bias](https://twitter.com/trengriffin/status/635600100446728192)
+*   [Over Confidence Bias](https://twitter.com/trengriffin/status/639981770876715008)
+*   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
+*   [Social Proof Bias](https://twitter.com/trengriffin/status/636031049034653696)
+*   [Stress Induced Bias](https://twitter.com/trengriffin/status/639628831687479298)
+*   [Want it Now Bias](https://twitter.com/trengriffin/status/636719442760634368)
 
-Financial Instruments
-*   [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
 
-*   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
-*   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
-*   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
-*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
-*   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
-*   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
-*   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
-*   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
-*   [Karass](https://en.wiktionary.org/wiki/karass)
-*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
-*   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
-*   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
-*   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
-*   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
-*   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
-*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
-*   [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
-*   [Tacit Knowledge Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
-*   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
-*   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
+#### Metrics
 
-General
-*   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
-*   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
-*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
-*   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
-*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
-*   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
-*   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
-*   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
-*   [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
-*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-*   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
-*   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
+Business and Financial Metrics
+* 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
+* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
+* 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
+* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
+* 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
+* 6 [Gross Merchandise Value (GMV)](http://www.investopedia.com/terms/g/gross-merchandise-value.asp) vs. Revenue
+* 7 Unearned or Deferred Revenue … and Billings
+* 8 [CAC (Customer Acquisition Cost) Wikipedia](https://en.wikipedia.org/wiki/Customer_acquisition_cost) … Blended vs. Paid, Organic vs. Inorganic
 
-Demand-Side and Supply Side Economics
-*   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
-*   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
-*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
+Product and Engagement Metrics
+* 9 Active Users
+* 10 Month-on-month (MoM) growth, CMGR 
+* 11 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate) 
+* 12 [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate) (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
+* 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
 
-Accounting
-*   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
-*   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
-*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
-*   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
-*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
+Presenting Metrics Generally
+* 14 Cumulative Charts (vs. Growth Metrics)
+* 15 Chart Tricks
+* 16 Order of Operations
 
-Public Market
-*   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
-*   [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
-*   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
+Business and Financial Metrics
+* Total Addressable Market (TAM) (Bottom Up/Top Down)
+* ARR (annual recurring revenue) ≠ Annual Run Rate
+* Average Revenue Per User (ARPU)
+* Gross Margins
+* Sell-Through Rate & Inventory Turns (Also: “close rate”, “conversion rate”, and “success rate”)
 
-Network
-*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
-*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
-*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
-*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
+Economic and Other Defining Qualities
+* Network Effects
+* Virality (viral coefficient or k-value)
+* Economies of Scale (“Scale”)
 
-Probability and Statistics
-*   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
-*   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
-*   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
-*   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
+Other Product and Engagement Metrics
+* Net Promoter Score (NPS)
+* Cohort Analysis
+* Registered Users
+* Active Users (MAUs (monthly active users), WAUs (weekly active users), DAUs (daily active users), and HAUs (hourly active users)), (uniques, visits, time on site, repeat visits)
+* Sources of Traffic (direct traffic, organic traffic, (SEO, SEM)
+* Customer Concentration Risk
 
-Data Science
-*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
+Presenting Metrics Generally
+* Truncating the Y-Axis
+* Cumulative Charts, Again
+
+Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
+* [Return on Net Assets (RONA) Wikipedia](https://en.wikipedia.org/wiki/Return_on_net_assets)
+* [Return on Capital Employed (ROCE) Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital_employed)
+* [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
+* [Earnings Per Share (EPS) Wikipedia](https://en.wikipedia.org/wiki/Earnings_per_share)
+* [Gross Margin (Percentage) Wikipedia](https://en.wikipedia.org/wiki/Gross_margin)
+* [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
+* [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost)/[Marginal Revenue](https://en.wikipedia.org/wiki/Marginal_revenue)
+* Debt/Equity
+* [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
+* [Revenue (Net Income) Per Employee Wikipedia](https://en.wikipedia.org/wiki/Net_income_per_employee)
+
+Ellen Chisa HBS Fin2
+* [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
+* [Discounted Cash Flow Wikipedia](http://en.wikipedia.org/wiki/Discounted_cash_flow)
+* [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
+* Multiples
+* Bonds
+* [Black-Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+* [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
+
+#### More Models
 
 More Models
 *   [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
@@ -311,3 +305,94 @@ Laws, Theories, Logic
 *   The Pie Fallacy
 *   [Tiebout Model Wikipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
 *   [Unintended Consequences (The Law of) Wikipedia](https://en.wikipedia.org/wiki/Unintended_consequences)
+
+#### Vocabulary
+
+Rational Decisions 
+*   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
+*   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
+*   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
+*   [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
+
+Financial Instruments
+*   [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
+
+*   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
+*   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
+*   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
+*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
+*   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
+*   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
+*   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
+*   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
+*   [Karass](https://en.wiktionary.org/wiki/karass)
+*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
+*   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
+*   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
+*   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
+*   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
+*   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
+*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
+*   [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
+*   [Tacit Knowledge Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
+*   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
+*   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
+
+General
+*   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
+*   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
+*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
+*   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
+*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
+*   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
+*   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
+*   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
+*   [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
+*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+*   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
+*   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
+
+Demand-Side and Supply Side Economics
+*   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
+*   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
+*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
+
+Accounting
+*   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
+*   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
+*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
+*   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
+*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
+
+Public Market
+*   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+*   [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
+*   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
+
+Network
+*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
+*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
+*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
+
+Probability and Statistics
+*   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
+*   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
+*   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
+*   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
+
+Data Science
+*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
+
+Miscellaneous Metrics
+*   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
+*   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
+
+Miscellaneous
+*   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
+*   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
+*   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
+*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
+*   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
+*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
+
