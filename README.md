@@ -371,6 +371,7 @@ Venture Capital Terminology- Rights
 *   [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
 *   [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
 *   [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
+*   [Shareholder Rights Plan (Poison Pill)](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
 
 More
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
@@ -1105,6 +1106,11 @@ International Info
 
 #### Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al
   
+Economics
+*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+*   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+*   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
+  
 Economic Models
 *   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
 *   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
@@ -1118,6 +1124,9 @@ Options Models
 *   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
 *   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
 *   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+
+Value Investing
+*   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
@@ -2106,6 +2115,10 @@ Miscellaneous Metrics
 Miscellaneous
 *   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
 *   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
+*   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
+*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
+*   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
+*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 
 #### Internationalization
 
@@ -4131,27 +4144,20 @@ Awesome Awesomeness
 
 #### Vocabulary
 
-General
-*   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
-*   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
-*   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
-*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
+Financial Instruments
 *   [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
-*   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
+
+*   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
-*   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
-*   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
 *   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
 *   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
 *   [Karass](https://en.wiktionary.org/wiki/karass)
-*   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
 *   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
 *   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
-*   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
 *   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
 *   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
 *   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
@@ -4161,8 +4167,52 @@ General
 *   [Tacit Knowledge Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
 *   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
 *   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
-*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
+
+General
+*   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
+*   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
+*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
+*   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
+*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
+*   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
+*   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
+*   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
+*   [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
+*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+*   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
+
+Demand-Side and Supply Side Economics
+*   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
+*   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
+*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
+
+Accounting
+*   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
+*   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
+*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
+*   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
+*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
+
+Public Market
+*   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+*   [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
+*   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
+
+Network
+*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
+*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
+*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
+
+Probability and Statistics
+*   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
+*   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
+*   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
+*   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
+
+Data Science
+*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
 More Models
 *   [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
@@ -4180,54 +4230,6 @@ More Models
 *   [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
 *   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
 *   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
-
-Network
-*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
-*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
-*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
-*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
-
-Metrics
-*   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
-*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
-*   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
-*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
-
-Accounting
-*   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
-*   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
-*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
-*   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
-*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
-
-Ecomomics
-*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
-*   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-*   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)
-*   [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
-*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-
-Probability and Statistics
-*   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
-*   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
-*   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
-*   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
-
-Public Market
-*   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
-*   [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
-*   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
-
-Demand-Side and Supply Side Economics
-*   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
-*   [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics)  
-
-Value Investing
-*   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
-
-Data Science
-*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
