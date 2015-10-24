@@ -19,11 +19,11 @@ Table of Contents
   - [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
   - [Regulatory, Business Entity](#regulation-business-entity)
   - [Documents and Advice](#documents-and-advice)
+  - [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
+  - [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
   - [Analyst Groups](#analyst-groups)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Government and International Data](#government-and-international-data)
-  - [Economics](#economics)
-  - [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
 - [General Research and Learning](#general-research-and-learning)
   - [Learning Resources](#learning-resources)
   - [Events, Talks, People](#events-talks-people)
@@ -863,6 +863,81 @@ Leveraged Buyouts
 *   [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
 *   [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
 
+#### Economics, Models, Biases, Metrics
+
+Economics
+*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+*   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+*   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
+  
+Economic Models
+*   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
+*   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
+*   [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+*   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)) and [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance))
+*   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
+*   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
+
+Options Models
+*   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
+*   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
+*   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
+*   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+
+Value Investing
+*   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
+
+Value
+*   [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
+*   [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
+*   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
+*   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
+*   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
+
+Process Improvement
+*   [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
+*   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
+*   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
+*   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
+*   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
+*   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
+
+#### Warren Buffet, Charlie Munger, Alphabet
+  
+Google and Alphabet
+*   [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
+*   [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
+
+Berkshire Hathaway
+*   [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
+*   [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
+*   [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
+*   [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
+*   [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
+*   [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
+
+Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
+*   [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
+
+Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+*   [A Dozen Things I’ve Learned from Charlie Munger About Benjamin Graham’s Value Investing System](http://25iq.com/2015/08/29/a-dozen-things-ive-learned-from-charlie-munger-about-benjamin-grahams-value-investing-system)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Risk](http://25iq.com/2015/09/05/a-dozen-things-ive-learned-from-charlie-munger-about-risk-2)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Inversion (including the Importance of being Consistently Not Stupid)](http://25iq.com/2015/09/12/a-dozen-things-ive-learned-from-charlie-munger-about-inversion-including-the-importance-of-being-consistently-not-stupid-2)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Mistakes](http://25iq.com/2015/09/19/a-dozen-things-ive-learned-from-charlie-munger-about-mistakes)
+*   [A Dozen Things I’ve Learned from Charlie Munger About The Berkshire System](http://25iq.com/2015/09/26/a-dozen-things-ive-learned-from-charlie-munger-about-the-berkshire-system)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Capital Allocation](http://25iq.com/2015/10/03/a-dozen-things-ive-learned-from-charlie-munger-about-capital-allocation)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Moats](http://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats)
+*   [A Dozen Ways Charlie Munger Thinks like Philip Tetlock Suggests in his New Book Superforecasting](http://25iq.com/2015/10/17/a-dozen-ways-charlie-munger-thinks-like-philip-tetlock-suggests-in-his-new-book-superforecasting)
+
+Charlie Munger's 18 Biases
+*   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+
 #### Analyst Groups
 
 Analyst Groups
@@ -1110,63 +1185,6 @@ International Info
 *   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
 *   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
-
-#### Economics
-
-Economics
-*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-*   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-*   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
-  
-Economic Models
-*   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
-*   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
-*   [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
-*   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)) and [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance))
-*   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
-*   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
-
-Options Models
-*   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
-*   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
-*   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
-*   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
-
-#### Warren Buffet, Charlie Munger, Alphabet
-  
-Google and Alphabet
-*   [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
-*   [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
-
-Berkshire Hathaway
-*   [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
-*   [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
-*   [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
-*   [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
-*   [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
-*   [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
-
-Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
-*   [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
-
-Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
-*   [A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
-*   [A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-*   [A Dozen Things I’ve Learned from Charlie Munger About Benjamin Graham’s Value Investing System](http://25iq.com/2015/08/29/a-dozen-things-ive-learned-from-charlie-munger-about-benjamin-grahams-value-investing-system)
-*   [A Dozen Things I’ve Learned from Charlie Munger about Risk](http://25iq.com/2015/09/05/a-dozen-things-ive-learned-from-charlie-munger-about-risk-2)
-*   [A Dozen Things I’ve Learned from Charlie Munger about Inversion (including the Importance of being Consistently Not Stupid)](http://25iq.com/2015/09/12/a-dozen-things-ive-learned-from-charlie-munger-about-inversion-including-the-importance-of-being-consistently-not-stupid-2)
-*   [A Dozen Things I’ve Learned from Charlie Munger about Mistakes](http://25iq.com/2015/09/19/a-dozen-things-ive-learned-from-charlie-munger-about-mistakes)
-*   [A Dozen Things I’ve Learned from Charlie Munger About The Berkshire System](http://25iq.com/2015/09/26/a-dozen-things-ive-learned-from-charlie-munger-about-the-berkshire-system)
-*   [A Dozen Things I’ve Learned from Charlie Munger about Capital Allocation](http://25iq.com/2015/10/03/a-dozen-things-ive-learned-from-charlie-munger-about-capital-allocation)
-*   [A Dozen Things I’ve Learned from Charlie Munger about Moats](http://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats)
-*   [A Dozen Ways Charlie Munger Thinks like Philip Tetlock Suggests in his New Book Superforecasting](http://25iq.com/2015/10/17/a-dozen-ways-charlie-munger-thinks-like-philip-tetlock-suggests-in-his-new-book-superforecasting)
-
-Charlie Munger's 18 Biases
-*   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
-
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-*   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 
 ### General Research and Learning
 
