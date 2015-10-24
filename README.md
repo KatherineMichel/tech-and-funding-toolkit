@@ -931,8 +931,6 @@ Ivy League Business and Tech
 *   [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
 
 "Discovery Blogs" 
-*   Stanford 
-*   MIT 
 *   UCBerkley 
 *   CMU
 
@@ -1106,28 +1104,6 @@ International Info
 
 #### Warren Buffet, Charlie Munger, Economists, Philosophers, Et Al
   
-Economics
-*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-*   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-*   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
-  
-Economic Models
-*   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
-*   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
-*   [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
-*   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)) and [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance))
-*   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
-*   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
-
-Options Models
-*   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
-*   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
-*   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
-*   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
-
-Value Investing
-*   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
-
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
@@ -1162,34 +1138,6 @@ Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengri
 *   [A Dozen Things I’ve Learned from Charlie Munger about Capital Allocation](http://25iq.com/2015/10/03/a-dozen-things-ive-learned-from-charlie-munger-about-capital-allocation)
 *   [A Dozen Things I’ve Learned from Charlie Munger about Moats](http://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats)
 *   [A Dozen Ways Charlie Munger Thinks like Philip Tetlock Suggests in his New Book Superforecasting](http://25iq.com/2015/10/17/a-dozen-ways-charlie-munger-thinks-like-philip-tetlock-suggests-in-his-new-book-superforecasting)
-
-Rational Decisions 
-*   [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
-*   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
-*   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
-*   [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
-
-Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/trengriffin)
-*   [Charlie Munger on Human Misjudgement](https://twitter.com/trengriffin/status/633826763513069568)
-*   [Action Bias](https://twitter.com/trengriffin/status/636342974507454465)
-*   [Availability Bias](https://twitter.com/trengriffin/status/634887802715410432) and [Availability Heuristic (Bias) Wikipedia](https://en.wikipedia.org/wiki/Availability_heuristic)
-*   [Authority Bias](https://twitter.com/trengriffin/status/638003279448829952)
-*   [Chemical Dependency Bias](https://twitter.com/trengriffin/status/638520913302913024)
-*   [Confirmation Bias](https://twitter.com/trengriffin/status/633827230532022274) and [Confirmation Bias Wikipedia](http://en.wikipedia.org/wiki/Confirmation_bias)  
-*   [Consistency Bias](https://twitter.com/trengriffin/status/637638647387308032)
-*   [Control Bias](https://twitter.com/trengriffin/status/637083162149937152)
-*   [Denial Bias](https://twitter.com/trengriffin/status/635195834087272448)
-*   [Envy Bias](https://twitter.com/trengriffin/status/640186451045384192)
-*   ["If your way of making a living depends on X...](https://twitter.com/trengriffin/status/642160686194233344)
-*   [Incentive Caused Bias](https://twitter.com/trengriffin/status/634178250026037248)
-*   [Liking Bias](https://twitter.com/trengriffin/status/638892092412964864)
-*   [Loss Aversion](https://twitter.com/trengriffin/status/637791371345002496)
-*   [Man with a Hammer Bias](https://twitter.com/trengriffin/status/635600100446728192)
-*   [Over Confidence Bias](https://twitter.com/trengriffin/status/639981770876715008)
-*   [Self-Serving Bias](https://twitter.com/trengriffin/status/634549816878456833) and [Self-Serving Bias Wikipedia](https://en.wikipedia.org/wiki/Self-serving_bias)
-*   [Social Proof Bias](https://twitter.com/trengriffin/status/636031049034653696)
-*   [Stress Induced Bias](https://twitter.com/trengriffin/status/639628831687479298)
-*   [Want it Now Bias](https://twitter.com/trengriffin/status/636719442760634368)
 
 Charlie Munger's 18 Biases
 *   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
