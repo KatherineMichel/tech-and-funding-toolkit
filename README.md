@@ -317,7 +317,8 @@ Investor Frameworks
 Funding Options
 *   [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
-*   [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity)
+*   [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity) and [List of Private Equity Firms Wikipedia](https://en.wikipedia.org/wiki/List_of_private_equity_firms)
+*   [History of Private Equity and Venture Capital Wikipedia](https://en.wikipedia.org/wiki/History_of_private_equity_and_venture_capital)
 
 Venture Capital and How Funding Works
 *   [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
@@ -326,6 +327,7 @@ Venture Capital and How Funding Works
 *   [Venture Dealr](http://dlopuch.github.io/venture-dealr)
 
 Venture Capital Terminology- General
+*   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
 *   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
@@ -866,9 +868,13 @@ Leveraged Buyouts
 #### Economics, Models, Biases, Metrics
 
 Economics
+*   [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
 *   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+*   [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
 *   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
 *   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
+*   [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
+*   [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
   
 Economic Models
 *   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
@@ -878,11 +884,18 @@ Economic Models
 *   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
 *   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
 
+Technical and Fundamental Analysis
+*   [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
+
 Options Models
 *   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
 *   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
 *   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
 *   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+
+Financial Market and Instruments
+*   [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+*   [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
 
 Value Investing
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
@@ -1193,11 +1206,7 @@ Rational Decisions
 *   [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
 *   [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 
-Financial Instruments
-*   [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
-
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
-*   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale)  
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
