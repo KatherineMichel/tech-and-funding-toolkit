@@ -1871,73 +1871,6 @@ Digital Stats
 A16Z Metrics
 *   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
-Business and Financial Metrics
-* 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
-* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
-* 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
-* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
-* 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
-* 6 [Gross Merchandise Value (GMV)](http://www.investopedia.com/terms/g/gross-merchandise-value.asp) vs. Revenue
-* 7 Unearned or Deferred Revenue … and Billings
-* 8 [CAC (Customer Acquisition Cost) Wikipedia](https://en.wikipedia.org/wiki/Customer_acquisition_cost) … Blended vs. Paid, Organic vs. Inorganic
-
-Product and Engagement Metrics
-* 9 Active Users
-* 10 Month-on-month (MoM) growth, CMGR 
-* 11 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate) 
-* 12 [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate) (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
-* 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
-
-Presenting Metrics Generally
-* 14 Cumulative Charts (vs. Growth Metrics)
-* 15 Chart Tricks
-* 16 Order of Operations
-
-Business and Financial Metrics
-* Total Addressable Market (TAM) (Bottom Up/Top Down)
-* ARR (annual recurring revenue) ≠ Annual Run Rate
-* Average Revenue Per User (ARPU)
-* Gross Margins
-* Sell-Through Rate & Inventory Turns (Also: “close rate”, “conversion rate”, and “success rate”)
-
-Economic and Other Defining Qualities
-* Network Effects
-* Virality (viral coefficient or k-value)
-* Economies of Scale (“Scale”)
-
-Other Product and Engagement Metrics
-* Net Promoter Score (NPS)
-* Cohort Analysis
-* Registered Users
-* Active Users (MAUs (monthly active users), WAUs (weekly active users), DAUs (daily active users), and HAUs (hourly active users)), (uniques, visits, time on site, repeat visits)
-* Sources of Traffic (direct traffic, organic traffic, (SEO, SEM)
-* Customer Concentration Risk
-
-Presenting Metrics Generally
-* Truncating the Y-Axis
-* Cumulative Charts, Again
-
-Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
-* [Return on Net Assets (RONA) Wikipedia](https://en.wikipedia.org/wiki/Return_on_net_assets)
-* [Return on Capital Employed (ROCE) Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital_employed)
-* [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
-* [Earnings Per Share (EPS) Wikipedia](https://en.wikipedia.org/wiki/Earnings_per_share)
-* [Gross Margin (Percentage) Wikipedia](https://en.wikipedia.org/wiki/Gross_margin)
-* [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
-* [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost)/[Marginal Revenue](https://en.wikipedia.org/wiki/Marginal_revenue)
-* Debt/Equity
-* [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
-* [Revenue (Net Income) Per Employee Wikipedia](https://en.wikipedia.org/wiki/Net_income_per_employee)
-
-Ellen Chisa HBS Fin2
-* [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
-* [Discounted Cash Flow Wikipedia](http://en.wikipedia.org/wiki/Discounted_cash_flow)
-* [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
-* Multiples
-* Bonds
-* [Black-Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
-* [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
-
 Bill Gurley on Conversion and LTV
 *   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
 *   [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
@@ -1953,18 +1886,6 @@ KPIs
 Pirate Metrics
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-Miscellaneous Metrics
-*   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
-*   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
-
-Miscellaneous
-*   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
-*   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
-*   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
-*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
-*   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
-*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 
 #### Internationalization
 
@@ -2215,7 +2136,7 @@ Git Learning Resources
 GitHub Alternatives
 
 *   [Bitbucket](https://bitbucket.org)  
-*   [Google Code](https://code.google.com/)  
+*   [Google Code](https://code.google.com)  
 *   [Sourceforge](http://sourceforge.net)  
 *   [Codebase](https://www.codebasehq.com)  
 
