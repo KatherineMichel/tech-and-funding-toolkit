@@ -855,6 +855,14 @@ Valuation
 Types of Acquisitions
 *   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
 
+Warburg Pincus
+*   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
+
+Leveraged Buyouts
+*   [Leveraged Buyout Wikipedia](https://en.wikipedia.org/wiki/Leveraged_buyout)
+*   [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
+*   [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
+
 #### Analyst Groups
 
 Analyst Groups
@@ -1105,16 +1113,27 @@ International Info
 
 #### Economics
 
+Economics
+*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+*   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+*   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
+  
+Economic Models
+*   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
+*   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
+*   [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+*   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)) and [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance))
+*   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
+*   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
+
+Options Models
+*   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
+*   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
+*   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
+*   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+
 #### Warren Buffet, Charlie Munger, Alphabet
   
-Warburg Pincus
-*   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
-
-Leveraged Buyouts
-*   [Leveraged Buyout Wikipedia](https://en.wikipedia.org/wiki/Leveraged_buyout)
-*   [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
-*   [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
-
 Google and Alphabet
 *   [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
 *   [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
