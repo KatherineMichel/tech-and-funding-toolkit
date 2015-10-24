@@ -1,22 +1,3 @@
-Economics
-*   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-*   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-*   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
-  
-Economic Models
-*   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
-*   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
-*   [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
-*   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)) and [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance))
-*   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
-*   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
-
-Options Models
-*   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
-*   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
-*   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
-*   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
-
 Value Investing
 *   [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 
