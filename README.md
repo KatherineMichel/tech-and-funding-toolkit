@@ -349,7 +349,7 @@ Venture Capital Terminology- Funding Instruments
 Venture Capital Terminology- Stock Classes
 *   [Dual Class Stock (Important for Public Companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
 *   [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
-*   [Preferred_Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
+*   [Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
 *   [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
 *   [Startup Company Lawyer: What is the difference between non-participating preferred stock and participating preferred stock?](http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock)
 
@@ -375,6 +375,20 @@ Venture Capital Terminology- Rights
 *   [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
 *   [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
 *   [Shareholder Rights Plan (Poison Pill)](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
+*   [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
+
+Venture Capital Terminology- Valuation
+*   [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
+*   [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
+*   [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
+*   [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
+*   [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+*   [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
+*   [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
+*   [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
+*   [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
+*   [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
+*   [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
 
 More
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
