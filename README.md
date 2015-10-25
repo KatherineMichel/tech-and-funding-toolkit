@@ -710,6 +710,10 @@ Accounting Principles
 *   [International Financial Reporting Standards Wikipedia](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) and [International Financial Reporting Standards](http://www.investopedia.com/terms/i/ifrs.asp)
 *   [Financial Conduct Authority Handbook](https://www.handbook.fca.org.uk)
 
+Accounting Methods
+*   [Historical Cost Wikipedia](https://en.wikipedia.org/wiki/Historical_cost)
+*   [Mark-to-Market (Fair Value) Accounting Wikipedia](https://en.wikipedia.org/wiki/Mark-to-market_accounting)
+
 Regulatory Agencies and Rules- Business and Finance Related
 *   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
 *   [Internal Revenue Service](http://www.irs.gov)
