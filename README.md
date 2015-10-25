@@ -858,17 +858,16 @@ IPO
 Initial Public Offering of Facebook
 *   [Initial Public Offering of Facebook Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook)
 
-Valuation
-*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
-
 Types of Acquisitions
 *   [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
 
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
-Leveraged Buyouts
+Leveraged Buyout
 *   [Leveraged Buyout Wikipedia](https://en.wikipedia.org/wiki/Leveraged_buyout)
+
+Leveraged Buyout Firms
 *   [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
 *   [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
 
