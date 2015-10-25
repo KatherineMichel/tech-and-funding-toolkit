@@ -240,6 +240,7 @@ Table of Contents
 #### Economists, Philosophers
 *   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
 *   [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+*   [Abraham Maslow Wikipedia](https://en.wikipedia.org/wiki/Abraham_Maslow)
 *   [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 *   [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
 *   [George Soros Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
@@ -327,6 +328,7 @@ Venture Capital and How Funding Works
 *   [Venture Dealr](http://dlopuch.github.io/venture-dealr)
 
 Venture Capital Terminology- General
+*   [Entrepreneurship Wikipedia](https://en.wikipedia.org/wiki/Entrepreneurship)
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
@@ -377,13 +379,15 @@ Venture Capital Terminology- Rights
 *   [Shareholder Rights Plan (Poison Pill)](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
 *   [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
 
+Venture Capital Terminology- Capital Structure
+*   [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+
 Venture Capital Terminology- Valuation
 *   [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
 *   [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
 *   [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
 *   [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
-*   [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
-*   [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
+*   [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
 *   [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
 *   [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
 *   [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
@@ -712,6 +716,7 @@ S-1
 
 Central Banks/Reserves
 *   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
+*   [Federal Reserve Bank Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_Bank) and [Federal Reserve System Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_System)
 *   [Kansas City Fed](https://www.kansascityfed.org)
 *   [St. Louis Fed Research](https://research.stlouisfed.org) and [Archive](https://fraser.stlouisfed.org)
 
@@ -855,12 +860,6 @@ Compensation
 Aquihire
 *   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
 
-Financial Modelling
-*   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
-*   [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
-*   [Spreadsheet Standards Review Board](http://www.ssrb.org)  
-*   [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
-
 How to Read A Financial Report
 *   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
 
@@ -888,6 +887,13 @@ Leveraged Buyouts
 
 #### Economics, Models, Biases, Metrics
 
+Financial Modeling
+*   [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
+*   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
+*   [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+*   [Spreadsheet Standards Review Board](http://www.ssrb.org)  
+*   [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
+
 Economics
 *   [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
 *   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
@@ -909,6 +915,7 @@ Economic Models
 
 Technical and Fundamental Analysis
 *   [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
+*   [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
 
 Options Models
 *   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
@@ -1068,6 +1075,8 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 *   [Want it Now Bias](https://twitter.com/trengriffin/status/636719442760634368)
 
 #### Metrics
+
+*   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
 
 Business and Financial Metrics
 * 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
