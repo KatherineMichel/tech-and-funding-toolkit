@@ -380,24 +380,6 @@ Venture Capital Terminology- Rights
 *   [Shareholder Rights Plan (Poison Pill)](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
 *   [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
 
-Venture Capital Terminology- Corporate Finance
-*   [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
-*   [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
-*   [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
-*   [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
-
-Venture Capital Terminology- Valuation
-*   [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
-*   [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
-*   [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
-*   [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
-*   [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
-*   [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
-*   [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
-*   [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
-*   [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
-*   [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
-
 More
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
 *   [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
@@ -891,6 +873,27 @@ Leveraged Buyouts
 *   [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
 
 #### Economics, Models, Biases, Metrics
+
+Finance
+*   [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
+
+Corporate Finance
+*   [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
+*   [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+*   [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
+*   [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
+
+Valuation
+*   [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
+*   [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
+*   [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
+*   [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
+*   [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
+*   [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
+*   [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
+*   [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
+*   [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
+*   [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
 
 Opolies
 *   [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
