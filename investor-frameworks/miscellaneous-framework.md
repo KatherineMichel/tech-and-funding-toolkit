@@ -9,6 +9,9 @@
 *   [A Rake Too Far: Optimal Platform Pricing Strategy](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy) and [Rake Poker Wikipedia](https://en.wikipedia.org/wiki/Rake_(poker))
 *   [The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
 
+# Heidi Roizen
+*   [Heidi Roizen: How to Build a Unicorn From Scratch – and Walk Away with Nothing](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
+
 # Jason Calacanis
 *   [Jason Calacanis Blog](http://calacanis.com)
 
