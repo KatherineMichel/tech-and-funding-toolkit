@@ -1715,7 +1715,18 @@ Public Speaking
 
 #### Project Management Tools
 
+Operations, Changement Management, Program Management. Project Management
+*   [Operations Management Wikipedia](https://en.wikipedia.org/wiki/Operations_management)
+*   [Change Management Wikipedia](https://en.wikipedia.org/wiki/Change_management)
+*   [Program Management Wikipedia](https://en.wikipedia.org/wiki/Program_management)
 *   [Project Management Wikipedia](http://en.wikipedia.org/wiki/Project_management)  
+
+Office
+*   [Front Office Wikipedia](https://en.wikipedia.org/wiki/Front_office)
+*   [Middle Office Wikipedia](https://en.wikipedia.org/wiki/Middle_office)
+*   [Back Office Wikipedia](https://en.wikipedia.org/wiki/Back_office)
+
+Project Management
 *   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics) and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
