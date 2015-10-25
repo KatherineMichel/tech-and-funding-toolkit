@@ -339,7 +339,7 @@ Venture Capital Terminology- General
 Venture Capital Terminology- Documents
 *   [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
 *   [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet) and [Termsheet Investopedia](http://www.investopedia.com/terms/t/termsheet.asp)
-*   [NDA Wikipedia](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
+*   [Non-Disclosure Agreement Wikipedia](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
 *   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
 
 Venture Capital Terminology- Funding Instruments
@@ -705,7 +705,10 @@ Accounting Principles
 *   [American Institute of CPAs](http://www.aicpa.org)
 *   [CFA (Chartered Financial Analyst) Institute](www.cfainstitute.org) and [CFA Institute Blog](https://blogs.cfainstitute.org)
 *   [Financial Accounting Standards Board](http://www.fasb.org)
-*   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
+*   [Generally Accepted Accounting Principles Wikipedia](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
+*   [International Accounting Standards Board Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Board) and [International Accounting Standards Committee Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Committee)
+*   [International Financial Reporting Standards Wikipedia](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) and [International Financial Reporting Standards](http://www.investopedia.com/terms/i/ifrs.asp)
+*   [Financial Conduct Authority Handbook](https://www.handbook.fca.org.uk)
 
 Regulatory Agencies and Rules- Business and Finance Related
 *   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
@@ -870,6 +873,7 @@ Leveraged Buyouts
 Economics
 *   [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
 *   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+*   [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
 *   [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
 *   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
 *   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
@@ -893,6 +897,7 @@ Options Models
 *   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
 *   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
 *   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+*   [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
 
 Financial Market and Instruments
 *   [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
@@ -915,6 +920,9 @@ Process Improvement
 *   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
 *   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
+
+Mental Models
+*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 
 Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
 
@@ -1106,7 +1114,6 @@ Ellen Chisa HBS Fin2
 * [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
 * Multiples
 * Bonds
-* [Black-Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 * [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
 
 More Models
@@ -1318,7 +1325,6 @@ Charlie Munger's 18 Biases
 *   [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
 
 Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-*   [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 *   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 
 #### Analyst Groups
