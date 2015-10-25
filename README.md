@@ -894,6 +894,7 @@ Technical and Fundamental Analysis
 
 Options Models
 *   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
+*   [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
 *   [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
 *   [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
 *   [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
