@@ -379,7 +379,8 @@ Venture Capital Terminology- Rights
 *   [Shareholder Rights Plan (Poison Pill)](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
 *   [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
 
-Venture Capital Terminology- Capital Structure
+Venture Capital Terminology- Corporate Finance
+*   [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
 *   [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
 
 Venture Capital Terminology- Valuation
@@ -715,6 +716,7 @@ S-1
 *   Index to the Consolidated Financial Statements
 
 Central Banks/Reserves
+*   [Bank of England Wikipedia](https://en.wikipedia.org/wiki/Bank_of_England)
 *   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
 *   [Federal Reserve Bank Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_Bank) and [Federal Reserve System Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_System)
 *   [Kansas City Fed](https://www.kansascityfed.org)
@@ -960,10 +962,10 @@ Five Forces
 Accounting:
 *   [Balance Sheet Wikipedia](https://en.wikipedia.org/wiki/Balance_sheet)
 *   [Cash Flow Statement Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_statement)
+*   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
 *   [Depreciation Wikipedia](https://en.wikipedia.org/wiki/Depreciation)
 *   [Double-Entry (Bookkeeping System) Wikipedia](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system)
 *   [Generally Accepted Accounting Principles Wikipedia](https://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
-*   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
 *   [Sunk Cost (Fallacy) Wikipedia](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 
 Economics:
