@@ -383,6 +383,8 @@ Venture Capital Terminology- Rights
 Venture Capital Terminology- Corporate Finance
 *   [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
 *   [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+*   [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
+*   [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
 
 Venture Capital Terminology- Valuation
 *   [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
@@ -964,7 +966,7 @@ Five Forces
 *   [Brand Wikipedia](https://en.wikipedia.org/wiki/Brand)
 
 Accounting:
-*   [Balance Sheet Wikipedia](https://en.wikipedia.org/wiki/Balance_sheet)
+*   [Balance Sheet Wikipedia](https://en.wikipedia.org/wiki/Balance_sheet) and [Balance Sheet Analysis Wikipedia](https://en.wikipedia.org/wiki/Balance_sheet)
 *   [Cash Flow Statement Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_statement)
 *   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
 *   [Depreciation Wikipedia](https://en.wikipedia.org/wiki/Depreciation)
