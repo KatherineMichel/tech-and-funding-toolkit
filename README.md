@@ -9,7 +9,7 @@ Table of Contents
   - [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   - [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
   - [Schools of Thought](#schools-of-thought)
-  - [Economists, Philosophers](#economists-philosophers)
+  - [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   - [Markets and Institutional Investing](#markets-and-institutional-investing)
   - [Chance](#chance)
 - [Venture](#venture)
@@ -237,7 +237,8 @@ Table of Contents
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [W. Edwards Deming Wikipedia](http://en.wikipedia.org/wiki/W._Edwards_Deming)
 
-#### Economists, Philosophers
+#### Inventors, Economists, Philosophers
+*   [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
 *   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
 *   [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
 *   [Abraham Maslow Wikipedia](https://en.wikipedia.org/wiki/Abraham_Maslow)
@@ -888,6 +889,9 @@ Leveraged Buyouts
 *   [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
 
 #### Economics, Models, Biases, Metrics
+
+Opolies
+*   [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
 
 Financial Modeling
 *   [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
@@ -1730,6 +1734,7 @@ Project Management
 *   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics) and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
+*   [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
 *   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 *   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 
