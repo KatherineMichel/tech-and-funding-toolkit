@@ -1644,6 +1644,10 @@ Scholarly Journals
 *   [Science Direct](http://www.sciencedirect.com)  
 *   [Elselvier](http://www.elsevier.com) 
 
+Libraryes
+*   [City of London Business Library](http://www.cityoflondon.gov.uk/Pages/default.aspx)
+*   [The British Library](http://www.bl.uk)
+
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
 *   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
