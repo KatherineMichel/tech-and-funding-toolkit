@@ -2654,8 +2654,8 @@ Chromebook Ubuntu Installation
 #### Designer and Developer General
 
 Web General
-*   [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-*   [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+*   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+*   [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
 *   [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
 *   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
 *   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
