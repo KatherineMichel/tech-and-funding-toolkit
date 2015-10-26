@@ -1710,9 +1710,10 @@ Books
 *   [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 Courses
-*   [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
 *   [Balaji S. Srinivasan and Vijay S. Pande: Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
 *   [Marissa Mayer: Ideas Come from Everywhere (New Product Development Process)](https://www.udemy.com/ideas-come-from-everywhere)
+*   [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
+*   [Reid Hoffman: CS183C Blitzscaling Introductory Post](https://www.linkedin.com/pulse/cs183c-technology-enabled-blitzscaling-visible-secret-reid-hoffman), [Eric Schmidt](https://www.youtube.com/watch?v=hcRxFRgNpns) and [Student Collection](https://medium.com/cs183c-blitzscaling-student-collection)
 *   [Sam Altman: YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
      
 MOOCs
