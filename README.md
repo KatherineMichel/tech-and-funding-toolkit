@@ -297,6 +297,7 @@ Nassim Nicholas Taleb: Antifragile and The Black Swan
 *   [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
 *   [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
 *   [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
+*   [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 
 Nassim Nicholas Taleb's Teachings
 *   [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
@@ -1308,9 +1309,11 @@ Public Market
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
 
 Network
+*   [Chaos Theory Wikipedia](https://en.wikipedia.org/wiki/Chaos_theory)
 *   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
 *   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
+*   [Theory of Mind Wikipedia (and Secondary Theory)](https://en.wikipedia.org/wiki/Theory_of_mind)
 *   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
 
 Probability and Statistics
@@ -2655,6 +2658,11 @@ Chromebook Ubuntu Installation
 *   [Crouton GitHub](https://github.com/dnschneid/crouton)  
 
 #### Designer and Developer General
+
+Browser
+*   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+*   [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+*   [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
 
 Web General
 *   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
