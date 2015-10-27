@@ -2312,6 +2312,10 @@ Journalism Style Guides
 
 #### Growth, Marketing, and Content Resources
 
+Digital Distribution and User-Generated Content
+*   [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+*   [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
 Distribution, Growth, Sales Hacking
 *   [Distribution Hacks](http://distributionhacks.com) 
 *   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
