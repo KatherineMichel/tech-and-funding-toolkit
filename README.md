@@ -299,6 +299,7 @@ Nassim Nicholas Taleb: Antifragile and The Black Swan
 *   [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
 
 Nassim Nicholas Taleb's Teachings
+*   [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
 *   [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
 *   [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
 *   [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
@@ -927,6 +928,7 @@ Economic Models
 Technical and Fundamental Analysis
 *   [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
 *   [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
+*   [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
 
 Options Models
 *   [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
