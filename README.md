@@ -2665,7 +2665,9 @@ Chromebook Ubuntu Installation
 #### Designer and Developer General
 
 Browser
+*   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 *   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+*   [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 *   [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 *   [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
 
