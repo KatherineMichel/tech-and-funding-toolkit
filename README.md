@@ -3767,7 +3767,7 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 
 *   [Twitch TV](http://www.twitch.tv)
 *   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
-*   [Unity 3D](http://unity3d.com/unity)  
+*   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
 ### Python and Django Toolkit
 
