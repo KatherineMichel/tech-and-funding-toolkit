@@ -713,6 +713,7 @@ Central Banks/Reserves
 Accounting Principles
 *   [American Institute of CPAs](http://www.aicpa.org)
 *   [CFA (Chartered Financial Analyst) Institute](www.cfainstitute.org) and [CFA Institute Blog](https://blogs.cfainstitute.org)
+*   [Chartered Institute of Management Accountants](http://www.cimaglobal.com)
 *   [Financial Accounting Standards Board](http://www.fasb.org)
 *   [Generally Accepted Accounting Principles Wikipedia](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
 *   [International Accounting Standards Board Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Board) and [International Accounting Standards Committee Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Committee)
@@ -3278,7 +3279,7 @@ Stanford Open Classroom- Introduction to Databases
 Types of Databases
 *   [Category Types of Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
 *   [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
-*   [Relational Database Management System Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
+*   [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
 *   [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
 *   [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
 *   [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)  
@@ -3571,7 +3572,8 @@ Selenium (Automated Testing)
 *   [SeleniumHQ](http://www.seleniumhq.org)  
 *   [SeleniumHQ Docs](http://www.seleniumhq.org/docs)  
 
-WSGI
+CGI and WSGI (Web Server API)
+*   [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 *   [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
 *   [WSGI](http://wsgi.readthedocs.org/en/latest)  
 *   [WSGI Google Code](https://code.google.com/p/modwsgi)  
