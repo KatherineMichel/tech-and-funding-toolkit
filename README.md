@@ -2857,7 +2857,7 @@ JavaScript Styleguide GitHub
 *   [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)  
 
 jQuery
-*   [jQuery GitHub](https://github.com/jquery/jquery)  
+*   [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery)  and [jQuery GitHub](https://github.com/jquery/jquery)  
 *   [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
 *   [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
 *   [jQuery Boilerplate GitHub](https://github.com/jquery-boilerplate/jquery-boilerplate)  
