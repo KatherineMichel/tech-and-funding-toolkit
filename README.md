@@ -2666,7 +2666,7 @@ Chromebook Ubuntu Installation
 
 Browser
 *   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-*   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+*   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 *   [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 *   [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 *   [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
@@ -2792,6 +2792,7 @@ Programming Languages and MVCs- General
 *   [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 *   [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
 *   [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+*   [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 *   [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
 *   [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
@@ -2817,6 +2818,7 @@ Miscellaneous Programming Languages
 *   [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
 *   [OCaml](http://ocaml.org)  
 *   [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
+*   [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
 *   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 
 Ruby
