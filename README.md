@@ -3277,6 +3277,9 @@ Cookies
 
 #### Servers and Databases
 
+Servers
+*   [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
+
 Databases
 *   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
 *   [Category Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
