@@ -69,7 +69,7 @@ Table of Contents
   - [Mobile](#mobile)
   - [Social Media and Social Graph](#social-media-and-social-graph)
   - [Testing and Performance](#testing-and-performance)
-  - [Databases](#databases)
+  - [Servers and Databases](#servers-and-databases)
   - [SQL](#sql)
   - [.NET and ASP](#net-and-asp)
   - [Node.js and Related](#nodejs-and-related)
@@ -3275,7 +3275,7 @@ Cookies
 *   [Optimizely](https://www.optimizely.com) and [Optimizely A/B Testing](https://www.optimizely.com/ab-testing) 
 *   [W3 Mobile Validator](http://validator.w3.org/mobile)
 
-#### Databases
+#### Servers and Databases
 
 Databases
 *   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
