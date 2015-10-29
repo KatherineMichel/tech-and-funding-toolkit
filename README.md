@@ -922,9 +922,11 @@ Economics
 *   [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
   
 Economic Models
+*   [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
 *   [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
 *   [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
 *   [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+*   [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
 *   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
 *   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
 *   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
@@ -2778,6 +2780,7 @@ Programming and Math Learning Tools
 *   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
 *   [Learn Code the Hard Way](http://learncodethehardway.org)  
 *   [Codecademy](http://www.codecademy.com)  
+*   [Code.org](https://code.org)
 *   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
 *   [Kano Playground](http://art.kano.me/playground)
 *   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
