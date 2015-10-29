@@ -1428,6 +1428,7 @@ Venture Analysis
 *   [PitchBook](http://pitchbook.com)
 
 Markets and Finance
+*   [Fitch](https://www.fitchratings.com)
 *   [Google Finance](https://www.google.com/finance) 
 *   [Reuters Stocks](http://www.reuters.com/finance/stocks)
 *   [Yahoo Finance](http://finance.yahoo.com)  
