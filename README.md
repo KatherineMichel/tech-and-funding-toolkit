@@ -901,7 +901,8 @@ Valuation
 Opolies
 *   [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
 
-Financial Modeling
+Excel and Financial Modeling
+*   [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
 *   [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
 *   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
 *   [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
@@ -3283,6 +3284,14 @@ Cookies
 Servers
 *   [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
 
+Client and Server-Side
+*   [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+*   [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+*   [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+*   [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+*   [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+*   [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
 Databases
 *   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
 *   [Category Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
@@ -3348,7 +3357,7 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 *   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
 ASP
-*   [Active Server Pages Wikipedia](https://en.wikipedia.org/wiki/Active_Server_Pages)
+*   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 *   [ASP](http://www.asp.net), [ASP Downloads](http://www.asp.net/downloads), [ASP Home GitHub](https://github.com/aspnet/Home), [ASP Docs](http://docs.asp.net), and [ASP Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP Docker GitHub](https://github.com/aspnet/aspnet-docker)
 *   [Heroku ASP Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
