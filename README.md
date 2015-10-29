@@ -869,8 +869,10 @@ Types of Acquisitions
 Warburg Pincus
 *   [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
 
-Leveraged Buyout
+Leverage
+*   [Leverage Wikipedia](https://en.wikipedia.org/wiki/Leverage_(finance))
 *   [Leveraged Buyout Wikipedia](https://en.wikipedia.org/wiki/Leveraged_buyout)
+*   [Leveraged Recapitalization Wikipedia](https://en.wikipedia.org/wiki/Leveraged_recapitalization)
 
 Leveraged Buyout Firms
 *   [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
