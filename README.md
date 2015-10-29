@@ -3321,12 +3321,17 @@ Stanford Open Classroom- Introduction to Databases
 
 Types of Databases
 *   [Category Types of Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+*   [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
 *   [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
 *   [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
+*   [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+*   [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
 *   [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
 *   [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
 *   [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)  
+*   [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
 *   [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+*   [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
 *   [Category Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
 *   [Category NoSQL Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
 *   [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
