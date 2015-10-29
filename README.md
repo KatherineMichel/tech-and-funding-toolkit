@@ -879,6 +879,7 @@ Leverage
 *   [Leverage Wikipedia](https://en.wikipedia.org/wiki/Leverage_(finance))
 *   [Leveraged Buyout Wikipedia](https://en.wikipedia.org/wiki/Leveraged_buyout)
 *   [Leveraged Recapitalization Wikipedia](https://en.wikipedia.org/wiki/Leveraged_recapitalization)
+*   [Financial Sponsor Wikipedia](https://en.wikipedia.org/wiki/Financial_sponsor)
 
 Leveraged Buyout Firms
 *   [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
@@ -939,6 +940,7 @@ Economic Models
 *   [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
 *   [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
 *   [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
+*   [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
 *   [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
 *   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
 *   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
