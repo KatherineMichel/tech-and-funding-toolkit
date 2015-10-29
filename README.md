@@ -1324,7 +1324,11 @@ Accounting
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 
 Public Market
+*   [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
+*   [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
+*   [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
 *   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+*   [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
 *   [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
 
