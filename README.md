@@ -359,6 +359,7 @@ Venture Capital Terminology- Stock Classes
 *   [Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
 *   [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
 *   [Startup Company Lawyer: What is the difference between non-participating preferred stock and participating preferred stock?](http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock)
+*   [Warrant Wikipedia](https://en.wikipedia.org/wiki/Warrant_(finance))
 
 Venture Capital Terminology- Stock Options
 *   [Employee Stock Ownership Plan Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_ownership_plan)
