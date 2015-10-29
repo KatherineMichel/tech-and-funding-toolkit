@@ -59,6 +59,7 @@ Table of Contents
 - [Popular Tools](#popular-tools)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Web Dev and Design](#web-dev-and-design)
+  - [Basics](#basics)
   - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
@@ -2504,6 +2505,15 @@ Admin, Hiring, Payroll
 *   [Zenefits](http://www.zenefits.com)
 
 ### Web Dev and Design
+
+#### Basics
+
+Binary
+*   [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+*   [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+*   [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+*   [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+*   [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
 
 #### Unix and Linux
 
