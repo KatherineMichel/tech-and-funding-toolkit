@@ -1548,6 +1548,7 @@ Aggregated News Sources
 
 Eccentric
 *   [Marginal Revolution](http://marginalrevolution.com)
+*   [Praxtime](http://praxtime.com)
 *   [Priceonomics](http://priceonomics.com)
 *   [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org), via [Alain de Botton](https://twitter.com/alaindebotton)
 *   [Wait But Why](http://waitbutwhy.com)  
