@@ -59,7 +59,7 @@ Table of Contents
 - [Popular Tools](#popular-tools)
 - [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Web Dev and Design](#web-dev-and-design)
-  - [Basics](#basics)
+  - [Computer Basics](#computer-basics)
   - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
@@ -2506,7 +2506,7 @@ Admin, Hiring, Payroll
 
 ### Web Dev and Design
 
-#### Basics
+#### Computer Basics
 
 Binary
 *   [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
@@ -2514,6 +2514,12 @@ Binary
 *   [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
 *   [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
 *   [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
+Encoding
+*   [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+*   [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+*   [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+*   [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
 
 #### Unix and Linux
 
