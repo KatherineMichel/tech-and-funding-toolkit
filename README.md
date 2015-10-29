@@ -343,6 +343,7 @@ Venture Capital Terminology- General
 *   [Froth](http://www.investopedia.com/terms/f/froth.asp)
 
 Venture Capital Terminology- Documents
+*   [Due Diligence Wikipedia](https://en.wikipedia.org/wiki/Due_diligence)
 *   [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
 *   [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet) and [Termsheet Investopedia](http://www.investopedia.com/terms/t/termsheet.asp)
 *   [Non-Disclosure Agreement Wikipedia](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
@@ -383,9 +384,14 @@ Venture Capital Terminology- Rights
 *   [Shareholder Rights Plan (Poison Pill)](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
 *   [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
 
-More
-*   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
+Carve-Outs and Spin-Offs
+*   [Equity Carve-Out Wikipedia](https://en.wikipedia.org/wiki/Equity_carve-out)
 *   [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
+*   [Corporate Spin-Off Wikipedia](https://en.wikipedia.org/wiki/Corporate_spin-off)
+
+More
+*   
+*   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
 *   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
 *   [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
 
