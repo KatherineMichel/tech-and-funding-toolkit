@@ -237,6 +237,7 @@ Table of Contents
 *   [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
 *   [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 *   [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
+*   [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
 
 #### Inventors, Economists, Philosophers
 *   [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
@@ -371,8 +372,8 @@ Venture Capital Terminology- Stock Options
 *   [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
 *   [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
 
-Venture Capital Terminology- Rights
-*   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
+Venture Capital Terminology- Rights- Pro Rata, Refusal, Pre-Emption, Redemption
+*   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)
 *   [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
 *   [Pre-Emption Right Wikipedia](https://en.wikipedia.org/wiki/Pre-emption_right)
 *   [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
@@ -738,19 +739,24 @@ Central Banks/Reserves
 *   [Kansas City Fed](https://www.kansascityfed.org)
 *   [St. Louis Fed Research](https://research.stlouisfed.org) and [Archive](https://fraser.stlouisfed.org)
 
-Accounting Principles
+Accounting Types
+*   [Cost Accounting Wikipedia](https://en.wikipedia.org/wiki/Cost_accounting)
+*   [Management Accounting Wikipedia](https://en.wikipedia.org/wiki/Management_accounting)
+
+Accounting Methods
+*   [Generally Accepted Accounting Principles Wikipedia](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
+*   [International Financial Reporting Standards Wikipedia](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) and [International Financial Reporting Standards](http://www.investopedia.com/terms/i/ifrs.asp)
+*   [Historical Cost Wikipedia](https://en.wikipedia.org/wiki/Historical_cost)
+*   [Mark-to-Market (Fair Value) Accounting Wikipedia](https://en.wikipedia.org/wiki/Mark-to-market_accounting)
+*   [Generally Accepted Auditing Standards Wikipedia](https://en.wikipedia.org/wiki/Generally_Accepted_Auditing_Standards)
+
+Accounting Organizations
 *   [American Institute of CPAs](http://www.aicpa.org)
 *   [CFA (Chartered Financial Analyst) Institute](www.cfainstitute.org) and [CFA Institute Blog](https://blogs.cfainstitute.org)
 *   [Chartered Institute of Management Accountants](http://www.cimaglobal.com)
 *   [Financial Accounting Standards Board](http://www.fasb.org)
-*   [Generally Accepted Accounting Principles Wikipedia](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
 *   [International Accounting Standards Board Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Board) and [International Accounting Standards Committee Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Committee)
-*   [International Financial Reporting Standards Wikipedia](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) and [International Financial Reporting Standards](http://www.investopedia.com/terms/i/ifrs.asp)
 *   [Financial Conduct Authority Handbook](https://www.handbook.fca.org.uk)
-
-Accounting Methods
-*   [Historical Cost Wikipedia](https://en.wikipedia.org/wiki/Historical_cost)
-*   [Mark-to-Market (Fair Value) Accounting Wikipedia](https://en.wikipedia.org/wiki/Mark-to-market_accounting)
 
 Regulatory Agencies and Rules- Business and Finance Related
 *   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
