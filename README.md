@@ -384,6 +384,7 @@ Venture Capital Terminology- Rights
 *   [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
 *   [Shareholder Rights Plan (Poison Pill)](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
 *   [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
+*   [Activist Shareholder Wikipedia](https://en.wikipedia.org/wiki/Activist_shareholder)
 
 Carve-Outs and Spin-Offs
 *   [Equity Carve-Out Wikipedia](https://en.wikipedia.org/wiki/Equity_carve-out)
@@ -391,7 +392,6 @@ Carve-Outs and Spin-Offs
 *   [Corporate Spin-Off Wikipedia](https://en.wikipedia.org/wiki/Corporate_spin-off)
 
 More
-*   
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
 *   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
 *   [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
