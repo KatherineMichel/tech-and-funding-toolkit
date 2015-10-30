@@ -1776,14 +1776,17 @@ Office
 Project Management
 *   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics) and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
-*   [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
+*   [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
 *   [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
 *   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 *   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 
-Project Management Associations
+Project Management Associations and Certifications
 *   [Association for Project Management](http://www.apm.org.uk)  
+*   [Axelos (Formerly Managing Successful Programmes)](https://www.axelos.com)
+*   [PRojects IN Controlled Environments](https://www.prince2.com)
 *   [Project Management Institute](http://www.pmi.org) 
+*   [CITI](http://www.citi.co.uk)
 
 Quality
 *   [ISO](http://www.iso.org/iso/home.html) 
