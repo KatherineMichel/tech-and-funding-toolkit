@@ -651,6 +651,7 @@ Special Rules- General
 *   [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
 *   [FAS 157](http://www.fasb.org/pdf/aop_FAS157.pdf)
 *   [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
+*   [Basel II Wikipedia](https://en.wikipedia.org/wiki/Basel_II) and [Basel III Wikipedia](https://en.wikipedia.org/wiki/Basel_III)
 
 Securities and Exchange Commission (SEC)
 *   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
@@ -945,6 +946,10 @@ Economic Models
 *   [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
 *   [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
 *   [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
+
+Volatility and Stochastic Calculus
+*   [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
+*   [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
 *   [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
 
 Technical and Fundamental Analysis
@@ -2340,6 +2345,9 @@ Journalism Style Guides
 *   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
 
 #### Growth, Marketing, and Content Resources
+
+Advertising and Marketing
+*   [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
 
 Digital Distribution and User-Generated Content
 *   [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
