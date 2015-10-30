@@ -359,6 +359,7 @@ Venture Capital Terminology- Stock Classes
 *   [Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
 *   [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
 *   [Startup Company Lawyer: What is the difference between non-participating preferred stock and participating preferred stock?](http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock)
+*   [Class B Shares](http://www.investopedia.com/terms/c/classbshares.asp)
 *   [Warrant Wikipedia](https://en.wikipedia.org/wiki/Warrant_(finance))
 
 Venture Capital Terminology- Stock Options
@@ -372,19 +373,35 @@ Venture Capital Terminology- Stock Options
 
 Venture Capital Terminology- Rights
 *   [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)  
+*   [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
+*   [Pre-Emption Right Wikipedia](https://en.wikipedia.org/wiki/Pre-emption_right)
+*   [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
+
+Venture Capital Terminology- Rights- Senority 
 *   [Liquidation Preference (Also: Multiple Liquidation Preference)](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 *   [What is a senior liquidation preference?](https://www.quora.com/What-is-a-senior-liquidation-preference)
-*   [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
-*   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
-*   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
-*   [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
-*   [Class B Shares](http://www.investopedia.com/terms/c/classbshares.asp)
-*   [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
-*   [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
+
+Venture Capital Terminology- Rights- Anti-Dilution
 *   [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
-*   [Shareholder Rights Plan (Poison Pill)](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
+*   [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
+
+Venture Capital Terminology- Rights- Voting Rights
+*   [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
+*   [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
+
+Venture Capital Terminology- Rights- Minority
 *   [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
+*   [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
+*   [Tag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Tag-along_right)
+
+Venture Capital Terminology- Rights- Activism
 *   [Activist Shareholder Wikipedia](https://en.wikipedia.org/wiki/Activist_shareholder)
+*   [Shareholder Rights Plan (Poison Pill) Wikipedia](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
+*   [Super-Majority Amendment Wikipedia](https://en.wikipedia.org/wiki/Super-majority_amendment)
+*   [Staggered Board of Directors Wikipedia](https://en.wikipedia.org/wiki/Staggered_board_of_directors)
+*   [Corporate Raid Wikipedia](https://en.wikipedia.org/wiki/Corporate_raid)
+*   [Takeover Wikipedia](https://en.wikipedia.org/wiki/Takeover)
+*   [Reverse Takeover Wikipedia](https://en.wikipedia.org/wiki/Reverse_takeover)
 
 Carve-Outs and Spin-Offs
 *   [Equity Carve-Out Wikipedia](https://en.wikipedia.org/wiki/Equity_carve-out)
