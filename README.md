@@ -378,6 +378,8 @@ Venture Capital Terminology- Rights
 *   [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
 
 Venture Capital Terminology- Rights- Senority 
+*   [Senior Debt Wikipedia](https://en.wikipedia.org/wiki/Senior_debt)
+*   [Subordinated Debt Wikipedia](https://en.wikipedia.org/wiki/Subordinated_debt)
 *   [Liquidation Preference (Also: Multiple Liquidation Preference)](http://www.investopedia.com/terms/l/liquidation-preference.asp)
 *   [What is a senior liquidation preference?](https://www.quora.com/What-is-a-senior-liquidation-preference)
 
@@ -1348,6 +1350,7 @@ Accounting
 
 Public Market
 *   [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
+*   [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
 *   [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
 *   [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
 *   [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
