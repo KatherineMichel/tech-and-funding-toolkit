@@ -1138,6 +1138,10 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 
 *   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
 
+Return
+*   [Return on investment Wikipedia](https://en.wikipedia.org/wiki/Return_on_investment)
+*   [Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Rate_of_return)
+
 Business and Financial Metrics
 * 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
 * 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
