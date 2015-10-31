@@ -403,11 +403,15 @@ Venture Capital Terminology- Rights- Activism
 *   [Shareholder Rights Plan (Poison Pill) Wikipedia](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
 *   [Super-Majority Amendment Wikipedia](https://en.wikipedia.org/wiki/Super-majority_amendment)
 *   [Staggered Board of Directors Wikipedia](https://en.wikipedia.org/wiki/Staggered_board_of_directors)
+*   [Control Premium Wikipedia](https://en.wikipedia.org/wiki/Control_premium)
 *   [Corporate Raid Wikipedia](https://en.wikipedia.org/wiki/Corporate_raid)
 *   [Takeover Wikipedia](https://en.wikipedia.org/wiki/Takeover)
 *   [Reverse Takeover Wikipedia](https://en.wikipedia.org/wiki/Reverse_takeover)
+*   [Proxy Fight Wikipedia](https://en.wikipedia.org/wiki/Proxy_fight)
+*   [Tender Offer Wikipedia](https://en.wikipedia.org/wiki/Tender_offer)
 
 Endings
+*   [Mergers and Acquisitions Wikipedia](https://en.wikipedia.org/wiki/Mergers_and_acquisitions)
 *   [Equity Carve-Out Wikipedia](https://en.wikipedia.org/wiki/Equity_carve-out)
 *   [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
 *   [Corporate Spin-Off Wikipedia](https://en.wikipedia.org/wiki/Corporate_spin-off)
@@ -1013,6 +1017,7 @@ Public Market
 *   [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
 *   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
+*   [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
 
 Demand-Side and Supply Side Economics
 *   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
@@ -1644,7 +1649,7 @@ Improvement
 *   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
 *   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
 *   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
-*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
+*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization) and [Chris Argyris Wikipedia](https://en.wikipedia.org/wiki/Chris_Argyris)
 *   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
 *   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
@@ -2019,6 +2024,10 @@ List
 *   [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
 *   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
+
+Market
+*   [Target Market Wikipedia](https://en.wikipedia.org/wiki/Target_market)
+*   [Market Segmentation Wikipedia](https://en.wikipedia.org/wiki/Market_segmentation)
 
 #### Lean Startup and Launchpad
 
@@ -4460,6 +4469,7 @@ Network and System
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
 *   [Social Network Wikipedia](https://en.wikipedia.org/wiki/Social_network)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
+*   [Social Theory Wikipedia](https://en.wikipedia.org/wiki/Social_theory)
 *   [System Wikipedia](https://en.wikipedia.org/wiki/System)
 *   [Systems Science Wikipedia](https://en.wikipedia.org/wiki/Systems_science)
 *   [Systems Theory Wikipedia](https://en.wikipedia.org/wiki/Systems_theory)
