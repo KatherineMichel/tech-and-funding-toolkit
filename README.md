@@ -963,6 +963,7 @@ Economics
 *   [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
 *   [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
 *   [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
+*   [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
 *   [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
 *   [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
 *   [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
@@ -4467,6 +4468,10 @@ Accounting
 *   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
 *   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
+
+Financial
+*   [Capital Budgeting Wikipedia](https://en.wikipedia.org/wiki/Capital_budgeting)
+*   [Cash Flow Forecasting Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_forecasting)
 
 Time Value of Money
 *   [Adjusted Present Value Wikipedia](https://en.wikipedia.org/wiki/Adjusted_present_value)
