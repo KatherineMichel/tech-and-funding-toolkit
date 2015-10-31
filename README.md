@@ -1668,6 +1668,9 @@ Agile Project Management Methodologies
 *   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
 *   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
 
+Software Release Life Cycle
+*   [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
 Sprints
 *   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
 *   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
