@@ -1573,11 +1573,20 @@ Project Management
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
 *   [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
+
+Project Documents
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
 *   [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
 *   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 *   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 *   [Work Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Work_breakdown_structure)
+*   [Gantt Chart Wikipedia](https://en.wikipedia.org/wiki/Gantt_chart)
+*   [Critical Path Method Wikipedia](https://en.wikipedia.org/wiki/Critical_path_method)
+*   [Product Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Product_breakdown_structure)
+
+Project Software
+*   [Microsoft Project Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Project)
+*   [Microsoft Visio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visio)
 
 Project Management Associations and Certifications
 *   [Association for Project Management](http://www.apm.org.uk)  
