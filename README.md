@@ -1710,6 +1710,7 @@ Heuristic
 
 User Centered Design, User Experience, Usability
 *   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
+*   [User Experience Design Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 *   [Usability Wikipedia](https://en.wikipedia.org/wiki/Usability_testing)
 
 Persuasive Technology
