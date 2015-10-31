@@ -1562,6 +1562,7 @@ Project Management
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
 *   [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
+*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
 *   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 *   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 
@@ -1630,10 +1631,12 @@ Value
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
 
-Process Improvement
+Improvement
 *   [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
 *   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
 *   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
+*   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
+*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
 *   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
 *   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
@@ -2181,6 +2184,9 @@ Digital Stats
 
 #### Metrics
 
+Financial Ratio
+*   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
 A16Z Metrics
 *   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
@@ -2283,53 +2289,11 @@ Pirate Metrics
 *   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
 *   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
 
-*   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-Return
-*   [Return on investment Wikipedia](https://en.wikipedia.org/wiki/Return_on_investment)
-*   [Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Rate_of_return)
-
-
-Vocabulary
-
-*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization)
-
-*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
-
-General
-*   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
-*   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
-*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
-*   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
-*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
-*   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
-*   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
-*   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
-*   [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
-*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-*   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
-*   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
-
-*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
-
-Accounting
-*   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
-*   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
-*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
-*   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
-*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
-
 Miscellaneous Metrics
 *   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
 *   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
-
-Miscellaneous
-*   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
 *   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
-*   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
 *   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
-*   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
-*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 
 #### Internationalization
 
@@ -4405,6 +4369,35 @@ Awesome Awesomeness
 
 #### Vocabulary
 
+General
+*   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
+*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
+*   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
+*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
+*   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
+*   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
+*   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
+*   [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
+*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+*   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
+*   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
+*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
+
+Return
+*   [Return on investment Wikipedia](https://en.wikipedia.org/wiki/Return_on_investment)
+*   [Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Rate_of_return)
+
+Accounting
+*   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
+*   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
+*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
+*   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
+*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
+
+Business Model
+*   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
+*   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
+
 Entrepreneurship and Intrapreneurship 
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
 *   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
@@ -4417,6 +4410,10 @@ Entrepreneurship and Intrapreneurship
 *   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
 *   [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
 *   [Tacit Knowledge Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
+
+Ops
+*   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
+*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 
 Programming
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
