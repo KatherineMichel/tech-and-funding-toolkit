@@ -4394,6 +4394,16 @@ Accounting
 *   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 
+Working Capital Management
+*   [Cash Conversion Cycle Wikipedia](https://en.wikipedia.org/wiki/Cash_conversion_cycle)
+*   [Discounts and Allowances Wikipedia](https://en.wikipedia.org/wiki/Discounts_and_allowances)
+*   [Economic Order Quantity Wikipedia](https://en.wikipedia.org/wiki/Economic_order_quantity)
+*   [Economic Value Added Wikipedia](https://en.wikipedia.org/wiki/Economic_Value_Added)
+*   [Factoring (finance) Wikipedia](https://en.wikipedia.org/wiki/Factoring_(finance))
+*   [Just-in-Time Manufacturing Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_manufacturing)
+*   [Lean manufacturing Wikipedia](https://en.wikipedia.org/wiki/Lean_manufacturing)
+*   [Working Capital Wikipedia](https://en.wikipedia.org/wiki/Working_capital)
+
 Business Model
 *   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
 *   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
