@@ -1551,6 +1551,7 @@ Operations, Changement Management, Program Management. Project Management
 *   [Change Management Wikipedia](https://en.wikipedia.org/wiki/Change_management)
 *   [Program Management Wikipedia](https://en.wikipedia.org/wiki/Program_management)
 *   [Project Management Wikipedia](http://en.wikipedia.org/wiki/Project_management)  
+*   [Project Manager Wikipedia](https://en.wikipedia.org/wiki/Project_manager)  
 
 Office
 *   [Front Office Wikipedia](https://en.wikipedia.org/wiki/Front_office)
@@ -1558,13 +1559,15 @@ Office
 *   [Back Office Wikipedia](https://en.wikipedia.org/wiki/Back_office)
 
 Project Management
-*   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics) and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
+*   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics), [Outline of Project Management Wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
 *   [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
+*   [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
 *   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 *   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
+*   [Work Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Work_breakdown_structure)
 
 Project Management Associations and Certifications
 *   [Association for Project Management](http://www.apm.org.uk)  
