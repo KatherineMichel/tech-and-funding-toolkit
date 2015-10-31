@@ -275,7 +275,7 @@ Table of Contents
 *   [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 *   [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
-Mauboussin, Callahan, Rone, and Burns
+Mauboussin, Callahan, Rone, Burns, Bartholdson
 *   [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
 *   [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
 *   [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
@@ -291,6 +291,7 @@ Mauboussin, Callahan, Rone, and Burns
 *   [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
 *   [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
 *   [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+*   [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
 
 Nassim Nicholas Taleb: Antifragile and The Black Swan
 *   [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
@@ -945,6 +946,10 @@ Excel and Financial Modeling
 *   [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
 *   [Spreadsheet Standards Review Board](http://www.ssrb.org)  
 *   [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
+
+Free Market and Capitalism
+*   [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
+*   [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
 
 Economics
 *   [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
@@ -4376,6 +4381,7 @@ General
 *   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
 *   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
+*   [Globalization Wikipedia](https://en.wikipedia.org/wiki/Globalization)
 *   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
 *   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
 *   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
