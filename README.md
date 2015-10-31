@@ -296,6 +296,7 @@ Mauboussin, Callahan, Rone, Burns, Bartholdson
 Nassim Nicholas Taleb: Antifragile and The Black Swan
 *   [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
 *   [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
+*   [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
 *   [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
 *   [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
 *   [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
@@ -420,6 +421,8 @@ Endings
 More
 *   [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
 *   [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
+*   [Clawback Wikipedia](https://en.wikipedia.org/wiki/Clawback)
+*   [Cram Down Wikipedia](https://en.wikipedia.org/wiki/Cram_down)
 
 #### VC Firms, Accelerators, Resources
 
@@ -1018,6 +1021,7 @@ Public Market
 *   [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
 *   [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
 *   [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
+*   [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
 
 Demand-Side and Supply Side Economics
 *   [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
@@ -1596,10 +1600,6 @@ Requirements
 *   [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
 *   [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
 
-Project Software
-*   [Microsoft Project Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Project)
-*   [Microsoft Visio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visio)
-
 Project Management Associations and Certifications
 *   [Association for Project Management](http://www.apm.org.uk)  
 *   [Axelos (Formerly Managing Successful Programmes)](https://www.axelos.com)
@@ -1613,11 +1613,16 @@ Quality
 
 Project Management Software
 *   [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
+*   [Microsoft Project Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Project)
+*   [Microsoft Visio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visio)
 *   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
 *   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
 *   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 *   [Slack](https://slack.com) and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
 *   [Trello](https://trello.com)
+
+Software Project Management
+*   [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
 
 Software Development Philosophies
 *   [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
@@ -1626,12 +1631,24 @@ Software Development Philosophies
 *   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
 *   [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
 
+Programming Paradigm
+*   [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+
 Software Prototyping
 *   [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
 *   [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
 
-Software Project Management
-*   [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
+Software Testing
+*   [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+*   [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+*   [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+*   [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+*   [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+*   [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+*   [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+*   [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+*   [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+*   [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 
 ## Agile Wikipedia
 
@@ -4423,7 +4440,7 @@ Awesome Awesomeness
 
 General
 *   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
-*   [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
+*   [Consumer Surplus Wikipedia](http://www.investopedia.com/terms/c/consumer_surplus.asp) and [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
 *   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
 *   [Globalization Wikipedia](https://en.wikipedia.org/wiki/Globalization)
 *   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
