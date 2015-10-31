@@ -1665,16 +1665,21 @@ Value
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
 
-Improvement
+Improvement Schools of Thought
+*   [Analytical Quality Control Wikipedia](https://en.wikipedia.org/wiki/Analytical_quality_control)
+*   [Continual Improvement Process Wikipedia](https://en.wikipedia.org/wiki/Continual_improvement_process)
 *   [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
 *   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
 *   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
 *   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
+*   [Capability Maturity Model Integration Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
 *   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization) and [Chris Argyris Wikipedia](https://en.wikipedia.org/wiki/Chris_Argyris)
 *   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
 *   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
 *   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
+*   [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
+*   [Supply Chain Management Wikipedia](https://en.wikipedia.org/wiki/Supply_chain_management)
 
 ### Research and Design Sprints
 
