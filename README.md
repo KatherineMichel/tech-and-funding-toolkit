@@ -4394,6 +4394,18 @@ Accounting
 *   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 
+Time Value of Money
+*   [Adjusted Present Value Wikipedia](https://en.wikipedia.org/wiki/Adjusted_present_value)
+*   [Discounted Cash Flow Wikipedia](https://en.wikipedia.org/wiki/Discounted_cash_flow)
+*   [Discounting Wikipedia](https://en.wikipedia.org/wiki/Discounting)
+*   [Economic Value Added Wikipedia](https://en.wikipedia.org/wiki/Economic_Value_Added)
+*   [Future Value Wikipedia](https://en.wikipedia.org/wiki/Future_value)
+*   [Internal Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Internal_rate_of_return)
+*   [Market Value Added Wikipedia](https://en.wikipedia.org/wiki/Market_value_added)
+*   [Net Present Value Wikipedia](https://en.wikipedia.org/wiki/Net_present_value)
+*   [Present Value Wikipedia](https://en.wikipedia.org/wiki/Present_value)
+*   [Time Value of Money Wikipedia](https://en.wikipedia.org/wiki/Time_value_of_money)
+
 Working Capital Management
 *   [Cash Conversion Cycle Wikipedia](https://en.wikipedia.org/wiki/Cash_conversion_cycle)
 *   [Discounts and Allowances Wikipedia](https://en.wikipedia.org/wiki/Discounts_and_allowances)
