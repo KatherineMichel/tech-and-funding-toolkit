@@ -2485,6 +2485,13 @@ Encoding
 *   [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
 *   [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
 
+Browser
+*   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+*   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+*   [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+*   [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+*   [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+
 #### Unix and Linux
 
 Unix
@@ -2646,13 +2653,6 @@ Chromebook Ubuntu Installation
 
 #### Designer and Developer General
 
-Browser
-*   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-*   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-*   [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-*   [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-*   [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-
 Web General
 *   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 *   [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
@@ -2770,18 +2770,27 @@ Documentation
 Great Unsolved Problems in Computer Science
 *   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
 
-Programming Languages and MVCs- General
+Programming Languages
+*   [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
 *   [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
 *   [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 *   [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
 *   [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+*   [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+*   [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+*   [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+*   [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+*   [Computer Programming/Hello world Wikibooks](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+*   [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Scripting and MVCs
 *   [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 *   [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
 *   [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
 Miscellaneous Programming Languages
 *   [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-*   [C Wikibook Wikipedia](http://en.wikibooks.org/wiki/C_Programming)  
+*   [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
 *   [Learn C the Hard Way](http://c.learncodethehardway.org)  
 *   [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
 *   [C++ Wikibook Wikipedia](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
