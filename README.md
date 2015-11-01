@@ -2703,6 +2703,15 @@ Web General
 *   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 *   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
+HTML, XML, XHTML
+*   [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+*   [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+*   [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+*   [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+*   [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+*   [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+*   [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
 CSS
 *   [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
 *   [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
