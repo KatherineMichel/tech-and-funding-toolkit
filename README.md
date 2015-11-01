@@ -2704,12 +2704,13 @@ Web General
 *   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
 HTML, XML, XHTML
+*   [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
 *   [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
 *   [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
 *   [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+*   [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 *   [XML Wikibook](https://en.wikipedia.org/wiki/XML)
 *   [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-*   [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 *   [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 
 CSS
