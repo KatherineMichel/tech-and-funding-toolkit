@@ -1691,6 +1691,7 @@ Value
 *   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
+*   [Global Supply-Chain Finance Wikipedia](https://en.wikipedia.org/wiki/Global_supply-chain_finance)
 
 Improvement Schools of Thought
 *   [Analytical Quality Control Wikipedia](https://en.wikipedia.org/wiki/Analytical_quality_control)
@@ -4474,6 +4475,10 @@ General
 *   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
 *   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
+Statements
+*   [Annual Report Wikipedia](https://en.wikipedia.org/wiki/Annual_report)
+*   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
+
 Return
 *   [Return on investment Wikipedia](https://en.wikipedia.org/wiki/Return_on_investment)
 *   [Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Rate_of_return)
@@ -4535,6 +4540,7 @@ Entrepreneurship and Intrapreneurship
 Ops
 *   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
 *   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
+*   [Holacracy Wikipedia](https://en.wikipedia.org/wiki/Holacracy)
 
 Programming
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
@@ -4542,6 +4548,7 @@ Programming
 *   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
 
 Network and System
+*   [Darwinism Wikipedia](https://en.wikipedia.org/wiki/Darwinism)
 *   [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
 *   [Network Theory Wikipedia](https://en.wikipedia.org/wiki/Network_theory)
 *   [Chaos Theory Wikipedia](https://en.wikipedia.org/wiki/Chaos_theory)
