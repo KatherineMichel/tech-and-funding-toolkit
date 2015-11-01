@@ -1008,6 +1008,8 @@ Options Models
 
 Financial Market and Instruments
 *   [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+*   [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
+*   [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
 *   [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
 
 Rational Decisions 
@@ -1015,7 +1017,6 @@ Rational Decisions
 *   [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
  
 Public Market
-*   [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
 *   [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
 *   [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
 *   [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
@@ -1434,6 +1435,9 @@ Social Entrepreneurship
 *   [Gates Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
 *   [Gates Notes](http://www.gatesnotes.com)
 *   [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
+
+Microfinance
+*   [Microfinance Wikipedia](https://en.wikipedia.org/wiki/Microfinance)
 
 Happiness
 *   [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
@@ -3740,6 +3744,7 @@ Big Data- Lambda Architecture
 *   [Nathan Marz GitHub](https://github.com/nathanmarz)  
 
 Big Data- Apache
+*   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
 *   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list)  
 *   [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects)  
 *   [Apache Accumulo ("Secure Big Table") Wikipedia](http://en.wikipedia.org/wiki/Apache_Accumulo)  
@@ -4472,10 +4477,14 @@ General
 Return
 *   [Return on investment Wikipedia](https://en.wikipedia.org/wiki/Return_on_investment)
 *   [Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Rate_of_return)
+*   [Return on Assets Wikipedia](https://en.wikipedia.org/wiki/Return_on_assets)
+*   [Return on Capital Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital)
+*   [Return on Equity Wikipedia](https://en.wikipedia.org/wiki/Return_on_equity)
 
 Accounting
 *   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
 *   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
+*   [Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Cost_of_capital)
 *   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
 *   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
 *   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
