@@ -423,11 +423,13 @@ More
 *   [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
 *   [Clawback Wikipedia](https://en.wikipedia.org/wiki/Clawback)
 *   [Cram Down Wikipedia](https://en.wikipedia.org/wiki/Cram_down)
+*   [Hamburger Helper](https://twitter.com/trengriffin/status/660536443308109824)
 
 #### VC Firms, Accelerators, Resources
 
 Lists of VC Firms and Accelerators
 *   [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) 
+*   [Private Equity and Venture Capital Investors (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Private_equity_and_venture_capital_investors)
 *   [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
 *   [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
@@ -1443,7 +1445,7 @@ International Info
 *   [Lists of Countries by Number of Mobile Phones in Use Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use) 
 *   [Lists of Countries by Smartphone Penetration Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) 
 *   [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
-*   [Currencies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
+*   [Currencies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
 ### General Research and Learning
@@ -1451,7 +1453,7 @@ International Info
 #### Learning Resources
 
 Wikipedia
-*   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+*   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
 *   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 
 MOOCs
@@ -1574,7 +1576,7 @@ Office
 
 Project Management
 *   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics), [Outline of Project Management Wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
-*   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
+*   [Project Management (Category)Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
 *   [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
 
@@ -3310,8 +3312,8 @@ Client and Server-Side
 
 Databases
 *   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
-*   [Category Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-*   [Database Management Systems Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)  
+*   [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+*   [Database Management Systems (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)  
 *   [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
 *   [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
 *   [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
@@ -3320,7 +3322,7 @@ Stanford Open Classroom- Introduction to Databases
 *   [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
 
 Types of Databases
-*   [Category Types of Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+*   [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
 *   [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
 *   [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
 *   [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
@@ -3332,10 +3334,10 @@ Types of Databases
 *   [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
 *   [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
 *   [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-*   [Category Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-*   [Category NoSQL Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+*   [Document Oriented Databases (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+*   [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
 *   [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-*   [Category Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+*   [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
 *   [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
 *   [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
 
@@ -3727,7 +3729,7 @@ Cron
 Big Data- Lambda Architecture
 *   [Lambda Architecture](http://lambda-architecture.net)  
 *   [Lambda Calculus Wikipedia](http://en.wikipedia.org/wiki/Lambda_calculus)  
-*   [Lambda Calculus Categories Wikipedia](http://en.wikipedia.org/wiki/Category:Lambda_calculus)  
+*   [Lambda Calculus (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Lambda_calculus)  
 *   [MapReduce Lambda Architecture Explanation](http://www.mapr.com/fr/developercentral/lambda-architecture)  
 *   [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
 *   [Nathan Marz GitHub](https://github.com/nathanmarz)  
@@ -3838,7 +3840,7 @@ Python (See also Data Science)
 *   [Python Patterns Library](https://github.com/faif/python-patterns)  
 
 Python- Packages/Libraries
-*   [Python Libraries Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
+*   [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
 *   [Python Packaging Authority GitHub](https://github.com/pypa)  
 *   [PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
 *   [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
