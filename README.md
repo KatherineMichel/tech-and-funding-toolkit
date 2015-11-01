@@ -853,6 +853,7 @@ Document Libraries- Free/Freemium
 *   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
 
 Document Libraries- Not Free/Freemium
+*   [LegalZoom](http://www.legalzoom.com)
 *   [Rocket Lawyer (Starts at $7/month)](https://www.rocketlawyer.com) 
 
 Standard Docs- International
