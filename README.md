@@ -2439,7 +2439,11 @@ Document Hosting
 Calendar 
 *   [Sunrise](https://calendar.sunrise.am)
 
-Social Media and Distribution 
+Social Media Distribution 
+*   [Facebook](https://www.facebook.com)
+*   [Twitter](https://twitter.com)
+
+Social Media Distribution 
 *   [Buffer](https://bufferapp.com)
 *   [Hootsuite](https://hootsuite.com)
 *   [HubSpot CRM](http://www.hubspot.com/crm)
