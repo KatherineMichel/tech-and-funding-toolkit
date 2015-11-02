@@ -1323,7 +1323,8 @@ Tech Periodical
 Tech Longform
 *   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
 
-Consumer Reports and Popular Mechanics
+The Wirecutter, Consumer Reports, Popular Mechanics
+*   [The Wirecutter](http://thewirecutter.com)
 *   [Consumer Reports](http://www.consumerreports.org)
 *   [Popular Mechanics](http://www.popularmechanics.com)
 
@@ -1346,6 +1347,7 @@ Question and Answer Forums
 Aggregated News Sources
 *   [Feedly](http://feedly.com)  
 *   [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
+*   [Grasswire](https://grasswire.com)
 *   [Inside Top](https://www.inside.com/top)
 *   [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 *   [Matthew Keys](http://matthewkeys.net)
