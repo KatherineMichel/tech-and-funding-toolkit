@@ -2506,6 +2506,9 @@ Admin, Hiring, Payroll
 
 #### Computer Basics
 
+Computing Classification
+*   [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
 Binary
 *   [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
 *   [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
