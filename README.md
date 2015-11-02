@@ -1479,6 +1479,7 @@ General Research
 *   [Google Books](https://books.google.com)
 *   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
 *   [Google Scholar](https://scholar.google.com)
+*   [Google Newspapers](https://news.google.com/newspapers)
 
 Scholarly Journals
 *   [Science Direct](http://www.sciencedirect.com)  
