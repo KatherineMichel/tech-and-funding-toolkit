@@ -1205,6 +1205,7 @@ Charlie Munger Investing Bias of the Day via [Tren Griffin](https://twitter.com/
 Analyst Groups
 *   [Accenture](https://www.accenture.com)
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
+*   [Booz Allen Hamilton](http://www.boozallen.com)
 *   [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
 *   [Constellation Research](https://www.constellationr.com)
 *   [CreditSuisse Plus](https://plus.credit-suisse.com/researchplus)
