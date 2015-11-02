@@ -1642,6 +1642,7 @@ Software Development Philosophies
 
 Programming Paradigm
 *   [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+*   [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
 Software Prototyping
 *   [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
