@@ -2533,6 +2533,12 @@ HTTP
 *   [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 *   [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
+TCP-IP and OSI Protocols
+*   [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+*   [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+*   [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+*   [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
 #### Unix and Linux
 
 Unix
