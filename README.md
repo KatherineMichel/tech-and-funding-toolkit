@@ -1709,6 +1709,9 @@ Improvement Schools of Thought
 *   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
 *   [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
 *   [Supply Chain Management Wikipedia](https://en.wikipedia.org/wiki/Supply_chain_management)
+*   [Flow Process Chart Wikipedia](https://en.wikipedia.org/wiki/Flow_process_chart)
+*   [Flowchart Wikipedia](https://en.wikipedia.org/wiki/Flowchart)
+*   [Workflow Wikipedia](https://en.wikipedia.org/wiki/Workflow)
 
 ### Research and Design Sprints
 
