@@ -1231,6 +1231,7 @@ Management Consulting Firms
 Think Tanks
 *   [Brookings](http://www.brookings.edu)
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+*   [NACUE](http://www.nacue.com)
 *   [Startup Britain Resources](http://www.startupbritain.org/resources)
 
 #### Business and Tech News Sources
