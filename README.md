@@ -1532,6 +1532,7 @@ Shows
 *   [Product Hunt Live](http://www.producthunt.com/live)
 *   [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
 *   [This Week in Startups](http://thisweekinstartups.com)
+*   [This Week in Tech](https://twit.tv)
 
 #### Books and Courses
 
