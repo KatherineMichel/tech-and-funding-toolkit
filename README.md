@@ -2488,10 +2488,11 @@ File Storage
 *   [Dropbox](https://www.dropbox.com)
 
 Logistics
-*   [Craigslist](https://craigslist.org) 
+*   [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
 *   [Gumtree](http://www.gumtree.co)
 *   [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
 *   [Move Loot](https://www.moveloot.com/welcome)
+*   [Statewide List](http://www.statewidelist.com)
 
 Crowd Sourced Internet Marketplace
 *   [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
