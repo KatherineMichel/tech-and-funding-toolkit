@@ -1285,6 +1285,7 @@ Ivy League Business and Tech
 
 Stem Journals 
 *   [ACM Publications](https://www.acm.org/publications) and [Journal of the ACM](http://jacm.acm.org)
+*   [Computing Research Repository](http://arxiv.org/corr/home)
 *   [Electrical Engineering Times](http://www.eetimes.com)
 *   [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html)
 *   [New Scientist](https://www.newscientist.com)
@@ -1336,6 +1337,7 @@ Leaderboard
 General News Sources- High Brow
 *   [BBC](http://www.bbc.com)
 *   [New York Times](http://www.nytimes.com)
+*   [Reuters U.K.](http://uk.reuters.com)
 *   [Wall Street Journal](http://www.wsj.com) and [Wall Street Journal Blog](http://blogs.wsj.com)
 
 Question and Answer Forums
