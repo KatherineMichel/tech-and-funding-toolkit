@@ -492,7 +492,7 @@ VC Firm Demo Days
 *   [500 Startups Demo Day](http://500demoday.co)
 
 VC Firm Events
-*   [PreMoney](http://premoney.co/agenda), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
+*   [PreMoney](http://premoney.co/agenda), [PreMoney Resources](http://premoney.co/resources), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 
 VC Videos and Podcasts
 *   [A16Z Podcasts](https://soundcloud.com/a16z)
