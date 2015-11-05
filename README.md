@@ -2457,6 +2457,9 @@ Photo Hosting
 Document Hosting
 *   [Scribd](https://www.scribd.com)
 
+Links
+*   [Bitly](https://bitly.com)
+
 Calendar 
 *   [Sunrise](https://calendar.sunrise.am)
 
@@ -4615,6 +4618,7 @@ Laws, Theories, Logic
 *   [Baumol's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
 *   [Benford's Law Wikipedia](http://en.wikipedia.org/wiki/Benford%27s_law)  
 *   [Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
+*   [Blue Sky Thinking](https://en.wiktionary.org/wiki/blue-sky_thinking)
 *   [Brook's Law (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law)
 *   [Clark's Three Laws Wikipedia](http://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
 *   [Coase Theorem Wikipedia](http://en.wikipedia.org/wiki/Coase_theorem)  
