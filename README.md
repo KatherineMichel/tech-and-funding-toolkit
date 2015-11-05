@@ -1361,6 +1361,7 @@ Aggregated News Sources
 *   [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
 Eccentric
+*   [Brain Pickings](https://www.brainpickings.org)
 *   [Marginal Revolution](http://marginalrevolution.com)
 *   [Praxtime](http://praxtime.com)
 *   [Priceonomics](http://priceonomics.com)
