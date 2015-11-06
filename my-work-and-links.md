@@ -1,6 +1,6 @@
 # My Work and Links
 
-Try to Check Daily
+Check Daily
 *   [GitHub Explore](https://github.com/explore)
 *   [Product Hunt](https://www.producthunt.com)
 *   [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (Custom Feeds)](http://nuzzel.com/KatiMichel/customfeeds)
@@ -23,6 +23,11 @@ Project Management and Tools
 *   [Slack](https://katherinemichel.slack.com)
 *   [Kindle Cloud Reader](https://read.amazon.com)
 *   [Amazon Wishlist](http://www.amazon.com/gp/registry/wishlist)
+
+GitHub Searches
+*   [Django](https://github.com/search?utf8=%E2%9C%93&q=django)
+*   [Python](https://github.com/search?utf8=%E2%9C%93&q=python)
+*   [Golang](https://github.com/search?utf8=%E2%9C%93&q=golang)
 
 Sprints
 *   [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
