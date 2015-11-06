@@ -3,6 +3,16 @@
 Try to Check Daily
 *   [GitHub Explore](https://github.com/explore)
 *   [Product Hunt](https://www.producthunt.com)
+*   [Nuzzel](nuzzel.com/KatiMichel)
+*   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel)
+
+Professional
+*   [AngelList](https://angel.co/katimichel)
+*   [Dribble](https://dribbble.com/KatherineMichel)
+*   [LinkedIn](http://www.linkedin.com/in/katherinemichel)
+*   [Product Hunt](http://www.producthunt.com/katimichel)
+*   [SlideShare](http://www.slideshare.net/KatiMichel)
+*   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel/lists)
 
 My Resources
 *   [Kati Michel Twitter Lists](https://twitter.com/KatiMichel/lists), [VC, Accelerator, Startups](https://twitter.com/KatiMichel/lists/vc-accelerator-startups/members)
@@ -15,39 +25,32 @@ Toolkit
 My Previous Sprints
 * [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
 
-Professional
-*   [AngelList](https://angel.co/katimichel)
-*   [Dribble](https://dribbble.com/KatherineMichel)
-*   [Kindle Cloud Reader](https://read.amazon.com)
-*   [LinkedIn](http://www.linkedin.com/in/katherinemichel)
-*   [Office Live](https://office.live.com)
-*   [Product Hunt](http://www.producthunt.com/katimichel)
-*   [SlideShare](http://www.slideshare.net/KatiMichel)
-
 Portfolio
 *   [GitHub Web Site](http://katherinemichel.github.io) and [GitHub Blog](http://katherinemichel.github.io/blog) 
 *   [GitBook Profile](http://katherinemichel.gitbooks.io) and [GitBook CMS](https://www.gitbook.com/book/katherinemichel)
 
-Project Management
+Project Management and Tools
 *   [Asana](https://app.asana.com/0/31099737955561/31099737955561)
 *   [GitHub](https://github.com/KatherineMichel) 
+*   [Office Live](https://office.live.com)
 *   [Read the Docs](https://readthedocs.org/profiles/KatherineMichel)
 *   [Slack](https://katherinemichel.slack.com)
-
-Twitter Lists and Nuzzel
-*   [Twitter](https://twitter.com/KatiMichel)
-*   [Nuzzel](nuzzel.com/KatiMichel)
+*   [Kindle Cloud Reader](https://read.amazon.com)
 
 Language
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
 *   [Spanish Language Wikipedia](https://en.wikipedia.org/wiki/Spanish_language), [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanishes Tenses Wikibook](https://en.wikibooks.org/wiki/Spanish/Tenses), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), and [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs)
 *   [Medium en Español](https://medium.com/espanol)
 
-Social Media and Entertainment
-*   [Blogspot](http://katherinemichel.blogspot.co.uk) 
+Music
+*   [Pandora]()
+*   [Spotify](http://open.spotify.com/user/1111062770) 
+
+Personal or Defunkt
+*   [Blogspot U.K.](http://katherinemichel.blogspot.co.uk) 
 *   [Facebook](https://facebook.com/katherine.michel.5) 
 *   [Google+](https://plus.google.com/u/0/112490330070859885485)
-*   [Spotify](http://open.spotify.com/user/1111062770) 
 *   [Tumblr Homepage](http://katimichel.tumblr.com) 
 *   [Tumblr Homepage](http://katherineeileenmichel.tumblr.com)
+*   [WordPress](https://katherinemichel.wordpress.com)
 *   [Youtube](http://www.youtube.com/user/KatiEileen1)
