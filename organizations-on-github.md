@@ -133,6 +133,7 @@ U.K.
 *   [KISSmetrics](https://github.com/kissmetrics)  
 *   [Library of Congress](https://github.com/LibraryofCongress)
 *   [LinkedIn](https://github.com/linkedin)  
+*   [Lyft](https://github.com/lyft)
 *   [MailChimp](https://github.com/mailchimp)  
 *   [Mashable](https://github.com/mashable)  
 *   [Mashery](https://github.com/mashery)  
