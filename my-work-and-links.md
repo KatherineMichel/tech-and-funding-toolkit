@@ -4,7 +4,8 @@ Try to Check Daily
 *   [GitHub Explore](https://github.com/explore)
 *   [Product Hunt](https://www.producthunt.com)
 *   [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (Custom Feeds)](http://nuzzel.com/KatiMichel/customfeeds)
-*   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel)
+*   Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
+*   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel/lists)
 
 Professional/Portfolio
 *   [GitBook Profile](http://katherinemichel.gitbooks.io) and [GitBook CMS](https://www.gitbook.com/book/katherinemichel)
@@ -14,16 +15,6 @@ Professional/Portfolio
 *   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel/lists)
 *   [Web Site](http://katherinemichel.github.io) and [Blog](http://katherinemichel.github.io/blog) 
 
-Toolkit
-* [Tech and Venture Capital Toolkit](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit)
-
-My Previous Sprints
-* [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
-
-My Resources
-*   [VC, Accelerator, Startups](https://twitter.com/KatiMichel/lists/vc-accelerator-startups/members)
-*   [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
-
 Project Management and Tools
 *   [Asana](https://app.asana.com/0/31099737955561/31099737955561)
 *   [GitHub](https://github.com/KatherineMichel) 
@@ -32,6 +23,12 @@ Project Management and Tools
 *   [Slack](https://katherinemichel.slack.com)
 *   [Kindle Cloud Reader](https://read.amazon.com)
 *   [Amazon Wishlist](http://www.amazon.com/gp/registry/wishlist)
+
+Sprints
+*   [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
+
+More Resources
+*   [Tech and Venture Capital Toolkit](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit)
 
 Language
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
@@ -50,6 +47,7 @@ Music
 Personal or Defunkt
 *   [Blogspot U.K.](http://katherinemichel.blogspot.co.uk) 
 *   [Facebook](https://facebook.com/katherine.michel.5) 
+*   [Flickr Profile](https://www.flickr.com/people/katherinemichel) and [Flickr Photos](https://www.flickr.com/photos/katherinemichel)
 *   [Google+](https://plus.google.com/u/0/112490330070859885485)
 *   [Tumblr Homepage](http://katimichel.tumblr.com) 
 *   [Tumblr Homepage](http://katherineeileenmichel.tumblr.com)
