@@ -340,7 +340,7 @@ Venture Capital Terminology- General
 *   [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
-*   [Carried Interest Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
+*   [Carried Interest (Deduction) Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
 *   [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
 *   [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
 *   [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
