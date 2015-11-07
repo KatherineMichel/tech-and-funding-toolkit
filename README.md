@@ -495,10 +495,11 @@ VC Firm Demo Days
 VC Firm Events
 *   [PreMoney](http://premoney.co/agenda), [PreMoney Resources](http://premoney.co/resources), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
 
-VC Videos and Podcasts
+VC and Tech Videos and Podcasts
 *   [A16Z Podcasts](https://soundcloud.com/a16z)
 *   [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
 *   [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
+*   [Product Hunt Live](https://www.producthunt.com/live)
 
 VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
