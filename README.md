@@ -499,7 +499,6 @@ VC and Tech Videos and Podcasts
 *   [A16Z Podcasts](https://soundcloud.com/a16z)
 *   [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
 *   [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
-*   [Product Hunt Live](https://www.producthunt.com/live)
 
 VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
@@ -542,30 +541,11 @@ Europe and U.K.
 *   [AngelList U.K.](https://angel.co/uk)
 *   [Tech EU Radar Online Database](http://radar.tech.eu) 
 
-Mobile and Browser
-*   [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
-*   [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
-*   [Apple Store](http://store.apple.com/us)
-*   [Chrome Web Store](https://chrome.google.com/webstore)
-*   [Google Play](https://play.google.com)
-*   [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
-*   [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
-*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
-*   [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
-*   [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
-
 Database APIs
 *   [AngelList API](https://angel.co/api)
 *   [CrunchBase API](https://developer.crunchbase.com)
 *   [Mattermark API](https://mattermark.com/api)  
 *   [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
-
-Product/Service Directories
-*   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-*   [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-Wayback Machine
-*   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
 
 #### Unicorns, Companies, Industry and Product Classifications, Associations
 
@@ -1502,7 +1482,7 @@ Scholarly Journals
 *   [Science Direct](http://www.sciencedirect.com)  
 *   [Elselvier](http://www.elsevier.com) 
 
-Libraryes
+Libraries
 *   [City of London Business Library](http://www.cityoflondon.gov.uk/Pages/default.aspx)
 *   [The British Library](http://www.bl.uk)
 
@@ -2063,6 +2043,25 @@ App and Website Statistics- General
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 *   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
+Mobile and Browser
+*   [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
+*   [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
+*   [Apple Store](http://store.apple.com/us)
+*   [Chrome Web Store](https://chrome.google.com/webstore)
+*   [Google Play](https://play.google.com)
+*   [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
+*   [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
+*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+*   [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
+*   [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
+
+Product/Service Directories
+*   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+*   [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+Wayback Machine
+*   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
+
 #### Market, Business Models, Pricing, Product Tiers
   
 Market
@@ -2420,10 +2419,6 @@ Two Factor Authentication
 
 *   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
-Browsers
-*   [Google Chrome](http://www.google.com/chrome)
-*   [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
- 
 Google Products, Office
 *   [Google Products](http://www.google.com/intl/en/about/products) 
 *   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
@@ -2554,6 +2549,8 @@ Encoding
 
 Browser
 *   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+*   [Google Chrome](http://www.google.com/chrome)
+*   [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 *   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 *   [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 *   [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
