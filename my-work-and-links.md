@@ -12,6 +12,7 @@ Professional/Portfolio
 *   [GitBook Profile](http://katherinemichel.gitbooks.io) and [GitBook CMS](https://www.gitbook.com/book/katherinemichel)
 *   [GitHub](https://github.com/KatherineMichel)
 *   [LinkedIn](http://www.linkedin.com/in/katherinemichel)
+*   [Makerbase](https://makerba.se/m/0hibu8/katimichel)
 *   [SlideShare](http://www.slideshare.net/KatiMichel)
 *   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel/lists)
 *   [Web Site](http://katherinemichel.github.io) and [Blog](http://katherinemichel.github.io/blog) 
