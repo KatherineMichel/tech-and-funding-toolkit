@@ -4504,6 +4504,10 @@ Awesome Awesomeness
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 *   [growth.supply](http://growth.supply/free)
 
+Book Lists
+*   [Bookicious](http://www.bookicious.com/collections)
+*   [Bookstck](http://bookstck.tumblr.com)
+
 #### Vocabulary
 
 General
