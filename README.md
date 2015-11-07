@@ -3236,6 +3236,8 @@ RRSSB
 *   [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
 
 Apple
+*   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+*   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
 *   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
 *   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
 *   [Xcode](https://developer.apple.com/xcode) 
