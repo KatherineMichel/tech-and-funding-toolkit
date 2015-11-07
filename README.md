@@ -1606,11 +1606,12 @@ Project Documents
 *   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
 *   [Work Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Work_breakdown_structure)
 *   [Gantt Chart Wikipedia](https://en.wikipedia.org/wiki/Gantt_chart)
-*   [schedule (Project Management) Wikipedia](https://en.wikipedia.org/wiki/Schedule_(project_management))
+*   [Schedule (Project Management) Wikipedia](https://en.wikipedia.org/wiki/Schedule_(project_management))
 *   [Project Network Wikipedia](https://en.wikipedia.org/wiki/Project_network)
 *   [Critical Path Method Wikipedia](https://en.wikipedia.org/wiki/Critical_path_method)
 *   [Product Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Product_breakdown_structure)
 *   [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
+*   [Organizational Structure Wikipedia](https://en.wikipedia.org/wiki/Organizational_structure)
 
 Requirements
 *   [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
