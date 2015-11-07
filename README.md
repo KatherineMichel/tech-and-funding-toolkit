@@ -4492,6 +4492,12 @@ Labs
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
 *   [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
 *   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
+*   [Content Marketing Stack](http://www.contentmarketingstack.co)
+*   [Growth Tools](http://growthtools.io)
+*   [Makerbook](http://makerbook.net)
+*   [Marketing Stack](http://marketingstack.io)
+*   [Stacklist](http://stacklist.com)
+*   [Startup Stash](http://startupstash.com)
 
 Awesome Awesomeness
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
