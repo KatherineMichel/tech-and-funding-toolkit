@@ -543,10 +543,16 @@ Europe and U.K.
 *   [Tech EU Radar Online Database](http://radar.tech.eu) 
 
 Mobile and Browser
+*   [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
+*   [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
 *   [Apple Store](http://store.apple.com/us)
-*   [Google Play](https://play.google.com)
-*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
 *   [Chrome Web Store](https://chrome.google.com/webstore)
+*   [Google Play](https://play.google.com)
+*   [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
+*   [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
+*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+*   [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
+*   [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
 
 Database APIs
 *   [AngelList API](https://angel.co/api)
