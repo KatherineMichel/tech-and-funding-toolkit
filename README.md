@@ -1412,6 +1412,8 @@ International Organizations
 *   [International Monetary Fund](https://www.imf.org) 
 *   [Organisation for Economic Cooperation and Development Wikipedia](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
 *   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
+*   [World Bank Wikipedia](https://en.wikipedia.org/wiki/World_Bank) and [World Bank Group Wikipedia](https://en.wikipedia.org/wiki/World_Bank_Group)
+*   [Multilateral Investment Guarantee Agency Wikipedia](https://en.wikipedia.org/wiki/Multilateral_Investment_Guarantee_Agency)
 *   [World Economic Forum](http://www.weforum.org)
 
 International Organizations Reports and Data
@@ -1445,7 +1447,8 @@ Social Entrepreneurship
 *   [Gates Notes](http://www.gatesnotes.com)
 *   [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
 
-Microfinance
+Microcredit/Microfinance
+*   [Microcredit Wikipedia](https://en.wikipedia.org/wiki/Microcredit)
 *   [Microfinance Wikipedia](https://en.wikipedia.org/wiki/Microfinance)
 
 Happiness
