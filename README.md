@@ -523,7 +523,7 @@ Database List
 *   [CB Insights](https://www.cbinsights.com)
 *   [CrunchBase](http://www.crunchbase.com)
 *   [Datafox](http://www.datafox.co)
-*   [GitHub Explore](https://github.com/explore) 
+*   [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
 *   [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
 *   [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
 *   [Product Hunt](http://www.producthunt.com) 
@@ -2644,23 +2644,23 @@ Git
 *   [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
 *   [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
  
-GitHub
-*   [GitHub](https://github.com)  
-*   [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+GitHub- Main
+*   [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
 *   [GitHub Help](https://help.github.com)  
 *   [GitHub Training](http://training.github.com)  
 *   [GitHub Blog](https://github.com/blog)  
 *   [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-*   [Explore GitHub](https://github.com/explore)  
-*   [Showcases GitHub](https://github.com/showcases)  
+*   [GitHub Developer](https://developer.github.com)
 *   [Git Ignore GitHub](https://github.com/github/gitignore)  
 *   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
-*   [GitHub DCMA](https://github.com/github/dmca)
-*   [Octokit](https://github.com/octokit) 
 
 GitHub Services Integration
 *   [Service Hooks GitHub](https://github.com/github/github-services)  
 *   [GitHub Integrations](https://github.com/integrations)  
+
+GitHub- More
+*   [GitHub DCMA](https://github.com/github/dmca)
+*   [Octokit](https://github.com/octokit) 
 
 Markdown
 *   [Markdown](http://daringfireball.net/projects/markdown)  
@@ -2681,7 +2681,6 @@ Git Learning Resources
 *   [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic)  
 
 GitHub Alternatives
-
 *   [Bitbucket](https://bitbucket.org)  
 *   [Google Code](https://code.google.com)  
 *   [Sourceforge](http://sourceforge.net)  
