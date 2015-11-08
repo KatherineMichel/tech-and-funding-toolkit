@@ -2944,6 +2944,12 @@ jQuery
 
 JavaScript Facebook React
 *   [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+*   [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+*   [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
+*   [Facebook Relay GitHub](https://github.com/facebook/relay)
+*   [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
+*   [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
+*   [Awesome React](https://github.com/enaqx/awesome-react)
 
 Golang, otherwise known as "Go"
 *   [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
