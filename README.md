@@ -1862,6 +1862,10 @@ Google Material Design
 Polymer
 *   [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
 
+Accelerated Mobile Pages (AMP HTML)
+*   [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html)
+*   [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
+
 #### More Research and Design Toolkits
 
 Xplaner and Games
@@ -3059,6 +3063,9 @@ Golang, otherwise known as "Go"
 *   [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go)  
 
+Golang, otherwise known as "Go"- Frameworks
+*   [Gin GitHub](https://github.com/gin-gonic/gin) 
+
 Java- General
 *   [Java Website](http://www.java.com/en)  
 *   [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
@@ -3269,7 +3276,7 @@ Nitrous (IDE)
 
 Docker
 *   [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
-*   [Docker GitHub](https://github.com/dotcloud/docker)  
+*   [Docker GitHub](https://github.com/docker/docker)  
 *   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
 Cross Platform Dev Environment
