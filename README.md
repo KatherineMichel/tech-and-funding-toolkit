@@ -60,6 +60,7 @@ Table of Contents
 - [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Web Dev and Design](#web-dev-and-design)
   - [Computer Basics](#computer-basics)
+  - [Programming Learning Tools](#programming-learning-tools)  
   - [GitHub and Markdown](#github-and-markdown)
   - [Software Manuals and Documentation](#software-manuals-and-documentation) 
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
@@ -2536,6 +2537,9 @@ Admin, Hiring, Payroll
 
 #### Computer Basics
 
+Great Unsolved Problems in Computer Science
+*   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
+
 Computing Classification
 *   [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
 
@@ -2570,6 +2574,37 @@ TCP-IP and OSI Protocols
 *   [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
 *   [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 *   [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+#### Programming Learning Tools
+
+Programming and Math Learning Tools
+*   [Arduino](https://www.arduino.cc)
+*   [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
+*   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
+*   [Learn Code the Hard Way](http://learncodethehardway.org)  
+*   [Codecademy](http://www.codecademy.com)  
+*   [Code.org](https://code.org)
+*   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
+*   [Kano Playground](http://art.kano.me/playground)
+*   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
+*   [Math Overflow](http://mathoverflow.net)
+*   [Project Euler](http://www.projecteuler.net)  
+*   [Project Euler Local](https://github.com/imsky/LocalEuler)  
+*   [Project Euler Problems](http://projecteuler.net/problems)  
+*   [Raspberry PI](http://www.raspberrypi.org)
+*   [Scratch (MIT)](https://scratch.mit.edu)
+*   [Skillshare](http://www.skillshare.com/classes)
+*   [W3 Web Development Tutorials](http://www.w3schools.com) 
+*   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
+
+Text Editor and Code Demonstration
+*   [JSFiddle](http://jsfiddle.net)
+*   [Codepen](http://codepen.io)
+
+Documentation
+*   [IBM Redbooks Homepage](http://www.redbooks.ibm.com) and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+*   [Mozilla](http://mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+*   [World Wide Web Consortium Homepage](http://www.w3.org)  
 
 #### GitHub and Markdown
 
@@ -2811,7 +2846,9 @@ Windows PowerShell
 *   [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
 *   [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell) 
 
-Shell/Text Editors- More
+Shell/Text Editors
+*   [Sublime Text Editor](http://www.sublimetext.com)
+*   [Atom GitHub](ttps://github.com/atom/atom)
 *   [VisualStudio](http://www.visualstudio.com/en-us)  
 *   [Textmate](http://macromates.com)  
 *   [XCode](https://developer.apple.com/xcode)  
@@ -2919,40 +2956,6 @@ Engineering Blogs
 *   [Yelp Engineering](http://engineeringblog.yelp.com) 
 
 #### Programming Languages, MVCs
-
-Programming and Math Learning Tools
-*   [Arduino](https://www.arduino.cc)
-*   [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
-*   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
-*   [Learn Code the Hard Way](http://learncodethehardway.org)  
-*   [Codecademy](http://www.codecademy.com)  
-*   [Code.org](https://code.org)
-*   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
-*   [Kano Playground](http://art.kano.me/playground)
-*   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
-*   [Math Overflow](http://mathoverflow.net)
-*   [Project Euler](http://www.projecteuler.net)  
-*   [Project Euler Local](https://github.com/imsky/LocalEuler)  
-*   [Project Euler Problems](http://projecteuler.net/problems)  
-*   [Raspberry PI](http://www.raspberrypi.org)
-*   [Scratch (MIT)](https://scratch.mit.edu)
-*   [Skillshare](http://www.skillshare.com/classes)
-*   [W3 Web Development Tutorials](http://www.w3schools.com) 
-*   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
-
-Text Editor and Code Demonstration
-*   [Sublime Text Editor](http://www.sublimetext.com)
-*   [Atom GitHub](ttps://github.com/atom/atom)
-*   [JSFiddle](http://jsfiddle.net)
-*   [Codepen](http://codepen.io)
-
-Documentation
-*   [IBM Redbooks Homepage](http://www.redbooks.ibm.com) and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-*   [Mozilla](http://mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-*   [World Wide Web Consortium Homepage](http://www.w3.org)  
-
-Great Unsolved Problems in Computer Science
-*   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
 
 Programming Languages
 *   [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
