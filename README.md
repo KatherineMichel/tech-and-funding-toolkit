@@ -2556,6 +2556,13 @@ Encoding
 *   [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
 *   [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
 
+General Terms
+*   [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
+*   [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
+*   [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
+*   [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
+*   [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
+
 Browser
 *   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 *   [Google Chrome](http://www.google.com/chrome)
@@ -2774,20 +2781,6 @@ Unix
 *   [Filesystem Hierarchy Standard](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 *   [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
-Terms
-*   [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
-*   [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
-*   [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
-*   [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
-*   [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
-
-Unix Shell
-*   [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-*   [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
-*   [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
-*   [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-*   [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
-
 Linux
 *   [Linux](http://www.linux.org)  
 *   [Canonical](http://www.canonical.com)  
@@ -2842,6 +2835,13 @@ Command Line
 Shell
 *   [Secure Shell Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
 *   [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
+
+Unix Shell
+*   [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+*   [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
+*   [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
+*   [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+*   [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
 
 Bash and Zsh (Alternative)
 *   [Bash (Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
