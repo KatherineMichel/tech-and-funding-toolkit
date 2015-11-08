@@ -62,23 +62,23 @@ Table of Contents
   - [Computer Basics](#computer-basics)
   - [Programming Learning Tools](#programming-learning-tools)  
   - [GitHub and Markdown](#github-and-markdown)
+  - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   - [Software Manuals and Documentation](#software-manuals-and-documentation) 
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
   - [Dot Files](#dot-files)
   - [Unix and Linux](#unix-and-linux)
   - [More Command Line and Shell](#more-command-line-and-shell)
-  - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
+  - [Servers and Databases](#servers-and-databases)
+  - [SQL](#sql)
   - [Designer and Developer General](#designer-and-developer-general)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Deployment and Cloud](#deployment-and-cloud)
+  - [Social Media and Social Graph](#social-media-and-social-graph)
   - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
-  - [Social Media and Social Graph](#social-media-and-social-graph)
-  - [Testing and Performance](#testing-and-performance)
-  - [Servers and Databases](#servers-and-databases)
-  - [SQL](#sql)
-  - [.NET and ASP](#net-and-asp)
   - [Node.js and Related](#nodejs-and-related)
+  - [.NET and ASP](#net-and-asp)
+  - [Testing and Performance](#testing-and-performance)
   - [More Back-End](#more-back-end)
   - [Big Data](#big-data)
 - [Example Website Code and Style Guides](#example-website-code-and-style-guides)
@@ -2669,6 +2669,24 @@ Licenses
 *   [Creative Commons](https://creativecommons.org/licenses)
 *   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
+#### Mojombo Chromebook Recommendation
+
+*   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
+*   [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
+*   [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+*   [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
+*   [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
+*   [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+*   [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
+*   [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
+
+Chromebook Ubuntu Installation
+*   [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
+*   [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
+*   [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
+*   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
+*   [Crouton GitHub](https://github.com/dnschneid/crouton)  
+
 #### Software Manuals and Documentation 
 
 GNU Software and Manuals
@@ -2860,24 +2878,81 @@ Shell/Text Editors
 cURL
 *   [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
 
-#### Mojombo Chromebook Recommendation
+#### Servers and Databases
 
-*   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
-*   [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
-*   [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
-*   [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
-*   [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
-*   [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
-*   [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
-*   [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
+Servers
+*   [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
 
-Chromebook Ubuntu Installation
-*   [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
-*   [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
-*   [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-*   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
-*   [Crouton GitHub](https://github.com/dnschneid/crouton)  
+Client and Server-Side
+*   [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+*   [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+*   [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+*   [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+*   [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+*   [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
 
+Databases
+*   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
+*   [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+*   [Database Management Systems (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)  
+*   [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
+*   [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
+*   [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+
+Stanford Open Classroom- Introduction to Databases
+*   [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+Types of Databases
+*   [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+*   [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+*   [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
+*   [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
+*   [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+*   [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+*   [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
+*   [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+*   [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)  
+*   [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+*   [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+*   [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+*   [Document Oriented Databases (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+*   [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+*   [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+*   [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+*   [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+*   [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
+Shard
+*   [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+#### SQL
+
+SQL
+*   [SQL Wikipedia](http://en.wikipedia.org/wiki/Sql)  
+*   [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
+
+SQLite (RDBMS, written in C)
+*   [SQLite](http://sqlite.org)  
+*   [SQLite Documentation](http://www.sqlite.org/docs.html)  
+*   [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
+
+PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
+*   [PostgreSQL](http://www.postgresql.org)  
+*   [PostgreSQL Documentation](http://www.postgresql.org/docs)  
+*   [PostgreSQL GitHub](https://github.com/postgres/postgres)  
+*   [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
+*   [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
+*   [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
+
+Postgrest (PostgreSQL API)
+*   [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
+
+MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
+*   [MySQL](http://www.mysql.com)  
+*   [MySQL Documentation](http://dev.mysql.com/doc)  
+*   [MySQL GitHub](https://github.com/twitter/mysql)  
+*   [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
+ 
 #### Designer and Developer General
 
 Web General
@@ -3139,6 +3214,121 @@ Wikitech Development
 *   [Wikitech Account](https://wikitech.wikimedia.org/wiki/Special:Preferences)  
 *   [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git)  
 
+#### Social Media and Social Graph
+
+RRSSB
+*   [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
+
+Apple
+*   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+*   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
+*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
+*   [Xcode](https://developer.apple.com/xcode) 
+*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+*   [Apple Watchkit](https://developer.apple.com/watchkit)  
+*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
+*   [Apple Support](http://www.apple.com/support) 
+
+Facebook
+*   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+*   [Facebook Code](https://code.facebook.com)
+*   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+*   [Facebook Business](https://www.facebook.com/business)
+*   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+*   [Fb Start for Mobile Startups](http://fbstart.com)
+
+Google
+*   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+*   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+*   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+*   [Google Styleguides](https://github.com/google/styleguide)
+*   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
+*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+*   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+
+Google Ads
+*   [Google Ads](http://www.google.com/ads) 
+*   [Google AdMob (Apps)](http://www.google.com/admob)  
+*   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
+*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+*   [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
+*   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
+*   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+*   [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
+*   [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
+
+Google Monetization
+*   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
+
+Google 
+*   [Google News Publisher Help](https://support.google.com/news/publisher)
+
+Google Rich Snippets
+*   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+Google Webmaster
+*   [Google Tag Manager](http://www.google.com/tagmanager)
+
+LinkedIn
+*   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
+*   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
+
+Pinterest
+*   [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
+*   [Pinterest for Developers](https://developers.pinterest.com) 
+*   [Pinterest Blog](http://blog.pinterest.com)
+*   [Pinterest for Business](https://business.pinterest.com)
+
+Slideshare
+*   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
+*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
+
+Snapchat
+*   [Snapchat Blog](http://blog.snapchat.com)
+
+Twitter
+*   [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
+*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+*   [Twitter Business](https://biz.twitter.com)
+*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+*   [Twitter Curator](https://curator.twitter.com)
+*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+*   [Twitter Data](https://twitter.com/TwitterData)
+*   [Twitter News](https://twitter.com/TwitterForNews)  
+*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+*   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
+
+Yahoo and Bing- Developer, Webmaster, and Ads
+*   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+*   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
+*   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
+*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+
+YouTube (Google)
+*   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
+*   [YouTube Creators](http://www.youtube.com/yt/creators)  
+*   [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Sharing Buttons
+*   [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
+*   [AddToAny](https://www.addtoany.com) 
+*   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
+
+Graph and Schema- General (See Also Facebook Open Graph)
+*   [Open Graph Protocol Schema](http://ogp.me) 
+*   [Schema Org](http://schema.org)
+*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
+*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
+
+Cookies
+*   [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+*   [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+*   [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
+
 #### Deployment and Cloud
 
 IANA, Domize, DNSimple, Heroku
@@ -3346,222 +3536,6 @@ Miscellaneous
 *   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
 *   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
-#### Social Media and Social Graph
-
-RRSSB
-*   [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
-
-Apple
-*   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-*   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
-*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
-*   [Xcode](https://developer.apple.com/xcode) 
-*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-*   [Apple Watchkit](https://developer.apple.com/watchkit)  
-*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
-*   [Apple Support](http://www.apple.com/support) 
-
-Facebook
-*   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-*   [Facebook Code](https://code.facebook.com)
-*   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-*   [Facebook Business](https://www.facebook.com/business)
-*   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
-*   [Fb Start for Mobile Startups](http://fbstart.com)
-
-Google
-*   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-*   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-*   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-*   [Google Styleguides](https://github.com/google/styleguide)
-*   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
-*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-*   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
-
-Google Ads
-*   [Google Ads](http://www.google.com/ads) 
-*   [Google AdMob (Apps)](http://www.google.com/admob)  
-*   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
-*   [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
-*   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
-*   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
-*   [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
-*   [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
-
-Google Monetization
-*   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
-
-Google 
-*   [Google News Publisher Help](https://support.google.com/news/publisher)
-
-Google Rich Snippets
-*   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-Google Webmaster
-*   [Google Tag Manager](http://www.google.com/tagmanager)
-
-LinkedIn
-*   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
-*   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
-
-Pinterest
-*   [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
-*   [Pinterest for Developers](https://developers.pinterest.com) 
-*   [Pinterest Blog](http://blog.pinterest.com)
-*   [Pinterest for Business](https://business.pinterest.com)
-
-Slideshare
-*   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
-*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
-
-Snapchat
-*   [Snapchat Blog](http://blog.snapchat.com)
-
-Twitter
-*   [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
-*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
-*   [Twitter Business](https://biz.twitter.com)
-*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-*   [Twitter Curator](https://curator.twitter.com)
-*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-*   [Twitter Data](https://twitter.com/TwitterData)
-*   [Twitter News](https://twitter.com/TwitterForNews)  
-*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
-*   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
-
-Yahoo and Bing- Developer, Webmaster, and Ads
-*   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
-*   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
-*   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
-*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
-
-YouTube (Google)
-*   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
-*   [YouTube Creators](http://www.youtube.com/yt/creators)  
-*   [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
-
-Sharing Buttons
-*   [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
-*   [AddToAny](https://www.addtoany.com) 
-*   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
-
-Graph and Schema- General (See Also Facebook Open Graph)
-*   [Open Graph Protocol Schema](http://ogp.me) 
-*   [Schema Org](http://schema.org)
-*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
-*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
-
-Cookies
-*   [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
-*   [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
-*   [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
-
-#### Testing and Performance
-
-*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-*   [AWS Device Farm](https://aws.amazon.com/device-farm)
-*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-*   [Google App Invites](https://developers.google.com/app-invites)
-*   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
-*   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
-*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-*   [Optimizely](https://www.optimizely.com) and [Optimizely A/B Testing](https://www.optimizely.com/ab-testing) 
-*   [W3 Mobile Validator](http://validator.w3.org/mobile)
-
-#### Servers and Databases
-
-Servers
-*   [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
-
-Client and Server-Side
-*   [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-*   [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-*   [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-*   [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-*   [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-*   [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Databases
-*   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
-*   [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-*   [Database Management Systems (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)  
-*   [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
-*   [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
-*   [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-
-Stanford Open Classroom- Introduction to Databases
-*   [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
-
-Types of Databases
-*   [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
-*   [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-*   [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
-*   [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
-*   [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-*   [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-*   [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
-*   [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-*   [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)  
-*   [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
-*   [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
-*   [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-*   [Document Oriented Databases (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-*   [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-*   [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-*   [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-*   [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-*   [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
-
-Shard
-*   [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
-#### SQL
-
-SQL
-*   [SQL Wikipedia](http://en.wikipedia.org/wiki/Sql)  
-*   [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
-
-SQLite (RDBMS, written in C)
-*   [SQLite](http://sqlite.org)  
-*   [SQLite Documentation](http://www.sqlite.org/docs.html)  
-*   [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
-
-PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-*   [PostgreSQL](http://www.postgresql.org)  
-*   [PostgreSQL Documentation](http://www.postgresql.org/docs)  
-*   [PostgreSQL GitHub](https://github.com/postgres/postgres)  
-*   [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
-*   [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
-*   [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
-
-Postgrest (PostgreSQL API)
-*   [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
-
-MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-*   [MySQL](http://www.mysql.com)  
-*   [MySQL Documentation](http://dev.mysql.com/doc)  
-*   [MySQL GitHub](https://github.com/twitter/mysql)  
-*   [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
- 
-#### .NET and ASP
-
-.NET
-*   [Microsoft.github.io](http://microsoft.github.io)  
-*   [Dotnet GitHub](https://github.com/dotnet)  
-*   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
-
-ASP
-*   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
-*   [ASP](http://www.asp.net), [ASP Downloads](http://www.asp.net/downloads), [ASP Home GitHub](https://github.com/aspnet/Home), [ASP Docs](http://docs.asp.net), and [ASP Docs GitHub](https://github.com/aspnet/Docs)
-*   [ASP Docker GitHub](https://github.com/aspnet/aspnet-docker)
-*   [Heroku ASP Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
-
 #### Node.js and Related
 
 Node.js
@@ -3702,6 +3676,32 @@ V8 JavaScript Engine
 Node Forks
 *   [IO.js GitHub](https://github.com/iojs/io.js)  
 *   [JXCore](http://jxcore.com/home) 
+
+#### .NET and ASP
+
+.NET
+*   [Microsoft.github.io](http://microsoft.github.io)  
+*   [Dotnet GitHub](https://github.com/dotnet)  
+*   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
+
+ASP
+*   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
+*   [ASP](http://www.asp.net), [ASP Downloads](http://www.asp.net/downloads), [ASP Home GitHub](https://github.com/aspnet/Home), [ASP Docs](http://docs.asp.net), and [ASP Docs GitHub](https://github.com/aspnet/Docs)
+*   [ASP Docker GitHub](https://github.com/aspnet/aspnet-docker)
+*   [Heroku ASP Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+
+#### Testing and Performance
+
+*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+*   [AWS Device Farm](https://aws.amazon.com/device-farm)
+*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+*   [Google App Invites](https://developers.google.com/app-invites)
+*   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
+*   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
+*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+*   [Optimizely](https://www.optimizely.com) and [Optimizely A/B Testing](https://www.optimizely.com/ab-testing) 
+*   [W3 Mobile Validator](http://validator.w3.org/mobile)
  
 #### More Back-end
 
