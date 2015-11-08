@@ -60,8 +60,10 @@ Table of Contents
 - [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Web Dev and Design](#web-dev-and-design)
   - [Computer Basics](#computer-basics)
-  - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
+  - [Unix and Linux](#unix-and-linux)
+  - [More Command Line and Shell](#more-command-line-and-shell)
+  - [Dot Files](#dot-files)
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   - [Designer and Developer General](#designer-and-developer-general)
@@ -74,8 +76,6 @@ Table of Contents
   - [SQL](#sql)
   - [.NET and ASP](#net-and-asp)
   - [Node.js and Related](#nodejs-and-related)
-  - [More Command Line and Shell](#more-command-line-and-shell)
-  - [Dot Files](#dot-files)
   - [More Back-End](#more-back-end)
   - [Big Data](#big-data)
   - [Software Manuals and Documentation](#software-manuals-and-documentation)
@@ -2566,6 +2566,57 @@ TCP-IP and OSI Protocols
 *   [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 *   [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
+#### GitHub and Markdown
+
+Git
+*   [Git GitHub](https://github.com/git/git)  
+*   [Git GitHub](https://github.com/mojombo/git)  
+*   [Git GitHub](https://github.com/xlymian/git)  
+*   [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
+*   [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
+ 
+GitHub- Main
+*   [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+*   [GitHub Help](https://help.github.com)  
+*   [GitHub Training](http://training.github.com)  
+*   [GitHub Blog](https://github.com/blog)  
+*   [Github Development (Example Website)](https://github.com/github/developer.github.com)  
+*   [GitHub Developer](https://developer.github.com)
+*   [Git Ignore GitHub](https://github.com/github/gitignore)  
+*   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
+
+GitHub Services Integration
+*   [Service Hooks GitHub](https://github.com/github/github-services)  
+*   [GitHub Integrations](https://github.com/integrations)  
+
+GitHub- More
+*   [GitHub DCMA](https://github.com/github/dmca)
+*   [Octokit](https://github.com/octokit) 
+
+Markdown
+*   [Markdown](http://daringfireball.net/projects/markdown)  
+*   [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
+*   [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
+*   [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+*   [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+
+Git Learning Resources
+*   [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+*   [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+*   [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+*   [Git Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
+*   [Git Book](http://www.git-scm.com/book/en)  
+*   [Git Videos](http://www.git-scm.com/videos)  
+*   [Git Downloads](http://git-scm.com/downloads)  
+*   [Git Index](http://gitref.org/index.html)  
+*   [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic)  
+
+GitHub Alternatives
+*   [Bitbucket](https://bitbucket.org)  
+*   [Google Code](https://code.google.com)  
+*   [Sourceforge](http://sourceforge.net)  
+*   [Codebase](https://www.codebasehq.com)  
+
 #### Unix and Linux
 
 Unix
@@ -2635,56 +2686,61 @@ Linux- Other Popular Distributions
 *   [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
 *   [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
 
-#### GitHub and Markdown
+#### More Command Line and Shell
 
-Git
-*   [Git GitHub](https://github.com/git/git)  
-*   [Git GitHub](https://github.com/mojombo/git)  
-*   [Git GitHub](https://github.com/xlymian/git)  
-*   [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
-*   [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
- 
-GitHub- Main
-*   [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
-*   [GitHub Help](https://help.github.com)  
-*   [GitHub Training](http://training.github.com)  
-*   [GitHub Blog](https://github.com/blog)  
-*   [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-*   [GitHub Developer](https://developer.github.com)
-*   [Git Ignore GitHub](https://github.com/github/gitignore)  
-*   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
+Command Line
+*   [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
+*   [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
 
-GitHub Services Integration
-*   [Service Hooks GitHub](https://github.com/github/github-services)  
-*   [GitHub Integrations](https://github.com/integrations)  
+Shell
+*   [Secure Shell Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
+*   [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
 
-GitHub- More
-*   [GitHub DCMA](https://github.com/github/dmca)
-*   [Octokit](https://github.com/octokit) 
+Bash and Zsh (Alternative)
+*   [Bash (Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+*   [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
+*   [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
+*   [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+*   [Oh-My-Zsh Wikipedia](https://github.com/robbyrussell/oh-my-zsh/releases)  
 
-Markdown
-*   [Markdown](http://daringfireball.net/projects/markdown)  
-*   [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
-*   [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
-*   [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-*   [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+Emacs and Vim (Alternative)
+*   [Emacs (Text Editor) GitHub](https://github.com/mirrors/emacs)  
+*   [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
+*   [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
+*   [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
+*   [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
+*   [Vim](http://www.vim.org)  
+*   [Vim Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
+*   [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
-Git Learning Resources
-*   [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-*   [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-*   [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-*   [Git Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
-*   [Git Book](http://www.git-scm.com/book/en)  
-*   [Git Videos](http://www.git-scm.com/videos)  
-*   [Git Downloads](http://git-scm.com/downloads)  
-*   [Git Index](http://gitref.org/index.html)  
-*   [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic)  
+Windows PowerShell
+*   [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
+*   [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell) 
 
-GitHub Alternatives
-*   [Bitbucket](https://bitbucket.org)  
-*   [Google Code](https://code.google.com)  
-*   [Sourceforge](http://sourceforge.net)  
-*   [Codebase](https://www.codebasehq.com)  
+Shell/Text Editors- More
+*   [VisualStudio](http://www.visualstudio.com/en-us)  
+*   [Textmate](http://macromates.com)  
+*   [XCode](https://developer.apple.com/xcode)  
+*   [Orgmode.org](http://orgmode.org)  
+*   [Orgmode.org/features](http://orgmode.org/features.html)  
+*   [.emacs.d](https://github.com/seshness/.emacs.d)  
+*   [Lighttable](http://www.lighttable.com)  
+
+cURL
+*   [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+
+#### Dot Files
+
+Dot Files
+*   [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
+*   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
+*   [Dotfiles](http://dotfiles.github.io)  
+*   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
+
+Startup Class Dotfiles and AWS EC2 Setup
+*   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
+*   [Course EC2 Setup](https://github.com/startup-class/setup)  
+*   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh)  
 
 #### Open Source Management and Style Guides
 
@@ -3590,62 +3646,6 @@ Node Forks
 *   [IO.js GitHub](https://github.com/iojs/io.js)  
 *   [JXCore](http://jxcore.com/home) 
  
-#### More Command Line and Shell
-
-Command Line
-*   [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
-*   [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
-
-Shell
-*   [Secure Shell Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
-*   [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
-
-Bash and Zsh (Alternative)
-*   [Bash (Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-*   [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
-*   [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
-*   [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-*   [Oh-My-Zsh Wikipedia](https://github.com/robbyrussell/oh-my-zsh/releases)  
-
-Emacs and Vim (Alternative)
-*   [Emacs (Text Editor) GitHub](https://github.com/mirrors/emacs)  
-*   [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
-*   [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
-*   [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
-*   [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
-*   [Vim](http://www.vim.org)  
-*   [Vim Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
-*   [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
-
-Windows PowerShell
-*   [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
-*   [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell) 
-
-Shell/Text Editors- More
-*   [VisualStudio](http://www.visualstudio.com/en-us)  
-*   [Textmate](http://macromates.com)  
-*   [XCode](https://developer.apple.com/xcode)  
-*   [Orgmode.org](http://orgmode.org)  
-*   [Orgmode.org/features](http://orgmode.org/features.html)  
-*   [.emacs.d](https://github.com/seshness/.emacs.d)  
-*   [Lighttable](http://www.lighttable.com)  
-
-cURL
-*   [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
-
-#### Dot Files
-
-Dot Files
-*   [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
-*   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
-*   [Dotfiles](http://dotfiles.github.io)  
-*   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
-
-Startup Class Dotfiles and AWS EC2 Setup
-*   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-*   [Course EC2 Setup](https://github.com/startup-class/setup)  
-*   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh)  
-
 #### More Back-end
 
 Redis, Resque
