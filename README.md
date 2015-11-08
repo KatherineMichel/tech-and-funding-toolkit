@@ -2618,6 +2618,18 @@ GitHub Alternatives
 *   [Sourceforge](http://sourceforge.net)  
 *   [Codebase](https://www.codebasehq.com)  
 
+Licenses
+*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+*   [Creative Commons](https://creativecommons.org/licenses)
+*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
 #### Unix and Linux
 
 Unix
@@ -2846,22 +2858,6 @@ Designer/Developer Conferences
 *   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
 *   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 *   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
-
-Code Hosting
-*   [GitHub](https://github.com/github)
-*   [Google Code](http://code.google.com)
-
-Licenses
-*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
-*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-*   [Creative Commons](https://creativecommons.org/licenses)
-*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 Engineering Blogs
 *   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
