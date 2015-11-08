@@ -61,15 +61,17 @@ Table of Contents
 - [Web Dev and Design](#web-dev-and-design)
   - [Computer Basics](#computer-basics)
   - [GitHub and Markdown](#github-and-markdown)
+  - [Software Manuals and Documentation](#software-manuals-and-documentation) 
+  - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
+  - [Dot Files](#dot-files)
   - [Unix and Linux](#unix-and-linux)
   - [More Command Line and Shell](#more-command-line-and-shell)
-  - [Dot Files](#dot-files)
-  - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   - [Designer and Developer General](#designer-and-developer-general)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Deployment and Cloud](#deployment-and-cloud)
   - [Mobile](#mobile)
+  - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
   - [Social Media and Social Graph](#social-media-and-social-graph)
   - [Testing and Performance](#testing-and-performance)
   - [Servers and Databases](#servers-and-databases)
@@ -78,8 +80,6 @@ Table of Contents
   - [Node.js and Related](#nodejs-and-related)
   - [More Back-End](#more-back-end)
   - [Big Data](#big-data)
-  - [Software Manuals and Documentation](#software-manuals-and-documentation)
-  - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 - [Example Website Code and Style Guides](#example-website-code-and-style-guides)
   - [Python](#python) 
   - [Ruby, Rails](#ruby-rails)
@@ -2630,6 +2630,83 @@ Licenses
 *   [Creative Commons](https://creativecommons.org/licenses)
 *   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
+#### Software Manuals and Documentation 
+
+GNU Software and Manuals
+*   [GNU Software](http://www.gnu.org/software/software.html)  
+*   [GNU Software Manual](http://www.gnu.org/manual/manual.html)  
+
+Pandoc
+*   [Pandoc](http://johnmacfarlane.net/pandoc)  
+
+Dexy
+*   [Dexy](http://www.dexy.it)  
+
+GitBook
+*   [GitBook](https://www.gitbook.com)  
+*   [GitBook GitHub](https://github.com/GitbookIO)  
+*   [GitBook Documentation](http://help.gitbook.io)  
+*   [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
+*   [GitBook Themes](http://help.gitbook.io/book/themes.html)  
+
+GitHub Wiki
+*   [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
+
+iPython
+*   [iPython](http://ipython.org)  
+
+LaTeX
+*   [LaTeX](http://latex-project.org)  
+*   [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
+*   [Share LaTeX](https://github.com/sharelatex/sharelatex)  
+
+Read the Docs
+*   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+*   [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
+*   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
+
+Python- Django-Sphinxdoc
+*   [Sphinxdoc](http://sphinx-doc.org)  
+*   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
+
+API Docs (see also Python- Django- Rest Framework Swagger)
+*   [Swagger API Docs](http://swagger.io)  
+*   [Slate API Docs GitHub](https://github.com/tripit/slate)  
+*   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com)  
+
+#### Open Source Management and Style Guides
+
+Open Source Management
+*   [Open Source Management at Docker](https://github.com/docker/opensource)
+
+General Styleguides
+*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+*   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+*   [Styleguide GitHub](https://github.com/styleguide) 
+*   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
+*   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+*   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
+*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
+
+#### Dot Files
+
+Dot Files
+*   [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
+*   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
+*   [Dotfiles](http://dotfiles.github.io)  
+*   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
+
+Startup Class Dotfiles and AWS EC2 Setup
+*   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
+*   [Course EC2 Setup](https://github.com/startup-class/setup)  
+*   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh)  
+
 #### Unix and Linux
 
 Unix
@@ -2741,39 +2818,6 @@ Shell/Text Editors- More
 
 cURL
 *   [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
-
-#### Dot Files
-
-Dot Files
-*   [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
-*   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
-*   [Dotfiles](http://dotfiles.github.io)  
-*   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
-
-Startup Class Dotfiles and AWS EC2 Setup
-*   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-*   [Course EC2 Setup](https://github.com/startup-class/setup)  
-*   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh)  
-
-#### Open Source Management and Style Guides
-
-Open Source Management
-*   [Open Source Management at Docker](https://github.com/docker/opensource)
-
-General Styleguides
-*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-*   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-*   [Styleguide GitHub](https://github.com/styleguide) 
-*   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
-*   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-*   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
-*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
 #### Mojombo Chromebook Recommendation
 
@@ -3285,6 +3329,12 @@ Miscellaneous
 *   [Facebook Start](https://developers.facebook.com/products/fb-start) 
 *   [Launchkit](https://launchkit.io)
 *   [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
+
+### Video Gaming and Virtual Reality
+
+*   [Twitch TV](http://www.twitch.tv)
+*   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
+*   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
 #### Social Media and Social Graph
 
@@ -3832,56 +3882,6 @@ Big Data- Cascading, Cascalog, Scala, Scalding
 *   [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
 *   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
 *   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial)  
-
-#### Software Manuals and Documentation 
-
-GNU Software and Manuals
-*   [GNU Software](http://www.gnu.org/software/software.html)  
-*   [GNU Software Manual](http://www.gnu.org/manual/manual.html)  
-
-Pandoc
-*   [Pandoc](http://johnmacfarlane.net/pandoc)  
-
-Dexy
-*   [Dexy](http://www.dexy.it)  
-
-GitBook
-*   [GitBook](https://www.gitbook.com)  
-*   [GitBook GitHub](https://github.com/GitbookIO)  
-*   [GitBook Documentation](http://help.gitbook.io)  
-*   [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
-*   [GitBook Themes](http://help.gitbook.io/book/themes.html)  
-
-GitHub Wiki
-*   [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
-
-iPython
-*   [iPython](http://ipython.org)  
-
-LaTeX
-*   [LaTeX](http://latex-project.org)  
-*   [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
-*   [Share LaTeX](https://github.com/sharelatex/sharelatex)  
-
-Read the Docs
-*   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
-*   [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
-*   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
-
-Python- Django-Sphinxdoc
-*   [Sphinxdoc](http://sphinx-doc.org)  
-*   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
-
-API Docs (see also Python- Django- Rest Framework Swagger)
-*   [Swagger API Docs](http://swagger.io)  
-*   [Slate API Docs GitHub](https://github.com/tripit/slate)  
-*   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com)  
-
-### Video Gaming and Virtual Reality
-
-*   [Twitch TV](http://www.twitch.tv)
-*   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
-*   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
 ### Python and Django Toolkit
 
