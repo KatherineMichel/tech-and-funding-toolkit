@@ -3216,13 +3216,18 @@ Wikitech Development
 
 #### Social Media and Social Graph
 
-RRSSB
-*   [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
+Graph and Schema- General (See Also Facebook Open Graph)
+*   [Open Graph Protocol Schema](http://ogp.me) 
+*   [Schema Org](http://schema.org)
+*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
+*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
 
-Apple
+Apple Developer
+*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
+
+Apple- More
 *   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 *   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
 *   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
 *   [Xcode](https://developer.apple.com/xcode) 
 *   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
@@ -3233,21 +3238,27 @@ Apple
 *   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
 *   [Apple Support](http://www.apple.com/support) 
 
-Facebook
+Facebook Developers
 *   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 *   [Facebook Code](https://code.facebook.com)
+
+Facebook Tools
 *   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 *   [Facebook Business](https://www.facebook.com/business)
 *   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
 *   [Fb Start for Mobile Startups](http://fbstart.com)
 
-Google
+Google Developers
 *   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
 *   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 *   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 *   [Google Styleguides](https://github.com/google/styleguide)
+
+Google Dev Tools
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
 *   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Analytics
 *   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 
 Google Ads
@@ -3264,14 +3275,14 @@ Google Ads
 Google Monetization
 *   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
 
-Google 
-*   [Google News Publisher Help](https://support.google.com/news/publisher)
-
 Google Rich Snippets
 *   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
 
 Google Webmaster
 *   [Google Tag Manager](http://www.google.com/tagmanager)
+
+Google News Publisher
+*   [Google News Publisher Help](https://support.google.com/news/publisher)
 
 LinkedIn
 *   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
@@ -3296,11 +3307,17 @@ Twitter
 *   [Twitter Business](https://biz.twitter.com)
 *   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
 *   [Twitter Curator](https://curator.twitter.com)
-*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-*   [Twitter Data](https://twitter.com/TwitterData)
-*   [Twitter News](https://twitter.com/TwitterForNews)  
-*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
 *   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
+
+Twitter Data
+*   [Twitter Data](https://twitter.com/TwitterData)
+
+Twitter Media and News
+*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+*   [Twitter News](https://twitter.com/TwitterForNews) 
+
+Twitter Advanced Search
+*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
 
 Yahoo and Bing- Developer, Webmaster, and Ads
 *   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
@@ -3318,11 +3335,8 @@ Sharing Buttons
 *   [AddToAny](https://www.addtoany.com) 
 *   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
-Graph and Schema- General (See Also Facebook Open Graph)
-*   [Open Graph Protocol Schema](http://ogp.me) 
-*   [Schema Org](http://schema.org)
-*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
-*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
+RRSSB
+*   [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
 
 Cookies
 *   [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
