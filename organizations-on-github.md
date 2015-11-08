@@ -64,7 +64,7 @@ U.K.
 *   [App.net](https://github.com/appdotnet)  
 *   [Artsy](https://github.com/artsy)  
 *   [AT&T Dev Support](https://github.com/attdevsupport)  
-*   [Amazon Web Wervices](https://github.com/amazonwebservices)  
+*   [Amazon Web Services](https://github.com/amazonwebservices)  
 *   [AWS](https://github.com/aws)  
 *   [AWS Labs](https://github.com/awslabs)  
 *   [Behance](https://github.com/behance)  
