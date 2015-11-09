@@ -4541,6 +4541,7 @@ Labs
 Awesome
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+*   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 *   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
 *   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
 *   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
@@ -4549,6 +4550,7 @@ Awesome
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
 *   [Awesome React](https://github.com/enaqx/awesome-react)
 *   [Awesome React Native](https://github.com/jondot/awesome-react-native)
+*   [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 
 Book Lists
 *   [Bookicious](http://www.bookicious.com/collections)
