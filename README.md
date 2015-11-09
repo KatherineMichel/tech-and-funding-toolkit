@@ -1554,7 +1554,7 @@ Books
 
 Books- Historical
 *   [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
-*   [Niccolò Machiavelli: The Prince](https://en.wikipedia.org/wiki/The_Prince)
+*   [Niccolò Machiavelli: The Prince Wikipedia](https://en.wikipedia.org/wiki/The_Prince)
 *   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 
 Courses
@@ -4476,33 +4476,38 @@ ProPublica- News App and Data Style Guides
 
 #### Philosophies, Milestones
 
+Company Internal Policies
 *   [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
+*   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
+
+Miscellaneous
 *   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
 *   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
-*   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
 *   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
-*   [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
-*   [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-*   [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
-*   [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
 *   [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
 *   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
-*   [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
 *   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
-*   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
 *   [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
-*   [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
 *   [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
-*   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 *   [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
-*   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 *   [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
 
-Human Emotion
+Laws
+*   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
+*   [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
+
+Models and Theories
+*   [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+*   [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
+*   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+
+Computer Lore
+*   [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
+*   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 
 #### Notable Interviews and Presentations
 
@@ -4525,6 +4530,8 @@ Personal Advice
 *   [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
 
 Google
+*   [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
+*   [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
 *   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 *   [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 
