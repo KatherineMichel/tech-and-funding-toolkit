@@ -3342,14 +3342,12 @@ Example
 *   [Example Org](http://www.example.org)  
 *   [Example Org Mobile](https://m.example.com) 
 
-*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
-*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
-*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
+#### Engineering Blogs and Designer, Developer Conferences
 
-#### Engineering Blogs and Designer/Developer Conferences
-
-Engineering Blogs
+List of Engineering Blogs
 *   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+
+Individual Engineering Blogs
 *   [Buffer Engineering](https://overflow.bufferapp.com)
 *   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
 *   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
@@ -3394,6 +3392,9 @@ Apple- More
 *   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
 *   [Apple Support](http://www.apple.com/support) 
 
+Facebook
+*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
+
 Facebook Developers
 *   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 *   [Facebook Code](https://code.facebook.com)
@@ -3403,6 +3404,9 @@ Facebook Tools
 *   [Facebook Business](https://www.facebook.com/business)
 *   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
 *   [Fb Start for Mobile Startups](http://fbstart.com)
+
+Google
+*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
 Google Developers
 *   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
@@ -3458,6 +3462,7 @@ Snapchat
 *   [Snapchat Blog](http://blog.snapchat.com)
 
 Twitter
+*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
 *   [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
 *   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 *   [Twitter Business](https://biz.twitter.com)
