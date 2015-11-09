@@ -73,6 +73,7 @@ Table of Contents
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Deployment and Cloud](#deployment-and-cloud)
   - [Designer and Developer General](#designer-and-developer-general)
+  - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-Conferences)
   - [Social Media and Social Graph](#social-media-and-social-graph)
   - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
@@ -3341,18 +3342,11 @@ Example
 *   [Example Org](http://www.example.org)  
 *   [Example Org Mobile](https://m.example.com) 
 
-Designer/Developer Conferences
-*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
-*   [Google Design Form](http://www.google.com/design/form) 
-*   [Google IO](https://www.google.com/events/io)  
-*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-*   [Twitter Flock](http://flock.fabric.io) 
-
 *   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
 *   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 *   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
+
+#### Engineering Blogs and Designer/Developer Conferences
 
 Engineering Blogs
 *   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
@@ -3365,6 +3359,15 @@ Engineering Blogs
 *   [Uber Developers](https://devblog.uber.com)  
 *   [Yelp Engineering](http://engineeringblog.yelp.com) 
 
+Designer/Developer Conferences
+*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
+*   [Google Design Form](http://www.google.com/design/form) 
+*   [Google IO](https://www.google.com/events/io)  
+*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+*   [Twitter Flock](http://flock.fabric.io) 
+
 #### Social Media and Social Graph
 
 Graph and Schema- General (See Also Facebook Open Graph)
@@ -3376,8 +3379,10 @@ Graph and Schema- General (See Also Facebook Open Graph)
 Apple Developer
 *   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
 
-Apple- More
+Apple- Devices
 *   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+
+Apple- More
 *   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
 *   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
 *   [Xcode](https://developer.apple.com/xcode) 
