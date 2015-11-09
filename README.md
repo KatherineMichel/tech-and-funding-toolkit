@@ -73,7 +73,7 @@ Table of Contents
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Deployment and Cloud](#deployment-and-cloud)
   - [Designer and Developer General](#designer-and-developer-general)
-  - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-Conferences)
+  - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
   - [Social Media and Social Graph](#social-media-and-social-graph)
   - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
