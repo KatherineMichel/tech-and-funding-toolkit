@@ -39,16 +39,14 @@ Table of Contents
   - [Google Design Sprint](#google-design-sprint)
   - [Google Design Approach](#google-design-approach)
   - [More Research and Design Toolkits](#more-research-and-design-toolkits) 
-  - [Design](#desgn)
+  - [Design](#design)
+  - [Labs](#labs)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
   - [Venture Analysis](#venture-analysis)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-- [Philosophies](#philosophies)
-  - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
-  - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 - [Launch and Growth](#lauch-and-growth)
   - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
   - [Launch Strategies](#launch-strategies)
@@ -92,6 +90,8 @@ Table of Contents
   - [Newspaper Code and Style Guides](#newspaper-code-and-style-guides)
   - [Disqus](#disqus)
 - [General Resources](#general-resources)
+  - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
+  - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
   - [Philosophies, Milestones](#philosophies-milestones)
   - [Notable Interviews and Presentations](#notable-interviews-and-presentations)
   - [Notable Quotes](#notable-quotes)
@@ -1547,11 +1547,15 @@ Books
 *   [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
 *   [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
 *   [Howard Marks](http://www.amazon.com/Howard-Marks/e/B004LE5B00/ref=dp_byline_cont_book_1)
-*   [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 *   [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
 *   [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 *   [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
 *   [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
+
+Books- Historical
+*   [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
+*   [Niccolò Machiavelli: The Prince](https://en.wikipedia.org/wiki/The_Prince)
+*   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 
 Courses
 *   [Balaji S. Srinivasan and Vijay S. Pande: Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
@@ -1960,6 +1964,14 @@ Company Design
 *   [Twitter Design](https://twitter.com/design)  
 *   [Uber Design](https://www.uber.com/design) 
 
+#### Labs
+
+Labs
+*   [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
+*   [Microsoft Garage](http://www.microsoft.com/en-us/garage)
+*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
+*   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
+
 #### Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
@@ -2148,26 +2160,6 @@ Spinoffs
 *   [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
 *   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 *   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
-
-### Philosophies 
-
-#### Software and Mobile are Eating the World, Software is Reorganizing the World
-
-*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
-*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
-*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
-*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
-
-#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
-
-*   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
-*   [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
-*   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
-*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
-*   [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
-*   [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
-*   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
 
 ### Launch and Growth
 
@@ -4464,6 +4456,24 @@ ProPublica- News App and Data Style Guides
 
 ### General Resources
 
+#### Software and Mobile are Eating the World, Software is Reorganizing the World
+
+*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
+*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
+*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
+*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
+
+#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
+
+*   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
+*   [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
+*   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
+*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+*   [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
+*   [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
+*   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
+
 #### Philosophies, Milestones
 
 *   [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
@@ -4485,7 +4495,6 @@ ProPublica- News App and Data Style Guides
 *   [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
 *   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 *   [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
-*   [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 *   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 *   [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
@@ -4495,26 +4504,29 @@ Human Emotion
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 
-Labs
-*   [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
-*   [Microsoft Garage](http://www.microsoft.com/en-us/garage)
-*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
-*   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
-
 #### Notable Interviews and Presentations
 
-*   [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
-*   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
+Trends
 *   [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
-*   [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
-*   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
-*   [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-*   [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
 *   [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
+*   [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
+
+Famous
+*   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
 *   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 *   [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
+
+Innovation and Excellence
+*   [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
 *   [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
-*   [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
+
+Personal Advice
+*   [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+*   [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+Google
+*   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
+*   [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 
 #### Notable Quotes
 
