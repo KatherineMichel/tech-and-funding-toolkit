@@ -347,6 +347,7 @@ Venture Capital Terminology- General
 *   [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
 *   [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
 *   [Froth](http://www.investopedia.com/terms/f/froth.asp)
+*   [Proxy (Law of Agency) Wikipedia](https://en.wikipedia.org/wiki/Law_of_agency)
 
 Venture Capital Terminology- Documents
 *   [Due Diligence Wikipedia](https://en.wikipedia.org/wiki/Due_diligence)
@@ -782,6 +783,10 @@ Labor Law
 *   [1099 Non-Corporate Independent Contractors Wikipedia](http://en.wikipedia.org/wiki/IRS_tax_forms#1099_series)
 *   [National Labor Relations Act](http://www.nlrb.gov/resources/national-labor-relations-act) and [National Labor Relations Act Wikipedia](http://en.wikipedia.org/wiki/National_Labor_Relations_Act)
 *   [NCA Wikipedia](http://en.wikipedia.org/wiki/Non-compete_clause)
+
+Trade Unions
+*   [List of Trade Unions Wikipedia](https://en.wikipedia.org/wiki/List_of_trade_unions)
+*   [List of Trade Unions in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_the_United_States)
 
 Patent Search and FOIA
 *   [U.S. Patent and Trademark Office](http://www.uspto.gov)
