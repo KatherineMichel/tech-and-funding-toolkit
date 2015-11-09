@@ -2751,6 +2751,7 @@ Open Source Management
 
 General Styleguides
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+*   [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
 *   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
 *   [Styleguide GitHub](https://github.com/styleguide) 
 *   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
