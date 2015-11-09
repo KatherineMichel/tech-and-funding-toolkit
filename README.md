@@ -3051,7 +3051,6 @@ JavaScript Facebook React
 *   [Facebook Relay GitHub](https://github.com/facebook/relay)
 *   [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 *   [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
-*   [Awesome React](https://github.com/enaqx/awesome-react)
 
 Golang, otherwise known as "Go"
 *   [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
@@ -3063,7 +3062,6 @@ Golang, otherwise known as "Go"
 *   [Golang Talks](https://talks.golang.org)
 *   [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
 *   [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
-*   [Awesome Go GitHub](https://github.com/avelino/awesome-go)  
 
 Golang, otherwise known as "Go"- Frameworks
 *   [Gin GitHub](https://github.com/gin-gonic/gin) 
@@ -3958,12 +3956,6 @@ Python- Books and Tutorials
 *   [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
 *   [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
 
-Awesome Python
-*   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
-*   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-*   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-*   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-
 Dedicated Python Hosting
 *   [Python Anywhere](https://www.pythonanywhere.com)  
 
@@ -4010,7 +4002,6 @@ Python- Django- Creating Packages
 
 Python- Django- Resources
 *   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
-*   [Awesome Django GitHub](https://github.com/rosarior/awesome-django)  
 *   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
@@ -4541,15 +4532,23 @@ Labs
 *   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
 *   [Content Marketing Stack](http://www.contentmarketingstack.co)
 *   [Growth Tools](http://growthtools.io)
+*   [growth.supply](http://growth.supply/free)
 *   [Makerbook](http://makerbook.net)
 *   [Marketing Stack](http://marketingstack.io)
 *   [Stacklist](http://stacklist.com)
 *   [Startup Stash](http://startupstash.com)
 
-Awesome Awesomeness
+Awesome
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-*   [growth.supply](http://growth.supply/free)
+*   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
+*   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+*   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+*   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
+*   [Awesome Django GitHub](https://github.com/rosarior/awesome-django)  
+*   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
+*   [Awesome React](https://github.com/enaqx/awesome-react)
+*   [Awesome React Native](https://github.com/jondot/awesome-react-native)
 
 Book Lists
 *   [Bookicious](http://www.bookicious.com/collections)
