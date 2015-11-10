@@ -1212,7 +1212,7 @@ Analyst Groups
 *   [Goldman Sachs Our Thinking](http://www.goldmansachs.com/our-thinking)
 *   [IDC](http://www.idc.com)
 *   [KPMG](http://www.kpmg.com/US/en/Pages/default.aspx)
-*   [McKinsey & Company](http://www.mckinsey.com) and [McKinsey & Company Insights](http://www.mckinsey.com/insights)
+*   [McKinsey & Company](http://www.mckinsey.com), [McKinsey & Company Insights](http://www.mckinsey.com/insights), and [McKinsey & Company Insights Technology and Innovation](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation)
 *   [Nielsen](http://www.nielsen.com/us/en.html)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
