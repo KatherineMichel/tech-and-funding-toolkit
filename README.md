@@ -2130,7 +2130,10 @@ List
 
 Market
 *   [Target Market Wikipedia](https://en.wikipedia.org/wiki/Target_market)
+*   [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
+*   [Market Research Wikipedia](https://en.wikipedia.org/wiki/Market_research)
 *   [Market Segmentation Wikipedia](https://en.wikipedia.org/wiki/Market_segmentation)
+*   [Demography Wikipedia](https://en.wikipedia.org/wiki/Demography)
 
 #### Lean Startup and Launchpad
 
@@ -2242,9 +2245,12 @@ Journalism Style Guides
 #### Growth, Marketing, and Content Resources
 
 Advertising and Marketing
+*   [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
 *   [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
+*   [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
 
-Digital Distribution and User-Generated Content
+Distribution, Digital Distribution and User-Generated Content
+*   [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
 *   [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
 *   [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
 
@@ -3369,6 +3375,9 @@ Graph and Schema- General (See Also Facebook Open Graph)
 *   [Schema Org](http://schema.org)
 *   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
 *   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
+
+Web Analytics
+*   [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
 Apple Developer
 *   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
