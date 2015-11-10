@@ -738,6 +738,7 @@ Central Banks/Reserves
 *   [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
 *   [Federal Reserve Bank Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_Bank) and [Federal Reserve System Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_System)
 *   [Kansas City Fed](https://www.kansascityfed.org)
+*   [San Franscisco Federal Research Bank](http://www.frbsf.org) 
 *   [St. Louis Fed Research](https://research.stlouisfed.org) and [Archive](https://fraser.stlouisfed.org)
 
 Accounting Types
@@ -1206,7 +1207,7 @@ Analyst Groups
 *   [CreditSuisse Plus](https://plus.credit-suisse.com/researchplus)
 *   [Deloitte](http://www2.deloitte.com/us/en.html)
 *   [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-*   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+*   [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Technology](http://www.gartner.com/technology/home.jsp), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
 *   [GMO (Jeremy Grantham)](https://www.gmo.com)
 *   [Goldman Sachs Our Thinking](http://www.goldmansachs.com/our-thinking)
 *   [IDC](http://www.idc.com)
@@ -1225,7 +1226,9 @@ Management Consulting Firms
 
 Think Tanks
 *   [Brookings](http://www.brookings.edu)
+*   [Cato Institute Live](http://www.cato.org/live)
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+*   [Milken Institute](http://www.milkeninstitute.org)
 *   [NACUE](http://www.nacue.com)
 *   [Startup Britain Resources](http://www.startupbritain.org/resources)
 
@@ -1407,7 +1410,7 @@ International Organizations
 *   [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
 *   [World Bank Wikipedia](https://en.wikipedia.org/wiki/World_Bank) and [World Bank Group Wikipedia](https://en.wikipedia.org/wiki/World_Bank_Group)
 *   [Multilateral Investment Guarantee Agency Wikipedia](https://en.wikipedia.org/wiki/Multilateral_Investment_Guarantee_Agency)
-*   [World Economic Forum](http://www.weforum.org)
+*   [World Economic Forum](http://www.weforum.org) and [World Economic Forum Agenda](https://agenda.weforum.org)
 
 International Organizations Reports and Data
 *   [OECD Data](https://data.oecd.org)
@@ -1432,7 +1435,7 @@ International Organizations Special Reports: Development
 *   [The 2015 Revision of World Population Prospects](http://esa.un.org/unpd/wpp)
 *   [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
 *   [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
-*   [World Bank World Development Indicators](http://wdi.worldbank.org/tables)
+*   [World Bank World Development Indicators](http://wdi.worldbank.org/tables) 
 
 Social Entrepreneurship
 *   [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
@@ -2615,7 +2618,7 @@ Text Editor and Code Demonstration
 *   [Codepen](http://codepen.io)
 
 Documentation
-*   [IBM Redbooks Homepage](http://www.redbooks.ibm.com) and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+*   [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 *   [Mozilla](http://mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 *   [World Wide Web Consortium Homepage](http://www.w3.org)  
 
