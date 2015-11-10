@@ -1216,7 +1216,7 @@ Analyst Groups
 *   [Nielsen](http://www.nielsen.com/us/en.html)
 *   [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
-*   [PricewaterhouseCoopers](http://www.pwc.com) and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
+*   [PricewaterhouseCoopers](http://www.pwc.com), [PricewaterhouseCoopers Technology Institute](http://www.pwc.com/gx/en/industries/technology/publications.html), and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
 *   [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
 *   [State of the Internet](http://www.stateoftheinternet.com)
@@ -1427,6 +1427,7 @@ International Organizations Special Reports: Business and Competitiveness
 *   [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
 *   [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
 *   [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
+*   [World Economic Forum Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2015)
 *   [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
 
 International Organizations Special Reports: Development
