@@ -2574,7 +2574,10 @@ General Terms
 *   [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
 
 Browser
+*   [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
 *   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+*   [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+*   [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 *   [Google Chrome](http://www.google.com/chrome)
 *   [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 *   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
@@ -3303,6 +3306,8 @@ Web General
 *   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 *   [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
 *   [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+*   [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+*   [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
 *   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
 *   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
 *   [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
