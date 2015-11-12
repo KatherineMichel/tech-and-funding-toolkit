@@ -45,6 +45,7 @@ Language
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
 *   [Spanish Language Wikipedia](https://en.wikipedia.org/wiki/Spanish_language), [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Nouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_nouns) [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs), [Spanish Tenses Wikibook](https://en.wikibooks.org/wiki/Spanish/Tenses), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), [Spanish/How to Conjugate Verbs Wikibook](https://en.wikipedia.org/wiki/Spanish_adjectives), [Spanish Pronouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_pronouns), [Spanish Prepositions Wikipedia](https://en.wikipedia.org/wiki/Spanish_prepositions), and [Spanish Determiners Wikipedia](https://en.wikipedia.org/wiki/Spanish_determiners)
 *   [Medium en Español](https://medium.com/espanol)
+*   [CNN en Español Radio](http://cnnespanol.cnn.com/radio/en-vivo)
 *   [Iberian Romance Languages Wikipedia](https://en.wikipedia.org/wiki/Iberian_Romance_languages)
 
 Professional- More
