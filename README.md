@@ -467,6 +467,7 @@ Blogs and Whatnot
 *   [Tech EU Research](http://tech.eu/section/research) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
 
 RFS, Trends, Emerging Technologies
+*   [Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/Emerging_technologies)
 *   [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 *   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
 *   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
@@ -2546,6 +2547,10 @@ Admin, Hiring, Payroll
 ### Web Dev and Design
 
 #### Computer Basics
+
+Computer Scientists
+*   [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+*   [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
 Great Unsolved Problems in Computer Science
 *   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
@@ -4699,6 +4704,7 @@ Network and System
 *   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
 *   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
 *   [Social Network Wikipedia](https://en.wikipedia.org/wiki/Social_network)
+*   [Social Network Analysis Wikipedia](https://en.wikipedia.org/wiki/Social_network_analysis)
 *   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
 *   [Social Theory Wikipedia](https://en.wikipedia.org/wiki/Social_theory)
 *   [System Wikipedia](https://en.wikipedia.org/wiki/System)
@@ -4715,6 +4721,8 @@ Probability and Statistics
 *   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 
 Data Science
+*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+*   [Machine Learning Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
 Laws, Theories, Logic  
