@@ -2101,6 +2101,7 @@ Market
 *   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
 
 Business Models
+*   [Business Model Wikipedia](https://en.wikipedia.org/wiki/Business_model)
 *   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
 *   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
 *   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
@@ -4721,7 +4722,10 @@ Probability and Statistics
 *   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 
 Data Science
+*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 *   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+*   [Big Data Wikipedia](https://en.wikipedia.org/wiki/Big_data)
+*   [Data Mining Wikipedia](https://en.wikipedia.org/wiki/Data_mining)
 *   [Machine Learning Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
