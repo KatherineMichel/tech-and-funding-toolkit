@@ -4510,7 +4510,7 @@ Miscellaneous
 
 Laws
 *   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
-*   [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
+*   [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
 
 Models and Theories
 *   [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
@@ -4781,6 +4781,7 @@ Laws, Theories, Logic
 *   [Stockdale Paradox Wikipedia](https://en.wikipedia.org/wiki/James_Stockdale#Prisoner_of_war)
 *   [Streetlight Effect Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect)
 *   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
+*   [Sisyphus (Sisyphean Task) Wikipedia](https://en.wikipedia.org/wiki/Sisyphus)
 *   The Babe Ruth Effect via [Chris Dixon](https://twitter.com/cdixon)
 *   [The Golden Rule Wikipedia](https://en.wikipedia.org/wiki/Golden_Rule)
 *   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
