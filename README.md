@@ -3895,6 +3895,18 @@ Cron
 
 #### Big Data
 
+Data Science
+*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+*   [Big Data Wikipedia](https://en.wikipedia.org/wiki/Big_data)
+*   [Data Mining Wikipedia](https://en.wikipedia.org/wiki/Data_mining)
+*   [Machine Learning Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
+
+Open-Source Machine Learning
+*   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+*   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
+
 Big Data- Lambda Architecture
 *   [Lambda Architecture](http://lambda-architecture.net)  
 *   [Lambda Calculus Wikipedia](http://en.wikipedia.org/wiki/Lambda_calculus)  
@@ -3940,6 +3952,12 @@ Big Data- Cascading, Cascalog, Scala, Scalding
 *   [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
 *   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
 *   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial)  
+
+Probability and Statistics
+*   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
+*   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
+*   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
+*   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 
 ### Python and Django Toolkit
 
@@ -4716,24 +4734,6 @@ Network and System
 *   [Systems Thinking Wikipedia](https://en.wikipedia.org/wiki/Systems_thinking)
 *   [Theory of Mind Wikipedia (and Secondary Theory)](https://en.wikipedia.org/wiki/Theory_of_mind)
 *   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
-
-Probability and Statistics
-*   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
-*   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
-*   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
-*   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
-
-Data Science
-*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-*   [Big Data Wikipedia](https://en.wikipedia.org/wiki/Big_data)
-*   [Data Mining Wikipedia](https://en.wikipedia.org/wiki/Data_mining)
-*   [Machine Learning Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
-*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
-
-Open-Source Machine Learning
-*   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-*   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
 
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
