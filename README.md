@@ -2623,6 +2623,7 @@ Programming and Math Learning Tools
 *   [Skillshare](http://www.skillshare.com/classes)
 *   [W3 Web Development Tutorials](http://www.w3schools.com) 
 *   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
+*   [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 Text Editor and Code Demonstration
 *   [JSFiddle](http://jsfiddle.net)
