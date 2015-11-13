@@ -1063,6 +1063,7 @@ Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengri
 *   [A Dozen Things I’ve Learned from Charlie Munger about Capital Allocation](http://25iq.com/2015/10/03/a-dozen-things-ive-learned-from-charlie-munger-about-capital-allocation)
 *   [A Dozen Things I’ve Learned from Charlie Munger about Moats](http://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats)
 *   [A Dozen Ways Charlie Munger Thinks like Philip Tetlock Suggests in his New Book Superforecasting](http://25iq.com/2015/10/17/a-dozen-ways-charlie-munger-thinks-like-philip-tetlock-suggests-in-his-new-book-superforecasting)
+*   [A Dozen Things I’ve Learned from Charlie Munger about Ethics](http://25iq.com/2015/10/24/a-dozen-things-ive-learned-from-charlie-munger-about-ethics)
 
 Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
 *   [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
