@@ -4730,6 +4730,10 @@ Data Science
 *   [Machine Learning Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
+Open-Source Machine Learning
+*   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+*   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
+
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
 *   [List of Memory Biases Wikipedia](https://en.wikipedia.org/wiki/List_of_memory_biases)
