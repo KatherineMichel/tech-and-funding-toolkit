@@ -3932,21 +3932,18 @@ Data, Data Science, Big Data
 *   [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
 *   [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
 *   [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
-*   [Data Mining Wikipedia](https://en.wikipedia.org/wiki/Data_mining)
-*   [Machine Learning Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 
 Algorithms
 *   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 *   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 
 Data Mining and Machine Learning- General
-[Data Mining Series ("Knowledge Discovery in Databases" process, or KDD) Wikipedia](http://en.wikipedia.org/wiki/Data_mining)  
-[Data Mining Category Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
-[Data Mining and Machine Learning Software Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
-[Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-[List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms)  
-[List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-[Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+*   [Data Mining Series ("Knowledge Discovery in Databases" process, or KDD) Wikipedia](http://en.wikipedia.org/wiki/Data_mining)  
+*   [Data Mining Category Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
+*   [Data Mining and Machine Learning Software Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
+*   [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+*   [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+*   [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
 [Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
 
 Python- Statistics Stack- Documents and Galleries
@@ -4143,6 +4140,13 @@ Hadoop and Hortonworks Sandbox
 Apache
 *   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
 *   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
+
+Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon Web Services)
+*   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop)  
+*   [Hadoop MapReduce GitHub](https://github.com/apache/hadoop-mapreduce)  
+*   [Hadoop MapReduce (Communication Cost) Wikipedia](http://en.wikipedia.org/wiki/MapReduce)  
+*   [Elastic MapReduce](http://aws.amazon.com/elasticmapreduce)  
+*   [MapR Blog](https://www.mapr.com/blog)  
 
 Apache Shark and Spark
 *   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
