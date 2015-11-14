@@ -4105,6 +4105,30 @@ Big Data- Lambda Architecture
 *   [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
 *   [Nathan Marz GitHub](https://github.com/nathanmarz)  
 
+Big Data- Hadoop and Hortonworks Sandbox
+*   [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox)  
+*   [Hadoop Apache](http://hadoop.apache.org)  
+*   [Hadoop Hortonworks](http://hortonworks.com/hadoop)  
+*   [Hadoop ("Apache's free and open source implementation of MapReduce") GitHub](http://en.wikipedia.org/wiki/Hadoop)  
+*   [Cloudera Hadoop Sandbox](http://www.cloudera.com/content/cloudera/en/products-and-services/cloudera-live.html)  
+*   [Hadoop Common GitHub](https://github.com/apache/hadoop-common)  
+
+Big Data- Hadoop Distributed File System
+*   [Hadoop Distributed File System](http://hortonworks.com/hadoop/hdfs)  
+*   [Hadoop Distributed File System](http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  
+
+Apache Mahout
+*   [Apache Mahout](https://mahout.apache.org) and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
+*   [Apache Mahout Algorithms](https://mahout.apache.org/users/basics/algorithms.html)  
+
+Apache Shark and Spark
+*   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
+*   [Shark ("Apache Hive on Spark") GitHub](http://shark.cs.berkeley.edu) and [Shark GitHub](https://github.com/amplab/shark)  
+
+Apache Hive and Pig (Provide SQL-like abstractions on top of Hadoop MapReduce layer)
+*   [Apache Hive (Data Warehouse) Wikipedia](http://en.wikipedia.org/wiki/Apache_Hive) and [Apache Hive GitHub](https://github.com/apache/hive)  
+*   [Apache Pig ("A language and compiler to generate Hadoop programs") Wikipedia](http://en.wikipedia.org/wiki/Pig_(programming_tool)) and [Apache Pig GitHub](https://github.com/apache/pig)  
+
 Social Network Processing
 *   [Apache Giraph](http://giraph.apache.org)  
 *   [Graphlab](http://graphlab.org/projects/index.html)  
