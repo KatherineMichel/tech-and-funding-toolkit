@@ -3915,6 +3915,13 @@ Kaggle
 KDNuggets
 *   [KDNuggets](http://www.kdnuggets.com) 
 
+Mathematics
+*   [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
+*   [Relational Algebra Wikipedia](http://en.wikipedia.org/wiki/Relational_algebra)  
+*   [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus)  
+*   [Trigonometry Series Wikipedia](http://en.wikipedia.org/wiki/Trigonometric_functions)  
+*   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
+
 Probability
 *   [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 *   [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory)  
@@ -4044,6 +4051,18 @@ Python- Statistics Stack- Scikit-Learn Reference
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
+
+Python- Integration with Other Languages
+*   [Cython](http://cython.org)  
+*   [Using C++ in Cython](http://docs.cython.org/src/userguide/wrapping_CPlusPlus.html)  
+*   [Using Numpy in Cython](http://docs.cython.org/src/tutorial/numpy.html)  
+*   [Jython and Java Integration](http://www.jython.org/jythonbook/en/1.0/JythonAndJavaIntegration.html) and [Jython Wikipedia](http://en.wikipedia.org/wiki/Jython)  
+*   [MatPy](http://algoholic.eu/matpy)  
+*   [PyMat](http://sourceforge.net/projects/pymat)  
+*   [PyMatLab PyPi](https://pypi.python.org/pypi/pymatlab)  
+*   [RPy2](http://rpy.sourceforge.net)  
+*   [RPython](http://rpython.r-forge.r-project.org)  
+*   [RPython( Translation Toolchain and Other Uses)](http://pypy.readthedocs.org/en/latest/coding-guide.html)  
 
 Python- Deep Learning- PyBrain
 *   [PyBrain](http://pybrain.org) and [PyBrain GitHub](https://github.com/pybrain/pybrain) 
