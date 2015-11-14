@@ -3416,7 +3416,6 @@ Facebook
 
 Facebook Developers
 *   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-*   [Facebook Code](https://code.facebook.com)
 
 Facebook Tools
 *   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
@@ -4114,10 +4113,18 @@ Facebook and Google Research
 *   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
 *   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
 *   [Facebook Open Compute](http://www.opencompute.org)  
+*   [Facebook Code](https://code.facebook.com)
 
 Facebook, Google, Microsoft Open-Source Machine Learning
 *   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 *   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
+
+*   http://torch.ch 
+*   https://github.com/torch/torch7 
+*   http://torch.ch/docs/getting-started.html#_  
+*   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
+*   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
+*   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch   
 
 Lambda Architecture
 *   [Lambda Architecture](http://lambda-architecture.net)  
