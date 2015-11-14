@@ -4036,14 +4036,10 @@ http://ipython.org/videos.html http://ipython.org/documentation.html +Resources 
 
 Python- Statistics Stack- Pandas
 *   [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pydata/pandas)  
-
-Python- Statistics Stack- Pandas Reference
 *   [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
 
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
 *   [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
-
-Python- Statistics Stack- SymPy (Symbolic Mathematics) Reference
 *   [SimPy Docs](http://docs.sympy.org/latest/index.html)  
 *   [SimPy Features](http://www.sympy.org/en/features.html)  
 
@@ -4059,8 +4055,6 @@ Python- Statistics Stack- StatsModel Reference
 
 Python- Statistics Stack- GGPlot
 *   [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
-
-Python- Statistics Stack- GGPlot Reference
 *   [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
 
 Python- Statistics Stack- Nose Reference
@@ -4080,6 +4074,22 @@ Python- Statistics Stack- Scikit-Learn Reference
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
+
+Python- Deep Learning- PyBrain
+*   [PyBrain](http://pybrain.org) and [PyBrain GitHub](https://github.com/pybrain/pybrain) 
+*   [PyBrain Docs](http://pybrain.org/docs)  
+ 
+Python- Deep Learning- PyLearn2, SKLearn-Theano, Theano
+*   [PyLearn2 (Based on Theano)](http://deeplearning.net/software/pylearn2) and [PyLearn2 (Based on Theano) GitHub](https://github.com/lisa-lab/pylearn2)  
+*   [SKLearn-Theano](http://sklearn-theano.github.io) and [SKLearn-Theano GitHub](https://github.com/sklearn-theano/sklearn-theano)  
+*   [SKLearn-Theano Examples](hhttp://sklearn-theano.github.io/auto_examples/index.html)  
+*   [Theano](http://www.deeplearning.net/software/theano) and [Theano GitHub](https://github.com/Theano/Theano)  
+*   [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)  
+*   [Theano Related Projects GitHub](https://github.com/Theano/Theano/wiki/Related-projects)  
+
+Python- Image Processing- Scikit-Image (See also Python Imaging Library)
+*   [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
+*   [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
 
 Python- Natural Language Toolkit
 *   [Natural Language Toolkit](http://www.nltk.org)  
