@@ -3903,6 +3903,7 @@ Data Scientists
 *   [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)  
 *   [Daryl Morey](http://en.wikipedia.org/wiki/Daryl_Morey)  
 *   [Drew Conway](http://drewconway.com/zia/?p=2378)  
+*   [Gilad Lotan, Data Scientist](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan, Data Scientist, Slideshare](http://www.slideshare.net/giladlotan)  
 *   [Hilary Mason](http://www.hilarymason.com)  
 *   [Nate Silver](http://fivethirtyeight.blogs.nytimes.com)  
 *   [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
@@ -3912,15 +3913,26 @@ Data Science Masters
 *   [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
 
 Kaggle
+*   [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
 *   [Kaggle Competitions](https://www.kaggle.com/competitions)  
 *   [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
 *   [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection)  
+
+KDNuggets
+*   [KDNuggets](http://www.kdnuggets.com) 
 
 Data, Data Science, Big Data
 *   [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
 *   [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
 *   [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
 *   [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
+*   [Data Mining Wikipedia](https://en.wikipedia.org/wiki/Data_mining)
+*   [Machine Learning Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+
+Data Science
+*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
 Python- Statistics Stack- NumPy and SciPy
 *   [NumPy](http://www.numpy.org)  
@@ -4024,14 +4036,6 @@ Python- Statistics Stack- Scikit-Learn Reference
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
-
-Data Science
-*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-*   [Big Data Wikipedia](https://en.wikipedia.org/wiki/Big_data)
-*   [Data Mining Wikipedia](https://en.wikipedia.org/wiki/Data_mining)
-*   [Machine Learning Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
-*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
 Open-Source Machine Learning
 *   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
