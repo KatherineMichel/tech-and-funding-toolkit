@@ -2529,6 +2529,7 @@ Logistics
 
 Crowd Sourced Internet Marketplace
 *   [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
+*   [Crowdflower](http://www.crowdflower.com)  
 
 Docs
 *   [DocSend](https://docsend.com)
@@ -2623,7 +2624,7 @@ Programming and Math Learning Tools
 *   [Scratch (MIT)](https://scratch.mit.edu)
 *   [Skillshare](http://www.skillshare.com/classes)
 *   [W3 Web Development Tutorials](http://www.w3schools.com) 
-*   [Wolfram Alpha](https://www.wolframalpha.com) and [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
+*   [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 *   [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 Text Editor and Code Demonstration
@@ -3896,6 +3897,31 @@ Cron
 
 #### Data Science
 
+Data Scientists
+*   [Andrew Ng](http://en.wikipedia.org/wiki/Andrew_Ng)  
+*   [Clare Corthell](https://github.com/clarecorthell)  
+*   [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)  
+*   [Daryl Morey](http://en.wikipedia.org/wiki/Daryl_Morey)  
+*   [Drew Conway](http://drewconway.com/zia/?p=2378)  
+*   [Hilary Mason](http://www.hilarymason.com)  
+*   [Nate Silver](http://fivethirtyeight.blogs.nytimes.com)  
+*   [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
+
+Data Science Masters
+*   [Open Source Data Science Masters](http://datasciencemasters.org) and [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go)  
+*   [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
+
+Kaggle
+*   [Kaggle Competitions](https://www.kaggle.com/competitions)  
+*   [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+*   [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection)  
+
+Data, Data Science, Big Data
+*   [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
+*   [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
+*   [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
+*   [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
+
 Python- Statistics Stack- NumPy and SciPy
 *   [NumPy](http://www.numpy.org)  
 *   [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy)  
@@ -3915,7 +3941,8 @@ Python- Statistics Stack- NumPy and SciPy Reference
 *   [SciPy Lectures GitHub](http://scipy-lectures.github.io)  
 *   [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
 
-http://www.scipy.org/getting-started.html http://www.scipy.org/topical-software.html List of Software  
+http://www.scipy.org/getting-started.html 
+http://www.scipy.org/topical-software.html List of Software  
 
 Python- Statistics Stack- MatPlotLib
 *   [MatPlotLib](http://matplotlib.org), [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib), and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib)  
@@ -3935,7 +3962,10 @@ Python- Statistics Stack- MatPlotLib Reference
 *   [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
 *   [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits)](https://pypi.python.org/pypi/xlwt)  
 
-http://matplotlib.org/index.html Resources http://matplotlib.org/resources/index.html External Resources http://matplotlib.org/faq/index.html  
+http://matplotlib.org/index.html Resources 
+http://matplotlib.org/resources/index.html 
+External Resources 
+http://matplotlib.org/faq/index.html  
 
 Python- Statistics Stack- iPython
 *   [iPython](http://ipython.org) , [iPython GitHub](https://github.com/ipython/ipython), and [iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)  
