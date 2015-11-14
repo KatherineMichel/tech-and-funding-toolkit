@@ -3061,6 +3061,7 @@ jQuery
 
 JavaScript Facebook React
 *   [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+*   [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
 *   [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 *   [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
 *   [Facebook Relay GitHub](https://github.com/facebook/relay)
@@ -3978,6 +3979,9 @@ Statistical Packages
 *   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
 *   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
 
+Python- Statistics Stack- Documents and Galleries
+*   [SciPy Stack](http://www.scipy.org/docs.html)  
+
 Python- Statistics Stack- NumPy and SciPy
 *   [NumPy](http://www.numpy.org)  
 *   [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy)  
@@ -4116,6 +4120,19 @@ R Markdown
 MatLab
 *   [MatLab](http://www.mathworks.com/products/matlab) and [MatLab Wikipedia](http://en.wikipedia.org/wiki/MATLAB)  
 
+Apache- Python
+*   [Apache Python Library GitHub](https://github.com/apache/libcloud)  
+
+Kimono Labs
+*   [Kimono Labs](https://www.kimonolabs.com)  
+
+JSON
+*   [JSON](http://www.json.org) and [JSON Wikipedia](http://en.wikipedia.org/wiki/JSON)  
+
+XML
+*   [XML Wikipedia](http://en.wikipedia.org/wiki/XML)  
+*   [XML W3Schools](http://www.w3schools.com/xml/simple.xml)  
+
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
 *   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
@@ -4127,7 +4144,7 @@ Facebook, Google, Microsoft Open-Source Machine Learning
 *   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 *   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
 
-Big Data- Lambda Architecture
+Lambda Architecture
 *   [Lambda Architecture](http://lambda-architecture.net)  
 *   [Lambda Calculus Wikipedia](http://en.wikipedia.org/wiki/Lambda_calculus)  
 *   [Lambda Calculus (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Lambda_calculus)  
@@ -4135,21 +4152,19 @@ Big Data- Lambda Architecture
 *   [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
 *   [Nathan Marz GitHub](https://github.com/nathanmarz)  
 
-Big Data- Hadoop and Hortonworks Sandbox
+Hadoop and Hortonworks Sandbox
 *   [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox)  
 *   [Hadoop Apache](http://hadoop.apache.org)  
 *   [Hadoop Hortonworks](http://hortonworks.com/hadoop)  
 *   [Hadoop ("Apache's free and open source implementation of MapReduce") GitHub](http://en.wikipedia.org/wiki/Hadoop)  
 *   [Cloudera Hadoop Sandbox](http://www.cloudera.com/content/cloudera/en/products-and-services/cloudera-live.html)  
 *   [Hadoop Common GitHub](https://github.com/apache/hadoop-common)  
-
-Big Data- Hadoop Distributed File System
 *   [Hadoop Distributed File System](http://hortonworks.com/hadoop/hdfs)  
 *   [Hadoop Distributed File System](http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  
 
-Apache Mahout
-*   [Apache Mahout](https://mahout.apache.org) and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
-*   [Apache Mahout Algorithms](https://mahout.apache.org/users/basics/algorithms.html)  
+Apache
+*   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
+*   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
 
 Apache Shark and Spark
 *   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
@@ -4159,26 +4174,24 @@ Apache Hive and Pig (Provide SQL-like abstractions on top of Hadoop MapReduce la
 *   [Apache Hive (Data Warehouse) Wikipedia](http://en.wikipedia.org/wiki/Apache_Hive) and [Apache Hive GitHub](https://github.com/apache/hive)  
 *   [Apache Pig ("A language and compiler to generate Hadoop programs") Wikipedia](http://en.wikipedia.org/wiki/Pig_(programming_tool)) and [Apache Pig GitHub](https://github.com/apache/pig)  
 
+Apache Mahout
+*   [Apache Mahout](https://mahout.apache.org) and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
+*   [Apache Mahout Algorithms](https://mahout.apache.org/users/basics/algorithms.html) 
+
 Social Network Processing
 *   [Apache Giraph](http://giraph.apache.org)  
 *   [Graphlab](http://graphlab.org/projects/index.html)  
 *   [Apache Spark Graphx](https://spark.apache.org/graphx)  
 
-Big Data- Apache
-*   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
-*   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list)  
-*   [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects)  
+Apache- More
 *   [Apache Accumulo ("Secure Big Table") Wikipedia](http://en.wikipedia.org/wiki/Apache_Accumulo)  
 *   [Apache Cassandra ("A column-oriented database that supports access from Hadoop") GitHub](http://en.wikipedia.org/wiki/Apache_Cassandra)  
-*   [Apache Cassandra Wikipedia](https://github.com/apache/cassandra)  
-*   [Apache HBase ("BigTable-model database", Column-based) Wikipedia](http://en.wikipedia.org/wiki/HBase)  
-*   [Apache HBase GitHub](https://github.com/apache/hbase)  
+*   [Apache Cassandra GitHub](https://github.com/apache/cassandra)  
+*   [Apache HBase ("BigTable-model database", Column-based) Wikipedia](http://en.wikipedia.org/wiki/HBase) and [Apache HBase GitHub](https://github.com/apache/hbase)  
 *   [Apache Mesos (Cluster Manager) GitHub](https://github.com/apache/mesos)  
 *   [Apache Solr (An open source search platform based on Lucene)](http://lucene.apache.org/solr)  
-*   [Apache Zookeeper (Distribution) Wikipedia](http://en.wikipedia.org/wiki/Apache_ZooKeeper)  
-*   [Apache Zookeeper GitHub](https://github.com/apache/zookeeper)  
-*   [Apache TrafficServer (Used by Yahoo) GitHub](https://github.com/apache/trafficserver)  
-*   [Apache Python Library GitHub](https://github.com/apache/libcloud)  
+*   [Apache Zookeeper (Distribution) Wikipedia](http://en.wikipedia.org/wiki/Apache_ZooKeeper)and [Apache Zookeeper GitHub](https://github.com/apache/zookeeper)  
+*   [Apache TrafficServer (Used by Yahoo) GitHub](https://github.com/apache/trafficserver) 
 
 Log Monitoring
 *   [Apache Kafka (A high-throughput distributed messaging system- Apache Kafka is publish-subscribe messaging rethought as a distributed commit log) GitHub](https://github.com/apache/kafka)  
@@ -4186,11 +4199,11 @@ Log Monitoring
 *   [Logstash](http://logstash.net)  
 *   [Facebook Scribe](https://github.com/facebook/scribe)  
 
-Big Data- Hadoop, MongoDB, and ElasticSearch
+Hadoop, MongoDB, and ElasticSearch
 *   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
 *   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop)  
 
-Big Data- Cascading, Cascalog, Scala, Scalding
+Cascading, Cascalog, Scala, Scalding
 *   [Cascading GitHub](https://github.com/Cascading/cascading)  
 *   [Cascalog GitHub](https://github.com/nathanmarz/cascalog)  
 *   [Cascalog-Demo GitHub](https://github.com/nathanmarz/cascalog-demo)  
@@ -4200,7 +4213,7 @@ Big Data- Cascading, Cascalog, Scala, Scalding
 *   [Twitter Effective Scala GitHub](https://github.com/twitter/effectivescala)  
 *   [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
 *   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
-*   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial)  
+*   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial) 
 
 Probability and Statistics
 *   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
