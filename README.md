@@ -181,7 +181,6 @@ Table of Contents
 *   [Dao Nguyen](http://www.buzzfeed.com/daozers)
 *   [Dave Winer](http://scripting.com) and [Dave Winer GitHub](https://github.com/scripting)
 *   [Doc Searls](http://blogs.law.harvard.edu/doc) 
-*   [Edward Tufte](http://www.edwardtufte.com) 
 *   [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
 *   [Eric Schmidt](http://www.slideshare.net/ericschmidt)
 *   [Ev Williams Medium](https://medium.com/@ev) 
@@ -3582,6 +3581,7 @@ Miscellaneous
 
 ### Video Gaming and Virtual Reality
 
+*   [OculusVR Developer Download](https://developer.oculus.com/downloads) and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
 *   [Twitch TV](http://www.twitch.tv)
 *   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
 *   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
@@ -3903,6 +3903,7 @@ Data Scientists
 *   [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)  
 *   [Daryl Morey](http://en.wikipedia.org/wiki/Daryl_Morey)  
 *   [Drew Conway](http://drewconway.com/zia/?p=2378)  
+*   [Edward Tufte](http://www.edwardtufte.com) and [Edward Tufte](http://www.edwardtufte.com/tufte) 
 *   [Gilad Lotan, Data Scientist](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan, Data Scientist, Slideshare](http://www.slideshare.net/giladlotan)  
 *   [Hilary Mason](http://www.hilarymason.com)  
 *   [Nate Silver](http://fivethirtyeight.blogs.nytimes.com)  
