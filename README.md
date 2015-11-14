@@ -3921,6 +3921,17 @@ Kaggle
 KDNuggets
 *   [KDNuggets](http://www.kdnuggets.com) 
 
+Probability
+*   [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
+*   [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory)  
+*   [Independence (Probability Theory) Wikipedia](http://en.wikipedia.org/wiki/Independence_(probability_theory))  
+*   [Prior Probability Wikipedia](http://en.wikipedia.org/wiki/Prior_probability)  
+*   [Conditional Probability Wikipedia](http://en.wikipedia.org/wiki/Conditional_probability)  
+
+Statistics- General
+*   [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
+*   [Statistics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+
 Data, Data Science, Big Data
 *   [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
 *   [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
@@ -4069,6 +4080,18 @@ Python- Statistics Stack- Scikit-Learn Reference
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
 *   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
 
+R Programming Language
+*   [R Programming Language](http://www.r-project.org) and [R Programming Language Wikipedia](http://en.wikipedia.org/wiki/R_(programming_language))  
+*   [S Programming Language](http://www.stat.bell-labs.com/S/history.html)  
+*   [R Programming Language Studio](http://www.rstudio.com)  
+
+R Markdown
+*   [RStudio Using Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown)  
+*   [RStudio Markdown GitHub](https://github.com/rstudio/markdown)  
+
+MatLab
+*   [MatLab](http://www.mathworks.com/products/matlab) and [MatLab Wikipedia](http://en.wikipedia.org/wiki/MATLAB)  
+
 Open-Source Machine Learning
 *   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 *   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
@@ -4080,6 +4103,11 @@ Big Data- Lambda Architecture
 *   [MapReduce Lambda Architecture Explanation](http://www.mapr.com/fr/developercentral/lambda-architecture)  
 *   [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
 *   [Nathan Marz GitHub](https://github.com/nathanmarz)  
+
+Social Network Processing
+*   [Apache Giraph](http://giraph.apache.org)  
+*   [Graphlab](http://graphlab.org/projects/index.html)  
+*   [Apache Spark Graphx](https://spark.apache.org/graphx)  
 
 Big Data- Apache
 *   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
