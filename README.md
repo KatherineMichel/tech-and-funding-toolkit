@@ -3939,45 +3939,15 @@ Algorithms
 *   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 *   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 
-Social Network
-*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph)  
-*   [Social Network Wikipedia](http://en.wikipedia.org/wiki/Social_network)  
-*   [Social Network Analysis Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis)  
-*   [Social Network Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis_software)  
-
-Network Science/Theory, Chaos, Chaos/Complexity Theory
-*   [Network Science Series Wikipedia](http://en.wikipedia.org/wiki/Network_science)  
-*   [Network Theory Series Wikipedia](http://en.wikipedia.org/wiki/Network_theory)  
-*   [Chaos Wikipedia](http://en.wikipedia.org/wiki/Chaos)  
-*   [Chaos Theory Wikipedia](http://en.wikipedia.org/wiki/Chaos_theory)  
-*   [Complexity Theory Wikipedia](http://en.wikipedia.org/wiki/Complexity_theory)  
-
-Collective Intelligence
-*   [Collective Intelligence Wikipedia](http://en.wikipedia.org/wiki/Collective_intelligence)  
-*   [Collective Intelligence Category Wikipedia](http://en.wikipedia.org/wiki/Category:Collective_intelligence)  
-
-Network and System
-*   [Darwinism Wikipedia](https://en.wikipedia.org/wiki/Darwinism)
-*   [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
-*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
-*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
-*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
-*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
-*   [Social Theory Wikipedia](https://en.wikipedia.org/wiki/Social_theory)
-*   [System Wikipedia](https://en.wikipedia.org/wiki/System)
-*   [Systems Science Wikipedia](https://en.wikipedia.org/wiki/Systems_science)
-*   [Systems Theory Wikipedia](https://en.wikipedia.org/wiki/Systems_theory)
-*   [Systems Thinking Wikipedia](https://en.wikipedia.org/wiki/Systems_thinking)
-*   [Theory of Mind Wikipedia (and Secondary Theory)](https://en.wikipedia.org/wiki/Theory_of_mind)
-*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
-
-Auction
-*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
-
-Statistical Packages
-*   [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
-*   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
-*   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
+Data Mining and Machine Learning- General
+[Data Mining Series ("Knowledge Discovery in Databases" process, or KDD) Wikipedia](http://en.wikipedia.org/wiki/Data_mining)  
+[Data Mining Category Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
+[Data Mining and Machine Learning Software Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
+[Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+[List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms)  
+[List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+[Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+[Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
 
 Python- Statistics Stack- Documents and Galleries
 *   [SciPy Stack](http://www.scipy.org/docs.html)  
@@ -4108,6 +4078,14 @@ Python- Screen Scraping
 *   [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup) and [Beautiful Soup Wikipedia](http://en.wikipedia.org/wiki/Beautiful_Soup) 
 *   [Beautiful Soup PyPi](https://pypi.python.org/pypi/beautifulsoup4)  
  
+Social Network Graphing (Gilad Lotan)
+*   [Gephi](https://gephi.github.io) and [Gephi GitHub](https://github.com/gephi/gephi)  
+*   [Gephi Wiki](https://wiki.gephi.org)  
+*   [Gephi Forum](https://forum.gephi.org)  
+*   [Networkx (Python)](https://networkx.github.io) and [Networkx (Python) Github](https://github.com/networkx/networkx)
+*   [Networkx (Python) Gallery](https://networkx.github.io)  
+*   [NodeXL (MS Excel)](http://nodexl.codeplex.com)  
+
 R Programming Language
 *   [R Programming Language](http://www.r-project.org) and [R Programming Language Wikipedia](http://en.wikipedia.org/wiki/R_(programming_language))  
 *   [S Programming Language](http://www.stat.bell-labs.com/S/history.html)  
@@ -4215,11 +4193,46 @@ Cascading, Cascalog, Scala, Scalding
 *   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
 *   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial) 
 
+Network Science, Social Network, Systems Science
+*   [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
+*   [Network Science Series Wikipedia](http://en.wikipedia.org/wiki/Network_science)  
+*   [Network Theory Series Wikipedia](http://en.wikipedia.org/wiki/Network_theory)  
+*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph)  
+*   [Social Network Wikipedia](http://en.wikipedia.org/wiki/Social_network)  
+*   [Social Network Analysis Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis)  
+*   [Social Network Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis_software)  
+*   [System Wikipedia](https://en.wikipedia.org/wiki/System)
+*   [Systems Science Wikipedia](https://en.wikipedia.org/wiki/Systems_science)
+*   [Systems Theory Wikipedia](https://en.wikipedia.org/wiki/Systems_theory)
+*   [Systems Thinking Wikipedia](https://en.wikipedia.org/wiki/Systems_thinking)
+
+Interesting
+*   [Chaos Wikipedia](http://en.wikipedia.org/wiki/Chaos)  
+*   [Chaos Theory Wikipedia](http://en.wikipedia.org/wiki/Chaos_theory)  
+*   [Complexity Theory Wikipedia](http://en.wikipedia.org/wiki/Complexity_theory)  
+*   [Collective Intelligence Wikipedia](http://en.wikipedia.org/wiki/Collective_intelligence) and [Collective Intelligence Category Wikipedia](http://en.wikipedia.org/wiki/Category:Collective_intelligence) 
+*   [Darwinism Wikipedia](https://en.wikipedia.org/wiki/Darwinism)
+*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
+*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
+*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
+*   [Social Theory Wikipedia](https://en.wikipedia.org/wiki/Social_theory)
+*   [Theory of Mind Wikipedia (and Secondary Theory)](https://en.wikipedia.org/wiki/Theory_of_mind)
+*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
+
 Probability and Statistics
 *   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
 *   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
 *   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
 *   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
+
+Auction
+*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
+
+Statistical Packages
+*   [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
+*   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
+*   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
 
 ### Python and Django Toolkit
 
