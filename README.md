@@ -3934,6 +3934,38 @@ Data Science
 *   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
+Social Network
+*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph)  
+*   [Social Network Wikipedia](http://en.wikipedia.org/wiki/Social_network)  
+*   [Social Network Analysis Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis)  
+*   [Social Network Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis_software)  
+
+Network Science/Theory, Chaos, Chaos/Complexity Theory
+*   [Network Science Series Wikipedia](http://en.wikipedia.org/wiki/Network_science)  
+*   [Network Theory Series Wikipedia](http://en.wikipedia.org/wiki/Network_theory)  
+*   [Chaos Wikipedia](http://en.wikipedia.org/wiki/Chaos)  
+*   [Chaos Theory Wikipedia](http://en.wikipedia.org/wiki/Chaos_theory)  
+*   [Complexity Theory Wikipedia](http://en.wikipedia.org/wiki/Complexity_theory)  
+
+Collective Intelligence
+*   [Collective Intelligence Wikipedia](http://en.wikipedia.org/wiki/Collective_intelligence)  
+*   [Collective Intelligence Category Wikipedia](http://en.wikipedia.org/wiki/Category:Collective_intelligence)  
+
+Network and System
+*   [Darwinism Wikipedia](https://en.wikipedia.org/wiki/Darwinism)
+*   [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
+*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
+*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
+*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
+*   [Social Theory Wikipedia](https://en.wikipedia.org/wiki/Social_theory)
+*   [System Wikipedia](https://en.wikipedia.org/wiki/System)
+*   [Systems Science Wikipedia](https://en.wikipedia.org/wiki/Systems_science)
+*   [Systems Theory Wikipedia](https://en.wikipedia.org/wiki/Systems_theory)
+*   [Systems Thinking Wikipedia](https://en.wikipedia.org/wiki/Systems_thinking)
+*   [Theory of Mind Wikipedia (and Secondary Theory)](https://en.wikipedia.org/wiki/Theory_of_mind)
+*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
+
 Python- Statistics Stack- NumPy and SciPy
 *   [NumPy](http://www.numpy.org)  
 *   [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy)  
@@ -4861,25 +4893,6 @@ Topics
 *   [Financial Markets Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
 *   [Corporate Law Wikipedia](https://en.wikipedia.org/wiki/Corporate_law)
 *   [Tax Wikipedia](https://en.wikipedia.org/wiki/Tax)
-
-Network and System
-*   [Darwinism Wikipedia](https://en.wikipedia.org/wiki/Darwinism)
-*   [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
-*   [Network Theory Wikipedia](https://en.wikipedia.org/wiki/Network_theory)
-*   [Chaos Theory Wikipedia](https://en.wikipedia.org/wiki/Chaos_theory)
-*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
-*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
-*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
-*   [Social Network Wikipedia](https://en.wikipedia.org/wiki/Social_network)
-*   [Social Network Analysis Wikipedia](https://en.wikipedia.org/wiki/Social_network_analysis)
-*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
-*   [Social Theory Wikipedia](https://en.wikipedia.org/wiki/Social_theory)
-*   [System Wikipedia](https://en.wikipedia.org/wiki/System)
-*   [Systems Science Wikipedia](https://en.wikipedia.org/wiki/Systems_science)
-*   [Systems Theory Wikipedia](https://en.wikipedia.org/wiki/Systems_theory)
-*   [Systems Thinking Wikipedia](https://en.wikipedia.org/wiki/Systems_thinking)
-*   [Theory of Mind Wikipedia (and Secondary Theory)](https://en.wikipedia.org/wiki/Theory_of_mind)
-*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
 
 Laws, Theories, Logic  
 *   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
