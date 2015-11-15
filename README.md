@@ -3958,6 +3958,25 @@ Deep Learning and Neural Networks
 *   [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
 *   [Artificial Neural Networks Wikipedia](http://en.wikibooks.org/wiki/Artificial_Neural_Networks)  
 
+Recommendations and Filtering
+*   [Cold Start Problem Wikipedia](http://en.wikipedia.org/wiki/Cold_start)  
+*   [Recommendation Wikipedia](http://en.wikipedia.org/wiki/Recommendation)  
+*   [Recommender System Wikipedia](http://en.wikipedia.org/wiki/Recommender_system)  
+*   [Information Filtering System Wikipedia](http://en.wikipedia.org/wiki/Information_filtering_system)  
+*   [Collaborative Filtering Wikipedia](http://en.wikipedia.org/wiki/Collaborative_filtering)  
+
+Natural Language Processing- General
+*   [Natural Language Processing Wikipedia](http://en.wikipedia.org/wiki/Natural_language_processing)  
+
+Text Mining, Sentiment Analysis- General
+*   [Text Mining Wikipedia](http://en.wikipedia.org/wiki/Text_mining)  
+*   [List of Text Mining Software Wikipedia](http://en.wikipedia.org/wiki/List_of_text_mining_software)  
+*   [Sentiment Analysis (Opinion Mining) Wikipedia)](http://en.wikipedia.org/wiki/Sentiment_analysis)  
+
+RegEx
+*   [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
+*   [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org)  
+
 Python- Statistics Stack- Documents and Galleries
 *   [SciPy Stack](http://www.scipy.org/docs.html)  
 
