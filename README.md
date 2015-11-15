@@ -4108,11 +4108,6 @@ Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 Python- Natural Language Toolkit
 *   [Natural Language Toolkit](http://www.nltk.org)  
 
-Python- Pickle/JSON
-*   [Pickle](https://docs.python.org/3/library/pickle.html)  
-*   [JSON Pickle](http://jsonpickle.github.io) and [JSON Pickle GitHub](https://github.com/jsonpickle/jsonpickle)  
-*   [JSON Pickle PyPi](https://pypi.python.org/pypi/jsonpickle)  
-
 Python- Web Crawling and Scraping
 *   [Scrapy](http://scrapy.org) and [Scrapy GitHub](http://doc.scrapy.org/en/latest/intro/overview.html#what-else) 
 *   [Scrapy Docs](http://doc.scrapy.org/en/latest)  
@@ -4131,10 +4126,16 @@ Social Network Graphing (Gilad Lotan)
 *   [Networkx (Python) Gallery](https://networkx.github.io)  
 *   [NodeXL (MS Excel)](http://nodexl.codeplex.com)  
 
+Python- Pickle/JSON
+*   [Pickle](https://docs.python.org/3/library/pickle.html)  
+*   [JSON Pickle](http://jsonpickle.github.io) and [JSON Pickle GitHub](https://github.com/jsonpickle/jsonpickle)  
+*   [JSON Pickle PyPi](https://pypi.python.org/pypi/jsonpickle)  
+
 R Programming Language
 *   [R Programming Language](http://www.r-project.org) and [R Programming Language Wikipedia](http://en.wikipedia.org/wiki/R_(programming_language))  
 *   [S Programming Language](http://www.stat.bell-labs.com/S/history.html)  
 *   [R Programming Language Studio](http://www.rstudio.com)  
+*   [Data Science Masters- R Resources](https://github.com/datasciencemasters/go/blob/master/r-resources.md)  
 
 R Markdown
 *   [RStudio Using Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown)  
@@ -4169,10 +4170,10 @@ API Methods- Common
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
 *   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
-*   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
-*   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
 *   [Facebook Open Compute](http://www.opencompute.org)  
 *   [Facebook Code](https://code.facebook.com)
+*   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
+*   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
 
 Facebook, Google, Microsoft Open-Source Machine Learning
 *   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
@@ -4181,9 +4182,11 @@ Facebook, Google, Microsoft Open-Source Machine Learning
 *   http://torch.ch 
 *   https://github.com/torch/torch7 
 *   http://torch.ch/docs/getting-started.html#_  
+*   https://github.com/facebook/fbcunn
 *   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
 *   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
-*   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch   
+*   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
+*   https://www.facebook.com/Engineering/posts/10152495827632200
 
 Lambda Architecture
 *   [Lambda Architecture](http://lambda-architecture.net)  
@@ -4974,6 +4977,7 @@ Awesome Data Science
 *   [Awesome Data Science GitHub](https://github.com/okulbilisim/awesome-datascience)  
 *   [Awesome Big Data GitHub](https://github.com/onurakpolat/awesome-bigdata)  
 *   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
 
 Book Lists
 *   [Bookicious](http://www.bookicious.com/collections)
