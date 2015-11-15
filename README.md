@@ -4108,6 +4108,11 @@ Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 Python- Natural Language Toolkit
 *   [Natural Language Toolkit](http://www.nltk.org)  
 
+Python- Pickle/JSON
+*   [Pickle](https://docs.python.org/3/library/pickle.html)  
+*   [JSON Pickle](http://jsonpickle.github.io) and [JSON Pickle GitHub](https://github.com/jsonpickle/jsonpickle)  
+*   [JSON Pickle PyPi](https://pypi.python.org/pypi/jsonpickle)  
+
 Python- Web Crawling and Scraping
 *   [Scrapy](http://scrapy.org) and [Scrapy GitHub](http://doc.scrapy.org/en/latest/intro/overview.html#what-else) 
 *   [Scrapy Docs](http://doc.scrapy.org/en/latest)  
