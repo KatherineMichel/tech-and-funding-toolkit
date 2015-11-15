@@ -4272,7 +4272,10 @@ Probability and Statistics
 *   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
 *   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 
-Auction
+General Terminology
+*   [Birthday Problem Wikipedia](http://en.wikipedia.org/wiki/Birthday_problem)  
+*   [Fizz Buzz Wikipedia](http://en.wikipedia.org/wiki/Fizz_buzz)  
+*   [Fibonacci Number Wikipedia](http://en.wikipedia.org/wiki/Fibonacci_number)  
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
 Statistical Packages
