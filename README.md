@@ -2624,6 +2624,7 @@ Text Editor and Code Demonstration
 *   [Codepen](http://codepen.io)
 
 Documentation
+*   [IT eBooks](http://it-ebooks.info)
 *   [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 *   [Mozilla](http://mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 *   [World Wide Web Consortium Homepage](http://www.w3.org)  
@@ -3939,18 +3940,23 @@ Data, Data Science, Big Data
 *   [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
 *   [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
 
-Algorithms
-*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-
 Data Mining and Machine Learning- General
 *   [Data Mining Series ("Knowledge Discovery in Databases" process, or KDD) Wikipedia](http://en.wikipedia.org/wiki/Data_mining)  
 *   [Data Mining Category Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
 *   [Data Mining and Machine Learning Software Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
 *   [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+
+Algorithms
+*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 *   [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
 *   [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-[Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
+*   [Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
+
+Deep Learning and Neural Networks
+*   [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+*   [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+*   [Artificial Neural Networks Wikipedia](http://en.wikibooks.org/wiki/Artificial_Neural_Networks)  
 
 Python- Statistics Stack- Documents and Galleries
 *   [SciPy Stack](http://www.scipy.org/docs.html)  
@@ -4125,6 +4131,16 @@ JSON
 XML
 *   [XML Wikipedia](http://en.wikipedia.org/wiki/XML)  
 *   [XML W3Schools](http://www.w3schools.com/xml/simple.xml)  
+
+API Methods- Common
+*   HTTP
+*   JSON
+*   XML
+*   REST
+*   ROA
+*   RDF
+*   SOAP
+*   SOA
 
 Facebook and Google Research
 *   [Facebook Research](https://research.facebook.com)  
