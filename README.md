@@ -3909,6 +3909,9 @@ Data Science Masters
 *   [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
 
 Data Science Websites
+*   [AnalyticBridge](http://www.analyticbridge.com)
+*   [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science)
+*   [Data Science Central](http://www.datasciencecentral.com)
 *   [DataTau (The "Hacker News" of Data Science)](http://www.datatau.com)
 *   [Get Topical: Big Data](http://gettopical.com/bigdata)
 *   [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
@@ -3930,6 +3933,7 @@ Mathematics
 
 Roadmaps
 *   [Jason Brownlee: Algorithms Mindmap](https://s3.amazonaws.com/MLMastery/MachineLearningAlgorithms.png?__s=6wybvntmcsiscppxscmb)
+*   [Machine Learning Periodic Table](http://www.mln.io/resources/periodic-table)
 *   [scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 Algorithms
