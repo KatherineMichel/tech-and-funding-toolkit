@@ -4365,6 +4365,10 @@ Statistical Packages
 *   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
 *   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
 
+Visualization
+*   [D3 GitHub](https://github.com/mbostock/d3)  
+*   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
+
 ### Python and Django Toolkit
 
 #### Python, Django, and Example Code
