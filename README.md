@@ -3907,14 +3907,16 @@ Data Science Masters
 *   [Open Source Data Science Masters](http://datasciencemasters.org) and [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go)  
 *   [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
 
+Data Science Websites
+*   [DataTau (The "Hacker News" of Data Science)](http://www.datatau.com)
+*   [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
+*   [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
+
 Kaggle
 *   [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
 *   [Kaggle Competitions](https://www.kaggle.com/competitions)  
 *   [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
 *   [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection)  
-
-KDNuggets
-*   [KDNuggets](http://www.kdnuggets.com) 
 
 Mathematics
 *   [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
@@ -3953,6 +3955,17 @@ Algorithms
 *   [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
 *   [Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
 
+Supervised and Unsupervised Learning
+*   [Supervised Learning Wikipedia](http://en.wikipedia.org/wiki/Supervised_learning)  
+*   [Unsupervised Learning ("program must discover hidden structure in unlabeled data") Wikipedia](http://en.wikipedia.org/wiki/Unsupervised_learning)  
+*   [Semi-Supervised Learning ("Semi-supervised approaches make use of both labeled and unlabeled training data.") Wikipedia](http://en.wikipedia.org/wiki/Semi-supervised_learning)  
+
+Bayesian (Supervised Learning)
+*   [Bayesian Statistics Wikipedia](http://en.wikipedia.org/wiki/Bayesian_statistics)  
+*   [Bayesian Probability Wikipedia](http://en.wikipedia.org/wiki/Bayesian_probability)  
+*   [Bayesian Inference Wikipedia](http://en.wikipedia.org/wiki/Bayesian_inference)  
+*   [Bayes' Theory Wikipedia](http://en.wikipedia.org/wiki/Bayes'_theorem)  
+
 Deep Learning and Neural Networks
 *   [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
 *   [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
@@ -3976,6 +3989,34 @@ Text Mining, Sentiment Analysis- General
 RegEx
 *   [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
 *   [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org)  
+
+Web Crawling and Scraping
+*   [Web Scraping Wikipedia](http://en.wikipedia.org/wiki/Web_scraping)  
+*   [Web Crawler Wikipedia](http://en.wikipedia.org/wiki/Web_crawler)  
+*   [Web Indexing Wikipedia](http://en.wikipedia.org/wiki/Web_indexing)  
+*   [Data Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping)  
+*   [Open Content Wikipedia](http://en.wikipedia.org/wiki/Open_content)  
+*   [Scraper Site Wikipedia](http://en.wikipedia.org/wiki/Scraper_site)  
+*   [Contact Scraping Wikipedia](http://en.wikipedia.org/wiki/Contact_scraping)  
+*   [Screen Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping#Screen_scraping)  
+*   [Wrapper (Data Mining) Wikipedia](http://en.wikipedia.org/wiki/Wrapper_(data_mining))  
+
+Unstructured Data and Data Structures- General
+*   [Unstructured Data Wikipedia](http://en.wikipedia.org/wiki/Unstructured_data)  
+*   [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
+*   [Data Structure Wikipedia](http://en.wikipedia.org/wiki/Data_structure)  
+*   [List of Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_data_structures)  
+*   [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
+
+APIs
+*   [API Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface)  
+*   [API Web APIs Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)  
+*   [Web API Wikipedia](http://en.wikipedia.org/wiki/Web_API)  
+*   [List of Open APIs Wikipeda](http://en.wikipedia.org/wiki/List_of_open_APIs)  
+*   [Public APIs](http://publicapis.com)  
+*   [Programmable Web](http://www.programmableweb.com/apis/directory)  
+*   [Programmable Web Developer](http://www.programmableweb.com/developers)  
+*   [Programmable Web Most Popular](http://www.programmableweb.com/category/all/apis?order=field_popularity)  
 
 Python- Statistics Stack- Documents and Galleries
 *   [SciPy Stack](http://www.scipy.org/docs.html)  
