@@ -947,6 +947,7 @@ Opolies
 *   [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
 
 Excel and Financial Modeling
+*   [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
 *   [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
 *   [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
 *   [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
