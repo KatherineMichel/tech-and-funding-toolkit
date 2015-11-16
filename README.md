@@ -3936,6 +3936,13 @@ Statistics- General
 *   [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
 *   [Statistics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
 
+Artificial Intelligence- General
+*   [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+*   [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)  
+*   [Artificial Intelligence Category Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+*   [List of Programming Languages for Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence)  
+*   [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects)  
+
 Data, Data Science, Big Data
 *   [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
 *   [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
