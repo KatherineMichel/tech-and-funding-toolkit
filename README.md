@@ -3931,7 +3931,7 @@ Mathematics
 *   [Trigonometry Series Wikipedia](http://en.wikipedia.org/wiki/Trigonometric_functions)  
 *   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
 
-Roadmaps
+Roadmaps and Cheat Sheets
 *   [Dlib Machine Learning Guide](http://dlib.net/ml_guide.svg) and [Paper](http://jmlr.csail.mit.edu/papers/volume10/king09a/king09a.pdf)
 *   [Emanuel Ferm: Cheat Sheet: Algorithms for Supervised- and Unsupervised Learning](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
 *   [Jason Brownlee: Algorithms Mindmap](https://s3.amazonaws.com/MLMastery/MachineLearningAlgorithms.png?__s=6wybvntmcsiscppxscmb)
@@ -3940,6 +3940,7 @@ Roadmaps
 *   [Microsoft Azure Machine Learning Cheat Sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet)
 *   [Swami Chandrasekaran: Road to Data Scientist](http://api.ning.com/files/v2lbj4A*dlMuI7BO2vXgjbXm0e78NLOMco1IbpI9fdUKH9Thb3oxWs8MsgCA7nUTU8rwrROiYonP7csIDFOFN9Oa4MPAaqa6/RoadtoDataScientistGraphic.png)
 *   [scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+*   [Strata Conference Cheat Sheet](https://twitter.com/furukama/status/411986586726064128)
 
 Algorithms
 *   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
