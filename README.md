@@ -3909,8 +3909,10 @@ Data Science Masters
 
 Data Science Websites
 *   [DataTau (The "Hacker News" of Data Science)](http://www.datatau.com)
+*   [Get Topical: Big Data](http://gettopical.com/bigdata)
 *   [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
 *   [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
+*   [Deep Learning News (The "Hacker News" of Deep Learning)](http://news.startup.ml)
 
 Kaggle
 *   [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
