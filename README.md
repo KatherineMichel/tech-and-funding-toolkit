@@ -3962,6 +3962,12 @@ Data Mining and Machine Learning- General
 *   [Data Mining and Machine Learning Software Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
 *   [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
 
+Online- Machine Learning, Analysis
+*   [[Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
+*   [[Online (and Off-Line) Wikipedia](http://en.wikipedia.org/wiki/Online_algorithm)  
+*   [[Online Analytical Wikipedia](http://en.wikipedia.org/wiki/Online_analytical_processing)  
+*   [[Competitive Analysis Wikipedia](http://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))  
+
 Algorithms
 *   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 *   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
