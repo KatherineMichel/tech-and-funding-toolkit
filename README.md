@@ -3925,6 +3925,13 @@ Mathematics
 *   [Trigonometry Series Wikipedia](http://en.wikipedia.org/wiki/Trigonometric_functions)  
 *   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
 
+Linear/Regression (Supervised Learning)
+*   [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
+*   [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
+*   [Linear Regression (Best Fit Line) (Excel) Wikipedia](http://en.wikipedia.org/wiki/Linear_regression)  
+*   [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
+*   [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
+
 Probability
 *   [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 *   [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory)  
