@@ -3963,10 +3963,10 @@ Data Mining and Machine Learning- General
 *   [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
 
 Online- Machine Learning, Analysis
-*   [[Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
-*   [[Online (and Off-Line) Wikipedia](http://en.wikipedia.org/wiki/Online_algorithm)  
-*   [[Online Analytical Wikipedia](http://en.wikipedia.org/wiki/Online_analytical_processing)  
-*   [[Competitive Analysis Wikipedia](http://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))  
+*   [Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
+*   [Online (and Off-Line) Wikipedia](http://en.wikipedia.org/wiki/Online_algorithm)  
+*   [Online Analytical Wikipedia](http://en.wikipedia.org/wiki/Online_analytical_processing)  
+*   [Competitive Analysis Wikipedia](http://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))  
 
 Algorithms
 *   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
