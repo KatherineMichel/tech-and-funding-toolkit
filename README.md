@@ -3928,6 +3928,17 @@ Mathematics
 *   [Trigonometry Series Wikipedia](http://en.wikipedia.org/wiki/Trigonometric_functions)  
 *   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
 
+Roadmaps
+*   [Jason Brownlee: Algorithms Mindmap](https://s3.amazonaws.com/MLMastery/MachineLearningAlgorithms.png?__s=6wybvntmcsiscppxscmb)
+*   [scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
+Algorithms
+*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+*   [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+*   [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+*   [Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
+
 Linear/Regression (Supervised Learning)
 *   [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
 *   [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
@@ -3970,13 +3981,6 @@ Online- Machine Learning, Analysis
 *   [Online (and Off-Line) Wikipedia](http://en.wikipedia.org/wiki/Online_algorithm)  
 *   [Online Analytical Wikipedia](http://en.wikipedia.org/wiki/Online_analytical_processing)  
 *   [Competitive Analysis Wikipedia](http://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))  
-
-Algorithms
-*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-*   [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-*   [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-*   [Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
 
 Supervised and Unsupervised Learning
 *   [Supervised Learning Wikipedia](http://en.wikipedia.org/wiki/Supervised_learning)  
