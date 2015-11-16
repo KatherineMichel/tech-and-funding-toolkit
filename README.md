@@ -3932,8 +3932,11 @@ Mathematics
 *   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
 
 Roadmaps
+*   [Emanuel Ferm: Cheat Sheet: Algorithms for Supervised- and Unsupervised Learning](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
 *   [Jason Brownlee: Algorithms Mindmap](https://s3.amazonaws.com/MLMastery/MachineLearningAlgorithms.png?__s=6wybvntmcsiscppxscmb)
-*   [Machine Learning Periodic Table](http://www.mln.io/resources/periodic-table)
+*   [mln.io: Machine Learning Periodic Table](http://www.mln.io/resources/periodic-table)
+*   [Microsoft Azure Machine Learning Cheat Sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet)
+*   [Swami Chandrasekaran: Road to Data Scientist](http://api.ning.com/files/v2lbj4A*dlMuI7BO2vXgjbXm0e78NLOMco1IbpI9fdUKH9Thb3oxWs8MsgCA7nUTU8rwrROiYonP7csIDFOFN9Oa4MPAaqa6/RoadtoDataScientistGraphic.png)
 *   [scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 Algorithms
