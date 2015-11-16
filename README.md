@@ -3932,8 +3932,10 @@ Mathematics
 *   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
 
 Roadmaps
+*   [Dlib Machine Learning Guide](http://dlib.net/ml_guide.svg) and [Paper](http://jmlr.csail.mit.edu/papers/volume10/king09a/king09a.pdf)
 *   [Emanuel Ferm: Cheat Sheet: Algorithms for Supervised- and Unsupervised Learning](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
 *   [Jason Brownlee: Algorithms Mindmap](https://s3.amazonaws.com/MLMastery/MachineLearningAlgorithms.png?__s=6wybvntmcsiscppxscmb)
+*   [Laura Diane Hamilton: Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet)
 *   [mln.io: Machine Learning Periodic Table](http://www.mln.io/resources/periodic-table)
 *   [Microsoft Azure Machine Learning Cheat Sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet)
 *   [Swami Chandrasekaran: Road to Data Scientist](http://api.ning.com/files/v2lbj4A*dlMuI7BO2vXgjbXm0e78NLOMco1IbpI9fdUKH9Thb3oxWs8MsgCA7nUTU8rwrROiYonP7csIDFOFN9Oa4MPAaqa6/RoadtoDataScientistGraphic.png)
@@ -4054,25 +4056,21 @@ APIs
 
 Python- Statistics Stack- Documents and Galleries
 *   [SciPy Stack](http://www.scipy.org/docs.html)  
-
-Python- Statistics Stack- NumPy and SciPy
-*   [NumPy](http://www.numpy.org)  
-*   [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy)  
-*   [NumPy GitHub](https://github.com/numpy/numpy)  
-*   [SciPy](http://www.scipy.org)  
-*   [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy)  
-*   [SciPy GitHub](https://github.com/scipy/scipy)  
-*   [SciPy Central](http://scipy-central.org)  
-
-Python- Statistics Stack- NumPy and SciPy Reference
-*   [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
-*   [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf)  
 *   [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
-*   [SciPy/NumPy Cookbook](http://wiki.scipy.org/Cookbook)  
+*   [SciPy/NumPy Cookbook](http://wiki.scipy.org/Cookbook) 
+*   [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
+
+Python- Statistics Stack- NumPy 
+*   [NumPy](http://www.numpy.org), [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy), and [NumPy GitHub](https://github.com/numpy/numpy)  
+*   [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
+*   [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
+
+Python- Statistics Stack- SciPy 
+*   [SciPy](http://www.scipy.org), [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy), and [SciPy GitHub](https://github.com/scipy/scipy)  
+*   [SciPy Central](http://scipy-central.org)  
 *   [SciPy Tutorial and Reference Docs](http://docs.scipy.org/doc/scipy/reference)  
 *   [SciPy Reference PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)  
 *   [SciPy Lectures GitHub](http://scipy-lectures.github.io)  
-*   [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
 
 http://www.scipy.org/getting-started.html 
 http://www.scipy.org/topical-software.html List of Software  
@@ -4117,13 +4115,11 @@ Python- Statistics Stack- Pandas
 
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
 *   [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
-*   [SimPy Docs](http://docs.sympy.org/latest/index.html)  
-*   [SimPy Features](http://www.sympy.org/en/features.html)  
+*   [SymPy Docs](http://docs.sympy.org/latest/index.html)  
+*   [SymPy Features](http://www.sympy.org/en/features.html)  
 
 Python- Statistics Stack- StatsModel
 *   [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
-
-Python- Statistics Stack- StatsModel Reference
 *   [StatsModel Main Features](https://pypi.python.org/pypi/statsmodels)  
 *   [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
 *   [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
@@ -4210,6 +4206,7 @@ R Programming Language
 *   [R Programming Language](http://www.r-project.org) and [R Programming Language Wikipedia](http://en.wikipedia.org/wiki/R_(programming_language))  
 *   [S Programming Language](http://www.stat.bell-labs.com/S/history.html)  
 *   [R Programming Language Studio](http://www.rstudio.com)  
+*   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets)
 *   [Data Science Masters- R Resources](https://github.com/datasciencemasters/go/blob/master/r-resources.md)  
 
 R Markdown
@@ -4271,8 +4268,9 @@ Lambda Architecture
 *   [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
 *   [Nathan Marz GitHub](https://github.com/nathanmarz)  
 
-Hadoop and Hortonworks Sandbox
+Hadoop, Hortonworks Sandbox, Cloudera
 *   [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox)  
+*   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop)  
 *   [Hadoop Apache](http://hadoop.apache.org)  
 *   [Hadoop Hortonworks](http://hortonworks.com/hadoop)  
 *   [Hadoop ("Apache's free and open source implementation of MapReduce") GitHub](http://en.wikipedia.org/wiki/Hadoop)  
@@ -4286,11 +4284,14 @@ Apache
 *   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
 
 Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon Web Services)
-*   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop)  
+*   [MapR Blog](https://www.mapr.com/blog) 
 *   [Hadoop MapReduce GitHub](https://github.com/apache/hadoop-mapreduce)  
 *   [Hadoop MapReduce (Communication Cost) Wikipedia](http://en.wikipedia.org/wiki/MapReduce)  
 *   [Elastic MapReduce](http://aws.amazon.com/elasticmapreduce)  
-*   [MapR Blog](https://www.mapr.com/blog)  
+ 
+Hadoop, MongoDB, and ElasticSearch
+*   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
+*   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop) 
 
 Apache Shark and Spark
 *   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
@@ -4324,10 +4325,6 @@ Log Monitoring
 *   [Apache Kafka Wikipedia](http://en.wikipedia.org/wiki/Apache_Kafka)  
 *   [Logstash](http://logstash.net)  
 *   [Facebook Scribe](https://github.com/facebook/scribe)  
-
-Hadoop, MongoDB, and ElasticSearch
-*   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
-*   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop)  
 
 Cascading, Cascalog, Scala, Scalding
 *   [Cascading GitHub](https://github.com/Cascading/cascading)  
