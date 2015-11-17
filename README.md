@@ -3899,6 +3899,15 @@ Data Scientists
 *   [Nate Silver](http://fivethirtyeight.blogs.nytimes.com)  
 *   [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
 
+Machine Learning (Andrew Ng, Stanford)
+*   [Machine Learning (Stanford)](https://www.coursera.org/course/ml)  
+*   [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/materials.html)  
+*   [Stanford Open Classroom- Unsupervised Future Learning and Deep Learning (Andrew Ng)](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl) 
+
+Mining Massive Datasets (Stanford)
+*   [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
+*   [Mining Massive Datasets Book (Stanford)](http://www.mmds.org)  
+
 Data Science Masters
 *   [Open Source Data Science Masters](http://datasciencemasters.org) and [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go)  
 *   [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
