@@ -3387,12 +3387,6 @@ Designer/Developer Conferences
 
 #### Social Media and Social Graph
 
-Graph and Schema- General (See Also Facebook Open Graph)
-*   [Open Graph Protocol Schema](http://ogp.me) 
-*   [Schema Org](http://schema.org)
-*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
-*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
-
 Web Analytics
 *   [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
@@ -3968,6 +3962,12 @@ Statistics- General
 *   [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
 *   [Statistics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
 
+Stochastic Calculus, Stochastic Neural Network, Stochastic Gradient Descent (SGD)
+*   [Stochastic Calculus Wikipedia](http://en.wikipedia.org/wiki/Stochastic_calculus)  
+*   [Stochastic Process Wikipedia](http://en.wikipedia.org/wiki/Stochastic_process)  
+*   [Stochastic Neural Network Wikipedia](http://en.wikipedia.org/wiki/Stochastic_neural_network)  
+*   [Stochastic Gradient Descent (Used in Machine Learning) Wikipedia](http://en.wikipedia.org/wiki/Stochastic_gradient_descent)  
+
 Artificial Intelligence- General
 *   [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
 *   [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)  
@@ -4040,22 +4040,115 @@ Web Crawling and Scraping
 *   [Screen Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping#Screen_scraping)  
 *   [Wrapper (Data Mining) Wikipedia](http://en.wikipedia.org/wiki/Wrapper_(data_mining))  
 
-Unstructured Data and Data Structures- General
-*   [Unstructured Data Wikipedia](http://en.wikipedia.org/wiki/Unstructured_data)  
-*   [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
-*   [Data Structure Wikipedia](http://en.wikipedia.org/wiki/Data_structure)  
-*   [List of Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_data_structures)  
-*   [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
+Statistical Packages
+*   [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
+*   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
+*   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
 
-APIs
-*   [API Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface)  
-*   [API Web APIs Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)  
-*   [Web API Wikipedia](http://en.wikipedia.org/wiki/Web_API)  
-*   [List of Open APIs Wikipeda](http://en.wikipedia.org/wiki/List_of_open_APIs)  
-*   [Public APIs](http://publicapis.com)  
-*   [Programmable Web](http://www.programmableweb.com/apis/directory)  
-*   [Programmable Web Developer](http://www.programmableweb.com/developers)  
-*   [Programmable Web Most Popular](http://www.programmableweb.com/category/all/apis?order=field_popularity)  
+Facebook and Google Research
+*   [Facebook Research](https://research.facebook.com)  
+*   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
+*   [Facebook Open Compute](http://www.opencompute.org)  
+*   [Facebook Code](https://code.facebook.com)
+*   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
+*   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
+
+Facebook, Google, Microsoft Open-Source Machine Learning
+*   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+*   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
+
+*   http://torch.ch 
+*   https://github.com/torch/torch7 
+*   http://torch.ch/docs/getting-started.html#_  
+*   https://github.com/facebook/fbcunn
+*   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
+*   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
+*   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
+*   https://www.facebook.com/Engineering/posts/10152495827632200
+
+Lambda Architecture
+*   [Lambda Architecture](http://lambda-architecture.net)  
+*   [Lambda Calculus Wikipedia](http://en.wikipedia.org/wiki/Lambda_calculus)  
+*   [Lambda Calculus (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Lambda_calculus)  
+*   [MapReduce Lambda Architecture Explanation](http://www.mapr.com/fr/developercentral/lambda-architecture)  
+*   [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
+*   [Nathan Marz GitHub](https://github.com/nathanmarz)  
+
+Hadoop, Hortonworks Sandbox, Cloudera
+*   [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox)  
+*   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop)  
+*   [Hadoop Apache](http://hadoop.apache.org)  
+*   [Hadoop Hortonworks](http://hortonworks.com/hadoop)  
+*   [Hadoop ("Apache's free and open source implementation of MapReduce") GitHub](http://en.wikipedia.org/wiki/Hadoop)  
+*   [Cloudera Hadoop Sandbox](http://www.cloudera.com/content/cloudera/en/products-and-services/cloudera-live.html)  
+*   [Hadoop Common GitHub](https://github.com/apache/hadoop-common)  
+*   [Hadoop Distributed File System](http://hortonworks.com/hadoop/hdfs)  
+*   [Hadoop Distributed File System](http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  
+
+Apache
+*   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
+*   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
+
+Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon Web Services)
+*   [MapR Blog](https://www.mapr.com/blog) 
+*   [Hadoop MapReduce GitHub](https://github.com/apache/hadoop-mapreduce)  
+*   [Hadoop MapReduce (Communication Cost) Wikipedia](http://en.wikipedia.org/wiki/MapReduce)  
+*   [Elastic MapReduce](http://aws.amazon.com/elasticmapreduce)  
+ 
+Apache Shark and Spark
+*   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
+*   [Shark ("Apache Hive on Spark") GitHub](http://shark.cs.berkeley.edu) and [Shark GitHub](https://github.com/amplab/shark)  
+
+Apache Hive and Pig (Provide SQL-like abstractions on top of Hadoop MapReduce layer)
+*   [Apache Hive (Data Warehouse) Wikipedia](http://en.wikipedia.org/wiki/Apache_Hive) and [Apache Hive GitHub](https://github.com/apache/hive)  
+*   [Apache Pig ("A language and compiler to generate Hadoop programs") Wikipedia](http://en.wikipedia.org/wiki/Pig_(programming_tool)) and [Apache Pig GitHub](https://github.com/apache/pig)  
+
+Apache Drill
+*   [Apache Drill](https://drill.apache.org)
+
+Apache Mahout
+*   [Apache Mahout](https://mahout.apache.org) and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
+*   [Apache Mahout Algorithms](https://mahout.apache.org/users/basics/algorithms.html) 
+
+Social Network Processing
+*   [Apache Giraph](http://giraph.apache.org)  
+*   [Graphlab](http://graphlab.org/projects/index.html)  
+*   [Apache Spark Graphx](https://spark.apache.org/graphx)  
+
+Apache- More
+*   [Apache Accumulo ("Secure Big Table") Wikipedia](http://en.wikipedia.org/wiki/Apache_Accumulo)  
+*   [Apache Cassandra ("A column-oriented database that supports access from Hadoop") GitHub](http://en.wikipedia.org/wiki/Apache_Cassandra)  
+*   [Apache Cassandra GitHub](https://github.com/apache/cassandra)  
+*   [Apache HBase ("BigTable-model database", Column-based) Wikipedia](http://en.wikipedia.org/wiki/HBase) and [Apache HBase GitHub](https://github.com/apache/hbase)  
+*   [Apache Mesos (Cluster Manager) GitHub](https://github.com/apache/mesos)  
+*   [Apache Solr (An open source search platform based on Lucene)](http://lucene.apache.org/solr)  
+*   [Apache Zookeeper (Distribution) Wikipedia](http://en.wikipedia.org/wiki/Apache_ZooKeeper)and [Apache Zookeeper GitHub](https://github.com/apache/zookeeper)  
+*   [Apache TrafficServer (Used by Yahoo) GitHub](https://github.com/apache/trafficserver) 
+
+Log Monitoring
+*   [Apache Kafka (A high-throughput distributed messaging system- Apache Kafka is publish-subscribe messaging rethought as a distributed commit log) GitHub](https://github.com/apache/kafka)  
+*   [Apache Kafka Wikipedia](http://en.wikipedia.org/wiki/Apache_Kafka)  
+*   [Logstash](http://logstash.net)  
+*   [Facebook Scribe](https://github.com/facebook/scribe)  
+
+Apache- Python
+*   [Apache Python Library GitHub](https://github.com/apache/libcloud)  
+
+Cascading, Cascalog, Scala, Scalding
+*   [Cascading GitHub](https://github.com/Cascading/cascading)  
+*   [Cascalog GitHub](https://github.com/nathanmarz/cascalog)  
+*   [Cascalog-Demo GitHub](https://github.com/nathanmarz/cascalog-demo)  
+*   [Scala GitHub](https://github.com/scala/scala)  
+*   [Scala Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language))  
+*   [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
+*   [Twitter Effective Scala GitHub](https://github.com/twitter/effectivescala)  
+*   [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
+*   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
+*   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial) 
+
+Hadoop, MongoDB, and ElasticSearch
+*   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
+*   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop) 
 
 Python- Statistics Stack- Documents and Galleries
 *   [SciPy Stack](http://www.scipy.org/docs.html)  
@@ -4217,141 +4310,59 @@ R Markdown
 *   [RStudio Markdown GitHub](https://github.com/rstudio/markdown)  
 
 MatLab
-*   [MatLab](http://www.mathworks.com/products/matlab) and [MatLab Wikipedia](http://en.wikipedia.org/wiki/MATLAB)  
+*   [MatLab](http://www.mathworks.com/products/matlab) and [MatLab Wikipedia](http://en.wikipedia.org/wiki/MATLAB) 
 
-Apache- Python
-*   [Apache Python Library GitHub](https://github.com/apache/libcloud)  
+Visualization
+*   [D3 GitHub](https://github.com/mbostock/d3)  
+*   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
 
-Kimono Labs
+RapidMiner (Open Source) and IBM SPSS
+*   [RapidMiner (Open Source)](https://rapidminer.com)
+*   [IBM SPSS](http://www-01.ibm.com/software/analytics/spss) and [IBM SPSS Wikipedia](https://en.wikipedia.org/wiki/SPSS)
+
+Import.io and Kimono Labs
+*   [Import.io](https://import.io)
 *   [Kimono Labs](https://www.kimonolabs.com)  
 
-JSON
-*   [JSON](http://www.json.org) and [JSON Wikipedia](http://en.wikipedia.org/wiki/JSON)  
+Unstructured Data and Data Structures- General
+*   [Unstructured Data Wikipedia](http://en.wikipedia.org/wiki/Unstructured_data)  
+*   [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
+*   [Data Structure Wikipedia](http://en.wikipedia.org/wiki/Data_structure)  
+*   [List of Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_data_structures)  
+*   [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
 
-XML
-*   [XML Wikipedia](http://en.wikipedia.org/wiki/XML)  
-*   [XML W3Schools](http://www.w3schools.com/xml/simple.xml)  
+Data
+*   [Array Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+*   [Matrix Wikipedia](https://en.wikipedia.org/wiki/Matrix_(mathematics))
+
+CSV
+*   [CSV (Comma-Separated Values) Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
+
+Graph and Schema- General (See Also Facebook Open Graph)
+*   [Open Graph Protocol Schema](http://ogp.me) 
+*   [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
+*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
 
 API Methods- Common
 *   HTTP
-*   JSON
-*   XML
+*   [JSON](http://www.json.org) and [JSON Wikipedia](http://en.wikipedia.org/wiki/JSON)  
+*   [XML Wikipedia](http://en.wikipedia.org/wiki/XML) and [XML W3Schools](http://www.w3schools.com/xml/simple.xml)  
 *   REST
 *   ROA
 *   RDF
 *   SOAP
 *   SOA
 
-Facebook and Google Research
-*   [Facebook Research](https://research.facebook.com)  
-*   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
-*   [Facebook Open Compute](http://www.opencompute.org)  
-*   [Facebook Code](https://code.facebook.com)
-*   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
-*   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
-
-Facebook, Google, Microsoft Open-Source Machine Learning
-*   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-*   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
-
-*   http://torch.ch 
-*   https://github.com/torch/torch7 
-*   http://torch.ch/docs/getting-started.html#_  
-*   https://github.com/facebook/fbcunn
-*   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
-*   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
-*   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
-*   https://www.facebook.com/Engineering/posts/10152495827632200
-
-Lambda Architecture
-*   [Lambda Architecture](http://lambda-architecture.net)  
-*   [Lambda Calculus Wikipedia](http://en.wikipedia.org/wiki/Lambda_calculus)  
-*   [Lambda Calculus (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Lambda_calculus)  
-*   [MapReduce Lambda Architecture Explanation](http://www.mapr.com/fr/developercentral/lambda-architecture)  
-*   [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
-*   [Nathan Marz GitHub](https://github.com/nathanmarz)  
-
-Hadoop, Hortonworks Sandbox, Cloudera
-*   [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox)  
-*   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop)  
-*   [Hadoop Apache](http://hadoop.apache.org)  
-*   [Hadoop Hortonworks](http://hortonworks.com/hadoop)  
-*   [Hadoop ("Apache's free and open source implementation of MapReduce") GitHub](http://en.wikipedia.org/wiki/Hadoop)  
-*   [Cloudera Hadoop Sandbox](http://www.cloudera.com/content/cloudera/en/products-and-services/cloudera-live.html)  
-*   [Hadoop Common GitHub](https://github.com/apache/hadoop-common)  
-*   [Hadoop Distributed File System](http://hortonworks.com/hadoop/hdfs)  
-*   [Hadoop Distributed File System](http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  
-
-Apache
-*   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
-*   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
-
-Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon Web Services)
-*   [MapR Blog](https://www.mapr.com/blog) 
-*   [Hadoop MapReduce GitHub](https://github.com/apache/hadoop-mapreduce)  
-*   [Hadoop MapReduce (Communication Cost) Wikipedia](http://en.wikipedia.org/wiki/MapReduce)  
-*   [Elastic MapReduce](http://aws.amazon.com/elasticmapreduce)  
- 
-Apache Shark and Spark
-*   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
-*   [Shark ("Apache Hive on Spark") GitHub](http://shark.cs.berkeley.edu) and [Shark GitHub](https://github.com/amplab/shark)  
-
-Apache Hive and Pig (Provide SQL-like abstractions on top of Hadoop MapReduce layer)
-*   [Apache Hive (Data Warehouse) Wikipedia](http://en.wikipedia.org/wiki/Apache_Hive) and [Apache Hive GitHub](https://github.com/apache/hive)  
-*   [Apache Pig ("A language and compiler to generate Hadoop programs") Wikipedia](http://en.wikipedia.org/wiki/Pig_(programming_tool)) and [Apache Pig GitHub](https://github.com/apache/pig)  
-
-Apache Drill
-*   [Apache Drill](https://drill.apache.org)
-
-Apache Mahout
-*   [Apache Mahout](https://mahout.apache.org) and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
-*   [Apache Mahout Algorithms](https://mahout.apache.org/users/basics/algorithms.html) 
-
-Social Network Processing
-*   [Apache Giraph](http://giraph.apache.org)  
-*   [Graphlab](http://graphlab.org/projects/index.html)  
-*   [Apache Spark Graphx](https://spark.apache.org/graphx)  
-
-Apache- More
-*   [Apache Accumulo ("Secure Big Table") Wikipedia](http://en.wikipedia.org/wiki/Apache_Accumulo)  
-*   [Apache Cassandra ("A column-oriented database that supports access from Hadoop") GitHub](http://en.wikipedia.org/wiki/Apache_Cassandra)  
-*   [Apache Cassandra GitHub](https://github.com/apache/cassandra)  
-*   [Apache HBase ("BigTable-model database", Column-based) Wikipedia](http://en.wikipedia.org/wiki/HBase) and [Apache HBase GitHub](https://github.com/apache/hbase)  
-*   [Apache Mesos (Cluster Manager) GitHub](https://github.com/apache/mesos)  
-*   [Apache Solr (An open source search platform based on Lucene)](http://lucene.apache.org/solr)  
-*   [Apache Zookeeper (Distribution) Wikipedia](http://en.wikipedia.org/wiki/Apache_ZooKeeper)and [Apache Zookeeper GitHub](https://github.com/apache/zookeeper)  
-*   [Apache TrafficServer (Used by Yahoo) GitHub](https://github.com/apache/trafficserver) 
-
-Log Monitoring
-*   [Apache Kafka (A high-throughput distributed messaging system- Apache Kafka is publish-subscribe messaging rethought as a distributed commit log) GitHub](https://github.com/apache/kafka)  
-*   [Apache Kafka Wikipedia](http://en.wikipedia.org/wiki/Apache_Kafka)  
-*   [Logstash](http://logstash.net)  
-*   [Facebook Scribe](https://github.com/facebook/scribe)  
-
-Cascading, Cascalog, Scala, Scalding
-*   [Cascading GitHub](https://github.com/Cascading/cascading)  
-*   [Cascalog GitHub](https://github.com/nathanmarz/cascalog)  
-*   [Cascalog-Demo GitHub](https://github.com/nathanmarz/cascalog-demo)  
-*   [Scala GitHub](https://github.com/scala/scala)  
-*   [Scala Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language))  
-*   [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
-*   [Twitter Effective Scala GitHub](https://github.com/twitter/effectivescala)  
-*   [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
-*   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
-*   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial) 
-
-Hadoop, MongoDB, and ElasticSearch
-*   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
-*   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop) 
-
-Statistical Packages
-*   [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
-*   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
-*   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
-
-Visualization
-*   [D3 GitHub](https://github.com/mbostock/d3)  
-*   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
+APIs
+*   [API Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface)  
+*   [API Web APIs Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)  
+*   [Web API Wikipedia](http://en.wikipedia.org/wiki/Web_API)  
+*   [List of Open APIs Wikipeda](http://en.wikipedia.org/wiki/List_of_open_APIs)  
+*   [Public APIs](http://publicapis.com)  
+*   [Programmable Web](http://www.programmableweb.com/apis/directory)  
+*   [Programmable Web Developer](http://www.programmableweb.com/developers)  
+*   [Programmable Web Most Popular](http://www.programmableweb.com/category/all/apis?order=field_popularity) 
 
 Network Science, Social Network, Systems Science
 *   [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
