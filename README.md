@@ -4363,7 +4363,9 @@ Unstructured Data and Data Structures- General
 Data
 *   [Array Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
 *   [Matrix Wikipedia](https://en.wikipedia.org/wiki/Matrix_(mathematics))
-
+*   [Column Vector Wikipedia](http://en.wikipedia.org/wiki/Column_vector)
+*   [Row Vector Wikipedia](http://en.wikipedia.org/wiki/Row_vector)
+ 
 CSV
 *   [CSV (Comma-Separated Values) Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
 
