@@ -3987,6 +3987,10 @@ Standard Deviation, Error, Normalization, Standard Score
 *   [Normalization Wikipedia](http://en.wikipedia.org/wiki/Normalization)  
 *   [Standard Score Wikipedia](http://en.wikipedia.org/wiki/Standard_score)  
 
+Confidence and Confidence Interval
+*   [Confidence (Excel) Wikipedia](http://en.wikipedia.org/wiki/Confidence)  
+*   [Confidence Interval (Excel) Wikipedia](http://en.wikipedia.org/wiki/Confidence_interval) 
+
 Stochastic Calculus, Stochastic Neural Network, Stochastic Gradient Descent (SGD)
 *   [Stochastic Calculus Wikipedia](http://en.wikipedia.org/wiki/Stochastic_calculus)  
 *   [Stochastic Process Wikipedia](http://en.wikipedia.org/wiki/Stochastic_process)  
