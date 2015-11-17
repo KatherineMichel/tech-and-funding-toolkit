@@ -3909,9 +3909,6 @@ Mining Massive Datasets (Stanford)
 *   [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
 *   [Mining Massive Datasets Book (Stanford)](http://www.mmds.org)  
 
-Data Science Learning Programs
-*   [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
-
 Data Science Websites
 *   [AnalyticBridge](http://www.analyticbridge.com)
 *   [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science)
@@ -3928,12 +3925,8 @@ Kaggle
 *   [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
 *   [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection)  
 
-Mathematics
-*   [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
-*   [Relational Algebra Wikipedia](http://en.wikipedia.org/wiki/Relational_algebra)  
-*   [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus)  
-*   [Trigonometry Series Wikipedia](http://en.wikipedia.org/wiki/Trigonometric_functions)  
-*   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
+Data Science Learning Programs
+*   [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
 
 Roadmaps and Cheat Sheets
 *   [Data Science Central: A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms)
@@ -3947,12 +3940,12 @@ Roadmaps and Cheat Sheets
 *   [scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 *   [Strata Conference Cheat Sheet](https://twitter.com/furukama/status/411986586726064128)
 
-Algorithms
-*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-*   [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-*   [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-*   [Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
+Mathematics
+*   [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
+*   [Relational Algebra Wikipedia](http://en.wikipedia.org/wiki/Relational_algebra)  
+*   [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus)  
+*   [Trigonometry Series Wikipedia](http://en.wikipedia.org/wiki/Trigonometric_functions)  
+*   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
 
 Linear/Regression (Supervised Learning)
 *   [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
@@ -4037,6 +4030,14 @@ Data Mining and Machine Learning- General
 *   [Data Mining and Machine Learning Software Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
 *   [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
 *   [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
+*   [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Algorithms
+*   [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+*   [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+*   [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+*   [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+*   [Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
 
 Online- Machine Learning, Analysis
 *   [Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
