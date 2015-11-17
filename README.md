@@ -4290,10 +4290,6 @@ Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon W
 *   [Hadoop MapReduce (Communication Cost) Wikipedia](http://en.wikipedia.org/wiki/MapReduce)  
 *   [Elastic MapReduce](http://aws.amazon.com/elasticmapreduce)  
  
-Hadoop, MongoDB, and ElasticSearch
-*   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
-*   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop) 
-
 Apache Shark and Spark
 *   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
 *   [Shark ("Apache Hive on Spark") GitHub](http://shark.cs.berkeley.edu) and [Shark GitHub](https://github.com/amplab/shark)  
@@ -4301,6 +4297,9 @@ Apache Shark and Spark
 Apache Hive and Pig (Provide SQL-like abstractions on top of Hadoop MapReduce layer)
 *   [Apache Hive (Data Warehouse) Wikipedia](http://en.wikipedia.org/wiki/Apache_Hive) and [Apache Hive GitHub](https://github.com/apache/hive)  
 *   [Apache Pig ("A language and compiler to generate Hadoop programs") Wikipedia](http://en.wikipedia.org/wiki/Pig_(programming_tool)) and [Apache Pig GitHub](https://github.com/apache/pig)  
+
+Apache Drill
+*   [Apache Drill](https://drill.apache.org)
 
 Apache Mahout
 *   [Apache Mahout](https://mahout.apache.org) and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
@@ -4338,6 +4337,19 @@ Cascading, Cascalog, Scala, Scalding
 *   [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
 *   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
 *   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial) 
+
+Hadoop, MongoDB, and ElasticSearch
+*   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
+*   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop) 
+
+Statistical Packages
+*   [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
+*   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
+*   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
+
+Visualization
+*   [D3 GitHub](https://github.com/mbostock/d3)  
+*   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
 
 Network Science, Social Network, Systems Science
 *   [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
@@ -4377,15 +4389,6 @@ General Terminology
 *   [Fizz Buzz Wikipedia](http://en.wikipedia.org/wiki/Fizz_buzz)  
 *   [Fibonacci Number Wikipedia](http://en.wikipedia.org/wiki/Fibonacci_number)  
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
-
-Statistical Packages
-*   [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
-*   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
-*   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
-
-Visualization
-*   [D3 GitHub](https://github.com/mbostock/d3)  
-*   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
 
 ### Python and Django Toolkit
 
