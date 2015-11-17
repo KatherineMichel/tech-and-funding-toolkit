@@ -3985,7 +3985,7 @@ More Distributions, Logarithms, Transformations
 *   [Poisson Distribution Wikipedia](http://en.wikipedia.org/wiki/Poisson_distribution) 
 *   [Sampling Distribution Wikipedia](http://en.wikipedia.org/wiki/Sampling_distribution) 
 *   [Natural Logarithm Wikipedia](http://en.wikipedia.org/wiki/Natural_logarithm) 
-*   [Fisher Transformatino Wikipedia](http://en.wikipedia.org/wiki/Fisher_transformation) 
+*   [Fisher Transformation Wikipedia](http://en.wikipedia.org/wiki/Fisher_transformation) 
 
 More Tests
 *   [Mann–Whitney U Test Wikipedia](http://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U)
