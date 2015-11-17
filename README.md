@@ -3909,9 +3909,8 @@ Mining Massive Datasets (Stanford)
 *   [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
 *   [Mining Massive Datasets Book (Stanford)](http://www.mmds.org)  
 
-Data Science Masters
-*   [Open Source Data Science Masters](http://datasciencemasters.org) and [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go)  
-*   [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
+Data Science Learning Programs
+*   [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
 
 Data Science Websites
 *   [AnalyticBridge](http://www.analyticbridge.com)
@@ -3937,6 +3936,7 @@ Mathematics
 *   [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
 
 Roadmaps and Cheat Sheets
+*   [Data Science Central: A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms)
 *   [Dlib Machine Learning Guide](http://dlib.net/ml_guide.svg) and [Paper](http://jmlr.csail.mit.edu/papers/volume10/king09a/king09a.pdf)
 *   [Emanuel Ferm: Cheat Sheet: Algorithms for Supervised- and Unsupervised Learning](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
 *   [Jason Brownlee: Algorithms Mindmap](https://s3.amazonaws.com/MLMastery/MachineLearningAlgorithms.png?__s=6wybvntmcsiscppxscmb)
