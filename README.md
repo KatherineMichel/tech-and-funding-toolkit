@@ -3968,13 +3968,24 @@ Distributions
 
 Common Probability Distributions and Tests
 *   [Normal (Gaussian/Bell Curve) Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Normal_distribution)  
-*   [(Student’s) T Distribution(Excel) Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-distribution) and [Student's T-Test Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-test) 
-*   [F Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/F-distribution) and [F-Test Wikipedia](http://en.wikipedia.org/wiki/F-test)
-*   [Chi-Squared Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_distribution) and [Chi-Squared Test Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_test) 
+*   [Bell Curve Wikipedia](http://en.wikipedia.org/wiki/Bell_curve) and [Gaussian Function Wikipedia](http://en.wikipedia.org/wiki/Gaussian_function)
+*   [Chi-Squared Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_distribution), [Chi-Squared Test Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_test), and [Pearson's Chi-Squared Test Wikipedia](http://en.wikipedia.org/wiki/Pearson%27s_chi-squared_test)
 *   [Exponential Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Exponential_distribution)  
-*   [Weibull Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Weibull_distribution)  
+*   [F Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/F-distribution) and [F-Test Wikipedia](http://en.wikipedia.org/wiki/F-test)
+*   [Gamma Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Gamma_distribution) 
 *   [Lognormal Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Log-normal_distribution)  
-*   [Gamma Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Gamma_distribution)  
+*   [(Student’s) T Distribution(Excel) Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-distribution) and [Student's T-Test Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-test) 
+*   [Weibull Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Weibull_distribution) 
+
+More Distributions, Logarithms, Transformations
+*   [Beta Distribution Wikipedia](http://en.wikipedia.org/wiki/Beta_distribution) 
+*   [Binomial Distribution Wikipedia](http://en.wikipedia.org/wiki/Binomial_distribution) 
+*   [Geometric Distribution Wikipedia](http://en.wikipedia.org/wiki/Geometric_distribution) 
+*   [Hypergeometric Distribution Wikipedia](http://en.wikipedia.org/wiki/Hypergeometric_distribution) 
+*   [Poisson Distribution Wikipedia](http://en.wikipedia.org/wiki/Poisson_distribution) 
+*   [Sampling Distribution Wikipedia](http://en.wikipedia.org/wiki/Sampling_distribution) 
+*   [Natural Logarithm Wikipedia](http://en.wikipedia.org/wiki/Natural_logarithm) 
+*   [Fisher Transformatino Wikipedia](http://en.wikipedia.org/wiki/Fisher_transformation) 
 
 More Tests
 *   [Mann–Whitney U Test Wikipedia](http://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U)
