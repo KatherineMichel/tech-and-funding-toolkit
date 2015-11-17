@@ -51,6 +51,10 @@ U.K.
 *   [Washington Post](https://github.com/washingtonpost)  
 *   [Washington Times](https://github.com/washingtontimes)  
 
+## Big Data Infrastructure
+*   [Apache](https://github.com/apache)
+*   [Cloudera](https://github.com/cloudera)  
+
 ## Other
 *   [23andMe](https://github.com/23andMe)  
 *   [37Signals](https://github.com/37signals)  
@@ -76,7 +80,6 @@ U.K.
 *   [C2FO](https://github.com/C2FO)  
 *   [CKAN](https://github.com/CKAN)  
 *   [Chartbeat Labs](https://github.com/chartbeat-labs)  
-*   [Cloudera](https://github.com/cloudera)  
 *   [Codecademy](https://github.com/Codecademy)  
 *   [CoinApps](https://github.com/CoinApps)  
 *   [Coinbase](https://github.com/coinbase)  
