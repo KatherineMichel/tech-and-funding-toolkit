@@ -3951,6 +3951,10 @@ Linear/Regression (Supervised Learning)
 *   [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
 *   [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
 
+Statistics- General
+*   [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
+*   [Statistics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+
 Probability
 *   [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 *   [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory)  
@@ -3958,9 +3962,30 @@ Probability
 *   [Prior Probability Wikipedia](http://en.wikipedia.org/wiki/Prior_probability)  
 *   [Conditional Probability Wikipedia](http://en.wikipedia.org/wiki/Conditional_probability)  
 
-Statistics- General
-*   [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-*   [Statistics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+Distributions
+*   [Distribution Wikipedia](http://en.wikipedia.org/wiki/Distribution)  
+*   [Probability Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Probability_distribution) 
+
+Common Probability Distributions and Tests
+*   [Normal (Gaussian/Bell Curve) Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Normal_distribution)  
+*   [(Student’s) T Distribution(Excel) Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-distribution) and [Student's T-Test Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-test) 
+*   [F Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/F-distribution) and [F-Test Wikipedia](http://en.wikipedia.org/wiki/F-test)
+*   [Chi-Squared Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_distribution) and [Chi-Squared Test Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_test) 
+*   [Exponential Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Exponential_distribution)  
+*   [Weibull Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Weibull_distribution)  
+*   [Lognormal Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Log-normal_distribution)  
+*   [Gamma Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Gamma_distribution)  
+
+More Tests
+*   [Mann–Whitney U Test Wikipedia](http://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U)
+*   [Wald Test Wikipedia](http://en.wikipedia.org/wiki/Wald_test)
+*   [Z-Test Wikipedia](http://en.wikipedia.org/wiki/Z-test)
+
+Standard Deviation, Error, Normalization, Standard Score
+*   [Standard Deviation (Excel) Wikipedia](http://en.wikipedia.org/wiki/Standard_deviation)  
+*   [Standard Error (Excel) Wikipedia](http://en.wikipedia.org/wiki/Standard_error_(statistics))  
+*   [Normalization Wikipedia](http://en.wikipedia.org/wiki/Normalization)  
+*   [Standard Score Wikipedia](http://en.wikipedia.org/wiki/Standard_score)  
 
 Stochastic Calculus, Stochastic Neural Network, Stochastic Gradient Descent (SGD)
 *   [Stochastic Calculus Wikipedia](http://en.wikipedia.org/wiki/Stochastic_calculus)  
