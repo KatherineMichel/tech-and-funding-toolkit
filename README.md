@@ -1326,10 +1326,11 @@ Tech Periodical
 Tech Longform
 *   [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
 
-The Wirecutter, Consumer Reports, Popular Mechanics
+The Wirecutter, Consumer Reports, Popular Mechanics, Tom's Hardware
 *   [The Wirecutter](http://thewirecutter.com)
 *   [Consumer Reports](http://www.consumerreports.org)
 *   [Popular Mechanics](http://www.popularmechanics.com)
+*   [Tom's Hardware](http://www.tomshardware.com)
 
 Leaderboard
 *   [REDEF Charts](http://redef.com/charts)
@@ -3985,6 +3986,7 @@ Data Mining and Machine Learning- General
 *   [Data Mining Category Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
 *   [Data Mining and Machine Learning Software Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
 *   [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+*   [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
 
 Online- Machine Learning, Analysis
 *   [Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
