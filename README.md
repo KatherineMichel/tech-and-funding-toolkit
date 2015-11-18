@@ -1614,6 +1614,7 @@ Project Documents
 *   [Product Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Product_breakdown_structure)
 *   [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 *   [Organizational Structure Wikipedia](https://en.wikipedia.org/wiki/Organizational_structure)
+*   [Organizational Chart Wikipedia](https://en.wikipedia.org/wiki/Organizational_chart)
 *   [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
 
 Product
@@ -1720,13 +1721,10 @@ Value
 *   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
-*   [Global Supply-Chain Finance Wikipedia](https://en.wikipedia.org/wiki/Global_supply-chain_finance)
 
 Improvement Schools of Thought
 *   [Analytical Quality Control Wikipedia](https://en.wikipedia.org/wiki/Analytical_quality_control)
 *   [Continual Improvement Process Wikipedia](https://en.wikipedia.org/wiki/Continual_improvement_process)
-*   [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
-*   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
 *   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
 *   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
 *   [Capability Maturity Model Integration Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
@@ -1736,7 +1734,19 @@ Improvement Schools of Thought
 *   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
 *   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
 *   [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
+*   [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
+
+Supply Chain
+*   [Supply Chain Wikipedia](https://en.wikipedia.org/wiki/Supply_chain)
 *   [Supply Chain Management Wikipedia](https://en.wikipedia.org/wiki/Supply_chain_management)
+*   [Supply Chain Optimization Wikipedia](http://en.wikipedia.org/wiki/Supply_chain_optimization)
+*   [Global Supply-Chain Finance Wikipedia](https://en.wikipedia.org/wiki/Global_supply-chain_finance)
+
+Business Process
+*   [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
+*   [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
+
+Flow Chart
 *   [Flow Process Chart Wikipedia](https://en.wikipedia.org/wiki/Flow_process_chart)
 *   [Flowchart Wikipedia](https://en.wikipedia.org/wiki/Flowchart)
 *   [Workflow Wikipedia](https://en.wikipedia.org/wiki/Workflow)
@@ -2156,6 +2166,7 @@ Strategy
 *   [Strategy Series Wikipedia](http://en.wikipedia.org/wiki/Strategy) 
 *   [Strategic Management Wikipedia](http://en.wikipedia.org/wiki/Strategic_management)  
 *   [Strategic Planning Wikipedia](http://en.wikipedia.org/wiki/Strategic_planning) 
+*   [Strategic Partnership Wikipedia](https://en.wikipedia.org/wiki/Strategic_partnership)
 
 #### Lean Startup and Launchpad
 
@@ -2568,6 +2579,9 @@ Computer Scientists
 *   [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 *   [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
+History of Computing
+*   [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+
 Great Unsolved Problems in Computer Science
 *   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
 
@@ -2593,6 +2607,13 @@ General Terms
 *   [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
 *   [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
 *   [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
+
+Operating Systems
+*   [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+*   [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+*   [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+*   [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+*   [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
 
 Browser
 *   [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
@@ -2866,10 +2887,12 @@ Linux- Other Popular Distributions
 #### More Command Line and Shell
 
 Command Line
+*   [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
 *   [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
 *   [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
 
 Shell
+*   [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
 *   [Secure Shell Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
 *   [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
 
@@ -2965,7 +2988,7 @@ Shard
 #### SQL
 
 SQL
-*   [SQL Wikipedia](http://en.wikipedia.org/wiki/Sql)  
+*   [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
 *   [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
 
 SQLite (RDBMS, written in C)
@@ -3978,7 +4001,7 @@ Linear/Regression (Supervised Learning)
 Statistics- General
 *   [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
 *   [Statistics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
-
+ 
 Probability
 *   [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 *   [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory)  
@@ -5199,6 +5222,7 @@ Accounting
 
 Financial
 *   [Capital Budgeting Wikipedia](https://en.wikipedia.org/wiki/Capital_budgeting)
+*   [Cash Flow Wikipedia](https://en.wikipedia.org/wiki/Cash_flow)
 *   [Cash Flow Forecasting Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_forecasting)
 
 Time Value of Money
@@ -5258,7 +5282,7 @@ Topics
 *   [Business Administration Wikipedia](https://en.wikipedia.org/wiki/Business_administration)
 *   [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
 *   [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
-*   [Financial Markets Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+*   [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
 *   [Corporate Law Wikipedia](https://en.wikipedia.org/wiki/Corporate_law)
 *   [Tax Wikipedia](https://en.wikipedia.org/wiki/Tax)
 
