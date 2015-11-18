@@ -1619,6 +1619,7 @@ Project Documents
 *   [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
 *   [Change Request Wikipedia](https://en.wikipedia.org/wiki/Change_request)
 *   [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
+*   Assumption, Constraint
 
 Product
 *   [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
@@ -2598,6 +2599,10 @@ Great Unsolved Problems in Computer Science
 
 Computing Classification
 *   [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+Computer Classes and Sizes
+*   [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+*   [Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
 
 Binary
 *   [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
