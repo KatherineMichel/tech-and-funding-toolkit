@@ -1215,6 +1215,7 @@ Analyst Groups
 *   [GMO (Jeremy Grantham)](https://www.gmo.com)
 *   [Goldman Sachs Our Thinking](http://www.goldmansachs.com/our-thinking)
 *   [IDC](http://www.idc.com)
+*   [Jana](http://www.jana.com)
 *   [KPMG](http://www.kpmg.com/US/en/Pages/default.aspx)
 *   [McKinsey & Company](http://www.mckinsey.com), [McKinsey & Company Insights](http://www.mckinsey.com/insights), and [McKinsey & Company Insights Technology and Innovation](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation)
 *   [Nielsen](http://www.nielsen.com/us/en.html)
@@ -1233,6 +1234,7 @@ Think Tanks
 *   [Cato Institute Live](http://www.cato.org/live)
 *   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
 *   [Milken Institute](http://www.milkeninstitute.org)
+*   [Paley Center](http://www.paleycenter.org)
 *   [NACUE](http://www.nacue.com)
 *   [Startup Britain Resources](http://www.startupbritain.org/resources)
 
@@ -1600,6 +1602,7 @@ Project Management
 
 Project Documents
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
+*   [Mind Map Wikipedia](http://en.wikipedia.org/wiki/Mind_map)
 *   [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
 *   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
 *   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
@@ -3888,6 +3891,10 @@ Cron
 
 #### Data Science
 
+Data Monetization
+*   [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
+*   [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
+
 Data Scientists
 *   [Andrew Ng](http://en.wikipedia.org/wiki/Andrew_Ng)  
 *   [Clare Corthell](https://github.com/clarecorthell)  
@@ -4381,6 +4388,12 @@ Unstructured Data and Data Structures- General
 *   [Data Structure Wikipedia](http://en.wikipedia.org/wiki/Data_structure)  
 *   [List of Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_data_structures)  
 *   [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
+
+http://en.wikipedia.org/wiki/Raw_data
+http://en.wikipedia.org/wiki/Plain_old_data_structure
+http://en.wikipedia.org/wiki/Concurrent_data_structure
+http://en.wikipedia.org/wiki/Linked_data_structure
+http://en.wikipedia.org/wiki/Persistent_data_structure
 
 Data
 *   [Array Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
