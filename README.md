@@ -343,6 +343,7 @@ Venture Capital Terminology- General
 *   [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
 *   [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
 *   [Carried Interest (Deduction) Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
+*   [Capital Gains Tax Wikipedia](https://en.wikipedia.org/wiki/Capital_gains_tax)
 *   [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
 *   [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
 *   [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
@@ -1616,6 +1617,7 @@ Project Documents
 *   [Organizational Structure Wikipedia](https://en.wikipedia.org/wiki/Organizational_structure)
 *   [Organizational Chart Wikipedia](https://en.wikipedia.org/wiki/Organizational_chart)
 *   [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
+*   [Change Request Wikipedia](https://en.wikipedia.org/wiki/Change_request)
 
 Product
 *   [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
