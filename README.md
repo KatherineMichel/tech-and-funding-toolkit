@@ -1618,6 +1618,7 @@ Project Documents
 *   [Organizational Chart Wikipedia](https://en.wikipedia.org/wiki/Organizational_chart)
 *   [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
 *   [Change Request Wikipedia](https://en.wikipedia.org/wiki/Change_request)
+*   [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
 
 Product
 *   [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
@@ -1640,7 +1641,7 @@ Project Management Associations, Certifications, Frameworks
 *   [Association for Project Management](http://www.apm.org.uk)  
 *   [Project Management Institute](http://www.pmi.org) 
 *   [PRojects IN Controlled Environments](https://www.prince2.com)
-*   [Axelos (Formerly Managing Successful Programmes)](https://www.axelos.com), [Axelos Prince2](https://www.axelos.com/best-practice-solutions/prince2), [Axelos ITIL](https://www.axelos.com/best-practice-solutions/itil), and [Axelos MSP](https://www.axelos.com/best-practice-solutions/msp)
+*   [Axelos (Formerly Managing Successful Programmes)](https://www.axelos.com), [Axelos Prince2](https://www.axelos.com/best-practice-solutions/prince2), [Axelos ITIL](https://www.axelos.com/best-practice-solutions/itil), [ITIL Wikipedia](https://en.wikipedia.org/wiki/ITIL), and [Axelos MSP](https://www.axelos.com/best-practice-solutions/msp)
 *   [CITI](http://www.citi.co.uk)
 *   [COBIT](http://www.isaca.org/cobit/pages/default.aspx) and [COBIT Wikipedia](https://en.wikipedia.org/wiki/COBIT)
 *   [TOGAF](https://www2.opengroup.org/ogsys/catalog/g116)
@@ -2590,6 +2591,7 @@ History of Technology and Computer Science
 *   [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 *   [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
 *   [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+*   [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology)
 
 Great Unsolved Problems in Computer Science
 *   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
@@ -2630,6 +2632,7 @@ Operating Systems
 *   [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
 *   [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
 *   [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+*   [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
 Browser
 *   [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
@@ -2908,7 +2911,7 @@ Command Line
 
 Shell
 *   [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
-*   [Secure Shell Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
+*   [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
 *   [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
 
 Unix Shell
@@ -3577,14 +3580,33 @@ Cookies
 
 #### Mobile
 
+Mobile- General
+*   [Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Mobile_operating_system)  
+*   [Comparison of Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems) 
+
+Mobile Phones- General
+*   [Mobile Phone Companies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_phone_companies_by_country)  
+*   [Mobile Phone Makers by Country Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_phone_makers_by_country) 
+*   [List of Mobile Phone Standards Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_phone_standards)
+*   [Comparison of Mobile Phone Standards Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards)
+*   [Comparison of Smart Phones Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_smartphones)  
+*   [Mobile App Wikipedia](https://en.wikipedia.org/wiki/Mobile_app)
+*   [Mobile Application Development Wikipedia](https://en.wikipedia.org/wiki/Mobile_application_development)
+
+Embedded Operating Systems
+*   [List of Embedded Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems#Embedded)  
 Apple- Swift
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))  
 
 Android
 *   [Android.com](http://www.android.com), [Android GitHub](https://github.com/android), and [Android Wikipedia](http://en.wikipedia.org/wiki/Android_(operating_system))  
+*   [Android Version History](https://en.wikipedia.org/wiki/Android_version_history)
 *   [Android Developer](http://developer.android.com/about/index.html) and [Google Developers Android](https://developers.google.com/android)  
 *   [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
 *   [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
+
+CyanogenMod
+*   [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
 
 IDE
 *   [Eclipse](http://www.eclipse.org) 
