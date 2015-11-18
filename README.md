@@ -2579,8 +2579,15 @@ Computer Scientists
 *   [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 *   [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
-History of Computing
+History of Technology and Computer Science
+*   [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+*   [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
 *   [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+*   [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+*   [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+*   [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+*   [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+*   [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
 
 Great Unsolved Problems in Computer Science
 *   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
@@ -2602,11 +2609,18 @@ Encoding
 *   [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
 
 General Terms
+*   [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
 *   [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
 *   [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
 *   [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
 *   [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
 *   [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
+*   [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
+
+Port
+*   [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+*   [Port Number Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+*   [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
 Operating Systems
 *   [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
@@ -2634,7 +2648,6 @@ HTTP
 TCP-IP and OSI Protocols
 *   [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 *   [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-*   [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 *   [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
 #### Programming Learning Tools
