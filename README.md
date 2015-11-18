@@ -1614,8 +1614,16 @@ Project Documents
 *   [Product Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Product_breakdown_structure)
 *   [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 *   [Organizational Structure Wikipedia](https://en.wikipedia.org/wiki/Organizational_structure)
+*   [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
+
+Product
+*   [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
+*   [Product (Business) Wikipedia](http://en.wikipedia.org/wiki/Product_(business))  
+*   [Product Management Wikipedia](http://en.wikipedia.org/wiki/Product_management)  
+*   [Product Manager Wikipedia](http://en.wikipedia.org/wiki/Product_manager) 
 
 Requirements
+*   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
 *   [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
 *   [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
 *   [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
@@ -1623,6 +1631,7 @@ Requirements
 *   [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
 *   [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
 *   [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
+*   [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
 
 Project Management Associations, Certifications, Frameworks
 *   [Association for Project Management](http://www.apm.org.uk)  
@@ -2142,6 +2151,11 @@ Market
 *   [Market Research Wikipedia](https://en.wikipedia.org/wiki/Market_research)
 *   [Market Segmentation Wikipedia](https://en.wikipedia.org/wiki/Market_segmentation)
 *   [Demography Wikipedia](https://en.wikipedia.org/wiki/Demography)
+
+Strategy
+*   [Strategy Series Wikipedia](http://en.wikipedia.org/wiki/Strategy) 
+*   [Strategic Management Wikipedia](http://en.wikipedia.org/wiki/Strategic_management)  
+*   [Strategic Planning Wikipedia](http://en.wikipedia.org/wiki/Strategic_planning) 
 
 #### Lean Startup and Launchpad
 
@@ -4017,6 +4031,11 @@ Stochastic Calculus, Stochastic Neural Network, Stochastic Gradient Descent (SGD
 *   [Stochastic Process Wikipedia](http://en.wikipedia.org/wiki/Stochastic_process)  
 *   [Stochastic Neural Network Wikipedia](http://en.wikipedia.org/wiki/Stochastic_neural_network)  
 *   [Stochastic Gradient Descent (Used in Machine Learning) Wikipedia](http://en.wikipedia.org/wiki/Stochastic_gradient_descent)  
+
+The Science of Viral (See also Stochastic Calculus)
+*   [Viral Phenomenon Wikipedia](http://en.wikipedia.org/wiki/Viral_phenomenon)  
+*   [Viral Marketing Wikipedia](http://en.wikipedia.org/wiki/Viral_marketing)  
+*   [Viral Marketing Category Wikipedia](http://en.wikipedia.org/wiki/Category:Viral_marketing) 
 
 Artificial Intelligence- General
 *   [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
