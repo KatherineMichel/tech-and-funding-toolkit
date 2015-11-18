@@ -4153,6 +4153,10 @@ Web Crawling and Scraping
 *   [Screen Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping#Screen_scraping)  
 *   [Wrapper (Data Mining) Wikipedia](http://en.wikipedia.org/wiki/Wrapper_(data_mining))  
 
+Graph and Tree Traversal
+*   [Graph Traversal Wikipedia](http://en.wikipedia.org/wiki/Graph_traversal)  
+*   [Tree Traversal Wikipedia](http://en.wikipedia.org/wiki/Tree_traversal) 
+
 Statistical Packages
 *   [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
 *   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
