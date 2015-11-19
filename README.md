@@ -5307,6 +5307,15 @@ Working Capital Management
 *   [Lean manufacturing Wikipedia](https://en.wikipedia.org/wiki/Lean_manufacturing)
 *   [Working Capital Wikipedia](https://en.wikipedia.org/wiki/Working_capital)
 
+Analysis
+*   [Analysis Wikipedia](https://en.wikipedia.org/wiki/Analysis)
+*   [Business Analysis Wikipedia](https://en.wikipedia.org/wiki/Business_analysis)
+*   [Financial Analysis Wikipedia](https://en.wikipedia.org/wiki/Financial_analysis)
+*   [Financial Analyst Wikipedia](https://en.wikipedia.org/wiki/Financial_analyst)
+*   [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
+*   [Quantitative Analyst Wikipedia](https://en.wikipedia.org/wiki/Quantitative_analyst)
+*   [Systems Analysis Wikipedia](https://en.wikipedia.org/wiki/Systems_analysis)
+
 Business Model
 *   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
 *   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
