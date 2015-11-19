@@ -4244,6 +4244,10 @@ Hadoop, Hortonworks Sandbox, Cloudera
 Apache
 *   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
 *   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
+*   [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+*   [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
+*   [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
+*   [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
 
 Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon Web Services)
 *   [MapR Blog](https://www.mapr.com/blog) 
