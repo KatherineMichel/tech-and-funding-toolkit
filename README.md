@@ -4603,6 +4603,7 @@ General Terminology
 *   [Birthday Problem Wikipedia](http://en.wikipedia.org/wiki/Birthday_problem)  
 *   [Fizz Buzz Wikipedia](http://en.wikipedia.org/wiki/Fizz_buzz)  
 *   [Fibonacci Number Wikipedia](http://en.wikipedia.org/wiki/Fibonacci_number)  
+*   [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
 ### Python and Django Toolkit
