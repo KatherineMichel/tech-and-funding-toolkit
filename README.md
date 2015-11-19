@@ -28,8 +28,11 @@ Table of Contents
   - [Learning Resources](#learning-resources)
   - [Events, Talks, People](#events-talks-people)
   - [Books and Courses](#books-and-courses)
+- [Venture Analysis](#venture-analysis)
+  - [Surveys, Trends, Stats](#surveys-trends-stats)
+  - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Project Management](#project-management)
-  - [Project Management Tools](#project-management-tools)
+  - [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
 - [Research and Design Sprints](#research-and-design-sprints)
   - [Basics](#basics)
   - [Government Digital](#government-digital)
@@ -43,9 +46,6 @@ Table of Contents
   - [Labs](#labs)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
-  - [Surveys, Trends, Stats](#surveys-trends-stats)
-  - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-  - [Venture Analysis](#venture-analysis)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 - [Launch and Growth](#lauch-and-growth)
   - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
@@ -1579,9 +1579,102 @@ Unconscious Bias
 Public Speaking
 *     [ToasterMasters](https://www.toastmasters.org)
 
+### Venture Analysis
+
+*   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
+*   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+*   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
+*   [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
+*   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
+*   [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
+*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+*   [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
+*   [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
+
+Idea State Machine and Idea Maze
+*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
+*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
+List
+*   [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
+*   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
+*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
+
+#### Surveys, Trends, Stats
+
+Surveys
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
+*   [SurveyMonkey](https://www.surveymonkey.com)
+*   [Typeform](https://subtraction.typeform.com)
+
+Google Insights and Trends
+*   [Google Insights](http://www.google.com/insights)
+*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
+Apple and Google Statistics
+*   [Apple Store Charts](https://www.apple.com/itunes/charts)
+*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
+
+App and Website Statistics- General
+*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
+*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
+
+Mobile and Browser
+*   [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
+*   [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
+*   [Apple Store](http://store.apple.com/us)
+*   [Chrome Web Store](https://chrome.google.com/webstore)
+*   [Google Play](https://play.google.com)
+*   [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
+*   [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
+*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+*   [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
+*   [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
+
+Product/Service Directories
+*   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+*   [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+Wayback Machine
+*   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
+
+#### Market, Business Models, Pricing, Product Tiers
+  
+Market
+*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
+*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
+*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
+
+Market
+*   [Target Market Wikipedia](https://en.wikipedia.org/wiki/Target_market)
+*   [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
+*   [Market Research Wikipedia](https://en.wikipedia.org/wiki/Market_research)
+*   [Market Segmentation Wikipedia](https://en.wikipedia.org/wiki/Market_segmentation)
+*   [Demography Wikipedia](https://en.wikipedia.org/wiki/Demography)
+
+Business Models
+*   [Business Model Wikipedia](https://en.wikipedia.org/wiki/Business_model)
+*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
+*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
+*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
+*   [Subscription Business Model Wikipedia](https://en.wikipedia.org/wiki/Subscription_business_model)
+*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
+*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
+
+Pricing Strategies
+*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
+
+Product Tiers
+*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
+
 ### Project Management
 
-#### Project Management Tools
+#### Project Management Tools and Software Engineering
 
 Operations, Changement Management, Program Management. Project Management
 *   [Operations Management Wikipedia](https://en.wikipedia.org/wiki/Operations_management)
@@ -1590,53 +1683,11 @@ Operations, Changement Management, Program Management. Project Management
 *   [Project Management Wikipedia](http://en.wikipedia.org/wiki/Project_management)  
 *   [Project Manager Wikipedia](https://en.wikipedia.org/wiki/Project_manager)  
 
-Office
-*   [Front Office Wikipedia](https://en.wikipedia.org/wiki/Front_office)
-*   [Middle Office Wikipedia](https://en.wikipedia.org/wiki/Middle_office)
-*   [Back Office Wikipedia](https://en.wikipedia.org/wiki/Back_office)
-
 Project Management
 *   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics), [Outline of Project Management Wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
-*   [Project Management (Category)Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
+*   [Project Management (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
 *   [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
 *   [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
-
-Project Documents
-*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
-*   [Mind Map Wikipedia](http://en.wikipedia.org/wiki/Mind_map)
-*   [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
-*   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
-*   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
-*   [Work Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Work_breakdown_structure)
-*   [Gantt Chart Wikipedia](https://en.wikipedia.org/wiki/Gantt_chart)
-*   [Schedule (Project Management) Wikipedia](https://en.wikipedia.org/wiki/Schedule_(project_management))
-*   [Project Network Wikipedia](https://en.wikipedia.org/wiki/Project_network)
-*   [Critical Path Method Wikipedia](https://en.wikipedia.org/wiki/Critical_path_method)
-*   [Product Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Product_breakdown_structure)
-*   [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
-*   [Organizational Structure Wikipedia](https://en.wikipedia.org/wiki/Organizational_structure)
-*   [Organizational Chart Wikipedia](https://en.wikipedia.org/wiki/Organizational_chart)
-*   [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
-*   [Change Request Wikipedia](https://en.wikipedia.org/wiki/Change_request)
-*   [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
-*   Assumption, Constraint
-
-Product
-*   [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
-*   [Product (Business) Wikipedia](http://en.wikipedia.org/wiki/Product_(business))  
-*   [Product Management Wikipedia](http://en.wikipedia.org/wiki/Product_management)  
-*   [Product Manager Wikipedia](http://en.wikipedia.org/wiki/Product_manager) 
-
-Requirements
-*   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
-*   [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
-*   [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
-*   [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
-*   [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
-*   [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
-*   [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
-*   [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
-*   [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
 
 Project Management Associations, Certifications, Frameworks
 *   [Association for Project Management](http://www.apm.org.uk)  
@@ -1661,6 +1712,29 @@ Project Management Software
 *   [Slack](https://slack.com) and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
 *   [Trello](https://trello.com)
 
+Agile Project Management Methodologies
+*   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
+*   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
+*   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
+*   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
+*   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
+*   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
+*   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
+*   [Lean IT Wikipedia](http://en.wikipedia.org/wiki/Lean_IT)
+*   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
+*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
+*   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
+*   [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
+*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
+*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
+
+Sprints
+*   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
+*   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
+
+Waterfall Project Management Methodologies
+*   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
+
 Software Project Management
 *   [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
 
@@ -1679,6 +1753,9 @@ Programming and Paradigm
 *   [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 *   [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
+Software Release Life Cycle
+*   [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
 Software Prototyping
 *   [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
 *   [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
@@ -1696,33 +1773,50 @@ Software Testing
 *   [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
 *   [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 
-## Agile Wikipedia
+## Improvement and Documents
 
-Agile Project Management Methodologies
-*   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
-*   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
-*   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
-*   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
-*   [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
-*   [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
-*   [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
-*   [Lean IT Wikipedia](http://en.wikipedia.org/wiki/Lean_IT)
-*   [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
-*   [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
-*   [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-*   [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-*   [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
-*   [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
+Project Documents
+*   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
+*   [Mind Map Wikipedia](http://en.wikipedia.org/wiki/Mind_map)
+*   [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
+*   [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
+*   [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
+*   [Work Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Work_breakdown_structure)
+*   [Gantt Chart Wikipedia](https://en.wikipedia.org/wiki/Gantt_chart)
+*   [Schedule (Project Management) Wikipedia](https://en.wikipedia.org/wiki/Schedule_(project_management))
+*   [Project Network Wikipedia](https://en.wikipedia.org/wiki/Project_network)
+*   [Critical Path Method Wikipedia](https://en.wikipedia.org/wiki/Critical_path_method)
+*   [Product Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Product_breakdown_structure)
+*   [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
+*   [Organizational Structure Wikipedia](https://en.wikipedia.org/wiki/Organizational_structure)
+*   [Organizational Chart Wikipedia](https://en.wikipedia.org/wiki/Organizational_chart)
+*   [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
+*   [Change Request Wikipedia](https://en.wikipedia.org/wiki/Change_request)
+*   [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
+*   Assumption, Constraint
 
-Software Release Life Cycle
-*   [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+Requirements
+*   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
+*   [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
+*   [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
+*   [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
+*   [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
+*   [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
+*   [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
+*   [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
+*   [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
 
-Sprints
-*   [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
-*   [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
+Product
+*   [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
+*   [Product (Business) Wikipedia](http://en.wikipedia.org/wiki/Product_(business))  
+*   [Product Management Wikipedia](http://en.wikipedia.org/wiki/Product_management)  
+*   [Product Manager Wikipedia](http://en.wikipedia.org/wiki/Product_manager) 
 
-Waterfall Project Management Methodologies
-*   [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
+Strategy
+*   [Strategy Series Wikipedia](http://en.wikipedia.org/wiki/Strategy) 
+*   [Strategic Management Wikipedia](http://en.wikipedia.org/wiki/Strategic_management)  
+*   [Strategic Planning Wikipedia](http://en.wikipedia.org/wiki/Strategic_planning) 
+*   [Strategic Partnership Wikipedia](https://en.wikipedia.org/wiki/Strategic_partnership)
 
 Value
 *   [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
@@ -1730,20 +1824,6 @@ Value
 *   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
-
-Improvement Schools of Thought
-*   [Analytical Quality Control Wikipedia](https://en.wikipedia.org/wiki/Analytical_quality_control)
-*   [Continual Improvement Process Wikipedia](https://en.wikipedia.org/wiki/Continual_improvement_process)
-*   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
-*   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
-*   [Capability Maturity Model Integration Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
-*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization) and [Chris Argyris Wikipedia](https://en.wikipedia.org/wiki/Chris_Argyris)
-*   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
-*   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
-*   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
-*   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
-*   [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
-*   [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
 
 Supply Chain
 *   [Supply Chain Wikipedia](https://en.wikipedia.org/wiki/Supply_chain)
@@ -1759,6 +1839,20 @@ Flow Chart
 *   [Flow Process Chart Wikipedia](https://en.wikipedia.org/wiki/Flow_process_chart)
 *   [Flowchart Wikipedia](https://en.wikipedia.org/wiki/Flowchart)
 *   [Workflow Wikipedia](https://en.wikipedia.org/wiki/Workflow)
+
+Improvement Schools of Thought
+*   [Analytical Quality Control Wikipedia](https://en.wikipedia.org/wiki/Analytical_quality_control)
+*   [Continual Improvement Process Wikipedia](https://en.wikipedia.org/wiki/Continual_improvement_process)
+*   [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
+*   [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
+*   [Capability Maturity Model Integration Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
+*   [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization) and [Chris Argyris Wikipedia](https://en.wikipedia.org/wiki/Chris_Argyris)
+*   [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
+*   [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
+*   [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
+*   [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
+*   [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
+*   [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
 
 ### Research and Design Sprints
 
@@ -2078,104 +2172,6 @@ Miscellaneous
 *   [Namium (Name Generator)](http://www.naminum.com)
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-#### Surveys, Trends, Stats
-
-Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
-*   [SurveyMonkey](https://www.surveymonkey.com)
-*   [Typeform](https://subtraction.typeform.com)
-
-Google Insights and Trends
-*   [Google Insights](http://www.google.com/insights)
-*   [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-
-Apple and Google Statistics
-*   [Apple Store Charts](https://www.apple.com/itunes/charts)
-*   [Google Play Top Apps](https://play.google.com/store/apps/top)  
-
-App and Website Statistics- General
-*   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
-*   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
-*   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-*   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
-*   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
-
-Mobile and Browser
-*   [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
-*   [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
-*   [Apple Store](http://store.apple.com/us)
-*   [Chrome Web Store](https://chrome.google.com/webstore)
-*   [Google Play](https://play.google.com)
-*   [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
-*   [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
-*   [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
-*   [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
-*   [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
-
-Product/Service Directories
-*   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-*   [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-Wayback Machine
-*   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
-
-#### Market, Business Models, Pricing, Product Tiers
-  
-Market
-*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
-*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
-*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
-
-Business Models
-*   [Business Model Wikipedia](https://en.wikipedia.org/wiki/Business_model)
-*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
-*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
-*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
-*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
-*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
-
-Pricing Strategies
-*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
-*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
-
-Product Tiers
-*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
-
-#### Venture Analysis
-
-*   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
-*   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
-*   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
-*   [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
-*   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
-*   [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
-*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
-*   [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
-*   [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
-
-Idea State Machine and Idea Maze
-*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
-*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-List
-*   [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
-*   [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
-*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
-
-Market
-*   [Target Market Wikipedia](https://en.wikipedia.org/wiki/Target_market)
-*   [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
-*   [Market Research Wikipedia](https://en.wikipedia.org/wiki/Market_research)
-*   [Market Segmentation Wikipedia](https://en.wikipedia.org/wiki/Market_segmentation)
-*   [Demography Wikipedia](https://en.wikipedia.org/wiki/Demography)
-
-Strategy
-*   [Strategy Series Wikipedia](http://en.wikipedia.org/wiki/Strategy) 
-*   [Strategic Management Wikipedia](http://en.wikipedia.org/wiki/Strategic_management)  
-*   [Strategic Planning Wikipedia](http://en.wikipedia.org/wiki/Strategic_planning) 
-*   [Strategic Partnership Wikipedia](https://en.wikipedia.org/wiki/Strategic_partnership)
 
 #### Lean Startup and Launchpad
 
@@ -2608,6 +2604,11 @@ Computing Classification
 Computer Classes and Sizes
 *   [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
 *   [Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+
+CPU and Instruction Set
+*   [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+*   [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+*   [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
 Binary
 *   [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
@@ -5324,6 +5325,11 @@ Programming
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
 *   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
 *   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
+
+Office
+*   [Front Office Wikipedia](https://en.wikipedia.org/wiki/Front_office)
+*   [Middle Office Wikipedia](https://en.wikipedia.org/wiki/Middle_office)
+*   [Back Office Wikipedia](https://en.wikipedia.org/wiki/Back_office)
 
 Topics
 *   [Wikipedia Portal: Business and Economics](https://en.wikipedia.org/wiki/Portal:Business_and_economics)
