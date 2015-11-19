@@ -4061,6 +4061,9 @@ Roadmaps and Cheat Sheets
 
 Hypothesis
 *   [Inquiry Wikipedia](https://en.wikipedia.org/wiki/Inquiry)
+*   [False Positives and False Negatives (True Positives and True Negatives) Wikipedia](http://en.wikipedia.org/wiki/False_positives_and_false_negatives)
+*   [False Positive Rate Wikipedia](http://en.wikipedia.org/wiki/False_positive_rate)
+*   [Type I aand Type II Errors Wikipedia](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
 
 Mathematics
 *   [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
