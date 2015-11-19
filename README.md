@@ -586,6 +586,7 @@ Companies and Indices
 *   [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
 
 Industry and Product Classifications
+*   [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
 *   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
 *   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
 *   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
@@ -1783,6 +1784,10 @@ Programming and Paradigm
 *   [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 *   [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
+Modeling
+*   [Unified Modeling Language (Series) Wikipedia](http://en.wikipedia.org/wiki/Unified_Modeling_Language)
+*   [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
+
 Software Release Life Cycle
 *   [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
 
@@ -1895,6 +1900,10 @@ User Centered Design, User Experience, Usability
 *   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
 *   [User Experience Design Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 *   [Usability Wikipedia](https://en.wikipedia.org/wiki/Usability_testing)
+
+Use Case
+*   [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
+*   [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 
 Persuasive Technology
 *   [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
@@ -3605,6 +3614,7 @@ Mobile- General
 *   [Comparison of Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems) 
 
 Mobile Phones- General
+*   [History of Mobile Phones Wikipedia](https://en.wikipedia.org/wiki/History_of_mobile_phones) 
 *   [Mobile Phone Companies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_phone_companies_by_country)  
 *   [Mobile Phone Makers by Country Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_phone_makers_by_country) 
 *   [List of Mobile Phone Standards Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_phone_standards)
@@ -4040,6 +4050,9 @@ Roadmaps and Cheat Sheets
 *   [Swami Chandrasekaran: Road to Data Scientist](http://api.ning.com/files/v2lbj4A*dlMuI7BO2vXgjbXm0e78NLOMco1IbpI9fdUKH9Thb3oxWs8MsgCA7nUTU8rwrROiYonP7csIDFOFN9Oa4MPAaqa6/RoadtoDataScientistGraphic.png)
 *   [Scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 *   [Strata Conference Cheat Sheet](https://twitter.com/furukama/status/411986586726064128)
+
+Hypothesis
+*   [Inquiry Wikipedia](https://en.wikipedia.org/wiki/Inquiry)
 
 Mathematics
 *   [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
