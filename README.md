@@ -4240,7 +4240,11 @@ Facebook and Google Research
 
 Facebook, Google, Microsoft Open-Source Machine Learning
 *   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-*   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html)
+*   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
+
+https://github.com/Samsung/veles
+https://github.com/Yelp/paasta
+https://github.com/google/deepdream
 
 *   http://torch.ch 
 *   https://github.com/torch/torch7 
@@ -4899,6 +4903,9 @@ Python- Django- Pinax
 *   [Pinax](http://pinaxproject.com)  
 *   [Pinax GitHub](https://github.com/pinax)  
 *   [Pinax Starter App GitHub](https://github.com/pinax/pinax-starter-app)  
+*   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
+*   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
+*   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
 *   [Pinax Symposium](https://github.com/pinax/symposion)  
 
 Python- Django- Cookiecutter (See also Packages)
@@ -5414,6 +5421,7 @@ Laws, Theories, Logic
 *   [Forcing Function Wikipedia](https://en.wikipedia.org/wiki/Forcing_function)
 *   [Friendship Paradox Wikipedia](https://en.wikipedia.org/wiki/Friendship_paradox)
 *   [God's Algorithm Wikipedia](http://en.wikipedia.org/wiki/God%27s_algorithm)  
+*   [Godwin's Law Wikipedia](https://en.wikipedia.org/wiki/Godwin%27s_Law)
 *   [Goodhart's Law Wikipedia](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 *   [Good Old Days Wikipedia](http://rationalwiki.org/wiki/Good_old_days)   
 *   [Gordian Knot Wikipedia](https://en.wikipedia.org/wiki/Gordian_Knot)
