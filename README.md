@@ -1655,6 +1655,7 @@ App and Website Statistics- General
 *   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
 Mobile and Browser
+*   [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
 *   [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
 *   [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
 *   [Apple Store](http://store.apple.com/us)
@@ -1686,6 +1687,11 @@ Market Analysis
 *   [Market Research Wikipedia](https://en.wikipedia.org/wiki/Market_research)
 *   [Market Segmentation Wikipedia](https://en.wikipedia.org/wiki/Market_segmentation)
 *   [Demography Wikipedia](https://en.wikipedia.org/wiki/Demography)
+
+Horizontal Market, Vertical Market, Vertical Integration
+*   [Horizontal Market Wikipedia](http://en.wikipedia.org/wiki/Horizontal_market)  
+*   [Vertical Market Wikipedia](http://en.wikipedia.org/wiki/Vertical_market)  
+*   [Vertical Integration (Full Stack) Wikipedia](http://en.wikipedia.org/wiki/Vertical_integration)
 
 Business Models
 *   [Business Model Wikipedia](https://en.wikipedia.org/wiki/Business_model)
@@ -1828,7 +1834,7 @@ Project Documents
 *   [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
 *   [Change Request Wikipedia](https://en.wikipedia.org/wiki/Change_request)
 *   [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
-*   Assumption, Constraint
+*   Objective, Assumption, Constraint
 
 Requirements
 *   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
@@ -1842,6 +1848,7 @@ Requirements
 *   [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
 
 Product
+*   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
 *   [Product (Business) Wikipedia](http://en.wikipedia.org/wiki/Product_(business))  
 *   [Product Management Wikipedia](http://en.wikipedia.org/wiki/Product_management)  
@@ -3002,6 +3009,7 @@ Databases
 *   [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
 *   [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
 *   [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+*   [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
 
 Stanford Open Classroom- Introduction to Databases
 *   [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
@@ -5342,7 +5350,6 @@ Business Model
 Entrepreneurship and Intrapreneurship 
 *   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
 *   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
-*   [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
 *   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
 *   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
 *   [Karass](https://en.wiktionary.org/wiki/karass)
