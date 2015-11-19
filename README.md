@@ -1484,7 +1484,7 @@ MOOCs
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 *   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
 *   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#) and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-*   [Harvard University Online Learning](http://online-learning.harvard.edu) 
+*   [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 *   [EdX](https://www.edx.org)  
 *   [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
 *   [Udacity](https://www.udacity.com)
