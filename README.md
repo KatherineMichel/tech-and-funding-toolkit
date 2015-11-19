@@ -1664,14 +1664,18 @@ Project Management Software
 Software Project Management
 *   [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
 
-Software Development Philosophies
+Software Engineering/Development 
+*   [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+*   [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+*   [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
 *   [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
 *   [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
 *   [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
-*   [Software Development Process Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+*   [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
 *   [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
 
-Programming Paradigm
+Programming and Paradigm
+*   [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
 *   [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 *   [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
@@ -1680,6 +1684,7 @@ Software Prototyping
 *   [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
 
 Software Testing
+*   [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
 *   [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
 *   [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
 *   [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
