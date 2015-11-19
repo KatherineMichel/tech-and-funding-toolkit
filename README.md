@@ -34,6 +34,7 @@ Table of Contents
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 - [Project Management](#project-management)
   - [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
+  - [Documents and Improvement](#documents-and-improvement)
 - [Research and Design Sprints](#research-and-design-sprints)
   - [Basics](#basics)
   - [Government Digital](#government-digital)
@@ -1802,7 +1803,7 @@ Software Testing
 *   [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
 *   [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 
-#### Improvement and Documents
+#### Documents and Improvement 
 
 Project Documents
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
