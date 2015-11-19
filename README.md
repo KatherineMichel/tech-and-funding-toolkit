@@ -2926,6 +2926,13 @@ Shell
 *   [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
 *   [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
 
+Integrated Development Environment
+*   [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
+*   [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+
+cURL
+*   [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+
 Unix Shell
 *   [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
 *   [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
@@ -2964,9 +2971,6 @@ Shell/Text Editors
 *   [Orgmode.org/features](http://orgmode.org/features.html)  
 *   [.emacs.d](https://github.com/seshness/.emacs.d)  
 *   [Lighttable](http://www.lighttable.com)  
-
-cURL
-*   [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
 
 #### Servers and Databases
 
@@ -4487,6 +4491,7 @@ Import.io and Kimono Labs
 Unstructured Data and Data Structures- General
 *   [Unstructured Data Wikipedia](http://en.wikipedia.org/wiki/Unstructured_data)  
 *   [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
+*   [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
 *   [Data Structure Wikipedia](http://en.wikipedia.org/wiki/Data_structure)  
 *   [List of Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_data_structures)  
 *   [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
