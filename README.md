@@ -28,6 +28,7 @@ Table of Contents
   - [Learning Resources](#learning-resources)
   - [Events, Talks, People](#events-talks-people)
   - [Books and Courses](#books-and-courses)
+- [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
@@ -46,7 +47,6 @@ Table of Contents
   - [Labs](#labs)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
-- [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 - [Launch and Growth](#lauch-and-growth)
   - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
   - [Launch Strategies](#launch-strategies)
@@ -1579,6 +1579,35 @@ Unconscious Bias
 Public Speaking
 *     [ToasterMasters](https://www.toastmasters.org)
 
+#### Lean Startup and Launchpad
+
+*   [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
+*   [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries)
+*   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
+*   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+*   [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
+*   [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
+*   [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
+*   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+*   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
+*   [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
+*   [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
+*   [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
+*   [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
+*   [Business Model Fiddle](http://bmfiddle.com)
+
+Spinoffs
+*   [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
+*   [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
+*   [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
+*   [Lean Stack](http://leanstack.com/the-lean-stack) and [Lean Stack Diagram](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/leancanvas.png)  
+*   [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
+*   [Minimum Viable Canvas Resources](https://medium.com/minimum-viable-canvas), [Minimum Viable Canvas Intro](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65), [Using the Minimum Viable Canvas](https://medium.com/minimum-viable-canvas/using-the-minimum-viable-canvas-fae7e027cafc), [Minimum Viable Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*PlhNZAMQxiuwPN7TsRV20g.png), and [Minimum Viable Canvas Example](https://d262ilb51hltx0.cloudfront.net/max/800/1*gk40wStd6F-3GkGKO8M_wA.png) 
+*   [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
+*   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
+*   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
+
 ### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
@@ -1649,7 +1678,7 @@ Market
 *   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
 *   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
 
-Market
+Market Analysis
 *   [Target Market Wikipedia](https://en.wikipedia.org/wiki/Target_market)
 *   [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
 *   [Market Research Wikipedia](https://en.wikipedia.org/wiki/Market_research)
@@ -1773,7 +1802,7 @@ Software Testing
 *   [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
 *   [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 
-## Improvement and Documents
+#### Improvement and Documents
 
 Project Documents
 *   [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
@@ -2172,35 +2201,6 @@ Miscellaneous
 *   [Namium (Name Generator)](http://www.naminum.com)
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-#### Lean Startup and Launchpad
-
-*   [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-*   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
-*   [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries)
-*   [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
-*   [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-*   [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
-*   [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
-*   [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
-*   [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-*   [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
-*   [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
-*   [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
-*   [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
-*   [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
-*   [Business Model Fiddle](http://bmfiddle.com)
-
-Spinoffs
-*   [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
-*   [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
-*   [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
-*   [Lean Stack](http://leanstack.com/the-lean-stack) and [Lean Stack Diagram](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/leancanvas.png)  
-*   [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
-*   [Minimum Viable Canvas Resources](https://medium.com/minimum-viable-canvas), [Minimum Viable Canvas Intro](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65), [Using the Minimum Viable Canvas](https://medium.com/minimum-viable-canvas/using-the-minimum-viable-canvas-fae7e027cafc), [Minimum Viable Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*PlhNZAMQxiuwPN7TsRV20g.png), and [Minimum Viable Canvas Example](https://d262ilb51hltx0.cloudfront.net/max/800/1*gk40wStd6F-3GkGKO8M_wA.png) 
-*   [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
-*   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
-*   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
 
 ### Launch and Growth
 
