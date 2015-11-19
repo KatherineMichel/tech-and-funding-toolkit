@@ -167,6 +167,7 @@ U.K.
 *   [Reddit](https://github.com/reddit)  
 *   [Rdio](https://github.com/rdio)  
 *   [Salesforce UX](https://github.com/salesforce-ux)
+*   [Samsung](https://github.com/Samsung)
 *   [SAP](https://github.com/SAP)  
 *   [Scribd](https://github.com/scribd)  
 *   [Shopify](https://github.com/Shopify)  
