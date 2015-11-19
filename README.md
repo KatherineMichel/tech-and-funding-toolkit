@@ -3114,12 +3114,15 @@ Rails, Jekyll- Preferred Templates and Documents
 
 JavaScript
 *   [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
+*   [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+*   [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 *   [JavaScript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 *   [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 *   [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 *   [Eloquent JS](http://eloquentjavascript.net)  
 *   [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 *   [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+*   [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
 
 JavaScript Styleguide GitHub
 *   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
