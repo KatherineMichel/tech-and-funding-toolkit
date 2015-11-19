@@ -51,14 +51,14 @@ U.K.
 *   [Washington Post](https://github.com/washingtonpost)  
 *   [Washington Times](https://github.com/washingtontimes)  
 
-## Big Data Infrastructure
+## Infrastructure (including Big Data)
 *   [Apache](https://github.com/apache)
 *   [Cloudera](https://github.com/cloudera)  
 
 ## Other
 *   [23andMe](https://github.com/23andMe)  
 *   [37Signals](https://github.com/37signals)  
-*   [AddThis](https://github.com/addthis)  
+*   [AddThis](https://github.com/addthis)
 *   [Adobe](https://github.com/adobe)  
 *   [Airbnb](https://github.com/airbnb)  
 *   [Alibaba](https://github.com/alibaba)  
@@ -213,6 +213,7 @@ U.K.
 *   [Wikimedia Deutschland](https://github.com/wmde)  
 *   [Windows Azure](https://github.com/WindowsAzure)  
 *   [Yahoo!](https://github.com/yahoo)  
+*   [Yandex](https://github.com/yandex)  
 *   [Yelp](https://github.com/Yelp)  
 *   [YouTube](https://github.com/youtube)
 *   [Zillow Research](https://github.com/zillow-research)
