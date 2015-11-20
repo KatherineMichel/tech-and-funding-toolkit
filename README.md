@@ -2655,8 +2655,10 @@ General Terms
 
 Port
 *   [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
-*   [Port Number Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+*   [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
 *   [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+*   [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
+*   [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
 
 Operating Systems
 *   [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
