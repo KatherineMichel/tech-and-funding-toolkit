@@ -4300,7 +4300,7 @@ Apache Drill
 *   [Apache Drill](https://drill.apache.org)
 
 Apache Mahout
-*   [Apache Mahout](https://mahout.apache.org) and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
+*   [Apache Mahout](https://mahout.apache.org), [Apache Mahout GitHub](https://github.com/apache/mahout), and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
 *   [Apache Mahout Algorithms](https://mahout.apache.org/users/basics/algorithms.html) 
 
 Social Network Processing
@@ -4506,6 +4506,7 @@ MatLab
 *   [MatLab](http://www.mathworks.com/products/matlab) and [MatLab Wikipedia](http://en.wikipedia.org/wiki/MATLAB) 
 
 Visualization
+*   [GitHub Data Visualization Showcase](https://github.com/showcases/data-visualization)
 *   [D3 GitHub](https://github.com/mbostock/d3)  
 *   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
 
