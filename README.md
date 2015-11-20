@@ -4143,7 +4143,7 @@ The Science of Viral (See also Stochastic Calculus)
 
 Artificial Intelligence- General
 *   [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
-*   [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)  
+*   [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 *   [Artificial Intelligence Category Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
 *   [List of Programming Languages for Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence)  
 *   [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects)  
@@ -4245,9 +4245,10 @@ Open-Source Machine Learning and Infrastructure
 *   [Azure: Machine Learning-Data Science GitHub](https://github.com/Azure/Azure-MachineLearning-DataScience), [Azure: Machine Learning-Client Library Python GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python), and [Azure: Machine Learning-Client Library R GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R)
 *   [Cisco Systems: Cognitive GitHub](https://github.com/CiscoSystems/cognitive)
 *   [Cloudera: ML GitHub](https://github.com/cloudera/ml)
-*   [Cloudera: Oryz GitHub](https://github.com/cloudera/oryx) and [Cloudera: Oryz 2 GitHub](https://github.com/OryxProject/oryx)
+*   [Cloudera: Oryx GitHub](https://github.com/cloudera/oryx) and [Cloudera: Oryx 2 GitHub](https://github.com/OryxProject/oryx)
 *   [EdX: EASE](https://github.com/edx/ease)
-*   [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials)
+*   [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials)
+*   [Facebook: Torch Extension GitHub](https://github.com/facebook/fbtorch), [Facebook: Torch/CUNN Extension GitHub](https://github.com/facebook/fbcunn)
 *   [Google: DeepDream](https://github.com/google/deepdream) 
 *   [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 *   [Microsoft: Distributed Machine Learning Toolkit](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
@@ -4256,9 +4257,6 @@ Open-Source Machine Learning and Infrastructure
 *   [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
 *   [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
-
-*   http://torch.ch/docs/getting-started.html#_  
-*   https://github.com/facebook/fbcunn
 *   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
 *   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
 *   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
