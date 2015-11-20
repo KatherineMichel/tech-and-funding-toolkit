@@ -4247,7 +4247,7 @@ Open-Source Machine Learning and Infrastructure
 *   [Cloudera: ML GitHub](https://github.com/cloudera/ml)
 *   [Cloudera: Oryx GitHub](https://github.com/cloudera/oryx) and [Cloudera: Oryx 2 GitHub](https://github.com/OryxProject/oryx)
 *   [EdX: EASE](https://github.com/edx/ease)
-*   [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials)
+*   [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials), and [Facebook: Torch Cheatsheet GitHub](https://github.com/torch/torch7/wiki/Cheatsheet)
 *   [Facebook: Torch Extension GitHub](https://github.com/facebook/fbtorch), [Facebook: Torch/CUNN Extension GitHub](https://github.com/facebook/fbcunn)
 *   [Google: DeepDream](https://github.com/google/deepdream) 
 *   [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
@@ -4298,7 +4298,6 @@ Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon W
 Apache Shark and Spark
 *   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
 *   [Shark ("Apache Hive on Spark") GitHub](http://shark.cs.berkeley.edu) and [Shark GitHub](https://github.com/amplab/shark)  
-
 Apache Hive and Pig (Provide SQL-like abstractions on top of Hadoop MapReduce layer)
 *   [Apache Hive (Data Warehouse) Wikipedia](http://en.wikipedia.org/wiki/Apache_Hive) and [Apache Hive GitHub](https://github.com/apache/hive)  
 *   [Apache Pig ("A language and compiler to generate Hadoop programs") Wikipedia](http://en.wikipedia.org/wiki/Pig_(programming_tool)) and [Apache Pig GitHub](https://github.com/apache/pig)  
