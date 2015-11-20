@@ -4241,8 +4241,13 @@ Facebook and Google Research
 Open-Source Machine Learning and Infrastructure
 *   [AddThis: Hydra GitHub](https://github.com/addthis/hydra)
 *   [Airbnb: Aerosolve GitHub](https://github.com/airbnb/aerosolve)
+*   [Amazon Web Services: Machine Learning Samples GitHub](https://github.com/awslabs/machine-learning-samples)
+*   [Azure: Machine Learning-Data Science GitHub](https://github.com/Azure/Azure-MachineLearning-DataScience), [Azure: Machine Learning-Client Library Python GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python), and [Azure: Machine Learning-Client Library R GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R)
 *   [Cisco Systems: Cognitive GitHub](https://github.com/CiscoSystems/cognitive)
+*   [Cloudera: ML GitHub](https://github.com/cloudera/ml)
+*   [Cloudera: Oryz GitHub](https://github.com/cloudera/oryx) and [Cloudera: Oryz 2 GitHub](https://github.com/OryxProject/oryx)
 *   [EdX: EASE](https://github.com/edx/ease)
+*   [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials)
 *   [Google: DeepDream](https://github.com/google/deepdream) 
 *   [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 *   [Microsoft: Distributed Machine Learning Toolkit](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
@@ -4251,17 +4256,7 @@ Open-Source Machine Learning and Infrastructure
 *   [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
 *   [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
-https://github.com/awslabs/machine-learning-samples
-https://github.com/Azure/Azure-MachineLearning-DataScience
-https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python
-https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R
-https://github.com/cloudera/ml
-https://github.com/cloudera/oryx
-https://github.com/OryxProject/oryx
 
-*   http://torch.ch 
-*   https://github.com/torch/torch7 
-*   https://github.com/torch/tutorials
 *   http://torch.ch/docs/getting-started.html#_  
 *   https://github.com/facebook/fbcunn
 *   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
