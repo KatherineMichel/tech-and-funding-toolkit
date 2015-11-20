@@ -2043,7 +2043,7 @@ Thoughtbot Version
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
 Google Material Design
-*   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Lite Components](http://www.getmdl.io/components/index.html), [Google Material Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+*   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
 
 Polymer
 *   [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
@@ -4010,7 +4010,7 @@ Data Monetization
 Data Scientists
 *   [Andrew Ng](http://en.wikipedia.org/wiki/Andrew_Ng)  
 *   [Clare Corthell](https://github.com/clarecorthell)  
-*   [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)  
+*   [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
 *   [Daryl Morey](http://en.wikipedia.org/wiki/Daryl_Morey)  
 *   [Drew Conway](http://drewconway.com/zia/?p=2378)  
 *   [Edward Tufte](http://www.edwardtufte.com) and [Edward Tufte](http://www.edwardtufte.com/tufte) 
@@ -4238,16 +4238,30 @@ Facebook and Google Research
 *   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
 *   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
 
-Facebook, Google, Microsoft Open-Source Machine Learning
-*   [TensorFlow (Google)](http://tensorflow.org), [TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-*   [Distributed Machine Learning Toolkit (Microsoft)](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
+Open-Source Machine Learning and Infrastructure
+*   [AddThis: Hydra GitHub](https://github.com/addthis/hydra)
+*   [Airbnb: Aerosolve GitHub](https://github.com/airbnb/aerosolve)
+*   [Cisco Systems: Cognitive GitHub](https://github.com/CiscoSystems/cognitive)
+*   [EdX: EASE](https://github.com/edx/ease)
+*   [Google: DeepDream](https://github.com/google/deepdream) 
+*   [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+*   [Microsoft: Distributed Machine Learning Toolkit](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
+*   [OpenStack: Cognitive (MLaaS) GitHub](https://github.com/openstack/cognitive)
+*   [Samsung: Veles GitHub](https://github.com/Samsung/veles) and [Samsung: Veles GitHub](https://github.com/Samsung/veles.znicz)
+*   [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
+*   [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
-https://github.com/Samsung/veles
-https://github.com/Yelp/paasta
-https://github.com/google/deepdream
+https://github.com/awslabs/machine-learning-samples
+https://github.com/Azure/Azure-MachineLearning-DataScience
+https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python
+https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R
+https://github.com/cloudera/ml
+https://github.com/cloudera/oryx
+https://github.com/OryxProject/oryx
 
 *   http://torch.ch 
 *   https://github.com/torch/torch7 
+*   https://github.com/torch/tutorials
 *   http://torch.ch/docs/getting-started.html#_  
 *   https://github.com/facebook/fbcunn
 *   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
