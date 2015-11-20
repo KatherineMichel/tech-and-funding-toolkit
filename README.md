@@ -1392,7 +1392,7 @@ Companies
 #### Government and International Data
 
 U.S. Departments
-*   [The White House](http://www.whitehouse.gov)
+*   [The White House](http://www.whitehouse.gov) and [The White House Blog](https://www.whitehouse.gov/blog)
 *   [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
 *   [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
 *   [List of Federal Agencies in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States)
@@ -2718,6 +2718,7 @@ Documentation
 *   [IT eBooks](http://it-ebooks.info)
 *   [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 *   [Mozilla](http://mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+*   [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 *   [World Wide Web Consortium Homepage](http://www.w3.org)  
 
 #### GitHub and Markdown
@@ -5461,6 +5462,7 @@ Laws, Theories, Logic
 *   [Parkinson's Law of Triviality (Bikeshedding) Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
 *   [Pattern Matching Wikipedia](https://en.wikipedia.org/wiki/Pattern_matching)
 *   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
+*   [Peto's Paradox Wikipedia](https://en.wikipedia.org/wiki/Peto%27s_paradox)   
 *   [Poe's Law Wikipedia](https://en.wikipedia.org/wiki/Poe%27s_law)
 *   [Prisoner's Dilemma Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
 *   [Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
