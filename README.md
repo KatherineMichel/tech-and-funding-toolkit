@@ -2984,7 +2984,7 @@ Bash and Zsh (Alternative)
 *   [Oh-My-Zsh Wikipedia](https://github.com/robbyrussell/oh-my-zsh/releases)  
 
 Emacs and Vim (Alternative)
-*   [Emacs (Text Editor) GitHub](https://github.com/mirrors/emacs)  
+*   [Emacs (Text Editor) GitHub](https://github.com/emacs-mirror/emacs)  
 *   [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
 *   [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
 *   [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
@@ -3550,7 +3550,6 @@ Google Dev Tools
 
 Google Analytics
 *   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
-
 Google Ads
 *   [Google Ads](http://www.google.com/ads) 
 *   [Google AdMob (Apps)](http://www.google.com/admob)  
