@@ -793,6 +793,7 @@ Labor Law
 Trade Unions
 *   [List of Trade Unions Wikipedia](https://en.wikipedia.org/wiki/List_of_trade_unions)
 *   [List of Trade Unions in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_the_United_States)
+*   [Freelancers Union](https://www.freelancersunion.org/)
 
 Patent Search and FOIA
 *   [U.S. Patent and Trademark Office](http://www.uspto.gov)
@@ -3874,7 +3875,7 @@ ASP
 *   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
 *   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 *   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-*   [Optimizely](https://www.optimizely.com) and [Optimizely A/B Testing](https://www.optimizely.com/ab-testing) 
+*   [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 *   [W3 Mobile Validator](http://validator.w3.org/mobile)
  
 #### More Back-end
