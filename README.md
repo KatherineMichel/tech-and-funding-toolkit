@@ -3099,6 +3099,9 @@ Programming Languages
 *   [Computer Programming/Hello world Wikibooks](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 *   [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
+Hard Coding
+*   [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
+
 Scripting and MVCs
 *   [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 *   [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
