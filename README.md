@@ -4539,6 +4539,9 @@ Visualization
 *   [D3 GitHub](https://github.com/mbostock/d3)  
 *   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
 
+Makerbase
+*   [Metabase](http://www.metabase.com/start) and [Metabase Blog](http://discourse.metabase.com)
+
 RapidMiner (Open Source) and IBM SPSS
 *   [RapidMiner (Open Source)](https://rapidminer.com)
 *   [IBM SPSS](http://www-01.ibm.com/software/analytics/spss) and [IBM SPSS Wikipedia](https://en.wikipedia.org/wiki/SPSS)
