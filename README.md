@@ -3641,6 +3641,7 @@ Cookies
 Mobile- General
 *   [Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Mobile_operating_system)  
 *   [Comparison of Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems) 
+*   [Mobile Software Distribution Platforms Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms) 
 
 Mobile Phones- General
 *   [History of Mobile Phones Wikipedia](https://en.wikipedia.org/wiki/History_of_mobile_phones) 
@@ -3649,8 +3650,10 @@ Mobile Phones- General
 *   [List of Mobile Phone Standards Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_phone_standards)
 *   [Comparison of Mobile Phone Standards Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards)
 *   [Comparison of Smart Phones Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_smartphones)  
+*   [Mobile Web Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_Web) 
 *   [Mobile App Wikipedia](https://en.wikipedia.org/wiki/Mobile_app)
 *   [Mobile Application Development Wikipedia](https://en.wikipedia.org/wiki/Mobile_application_development)
+*   [Mobile Web Analytics Wikipedia](http://en.wikipedia.org/wiki/Mobile_Web_Analytics) 
 
 Embedded Operating Systems
 *   [List of Embedded Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems#Embedded)  
