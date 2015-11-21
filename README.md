@@ -3666,6 +3666,7 @@ Android
 *   [Android Developer](http://developer.android.com/about/index.html) and [Google Developers Android](https://developers.google.com/android)  
 *   [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
 *   [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
+*   [MIT App Inventor](http://appinventor.mit.edu/explore) and [MIT App Inventor Set Up](http://appinventor.mit.edu/explore/ai2/setup.html)
 
 CyanogenMod
 *   [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
@@ -4032,6 +4033,7 @@ Data Monetization
 *   [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
 
 Data Scientists
+*   [Andrej Karpathy GitHub](https://github.com/karpathy)
 *   [Andrew Ng](http://en.wikipedia.org/wiki/Andrew_Ng)  
 *   [Clare Corthell](https://github.com/clarecorthell)  
 *   [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
