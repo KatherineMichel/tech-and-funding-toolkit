@@ -3182,6 +3182,7 @@ jQuery
 
 JavaScript Facebook React
 *   [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 *   [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
 *   [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 *   [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
@@ -4547,7 +4548,8 @@ Visualization
 *   [D3](http://d3js.org) and [D3 GitHub](https://github.com/mbostock/d3)  
 *   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
 
-Makerbase
+Analytics and Dashboards
+*   [Keen Dashboard GitHub](https://github.com/keen/dashboards)
 *   [Metabase](http://www.metabase.com/start) and [Metabase Blog](http://discourse.metabase.com)
 
 RapidMiner (Open Source) and IBM SPSS
