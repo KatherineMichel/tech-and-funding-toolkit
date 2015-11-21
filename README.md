@@ -4542,7 +4542,7 @@ MatLab
 
 Visualization
 *   [GitHub Data Visualization Showcase](https://github.com/showcases/data-visualization)
-*   [D3 GitHub](https://github.com/mbostock/d3)  
+*   [D3](http://d3js.org) and [D3 GitHub](https://github.com/mbostock/d3)  
 *   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
 
 Makerbase
