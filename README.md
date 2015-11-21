@@ -144,6 +144,7 @@ Table of Contents
 *   [Paul Kedrosky](http://paul.kedrosky.com)
 *   [Peter Levine Archives](http://peter.a16z.com/archives)
 *   [Reid Hoffman Slideshare](http://www.slideshare.net/reidhoffman/presentations)
+*   [Richard Branson](http://www.virgin.com/richard-branson)
 *   [Roger Ehrenberg](http://informationarbitrage.com)
 *   [Sam Altman Archive](http://blog.samaltman.com/archive)
 *   [Sam Lessin](http://blog.wlessin.com)
@@ -1484,7 +1485,7 @@ Wikipedia
 MOOCs
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 *   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
-*   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#) and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+*   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
 *   [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 *   [EdX](https://www.edx.org)  
 *   [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
