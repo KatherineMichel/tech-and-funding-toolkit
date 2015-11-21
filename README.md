@@ -443,7 +443,7 @@ Lists of VC Firms and Accelerators
 *   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
 Accelerator, Angel, VC Firm Blogs and Learning Resources
-*   [500 Startups Activity](http://500.co/activity), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
+*   [500 Startups Activity](http://500.co/activity), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
 *   [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
@@ -1042,6 +1042,8 @@ General
 #### Warren Buffet, Charlie Munger, Alphabet
   
 Google and Alphabet
+*   ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
+*   [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
 *   [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
 *   [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
 
@@ -1480,7 +1482,6 @@ International Info
 
 Wikipedia
 *   [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
-*   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 
 MOOCs
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
@@ -1653,6 +1654,7 @@ App and Website Statistics- General
 *   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
 *   [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
 *   [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+*   [Gallup](http://www.gallup.com/home.aspx)
 *   [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 *   [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
@@ -2602,9 +2604,11 @@ Admin, Hiring, Payroll
 
 #### Computer Basics
 
-Computer Scientists
-*   [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-*   [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+Wikipedia Portals
+*   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+
+https://en.wikipedia.org/wiki/Portal:Information_technology
+https://en.wikipedia.org/wiki/Portal:Internet
 
 History of Technology and Computer Science
 *   [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
@@ -2617,6 +2621,10 @@ History of Technology and Computer Science
 *   [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
 *   [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
 *   [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology)
+
+Computer Scientists
+*   [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+*   [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
 Great Unsolved Problems in Computer Science
 *   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
@@ -2721,7 +2729,7 @@ Text Editor and Code Demonstration
 Documentation
 *   [IT eBooks](http://it-ebooks.info)
 *   [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-*   [Mozilla](http://mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+*   [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 *   [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 *   [World Wide Web Consortium Homepage](http://www.w3.org)  
 
@@ -2777,6 +2785,7 @@ GitHub Alternatives
 *   [Codebase](https://www.codebasehq.com)  
 
 Licenses
+*   [GitHub Choose a License](http://choosealicense.com)
 *   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
 *   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
 *   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
