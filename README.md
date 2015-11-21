@@ -1936,7 +1936,6 @@ Australia Government Web Guide (Deprecated)
 Australian Government Department of Finance Archive
 *   [Australian Government Department of Finance Archive](http://www.finance.gov.au/archive)
 *   [Australian Government Department of Finance Archive Better Practice Checklists Guidance](http://www.finance.gov.au/archive/agimo-archive/better-practice-checklists-guidance) and [Australian Government Department of Finance Archive Better Practice Checklists](http://www.finance.gov.au/agimo-archive/better-practice-checklists) 
-
 BBC
 *   [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
 
@@ -2054,7 +2053,7 @@ Polymer
 *   [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
 
 Accelerated Mobile Pages (AMP HTML)
-*   [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html)
+*   [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 *   [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
 #### More Research and Design Toolkits
