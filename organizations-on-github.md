@@ -32,7 +32,9 @@
 *   [Microsoft Azure](https://github.com/azure)
 *   [Windows Azure](https://github.com/WindowsAzure)  
 *   [Mozilla](https://github.com/mozilla)
+*   [PostgreSQL](https://github.com/postgres)
 *   [SAP](https://github.com/SAP) 
+*   [Ubuntu](https://github.com/ubuntu)
 *   [WordPress](https://github.com/WordPress)  
 *   [WordPress Plugins](https://github.com/wp-plugins) 
 
@@ -75,12 +77,14 @@ Not-for-Profit
 
 ## Digital Agency
 *   [Filament Group](https://github.com/filamentgroup) 
+*   [thoughtbot](https://github.com/thoughtbot)
 
 ## Learning
 *   [Code School](https://github.com/codeschool)
 *   [Codecademy](https://github.com/Codecademy)  
 *   [Coursera](https://github.com/coursera)  
 *   [edX](https://github.com/edx)  
+*   [Khan Academy](https://github.com/Khan)
 *   [Udacity](https://github.com/udacity)  
 *   [The World Wide Web Consortium (W3C) ](https://github.com/w3c)  
 *   [W3Schools](https://github.com/w3schools) 
