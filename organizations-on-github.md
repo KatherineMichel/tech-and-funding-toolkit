@@ -198,6 +198,7 @@ Not-for-Profit
 *   [New Relic](https://github.com/newrelic)  
 *   [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu)  
 *   [OpenStack](https://github.com/openstack)  
+*   [Patreon](https://github.com/patreon)  
 *   [PayPal](https://github.com/paypal)  
 *   [Photobucket](https://github.com/photobucket)  
 *   [Pinterest](https://github.com/pinterest)  
