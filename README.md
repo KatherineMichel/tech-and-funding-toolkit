@@ -4054,13 +4054,15 @@ Mining Massive Datasets (Stanford)
 
 Data Science Websites
 *   [AnalyticBridge](http://www.analyticbridge.com)
-*   [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science)
 *   [Data Science Central](http://www.datasciencecentral.com)
 *   [DataTau (The "Hacker News" of Data Science)](http://www.datatau.com)
 *   [Get Topical: Big Data](http://gettopical.com/bigdata)
 *   [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
 *   [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
 *   [Deep Learning News (The "Hacker News" of Deep Learning)](http://news.startup.ml)
+
+Booz Allen Hamilton Resources
+*   [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science)
 
 Kaggle
 *   [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
