@@ -1370,6 +1370,7 @@ Aggregated News Sources
 
 Eccentric
 *   [Brain Pickings](https://www.brainpickings.org)
+*   [Freakonomics](http://freakonomics.com)
 *   [Marginal Revolution](http://marginalrevolution.com)
 *   [Praxtime](http://praxtime.com)
 *   [Priceonomics](http://priceonomics.com)
