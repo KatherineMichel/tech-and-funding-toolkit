@@ -73,6 +73,9 @@ Not-for-Profit
 *   [Wikimedia](https://github.com/wikimedia)  
 *   [Wikimedia Deutschland](https://github.com/wmde) 
 
+## Digital Agency
+*   [Filament Group](https://github.com/filamentgroup) 
+
 ## Learning
 *   [Code School](https://github.com/codeschool)
 *   [Codecademy](https://github.com/Codecademy)  
@@ -158,7 +161,6 @@ Not-for-Profit
 *   [Expa](https://github.com/expa)
 *   [Fasholista](https://github.com/Fashiolista)
 *   [FiftyThree](https://github.com/fiftythree)
-*   [Filament Group](https://github.com/filamentgroup)  
 *   [Flickr](https://github.com/flickr)  
 *   [Flipboard](https://github.com/flipboard)
 *   [Flipkart](https://github.com/flipkart)
