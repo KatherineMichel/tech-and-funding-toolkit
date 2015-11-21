@@ -104,6 +104,7 @@ Not-for-Profit
 *   [Five Thirty Eight](https://github.com/fivethirtyeight) 
 *   [Freedom of Press](https://github.com/freedomofpress) 
 *   [FT Labs](https://github.com/ftlabs)
+*   [Grasswire](https://github.com/grasswire)  
 *   [Guardian](https://github.com/guardian)  
 *   [Huffington Post](https://github.com/huffingtonpost)  
 *   [Huffington Post Data](https://github.com/huffpostdata)  
@@ -123,6 +124,7 @@ Not-for-Profit
 *   [Washington Times](https://github.com/washingtontimes)  
 
 ## Other
+*   [3D Robotics](https://github.com/3drobotics)
 *   [23andMe](https://github.com/23andMe)  
 *   [AddThis](https://github.com/addthis)
 *   [Adobe](https://github.com/adobe)  
