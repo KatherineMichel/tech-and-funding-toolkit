@@ -2198,7 +2198,7 @@ Bootstrap, Font Awesome, Foundation
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
 *   [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-*   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+*   [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 *   [Zurb Library](http://zurb.com/library)
 
 Good, Basic Templates, Themes
@@ -4280,6 +4280,10 @@ Open-Source Machine Learning and Infrastructure
 *   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
 *   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
 *   https://www.facebook.com/Engineering/posts/10152495827632200
+
+Andrej Karpathy
+*   [NeuralTalk2 GitHub](https://github.com/karpathy/neuraltalk2)  
+*   [NeuralTalk GitHub](https://github.com/karpathy/neuraltalk) 
 
 Lambda Architecture
 *   [Lambda Architecture](http://lambda-architecture.net)  
