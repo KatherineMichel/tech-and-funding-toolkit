@@ -2708,6 +2708,7 @@ Programming and Math Learning Tools
 *   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
 *   [Learn Code the Hard Way](http://learncodethehardway.org)  
 *   [Codecademy](http://www.codecademy.com)  
+*   [CodePath GitHub](https://github.com/codepath)
 *   [Code.org](https://code.org)
 *   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
 *   [Kano Playground](http://art.kano.me/playground)
