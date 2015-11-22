@@ -5313,20 +5313,21 @@ Google
 Awesome
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+*   [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
 *   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
 *   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
 *   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 *   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
 *   [Awesome Django GitHub](https://github.com/rosarior/awesome-django)  
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
-*   [Awesome React](https://github.com/enaqx/awesome-react)
-*   [Awesome React Native](https://github.com/jondot/awesome-react-native)
-*   [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+*   [Awesome React GitHub](https://github.com/enaqx/awesome-react)
+*   [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
+*   [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
 
 Awesome Data Science
 *   [Awesome Data Science GitHub](https://github.com/okulbilisim/awesome-datascience)  
 *   [Awesome Big Data GitHub](https://github.com/onurakpolat/awesome-bigdata)  
-*   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
 *   [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
 
 Book Lists
