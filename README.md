@@ -2212,7 +2212,7 @@ Good, Basic Templates, Themes
 *   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero GitHub](https://github.com/iatek/bootstrap-zero) 
 *   [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
 *   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
-*   [Start Bootstrap](http://startbootstrap.com) and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
+*   [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 
 Kickstarters
 *   [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
@@ -2295,7 +2295,7 @@ Tools
 Journalism Handbooks
 *   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
 *   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
-*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf)
+*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
 
 Journalism Style Guides 
 *   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
@@ -5325,6 +5325,7 @@ Google
 *   [Makerbook](http://makerbook.net)
 *   [Marketing Stack](http://marketingstack.io)
 *   [Stacklist](http://stacklist.com)
+*   [Startup Resources](http://startupresources.io)
 *   [Startup Stash](http://startupstash.com)
 
 Awesome
