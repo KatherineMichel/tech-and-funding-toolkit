@@ -2997,10 +2997,9 @@ Windows PowerShell
 *   [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
 *   [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell) 
 
-Shell/Text Editors
+Shell/Text Editors (See also Visual Studio)
 *   [Sublime Text Editor](http://www.sublimetext.com)
 *   [Atom GitHub](ttps://github.com/atom/atom)
-*   [VisualStudio](http://www.visualstudio.com/en-us)  
 *   [Textmate](http://macromates.com)  
 *   [XCode](https://developer.apple.com/xcode)  
 *   [Orgmode.org](http://orgmode.org)  
@@ -3859,7 +3858,7 @@ Node Forks
 *   [IO.js GitHub](https://github.com/iojs/io.js)  
 *   [JXCore](http://jxcore.com/home) 
 
-#### .NET and ASP
+#### .NET, ASP, Visual Studio
 
 .NET
 *   [Microsoft.github.io](http://microsoft.github.io)  
@@ -3871,6 +3870,13 @@ ASP
 *   [ASP](http://www.asp.net), [ASP Downloads](http://www.asp.net/downloads), [ASP Home GitHub](https://github.com/aspnet/Home), [ASP Docs](http://docs.asp.net), and [ASP Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP Docker GitHub](https://github.com/aspnet/aspnet-docker)
 *   [Heroku ASP Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+
+Visual Studio
+*   [Visual Studio](http://www.visualstudio.com/en-us)  
+*   [Visual Studio Code](https://code.visualstudio.com)  
+*   [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+*   [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
+*   [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
 
 #### Testing and Performance
 
