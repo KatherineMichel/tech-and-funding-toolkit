@@ -2201,6 +2201,7 @@ Bootstrap, Font Awesome, Foundation
 *   [Zurb Library](http://zurb.com/library)
 
 Good, Basic Templates, Themes
+*   [Template Stash](http://www.templatestash.com)
 *   [HTML5 UP](http://html5up.net) 
 *   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero GitHub](https://github.com/iatek/bootstrap-zero) 
