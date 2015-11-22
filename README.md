@@ -42,7 +42,7 @@ Table of Contents
   - [Google Ventures Design Sprint](#google-ventures-design-sprint)
   - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
   - [Google Design Sprint](#google-design-sprint)
-  - [Google Design Approach](#google-design-approach)
+  - [Facebook and Google Design Approach](#facebook-and-google-design-approach)
   - [More Research and Design Toolkits](#more-research-and-design-toolkits) 
   - [Design](#design)
   - [Labs](#labs)
@@ -2038,8 +2038,12 @@ Thoughtbot Version
 *   [Google New Form Factors Design Sprint](https://developers.google.com/design-sprint/new-form-factors) and [PDF](https://developers.google.com/design-sprint/downloads/DesignSprint-NewFormFactors.pdf), [Android Wear Flow](https://developers.google.com/design-sprint/downloads/DesignSprint-AndroidWearFlow.pdf) and [Presentation](https://docs.google.com/presentation/d/1rPGOnfRmIxXiJmGaC_2FYt_bBTR8Euu15U2kNU3auQk/edit#slide=id.p4)
 *   [Android Wear Creative Vision](https://developer.android.com/design/wear/creative-vision.html), and [Android Wear Principles](https://developer.android.com/design/wear/principles.html)
 
-#### Google Design Approach
+#### Facebook and Google Design Approach
 
+Facebook
+*   [Facebook Design](http://facebook.github.io/design) 
+
+Google
 *   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
 *   [Google Roboto GitHub](https://github.com/google/roboto) 
 *   [Google Design Resources](https://design.google.com/resources)  
