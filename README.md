@@ -3515,6 +3515,7 @@ Apple- Devices
 *   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
 Apple- More
+*   [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
 *   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
 *   [Xcode](https://developer.apple.com/xcode) 
@@ -5017,6 +5018,7 @@ National Geospatial-Intelligence Agency (Python- Django)
 *   [GeoEvents for Deployers and First Responders GitHub](https://github.com/ngageoint/geoevents)  
 
 OpenStack (Python- Django)
+*   [OpenStack OpenStack GitHub](https://github.com/openstack/openstack)  
 *   [OpenStack Horizon GitHub](https://github.com/openstack/horizon)  
 *   [OpenStack Wikipedia](http://en.wikipedia.org/wiki/OpenStack)  
 
