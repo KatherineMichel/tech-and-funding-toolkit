@@ -4074,8 +4074,9 @@ Data Science Websites
 *   [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
 *   [Deep Learning News (The "Hacker News" of Deep Learning)](http://news.startup.ml)
 
-Booz Allen Hamilton Resources
-*   [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science)
+ANalyst Group Resources
+*   [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
+*   [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
 
 Kaggle
 *   [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
@@ -4090,6 +4091,7 @@ Roadmaps and Cheat Sheets
 *   [Data Science Central: A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms)
 *   [Dlib Machine Learning Guide](http://dlib.net/ml_guide.svg) and [Paper](http://jmlr.csail.mit.edu/papers/volume10/king09a/king09a.pdf)
 *   [Emanuel Ferm: Cheat Sheet: Algorithms for Supervised- and Unsupervised Learning](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
+*   [Frank Dai: Machine Learning Cheat Sheet GitHub](https://github.com/soulmachine/machine-learning-cheat-sheet)
 *   [Jason Brownlee: Algorithms Mindmap](https://s3.amazonaws.com/MLMastery/MachineLearningAlgorithms.png?__s=6wybvntmcsiscppxscmb)
 *   [Laura Diane Hamilton: Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet)
 *   [mln.io: Machine Learning Periodic Table](http://www.mln.io/resources/periodic-table)
