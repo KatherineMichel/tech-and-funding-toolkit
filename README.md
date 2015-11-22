@@ -2206,6 +2206,7 @@ Bootstrap, Font Awesome, Foundation
 
 Good, Basic Templates, Themes
 *   [Template Stash](http://www.templatestash.com)
+*   [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
 *   [HTML5 UP](http://html5up.net) 
 *   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero GitHub](https://github.com/iatek/bootstrap-zero) 
@@ -4298,6 +4299,7 @@ Open-Source Machine Learning and Infrastructure
 *   [EdX: EASE](https://github.com/edx/ease)
 *   [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials), and [Facebook: Torch Cheatsheet GitHub](https://github.com/torch/torch7/wiki/Cheatsheet)
 *   [Facebook: Torch Extension GitHub](https://github.com/facebook/fbtorch), [Facebook: Torch/CUNN Extension GitHub](https://github.com/facebook/fbcunn)
+*   [Twitter Torch Autograd GitHub](https://github.com/twitter/torch-autograd)
 *   [Google: DeepDream](https://github.com/google/deepdream) 
 *   [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 *   [Google: TensorFlow Scikit Flow GitHub](https://github.com/google/skflow) and [Introduction to Scikit Flow and why you want to start learning TensorFlow](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.1bodcv3y9)
@@ -4572,7 +4574,7 @@ Visualization
 
 Analytics and Dashboards
 *   [Keen Dashboard GitHub](https://github.com/keen/dashboards)
-*   [Metabase](http://www.metabase.com/start) and [Metabase Blog](http://discourse.metabase.com)
+*   [Metabase](http://www.metabase.com/start), [Metabase Blog](http://discourse.metabase.com), and [Metabase GitHub](https://github.com/metabase/metabase)
 
 RapidMiner (Open Source) and IBM SPSS
 *   [RapidMiner (Open Source)](https://rapidminer.com)
