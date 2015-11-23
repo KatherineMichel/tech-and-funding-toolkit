@@ -230,6 +230,7 @@ Not-for-Profit
 *   [Stack Exchange](https://github.com/stackexchange)  
 *   [Storify](https://github.com/storify)  
 *   [Stripe](https://github.com/stripe)  
+*   [StyleSeat GitHub](https://github.com/styleseat) 
 *   [SurveyMonkey](https://github.com/surveymonkey)  
 *   [Swipely](https://github.com/swipely)  
 *   [Taobao](https://github.com/taobao)  
