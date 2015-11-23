@@ -4955,7 +4955,8 @@ Python- Django- Major Organizations and Projects that Use Django
 *   [Reddit GitHub](https://github.com/reddit)  
 *   [StyleSeat GitHub](https://github.com/styleseat)  
 
-Python- Django- Official Website and Code
+Python- Django- Python and Django Official Websites and Code
+*   [Python](https://www.python.org) and [Python GitHub](https://github.com/python/pythondotorg)
 *   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
 Django Girls (Python- Django)
 *   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
@@ -4966,11 +4967,17 @@ Django Girls (Python- Django)
 *   [Django Girls Coach](http://coach.djangogirls.org)  
 *   [Django Girls Resources](https://github.com/DjangoGirls/resources)  
 
+Django Carrots (Python- Django)
+*   [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
+
 Bootcamp (Python- Django)
 *   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
 *   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
 *   [Woid GitHub](https://github.com/vitorfs/woid)
 *   [Bloodhound GitHub](https://github.com/vitorfs/bloodhound)
+
+Django Hackathon Starter (Python- Django)
+*   [Django Hackathon Starter GitHub](https://github.com/DrkSephy/django-hackathon-starter) 
 
 Python- Django- Pinax
 *   [Pinax](http://pinaxproject.com)  
@@ -5012,7 +5019,7 @@ EdX (Python- Django (Also Ruby))
 *   [EdX Platform Github](https://github.com/edx/edx-platform)  
 
 Elle (Python- Django)
-*   [Ella CMS GitHub](https://github.com/ella/ella)  
+*   [Ella CMS (deprecated) GitHub](https://github.com/ella/ella)  
 
 Gov Track (Python- Django)
 *   [Gov Track](https://www.govtrack.us)  
