@@ -28,13 +28,14 @@ Project Management and Tools
 *   [Kindle Cloud Reader](https://read.amazon.com)
 *   [Amazon Wishlist](http://www.amazon.com/gp/registry/wishlist)
 
-GitHub Searches
-*   [Django](https://github.com/search?utf8=%E2%9C%93&q=django)
-*   [Python](https://github.com/search?utf8=%E2%9C%93&q=python)
-*   [Golang](https://github.com/search?utf8=%E2%9C%93&q=golang)
-*   [React](https://github.com/search?utf8=%E2%9C%93&q=react)
-*   [Lambda](https://github.com/search?utf8=%E2%9C%93&q=lambda)
-*   [TensorFlow](https://github.com/search?utf8=%E2%9C%93&q=tensorflow)
+Twitter and GitHub Searches
+*   [Twitter: gitHub.com](https://twitter.com/search?q=github.com&src=typd)
+*   [GitHub: django](https://github.com/search?utf8=%E2%9C%93&q=django)
+*   [GitHub: python](https://github.com/search?utf8=%E2%9C%93&q=python)
+*   [GitHub: golang](https://github.com/search?utf8=%E2%9C%93&q=golang)
+*   [GitHub: react](https://github.com/search?utf8=%E2%9C%93&q=react)
+*   [GitHub: lambda](https://github.com/search?utf8=%E2%9C%93&q=lambda)
+*   [GitHub: tensorflow](https://github.com/search?utf8=%E2%9C%93&q=tensorflow)
 
 Sprints
 *   [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
