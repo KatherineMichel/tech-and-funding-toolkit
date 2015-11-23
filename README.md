@@ -4799,6 +4799,9 @@ Python- Django- Digital Ocean Deployment
 *   [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
 *   [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
 
+Python- Django- OpenShift Deployment
+*   [OpenShift Django Example GitHub](https://github.com/openshift/django-example)  
+
 Python- Django- Random SECRET_KEY
 *   [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
 
@@ -4950,14 +4953,12 @@ Python- Django- Major Organizations and Projects that Use Django
 *   [Pinterest GitHub](https://github.com/pinterest)  
 *   [Rdio GitHub](https://github.com/rdio)  
 *   [Reddit GitHub](https://github.com/reddit)  
+*   [StyleSeat GitHub](https://github.com/styleseat)  
 
 Python- Django- Official Website and Code
-*   [Django Project](https://www.djangoproject.com)  
-*   [Django Project GitHub](https://github.com/django/djangoproject.com)  
-
+*   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
 Django Girls (Python- Django)
-*   [Django Girls](http://djangogirls.org)  
-*   [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
+*   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
 *   [Django Girls Tutorial](http://tutorial.djangogirls.org)  
 *   [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
 *   [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
@@ -4968,6 +4969,8 @@ Django Girls (Python- Django)
 Bootcamp (Python- Django)
 *   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
 *   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
+*   [Woid GitHub](https://github.com/vitorfs/woid)
+*   [Bloodhound GitHub](https://github.com/vitorfs/bloodhound)
 
 Python- Django- Pinax
 *   [Pinax](http://pinaxproject.com)  
@@ -5019,7 +5022,8 @@ LA Times Datadesk Project Template (Python- Django)
 *   [LA Times Datadesk](http://www.latimes.com/local/datadesk)  
 *   [LA Times Datadesk Project Template GitHub](https://github.com/datadesk/django-project-template)  
 
-Mozilla Bedrock, FunFactory and Playdoh + Others (Python- 1/2 Django)
+Mozilla Sugardough, Bedrock, FunFactory and Playdoh + Others (Python- 1/2 Django)
+*   [Sugardough GitHub](https://github.com/mozilla/sugardough) 
 *   [Bedrock GitHub](https://github.com/mozilla/bedrock)  
 *   [FunFactory GitHub](https://github.com/mozilla/funfactory)  
 *   [PlayDoh GitHub](https://github.com/mozilla/playdoh)  
