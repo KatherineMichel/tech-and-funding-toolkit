@@ -6,6 +6,7 @@
 *   [AWS](https://github.com/aws)  
 *   [AWS Labs](https://github.com/awslabs)  
 *   [Apache](https://github.com/apache)
+*   [Automattic](https://github.com/Automattic) 
 *   [Basecamp](https://github.com/basecamp)
 *   [Chef](https://github.com/chef)
 *   [Cloudera](https://github.com/cloudera)  
