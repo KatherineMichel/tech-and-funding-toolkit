@@ -3423,11 +3423,6 @@ Nitrous (IDE)
 *   [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 *   [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
-Docker
-*   [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
-*   [Docker GitHub](https://github.com/docker/docker)  
-*   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
-
 Cross Platform Dev Environment
 *   [Bowery](http://bowery.io)  
 *   [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
@@ -3437,6 +3432,34 @@ Content Delivery Network
 *   [MAXCDN](https://www.maxcdn.com) 
 
 #### Dev Ops Tools
+
+Docker
+*   [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
+*   [Docker GitHub](https://github.com/docker/docker)  
+*   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
+
+Ansible and Salt (Automation and Configuration Management)
+*   [Ansible Deployment](http://www.ansible.com)  
+*   [Ansible GitHub](https://github.com/ansible/ansible)  
+*   [Salt Docs](http://docs.saltstack.com/en/latest/contents.html)  
+*   [Salt Formulas](http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html)  
+*   [Salt Django Formula GitHub](https://github.com/saltstack-formulas/django-formula)  
+
+VMware, Vagrant, VirtualBox
+*   [VMware](http://www.vmware.com)  
+*   [VMware Wikipedia](http://en.wikipedia.org/wiki/VMware)  
+*   [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
+*   [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
+*   [VagrantCloud](https://vagrantcloud.com)  
+*   [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
+*   [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox)  
+
+Chef and Puppet Labs
+*   [Chef GitHub](https://github.com/chef/chef)  
+*   [BBC News Chef Cookbooks GitHub](https://github.com/BBC-News/chef-cookbooks)  
+*   [Puppet Labs GitHub](https://github.com/puppetlabs/puppet)  
+*   [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
+*   [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
 #### Designer and Developer General
 
@@ -3938,13 +3961,6 @@ Jenkins CI and Travis CI (Continuous Integration), and PhantomJS (Testing, Autom
 *   [PhantomJS](http://phantomjs.org)  
 *   [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
 
-Ansible and Salt (Automation and Configuration Management)
-*   [Ansible Deployment](http://www.ansible.com)  
-*   [Ansible GitHub](https://github.com/ansible/ansible)  
-*   [Salt Docs](http://docs.saltstack.com/en/latest/contents.html)  
-*   [Salt Formulas](http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html)  
-*   [Salt Django Formula GitHub](https://github.com/saltstack-formulas/django-formula)  
-
 Selenium (Automated Testing)
 *   [SeleniumHQ](http://www.seleniumhq.org)  
 *   [SeleniumHQ Docs](http://www.seleniumhq.org/docs)  
@@ -3983,22 +3999,6 @@ Distributed and Parallel Computing
 *   [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
 *   [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
 *   [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing)  
-
-VMware, Vagrant, VirtualBox
-*   [VMware](http://www.vmware.com)  
-*   [VMware Wikipedia](http://en.wikipedia.org/wiki/VMware)  
-*   [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
-*   [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
-*   [VagrantCloud](https://vagrantcloud.com)  
-*   [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
-*   [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox)  
-
-Chef and Puppet Labs
-*   [Chef GitHub](https://github.com/opscode/chef)  
-*   [BBC News Chef Cookbooks GitHub](https://github.com/BBC-News/chef-cookbooks)  
-*   [Puppet Labs GitHub](https://github.com/puppetlabs/puppet)  
-*   [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
-*   [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
 Erlang
 *   [Erlang](http://www.erlang.org/)  
