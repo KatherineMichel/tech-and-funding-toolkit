@@ -3433,6 +3433,9 @@ Content Delivery Network
 
 #### Dev Ops Tools
 
+Python- Fabric
+*   [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric)  
+
 Docker
 *   [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 *   [Docker GitHub](https://github.com/docker/docker)  
@@ -4737,8 +4740,6 @@ Python- Microframeworks and Template Engines
 *   [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
 *   [Flask](http://flask.pocoo.org)  
 *   [Flask GitHub](https://github.com/mitsuhiko/flask)  
-*   [Fabric](http://www.fabfile.org)  
-*   [Fabric GitHub](https://github.com/fabric/fabric)  
 
 Python- Django
 *   [Django](https://www.djangoproject.com)  
