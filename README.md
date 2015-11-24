@@ -4426,6 +4426,12 @@ Hadoop, MongoDB, and ElasticSearch
 *   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
 *   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop) 
 
+Python- Package Platforms
+*   [Anaconda](https://store.continuum.io/cshop/anaconda)  
+*   [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
+*   [Canopy](https://www.enthought.com/products/canopy)  
+*   [Canopy Package List](https://www.enthought.com/products/canopy/package-index)  
+
 Python- Statistics Stack- Documents and Galleries
 *   [SciPy Stack](http://www.scipy.org/docs.html)  
 *   [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
