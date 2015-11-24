@@ -3436,17 +3436,13 @@ Content Delivery Network
 Python- Fabric
 *   [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric)  
 
+Python- kubernetes
+*   [kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)  
+
 Docker
 *   [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 *   [Docker GitHub](https://github.com/docker/docker)  
 *   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
-
-Ansible and Salt (Automation and Configuration Management)
-*   [Ansible Deployment](http://www.ansible.com)  
-*   [Ansible GitHub](https://github.com/ansible/ansible)  
-*   [Salt Docs](http://docs.saltstack.com/en/latest/contents.html)  
-*   [Salt Formulas](http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html)  
-*   [Salt Django Formula GitHub](https://github.com/saltstack-formulas/django-formula)  
 
 VMware, Vagrant, VirtualBox
 *   [VMware](http://www.vmware.com)  
@@ -3455,11 +3451,27 @@ VMware, Vagrant, VirtualBox
 *   [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
 *   [VagrantCloud](https://vagrantcloud.com)  
 *   [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
-*   [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox)  
+*   [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox) 
 
-Chef and Puppet Labs
+Ansible (Automation and Configuration Management)
+*   [Ansible Deployment](http://www.ansible.com)  
+*   [Ansible GitHub](https://github.com/ansible/ansible)  
+*   [Ansible Playbooks](http://docs.ansible.com/ansible/playbooks.html)
+*   [Ansible AWS](http://www.ansible.com/aws)
+
+Salt (Automation and Configuration Management)
+*   [salt GitHub](https://github.com/saltstack)
+*   [Salt Docs](http://docs.saltstack.com/en/latest/contents.html)  
+*   [Salt Formulas](http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html)  
+
+Python- Django- Salt
+*   [Salt Django Formula GitHub](https://github.com/saltstack-formulas/django-formula)  
+
+Chef
 *   [Chef GitHub](https://github.com/chef/chef)  
 *   [BBC News Chef Cookbooks GitHub](https://github.com/BBC-News/chef-cookbooks)  
+
+Puppet Labs
 *   [Puppet Labs GitHub](https://github.com/puppetlabs/puppet)  
 *   [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
 *   [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
