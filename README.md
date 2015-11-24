@@ -4963,6 +4963,7 @@ Python- Django- Major Organizations and Projects that Use Django (in addition to
 *   [Instagram GitHub](https://github.com/instagram)  
 *   [Knight Foundation](http://www.knightfoundation.org/apps)  
 *   [National Geographic GitHub](https://github.com/natgeo)  
+*   [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
 *   [PBS GitHub](https://github.com/pbs)  
 *   [Pinterest GitHub](https://github.com/pinterest)  
 *   [Rdio GitHub](https://github.com/rdio)  
