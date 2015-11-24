@@ -5002,11 +5002,13 @@ Django Hackathon Starter (Python- Django)
 Python- Django- Pinax
 *   [Pinax](http://pinaxproject.com)  
 *   [Pinax GitHub](https://github.com/pinax)  
-*   [Pinax Starter App GitHub](https://github.com/pinax/pinax-starter-app)  
+*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
 *   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
 *   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
 *   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
 *   [Pinax Symposium](https://github.com/pinax/symposion)  
+
+https://github.com/pinax/django-user-accounts
 
 Python- Django- Cookiecutter (See also Packages)
 *   [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django )
