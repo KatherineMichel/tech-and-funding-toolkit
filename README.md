@@ -2212,7 +2212,7 @@ Good, Basic Templates, Themes
 *   [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
 *   [HTML5 UP](http://html5up.net) 
 *   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-*   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero GitHub](https://github.com/iatek/bootstrap-zero) 
+*   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
 *   [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
 *   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
 *   [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
