@@ -4597,6 +4597,9 @@ Analytics and Dashboards
 *   [Keen Dashboard GitHub](https://github.com/keen/dashboards)
 *   [Metabase](http://www.metabase.com/start), [Metabase Blog](http://discourse.metabase.com), and [Metabase GitHub](https://github.com/metabase/metabase)
 
+*   [StatsD (Etsy) GitHub](https://github.com/etsy/statsd)  
+*   [StatsDaemon (Bitly) GitHub](https://github.com/bitly/statsdaemon) 
+
 RapidMiner (Open Source) and IBM SPSS
 *   [RapidMiner (Open Source)](https://rapidminer.com)
 *   [IBM SPSS](http://www-01.ibm.com/software/analytics/spss) and [IBM SPSS Wikipedia](https://en.wikipedia.org/wiki/SPSS)
@@ -4975,6 +4978,11 @@ Python- Django- Major Organizations and Projects that Use Django
 Python- Django- Python and Django Official Websites and Code
 *   [Python](https://www.python.org) and [Python GitHub](https://github.com/python/pythondotorg)
 *   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
+Python- Django- Django Product Websites
+*   [Django Sites GitHub](https://github.com/rossp/djangosites.org)
+*   [Django Packages GitHub](https://github.com/pydanny/djangopackages)
+*   [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
+
 Django Girls (Python- Django)
 *   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
 *   [Django Girls Tutorial](http://tutorial.djangogirls.org)  
