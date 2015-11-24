@@ -3190,7 +3190,7 @@ jQuery
 
 JavaScript Facebook React
 *   [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
-*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+*   [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
 *   [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
 *   [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 *   [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
@@ -3521,6 +3521,7 @@ Built With (Exluding Django)
 *   [Built with Bootstrap](http://expo.getbootstrap.com)  
 *   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
 *   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 *   [Squarespace (Website Examples)](http://www.squarespace.com) 
 
 Code Search
