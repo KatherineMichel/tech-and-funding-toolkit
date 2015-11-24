@@ -4549,7 +4549,7 @@ Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 *   [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
 
 Python- Natural Language Toolkit
-*   [Natural Language Toolkit](http://www.nltk.org)  
+*   [Natural Language Toolkit](http://www.nltk.org) and [Natural Language Toolkit GitHub](https://github.com/nltk/nltk)
 
 Python- Web Crawling and Scraping
 *   [Scrapy](http://scrapy.org) and [Scrapy GitHub](http://doc.scrapy.org/en/latest/intro/overview.html#what-else) 
