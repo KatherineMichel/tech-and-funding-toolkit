@@ -4774,7 +4774,8 @@ Python- Django- Packages
 *   [Django Packages](https://www.djangopackages.com)  
 *   [Django Packages GitHub](https://github.com/pydanny/djangopackages)  
 
-Python- Django- Creating Packages
+Python and Django- Creating Packages
+*   [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
 *   [Cookiecutter PyPackage](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
 *   [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
 *   [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
