@@ -1446,6 +1446,7 @@ International Organizations Special Reports: Business and Competitiveness
 *   [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
 *   [World Economic Forum Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2015)
 *   [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
+*   [World Economic Forum Global Gender Gap Report](http://reports.weforum.org/global-gender-gap-report-2015)
 
 International Organizations Special Reports: Development
 *   [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
