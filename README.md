@@ -28,6 +28,7 @@ Table of Contents
   - [Learning Resources](#learning-resources)
   - [Events, Talks, People](#events-talks-people)
   - [Books and Courses](#books-and-courses)
+- [STEM and STEAM](#stem-and-steam)
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
@@ -1585,6 +1586,8 @@ Unconscious Bias
 
 Public Speaking
 *     [ToasterMasters](https://www.toastmasters.org)
+
+#### STEM and STEAM
 
 #### Lean Startup and Launchpad
 
