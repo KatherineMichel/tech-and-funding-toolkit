@@ -3175,12 +3175,14 @@ JavaScript
 *   [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 *   [Eloquent JS](http://eloquentjavascript.net)  
 *   [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
-*   [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-*   [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
 
 JavaScript Styleguide GitHub
 *   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 *   [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)  
+
+AJAX
+*   [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+*   [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
 
 jQuery
 *   [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery)  and [jQuery GitHub](https://github.com/jquery/jquery)  
@@ -3199,6 +3201,9 @@ JavaScript Facebook React
 *   [Facebook Relay GitHub](https://github.com/facebook/relay)
 *   [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 *   [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
+
+Babel (JavaScript)
+*   [Babel GitHub](https://github.com/babel/babel)
 
 Golang, otherwise known as "Go"
 *   [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
@@ -5374,7 +5379,7 @@ Awesome
 *   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
 *   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 *   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-*   [Awesome Django GitHub](https://github.com/rosarior/awesome-django)  
+*   [Awesome Django GitLab (Deprecated)](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django)  
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
 *   [Awesome React GitHub](https://github.com/enaqx/awesome-react)
 *   [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
