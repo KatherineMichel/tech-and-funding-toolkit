@@ -3129,14 +3129,12 @@ Miscellaneous Programming Languages
 *   [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
 *   [Julia GitHub](https://github.com/JuliaLang/julia)  
 *   [Hack](http://hacklang.org) and [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
-*   [Haskell](http://www.haskell.org/haskellwiki/Haskell)  
-*   [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language))  
-*   [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
+*   [Haskell](http://www.haskell.org/haskellwiki/Haskell), [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language)), and [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
 *   [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
 *   [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
 *   [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
 *   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
-*   [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Swift GitHub](https://github.com/apple/swift)
+*   [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Swift GitHub](https://github.com/apple/swift), [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
 
 Ruby
 *   [Ruby](https://www.ruby-lang.org/en/)  
