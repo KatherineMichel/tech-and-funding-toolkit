@@ -3123,10 +3123,8 @@ Miscellaneous Programming Languages
 *   [C++ Wikibook Wikipedia](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
 *   [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
 *   [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)  
-*   [Clojure GitHub](https://github.com/clojure/clojure)  
-*   [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
-*   [Dart](https://www.dartlang.org)  
-*   [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
+*   [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
+*   [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
 *   [Angular Dart GitHub](https://github.com/angular/angular.dart)  
 *   [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
 *   [Julia GitHub](https://github.com/JuliaLang/julia)  
@@ -3135,10 +3133,10 @@ Miscellaneous Programming Languages
 *   [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language))  
 *   [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
 *   [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
-*   [OCaml](http://ocaml.org)  
-*   [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
+*   [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
 *   [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
 *   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
+*   [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Swift GitHub](https://github.com/apple/swift)
 
 Ruby
 *   [Ruby](https://www.ruby-lang.org/en/)  
@@ -3252,12 +3250,13 @@ PHP- Laravel- Preferred Templates and Documents
 *   [Laravel 4 Bootstrap Starter Site GitHub](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)  
 *   [Laravel 4 Generators GitHub](https://github.com/JeffreyWay/Laravel-4-Generators)  
 
-PHP- Wordpress- Preferred Templates and Documents
-*   [Wordpress.org](https://wordpress.org)  
-*   [Wordpress GitHub](https://github.com/WordPress/WordPress)  
-*   [Wordpress.com](https://wordpress.com)  
-*   [Wordpress Plugins](http://www.pluginmirror.com/plugins)  
-*   [Wordpress MTV Github](https://github.com/newsapps/wordpress-mtv)  
+Node.js/PHP- WordPress- Preferred Templates and Documents
+*   [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
+*   [WordPress.org](https://wordpress.org)  
+*   [WordPress GitHub](https://github.com/WordPress/WordPress)  
+*   [WordPress.com](https://wordpress.com)  
+*   [WordPress Plugins](http://www.pluginmirror.com/plugins)  
+*   [WordPress MTV Github](https://github.com/newsapps/wordpress-mtv)  
 *   [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
 *   [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
 *   [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
@@ -5133,7 +5132,7 @@ Stanford University Library
 
 #### Node
 
-Preferred Non-official Templates
+Preferred Non-official Templates (See also WordPress)
 *   [Hackathon-Starter GitHub](https://github.com/sahat/hackathon-starter)  
 *   [Satellizer GitHub](https://github.com/sahat/satellizer)  
 *   [Hackathon-Starter Companion- JS Recipes (Example Website) GitHub](https://github.com/sahat/jsrecipes)  
