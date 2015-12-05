@@ -1,6 +1,6 @@
 # My Work and Links
 
-Check Daily
+New
 *   [GitHub Explore](https://github.com/explore)
 *   [Makerbase Explore](https://makerba.se/explore)
 *   [Product Hunt](https://www.producthunt.com)
@@ -9,6 +9,7 @@ Check Daily
 *   Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
 *   [Reddit Technology Top](https://www.reddit.com/r/technology/top)
 *   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel/lists)
+*   [Feedly](https://feedly.com)
 
 Professional/Portfolio
 *   [GitBook Profile](http://katherinemichel.gitbooks.io) and [GitBook CMS](https://www.gitbook.com/book/katherinemichel)
