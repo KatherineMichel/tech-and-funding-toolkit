@@ -10,14 +10,30 @@
 *   Template Tags and Filters
 *   QuerySet/Field Lookups
 
+## DevOps
+*   DB
+*   Postgres
+*   Test
+*   Cache
+
 ## Additional
+*   Sites
 *   Admin
 *   Shortcuts
 *   Auth
-*   Flatpages
-*   Forms
-*   Email
 *   Timezone and TZInfo
+*   Flatpages, Sitemap
+*   Forms, Fields
+*   Email
+*   Files
 *   Paginator
+*   Feed Generator, Syndication
+*   Translation
+*   Geo
+*   Encoding
+*   ContentTypes
+*   Six
+*   Mixins
+   
 
 
