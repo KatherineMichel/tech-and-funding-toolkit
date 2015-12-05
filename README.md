@@ -527,8 +527,7 @@ Federal Opportunities and Funding
 #### Company and Product Databases
 
 Database List
-*   [AngelList](https://angel.co)
-*   [Betalist](http://betalist.com)
+*   [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
 *   [CB Insights](https://www.cbinsights.com)
 *   [CrunchBase](http://www.crunchbase.com)
 *   [Datafox](http://www.datafox.co)
@@ -653,7 +652,6 @@ Associations
 
 Special Rules- via AngelList
 *   [SEC No Action Relief Letter](http://www.sec.gov/divisions/marketreg/mr-noaction/2013/angellist-15a1.pdf)
-*   [AngelList Help](https://angel.co/help)
 *   [AngelList Accreditation](https://angel.co/help/accreditation) and [AngelList API / Accreditation](https://angel.co/api/spec/accreditation)
 *   [AngelList General Solicitation (Public Fundraising) 506(c)](https://angel.co/help/general-solicitation)
 *   K-1 Form (Syndicates)
