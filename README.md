@@ -5534,6 +5534,7 @@ Laws, Theories, Logic
 *   [Echo Chamber Wikipedia](http://en.wikipedia.org/wiki/Echo_chamber_%28media%29)  
 *   [Ephemeralization Wikipedia](http://en.wikipedia.org/wiki/Ephemeralization)  
 *   Eroom's Law
+*   [False Dilemma (Dichotomy) Wikipedia](https://en.wikipedia.org/wiki/False_dilemma)
 *   [False Positive Wikipedia](http://en.wikipedia.org/wiki/False_positive)  
 *   [Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
 *   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
