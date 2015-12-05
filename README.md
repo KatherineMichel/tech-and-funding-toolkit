@@ -3216,7 +3216,10 @@ Golang, otherwise known as "Go"
 *   [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
 *   [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 
-Golang, otherwise known as "Go"- Frameworks
+Golang Installation
+*   [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
+
+Golang- Frameworks
 *   [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
 *   [Gin GitHub](https://github.com/gin-gonic/gin) 
 *   [Martini GitHub](https://github.com/go-martini/martini)
