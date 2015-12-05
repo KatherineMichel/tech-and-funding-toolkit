@@ -4,7 +4,18 @@
 *   Settings
 *   Global URLs 
 *   URLs
-*   Templates/Includes 
-*   Models
 *   Views
+*   Models
+*   Templates/Includes 
+*   Template Tags and Filters
+
+## Additional
+*   Admin
+*   Auth
+*   Flatpages
+*   Forms
+*   Email
+*   Timezone and TZInfo
+*   Paginator
+
 
