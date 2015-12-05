@@ -1,16 +1,18 @@
 # Django Project Outline
 
 ## Workflow
-*   Settings
+*   Settings/Modules, Middleware
 *   Global URLs 
 *   URLs
 *   Views
-*   Models
-*   Templates/Includes 
+*   Models (In Module, Class)
+*   Templates/Includes, Static Files
 *   Template Tags and Filters
+*   QuerySet/Field Lookups
 
 ## Additional
 *   Admin
+*   Shortcuts
 *   Auth
 *   Flatpages
 *   Forms
