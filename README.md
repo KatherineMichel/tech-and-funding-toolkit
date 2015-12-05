@@ -3353,6 +3353,9 @@ GitHub, AWS, Heroku Deployment
 *   [Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
 *   [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
 
+AWS Deployment/Staging- Virtual Private Networks
+*   [Virtual Private Clouds](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html) and [Virtual Private Clouds Wikipedia](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud)  
+
 GitHub, Heroku, AWS SSH and SSH Keys
 *   [GitHub SSH](https://github.com/settings/ssh)  
 *   [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
