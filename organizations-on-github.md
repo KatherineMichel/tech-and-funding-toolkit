@@ -81,6 +81,7 @@ Not-for-Profit
 *   [Wikimedia Deutschland](https://github.com/wmde) 
 
 ## Digital Agency
+*   [ElevenYellow](https://github.com/elevenyellow)
 *   [Filament Group](https://github.com/filamentgroup) 
 *   [thoughtbot](https://github.com/thoughtbot)
 
