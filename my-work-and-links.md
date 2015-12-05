@@ -1,9 +1,11 @@
 # My Work and Links
 
-New
+Daily
 *   [GitHub Explore](https://github.com/explore)
-*   [Makerbase Explore](https://makerba.se/explore)
 *   [Product Hunt](https://www.producthunt.com)
+*   [Makerbase Explore](https://makerba.se/explore)
+
+News
 *   [Hacker News](https://news.ycombinator.com)
 *   [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (Custom Feeds)](http://nuzzel.com/KatiMichel/customfeeds)
 *   Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
@@ -19,6 +21,10 @@ Professional/Portfolio
 *   [SlideShare](http://www.slideshare.net/KatiMichel)
 *   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel/lists)
 *   [Web Site](http://katherinemichel.github.io) and [Blog](http://katherinemichel.github.io/blog) 
+
+Individual Projects/Sprints
+*   [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
+*   [Tech and Venture Capital Toolkit](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit)
 
 Project Management and Tools
 *   [Asana](https://app.asana.com/0/31099737955561/31099737955561)
@@ -37,12 +43,6 @@ Twitter and GitHub Searches
 *   [GitHub: react](https://github.com/search?utf8=%E2%9C%93&q=react)
 *   [GitHub: lambda](https://github.com/search?utf8=%E2%9C%93&q=lambda)
 *   [GitHub: tensorflow](https://github.com/search?utf8=%E2%9C%93&q=tensorflow)
-
-Sprints
-*   [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
-
-More Resources
-*   [Tech and Venture Capital Toolkit](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit)
 
 Language
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
