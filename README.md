@@ -3286,7 +3286,11 @@ PHP- Wordpress- Popular Themes
 
 WordPress Development
 *   [Wordpress Contributing](http://codex.wordpress.org/Contributing_to_WordPress)  
-*   [Wordpress Good First Bugs](https://core.trac.wordpress.org/tickets/good-first-bugs)  
+*   [Wordpress: Good First Bugs](https://core.trac.wordpress.org/tickets/good-first-bugs)  
+
+WordPress Translation
+*   [Wordpress Translate](https://translate.wordpress.org)  
+*   [Wordpress Translators Team](https://make.wordpress.org/polyglots) 
 
 Wikitech Development
 *   [Wikipedia Development](https://www.mediawiki.org/wiki/Category:MediaWiki_Development)  
