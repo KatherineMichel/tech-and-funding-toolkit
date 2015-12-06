@@ -13,6 +13,16 @@ News
 *   [Twitter](https://twitter.com/KatiMichel) and [Twitter Lists](https://twitter.com/KatiMichel/lists)
 *   [Feedly](https://feedly.com)
 
+Searches
+*   [Django Sites](https://www.djangosites.org)
+*   [Twitter: gitHub.com](https://twitter.com/search?q=github.com&src=typd)
+*   [GitHub: django](https://github.com/search?utf8=%E2%9C%93&q=django)
+*   [GitHub: python](https://github.com/search?utf8=%E2%9C%93&q=python)
+*   [GitHub: golang](https://github.com/search?utf8=%E2%9C%93&q=golang)
+*   [GitHub: react](https://github.com/search?utf8=%E2%9C%93&q=react)
+*   [GitHub: lambda](https://github.com/search?utf8=%E2%9C%93&q=lambda)
+*   [GitHub: tensorflow](https://github.com/search?utf8=%E2%9C%93&q=tensorflow)
+
 Professional/Portfolio
 *   [GitBook Profile](http://katherinemichel.gitbooks.io) and [GitBook CMS](https://www.gitbook.com/book/katherinemichel)
 *   [GitHub](https://github.com/KatherineMichel)
@@ -34,15 +44,6 @@ Project Management and Tools
 *   [Slack](https://katherinemichel.slack.com)
 *   [Kindle Cloud Reader](https://read.amazon.com)
 *   [Amazon Wishlist](http://www.amazon.com/gp/registry/wishlist)
-
-Twitter and GitHub Searches
-*   [Twitter: gitHub.com](https://twitter.com/search?q=github.com&src=typd)
-*   [GitHub: django](https://github.com/search?utf8=%E2%9C%93&q=django)
-*   [GitHub: python](https://github.com/search?utf8=%E2%9C%93&q=python)
-*   [GitHub: golang](https://github.com/search?utf8=%E2%9C%93&q=golang)
-*   [GitHub: react](https://github.com/search?utf8=%E2%9C%93&q=react)
-*   [GitHub: lambda](https://github.com/search?utf8=%E2%9C%93&q=lambda)
-*   [GitHub: tensorflow](https://github.com/search?utf8=%E2%9C%93&q=tensorflow)
 
 Language
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
