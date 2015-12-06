@@ -16,6 +16,7 @@ News
 Searches
 *   [Django Sites](https://www.djangosites.org)
 *   [Twitter: gitHub.com](https://twitter.com/search?q=github.com&src=typd)
+*   [Twitter: django or djangoframework](https://twitter.com/search?src=typd&q=django%20OR%20djangoframework)
 *   [GitHub: django](https://github.com/search?utf8=%E2%9C%93&q=django)
 *   [GitHub: python](https://github.com/search?utf8=%E2%9C%93&q=python)
 *   [GitHub: golang](https://github.com/search?utf8=%E2%9C%93&q=golang)
