@@ -4989,7 +4989,7 @@ Python- Django- Major Organizations and Projects that Use Django (in addition to
 *   [StyleSeat GitHub](https://github.com/styleseat)  
 
 Python- Django- Python and Django Official Websites and Code
-*   [Python](https://www.python.org) and [Python GitHub](https://github.com/python/pythondotorg)
+*   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
 *   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
 Python- Django- Django Product Websites
 *   [Django Sites GitHub](https://github.com/rossp/djangosites.org)
