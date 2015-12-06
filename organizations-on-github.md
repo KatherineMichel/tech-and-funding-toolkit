@@ -16,6 +16,7 @@
 *   [Couchbase Labs](https://github.com/couchbaselabs)  
 *   [Digital Ocean](https://github.com/digitalocean)
 *   [Docker](https://github.com/docker)
+*   [Docker Library](https://github.com/docker-library)
 *   [Facebook](https://github.com/facebook)  
 *   [Facebook Archive](https://github.com/facebookarchive)  
 *   [Facebook Platform Samples](https://github.com/fbsamples) 
