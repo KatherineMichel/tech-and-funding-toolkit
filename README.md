@@ -3399,10 +3399,12 @@ Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure 
 *   [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
 *   [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
 
-Heroku- Buildpacks (Other than Node.js and Python)
+Heroku- Buildpacks and Getting Started (Other than Node.js and Python)
 *   [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
 *   [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
 *   [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
+*   [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
+*   [Heroku Go Getting Started GitHub](hhttps://github.com/heroku/go-getting-started) 
 
 Heroku Multiple Environments and Site Staging
 *   [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
