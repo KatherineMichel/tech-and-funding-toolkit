@@ -66,6 +66,7 @@ U.K. Government
 Not-for-Profit
 *   [Be My Eyes](https://github.com/bemyeyes)
 *   [CKAN](https://github.com/CKAN) 
+*   [Harvard Art Museums](https://github.com/harvardartmuseums)
 *   [Internet Archive](https://github.com/internetarchive)  
 *   [Library of Congress](https://github.com/LibraryofCongress)
 *   [Open Library](https://github.com/openlibrary)  
