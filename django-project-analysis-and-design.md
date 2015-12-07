@@ -21,7 +21,8 @@ Guidance
 
 ## Django
 
-TemplateView.as_view vs. include()
+*   TemplateView.as_view vs. include() (Models)
+*   Base, Index
 
 Django Workflow
 *   Settings/Modules, Middleware
