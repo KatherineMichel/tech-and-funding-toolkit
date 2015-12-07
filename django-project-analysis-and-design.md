@@ -1,4 +1,7 @@
-# Django Project Outline
+# Django Project Analysis and Design
+
+Guidance
+*   [Zed Shaw: Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
 
 ## Workflow
 *   Settings/Modules, Middleware
