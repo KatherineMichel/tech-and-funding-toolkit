@@ -21,6 +21,8 @@ Guidance
 
 ## Django
 
+TemplateView.as_view vs. include()
+
 Django Workflow
 *   Settings/Modules, Middleware
 *   Global URLs 
