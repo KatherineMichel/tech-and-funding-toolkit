@@ -3,7 +3,11 @@
 Guidance
 *   [Zed Shaw: Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
 
-## Workflow
+## Common Views
+
+## Django
+
+Django Workflow
 *   Settings/Modules, Middleware
 *   Global URLs 
 *   URLs
@@ -13,13 +17,13 @@ Guidance
 *   Template Tags and Filters
 *   QuerySet/Field Lookups
 
-## DevOps
+DevOps
 *   DB
 *   Postgres
 *   Test
 *   Cache
 
-## Additional
+Additional
 *   Sites
 *   Admin
 *   Shortcuts
