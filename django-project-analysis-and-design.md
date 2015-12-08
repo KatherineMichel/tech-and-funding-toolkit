@@ -28,6 +28,7 @@ Object-Oriented Programming
 
 *   TemplateView.as_view vs. include() (Models)
 *   Base, Index
+*   admin.site.register(models.Model)
 
 Generic Views (pk, not id)
 *   DetailView file name = <app name>/<model name>_detail.html
