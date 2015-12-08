@@ -26,16 +26,13 @@ Object-Oriented Programming
 *   Object, Object-Relational Mapper
 *   Instances, Related Objects
 
-*   TemplateView.as_view vs. include() (Models)
+Template Inheritance
 *   Base, Index
-*   admin.site.register(models.Model)
-*   model.attribute = output value
-*   . also for dictionary-key lookup, index lookup, function calls
-
-Base: {% load staticfiles %}
-Non-Base: {% extends "base.html" %}
+*   Base: {% load staticfiles %}
+*   Non-Base: {% extends "base.html" %}
 
 Generic Views (pk, not id)
+*   TemplateView.as_view vs. include() (Models)
 *   DetailView file name = <app name>/<model name>_detail.html
 *   ListView file name = <app name>/<model name>_list.html
 
@@ -48,6 +45,8 @@ Django Workflow
 *   Models (In Module, Class)
 *   DIRS, Templates/Includes, Static Files
 *   Template Tags and Filters (filter value of variable), Humanization
+*   Variable: model.attribute = output value
+*   . also for dictionary-key lookup, index lookup, function calls
 *   QuerySet/Field Lookups/Lookup Expressions
 
 DevOps
@@ -60,7 +59,7 @@ DevOps
 
 Additional
 *   Sites
-*   Admin
+*   Admin: admin.site.register(models.Model)
 *   Auth
 *   Timezone, TZInfo, Internationalization, Localization, Translation
 *   Flatpages, Sitemap
