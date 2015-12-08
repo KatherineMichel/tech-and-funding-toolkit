@@ -29,6 +29,8 @@ Object-Oriented Programming
 *   TemplateView.as_view vs. include() (Models)
 *   Base, Index
 *   admin.site.register(models.Model)
+*   model.attribute = output value
+*   . also for dictionary-key lookup, index lookup, function calls
 
 Generic Views (pk, not id)
 *   DetailView file name = <app name>/<model name>_detail.html
@@ -42,7 +44,7 @@ Django Workflow
 *   Class Based-Views, Built-In Views
 *   Models (In Module, Class)
 *   DIRS, Templates/Includes, Static Files
-*   Template Tags and Filters, Humanization
+*   Template Tags and Filters (filter value of variable), Humanization
 *   QuerySet/Field Lookups/Lookup Expressions
 
 DevOps
