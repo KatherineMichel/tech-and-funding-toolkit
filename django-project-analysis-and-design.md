@@ -8,11 +8,6 @@ Guidance
 *   [Google Search: Website Functionality Checklists](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8#q=website+functionality+checklist)
 *   [Google Search: Website Functional Specification](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8#q=example+website+functional+specification)
 
-Object-Oriented Programming
-*   Class
-*   Object
-*   Instances, Related Objects
-
 ## Requirements
 *   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
 *   [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
@@ -25,6 +20,11 @@ Object-Oriented Programming
 *   [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
 
 ## Django
+
+Object-Oriented Programming
+*   Class
+*   Object, Object-Relational Mapper
+*   Instances, Related Objects
 
 *   TemplateView.as_view vs. include() (Models)
 *   Base, Index
