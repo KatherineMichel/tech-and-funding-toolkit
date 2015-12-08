@@ -68,6 +68,7 @@ Not-for-Profit
 *   [CKAN](https://github.com/CKAN) 
 *   [Harvard Art Museums](https://github.com/harvardartmuseums)
 *   [Internet Archive](https://github.com/internetarchive)  
+*   [Knight-Mozilla OpenNews](https://github.com/OpenNews)
 *   [Library of Congress](https://github.com/LibraryofCongress)
 *   [Open Library](https://github.com/openlibrary)  
 *   [NASA](https://github.com/nasa) 
