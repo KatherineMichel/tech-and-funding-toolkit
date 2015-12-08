@@ -32,6 +32,9 @@ Object-Oriented Programming
 *   model.attribute = output value
 *   . also for dictionary-key lookup, index lookup, function calls
 
+Base: {% load staticfiles %}
+Non-Base: {% extends "base.html" %}
+
 Generic Views (pk, not id)
 *   DetailView file name = <app name>/<model name>_detail.html
 *   ListView file name = <app name>/<model name>_list.html
