@@ -24,6 +24,10 @@ Guidance
 *   TemplateView.as_view vs. include() (Models)
 *   Base, Index
 
+Generic Views (pk, not id)
+*   DetailView file name = <app name>/<model name>_detail.html
+*   ListView file name = <app name>/<model name>_list.html
+
 Django Workflow
 *   Settings/Modules, Middleware
 *   Global URLs 
