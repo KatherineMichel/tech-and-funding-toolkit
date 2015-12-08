@@ -36,12 +36,12 @@ Generic Views (pk, not id)
 
 Django Workflow
 *   Settings/Modules, Middleware
-*   Global URLs, URLconfs, Shortcuts, Requests, Responses, Redirects
+*   Global URLs, URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
 *   URLs
 *   Decorators
 *   Class Based-Views, Built-In Views
 *   Models (In Module, Class)
-*   Templates/Includes, Static Files
+*   DIRS, Templates/Includes, Static Files
 *   Template Tags and Filters, Humanization
 *   QuerySet/Field Lookups/Lookup Expressions
 
