@@ -11,6 +11,7 @@ Guidance
 Object-Oriented Programming
 *   Class
 *   Object
+*   Instances, Related Objects
 
 ## Requirements
 *   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
@@ -34,39 +35,43 @@ Generic Views (pk, not id)
 
 Django Workflow
 *   Settings/Modules, Middleware
-*   Global URLs 
+*   Global URLs, URLconfs, Shortcuts, Requests, Responses, Redirects
 *   URLs
-*   Requests and Responses
-*   Views
+*   Decorators
+*   Class Based-Views, Built-In Views
 *   Models (In Module, Class)
 *   Templates/Includes, Static Files
-*   Template Tags and Filters
-*   QuerySet/Field Lookups
+*   Template Tags and Filters, Humanization
+*   QuerySet/Field Lookups/Lookup Expressions
 
 DevOps
 *   DB
 *   Postgres
+*   Migrations
 *   Test
-*   Cache
+*   Cache, Sessions
+*   API
 
 Additional
 *   Sites
 *   Admin
-*   Shortcuts
 *   Auth
-*   Timezone and TZInfo
+*   Timezone, TZInfo, Internationalization, Localization, Translation
 *   Flatpages, Sitemap
-*   Forms, Fields
+*   Forms, Fields, Widgets
 *   Email
 *   Files
 *   Paginator
 *   Feed Generator, Syndication
-*   Translation
+*   Content Types
+*   CSV/PDF
 *   Geo
 *   Encoding
 *   ContentTypes
 *   Six
 *   Mixins
+*   Clickjacking Protection, Cross Site Request Forgery Protection, Cryptographic Signing
+*   Jython
    
 
 
