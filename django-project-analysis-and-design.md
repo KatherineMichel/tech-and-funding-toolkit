@@ -77,6 +77,7 @@ mapping template variable names to Python objects."
 dictionary as its optional third argument. It returns an HttpResponse object of the given template rendered with
 the given context."
 *   get_list_or_404()/filter(), get_object_or_404()/get()
+*   for loop = method call
 *   Template Tags and Filters (filter value of variable), Humanization
 *   Variable: model.attribute = output value
 *   . also for dictionary-key lookup, index lookup, function calls
