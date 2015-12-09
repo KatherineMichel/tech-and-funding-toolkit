@@ -60,7 +60,8 @@ Generic Views (pk, not id)
 *   from django.views import generic
 *   TemplateView.as_view vs. include() (Models)
 *   IndexView
-*   DetailView file name = <app name>/<model name>_detail.html
+*   DetailView file name = <app name>/<model name>_detail.html (question_id becomes pk)
+*   ResultsView (DetailView)
 *   ListView file name = <app name>/<model name>_list.html
 
 Django Workflow
