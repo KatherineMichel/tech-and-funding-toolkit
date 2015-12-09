@@ -63,7 +63,7 @@ Generic Views (pk, not id)
 Django Workflow
 *   Settings/Modules, Middleware
 *   Global URLs, URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
-*   URLs (arguments: regex, view, kwargs (arbitrary keyword arguments), name)
+*   URLs (arguments: regex, view, kwargs (arbitrary keyword arguments), name), (django.core.urlresolvers)
 *   Regex does not search domain name, GET or Post parameters
 *   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Decorators
