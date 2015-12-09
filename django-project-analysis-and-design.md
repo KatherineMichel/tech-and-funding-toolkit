@@ -73,6 +73,10 @@ Django Workflow
 *   "That code loads the template called polls/index.html and passes it a context. The context is a dictionary
 mapping template variable names to Python objects."
 *   appname file -> templates file -> appname file... template name = appname/filename.html
+*   "The render() function takes the request object as its first argument, a template name as its second argument and a
+dictionary as its optional third argument. It returns an HttpResponse object of the given template rendered with
+the given context."
+*   get_list_or_404()/filter(), get_object_or_404()/get()
 *   Template Tags and Filters (filter value of variable), Humanization
 *   Variable: model.attribute = output value
 *   . also for dictionary-key lookup, index lookup, function calls
