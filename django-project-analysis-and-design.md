@@ -67,6 +67,7 @@ Database Schema/API
 
 Shell
 *  Bypass manage.py = django.setup()
+*  manage.py sets DJANGO_SETTINGS_MODULE env variable, which gives Django the Python import path to your mysite/settings.py file
 
 DevOps
 *   DB
