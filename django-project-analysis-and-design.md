@@ -190,4 +190,20 @@ TEMPLATES = [
 }
 ]
 
+Non-Base
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% load humanize %}
+
+{% block title %} Name {% endblock %}
+
+{% block head %}
+  <link href="{% static 'css/style.css' %}" rel="stylesheet">
+{% endblock head %}
+
+{% block main %}
+{% endblock main %}
+
 Scroll bar: page 91
