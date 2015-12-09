@@ -63,7 +63,10 @@ Django Workflow
 
 Database Schema/API
 *   Models (In Module) -> Class (subclass of models.Model) -> Class Variables (database fields, some with required arguments for database validation) 
-*   Foreign Key, many-to-one, many-to-many, one-to-one
+*   Primary Keys (IDs) added automatically, Foreign Key (id appended to field name), many-to-one, many-to-many, one-to-one
+
+Shell
+*  Bypass manage.py = django.setup()
 
 DevOps
 *   DB
