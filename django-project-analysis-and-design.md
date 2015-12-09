@@ -21,6 +21,8 @@ Guidance
 
 ## Django
 
+Project vs. App
+
 Object-Oriented Programming
 *   Class
 *   Object, Object-Relational Mapper
@@ -39,7 +41,9 @@ Generic Views (pk, not id)
 Django Workflow
 *   Settings/Modules, Middleware
 *   Global URLs, URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
-*   URLs
+*   URLs (arguments: regex, view, kwargs, name)
+*   Regex does not search domain name, GET or Post parameters
+*   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Decorators
 *   Class Based-Views, Built-In Views
 *   Models (In Module, Class)
