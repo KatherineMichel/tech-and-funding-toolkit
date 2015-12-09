@@ -57,7 +57,9 @@ Template Inheritance
 *   app_name = 'appname', {% url 'templatename' %} or {% url 'appname:templatename' %}
 
 Generic Views (pk, not id)
+*   from django.views import generic
 *   TemplateView.as_view vs. include() (Models)
+*   IndexView
 *   DetailView file name = <app name>/<model name>_detail.html
 *   ListView file name = <app name>/<model name>_list.html
 
