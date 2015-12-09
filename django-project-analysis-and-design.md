@@ -69,7 +69,7 @@ Django Workflow
 *   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Decorators
 *   Class Based-Views, Built-In Views
-*   DIRS, Templates/Includes, Static Files
+*   DIRS, Templates/Includes, Static Files... (TEMPLATES, APP_DIRS = True (default), DjangoTemplates, INSTALLED_APPS -> subdirectory "templates")
 *   Template Tags and Filters (filter value of variable), Humanization
 *   Variable: model.attribute = output value
 *   . also for dictionary-key lookup, index lookup, function calls
