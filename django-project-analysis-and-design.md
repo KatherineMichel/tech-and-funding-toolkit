@@ -50,27 +50,14 @@ Default INSTALLED_APPS
 *   django.contrib.messages
 *   django.contrib.staticfiles 
 
-Template Inheritance
-*   Base, Index
-*   Base: {% load staticfiles %}
-*   Non-Base: {% extends "base.html" %}
-*   app_name = 'appname', {% url 'templatename' %} or {% url 'appname:templatename' %}
-
-Generic Views (pk, not id)
-*   from django.views import generic
-*   TemplateView.as_view vs. include() (Models)
-*   IndexView
-*   DetailView file name = <app name>/<model name>_detail.html (question_id becomes pk)
-*   ResultsView (DetailView)
-*   ListView file name = <app name>/<model name>_list.html
-
 Django Workflow
 *   Settings/Modules, Middleware
-*   Global URLs, URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
-*   URLs (arguments: regex, view, kwargs (arbitrary keyword arguments), name), (django.core.urlresolvers)
+*   Global URLs
+*   URLs
 *   Decorators
-*   Templates/Includes, Static Files
-*   Template Tags and Filters (filter value of variable), Humanization
+*   Views, Generic Views
+*   Templates/Includes, Template Inheritance, Static Files
+*   Template Tags and Filters, Humanization
 *   QuerySet/Field Lookups/Lookup Expressions
 
 DevOps
@@ -83,7 +70,7 @@ DevOps
 
 Additional
 *   Sites
-*   Admin: admin.site.register(models.Model)
+*   Admin
 *   Auth
 *   Timezone, TZInfo, Internationalization, Localization, Translation
 *   Flatpages, Sitemap
@@ -103,9 +90,26 @@ Additional
 *   Jython
    
 Notes
+
+Revisit Testing
+
 Database Schema/API
 *   Models (In Module) -> Class (subclass of models.Model) -> Class Variables (database fields, some with required arguments for database validation) 
 *   Primary Keys (IDs) added automatically, Foreign Key (id appended to field name), many-to-one, many-to-many, one-to-one
+
+Template Inheritance
+*   Base, Index
+*   Base: {% load staticfiles %}
+*   Non-Base: {% extends "base.html" %}
+*   app_name = 'appname', {% url 'templatename' %} or {% url 'appname:templatename' %}
+
+Generic Views (pk, not id)
+*   from django.views import generic
+*   TemplateView.as_view vs. include() (Models)
+*   IndexView
+*   DetailView file name = <app name>/<model name>_detail.html (question_id becomes pk)
+*   ResultsView (DetailView)
+*   ListView file name = <app name>/<model name>_list.html
 
 *   "That code loads the template called polls/index.html and passes it a context. The context is a dictionary
 mapping template variable names to Python objects."
@@ -130,6 +134,10 @@ redirected. We are using the reverse() function... "
 *   Regex does not search domain name, GET or Post parameters
 *   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Class Based-Views, Built-In Views
+*   URLs (arguments: regex, view, kwargs (arbitrary keyword arguments), name), (django.core.urlresolvers)
+*   URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
+*   Admin: admin.site.register(models.Model)
+*   Filters (filter value of variable),
 
 Shell
 *  Bypass manage.py = django.setup()
