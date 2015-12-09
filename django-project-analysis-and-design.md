@@ -68,40 +68,10 @@ Django Workflow
 *   Settings/Modules, Middleware
 *   Global URLs, URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
 *   URLs (arguments: regex, view, kwargs (arbitrary keyword arguments), name), (django.core.urlresolvers)
-*   name.urls -> ROOT_URLCONF -> urlpatterns -> include () -> regex
-*   Regex does not search domain name, GET or Post parameters
-*   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Decorators
-*   Class Based-Views, Built-In Views
-*   DIRS, Templates/Includes, Static Files... (TEMPLATES, APP_DIRS = True (default), DjangoTemplates backend, INSTALLED_APPS -> subdirectory "templates")
-*   "That code loads the template called polls/index.html and passes it a context. The context is a dictionary
-mapping template variable names to Python objects."
-*   appname file -> templates file -> appname file... template name = appname/filename.html
-*   "The render() function takes the request object as its first argument, a template name as its second argument and a
-dictionary as its optional third argument. It returns an HttpResponse object of the given template rendered with
-the given context."
-*   get_list_or_404()/filter(), get_object_or_404()/get()
-*   for loop = method call
-*   "request.POST is a dictionary-like object that lets you access submitted data by key name. In this case,
-request.POST[’choice’] returns the ID of the selected choice, as a string. request.POST values are
-always strings. Note that Django also provides request.GET for accessing GET data in the same way"
-*   "After incrementing the choice count, the code returns an HttpResponseRedirect rather than a normal
-HttpResponse. HttpResponseRedirect takes a single argument: the URL to which the user will be
-redirected. We are using the reverse() function... "
-*   request is an HttpRequest object
-*   Avoiding race conditions using F()
+*   Templates/Includes, Static Files
 *   Template Tags and Filters (filter value of variable), Humanization
-*   Variable: model.attribute = output value
-*   . also for dictionary-key lookup, index lookup, function calls
 *   QuerySet/Field Lookups/Lookup Expressions
-
-Database Schema/API
-*   Models (In Module) -> Class (subclass of models.Model) -> Class Variables (database fields, some with required arguments for database validation) 
-*   Primary Keys (IDs) added automatically, Foreign Key (id appended to field name), many-to-one, many-to-many, one-to-one
-
-Shell
-*  Bypass manage.py = django.setup()
-*  manage.py sets DJANGO_SETTINGS_MODULE env variable, which gives Django the Python import path to your mysite/settings.py file
 
 DevOps
 *   DB
@@ -132,5 +102,38 @@ Additional
 *   Clickjacking Protection, Cross Site Request Forgery Protection, Cryptographic Signing
 *   Jython
    
+Notes
+Database Schema/API
+*   Models (In Module) -> Class (subclass of models.Model) -> Class Variables (database fields, some with required arguments for database validation) 
+*   Primary Keys (IDs) added automatically, Foreign Key (id appended to field name), many-to-one, many-to-many, one-to-one
 
+*   "That code loads the template called polls/index.html and passes it a context. The context is a dictionary
+mapping template variable names to Python objects."
+*   appname file -> templates file -> appname file... template name = appname/filename.html
+*   "The render() function takes the request object as its first argument, a template name as its second argument and a
+dictionary as its optional third argument. It returns an HttpResponse object of the given template rendered with
+the given context."
+*   get_list_or_404()/filter(), get_object_or_404()/get()
+*   for loop = method call
+*   "request.POST is a dictionary-like object that lets you access submitted data by key name. In this case,
+request.POST[’choice’] returns the ID of the selected choice, as a string. request.POST values are
+always strings. Note that Django also provides request.GET for accessing GET data in the same way"
+*   "After incrementing the choice count, the code returns an HttpResponseRedirect rather than a normal
+HttpResponse. HttpResponseRedirect takes a single argument: the URL to which the user will be
+redirected. We are using the reverse() function... "
+*   request is an HttpRequest object
+*   Avoiding race conditions using F()
+*   Variable: model.attribute = output value
+*   . also for dictionary-key lookup, index lookup, function calls
+*   DIRS, TEMPLATES, APP_DIRS = True (default), DjangoTemplates backend, INSTALLED_APPS -> subdirectory "templates"
+*   name.urls -> ROOT_URLCONF -> urlpatterns -> include () -> regex
+*   Regex does not search domain name, GET or Post parameters
+*   After regex match, Django calls view function with a HttpRequest as object as first argument...
+*   Class Based-Views, Built-In Views
+
+Shell
+*  Bypass manage.py = django.setup()
+*  manage.py sets DJANGO_SETTINGS_MODULE env variable, which gives Django the Python import path to your mysite/settings.py file
+
+*   context_object_name = overrides automatically generated context variable
 
