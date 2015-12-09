@@ -28,6 +28,14 @@ Object-Oriented Programming
 *   Object, Object-Relational Mapper
 *   Instances, Related Objects
 
+Default INSTALLED_APPS 
+*   django.contrib.admin 
+*   django.contrib.auth
+*   django.contrib.contenttypes
+*   django.contrib.sessions
+*   django.contrib.messages
+*   django.contrib.staticfiles 
+
 Template Inheritance
 *   Base, Index
 *   Base: {% load staticfiles %}
@@ -41,7 +49,7 @@ Generic Views (pk, not id)
 Django Workflow
 *   Settings/Modules, Middleware
 *   Global URLs, URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
-*   URLs (arguments: regex, view, kwargs, name)
+*   URLs (arguments: regex, view, kwargs (arbitrary keyword arguments), name)
 *   Regex does not search domain name, GET or Post parameters
 *   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Decorators
