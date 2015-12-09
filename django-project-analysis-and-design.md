@@ -69,7 +69,9 @@ Django Workflow
 *   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Decorators
 *   Class Based-Views, Built-In Views
-*   DIRS, Templates/Includes, Static Files... (TEMPLATES, APP_DIRS = True (default), DjangoTemplates, INSTALLED_APPS -> subdirectory "templates")
+*   DIRS, Templates/Includes, Static Files... (TEMPLATES, APP_DIRS = True (default), DjangoTemplates backend, INSTALLED_APPS -> subdirectory "templates")
+*   "That code loads the template called polls/index.html and passes it a context. The context is a dictionary
+mapping template variable names to Python objects."
 *   appname file -> templates file -> appname file... template name = appname/filename.html
 *   Template Tags and Filters (filter value of variable), Humanization
 *   Variable: model.attribute = output value
