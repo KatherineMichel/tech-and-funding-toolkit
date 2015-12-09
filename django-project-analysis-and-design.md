@@ -4,9 +4,6 @@
 
 Guidance
 *   [Zed Shaw: Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
-*   [Example Website Sitemaps](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8)
-*   [Google Search: Website Functionality Checklists](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8#q=website+functionality+checklist)
-*   [Google Search: Website Functional Specification](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8#q=example+website+functional+specification)
 
 ## Requirements
 *   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
@@ -20,6 +17,10 @@ Guidance
 *   [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
 
 ## Page Examples
+
+*   [Example Website Sitemaps](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8)
+*   [Google Search: Website Functionality Checklists](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8#q=website+functionality+checklist)
+*   [Google Search: Website Functional Specification](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8#q=example+website+functional+specification)
 
 *   Blog homepage
 *   Entry “detail” page
