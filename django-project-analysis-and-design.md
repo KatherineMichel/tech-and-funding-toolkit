@@ -22,6 +22,7 @@ Guidance
 ## Django
 
 Project vs. App
+DRY Principle
 
 Object-Oriented Programming
 *   Class
@@ -54,7 +55,8 @@ Django Workflow
 *   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Decorators
 *   Class Based-Views, Built-In Views
-*   Models (In Module, Class)
+*   Models (In Module) -> Class (subclass of models.Model) -> Class Variables (database fields, some with required arguments for database validation) 
+*   Foreign Key, many-to-one, many-to-many, one-to-one
 *   DIRS, Templates/Includes, Static Files
 *   Template Tags and Filters (filter value of variable), Humanization
 *   Variable: model.attribute = output value
