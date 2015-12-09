@@ -92,6 +92,7 @@ Additional
 Notes
 
 Revisit Testing
+Revisit Admin
 
 Database Schema/API
 *   Models (In Module) -> Class (subclass of models.Model) -> Class Variables (database fields, some with required arguments for database validation) 
@@ -99,7 +100,7 @@ Database Schema/API
 
 Template Inheritance
 *   Base, Index
-*   Base: {% load staticfiles %}
+*   Base (or Index): {% load staticfiles %}, <link rel="stylesheet" type="text/css" href="{% static 'appname/style.css' %}" />
 *   Non-Base: {% extends "base.html" %}
 *   app_name = 'appname', {% url 'templatename' %} or {% url 'appname:templatename' %}
 
@@ -114,8 +115,10 @@ Generic Views (pk, not id)
 *   Admin: admin.site.register(models.Model)
 
 *   DIRS, TEMPLATES, APP_DIRS = True (default), DjangoTemplates backend, INSTALLED_APPS -> subdirectory "templates"
-*   appname folder -> templates folder -> appname folder... template name = appname/filename.html
-*   appname folder -> static folder -> appname folder... css file name = style.css
+*   appname folder -> templates folder -> appname folder... template name = appname/filename.html (appname/templates/appname/filename.html)
+*   STATICFILES_FINDERS, AppDirectoriesFinder -> INSTALLED_APPS -> subdirectory "static"
+*   appname folder -> static folder -> appname folder... css file name = style.css (appname/static/appname/style.css)
+*   appname/static/appname/images
 *   name.urls -> ROOT_URLCONF -> urlpatterns -> include () -> regex
 *   Regex does not search domain name, GET or Post parameters
 *   After regex match, Django calls view function with a HttpRequest as object as first argument...
@@ -140,6 +143,7 @@ redirected. We are using the reverse() function... "
 *   URLs (arguments: regex, view, kwargs (arbitrary keyword arguments), name), (django.core.urlresolvers)
 *   URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
 *   Filters (filter value of variable),
+*   You can change STATIC_URL (used by the static template tag to generate its URLs
 
 Shell
 *  Bypass manage.py = django.setup()
