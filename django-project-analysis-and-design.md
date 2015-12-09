@@ -34,22 +34,6 @@ Page Examples
 
 ## Django
 
-Project vs. App
-DRY Principle
-
-Object-Oriented Programming
-*   Class
-*   Object, Object-Relational Mapper
-*   Instances, Related Objects
-
-Default INSTALLED_APPS 
-*   django.contrib.admin 
-*   django.contrib.auth
-*   django.contrib.contenttypes
-*   django.contrib.sessions
-*   django.contrib.messages
-*   django.contrib.staticfiles 
-
 Django Workflow
 *   Settings/Modules, Middleware
 *   Global URLs
@@ -91,8 +75,23 @@ Additional
    
 Notes
 
-Revisit Testing
-Revisit Admin
+Project vs. App
+DRY Principle
+
+Object-Oriented Programming
+*   Class
+*   Object, Object-Relational Mapper
+*   Instances, Related Objects
+
+Default INSTALLED_APPS 
+*   django.contrib.admin 
+*   django.contrib.auth
+*   django.contrib.contenttypes
+*   django.contrib.sessions
+*   django.contrib.messages
+*   django.contrib.staticfiles 
+
+Revisit: Testing, Admin, Reusable Apps, Deployment Checklist, Writing Your First Path
 
 Database Schema/API
 *   Models (In Module) -> Class (subclass of models.Model) -> Class Variables (database fields, some with required arguments for database validation) 
@@ -144,6 +143,17 @@ redirected. We are using the reverse() function... "
 *   URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
 *   Filters (filter value of variable),
 *   You can change STATIC_URL (used by the static template tag to generate its URLs
+*   Admin: TabularInline, StackedInline
+*   "By default, Django displays the str() of each object. But sometimes it’d be more helpful if we could display
+individual fields. To do that, use the list_display admin option, which is a tuple of field names to display, as
+columns, on the change list page for the object"
+*   Admin list display = model fields, (list_display, list_filter, search_fields (will search str output using LIKE query)
+*   class Name(models.Model): ... def methodname(self): return ... attributes 
+*   Change list pagination, search boxes, filters, date-hierarchies, and column-header-ordering
+*   "templates that belongs to a particular application, we should put in the application’s template
+directory (e.g. polls/templates) rather than the project’s (templates)."
+*   https://github.com/django/django/tree/master/django/contrib/admin/templates
+*   Reusable app: djangoappname, djangoappname/README.rst, djangoappname/LICENSE file, djangoappname/setup.py, djangoappname/docs, djangoappname/MANIFEST.in 
 
 Shell
 *  Bypass manage.py = django.setup()
@@ -151,3 +161,20 @@ Shell
 
 *   context_object_name = overrides automatically generated context variable
 *   Avoiding race conditions using F()
+
+Add a DIRs option:
+TEMPLATES = [
+{
+'BACKEND': 'django.template.backends.django.DjangoTemplates',
+'DIRS': [os.path.join(BASE_DIR, 'templates')],
+'APP_DIRS': True,
+'OPTIONS': {
+'context_processors': [
+'django.template.context_processors.debug',
+'django.template.context_processors.request',
+'django.contrib.auth.context_processors.auth',
+'django.contrib.messages.context_processors.messages',
+],
+},
+}
+]
