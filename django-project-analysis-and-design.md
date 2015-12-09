@@ -54,6 +54,7 @@ Template Inheritance
 *   Base, Index
 *   Base: {% load staticfiles %}
 *   Non-Base: {% extends "base.html" %}
+*   {% url 'name' %}
 
 Generic Views (pk, not id)
 *   TemplateView.as_view vs. include() (Models)
