@@ -111,9 +111,17 @@ Generic Views (pk, not id)
 *   ResultsView (DetailView)
 *   ListView file name = <app name>/<model name>_list.html
 
+*   Admin: admin.site.register(models.Model)
+
+*   DIRS, TEMPLATES, APP_DIRS = True (default), DjangoTemplates backend, INSTALLED_APPS -> subdirectory "templates"
+*   appname folder -> templates folder -> appname folder... template name = appname/filename.html
+*   appname folder -> static folder -> appname folder... css file name = style.css
+*   name.urls -> ROOT_URLCONF -> urlpatterns -> include () -> regex
+*   Regex does not search domain name, GET or Post parameters
+*   After regex match, Django calls view function with a HttpRequest as object as first argument...
+
 *   "That code loads the template called polls/index.html and passes it a context. The context is a dictionary
 mapping template variable names to Python objects."
-*   appname file -> templates file -> appname file... template name = appname/filename.html
 *   "The render() function takes the request object as its first argument, a template name as its second argument and a
 dictionary as its optional third argument. It returns an HttpResponse object of the given template rendered with
 the given context."
@@ -126,17 +134,11 @@ always strings. Note that Django also provides request.GET for accessing GET dat
 HttpResponse. HttpResponseRedirect takes a single argument: the URL to which the user will be
 redirected. We are using the reverse() function... "
 *   request is an HttpRequest object
-*   Avoiding race conditions using F()
 *   Variable: model.attribute = output value
 *   . also for dictionary-key lookup, index lookup, function calls
-*   DIRS, TEMPLATES, APP_DIRS = True (default), DjangoTemplates backend, INSTALLED_APPS -> subdirectory "templates"
-*   name.urls -> ROOT_URLCONF -> urlpatterns -> include () -> regex
-*   Regex does not search domain name, GET or Post parameters
-*   After regex match, Django calls view function with a HttpRequest as object as first argument...
 *   Class Based-Views, Built-In Views
 *   URLs (arguments: regex, view, kwargs (arbitrary keyword arguments), name), (django.core.urlresolvers)
 *   URLconfs, Shortcuts, Requests, Responses (HttpResponse, Http404), Redirects
-*   Admin: admin.site.register(models.Model)
 *   Filters (filter value of variable),
 
 Shell
@@ -144,4 +146,4 @@ Shell
 *  manage.py sets DJANGO_SETTINGS_MODULE env variable, which gives Django the Python import path to your mysite/settings.py file
 
 *   context_object_name = overrides automatically generated context variable
-
+*   Avoiding race conditions using F()
