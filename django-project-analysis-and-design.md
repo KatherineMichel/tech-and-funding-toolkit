@@ -79,6 +79,12 @@ dictionary as its optional third argument. It returns an HttpResponse object of 
 the given context."
 *   get_list_or_404()/filter(), get_object_or_404()/get()
 *   for loop = method call
+*   "request.POST is a dictionary-like object that lets you access submitted data by key name. In this case,
+request.POST[’choice’] returns the ID of the selected choice, as a string. request.POST values are
+always strings. Note that Django also provides request.GET for accessing GET data in the same way"
+*   "After incrementing the choice count, the code returns an HttpResponseRedirect rather than a normal
+HttpResponse. HttpResponseRedirect takes a single argument: the URL to which the user will be
+redirected. We are using the reverse() function... "
 *   Template Tags and Filters (filter value of variable), Humanization
 *   Variable: model.attribute = output value
 *   . also for dictionary-key lookup, index lookup, function calls
