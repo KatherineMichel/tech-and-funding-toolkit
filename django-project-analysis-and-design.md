@@ -8,6 +8,19 @@ Guidance
 *   [Google Search: Website Functionality Checklists](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8#q=website+functionality+checklist)
 *   [Google Search: Website Functional Specification](https://www.google.com/search?q=example+website+sitemaps&rlz=1CAACAG_enUS625US635&oq=example+website+sitemaps&aqs=chrome..69i57j0j69i65l3j0.3579j0j7&sourceid=chrome&es_sm=0&ie=UTF-8#q=example+website+functional+specification)
 
+Page Examples
+*   Blog homepage
+*   Entry “detail” page
+*   Year-based archive page
+*   Month-based archive page
+*   Day-based archive page
+*   Comment action
+
+*   “index” page
+*   “detail” page
+*   "results” page
+*   action
+
 ## Requirements
 *   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
 *   [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
