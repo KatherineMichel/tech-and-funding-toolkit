@@ -92,6 +92,7 @@ Default INSTALLED_APPS
 *   django.contrib.staticfiles 
 
 Revisit: Testing, Admin, Reusable Apps, Deployment Checklist, Writing Your First Path
+Reference: model field reference
 
 Database Schema/API
 *   Models (In Module) -> Class (subclass of models.Model) -> Class Variables (database fields, some with required arguments for database validation) 
@@ -102,6 +103,7 @@ Template Inheritance
 *   Base (or Index): {% load staticfiles %}, <link rel="stylesheet" type="text/css" href="{% static 'appname/style.css' %}" />
 *   Non-Base: {% extends "base.html" %}
 *   app_name = 'appname', {% url 'templatename' %} or {% url 'appname:templatename' %}
+*   add app name to INSTALLED_APPS, run manage.py migrate, manage.py makemigrations
 
 Generic Views (pk, not id)
 *   from django.views import generic
@@ -154,6 +156,15 @@ columns, on the change list page for the object"
 directory (e.g. polls/templates) rather than the project’s (templates)."
 *   https://github.com/django/django/tree/master/django/contrib/admin/templates
 *   Reusable app: djangoappname, djangoappname/README.rst, djangoappname/LICENSE file, djangoappname/setup.py, djangoappname/docs, djangoappname/MANIFEST.in 
+*   "Each model is a Python class that subclasses django.db.models.Model.Each attribute of the model represents a database field." API/Queries
+*   Reserved model field words: clean, save, delete
+*   Model field class = column type, default widget, minimal validation requirements
+*   Required argument example: CharField (and its subclasses) require a max_length argument
+*   Common model arguments: null, blank, choices (list or tuple), default, help_text, primary_key (True), ect
+*   "If you don’t specify primary_key=True for any fields in your model, Django will automatically add an
+IntegerField to hold the primary key, so you don’t need to set primary_key=True on any of your
+fields unless you want to override the default primary-key behavior. For more, see Automatic primary key fields. The primary key field is read-only. If you change the value of the primary key on an existing object and then
+save it, a new object will be created alongside the old one."
 
 Shell
 *  Bypass manage.py = django.setup()
