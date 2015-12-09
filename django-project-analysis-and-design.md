@@ -86,6 +86,7 @@ always strings. Note that Django also provides request.GET for accessing GET dat
 HttpResponse. HttpResponseRedirect takes a single argument: the URL to which the user will be
 redirected. We are using the reverse() function... "
 *   request is an HttpRequest object
+*   Avoiding race conditions using F()
 *   Template Tags and Filters (filter value of variable), Humanization
 *   Variable: model.attribute = output value
 *   . also for dictionary-key lookup, index lookup, function calls
