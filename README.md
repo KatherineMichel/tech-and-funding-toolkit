@@ -3156,6 +3156,7 @@ Rails, Jekyll- Preferred Templates and Documents
 *   [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
 *   [Jekyll GitHub](https://github.com/jekyll/jekyll)  
 *   [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap) and [Jekyll Bootstrap Website (Clone repo) (Example Website) GitHub](https://github.com/plusjade/jekyllbootstrap.com)  
+*   [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 JavaScript
 *   [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
