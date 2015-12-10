@@ -29,6 +29,7 @@
 *   [Google Glass](https://github.com/googleglass)  
 *   [Google Knowledge](https://github.com/googleknowledge)  
 *   [Google Maps](https://github.com/googlemaps)  
+*   [Google Samples](https://github.com/googlesamples) 
 *   [HashiCorp](https://github.com/hashicorp)
 *   [Heroku](https://github.com/heroku)  
 *   [IBM](https://github.com/IBM) 
