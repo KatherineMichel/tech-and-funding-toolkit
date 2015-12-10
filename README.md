@@ -4334,6 +4334,7 @@ Open-Source Machine Learning and Infrastructure
 *   [Google: DeepDream](https://github.com/google/deepdream) 
 *   [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 *   [Google: TensorFlow Scikit Flow GitHub](https://github.com/google/skflow) and [Introduction to Scikit Flow and why you want to start learning TensorFlow](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.1bodcv3y9)
+*   [Google: Pretty Tensor GitHub](https://github.com/google/prettytensor) 
 *   [Microsoft Azure: Machine Learning](https://studio.azureml.net), [Microsoft Azure: Machine Learning-Data Science GitHub](https://github.com/Azure/Azure-MachineLearning-DataScience), [Microsoft Azure: Machine Learning-Client Library Python GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python), and [Microsoft Azure: Machine Learning-Client Library R GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R)
 *   [Microsoft: Distributed Machine Learning Toolkit](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
 *   [OpenStack: Cognitive (MLaaS) GitHub](https://github.com/openstack/cognitive)
