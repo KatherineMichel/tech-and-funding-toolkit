@@ -49,7 +49,7 @@ Django- Start Project/App
 *   python manage.py shell
 
 Django Project Mapping
-*   cd projectname
+*   
 
 Python Exit
 *   >>>> exit()
@@ -72,3 +72,7 @@ Packages</p>
 
 *   Heroku- Main Commands to Deploy
 *   Heroku- Main Commands to Update
+
+Two deployment approaches
+*   Django Girls Tutorial approach
+*   Bootcamp approach
