@@ -7,6 +7,7 @@ Terminal
 Install Git on Linux Ubuntu
 *   sudo apt-get update (optional)
 *   sudo apt-get install git
+*   [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
 
 GitHub- General</p>
 *   git clone https://github.com/username/reponame.git
