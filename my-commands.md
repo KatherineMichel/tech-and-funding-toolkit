@@ -59,7 +59,7 @@ Django Project Mapping
 *   projectname/urls.py = domain; appname/urls.py = domain/appname/
 *   Add appname urls to projectname/urls.py:     url(r'^appname/', include('appname.urls')),
 *   Map appname/urls.py to appname/views.py
-*   Map "name" 
+*   Map name='urlname' to template 
 
 Templates and static
 *   appname/templates/appname/filename.html
