@@ -33,7 +33,7 @@ Install Pip, Virtual Env, Check Python Version
 *   sudo pip install virtualenv
 *   python -V
 
-## Django
+## Django- Setup
 
 Get Version
 *    python -c "import django; print(django.get_version())
@@ -63,9 +63,15 @@ Migrate
 Shell
 *   python manage.py shell
 
+Python Exit
+*   exit()
+*   To exit virtual environment type deactivate  
+
+## Django File Mappings
+
 Django Project Mapping
 *   Add each appname to projectname/settings.py INSTALLED_APPS
-*   Add app_name = 'appname' to appname/views.py
+*   Add app_name = 'appname' to appname/views.py, {% url 'urlname' %} or {% url 'appname:urlname' %}
 *   projectname/urls.py = domain; appname/urls.py = domain/appname/
 *   Add appname urls to projectname/urls.py:     url(r'^appname/', include('appname.urls')),
 *   Map appname/urls.py to appname/views.py
@@ -74,10 +80,11 @@ Django Project Mapping
 Templates and static
 *   appname/templates/appname/filename.html
 *   appname/static/appname/styles.css
+*   appname/static/appname/images
 
-Python Exit
-*   >>>> exit()
-*   To exit virtual environment type deactivate                                
+Template Inheritance
+*   base.html (or index.html): {% load staticfiles %}, <link rel="stylesheet" type="text/css" href="{% static 'appname/style.css' %}" />
+*   Non-base.html: {% extends "base.html" %}
 
 ## Heroku Deployment
 
