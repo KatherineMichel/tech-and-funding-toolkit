@@ -79,7 +79,16 @@ Python Exit
 *   >>>> exit()
 *   To exit virtual environment type deactivate                                
 
-Packages</p>
+## Heroku Deployment
+
+*   Heroku- Main Commands to Deploy
+*   Heroku- Main Commands to Update
+
+## AWS Deployment
+
+## Django Packages
+
+Packages
 *   pip install Jinja2
 *   pip install fabric
 *   sudo apt-get install fabric
@@ -93,9 +102,6 @@ Packages</p>
 *   pip install django-localflavor
 *   pip install django-haystack
 *   pip install Pillow
-
-*   Heroku- Main Commands to Deploy
-*   Heroku- Main Commands to Update
 
 Two deployment approaches
 *   Django Girls Tutorial approach
