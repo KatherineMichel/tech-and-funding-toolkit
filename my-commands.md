@@ -55,9 +55,11 @@ Shell
 
 Django Project Mapping
 *   Add each appname to projectname/settings.py INSTALLED_APPS
+*   Add app_name = 'appname' to appname/views.py
 *   projectname/urls.py = domain; appname/urls.py = domain/appname/
 *   Add appname urls to projectname/urls.py:     url(r'^appname/', include('appname.urls')),
-*   Map appname/urls.py to apname/views.py
+*   Map appname/urls.py to appname/views.py
+*   Map "name" 
 
 Templates and static
 *   appname/templates/appname/filename.html
