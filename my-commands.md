@@ -9,6 +9,9 @@ Install Git on Linux Ubuntu
 *   sudo apt-get install git
 *   [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
 
+Install Pip
+*   sudo apt-get install python-pip
+
 GitHub- General</p>
 *   git clone https://github.com/username/reponame.git
 *   git clone --branch=gh-pages https://github.com/username/reponame.git
