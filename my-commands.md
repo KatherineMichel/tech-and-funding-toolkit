@@ -38,15 +38,20 @@ Django- Start Project/App
 *   virtualenv --python=python3.4 myvenv (or 2.7, myvenv is name you choose)
 *   source myvenv/bin/activate (myvenv is name you chose)
 *   pip install -r requirements.txt (if needed)
-*   pip install django==1.7.3 (or other version)                       
+*   pip install django==1.9 (or other version)                       
 *   django-admin startproject projectname
 *   python manage.py migrate
 *   python manage.py runserver port# (port# is optional)
 *   control-c
-*   python manage.py startapp appname
+*   python manage.py startapp appname (cd same directory as manage.py)
 *   python manage.py makemigrations appname
 *   python manage.py sqlmigrate appname 0001 (sql alternative)
 *   python manage.py shell
+
+Django Project Mapping
+*   cd projectname
+
+Python Exit
 *   >>>> exit()
 *   To exit virtual environment type deactivate                                
 
