@@ -1,8 +1,12 @@
 # My Commands
 
+Terminal
+*   gnome-terminal
+*   gedit
+
 Install Git on Linux Ubuntu
-$ sudo apt-get update (optional)
-$ sudo apt-get install git
+*   sudo apt-get update (optional)
+*   sudo apt-get install git
 
 GitHub- General</p>
 *   git clone https://github.com/username/reponame.git
