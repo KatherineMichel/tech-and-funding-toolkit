@@ -18,18 +18,37 @@ Guidance
 Example Pages
 *   Blog homepage
 *   Entry “detail” page
-*   Year-based archive page
-*   Month-based archive page
-*   Day-based archive page
 *   Comment action
-
-Generic Base Views
 *   “index” page
 *   “detail” page
 *   "results” page
 *   action
 
 ## Django
+
+Base views
+*   View
+*   TemplateView
+*   RedirectView
+
+Generic display views
+*   DetailView
+*   ListView
+
+Generic editing views
+*   FormView
+*   CreateView
+*   UpdateView
+*   DeleteView
+
+Generic date views
+*   ArchiveIndexView
+*   TodayArchiveView
+*   DateDetailView
+*   DayArchiveView
+*   WeekArchiveView
+*   MonthArchiveView
+*   YearArchiveView
 
 Model Types
 *   Many-to-many relationships
@@ -41,7 +60,7 @@ Django Workflow
 *   Global URLs -> URLs
 *   Decorators
 *   Views, Generic Views
-*   Templates/Includes, Template Inheritance, Static Files
+*   Templates/Includes, Template Inheritance, Static Files (CSS, HTML, JS, Images)
 *   Template Tags and Filters, Humanization
 *   QuerySet/Field Lookups/Lookup Expressions
 
