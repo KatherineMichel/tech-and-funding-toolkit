@@ -49,7 +49,7 @@ Django- Start Project/App
 *   python manage.py shell
 
 Django Project Mapping
-*   
+*   Add each appname to projectname/settings.py INSTALLED_APPS
 
 Python Exit
 *   >>>> exit()
