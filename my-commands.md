@@ -9,11 +9,6 @@ Install Git on Linux Ubuntu
 *   sudo apt-get install git
 *   [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
 
-Python
-*   sudo apt-get install python-pip
-*   sudo pip install virtualenv
-*   python -V
-
 GitHub- General</p>
 *   git clone https://github.com/username/reponame.git
 *   git clone --branch=gh-pages https://github.com/username/reponame.git
@@ -28,8 +23,12 @@ GitHub- General</p>
 *   git merge --abort (to undo a merge)
 *   cd ~                              
 
+Python
+*   sudo apt-get install python-pip
+*   sudo pip install virtualenv
+*   python -V
+
 Django- Start Project/App
-*   python -c "import django; print(django.get_version())"
 *   mkdir name
 *   cd name 
 *   sudo apt-get install python-virtualenv
