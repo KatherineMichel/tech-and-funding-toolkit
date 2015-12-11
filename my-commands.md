@@ -51,6 +51,7 @@ Django- Start Project/App
 Django Project Mapping
 *   Add each appname to projectname/settings.py INSTALLED_APPS
 *   Add appname urls to projectname/urls.py:     url(r'^appname/', include('appname.urls')),
+*   Map appname/urls.py to apname/views.py
 
 Python Exit
 *   >>>> exit()
