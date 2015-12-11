@@ -86,6 +86,20 @@ Template Inheritance
 *   base.html (or index.html): {% load staticfiles %}, <link rel="stylesheet" type="text/css" href="{% static 'appname/style.css' %}" />
 *   Non-base.html: {% extends "base.html" %}
 
+Template Inheritance (non-base.html)
+
+    {% extends 'base.html' %}
+    {% load staticfiles %}
+
+    {% block title %} Name {% endblock %}
+
+    {% block head %}
+      <link href="{% static 'appname/style.css' %}" rel="stylesheet">
+    {% endblock head %}
+
+    {% block main %}
+    {% endblock main %}
+
 ## Heroku Deployment
 
 *   Heroku- Main Commands to Deploy
