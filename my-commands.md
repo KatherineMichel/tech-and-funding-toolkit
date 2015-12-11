@@ -1,6 +1,6 @@
-# My Commands
+# My Commands and Programs
 
-## Terminal
+## Terminal Programs
 
 *   gnome-terminal
 *   gedit
