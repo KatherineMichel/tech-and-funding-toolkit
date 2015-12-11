@@ -59,6 +59,10 @@ Django Project Mapping
 *   Add appname urls to projectname/urls.py:     url(r'^appname/', include('appname.urls')),
 *   Map appname/urls.py to apname/views.py
 
+Templates and static
+*   appname/templates/appname/filename.html
+*   appname/static/appname/styles.css
+
 Python Exit
 *   >>>> exit()
 *   To exit virtual environment type deactivate                                
