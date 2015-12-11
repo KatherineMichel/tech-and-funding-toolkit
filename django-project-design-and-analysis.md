@@ -6,16 +6,7 @@ Django Project Analysis and Design
 Guidance
 *   [Zed Shaw: Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
 
-## Requirements
-*   [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
-*   [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
-*   [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
-*   [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
-*   [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
-*   [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
-*   [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
-*   [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
-*   [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
+*   Requirements
 
 ## Page Examples
 
