@@ -78,3 +78,21 @@ Packages</p>
 Two deployment approaches
 *   Django Girls Tutorial approach
 *   Bootcamp approach
+
+Good Resources
+*   Website Launch Checklist for Web Designers: https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+*   Staged Deployment
+*   Deployment via AWS/Digital Ocean
+*   Memcached: http://memcached.org
+*   Django Debug Toolbar: https://django-debug-toolbar.readthedocs.org
+*   Django Rest Framework: http://www.django-rest-framework.org
+*   Django Local Flavor: https://django-localflavor.readthedocs.org/en/latest
+*   Django Internationalization and Localization
+*   GeoDjango
+*   PostGIS
+*   Django CMS: https://www.django-cms.org/en
+*   Social Auth
+*   Python Imaging Library
+*   Haystack
+*   South
+*   Scrapy: http://scrapy.org
