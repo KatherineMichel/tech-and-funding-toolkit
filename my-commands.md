@@ -50,20 +50,20 @@ Django- Start Project/App
 *   >>>> exit()
 *   To exit virtual environment type deactivate                                
 
-    <br><p>Packages</p>
-    <p>pip install Jinja2</p>
-    <p>pip install fabric</p>
-    <p>sudo apt-get install fabric</p>
-    <p>pip install django-debug-toolbar</p>
-    <p>pip install South</p>
-    <p>pip install Celery</p>
-    <p>pip install djangorestframework</p>
-    <p>pip install markdown # Markdown support for the browsable API</p>
-    <p>pip install django-filter # Filtering support</p>
-    <p>pip install djangorestframework-gis</p>
-    <p>pip install django-localflavor</p>
-    <p>pip install django-haystack</p>
-    <p>pip install Pillow</p>    
+Packages</p>
+*   pip install Jinja2
+*   pip install fabric
+*   sudo apt-get install fabric
+*   pip install django-debug-toolbar
+*   pip install South
+*   pip install Celery
+*   pip install djangorestframework
+*   pip install markdown # Markdown support for the browsable API
+*   pip install django-filter # Filtering support
+*   pip install djangorestframework-gis
+*   pip install django-localflavor
+*   pip install django-haystack
+*   pip install Pillow
 
-    <br><p>Heroku- Main Commands to Deploy</p>
-    <br><p>Heroku- Main Commands to Update</p>
+*   Heroku- Main Commands to Deploy
+*   Heroku- Main Commands to Update
