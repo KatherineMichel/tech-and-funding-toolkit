@@ -44,12 +44,14 @@ Django- Start Project/App
 *   python manage.py runserver port# (port# is optional)
 *   control-c
 *   python manage.py startapp appname (cd same directory as manage.py)
-*   python manage.py makemigrations appname
-*   python manage.py sqlmigrate appname 0001 (sql alternative)
-*   python manage.py shell
 
 Migrate
 *   python manage.py migrate
+*   python manage.py makemigrations appname
+*   python manage.py sqlmigrate appname 0001 (sql alternative)
+
+Shell
+*   python manage.py shell
 
 Django Project Mapping
 *   Add each appname to projectname/settings.py INSTALLED_APPS
