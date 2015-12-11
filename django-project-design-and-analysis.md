@@ -6,6 +6,8 @@ Django Project Analysis and Design
 Guidance
 *   [Zed Shaw: Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
 
+*   Project vs. App
+*   DRY Principle
 *   Requirements
 *   Site Map
 
@@ -29,10 +31,14 @@ Generic Base Views
 
 ## Django
 
+Model Types
+*   Many-to-many relationships
+*   Many-to-one relationships
+*   One-to-one relationships
+
 Django Workflow
 *   Settings/Modules, Middleware
-*   Global URLs
-*   URLs
+*   Global URLs -> URLs
 *   Decorators
 *   Views, Generic Views
 *   Templates/Includes, Template Inheritance, Static Files
@@ -44,26 +50,38 @@ DevOps
 *   Postgres
 *   Migrations
 *   Test
-*   Cache, Sessions
 *   API
+*   Clickjacking Protection, Cross Site Request Forgery Protection, Cryptographic Signing
+*   Cache, Sessions
 
-Additional
-*   Sites
-*   Admin
+User
 *   Auth
-*   Timezone, TZInfo, Internationalization, Localization, Translation
-*   Flatpages, Sitemap
 *   Forms, Fields, Widgets
-*   Email
-*   Files
-*   Paginator
-*   Feed Generator, Syndication
-*   Content Types
-*   CSV/PDF
+
+Place
+*   Timezone, TZInfo, Internationalization, Localization, Translation
 *   Geo
+
+Properties and CMS
+*   Admin
+*   Sites
+*   Content Types
+*   Flatpages
+*   Sitemap
+
+Uploading, Downloading
+*   Files
+*   CSV/PDF
+
+RSSy
+*   Feed Generator, Syndication
+
+Additional- Common
+*   Email
+*   Paginator
+
+Additional- Less Common
 *   Encoding
-*   ContentTypes
 *   Six
 *   Mixins
-*   Clickjacking Protection, Cross Site Request Forgery Protection, Cryptographic Signing
 *   Jython
