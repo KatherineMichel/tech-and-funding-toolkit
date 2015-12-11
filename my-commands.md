@@ -48,8 +48,12 @@ Django- Start Project/App
 *   python manage.py sqlmigrate appname 0001 (sql alternative)
 *   python manage.py shell
 
+Migrate
+*   python manage.py migrate
+
 Django Project Mapping
 *   Add each appname to projectname/settings.py INSTALLED_APPS
+*   projectname/urls.py = domain; appname/urls.py = domain/appname/
 *   Add appname urls to projectname/urls.py:     url(r'^appname/', include('appname.urls')),
 *   Map appname/urls.py to apname/views.py
 
