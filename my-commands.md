@@ -28,10 +28,12 @@ Python
 *   sudo pip install virtualenv
 *   python -V
 
-Django 
+## Django
+
+Get Version
 *    python -c "import django; print(django.get_version())
 
-Django- Start Project/App
+Make Directory, Install Virtual Environment, Requirements, and Django
 *   mkdir name
 *   cd name 
 *   sudo apt-get install python-virtualenv
@@ -39,11 +41,14 @@ Django- Start Project/App
 *   source myvenv/bin/activate (myvenv is name you chose)
 *   pip install -r requirements.txt (if needed)
 *   pip install django==1.9 (or other version)                       
+
+Start Project and App
 *   django-admin startproject projectname
-*   python manage.py migrate
+*   python manage.py startapp appname (cd same directory as manage.py)
+
+Run and Stop Server
 *   python manage.py runserver port# (port# is optional)
 *   control-c
-*   python manage.py startapp appname (cd same directory as manage.py)
 
 Migrate
 *   python manage.py migrate
