@@ -2264,6 +2264,7 @@ Bootstrap, Font Awesome
 *   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+*   [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 
 Foundation
 *   [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
