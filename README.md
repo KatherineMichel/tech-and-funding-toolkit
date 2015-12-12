@@ -68,10 +68,11 @@ Table of Contents
   - [Dot Files](#dot-files)
   - [Unix and Linux](#unix-and-linux)
   - [More Command Line and Shell](#more-command-line-and-shell)
-  - [Servers and Databases](#servers-and-databases)
-  - [SQL](#sql)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
-  - [Deployment and Cloud](#deployment-and-cloud)
+  - [Python and Django Toolkit](#python-and-django-toolkit)
+  - [Servers and Databases](#servers-and-databases)
+  - [SQL](#sql)  
+- [Deployment and Cloud](#deployment-and-cloud)
   - [Dev Ops Tools](#dev-ops-tools)
   - [Designer and Developer General](#designer-and-developer-general)
   - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
@@ -3039,82 +3040,6 @@ Shell/Text Editors (See also Visual Studio)
 *   [.emacs.d](https://github.com/seshness/.emacs.d)  
 *   [Lighttable](http://www.lighttable.com)  
 
-#### Servers and Databases
-
-Servers
-*   [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
-
-Client and Server-Side
-*   [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-*   [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-*   [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-*   [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-*   [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-*   [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Databases
-*   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
-*   [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-*   [Database Management Systems (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)  
-*   [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
-*   [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
-*   [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-*   [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-
-Stanford Open Classroom- Introduction to Databases
-*   [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
-
-Types of Databases
-*   [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
-*   [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-*   [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
-*   [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
-*   [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-*   [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-*   [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
-*   [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-*   [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)  
-*   [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
-*   [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
-*   [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-*   [Document Oriented Databases (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-*   [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-*   [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-*   [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-*   [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-*   [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
-
-Shard
-*   [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
-#### SQL
-
-SQL
-*   [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
-*   [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
-
-SQLite (RDBMS, written in C)
-*   [SQLite](http://sqlite.org)  
-*   [SQLite Documentation](http://www.sqlite.org/docs.html)  
-*   [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
-
-PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-*   [PostgreSQL](http://www.postgresql.org)  
-*   [PostgreSQL Documentation](http://www.postgresql.org/docs)  
-*   [PostgreSQL GitHub](https://github.com/postgres/postgres)  
-*   [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
-*   [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
-*   [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
-
-Postgrest (PostgreSQL API)
-*   [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
-
-MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-*   [MySQL](http://www.mysql.com)  
-*   [MySQL Documentation](http://dev.mysql.com/doc)  
-*   [MySQL GitHub](https://github.com/twitter/mysql)  
-*   [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
- 
 #### Programming Languages, MVCs
 
 Programming Languages
@@ -3318,6 +3243,332 @@ Wikitech Development
 *   [Wikitech Account](https://wikitech.wikimedia.org/wiki/Special:Preferences)  
 *   [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git)  
 
+#### Python and Django Toolkit
+
+Python (See also Data Science)
+*   [Python](http://www.python.org)  
+*   [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
+*   [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)  
+*   [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
+*   [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
+*   [Python Standard Library](http://docs.python.org/2/library)  
+*   [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
+*   [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))  
+*   [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
+*   [Virtualenv GitHub](https://github.com/pypa/virtualenv)  
+*   [Virtualenvwrapper-win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
+*   [Python Patterns Library](https://github.com/faif/python-patterns)  
+
+Python- Packages/Libraries
+*   [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
+*   [Python Packaging Authority GitHub](https://github.com/pypa)  
+*   [PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
+*   [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
+*   [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
+*   [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
+*   [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications)  
+
+Python- Books and Tutorials
+*   [Dive into Python (Deprecated)](http://www.diveintopython.net)  
+*   [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
+*   [O'Reilly Think Python](http://www.greenteapress.com/thinkpython)  
+*   [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
+*   [Python Programming Wikibooks](http://en.wikibooks.org/wiki/Python_Programming)  
+*   [Python Tutorial](https://docs.python.org/2/tutorial)  
+*   [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
+*   [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
+*   [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
+*   [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
+*   [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
+*   [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
+
+Dedicated Python Hosting
+*   [Python Anywhere](https://www.pythonanywhere.com)  
+
+O'Reilly Test-Driven Development with Python
+*   [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
+*   [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment)  
+
+Python and Django Conferences
+*   [PyCon](http://www.pycon.org)  
+*   [PyData](http://pydata.org)  
+*   [DjangoCon](http://www.djangocon.us)  
+
+Python- Microframeworks and Template Engines
+*   [Bottle](http://bottlepy.org/docs/dev/index.html)  
+*   [Jinja](http://jinja.pocoo.org)  
+*   [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
+*   [Flask](http://flask.pocoo.org)  
+*   [Flask GitHub](https://github.com/mitsuhiko/flask)  
+
+Python- Django
+*   [Django](https://www.djangoproject.com)  
+*   [Django Documentation](https://docs.djangoproject.com)  
+*   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
+*   [Django GitHub](https://github.com/django/django)  
+
+Python- Django- Git and Deployment
+*   [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
+*   [Deployment Checklist](https://docs.djangoproject.com/en/1.8/howto/deployment/checklist)
+
+Python- Django Jobs
+*   [Django Jobs](https://www.djangojobs.net)  
+
+Python- Django- Packages 
+*   [Django Packages](https://www.djangopackages.com)  
+*   [Django Packages GitHub](https://github.com/pydanny/djangopackages)  
+
+Python and Django- Creating Packages
+*   [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
+*   [Cookiecutter PyPackage](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
+*   [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
+*   [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+*   [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
+
+Python- Django- Resources
+*   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
+*   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
+*   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
+
+Python- Django- Books and Tutorials (Exluding Django Girls)
+*   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
+*   [Django Book (Deprecated but useful)](http://www.djangobook.com)  
+*   [Light Weight Django](http://it-ebooks.info/book/2820)  
+*   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+*   [Tango with Django Tutorial](http://www.tangowithdjango.com)  
+
+Python- PEP 3333 (Python Web Server Gateway Interface)
+*   [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
+
+Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
+*   [Psycopg](http://initd.org/psycopg)  
+*   [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
+
+Python- Heroku
+*   [Heroku Python Homepage](https://www.heroku.com/python) 
+*   [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
+*   [Heroku Python Category](https://devcenter.heroku.com/categories/python)  
+*   [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python-o)  
+*   [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
+
+Python- Django- AWS Elastic Beanstalk Deployment
+*   [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
+
+Python- Django- Heroku Deployment
+*   [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template)  
+*   [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
+*   [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
+*   [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache)  
+
+Python- Django- Digital Ocean Deployment
+*   [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
+*   [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
+*   [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
+
+Python- Django- OpenShift Deployment
+*   [OpenShift Django Example GitHub](https://github.com/openshift/django-example)  
+
+Python- Django- Environmental Variables
+*   os.getenv and os.environ.get
+*   [Python Decouple (Example: Bootcamp) GitHub](https://github.com/henriquebastos/python-decouple)
+
+Python- Django- Random SECRET_KEY
+*   [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
+
+Python- Django- BCrypt (Not just for Django)
+*   [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
+*   [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
+*   [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1)  
+
+Python- Django- Debug Toolbar
+*   [Django Debug Toolbar](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
+*   [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
+
+Python- Django- Migrations
+*   [South](http://south.aeracode.org)  
+
+Python- Django and Celery (Also Example code)
+*   [Celery](http://www.celeryproject.org)  
+*   [Celery GitHub](https://github.com/celery/celery)  
+*   [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html)  
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+*   [Django Rest Framework](http://www.django-rest-framework.org)  
+*   [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
+*   [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+*   [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+*   [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
+
+Python- Django- Rest Framework (Serialization/Deserialization)
+*   [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
+*   [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
+*   [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
+
+Python- Django- Rest Framework GIS
+*   [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+*   [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+*   [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+*   [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+Python- Python/Django- Internationalization and Localization, Translation
+*   [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+*   [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+*   [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+*   [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+*   [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+*   [Django Local Flavor PyPa](https://pypi.python.org/pypi/django-localflavor)  
+*   [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+*   [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
+
+GeoDjango
+*   [GeoDjango](http://geodjango.org)  
+
+PostGIS (Spatial Database Extender for PostgreSQL)
+*   [PostGIS](http://postgis.net)  
+*   [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+*   [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+*   [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+*   [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+
+SpatiaLite (Spatial Database Extender for SQLite)
+*   [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+*   [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+*   [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+Python- Django-MPTT (Modified Pre-Order Traversal Tree)
+*   [Django-MPTT](http://django-mptt.github.io/django-mptt)  
+*   [Django-MPTT GitHub](https://github.com/django-mptt/django-mptt)  
+*   [Django-MPTT PyPi](https://pypi.python.org/pypi/django-mptt)  
+
+Python- Django-Treebeard (Modified Pre-Order Traversal Tree)
+*   [Django-Treebeard](https://tabo.pe/projects/django-treebeard)  
+*   [Django-Treebeard Docs](https://tabo.pe/projects/django-treebeard/docs/tip)  
+*   [Django-Treebeard GitHub](https://github.com/tabo/django-treebeard)  
+
+Python- Django- CMS, E-Commerce
+*   [Django CMS](https://www.django-cms.org/en)  
+*   [Django CMS Wikipedia](http://en.wikipedia.org/wiki/Django-cms)  
+*   [Django CMS GitHub](https://github.com/divio/django-cms)  
+*   [Django CMS Admin Style GitHub](https://github.com/divio/djangocms-admin-style)  
+*   [Django CMS Column GitHub](https://github.com/divio/djangocms-column)  
+*   [Django CMS Style GitHub](https://github.com/divio/djangocms-style)  
+*   [Django CMS Text CK-Editor GitHub](https://github.com/divio/djangocms-text-ckeditor)  
+*   [Django CMS Online Demo](https://control.aldryn.com/demo/get-new)  
+*   [Django CMS E-Commerce](https://www.django-cms.org/en/e-commerce)  
+
+Python- Django- Other CMS and E-Commerce Options
+*   [Django Fluent CMS](http://django-fluent.org)  
+*   [Django Fluent CMS GitHub](https://github.com/edoburu)  
+*   [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
+*   [Django Shop GitHub](https://github.com/divio/django-shop)  
+*   [Mezzanine Docs](http://mezzanine.jupo.org/docs)  
+*   [Mezzanine Sites](http://mezzanine.jupo.org/sites)  
+*   [Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
+*   [Oscar Docs](http://django-oscar.readthedocs.org/en/latest)  
+*   [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
+*   [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
+*   [Wagtail CMS GitHub](https://github.com/torchbox/wagtail)  
+*   [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template)  
+
+Python- Django- TinyMCE
+*   [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
+
+Python- Django- Python Social Auth
+*   [Python Social Auth](https://github.com/omab/python-social-auth)  
+*   [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
+*   [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
+*   [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
+
+Python- Django- Search
+*   [Haystack](http://haystacksearch.org)  
+*   [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
+
+Python- Imaging Library
+*   [Python Imaging Library](http://www.pythonware.com/products/pil)  
+*   [Python Imaging Library Docs](https://pillow.readthedocs.org)  
+*   [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
+*   [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)  
+
+Python- Django- Forms
+*   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  
+*   [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+
+#### Servers and Databases
+
+Servers
+*   [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
+
+Client and Server-Side
+*   [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+*   [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+*   [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+*   [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+*   [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+*   [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
+Databases
+*   [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
+*   [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+*   [Database Management Systems (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)  
+*   [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
+*   [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
+*   [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+*   [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+
+Stanford Open Classroom- Introduction to Databases
+*   [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+Types of Databases
+*   [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+*   [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+*   [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
+*   [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
+*   [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+*   [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+*   [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
+*   [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+*   [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)  
+*   [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+*   [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+*   [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+*   [Document Oriented Databases (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+*   [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+*   [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+*   [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+*   [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+*   [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
+Shard
+*   [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+#### SQL
+
+SQL
+*   [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
+*   [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
+
+SQLite (RDBMS, written in C)
+*   [SQLite](http://sqlite.org)  
+*   [SQLite Documentation](http://www.sqlite.org/docs.html)  
+*   [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
+
+PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
+*   [PostgreSQL](http://www.postgresql.org)  
+*   [PostgreSQL Documentation](http://www.postgresql.org/docs)  
+*   [PostgreSQL GitHub](https://github.com/postgres/postgres)  
+*   [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
+*   [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
+*   [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
+
+Postgrest (PostgreSQL API)
+*   [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
+
+MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
+*   [MySQL](http://www.mysql.com)  
+*   [MySQL Documentation](http://dev.mysql.com/doc)  
+*   [MySQL GitHub](https://github.com/twitter/mysql)  
+*   [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
+ 
 #### Deployment and Cloud
 
 IANA, Domize, DNSimple, Heroku
@@ -4748,261 +4999,9 @@ General Terminology
 *   [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
-### Python and Django Toolkit
-
-#### Python, Django, and Example Code
-
-Python (See also Data Science)
-*   [Python](http://www.python.org)  
-*   [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
-*   [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)  
-*   [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
-*   [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
-*   [Python Standard Library](http://docs.python.org/2/library)  
-*   [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
-*   [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))  
-*   [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
-*   [Virtualenv GitHub](https://github.com/pypa/virtualenv)  
-*   [Virtualenvwrapper-win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
-*   [Python Patterns Library](https://github.com/faif/python-patterns)  
-
-Python- Packages/Libraries
-*   [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
-*   [Python Packaging Authority GitHub](https://github.com/pypa)  
-*   [PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
-*   [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-*   [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-*   [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
-*   [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications)  
-
-Python- Books and Tutorials
-*   [Dive into Python (Deprecated)](http://www.diveintopython.net)  
-*   [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
-*   [O'Reilly Think Python](http://www.greenteapress.com/thinkpython)  
-*   [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-*   [Python Programming Wikibooks](http://en.wikibooks.org/wiki/Python_Programming)  
-*   [Python Tutorial](https://docs.python.org/2/tutorial)  
-*   [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
-*   [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-*   [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
-*   [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-*   [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
-*   [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
-
-Dedicated Python Hosting
-*   [Python Anywhere](https://www.pythonanywhere.com)  
-
-O'Reilly Test-Driven Development with Python
-*   [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
-*   [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment)  
-
-Python and Django Conferences
-*   [PyCon](http://www.pycon.org)  
-*   [PyData](http://pydata.org)  
-*   [DjangoCon](http://www.djangocon.us)  
-
-Python- Microframeworks and Template Engines
-*   [Bottle](http://bottlepy.org/docs/dev/index.html)  
-*   [Jinja](http://jinja.pocoo.org)  
-*   [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
-*   [Flask](http://flask.pocoo.org)  
-*   [Flask GitHub](https://github.com/mitsuhiko/flask)  
-
-Python- Django
-*   [Django](https://www.djangoproject.com)  
-*   [Django Documentation](https://docs.djangoproject.com)  
-*   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
-*   [Django GitHub](https://github.com/django/django)  
-
-Python- Django- Git and Deployment
-*   [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
-*   [Deployment Checklist](https://docs.djangoproject.com/en/1.8/howto/deployment/checklist)
-
-Python- Django Jobs
-*   [Django Jobs](https://www.djangojobs.net)  
-
-Python- Django- Packages 
-*   [Django Packages](https://www.djangopackages.com)  
-*   [Django Packages GitHub](https://github.com/pydanny/djangopackages)  
-
-Python and Django- Creating Packages
-*   [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-*   [Cookiecutter PyPackage](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
-*   [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-*   [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-*   [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
-
-Python- Django- Resources
-*   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
-*   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
-*   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
-
-Python- Django- Books and Tutorials (Exluding Django Girls)
-*   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-*   [Django Book (Deprecated but useful)](http://www.djangobook.com)  
-*   [Light Weight Django](http://it-ebooks.info/book/2820)  
-*   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
-*   [Tango with Django Tutorial](http://www.tangowithdjango.com)  
-
-Python- PEP 3333 (Python Web Server Gateway Interface)
-*   [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
-
-Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
-*   [Psycopg](http://initd.org/psycopg)  
-*   [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
-
-Python- Heroku
-*   [Heroku Python Homepage](https://www.heroku.com/python) 
-*   [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
-*   [Heroku Python Category](https://devcenter.heroku.com/categories/python)  
-*   [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python-o)  
-*   [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
-
-Python- Django- AWS Elastic Beanstalk Deployment
-*   [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
-
-Python- Django- Heroku Deployment
-*   [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template)  
-*   [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
-*   [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
-*   [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache)  
-
-Python- Django- Digital Ocean Deployment
-*   [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
-*   [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
-*   [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
-
-Python- Django- OpenShift Deployment
-*   [OpenShift Django Example GitHub](https://github.com/openshift/django-example)  
-
-Python- Django- Environmental Variables
-*   os.getenv and os.environ.get
-*   [Python Decouple (Example: Bootcamp) GitHub](https://github.com/henriquebastos/python-decouple)
-
-Python- Django- Random SECRET_KEY
-*   [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
-
-Python- Django- BCrypt (Not just for Django)
-*   [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
-*   [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
-*   [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1)  
-
-Python- Django- Debug Toolbar
-*   [Django Debug Toolbar](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
-*   [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
-
-Python- Django- Migrations
-*   [South](http://south.aeracode.org)  
-
-Python- Django and Celery (Also Example code)
-*   [Celery](http://www.celeryproject.org)  
-*   [Celery GitHub](https://github.com/celery/celery)  
-*   [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html)  
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-*   [Django Rest Framework](http://www.django-rest-framework.org)  
-*   [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
-*   [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-*   [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-*   [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
-
-Python- Django- Rest Framework (Serialization/Deserialization)
-*   [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
-*   [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
-*   [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
-
-Python- Django- Rest Framework GIS
-*   [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-*   [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-*   [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-*   [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
-Python- Python/Django- Internationalization and Localization, Translation
-*   [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-*   [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-*   [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-*   [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-*   [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-*   [Django Local Flavor PyPa](https://pypi.python.org/pypi/django-localflavor)  
-*   [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-*   [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
-
-GeoDjango
-*   [GeoDjango](http://geodjango.org)  
-
-PostGIS (Spatial Database Extender for PostgreSQL)
-*   [PostGIS](http://postgis.net)  
-*   [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-*   [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-*   [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-*   [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
-
-SpatiaLite (Spatial Database Extender for SQLite)
-*   [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-*   [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-*   [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
-Python- Django-MPTT (Modified Pre-Order Traversal Tree)
-*   [Django-MPTT](http://django-mptt.github.io/django-mptt)  
-*   [Django-MPTT GitHub](https://github.com/django-mptt/django-mptt)  
-*   [Django-MPTT PyPi](https://pypi.python.org/pypi/django-mptt)  
-
-Python- Django-Treebeard (Modified Pre-Order Traversal Tree)
-*   [Django-Treebeard](https://tabo.pe/projects/django-treebeard)  
-*   [Django-Treebeard Docs](https://tabo.pe/projects/django-treebeard/docs/tip)  
-*   [Django-Treebeard GitHub](https://github.com/tabo/django-treebeard)  
-
-Python- Django- CMS, E-Commerce
-*   [Django CMS](https://www.django-cms.org/en)  
-*   [Django CMS Wikipedia](http://en.wikipedia.org/wiki/Django-cms)  
-*   [Django CMS GitHub](https://github.com/divio/django-cms)  
-*   [Django CMS Admin Style GitHub](https://github.com/divio/djangocms-admin-style)  
-*   [Django CMS Column GitHub](https://github.com/divio/djangocms-column)  
-*   [Django CMS Style GitHub](https://github.com/divio/djangocms-style)  
-*   [Django CMS Text CK-Editor GitHub](https://github.com/divio/djangocms-text-ckeditor)  
-*   [Django CMS Online Demo](https://control.aldryn.com/demo/get-new)  
-*   [Django CMS E-Commerce](https://www.django-cms.org/en/e-commerce)  
-
-Python- Django- Other CMS and E-Commerce Options
-*   [Django Fluent CMS](http://django-fluent.org)  
-*   [Django Fluent CMS GitHub](https://github.com/edoburu)  
-*   [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
-*   [Django Shop GitHub](https://github.com/divio/django-shop)  
-*   [Mezzanine Docs](http://mezzanine.jupo.org/docs)  
-*   [Mezzanine Sites](http://mezzanine.jupo.org/sites)  
-*   [Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
-*   [Oscar Docs](http://django-oscar.readthedocs.org/en/latest)  
-*   [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
-*   [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
-*   [Wagtail CMS GitHub](https://github.com/torchbox/wagtail)  
-*   [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template)  
-
-Python- Django- TinyMCE
-*   [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
-
-Python- Django- Python Social Auth
-*   [Python Social Auth](https://github.com/omab/python-social-auth)  
-*   [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
-*   [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
-*   [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
-
-Python- Django- Search
-*   [Haystack](http://haystacksearch.org)  
-*   [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
-
-Python- Imaging Library
-*   [Python Imaging Library](http://www.pythonware.com/products/pil)  
-*   [Python Imaging Library Docs](https://pillow.readthedocs.org)  
-*   [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
-*   [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)  
-
-Python- Django- Forms
-*   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  
-*   [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
-
 ### Example Website Code and Style Guides
 
-#### Python Example Website Code
+#### Python
 
 *   [Django Sites](https://www.djangosites.org/with-source)  
 *   [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
