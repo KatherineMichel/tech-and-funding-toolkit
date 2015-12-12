@@ -3972,6 +3972,7 @@ WebMatrix
 *   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 *   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
 *   [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+*   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 *   [W3 Mobile Validator](http://validator.w3.org/mobile)
  
 #### More Back-end
