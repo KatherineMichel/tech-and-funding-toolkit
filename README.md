@@ -79,11 +79,10 @@ Table of Contents
   - [Social Media and Social Graph](#social-media-and-social-graph)
   - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
+  - [Testing and Performance](#testing-and-performance)
+- [More Back-End](#more-back-end)
   - [Node.js and Related](#nodejs-and-related)
   - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
-  - [Testing and Performance](#testing-and-performance)
-  - [More Back-End](#more-back-end)
-  - [Data Science](#data-science)
 - [Example Website Code and Style Guides](#example-website-code-and-style-guides)
   - [Python](#python) 
   - [Ruby, Rails](#ruby-rails)
@@ -93,6 +92,7 @@ Table of Contents
   - [Government Code and Style Guides](#government-code-and-style-guides)
   - [Newspaper Code and Style Guides](#newspaper-code-and-style-guides)
   - [Disqus](#disqus)
+- [Data Science](#data-science)
 - [General Resources](#general-resources)
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
   - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
@@ -4064,6 +4064,139 @@ Miscellaneous
 *   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
 *   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
+#### Testing and Performance
+
+*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+*   [AWS Device Farm](https://aws.amazon.com/device-farm)
+*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+*   [Google App Invites](https://developers.google.com/app-invites)
+*   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
+*   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
+*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+*   [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+*   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+*   [W3 Mobile Validator](http://validator.w3.org/mobile)
+ 
+### More Back-end
+
+Redis, Resque
+*   [Redis GitHub](https://github.com/antirez/redis)  
+*   [Resque GitHub](https://github.com/resque/resque)  
+
+Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
+*   [Web Cache Wikipedia](http://en.wikipedia.org/wiki/Web_cache)  
+*   [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)  
+*   [Squid Cache](http://www.squid-cache.org)  
+*   [Squid Wikipedia](http://en.wikipedia.org/wiki/Squid_(software))  
+*   [Varnish Cache](https://www.varnish-cache.org)  
+*   [Varnish](https://www.varnish-software.com)  
+*   [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
+
+Memcached (Object Caching)
+*   [Memcached](http://memcached.org)  
+
+Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
+*   [Nginx](http://nginx.com/products)  
+*   [Nginx GitHub](https://github.com/nginx/nginx)  
+*   [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx)  
+
+Jenkins CI and Travis CI (Continuous Integration), and PhantomJS (Testing, Automation, Scraping)
+*   [Jenkins](http://jenkins-ci.org)  
+*   [Travis CI GitHub](https://github.com/travis-ci/travis-ci)  
+*   [PhantomJS](http://phantomjs.org)  
+*   [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
+
+Selenium (Automated Testing)
+*   [SeleniumHQ](http://www.seleniumhq.org)  
+*   [SeleniumHQ Docs](http://www.seleniumhq.org/docs)  
+
+CGI and WSGI (Web Server API)
+*   [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+*   [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
+*   [WSGI](http://wsgi.readthedocs.org/en/latest)  
+*   [WSGI Google Code](https://code.google.com/p/modwsgi)  
+*   [WSGI Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
+*   [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
+*   [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
+
+Gunicorn (Python WSGI HTTP Server for UNIX)
+*   [Gunicorn](http://gunicorn.org)  
+*   [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
+
+Waitress (Production-Quality Pure-Python WSGI Server)
+*   [Waitress](http://waitress.readthedocs.org/en/latest)  
+*   [Waitress GitHub](https://github.com/Pylons/waitress)  
+*   [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
+
+Trac Project Management and DB (Used with www.djangoproject.com)
+*   [Trac](http://trac.edgewall.org)  
+*   [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
+*   [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+
+Optimization
+*   [Cloudflare](https://www.cloudflare.com)  
+
+Software Stacks
+*   [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+*   [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+
+Distributed and Parallel Computing
+*   [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+*   [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+*   [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing)  
+
+Erlang
+*   [Erlang](http://www.erlang.org/)  
+*   [Erlang GitHub](https://github.com/erlang/otp)  
+*   [Erlang Standard Library](http://www.erlang.org/doc/man_index.html)  
+*   [Erlang MongoDBGitHub](https://github.com/mongodb/mongodb-erlang)  
+
+BSD/Free BSD
+*   [BSD Wikipedia](http://en.wikipedia.org/wiki/BSD)  
+*   [Free BSD GitHub](https://github.com/freebsd)  
+*   [Free BSD GitHub](https://github.com/freebsd/freebsd)  
+*   [Free BSD Docs GitHub](https://github.com/freebsd/freebsd-doc)  
+
+JugglingDB
+*   [JugglingDB GitHub](https://github.com/1602/jugglingdb)  
+
+CouchDB (Document-based)
+*   [CouchDB GitHub](https://github.com/apache/couchdb)  
+*   [CouchDB ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-couchdb)  
+
+Normalization
+*   [Normalize GitHub](https://github.com/necolas/normalize.css)  
+*   [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
+*   [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
+*   [Shim GitHub](https://github.com/marstall/shim)  
+*   [Zepto GitHub](https://github.com/madrobby/zepto)  
+
+Real Time Application Frameworks
+*   [Engine.io GitHub](https://github.com/LearnBoost/engine.io)  
+*   [Socket.io GitHub](https://github.com/LearnBoost/socket.io)  
+
+Encryption
+*   [Encryption GitHub](https://github.com/ivanakimov/hashids.node.js)
+*   [Heartbleed Mass Test GitHub](https://github.com/musalbas/heartbleed-masstest)  
+*   [Node Encryption GitHub](https://github.com/ncb000gt/node.bcrypt.js)  
+
+Testing Frameworks
+*   [Flight GitHub](https://github.com/flightjs/flight)  
+*   [Mocha GitHub](https://github.com/visionmedia/mocha)  
+*   [Jasmine GitHub](https://github.com/pivotal/jasmine)  
+
+Event Tracking
+*   [EventHub Cross Device Event Tracking GitHub](https://github.com/Codecademy/EventHub)  
+*   [EventHub Client GitHub](https://github.com/Codecademy/EventHubClient)  
+
+Typeahead and Awesomeplete
+*   [Typeahead.js GitHub](https://github.com/twitter/typeahead.js)
+*   [Awesomeplete GitHub](https://github.com/LeaVerou/awesomplete)
+
+Cron
+*   [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+
 #### Node.js and Related
 
 Node.js
@@ -4229,140 +4362,322 @@ Visual Studio
 WebMatrix
 *   [WebMatrix](http://www.microsoft.com/web/webmatrix)
 
-#### Testing and Performance
+### Example Website Code and Style Guides
 
-*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-*   [AWS Device Farm](https://aws.amazon.com/device-farm)
-*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-*   [Google App Invites](https://developers.google.com/app-invites)
-*   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
-*   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
-*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-*   [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-*   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-*   [W3 Mobile Validator](http://validator.w3.org/mobile)
+#### Python
+
+*   [Django Sites](https://www.djangosites.org/with-source)  
+*   [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
+*   [KU Sports](http://www2.kusports.com)  
+
+Python- Django- Major Organizations and Projects that Use Django (in addition to below)
+*   [18F GitHub](https://github.com/18F)  
+*   [Instagram GitHub](https://github.com/instagram)  
+*   [Knight Foundation](http://www.knightfoundation.org/apps)  
+*   [National Geographic GitHub](https://github.com/natgeo)  
+*   [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+*   [PBS GitHub](https://github.com/pbs)  
+*   [Pinterest GitHub](https://github.com/pinterest)  
+*   [Rdio GitHub](https://github.com/rdio)  
+*   [Reddit GitHub](https://github.com/reddit)  
+*   [StyleSeat GitHub](https://github.com/styleseat)  
+
+Python- Django- Python and Django Official Websites and Code
+*   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
+*   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
+Python- Django- Django Product Websites
+*   [Django Sites GitHub](https://github.com/rossp/djangosites.org)
+*   [Django Packages GitHub](https://github.com/pydanny/djangopackages)
+*   [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
+
+Django Girls (Python- Django)
+*   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
+*   [Django Girls Tutorial](http://tutorial.djangogirls.org)  
+*   [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
+*   [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
+*   [Django Girls Organize](http://organize.djangogirls.org)  
+*   [Django Girls Coach](http://coach.djangogirls.org)  
+*   [Django Girls Resources](https://github.com/DjangoGirls/resources)  
+
+Django Carrots (Python- Django)
+*   [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
+
+Bootcamp (Python- Django)
+*   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
+*   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
+*   [Woid GitHub](https://github.com/vitorfs/woid)
+*   [Bloodhound GitHub](https://github.com/vitorfs/bloodhound)
+
+Django Hackathon Starter (Python- Django)
+*   [Django Hackathon Starter GitHub](https://github.com/DrkSephy/django-hackathon-starter) 
+
+Python- Django- Pinax
+*   [Pinax](http://pinaxproject.com)  
+*   [Pinax GitHub](https://github.com/pinax)  
+*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
+*   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
+*   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
+*   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
+*   [Pinax Symposium](https://github.com/pinax/symposion)  
+
+https://github.com/pinax/django-user-accounts
+
+Python- Django- Cookiecutter (See also Packages)
+*   [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django )
+*   [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
+*   [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
+
+Pier Angelo
+*   [Pier Angelo GitHub](https://github.com/pierangelo1982)
+
+18F and Peace Corps New Website (Python- Django)
+*   [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
+*   [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site)  
+
+App.net (Python- Django (Also Node))
+*   [App.net Alpha Github](https://github.com/appdotnet/alpha)  
+*   [App.net Angular Github](https://github.com/appdotnet/angular-adn)  
+*   [App.net RSS Github](https://github.com/appdotnet/pourover)  
+*   [App.net Share Buttons Github](https://github.com/appdotnet/piha)  
+*   [App.net Android Library Github](https://github.com/appdotnet/ADNLib)  
+*   [App.net Android Login SDK Github](https://github.com/appdotnet/ADNLogin-SDK-Android)  
+*   [App.net Comments Widget Github](https://github.com/appdotnet/adn-comments)  
+*   [App.net Private Messaging Github](https://github.com/appdotnet/ohe)  
+
+Celery Project (Python- Django)
+*   [Celery Project](http://www.celeryproject.org)  
+*   [Celery Project GitHub](https://github.com/celery/celeryproject)  
+
+EdX (Python- Django (Also Ruby))
+*   [EdX Code Website](http://code.edx.org)  
+*   [EdX Platform Github](https://github.com/edx/edx-platform)  
+
+Elle (Python- Django)
+*   [Ella CMS (deprecated) GitHub](https://github.com/ella/ella)  
+
+Gov Track (Python- Django)
+*   [Gov Track](https://www.govtrack.us)  
+*   [Gov Track GitHub](https://github.com/govtrack/govtrack.us-web)  
+
+LA Times Datadesk Project Template (Python- Django)
+*   [LA Times Datadesk](http://www.latimes.com/local/datadesk)  
+*   [LA Times Datadesk Project Template GitHub](https://github.com/datadesk/django-project-template)  
+
+Mozilla Sugardough, Bedrock, FunFactory and Playdoh + Others (Python- 1/2 Django)
+*   [Sugardough GitHub](https://github.com/mozilla/sugardough) 
+*   [Bedrock GitHub](https://github.com/mozilla/bedrock)  
+*   [FunFactory GitHub](https://github.com/mozilla/funfactory)  
+*   [PlayDoh GitHub](https://github.com/mozilla/playdoh)  
+*   [PlayDoh Docs GitHub](https://github.com/mozilla/playdoh-docs)  
+*   [PlayDoh Lib GitHub](https://github.com/mozilla/playdoh-lib)  
+*   [Play Framework (Java and Scala) GitHub](https://github.com/playframework/playframework)  
+
+National Geospatial-Intelligence Agency (Python- Django)
+*   [GeoQ Geographic Data System GitHub](https://github.com/ngageoint/geoq)  
+*   [GeoEvents for Deployers and First Responders GitHub](https://github.com/ngageoint/geoevents)  
+
+OpenStack (Python- Django)
+*   [OpenStack OpenStack GitHub](https://github.com/openstack/openstack)  
+*   [OpenStack Horizon GitHub](https://github.com/openstack/horizon)  
+*   [OpenStack Wikipedia](http://en.wikipedia.org/wiki/OpenStack)  
+
+Open Knowledge Foundation (Python- Django)
+*   [Open Knowledge Foundation GitHub](https://github.com/okfn/foundation)  
+
+Opps (Python- Django)
+*   [Opps CMS GitHub](https://github.com/opps/opps)  
+
+Reddit (Python- Adapted from Django)
+*   [Reddit Github](https://github.com/reddit/reddit)  
+*   [Reddit Install Script for Ubuntu Github](https://github.com/reddit/reddit/wiki/reddit-install-script-for-Ubuntu)
+*   [Reddit Styleguide Github](https://github.com/reddit/styleguide)  
+*   [Reddit High Traffic Live Update Threads GitHub](https://github.com/reddit/reddit-plugin-liveupdate)  
+*   [Reddit i18n Github](https://github.com/reddit/reddit-i18n)  
+*   [Reddit i18n Getting Started](http://www.reddit.com/r/i18n/wiki/getting_started)  
+*   [Reddit Enhancement Suite Github](https://github.com/Photobucket/Reddit-Enhancement-Suite)  
+
+NPR + Others (Python (Also Node for Less))
+*   [NPR App Templates (Python and OSX) GitHub](https://github.com/nprapps/app-template)  
+*   [Planet Money Makes a T-Shirt](http://planetmoney.com/shirt)  
+*   [Planet Money Makes a T-Shirt (Example Website) GitHub](https://github.com/nprapps/tshirt)  
+*   [NPR Apps (Jekyll) GitHub](https://github.com/nprapps/nprapps.github.com)  
+*   [NPR Best Practices (Interesting file structure) GitHub](https://github.com/nprapps/bestpractices)  
+
+Miscellaneous (Python)
+*   [Chicago News Team's Docs including Paywall Instructions for Tarbell Github](https://github.com/newsapps/docs)  
+*   [Chicago News Team's Tarbell Github](https://github.com/newsapps/flask-tarbell)  
+*   [CKAN Data Management System Github](https://github.com/GSA/ckan)  
+*   [CKAN Data Management System Github](https://github.com/ckan/ckan)  
+*   [CKAN Data Management System CMS Github](https://github.com/ckan/ckanext-pages)  
+*   [CKAN Data Management System Vagrant Github](https://github.com/philippkueng/ckan-vagrant)  
+*   [Plone Content Management System (Runs on Zope) Github](https://github.com/plone/Plone)  
+*   [Zipline Algorithmic Trading Platform (basis for Quantopian) Github](https://github.com/quantopian/zipline)  
+*   [Zipline Spinoff Quantopian's Algorithms Github](https://github.com/quantopian/quantopian-algos)  
+*   [Zope Web App Server Github](https://github.com/zopefoundation/Zope)  
+
+Python- Django- Templates
+*   [Django + HTML5B + Bootstrap](https://github.com/xenith/django-base-template)  
+
+#### Ruby, Rails
+
+*   [Crowdtilt GitHub](https://github.com/Crowdtilt/CrowdtiltOpen)  
+*   [Crowdtilt Balanced Payments GitHub](https://github.com/Crowdtilt/Business-BalancedPayments)  
+
+*   [Discourse GitHub](https://github.com/discourse/discourse)  
+*   [Discourse WP Plugin GitHub](https://github.com/discourse/wp-discourse)  
+*   [Discourse Docker GitHub](https://github.com/discourse/discourse_docker)  
+*   [Discourse Docker Manager GitHub](https://github.com/discourse/docker_manager)  
+
+Stanford University Library 
+*   [Digital Collection Plugin GitHub](https://github.com/sul-dlss/spotlight)  
+*   [Digital Collection Foundation GitHub](https://github.com/projectblacklight/blacklight)  
+
+#### PHP 
+
+*   [Facebook Platform (deprecated) GitHub](https://github.com/facebookarchive/platform)  
+*   [Facebook Ad Manager (deprecated) GitHub](https://github.com/facebookarchive/powereditor)  
+*   [Facebook IE Toolbar (deprecated) GitHub](https://github.com/facebookarchive/ie-toolbar)  
+
+*   [Wikipedia GitHub](https://github.com/wikimedia)  
+*   [Wikipedia Android GitHub](https://github.com/wikimedia/apps-android-wikipedia)  
+
+*   [OpenBay GitHub](https://github.com/isohuntto/openbay)  
+
+#### Node
+
+Preferred Non-official Templates (See also WordPress)
+*   [Hackathon-Starter GitHub](https://github.com/sahat/hackathon-starter)  
+*   [Satellizer GitHub](https://github.com/sahat/satellizer)  
+*   [Hackathon-Starter Companion- JS Recipes (Example Website) GitHub](https://github.com/sahat/jsrecipes)  
+*   [MEAN (Register and Sign In Pages) (Example Website) GitHub](https://github.com/linnovate/meansite)  
+*   [MEAN (Register and Sign In Pages) GitHub](https://github.com/meanjs/mean)  
+*   [MEAN Yeoman Generator GitHub](https://github.com/meanjs/generator-meanjs)  
+*   [Keystone (Create project locally) GitHub](https://github.com/JedWatson/keystone)  
+*   [Keystone Yeoman Generator GitHub](https://github.com/JedWatson/generator-keystone)  
+*   [Drywall (Had to install locally and run grunt --f command) GitHub](https://github.com/jedireza/drywall)  
+*   [Locomotive (Simple Landing Page) GitHub](https://github.com/jaredhanson/locomotive)  
+*   [Skeleton (Problem starting Gulp; but nice page/file structure) GitHub](https://github.com/dstroot/skeleton)  
+
+Websites
+*   [HospitalRun GitHub](https://github.com/HospitalRun/hospitalrun-frontend)
+
+Drupal
+*   [Drupal GitHub](https://github.com/drupal/drupal)  
+*   [Drupal Community](https://drupal.org/community)  
+
+#### Jekyll (based on Ruby)
+
+#### Government Code and Style Guides
+
+https://www.vets.gov
+https://www.vets.gov/playbook
+https://pages.18f.gov/accessibility/pagetitles
+
+https://github.com/18F/pages
+https://github.com/18F/guides-template
+https://github.com/cfpb/docter
+http://cfpb.github.io
+
+GitHub Government 
+*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
+
+18F
+*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
+*   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
+
+U.K. Gov
+*   [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
+*   [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
+*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
+
+U.S. 
+*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
+*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy)
+*   [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual) and [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
+*   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
+*   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
+*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
+
+Australia
+*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
+
+#### Newspaper Code and Style Guides
+
+BBC
+*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
+
+Financial Times
+*   [Origami](http://origami.ft.com)
+*   [Origami Components](http://registry.origami.ft.com/components)
+
+Guardian Developer
+*   [Guardian Developers GitHub](http://guardian.github.io/developers)
+*   [Guardian Developers](http://developers.theguardian.com) and [Guardian Developers Open Source](http://developers.theguardian.com/open-source.html)
+
+Guardian Frontend (Ruby, Rails, Scala, Play, Node)
+*   [Guardian Frontend Home](http://www.theguardian.com/uk?view=mobile)
+*   [Guardian Frontend Fonts GitHub](https://github.com/guardian/frontend-fonts) 
+*   [Guardian Frontend GitHub (clone repo, npm install, command line 'bundle,' lacking sbt)](https://github.com/guardian/frontend)  
+*   [Guardian Grid GitHub](https://github.com/guardian/grid)
+*   [Guardian Scribe GitHub](https://github.com/guardian/scribe)
+*   [Guardian Riff Raff GitHub](https://github.com/guardian/deploy)
+
+Guardian Guss
+*   [Suit (Inspired Guss Grid System; 'Plays well with Angular') GitHub](https://github.com/suitcss/suit)  
+*   [Guardian Guss GitHub](https://github.com/guardian/guss)  
+*   [Guardian Guss Grid System GitHub](https://github.com/guardian/guss-grid-system)  
+*   [Guardian Guss Layout GitHub](https://github.com/guardian/guss-layout)  
+*   [Guardian Guss Typography GitHub](https://github.com/guardian/guss-typography)  
+*   [Guardian Guss Webfonts GitHub](https://github.com/guardian/guss-webfonts)  
+*   [Guardian Guss CSS3 GitHub](https://github.com/guardian/guss-css3)  
+*   [Guardian Guss Colours GitHub](https://github.com/guardian/guss-colours)  
+*   [Guardian Guss Rem GitHub](https://github.com/guardian/guss-rem)  
  
-#### More Back-end
+Guardian Pasteup
+*   [Guardian Pasteup Style Homepage](http://www.theguardian.com/us)  
+*   [Guardian Pasteup GitHub (clone repo, use command line for 'bower install pasteup,' grunt serve, error, grunt --f)](https://github.com/guardian/pasteup)  
+*   [Guardian Pasteup Example GitHub](http://pasteup.guim.co.uk/index.html)  
+*   [Guardian Pasteup Buttons GitHub](https://github.com/guardian/pasteup-buttons)  
+*   [Guardian Pasteup Buttons Examples GitHub](http://guardian.github.io/pasteup-buttons)  
+*   [Guardian Pasteup Forms GitHub](https://github.com/guardian/pasteup-forms)  
+*   [Guardian Pasteup Forms Examples GitHub](http://guardian.github.io/pasteup-forms)  
+*   [Guardian Pasteup Palate GitHub](https://github.com/guardian/pasteup-palette)  
 
-Redis, Resque
-*   [Redis GitHub](https://github.com/antirez/redis)  
-*   [Resque GitHub](https://github.com/resque/resque)  
+Guardian Mobile
+*   [Guardian Mobile Apps Article Template GitHub](https://github.com/guardian/mobile-apps-article-templates)  
+*   [Guardian Mobile Notifications Content GitHub](https://github.com/guardian/mobile-notifications-content)  
+*   [Guardian Mobile Notifications API Client GitHub](https://github.com/guardian/mobile-notifications-api-client)  
+*   [Guardian Mobile Edition Backpage GitHub](https://github.com/guardian/mobile-edition-backpage)  
 
-Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
-*   [Web Cache Wikipedia](http://en.wikipedia.org/wiki/Web_cache)  
-*   [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)  
-*   [Squid Cache](http://www.squid-cache.org)  
-*   [Squid Wikipedia](http://en.wikipedia.org/wiki/Squid_(software))  
-*   [Varnish Cache](https://www.varnish-cache.org)  
-*   [Varnish](https://www.varnish-software.com)  
-*   [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
+Guardian Miscellaneous
+*   [Guardian Web Application Specifications GitHub](https://github.com/guardian/guardian-management)  
+*   [Guardian Error Pages GitHub](https://github.com/guardian/error-pages)  
+*   [Guardian Robots.txt GitHub](https://github.com/guardian/robots.txt)  
+*   [Guardian Simply Py GitHub](Guardian Simply Py Github)
+*   [Guardian Content Streams GitHub](https://github.com/guardian/content-streams)  
+*   [Guardian Commercial Responsive Ads GitHub](https://github.com/guardian/commercial-responsive-ads)  
+*   [Guardian Deploy GitHub](https://github.com/guardian/deploy)  
+*   [Guardian Chrome App GitHub](https://github.com/guardian/gdn-chrome-app)  
 
-Memcached (Object Caching)
-*   [Memcached](http://memcached.org)  
+NYT- Snowfall
+*   [Snow Fall](www.nytimes.com/projects/2012/snow-fall)  
+*   ["How We Made Snowfall"](http://source.opennews.org/en-US/articles/how-we-made-snow-fall)  
+*   ["What the New York Times's 'Snow Fall' Means to Online Journalism's Future"](http://www.thewire.com/technology/2012/12/new-york-times-snow-fall-feature/60219)  
+*   [List of "Snowfall"-esque Projects](https://docs.google.com/spreadsheet/lv?key=0AnWYxsUNHS4FdGVYMnpkdGdTNTU0RS1SXzktcnZwRWc&amp;amp;amp;usp=docslist_api)  
 
-Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
-*   [Nginx](http://nginx.com/products)  
-*   [Nginx GitHub](https://github.com/nginx/nginx)  
-*   [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx)  
+ProPublica- News App and Data Style Guides
+*   [ProPublica- News App and Data Style Guides](https://github.com/propublica/guides)  
+*   [ProPublica- News App Model](https://github.com/propublica/newsappmodel) 
 
-Jenkins CI and Travis CI (Continuous Integration), and PhantomJS (Testing, Automation, Scraping)
-*   [Jenkins](http://jenkins-ci.org)  
-*   [Travis CI GitHub](https://github.com/travis-ci/travis-ci)  
-*   [PhantomJS](http://phantomjs.org)  
-*   [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
+#### Disqus
 
-Selenium (Automated Testing)
-*   [SeleniumHQ](http://www.seleniumhq.org)  
-*   [SeleniumHQ Docs](http://www.seleniumhq.org/docs)  
+*   [Disqus Wordpress GitHub](https://github.com/disqus/disqus-wordpress)  
+*   [Disqus PHP GitHub](https://github.com/disqus/disqus-php)  
+*   [Disqus Python GitHub](https://github.com/disqus/disqus-python)  
+*   [Disqus Postgres GitHub](https://github.com/disqus/disqus-postgres)  
 
-CGI and WSGI (Web Server API)
-*   [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
-*   [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
-*   [WSGI](http://wsgi.readthedocs.org/en/latest)  
-*   [WSGI Google Code](https://code.google.com/p/modwsgi)  
-*   [WSGI Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
-*   [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
-*   [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
-
-Gunicorn (Python WSGI HTTP Server for UNIX)
-*   [Gunicorn](http://gunicorn.org)  
-*   [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
-
-Waitress (Production-Quality Pure-Python WSGI Server)
-*   [Waitress](http://waitress.readthedocs.org/en/latest)  
-*   [Waitress GitHub](https://github.com/Pylons/waitress)  
-*   [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
-
-Trac Project Management and DB (Used with www.djangoproject.com)
-*   [Trac](http://trac.edgewall.org)  
-*   [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
-*   [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
-
-Optimization
-*   [Cloudflare](https://www.cloudflare.com)  
-
-Software Stacks
-*   [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-*   [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
-
-Distributed and Parallel Computing
-*   [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-*   [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-*   [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing)  
-
-Erlang
-*   [Erlang](http://www.erlang.org/)  
-*   [Erlang GitHub](https://github.com/erlang/otp)  
-*   [Erlang Standard Library](http://www.erlang.org/doc/man_index.html)  
-*   [Erlang MongoDBGitHub](https://github.com/mongodb/mongodb-erlang)  
-
-BSD/Free BSD
-*   [BSD Wikipedia](http://en.wikipedia.org/wiki/BSD)  
-*   [Free BSD GitHub](https://github.com/freebsd)  
-*   [Free BSD GitHub](https://github.com/freebsd/freebsd)  
-*   [Free BSD Docs GitHub](https://github.com/freebsd/freebsd-doc)  
-
-JugglingDB
-*   [JugglingDB GitHub](https://github.com/1602/jugglingdb)  
-
-CouchDB (Document-based)
-*   [CouchDB GitHub](https://github.com/apache/couchdb)  
-*   [CouchDB ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-couchdb)  
-
-Normalization
-*   [Normalize GitHub](https://github.com/necolas/normalize.css)  
-*   [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
-*   [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
-*   [Shim GitHub](https://github.com/marstall/shim)  
-*   [Zepto GitHub](https://github.com/madrobby/zepto)  
-
-Real Time Application Frameworks
-*   [Engine.io GitHub](https://github.com/LearnBoost/engine.io)  
-*   [Socket.io GitHub](https://github.com/LearnBoost/socket.io)  
-
-Encryption
-*   [Encryption GitHub](https://github.com/ivanakimov/hashids.node.js)
-*   [Heartbleed Mass Test GitHub](https://github.com/musalbas/heartbleed-masstest)  
-*   [Node Encryption GitHub](https://github.com/ncb000gt/node.bcrypt.js)  
-
-Testing Frameworks
-*   [Flight GitHub](https://github.com/flightjs/flight)  
-*   [Mocha GitHub](https://github.com/visionmedia/mocha)  
-*   [Jasmine GitHub](https://github.com/pivotal/jasmine)  
-
-Event Tracking
-*   [EventHub Cross Device Event Tracking GitHub](https://github.com/Codecademy/EventHub)  
-*   [EventHub Client GitHub](https://github.com/Codecademy/EventHubClient)  
-
-Typeahead and Awesomeplete
-*   [Typeahead.js GitHub](https://github.com/twitter/typeahead.js)
-*   [Awesomeplete GitHub](https://github.com/LeaVerou/awesomplete)
-
-Cron
-*   [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-
-#### Data Science
+### Data Science
 
 Data Monetization
 *   [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
@@ -4998,321 +5313,6 @@ General Terminology
 *   [Fibonacci Number Wikipedia](http://en.wikipedia.org/wiki/Fibonacci_number)  
 *   [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
-
-### Example Website Code and Style Guides
-
-#### Python
-
-*   [Django Sites](https://www.djangosites.org/with-source)  
-*   [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
-*   [KU Sports](http://www2.kusports.com)  
-
-Python- Django- Major Organizations and Projects that Use Django (in addition to below)
-*   [18F GitHub](https://github.com/18F)  
-*   [Instagram GitHub](https://github.com/instagram)  
-*   [Knight Foundation](http://www.knightfoundation.org/apps)  
-*   [National Geographic GitHub](https://github.com/natgeo)  
-*   [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
-*   [PBS GitHub](https://github.com/pbs)  
-*   [Pinterest GitHub](https://github.com/pinterest)  
-*   [Rdio GitHub](https://github.com/rdio)  
-*   [Reddit GitHub](https://github.com/reddit)  
-*   [StyleSeat GitHub](https://github.com/styleseat)  
-
-Python- Django- Python and Django Official Websites and Code
-*   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
-*   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
-Python- Django- Django Product Websites
-*   [Django Sites GitHub](https://github.com/rossp/djangosites.org)
-*   [Django Packages GitHub](https://github.com/pydanny/djangopackages)
-*   [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
-
-Django Girls (Python- Django)
-*   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
-*   [Django Girls Tutorial](http://tutorial.djangogirls.org)  
-*   [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
-*   [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
-*   [Django Girls Organize](http://organize.djangogirls.org)  
-*   [Django Girls Coach](http://coach.djangogirls.org)  
-*   [Django Girls Resources](https://github.com/DjangoGirls/resources)  
-
-Django Carrots (Python- Django)
-*   [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
-
-Bootcamp (Python- Django)
-*   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
-*   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
-*   [Woid GitHub](https://github.com/vitorfs/woid)
-*   [Bloodhound GitHub](https://github.com/vitorfs/bloodhound)
-
-Django Hackathon Starter (Python- Django)
-*   [Django Hackathon Starter GitHub](https://github.com/DrkSephy/django-hackathon-starter) 
-
-Python- Django- Pinax
-*   [Pinax](http://pinaxproject.com)  
-*   [Pinax GitHub](https://github.com/pinax)  
-*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
-*   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
-*   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
-*   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
-*   [Pinax Symposium](https://github.com/pinax/symposion)  
-
-https://github.com/pinax/django-user-accounts
-
-Python- Django- Cookiecutter (See also Packages)
-*   [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django )
-*   [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
-*   [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
-
-Pier Angelo
-*   [Pier Angelo GitHub](https://github.com/pierangelo1982)
-
-18F and Peace Corps New Website (Python- Django)
-*   [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
-*   [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site)  
-
-App.net (Python- Django (Also Node))
-*   [App.net Alpha Github](https://github.com/appdotnet/alpha)  
-*   [App.net Angular Github](https://github.com/appdotnet/angular-adn)  
-*   [App.net RSS Github](https://github.com/appdotnet/pourover)  
-*   [App.net Share Buttons Github](https://github.com/appdotnet/piha)  
-*   [App.net Android Library Github](https://github.com/appdotnet/ADNLib)  
-*   [App.net Android Login SDK Github](https://github.com/appdotnet/ADNLogin-SDK-Android)  
-*   [App.net Comments Widget Github](https://github.com/appdotnet/adn-comments)  
-*   [App.net Private Messaging Github](https://github.com/appdotnet/ohe)  
-
-Celery Project (Python- Django)
-*   [Celery Project](http://www.celeryproject.org)  
-*   [Celery Project GitHub](https://github.com/celery/celeryproject)  
-
-EdX (Python- Django (Also Ruby))
-*   [EdX Code Website](http://code.edx.org)  
-*   [EdX Platform Github](https://github.com/edx/edx-platform)  
-
-Elle (Python- Django)
-*   [Ella CMS (deprecated) GitHub](https://github.com/ella/ella)  
-
-Gov Track (Python- Django)
-*   [Gov Track](https://www.govtrack.us)  
-*   [Gov Track GitHub](https://github.com/govtrack/govtrack.us-web)  
-
-LA Times Datadesk Project Template (Python- Django)
-*   [LA Times Datadesk](http://www.latimes.com/local/datadesk)  
-*   [LA Times Datadesk Project Template GitHub](https://github.com/datadesk/django-project-template)  
-
-Mozilla Sugardough, Bedrock, FunFactory and Playdoh + Others (Python- 1/2 Django)
-*   [Sugardough GitHub](https://github.com/mozilla/sugardough) 
-*   [Bedrock GitHub](https://github.com/mozilla/bedrock)  
-*   [FunFactory GitHub](https://github.com/mozilla/funfactory)  
-*   [PlayDoh GitHub](https://github.com/mozilla/playdoh)  
-*   [PlayDoh Docs GitHub](https://github.com/mozilla/playdoh-docs)  
-*   [PlayDoh Lib GitHub](https://github.com/mozilla/playdoh-lib)  
-*   [Play Framework (Java and Scala) GitHub](https://github.com/playframework/playframework)  
-
-National Geospatial-Intelligence Agency (Python- Django)
-*   [GeoQ Geographic Data System GitHub](https://github.com/ngageoint/geoq)  
-*   [GeoEvents for Deployers and First Responders GitHub](https://github.com/ngageoint/geoevents)  
-
-OpenStack (Python- Django)
-*   [OpenStack OpenStack GitHub](https://github.com/openstack/openstack)  
-*   [OpenStack Horizon GitHub](https://github.com/openstack/horizon)  
-*   [OpenStack Wikipedia](http://en.wikipedia.org/wiki/OpenStack)  
-
-Open Knowledge Foundation (Python- Django)
-*   [Open Knowledge Foundation GitHub](https://github.com/okfn/foundation)  
-
-Opps (Python- Django)
-*   [Opps CMS GitHub](https://github.com/opps/opps)  
-
-Reddit (Python- Adapted from Django)
-*   [Reddit Github](https://github.com/reddit/reddit)  
-*   [Reddit Install Script for Ubuntu Github](https://github.com/reddit/reddit/wiki/reddit-install-script-for-Ubuntu)
-*   [Reddit Styleguide Github](https://github.com/reddit/styleguide)  
-*   [Reddit High Traffic Live Update Threads GitHub](https://github.com/reddit/reddit-plugin-liveupdate)  
-*   [Reddit i18n Github](https://github.com/reddit/reddit-i18n)  
-*   [Reddit i18n Getting Started](http://www.reddit.com/r/i18n/wiki/getting_started)  
-*   [Reddit Enhancement Suite Github](https://github.com/Photobucket/Reddit-Enhancement-Suite)  
-
-NPR + Others (Python (Also Node for Less))
-*   [NPR App Templates (Python and OSX) GitHub](https://github.com/nprapps/app-template)  
-*   [Planet Money Makes a T-Shirt](http://planetmoney.com/shirt)  
-*   [Planet Money Makes a T-Shirt (Example Website) GitHub](https://github.com/nprapps/tshirt)  
-*   [NPR Apps (Jekyll) GitHub](https://github.com/nprapps/nprapps.github.com)  
-*   [NPR Best Practices (Interesting file structure) GitHub](https://github.com/nprapps/bestpractices)  
-
-Miscellaneous (Python)
-*   [Chicago News Team's Docs including Paywall Instructions for Tarbell Github](https://github.com/newsapps/docs)  
-*   [Chicago News Team's Tarbell Github](https://github.com/newsapps/flask-tarbell)  
-*   [CKAN Data Management System Github](https://github.com/GSA/ckan)  
-*   [CKAN Data Management System Github](https://github.com/ckan/ckan)  
-*   [CKAN Data Management System CMS Github](https://github.com/ckan/ckanext-pages)  
-*   [CKAN Data Management System Vagrant Github](https://github.com/philippkueng/ckan-vagrant)  
-*   [Plone Content Management System (Runs on Zope) Github](https://github.com/plone/Plone)  
-*   [Zipline Algorithmic Trading Platform (basis for Quantopian) Github](https://github.com/quantopian/zipline)  
-*   [Zipline Spinoff Quantopian's Algorithms Github](https://github.com/quantopian/quantopian-algos)  
-*   [Zope Web App Server Github](https://github.com/zopefoundation/Zope)  
-
-Python- Django- Templates
-*   [Django + HTML5B + Bootstrap](https://github.com/xenith/django-base-template)  
-
-#### Ruby, Rails
-
-*   [Crowdtilt GitHub](https://github.com/Crowdtilt/CrowdtiltOpen)  
-*   [Crowdtilt Balanced Payments GitHub](https://github.com/Crowdtilt/Business-BalancedPayments)  
-
-*   [Discourse GitHub](https://github.com/discourse/discourse)  
-*   [Discourse WP Plugin GitHub](https://github.com/discourse/wp-discourse)  
-*   [Discourse Docker GitHub](https://github.com/discourse/discourse_docker)  
-*   [Discourse Docker Manager GitHub](https://github.com/discourse/docker_manager)  
-
-Stanford University Library 
-*   [Digital Collection Plugin GitHub](https://github.com/sul-dlss/spotlight)  
-*   [Digital Collection Foundation GitHub](https://github.com/projectblacklight/blacklight)  
-
-#### PHP 
-
-*   [Facebook Platform (deprecated) GitHub](https://github.com/facebookarchive/platform)  
-*   [Facebook Ad Manager (deprecated) GitHub](https://github.com/facebookarchive/powereditor)  
-*   [Facebook IE Toolbar (deprecated) GitHub](https://github.com/facebookarchive/ie-toolbar)  
-
-*   [Wikipedia GitHub](https://github.com/wikimedia)  
-*   [Wikipedia Android GitHub](https://github.com/wikimedia/apps-android-wikipedia)  
-
-*   [OpenBay GitHub](https://github.com/isohuntto/openbay)  
-
-#### Node
-
-Preferred Non-official Templates (See also WordPress)
-*   [Hackathon-Starter GitHub](https://github.com/sahat/hackathon-starter)  
-*   [Satellizer GitHub](https://github.com/sahat/satellizer)  
-*   [Hackathon-Starter Companion- JS Recipes (Example Website) GitHub](https://github.com/sahat/jsrecipes)  
-*   [MEAN (Register and Sign In Pages) (Example Website) GitHub](https://github.com/linnovate/meansite)  
-*   [MEAN (Register and Sign In Pages) GitHub](https://github.com/meanjs/mean)  
-*   [MEAN Yeoman Generator GitHub](https://github.com/meanjs/generator-meanjs)  
-*   [Keystone (Create project locally) GitHub](https://github.com/JedWatson/keystone)  
-*   [Keystone Yeoman Generator GitHub](https://github.com/JedWatson/generator-keystone)  
-*   [Drywall (Had to install locally and run grunt --f command) GitHub](https://github.com/jedireza/drywall)  
-*   [Locomotive (Simple Landing Page) GitHub](https://github.com/jaredhanson/locomotive)  
-*   [Skeleton (Problem starting Gulp; but nice page/file structure) GitHub](https://github.com/dstroot/skeleton)  
-
-Websites
-*   [HospitalRun GitHub](https://github.com/HospitalRun/hospitalrun-frontend)
-
-Drupal
-*   [Drupal GitHub](https://github.com/drupal/drupal)  
-*   [Drupal Community](https://drupal.org/community)  
-
-#### Jekyll (based on Ruby)
-
-#### Government Code and Style Guides
-
-https://www.vets.gov
-https://www.vets.gov/playbook
-https://pages.18f.gov/accessibility/pagetitles
-
-https://github.com/18F/pages
-https://github.com/18F/guides-template
-https://github.com/cfpb/docter
-http://cfpb.github.io
-
-GitHub Government 
-*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
-
-18F
-*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
-*   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
-
-U.K. Gov
-*   [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
-*   [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
-*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
-
-U.S. 
-*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
-*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy)
-*   [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual) and [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
-*   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
-*   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
-*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
-*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
-
-Australia
-*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
-
-#### Newspaper Code and Style Guides
-
-BBC
-*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
-
-Financial Times
-*   [Origami](http://origami.ft.com)
-*   [Origami Components](http://registry.origami.ft.com/components)
-
-Guardian Developer
-*   [Guardian Developers GitHub](http://guardian.github.io/developers)
-*   [Guardian Developers](http://developers.theguardian.com) and [Guardian Developers Open Source](http://developers.theguardian.com/open-source.html)
-
-Guardian Frontend (Ruby, Rails, Scala, Play, Node)
-*   [Guardian Frontend Home](http://www.theguardian.com/uk?view=mobile)
-*   [Guardian Frontend Fonts GitHub](https://github.com/guardian/frontend-fonts) 
-*   [Guardian Frontend GitHub (clone repo, npm install, command line 'bundle,' lacking sbt)](https://github.com/guardian/frontend)  
-*   [Guardian Grid GitHub](https://github.com/guardian/grid)
-*   [Guardian Scribe GitHub](https://github.com/guardian/scribe)
-*   [Guardian Riff Raff GitHub](https://github.com/guardian/deploy)
-
-Guardian Guss
-*   [Suit (Inspired Guss Grid System; 'Plays well with Angular') GitHub](https://github.com/suitcss/suit)  
-*   [Guardian Guss GitHub](https://github.com/guardian/guss)  
-*   [Guardian Guss Grid System GitHub](https://github.com/guardian/guss-grid-system)  
-*   [Guardian Guss Layout GitHub](https://github.com/guardian/guss-layout)  
-*   [Guardian Guss Typography GitHub](https://github.com/guardian/guss-typography)  
-*   [Guardian Guss Webfonts GitHub](https://github.com/guardian/guss-webfonts)  
-*   [Guardian Guss CSS3 GitHub](https://github.com/guardian/guss-css3)  
-*   [Guardian Guss Colours GitHub](https://github.com/guardian/guss-colours)  
-*   [Guardian Guss Rem GitHub](https://github.com/guardian/guss-rem)  
- 
-Guardian Pasteup
-*   [Guardian Pasteup Style Homepage](http://www.theguardian.com/us)  
-*   [Guardian Pasteup GitHub (clone repo, use command line for 'bower install pasteup,' grunt serve, error, grunt --f)](https://github.com/guardian/pasteup)  
-*   [Guardian Pasteup Example GitHub](http://pasteup.guim.co.uk/index.html)  
-*   [Guardian Pasteup Buttons GitHub](https://github.com/guardian/pasteup-buttons)  
-*   [Guardian Pasteup Buttons Examples GitHub](http://guardian.github.io/pasteup-buttons)  
-*   [Guardian Pasteup Forms GitHub](https://github.com/guardian/pasteup-forms)  
-*   [Guardian Pasteup Forms Examples GitHub](http://guardian.github.io/pasteup-forms)  
-*   [Guardian Pasteup Palate GitHub](https://github.com/guardian/pasteup-palette)  
-
-Guardian Mobile
-*   [Guardian Mobile Apps Article Template GitHub](https://github.com/guardian/mobile-apps-article-templates)  
-*   [Guardian Mobile Notifications Content GitHub](https://github.com/guardian/mobile-notifications-content)  
-*   [Guardian Mobile Notifications API Client GitHub](https://github.com/guardian/mobile-notifications-api-client)  
-*   [Guardian Mobile Edition Backpage GitHub](https://github.com/guardian/mobile-edition-backpage)  
-
-Guardian Miscellaneous
-*   [Guardian Web Application Specifications GitHub](https://github.com/guardian/guardian-management)  
-*   [Guardian Error Pages GitHub](https://github.com/guardian/error-pages)  
-*   [Guardian Robots.txt GitHub](https://github.com/guardian/robots.txt)  
-*   [Guardian Simply Py GitHub](Guardian Simply Py Github)
-*   [Guardian Content Streams GitHub](https://github.com/guardian/content-streams)  
-*   [Guardian Commercial Responsive Ads GitHub](https://github.com/guardian/commercial-responsive-ads)  
-*   [Guardian Deploy GitHub](https://github.com/guardian/deploy)  
-*   [Guardian Chrome App GitHub](https://github.com/guardian/gdn-chrome-app)  
-
-NYT- Snowfall
-*   [Snow Fall](www.nytimes.com/projects/2012/snow-fall)  
-*   ["How We Made Snowfall"](http://source.opennews.org/en-US/articles/how-we-made-snow-fall)  
-*   ["What the New York Times's 'Snow Fall' Means to Online Journalism's Future"](http://www.thewire.com/technology/2012/12/new-york-times-snow-fall-feature/60219)  
-*   [List of "Snowfall"-esque Projects](https://docs.google.com/spreadsheet/lv?key=0AnWYxsUNHS4FdGVYMnpkdGdTNTU0RS1SXzktcnZwRWc&amp;amp;amp;usp=docslist_api)  
-
-ProPublica- News App and Data Style Guides
-*   [ProPublica- News App and Data Style Guides](https://github.com/propublica/guides)  
-*   [ProPublica- News App Model](https://github.com/propublica/newsappmodel) 
-
-#### Disqus
-
-*   [Disqus Wordpress GitHub](https://github.com/disqus/disqus-wordpress)  
-*   [Disqus PHP GitHub](https://github.com/disqus/disqus-php)  
-*   [Disqus Python GitHub](https://github.com/disqus/disqus-python)  
-*   [Disqus Postgres GitHub](https://github.com/disqus/disqus-postgres)  
 
 ### General Resources
 
