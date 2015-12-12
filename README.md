@@ -1300,11 +1300,12 @@ Ivy League Business and Tech
 *   UCBerkley 
 *   CMU
 
-Stem Journals 
+STEM Journals 
 *   [ACM Publications](https://www.acm.org/publications) and [Journal of the ACM](http://jacm.acm.org)
 *   [Computing Research Repository](http://arxiv.org/corr/home)
 *   [Electrical Engineering Times](http://www.eetimes.com)
 *   [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html)
+*   [Materials Research Society](http://www.mrs.org/home)
 *   [New Scientist](https://www.newscientist.com)
 *   [Public Library of Science](https://www.plos.org)
 *   [Science News](https://www.sciencenews.org)
