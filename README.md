@@ -57,9 +57,9 @@ Table of Contents
   - [Computer Basics](#computer-basics)
   - [Programming Learning Tools](#programming-learning-tools)  
   - [GitHub and Markdown](#github-and-markdown)
-  - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   - [Software Manuals and Documentation](#software-manuals-and-documentation) 
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
+- [Development Environment and Programming](#development-environment-and-programming)
   - [Dot Files](#dot-files)
   - [Unix and Linux](#unix-and-linux)
   - [More Command Line and Shell](#more-command-line-and-shell)
@@ -72,6 +72,7 @@ Table of Contents
 - [More Back-End](#more-back-end)
   - [Node.js and Related](#nodejs-and-related)
   - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
+  - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
 - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 - [Launch and Growth](#lauch-and-growth)
@@ -2725,25 +2726,6 @@ Licenses
 *   [Creative Commons](https://creativecommons.org/licenses)
 *   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
-#### Mojombo Chromebook Recommendation
-
-*   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
-*   [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
-*   [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
-*   [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
-*   [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
-*   [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
-*   [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
-*   [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
-*   [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
-
-Chromebook Ubuntu Installation
-*   [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
-*   [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
-*   [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-*   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
-*   [Crouton GitHub](https://github.com/dnschneid/crouton)  
-
 #### Software Manuals and Documentation 
 
 GNU Software and Manuals
@@ -2808,6 +2790,8 @@ General Styleguides
 Digital Agency Playbook, Blog, Styleguide, Templates
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
+
+### Development Environment and Programming
 
 #### Dot Files
 
@@ -3943,7 +3927,26 @@ Visual Studio
 WebMatrix
 *   [WebMatrix](http://www.microsoft.com/web/webmatrix)
 
-### Mobile
+#### Mojombo Chromebook Recommendation
+
+*   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
+*   [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
+*   [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+*   [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
+*   [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
+*   [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
+*   [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+*   [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
+*   [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
+
+Chromebook Ubuntu Installation
+*   [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
+*   [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
+*   [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
+*   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
+*   [Crouton GitHub](https://github.com/dnschneid/crouton)  
+
+#### Mobile
 
 Mobile- General
 *   [Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Mobile_operating_system)  
