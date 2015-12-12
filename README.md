@@ -3148,10 +3148,9 @@ Python and Django Conferences
 
 Python- Microframeworks and Template Engines
 *   [Bottle](http://bottlepy.org/docs/dev/index.html)  
-*   [Jinja](http://jinja.pocoo.org)  
-*   [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
-*   [Flask](http://flask.pocoo.org)  
-*   [Flask GitHub](https://github.com/mitsuhiko/flask)  
+*   [Jinja](http://jinja.pocoo.org) and [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
+*   [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
+*   [WebPy GitHub](https://github.com/webpy/webpy)
 
 Python- Django
 *   [Django](https://www.djangoproject.com)  
