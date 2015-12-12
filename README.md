@@ -3181,7 +3181,7 @@ Python- Django- Resources
 *   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
-Python- Django- Books and Tutorials (Exluding Django Girls)
+Python- Django Tutorials (excluding Django Girls)
 *   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
 *   [Django Book (Deprecated but useful)](http://www.djangobook.com)  
 *   [Light Weight Django](http://it-ebooks.info/book/2820)  
