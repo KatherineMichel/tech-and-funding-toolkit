@@ -3009,8 +3009,7 @@ Emacs and Vim (Alternative)
 *   [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
 *   [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
 *   [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
-*   [Vim](http://www.vim.org)  
-*   [Vim Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
+*   [Vim](http://www.vim.org) and [Vim Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
 *   [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
 Windows PowerShell
