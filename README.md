@@ -2824,6 +2824,7 @@ Licenses
 *   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
 *   [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
 *   [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+*   [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
 *   [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
 *   [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
 *   [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
