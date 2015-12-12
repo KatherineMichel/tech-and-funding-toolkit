@@ -3587,8 +3587,9 @@ Designer/Developer Conferences
 Web Analytics
 *   [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
-Apple Developer
+Apple Developer and Open Source
 *   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
+*   [Apple Open Source](https://developer.apple.com/opensource)
 
 Apple- Devices
 *   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
@@ -5366,6 +5367,7 @@ Google
 
 *   [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
 *   [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
+*   [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
 *   [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
 *   [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
 *   [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
