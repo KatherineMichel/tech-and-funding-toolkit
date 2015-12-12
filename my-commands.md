@@ -77,6 +77,24 @@ Django Project Mapping
 *   Map appname/urls.py to appname/views.py
 *   Map name='urlname' to template 
 
+Add DIRS:
+
+    TEMPLATES = [
+        {
+            'BACKEND': 'django.template.backends.django.DjangoTemplates',
+            'DIRS': [os.path.join(BASE_DIR, 'templates')],
+            'APP_DIRS': True,
+            'OPTIONS': {
+            'context_processors': [
+            'django.template.context_processors.debug',
+            'django.template.context_processors.request',
+            'django.contrib.auth.context_processors.auth',
+            'django.contrib.messages.context_processors.messages',
+            ],
+        },
+    },
+]
+
 Templates and static
 *   appname/templates/appname/filename.html
 *   appname/static/appname/styles.css
