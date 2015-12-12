@@ -4875,6 +4875,10 @@ Python- Django- Digital Ocean Deployment
 Python- Django- OpenShift Deployment
 *   [OpenShift Django Example GitHub](https://github.com/openshift/django-example)  
 
+Python- Django- Environmental Variables
+*   os.getenv and os.environ.get
+*   [Python Decouple (Example: Bootcamp) GitHub](https://github.com/henriquebastos/python-decouple)
+
 Python- Django- Random SECRET_KEY
 *   [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
 
