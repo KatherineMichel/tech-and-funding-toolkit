@@ -2776,7 +2776,7 @@ GitHub- Main
 *   [GitHub Training](http://training.github.com)  
 *   [GitHub Blog](https://github.com/blog)  
 *   [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-*   [GitHub Developer](https://developer.github.com)
+*   [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 *   [Git Ignore GitHub](https://github.com/github/gitignore)  
 *   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
 
@@ -3602,9 +3602,10 @@ Apple- Devices
 *   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
 Apple- More
-*   [Homebrew GitHub](https://github.com/Homebrew/homebrew)
+*   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
 *   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
+*   [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 *   [Xcode](https://developer.apple.com/xcode) 
 *   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
 *   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
@@ -3637,6 +3638,7 @@ Google Developers
 
 Google Dev Tools
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
+*   [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
 *   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
 Google Analytics
@@ -3958,11 +3960,12 @@ ASP
 *   [ASP](http://www.asp.net), [ASP Downloads](http://www.asp.net/downloads), [ASP Home GitHub](https://github.com/aspnet/Home), [ASP Docs](http://docs.asp.net), and [ASP Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP Docker GitHub](https://github.com/aspnet/aspnet-docker)
 *   [Heroku ASP Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+*   [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
 
 Visual Studio
 *   [Visual Studio](http://www.visualstudio.com/en-us)  
-*   [Visual Studio Code](https://code.visualstudio.com)  
-*   [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+*   [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+*   [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 *   [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
 *   [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
 
@@ -4843,6 +4846,7 @@ Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python p
 *   [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
 
 Python- Heroku
+*   [Heroku Python Homepage](https://www.heroku.com/python) 
 *   [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
 *   [Heroku Python Category](https://devcenter.heroku.com/categories/python)  
 *   [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python-o)  
