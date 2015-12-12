@@ -49,16 +49,14 @@ Table of Contents
   - [Labs](#labs)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
-  - [Designer and Developer General](#designer-and-developer-general)
+- [Web Dev and Design](#web-dev-and-design)
   - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
   - [Social Media and Social Graph](#social-media-and-social-graph) 
   - [Testing and Performance](#testing-and-performance)
-- [Web Dev and Design](#web-dev-and-design)
-  - [Computer Basics](#computer-basics)
   - [Programming Learning Tools](#programming-learning-tools)  
-  - [Software Manuals and Documentation](#software-manuals-and-documentation) 
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
 - [Development Environment and Programming](#development-environment-and-programming)
+  - [Computer Basics](#computer-basics)
   - [Dot Files](#dot-files)
   - [Unix and Linux](#unix-and-linux)
   - [GitHub and Markdown](#github-and-markdown)
@@ -83,7 +81,6 @@ Table of Contents
   - [Internationalization](#internationalization)
   - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
-- [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Example Website Code and Style Guides](#example-website-code-and-style-guides)
   - [Python](#python) 
   - [Ruby, Rails](#ruby-rails)
@@ -101,6 +98,7 @@ Table of Contents
   - [Notable Interviews and Presentations](#notable-interviews-and-presentations)
   - [Notable Quotes](#notable-quotes)
 - [Appendix](#appendix)
+  - [Software Manuals and Documentation](#software-manuals-and-documentation) 
   - [Other Enormous Tool Lists](#other-enormous-tool-lists)
   - [Vocabulary](#vocabulary)
 
@@ -2295,7 +2293,7 @@ Miscellaneous
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-### Designer and Developer General
+### Web Dev and Design
 
 Web General
 *   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
@@ -2526,8 +2524,6 @@ Cookies
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 *   [W3 Mobile Validator](http://validator.w3.org/mobile)
 
-### Web Dev and Design
-
 #### Programming Learning Tools
 
 Programming and Math Learning Tools
@@ -2564,49 +2560,9 @@ Documentation
 *   [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 *   [World Wide Web Consortium Homepage](http://www.w3.org)  
 
-#### Software Manuals and Documentation 
-
 GNU Software and Manuals
 *   [GNU Software](http://www.gnu.org/software/software.html)  
-*   [GNU Software Manual](http://www.gnu.org/manual/manual.html)  
-
-Pandoc
-*   [Pandoc](http://johnmacfarlane.net/pandoc)  
-
-Dexy
-*   [Dexy](http://www.dexy.it)  
-
-GitBook
-*   [GitBook](https://www.gitbook.com)  
-*   [GitBook GitHub](https://github.com/GitbookIO)  
-*   [GitBook Documentation](http://help.gitbook.io)  
-*   [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
-*   [GitBook Themes](http://help.gitbook.io/book/themes.html)  
-
-GitHub Wiki
-*   [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
-
-iPython
-*   [iPython](http://ipython.org)  
-
-LaTeX
-*   [LaTeX](http://latex-project.org)  
-*   [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
-*   [Share LaTeX](https://github.com/sharelatex/sharelatex)  
-
-Read the Docs
-*   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
-*   [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
-*   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
-
-Python- Django-Sphinxdoc
-*   [Sphinxdoc](http://sphinx-doc.org)  
-*   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
-
-API Docs (see also Python- Django- Rest Framework Swagger)
-*   [Swagger API Docs](http://swagger.io)  
-*   [Slate API Docs GitHub](https://github.com/tripit/slate)  
-*   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com)  
+*   [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 
 #### Open Source Management and Style Guides
 
@@ -5417,6 +5373,46 @@ Google
 *   [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 
 ### Appendix
+
+#### Software Manuals and Documentation 
+
+Pandoc
+*   [Pandoc](http://johnmacfarlane.net/pandoc)  
+
+Dexy
+*   [Dexy](http://www.dexy.it)  
+
+GitBook
+*   [GitBook](https://www.gitbook.com)  
+*   [GitBook GitHub](https://github.com/GitbookIO)  
+*   [GitBook Documentation](http://help.gitbook.io)  
+*   [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
+*   [GitBook Themes](http://help.gitbook.io/book/themes.html)  
+
+GitHub Wiki
+*   [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
+
+iPython
+*   [iPython](http://ipython.org)  
+
+LaTeX
+*   [LaTeX](http://latex-project.org)  
+*   [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
+*   [Share LaTeX](https://github.com/sharelatex/sharelatex)  
+
+Read the Docs
+*   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+*   [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
+*   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
+
+Python- Django-Sphinxdoc
+*   [Sphinxdoc](http://sphinx-doc.org)  
+*   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
+
+API Docs (see also Python- Django- Rest Framework Swagger)
+*   [Swagger API Docs](http://swagger.io)  
+*   [Slate API Docs GitHub](https://github.com/tripit/slate)  
+*   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
 
 #### Other Enormous Tool Lists
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
