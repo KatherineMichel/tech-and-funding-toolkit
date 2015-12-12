@@ -5192,6 +5192,9 @@ Preferred Non-official Templates (See also WordPress)
 *   [Locomotive (Simple Landing Page) GitHub](https://github.com/jaredhanson/locomotive)  
 *   [Skeleton (Problem starting Gulp; but nice page/file structure) GitHub](https://github.com/dstroot/skeleton)  
 
+Websites
+*   [HospitalRun GitHub](https://github.com/HospitalRun/hospitalrun-frontend)
+
 Drupal
 *   [Drupal GitHub](https://github.com/drupal/drupal)  
 *   [Drupal Community](https://drupal.org/community)  
@@ -5199,6 +5202,15 @@ Drupal
 #### Jekyll (based on Ruby)
 
 #### Government Code and Style Guides
+
+https://www.vets.gov
+https://www.vets.gov/playbook
+https://pages.18f.gov/accessibility/pagetitles
+
+https://github.com/18F/pages
+https://github.com/18F/guides-template
+https://github.com/cfpb/docter
+http://cfpb.github.io
 
 GitHub Government 
 *   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
