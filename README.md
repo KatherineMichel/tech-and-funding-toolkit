@@ -56,12 +56,12 @@ Table of Contents
 - [Web Dev and Design](#web-dev-and-design)
   - [Computer Basics](#computer-basics)
   - [Programming Learning Tools](#programming-learning-tools)  
-  - [GitHub and Markdown](#github-and-markdown)
   - [Software Manuals and Documentation](#software-manuals-and-documentation) 
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
 - [Development Environment and Programming](#development-environment-and-programming)
   - [Dot Files](#dot-files)
   - [Unix and Linux](#unix-and-linux)
+  - [GitHub and Markdown](#github-and-markdown)
   - [More Command Line and Shell](#more-command-line-and-shell)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Python and Django Toolkit](#python-and-django-toolkit)
@@ -2528,6 +2528,109 @@ Cookies
 
 ### Web Dev and Design
 
+#### Programming Learning Tools
+
+Programming and Math Learning Tools
+*   [Arduino](https://www.arduino.cc)
+*   [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
+*   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
+*   [Learn Code the Hard Way](http://learncodethehardway.org)  
+*   [Codecademy](http://www.codecademy.com)  
+*   [CodePath GitHub](https://github.com/codepath)
+*   [Code.org](https://code.org)
+*   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
+*   [Kano Playground](http://art.kano.me/playground)
+*   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
+*   [Math Overflow](http://mathoverflow.net)
+*   [Minecraft](https://minecraft.net)
+*   [Project Euler](http://www.projecteuler.net)  
+*   [Project Euler Local](https://github.com/imsky/LocalEuler)  
+*   [Project Euler Problems](http://projecteuler.net/problems)  
+*   [Raspberry PI](http://www.raspberrypi.org)
+*   [Scratch (MIT)](https://scratch.mit.edu)
+*   [Skillshare](http://www.skillshare.com/classes)
+*   [W3 Web Development Tutorials](http://www.w3schools.com) 
+*   [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+*   [Wolfram MathWorld](http://mathworld.wolfram.com)
+
+Text Editor and Code Demonstration
+*   [JSFiddle](http://jsfiddle.net)
+*   [Codepen](http://codepen.io)
+
+Documentation
+*   [IT eBooks](http://it-ebooks.info)
+*   [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+*   [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+*   [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+*   [World Wide Web Consortium Homepage](http://www.w3.org)  
+
+#### Software Manuals and Documentation 
+
+GNU Software and Manuals
+*   [GNU Software](http://www.gnu.org/software/software.html)  
+*   [GNU Software Manual](http://www.gnu.org/manual/manual.html)  
+
+Pandoc
+*   [Pandoc](http://johnmacfarlane.net/pandoc)  
+
+Dexy
+*   [Dexy](http://www.dexy.it)  
+
+GitBook
+*   [GitBook](https://www.gitbook.com)  
+*   [GitBook GitHub](https://github.com/GitbookIO)  
+*   [GitBook Documentation](http://help.gitbook.io)  
+*   [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
+*   [GitBook Themes](http://help.gitbook.io/book/themes.html)  
+
+GitHub Wiki
+*   [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
+
+iPython
+*   [iPython](http://ipython.org)  
+
+LaTeX
+*   [LaTeX](http://latex-project.org)  
+*   [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
+*   [Share LaTeX](https://github.com/sharelatex/sharelatex)  
+
+Read the Docs
+*   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+*   [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
+*   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
+
+Python- Django-Sphinxdoc
+*   [Sphinxdoc](http://sphinx-doc.org)  
+*   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
+
+API Docs (see also Python- Django- Rest Framework Swagger)
+*   [Swagger API Docs](http://swagger.io)  
+*   [Slate API Docs GitHub](https://github.com/tripit/slate)  
+*   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com)  
+
+#### Open Source Management and Style Guides
+
+Open Source Management
+*   [Open Source Management at Docker](https://github.com/docker/opensource)
+
+General Styleguides
+*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+*   [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
+*   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+*   [Styleguide GitHub](https://github.com/styleguide) 
+*   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
+*   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+*   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
+*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
+
+### Development Environment and Programming
+
 #### Computer Basics
 
 Wikipedia Portals
@@ -2626,173 +2729,6 @@ TCP-IP and OSI Protocols
 *   [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
 *   [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
-#### Programming Learning Tools
-
-Programming and Math Learning Tools
-*   [Arduino](https://www.arduino.cc)
-*   [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
-*   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
-*   [Learn Code the Hard Way](http://learncodethehardway.org)  
-*   [Codecademy](http://www.codecademy.com)  
-*   [CodePath GitHub](https://github.com/codepath)
-*   [Code.org](https://code.org)
-*   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
-*   [Kano Playground](http://art.kano.me/playground)
-*   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
-*   [Math Overflow](http://mathoverflow.net)
-*   [Minecraft](https://minecraft.net)
-*   [Project Euler](http://www.projecteuler.net)  
-*   [Project Euler Local](https://github.com/imsky/LocalEuler)  
-*   [Project Euler Problems](http://projecteuler.net/problems)  
-*   [Raspberry PI](http://www.raspberrypi.org)
-*   [Scratch (MIT)](https://scratch.mit.edu)
-*   [Skillshare](http://www.skillshare.com/classes)
-*   [W3 Web Development Tutorials](http://www.w3schools.com) 
-*   [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-*   [Wolfram MathWorld](http://mathworld.wolfram.com)
-
-Text Editor and Code Demonstration
-*   [JSFiddle](http://jsfiddle.net)
-*   [Codepen](http://codepen.io)
-
-Documentation
-*   [IT eBooks](http://it-ebooks.info)
-*   [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-*   [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-*   [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-*   [World Wide Web Consortium Homepage](http://www.w3.org)  
-
-#### GitHub and Markdown
-
-Git
-*   [Git GitHub](https://github.com/git/git)  
-*   [Git GitHub](https://github.com/mojombo/git)  
-*   [Git GitHub](https://github.com/xlymian/git)  
-*   [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
-*   [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
- 
-GitHub- Main
-*   [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
-*   [GitHub Help](https://help.github.com)  
-*   [GitHub Training](http://training.github.com)  
-*   [GitHub Blog](https://github.com/blog)  
-*   [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-*   [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-*   [Git Ignore GitHub](https://github.com/github/gitignore)  
-*   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
-
-GitHub Services Integration
-*   [Service Hooks GitHub](https://github.com/github/github-services)  
-*   [GitHub Integrations](https://github.com/integrations)  
-
-GitHub- More
-*   [GitHub DCMA](https://github.com/github/dmca)
-*   [Octokit](https://github.com/octokit) 
-
-Markdown
-*   [Markdown](http://daringfireball.net/projects/markdown)  
-*   [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
-*   [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
-*   [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-*   [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
-
-Git Learning Resources
-*   [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-*   [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-*   [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-*   [Git Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
-*   [Git Book](http://www.git-scm.com/book/en)  
-*   [Git Videos](http://www.git-scm.com/videos)  
-*   [Git Downloads](http://git-scm.com/downloads)  
-*   [Git Index](http://gitref.org/index.html)  
-*   [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic)  
-
-GitHub Alternatives
-*   [Bitbucket](https://bitbucket.org)  
-*   [Google Code](https://code.google.com)  
-*   [Sourceforge](http://sourceforge.net)  
-*   [Codebase](https://www.codebasehq.com)  
-
-Licenses
-*   [GitHub Choose a License](http://choosealicense.com)
-*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
-*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-*   [Creative Commons](https://creativecommons.org/licenses)
-*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
-
-#### Software Manuals and Documentation 
-
-GNU Software and Manuals
-*   [GNU Software](http://www.gnu.org/software/software.html)  
-*   [GNU Software Manual](http://www.gnu.org/manual/manual.html)  
-
-Pandoc
-*   [Pandoc](http://johnmacfarlane.net/pandoc)  
-
-Dexy
-*   [Dexy](http://www.dexy.it)  
-
-GitBook
-*   [GitBook](https://www.gitbook.com)  
-*   [GitBook GitHub](https://github.com/GitbookIO)  
-*   [GitBook Documentation](http://help.gitbook.io)  
-*   [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
-*   [GitBook Themes](http://help.gitbook.io/book/themes.html)  
-
-GitHub Wiki
-*   [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
-
-iPython
-*   [iPython](http://ipython.org)  
-
-LaTeX
-*   [LaTeX](http://latex-project.org)  
-*   [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
-*   [Share LaTeX](https://github.com/sharelatex/sharelatex)  
-
-Read the Docs
-*   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
-*   [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
-*   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
-
-Python- Django-Sphinxdoc
-*   [Sphinxdoc](http://sphinx-doc.org)  
-*   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
-
-API Docs (see also Python- Django- Rest Framework Swagger)
-*   [Swagger API Docs](http://swagger.io)  
-*   [Slate API Docs GitHub](https://github.com/tripit/slate)  
-*   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com)  
-
-#### Open Source Management and Style Guides
-
-Open Source Management
-*   [Open Source Management at Docker](https://github.com/docker/opensource)
-
-General Styleguides
-*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-*   [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
-*   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-*   [Styleguide GitHub](https://github.com/styleguide) 
-*   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-*   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
-*   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-*   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-*   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
-*   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
-
-### Development Environment and Programming
-
 #### Dot Files
 
 Dot Files
@@ -2860,6 +2796,70 @@ Linux- Other Popular Distributions
 *   [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
 *   [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
 *   [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
+
+#### GitHub and Markdown
+
+Git
+*   [Git GitHub](https://github.com/git/git)  
+*   [Git GitHub](https://github.com/mojombo/git)  
+*   [Git GitHub](https://github.com/xlymian/git)  
+*   [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
+*   [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
+ 
+GitHub- Main
+*   [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+*   [GitHub Help](https://help.github.com)  
+*   [GitHub Training](http://training.github.com)  
+*   [GitHub Blog](https://github.com/blog)  
+*   [Github Development (Example Website)](https://github.com/github/developer.github.com)  
+*   [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+*   [Git Ignore GitHub](https://github.com/github/gitignore)  
+*   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
+
+GitHub Services Integration
+*   [Service Hooks GitHub](https://github.com/github/github-services)  
+*   [GitHub Integrations](https://github.com/integrations)  
+
+GitHub- More
+*   [GitHub DCMA](https://github.com/github/dmca)
+*   [Octokit](https://github.com/octokit) 
+
+Markdown
+*   [Markdown](http://daringfireball.net/projects/markdown)  
+*   [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
+*   [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
+*   [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+*   [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+
+Git Learning Resources
+*   [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+*   [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+*   [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+*   [Git Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
+*   [Git Book](http://www.git-scm.com/book/en)  
+*   [Git Videos](http://www.git-scm.com/videos)  
+*   [Git Downloads](http://git-scm.com/downloads)  
+*   [Git Index](http://gitref.org/index.html)  
+*   [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic)  
+
+GitHub Alternatives
+*   [Bitbucket](https://bitbucket.org)  
+*   [Google Code](https://code.google.com)  
+*   [Sourceforge](http://sourceforge.net)  
+*   [Codebase](https://www.codebasehq.com)  
+
+Licenses
+*   [GitHub Choose a License](http://choosealicense.com)
+*   [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+*   [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+*   [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+*   [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+*   [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+*   [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+*   [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+*   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+*   [Creative Commons](https://creativecommons.org/licenses)
+*   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 #### More Command Line and Shell
 
