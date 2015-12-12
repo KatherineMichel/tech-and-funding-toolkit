@@ -3890,7 +3890,7 @@ Compilation Resources
 *   [Gulp GitHub](https://github.com/gulpjs/gulp)  
 *   [Compass GitHub](https://github.com/chriseppstein/compass)  
 *   [Less GitHub](https://github.com/less/less.js)  
-*   [Sass GitHub](https://github.com/nex3/sass)  
+*   [Sass (Syntactically Awesome Style Sheets) GitHub](https://github.com/nex3/sass)  
 *   [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
 
 Extension Languages
