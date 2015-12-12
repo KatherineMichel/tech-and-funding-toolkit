@@ -37,6 +37,9 @@ Individual Projects/Sprints
 *   [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
 *   [Tech and Venture Capital Toolkit](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit)
 
+First Pull Request
+*   [November 3, 2013](https://github.com/sinker/tacofancy/pull/44)
+
 Project Management and Tools
 *   [Asana](https://app.asana.com/0/31099737955561/31099737955561)
 *   [GitHub](https://github.com/KatherineMichel) 
