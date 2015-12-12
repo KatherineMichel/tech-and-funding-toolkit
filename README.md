@@ -2585,6 +2585,24 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
+Journalism Handbooks
+*   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
+*   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
+*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
+
+Journalism Style Guides 
+*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
+*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
+*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
+*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
+*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
+*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
+*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
+
+BBC
+*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
+
 ### Development Environment and Programming
 
 #### Computer Basics
@@ -4547,27 +4565,7 @@ Drupal
 *   [Drupal GitHub](https://github.com/drupal/drupal)  
 *   [Drupal Community](https://drupal.org/community)  
 
-
-
 #### Newspaper Code and Style Guides
-
-Journalism Handbooks
-*   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
-*   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
-*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
-
-Journalism Style Guides 
-*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
-*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
-*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
-*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
-*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
-*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
-*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
-*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
-
-BBC
-*   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
 
 Financial Times
 *   [Origami](http://origami.ft.com)
