@@ -49,15 +49,10 @@ Table of Contents
   - [Labs](#labs)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
-- [Launch and Growth](#lauch-and-growth)
-  - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
-  - [Launch Strategies](#launch-strategies)
-  - [Metrics](#metrics)
-  - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
-  - [Internationalization](#internationalization)
-  - [Startup Transparency Examples](#startup-transparency-examples)
-- [Popular Tools](#popular-tools)
-- [Code, Sharing, Analytics](#code-sharing-analytics)
+  - [Designer and Developer General](#designer-and-developer-general)
+  - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
+  - [Social Media and Social Graph](#social-media-and-social-graph) 
+  - [Testing and Performance](#testing-and-performance)
 - [Web Dev and Design](#web-dev-and-design)
   - [Computer Basics](#computer-basics)
   - [Programming Learning Tools](#programming-learning-tools)  
@@ -74,15 +69,20 @@ Table of Contents
   - [SQL](#sql)  
 - [Deployment and Cloud](#deployment-and-cloud)
   - [Dev Ops Tools](#dev-ops-tools)
-  - [Designer and Developer General](#designer-and-developer-general)
-  - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
-  - [Social Media and Social Graph](#social-media-and-social-graph)
-  - [Mobile](#mobile)
-  - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
-  - [Testing and Performance](#testing-and-performance)
 - [More Back-End](#more-back-end)
   - [Node.js and Related](#nodejs-and-related)
   - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
+- [Mobile](#mobile)
+  - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
+- [Launch and Growth](#lauch-and-growth)
+  - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
+  - [Launch Strategies](#launch-strategies)
+  - [Metrics](#metrics)
+  - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
+  - [Internationalization](#internationalization)
+  - [Startup Transparency Examples](#startup-transparency-examples)
+- [Popular Tools](#popular-tools)
+- [Code, Sharing, Analytics](#code-sharing-analytics)
 - [Example Website Code and Style Guides](#example-website-code-and-style-guides)
   - [Python](#python) 
   - [Ruby, Rails](#ruby-rails)
@@ -2159,7 +2159,6 @@ Flickr
 
 KPCB and John Maeda Design in Tech Report
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
 Company Design
 *   [Medium Design](https://medium.com/designing-medium)  
 *   [IBM Design](https://www.ibm.com/design)  
@@ -2255,382 +2254,236 @@ Miscellaneous
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-### Launch and Growth
-
-#### Notable Proposals and Pitch Decks
-
-*   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
-
-Pitch Deck Search
-*   [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
-*   [Pitch Envy](http://www.pitchenvy.com)
-*   [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
-
-Notable Proposals and Pitch Decks
-*   [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
-*   [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
-*   [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
-*   [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
-*   [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
-*   [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
-*   [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
-*   [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
-*   [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
-*   [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
-*   [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
-*   [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
-*   [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
-*   [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
-*   [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
-*   [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
-*   [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
-*   [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
-*   [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
-*   [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
-*   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
-*   [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
-*   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
-*   [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
-
-Templates
-*   [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
-*   [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
-*   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
-*   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
-*   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
-*   [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
-*   [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
-
-#### Launch Strategies
-
-Launch Guides
-*   [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
-*   [Marketing Checklist for Indie Game Developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers)
-
-General
-*   [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
-
-Epic
-*   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
-
-Tools
-*   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
-*   [Amazon Example Press Release](http://aws.amazon.com/new) 
-*   [Sandwich Video](http://sandwichvideo.com)
-
-Journalism Handbooks
-*   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
-*   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
-*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
-
-Journalism Style Guides 
-*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
-*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
-*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
-*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
-*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
-*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
-*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
-*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
-
-#### Growth, Marketing, and Content Resources
-
-Advertising and Marketing
-*   [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
-*   [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
-*   [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
-
-Distribution, Digital Distribution and User-Generated Content
-*   [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-*   [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-*   [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
-
-Distribution, Growth, Sales Hacking
-*   [Distribution Hacks](http://distributionhacks.com) 
-*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-*   [Saleshacker](http://www.saleshacker.com)
-
-Marketing and Search Engine Land
-*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
-
-Hiten Shah and Neil Patel
-*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
-*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
-*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
-*   [Quicksprout](http://www.quicksprout.com) 
-
-Popular Tools
-*   [Buffer](https://bufferapp.com)
-*   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
-*   [Detour Blog](http://blog.detour.com)
-*   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-*   [Intercom Blog](http://blog.intercom.io)
-*   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-*   [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
-*   [URX Blog](http://blog.urx.com/urx-blog) 
-
-Digital Novel
-*   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
-*   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
-*   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
-
-Digital Stats
-*   [eMarketer](http://www.emarketer.com)
-
-#### Metrics
-
-Financial Ratio
-*   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-*   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-Business and Financial Metrics
-* 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
-* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
-* 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
-* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
-* 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
-* 6 [Gross Merchandise Value (GMV)](http://www.investopedia.com/terms/g/gross-merchandise-value.asp) vs. Revenue
-* 7 Unearned or Deferred Revenue … and Billings
-* 8 [CAC (Customer Acquisition Cost) Wikipedia](https://en.wikipedia.org/wiki/Customer_acquisition_cost) … Blended vs. Paid, Organic vs. Inorganic
-
-Product and Engagement Metrics
-* 9 Active Users
-* 10 Month-on-month (MoM) growth, CMGR 
-* 11 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate) 
-* 12 [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate) (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
-* 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
-
-Presenting Metrics Generally
-* 14 Cumulative Charts (vs. Growth Metrics)
-* 15 Chart Tricks
-* 16 Order of Operations
-
-Business and Financial Metrics
-* Total Addressable Market (TAM) (Bottom Up/Top Down)
-* ARR (annual recurring revenue) ≠ Annual Run Rate
-* Average Revenue Per User (ARPU)
-* Gross Margins
-* Sell-Through Rate & Inventory Turns (Also: “close rate”, “conversion rate”, and “success rate”)
-
-Economic and Other Defining Qualities
-* Network Effects
-* Virality (viral coefficient or k-value)
-* Economies of Scale (“Scale”)
-
-Other Product and Engagement Metrics
-* Net Promoter Score (NPS)
-* Cohort Analysis
-* Registered Users
-* Active Users (MAUs (monthly active users), WAUs (weekly active users), DAUs (daily active users), and HAUs (hourly active users)), (uniques, visits, time on site, repeat visits)
-* Sources of Traffic (direct traffic, organic traffic, (SEO, SEM)
-* Customer Concentration Risk
-
-Presenting Metrics Generally
-* Truncating the Y-Axis
-* Cumulative Charts, Again
-
-Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
-* [Return on Net Assets (RONA) Wikipedia](https://en.wikipedia.org/wiki/Return_on_net_assets)
-* [Return on Capital Employed (ROCE) Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital_employed)
-* [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
-* [Earnings Per Share (EPS) Wikipedia](https://en.wikipedia.org/wiki/Earnings_per_share)
-* [Gross Margin (Percentage) Wikipedia](https://en.wikipedia.org/wiki/Gross_margin)
-* [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
-* [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost)/[Marginal Revenue](https://en.wikipedia.org/wiki/Marginal_revenue)
-* Debt/Equity
-* [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
-* [Revenue (Net Income) Per Employee Wikipedia](https://en.wikipedia.org/wiki/Net_income_per_employee)
-
-Ellen Chisa HBS Fin2
-* [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
-* [Discounted Cash Flow Wikipedia](http://en.wikipedia.org/wiki/Discounted_cash_flow)
-* [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
-* Multiples
-* Bonds
-* [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
-
-More Models
-*   [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
-*   [Counterfactual Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_conditional)
-*   [Critical Mass (Disambiguation) Wikipedia](https://en.wikipedia.org/wiki/Critical_mass_(disambiguation))
-*   [Evolution Wikipedia](https://en.wikipedia.org/wiki/Evolution)
-*   [Feedback Wikipedia](https://en.wikipedia.org/wiki/Feedback)
-*   [First Principles Wikipedia](https://en.wikipedia.org/wiki/First_principle) versus [Analogy Wikipedia](https://en.wikipedia.org/wiki/Analogy)
-*   [Inertia Wikipedia](https://en.wikipedia.org/wiki/Inertia)
-*   [Jacobian Inverse Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#Inverse)
-*   [Local Maxima Wikipedia](https://en.wikipedia.org/wiki/Maxima_and_minima)
-*   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
-*   [Mean Reversion Wikipedia](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
-*   Optionality
-*   [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
-*   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
-*   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
-
-Bill Gurley on Conversion and LTV
-*   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
-*   [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
-*   [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
-*   [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
-
-OKRs
-*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-
-KPIs
-*   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
-
-Pirate Metrics
-*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-Miscellaneous Metrics
-*   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
-*   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
-*   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
-*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
-
-#### Internationalization
-
-*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
-
-#### Startup Transparency Examples
-
-*   [Income Reports](http://www.incomereports.co)
-
-Buffer
-*   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-*   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-*   [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-*   [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-*   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-*   [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-*   [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-#### Popular Tools
-
-Two Factor Authentication
-
-*   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
-
-Google Products, Office
-*   [Google Products](http://www.google.com/intl/en/about/products) 
-*   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
-*   [Google Gmail](http://gmail.com)  
-*   [Google Drive](https://www.google.com/drive) 
-*   [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
-*   [Google Drawings](https://docs.google.com/drawings)  
-*   [Google Calendar](https://www.google.com/calendar) 
-*   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
-*   [Google Flights](https://www.google.com/flights)  
-*   [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
-*   [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
-*   [Google Translate](https://translate.google.com/?hl=en)  
-*   [Let Me Google that for You](http://lmgtfy.com) 
-
-API
-*   [Blockspring](https://www.blockspring.com)
-
-Email
-*   [MailChimp](http://mailchimp.com)
-*   [Mailgun](http://www.mailgun.com)  
-*   [Mandrill](http://mandrill.com)  
-*   [SendGrid](http://sendgrid.com)  
- 
-Group Communication/Chat
-*   [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
-*   [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
-*   [Skype](http://www.skype.com/en) 
-*   [Meetup](http://www.meetup.com)
-*   [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
- 
-Livestreaming, Video, Audio 
-*   [Livestream](http://new.livestream.com) 
-*   [SoundCloud](https://soundcloud.com)  
-*   [Vimeo](https://vimeo.com)  
-*   [YouTube](https://www.youtube.com) 
-
-Photo Hosting
-*   [Flickr](https://www.flickr.com) 
-*   [Google Photos](https://photos.google.com)
-*   [Picasa](https://picasa.google.com)
-
-Document Hosting
-*   [Scribd](https://www.scribd.com)
-
-Links
-*   [Bitly](https://bitly.com)
-
-Calendar 
-*   [Sunrise](https://calendar.sunrise.am)
-
-Social Media Distribution 
-*   [Facebook](https://www.facebook.com)
-*   [Twitter](https://twitter.com)
-
-Social Media Distribution 
-*   [Buffer](https://bufferapp.com)
-*   [Hootsuite](https://hootsuite.com)
-*   [HubSpot CRM](http://www.hubspot.com/crm)
-*   [Storify](https://storify.com)  
-*   [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
-*   [Tweetbot](http://tapbots.com/tweetbot)
-
-Customer Relationship Management
-*   [Salesforce](https://www.salesforce.com)
-*   [RelateIQ](https://www.relateiq.com) 
-
-Task Automation
-*   [IFTTT](https://ifttt.com) 
-
-Payments
-*   [Apple Pay](https://www.apple.com/apple-pay) 
-*   [Bitcoin](https://bitcoin.org/en) 
-*   [Paypal](https://www.paypal.com)
-*   [Square](https://squareup.com)
-*   [Stripe](https://stripe.com)
-
-File Storage
-*   [Box](https://www.box.com) 
-*   [Dropbox](https://www.dropbox.com)
-
-Logistics
-*   [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
-*   [Gumtree](http://www.gumtree.co)
-*   [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
-*   [Move Loot](https://www.moveloot.com/welcome)
-*   [Statewide List](http://www.statewidelist.com)
-
-Crowd Sourced Internet Marketplace
-*   [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
-*   [Crowdflower](http://www.crowdflower.com)  
-
-Docs
-*   [DocSend](https://docsend.com)
-*   [DocuSign](https://www.docusign.com)
-*   [FullContact](http://www.fullcontact.com)
-*   [HelloSign](https://www.hellosign.com)
-*   [Streak](https://www.streak.com)
-
-Admin, Hiring, Payroll
-*   [Clara Labs](https://claralabs.com) 
-*   [Evernote](https://evernote.com)
-*   [Lever](http://lever.co)  
-*   [Jobvite](http://www.jobvite.com)
-*   [QuickBooks](http://quickbooks.intuit.com)
-*   [Teespring](http://teespring.com)
-*   [ZenPayroll](https://zenpayroll.com) 
-*   [Zenefits](http://www.zenefits.com)
+### Designer and Developer General
+
+Web General
+*   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+*   [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+*   [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+*   [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+*   [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
+*   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+*   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+*   [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+*   [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+*   [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
+*   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+*   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+
+HTML, XML, XHTML
+*   [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+*   [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+*   [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+*   [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+*   [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+*   [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+*   [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+*   [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
+CSS
+*   [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+*   [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+*   [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+*   [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+DevCenter
+*   [DevCenter Website](DevCenter.me)  
+
+Guides for Development
+*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Built With (Exluding Django)
+*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+*   [Built With](http://builtwith.com)  
+*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+*   [Built with Bootstrap](http://expo.getbootstrap.com)  
+*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+*   [Squarespace (Website Examples)](http://www.squarespace.com) 
+
+Code Search
+*   [Search Code](https://searchcode.com)  
+*   [Nerdy Data](http://nerdydata.com)  
+
+Example
+*   [Example Org](http://www.example.org)  
+*   [Example Org Mobile](https://m.example.com) 
+
+#### Engineering Blogs and Designer, Developer Conferences
+
+List of Engineering Blogs
+*   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+
+Individual Engineering Blogs
+*   [Buffer Engineering](https://overflow.bufferapp.com)
+*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+*   [LinkedIn Engineering](http://engineering.linkedin.com)  
+*   [Pinterest Engineering](http://engineering.pinterest.com)  
+*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+*   [Uber Developers](https://devblog.uber.com)  
+*   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+Designer/Developer Conferences
+*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
+*   [Google Design Form](http://www.google.com/design/form) 
+*   [Google IO](https://www.google.com/events/io)  
+*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+*   [Twitter Flock](http://flock.fabric.io) 
+
+#### Social Media and Social Graph
+
+Web Analytics
+*   [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
+
+Apple Developer and Open Source
+*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
+*   [Apple Open Source](https://developer.apple.com/opensource)
+
+Apple- Devices
+*   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+
+Apple- More
+*   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
+*   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
+*   [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+*   [Xcode](https://developer.apple.com/xcode) 
+*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+*   [Apple Watchkit](https://developer.apple.com/watchkit)  
+*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
+*   [Apple Support](http://www.apple.com/support) 
+
+Facebook
+*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
+
+Facebook Developers
+*   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+
+Facebook Tools
+*   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+*   [Facebook Business](https://www.facebook.com/business)
+*   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+*   [Fb Start for Mobile Startups](http://fbstart.com)
+
+Google
+*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
+
+Google Developers
+*   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+*   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+*   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+*   [Google Styleguides](https://github.com/google/styleguide)
+
+Google Dev Tools
+*   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
+*   [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
+*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Analytics
+*   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+Google Ads
+*   [Google Ads](http://www.google.com/ads) 
+*   [Google AdMob (Apps)](http://www.google.com/admob)  
+*   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
+*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+*   [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
+*   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
+*   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+*   [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
+*   [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
+
+Google Monetization
+*   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
+
+Google Rich Snippets
+*   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+Google Webmaster
+*   [Google Tag Manager](http://www.google.com/tagmanager)
+
+Google News Publisher
+*   [Google News Publisher Help](https://support.google.com/news/publisher)
+
+LinkedIn
+*   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
+*   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
+
+Pinterest
+*   [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
+*   [Pinterest for Developers](https://developers.pinterest.com) 
+*   [Pinterest Blog](http://blog.pinterest.com)
+*   [Pinterest for Business](https://business.pinterest.com)
+
+Slideshare
+*   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
+*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
+
+Snapchat
+*   [Snapchat Blog](http://blog.snapchat.com)
+
+Twitter
+*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
+*   [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
+*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+*   [Twitter Business](https://biz.twitter.com)
+*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+*   [Twitter Curator](https://curator.twitter.com)
+*   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
+
+Twitter Data
+*   [Twitter Data](https://twitter.com/TwitterData)
+
+Twitter Media and News
+*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+*   [Twitter News](https://twitter.com/TwitterForNews) 
+
+Twitter Advanced Search
+*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+
+Yahoo and Bing- Developer, Webmaster, and Ads
+*   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+*   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
+*   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
+*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+
+YouTube (Google)
+*   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
+*   [YouTube Creators](http://www.youtube.com/yt/creators)  
+*   [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Sharing Buttons
+*   [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
+*   [AddToAny](https://www.addtoany.com) 
+*   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
+
+RRSSB
+*   [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
+
+Cookies
+*   [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+*   [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+*   [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
+
+#### Testing and Performance
+
+*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+*   [AWS Device Farm](https://aws.amazon.com/device-farm)
+*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+*   [Google App Invites](https://developers.google.com/app-invites)
+*   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
+*   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
+*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+*   [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+*   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+*   [W3 Mobile Validator](http://validator.w3.org/mobile)
 
 ### Web Dev and Design
 
@@ -3766,318 +3619,6 @@ Puppet Labs
 *   [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
 *   [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
-#### Designer and Developer General
-
-Web General
-*   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-*   [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
-*   [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
-*   [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
-*   [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
-*   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
-*   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
-*   [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
-*   [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
-*   [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
-*   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
-*   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
-
-HTML, XML, XHTML
-*   [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-*   [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-*   [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-*   [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-*   [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-*   [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-*   [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-*   [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
-
-CSS
-*   [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-*   [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-*   [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-*   [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
-
-DevCenter
-*   [DevCenter Website](DevCenter.me)  
-
-Guides for Development
-*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Built With (Exluding Django)
-*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-*   [Built With](http://builtwith.com)  
-*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-*   [Built with Bootstrap](http://expo.getbootstrap.com)  
-*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-*   [Squarespace (Website Examples)](http://www.squarespace.com) 
-
-Code Search
-*   [Search Code](https://searchcode.com)  
-*   [Nerdy Data](http://nerdydata.com)  
-
-Example
-*   [Example Org](http://www.example.org)  
-*   [Example Org Mobile](https://m.example.com) 
-
-#### Engineering Blogs and Designer, Developer Conferences
-
-List of Engineering Blogs
-*   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-
-Individual Engineering Blogs
-*   [Buffer Engineering](https://overflow.bufferapp.com)
-*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-*   [LinkedIn Engineering](http://engineering.linkedin.com)  
-*   [Pinterest Engineering](http://engineering.pinterest.com)  
-*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-*   [Uber Developers](https://devblog.uber.com)  
-*   [Yelp Engineering](http://engineeringblog.yelp.com) 
-
-Designer/Developer Conferences
-*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
-*   [Google Design Form](http://www.google.com/design/form) 
-*   [Google IO](https://www.google.com/events/io)  
-*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-*   [Twitter Flock](http://flock.fabric.io) 
-
-#### Social Media and Social Graph
-
-Web Analytics
-*   [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
-
-Apple Developer and Open Source
-*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
-*   [Apple Open Source](https://developer.apple.com/opensource)
-
-Apple- Devices
-*   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-
-Apple- More
-*   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
-*   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
-*   [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-*   [Xcode](https://developer.apple.com/xcode) 
-*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-*   [Apple Watchkit](https://developer.apple.com/watchkit)  
-*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
-*   [Apple Support](http://www.apple.com/support) 
-
-Facebook
-*   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
-
-Facebook Developers
-*   [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-
-Facebook Tools
-*   [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-*   [Facebook Business](https://www.facebook.com/business)
-*   [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
-*   [Fb Start for Mobile Startups](http://fbstart.com)
-
-Google
-*   [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
-
-Google Developers
-*   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-*   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-*   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-*   [Google Styleguides](https://github.com/google/styleguide)
-
-Google Dev Tools
-*   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
-*   [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
-*   [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Analytics
-*   [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
-Google Ads
-*   [Google Ads](http://www.google.com/ads) 
-*   [Google AdMob (Apps)](http://www.google.com/admob)  
-*   [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-*   [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
-*   [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
-*   [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
-*   [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
-*   [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
-*   [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
-
-Google Monetization
-*   [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
-
-Google Rich Snippets
-*   [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-Google Webmaster
-*   [Google Tag Manager](http://www.google.com/tagmanager)
-
-Google News Publisher
-*   [Google News Publisher Help](https://support.google.com/news/publisher)
-
-LinkedIn
-*   [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
-*   [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
-
-Pinterest
-*   [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
-*   [Pinterest for Developers](https://developers.pinterest.com) 
-*   [Pinterest Blog](http://blog.pinterest.com)
-*   [Pinterest for Business](https://business.pinterest.com)
-
-Slideshare
-*   [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
-*   [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
-
-Snapchat
-*   [Snapchat Blog](http://blog.snapchat.com)
-
-Twitter
-*   [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
-*   [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
-*   [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
-*   [Twitter Business](https://biz.twitter.com)
-*   [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-*   [Twitter Curator](https://curator.twitter.com)
-*   [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
-
-Twitter Data
-*   [Twitter Data](https://twitter.com/TwitterData)
-
-Twitter Media and News
-*   [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-*   [Twitter News](https://twitter.com/TwitterForNews) 
-
-Twitter Advanced Search
-*   [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
-
-Yahoo and Bing- Developer, Webmaster, and Ads
-*   [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
-*   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
-*   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
-*   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
-
-YouTube (Google)
-*   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
-*   [YouTube Creators](http://www.youtube.com/yt/creators)  
-*   [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
-
-Sharing Buttons
-*   [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
-*   [AddToAny](https://www.addtoany.com) 
-*   [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
-
-RRSSB
-*   [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
-
-Cookies
-*   [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
-*   [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
-*   [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
-
-#### Mobile
-
-Mobile- General
-*   [Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Mobile_operating_system)  
-*   [Comparison of Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems) 
-*   [Mobile Software Distribution Platforms Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms) 
-
-Mobile Phones- General
-*   [History of Mobile Phones Wikipedia](https://en.wikipedia.org/wiki/History_of_mobile_phones) 
-*   [Mobile Phone Companies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_phone_companies_by_country)  
-*   [Mobile Phone Makers by Country Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_phone_makers_by_country) 
-*   [List of Mobile Phone Standards Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_phone_standards)
-*   [Comparison of Mobile Phone Standards Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards)
-*   [Comparison of Smart Phones Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_smartphones)  
-*   [Mobile Web Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_Web) 
-*   [Mobile App Wikipedia](https://en.wikipedia.org/wiki/Mobile_app)
-*   [Mobile Application Development Wikipedia](https://en.wikipedia.org/wiki/Mobile_application_development)
-*   [Mobile Web Analytics Wikipedia](http://en.wikipedia.org/wiki/Mobile_Web_Analytics) 
-
-Embedded Operating Systems
-*   [List of Embedded Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems#Embedded)  
-Apple- Swift
-*   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))  
-
-Android
-*   [Android.com](http://www.android.com), [Android GitHub](https://github.com/android), and [Android Wikipedia](http://en.wikipedia.org/wiki/Android_(operating_system))  
-*   [Android Version History](https://en.wikipedia.org/wiki/Android_version_history)
-*   [Android Developer](http://developer.android.com/about/index.html) and [Google Developers Android](https://developers.google.com/android)  
-*   [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
-*   [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
-*   [MIT App Inventor](http://appinventor.mit.edu/explore) and [MIT App Inventor Set Up](http://appinventor.mit.edu/explore/ai2/setup.html)
-
-CyanogenMod
-*   [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
-
-IDE
-*   [Eclipse](http://www.eclipse.org) 
-
-Emulator
-*   [Genymotion](http://www.genymotion.com) 
-
-Tools
-*   [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
- 
-Deep Linking
-*   [Deep Linking Wikipedia](http://en.wikipedia.org/wiki/Deep_linking)  
-*   [Applinks Documentation](http://applinks.org/documentation)  
-*   [Deeplink.me Documentation](https://www.deeplink.me)  
-*   [URXtech Developer Documentation](https://developers.urx.com) and [URXtech Documentation GitHub](https://github.com/URXtech)  
-
-Standards
-*   [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
-*   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
-*   [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
-*   [W3.org](http://www.w3.org/Mobile) 
-*   [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language)  
-
-Internet of Things (including payments)
-*   [Arduino](http://www.arduino.cc)  
-*   [Estimote](http://estimote.com) and [Estimote GitHub](https://github.com/Estimote)
-*   [iBeacon Wikipedia](http://en.wikipedia.org/wiki/Ibeacon) 
-*   [Radius Networks](http://developer.radiusnetworks.com) [Radius Networks GitHub](https://github.com/RadiusNetworks)
-*   [PayPal Beacon](https://www.paypal.com/us/webapps/mpp/beacon)  
-
-Internet of Things- Geo-fencing
-*   [Geo-fence Wikipedia](http://en.wikipedia.org/wiki/Geo-fence)  
-*   [Google Geo-fences](https://developers.google.com/maps/documentation/tracks/geofences)  
-*   [Android Geo-fences](http://developer.android.com/training/location/geofencing.html)  
-
-Miscellaneous
-*   [Facebook Start](https://developers.facebook.com/products/fb-start) 
-*   [Launchkit](https://launchkit.io)
-*   [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
-
-### Video Gaming and Virtual Reality
-
-*   [OculusVR Developer Download](https://developer.oculus.com/downloads) and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
-*   [Twitch TV](http://www.twitch.tv)
-*   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
-*   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
-
-#### Testing and Performance
-
-*   [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-*   [AWS Device Farm](https://aws.amazon.com/device-farm)
-*   [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-*   [Google App Invites](https://developers.google.com/app-invites)
-*   [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
-*   [Google Pagespeed](https://developers.google.com/speed/pagespeed)
-*   [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-*   [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-*   [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-*   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-*   [W3 Mobile Validator](http://validator.w3.org/mobile)
- 
 ### More Back-end
 
 Redis, Resque
@@ -4361,6 +3902,464 @@ Visual Studio
 
 WebMatrix
 *   [WebMatrix](http://www.microsoft.com/web/webmatrix)
+
+### Mobile
+
+Mobile- General
+*   [Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Mobile_operating_system)  
+*   [Comparison of Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems) 
+*   [Mobile Software Distribution Platforms Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms) 
+
+Mobile Phones- General
+*   [History of Mobile Phones Wikipedia](https://en.wikipedia.org/wiki/History_of_mobile_phones) 
+*   [Mobile Phone Companies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_phone_companies_by_country)  
+*   [Mobile Phone Makers by Country Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_phone_makers_by_country) 
+*   [List of Mobile Phone Standards Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_phone_standards)
+*   [Comparison of Mobile Phone Standards Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards)
+*   [Comparison of Smart Phones Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_smartphones)  
+*   [Mobile Web Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_Web) 
+*   [Mobile App Wikipedia](https://en.wikipedia.org/wiki/Mobile_app)
+*   [Mobile Application Development Wikipedia](https://en.wikipedia.org/wiki/Mobile_application_development)
+*   [Mobile Web Analytics Wikipedia](http://en.wikipedia.org/wiki/Mobile_Web_Analytics) 
+
+Embedded Operating Systems
+*   [List of Embedded Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems#Embedded)  
+Apple- Swift
+*   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))  
+
+Android
+*   [Android.com](http://www.android.com), [Android GitHub](https://github.com/android), and [Android Wikipedia](http://en.wikipedia.org/wiki/Android_(operating_system))  
+*   [Android Version History](https://en.wikipedia.org/wiki/Android_version_history)
+*   [Android Developer](http://developer.android.com/about/index.html) and [Google Developers Android](https://developers.google.com/android)  
+*   [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
+*   [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
+*   [MIT App Inventor](http://appinventor.mit.edu/explore) and [MIT App Inventor Set Up](http://appinventor.mit.edu/explore/ai2/setup.html)
+
+CyanogenMod
+*   [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
+
+IDE
+*   [Eclipse](http://www.eclipse.org) 
+
+Emulator
+*   [Genymotion](http://www.genymotion.com) 
+
+Tools
+*   [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
+ 
+Deep Linking
+*   [Deep Linking Wikipedia](http://en.wikipedia.org/wiki/Deep_linking)  
+*   [Applinks Documentation](http://applinks.org/documentation)  
+*   [Deeplink.me Documentation](https://www.deeplink.me)  
+*   [URXtech Developer Documentation](https://developers.urx.com) and [URXtech Documentation GitHub](https://github.com/URXtech)  
+
+Standards
+*   [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
+*   [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
+*   [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
+*   [W3.org](http://www.w3.org/Mobile) 
+*   [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language)  
+
+Internet of Things (including payments)
+*   [Arduino](http://www.arduino.cc)  
+*   [Estimote](http://estimote.com) and [Estimote GitHub](https://github.com/Estimote)
+*   [iBeacon Wikipedia](http://en.wikipedia.org/wiki/Ibeacon) 
+*   [Radius Networks](http://developer.radiusnetworks.com) [Radius Networks GitHub](https://github.com/RadiusNetworks)
+*   [PayPal Beacon](https://www.paypal.com/us/webapps/mpp/beacon)  
+
+Internet of Things- Geo-fencing
+*   [Geo-fence Wikipedia](http://en.wikipedia.org/wiki/Geo-fence)  
+*   [Google Geo-fences](https://developers.google.com/maps/documentation/tracks/geofences)  
+*   [Android Geo-fences](http://developer.android.com/training/location/geofencing.html)  
+
+Miscellaneous
+*   [Facebook Start](https://developers.facebook.com/products/fb-start) 
+*   [Launchkit](https://launchkit.io)
+*   [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
+
+#### Video Gaming and Virtual Reality
+
+*   [OculusVR Developer Download](https://developer.oculus.com/downloads) and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
+*   [Twitch TV](http://www.twitch.tv)
+*   [Unreal Engine](https://www.unrealengine.com) and [Unreal Engine Docs](https://docs.unrealengine.com)  
+*   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
+
+### Launch and Growth
+
+#### Notable Proposals and Pitch Decks
+
+*   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
+
+Pitch Deck Search
+*   [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
+*   [Pitch Envy](http://www.pitchenvy.com)
+*   [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
+
+Notable Proposals and Pitch Decks
+*   [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
+*   [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
+*   [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
+*   [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
+*   [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
+*   [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
+*   [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
+*   [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
+*   [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
+*   [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
+*   [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
+*   [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
+*   [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
+*   [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
+*   [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
+*   [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
+*   [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
+*   [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
+*   [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
+*   [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
+*   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
+*   [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
+*   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+*   [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
+
+Templates
+*   [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
+*   [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
+*   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
+*   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
+*   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+*   [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
+*   [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
+
+#### Launch Strategies
+
+Launch Guides
+*   [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
+*   [Marketing Checklist for Indie Game Developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers)
+
+General
+*   [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
+
+Epic
+*   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
+
+Tools
+*   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
+*   [Amazon Example Press Release](http://aws.amazon.com/new) 
+*   [Sandwich Video](http://sandwichvideo.com)
+
+Journalism Handbooks
+*   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
+*   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
+*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
+
+Journalism Style Guides 
+*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
+*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
+*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
+*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
+*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
+*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
+*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
+
+#### Growth, Marketing, and Content Resources
+
+Advertising and Marketing
+*   [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
+*   [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
+*   [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
+
+Distribution, Digital Distribution and User-Generated Content
+*   [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+*   [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+*   [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
+Distribution, Growth, Sales Hacking
+*   [Distribution Hacks](http://distributionhacks.com) 
+*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+*   [Saleshacker](http://www.saleshacker.com)
+
+Marketing and Search Engine Land
+*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
+
+Hiten Shah and Neil Patel
+*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
+*   [Quicksprout](http://www.quicksprout.com) 
+
+Popular Tools
+*   [Buffer](https://bufferapp.com)
+*   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
+*   [Detour Blog](http://blog.detour.com)
+*   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+*   [Intercom Blog](http://blog.intercom.io)
+*   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
+*   [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
+*   [URX Blog](http://blog.urx.com/urx-blog) 
+
+Digital Novel
+*   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
+*   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+*   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
+
+Digital Stats
+*   [eMarketer](http://www.emarketer.com)
+
+#### Metrics
+
+Financial Ratio
+*   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+*   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+Business and Financial Metrics
+* 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
+* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
+* 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
+* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
+* 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
+* 6 [Gross Merchandise Value (GMV)](http://www.investopedia.com/terms/g/gross-merchandise-value.asp) vs. Revenue
+* 7 Unearned or Deferred Revenue … and Billings
+* 8 [CAC (Customer Acquisition Cost) Wikipedia](https://en.wikipedia.org/wiki/Customer_acquisition_cost) … Blended vs. Paid, Organic vs. Inorganic
+
+Product and Engagement Metrics
+* 9 Active Users
+* 10 Month-on-month (MoM) growth, CMGR 
+* 11 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate) 
+* 12 [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate) (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
+* 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
+
+Presenting Metrics Generally
+* 14 Cumulative Charts (vs. Growth Metrics)
+* 15 Chart Tricks
+* 16 Order of Operations
+
+Business and Financial Metrics
+* Total Addressable Market (TAM) (Bottom Up/Top Down)
+* ARR (annual recurring revenue) ≠ Annual Run Rate
+* Average Revenue Per User (ARPU)
+* Gross Margins
+* Sell-Through Rate & Inventory Turns (Also: “close rate”, “conversion rate”, and “success rate”)
+
+Economic and Other Defining Qualities
+* Network Effects
+* Virality (viral coefficient or k-value)
+* Economies of Scale (“Scale”)
+
+Other Product and Engagement Metrics
+* Net Promoter Score (NPS)
+* Cohort Analysis
+* Registered Users
+* Active Users (MAUs (monthly active users), WAUs (weekly active users), DAUs (daily active users), and HAUs (hourly active users)), (uniques, visits, time on site, repeat visits)
+* Sources of Traffic (direct traffic, organic traffic, (SEO, SEM)
+* Customer Concentration Risk
+
+Presenting Metrics Generally
+* Truncating the Y-Axis
+* Cumulative Charts, Again
+
+Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
+* [Return on Net Assets (RONA) Wikipedia](https://en.wikipedia.org/wiki/Return_on_net_assets)
+* [Return on Capital Employed (ROCE) Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital_employed)
+* [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
+* [Earnings Per Share (EPS) Wikipedia](https://en.wikipedia.org/wiki/Earnings_per_share)
+* [Gross Margin (Percentage) Wikipedia](https://en.wikipedia.org/wiki/Gross_margin)
+* [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
+* [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost)/[Marginal Revenue](https://en.wikipedia.org/wiki/Marginal_revenue)
+* Debt/Equity
+* [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
+* [Revenue (Net Income) Per Employee Wikipedia](https://en.wikipedia.org/wiki/Net_income_per_employee)
+
+Ellen Chisa HBS Fin2
+* [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
+* [Discounted Cash Flow Wikipedia](http://en.wikipedia.org/wiki/Discounted_cash_flow)
+* [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
+* Multiples
+* Bonds
+* [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
+
+More Models
+*   [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
+*   [Counterfactual Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_conditional)
+*   [Critical Mass (Disambiguation) Wikipedia](https://en.wikipedia.org/wiki/Critical_mass_(disambiguation))
+*   [Evolution Wikipedia](https://en.wikipedia.org/wiki/Evolution)
+*   [Feedback Wikipedia](https://en.wikipedia.org/wiki/Feedback)
+*   [First Principles Wikipedia](https://en.wikipedia.org/wiki/First_principle) versus [Analogy Wikipedia](https://en.wikipedia.org/wiki/Analogy)
+*   [Inertia Wikipedia](https://en.wikipedia.org/wiki/Inertia)
+*   [Jacobian Inverse Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#Inverse)
+*   [Local Maxima Wikipedia](https://en.wikipedia.org/wiki/Maxima_and_minima)
+*   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
+*   [Mean Reversion Wikipedia](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
+*   Optionality
+*   [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
+*   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
+*   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
+
+Bill Gurley on Conversion and LTV
+*   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
+*   [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
+*   [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+*   [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+
+OKRs
+*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+KPIs
+*   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+
+Pirate Metrics
+*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
+Miscellaneous Metrics
+*   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
+*   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
+*   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
+*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
+
+#### Internationalization
+
+*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
+
+#### Startup Transparency Examples
+
+*   [Income Reports](http://www.incomereports.co)
+
+Buffer
+*   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+*   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+*   [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+*   [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+*   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+*   [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+*   [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+#### Popular Tools
+
+Two Factor Authentication
+
+*   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
+
+Google Products, Office
+*   [Google Products](http://www.google.com/intl/en/about/products) 
+*   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
+*   [Google Gmail](http://gmail.com)  
+*   [Google Drive](https://www.google.com/drive) 
+*   [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
+*   [Google Drawings](https://docs.google.com/drawings)  
+*   [Google Calendar](https://www.google.com/calendar) 
+*   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
+*   [Google Flights](https://www.google.com/flights)  
+*   [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
+*   [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
+*   [Google Translate](https://translate.google.com/?hl=en)  
+*   [Let Me Google that for You](http://lmgtfy.com) 
+
+API
+*   [Blockspring](https://www.blockspring.com)
+
+Email
+*   [MailChimp](http://mailchimp.com)
+*   [Mailgun](http://www.mailgun.com)  
+*   [Mandrill](http://mandrill.com)  
+*   [SendGrid](http://sendgrid.com)  
+ 
+Group Communication/Chat
+*   [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
+*   [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
+*   [Skype](http://www.skype.com/en) 
+*   [Meetup](http://www.meetup.com)
+*   [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+ 
+Livestreaming, Video, Audio 
+*   [Livestream](http://new.livestream.com) 
+*   [SoundCloud](https://soundcloud.com)  
+*   [Vimeo](https://vimeo.com)  
+*   [YouTube](https://www.youtube.com) 
+
+Photo Hosting
+*   [Flickr](https://www.flickr.com) 
+*   [Google Photos](https://photos.google.com)
+*   [Picasa](https://picasa.google.com)
+
+Document Hosting
+*   [Scribd](https://www.scribd.com)
+
+Links
+*   [Bitly](https://bitly.com)
+
+Calendar 
+*   [Sunrise](https://calendar.sunrise.am)
+
+Social Media Distribution 
+*   [Facebook](https://www.facebook.com)
+*   [Twitter](https://twitter.com)
+
+Social Media Distribution 
+*   [Buffer](https://bufferapp.com)
+*   [Hootsuite](https://hootsuite.com)
+*   [HubSpot CRM](http://www.hubspot.com/crm)
+*   [Storify](https://storify.com)  
+*   [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
+*   [Tweetbot](http://tapbots.com/tweetbot)
+
+Customer Relationship Management
+*   [Salesforce](https://www.salesforce.com)
+*   [RelateIQ](https://www.relateiq.com) 
+
+Task Automation
+*   [IFTTT](https://ifttt.com) 
+
+Payments
+*   [Apple Pay](https://www.apple.com/apple-pay) 
+*   [Bitcoin](https://bitcoin.org/en) 
+*   [Paypal](https://www.paypal.com)
+*   [Square](https://squareup.com)
+*   [Stripe](https://stripe.com)
+
+File Storage
+*   [Box](https://www.box.com) 
+*   [Dropbox](https://www.dropbox.com)
+
+Logistics
+*   [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
+*   [Gumtree](http://www.gumtree.co)
+*   [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
+*   [Move Loot](https://www.moveloot.com/welcome)
+*   [Statewide List](http://www.statewidelist.com)
+
+Crowd Sourced Internet Marketplace
+*   [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
+*   [Crowdflower](http://www.crowdflower.com)  
+
+Docs
+*   [DocSend](https://docsend.com)
+*   [DocuSign](https://www.docusign.com)
+*   [FullContact](http://www.fullcontact.com)
+*   [HelloSign](https://www.hellosign.com)
+*   [Streak](https://www.streak.com)
+
+Admin, Hiring, Payroll
+*   [Clara Labs](https://claralabs.com) 
+*   [Evernote](https://evernote.com)
+*   [Lever](http://lever.co)  
+*   [Jobvite](http://www.jobvite.com)
+*   [QuickBooks](http://quickbooks.intuit.com)
+*   [Teespring](http://teespring.com)
+*   [ZenPayroll](https://zenpayroll.com) 
+*   [Zenefits](http://www.zenefits.com)
 
 ### Example Website Code and Style Guides
 
