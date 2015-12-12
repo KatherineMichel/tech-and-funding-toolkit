@@ -2216,21 +2216,27 @@ Quickie Websites
 Turn Key Websites
 *   [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
 
-Bootstrap, Font Awesome, Foundation
+Responsiveness
+*   [Google Search: Media Queries](https://www.google.com/search?q=media+queries&rlz=1CAACAG_enUS625US635&oq=media+queries&aqs=chrome..69i57j0l5.2970j0j7&sourceid=chrome&es_sm=93&ie=UTF-8)
+*   [Bootstrap CSS](http://getbootstrap.com/css)
+
+Bootstrap, Font Awesome
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+*   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+
+Foundation
 *   [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+*   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
 *   [Zurb Library](http://zurb.com/library)
 
 Good, Basic Templates, Themes
 *   [Template Stash](http://www.templatestash.com)
 *   [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
 *   [HTML5 UP](http://html5up.net) 
-*   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
 *   [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-*   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
 *   [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 
 Kickstarters
