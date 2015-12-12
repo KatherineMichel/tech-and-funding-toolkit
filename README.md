@@ -513,6 +513,10 @@ VC Firm Apps
 *   [First Round Pitch App](http://firstround.com/openapp)
 *   [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
 
+VC Firm Alpha and Beta 
+*   [Betaworks Openbeta](https://betaworks.com/openbeta)
+*   [Lowercase Alpha](http://lowercasealpha.com)
+
 Crowdfunding
 *   [Kickstarter](https://www.kickstarter.com)
 *   [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
