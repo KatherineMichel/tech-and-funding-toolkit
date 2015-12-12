@@ -1937,6 +1937,46 @@ Use Case
 Persuasive Technology
 *   [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
+
+#### Jekyll (based on Ruby)
+
+#### Government Code and Style Guides
+
+https://www.vets.gov
+https://www.vets.gov/playbook
+https://pages.18f.gov/accessibility/pagetitles
+
+https://github.com/18F/pages
+https://github.com/18F/guides-template
+https://github.com/cfpb/docter
+http://cfpb.github.io
+
+GitHub Government 
+*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
+
+18F
+*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
+*   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
+
+U.K. Gov
+*   [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
+*   [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
+*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
+
+U.S. 
+*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
+*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy)
+*   [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual) and [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
+*   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
+*   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
+*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
+
+Australia
+*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
+
+
+
 #### Government Digital
 
 Australia
@@ -4047,21 +4087,6 @@ Tools
 *   [Amazon Example Press Release](http://aws.amazon.com/new) 
 *   [Sandwich Video](http://sandwichvideo.com)
 
-Journalism Handbooks
-*   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
-*   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
-*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
-
-Journalism Style Guides 
-*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
-*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
-*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
-*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
-*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
-*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
-*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
-*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
-
 #### Growth, Marketing, and Content Resources
 
 Advertising and Marketing
@@ -4413,13 +4438,12 @@ Django Hackathon Starter (Python- Django)
 Python- Django- Pinax
 *   [Pinax](http://pinaxproject.com)  
 *   [Pinax GitHub](https://github.com/pinax)  
-*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
 *   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
+*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
+*   [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
 *   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
 *   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
 *   [Pinax Symposium](https://github.com/pinax/symposion)  
-
-https://github.com/pinax/django-user-accounts
 
 Python- Django- Cookiecutter (See also Packages)
 *   [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django )
@@ -4564,44 +4588,24 @@ Drupal
 *   [Drupal GitHub](https://github.com/drupal/drupal)  
 *   [Drupal Community](https://drupal.org/community)  
 
-#### Jekyll (based on Ruby)
 
-#### Government Code and Style Guides
-
-https://www.vets.gov
-https://www.vets.gov/playbook
-https://pages.18f.gov/accessibility/pagetitles
-
-https://github.com/18F/pages
-https://github.com/18F/guides-template
-https://github.com/cfpb/docter
-http://cfpb.github.io
-
-GitHub Government 
-*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
-
-18F
-*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
-*   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
-
-U.K. Gov
-*   [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
-*   [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
-*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
-
-U.S. 
-*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
-*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy)
-*   [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual) and [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
-*   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
-*   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
-*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
-*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
-
-Australia
-*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
 
 #### Newspaper Code and Style Guides
+
+Journalism Handbooks
+*   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
+*   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
+*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
+
+Journalism Style Guides 
+*   [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
+*   [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+*   [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
+*   [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
+*   [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
+*   [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
+*   [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
+*   [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
 
 BBC
 *   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
