@@ -2198,21 +2198,6 @@ Flickr
 
 KPCB and John Maeda Design in Tech Report
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-Company Design
-*   [Medium Design](https://medium.com/designing-medium)  
-*   [IBM Design](https://www.ibm.com/design)  
-*   [eBay/PayPal](http://ebay.com/design)  
-*   [Twitter Design](https://twitter.com/design)  
-*   [Uber Design](https://www.uber.com/design) 
-
-#### Labs
-
-Labs
-*   [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
-*   [Microsoft Garage](http://www.microsoft.com/en-us/garage)
-*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
-*   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
-
 #### Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
@@ -2350,7 +2335,22 @@ Example
 *   [Example Org](http://www.example.org)  
 *   [Example Org Mobile](https://m.example.com) 
 
+#### Labs
+
+Labs
+*   [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
+*   [Microsoft Garage](http://www.microsoft.com/en-us/garage)
+*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
+*   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
+
 #### Engineering Blogs and Designer, Developer Conferences
+
+Company Design
+*   [Medium Design](https://medium.com/designing-medium)  
+*   [IBM Design](https://www.ibm.com/design)  
+*   [eBay/PayPal](http://ebay.com/design)  
+*   [Twitter Design](https://twitter.com/design)  
+*   [Uber Design](https://www.uber.com/design) 
 
 List of Engineering Blogs
 *   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
