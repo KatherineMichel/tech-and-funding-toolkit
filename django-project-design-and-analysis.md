@@ -64,6 +64,12 @@ Django Workflow
 *   Template Tags and Filters, Humanization
 *   QuerySet/Field Lookups/Lookup Expressions
 
+Template Components
+*   Variable = {{ variable }}
+*   Tag = {% tag %} 
+*   Filters = {{% variable|filter:"argument" %}}
+*   Comments = {% comment %}
+
 DevOps
 *   DB
 *   Postgres
