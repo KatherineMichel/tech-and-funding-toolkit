@@ -26,22 +26,45 @@ Example Pages
 
 ## Django
 
-Base views
+Overview
+*   Settings
+*   Middleware
+
+Site Mappings
+*   Modules, Classes
+*   Models, Instances
+*   Project URLs -> App URLs
+*   Views
+*   Templates/Includes (HTML), Template Inheritance
+*   QuerySet/Field Lookups/Lookup Expressions/Context
+
+Model Types
+*   Many-to-many relationships
+*   Many-to-one relationships
+*   One-to-one relationships
+ 
+Template Components
+*   Variable = {{ variable }}
+*   Tag = {% tag %} 
+*   Filters = {{ variable|filter:"argument" }}
+*   Comments = {% comment %}
+
+Base Views
 *   View
 *   TemplateView
 *   RedirectView
 
-Generic display views
+Generic Display Views
 *   DetailView
 *   ListView
 
-Generic editing views
+Generic Editing Views
 *   FormView
 *   CreateView
 *   UpdateView
 *   DeleteView
 
-Generic date views
+Generic Date Views
 *   ArchiveIndexView
 *   TodayArchiveView
 *   DateDetailView
@@ -50,25 +73,8 @@ Generic date views
 *   MonthArchiveView
 *   YearArchiveView
 
-Model Types
-*   Many-to-many relationships
-*   Many-to-one relationships
-*   One-to-one relationships
-
-Django Workflow
-*   Settings/Modules, Middleware
-*   Global URLs -> URLs
-*   Decorators
-*   Views, Generic Views
-*   Templates/Includes, Template Inheritance, Static Files (CSS, HTML, JS, Images)
-*   Template Tags and Filters, Humanization
-*   QuerySet/Field Lookups/Lookup Expressions
-
-Template Components
-*   Variable = {{ variable }}
-*   Tag = {% tag %} 
-*   Filters = {{% variable|filter:"argument" %}}
-*   Comments = {% comment %}
+Style
+*   Static Files (CSS, JS, Images)
 
 DevOps
 *   DB
@@ -102,8 +108,10 @@ RSSy
 *   Feed Generator, Syndication
 
 Additional- Common
+*   Decorators
 *   Email
 *   Paginator
+*   Humanization
 
 Additional- Less Common
 *   Encoding
