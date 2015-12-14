@@ -43,6 +43,10 @@ Model Types
 *   Many-to-one relationships
 *   One-to-one relationships
  
+Arguments
+*  *args
+*  **kwargs
+
 Template Components
 *   Variable = {{ variable }}
 *   Tag = {% tag %} 
