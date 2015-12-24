@@ -3042,7 +3042,6 @@ PHP
 *   [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
 *   [PHP Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/PHP_syntax_and_semantics)  
 *   [PHP Manual](http://www.php.net/manual/en/index.php)  
-*   [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php)  
 *   [Composer GitHub](https://github.com/composer/composer)  
 *   [Symfony GitHub](https://github.com/symfony/symfony)  
 *   [CakePHP GitHub](https://github.com/cakephp/cakephp)  
@@ -3745,7 +3744,6 @@ Node.js
 *   [Nodejsmodules.org](https://nodejsmodules.org)  
 *   [NPM Package Search](https://www.npmjs.org)  
 *   [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
-*   [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin)  
 *   [NPM GitHub](https://github.com/npm/npm)  
 *   [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
 *   [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
@@ -4931,7 +4929,6 @@ Lambda Architecture
 
 Hadoop, Hortonworks Sandbox, Cloudera
 *   [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox)  
-*   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop)  
 *   [Hadoop Apache](http://hadoop.apache.org)  
 *   [Hadoop Hortonworks](http://hortonworks.com/hadoop)  
 *   [Hadoop ("Apache's free and open source implementation of MapReduce") GitHub](http://en.wikipedia.org/wiki/Hadoop)  
@@ -4998,7 +4995,6 @@ Cascading, Cascalog, Scala, Scalding
 *   [Cascalog-Demo GitHub](https://github.com/nathanmarz/cascalog-demo)  
 *   [Scala GitHub](https://github.com/scala/scala)  
 *   [Scala Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language))  
-*   [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
 *   [Twitter Effective Scala GitHub](https://github.com/twitter/effectivescala)  
 *   [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
 *   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
@@ -5440,22 +5436,30 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 Awesome
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-*   [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
+
+Awesome Python and Django
 *   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
 *   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
 *   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 *   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-*   [Awesome Django GitLab (Deprecated)](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django)  
-*   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
-*   [Awesome React GitHub](https://github.com/enaqx/awesome-react)
-*   [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
-*   [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
+*   [Awesome Django GitLab (Deprecated)](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
 
 Awesome Data Science
 *   [Awesome Data Science GitHub](https://github.com/okulbilisim/awesome-datascience)  
 *   [Awesome Big Data GitHub](https://github.com/onurakpolat/awesome-bigdata)  
 *   [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
 *   [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
+
+Awesome- More
+*   [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
+*   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
+*   [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
+*   [Awesome React GitHub](https://github.com/enaqx/awesome-react)
+*   [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
+*   [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin)  
+*   [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php) 
+*   [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
+*   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop) 
 
 Book Lists
 *   [Bookicious](http://www.bookicious.com/collections)
