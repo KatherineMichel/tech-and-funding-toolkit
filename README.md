@@ -3141,7 +3141,7 @@ O'Reilly Test-Driven Development with Python
 *   [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment)  
 
 Python and Django Conferences
-*   [PyCon](http://www.pycon.org)  
+*   [PyCon](http://www.pycon.org) and [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
 *   [PyData](http://pydata.org)  
 *   [DjangoCon](http://www.djangocon.us)  
 
