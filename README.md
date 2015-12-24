@@ -4386,6 +4386,12 @@ Python- Django- Major Organizations and Projects that Use Django (in addition to
 Python- Django- Python and Django Official Websites and Code
 *   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
 *   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
+Python- Django- PyCon and DjangoCon
+*   [PyCon GitHub](https://github.com/PyCon/pycon)
+*   [DjangCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
+*   [DjangCon U.S. 2016 GitHub](https://github.com/djangocon/2016.djangocon.us)
+*   [DjangCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
+
 Python- Django- Django Product Websites
 *   [Django Sites GitHub](https://github.com/rossp/djangosites.org)
 *   [Django Packages GitHub](https://github.com/pydanny/djangopackages)
