@@ -2791,6 +2791,9 @@ GitHub- Main
 *   [Git Ignore GitHub](https://github.com/github/gitignore)  
 *   [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
 
+GitHub- Trending
+*   [GitHub Trending](https://github.com/josephyzhou/github-trending)
+
 GitHub Services Integration
 *   [Service Hooks GitHub](https://github.com/github/github-services)  
 *   [GitHub Integrations](https://github.com/integrations)  
