@@ -3885,9 +3885,12 @@ Node Forks
 ASP
 *   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 *   [ASP](http://www.asp.net), [ASP Downloads](http://www.asp.net/downloads), [ASP Home GitHub](https://github.com/aspnet/Home), [ASP Docs](http://docs.asp.net), and [ASP Docs GitHub](https://github.com/aspnet/Docs)
+*   [ASP Mvc GitHub](https://github.com/aspnet/Mvc)
+*   [ASP Templates GitHub](https://github.com/aspnet/Templates)
 *   [ASP Docker GitHub](https://github.com/aspnet/aspnet-docker)
 *   [Heroku ASP Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
 *   [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
+
 
 Visual Studio
 *   [Visual Studio](http://www.visualstudio.com/en-us)  
@@ -5451,6 +5454,7 @@ Awesome Data Science
 *   [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
 
 Awesome- More
+*   [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
 *   [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
 *   [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
