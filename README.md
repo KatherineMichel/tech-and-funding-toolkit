@@ -1594,7 +1594,7 @@ Personality Tests
 *   [Myers–Briggs Type Indicator Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
 Public Speaking
-*     [ToasterMasters](https://www.toastmasters.org)
+*   [ToasterMasters](https://www.toastmasters.org)
 
 #### STEM and STEAM
 
@@ -1936,22 +1936,6 @@ Use Case
 Persuasive Technology
 *   [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
-
-https://www.vets.gov
-https://www.vets.gov/playbook
-https://pages.18f.gov/accessibility/pagetitles
-
-https://github.com/18F/pages
-https://github.com/18F/guides-template
-https://github.com/cfpb/docter
-http://cfpb.github.io
-
-18F
-*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
-*   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
-
-
-
 #### Government Digital
 
 GitHub Government 
@@ -2027,6 +2011,19 @@ U.S. Gov.
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
 *   [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
 *   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov) and [Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
+
+https://www.vets.gov
+https://www.vets.gov/playbook
+https://pages.18f.gov/accessibility/pagetitles
+
+https://github.com/18F/pages
+https://github.com/18F/guides-template
+https://github.com/cfpb/docter
+http://cfpb.github.io
+
+18F- Gov. 
+*   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
+*   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
 
 U.S. Gov.- GitHub
 *   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
