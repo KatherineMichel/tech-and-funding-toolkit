@@ -1937,10 +1937,6 @@ Persuasive Technology
 *   [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
 
-#### Jekyll (based on Ruby)
-
-#### Government Code and Style Guides
-
 https://www.vets.gov
 https://www.vets.gov/playbook
 https://pages.18f.gov/accessibility/pagetitles
@@ -1950,48 +1946,34 @@ https://github.com/18F/guides-template
 https://github.com/cfpb/docter
 http://cfpb.github.io
 
-GitHub Government 
-*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
-
 18F
 *   [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
 *   [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
-
-U.K. Gov
-*   [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
-*   [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
-*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
-
-U.S. 
-*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
-*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy)
-*   [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual) and [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
-*   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
-*   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
-*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
-*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
-
-Australia
-*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)
 
 
 
 #### Government Digital
 
-Australia
+GitHub Government 
+*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
+
+Australian Gov.
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 *   [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/service-design-process)
 *   [Australia Digital Transformation Office Design Guides](https://www.dto.gov.au/design-guides)
 *   [Australia Digital Transformation Plan](https://www.dto.gov.au/standard/digital-transformation-plan), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard), [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
 *   [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary) and [Sitemap](https://www.dto.gov.au/sitemap)
 
-Australia Government Web Guide (Deprecated)
+Australian Government Web Guide (Deprecated)
 *   [Australian Government Web Guide (Deprecated)](http://webguide.gov.au)
 *   [Australian Government Web Guide (Deprecated), Usability](http://webguide.gov.au/accessibility-usability), [Australian Government Web Guide (Deprecated), Usability Testing](http://webguide.gov.au/accessibility-usability/usability-testing), and [Australian Government Web Guide (deprecated), User Needs Analysis](http://webguide.gov.au/accessibility-usability/user-needs-analysis)
 
 Australian Government Department of Finance Archive
 *   [Australian Government Department of Finance Archive](http://www.finance.gov.au/archive)
 *   [Australian Government Department of Finance Archive Better Practice Checklists Guidance](http://www.finance.gov.au/archive/agimo-archive/better-practice-checklists-guidance) and [Australian Government Department of Finance Archive Better Practice Checklists](http://www.finance.gov.au/agimo-archive/better-practice-checklists) 
+Australian Gov.- GitHub
+*   [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard)   
+
 BBC
 *   [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
 
@@ -2004,7 +1986,7 @@ The Prince's Trust
 *   [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
 *   [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
 
-U.K. Gov
+U.K. Gov.
 *   [Digital Transformation](https://www.gov.uk/transformation) and [Digital Transformation Blog](https://digitaltransformation.blog.gov.uk)
 *   [GOV.UK GitHub](https://github.com/alphagov)
 *   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
@@ -2025,10 +2007,15 @@ U.K. Gov
 *   [Print Form Template](https://www.gov.uk/service-manual/assets/documents/print-forms/template-form.pdf)
 *   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), [Writing for U.K. Gov](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide), and [U.K. Government Style Guide A to Z](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
+U.K. Gov.- GitHub
+*   [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
+*   [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
+*   [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
+
 U.K. Design Council
 *   [U.K. Design Council](http://www.designcouncil.org.uk)
 
-U.S. Gov
+U.S. Gov.
 *   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
 *   [18F](https://18f.gsa.gov), [18F GitHub](https://github.com/18F), [18F Guides](https://pages.18f.gov/guides), [18F Guides Template](https://pages.18f.gov/guides-template), and [18F Guides Template GitHub](https://github.com/18F/pages)
 *   [18F Grouplets](https://pages.18f.gov/grouplet-playbook) and [18F Methods](https://methods.18f.gov)
@@ -2041,7 +2028,16 @@ U.S. Gov
 *   [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
 *   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov) and [Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
 
-Usability Gov
+U.S. Gov.- GitHub
+*   [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
+*   [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy)
+*   [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual) and [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
+*   [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
+*   [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
+*   [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+*   [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
+
+Usability Gov.
 *   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
 
 U.S. Aid Learning Lab
@@ -4368,6 +4364,8 @@ Admin, Hiring, Payroll
 *   [Zenefits](http://www.zenefits.com)
 
 ### Example Website Code and Style Guides
+
+#### Jekyll (based on Ruby)
 
 #### Python
 
