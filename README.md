@@ -2581,6 +2581,7 @@ Styleguides- General
 *   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
 *   [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
 *   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+*   [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
 
 JavaScript Styleguide GitHub
 *   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
