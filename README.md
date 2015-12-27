@@ -2588,6 +2588,7 @@ JavaScript Styleguide GitHub
 *   [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
 
 Digital Agency Playbook, Blog, Styleguide, Templates
+*   [North GitHub](https://github.com/north/north)
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
@@ -3146,6 +3147,7 @@ O'Reilly Test-Driven Development with Python
 
 Python and Django Conferences
 *   [PyCon](http://www.pycon.org) and [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
+*   [PyLadies](http://www.pyladies.com) and [PyLadies GitHub](https://github.com/pyladies)
 *   [PyData](http://pydata.org)  
 *   [DjangoCon](http://www.djangocon.us)  
 
