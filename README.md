@@ -2574,7 +2574,7 @@ Styleguides- General
 *   [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
 *   [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
 *   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-*   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
+*   [MDO Code Guide GitHub](https://github.com/mdo/code-guide)  
 *   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
 *   [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
 *   [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
