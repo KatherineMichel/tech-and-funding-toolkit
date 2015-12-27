@@ -2592,7 +2592,7 @@ JavaScript Styleguide GitHub
 Ruby Styleguide GitHub
 *   [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
 
-Ruby Styleguide GitHub
+Objective C Styleguide GitHub
 *   [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
 *   [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
 
