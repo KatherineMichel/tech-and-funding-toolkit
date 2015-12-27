@@ -2589,8 +2589,12 @@ JavaScript Styleguide GitHub
 *   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 *   [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
 
-JavaScript Styleguide GitHub
+Ruby Styleguide GitHub
 *   [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+
+Ruby Styleguide GitHub
+*   [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
+*   [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
 
 Data Styleguide GitHub
 *   [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
