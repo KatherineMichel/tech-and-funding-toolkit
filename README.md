@@ -2587,6 +2587,13 @@ JavaScript Styleguide GitHub
 *   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 *   [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
 
+JavaScript Styleguide GitHub
+*   [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+
+Data Styleguide GitHub
+*   [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
+*   [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
+
 Digital Agency Playbook, Blog, Styleguide, Templates
 *   [North GitHub](https://github.com/north/north)
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
