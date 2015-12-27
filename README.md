@@ -2559,8 +2559,10 @@ GNU Software and Manuals
 
 #### Open Source Management and Style Guides
 
-Open Source Management
+Open Source Management and Codes of Conduct
 *   [Open Source Management at Docker](https://github.com/docker/opensource)
+*   [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
+*   [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
 
 Styleguides- General
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
