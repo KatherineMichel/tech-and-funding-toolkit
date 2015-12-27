@@ -2412,7 +2412,6 @@ Google Developers
 *   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
 *   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 *   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-*   [Google Styleguides](https://github.com/google/styleguide)
 
 Google Dev Tools
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
@@ -2563,20 +2562,32 @@ GNU Software and Manuals
 Open Source Management
 *   [Open Source Management at Docker](https://github.com/docker/opensource)
 
-General Styleguides
+Styleguides- General
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 *   [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
 *   [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
 *   [Styleguide GitHub](https://github.com/styleguide) 
+*   [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
+*   [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
 *   [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+*   [Google Styleguides GitHub](https://github.com/google/styleguide)
+*   [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
+*   [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
 *   [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
 *   [MDO Styleguide GitHub](https://github.com/mdo/code-guide)  
 *   [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+*   [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
+*   [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
 *   [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+*   [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
 *   [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 
+JavaScript Styleguide GitHub
+*   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+*   [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
 Digital Agency Playbook, Blog, Styleguide, Templates
-*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Styleguides](https://github.com/thoughtbot/guides/tree/master/style), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
+*   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
 Journalism Handbooks
@@ -2966,10 +2977,6 @@ JavaScript
 *   [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 *   [Eloquent JS](http://eloquentjavascript.net)  
 *   [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
-
-JavaScript Styleguide GitHub
-*   [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-*   [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)  
 
 AJAX
 *   [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
