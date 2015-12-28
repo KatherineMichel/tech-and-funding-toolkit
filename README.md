@@ -3333,11 +3333,9 @@ Python- Django- Other CMS and E-Commerce Options
 *   [Mezzanine Docs](http://mezzanine.jupo.org/docs)  
 *   [Mezzanine Sites](http://mezzanine.jupo.org/sites)  
 *   [Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
-*   [Oscar Docs](http://django-oscar.readthedocs.org/en/latest)  
-*   [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
+*   [Oscar Docs](http://django-oscar.readthedocs.org/en/latest) and [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
 *   [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
-*   [Wagtail CMS GitHub](https://github.com/torchbox/wagtail)  
-*   [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template)  
+*   [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template)  
 
 Python- Django- TinyMCE
 *   [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
@@ -4422,9 +4420,10 @@ Python- Django- Django Product Websites
 
 Django Girls (Python- Django)
 *   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
-*   [Django Girls Tutorial](http://tutorial.djangogirls.org)  
+*   [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
 *   [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
 *   [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
+*   [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
 *   [Django Girls Organize](http://organize.djangogirls.org)  
 *   [Django Girls Coach](http://coach.djangogirls.org)  
 *   [Django Girls Resources](https://github.com/DjangoGirls/resources)  
