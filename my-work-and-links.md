@@ -2,7 +2,7 @@
 
 Daily
 *   [GitHub Explore](https://github.com/explore)
-*   [Product Hunt](https://www.producthunt.com)
+*   [Product Hunt](https://www.producthunt.com) and [Product Hunt Today](http://ph.needles.me)
 *   [Makerbase Explore](https://makerba.se/explore)
 
 News
