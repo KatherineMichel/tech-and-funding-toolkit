@@ -444,7 +444,7 @@ Lists of VC Firms and Accelerators
 *   [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
 *   [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
 *   [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
-*   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table) and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
+*   [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
 Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [500 Startups Activity](http://500.co/activity), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
@@ -1494,7 +1494,7 @@ Wikipedia
 
 MOOCs
 *   [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
-*   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) and [Online Courses](http://online.stanford.edu/courses)
+*   [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
 *   [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
 *   [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 *   [EdX](https://www.edx.org)  
@@ -1532,6 +1532,7 @@ Google for Education
 *   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
 *   [Mobile Ecosystem Forum](http://mefglobalforum.org)
 *   [TechCrunch Events](http://techcrunch.com/events)  
+*   Crunchies
 *   [Recode Events](http://recode.net/events) 
 *   [LeWeb](http://leweb.co) 
 *   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
