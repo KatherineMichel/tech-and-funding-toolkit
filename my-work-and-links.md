@@ -46,6 +46,7 @@ Project Management and Tools
 *   [Office Live](https://office.live.com)
 *   [Read the Docs](https://readthedocs.org/profiles/KatherineMichel)
 *   [Slack](https://katherinemichel.slack.com)
+*   [StackShare](http://stackshare.io/KatherineMichel)
 *   [Kindle Cloud Reader](https://read.amazon.com)
 *   [Amazon Wishlist](http://www.amazon.com/gp/registry/wishlist)
 
