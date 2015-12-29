@@ -1884,7 +1884,7 @@ Strategy
 Value
 *   [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
 *   [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
-*   [Value Egineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
+*   [Value Engineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 *   [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
 
@@ -2338,12 +2338,8 @@ Labs
 
 #### Engineering Blogs and Designer, Developer Conferences
 
-Company Design
-*   [Medium Design](https://medium.com/designing-medium)  
-*   [IBM Design](https://www.ibm.com/design)  
-*   [eBay/PayPal](http://ebay.com/design)  
-*   [Twitter Design](https://twitter.com/design)  
-*   [Uber Design](https://www.uber.com/design) 
+StackShare
+*   [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
 
 List of Engineering Blogs
 *   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
@@ -2357,6 +2353,13 @@ Individual Engineering Blogs
 *   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
 *   [Uber Developers](https://devblog.uber.com)  
 *   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+Company Design
+*   [Medium Design](https://medium.com/designing-medium)  
+*   [IBM Design](https://www.ibm.com/design)  
+*   [eBay/PayPal](http://ebay.com/design)  
+*   [Twitter Design](https://twitter.com/design)  
+*   [Uber Design](https://www.uber.com/design) 
 
 Designer/Developer Conferences
 *   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
