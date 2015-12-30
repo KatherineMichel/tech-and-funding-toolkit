@@ -3943,6 +3943,9 @@ Visual Studio
 WebMatrix
 *   [WebMatrix](http://www.microsoft.com/web/webmatrix)
 
+ASP.NET Example Websits
+*   [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
+
 #### Mojombo Chromebook Recommendation
 
 *   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
@@ -5504,6 +5507,7 @@ Awesome- More
 *   [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
 *   [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
+*   [Awesome Material GitHub](https://github.com/sachin1092/awesome-material)
 *   [Awesome React GitHub](https://github.com/enaqx/awesome-react)
 *   [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
 *   [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin)  
