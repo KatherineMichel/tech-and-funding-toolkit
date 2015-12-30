@@ -1967,6 +1967,7 @@ Estonian E-Residence
 
 MediaPublic
 *   [MediaPublic GitHub](https://github.com/mediapublic/mediapublic)
+*   [MediaPublic "Decide what information will be on the homepage." GitHub](https://github.com/mediapublic/mediapublic/issues/79) and [MediaPublic "Decide what information will be on the Organization page." GitHub](https://github.com/mediapublic/mediapublic/issues/81)
 
 The Prince's Trust
 *   [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
