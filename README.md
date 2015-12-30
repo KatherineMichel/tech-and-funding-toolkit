@@ -2611,6 +2611,7 @@ Data Styleguide GitHub
 *   [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
 Digital Agency Playbook, Blog, Styleguide, Templates
+*   [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
 *   [North GitHub](https://github.com/north/north)
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
