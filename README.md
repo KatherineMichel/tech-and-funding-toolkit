@@ -1965,6 +1965,9 @@ BBC
 Estonian E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
 
+MediaPublic
+*   [MediaPublic GitHub](https://github.com/mediapublic/mediapublic)
+
 The Prince's Trust
 *   [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
 *   [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
