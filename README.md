@@ -2240,6 +2240,7 @@ Responsiveness
 
 Bootstrap, Font Awesome
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+*   [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 *   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
