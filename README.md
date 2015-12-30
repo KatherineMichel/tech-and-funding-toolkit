@@ -2310,26 +2310,6 @@ CSS
 *   [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 *   [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
-DevCenter
-*   [DevCenter Website](DevCenter.me)  
-
-Guides for Development
-*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Built With (Exluding Django)
-*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-*   [Built With](http://builtwith.com)  
-*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-*   [Built with Bootstrap](http://expo.getbootstrap.com)  
-*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-*   [Squarespace (Website Examples)](http://www.squarespace.com) 
-
-Code Search
-*   [Search Code](https://searchcode.com)  
-*   [Nerdy Data](http://nerdydata.com)  
-
 Example
 *   [Example Org](http://www.example.org)  
 *   [Example Org Mobile](https://m.example.com) 
@@ -2359,6 +2339,26 @@ Individual Engineering Blogs
 *   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
 *   [Uber Developers](https://devblog.uber.com)  
 *   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+DevCenter
+*   [DevCenter Website](DevCenter.me)  
+
+Guides for Development
+*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Built With (Exluding Django)
+*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+*   [Built With](http://builtwith.com)  
+*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+*   [Built with Bootstrap](http://expo.getbootstrap.com)  
+*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+*   [Squarespace (Website Examples)](http://www.squarespace.com) 
+
+Code Search
+*   [Search Code](https://searchcode.com)  
+*   [Nerdy Data](http://nerdydata.com)  
 
 Company Design
 *   [Medium Design](https://medium.com/designing-medium)  
@@ -3905,6 +3905,7 @@ Node Forks
 
 .NET
 *   [Microsoft.github.io](http://microsoft.github.io)  
+*   [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
 *   [Dotnet GitHub](https://github.com/dotnet)  
 *   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
