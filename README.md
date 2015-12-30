@@ -2244,6 +2244,7 @@ Responsiveness
 
 Bootstrap, Font Awesome
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+*   [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
 *   [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 *   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
@@ -4567,6 +4568,7 @@ Miscellaneous (Python)
 *   [CKAN Data Management System Vagrant Github](https://github.com/philippkueng/ckan-vagrant)  
 *   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 *   [Plone Content Management System (Runs on Zope) Github](https://github.com/plone/Plone)  
+*   [PyLadies GitHub](https://github.com/pyladies/pyladies)
 *   [Zipline Algorithmic Trading Platform (basis for Quantopian) Github](https://github.com/quantopian/zipline)  
 *   [Zipline Spinoff Quantopian's Algorithms Github](https://github.com/quantopian/quantopian-algos)  
 *   [Zope Web App Server Github](https://github.com/zopefoundation/Zope)  
