@@ -5512,6 +5512,7 @@ Awesome Data Science
 *   [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
 
 Awesome- More
+*   [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
 *   [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
 *   [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
 *   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
