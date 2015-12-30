@@ -2101,8 +2101,12 @@ Google
 *   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
-Google Material Design
+Google Material Design (See also Facebook React)
 *   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+Bootstrap Material Design
+*   [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+*   [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
 
 Polymer
 *   [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
@@ -2244,7 +2248,6 @@ Bootstrap, Font Awesome
 *   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 *   [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 *   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-*   [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 
 Foundation
 *   [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
@@ -2253,11 +2256,12 @@ Foundation
 
 Good, Basic Templates, Themes
 *   [Template Stash](http://www.templatestash.com)
-*   [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
 *   [HTML5 UP](http://html5up.net) 
 *   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
 *   [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
 *   [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
+*   [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
+*   [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
 
 Kickstarters
 *   [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
@@ -3912,6 +3916,14 @@ ASP
 *   [ASP Docker GitHub](https://github.com/aspnet/aspnet-docker)
 *   [Heroku ASP Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
 *   [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
+
+ASP.NET Boilerplate
+*   [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
+*   [ASP.NET Boilerplate Module Zero GitHub](https://github.com/aspnetboilerplate/module-zero)
+*   [ASP.NET Boilerplate Templates GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-templates)
+*   [ASP.NET Boilerplate Samples GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-samples)
+*   [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
+*   [ASP.NET Boilerplate Event Cloud GitHub](https://github.com/aspnetboilerplate/eventcloud)
 
 W3Schools ASP.NET
 *   [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
