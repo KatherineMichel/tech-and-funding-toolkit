@@ -3922,6 +3922,18 @@ ASP
 ASP.NET Home
 *   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), 
 
+https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+
+http://www.parallels.com
+Free
+https://support.apple.com/en-us/HT201468
+
+https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
+Python Web Projects
+https://github.com/Microsoft/PTVS/wiki/Web-Project
+
+https://azure.microsoft.com/en-us/develop/python
+
 http://www.asp.net/mvc/overview/views
 http://www.asp.net/mvc/overview/api-reference
 ASP.NET Web Pages (Razor) API Quick Reference
@@ -3955,10 +3967,36 @@ https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
 Microsoft API and reference catalog
 https://msdn.microsoft.com/library
 
+Visual Studio IDE
+https://msdn.microsoft.com/en-us/library/dn762121.aspx
+Get Started Developing with Visual Studio
+https://msdn.microsoft.com/en-us/library/ms165079.aspx
+Visual Web Developer Express
+https://msdn.microsoft.com/library/dd537667(v=vs.100).aspx
+Comparing Visual Studio and Visual Web Developer Express
+https://msdn.microsoft.com/library/ms349441(v=vs.100).aspx
+Compare Visual Studio 2015 Offerings
+https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-vs
+Overview of Visual Studio 2015 Products
+https://www.visualstudio.com/products/vs-2015-product-editions
+
+AWS Toolkit for Visual Studio
+https://aws.amazon.com/visualstudio
+AWS Toolkit for Visual Studio Documentation
+https://aws.amazon.com/documentation/aws-toolkit-visual-studio/
+Setting Up the AWS Toolkit for Visual Studio
+http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html
+
+https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
+
+http://www.asp.net/downloads
+
 ASP.NET 5 Applications with VS Code
 https://code.visualstudio.com/Docs/runtimes/ASPnet5
 
 https://code.visualstudio.com/Docs/?dv=linux32
+
+https://www.visualstudio.com/en-us/features/net-development-vs.aspx
 
 https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
 
