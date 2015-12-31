@@ -5516,6 +5516,9 @@ Awesome
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 
+Awesome Conferences
+*   [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
+
 Awesome Python and Django
 *   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
 *   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
