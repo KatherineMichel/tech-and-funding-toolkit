@@ -3921,6 +3921,12 @@ ASP
 ASP.NET Home
 *   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), 
 
+http://www.asp.net/mvc/overview/views
+http://www.asp.net/mvc/overview/api-reference
+ASP.NET Web Pages (Razor) API Quick Reference
+http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
+https://support.microsoft.com/en-us/kb/307996
+
 ASP.NET GitHub
 *   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
