@@ -3945,9 +3945,14 @@ ASP.NET Docs
 
 .NET and ASP.Net Heroku and AWS
 *   [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+*   [AWS Windows and .NET Developer Center](https://aws.amazon.com/net)
+*   [AWS SDK for .NET GitHub](https://github.com/aws/aws-sdk-net)
+*   ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
 
 ASP.NET Boilerplate
-*   [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
+*   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
 *   [ASP.NET Boilerplate Module Zero GitHub](https://github.com/aspnetboilerplate/module-zero)
 *   [ASP.NET Boilerplate Templates GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-templates)
 *   [ASP.NET Boilerplate Samples GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-samples)
