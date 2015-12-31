@@ -3928,6 +3928,40 @@ ASP.NET Web Pages (Razor) API Quick Reference
 http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
 https://support.microsoft.com/en-us/kb/307996
 
+.NET Framework Development Guide
+https://msdn.microsoft.com/en-us/library/hh156542(v=vs.110).aspx
+.NET Framework Class Library
+https://msdn.microsoft.com/en-us/library/mt472912(v=vs.110).aspx
+.NET Framework Class Library
+https://msdn.microsoft.com/en-us/library/gg145045(v=VS.110).aspx
+Generic Collections in the .NET Framework
+https://msdn.microsoft.com/en-us/library/bb762916(v=vs.110).aspx
+When to Use Generic Collections
+https://msdn.microsoft.com/en-us/library/ms172181(v=vs.110).aspx
+System.Collections.Generic Namespace
+https://msdn.microsoft.com/en-us/library/system.collections.generic(v=vs.110).aspx
+ASP.NET
+https://msdn.microsoft.com/en-us/library/aa286485.aspx
+ASP.NET MVC Facebook Template
+https://msdn.microsoft.com/en-us/library/jj891078(v=vs.108).aspx
+ASP.NET Reference
+https://msdn.microsoft.com/en-us/library/9k6k3k4a(v=vs.85).aspx
+Developing Web Applications with ASP.NET
+https://msdn.microsoft.com/en-us/library/bb400852(v=vs.110).aspx
+Getting Started with Python
+https://msdn.microsoft.com/en-us/library/dn705848.aspx
+List<T> Class
+https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
+Microsoft API and reference catalog
+https://msdn.microsoft.com/library
+
+ASP.NET 5 Applications with VS Code
+https://code.visualstudio.com/Docs/runtimes/ASPnet5
+
+https://code.visualstudio.com/Docs/?dv=linux32
+
+https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
+
 ASP.NET GitHub
 *   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
