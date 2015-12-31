@@ -3177,7 +3177,8 @@ Python and Django Conferences
 *   [PyCon](http://www.pycon.org) and [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
 *   [PyLadies](http://www.pyladies.com) and [PyLadies GitHub](https://github.com/pyladies)
 *   [PyData](http://pydata.org)  
-*   [DjangoCon](http://www.djangocon.us)  
+*   [Django Events Foundation North America](http://defna.org) 
+*   [DjangoCon U.S.](http://www.djangocon.us) and [DjangoCon E.U.](https://djangocon.eu)  
 
 Python- Microframeworks and Template Engines
 *   [Bottle](http://bottlepy.org/docs/dev/index.html)  
@@ -4596,6 +4597,7 @@ Miscellaneous (Python)
 *   [CKAN Data Management System Github](https://github.com/ckan/ckan)  
 *   [CKAN Data Management System CMS Github](https://github.com/ckan/ckanext-pages)  
 *   [CKAN Data Management System Vagrant Github](https://github.com/philippkueng/ckan-vagrant)  
+*   [Django Events Foundation North America GitHub](https://github.com/DEFNA/defna.org)
 *   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 *   [Plone Content Management System (Runs on Zope) Github](https://github.com/plone/Plone)  
 *   [PyLadies GitHub](https://github.com/pyladies/pyladies)
