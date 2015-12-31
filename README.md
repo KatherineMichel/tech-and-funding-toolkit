@@ -4510,6 +4510,7 @@ Python- Django- Cookiecutter (See also Packages)
 
 Pier Angelo
 *   [Pier Angelo GitHub](https://github.com/pierangelo1982)
+*   [Pier Angelo Palmieri GitHub](https://github.com/pierangelo1982/palmieri)
 
 18F and Peace Corps New Website (Python- Django)
 *   [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
