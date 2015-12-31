@@ -3922,6 +3922,7 @@ ASP.NET
 *   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), [ASP.NET Home GitHub](https://github.com/aspnet/Home), [ASP.NET Docs](http://docs.asp.net), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
 *   [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
+*   [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
 *   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
 *   [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
 
