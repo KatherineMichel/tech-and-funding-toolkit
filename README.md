@@ -3918,13 +3918,23 @@ Node Forks
 ASP
 *   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
-ASP.NET
-*   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), [ASP.NET Home GitHub](https://github.com/aspnet/Home), [ASP.NET Docs](http://docs.asp.net), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
+ASP.NET Home
+*   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), 
+
+ASP.NET GitHub
+*   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
 *   [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
 *   [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
 *   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
+
+ASP.NET Docs
+*   [ASP.NET Docs](http://docs.asp.net)
 *   [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
+*   [Installing ASP.NET 5 On Windows](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
+*   [ASP.NET 5 Fundamentals](http://docs.asp.net/en/latest/fundamentals/index.html)
+*   ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
+*   ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
 
 .NET and ASP.Net Heroku and AWS
 *   [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
