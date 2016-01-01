@@ -38,13 +38,13 @@ Table of Contents
   - [Documents and Improvement](#documents-and-improvement)
 - [Research and Design Sprints](#research-and-design-sprints)
   - [Basics](#basics)
+  - [Django Sprints](#django-sprints) 
   - [Government Digital](#government-digital)
   - [Google Ventures Research Sprint](#google-ventures-research-sprint)
   - [Google Ventures Design Sprint](#google-ventures-design-sprint)
   - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
   - [Google Design Sprint](#google-design-sprint)
   - [Facebook and Google Design Approach](#facebook-and-google-design-approach)
-  - [Django Sprints](#django-sprints) 
   - [More Research and Design Toolkits](#more-research-and-design-toolkits) 
   - [Design](#design)
   - [Labs](#labs)
@@ -1939,6 +1939,12 @@ Use Case
 Persuasive Technology
 *   [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
+#### Django Sprints
+
+*  [Django Sprints](https://code.djangoproject.com/wiki/Sprints)
+*  [Sprint Hosting How-To](https://code.djangoproject.com/wiki/SprintHostingHowto)
+*  [Sprint Information Template](https://code.djangoproject.com/wiki/SprintTemplate)
+
 #### Government Digital
 
 GitHub Government 
@@ -2122,12 +2128,6 @@ Polymer
 Accelerated Mobile Pages (AMP HTML)
 *   [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 *   [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
-
-#### Django Sprints
-
-*  [Django Sprints](https://code.djangoproject.com/wiki/Sprints)
-*  [Sprint Hosting How-To](https://code.djangoproject.com/wiki/SprintHostingHowto)
-*  [Sprint Information Template](https://code.djangoproject.com/wiki/SprintTemplate)
 
 #### More Research and Design Toolkits
 
