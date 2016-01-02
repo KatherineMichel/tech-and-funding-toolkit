@@ -2816,11 +2816,15 @@ Chromebook Ubuntu Installation
 #### Apple
 
 Apple Developer and Open Source
-*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
+*   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included)
 *   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Apple Open Source](https://developer.apple.com/opensource)
 *   [Xcode](https://developer.apple.com/xcode)
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language)) 
+*   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+Apple MacBook Air
+*   [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
 
 Apple- Windows
 *   [Bootcamp (Free)](https://support.apple.com/en-us/HT201468)  
