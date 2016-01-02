@@ -2234,7 +2234,6 @@ Free Photos
 *   [MorgueFile](http://www.morguefile.com)  
 
 Prototyping Software
-*   [Keynote](https://www.apple.com/mac/keynote)
 *   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
 *   [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
 *   [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
@@ -2823,8 +2822,16 @@ Apple Developer and Open Source
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language)) 
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
+Apple Presentation and Design
+*   [Keynote](https://www.apple.com/mac/keynote)
+*   [Sketch](https://www.sketchapp.com)
+
 Apple MacBook Air
 *   [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
+
+Apple- Refurbished, Clearance, Reuse, Recycling
+*   [Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
+*   [Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
 
 Apple- Windows
 *   [Bootcamp (Free)](https://support.apple.com/en-us/HT201468)  
