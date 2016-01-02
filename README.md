@@ -60,6 +60,7 @@ Table of Contents
   - [Computer Basics](#computer-basics)
   - [Dot Files](#dot-files)
   - [Unix and Linux](#unix-and-linux)
+  - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   - [Apple](#apple)
   - [GitHub and Markdown](#github-and-markdown)
   - [More Command Line and Shell](#more-command-line-and-shell)
@@ -72,7 +73,6 @@ Table of Contents
 - [More Back-End](#more-back-end)
   - [Node.js and Related](#nodejs-and-related)
   - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
-  - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
 - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 - [Launch and Growth](#lauch-and-growth)
@@ -2794,21 +2794,45 @@ Linux- Other Popular Distributions
 *   [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
 *   [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
 
+#### Mojombo Chromebook Recommendation
+
+*   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
+*   [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
+*   [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+*   [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
+*   [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
+*   [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
+*   [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+*   [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
+*   [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
+
+Chromebook Ubuntu Installation
+*   [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
+*   [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
+*   [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
+*   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
+*   [Crouton GitHub](https://github.com/dnschneid/crouton)  
+
 #### Apple
 
 Apple Developer and Open Source
 *   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
+*   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Apple Open Source](https://developer.apple.com/opensource)
+*   [Xcode](https://developer.apple.com/xcode)
+*   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language)) 
 
-Apple- Devices
+Apple- Windows
+*   [Bootcamp (Free)](https://support.apple.com/en-us/HT201468)  
+*   [Parallels](http://www.parallels.com)
+
+Apple- Platforms and Devices
+*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
+*   [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 *   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
 Apple- More
-*   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
-*   [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-*   [Xcode](https://developer.apple.com/xcode) 
 *   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
 *   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
 *   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
@@ -3935,10 +3959,6 @@ ASP.NET Home
 
 https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 
-http://www.parallels.com
-Free
-https://support.apple.com/en-us/HT201468
-
 https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
 Python Web Projects
 https://github.com/Microsoft/PTVS/wiki/Web-Project
@@ -4061,25 +4081,6 @@ WebMatrix
 ASP.NET Example Websits
 *   [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
 
-#### Mojombo Chromebook Recommendation
-
-*   [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
-*   [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
-*   [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
-*   [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
-*   [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
-*   [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
-*   [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
-*   [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
-*   [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
-
-Chromebook Ubuntu Installation
-*   [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
-*   [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
-*   [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-*   [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
-*   [Crouton GitHub](https://github.com/dnschneid/crouton)  
-
 #### Mobile
 
 Mobile- General
@@ -4101,8 +4102,6 @@ Mobile Phones- General
 
 Embedded Operating Systems
 *   [List of Embedded Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems#Embedded)  
-Apple- Swift
-*   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))  
 
 Android
 *   [Android.com](http://www.android.com), [Android GitHub](https://github.com/android), and [Android Wikipedia](http://en.wikipedia.org/wiki/Android_(operating_system))  
