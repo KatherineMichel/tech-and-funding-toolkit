@@ -2237,6 +2237,7 @@ Prototyping Software
 *   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
 *   [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
 *   [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
+*   [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
 *   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
 *   [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
 *   [Paper App](https://www.fiftythree.com/paper)
