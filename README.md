@@ -3244,12 +3244,57 @@ Python- Django
 *   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 *   [Django GitHub](https://github.com/django/django)  
 
-Python- Django- Git and Deployment
-*   [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
-*   [Deployment Checklist](https://docs.djangoproject.com/en/1.8/howto/deployment/checklist)
-
 Python- Django Jobs
 *   [Django Jobs](https://www.djangojobs.net)  
+
+Python- Django- Resources
+*   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
+*   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
+*   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
+
+https://www.djangoproject.com/weblog
+
+https://code.djangoproject.com/wiki/Version1.10Roadmap
+https://code.djangoproject.com/wiki/Version1.9Roadmap
+
+https://github.com/orgs/django/people
+https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list
+https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers
+https://docs.djangoproject.com/en/1.9/internals/mailing-lists
+
+https://docs.djangoproject.com/en/dev/internals/contributing
+https://www.djangoproject.com/foundation/cla
+
+https://code.djangoproject.com/wiki/Sprints
+https://code.djangoproject.com/wiki/SprintIdeas
+
+https://groups.google.com/forum/#!forum/django-users/join
+https://groups.google.com/forum/#!aboutgroup/django-developers
+https://groups.google.com/forum/#!forum/django-developers
+
+https://us.pycon.org/2016/assistance
+https://djangocon.eu
+http://2015.djangocon.us/speaking/cfp
+https://2015.djangocon.us
+http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
+
+https://www.heroku.com/python
+http://docs.python-guide.org/en/latest/writing/structure
+
+https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
+
+http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
+
+Python- Django Tutorials (excluding Django Girls)
+*   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
+*   [Django Book (Deprecated but useful)](http://www.djangobook.com)  
+*   [Light Weight Django](http://it-ebooks.info/book/2820)  
+*   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+*   [Tango with Django Tutorial](http://www.tangowithdjango.com) 
+
+Python- Django- Git and Deployment
+*   [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
+*   [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
 
 Python- Django- Packages 
 *   [Django Packages](https://www.djangopackages.com)  
@@ -3261,18 +3306,6 @@ Python and Django- Creating Packages
 *   [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
 *   [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 *   [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
-
-Python- Django- Resources
-*   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
-*   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
-*   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
-
-Python- Django Tutorials (excluding Django Girls)
-*   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-*   [Django Book (Deprecated but useful)](http://www.djangobook.com)  
-*   [Light Weight Django](http://it-ebooks.info/book/2820)  
-*   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
-*   [Tango with Django Tutorial](http://www.tangowithdjango.com)  
 
 Python- PEP 3333 (Python Web Server Gateway Interface)
 *   [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
@@ -5639,7 +5672,7 @@ Awesome Python and Django
 *   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
 *   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 *   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-*   [Awesome Django GitLab (Deprecated)](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+*   [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
 
 Awesome Data Science
 *   [Awesome Data Science GitHub](https://github.com/okulbilisim/awesome-datascience)  
