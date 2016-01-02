@@ -5623,8 +5623,11 @@ Awesome
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 
-Awesome Conferences
+Awesome Non-Code
 *   [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
+*   [Awesome A11Y GitHub](https://github.com/brunopulis/awesome-a11y)
+*   [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
+*   [Guides GitHub](https://github.com/NARKOZ/guides)
 
 Awesome Python and Django
 *   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
