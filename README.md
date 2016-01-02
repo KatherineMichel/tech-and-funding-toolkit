@@ -2270,6 +2270,7 @@ Bootstrap, Font Awesome
 Foundation
 *   [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 *   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
+*   [Foundation for Emails](http://foundation.zurb.com/emails.html)
 *   [Zurb Library](http://zurb.com/library)
 
 Good, Basic Templates, Themes
