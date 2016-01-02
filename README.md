@@ -3221,11 +3221,15 @@ O'Reilly Test-Driven Development with Python
 *   [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment)  
 
 Python and Django Conferences
-*   [PyCon](http://www.pycon.org) and [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
+*   [PyCon](http://www.pycon.org)
 *   [PyLadies](http://www.pyladies.com) and [PyLadies GitHub](https://github.com/pyladies)
 *   [PyData](http://pydata.org)  
 *   [Django Events Foundation North America](http://defna.org) 
 *   [DjangoCon U.S.](http://www.djangocon.us) and [DjangoCon E.U.](https://djangocon.eu)  
+
+Python and Django Conferences- Proposal Examples
+*   Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
+*   [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
 
 Python- Microframeworks and Template Engines
 *   [Bottle](http://bottlepy.org/docs/dev/index.html)  
