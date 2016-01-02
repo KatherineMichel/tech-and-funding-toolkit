@@ -38,7 +38,7 @@ Table of Contents
   - [Documents and Improvement](#documents-and-improvement)
 - [Research and Design Sprints](#research-and-design-sprints)
   - [Basics](#basics)
-  - [Django Sprints](#django-sprints) 
+  - [Python and Django Sprints](#python-and-django-sprints) 
   - [Government Digital](#government-digital)
   - [Google Ventures Research Sprint](#google-ventures-research-sprint)
   - [Google Ventures Design Sprint](#google-ventures-design-sprint)
@@ -1942,7 +1942,9 @@ Use Case
 Persuasive Technology
 *   [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
-#### Django Sprints
+#### Python and Django Sprints
+
+*  [Learn Python the Hard Way- Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
 
 *  [Django Sprints](https://code.djangoproject.com/wiki/Sprints)
 *  [Sprint Hosting How-To](https://code.djangoproject.com/wiki/SprintHostingHowto)
