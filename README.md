@@ -2732,6 +2732,7 @@ Dot Files
 *   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
 *   [Dotfiles](http://dotfiles.github.io)  
 *   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
+*   [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
 
 Startup Class Dotfiles and AWS EC2 Setup
 *   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
@@ -4042,11 +4043,14 @@ https://www.visualstudio.com/en-us/features/net-development-vs.aspx
 
 https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
 
+https://github.com/aspnet/live.asp.net
+
 ASP.NET GitHub
 *   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
 *   [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
 *   [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
+*   [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
 *   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
 
 ASP.NET Docs
@@ -5601,7 +5605,6 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 #### Other Enormous Tool Lists
 *   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
 *   [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
-*   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
 *   [Content Marketing Stack](http://www.contentmarketingstack.co)
 *   [Growth Tools](http://growthtools.io)
 *   [growth.supply](http://growth.supply/free)
@@ -5611,6 +5614,10 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 *   [Stacklist](http://stacklist.com)
 *   [Startup Resources](http://startupresources.io)
 *   [Startup Stash](http://startupstash.com)
+
+Dev-Ops Wiki and Free for Dev
+*   [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
+*   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
 
 Awesome
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
