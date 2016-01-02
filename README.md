@@ -60,6 +60,7 @@ Table of Contents
   - [Computer Basics](#computer-basics)
   - [Dot Files](#dot-files)
   - [Unix and Linux](#unix-and-linux)
+  - [Apple](#apple)
   - [GitHub and Markdown](#github-and-markdown)
   - [More Command Line and Shell](#more-command-line-and-shell)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
@@ -2394,27 +2395,6 @@ Designer/Developer Conferences
 Web Analytics
 *   [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
-Apple Developer and Open Source
-*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
-*   [Apple Open Source](https://developer.apple.com/opensource)
-
-Apple- Devices
-*   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-
-Apple- More
-*   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
-*   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
-*   [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-*   [Xcode](https://developer.apple.com/xcode) 
-*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-*   [Apple Watchkit](https://developer.apple.com/watchkit)  
-*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
-*   [Apple Support](http://www.apple.com/support) 
-
 Facebook
 *   [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
 
@@ -2795,7 +2775,7 @@ Linux- Ubuntu Dual Boot
 Ubuntu Terminal, Command Line, and Aptget
 *   [Linux Command](http://linuxcommand.org)  
 *   [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
-*   [Ubuntu Aptget](https://help.ubuntu.com/community/AptGet/Howto)  
+*   [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
 *   [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
 
 Ubuntu- + Programs
@@ -2813,6 +2793,29 @@ Linux- Other Popular Distributions
 *   [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
 *   [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
 *   [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
+
+#### Apple
+
+Apple Developer and Open Source
+*   [Apple Developer](https://developer.apple.com) and [Apple Developer Resources](https://developer.apple.com/resources)
+*   [Apple Open Source](https://developer.apple.com/opensource)
+
+Apple- Devices
+*   [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+
+Apple- More
+*   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
+*   [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+*   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
+*   [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+*   [Xcode](https://developer.apple.com/xcode) 
+*   [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+*   [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+*   [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+*   [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+*   [Apple Watchkit](https://developer.apple.com/watchkit)  
+*   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
+*   [Apple Support](http://www.apple.com/support) 
 
 #### GitHub and Markdown
 
