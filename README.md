@@ -206,7 +206,7 @@ Table of Contents
 *   [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
 *   [Justin Kan](http://justinkan.com)
 *   [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org)
-*   [Kevin Kelly](http://kk.org/kk) and [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1)
+*   [Kevin Kelly](http://kk.org/kk), [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
 *   [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
 *   [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 *   [Loic Le Meur](http://loiclemeur.com/english) and [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)
@@ -464,6 +464,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 *   [NEA](http://www.nea.com)
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [OS Fund Playbook](http://osfund.co/the-osf-playbook)
+*   [Sam Altman: Startup Playbook](http://playbook.samaltman.com) and [Sam Altman: Startup Playbook (Spanish)](https://platzi.com/startup-playbook)
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
 *   [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
@@ -2855,6 +2856,9 @@ Apple- More
 *   [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
 *   [Apple Support](http://www.apple.com/support) 
 
+Mac Update
+*   [Mac Update](http://www.macupdate.com)
+
 #### GitHub and Markdown
 
 Git
@@ -4646,7 +4650,8 @@ Python- Django- Pinax
 *   [Pinax Symposion](https://github.com/pinax/symposion)  
 
 Python- Django- Cookiecutter (See also Packages)
-*   [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django )
+*   [Cookie Cutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
+*   [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django )
 *   [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
 *   [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
 
