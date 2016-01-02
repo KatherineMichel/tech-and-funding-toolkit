@@ -4066,13 +4066,6 @@ https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-
 Overview of Visual Studio 2015 Products
 https://www.visualstudio.com/products/vs-2015-product-editions
 
-AWS Toolkit for Visual Studio
-https://aws.amazon.com/visualstudio
-AWS Toolkit for Visual Studio Documentation
-https://aws.amazon.com/documentation/aws-toolkit-visual-studio/
-Setting Up the AWS Toolkit for Visual Studio
-http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html
-
 https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
 
 http://www.asp.net/downloads
@@ -4110,6 +4103,13 @@ ASP.NET Docs
 *   [AWS SDK for .NET GitHub](https://github.com/aws/aws-sdk-net)
 *   ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
 
+AWS Toolkit for Visual Studio
+https://aws.amazon.com/visualstudio
+AWS Toolkit for Visual Studio Documentation
+https://aws.amazon.com/documentation/aws-toolkit-visual-studio/
+Setting Up the AWS Toolkit for Visual Studio
+http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html
+
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
 
 ASP.NET Boilerplate
@@ -4135,6 +4135,9 @@ Visual Studio
 
 WebMatrix
 *   [WebMatrix](http://www.microsoft.com/web/webmatrix)
+
+.NET Platform as a Service
+*   [AppHarbor](https://appharbor.com)
 
 ASP.NET Example Websits
 *   [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
