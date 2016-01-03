@@ -2852,6 +2852,7 @@ Apple- Refurbished, Clearance, Reuse, Recycling
 Apple- Windows
 *   [Bootcamp (Free)](https://support.apple.com/en-us/HT201468)  
 *   [Parallels](http://www.parallels.com)
+*   [Wine](https://www.winehq.org)
 
 Apple- Platforms and Devices
 *   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
