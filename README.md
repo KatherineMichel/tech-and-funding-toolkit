@@ -3279,19 +3279,21 @@ Python- Django
 *   [Django](https://www.djangoproject.com)  
 *   [Django Documentation](https://docs.djangoproject.com)  
 *   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
-*   [Django GitHub](https://github.com/django/django)  
+*   [Django GitHub](https://github.com/django/django) 
+*   [Django Weblog GitHub](https://www.djangoproject.com/weblog)
 
 Python- Django Jobs
 *   [Django Jobs](https://www.djangojobs.net)  
 
+Python- Django- Contributing
+*   [Django Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+
 Python- Django- Resources
 *   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
-*   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
+*   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
 <!--
-
-https://www.djangoproject.com/weblog
 
 https://code.djangoproject.com/wiki/Version1.10Roadmap
 https://code.djangoproject.com/wiki/Version1.9Roadmap
@@ -3307,17 +3309,12 @@ https://www.djangoproject.com/foundation/cla
 https://code.djangoproject.com/wiki/Sprints
 https://code.djangoproject.com/wiki/SprintIdeas
 
-https://groups.google.com/forum/#!forum/django-users/join
-https://groups.google.com/forum/#!aboutgroup/django-developers
-https://groups.google.com/forum/#!forum/django-developers
-
 https://us.pycon.org/2016/assistance
 https://djangocon.eu
 http://2015.djangocon.us/speaking/cfp
 https://2015.djangocon.us
 http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
 
-https://www.heroku.com/python
 http://docs.python-guide.org/en/latest/writing/structure
 
 https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
@@ -3468,9 +3465,7 @@ Python- Django- CMS, E-Commerce
 *   [Django CMS E-Commerce](https://www.django-cms.org/en/e-commerce)  
 
 Python- Django- Other CMS and E-Commerce Options
-*   [Django Fluent CMS](http://django-fluent.org)  
-*   [Django Fluent CMS GitHub](https://github.com/edoburu)  
-*   [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
+*   [Django Fluent CMS](http://django-fluent.org), [Django Fluent CMS GitHub](https://github.com/edoburu), and [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
 *   [Django Shop GitHub](https://github.com/divio/django-shop)  
 *   [Mezzanine Docs](http://mezzanine.jupo.org/docs)  
 *   [Mezzanine Sites](http://mezzanine.jupo.org/sites)  
@@ -3489,18 +3484,19 @@ Python- Django- Python Social Auth
 *   [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
 
 Python- Django- Search
-*   [Haystack](http://haystacksearch.org)  
-*   [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
+*   [Haystack](http://haystacksearch.org)  and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
 
 Python- Imaging Library
-*   [Python Imaging Library](http://www.pythonware.com/products/pil)  
+*   [Python Imaging Library](http://www.pythonware.com/products/pil)  and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
 *   [Python Imaging Library Docs](https://pillow.readthedocs.org)  
 *   [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
-*   [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)  
 
 Python- Django- Forms
-*   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  
-*   [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+*   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+
+Python- Android
+*   [VOC Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
+*   Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
 
 #### Servers and Databases
 
