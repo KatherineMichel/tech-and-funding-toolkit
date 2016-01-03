@@ -2757,6 +2757,7 @@ Dot Files
 *   [Dotfiles](http://dotfiles.github.io)  
 *   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
 *   [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
+*   [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 
 Startup Class Dotfiles and AWS EC2 Setup
 *   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
