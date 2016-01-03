@@ -5909,6 +5909,7 @@ Laws, Theories, Logic
 *   [Gordian Knot Wikipedia](https://en.wikipedia.org/wiki/Gordian_Knot)
 *   [Groupthink Wikipedia](https://en.wikipedia.org/wiki/Groupthink)
 *   [Herd Behavior Wikipedia](https://en.wikipedia.org/wiki/Herd_behavior)
+*   [Herd Mentality Wikipedia](https://en.wikipedia.org/wiki/Herd_mentality) and [Ochlocracy Wikipedia](https://en.wikipedia.org/wiki/Ochlocracy)
 *   [Hipster Paradox *can't believe I'm referencing the Daily Mail here*](http://www.dailymail.co.uk/sciencetech/article-2823245/The-science-HIPSTERS-Mathematical-equation-shows-trying-look-different-ultimately-makes-look-SAME.html)
 *   [Hotelling's Rule Wikipedia](http://en.wikipedia.org/wiki/Hotelling's_rule)  
 *   [If By Whiskey Wikipedia](http://en.wikipedia.org/wiki/If-by-whiskey)  
