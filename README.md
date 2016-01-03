@@ -4028,6 +4028,8 @@ ASP
 ASP.NET Home
 *   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), 
 
+<!--
+
 https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 
 https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
@@ -4084,6 +4086,12 @@ https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-
 Overview of Visual Studio 2015 Products
 https://www.visualstudio.com/products/vs-2015-product-editions
 
+https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
+https://www.visualstudio.com/features/mobile-app-development-vs
+https://code.visualstudio.com/download
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/66b367a3-cf04-4f41-9457-4be0f405e5e6/difference-between-visual-studio-code-and-community-2015?forum=visualstudiogeneral
+
 https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
 
 http://www.asp.net/downloads
@@ -4098,6 +4106,8 @@ https://www.visualstudio.com/en-us/features/net-development-vs.aspx
 https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
 
 https://github.com/aspnet/live.asp.net
+
+-->
 
 ASP.NET GitHub
 *   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
@@ -4121,6 +4131,8 @@ ASP.NET Docs
 *   [AWS SDK for .NET GitHub](https://github.com/aws/aws-sdk-net)
 *   ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
 
+<!--
+
 AWS Toolkit for Visual Studio
 https://aws.amazon.com/visualstudio
 AWS Toolkit for Visual Studio Documentation
@@ -4129,6 +4141,8 @@ Setting Up the AWS Toolkit for Visual Studio
 http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html
 
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
+
+-->
 
 ASP.NET Boilerplate
 *   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
