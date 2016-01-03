@@ -248,6 +248,9 @@ Table of Contents
 *   [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 *   [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
 
+Thinkers50
+*   [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
+
 #### Inventors, Economists, Philosophers
 *   [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
 *   [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
@@ -1954,7 +1957,7 @@ Persuasive Technology
 #### Government Digital
 
 GitHub Government 
-*   [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
+*   [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
 
 Australian Gov.
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
