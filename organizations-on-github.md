@@ -89,6 +89,7 @@ Not-for-Profit
 ## Digital Agency
 *   [ElevenYellow](https://github.com/elevenyellow)
 *   [Filament Group](https://github.com/filamentgroup) 
+*   [Hanno](https://github.com/wearehanno) 
 *   [thoughtbot](https://github.com/thoughtbot)
 
 ## Learning
