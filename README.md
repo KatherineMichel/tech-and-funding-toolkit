@@ -1969,6 +1969,17 @@ MediaPublic
 GitHub Government 
 *   [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
 
+<!--
+
+Australia, Canada, New Zealand, U.K., U.S.
+Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, Venezuela
+
+European Union
+International
+South Africa
+
+-->
+
 Australian Gov.
 *   [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 *   [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/service-design-process)
