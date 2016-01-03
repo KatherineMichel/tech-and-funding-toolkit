@@ -588,6 +588,9 @@ Unicorns
 The Terms Behind the Unicorn Valuations
 *   [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
 
+Breakout Companies
+*   [Breakout List](https://breakoutlist.com)
+
 Companies and Indices
 *   [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
 *   [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
@@ -5926,6 +5929,7 @@ Laws, Theories, Logic
 *   [Optimism Bias Wikipedia](http://en.wikipedia.org/wiki/Optimism_bias)  
 *   [Pareidolia Wikipedia](https://en.wikipedia.org/wiki/Pareidolia)
 *   [Parkinson's Law of Triviality (Bikeshedding) Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
+*   [Pascal's Wager Wikipedia](https://en.wikipedia.org/wiki/Pascal%27s_Wager)
 *   [Pattern Matching Wikipedia](https://en.wikipedia.org/wiki/Pattern_matching)
 *   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
 *   [Peto's Paradox Wikipedia](https://en.wikipedia.org/wiki/Peto%27s_paradox)   
