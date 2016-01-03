@@ -38,7 +38,7 @@ Table of Contents
   - [Documents and Improvement](#documents-and-improvement)
 - [Research and Design Sprints](#research-and-design-sprints)
   - [Basics](#basics)
-  - [Python and Django Sprints](#python-and-django-sprints) 
+  - [Code Sprints](#code-sprints) 
   - [Government Digital](#government-digital)
   - [Google Ventures Research Sprint](#google-ventures-research-sprint)
   - [Google Ventures Design Sprint](#google-ventures-design-sprint)
@@ -1946,13 +1946,19 @@ Use Case
 Persuasive Technology
 *   [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
-#### Python and Django Sprints
+#### Code Sprints
 
+Python
 *  [Learn Python the Hard Way- Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
 
+Django
 *  [Django Sprints](https://code.djangoproject.com/wiki/Sprints)
 *  [Sprint Hosting How-To](https://code.djangoproject.com/wiki/SprintHostingHowto)
 *  [Sprint Information Template](https://code.djangoproject.com/wiki/SprintTemplate)
+
+MediaPublic
+*   [MediaPublic GitHub](https://github.com/mediapublic/mediapublic)
+*   [MediaPublic "Decide what information will be on the homepage." GitHub](https://github.com/mediapublic/mediapublic/issues/79) and [MediaPublic "Decide what information will be on the Organization page." GitHub](https://github.com/mediapublic/mediapublic/issues/81)
 
 #### Government Digital
 
@@ -1981,10 +1987,6 @@ BBC
 
 Estonian E-Residence
 *   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
-
-MediaPublic
-*   [MediaPublic GitHub](https://github.com/mediapublic/mediapublic)
-*   [MediaPublic "Decide what information will be on the homepage." GitHub](https://github.com/mediapublic/mediapublic/issues/79) and [MediaPublic "Decide what information will be on the Organization page." GitHub](https://github.com/mediapublic/mediapublic/issues/81)
 
 The Prince's Trust
 *   [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
