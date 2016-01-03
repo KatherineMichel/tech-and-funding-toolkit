@@ -2141,6 +2141,9 @@ Accelerated Mobile Pages (AMP HTML)
 Dockyard Version
 *   [Dockyard Design Sprints](https://dockyard.com/design-sprints) and [Dockyard Design Sprints GitHub](https://github.com/dockyard/design-sprints)
 
+Hanno Version
+*   [Hanno Design Thinking](https://github.com/wearehanno/designthinking/wiki)
+
 Thoughtbot Version
 * [Thoughtbot's Product Design Sprint Blog Post](http://robots.thoughtbot.com/the-product-design-sprint), [Thoughtbot's DIY Design Sprints Blog Post](https://robots.thoughtbot.com/diy-design-sprints), [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint), [Thoughtbot Design Sprint- iOS Coaching](https://robots.thoughtbot.com/ios-coaching-product-design-sprint)
 *   [Design Sprint Book](http://www.designsprintbook.com), [Design Sprint Book Amazon](http://www.amazon.com/gp/product/1491923172/ref=olp_product_details?ie=UTF8&me=), and [How to conduct a Design Sprint](http://radar.oreilly.com/2015/05/how-to-conduct-a-design-sprint.html)
@@ -3282,6 +3285,8 @@ Python- Django- Resources
 *   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users)  
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
+<!--
+
 https://www.djangoproject.com/weblog
 
 https://code.djangoproject.com/wiki/Version1.10Roadmap
@@ -3314,6 +3319,8 @@ http://docs.python-guide.org/en/latest/writing/structure
 https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
 
 http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
+
+-->
 
 Python- Django Tutorials (excluding Django Girls)
 *   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
