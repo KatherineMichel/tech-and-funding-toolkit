@@ -4062,6 +4062,8 @@ https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
 Microsoft API and reference catalog
 https://msdn.microsoft.com/library
 
+http://referencesource.microsoft.com
+
 Visual Studio IDE
 https://msdn.microsoft.com/en-us/library/dn762121.aspx
 Get Started Developing with Visual Studio
@@ -4150,6 +4152,8 @@ WebMatrix
 
 ASP.NET Example Websits
 *   [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
+
+https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
 
 #### Mobile
 
