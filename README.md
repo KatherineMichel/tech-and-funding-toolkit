@@ -5853,6 +5853,7 @@ Ops
 *   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
 *   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 *   [Holacracy Wikipedia](https://en.wikipedia.org/wiki/Holacracy)
+*   Teal
 
 Programming
 *   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
