@@ -2180,6 +2180,7 @@ Usability Net
 
 Miscellaneous
 *   [Good Kick Off Meetings](http://goodkickoffmeetings.com)
+*   [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
 *   [HubSpot Library](https://library.hubspot.com)
 *   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia)
 *   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
