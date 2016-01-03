@@ -5194,10 +5194,14 @@ Open-Source Machine Learning and Infrastructure
 *   [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
 *   [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
+<!--
+
 *   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
 *   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
 *   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
 *   https://www.facebook.com/Engineering/posts/10152495827632200
+
+-->
 
 Andrej Karpathy
 *   [NeuralTalk2 GitHub](https://github.com/karpathy/neuraltalk2)  
