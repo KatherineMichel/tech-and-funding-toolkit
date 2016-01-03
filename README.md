@@ -2138,6 +2138,9 @@ Accelerated Mobile Pages (AMP HTML)
 
 #### Non-Google Ventures Research and Design Sprints
 
+Dockyard Version
+*   [Dockyard Design Sprints](https://dockyard.com/design-sprints) and [Dockyard Design Sprints GitHub](https://github.com/dockyard/design-sprints)
+
 Thoughtbot Version
 * [Thoughtbot's Product Design Sprint Blog Post](http://robots.thoughtbot.com/the-product-design-sprint), [Thoughtbot's DIY Design Sprints Blog Post](https://robots.thoughtbot.com/diy-design-sprints), [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint), [Thoughtbot Design Sprint- iOS Coaching](https://robots.thoughtbot.com/ios-coaching-product-design-sprint)
 *   [Design Sprint Book](http://www.designsprintbook.com), [Design Sprint Book Amazon](http://www.amazon.com/gp/product/1491923172/ref=olp_product_details?ie=UTF8&me=), and [How to conduct a Design Sprint](http://radar.oreilly.com/2015/05/how-to-conduct-a-design-sprint.html)
