@@ -545,7 +545,7 @@ Database List
 *   [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
 *   [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
 *   [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-*   [Product Hunt](http://www.producthunt.com) 
+*   [Product Hunt](http://www.producthunt.com) and [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt) 
 
 Databases and Benchmarking- Freemium
 *   [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
@@ -1773,7 +1773,7 @@ Project Management Software
 *   [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
 *   [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
 *   [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
-*   [Slack](https://slack.com) and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
+*   [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
 *   [Trello](https://trello.com)
 
 Agile Project Management Methodologies
@@ -2637,9 +2637,11 @@ BBC
 
 Wikipedia Portals
 *   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+*   [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+*   [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
-https://en.wikipedia.org/wiki/Portal:Information_technology
-https://en.wikipedia.org/wiki/Portal:Internet
+How The Web Works
+*   [Preethi Kasireddy: "How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 
 History of Technology and Computer Science
 *   [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
