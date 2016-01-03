@@ -2853,6 +2853,8 @@ Apple- Windows
 *   [Bootcamp (Free)](https://support.apple.com/en-us/HT201468)  
 *   [Parallels](http://www.parallels.com)
 *   [Wine](https://www.winehq.org)
+*   [Winclone](http://twocanoes.com/products/mac/winclone)
+*   External Hard Drive, USB SSD, Western Digital Terabyte
 
 Apple- Platforms and Devices
 *   [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
