@@ -4042,7 +4042,7 @@ Mongoose, Mongoid, Moped, Mongomapper
 *   [Mongomapper GitHub](https://github.com/mongomapper/mongomapper)  
 
 V8 JavaScript Engine
-*   [V8 JavaScript Engine](http://en.wikipedia.org/wiki/V8_(JavaScript_engine))  
+*   [V8 GitHub](https://github.com/v8/v8) and [V8 JavaScript Engine Wikipedia](http://en.wikipedia.org/wiki/V8_(JavaScript_engine))  
 *   [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
 
 Node Forks
