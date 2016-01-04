@@ -2943,7 +2943,6 @@ Git Learning Resources
 *   [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 *   [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
 *   [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-*   [Git Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
 *   [Git Book](http://www.git-scm.com/book/en)  
 *   [Git Videos](http://www.git-scm.com/videos)  
 *   [Git Downloads](http://git-scm.com/downloads)  
@@ -5740,6 +5739,13 @@ Awesome Non-Code
 *   [Awesome A11Y GitHub](https://github.com/brunopulis/awesome-a11y)
 *   [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
 *   [Guides GitHub](https://github.com/NARKOZ/guides)
+*   [Awesome OpenSource Documents](https://github.com/nacyot/awesome-opensource-documents)
+
+Awesome Git
+*   [Git Tips GitHub](https://github.com/git-tips/tips)
+*   [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
+*   [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
+*   [Awesome Git Addons](https://github.com/stevemao/awesome-git-addons)
 
 Awesome Python and Django
 *   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
