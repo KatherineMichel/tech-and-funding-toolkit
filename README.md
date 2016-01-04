@@ -2201,7 +2201,7 @@ Usability Net
 *   [Usability Net](http://www.usabilitynet.org)
 
 *   [W3 Standards](http://www.w3.org/standards) and [W3 Web Accessibility Initiative](http://www.w3.org/WAI)
-*   [WAI Site Usability Testing Questions](http://www.w3.org/WAI/EO/Drafts/UCD/questions.html) and [See Also: Usability Gov](http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html)
+*   [WAI Site Usability Testing Questions](http://www.w3.org/WAI/EO/Drafts/UCD/questions.html) and [See also Usability Gov](http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html)
 
 Miscellaneous
 *   [Good Kick Off Meetings](http://goodkickoffmeetings.com)
@@ -2880,7 +2880,7 @@ Apple Developer and Open Source
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language)) 
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
-Apple Presentation and Design
+Apple Presentation and Design (See also Keynotopia)
 *   [Keynote](https://www.apple.com/mac/keynote)
 *   [Sketch](https://www.sketchapp.com)
 
@@ -2982,6 +2982,9 @@ Licenses
 *   [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
 *   [Creative Commons](https://creativecommons.org/licenses)
 *   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+GitHub Speaker Deck
+*   [GitHub Speaker Deck](https://speakerdeck.com)
 
 Emoji Shortcode 
 *   [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
@@ -5528,7 +5531,7 @@ Data
 CSV
 *   [CSV (Comma-Separated Values) Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
 
-Graph and Schema- General (See Also Facebook Open Graph)
+Graph and Schema- General (See also Facebook Open Graph)
 *   [Open Graph Protocol Schema](http://ogp.me) 
 *   [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
 *   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
