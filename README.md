@@ -2983,6 +2983,10 @@ Licenses
 *   [Creative Commons](https://creativecommons.org/licenses)
 *   [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
+Emoji Shortcode 
+*   [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
+*   [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+
 #### More Command Line and Shell
 
 Command Line
