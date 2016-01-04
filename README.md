@@ -2647,6 +2647,9 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
+Contracts
+*   [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
+
 Journalism Handbooks
 *   [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
 *   [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
@@ -2775,7 +2778,12 @@ Dot Files
 *   [Dotfiles](http://dotfiles.github.io)  
 *   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
 *   [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
-*   [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
+*   [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+*   [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
+*   [YADR GitHub](https://github.com/skwp/dotfiles)
+*   [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
+*   [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
+*   [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
 
 Startup Class Dotfiles and AWS EC2 Setup
 *   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
@@ -2878,6 +2886,7 @@ Apple- Refurbished, Clearance, Reuse, Recycling
 *   [Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
 
 Apple- Windows
+*   [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 *   [Bootcamp (Free)](https://support.apple.com/en-us/HT201468)  
 *   [Parallels](http://www.parallels.com)
 *   [Wine](https://www.winehq.org)
@@ -5746,6 +5755,7 @@ Awesome Non-Code
 *   [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
 *   [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
 *   [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
+*   [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
 
 Awesome Git
 *   [Git Tips GitHub](https://github.com/git-tips/tips)
