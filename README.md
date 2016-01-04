@@ -2994,7 +2994,8 @@ Integrated Development Environment
 *   [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
 
 cURL
-*   [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+*   [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+*   [WGet](https://www.gnu.org/software/wget)
 
 Unix Shell
 *   [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
@@ -3008,26 +3009,25 @@ Bash and Zsh (Alternative)
 *   [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
 *   [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
 *   [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-*   [Oh-My-Zsh Wikipedia](https://github.com/robbyrussell/oh-my-zsh/releases)  
+*   [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh/releases)  
 
-Emacs and Vim (Alternative)
-*   [Emacs (Text Editor) GitHub](https://github.com/emacs-mirror/emacs)  
+Emacs and Vim (Text Editors)
+*   [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
 *   [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
 *   [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
 *   [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
 *   [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
-*   [Vim](http://www.vim.org) and [Vim Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
+*   [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
 *   [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
 Windows PowerShell
 *   [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
 *   [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell) 
 
-Shell/Text Editors (See also Visual Studio)
+More Shell/Text Editors (See also Visual Studio and XCode)
 *   [Sublime Text Editor](http://www.sublimetext.com)
 *   [Atom GitHub](ttps://github.com/atom/atom)
 *   [Textmate](http://macromates.com)  
-*   [XCode](https://developer.apple.com/xcode)  
 *   [Orgmode.org](http://orgmode.org)  
 *   [Orgmode.org/features](http://orgmode.org/features.html)  
 *   [.emacs.d](https://github.com/seshness/.emacs.d)  
@@ -5746,6 +5746,7 @@ Dev-Ops Wiki and Free for Dev
 *   [Awesome Shell GitHub](https://github.com/alebcay/awesome-shell)
 *   [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
 *   [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
+*   [Awesome Vim](http://vimawesome.com)
 
 Awesome Non-Code
 *   [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
