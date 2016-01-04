@@ -1,7 +1,7 @@
 Tech and Venture Capital Toolkit
 ====================
 Curated list of high quality resources, mostly free. See also...
-- :pencil: = Gist
+
 Table of Contents
 -----------------
 
