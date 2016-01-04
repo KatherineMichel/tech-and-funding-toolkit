@@ -5726,13 +5726,17 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 *   [Startup Resources](http://startupresources.io)
 *   [Startup Stash](http://startupstash.com)
 
-Dev-Ops Wiki and Free for Dev
-*   [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
-*   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
-
 Awesome
 *   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 *   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+
+Dev-Ops Wiki and Free for Dev
+*   [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
+*   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
+*   [Awesome DevEnv](https://github.com/jondot/awesome-devenv)
+*   [Awesome Shell](https://github.com/alebcay/awesome-shell)
+*   [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles)
+*   [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
 
 Awesome Non-Code
 *   [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
@@ -5745,6 +5749,7 @@ Awesome Git
 *   [Git Tips GitHub](https://github.com/git-tips/tips)
 *   [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
 *   [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
+*   [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
 *   [Awesome Git Addons](https://github.com/stevemao/awesome-git-addons)
 
 Awesome Python and Django
