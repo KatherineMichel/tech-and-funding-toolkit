@@ -5733,24 +5733,34 @@ Awesome
 Dev-Ops Wiki and Free for Dev
 *   [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
 *   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
-*   [Awesome DevEnv](https://github.com/jondot/awesome-devenv)
-*   [Awesome Shell](https://github.com/alebcay/awesome-shell)
-*   [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles)
-*   [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
+*   [Awesome DevEnv GitHub](https://github.com/jondot/awesome-devenv)
+*   [Awesome Shell GitHub](https://github.com/alebcay/awesome-shell)
+*   [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
+*   [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
 
 Awesome Non-Code
 *   [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
 *   [Awesome A11Y GitHub](https://github.com/brunopulis/awesome-a11y)
 *   [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
 *   [Guides GitHub](https://github.com/NARKOZ/guides)
-*   [Awesome OpenSource Documents](https://github.com/nacyot/awesome-opensource-documents)
+*   [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
+*   [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
+*   [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 Awesome Git
 *   [Git Tips GitHub](https://github.com/git-tips/tips)
 *   [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
 *   [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
-*   [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
-*   [Awesome Git Addons](https://github.com/stevemao/awesome-git-addons)
+*   [Awesome GitHub GitHub](https://github.com/phillipadsmith/awesome-github)
+*   [Awesome Git Addons GitHub](https://github.com/stevemao/awesome-git-addons)
+
+Awesome Apple
+*   [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
+*   [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
+*   [Awesome iOS GitHub](https://github.com/vsouza/awesome-ios)
+*   [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
+*   [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+*   [Awesome WatchOS GitHub](https://github.com/yenchenlin1994/awesome-watchos)
 
 Awesome Python and Django
 *   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
@@ -5778,6 +5788,8 @@ Awesome- More
 *   [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php) 
 *   [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
 *   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop) 
+*   [Awesome Share GitHub](https://github.com/vinkla/awesome-share)
+*   [Awesome Projects Boilerplates GitHub](https://github.com/melvin0008/awesome-projects-boilerplates)
 
 Book Lists
 *   [Bookicious](http://www.bookicious.com/collections)
