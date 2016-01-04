@@ -2770,6 +2770,12 @@ TCP-IP and OSI Protocols
 *   [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
 *   [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
+Hidden File and Hidden Directory
+*   [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
+
+Symbolic Link
+*   [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
+
 #### Dot Files
 
 Dot Files
@@ -2868,7 +2874,7 @@ Chromebook Ubuntu Installation
 
 Apple Developer and Open Source
 *   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included)
-*   [Homebrew](http://brew.sh) and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
+*   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Apple Open Source](https://developer.apple.com/opensource)
 *   [Xcode](https://developer.apple.com/xcode)
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language)) 
