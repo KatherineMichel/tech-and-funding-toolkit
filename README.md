@@ -339,6 +339,9 @@ Investor Frameworks
 *   [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
 *   [Sam Altman Framework](investor-frameworks/sam-altman-framework.md)
 
+Thesis
+*   [Semil Shah](http://blog.semilshah.com/haystack)
+
 Funding Options
 *   [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
 *   [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
@@ -2871,6 +2874,9 @@ Chromebook Ubuntu Installation
 *   [Crouton GitHub](https://github.com/dnschneid/crouton)  
 
 #### Apple
+
+Apple Developer and Open Source
+*   [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
 
 Apple Developer and Open Source
 *   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included)
