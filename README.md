@@ -249,8 +249,9 @@ Table of Contents
 *   [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 *   [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
 
-Thinkers50
+Awards
 *   [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
+*   [Turing Award Winners](http://amturing.acm.org/byyear.cfm)
 
 #### Inventors, Economists, Philosophers
 *   [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
