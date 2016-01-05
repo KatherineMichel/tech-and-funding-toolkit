@@ -40,6 +40,7 @@ Individual Projects/Sprints
 
 First Pull Request
 *   [November 3, 2013](https://github.com/sinker/tacofancy/pull/44)
+*   [TacoFancy](https://github.com/sinker/tacofancy)
 
 Project Management and Tools
 *   [Asana](https://app.asana.com/0/31099737955561/31099737955561)
