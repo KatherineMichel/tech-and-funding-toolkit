@@ -3327,6 +3327,11 @@ Python- Microframeworks and Template Engines
 *   [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
 *   [WebPy GitHub](https://github.com/webpy/webpy)
 
+Python- Mobile
+*   [Kivy GitHub](https://github.com/kivy/kivy)
+*   [VOC Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
+*   Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
+
 Python- Django
 *   [Django](https://www.djangoproject.com)  
 *   [Django Documentation](https://docs.djangoproject.com)  
@@ -3545,10 +3550,6 @@ Python- Imaging Library
 
 Python- Django- Forms
 *   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
-
-Python- Android
-*   [VOC Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
-*   Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
 
 #### Servers and Databases
 
