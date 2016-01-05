@@ -2291,7 +2291,8 @@ Quickie Websites
 Turn Key Websites
 *   [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
 
-Responsiveness
+Responsiveness- Underlying
+*   [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
 *   [Google Search: Media Queries](https://www.google.com/search?q=media+queries&rlz=1CAACAG_enUS625US635&oq=media+queries&aqs=chrome..69i57j0l5.2970j0j7&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Bootstrap CSS](http://getbootstrap.com/css)
 
@@ -2352,7 +2353,7 @@ Web General
 HTML, XML, XHTML
 *   [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
 *   [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-*   [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+*   [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML) and [W3Schools HTML Tutorial](http://www.w3schools.com/html)
 *   [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 *   [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 *   [XML Wikibook](https://en.wikipedia.org/wiki/XML)
@@ -2361,7 +2362,7 @@ HTML, XML, XHTML
 
 CSS
 *   [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-*   [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+*   [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
 *   [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 *   [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
