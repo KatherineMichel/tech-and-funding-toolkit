@@ -3329,6 +3329,7 @@ Python- Microframeworks and Template Engines
 
 Python- Mobile
 *   [Kivy GitHub](https://github.com/kivy/kivy)
+*   [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
 *   [VOC Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
 *   Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
 
@@ -3448,6 +3449,9 @@ Python- Django- BCrypt (Not just for Django)
 Python- Django- Debug Toolbar
 *   [Django Debug Toolbar](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
 *   [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
+
+Python- Django- Static File Serving
+*   [Whitenoise GitHub](https://github.com/KatherineMichel/whitenoise) 
 
 Python- Django- Migrations
 *   [South](http://south.aeracode.org)  
@@ -4713,15 +4717,19 @@ Python- Django- Python and Django Official Websites and Code
 *   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
 Python- Django- PyCon, DjangoCon, and PyData
 *   [PyCon GitHub](https://github.com/PyCon/pycon)
-*   [DjangCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
-*   [DjangCon U.S. 2016 GitHub](https://github.com/djangocon/2016.djangocon.us)
-*   [DjangCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
+*   [DjangoCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
+*   [DjangoCon U.S. 2016 GitHub](https://github.com/djangocon/2016.djangocon.us)
+*   [DjangoCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
 *   [PyData 2015 GitHub](https://github.com/pydata/conf_site)
 
 Python- Django- Django Product Websites
 *   [Django Sites GitHub](https://github.com/rossp/djangosites.org)
 *   [Django Packages GitHub](https://github.com/pydanny/djangopackages)
 *   [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
+
+Python- Django- Python Product Websites
+*   [Celery Project](http://www.celeryproject.org)  and [Celery Project GitHub](https://github.com/celery/celeryproject) 
+*   [SciPy Central (Deprecated?) GitHub](https://github.com/scipy/SciPyCentral)
 
 Django Girls (Python- Django)
 *   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
@@ -4735,15 +4743,6 @@ Django Girls (Python- Django)
 
 Django Carrots (Python- Django)
 *   [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
-
-Bootcamp (Python- Django)
-*   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
-*   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
-*   [Woid GitHub](https://github.com/vitorfs/woid)
-*   [Bloodhound GitHub](https://github.com/vitorfs/bloodhound)
-
-Django Hackathon Starter (Python- Django)
-*   [Django Hackathon Starter GitHub](https://github.com/DrkSephy/django-hackathon-starter) 
 
 Python- Django- Pinax
 *   [Pinax](http://pinaxproject.com)  
@@ -4761,13 +4760,22 @@ Python- Django- Cookiecutter (See also Packages)
 *   [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
 *   [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
 
-Pier Angelo
-*   [Pier Angelo GitHub](https://github.com/pierangelo1982)
-*   [Pier Angelo Palmieri GitHub](https://github.com/pierangelo1982/palmieri)
+Bootcamp (Python- Django)
+*   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
+*   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
+*   [Woid GitHub](https://github.com/vitorfs/woid)
+*   [Bloodhound GitHub](https://github.com/vitorfs/bloodhound)
+
+Django Hackathon Starter (Python- Django)
+*   [Django Hackathon Starter GitHub](https://github.com/DrkSephy/django-hackathon-starter) 
 
 18F and Peace Corps New Website (Python- Django)
 *   [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
-*   [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site)  
+*   [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site) 
+
+Pier Angelo
+*   [Pier Angelo GitHub](https://github.com/pierangelo1982)
+*   [Pier Angelo Palmieri GitHub](https://github.com/pierangelo1982/palmieri)
 
 App.net (Python- Django (Also Node))
 *   [App.net Alpha Github](https://github.com/appdotnet/alpha)  
@@ -4779,10 +4787,6 @@ App.net (Python- Django (Also Node))
 *   [App.net Comments Widget Github](https://github.com/appdotnet/adn-comments)  
 *   [App.net Private Messaging Github](https://github.com/appdotnet/ohe)  
 
-Celery Project (Python- Django)
-*   [Celery Project](http://www.celeryproject.org)  
-*   [Celery Project GitHub](https://github.com/celery/celeryproject)  
-
 EdX (Python- Django (Also Ruby))
 *   [EdX Code Website](http://code.edx.org)  
 *   [EdX Platform Github](https://github.com/edx/edx-platform)  
@@ -4791,8 +4795,7 @@ Elle (Python- Django)
 *   [Ella CMS (deprecated) GitHub](https://github.com/ella/ella)  
 
 Gov Track (Python- Django)
-*   [Gov Track](https://www.govtrack.us)  
-*   [Gov Track GitHub](https://github.com/govtrack/govtrack.us-web)  
+*   [Gov Track](https://www.govtrack.us)  and [Gov Track GitHub](https://github.com/govtrack/govtrack.us-web)  
 
 LA Times Datadesk Project Template (Python- Django)
 *   [LA Times Datadesk](http://www.latimes.com/local/datadesk)  
