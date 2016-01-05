@@ -3353,6 +3353,9 @@ Python- Django- Resources
 
 <!--
 
+Python and Django People
+*   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
+
 https://code.djangoproject.com/wiki/Version1.10Roadmap
 https://code.djangoproject.com/wiki/Version1.9Roadmap
 
@@ -3393,9 +3396,7 @@ Python- Django- Git and Deployment
 *   [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
 
 Python- Django- Packages 
-*   [Django Packages](https://www.djangopackages.com)  
-*   [Django Packages GitHub](https://github.com/pydanny/djangopackages)  
-
+*   [Django Packages](https://www.djangopackages.com) and [Django Packages GitHub](https://github.com/pydanny/djangopackages)  
 Python and Django- Creating Packages
 *   [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
 *   [Cookiecutter PyPackage](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
@@ -4853,7 +4854,6 @@ Miscellaneous (Python)
 *   [CKAN Data Management System CMS Github](https://github.com/ckan/ckanext-pages)  
 *   [CKAN Data Management System Vagrant Github](https://github.com/philippkueng/ckan-vagrant)  
 *   [Django Events Foundation North America GitHub](https://github.com/DEFNA/defna.org)
-*   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 *   [Plone Content Management System (Runs on Zope) Github](https://github.com/plone/Plone)  
 *   [PyLadies GitHub](https://github.com/pyladies/pyladies)
 *   [Zipline Algorithmic Trading Platform (basis for Quantopian) Github](https://github.com/quantopian/zipline)  
