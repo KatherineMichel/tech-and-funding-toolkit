@@ -2896,7 +2896,7 @@ Apple Developer and Open Source
 *   [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
 
 Apple Developer and Open Source
-*   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included)
+*   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), [Apple Developer Library](https://developer.apple.com/library), and [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included)
 *   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Apple Open Source](https://developer.apple.com/opensource)
 *   [Xcode](https://developer.apple.com/xcode)
