@@ -2650,6 +2650,16 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
+Searches
+*   [GitHub: styleguide](https://github.com/search?utf8=%E2%9C%93&q=styleguide&type=Repositories&ref=searchresults)
+*   [GitHub: guide](https://github.com/search?utf8=%E2%9C%93&q=guide&type=Repositories&ref=searchresults)
+*   [GitHub: playbook](https://github.com/search?utf8=%E2%9C%93&q=playbook&type=Repositories&ref=searchresults)
+*   [GitHub: handbook](https://github.com/search?utf8=%E2%9C%93&q=handbook&type=Repositories&ref=searchresults)
+*   [GitHub: code of conduct](https://github.com/search?utf8=%E2%9C%93&q=code+of+conduct&type=Repositories&ref=searchresults)
+*   [GitHub: consulting](https://github.com/search?utf8=%E2%9C%93&q=consulting&type=Repositories&ref=searchresults)
+*   [GitHub: freelance](https://github.com/search?utf8=%E2%9C%93&q=freelance&type=Repositories&ref=searchresults)
+*   [GitHub: contract](https://github.com/search?utf8=%E2%9C%93&q=contract&type=Repositories&ref=searchresults)
+
 Contracts
 *   [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
 
