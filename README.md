@@ -327,6 +327,7 @@ Nassim Nicholas Taleb's Teachings
 *   [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
 *   [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
 *   [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
+*   [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
 
 ### Venture
 
@@ -3340,7 +3341,11 @@ Python- Django
 *   [Django Documentation](https://docs.djangoproject.com)  
 *   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 *   [Django GitHub](https://github.com/django/django) 
+
+Python- Django- News
 *   [Django Weblog GitHub](https://www.djangoproject.com/weblog)
+*   [Get Topical Django Framework](http://gettopical.com/djangoframework) 
+*   [Right Relevant Django Articles](http://www.rightrelevance.com/search/articles?query=django) 
 
 Python- Django Jobs
 *   [Django Jobs](https://www.djangojobs.net)  
@@ -4742,6 +4747,7 @@ Python- Django- Python Product Websites
 
 Django Girls (Python- Django)
 *   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
+*   [Django Girls Blog](http://blog.djangogirls.org)
 *   [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
 *   [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
 *   [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
