@@ -3874,6 +3874,10 @@ CGI and WSGI (Web Server API)
 *   [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
 *   [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
 
+More WSGI (See also Apache)
+*   [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
+*   [uWsgi GitHub](https://github.com/unbit/uwsgi)
+
 Gunicorn (Python WSGI HTTP Server for UNIX)
 *   [Gunicorn](http://gunicorn.org)  
 *   [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
@@ -5280,12 +5284,11 @@ Hadoop, Hortonworks Sandbox, Cloudera
 *   [Hadoop Distributed File System](http://hortonworks.com/hadoop/hdfs)  
 *   [Hadoop Distributed File System](http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  
 
-Apache
+Apache (See also mod_wsgi)
 *   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
 *   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
 *   [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 *   [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
-*   [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
 *   [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
 
 Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon Web Services)
