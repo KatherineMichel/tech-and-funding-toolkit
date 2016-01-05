@@ -3395,8 +3395,10 @@ Python- Django- Git and Deployment
 *   [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
 *   [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
 
-Python- Django- Packages 
-*   [Django Packages](https://www.djangopackages.com) and [Django Packages GitHub](https://github.com/pydanny/djangopackages)  
+Python- Django- Packages and Snippets
+*   [Django Packages](https://www.djangopackages.com)
+*   [Django Snippets](https://djangosnippets.org)  
+
 Python and Django- Creating Packages
 *   [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
 *   [Cookiecutter PyPackage](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
