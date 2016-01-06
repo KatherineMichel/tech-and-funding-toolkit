@@ -2302,6 +2302,7 @@ Turn Key Websites
 Responsiveness- and Media Queries
 *   [Media Queries Examples](http://mediaqueri.es)
 *   [Bootstrap CSS](http://getbootstrap.com/css)
+*   [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 *   [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
 *   [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 *   [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
