@@ -14,17 +14,6 @@ More News
 *   [Reddit Technology Top](https://www.reddit.com/r/technology/top)
 *   [Feedly](https://feedly.com)
 
-Searches
-*   [Django Sites](https://www.djangosites.org)
-*   [Twitter: github.com](https://twitter.com/search?q=github.com&src=typd)
-*   [Twitter: django or djangoframework](https://twitter.com/search?src=typd&q=django%20OR%20djangoframework)
-*   [GitHub: django](https://github.com/search?utf8=%E2%9C%93&q=django)
-*   [GitHub: python](https://github.com/search?utf8=%E2%9C%93&q=python)
-*   [GitHub: golang](https://github.com/search?utf8=%E2%9C%93&q=golang)
-*   [GitHub: react](https://github.com/search?utf8=%E2%9C%93&q=react)
-*   [GitHub: lambda](https://github.com/search?utf8=%E2%9C%93&q=lambda)
-*   [GitHub: tensorflow](https://github.com/search?utf8=%E2%9C%93&q=tensorflow)
-
 Professional/Portfolio
 *   [GitBook Profile](http://katherinemichel.gitbooks.io) and [GitBook CMS](https://www.gitbook.com/book/katherinemichel)
 *   [GitHub](https://github.com/KatherineMichel)
@@ -42,16 +31,32 @@ First Pull Request
 *   [November 3, 2013](https://github.com/sinker/tacofancy/pull/44)
 *   [TacoFancy](https://github.com/sinker/tacofancy)
 
-Project Management and Tools
+Slack and Membership Channels
+*   [Slack](https://katherinemichel.slack.com)
+*   [Katherine Michel](https://katherinemichel.slack.com)
+*   [PyLadies](http://slackin.pyladies.com)
+*   [Django Developers](https://django-developers.herokuapp.com)
+
+More Project Management and Tools
 *   [Asana](https://app.asana.com/0/31099737955561/31099737955561)
 *   [GitHub](https://github.com/KatherineMichel) 
 *   [Office Live](https://office.live.com)
 *   [Read the Docs](https://readthedocs.org/profiles/KatherineMichel)
-*   [Slack](https://katherinemichel.slack.com)
 *   [StackShare](http://stackshare.io/KatherineMichel)
 *   [Kindle Cloud Reader](https://read.amazon.com)
 *   [Amazon Wishlist](http://www.amazon.com/gp/registry/wishlist)
 *   [Python Anywhere Account](https://www.pythonanywhere.com/user/katherinemichel/consoles)
+
+Searches
+*   [Django Sites](https://www.djangosites.org)
+*   [Twitter: github.com](https://twitter.com/search?q=github.com&src=typd)
+*   [Twitter: django or djangoframework](https://twitter.com/search?src=typd&q=django%20OR%20djangoframework)
+*   [GitHub: django](https://github.com/search?utf8=%E2%9C%93&q=django)
+*   [GitHub: python](https://github.com/search?utf8=%E2%9C%93&q=python)
+*   [GitHub: golang](https://github.com/search?utf8=%E2%9C%93&q=golang)
+*   [GitHub: react](https://github.com/search?utf8=%E2%9C%93&q=react)
+*   [GitHub: lambda](https://github.com/search?utf8=%E2%9C%93&q=lambda)
+*   [GitHub: tensorflow](https://github.com/search?utf8=%E2%9C%93&q=tensorflow)
 
 Language
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
