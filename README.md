@@ -2244,6 +2244,7 @@ Design Publications
 *   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
 *   [Smashing Magazine](http://www.smashingmagazine.com) 
 *   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+*   [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
  
 Portfolio and Community Websites
 *   [Behance](https://www.behance.net)  
