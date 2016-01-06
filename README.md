@@ -2163,6 +2163,9 @@ Dockyard Version
 Hanno Version
 *   [Hanno Design Thinking](https://github.com/wearehanno/designthinking/wiki)
 
+IBM Design Language
+*   [IBM Design Language](http://www.ibm.com/design/language)
+
 Thoughtbot Version
 * [Thoughtbot's Product Design Sprint Blog Post](http://robots.thoughtbot.com/the-product-design-sprint), [Thoughtbot's DIY Design Sprints Blog Post](https://robots.thoughtbot.com/diy-design-sprints), [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint), [Thoughtbot Design Sprint- iOS Coaching](https://robots.thoughtbot.com/ios-coaching-product-design-sprint)
 *   [Design Sprint Book](http://www.designsprintbook.com), [Design Sprint Book Amazon](http://www.amazon.com/gp/product/1491923172/ref=olp_product_details?ie=UTF8&me=), and [How to conduct a Design Sprint](http://radar.oreilly.com/2015/05/how-to-conduct-a-design-sprint.html)
@@ -2234,7 +2237,6 @@ Responsive Design
 *   [Responsive Design Examples](http://mediaqueri.es)  
 
 Design Publications
-
 *   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
 *   [Smashing Magazine](http://www.smashingmagazine.com) 
 *   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
@@ -2373,10 +2375,11 @@ Example
 
 #### Labs
 
-Labs
+Labs, Kitchens, Garages
 *   [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
 *   [Microsoft Garage](http://www.microsoft.com/en-us/garage)
 *   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
+*   [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
 *   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
 
 #### Engineering Blogs and Designer, Developer Conferences
@@ -2419,7 +2422,7 @@ Code Search
 
 Company Design
 *   [Medium Design](https://medium.com/designing-medium)  
-*   [IBM Design](https://www.ibm.com/design)  
+*   [IBM Design](https://www.ibm.com/design) 
 *   [eBay/PayPal](http://ebay.com/design)  
 *   [Twitter Design](https://twitter.com/design)  
 *   [Uber Design](https://www.uber.com/design) 
