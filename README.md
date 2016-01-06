@@ -2900,13 +2900,21 @@ Chromebook Ubuntu Installation
 
 #### Apple
 
-Apple Developer and Open Source
+Apple Posters of Ago
 *   [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
 
+Apple Developer Program Membership
+*   [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), and [Apple Developer Program Membership Center](https://developer.apple.com/membercenter)
+*   [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
+*   [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
+
 Apple Developer and Open Source
-*   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), [Apple Developer Library](https://developer.apple.com/library), [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), and [Apple Developer Program Membership Center](https://developer.apple.com/membercenter)
-*   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
+*   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Library](https://developer.apple.com/library)
+*   [Apple Developer Forum](https://forums.developer.apple.com)
 *   [Apple Open Source](https://developer.apple.com/opensource)
+
+Apple Developer Tools
+*   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Xcode](https://developer.apple.com/xcode)
 *   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language)) 
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
