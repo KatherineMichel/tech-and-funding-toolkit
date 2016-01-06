@@ -2299,10 +2299,13 @@ Quickie Websites
 Turn Key Websites
 *   [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
 
-Responsiveness- Underlying
-*   [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
-*   [Google Search: Media Queries](https://www.google.com/search?q=media+queries&rlz=1CAACAG_enUS625US635&oq=media+queries&aqs=chrome..69i57j0l5.2970j0j7&sourceid=chrome&es_sm=93&ie=UTF-8)
+Responsiveness- and Media Queries
+*   [Media Queries Examples](http://mediaqueri.es)
 *   [Bootstrap CSS](http://getbootstrap.com/css)
+*   [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
+*   [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+*   [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+*   [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
 
 Bootstrap, Font Awesome
 *   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
