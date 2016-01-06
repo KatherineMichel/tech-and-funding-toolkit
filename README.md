@@ -2095,7 +2095,7 @@ U.S. Aid Learning Lab
 
 #### Google Ventures Design Sprint
 
-*   [Google Ventures Design Sprint Book](http://www.amazon.com/dp/150112174X/ref=cm_sw_r_tw_dp_owEAwb156H6K2)
+*   [Google Ventures Design Sprint Book](http://www.thesprintbook.com)
 
 *   [Google Ventures Library- Design](http://www.gv.com/library/design) and [Google Ventures Design Studio](http://www.gv.com/#design-studio) 
 *   [Google Ventures Design Sprint](http://www.gv.com/sprint), [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage), and [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
