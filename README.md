@@ -2205,6 +2205,10 @@ Stanford Institute of Design
 *   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf),
 *   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
+WebAIM and Alt 
+*   [WebAIM](http://webaim.org) and [WebAIM Wikipedia](https://en.wikipedia.org/wiki/WebAIM)
+*   [WebAIM Alternative Text](http://webaim.org/techniques/alttext) and [Alt Attribute Wikipedia](https://en.wikipedia.org/wiki/Alt_attribute)
+
 Usability Net
 *   [Usability Net](http://www.usabilitynet.org)
 
@@ -2899,7 +2903,7 @@ Apple Developer and Open Source
 *   [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
 
 Apple Developer and Open Source
-*   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), [Apple Developer Library](https://developer.apple.com/library), and [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included)
+*   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), [Apple Developer Library](https://developer.apple.com/library), [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), and [Apple Developer Program Membership Center](https://developer.apple.com/membercenter)
 *   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Apple Open Source](https://developer.apple.com/opensource)
 *   [Xcode](https://developer.apple.com/xcode)
