@@ -4226,6 +4226,7 @@ https://github.com/aspnet/live.asp.net
 ASP.NET GitHub
 *   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
+*   [ASP.NET Razor GitHub](https://github.com/aspnet/Razor)
 *   [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
 *   [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
 *   [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
