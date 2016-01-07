@@ -2916,6 +2916,7 @@ Apple Developer and Open Source
 *   [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Library](https://developer.apple.com/library)
 *   [Apple Developer Forum](https://forums.developer.apple.com)
 *   [Apple Open Source](https://developer.apple.com/opensource)
+*   [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
 
 Apple Developer Tools
 *   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
