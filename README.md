@@ -3560,6 +3560,9 @@ Python- Django- CMS, E-Commerce
 *   [Django CMS Online Demo](https://control.aldryn.com/demo/get-new)  
 *   [Django CMS E-Commerce](https://www.django-cms.org/en/e-commerce)  
 
+Python- Django- Wagtail (Recommended)
+*   [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template) 
+
 Python- Django- Other CMS and E-Commerce Options
 *   [Django Fluent CMS](http://django-fluent.org), [Django Fluent CMS GitHub](https://github.com/edoburu), and [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
 *   [Django Shop GitHub](https://github.com/divio/django-shop)  
@@ -3568,8 +3571,7 @@ Python- Django- Other CMS and E-Commerce Options
 *   [Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
 *   [Oscar Docs](http://django-oscar.readthedocs.org/en/latest) and [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
 *   [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
-*   [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template)  
-
+ 
 Python- Django- TinyMCE
 *   [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
 
