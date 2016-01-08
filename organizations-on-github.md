@@ -90,6 +90,7 @@ Not-for-Profit
 *   [ElevenYellow](https://github.com/elevenyellow)
 *   [Filament Group](https://github.com/filamentgroup) 
 *   [Hanno](https://github.com/wearehanno) 
+*   [ribot](https://github.com/ribot)
 *   [thoughtbot](https://github.com/thoughtbot)
 
 ## Learning
