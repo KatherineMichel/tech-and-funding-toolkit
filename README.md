@@ -3317,8 +3317,11 @@ Python- Packages/Libraries
 *   [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
 *   [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications)  
 
-Python- Books and Tutorials
+Python Playbooks
+*   [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
 *   [Full Stack Python](https://www.fullstackpython.com)
+
+Python- Books and Tutorials
 *   [Dive into Python (Deprecated)](http://www.diveintopython.net)  
 *   [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
 *   [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
