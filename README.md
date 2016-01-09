@@ -67,6 +67,10 @@ Table of Contents
   - [More Command Line and Shell](#more-command-line-and-shell)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Python and Django Toolkit](#python-and-django-toolkit)
+  - [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
+  - [Python and Django Deployment](#python-and-django-deployment)
+  - [Python and Django Useful Tools](#python-and-django-useful-tools)
+  - [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
   - [Servers and Databases](#servers-and-databases)
   - [SQL](#sql)  
 - [Deployment and Cloud](#deployment-and-cloud)
@@ -3301,51 +3305,27 @@ Wikitech Development
 #### Python and Django Toolkit
 
 Python (See also Data Science)
-*   [Python](http://www.python.org)  
-*   [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
+*   [Python](http://www.python.org) and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 *   [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)  
-*   [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
 *   [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
 *   [Python Standard Library](http://docs.python.org/2/library)  
-*   [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
-*   [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))  
 *   [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
+*   [Python Patterns Library](https://github.com/faif/python-patterns)
+
+Pip
+*   [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
+*   [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
+
+Virtual Environment
 *   [Virtualenv GitHub](https://github.com/pypa/virtualenv)  
 *   [Virtualenvwrapper-win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
-*   [Python Patterns Library](https://github.com/faif/python-patterns)  
-
-Python- Packages/Libraries
-*   [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
-*   [Python Packaging Authority GitHub](https://github.com/pypa)  
-*   [PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
-*   [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-*   [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-*   [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
-*   [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications)  
+  
+CPython
+*   [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
 
 Python Playbooks
 *   [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
 *   [Full Stack Python](https://www.fullstackpython.com)
-
-Python- Books and Tutorials
-*   [Dive into Python (Deprecated)](http://www.diveintopython.net)  
-*   [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
-*   [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-*   [Python Programming Wikibooks](http://en.wikibooks.org/wiki/Python_Programming)  
-*   [Python Tutorial](https://docs.python.org/2/tutorial)  
-*   [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
-*   [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-*   [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
-*   [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-*   [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
-*   [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
-
-Dedicated Python Hosting
-*   [Python Anywhere](https://www.pythonanywhere.com) 
-
-O'Reilly Test-Driven Development with Python
-*   [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
-*   [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment)  
 
 Python and Django Conferences
 *   [PyCon](http://www.pycon.org)
@@ -3392,55 +3372,16 @@ Python- Django- Resources
 *   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
-<!--
+#### Python and Django Packages and Snippets
 
-https://github.com/django/deps
-
-Python and Django People
-*   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
-
-https://code.djangoproject.com/wiki/Version1.10Roadmap
-https://code.djangoproject.com/wiki/Version1.9Roadmap
-
-https://github.com/orgs/django/people
-https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list
-https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers
-https://docs.djangoproject.com/en/1.9/internals/mailing-lists
-
-https://docs.djangoproject.com/en/dev/internals/contributing
-https://www.djangoproject.com/foundation/cla
-
-https://code.djangoproject.com/wiki/Sprints
-https://code.djangoproject.com/wiki/SprintIdeas
-
-https://us.pycon.org/2016/assistance
-https://djangocon.eu
-http://2015.djangocon.us/speaking/cfp
-https://2015.djangocon.us
-http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
-
-http://docs.python-guide.org/en/latest/writing/structure
-
-https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
-
-http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
-
--->
-
-Python- Django Tutorials (excluding Django Girls)
-*   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-*   [Django Book (Deprecated but useful)](http://www.djangobook.com)  
-*   [Light Weight Django](http://it-ebooks.info/book/2820)  
-*   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
-*   [Tango with Django Tutorial](http://www.tangowithdjango.com) 
-
-Python- Django- Git and Deployment
-*   [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
-*   [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
-
-Python- Django- Packages and Snippets
-*   [Django Packages](https://www.djangopackages.com)
-*   [Django Snippets](https://djangosnippets.org)  
+Python- Packages/Libraries
+*   [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
+*   [Python Packaging Authority GitHub](https://github.com/pypa)  
+*   [PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
+*   [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
+*   [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
+*   [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
+*   [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
 Python and Django- Creating Packages
 *   [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
@@ -3449,12 +3390,25 @@ Python and Django- Creating Packages
 *   [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 *   [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
+Python- Django- Packages and Snippets
+*   [Django Packages](https://www.djangopackages.com)
+*   [Django Snippets](https://djangosnippets.org) 
+
+#### Python and Django Deployment
+
+Python- Django- Git and Deployment
+*   [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
+*   [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
+
 Python- PEP 3333 (Python Web Server Gateway Interface)
 *   [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
 
 Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
 *   [Psycopg](http://initd.org/psycopg)  
 *   [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
+
+Dedicated Python Hosting
+*   [Python Anywhere](https://www.pythonanywhere.com) 
 
 Python- Heroku
 *   [Heroku Python Homepage](https://www.heroku.com/python) 
@@ -3479,6 +3433,13 @@ Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 *   [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
 *   [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
 
+<!--
+-Heroku Commands to Deploy and Update
+*   Follow normal instructions (cd name before deploying): [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
+
+*   [Kenneth Reitz Virtual Environment Notes](http://docs.python-guide.org/en/latest/dev/virtualenvs)
+-->
+
 Python- Django- Digital Ocean Deployment
 *   [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
 *   [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
@@ -3497,14 +3458,16 @@ Python- Django- Random SECRET_KEY
 Python- Django- BCrypt (Not just for Django)
 *   [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
 *   [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
-*   [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1)  
+*   [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
+
+Python- Django- Static File Serving
+*   [Whitenoise GitHub](https://github.com/KatherineMichel/whitenoise) 
+
+#### Python and Django Useful Tools
 
 Python- Django- Debug Toolbar
 *   [Django Debug Toolbar](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
 *   [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
-
-Python- Django- Static File Serving
-*   [Whitenoise GitHub](https://github.com/KatherineMichel/whitenoise) 
 
 Python- Django- Migrations
 *   [South](http://south.aeracode.org)  
@@ -3609,6 +3572,83 @@ Python- Imaging Library
 
 Python- Django- Forms
 *   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+
+#### Python and Django Books and Tutorials
+
+Python- Books and Tutorials
+*   [Dive into Python (Deprecated)](http://www.diveintopython.net)  
+*   [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
+*   [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
+*   [Python Programming Wikibooks](http://en.wikibooks.org/wiki/Python_Programming)  
+*   [Python Tutorial](https://docs.python.org/2/tutorial)  
+*   [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
+*   [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
+*   [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
+*   [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
+*   [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
+*   [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
+
+O'Reilly Test-Driven Development with Python
+*   [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
+*   [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+
+Python- Django Tutorials (excluding Django Girls)
+*   [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
+*   [Django Book (Deprecated but useful)](http://www.djangobook.com)  
+*   [Light Weight Django](http://it-ebooks.info/book/2820)  
+*   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+*   [Tango with Django Tutorial](http://www.tangowithdjango.com) 
+
+<!--
+
+## See Also
+
+Heroku Commands to Deploy and Update
+*   Follow normal instructions (cd name before deploying): [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
+
+Django Girls Deployment
+*   [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
+*   [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
+*   [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
+
+See Also
+*   [Kenneth Reitz Virtual Environment Notes](http://docs.python-guide.org/en/latest/dev/virtualenvs)
+
+See Also
+*   [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
+
+https://github.com/django/deps
+
+Python and Django People
+*   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
+
+https://code.djangoproject.com/wiki/Version1.10Roadmap
+https://code.djangoproject.com/wiki/Version1.9Roadmap
+
+https://github.com/orgs/django/people
+https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list
+https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers
+https://docs.djangoproject.com/en/1.9/internals/mailing-lists
+
+https://docs.djangoproject.com/en/dev/internals/contributing
+https://www.djangoproject.com/foundation/cla
+
+https://code.djangoproject.com/wiki/Sprints
+https://code.djangoproject.com/wiki/SprintIdeas
+
+https://us.pycon.org/2016/assistance
+https://djangocon.eu
+http://2015.djangocon.us/speaking/cfp
+https://2015.djangocon.us
+http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
+
+http://docs.python-guide.org/en/latest/writing/structure
+
+https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
+
+http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
+
+-->
 
 #### Servers and Databases
 
