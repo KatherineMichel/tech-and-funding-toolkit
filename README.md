@@ -3335,7 +3335,7 @@ Python- Books and Tutorials
 *   [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
 
 Dedicated Python Hosting
-*   [Python Anywhere](https://www.pythonanywhere.com)  
+*   [Python Anywhere](https://www.pythonanywhere.com) 
 
 O'Reilly Test-Driven Development with Python
 *   [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
@@ -3450,8 +3450,9 @@ Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python p
 
 Python- Heroku
 *   [Heroku Python Homepage](https://www.heroku.com/python) 
+*   [Heroku Python Category](https://devcenter.heroku.com/categories/python) 
 *   [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
-*   [Heroku Python Category](https://devcenter.heroku.com/categories/python)  
+*   [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
 *   [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python-o)  
 *   [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
 
@@ -3463,6 +3464,11 @@ Python- Django- Heroku Deployment
 *   [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
 *   [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
 *   [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache)  
+
+Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
+*   [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
+*   [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
+*   [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
 
 Python- Django- Digital Ocean Deployment
 *   [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
