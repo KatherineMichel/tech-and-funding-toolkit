@@ -69,6 +69,7 @@ Table of Contents
   - [Python and Django Toolkit](#python-and-django-toolkit)
   - [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   - [Python and Django Deployment](#python-and-django-deployment)
+  - [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   - [Python and Django Useful Tools](#python-and-django-useful-tools)
   - [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
   - [Servers and Databases](#servers-and-databases)
@@ -3338,12 +3339,6 @@ Python and Django Conferences- Proposal Examples
 *   Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
 *   [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
 
-Python- Microframeworks and Template Engines
-*   [Bottle](http://bottlepy.org/docs/dev/index.html)  
-*   [Jinja](http://jinja.pocoo.org) and [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
-*   [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
-*   [WebPy GitHub](https://github.com/webpy/webpy)
-
 Python- Mobile
 *   [Kivy GitHub](https://github.com/kivy/kivy)
 *   [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
@@ -3455,6 +3450,14 @@ Python- Django- BCrypt (Not just for Django)
 
 Python- Django- Static File Serving
 *   [Whitenoise GitHub](https://github.com/KatherineMichel/whitenoise) 
+
+#### Python and Django Templates and Microframeworks
+
+Python- Microframeworks and Template Engines
+*   [Bottle](http://bottlepy.org/docs/dev/index.html)  
+*   [Jinja](http://jinja.pocoo.org) and [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
+*   [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
+*   [WebPy GitHub](https://github.com/webpy/webpy)
 
 #### Python and Django Useful Tools
 
