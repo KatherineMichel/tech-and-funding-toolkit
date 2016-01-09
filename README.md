@@ -1083,6 +1083,12 @@ Berkshire Hathaway
 Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
 *   [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
 
+<!--
+http://25iq.com/charlie-munger-the-complete-investor
+http://25iq.com/charlie-munger-the-complete-investor-2
+http://25iq.com/quotations/charlie-munger
+-->
+
 Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
 *   [A Dozen Things I’ve Learned from Charlie Munger about Making Rational Decisions](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-making-rational-decisions)
 *   [A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
