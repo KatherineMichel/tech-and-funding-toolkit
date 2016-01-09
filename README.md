@@ -3340,35 +3340,79 @@ Python and Django Conferences- Proposal Examples
 *   Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
 *   [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
 
-Python- Mobile
-*   [Kivy GitHub](https://github.com/kivy/kivy)
-*   [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
-*   [VOC Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
-*   Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
-
 Python- Django
 *   [Django](https://www.djangoproject.com)  
 *   [Django Documentation](https://docs.djangoproject.com)  
 *   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 *   [Django GitHub](https://github.com/django/django) 
 
+Python- Django Jobs
+*   [Django Jobs](https://www.djangojobs.net) 
+
 Python- Django- News
 *   [Django Weblog GitHub](https://www.djangoproject.com/weblog)
 *   [Get Topical Django Framework](http://gettopical.com/djangoframework) 
 *   [Right Relevant Django Articles](http://www.rightrelevance.com/search/articles?query=django) 
-
-Python- Django Jobs
-*   [Django Jobs](https://www.djangojobs.net)  
 
 Python- Django- Resources
 *   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
 *   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
+Python- Mobile
+*   [Kivy GitHub](https://github.com/kivy/kivy)
+*   [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
+*   [VOC Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
+*   Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
+
 #### Python and Django Contributing
 
 Python- Django- Contributing
 *   [Django Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+
+<!--
+
+Heroku Commands to Deploy and Update
+*   Follow normal instructions (cd name before deploying): [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
+
+Python and Django People
+*   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
+
+See Also
+*   [Kenneth Reitz Virtual Environment Notes](http://docs.python-guide.org/en/latest/dev/virtualenvs)
+
+See Also
+*   [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
+
+https://github.com/django/deps
+
+https://code.djangoproject.com/wiki/Version1.10Roadmap
+https://code.djangoproject.com/wiki/Version1.9Roadmap
+
+https://github.com/orgs/django/people
+https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list
+https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers
+https://docs.djangoproject.com/en/1.9/internals/mailing-lists
+
+https://docs.djangoproject.com/en/dev/internals/contributing
+https://www.djangoproject.com/foundation/cla
+
+https://code.djangoproject.com/wiki/Sprints
+https://code.djangoproject.com/wiki/SprintIdeas
+
+https://us.pycon.org/2016/assistance
+https://djangocon.eu
+http://2015.djangocon.us/speaking/cfp
+https://2015.djangocon.us
+http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
+
+http://docs.python-guide.org/en/latest/writing/structure
+
+https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
+
+http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
+
+-->
 
 #### Python and Django Packages and Snippets
 
@@ -3597,50 +3641,6 @@ Python- Django Tutorials (excluding Django Girls)
 *   [Light Weight Django](http://it-ebooks.info/book/2820)  
 *   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 *   [Tango with Django Tutorial](http://www.tangowithdjango.com) 
-
-<!--
-
-Heroku Commands to Deploy and Update
-*   Follow normal instructions (cd name before deploying): [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
-
-Python and Django People
-*   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
-
-See Also
-*   [Kenneth Reitz Virtual Environment Notes](http://docs.python-guide.org/en/latest/dev/virtualenvs)
-
-See Also
-*   [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
-
-https://github.com/django/deps
-
-https://code.djangoproject.com/wiki/Version1.10Roadmap
-https://code.djangoproject.com/wiki/Version1.9Roadmap
-
-https://github.com/orgs/django/people
-https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list
-https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers
-https://docs.djangoproject.com/en/1.9/internals/mailing-lists
-
-https://docs.djangoproject.com/en/dev/internals/contributing
-https://www.djangoproject.com/foundation/cla
-
-https://code.djangoproject.com/wiki/Sprints
-https://code.djangoproject.com/wiki/SprintIdeas
-
-https://us.pycon.org/2016/assistance
-https://djangocon.eu
-http://2015.djangocon.us/speaking/cfp
-https://2015.djangocon.us
-http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
-
-http://docs.python-guide.org/en/latest/writing/structure
-
-https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
-
-http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
-
--->
 
 #### Servers and Databases
 
