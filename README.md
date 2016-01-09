@@ -67,6 +67,7 @@ Table of Contents
   - [More Command Line and Shell](#more-command-line-and-shell)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
   - [Python and Django Toolkit](#python-and-django-toolkit)
+  - [Python and Django Contributing](#python-and-django-contributing)
   - [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   - [Python and Django Deployment](#python-and-django-deployment)
   - [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
@@ -3359,13 +3360,15 @@ Python- Django- News
 Python- Django Jobs
 *   [Django Jobs](https://www.djangojobs.net)  
 
-Python- Django- Contributing
-*   [Django Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
-
 Python- Django- Resources
 *   [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
 *   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
+
+#### Python and Django Contributing
+
+Python- Django- Contributing
+*   [Django Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 
 #### Python and Django Packages and Snippets
 
