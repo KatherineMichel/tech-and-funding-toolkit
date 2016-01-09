@@ -3388,6 +3388,8 @@ Python- Django- Resources
 
 <!--
 
+https://github.com/django/deps
+
 Python and Django People
 *   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 
