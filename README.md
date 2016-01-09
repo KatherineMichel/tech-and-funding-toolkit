@@ -3433,13 +3433,6 @@ Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 *   [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
 *   [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
 
-<!--
--Heroku Commands to Deploy and Update
-*   Follow normal instructions (cd name before deploying): [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
-
-*   [Kenneth Reitz Virtual Environment Notes](http://docs.python-guide.org/en/latest/dev/virtualenvs)
--->
-
 Python- Django- Digital Ocean Deployment
 *   [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
 *   [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
@@ -3601,15 +3594,11 @@ Python- Django Tutorials (excluding Django Girls)
 
 <!--
 
-## See Also
-
 Heroku Commands to Deploy and Update
 *   Follow normal instructions (cd name before deploying): [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
 
-Django Girls Deployment
-*   [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
-*   [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
-*   [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
+Python and Django People
+*   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 
 See Also
 *   [Kenneth Reitz Virtual Environment Notes](http://docs.python-guide.org/en/latest/dev/virtualenvs)
@@ -3618,9 +3607,6 @@ See Also
 *   [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
 
 https://github.com/django/deps
-
-Python and Django People
-*   [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 
 https://code.djangoproject.com/wiki/Version1.10Roadmap
 https://code.djangoproject.com/wiki/Version1.9Roadmap
