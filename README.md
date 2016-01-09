@@ -3455,6 +3455,7 @@ Python- Heroku
 *   [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
 *   [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python-o)  
 *   [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
+*   [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
 
 Python- Django- AWS Elastic Beanstalk Deployment
 *   [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
