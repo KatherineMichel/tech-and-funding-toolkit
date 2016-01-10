@@ -63,16 +63,23 @@ Table of Contents
   - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
   - [Social Media and Social Graph](#social-media-and-social-graph) 
   - [Testing and Performance](#testing-and-performance)
-  - [Programming Learning Tools](#programming-learning-tools)  
   - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
-- [Development Environment and Programming](#development-environment-and-programming)
-  - [Computer Basics](#computer-basics)
-  - [Dot Files](#dot-files)
+
+
+- [Operating Systems](#operating-systems)
   - [Unix and Linux](#unix-and-linux)
   - [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   - [Apple](#apple)
+
+- [Development Environment and Programming](#development-environment-and-programming)
+  - [Computer Basics](#computer-basics)
   - [GitHub and Markdown](#github-and-markdown)
   - [More Command Line and Shell](#more-command-line-and-shell)
+  - [Dot Files](#dot-files)
+
+- [Programming](#programming)
+  - [Programming Tiers](#programming-tiers)
+  - [Programming Learning Tools](#programming-learning-tools) 
   - [Programming Languages, MVCs](#programming-languages-mvcs)
 
 - [Python and Django Toolkit](#python-and-django-toolkit)
@@ -85,6 +92,7 @@ Table of Contents
   - [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
 
 - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
+
 
   - [Servers and Databases](#servers-and-databases)
   - [SQL](#sql)  
@@ -115,7 +123,7 @@ Table of Contents
   - [Other Enormous Tool Lists](#other-enormous-tool-lists)
   - [Vocabulary](#vocabulary)
 
-### People
+#### People
 
 #### Venture Capitalists and Angel Investors
 
@@ -339,7 +347,7 @@ Nassim Nicholas Taleb's Teachings
 *   [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
 *   [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
 
-### Venture
+#### Venture
 
 #### VC Theory
 
@@ -1490,7 +1498,7 @@ International Info
 *   [Currencies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 *   [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
-### General Research and Learning
+#### General Research and Learning
 
 #### Learning Resources
 
@@ -1636,7 +1644,7 @@ Spinoffs
 *   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 *   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
 
-### Venture Analysis
+#### Venture Analysis
 
 *   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
 *   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
@@ -1736,7 +1744,7 @@ Pricing Strategies
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
-### Project Management
+#### Project Management
 
 #### Project Management Tools and Software Engineering
 
@@ -1923,7 +1931,7 @@ Improvement Schools of Thought
 *   [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
 *   [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
 
-### Research and Design Sprints
+#### Research and Design Sprints
 
 #### Basics
 
@@ -2244,6 +2252,7 @@ Flickr
 
 KPCB and John Maeda Design in Tech Report
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
 #### Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
@@ -2333,7 +2342,7 @@ Miscellaneous
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-### Web Dev and Design
+#### Web Dev and Design
 
 Web General
 *   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
@@ -2561,54 +2570,6 @@ Cookies
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 *   [W3 Mobile Validator](http://validator.w3.org/mobile)
 
-#### Programming Learning Tools
-
-Programming and Math Learning Tools
-*   [Arduino](https://www.arduino.cc)
-*   [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
-*   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
-*   [Learn Code the Hard Way](http://learncodethehardway.org)  
-*   [Codecademy](http://www.codecademy.com)  
-*   [CodePath GitHub](https://github.com/codepath)
-*   [Code.org](https://code.org)
-*   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
-*   [Kano Playground](http://art.kano.me/playground)
-*   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
-*   [Math Overflow](http://mathoverflow.net)
-*   [Minecraft](https://minecraft.net)
-*   [Project Euler](http://www.projecteuler.net)  
-*   [Project Euler Local](https://github.com/imsky/LocalEuler)  
-*   [Project Euler Problems](http://projecteuler.net/problems)  
-*   [Raspberry PI](http://www.raspberrypi.org)
-*   [Scratch (MIT)](https://scratch.mit.edu)
-*   [Skillshare](http://www.skillshare.com/classes)
-*   [W3Schools Web Development Tutorials](http://www.w3schools.com) 
-*   [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-*   [Wolfram MathWorld](http://mathworld.wolfram.com)
-
-Text Editor and Code Demonstration
-*   [JSFiddle](http://jsfiddle.net)
-*   [Codepen](http://codepen.io)
-
-Documentation
-*   [IT eBooks](http://it-ebooks.info)
-*   [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-*   [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-*   [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-*   [World Wide Web Consortium Homepage](http://www.w3.org)  
-
-GNU Software and Manuals
-*   [GNU Software](http://www.gnu.org/software/software.html)  
-*   [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
-
-#### Programming Tiers
-
-Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)
-*   [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
-*   [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
-*   [Jekyll via GitHub Pages](https://jekyllrb.com)
-*   Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
-
 #### Open Source Management and Style Guides
 
 Open Source Management, Codes of Conduct, Roadmaps
@@ -2691,137 +2652,7 @@ Journalism Style Guides
 BBC
 *   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
 
-### Development Environment and Programming
-
-#### Computer Basics
-
-Wikipedia Portals
-*   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-*   [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-*   [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
-
-How The Web Works
-*   [Preethi Kasireddy: "How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-
-History of Technology and Computer Science
-*   [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
-*   [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
-*   [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
-*   [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
-*   [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-*   [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-*   [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
-*   [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
-*   [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-*   [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology)
-
-Computer Scientists
-*   [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-*   [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
-Great Unsolved Problems in Computer Science
-*   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
-
-Computing Classification
-*   [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
-
-Computer Classes and Sizes
-*   [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-*   [Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-
-CPU and Instruction Set
-*   [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-*   [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-*   [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Binary
-*   [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-*   [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-*   [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-*   [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-*   [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-Encoding
-*   [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-*   [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-*   [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
-*   [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-
-General Terms
-*   [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
-*   [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
-*   [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
-*   [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
-*   [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
-*   [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
-*   [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
-
-Port
-*   [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
-*   [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
-*   [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-*   [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
-*   [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
-
-Operating Systems
-*   [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-*   [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-*   [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-*   [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-*   [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-*   [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-
-Browser
-*   [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-*   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-*   [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-*   [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-*   [Google Chrome](http://www.google.com/chrome)
-*   [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-*   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-*   [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-*   [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-*   [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-
-Keyboard Shortcuts
-*   [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-*   [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-HTTP
-*   [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-*   [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-*   [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-
-TCP-IP and OSI Protocols
-*   [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-*   [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-*   [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-Hidden File and Hidden Directory
-*   [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
-
-Symbolic Link
-*   [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
-
-#### Dot Files
-
-Dot Files
-*   [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
-*   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
-*   [Dotfiles](http://dotfiles.github.io)  
-*   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
-*   [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
-*   [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-*   [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
-*   [YADR GitHub](https://github.com/skwp/dotfiles)
-*   [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
-*   [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
-*   [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
-
-Startup Class Dotfiles and AWS EC2 Setup
-*   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-*   [Course EC2 Setup](https://github.com/startup-class/setup)  
-*   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh)  
+#### Operating Systems
 
 #### Unix and Linux
 
@@ -2960,6 +2791,118 @@ Apple- More
 Mac Update
 *   [Mac Update](http://www.macupdate.com)
 
+#### Development Environment and Programming
+
+#### Computer Basics
+
+Wikipedia Portals
+*   [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+*   [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+*   [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+How The Web Works
+*   [Preethi Kasireddy: "How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+
+History of Technology and Computer Science
+*   [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+*   [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+*   [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+*   [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+*   [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+*   [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+*   [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+*   [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+*   [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
+*   [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology)
+
+Computer Scientists
+*   [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+*   [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+
+Great Unsolved Problems in Computer Science
+*   [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
+
+Computing Classification
+*   [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+Computer Classes and Sizes
+*   [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+*   [Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+
+CPU and Instruction Set
+*   [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+*   [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+*   [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Binary
+*   [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+*   [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+*   [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+*   [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+*   [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
+Encoding
+*   [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+*   [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+*   [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+*   [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+
+General Terms
+*   [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
+*   [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
+*   [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
+*   [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
+*   [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
+*   [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
+*   [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
+
+Port
+*   [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+*   [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+*   [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+*   [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
+*   [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
+
+Operating Systems
+*   [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+*   [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+*   [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+*   [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+*   [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+*   [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+
+Browser
+*   [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+*   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+*   [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+*   [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+*   [Google Chrome](http://www.google.com/chrome)
+*   [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+*   [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+*   [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+*   [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+*   [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+
+Keyboard Shortcuts
+*   [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+*   [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+HTTP
+*   [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+*   [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+*   [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+
+TCP-IP and OSI Protocols
+*   [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+*   [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+*   [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+Hidden File and Hidden Directory
+*   [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
+
+Symbolic Link
+*   [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
+
 #### GitHub and Markdown
 
 Git
@@ -3088,6 +3031,76 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 *   [Orgmode.org/features](http://orgmode.org/features.html)  
 *   [.emacs.d](https://github.com/seshness/.emacs.d)  
 *   [Lighttable](http://www.lighttable.com)  
+
+#### Dot Files
+
+Dot Files
+*   [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
+*   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
+*   [Dotfiles](http://dotfiles.github.io)  
+*   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
+*   [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
+*   [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+*   [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
+*   [YADR GitHub](https://github.com/skwp/dotfiles)
+*   [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
+*   [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
+*   [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
+
+Startup Class Dotfiles and AWS EC2 Setup
+*   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
+*   [Course EC2 Setup](https://github.com/startup-class/setup)  
+*   [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
+
+#### Programming
+
+#### Programming Tiers
+
+Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)
+*   [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
+*   [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
+*   [Jekyll via GitHub Pages](https://jekyllrb.com)
+*   Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
+
+#### Programming Learning Tools
+
+Programming and Math Learning Tools
+*   [Arduino](https://www.arduino.cc)
+*   [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
+*   [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
+*   [Learn Code the Hard Way](http://learncodethehardway.org)  
+*   [Codecademy](http://www.codecademy.com)  
+*   [CodePath GitHub](https://github.com/codepath)
+*   [Code.org](https://code.org)
+*   [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
+*   [Kano Playground](http://art.kano.me/playground)
+*   [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
+*   [Math Overflow](http://mathoverflow.net)
+*   [Minecraft](https://minecraft.net)
+*   [Project Euler](http://www.projecteuler.net)  
+*   [Project Euler Local](https://github.com/imsky/LocalEuler)  
+*   [Project Euler Problems](http://projecteuler.net/problems)  
+*   [Raspberry PI](http://www.raspberrypi.org)
+*   [Scratch (MIT)](https://scratch.mit.edu)
+*   [Skillshare](http://www.skillshare.com/classes)
+*   [W3Schools Web Development Tutorials](http://www.w3schools.com) 
+*   [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+*   [Wolfram MathWorld](http://mathworld.wolfram.com)
+
+Text Editor and Code Demonstration
+*   [JSFiddle](http://jsfiddle.net)
+*   [Codepen](http://codepen.io)
+
+Documentation
+*   [IT eBooks](http://it-ebooks.info)
+*   [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+*   [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+*   [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+*   [World Wide Web Consortium Homepage](http://www.w3.org)  
+
+GNU Software and Manuals
+*   [GNU Software](http://www.gnu.org/software/software.html)  
+*   [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 
 #### Programming Languages, MVCs
 
@@ -4079,7 +4092,7 @@ Puppet Labs
 *   [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
 *   [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
-### More Back-end
+#### More Back-end
 
 Redis, Resque
 *   [Redis GitHub](https://github.com/antirez/redis)  
@@ -4421,7 +4434,7 @@ Miscellaneous
 *   [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
 *   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
-### Data Science
+#### Data Science
 
 Data Monetization
 *   [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
@@ -5059,7 +5072,7 @@ General Terminology
 *   [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
-### Launch and Growth
+#### Launch and Growth
 
 #### Notable Proposals and Pitch Decks
 
@@ -5422,7 +5435,7 @@ Admin, Hiring, Payroll
 *   [ZenPayroll](https://zenpayroll.com) 
 *   [Zenefits](http://www.zenefits.com)
  
-### General Resources
+#### General Resources
 
 #### Software and Mobile are Eating the World, Software is Reorganizing the World
 
@@ -5518,7 +5531,7 @@ Google
 *   [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
 *   [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 
-### Appendix
+#### Appendix
 
 #### Software Manuals and Documentation 
 
