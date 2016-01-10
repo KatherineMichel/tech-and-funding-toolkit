@@ -93,13 +93,14 @@ Table of Contents
 
 - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 
-
-  - [Servers and Databases](#servers-and-databases)
-  - [SQL](#sql)  
 - [Deployment and Cloud](#deployment-and-cloud)
   - [Dev Ops Tools](#dev-ops-tools)
+  - [Servers and Databases](#servers-and-databases)
+  - [SQL](#sql)  
+
 - [More Back-End](#more-back-end)
   - [Node.js and Related](#nodejs-and-related)
+
 - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 - [Data Science](#data-science)
