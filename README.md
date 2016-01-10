@@ -94,12 +94,11 @@ Table of Contents
 - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 
 - [Deployment and Cloud](#deployment-and-cloud)
-  - [Dev Ops Tools](#dev-ops-tools)
-  - [Servers and Databases](#servers-and-databases)
-  - [SQL](#sql)  
-
+- [Dev Ops Tools](#dev-ops-tools)
+- [Servers and Databases](#servers-and-databases)
+- [SQL](#sql)  
 - [More Back-End](#more-back-end)
-  - [Node.js and Related](#nodejs-and-related)
+- [Node.js and Related](#nodejs-and-related)
 
 - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
@@ -3145,6 +3144,7 @@ Miscellaneous Programming Languages
 *   [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
 *   [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
 *   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
+
 *   [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Swift GitHub](https://github.com/apple/swift), [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
 
 Ruby
