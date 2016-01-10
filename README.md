@@ -4795,6 +4795,8 @@ Admin, Hiring, Payroll
 
 #### Jekyll (based on Ruby)
 
+*   [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+
 #### Python
 
 *   [Django Sites](https://www.djangosites.org/with-source)  
