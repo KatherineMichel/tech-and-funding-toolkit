@@ -74,20 +74,24 @@ Table of Contents
   - [GitHub and Markdown](#github-and-markdown)
   - [More Command Line and Shell](#more-command-line-and-shell)
   - [Programming Languages, MVCs](#programming-languages-mvcs)
-  - [Python and Django Toolkit](#python-and-django-toolkit)
+
+- [Python and Django Toolkit](#python-and-django-toolkit)
+  - [Python and Django General](#python-and-django-general)
   - [Python and Django Contributing](#python-and-django-contributing)
   - [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   - [Python and Django Deployment](#python-and-django-deployment)
   - [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   - [Python and Django Useful Tools](#python-and-django-useful-tools)
   - [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
+
+- [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
+
   - [Servers and Databases](#servers-and-databases)
   - [SQL](#sql)  
 - [Deployment and Cloud](#deployment-and-cloud)
   - [Dev Ops Tools](#dev-ops-tools)
 - [More Back-End](#more-back-end)
   - [Node.js and Related](#nodejs-and-related)
-  - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 - [Data Science](#data-science)
@@ -3285,6 +3289,8 @@ Wikitech Development
 
 #### Python and Django Toolkit
 
+#### Python and Django General
+
 Python (See also Data Science)
 *   [Python](http://www.python.org) and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 *   [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)  
@@ -3636,6 +3642,169 @@ Python- Django Tutorials (excluding Django Girls)
 *   [Light Weight Django](http://it-ebooks.info/book/2820)  
 *   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 *   [Tango with Django Tutorial](http://www.tangowithdjango.com) 
+
+#### .NET, ASP, Visual Studio, WebMatrix
+
+.NET
+*   [Microsoft.github.io](http://microsoft.github.io)  
+*   [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
+*   [Dotnet GitHub](https://github.com/dotnet)  
+*   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
+
+ASP
+*   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
+
+ASP.NET Home
+*   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), 
+
+<!--
+
+https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+
+https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
+Python Web Projects
+https://github.com/Microsoft/PTVS/wiki/Web-Project
+
+https://azure.microsoft.com/en-us/develop/python
+
+http://www.asp.net/mvc/overview/views
+http://www.asp.net/mvc/overview/api-reference
+ASP.NET Web Pages (Razor) API Quick Reference
+http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
+https://support.microsoft.com/en-us/kb/307996
+
+.NET Framework Development Guide
+https://msdn.microsoft.com/en-us/library/hh156542(v=vs.110).aspx
+.NET Framework Class Library
+https://msdn.microsoft.com/en-us/library/mt472912(v=vs.110).aspx
+.NET Framework Class Library
+https://msdn.microsoft.com/en-us/library/gg145045(v=VS.110).aspx
+Generic Collections in the .NET Framework
+https://msdn.microsoft.com/en-us/library/bb762916(v=vs.110).aspx
+When to Use Generic Collections
+https://msdn.microsoft.com/en-us/library/ms172181(v=vs.110).aspx
+System.Collections.Generic Namespace
+https://msdn.microsoft.com/en-us/library/system.collections.generic(v=vs.110).aspx
+ASP.NET
+https://msdn.microsoft.com/en-us/library/aa286485.aspx
+ASP.NET MVC Facebook Template
+https://msdn.microsoft.com/en-us/library/jj891078(v=vs.108).aspx
+ASP.NET Reference
+https://msdn.microsoft.com/en-us/library/9k6k3k4a(v=vs.85).aspx
+Developing Web Applications with ASP.NET
+https://msdn.microsoft.com/en-us/library/bb400852(v=vs.110).aspx
+Getting Started with Python
+https://msdn.microsoft.com/en-us/library/dn705848.aspx
+List<T> Class
+https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
+Microsoft API and reference catalog
+https://msdn.microsoft.com/library
+
+http://referencesource.microsoft.com
+
+Visual Studio IDE
+https://msdn.microsoft.com/en-us/library/dn762121.aspx
+Get Started Developing with Visual Studio
+https://msdn.microsoft.com/en-us/library/ms165079.aspx
+Visual Web Developer Express
+https://msdn.microsoft.com/library/dd537667(v=vs.100).aspx
+Comparing Visual Studio and Visual Web Developer Express
+https://msdn.microsoft.com/library/ms349441(v=vs.100).aspx
+Compare Visual Studio 2015 Offerings
+https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-vs
+Overview of Visual Studio 2015 Products
+https://www.visualstudio.com/products/vs-2015-product-editions
+
+https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
+https://www.visualstudio.com/features/mobile-app-development-vs
+https://code.visualstudio.com/download
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/66b367a3-cf04-4f41-9457-4be0f405e5e6/difference-between-visual-studio-code-and-community-2015?forum=visualstudiogeneral
+
+https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
+
+http://www.asp.net/downloads
+
+ASP.NET 5 Applications with VS Code
+https://code.visualstudio.com/Docs/runtimes/ASPnet5
+
+https://code.visualstudio.com/Docs/?dv=linux32
+
+https://www.visualstudio.com/en-us/features/net-development-vs.aspx
+
+https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
+
+https://github.com/aspnet/live.asp.net
+
+-->
+
+ASP.NET GitHub
+*   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
+*   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
+*   [ASP.NET Razor GitHub](https://github.com/aspnet/Razor)
+*   [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
+*   [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
+*   [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
+*   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
+
+ASP.NET Docs
+*   [ASP.NET Docs](http://docs.asp.net)
+*   [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
+*   [Installing ASP.NET 5 On Windows](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
+*   [ASP.NET 5 Fundamentals](http://docs.asp.net/en/latest/fundamentals/index.html)
+*   ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
+*   ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
+
+.NET and ASP.Net Heroku and AWS
+*   [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+*   [AWS Windows and .NET Developer Center](https://aws.amazon.com/net)
+*   [AWS SDK for .NET GitHub](https://github.com/aws/aws-sdk-net)
+*   ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
+
+<!--
+
+AWS Toolkit for Visual Studio
+https://aws.amazon.com/visualstudio
+AWS Toolkit for Visual Studio Documentation
+https://aws.amazon.com/documentation/aws-toolkit-visual-studio/
+Setting Up the AWS Toolkit for Visual Studio
+http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
+
+-->
+
+ASP.NET Boilerplate
+*   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
+*   [ASP.NET Boilerplate Module Zero GitHub](https://github.com/aspnetboilerplate/module-zero)
+*   [ASP.NET Boilerplate Templates GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-templates)
+*   [ASP.NET Boilerplate Samples GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-samples)
+*   [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
+*   [ASP.NET Boilerplate Event Cloud GitHub](https://github.com/aspnetboilerplate/eventcloud)
+
+W3Schools ASP.NET
+*   [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
+*   [W3Schools ASP.NET Web Pages Examples](http://www.w3schools.com/aspnet/webpages_examples.asp)
+*   [W3Schools ASP.NET Web Pages Helpers- Objects References](http://www.w3schools.com/aspnet/webpages_ref_helpers.asp)
+*   [W3Schools ASP.NET Web Pages Helpers- Classes References](http://www.w3schools.com/aspnet/webpages_ref_classes.asp)
+
+Visual Studio
+*   [Visual Studio](http://www.visualstudio.com/en-us)  
+*   [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+*   [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+*   [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
+*   [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
+
+WebMatrix
+*   [WebMatrix](http://www.microsoft.com/web/webmatrix)
+
+.NET Platform as a Service
+*   [AppHarbor](https://appharbor.com)
+
+ASP.NET Example Websits
+*   [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
+
+https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
 
 #### Servers and Databases
 
@@ -4172,169 +4341,6 @@ V8 JavaScript Engine
 Node Forks
 *   [IO.js GitHub](https://github.com/iojs/io.js)  
 *   [JXCore](http://jxcore.com/home) 
-
-#### .NET, ASP, Visual Studio, WebMatrix
-
-.NET
-*   [Microsoft.github.io](http://microsoft.github.io)  
-*   [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
-*   [Dotnet GitHub](https://github.com/dotnet)  
-*   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
-
-ASP
-*   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
-
-ASP.NET Home
-*   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), 
-
-<!--
-
-https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
-
-https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
-Python Web Projects
-https://github.com/Microsoft/PTVS/wiki/Web-Project
-
-https://azure.microsoft.com/en-us/develop/python
-
-http://www.asp.net/mvc/overview/views
-http://www.asp.net/mvc/overview/api-reference
-ASP.NET Web Pages (Razor) API Quick Reference
-http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
-https://support.microsoft.com/en-us/kb/307996
-
-.NET Framework Development Guide
-https://msdn.microsoft.com/en-us/library/hh156542(v=vs.110).aspx
-.NET Framework Class Library
-https://msdn.microsoft.com/en-us/library/mt472912(v=vs.110).aspx
-.NET Framework Class Library
-https://msdn.microsoft.com/en-us/library/gg145045(v=VS.110).aspx
-Generic Collections in the .NET Framework
-https://msdn.microsoft.com/en-us/library/bb762916(v=vs.110).aspx
-When to Use Generic Collections
-https://msdn.microsoft.com/en-us/library/ms172181(v=vs.110).aspx
-System.Collections.Generic Namespace
-https://msdn.microsoft.com/en-us/library/system.collections.generic(v=vs.110).aspx
-ASP.NET
-https://msdn.microsoft.com/en-us/library/aa286485.aspx
-ASP.NET MVC Facebook Template
-https://msdn.microsoft.com/en-us/library/jj891078(v=vs.108).aspx
-ASP.NET Reference
-https://msdn.microsoft.com/en-us/library/9k6k3k4a(v=vs.85).aspx
-Developing Web Applications with ASP.NET
-https://msdn.microsoft.com/en-us/library/bb400852(v=vs.110).aspx
-Getting Started with Python
-https://msdn.microsoft.com/en-us/library/dn705848.aspx
-List<T> Class
-https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
-Microsoft API and reference catalog
-https://msdn.microsoft.com/library
-
-http://referencesource.microsoft.com
-
-Visual Studio IDE
-https://msdn.microsoft.com/en-us/library/dn762121.aspx
-Get Started Developing with Visual Studio
-https://msdn.microsoft.com/en-us/library/ms165079.aspx
-Visual Web Developer Express
-https://msdn.microsoft.com/library/dd537667(v=vs.100).aspx
-Comparing Visual Studio and Visual Web Developer Express
-https://msdn.microsoft.com/library/ms349441(v=vs.100).aspx
-Compare Visual Studio 2015 Offerings
-https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-vs
-Overview of Visual Studio 2015 Products
-https://www.visualstudio.com/products/vs-2015-product-editions
-
-https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
-https://www.visualstudio.com/features/mobile-app-development-vs
-https://code.visualstudio.com/download
-
-https://social.msdn.microsoft.com/Forums/vstudio/en-US/66b367a3-cf04-4f41-9457-4be0f405e5e6/difference-between-visual-studio-code-and-community-2015?forum=visualstudiogeneral
-
-https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
-
-http://www.asp.net/downloads
-
-ASP.NET 5 Applications with VS Code
-https://code.visualstudio.com/Docs/runtimes/ASPnet5
-
-https://code.visualstudio.com/Docs/?dv=linux32
-
-https://www.visualstudio.com/en-us/features/net-development-vs.aspx
-
-https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
-
-https://github.com/aspnet/live.asp.net
-
--->
-
-ASP.NET GitHub
-*   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
-*   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
-*   [ASP.NET Razor GitHub](https://github.com/aspnet/Razor)
-*   [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
-*   [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
-*   [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
-*   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
-
-ASP.NET Docs
-*   [ASP.NET Docs](http://docs.asp.net)
-*   [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
-*   [Installing ASP.NET 5 On Windows](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
-*   [ASP.NET 5 Fundamentals](http://docs.asp.net/en/latest/fundamentals/index.html)
-*   ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
-*   ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
-
-.NET and ASP.Net Heroku and AWS
-*   [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
-*   [AWS Windows and .NET Developer Center](https://aws.amazon.com/net)
-*   [AWS SDK for .NET GitHub](https://github.com/aws/aws-sdk-net)
-*   ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
-
-<!--
-
-AWS Toolkit for Visual Studio
-https://aws.amazon.com/visualstudio
-AWS Toolkit for Visual Studio Documentation
-https://aws.amazon.com/documentation/aws-toolkit-visual-studio/
-Setting Up the AWS Toolkit for Visual Studio
-http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html
-
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
-
--->
-
-ASP.NET Boilerplate
-*   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
-*   [ASP.NET Boilerplate Module Zero GitHub](https://github.com/aspnetboilerplate/module-zero)
-*   [ASP.NET Boilerplate Templates GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-templates)
-*   [ASP.NET Boilerplate Samples GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-samples)
-*   [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
-*   [ASP.NET Boilerplate Event Cloud GitHub](https://github.com/aspnetboilerplate/eventcloud)
-
-W3Schools ASP.NET
-*   [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
-*   [W3Schools ASP.NET Web Pages Examples](http://www.w3schools.com/aspnet/webpages_examples.asp)
-*   [W3Schools ASP.NET Web Pages Helpers- Objects References](http://www.w3schools.com/aspnet/webpages_ref_helpers.asp)
-*   [W3Schools ASP.NET Web Pages Helpers- Classes References](http://www.w3schools.com/aspnet/webpages_ref_classes.asp)
-
-Visual Studio
-*   [Visual Studio](http://www.visualstudio.com/en-us)  
-*   [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-*   [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-*   [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
-*   [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
-
-WebMatrix
-*   [WebMatrix](http://www.microsoft.com/web/webmatrix)
-
-.NET Platform as a Service
-*   [AppHarbor](https://appharbor.com)
-
-ASP.NET Example Websits
-*   [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
-
-https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
 
 #### Mobile
 
