@@ -12,6 +12,7 @@ Table of Contents
   - [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   - [Markets and Institutional Investing](#markets-and-institutional-investing)
   - [Chance](#chance)
+
 - [Venture](#venture)
   - [VC Theory](#vc-theory)
   - [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
@@ -24,18 +25,24 @@ Table of Contents
   - [Analyst Groups](#analyst-groups)
   - [Business and Tech News Sources](#business-and-tech-news-sources)
   - [Government and International Data](#government-and-international-data)
+
 - [General Research and Learning](#general-research-and-learning)
   - [Learning Resources](#learning-resources)
   - [Events, Talks, People](#events-talks-people)
   - [Books and Courses](#books-and-courses)
+
 - [STEM and STEAM](#stem-and-steam)
+
 - [Lean Startup and Launchpad](#lean-startup-and-launchpad)
+
 - [Venture Analysis](#venture-analysis)
   - [Surveys, Trends, Stats](#surveys-trends-stats)
   - [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
+
 - [Project Management](#project-management)
   - [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
   - [Documents and Improvement](#documents-and-improvement)
+
 - [Research and Design Sprints](#research-and-design-sprints)
   - [Basics](#basics)
   - [Code Sprints](#code-sprints) 
@@ -51,6 +58,7 @@ Table of Contents
   - [Labs](#labs)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
+
 - [Web Dev and Design](#web-dev-and-design)
   - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
   - [Social Media and Social Graph](#social-media-and-social-graph) 
