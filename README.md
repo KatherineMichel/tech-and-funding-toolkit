@@ -54,16 +54,20 @@ Table of Contents
   - [Facebook and Google Design Approach](#facebook-and-google-design-approach)
   - [Non-Google Ventures Research and Design Sprints](#non-google-ventures-research-and-design-sprints)
   - [More Research and Design Toolkits](#more-research-and-design-toolkits) 
+
   - [Design](#design)
   - [Labs](#labs)
+
+- [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
 
 - [Web Dev and Design](#web-dev-and-design)
-  - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
-  - [Social Media and Social Graph](#social-media-and-social-graph) 
-  - [Testing and Performance](#testing-and-performance)
-  - [Open Source Management and Style Guides](#open-source-management-and-style-guides)
+
+- [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
+- [Social Media and Social Graph](#social-media-and-social-graph) 
+- [Testing and Performance](#testing-and-performance)
+- [Open Source Management and Style Guides](#open-source-management-and-style-guides)
 
 
 - [Operating Systems](#operating-systems)
@@ -102,6 +106,7 @@ Table of Contents
 
 - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
+
 - [Data Science](#data-science)
 
 - [Launch and Growth](#lauch-and-growth)
@@ -2253,6 +2258,8 @@ Flickr
 KPCB and John Maeda Design in Tech Report
 *   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
+#### Pretotyping and Prototyping
+
 #### Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
@@ -2465,7 +2472,6 @@ Google Developers
 *   [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
 *   [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 *   [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
 Google Dev Tools
 *   [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
 *   [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
@@ -2537,7 +2543,6 @@ Yahoo and Bing- Developer, Webmaster, and Ads
 *   [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
 *   [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
 *   [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
-
 YouTube (Google)
 *   [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
 *   [YouTube Creators](http://www.youtube.com/yt/creators)  
