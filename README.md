@@ -82,6 +82,7 @@ Table of Contents
   - [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 - [Mobile](#mobile)
   - [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
+- [Data Science](#data-science)
 - [Launch and Growth](#lauch-and-growth)
   - [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
   - [Launch Strategies](#launch-strategies)
@@ -90,7 +91,6 @@ Table of Contents
   - [Internationalization](#internationalization)
   - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
-- [Data Science](#data-science)
 - [General Resources](#general-resources)
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
   - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
@@ -4435,369 +4435,6 @@ Miscellaneous
 *   [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
 *   [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
-### Launch and Growth
-
-#### Notable Proposals and Pitch Decks
-
-*   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
-
-Pitch Deck Search
-*   [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
-*   [Pitch Envy](http://www.pitchenvy.com)
-*   [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
-
-Notable Proposals and Pitch Decks
-*   [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
-*   [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
-*   [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
-*   [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
-*   [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
-*   [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
-*   [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
-*   [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
-*   [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
-*   [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
-*   [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
-*   [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
-*   [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
-*   [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
-*   [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
-*   [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
-*   [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
-*   [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
-*   [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
-*   [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
-*   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
-*   [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
-*   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
-*   [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
-
-Templates
-*   [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
-*   [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
-*   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
-*   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
-*   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
-*   [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
-*   [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
-
-#### Launch Strategies
-
-Launch Guides
-*   [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
-*   [Marketing Checklist for Indie Game Developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers)
-
-General
-*   [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
-
-Epic
-*   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
-
-Tools
-*   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
-*   [Amazon Example Press Release](http://aws.amazon.com/new) 
-*   [Sandwich Video](http://sandwichvideo.com)
-
-#### Growth, Marketing, and Content Resources
-
-Advertising and Marketing
-*   [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
-*   [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
-*   [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
-
-Distribution, Digital Distribution and User-Generated Content
-*   [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-*   [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-*   [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
-
-Distribution, Growth, Sales Hacking
-*   [Distribution Hacks](http://distributionhacks.com) 
-*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-*   [Saleshacker](http://www.saleshacker.com)
-
-Marketing and Search Engine Land
-*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
-
-Hiten Shah and Neil Patel
-*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
-*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
-*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
-*   [Quicksprout](http://www.quicksprout.com) 
-
-Popular Tools
-*   [Buffer](https://bufferapp.com)
-*   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
-*   [Detour Blog](http://blog.detour.com)
-*   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-*   [Intercom Blog](http://blog.intercom.io)
-*   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-*   [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
-*   [URX Blog](http://blog.urx.com/urx-blog) 
-
-Digital Novel
-*   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
-*   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
-*   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
-
-Digital Stats
-*   [eMarketer](http://www.emarketer.com)
-
-#### Metrics
-
-Financial Ratio
-*   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-*   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-Business and Financial Metrics
-* 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
-* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
-* 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
-* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
-* 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
-* 6 [Gross Merchandise Value (GMV)](http://www.investopedia.com/terms/g/gross-merchandise-value.asp) vs. Revenue
-* 7 Unearned or Deferred Revenue … and Billings
-* 8 [CAC (Customer Acquisition Cost) Wikipedia](https://en.wikipedia.org/wiki/Customer_acquisition_cost) … Blended vs. Paid, Organic vs. Inorganic
-
-Product and Engagement Metrics
-* 9 Active Users
-* 10 Month-on-month (MoM) growth, CMGR 
-* 11 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate) 
-* 12 [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate) (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
-* 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
-
-Presenting Metrics Generally
-* 14 Cumulative Charts (vs. Growth Metrics)
-* 15 Chart Tricks
-* 16 Order of Operations
-
-Business and Financial Metrics
-* Total Addressable Market (TAM) (Bottom Up/Top Down)
-* ARR (annual recurring revenue) ≠ Annual Run Rate
-* Average Revenue Per User (ARPU)
-* Gross Margins
-* Sell-Through Rate & Inventory Turns (Also: “close rate”, “conversion rate”, and “success rate”)
-
-Economic and Other Defining Qualities
-* Network Effects
-* Virality (viral coefficient or k-value)
-* Economies of Scale (“Scale”)
-
-Other Product and Engagement Metrics
-* Net Promoter Score (NPS)
-* Cohort Analysis
-* Registered Users
-* Active Users (MAUs (monthly active users), WAUs (weekly active users), DAUs (daily active users), and HAUs (hourly active users)), (uniques, visits, time on site, repeat visits)
-* Sources of Traffic (direct traffic, organic traffic, (SEO, SEM)
-* Customer Concentration Risk
-
-Presenting Metrics Generally
-* Truncating the Y-Axis
-* Cumulative Charts, Again
-
-Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
-* [Return on Net Assets (RONA) Wikipedia](https://en.wikipedia.org/wiki/Return_on_net_assets)
-* [Return on Capital Employed (ROCE) Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital_employed)
-* [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
-* [Earnings Per Share (EPS) Wikipedia](https://en.wikipedia.org/wiki/Earnings_per_share)
-* [Gross Margin (Percentage) Wikipedia](https://en.wikipedia.org/wiki/Gross_margin)
-* [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
-* [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost)/[Marginal Revenue](https://en.wikipedia.org/wiki/Marginal_revenue)
-* Debt/Equity
-* [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
-* [Revenue (Net Income) Per Employee Wikipedia](https://en.wikipedia.org/wiki/Net_income_per_employee)
-
-Ellen Chisa HBS Fin2
-* [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
-* [Discounted Cash Flow Wikipedia](http://en.wikipedia.org/wiki/Discounted_cash_flow)
-* [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
-* Multiples
-* Bonds
-* [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
-
-More Models
-*   [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
-*   [Counterfactual Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_conditional)
-*   [Critical Mass (Disambiguation) Wikipedia](https://en.wikipedia.org/wiki/Critical_mass_(disambiguation))
-*   [Evolution Wikipedia](https://en.wikipedia.org/wiki/Evolution)
-*   [Feedback Wikipedia](https://en.wikipedia.org/wiki/Feedback)
-*   [First Principles Wikipedia](https://en.wikipedia.org/wiki/First_principle) versus [Analogy Wikipedia](https://en.wikipedia.org/wiki/Analogy)
-*   [Inertia Wikipedia](https://en.wikipedia.org/wiki/Inertia)
-*   [Jacobian Inverse Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#Inverse)
-*   [Local Maxima Wikipedia](https://en.wikipedia.org/wiki/Maxima_and_minima)
-*   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
-*   [Mean Reversion Wikipedia](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
-*   Optionality
-*   [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
-*   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
-*   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
-
-Bill Gurley on Conversion and LTV
-*   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
-*   [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
-*   [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
-*   [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
-
-Objectives and key Results (OKRs)
-*   [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
-*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-
-KPIs
-*   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
-
-Pirate Metrics
-*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-Miscellaneous Metrics
-*   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
-*   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
-*   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
-*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
-
-#### Internationalization
-
-*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
-
-#### Startup Transparency Examples
-
-*   [Income Reports](http://www.incomereports.co)
-
-Buffer
-*   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-*   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-*   [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-*   [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-*   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-*   [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-*   [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-#### Popular Tools
-
-Two Factor Authentication
-
-*   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
-
-Google Products, Office
-*   [Google Products](http://www.google.com/intl/en/about/products) 
-*   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
-*   [Google Gmail](http://gmail.com)  
-*   [Google Drive](https://www.google.com/drive) 
-*   [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
-*   [Google Drawings](https://docs.google.com/drawings)  
-*   [Google Calendar](https://www.google.com/calendar) 
-*   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
-*   [Google Flights](https://www.google.com/flights)  
-*   [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
-*   [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
-*   [Google Translate](https://translate.google.com/?hl=en)  
-*   [Let Me Google that for You](http://lmgtfy.com) 
-
-API
-*   [Blockspring](https://www.blockspring.com)
-
-Email
-*   [MailChimp](http://mailchimp.com)
-*   [Mailgun](http://www.mailgun.com)  
-*   [Mandrill](http://mandrill.com)  
-*   [SendGrid](http://sendgrid.com)  
- 
-Group Communication/Chat
-*   [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
-*   [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
-*   [Skype](http://www.skype.com/en) 
-*   [Meetup](http://www.meetup.com)
-*   [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
- 
-Livestreaming, Video, Audio 
-*   [Livestream](http://new.livestream.com) 
-*   [SoundCloud](https://soundcloud.com)  
-*   [Vimeo](https://vimeo.com)  
-*   [YouTube](https://www.youtube.com) 
-
-Photo Hosting
-*   [Flickr](https://www.flickr.com) 
-*   [Google Photos](https://photos.google.com)
-*   [Picasa](https://picasa.google.com)
-
-Document Hosting
-*   [Scribd](https://www.scribd.com)
-
-Links
-*   [Bitly](https://bitly.com)
-
-Calendar 
-*   [Sunrise](https://calendar.sunrise.am)
-
-Social Media Distribution 
-*   [Facebook](https://www.facebook.com)
-*   [Twitter](https://twitter.com)
-
-Social Media Distribution 
-*   [Buffer](https://bufferapp.com)
-*   [Hootsuite](https://hootsuite.com)
-*   [HubSpot CRM](http://www.hubspot.com/crm)
-*   [Storify](https://storify.com)  
-*   [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
-*   [Tweetbot](http://tapbots.com/tweetbot)
-
-Customer Relationship Management
-*   [Salesforce](https://www.salesforce.com)
-*   [RelateIQ](https://www.relateiq.com) 
-
-Task Automation
-*   [IFTTT](https://ifttt.com) 
-
-Payments
-*   [Apple Pay](https://www.apple.com/apple-pay) 
-*   [Bitcoin](https://bitcoin.org/en) 
-*   [Paypal](https://www.paypal.com)
-*   [Square](https://squareup.com)
-*   [Stripe](https://stripe.com)
-
-File Storage
-*   [Box](https://www.box.com) 
-*   [Dropbox](https://www.dropbox.com)
-
-Logistics
-*   [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
-*   [Gumtree](http://www.gumtree.co)
-*   [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
-*   [Move Loot](https://www.moveloot.com/welcome)
-*   [Statewide List](http://www.statewidelist.com)
-
-Crowd Sourced Internet Marketplace
-*   [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
-*   [Crowdflower](http://www.crowdflower.com)  
-
-Docs
-*   [DocSend](https://docsend.com)
-*   [DocuSign](https://www.docusign.com)
-*   [FullContact](http://www.fullcontact.com)
-*   [HelloSign](https://www.hellosign.com)
-*   [Streak](https://www.streak.com)
-
-Admin, Hiring, Payroll
-*   [Clara Labs](https://claralabs.com) 
-*   [Evernote](https://evernote.com)
-*   [Lever](http://lever.co)  
-*   [Jobvite](http://www.jobvite.com)
-*   [QuickBooks](http://quickbooks.intuit.com)
-*   [Teespring](http://teespring.com)
-*   [ZenPayroll](https://zenpayroll.com) 
-*   [Zenefits](http://www.zenefits.com)
- 
 ### Data Science
 
 Data Monetization
@@ -5436,6 +5073,369 @@ General Terminology
 *   [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
 *   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
+### Launch and Growth
+
+#### Notable Proposals and Pitch Decks
+
+*   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
+
+Pitch Deck Search
+*   [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
+*   [Pitch Envy](http://www.pitchenvy.com)
+*   [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
+
+Notable Proposals and Pitch Decks
+*   [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
+*   [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
+*   [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
+*   [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
+*   [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
+*   [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
+*   [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
+*   [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
+*   [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
+*   [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
+*   [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
+*   [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
+*   [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
+*   [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
+*   [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
+*   [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
+*   [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
+*   [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
+*   [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
+*   [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
+*   [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
+*   [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
+*   [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+*   [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
+
+Templates
+*   [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
+*   [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
+*   [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
+*   [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
+*   [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+*   [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
+*   [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
+
+#### Launch Strategies
+
+Launch Guides
+*   [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
+*   [Marketing Checklist for Indie Game Developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers)
+
+General
+*   [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
+
+Epic
+*   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
+
+Tools
+*   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
+*   [Amazon Example Press Release](http://aws.amazon.com/new) 
+*   [Sandwich Video](http://sandwichvideo.com)
+
+#### Growth, Marketing, and Content Resources
+
+Advertising and Marketing
+*   [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
+*   [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
+*   [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
+
+Distribution, Digital Distribution and User-Generated Content
+*   [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+*   [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+*   [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
+Distribution, Growth, Sales Hacking
+*   [Distribution Hacks](http://distributionhacks.com) 
+*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+*   [Saleshacker](http://www.saleshacker.com)
+
+Marketing and Search Engine Land
+*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
+
+Hiten Shah and Neil Patel
+*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
+*   [Quicksprout](http://www.quicksprout.com) 
+
+Popular Tools
+*   [Buffer](https://bufferapp.com)
+*   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
+*   [Detour Blog](http://blog.detour.com)
+*   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+*   [Intercom Blog](http://blog.intercom.io)
+*   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
+*   [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
+*   [URX Blog](http://blog.urx.com/urx-blog) 
+
+Digital Novel
+*   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
+*   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+*   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
+
+Digital Stats
+*   [eMarketer](http://www.emarketer.com)
+
+#### Metrics
+
+Financial Ratio
+*   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+*   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+Business and Financial Metrics
+* 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
+* 2 Recurring Revenue vs. Total Revenue (Product (Recurring) versus Service), [ARR (Annual Recurring Revenue)](http://en.wikipedia.org/wiki/Annual_recurring_revenue), ARR per customer, [MRR (Monthly Recurring Revenue) Wikipedia)](http://en.wikipedia.org/wiki/Monthly_Recurring_Revenue))
+* 3 [Gross Profit Wikipedia](https://en.wikipedia.org/wiki/Gross_profit)
+* 4 Total Contract Value (TCV) vs. Annual Contract Value (ACV) (What is the size? Is it growing?)
+* 5 [Customer Lifetime Value (LTV/Life Time Value) Wikipedia](https://en.wikipedia.org/wiki/Customer_lifetime_value) (Contribution margin per customer x Average Lifespan of Customer) (See also Bill Gurley)
+* 6 [Gross Merchandise Value (GMV)](http://www.investopedia.com/terms/g/gross-merchandise-value.asp) vs. Revenue
+* 7 Unearned or Deferred Revenue … and Billings
+* 8 [CAC (Customer Acquisition Cost) Wikipedia](https://en.wikipedia.org/wiki/Customer_acquisition_cost) … Blended vs. Paid, Organic vs. Inorganic
+
+Product and Engagement Metrics
+* 9 Active Users
+* 10 Month-on-month (MoM) growth, CMGR 
+* 11 [Churn Rate Wikipedia](http://en.wikipedia.org/wiki/Churn_rate) 
+* 12 [Burn Rate Wikipedia](https://en.wikipedia.org/wiki/Burn_rate) (Monthly cash burn, Net burn, Gross burn) (See also Fred Wilson)
+* 13 Downloads (Vanity Metrics) (Engagement, ideally expressed as cohort retention on metrics that matter for that business — for example, DAU (daily active users), MAU (monthly active users), photos shared, photos viewed, and so on.)
+
+Presenting Metrics Generally
+* 14 Cumulative Charts (vs. Growth Metrics)
+* 15 Chart Tricks
+* 16 Order of Operations
+
+Business and Financial Metrics
+* Total Addressable Market (TAM) (Bottom Up/Top Down)
+* ARR (annual recurring revenue) ≠ Annual Run Rate
+* Average Revenue Per User (ARPU)
+* Gross Margins
+* Sell-Through Rate & Inventory Turns (Also: “close rate”, “conversion rate”, and “success rate”)
+
+Economic and Other Defining Qualities
+* Network Effects
+* Virality (viral coefficient or k-value)
+* Economies of Scale (“Scale”)
+
+Other Product and Engagement Metrics
+* Net Promoter Score (NPS)
+* Cohort Analysis
+* Registered Users
+* Active Users (MAUs (monthly active users), WAUs (weekly active users), DAUs (daily active users), and HAUs (hourly active users)), (uniques, visits, time on site, repeat visits)
+* Sources of Traffic (direct traffic, organic traffic, (SEO, SEM)
+* Customer Concentration Risk
+
+Presenting Metrics Generally
+* Truncating the Y-Axis
+* Cumulative Charts, Again
+
+Clay Christensen: The Church of Finance, “Thou shalt measure success by… “
+* [Return on Net Assets (RONA) Wikipedia](https://en.wikipedia.org/wiki/Return_on_net_assets)
+* [Return on Capital Employed (ROCE) Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital_employed)
+* [Internal Rate of Return (IRR) Wikipedia](http://en.wikipedia.org/wiki/Internal_rate_of_return)
+* [Earnings Per Share (EPS) Wikipedia](https://en.wikipedia.org/wiki/Earnings_per_share)
+* [Gross Margin (Percentage) Wikipedia](https://en.wikipedia.org/wiki/Gross_margin)
+* [Economic Value Added (EVA) Wikipedia](http://en.wikipedia.org/wiki/Economic_value_added)
+* [Marginal Cost](https://en.wikipedia.org/wiki/Marginal_cost)/[Marginal Revenue](https://en.wikipedia.org/wiki/Marginal_revenue)
+* Debt/Equity
+* [Net Present Value (NPV) Wikipedia](http://en.wikipedia.org/wiki/Net_present_value)
+* [Revenue (Net Income) Per Employee Wikipedia](https://en.wikipedia.org/wiki/Net_income_per_employee)
+
+Ellen Chisa HBS Fin2
+* [Weighted Average Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
+* [Discounted Cash Flow Wikipedia](http://en.wikipedia.org/wiki/Discounted_cash_flow)
+* [Adjusted Present Value Wikipedia](http://en.wikipedia.org/wiki/Adjusted_present_value)
+* Multiples
+* Bonds
+* [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
+
+More Models
+*   [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
+*   [Counterfactual Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_conditional)
+*   [Critical Mass (Disambiguation) Wikipedia](https://en.wikipedia.org/wiki/Critical_mass_(disambiguation))
+*   [Evolution Wikipedia](https://en.wikipedia.org/wiki/Evolution)
+*   [Feedback Wikipedia](https://en.wikipedia.org/wiki/Feedback)
+*   [First Principles Wikipedia](https://en.wikipedia.org/wiki/First_principle) versus [Analogy Wikipedia](https://en.wikipedia.org/wiki/Analogy)
+*   [Inertia Wikipedia](https://en.wikipedia.org/wiki/Inertia)
+*   [Jacobian Inverse Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#Inverse)
+*   [Local Maxima Wikipedia](https://en.wikipedia.org/wiki/Maxima_and_minima)
+*   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
+*   [Mean Reversion Wikipedia](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
+*   Optionality
+*   [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
+*   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
+*   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
+
+Bill Gurley on Conversion and LTV
+*   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
+*   [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
+*   [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+*   [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+
+Objectives and key Results (OKRs)
+*   [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+KPIs
+*   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+
+Pirate Metrics
+*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
+Miscellaneous Metrics
+*   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
+*   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
+*   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
+*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
+
+#### Internationalization
+
+*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
+
+#### Startup Transparency Examples
+
+*   [Income Reports](http://www.incomereports.co)
+
+Buffer
+*   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+*   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+*   [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+*   [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+*   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+*   [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+*   [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+#### Popular Tools
+
+Two Factor Authentication
+
+*   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
+
+Google Products, Office
+*   [Google Products](http://www.google.com/intl/en/about/products) 
+*   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
+*   [Google Gmail](http://gmail.com)  
+*   [Google Drive](https://www.google.com/drive) 
+*   [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
+*   [Google Drawings](https://docs.google.com/drawings)  
+*   [Google Calendar](https://www.google.com/calendar) 
+*   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
+*   [Google Flights](https://www.google.com/flights)  
+*   [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
+*   [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
+*   [Google Translate](https://translate.google.com/?hl=en)  
+*   [Let Me Google that for You](http://lmgtfy.com) 
+
+API
+*   [Blockspring](https://www.blockspring.com)
+
+Email
+*   [MailChimp](http://mailchimp.com)
+*   [Mailgun](http://www.mailgun.com)  
+*   [Mandrill](http://mandrill.com)  
+*   [SendGrid](http://sendgrid.com)  
+ 
+Group Communication/Chat
+*   [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
+*   [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
+*   [Skype](http://www.skype.com/en) 
+*   [Meetup](http://www.meetup.com)
+*   [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+ 
+Livestreaming, Video, Audio 
+*   [Livestream](http://new.livestream.com) 
+*   [SoundCloud](https://soundcloud.com)  
+*   [Vimeo](https://vimeo.com)  
+*   [YouTube](https://www.youtube.com) 
+
+Photo Hosting
+*   [Flickr](https://www.flickr.com) 
+*   [Google Photos](https://photos.google.com)
+*   [Picasa](https://picasa.google.com)
+
+Document Hosting
+*   [Scribd](https://www.scribd.com)
+
+Links
+*   [Bitly](https://bitly.com)
+
+Calendar 
+*   [Sunrise](https://calendar.sunrise.am)
+
+Social Media Distribution 
+*   [Facebook](https://www.facebook.com)
+*   [Twitter](https://twitter.com)
+
+Social Media Distribution 
+*   [Buffer](https://bufferapp.com)
+*   [Hootsuite](https://hootsuite.com)
+*   [HubSpot CRM](http://www.hubspot.com/crm)
+*   [Storify](https://storify.com)  
+*   [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
+*   [Tweetbot](http://tapbots.com/tweetbot)
+
+Customer Relationship Management
+*   [Salesforce](https://www.salesforce.com)
+*   [RelateIQ](https://www.relateiq.com) 
+
+Task Automation
+*   [IFTTT](https://ifttt.com) 
+
+Payments
+*   [Apple Pay](https://www.apple.com/apple-pay) 
+*   [Bitcoin](https://bitcoin.org/en) 
+*   [Paypal](https://www.paypal.com)
+*   [Square](https://squareup.com)
+*   [Stripe](https://stripe.com)
+
+File Storage
+*   [Box](https://www.box.com) 
+*   [Dropbox](https://www.dropbox.com)
+
+Logistics
+*   [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
+*   [Gumtree](http://www.gumtree.co)
+*   [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
+*   [Move Loot](https://www.moveloot.com/welcome)
+*   [Statewide List](http://www.statewidelist.com)
+
+Crowd Sourced Internet Marketplace
+*   [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
+*   [Crowdflower](http://www.crowdflower.com)  
+
+Docs
+*   [DocSend](https://docsend.com)
+*   [DocuSign](https://www.docusign.com)
+*   [FullContact](http://www.fullcontact.com)
+*   [HelloSign](https://www.hellosign.com)
+*   [Streak](https://www.streak.com)
+
+Admin, Hiring, Payroll
+*   [Clara Labs](https://claralabs.com) 
+*   [Evernote](https://evernote.com)
+*   [Lever](http://lever.co)  
+*   [Jobvite](http://www.jobvite.com)
+*   [QuickBooks](http://quickbooks.intuit.com)
+*   [Teespring](http://teespring.com)
+*   [ZenPayroll](https://zenpayroll.com) 
+*   [Zenefits](http://www.zenefits.com)
+ 
 ### General Resources
 
 #### Software and Mobile are Eating the World, Software is Reorganizing the World
