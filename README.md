@@ -3514,6 +3514,22 @@ Python- Microframeworks and Template Engines
 *   [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
 *   [WebPy GitHub](https://github.com/webpy/webpy)
 
+Python- Django- Pinax
+*   [Pinax](http://pinaxproject.com)  
+*   [Pinax GitHub](https://github.com/pinax)  
+*   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
+*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
+*   [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
+*   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
+*   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
+*   [Pinax Symposion](https://github.com/pinax/symposion)  
+
+Python- Django- Cookiecutter (See also Packages)
+*   [Cookie Cutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
+*   [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django )
+*   [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
+*   [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
+
 #### Python and Django Useful Tools
 
 Python- Django- Debug Toolbar
@@ -4847,22 +4863,6 @@ Django Girls (Python- Django)
 
 Django Carrots (Python- Django)
 *   [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
-
-Python- Django- Pinax
-*   [Pinax](http://pinaxproject.com)  
-*   [Pinax GitHub](https://github.com/pinax)  
-*   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
-*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
-*   [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
-*   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
-*   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
-*   [Pinax Symposion](https://github.com/pinax/symposion)  
-
-Python- Django- Cookiecutter (See also Packages)
-*   [Cookie Cutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
-*   [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django )
-*   [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
-*   [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
 
 Bootcamp (Python- Django)
 *   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
