@@ -2626,6 +2626,14 @@ GNU Software and Manuals
 *   [GNU Software](http://www.gnu.org/software/software.html)  
 *   [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 
+#### Programming Tiers
+
+Easy (Static) to Difficult (Dynamic)
+*   [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
+*   [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
+*   [Jekyll via GitHub Pages](https://jekyllrb.com)
+*   Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
+
 #### Open Source Management and Style Guides
 
 Open Source Management, Codes of Conduct, Roadmaps
