@@ -51,24 +51,22 @@ Table of Contents
   - [Google Ventures Design Sprint](#google-ventures-design-sprint)
   - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
   - [Google Design Sprint](#google-design-sprint)
-  - [Facebook and Google Design Approach](#facebook-and-google-design-approach)
   - [Non-Google Ventures Research and Design Sprints](#non-google-ventures-research-and-design-sprints)
   - [More Research and Design Toolkits](#more-research-and-design-toolkits) 
-
-  - [Design](#design)
-  - [Labs](#labs)
 
 - [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   - [Pretotyping](#pretotyping)
   - [Prototyping](#prototyping)
 
-- [Web Dev and Design](#web-dev-and-design)
-
-- [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
+- [Facebook and Google Design Approach](#facebook-and-google-design-approach)
 - [Social Media and Social Graph](#social-media-and-social-graph) 
 - [Testing and Performance](#testing-and-performance)
-- [Open Source Management and Style Guides](#open-source-management-and-style-guides)
 
+- [Web Dev and Design](#web-dev-and-design)
+- [Design Thinking](#design-thinking)
+- [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
+- [Labs](#labs)
+- [Open Source Management and Style Guides](#open-source-management-and-style-guides)  
 
 - [Operating Systems](#operating-systems)
   - [Unix and Linux](#unix-and-linux)
@@ -2127,34 +2125,6 @@ Google Ventures Design Sprint- Fast Co (Basically Redundant)
 *   [Google New Form Factors Design Sprint](https://developers.google.com/design-sprint/new-form-factors) and [PDF](https://developers.google.com/design-sprint/downloads/DesignSprint-NewFormFactors.pdf), [Android Wear Flow](https://developers.google.com/design-sprint/downloads/DesignSprint-AndroidWearFlow.pdf) and [Presentation](https://docs.google.com/presentation/d/1rPGOnfRmIxXiJmGaC_2FYt_bBTR8Euu15U2kNU3auQk/edit#slide=id.p4)
 *   [Android Wear Creative Vision](https://developer.android.com/design/wear/creative-vision.html), and [Android Wear Principles](https://developer.android.com/design/wear/principles.html)
 
-#### Facebook and Google Design Approach
-
-Facebook
-*   [Facebook Design](http://facebook.github.io/design) 
-
-Google
-*   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
-*   [Google Roboto GitHub](https://github.com/google/roboto) 
-*   [Google Design Resources](https://design.google.com/resources)  
-*   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-*   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-Google Material Design (See also Facebook React)
-*   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-Bootstrap Material Design
-*   [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-*   [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
-Polymer
-*   [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-*   [Polymer Designer GitHub](https://github.com/Polymer/designer)
-*   [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
-
-Accelerated Mobile Pages (AMP HTML)
-*   [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
-*   [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
-
 #### Non-Google Ventures Research and Design Sprints
 
 Dockyard Version
@@ -2226,37 +2196,6 @@ Miscellaneous
 *   [Strategyzer Workshop Toolkit](http://www.stattys.com/products.html?acc=e4da3b7fbbce2345d7772b0674a318d5&bannerid=3)
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
 *   [Usability BOK](http://www.usabilitybok.org)
-
-#### Design
-
-Design- General
-*   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
-*   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
-*   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
-*   [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
-*   [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
-
-Responsive Design
-*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-*   [Responsive Design Examples](http://mediaqueri.es)  
-
-Design Publications
-*   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-*   [Smashing Magazine](http://www.smashingmagazine.com) 
-*   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
-*   [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
- 
-Portfolio and Community Websites
-*   [Behance](https://www.behance.net)  
-*   [Dribbble](https://dribbble.com)  
-*   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-*   [Zurb Tavern](http://zurb.com/tavern) 
-
-Flickr
-*   [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-KPCB and John Maeda Design in Tech Report
-*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
 #### Pretotyping and Prototyping
 
@@ -2349,104 +2288,33 @@ Miscellaneous
 *   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 *   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-#### Web Dev and Design
+#### Facebook and Google Design Approach
 
-Web General
-*   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-*   [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
-*   [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
-*   [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
-*   [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
-*   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
-*   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
-*   [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
-*   [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
-*   [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
-*   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
-*   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+Facebook
+*   [Facebook Design](http://facebook.github.io/design) 
 
-HTML, XML, XHTML
-*   [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-*   [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-*   [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML) and [W3Schools HTML Tutorial](http://www.w3schools.com/html)
-*   [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-*   [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-*   [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-*   [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-*   [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+Google
+*   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
+*   [Google Roboto GitHub](https://github.com/google/roboto) 
+*   [Google Design Resources](https://design.google.com/resources)  
+*   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+*   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
-CSS
-*   [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-*   [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
-*   [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-*   [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+Google Material Design (See also Facebook React)
+*   [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
 
-Example
-*   [Example Org](http://www.example.org)  
-*   [Example Org Mobile](https://m.example.com) 
+Bootstrap Material Design
+*   [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+*   [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
 
-#### Labs
+Polymer
+*   [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+*   [Polymer Designer GitHub](https://github.com/Polymer/designer)
+*   [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
 
-Labs, Kitchens, Garages
-*   [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
-*   [Microsoft Garage](http://www.microsoft.com/en-us/garage)
-*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
-*   [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
-*   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
-
-#### Engineering Blogs and Designer, Developer Conferences
-
-StackShare
-*   [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
-
-List of Engineering Blogs
-*   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-
-Individual Engineering Blogs
-*   [Buffer Engineering](https://overflow.bufferapp.com)
-*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-*   [LinkedIn Engineering](http://engineering.linkedin.com)  
-*   [Pinterest Engineering](http://engineering.pinterest.com)  
-*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-*   [Uber Developers](https://devblog.uber.com)  
-*   [Yelp Engineering](http://engineeringblog.yelp.com) 
-
-DevCenter
-*   [DevCenter Website](DevCenter.me)  
-
-Guides for Development
-*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Built With (Exluding Django)
-*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-*   [Built With](http://builtwith.com)  
-*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-*   [Built with Bootstrap](http://expo.getbootstrap.com)  
-*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-*   [Squarespace (Website Examples)](http://www.squarespace.com) 
-
-Code Search
-*   [Search Code](https://searchcode.com)  
-*   [Nerdy Data](http://nerdydata.com)  
-
-Company Design
-*   [Medium Design](https://medium.com/designing-medium)  
-*   [IBM Design](https://www.ibm.com/design) 
-*   [eBay/PayPal](http://ebay.com/design)  
-*   [Twitter Design](https://twitter.com/design)  
-*   [Uber Design](https://www.uber.com/design) 
-
-Designer/Developer Conferences
-*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
-*   [Google Design Form](http://www.google.com/design/form) 
-*   [Google IO](https://www.google.com/events/io)  
-*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-*   [Twitter Flock](http://flock.fabric.io) 
+Accelerated Mobile Pages (AMP HTML)
+*   [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
+*   [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
 #### Social Media and Social Graph
 
@@ -2574,6 +2442,136 @@ Cookies
 *   [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 *   [W3 Mobile Validator](http://validator.w3.org/mobile)
+
+#### Web Dev and Design
+
+Web General
+*   [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+*   [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+*   [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+*   [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+*   [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
+*   [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+*   [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+*   [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+*   [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+*   [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
+*   [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+*   [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+
+HTML, XML, XHTML
+*   [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+*   [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+*   [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML) and [W3Schools HTML Tutorial](http://www.w3schools.com/html)
+*   [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+*   [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+*   [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+*   [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+*   [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
+CSS
+*   [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+*   [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
+*   [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+*   [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+Example
+*   [Example Org](http://www.example.org)  
+*   [Example Org Mobile](https://m.example.com) 
+
+#### Design Thinking
+
+Design- General
+*   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
+*   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+*   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
+*   [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
+*   [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
+
+Responsive Design
+*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+*   [Responsive Design Examples](http://mediaqueri.es)  
+
+Design Publications
+*   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+*   [Smashing Magazine](http://www.smashingmagazine.com) 
+*   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+*   [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
+ 
+Portfolio and Community Websites
+*   [Behance](https://www.behance.net)  
+*   [Dribbble](https://dribbble.com)  
+*   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
+*   [Zurb Tavern](http://zurb.com/tavern) 
+
+Flickr
+*   [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+KPCB and John Maeda Design in Tech Report
+*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+#### Engineering Blogs and Designer, Developer Conferences
+
+StackShare
+*   [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
+
+List of Engineering Blogs
+*   [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+
+Individual Engineering Blogs
+*   [Buffer Engineering](https://overflow.bufferapp.com)
+*   [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+*   [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+*   [LinkedIn Engineering](http://engineering.linkedin.com)  
+*   [Pinterest Engineering](http://engineering.pinterest.com)  
+*   [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+*   [Uber Developers](https://devblog.uber.com)  
+*   [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+DevCenter
+*   [DevCenter Website](DevCenter.me)  
+
+Guides for Development
+*   [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Built With (Exluding Django)
+*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+*   [Built With](http://builtwith.com)  
+*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+*   [Built with Bootstrap](http://expo.getbootstrap.com)  
+*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+*   [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+*   [Squarespace (Website Examples)](http://www.squarespace.com) 
+
+Code Search
+*   [Search Code](https://searchcode.com)  
+*   [Nerdy Data](http://nerdydata.com)  
+
+Company Design
+*   [Medium Design](https://medium.com/designing-medium)  
+*   [IBM Design](https://www.ibm.com/design) 
+*   [eBay/PayPal](http://ebay.com/design)  
+*   [Twitter Design](https://twitter.com/design)  
+*   [Uber Design](https://www.uber.com/design) 
+
+Designer/Developer Conferences
+*   [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+*   [F8 Facebook Developer Conference](https://www.fbf8.com) 
+*   [Google Design Form](http://www.google.com/design/form) 
+*   [Google IO](https://www.google.com/events/io)  
+*   [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+*   [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+*   [Twitter Flock](http://flock.fabric.io) 
+
+#### Labs
+
+Labs, Kitchens, Garages
+*   [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
+*   [Microsoft Garage](http://www.microsoft.com/en-us/garage)
+*   [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
+*   [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
+*   [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
 
 #### Open Source Management and Style Guides
 
