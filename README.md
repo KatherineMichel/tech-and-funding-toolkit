@@ -68,6 +68,7 @@ Table of Contents
 - [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
 - [Labs](#labs)
 - [Open Source Management and Style Guides](#open-source-management-and-style-guides)  
+- [Startup Transparency Examples](#startup-transparency-examples)
 
 - [Operating Systems](#operating-systems)
   - [Unix and Linux](#unix-and-linux)
@@ -113,7 +114,6 @@ Table of Contents
   - [Metrics](#metrics)
   - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
   - [Internationalization](#internationalization)
-  - [Startup Transparency Examples](#startup-transparency-examples)
 - [Popular Tools](#popular-tools)
 - [General Resources](#general-resources)
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
@@ -2698,6 +2698,27 @@ Journalism Style Guides
 
 BBC
 *   [BBC Global Experience Language](http://www.bbc.co.uk/gel)
+
+#### Startup Transparency Examples
+
+*   [Income Reports](http://www.incomereports.co)
+
+Buffer
+*   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+*   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+*   [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+*   [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+*   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+*   [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+*   [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
 
 #### Operating Systems
 
@@ -5302,27 +5323,6 @@ Miscellaneous Metrics
 #### Internationalization
 
 *   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
-
-#### Startup Transparency Examples
-
-*   [Income Reports](http://www.incomereports.co)
-
-Buffer
-*   [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-*   [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-*   [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-*   [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-*   [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-*   [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-*   [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
 
 #### Popular Tools
 
