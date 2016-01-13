@@ -3137,6 +3137,9 @@ Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)
 *   [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
 *   [Jekyll via GitHub Pages](https://jekyllrb.com)
 *   Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
+*   Start contributing to open source; seek out mentor(s) (some frameworks such as Django have mentor lists) 
+*   Use guides such as [How to Contribute to Pinax](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+*   Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
 
 #### Programming Learning Tools
 
@@ -3401,6 +3404,11 @@ Python and Django Conferences
 Python and Django Conferences- Proposal Examples
 *   Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
 *   [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
+
+<!--
+http://2015.djangocon.eu/proposals/speaker-mentors
+https://2015.djangocon.us/speaking/mentors
+-->
 
 Python- Django
 *   [Django](https://www.djangoproject.com)  
