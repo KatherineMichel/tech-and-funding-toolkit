@@ -2654,6 +2654,7 @@ JavaScript Styleguide GitHub
 
 Ruby Styleguide GitHub
 *   [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+*   [Ruby Styleguide GitHub](https://github.com/styleguide/ruby) 
 
 Objective C Styleguide GitHub
 *   [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
@@ -2821,9 +2822,9 @@ Apple Developer Tools
 *   [Xcode](https://developer.apple.com/xcode)
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
-<!--
-*   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
--->
+Apple- Swift
+*   [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Apple Swift](https://developer.apple.com/swift), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
+*   [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
 
 Apple- Heroku
 *   [Heroku Toolbelt for Mac OS X](https://toolbelt.heroku.com)
@@ -3114,6 +3115,7 @@ Dot Files
 *   [Dotfiles](http://dotfiles.github.io)  
 *   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
 *   [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
+*   [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
 *   [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
 *   [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
 *   [YADR GitHub](https://github.com/skwp/dotfiles)
@@ -3218,8 +3220,7 @@ Miscellaneous Programming Languages
 *   [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
 *   [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
 *   [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
-
-*   [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Swift GitHub](https://github.com/apple/swift), [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
+*   Apple- Swift
 
 Ruby
 *   [Ruby](https://www.ruby-lang.org/en/)  
@@ -3228,11 +3229,9 @@ Ruby
 *   [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
 *   [Ruby GitHub](https://github.com/ruby/ruby)  
 *   [Ruby Gems GitHub](https://github.com/rubygems/rubygems)  
-*   [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0/)  
+*   [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0)  
 *   [Rake GitHub](https://github.com/ruby/rake)  
 *   [Capistrano GitHub](https://github.com/capistrano/capistrano)  
-
-*   [Ruby Styleguide GitHub](https://github.com/styleguide/ruby) 
 
 Ruby- Executable Specification
 *   [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
@@ -3332,17 +3331,13 @@ WampServer
 PHP- Laravel- Preferred Templates and Documents
 *   [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
 *   [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
-*   [Laravel 4 Starter Kit GitHub](https://github.com/brunogaspar/laravel4-starter-kit)  
-*   [Laravel 4 Bootstrap Starter Site GitHub](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)  
-*   [Laravel 4 Generators GitHub](https://github.com/JeffreyWay/Laravel-4-Generators)  
-
+ 
 Node.js/PHP- WordPress- Preferred Templates and Documents
 *   [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
 *   [WordPress.org](https://wordpress.org)  
 *   [WordPress GitHub](https://github.com/WordPress/WordPress)  
 *   [WordPress.com](https://wordpress.com)  
 *   [WordPress Plugins](http://www.pluginmirror.com/plugins)  
-*   [WordPress MTV Github](https://github.com/newsapps/wordpress-mtv)  
 *   [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
 *   [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
 *   [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
@@ -3354,12 +3349,12 @@ Node.js/PHP- WordPress- Preferred Templates and Documents
 *   [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
 
 WordPress Development
-*   [Wordpress Contributing](http://codex.wordpress.org/Contributing_to_WordPress)  
-*   [Wordpress: Good First Bugs](https://core.trac.wordpress.org/tickets/good-first-bugs)  
+*   [WordPress Contributing](http://codex.wordpress.org/Contributing_to_WordPress)  
+*   [WordPress: Good First Bugs](https://core.trac.wordpress.org/tickets/good-first-bugs)  
 
 WordPress Translation
-*   [Wordpress Translate](https://translate.wordpress.org)  
-*   [Wordpress Translators Team](https://make.wordpress.org/polyglots) 
+*   [WordPress Translate](https://translate.wordpress.org)  
+*   [WordPress Translators Team](https://make.wordpress.org/polyglots) 
 
 Wikitech Development
 *   [Wikipedia Development](https://www.mediawiki.org/wiki/Category:MediaWiki_Development)  
