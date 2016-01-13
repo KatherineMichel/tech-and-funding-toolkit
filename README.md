@@ -2666,9 +2666,9 @@ Data Styleguide GitHub
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 *   [The Figure 53 Company Handbook](http://figure53.com/handbook)
-*   [Hanno Logbook](https://logbook.hanno.co)
+*   [Hanno Logbook](https://logbook.hanno.co) and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
 *   [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-*   [North GitHub](https://github.com/north/north)
+*   [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
 *   [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
 
