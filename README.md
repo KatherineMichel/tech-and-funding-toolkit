@@ -3431,6 +3431,23 @@ Python- Django- Resources
 *   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
+Python- Django- Sites
+*   [Django Sites](https://www.djangosites.org/with-source)  
+*   [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
+*   [KU Sports](http://www2.kusports.com)  
+
+Python- Django- Major Organizations and Projects that Use Django (Excluding Templates)
+*   [18F GitHub](https://github.com/18F)  
+*   [Instagram GitHub](https://github.com/instagram)  
+*   [Knight Foundation](http://www.knightfoundation.org/apps)  
+*   [National Geographic GitHub](https://github.com/natgeo)  
+*   [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+*   [PBS GitHub](https://github.com/pbs)  
+*   [Pinterest GitHub](https://github.com/pinterest)  
+*   [Rdio GitHub](https://github.com/rdio)  
+*   [Reddit GitHub](https://github.com/reddit)  
+*   [StyleSeat GitHub](https://github.com/styleseat) 
+
 Python- Mobile
 *   [Kivy GitHub](https://github.com/kivy/kivy)
 *   [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
