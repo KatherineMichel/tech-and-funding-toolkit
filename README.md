@@ -3753,7 +3753,7 @@ Django Carrots (Python- Django)
 ASP
 *   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
-ASP.NET Home
+ASP.NET- Home
 *   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), 
 
 <!--
@@ -3837,7 +3837,7 @@ https://github.com/aspnet/live.asp.net
 
 -->
 
-ASP.NET GitHub
+ASP.NET- GitHub
 *   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
 *   [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
 *   [ASP.NET Razor GitHub](https://github.com/aspnet/Razor)
@@ -3846,7 +3846,7 @@ ASP.NET GitHub
 *   [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
 *   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
 
-ASP.NET Docs
+ASP.NET- Docs
 *   [ASP.NET Docs](http://docs.asp.net)
 *   [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
 *   [Installing ASP.NET 5 On Windows](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
@@ -3854,7 +3854,7 @@ ASP.NET Docs
 *   ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
 *   ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
 
-.NET and ASP.Net Heroku and AWS
+.NET and ASP.Net- Heroku and AWS
 *   [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
 *   [AWS Windows and .NET Developer Center](https://aws.amazon.com/net)
 *   [AWS SDK for .NET GitHub](https://github.com/aws/aws-sdk-net)
@@ -3873,7 +3873,7 @@ http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#co
 
 -->
 
-ASP.NET Boilerplate
+ASP.NET- Boilerplate
 *   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
 *   [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
 
@@ -4074,7 +4074,7 @@ Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure 
 *   [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
 *   [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
 
-Heroku- Buildpacks and Getting Started (Other than Node.js and Python)
+Heroku- Buildpacks and Getting Started (Other than Python, ASP.NET, and Node.js)
 *   [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
 *   [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
 *   [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
