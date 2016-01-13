@@ -3431,6 +3431,17 @@ Python- Django- Resources
 *   [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 *   [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
+Django Girls (Python- Django)
+*   [Django Girls GitHub](https://github.com/DjangoGirls) 
+*   [Django Girls Blog](http://blog.djangogirls.org)
+*   [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
+*   [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
+*   [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
+*   [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
+*   [Django Girls Organize](http://organize.djangogirls.org)  
+*   [Django Girls Coach](http://coach.djangogirls.org)  
+*   [Django Girls Resources](https://github.com/DjangoGirls/resources)  
+
 Python- Django- Sites
 *   [Django Sites](https://www.djangosites.org/with-source)  
 *   [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
@@ -3746,6 +3757,9 @@ Python- Django Tutorials (excluding Django Girls)
 *   [Light Weight Django](http://it-ebooks.info/book/2820)  
 *   [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 *   [Tango with Django Tutorial](http://www.tangowithdjango.com) 
+
+Django Carrots (Python- Django)
+*   [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 #### .NET, ASP, Visual Studio, WebMatrix
 
