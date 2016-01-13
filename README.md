@@ -4029,9 +4029,10 @@ DNS
 Cloud Computing- General
 *   [Cloud Computing Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing)  
 
-Private Cloud
+Private Cloud/Virtual Private Server
 *   [Convox](http://convox.com)
 *   [Librato](https://www.librato.com/heroku)
+*   [Linode (Used by Levels/Nomad List)](https://www.linode.com)
 
 IaaS- General and Alternatives to AWS
 *   [IaaS](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29)  
