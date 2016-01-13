@@ -3229,9 +3229,10 @@ Ruby
 *   [Ruby GitHub](https://github.com/ruby/ruby)  
 *   [Ruby Gems GitHub](https://github.com/rubygems/rubygems)  
 *   [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0/)  
-*   [Ruby Styleguide GitHub](https://github.com/styleguide/ruby)  
 *   [Rake GitHub](https://github.com/ruby/rake)  
 *   [Capistrano GitHub](https://github.com/capistrano/capistrano)  
+
+*   [Ruby Styleguide GitHub](https://github.com/styleguide/ruby) 
 
 Ruby- Executable Specification
 *   [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
@@ -3243,8 +3244,6 @@ Rails, Jekyll- Preferred Templates and Documents
 *   [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
 *   [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
 *   [Jekyll GitHub](https://github.com/jekyll/jekyll)  
-*   [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap) and [Jekyll Bootstrap Website (Clone repo) (Example Website) GitHub](https://github.com/plusjade/jekyllbootstrap.com)  
-*   [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 JavaScript
 *   [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
@@ -3353,11 +3352,6 @@ Node.js/PHP- WordPress- Preferred Templates and Documents
 *   [WordPress W3Schools Tags Reference](http://www.w3schools.com/tags)  
 *   [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
 *   [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
-
-PHP- Wordpress- Popular Themes
-*   [Bones GitHub](https://github.com/eddiemachado/bones)  
-*   [Roots GitHub](https://github.com/roots/roots)  
-*   [Underscore or _S GitHub](https://github.com/Automattic/_s)  
 
 WordPress Development
 *   [Wordpress Contributing](http://codex.wordpress.org/Contributing_to_WordPress)  
@@ -3608,18 +3602,9 @@ Python- Microframeworks and Template Engines
 *   [WebPy GitHub](https://github.com/webpy/webpy)
 
 Python- Django- Pinax
-*   [Pinax](http://pinaxproject.com)  
-*   [Pinax GitHub](https://github.com/pinax)  
-*   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
-*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
-*   [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
-*   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
-*   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
-*   [Pinax Symposion](https://github.com/pinax/symposion)  
+*   [Pinax](http://pinaxproject.com) 
 
 Python- Django- Cookiecutter (See also Packages)
-*   [Cookie Cutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
-*   [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django )
 *   [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
 *   [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
 
@@ -3895,11 +3880,7 @@ http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#co
 
 ASP.NET Boilerplate
 *   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
-*   [ASP.NET Boilerplate Module Zero GitHub](https://github.com/aspnetboilerplate/module-zero)
-*   [ASP.NET Boilerplate Templates GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-templates)
-*   [ASP.NET Boilerplate Samples GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-samples)
 *   [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
-*   [ASP.NET Boilerplate Event Cloud GitHub](https://github.com/aspnetboilerplate/eventcloud)
 
 W3Schools ASP.NET
 *   [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
@@ -3919,9 +3900,6 @@ WebMatrix
 
 .NET Platform as a Service
 *   [AppHarbor](https://appharbor.com)
-
-ASP.NET Example Websits
-*   [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
 
 https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
 
