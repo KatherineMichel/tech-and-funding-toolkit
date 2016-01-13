@@ -5820,6 +5820,7 @@ Laws, Theories, Logic
 *   [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
 *   [Flynn Effect Wikipedia](https://en.wikipedia.org/wiki/Flynn_effect)
 *   [Forcing Function Wikipedia](https://en.wikipedia.org/wiki/Forcing_function)
+*   [Free Rider Problem Wikipedia](https://en.wikipedia.org/wiki/Free_rider_problem)
 *   [Friendship Paradox Wikipedia](https://en.wikipedia.org/wiki/Friendship_paradox)
 *   [God's Algorithm Wikipedia](http://en.wikipedia.org/wiki/God%27s_algorithm)  
 *   [Godwin's Law Wikipedia](https://en.wikipedia.org/wiki/Godwin%27s_Law)
