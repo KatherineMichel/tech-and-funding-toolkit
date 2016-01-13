@@ -2818,8 +2818,11 @@ Apple Developer and Open Source
 Apple Developer Tools
 *   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
 *   [Xcode](https://developer.apple.com/xcode)
-*   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language)) 
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+<!--
+*   [Swift](https://developer.apple.com/swift) and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
+-->
 
 Apple- Heroku
 *   [Heroku Toolbelt for Mac OS X](https://toolbelt.heroku.com)
