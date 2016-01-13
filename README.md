@@ -114,7 +114,9 @@ Table of Contents
   - [Metrics](#metrics)
   - [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
   - [Internationalization](#internationalization)
+
 - [Popular Tools](#popular-tools)
+
 - [General Resources](#general-resources)
   - [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
   - [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
