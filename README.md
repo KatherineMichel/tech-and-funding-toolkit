@@ -3408,8 +3408,9 @@ Pip
 *   [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
 
 Virtual Environment
-*   [Virtualenv GitHub](https://github.com/pypa/virtualenv)  
-*   [Virtualenvwrapper-win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
+*   [Virtualenv GitHub](https://github.com/pypa/virtualenv) and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
+*   [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
+*   [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
   
 CPython
 *   [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
@@ -3482,7 +3483,7 @@ Python- Django- Major Organizations and Projects that Use Django (Excluding Temp
 Python- Mobile
 *   [Kivy GitHub](https://github.com/kivy/kivy)
 *   [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
-*   [VOC Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
+*   [VOC Read the Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
 *   Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
 
 #### Python and Django Contributing
@@ -3553,7 +3554,7 @@ Python- Packages/Libraries
 
 Python and Django- Creating Packages
 *   [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-*   [Cookiecutter PyPackage](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
+*   [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
 *   [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
 *   [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 *   [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
@@ -3642,7 +3643,7 @@ Python- Django- Cookiecutter (See also Packages)
 #### Python and Django Useful Tools
 
 Python- Django- Debug Toolbar
-*   [Django Debug Toolbar](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
+*   [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
 *   [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
 
 Python- Django- Migrations
@@ -3726,7 +3727,7 @@ Python- Django- Other CMS and E-Commerce Options
 *   [Mezzanine Docs](http://mezzanine.jupo.org/docs)  
 *   [Mezzanine Sites](http://mezzanine.jupo.org/sites)  
 *   [Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
-*   [Oscar Docs](http://django-oscar.readthedocs.org/en/latest) and [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
+*   [Oscar Read the Docs](http://django-oscar.readthedocs.org/en/latest) and [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
 *   [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
  
 Python- Django- TinyMCE
@@ -3743,11 +3744,11 @@ Python- Django- Search
 
 Python- Imaging Library
 *   [Python Imaging Library](http://www.pythonware.com/products/pil)  and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
-*   [Python Imaging Library Docs](https://pillow.readthedocs.org)  
+*   [Python Imaging Library Read the Docs](https://pillow.readthedocs.org)  
 *   [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
 
 Python- Django- Forms
-*   [Crispy Forms](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+*   [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
 
 #### Python and Django Books and Tutorials
 
@@ -4161,7 +4162,7 @@ Selenium (Automated Testing)
 CGI and WSGI (Web Server API)
 *   [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 *   [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
-*   [WSGI](http://wsgi.readthedocs.org/en/latest)  
+*   [WSGI Read the Docs](http://wsgi.readthedocs.org/en/latest)  
 *   [WSGI Google Code](https://code.google.com/p/modwsgi)  
 *   [WSGI Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
 *   [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
@@ -4176,7 +4177,7 @@ Gunicorn (Python WSGI HTTP Server for UNIX)
 *   [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
 
 Waitress (Production-Quality Pure-Python WSGI Server)
-*   [Waitress](http://waitress.readthedocs.org/en/latest)  
+*   [Waitress Read the Docs](http://waitress.readthedocs.org/en/latest)  
 *   [Waitress GitHub](https://github.com/Pylons/waitress)  
 *   [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
 
@@ -4911,7 +4912,7 @@ Python- Statistics Stack- GGPlot
 *   [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
 
 Python- Statistics Stack- Nose Reference
-*   [Nose Docs](https://nose.readthedocs.org/en/latest)  
+*   [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest)  
 
 Python- Statistics Stack- Scikit-Learn
 *   [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
@@ -4938,7 +4939,7 @@ Python- Integration with Other Languages
 *   [PyMatLab PyPi](https://pypi.python.org/pypi/pymatlab)  
 *   [RPy2](http://rpy.sourceforge.net)  
 *   [RPython](http://rpython.r-forge.r-project.org)  
-*   [RPython( Translation Toolchain and Other Uses)](http://pypy.readthedocs.org/en/latest/coding-guide.html)  
+*   [RPython( Translation Toolchain and Other Uses) Read the Docs](http://pypy.readthedocs.org/en/latest/coding-guide.html)  
 
 Python- Deep Learning- PyBrain
 *   [PyBrain](http://pybrain.org) and [PyBrain GitHub](https://github.com/pybrain/pybrain) 
