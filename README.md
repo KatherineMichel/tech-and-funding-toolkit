@@ -3375,6 +3375,10 @@ Node.js/PHP- WordPress- Preferred Templates and Documents
 *   [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
 *   [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
 
+WP Engine
+*   [WP Engine](https://wpengine.com) 
+*   [WP Engine Staging](http://wpengine.com/support/staging) 
+
 WordPress Development
 *   [WordPress Contributing](http://codex.wordpress.org/Contributing_to_WordPress)  
 *   [WordPress: Good First Bugs](https://core.trac.wordpress.org/tickets/good-first-bugs)  
