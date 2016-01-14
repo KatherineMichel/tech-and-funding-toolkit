@@ -3135,15 +3135,16 @@ Dot Files
 *   [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
 *   [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
 *   [Dotfiles](http://dotfiles.github.io)  
+*   [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
+*   [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
 *   [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
 *   [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
 *   [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
-*   [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-*   [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
-*   [YADR GitHub](https://github.com/skwp/dotfiles)
-*   [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
+*   [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
 *   [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
-*   [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
+*   [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
+*   [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+*   [YADR GitHub](https://github.com/skwp/dotfiles)
 
 Startup Class Dotfiles and AWS EC2 Setup
 *   [Course Dotfiles](https://github.com/startup-class/dotfiles)  
@@ -3427,16 +3428,14 @@ Python and Django Conferences- Proposal Examples
 *   Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
 *   [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
 
-<!--
-http://2015.djangocon.eu/proposals/speaker-mentors
-https://2015.djangocon.us/speaking/mentors
--->
+Python and Django Conferences- Speaker Mentors
+*   [DjangoCon E.U. 2016 Speaking Mentors](https://2016.djangocon.eu/cfp)  
+*   [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors)  
+*   [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors)  
 
 Python- Django
-*   [Django](https://www.djangoproject.com)  
+*   [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 *   [Django Documentation](https://docs.djangoproject.com)  
-*   [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
-*   [Django GitHub](https://github.com/django/django) 
 
 Python- Django Jobs
 *   [Django Jobs](https://www.djangojobs.net) 
@@ -3489,6 +3488,9 @@ Python- Mobile
 
 Python- Django- Contributing
 *   [Django Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+
+Python- PEP 0008 (Style Guide for Python Code)
+*   [PEP 0008](https://www.python.org/dev/peps/pep-0008) 
 
 <!--
 
