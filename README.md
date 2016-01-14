@@ -2969,6 +2969,9 @@ Operating Systems
 *   [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
 *   [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
+32 Bit vs. 64 Bit
+*   [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
+
 Browser
 *   [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
 *   [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
