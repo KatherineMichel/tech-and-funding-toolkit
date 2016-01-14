@@ -3861,7 +3861,7 @@ WebMatrix
 *   [WebMatrix](http://www.microsoft.com/web/webmatrix)
 
 Nuget
-*   [NuGet](https://www.nuget.org)
+*   [NuGet](https://www.nuget.org) and [Nuget Packages](https://www.nuget.org/packages)
 
 Mono
 *   [Mono Project](http://www.mono-project.com) and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
@@ -5515,6 +5515,7 @@ Google
 *   [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
 *   [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
 *   [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
+*   [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
 *   [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
 *   [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
 *   [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
