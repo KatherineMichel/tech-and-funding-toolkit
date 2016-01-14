@@ -3269,7 +3269,7 @@ Rails, Jekyll- Preferred Templates and Documents
 *   [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
 *   [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
 *   [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
-*   [Jekyll GitHub](https://github.com/jekyll/jekyll)  
+*   [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
 
 JavaScript
 *   [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
@@ -3732,6 +3732,9 @@ Python- Django- Other CMS and E-Commerce Options
  
 Python- Django- TinyMCE
 *   [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
+
+Python- Django- Requests
+*   [Requests](https://pypi.python.org/pypi/requests) and [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests)
 
 Python- Django- Python Social Auth
 *   [Python Social Auth](https://github.com/omab/python-social-auth)  
