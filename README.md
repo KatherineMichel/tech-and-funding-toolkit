@@ -3793,6 +3793,7 @@ Django Carrots (Python- Django)
 
 .NET
 *   [Microsoft.github.io](http://microsoft.github.io)  
+*   [Microsoft .NET](http://www.microsoft.com/net) 
 *   [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
 *   [Dotnet GitHub](https://github.com/dotnet)  
 *   [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
@@ -3801,7 +3802,7 @@ ASP
 *   [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
 ASP.NET- Home
-*   [ASP.NET](http://www.asp.net), [ASP.NET Downloads](http://www.asp.net/downloads), 
+*   [ASP.NET](http://www.asp.net) and [ASP.NET Downloads](http://www.asp.net/downloads)
 
 ASP.NET- GitHub
 *   [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
@@ -3810,7 +3811,6 @@ ASP.NET- GitHub
 *   [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
 *   [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
 *   [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
-*   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
 
 ASP.NET- Docs
 *   [ASP.NET Docs](http://docs.asp.net)
@@ -3821,6 +3821,7 @@ ASP.NET- Docs
 *   ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
 
 .NET and ASP.Net- Heroku
+*   [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
 *   [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
 
 .NET and ASP.Net- AWS
@@ -3830,6 +3831,10 @@ ASP.NET- Docs
 *   [AWS Toolkit for Visual Studio](https://aws.amazon.com/visualstudio)
 *   [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
 *   [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
+
+ASP.NET- Docker
+*   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
+*   [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
 
 ASP.NET- Boilerplate
 *   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
