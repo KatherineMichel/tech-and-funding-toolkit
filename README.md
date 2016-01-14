@@ -2866,6 +2866,7 @@ Apple- Windows
 *   [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 *   [Bootcamp (Free)](https://support.apple.com/en-us/HT201468)  
 *   [Parallels](http://www.parallels.com)
+*   [VMware Fusion](http://www.vmware.com/products/fusion)
 *   [Wine](https://www.winehq.org)
 *   [Winclone](http://twocanoes.com/products/mac/winclone)
 *   External Hard Drive, USB SSD, Western Digital Terabyte
@@ -3493,6 +3494,12 @@ Python- PEP 0008 (Style Guide for Python Code)
 *   [PEP 0008](https://www.python.org/dev/peps/pep-0008) 
 
 <!--
+https://code.djangoproject.com/wiki/Version1.10Roadmap
+https://code.djangoproject.com/wiki/Version1.9Roadmap
+
+http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
+https://github.com/pinax/pinax/issues/103
+https://github.com/pinax/pinax/issues/102
 
 Heroku Commands to Deploy and Update
 *   Follow normal instructions (cd name before deploying): [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
@@ -3507,9 +3514,6 @@ See Also
 *   [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
 
 https://github.com/django/deps
-
-https://code.djangoproject.com/wiki/Version1.10Roadmap
-https://code.djangoproject.com/wiki/Version1.9Roadmap
 
 https://github.com/orgs/django/people
 https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list
@@ -3831,8 +3835,18 @@ Visual Studio
 WebMatrix
 *   [WebMatrix](http://www.microsoft.com/web/webmatrix)
 
+Nuget
+*   [NuGet](https://www.nuget.org)
+
+Mono
+*   [Mono Project](http://www.mono-project.com) and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
+*   [Introduction to Mono on MacOS X](http://www.mono-project.com/docs/about-mono/supported-platforms/osx)
+
 .NET Platform as a Service
 *   [AppHarbor](https://appharbor.com)
+
+Xamarin (Visual Studio Community Mobile Development Partner)
+*   [Xamarin](https://xamarin.com/platform)
 
 https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
 
