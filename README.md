@@ -3817,11 +3817,16 @@ ASP.NET- Docs
 *   ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
 *   ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
 
-.NET and ASP.Net- Heroku and AWS
+.NET and ASP.Net- Heroku
 *   [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+
+.NET and ASP.Net- AWS
 *   [AWS Windows and .NET Developer Center](https://aws.amazon.com/net)
 *   [AWS SDK for .NET GitHub](https://github.com/aws/aws-sdk-net)
 *   ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
+*   [AWS Toolkit for Visual Studio](https://aws.amazon.com/visualstudio)
+*   [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
+*   [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
 ASP.NET- Boilerplate
 *   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
