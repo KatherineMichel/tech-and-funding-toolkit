@@ -4146,6 +4146,7 @@ Python- kubernetes
 Docker
 *   [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 *   [Docker GitHub](https://github.com/docker/docker)  
+*   [Docker Hub](https://hub.docker.com)
 *   [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
 VMware, Vagrant, VirtualBox
@@ -4164,7 +4165,7 @@ Ansible (Automation and Configuration Management)
 *   [Ansible AWS](http://www.ansible.com/aws)
 
 Salt (Automation and Configuration Management)
-*   [salt GitHub](https://github.com/saltstack)
+*   [Salt GitHub](https://github.com/saltstack)
 *   [Salt Docs](http://docs.saltstack.com/en/latest/contents.html)  
 *   [Salt Formulas](http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html)  
 
