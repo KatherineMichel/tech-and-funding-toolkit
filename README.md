@@ -1349,6 +1349,7 @@ STEM Journals
 *   [New Scientist](https://www.newscientist.com)
 *   [Public Library of Science](https://www.plos.org)
 *   [Science News](https://www.sciencenews.org)
+*   [Social Sciences Research Network](http://www.ssrn.com/en)
 
 Tech Aggregated, Question and Answer Forums
 *   [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
@@ -3835,6 +3836,9 @@ ASP.NET- Docs
 ASP.NET- Docker
 *   [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
 *   [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
+
+ASP.NET- Yeoman Generator
+*   [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
 
 ASP.NET- Boilerplate
 *   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
