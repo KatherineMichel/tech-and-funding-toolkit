@@ -2690,7 +2690,7 @@ Data Styleguide GitHub
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 *   [The Figure 53 Company Handbook](http://figure53.com/handbook)
-*   [Hanno Logbook](https://logbook.hanno.co) and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+*   [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
 *   [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
 *   [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
 *   [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles](https://github.com/thoughtbot/dotfiles)
@@ -3015,6 +3015,7 @@ Semver
 *   [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 
 <!--
+https://github.com/mojombo/semver
 [Semver Org GitHub](https://github.com/mojombo/semver.org)
 https://github.com/heroku/12factor
 -->
