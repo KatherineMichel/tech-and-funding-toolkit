@@ -77,7 +77,8 @@ Table of Contents
 
 - [Development Environment and Programming](#development-environment-and-programming)
   - [Computer Basics](#computer-basics)
-  - [GitHub and Markdown](#github-and-markdown)
+  - [Semver and 12 Factor App](#semver-and-12-factor-app)
+  - [Git and Markdown](#git-and-markdown)
   - [More Command Line and Shell](#more-command-line-and-shell)
   - [Dot Files](#dot-files)
 
@@ -3005,7 +3006,20 @@ Hidden File and Hidden Directory
 Symbolic Link
 *   [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
-#### GitHub and Markdown
+#### Semver and 12 Factor App
+
+Semver
+*   [Semver](http://semver.org) 
+
+12 Factor App
+*   [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+
+<!--
+[Semver Org GitHub](https://github.com/mojombo/semver.org)
+https://github.com/heroku/12factor
+-->
+
+#### Git and Markdown
 
 Git
 *   [Git GitHub](https://github.com/git/git)  
