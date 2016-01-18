@@ -2843,9 +2843,12 @@ Apple Developer and Open Source
 *   [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
 
 Apple Developer Tools
-*   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), and [Homebrew GitHub](https://github.com/Homebrew/homebrew)
+*   [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
 *   [Xcode](https://developer.apple.com/xcode)
 *   [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+PostgreSQL
+*   [Postresapp.com](http://postgresapp.com) and [Postresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
 
 Apple- Swift
 *   [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Apple Swift](https://developer.apple.com/swift), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
@@ -2853,6 +2856,9 @@ Apple- Swift
 
 Apple- Heroku
 *   [Heroku Toolbelt for Mac OS X](https://toolbelt.heroku.com)
+
+Virtual Box and Vagrant
+*   [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
 
 Apple Presentation and Design (See also Keynotopia)
 *   [Keynote](https://www.apple.com/mac/keynote)
