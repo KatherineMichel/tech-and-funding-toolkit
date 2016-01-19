@@ -3714,6 +3714,7 @@ Python- Python/Django- Internationalization and Localization, Translation
 
 GeoDjango
 *   [GeoDjango](http://geodjango.org)  
+*   [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
 
 PostGIS (Spatial Database Extender for PostgreSQL)
 *   [PostGIS](http://postgis.net)  
