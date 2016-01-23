@@ -51,8 +51,7 @@ Table of Contents
   * [Basics](#basics)
   * [Code Sprints](#code-sprints) 
   * [Government Digital](#government-digital)
-  * [Google Ventures Research and Design Sprint](#google-ventures-research-and-design-sprint)
-  * [Google Design Sprint](#google-design-sprint)
+  * [Google Research and Design Sprint](#google-research-and-design-sprint)
   * [Non-Google Ventures Research and Design Sprints](#non-google-ventures-research-and-design-sprints)
   * [More Research and Design Toolkits](#more-research-and-design-toolkits) 
 
@@ -2043,6 +2042,9 @@ MediaPublic
 
 #### Government Digital
 
+See Also
+* [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
+
 GitHub Government 
 * [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
 
@@ -2067,6 +2069,9 @@ U.K. Government
 * [Data Gov U.K.](https://github.com/datagovuk) 
 -->
 
+U.S. Gov., U.K. Gov., Usability Gov., Australian Gov., Presidential Innovation Fellows, Code for America- GitHub: See
+* [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
+
 U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
 * [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
 * [C.I.O. Playbook GitHub](https://github.com/whitehouse/playbook) 
@@ -2074,9 +2079,6 @@ U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
 U.S. Gov.- General Services Administration- GitHub
 * [G.S.A. Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
 * [G.S.A. U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
-
-U.S. Gov.- Presidential Innovation Fellows- GitHub
-* [Presidential Innovation Fellows Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
 
 U.S. Gov- Consumer Financial Protection Bureau- GitHub
 * [Consumer Financial Protection Bureau GitHub](http://cfpb.github.io)
@@ -2098,18 +2100,10 @@ U.S. Gov- 18F- GitHub
 * [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
 * [18F HTTPS](https://github.com/18F/https) 
 
-U.S. Gov- Code for America- GitHub
-* [Code for America GitHub](https://github.com/codeforamerica/codeforamerica.org)
-
-U.K. Gov.- GitHub
-* [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
-* [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
-* [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
-
 Australian Gov.- GitHub
-* [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard) 
+* [Australia Digital Transformation Office Digital Service Standard GitHub](https://github.com/AusDTO/Digital-Service-Standard) 
 
-Australian Gov.: See
+U.S. Gov., U.K. Gov., Usability Gov., Australian Gov.: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 BBC
@@ -2124,20 +2118,11 @@ The Prince's Trust
 * [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
 * [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
 
-U.K. Gov.: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
 U.K. Design Council
 * [U.K. Design Council](http://www.designcouncil.org.uk)
 
 U.S. Gov.: Code for America
 * [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
-
-U.S. Gov.: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-Usability Gov.: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 U.S. Aid Learning Lab
 * [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
@@ -2146,14 +2131,9 @@ U.S. Aid Learning Lab
 * [U.S. Aid Library](http://usaidlearninglab.org/library)
 * [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
 
-#### Google Ventures Research and Design Sprint
+#### Google Research and Design Sprint
 
-See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-#### Google Design Sprint
-
-See
+Google and Google Ventures
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 #### Non-Google Ventures Research and Design Sprints
