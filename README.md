@@ -2045,6 +2045,21 @@ MediaPublic
 GitHub Government 
 * [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
 
+U.S. Gov- 18F- GitHub
+* [18F GitHub](https://github.com/18F)
+* [18F Pages GitHub](https://github.com/18F/pages)
+* [18F Guides Template GitHub](https://github.com/18F/guides-template)
+* [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
+* [18F Analytics Standards GitHub](https://github.com/18F/analytics-standards), and [18F API Standards GitHub](https://github.com/18f/api-standards)
+* [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
+* [18F HTTPS](https://github.com/18F/https) 
+
+U.S. Gov- Consumer Financial Protection Bureau- GitHub
+* [Consumer Financial Protection Bureau GitHub](http://cfpb.github.io)
+* [Consumer Financial Protection Bureau Source Code Policy GitHub](https://github.com/cfpb/source-code-policy)
+* [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
+* [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
+
 U.K. Gov.- GitHub
 * [GOV.UK GitHub](https://github.com/alphagov)
 * [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
@@ -2054,19 +2069,16 @@ U.K. Gov.- GitHub
 Australian Gov.- GitHub
 * [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard) 
 
-
 <!--
-
 Australia, Canada, New Zealand, U.K., U.S.
 Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, Venezuela
 
 European Union
 International
 South Africa
-
 -->
 
-Australian Gov.: See Also
+Australian Gov.: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 * [Australia Government Data Gov GitHub](http://data.gov.au) 
@@ -2083,18 +2095,27 @@ The Prince's Trust
 * [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
 * [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
 
-U.K. Gov.: See Also
+U.K. Gov.: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 U.K. Design Council
 * [U.K. Design Council](http://www.designcouncil.org.uk)
 
-[18F GitHub](https://github.com/18F)
-[18F Guides Template GitHub](https://github.com/18F/pages)
-[18F Open Source Policy](https://github.com/18F/open-source-policy), [18F Analytics Standards](https://github.com/18F/analytics-standards), and [18F API Standards](https://github.com/18f/api-standards)
-[18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
-[CIO Playbook GitHub](https://github.com/whitehouse/playbook) 
-[Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
+
+
+* [CIO Playbook GitHub](https://github.com/whitehouse/playbook) 
+* [GSA Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
+
+18F- Gov. 
+
+U.S. Gov.- GitHub
+* [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
+* [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+* [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
+
+
+CfA GitHub
+* [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
 
 U.S. Gov.
 * [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
@@ -2106,36 +2127,18 @@ U.S. Gov.
 * [CIO Tech Federal Acquisition Regulation (FAR) Playbook](https://playbook.cio.gov/techfar), [CIO Tech Federal Acquisition Regulation (FAR) Playbook GitHub](https://github.com/WhiteHouse/playbook/blob/gh-pages/_includes/techfar-online.md), and [CIO Tech Federal Acquisition Regulation (FAR) Playbook PDF](https://playbook.cio.gov/assets/TechFAR%20Handbook_2014-08-07.pdf)
 * [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 * [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
-* [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
 * [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov) 
 
 https://www.vets.gov
 https://www.vets.gov/playbook
 https://pages.18f.gov/accessibility/pagetitles
 
-https://github.com/18F/pages
-https://github.com/18F/guides-template
-http://cfpb.github.io
-
 [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual)
 
-18F- Gov. 
-* [18F Open Source Guide Website Code GitHub](https://github.com/18f/open-source-guide)
-* [18F's TLS Standards, Practices, and Operations](https://github.com/18F/tls-standards) 
-
-U.S. Gov.- GitHub
-* [CIO Playbook Website Code GitHub](https://github.com/WhiteHouse/playbook)
-* [Consumer Financial Protection Bureau Source Code Policy GitHub](hhttps://github.com/cfpb/source-code-policy)
-* [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
-* [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
-* [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
-* [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
-* [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
-
-U.S. Gov.: See Also
+U.S. Gov.: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
-Usability Gov.: See Also
+Usability Gov.: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 U.S. Aid Learning Lab
