@@ -2086,21 +2086,14 @@ The Prince's Trust
 * [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
 * [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
 
+U.K. Gov.: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
 U.K. Gov.
 * [Digital Transformation](https://www.gov.uk/transformation) and [Digital Transformation Blog](https://digitaltransformation.blog.gov.uk)
 * [GOV.UK GitHub](https://github.com/alphagov)
 * [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
-* [U.K. Government Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default), [Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-standard.html), and [Design Standards](https://www.gov.uk/design-principles)
 * [U.K. Government Performance](https://www.gov.uk/performance) and [U.K. Government Performance by Device Type](https://www.gov.uk/performance/site-activity/device-type)
-* [U.K. Government Standards Hub](http://standards.data.gov.uk)
-* [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
-* [Governance Principles Blog Post](https://digitaltransformation.blog.gov.uk/2014/06/24/governance-principles) and [Governance Principles](https://www.gov.uk/service-manual/governance/governance-principles)
-* [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases/index.html), [User Centred Design in Alpha and Beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
-* [Discovery](https://www.gov.uk/service-manual/phases/discovery.html) and [Governing the Discovery Phase](https://www.gov.uk/service-manual/governance/governing-the-discovery-phase.html)
-* [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Ideal Alphas](https://www.gov.uk/service-manual/phases/ideal-alphas), and [Governing the Alpha Phase](https://www.gov.uk/service-manual/governance/governing-the-alpha-phase.html)
-* [Beta](https://www.gov.uk/service-manual/phases/beta) and [Governing the Beta Phase](https://www.gov.uk/service-manual/governance/governing-the-beta-phase.html)
-* [Live](https://www.gov.uk/service-manual/phases/live) and [Governing the Live Phase](https://www.gov.uk/service-manual/governance/governing-the-live-phase.html)
-* [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
 * [Assisted Digital Information Template](https://www.gov.uk/service-manual/assets/documents/assisted-digital-information-template.pdf)
 * [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html), [Assisted Digital Action Plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html), and [Researching Assisted Digital Users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
 * [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
@@ -2150,8 +2143,8 @@ U.S. Gov.- GitHub
 * [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
 * [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
 
-Usability Gov.
-* [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
+Usability Gov.: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 U.S. Aid Learning Lab
 * [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
@@ -2181,12 +2174,8 @@ Hanno Version
 IBM Design Language
 * [IBM Design Language](http://www.ibm.com/design/language)
 
-Thoughtbot Version
-* [Thoughtbot's Product Design Sprint Blog Post](http://robots.thoughtbot.com/the-product-design-sprint), [Thoughtbot's DIY Design Sprints Blog Post](https://robots.thoughtbot.com/diy-design-sprints), [Thoughtbot Playbook Design Sprint](http://playbook.thoughtbot.com/#product-design-sprint), [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint), [Thoughtbot Design Sprint- iOS Coaching](https://robots.thoughtbot.com/ios-coaching-product-design-sprint)
-* [Design Sprint Book](http://www.designsprintbook.com), [Design Sprint Book Amazon](http://www.amazon.com/gp/product/1491923172/ref=olp_product_details?ie=UTF8&me=), and [How to conduct a Design Sprint](http://radar.oreilly.com/2015/05/how-to-conduct-a-design-sprint.html)
-* [Template for finding people on Craigslist](https://gist.github.com/croaky/1a1ff3902b4321984b0b) and [A simple consent form](https://gist.github.com/croaky/bf97025689b019293f78), and [NDA](https://thoughtbot.com/documents/thoughtbot-mutual-nda.pdf)
-* [Basecamp: A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
-* [Trello Design Sprint Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
+Thoughtbot Version: See Also
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 #### More Research and Design Toolkits
 
@@ -2205,14 +2194,8 @@ Nesta DIY
 * [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills), and [Nesta Publications](http://www.nesta.org.uk/publications)
 * [Nesta DIY](http://diytoolkit.org), [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit), and [Nesta DIY Tools](http://diytoolkit.org/tools)
 
-Nielson Norman
-* [Nielson Norman Group](http://www.nngroup.com)
-* [Nielson Norman Group: How Many Test Users in a Usability Study?](http://www.nngroup.com/articles/how-many-test-users)
-* [Why You Only Need to Test with 5 Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users)
-* [Nielson Norman Group Free Reports](http://www.nngroup.com/reports/free)
-* [Nielson Norman Group How to Recruit Participants for Usability Studies](http://www.nngroup.com/reports/how-to-recruit-participants-usability-studies)
-* [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
-* [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
+Nielson Norman: See Also
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 Stanford Institute of Design
 * [An Introduction to Design Thinking](https://dschool.stanford.edu/sandbox/groups/k12/wiki/c739e/attachments/ade8c/An_Intro_to_DT_Slides_07_10_09.pdf) and [An Introduction to Design Thinking Process Guide](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
