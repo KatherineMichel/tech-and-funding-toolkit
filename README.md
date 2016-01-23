@@ -4707,78 +4707,78 @@ Bayesian (Supervised Learning)
 * [Bayes' Theory Wikipedia](http://en.wikipedia.org/wiki/Bayes'_theorem)  
 
 Deep Learning and Neural Networks
-*   [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
-*   [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-*   [Artificial Neural Networks Wikipedia](http://en.wikibooks.org/wiki/Artificial_Neural_Networks)  
+* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+* [Artificial Neural Networks Wikipedia](http://en.wikibooks.org/wiki/Artificial_Neural_Networks)  
 
 Recommendations and Filtering
-*   [Cold Start Problem Wikipedia](http://en.wikipedia.org/wiki/Cold_start)  
-*   [Recommendation Wikipedia](http://en.wikipedia.org/wiki/Recommendation)  
-*   [Recommender System Wikipedia](http://en.wikipedia.org/wiki/Recommender_system)  
-*   [Information Filtering System Wikipedia](http://en.wikipedia.org/wiki/Information_filtering_system)  
-*   [Collaborative Filtering Wikipedia](http://en.wikipedia.org/wiki/Collaborative_filtering)  
+* [Cold Start Problem Wikipedia](http://en.wikipedia.org/wiki/Cold_start)  
+* [Recommendation Wikipedia](http://en.wikipedia.org/wiki/Recommendation)  
+* [Recommender System Wikipedia](http://en.wikipedia.org/wiki/Recommender_system)  
+* [Information Filtering System Wikipedia](http://en.wikipedia.org/wiki/Information_filtering_system)  
+* [Collaborative Filtering Wikipedia](http://en.wikipedia.org/wiki/Collaborative_filtering)  
 
 Natural Language Processing- General
-*   [Natural Language Processing Wikipedia](http://en.wikipedia.org/wiki/Natural_language_processing)  
+* [Natural Language Processing Wikipedia](http://en.wikipedia.org/wiki/Natural_language_processing)  
 
 Text Mining, Sentiment Analysis- General
-*   [Text Mining Wikipedia](http://en.wikipedia.org/wiki/Text_mining)  
-*   [List of Text Mining Software Wikipedia](http://en.wikipedia.org/wiki/List_of_text_mining_software)  
-*   [Sentiment Analysis (Opinion Mining) Wikipedia)](http://en.wikipedia.org/wiki/Sentiment_analysis)  
+* [Text Mining Wikipedia](http://en.wikipedia.org/wiki/Text_mining)  
+* [List of Text Mining Software Wikipedia](http://en.wikipedia.org/wiki/List_of_text_mining_software)  
+* [Sentiment Analysis (Opinion Mining) Wikipedia)](http://en.wikipedia.org/wiki/Sentiment_analysis)  
 
 RegEx
-*   [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-*   [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org)  
+* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
+* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org)  
 
 Web Crawling and Scraping
-*   [Web Scraping Wikipedia](http://en.wikipedia.org/wiki/Web_scraping)  
-*   [Web Crawler Wikipedia](http://en.wikipedia.org/wiki/Web_crawler)  
-*   [Web Indexing Wikipedia](http://en.wikipedia.org/wiki/Web_indexing)  
-*   [Data Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping)  
-*   [Open Content Wikipedia](http://en.wikipedia.org/wiki/Open_content)  
-*   [Scraper Site Wikipedia](http://en.wikipedia.org/wiki/Scraper_site)  
-*   [Contact Scraping Wikipedia](http://en.wikipedia.org/wiki/Contact_scraping)  
-*   [Screen Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping#Screen_scraping)  
-*   [Wrapper (Data Mining) Wikipedia](http://en.wikipedia.org/wiki/Wrapper_(data_mining))  
+* [Web Scraping Wikipedia](http://en.wikipedia.org/wiki/Web_scraping)  
+* [Web Crawler Wikipedia](http://en.wikipedia.org/wiki/Web_crawler)  
+* [Web Indexing Wikipedia](http://en.wikipedia.org/wiki/Web_indexing)  
+* [Data Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping)  
+* [Open Content Wikipedia](http://en.wikipedia.org/wiki/Open_content)  
+* [Scraper Site Wikipedia](http://en.wikipedia.org/wiki/Scraper_site)  
+* [Contact Scraping Wikipedia](http://en.wikipedia.org/wiki/Contact_scraping)  
+* [Screen Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping#Screen_scraping)  
+* [Wrapper (Data Mining) Wikipedia](http://en.wikipedia.org/wiki/Wrapper_(data_mining))  
 
 Graph and Tree Traversal
-*   [Graph Traversal Wikipedia](http://en.wikipedia.org/wiki/Graph_traversal)  
-*   [Tree Traversal Wikipedia](http://en.wikipedia.org/wiki/Tree_traversal) 
+* [Graph Traversal Wikipedia](http://en.wikipedia.org/wiki/Graph_traversal)  
+* [Tree Traversal Wikipedia](http://en.wikipedia.org/wiki/Tree_traversal) 
 
 Statistical Packages
-*   [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
-*   [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
-*   [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
+* [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
+* [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
+* [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
 
 Facebook and Google Research
-*   [Facebook Research](https://research.facebook.com)  
-*   [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
-*   [Facebook Open Compute](http://www.opencompute.org)  
-*   [Facebook Code](https://code.facebook.com)
-*   [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
-*   [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
+* [Facebook Research](https://research.facebook.com)  
+* [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
+* [Facebook Open Compute](http://www.opencompute.org)  
+* [Facebook Code](https://code.facebook.com)
+* [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
+* [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
 
 Open-Source Machine Learning and Infrastructure
-*   [AddThis: Hydra GitHub](https://github.com/addthis/hydra)
-*   [Airbnb: Aerosolve GitHub](https://github.com/airbnb/aerosolve)
-*   [Amazon Web Services: Machine Learning Samples GitHub](https://github.com/awslabs/machine-learning-samples)
-*   [Cisco Systems: Cognitive GitHub](https://github.com/CiscoSystems/cognitive)
-*   [Cloudera: ML GitHub](https://github.com/cloudera/ml)
-*   [Cloudera: Oryx GitHub](https://github.com/cloudera/oryx) and [Cloudera: Oryx 2 GitHub](https://github.com/OryxProject/oryx)
-*   [EdX: EASE](https://github.com/edx/ease)
-*   [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials), and [Facebook: Torch Cheatsheet GitHub](https://github.com/torch/torch7/wiki/Cheatsheet)
-*   [Facebook: Torch Extension GitHub](https://github.com/facebook/fbtorch), [Facebook: Torch/CUNN Extension GitHub](https://github.com/facebook/fbcunn)
-*   [Twitter Torch Autograd GitHub](https://github.com/twitter/torch-autograd)
-*   [Google: DeepDream](https://github.com/google/deepdream) 
-*   [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-*   [Google: TensorFlow Scikit Flow GitHub](https://github.com/google/skflow) and [Introduction to Scikit Flow and why you want to start learning TensorFlow](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.1bodcv3y9)
-*   [Google: Pretty Tensor GitHub](https://github.com/google/prettytensor) 
-*   [Microsoft Azure: Machine Learning](https://studio.azureml.net), [Microsoft Azure: Machine Learning-Data Science GitHub](https://github.com/Azure/Azure-MachineLearning-DataScience), [Microsoft Azure: Machine Learning-Client Library Python GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python), and [Microsoft Azure: Machine Learning-Client Library R GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R)
-*   [Microsoft: Distributed Machine Learning Toolkit](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
-*   [OpenStack: Cognitive (MLaaS) GitHub](https://github.com/openstack/cognitive)
-*   [Samsung: Veles GitHub](https://github.com/Samsung/veles) and [Samsung: Veles GitHub](https://github.com/Samsung/veles.znicz)
-*   [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
-*   [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
+* [AddThis: Hydra GitHub](https://github.com/addthis/hydra)
+* [Airbnb: Aerosolve GitHub](https://github.com/airbnb/aerosolve)
+* [Amazon Web Services: Machine Learning Samples GitHub](https://github.com/awslabs/machine-learning-samples)
+* [Cisco Systems: Cognitive GitHub](https://github.com/CiscoSystems/cognitive)
+* [Cloudera: ML GitHub](https://github.com/cloudera/ml)
+* [Cloudera: Oryx GitHub](https://github.com/cloudera/oryx) and [Cloudera: Oryx 2 GitHub](https://github.com/OryxProject/oryx)
+* [EdX: EASE](https://github.com/edx/ease)
+* [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials), and [Facebook: Torch Cheatsheet GitHub](https://github.com/torch/torch7/wiki/Cheatsheet)
+* [Facebook: Torch Extension GitHub](https://github.com/facebook/fbtorch), [Facebook: Torch/CUNN Extension GitHub](https://github.com/facebook/fbcunn)
+* [Twitter Torch Autograd GitHub](https://github.com/twitter/torch-autograd)
+* [Google: DeepDream](https://github.com/google/deepdream) 
+* [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+* [Google: TensorFlow Scikit Flow GitHub](https://github.com/google/skflow) and [Introduction to Scikit Flow and why you want to start learning TensorFlow](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.1bodcv3y9)
+* [Google: Pretty Tensor GitHub](https://github.com/google/prettytensor) 
+* [Microsoft Azure: Machine Learning](https://studio.azureml.net), [Microsoft Azure: Machine Learning-Data Science GitHub](https://github.com/Azure/Azure-MachineLearning-DataScience), [Microsoft Azure: Machine Learning-Client Library Python GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python), and [Microsoft Azure: Machine Learning-Client Library R GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R)
+* [Microsoft: Distributed Machine Learning Toolkit](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
+* [OpenStack: Cognitive (MLaaS) GitHub](https://github.com/openstack/cognitive)
+* [Samsung: Veles GitHub](https://github.com/Samsung/veles) and [Samsung: Veles GitHub](https://github.com/Samsung/veles.znicz)
+* [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
+* [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
 
@@ -4790,137 +4790,137 @@ Open-Source Machine Learning and Infrastructure
 -->
 
 Andrej Karpathy
-*   [NeuralTalk2 GitHub](https://github.com/karpathy/neuraltalk2)  
-*   [NeuralTalk GitHub](https://github.com/karpathy/neuraltalk) 
+* [NeuralTalk2 GitHub](https://github.com/karpathy/neuraltalk2)  
+* [NeuralTalk GitHub](https://github.com/karpathy/neuraltalk) 
 
 Lambda Architecture
-*   [Lambda Architecture](http://lambda-architecture.net)  
-*   [Lambda Calculus Wikipedia](http://en.wikipedia.org/wiki/Lambda_calculus)  
-*   [Lambda Calculus (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Lambda_calculus)  
-*   [MapReduce Lambda Architecture Explanation](http://www.mapr.com/fr/developercentral/lambda-architecture)  
-*   [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
-*   [Nathan Marz GitHub](https://github.com/nathanmarz)  
+* [Lambda Architecture](http://lambda-architecture.net)  
+* [Lambda Calculus Wikipedia](http://en.wikipedia.org/wiki/Lambda_calculus)  
+* [Lambda Calculus (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Lambda_calculus)  
+* [MapReduce Lambda Architecture Explanation](http://www.mapr.com/fr/developercentral/lambda-architecture)  
+* [Nathan Marz Lambda Architecture Book](http://manning.com/marz)  
+* [Nathan Marz GitHub](https://github.com/nathanmarz)  
 
 Hadoop, Hortonworks Sandbox, Cloudera
-*   [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox)  
-*   [Hadoop Apache](http://hadoop.apache.org)  
-*   [Hadoop Hortonworks](http://hortonworks.com/hadoop)  
-*   [Hadoop ("Apache's free and open source implementation of MapReduce") GitHub](http://en.wikipedia.org/wiki/Hadoop)  
-*   [Cloudera Hadoop Sandbox](http://www.cloudera.com/content/cloudera/en/products-and-services/cloudera-live.html)  
-*   [Hadoop Common GitHub](https://github.com/apache/hadoop-common)  
-*   [Hadoop Distributed File System](http://hortonworks.com/hadoop/hdfs)  
-*   [Hadoop Distributed File System](http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  
+* [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox)  
+* [Hadoop Apache](http://hadoop.apache.org)  
+* [Hadoop Hortonworks](http://hortonworks.com/hadoop)  
+* [Hadoop ("Apache's free and open source implementation of MapReduce") GitHub](http://en.wikipedia.org/wiki/Hadoop)  
+* [Cloudera Hadoop Sandbox](http://www.cloudera.com/content/cloudera/en/products-and-services/cloudera-live.html)  
+* [Hadoop Common GitHub](https://github.com/apache/hadoop-common)  
+* [Hadoop Distributed File System](http://hortonworks.com/hadoop/hdfs)  
+* [Hadoop Distributed File System](http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  
 
 Apache (See also mod_wsgi)
-*   [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
-*   [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
-*   [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
-*   [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
-*   [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
+* [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
+* [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
+* [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+* [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
+* [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
 
 Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon Web Services)
-*   [MapR Blog](https://www.mapr.com/blog) 
-*   [Hadoop MapReduce GitHub](https://github.com/apache/hadoop-mapreduce)  
-*   [Hadoop MapReduce (Communication Cost) Wikipedia](http://en.wikipedia.org/wiki/MapReduce)  
-*   [Elastic MapReduce](http://aws.amazon.com/elasticmapreduce)  
+* [MapR Blog](https://www.mapr.com/blog) 
+* [Hadoop MapReduce GitHub](https://github.com/apache/hadoop-mapreduce)  
+* [Hadoop MapReduce (Communication Cost) Wikipedia](http://en.wikipedia.org/wiki/MapReduce)  
+* [Elastic MapReduce](http://aws.amazon.com/elasticmapreduce)  
  
 Apache Shark and Spark
-*   [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)  
-*   [Shark ("Apache Hive on Spark") GitHub](http://shark.cs.berkeley.edu) and [Shark GitHub](https://github.com/amplab/shark)  
+* [Apache Spark GitHub](http://spark.apache.org) and [Apache Spark Wikipedia](http://en.wikipedia.org/wiki/Apache_Spark)
+* [Shark ("Apache Hive on Spark") GitHub](http://shark.cs.berkeley.edu) and [Shark GitHub](https://github.com/amplab/shark)  
 Apache Hive and Pig (Provide SQL-like abstractions on top of Hadoop MapReduce layer)
-*   [Apache Hive (Data Warehouse) Wikipedia](http://en.wikipedia.org/wiki/Apache_Hive) and [Apache Hive GitHub](https://github.com/apache/hive)  
-*   [Apache Pig ("A language and compiler to generate Hadoop programs") Wikipedia](http://en.wikipedia.org/wiki/Pig_(programming_tool)) and [Apache Pig GitHub](https://github.com/apache/pig)  
+* [Apache Hive (Data Warehouse) Wikipedia](http://en.wikipedia.org/wiki/Apache_Hive) and [Apache Hive GitHub](https://github.com/apache/hive)  
+* [Apache Pig ("A language and compiler to generate Hadoop programs") Wikipedia](http://en.wikipedia.org/wiki/Pig_(programming_tool)) and [Apache Pig GitHub](https://github.com/apache/pig)  
 
 Apache Drill
-*   [Apache Drill](https://drill.apache.org)
+* [Apache Drill](https://drill.apache.org)
 
 Apache Mahout
-*   [Apache Mahout](https://mahout.apache.org), [Apache Mahout GitHub](https://github.com/apache/mahout), and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
-*   [Apache Mahout Algorithms](https://mahout.apache.org/users/basics/algorithms.html) 
+* [Apache Mahout](https://mahout.apache.org), [Apache Mahout GitHub](https://github.com/apache/mahout), and [Apache Mahout Wikipedia](http://en.wikipedia.org/wiki/Apache_Mahout)  
+* [Apache Mahout Algorithms](https://mahout.apache.org/users/basics/algorithms.html) 
 
 Social Network Processing
-*   [Apache Giraph](http://giraph.apache.org)  
-*   [Graphlab](http://graphlab.org/projects/index.html)  
-*   [Apache Spark Graphx](https://spark.apache.org/graphx)  
+* [Apache Giraph](http://giraph.apache.org)  
+* [Graphlab](http://graphlab.org/projects/index.html)  
+* [Apache Spark Graphx](https://spark.apache.org/graphx)  
 
 Apache- More
-*   [Apache Accumulo ("Secure Big Table") Wikipedia](http://en.wikipedia.org/wiki/Apache_Accumulo)  
-*   [Apache Cassandra ("A column-oriented database that supports access from Hadoop") GitHub](http://en.wikipedia.org/wiki/Apache_Cassandra)  
-*   [Apache Cassandra GitHub](https://github.com/apache/cassandra)  
-*   [Apache HBase ("BigTable-model database", Column-based) Wikipedia](http://en.wikipedia.org/wiki/HBase) and [Apache HBase GitHub](https://github.com/apache/hbase)  
-*   [Apache Mesos (Cluster Manager) GitHub](https://github.com/apache/mesos)  
-*   [Apache Solr (An open source search platform based on Lucene)](http://lucene.apache.org/solr)  
-*   [Apache Zookeeper (Distribution) Wikipedia](http://en.wikipedia.org/wiki/Apache_ZooKeeper)and [Apache Zookeeper GitHub](https://github.com/apache/zookeeper)  
-*   [Apache TrafficServer (Used by Yahoo) GitHub](https://github.com/apache/trafficserver) 
+* [Apache Accumulo ("Secure Big Table") Wikipedia](http://en.wikipedia.org/wiki/Apache_Accumulo)  
+* [Apache Cassandra ("A column-oriented database that supports access from Hadoop") GitHub](http://en.wikipedia.org/wiki/Apache_Cassandra)  
+* [Apache Cassandra GitHub](https://github.com/apache/cassandra)  
+* [Apache HBase ("BigTable-model database", Column-based) Wikipedia](http://en.wikipedia.org/wiki/HBase) and [Apache HBase GitHub](https://github.com/apache/hbase)  
+* [Apache Mesos (Cluster Manager) GitHub](https://github.com/apache/mesos)  
+* [Apache Solr (An open source search platform based on Lucene)](http://lucene.apache.org/solr)  
+* [Apache Zookeeper (Distribution) Wikipedia](http://en.wikipedia.org/wiki/Apache_ZooKeeper)and [Apache Zookeeper GitHub](https://github.com/apache/zookeeper)  
+* [Apache TrafficServer (Used by Yahoo) GitHub](https://github.com/apache/trafficserver) 
 
 Log Monitoring
-*   [Apache Kafka (A high-throughput distributed messaging system- Apache Kafka is publish-subscribe messaging rethought as a distributed commit log) GitHub](https://github.com/apache/kafka)  
-*   [Apache Kafka Wikipedia](http://en.wikipedia.org/wiki/Apache_Kafka)  
-*   [Logstash](http://logstash.net)  
-*   [Facebook Scribe](https://github.com/facebook/scribe)  
+* [Apache Kafka (A high-throughput distributed messaging system- Apache Kafka is publish-subscribe messaging rethought as a distributed commit log) GitHub](https://github.com/apache/kafka)  
+* [Apache Kafka Wikipedia](http://en.wikipedia.org/wiki/Apache_Kafka)  
+* [Logstash](http://logstash.net)  
+* [Facebook Scribe](https://github.com/facebook/scribe)  
 
 Apache- Python
-*   [Apache Python Library GitHub](https://github.com/apache/libcloud)  
+* [Apache Python Library GitHub](https://github.com/apache/libcloud)  
 
 Cascading, Cascalog, Scala, Scalding
-*   [Cascading GitHub](https://github.com/Cascading/cascading)  
-*   [Cascalog GitHub](https://github.com/nathanmarz/cascalog)  
-*   [Cascalog-Demo GitHub](https://github.com/nathanmarz/cascalog-demo)  
-*   [Scala GitHub](https://github.com/scala/scala)  
-*   [Scala Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language))  
-*   [Twitter Effective Scala GitHub](https://github.com/twitter/effectivescala)  
-*   [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
-*   [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
-*   [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial) 
+* [Cascading GitHub](https://github.com/Cascading/cascading)  
+* [Cascalog GitHub](https://github.com/nathanmarz/cascalog)  
+* [Cascalog-Demo GitHub](https://github.com/nathanmarz/cascalog-demo)  
+* [Scala GitHub](https://github.com/scala/scala)  
+* [Scala Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language))  
+* [Twitter Effective Scala GitHub](https://github.com/twitter/effectivescala)  
+* [Twitter Scala School GitHub](https://github.com/twitter/scala_school)  
+* [Twitter Scalding GitHub](https://github.com/twitter/scalding)  
+* [Scalding Tutorials GitHub](https://github.com/Cascading/scalding-tutorial) 
 
 Hadoop, MongoDB, and ElasticSearch
-*   [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
-*   [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop) 
+* [Hadoop MongoDB GitHub](https://github.com/mongodb/mongo-hadoop)  
+* [Hadoop ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch-hadoop) 
 
 Python- Package Platforms
-*   [Anaconda](https://store.continuum.io/cshop/anaconda)  
-*   [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
-*   [Canopy](https://www.enthought.com/products/canopy)  
-*   [Canopy Package List](https://www.enthought.com/products/canopy/package-index)  
+* [Anaconda](https://store.continuum.io/cshop/anaconda)  
+* [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
+* [Canopy](https://www.enthought.com/products/canopy)  
+* [Canopy Package List](https://www.enthought.com/products/canopy/package-index)  
 
 Python- Statistics Stack- Documents and Galleries
-*   [SciPy Stack](http://www.scipy.org/docs.html)  
-*   [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
-*   [SciPy/NumPy Cookbook](http://wiki.scipy.org/Cookbook) 
-*   [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
+* [SciPy Stack](http://www.scipy.org/docs.html)  
+* [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
+* [SciPy/NumPy Cookbook](http://wiki.scipy.org/Cookbook) 
+* [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
 
 Python- Statistics Stack- NumPy 
-*   [NumPy](http://www.numpy.org), [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy), and [NumPy GitHub](https://github.com/numpy/numpy)  
-*   [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
-*   [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
+* [NumPy](http://www.numpy.org), [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy), and [NumPy GitHub](https://github.com/numpy/numpy)  
+* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
+* [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
 
 Python- Statistics Stack- SciPy 
-*   [SciPy](http://www.scipy.org), [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy), and [SciPy GitHub](https://github.com/scipy/scipy)  
-*   [SciPy Central](http://scipy-central.org)  
-*   [SciPy Tutorial and Reference Docs](http://docs.scipy.org/doc/scipy/reference)  
-*   [SciPy Reference PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)  
-*   [SciPy Lectures GitHub](http://scipy-lectures.github.io)  
+* [SciPy](http://www.scipy.org), [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy), and [SciPy GitHub](https://github.com/scipy/scipy)  
+* [SciPy Central](http://scipy-central.org)  
+* [SciPy Tutorial and Reference Docs](http://docs.scipy.org/doc/scipy/reference)  
+* [SciPy Reference PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)  
+* [SciPy Lectures GitHub](http://scipy-lectures.github.io)  
 
 http://www.scipy.org/getting-started.html 
 http://www.scipy.org/topical-software.html List of Software  
 
 Python- Statistics Stack- MatPlotLib
-*   [MatPlotLib](http://matplotlib.org), [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib), and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib)  
+* [MatPlotLib](http://matplotlib.org), [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib), and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib)  
 
 Python- Statistics Stack- MatPlotLib Reference
-*   [MatPlotLib Reference](http://matplotlib.org/contents.html)  
-*   [MatPlotLib General Index](http://matplotlib.org/genindex.html)  
-*   [MatPlotLib Module Index](http://matplotlib.org/py-modindex.html)  
-*   [MatPlotLib API](http://matplotlib.org/api/index.html )  
-*   [MatPlotLib User's Guide](http://matplotlib.org/users/index.html)  
-*   [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)  
-*   [MatPlotLib Reference PDF](http://matplotlib.org/Matplotlib.pdf)  
-*   [MatPlotLib Gallery](http://matplotlib.org/gallery.html)  
-*   [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html)  
-*   [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
-*   [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html )  
-*   [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
-*   [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits)](https://pypi.python.org/pypi/xlwt)  
+* [MatPlotLib Reference](http://matplotlib.org/contents.html)  
+* [MatPlotLib General Index](http://matplotlib.org/genindex.html)  
+* [MatPlotLib Module Index](http://matplotlib.org/py-modindex.html)  
+* [MatPlotLib API](http://matplotlib.org/api/index.html )  
+* [MatPlotLib User's Guide](http://matplotlib.org/users/index.html)  
+* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)  
+* [MatPlotLib Reference PDF](http://matplotlib.org/Matplotlib.pdf)  
+* [MatPlotLib Gallery](http://matplotlib.org/gallery.html)  
+* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html)  
+* [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
+* [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html )  
+* [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
+* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits)](https://pypi.python.org/pypi/xlwt)  
 
 http://matplotlib.org/index.html Resources 
 http://matplotlib.org/resources/index.html 
@@ -4928,150 +4928,149 @@ External Resources
 http://matplotlib.org/faq/index.html  
 
 Python- Statistics Stack- iPython
-*   [iPython](http://ipython.org) , [iPython GitHub](https://github.com/ipython/ipython), and [iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)  
+* [iPython](http://ipython.org) , [iPython GitHub](https://github.com/ipython/ipython), and [iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)  
 
 Python- Statistics Stack- iPython Reference
-*   [iPython Docs Contents](http://ipython.org/ipython-doc/2/index.html)  
-*   [iPython Docs](http://ipython.org/ipython-doc/stable/index.html)  
-*   [iPython Notebook Docs](http://ipython.org/ipython-doc/2/notebook/index.html)  
-*   [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)  
+* [iPython Docs Contents](http://ipython.org/ipython-doc/2/index.html)  
+* [iPython Docs](http://ipython.org/ipython-doc/stable/index.html)  
+* [iPython Notebook Docs](http://ipython.org/ipython-doc/2/notebook/index.html)  
+* [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)  
 
 http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
 
 Python- Statistics Stack- Pandas
-*   [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pydata/pandas)  
-*   [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
+* [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pydata/pandas)  
+* [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
 
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
-*   [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
-*   [SymPy Docs](http://docs.sympy.org/latest/index.html)  
-*   [SymPy Features](http://www.sympy.org/en/features.html)  
+* [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
+* [SymPy Docs](http://docs.sympy.org/latest/index.html)  
+* [SymPy Features](http://www.sympy.org/en/features.html)  
 
 Python- Statistics Stack- StatsModel
-*   [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
-*   [StatsModel Main Features](https://pypi.python.org/pypi/statsmodels)  
-*   [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
-*   [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
-*   [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
-*   [StatsModel Gallery](http://statsmodels.sourceforge.net/stable/examples/index.html)  
+* [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
+* [StatsModel Main Features](https://pypi.python.org/pypi/statsmodels)  
+* [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
+* [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
+* [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
+* [StatsModel Gallery](http://statsmodels.sourceforge.net/stable/examples/index.html)  
 
 Python- Statistics Stack- GGPlot
-*   [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
-*   [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
+* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
+* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
 
 Python- Statistics Stack- Nose Reference
-*   [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest)  
+* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest)  
 
 Python- Statistics Stack- Scikit-Learn
-*   [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
+* [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
 
 https://scikits.appspot.com/scikits  
 
 Python- Statistics Stack- Scikit-Learn Reference
-*   [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
-*   [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
-*   [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
-*   [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
-*   [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
-*   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
-*   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
-*   [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
+* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
+* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
+* [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
+* [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
 
 Python- Integration with Other Languages
-*   [Cython](http://cython.org)  
-*   [Using C++ in Cython](http://docs.cython.org/src/userguide/wrapping_CPlusPlus.html)  
-*   [Using Numpy in Cython](http://docs.cython.org/src/tutorial/numpy.html)  
-*   [Jython and Java Integration](http://www.jython.org/jythonbook/en/1.0/JythonAndJavaIntegration.html) and [Jython Wikipedia](http://en.wikipedia.org/wiki/Jython)  
-*   [MatPy](http://algoholic.eu/matpy)  
-*   [PyMat](http://sourceforge.net/projects/pymat)  
-*   [PyMatLab PyPi](https://pypi.python.org/pypi/pymatlab)  
-*   [RPy2](http://rpy.sourceforge.net)  
-*   [RPython](http://rpython.r-forge.r-project.org)  
-*   [RPython( Translation Toolchain and Other Uses) Read the Docs](http://pypy.readthedocs.org/en/latest/coding-guide.html)  
-
+* [Cython](http://cython.org)  
+* [Using C++ in Cython](http://docs.cython.org/src/userguide/wrapping_CPlusPlus.html)  
+* [Using Numpy in Cython](http://docs.cython.org/src/tutorial/numpy.html)  
+* [Jython and Java Integration](http://www.jython.org/jythonbook/en/1.0/JythonAndJavaIntegration.html) and [Jython Wikipedia](http://en.wikipedia.org/wiki/Jython)  
+* [MatPy](http://algoholic.eu/matpy)  
+* [PyMat](http://sourceforge.net/projects/pymat)  
+* [PyMatLab PyPi](https://pypi.python.org/pypi/pymatlab)  
+* [RPy2](http://rpy.sourceforge.net)  
+* [RPython](http://rpython.r-forge.r-project.org)  
+* [RPython( Translation Toolchain and Other Uses) Read the Docs](http://pypy.readthedocs.org/en/latest/coding-guide.html)  
 Python- Deep Learning- PyBrain
-*   [PyBrain](http://pybrain.org) and [PyBrain GitHub](https://github.com/pybrain/pybrain) 
-*   [PyBrain Docs](http://pybrain.org/docs)  
+* [PyBrain](http://pybrain.org) and [PyBrain GitHub](https://github.com/pybrain/pybrain) 
+* [PyBrain Docs](http://pybrain.org/docs)  
  
 Python- Deep Learning- PyLearn2, SKLearn-Theano, Theano
-*   [PyLearn2 (Based on Theano)](http://deeplearning.net/software/pylearn2) and [PyLearn2 (Based on Theano) GitHub](https://github.com/lisa-lab/pylearn2)  
-*   [SKLearn-Theano](http://sklearn-theano.github.io) and [SKLearn-Theano GitHub](https://github.com/sklearn-theano/sklearn-theano)  
-*   [SKLearn-Theano Examples](hhttp://sklearn-theano.github.io/auto_examples/index.html)  
-*   [Theano](http://www.deeplearning.net/software/theano) and [Theano GitHub](https://github.com/Theano/Theano)  
-*   [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)  
-*   [Theano Related Projects GitHub](https://github.com/Theano/Theano/wiki/Related-projects)  
+* [PyLearn2 (Based on Theano)](http://deeplearning.net/software/pylearn2) and [PyLearn2 (Based on Theano) GitHub](https://github.com/lisa-lab/pylearn2)  
+* [SKLearn-Theano](http://sklearn-theano.github.io) and [SKLearn-Theano GitHub](https://github.com/sklearn-theano/sklearn-theano)  
+* [SKLearn-Theano Examples](hhttp://sklearn-theano.github.io/auto_examples/index.html)  
+* [Theano](http://www.deeplearning.net/software/theano) and [Theano GitHub](https://github.com/Theano/Theano)  
+* [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)  
+* [Theano Related Projects GitHub](https://github.com/Theano/Theano/wiki/Related-projects)  
 
 Python- Image Processing- Scikit-Image (See also Python Imaging Library)
-*   [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
-*   [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
+* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
+* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
 
 Python- Natural Language Toolkit
-*   [Natural Language Toolkit](http://www.nltk.org) and [Natural Language Toolkit GitHub](https://github.com/nltk/nltk)
+* [Natural Language Toolkit](http://www.nltk.org) and [Natural Language Toolkit GitHub](https://github.com/nltk/nltk)
 
 Python- Web Crawling and Scraping
-*   [Scrapy](http://scrapy.org) and [Scrapy GitHub](http://doc.scrapy.org/en/latest/intro/overview.html#what-else) 
-*   [Scrapy Docs](http://doc.scrapy.org/en/latest)  
-*   [Scrapy Tutorials](http://doc.scrapy.org/en/latest/intro/tutorial.html)  
-*   [Scrapely GitHub](https://github.com/scrapy/scrapely)  
+* [Scrapy](http://scrapy.org) and [Scrapy GitHub](http://doc.scrapy.org/en/latest/intro/overview.html#what-else) 
+* [Scrapy Docs](http://doc.scrapy.org/en/latest)  
+* [Scrapy Tutorials](http://doc.scrapy.org/en/latest/intro/tutorial.html)  
+* [Scrapely GitHub](https://github.com/scrapy/scrapely)  
 
 Python- Screen Scraping
-*   [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup) and [Beautiful Soup Wikipedia](http://en.wikipedia.org/wiki/Beautiful_Soup) 
-*   [Beautiful Soup PyPi](https://pypi.python.org/pypi/beautifulsoup4)  
+* [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup) and [Beautiful Soup Wikipedia](http://en.wikipedia.org/wiki/Beautiful_Soup) 
+* [Beautiful Soup PyPi](https://pypi.python.org/pypi/beautifulsoup4)  
  
 Social Network Graphing (Gilad Lotan)
-*   [Gephi](https://gephi.github.io) and [Gephi GitHub](https://github.com/gephi/gephi)  
-*   [Gephi Wiki](https://wiki.gephi.org)  
-*   [Gephi Forum](https://forum.gephi.org)  
-*   [Networkx (Python)](https://networkx.github.io) and [Networkx (Python) Github](https://github.com/networkx/networkx)
-*   [Networkx (Python) Gallery](https://networkx.github.io)  
-*   [NodeXL (MS Excel)](http://nodexl.codeplex.com)  
+* [Gephi](https://gephi.github.io) and [Gephi GitHub](https://github.com/gephi/gephi)  
+* [Gephi Wiki](https://wiki.gephi.org)  
+* [Gephi Forum](https://forum.gephi.org)  
+* [Networkx (Python)](https://networkx.github.io) and [Networkx (Python) Github](https://github.com/networkx/networkx)
+* [Networkx (Python) Gallery](https://networkx.github.io)  
+* [NodeXL (MS Excel)](http://nodexl.codeplex.com)  
 
 Python- Pickle/JSON
-*   [Pickle](https://docs.python.org/3/library/pickle.html)  
-*   [JSON Pickle](http://jsonpickle.github.io) and [JSON Pickle GitHub](https://github.com/jsonpickle/jsonpickle)  
-*   [JSON Pickle PyPi](https://pypi.python.org/pypi/jsonpickle)  
+* [Pickle](https://docs.python.org/3/library/pickle.html)  
+* [JSON Pickle](http://jsonpickle.github.io) and [JSON Pickle GitHub](https://github.com/jsonpickle/jsonpickle)  
+* [JSON Pickle PyPi](https://pypi.python.org/pypi/jsonpickle)  
 
 R Programming Language
-*   [R Programming Language](http://www.r-project.org) and [R Programming Language Wikipedia](http://en.wikipedia.org/wiki/R_(programming_language))  
-*   [S Programming Language](http://www.stat.bell-labs.com/S/history.html)  
-*   [R Programming Language Studio](http://www.rstudio.com)  
-*   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets)
-*   [Data Science Masters- R Resources](https://github.com/datasciencemasters/go/blob/master/r-resources.md)  
+* [R Programming Language](http://www.r-project.org) and [R Programming Language Wikipedia](http://en.wikipedia.org/wiki/R_(programming_language))  
+* [S Programming Language](http://www.stat.bell-labs.com/S/history.html)  
+* [R Programming Language Studio](http://www.rstudio.com)  
+* [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets)
+* [Data Science Masters- R Resources](https://github.com/datasciencemasters/go/blob/master/r-resources.md)  
 
 R Markdown
-*   [RStudio Using Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown)  
-*   [RStudio Markdown GitHub](https://github.com/rstudio/markdown)  
+* [RStudio Using Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown)  
+* [RStudio Markdown GitHub](https://github.com/rstudio/markdown)  
 
 MatLab
-*   [MatLab](http://www.mathworks.com/products/matlab) and [MatLab Wikipedia](http://en.wikipedia.org/wiki/MATLAB) 
+* [MatLab](http://www.mathworks.com/products/matlab) and [MatLab Wikipedia](http://en.wikipedia.org/wiki/MATLAB) 
 
 Visualization
-*   [GitHub Data Visualization Showcase](https://github.com/showcases/data-visualization)
-*   [D3](http://d3js.org) and [D3 GitHub](https://github.com/mbostock/d3)  
-*   [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
+* [GitHub Data Visualization Showcase](https://github.com/showcases/data-visualization)
+* [D3](http://d3js.org) and [D3 GitHub](https://github.com/mbostock/d3)  
+* [DC.js based on D3 GitHub](https://github.com/dc-js/dc.js)  
 
 Analytics and Dashboards
-*   [Keen Dashboard GitHub](https://github.com/keen/dashboards)
-*   [Metabase](http://www.metabase.com/start), [Metabase Blog](http://discourse.metabase.com), and [Metabase GitHub](https://github.com/metabase/metabase)
+* [Keen Dashboard GitHub](https://github.com/keen/dashboards)
+* [Metabase](http://www.metabase.com/start), [Metabase Blog](http://discourse.metabase.com), and [Metabase GitHub](https://github.com/metabase/metabase)
 
-*   [StatsD (Etsy) GitHub](https://github.com/etsy/statsd)  
-*   [StatsDaemon (Bitly) GitHub](https://github.com/bitly/statsdaemon) 
+* [StatsD (Etsy) GitHub](https://github.com/etsy/statsd)  
+* [StatsDaemon (Bitly) GitHub](https://github.com/bitly/statsdaemon) 
 
 RapidMiner (Open Source) and IBM SPSS
-*   [RapidMiner (Open Source)](https://rapidminer.com)
-*   [IBM SPSS](http://www-01.ibm.com/software/analytics/spss) and [IBM SPSS Wikipedia](https://en.wikipedia.org/wiki/SPSS)
+* [RapidMiner (Open Source)](https://rapidminer.com)
+* [IBM SPSS](http://www-01.ibm.com/software/analytics/spss) and [IBM SPSS Wikipedia](https://en.wikipedia.org/wiki/SPSS)
 
 Import.io and Kimono Labs
-*   [Import.io](https://import.io)
-*   [Kimono Labs](https://www.kimonolabs.com)  
+* [Import.io](https://import.io)
+* [Kimono Labs](https://www.kimonolabs.com)  
 
 Unstructured Data and Data Structures- General
-*   [Unstructured Data Wikipedia](http://en.wikipedia.org/wiki/Unstructured_data)  
-*   [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
-*   [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
-*   [Data Structure Wikipedia](http://en.wikipedia.org/wiki/Data_structure)  
-*   [List of Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_data_structures)  
-*   [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
+* [Unstructured Data Wikipedia](http://en.wikipedia.org/wiki/Unstructured_data)  
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
+* [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
+* [Data Structure Wikipedia](http://en.wikipedia.org/wiki/Data_structure)  
+* [List of Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_data_structures)  
+* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
 
 http://en.wikipedia.org/wiki/Raw_data
 http://en.wikipedia.org/wiki/Plain_old_data_structure
@@ -5080,152 +5079,152 @@ http://en.wikipedia.org/wiki/Linked_data_structure
 http://en.wikipedia.org/wiki/Persistent_data_structure
 
 Data
-*   [Array Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
-*   [Matrix Wikipedia](https://en.wikipedia.org/wiki/Matrix_(mathematics))
-*   [Column Vector Wikipedia](http://en.wikipedia.org/wiki/Column_vector)
-*   [Row Vector Wikipedia](http://en.wikipedia.org/wiki/Row_vector)
+* [Array Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+* [Matrix Wikipedia](https://en.wikipedia.org/wiki/Matrix_(mathematics))
+* [Column Vector Wikipedia](http://en.wikipedia.org/wiki/Column_vector)
+* [Row Vector Wikipedia](http://en.wikipedia.org/wiki/Row_vector)
  
 CSV
-*   [CSV (Comma-Separated Values) Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
+* [CSV (Comma-Separated Values) Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
 
 Graph and Schema- General (See also Facebook Open Graph)
-*   [Open Graph Protocol Schema](http://ogp.me) 
-*   [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-*   [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
-*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
+* [Open Graph Protocol Schema](http://ogp.me) 
+* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
+* [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
 
 API Methods- Common
-*   HTTP
-*   [JSON](http://www.json.org) and [JSON Wikipedia](http://en.wikipedia.org/wiki/JSON)  
-*   [XML Wikipedia](http://en.wikipedia.org/wiki/XML) and [XML W3Schools](http://www.w3schools.com/xml/simple.xml)  
-*   REST
-*   ROA
-*   RDF
-*   SOAP
-*   SOA
+* HTTP
+* [JSON](http://www.json.org) and [JSON Wikipedia](http://en.wikipedia.org/wiki/JSON)  
+* [XML Wikipedia](http://en.wikipedia.org/wiki/XML) and [XML W3Schools](http://www.w3schools.com/xml/simple.xml)  
+* REST
+* ROA
+* RDF
+* SOAP
+* SOA
 
 APIs
-*   [API Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface)  
-*   [API Web APIs Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)  
-*   [Web API Wikipedia](http://en.wikipedia.org/wiki/Web_API)  
-*   [List of Open APIs Wikipeda](http://en.wikipedia.org/wiki/List_of_open_APIs)  
-*   [Public APIs](http://publicapis.com)  
-*   [Programmable Web](http://www.programmableweb.com/apis/directory)  
-*   [Programmable Web Developer](http://www.programmableweb.com/developers)  
-*   [Programmable Web Most Popular](http://www.programmableweb.com/category/all/apis?order=field_popularity) 
+* [API Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface)  
+* [API Web APIs Wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)  
+* [Web API Wikipedia](http://en.wikipedia.org/wiki/Web_API)  
+* [List of Open APIs Wikipeda](http://en.wikipedia.org/wiki/List_of_open_APIs)  
+* [Public APIs](http://publicapis.com)  
+* [Programmable Web](http://www.programmableweb.com/apis/directory)  
+* [Programmable Web Developer](http://www.programmableweb.com/developers)  
+* [Programmable Web Most Popular](http://www.programmableweb.com/category/all/apis?order=field_popularity) 
 
 Network Science, Social Network, Systems Science
-*   [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
-*   [Network Science Series Wikipedia](http://en.wikipedia.org/wiki/Network_science)  
-*   [Network Theory Series Wikipedia](http://en.wikipedia.org/wiki/Network_theory)  
-*   [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph)  
-*   [Social Network Wikipedia](http://en.wikipedia.org/wiki/Social_network)  
-*   [Social Network Analysis Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis)  
-*   [Social Network Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis_software)  
-*   [System Wikipedia](https://en.wikipedia.org/wiki/System)
-*   [Systems Science Wikipedia](https://en.wikipedia.org/wiki/Systems_science)
-*   [Systems Theory Wikipedia](https://en.wikipedia.org/wiki/Systems_theory)
-*   [Systems Thinking Wikipedia](https://en.wikipedia.org/wiki/Systems_thinking)
+* [Network Wikipedia](https://en.wikipedia.org/wiki/Network)
+* [Network Science Series Wikipedia](http://en.wikipedia.org/wiki/Network_science)  
+* [Network Theory Series Wikipedia](http://en.wikipedia.org/wiki/Network_theory)  
+* [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph)  
+* [Social Network Wikipedia](http://en.wikipedia.org/wiki/Social_network)  
+* [Social Network Analysis Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis)  
+* [Social Network Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Social_network_analysis_software)  
+* [System Wikipedia](https://en.wikipedia.org/wiki/System)
+* [Systems Science Wikipedia](https://en.wikipedia.org/wiki/Systems_science)
+* [Systems Theory Wikipedia](https://en.wikipedia.org/wiki/Systems_theory)
+* [Systems Thinking Wikipedia](https://en.wikipedia.org/wiki/Systems_thinking)
 
 Interesting
-*   [Chaos Wikipedia](http://en.wikipedia.org/wiki/Chaos)  
-*   [Chaos Theory Wikipedia](http://en.wikipedia.org/wiki/Chaos_theory)  
-*   [Complexity Theory Wikipedia](http://en.wikipedia.org/wiki/Complexity_theory)  
-*   [Collective Intelligence Wikipedia](http://en.wikipedia.org/wiki/Collective_intelligence) and [Collective Intelligence Category Wikipedia](http://en.wikipedia.org/wiki/Category:Collective_intelligence) 
-*   [Darwinism Wikipedia](https://en.wikipedia.org/wiki/Darwinism)
-*   [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
-*   [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
-*   [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
-*   [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
-*   [Social Theory Wikipedia](https://en.wikipedia.org/wiki/Social_theory)
-*   [Theory of Mind Wikipedia (and Secondary Theory)](https://en.wikipedia.org/wiki/Theory_of_mind)
-*   [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
+* [Chaos Wikipedia](http://en.wikipedia.org/wiki/Chaos)  
+* [Chaos Theory Wikipedia](http://en.wikipedia.org/wiki/Chaos_theory)  
+* [Complexity Theory Wikipedia](http://en.wikipedia.org/wiki/Complexity_theory)  
+* [Collective Intelligence Wikipedia](http://en.wikipedia.org/wiki/Collective_intelligence) and [Collective Intelligence Category Wikipedia](http://en.wikipedia.org/wiki/Category:Collective_intelligence) 
+* [Darwinism Wikipedia](https://en.wikipedia.org/wiki/Darwinism)
+* [Diffusion of Innovations Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+* [Emergence Wikipedia](https://en.wikipedia.org/wiki/Emergence)
+* [Slime Mold Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
+* [Social Proof Wikipedia](http://en.wikipedia.org/wiki/Social_proof)
+* [Social Theory Wikipedia](https://en.wikipedia.org/wiki/Social_theory)
+* [Theory of Mind Wikipedia (and Secondary Theory)](https://en.wikipedia.org/wiki/Theory_of_mind)
+* [Wisdom of the Crowd Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
 
 Probability and Statistics
-*   [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
-*   [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
-*   [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
-*   [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
+* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
+* [Outlier Wikipedia](https://en.wikipedia.org/wiki/Outlier)
+* [Tail: Fat Tail Wikipedia](https://en.wikipedia.org/wiki/Fat-tailed_distribution)
+* [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 
 General Terminology
-*   [Birthday Problem Wikipedia](http://en.wikipedia.org/wiki/Birthday_problem)  
-*   [Fizz Buzz Wikipedia](http://en.wikipedia.org/wiki/Fizz_buzz)  
-*   [Fibonacci Number Wikipedia](http://en.wikipedia.org/wiki/Fibonacci_number)  
-*   [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
-*   [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
+* [Birthday Problem Wikipedia](http://en.wikipedia.org/wiki/Birthday_problem)  
+* [Fizz Buzz Wikipedia](http://en.wikipedia.org/wiki/Fizz_buzz)  
+* [Fibonacci Number Wikipedia](http://en.wikipedia.org/wiki/Fibonacci_number)  
+* [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
+* [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
 #### Launch and Growth
 
 #### Launch Strategies
 
 Launch Guides
-*   [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
-*   [Marketing Checklist for Indie Game Developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers)
+* [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
+* [Marketing Checklist for Indie Game Developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers)
 
 General
-*   [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
+* [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
 
 Epic
-*   [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
+* [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
 
 Tools
-*   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
-*   [Amazon Example Press Release](http://aws.amazon.com/new) 
-*   [Sandwich Video](http://sandwichvideo.com)
+* [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
+* [Amazon Example Press Release](http://aws.amazon.com/new) 
+* [Sandwich Video](http://sandwichvideo.com)
 
 #### Growth, Marketing, and Content Resources
 
 Advertising and Marketing
-*   [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
-*   [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
-*   [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
+* [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
+* [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
+* [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
 
 Distribution, Digital Distribution and User-Generated Content
-*   [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-*   [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-*   [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
 
 Distribution, Growth, Sales Hacking
-*   [Distribution Hacks](http://distributionhacks.com) 
-*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-*   [Saleshacker](http://www.saleshacker.com)
+* [Distribution Hacks](http://distributionhacks.com) 
+* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+* [Saleshacker](http://www.saleshacker.com)
 
 Marketing and Search Engine Land
-*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
+* [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+* [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
 
 Hiten Shah and Neil Patel
-*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
-*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
-*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
-*   [Quicksprout](http://www.quicksprout.com) 
+* [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+* [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+* [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
+* [Quicksprout](http://www.quicksprout.com) 
 
 Popular Tools
-*   [Buffer](https://bufferapp.com)
-*   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
-*   [Detour Blog](http://blog.detour.com)
-*   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-*   [Intercom Blog](http://blog.intercom.io)
-*   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-*   [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
-*   [URX Blog](http://blog.urx.com/urx-blog) 
+* [Buffer](https://bufferapp.com)
+* [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
+* [Detour Blog](http://blog.detour.com)
+* [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+* [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+* [Intercom Blog](http://blog.intercom.io)
+* [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
+* [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
+* [URX Blog](http://blog.urx.com/urx-blog) 
 
 Digital Novel
-*   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
-*   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
-*   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
+* [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
+* [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+* [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
 
 Digital Stats
-*   [eMarketer](http://www.emarketer.com)
+* [eMarketer](http://www.emarketer.com)
 
 #### Metrics
 
 Financial Ratio
-*   [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
 
 A16Z Metrics
-*   [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
 Business and Financial Metrics
 * 1 Bookings vs. Revenue (GAAP) (Letters of intent and verbal agreements are neither revenue nor bookings.)
@@ -5294,588 +5293,588 @@ Ellen Chisa HBS Fin2
 * [Collar Wikipedia](https://en.wikipedia.org/wiki/Collar_(finance))
 
 More Models
-*   [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
-*   [Counterfactual Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_conditional)
-*   [Critical Mass (Disambiguation) Wikipedia](https://en.wikipedia.org/wiki/Critical_mass_(disambiguation))
-*   [Evolution Wikipedia](https://en.wikipedia.org/wiki/Evolution)
-*   [Feedback Wikipedia](https://en.wikipedia.org/wiki/Feedback)
-*   [First Principles Wikipedia](https://en.wikipedia.org/wiki/First_principle) versus [Analogy Wikipedia](https://en.wikipedia.org/wiki/Analogy)
-*   [Inertia Wikipedia](https://en.wikipedia.org/wiki/Inertia)
-*   [Jacobian Inverse Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#Inverse)
-*   [Local Maxima Wikipedia](https://en.wikipedia.org/wiki/Maxima_and_minima)
-*   [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
-*   [Mean Reversion Wikipedia](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
-*   Optionality
-*   [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
-*   [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
-*   [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
+* [Adverse Selection Wikipedia](https://en.wikipedia.org/wiki/Adverse_selection) versus [Positive Selection Wikipedia](https://en.wikipedia.org/wiki/Directional_selection)
+* [Counterfactual Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_conditional)
+* [Critical Mass (Disambiguation) Wikipedia](https://en.wikipedia.org/wiki/Critical_mass_(disambiguation))
+* [Evolution Wikipedia](https://en.wikipedia.org/wiki/Evolution)
+* [Feedback Wikipedia](https://en.wikipedia.org/wiki/Feedback)
+* [First Principles Wikipedia](https://en.wikipedia.org/wiki/First_principle) versus [Analogy Wikipedia](https://en.wikipedia.org/wiki/Analogy)
+* [Inertia Wikipedia](https://en.wikipedia.org/wiki/Inertia)
+* [Jacobian Inverse Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#Inverse)
+* [Local Maxima Wikipedia](https://en.wikipedia.org/wiki/Maxima_and_minima)
+* [Marginal Utility Wikipedia](https://en.wikipedia.org/wiki/Marginal_utility)
+* [Mean Reversion Wikipedia](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
+* Optionality
+* [Pareto Principle Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
+* [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
+* [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
 
 Bill Gurley on Conversion and LTV
-*   [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
-*   [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
-*   [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
-*   [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
+* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
+* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
 
 Objectives and key Results (OKRs)
-*   [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
-*   [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
 
 KPIs
-*   [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
 
 Pirate Metrics
-*   [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-*   [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
 
 Miscellaneous Metrics
-*   [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
-*   [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
-*   [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
-*   [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
+* [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
+* [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
+* [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
+* [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
 
 #### Internationalization
 
-*   [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
+* [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
 
 #### Popular Tools
 
 Two Factor Authentication
 
-*   [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
+* [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
 Google Products, Office
-*   [Google Products](http://www.google.com/intl/en/about/products) 
-*   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
-*   [Google Gmail](http://gmail.com)  
-*   [Google Drive](https://www.google.com/drive) 
-*   [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
-*   [Google Drawings](https://docs.google.com/drawings)  
-*   [Google Calendar](https://www.google.com/calendar) 
-*   [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
-*   [Google Flights](https://www.google.com/flights)  
-*   [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
-*   [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
-*   [Google Translate](https://translate.google.com/?hl=en)  
-*   [Let Me Google that for You](http://lmgtfy.com) 
+* [Google Products](http://www.google.com/intl/en/about/products) 
+* [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
+* [Google Gmail](http://gmail.com)  
+* [Google Drive](https://www.google.com/drive) 
+* [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
+* [Google Drawings](https://docs.google.com/drawings)  
+* [Google Calendar](https://www.google.com/calendar) 
+* [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
+* [Google Flights](https://www.google.com/flights)  
+* [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
+* [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
+* [Google Translate](https://translate.google.com/?hl=en)  
+* [Let Me Google that for You](http://lmgtfy.com) 
 
 API
-*   [Blockspring](https://www.blockspring.com)
+* [Blockspring](https://www.blockspring.com)
 
 Email
-*   [MailChimp](http://mailchimp.com)
-*   [Mailgun](http://www.mailgun.com)  
-*   [Mandrill](http://mandrill.com)  
-*   [SendGrid](http://sendgrid.com)  
+* [MailChimp](http://mailchimp.com)
+* [Mailgun](http://www.mailgun.com)  
+* [Mandrill](http://mandrill.com)  
+* [SendGrid](http://sendgrid.com)  
  
 Group Communication/Chat
-*   [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
-*   [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
-*   [Skype](http://www.skype.com/en) 
-*   [Meetup](http://www.meetup.com)
-*   [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+* [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
+* [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
+* [Skype](http://www.skype.com/en) 
+* [Meetup](http://www.meetup.com)
+* [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
  
 Livestreaming, Video, Audio 
-*   [Livestream](http://new.livestream.com) 
-*   [SoundCloud](https://soundcloud.com)  
-*   [Vimeo](https://vimeo.com)  
-*   [YouTube](https://www.youtube.com) 
+* [Livestream](http://new.livestream.com) 
+* [SoundCloud](https://soundcloud.com)  
+* [Vimeo](https://vimeo.com)  
+* [YouTube](https://www.youtube.com) 
 
 Photo Hosting
-*   [Flickr](https://www.flickr.com) 
-*   [Google Photos](https://photos.google.com)
-*   [Picasa](https://picasa.google.com)
+* [Flickr](https://www.flickr.com) 
+* [Google Photos](https://photos.google.com)
+* [Picasa](https://picasa.google.com)
 
 Document Hosting
-*   [Scribd](https://www.scribd.com)
+* [Scribd](https://www.scribd.com)
 
 Links
-*   [Bitly](https://bitly.com)
+* [Bitly](https://bitly.com)
 
 Calendar 
-*   [Sunrise](https://calendar.sunrise.am)
+* [Sunrise](https://calendar.sunrise.am)
 
 Social Media Distribution 
-*   [Facebook](https://www.facebook.com)
-*   [Twitter](https://twitter.com)
+* [Facebook](https://www.facebook.com)
+* [Twitter](https://twitter.com)
 
 Social Media Distribution 
-*   [Buffer](https://bufferapp.com)
-*   [Hootsuite](https://hootsuite.com)
-*   [HubSpot CRM](http://www.hubspot.com/crm)
-*   [Storify](https://storify.com)  
-*   [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
-*   [Tweetbot](http://tapbots.com/tweetbot)
+* [Buffer](https://bufferapp.com)
+* [Hootsuite](https://hootsuite.com)
+* [HubSpot CRM](http://www.hubspot.com/crm)
+* [Storify](https://storify.com)  
+* [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
+* [Tweetbot](http://tapbots.com/tweetbot)
 
 Customer Relationship Management
-*   [Salesforce](https://www.salesforce.com)
-*   [RelateIQ](https://www.relateiq.com) 
+* [Salesforce](https://www.salesforce.com)
+* [RelateIQ](https://www.relateiq.com) 
 
 Task Automation
-*   [IFTTT](https://ifttt.com) 
+* [IFTTT](https://ifttt.com) 
 
 Payments
-*   [Apple Pay](https://www.apple.com/apple-pay) 
-*   [Bitcoin](https://bitcoin.org/en) 
-*   [Paypal](https://www.paypal.com)
-*   [Square](https://squareup.com)
-*   [Stripe](https://stripe.com)
+* [Apple Pay](https://www.apple.com/apple-pay) 
+* [Bitcoin](https://bitcoin.org/en) 
+* [Paypal](https://www.paypal.com)
+* [Square](https://squareup.com)
+* [Stripe](https://stripe.com)
 
 File Storage
-*   [Box](https://www.box.com) 
-*   [Dropbox](https://www.dropbox.com)
+* [Box](https://www.box.com) 
+* [Dropbox](https://www.dropbox.com)
 
 Logistics
-*   [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
-*   [Gumtree](http://www.gumtree.co)
-*   [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
-*   [Move Loot](https://www.moveloot.com/welcome)
-*   [Statewide List](http://www.statewidelist.com)
+* [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
+* [Gumtree](http://www.gumtree.co)
+* [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
+* [Move Loot](https://www.moveloot.com/welcome)
+* [Statewide List](http://www.statewidelist.com)
 
 Crowd Sourced Internet Marketplace
-*   [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
-*   [Crowdflower](http://www.crowdflower.com)  
+* [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
+* [Crowdflower](http://www.crowdflower.com)  
 
 Docs
-*   [DocSend](https://docsend.com)
-*   [DocuSign](https://www.docusign.com)
-*   [FullContact](http://www.fullcontact.com)
-*   [HelloSign](https://www.hellosign.com)
-*   [Streak](https://www.streak.com)
+* [DocSend](https://docsend.com)
+* [DocuSign](https://www.docusign.com)
+* [FullContact](http://www.fullcontact.com)
+* [HelloSign](https://www.hellosign.com)
+* [Streak](https://www.streak.com)
 
 Admin, Hiring, Payroll
-*   [Clara Labs](https://claralabs.com) 
-*   [Evernote](https://evernote.com)
-*   [Lever](http://lever.co)  
-*   [Jobvite](http://www.jobvite.com)
-*   [QuickBooks](http://quickbooks.intuit.com)
-*   [Teespring](http://teespring.com)
-*   [ZenPayroll](https://zenpayroll.com) 
-*   [Zenefits](http://www.zenefits.com)
+* [Clara Labs](https://claralabs.com) 
+* [Evernote](https://evernote.com)
+* [Lever](http://lever.co)  
+* [Jobvite](http://www.jobvite.com)
+* [QuickBooks](http://quickbooks.intuit.com)
+* [Teespring](http://teespring.com)
+* [ZenPayroll](https://zenpayroll.com) 
+* [Zenefits](http://www.zenefits.com)
  
 #### General Resources
 
 #### Software and Mobile are Eating the World, Software is Reorganizing the World
 
-*   [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
-*   [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
-*   [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
-*   [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
+* [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
+* [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
+* [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
+* [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
 
 #### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
 
-*   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
-*   [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
-*   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
-*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
-*   [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
-*   [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
-*   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
+* [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
+* [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
+* [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+* [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
+* [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+* [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
+* [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
+* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
 
 #### Philosophies, Milestones
 
 Company Internal Policies
-*   [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
-*   [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
-*   [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
+* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
+* [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
+* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 
 Good Infographics
-*   [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
-*   [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
-*   [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
-*   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
+* [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
+* [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
+* [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
+* [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
 Miscellaneous
-*   [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
-*   [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
-*   [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
-*   [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
-*   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
+* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
+* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
+* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
+* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
 Laws
-*   [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
-*   [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
+* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
+* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
 
 Models and Theories
-*   [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-*   [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
-*   [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
-*   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-*   [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
-*   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
-*   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
+* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
+* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
+* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
+* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 
 Computer Lore
-*   [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
-*   [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
+* [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
+* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 
 #### Notable Interviews and Presentations
 
 Trends
-*   [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
-*   [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
-*   [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
+* [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
+* [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
+* [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
 
 Famous
-*   [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
-*   [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
-*   [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
+* [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
+* [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
+* [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
 
 Innovation and Excellence
-*   [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
-*   [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
+* [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
+* [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
 
 Personal Advice
-*   [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-*   [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
 
 Google
-*   [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
-*   [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
-*   [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
-*   [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
+* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
+* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
+* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
+* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 
 #### Notable Quotes
 
-*   [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
-*   [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
-*   [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
-*   [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
-*   [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
-*   [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
-*   [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
-*   [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
-*   [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
-*   [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
-*   [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
-*   [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
-*   [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
-*   [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
+* [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
+* [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
+* [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
+* [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
+* [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
+* [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
+* [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
+* [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
+* [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
+* [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
+* [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
+* [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
+* [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
+* [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
 
 #### Appendix
 
 #### Software Manuals and Documentation 
 
 Pandoc
-*   [Pandoc](http://johnmacfarlane.net/pandoc)  
+* [Pandoc](http://johnmacfarlane.net/pandoc)  
 
 Dexy
-*   [Dexy](http://www.dexy.it)  
+* [Dexy](http://www.dexy.it)  
 
 GitBook
-*   [GitBook](https://www.gitbook.com)  
-*   [GitBook GitHub](https://github.com/GitbookIO)  
-*   [GitBook Documentation](http://help.gitbook.io)  
-*   [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
-*   [GitBook Themes](http://help.gitbook.io/book/themes.html)  
+* [GitBook](https://www.gitbook.com)  
+* [GitBook GitHub](https://github.com/GitbookIO)  
+* [GitBook Documentation](http://help.gitbook.io)  
+* [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
+* [GitBook Themes](http://help.gitbook.io/book/themes.html)  
 
 GitHub Wiki
-*   [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
+* [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
 
 iPython
-*   [iPython](http://ipython.org)  
+* [iPython](http://ipython.org)  
 
 LaTeX
-*   [LaTeX](http://latex-project.org)  
-*   [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
-*   [Share LaTeX](https://github.com/sharelatex/sharelatex)  
+* [LaTeX](http://latex-project.org)  
+* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
+* [Share LaTeX](https://github.com/sharelatex/sharelatex)  
 
 Read the Docs
-*   [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
-*   [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
-*   [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
+* [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+* [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
+* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
 
 Python- Django-Sphinxdoc
-*   [Sphinxdoc](http://sphinx-doc.org)  
-*   [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
+* [Sphinxdoc](http://sphinx-doc.org)  
+* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
 
 API Docs (see also Python- Django- Rest Framework Swagger)
-*   [Swagger API Docs](http://swagger.io)  
-*   [Slate API Docs GitHub](https://github.com/tripit/slate)  
-*   [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
+* [Swagger API Docs](http://swagger.io)  
+* [Slate API Docs GitHub](https://github.com/tripit/slate)  
+* [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
 
 #### Other Enormous Tool Lists
-*   [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
-*   [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
-*   [Content Marketing Stack](http://www.contentmarketingstack.co)
-*   [Growth Tools](http://growthtools.io)
-*   [growth.supply](http://growth.supply/free)
-*   [Makerbook](http://makerbook.net)
-*   [Marketing Stack](http://marketingstack.io)
-*   [SalesList](https://saleslist.co)
-*   [Stacklist](http://stacklist.com)
-*   [Startup Resources](http://startupresources.io)
-*   [Startup Stash](http://startupstash.com)
+* [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
+* [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
+* [Content Marketing Stack](http://www.contentmarketingstack.co)
+* [Growth Tools](http://growthtools.io)
+* [growth.supply](http://growth.supply/free)
+* [Makerbook](http://makerbook.net)
+* [Marketing Stack](http://marketingstack.io)
+* [SalesList](https://saleslist.co)
+* [Stacklist](http://stacklist.com)
+* [Startup Resources](http://startupresources.io)
+* [Startup Stash](http://startupstash.com)
 
 Awesome
-*   [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-*   [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 
 Dev-Ops Wiki and Free for Dev
-*   [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
-*   [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
-*   [Awesome DevEnv GitHub](https://github.com/jondot/awesome-devenv)
-*   [Awesome Shell GitHub](https://github.com/alebcay/awesome-shell)
-*   [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
-*   [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
-*   [Awesome Vim](http://vimawesome.com)
+* [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
+* [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
+* [Awesome DevEnv GitHub](https://github.com/jondot/awesome-devenv)
+* [Awesome Shell GitHub](https://github.com/alebcay/awesome-shell)
+* [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
+* [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
+* [Awesome Vim](http://vimawesome.com)
 
 Awesome Non-Code
-*   [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
-*   [Awesome A11Y GitHub](https://github.com/brunopulis/awesome-a11y)
-*   [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
-*   [Guides GitHub](https://github.com/NARKOZ/guides)
-*   [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
-*   [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
-*   [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
-*   [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
+* [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
+* [Awesome A11Y GitHub](https://github.com/brunopulis/awesome-a11y)
+* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
+* [Guides GitHub](https://github.com/NARKOZ/guides)
+* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
+* [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
+* [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
+* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
 
 Awesome Git
-*   [Git Tips GitHub](https://github.com/git-tips/tips)
-*   [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
-*   [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
-*   [Awesome GitHub GitHub](https://github.com/phillipadsmith/awesome-github)
-*   [Awesome Git Addons GitHub](https://github.com/stevemao/awesome-git-addons)
+* [Git Tips GitHub](https://github.com/git-tips/tips)
+* [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
+* [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
+* [Awesome GitHub GitHub](https://github.com/phillipadsmith/awesome-github)
+* [Awesome Git Addons GitHub](https://github.com/stevemao/awesome-git-addons)
 
 Awesome Apple
-*   [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
-*   [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
-*   [Awesome iOS GitHub](https://github.com/vsouza/awesome-ios)
-*   [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
-*   [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
-*   [Awesome WatchOS GitHub](https://github.com/yenchenlin1994/awesome-watchos)
+* [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
+* [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
+* [Awesome iOS GitHub](https://github.com/vsouza/awesome-ios)
+* [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
+* [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+* [Awesome WatchOS GitHub](https://github.com/yenchenlin1994/awesome-watchos)
 
 Awesome Python and Django
-*   [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
-*   [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-*   [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-*   [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-*   [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
+* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
 
 Awesome Data Science
-*   [Awesome Data Science GitHub](https://github.com/okulbilisim/awesome-datascience)  
-*   [Awesome Big Data GitHub](https://github.com/onurakpolat/awesome-bigdata)  
-*   [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
-*   [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
+* [Awesome Data Science GitHub](https://github.com/okulbilisim/awesome-datascience)  
+* [Awesome Big Data GitHub](https://github.com/onurakpolat/awesome-bigdata)  
+* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
 
 Awesome- More
-*   [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
-*   [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
-*   [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
-*   [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
-*   [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
-*   [Awesome Material GitHub](https://github.com/sachin1092/awesome-material)
-*   [Awesome React GitHub](https://github.com/enaqx/awesome-react)
-*   [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
-*   [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin)  
-*   [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php) 
-*   [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
-*   [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop) 
-*   [Awesome Share GitHub](https://github.com/vinkla/awesome-share)
-*   [Awesome Projects Boilerplates GitHub](https://github.com/melvin0008/awesome-projects-boilerplates)
+* [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
+* [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
+* [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
+* [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
+* [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
+* [Awesome Material GitHub](https://github.com/sachin1092/awesome-material)
+* [Awesome React GitHub](https://github.com/enaqx/awesome-react)
+* [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
+* [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin)  
+* [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php) 
+* [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
+* [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop) 
+* [Awesome Share GitHub](https://github.com/vinkla/awesome-share)
+* [Awesome Projects Boilerplates GitHub](https://github.com/melvin0008/awesome-projects-boilerplates)
 
 Book Lists
-*   [Bookicious](http://www.bookicious.com/collections)
-*   [Bookstck](http://bookstck.tumblr.com)
+* [Bookicious](http://www.bookicious.com/collections)
+* [Bookstck](http://bookstck.tumblr.com)
 
 #### Vocabulary
 
 General
-*   [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
-*   [Consumer Surplus Wikipedia](http://www.investopedia.com/terms/c/consumer_surplus.asp) and [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
-*   [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
-*   [Globalization Wikipedia](https://en.wikipedia.org/wiki/Globalization)
-*   [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
-*   [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
-*   [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
-*   [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
-*   [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
-*   [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-*   [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
-*   [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
-*   [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
+* [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
+* [Consumer Surplus Wikipedia](http://www.investopedia.com/terms/c/consumer_surplus.asp) and [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
+* [External Pricing Wikipedia](https://en.wikipedia.org/wiki/Externality)
+* [Globalization Wikipedia](https://en.wikipedia.org/wiki/Globalization)
+* [Gross Domestic Product Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
+* [Inflation Wikipedia](http://en.wikipedia.org/wiki/Inflation) 
+* [Inflection Point Wikipedia](http://en.wikipedia.org/wiki/Inflection_point) 
+* [Laffer Curve Wikipedia](http://en.wikipedia.org/wiki/Laffer_curve)
+* [Pricing Power](http://www.investopedia.com/terms/p/pricingpower.asp)
+* [Purchasing Price Parity Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+* [Quantitative Easing Wikipedia](http://en.wikipedia.org/wiki/Quantitative_easing)  
+* [Zero Sum Game Wikipedia](http://en.wikipedia.org/wiki/Zero-sum_game) 
+* [Two Sided Marketplace Wikipedia](http://en.wikipedia.org/wiki/Two-sided_market)
 
 Statements
-*   [Annual Report Wikipedia](https://en.wikipedia.org/wiki/Annual_report)
-*   [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
+* [Annual Report Wikipedia](https://en.wikipedia.org/wiki/Annual_report)
+* [Income Statement Wikipedia](https://en.wikipedia.org/wiki/Income_statement)
 
 Return
-*   [Return on investment Wikipedia](https://en.wikipedia.org/wiki/Return_on_investment)
-*   [Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Rate_of_return)
-*   [Return on Assets Wikipedia](https://en.wikipedia.org/wiki/Return_on_assets)
-*   [Return on Capital Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital)
-*   [Return on Equity Wikipedia](https://en.wikipedia.org/wiki/Return_on_equity)
+* [Return on investment Wikipedia](https://en.wikipedia.org/wiki/Return_on_investment)
+* [Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Rate_of_return)
+* [Return on Assets Wikipedia](https://en.wikipedia.org/wiki/Return_on_assets)
+* [Return on Capital Wikipedia](https://en.wikipedia.org/wiki/Return_on_capital)
+* [Return on Equity Wikipedia](https://en.wikipedia.org/wiki/Return_on_equity)
 
 Accounting
-*   [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
-*   [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
-*   [Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Cost_of_capital)
-*   [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
-*   [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
-*   [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
+* [Capital Expenditure Wikipedia](https://en.wikipedia.org/wiki/Capital_expenditure)
+* [Compounding Interest Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
+* [Cost of Capital Wikipedia](https://en.wikipedia.org/wiki/Cost_of_capital)
+* [EBIDTA Wikipedia](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization)
+* [Operating Expense Wikipedia](https://en.wikipedia.org/wiki/Operating_expense)
+* [Year over Year](http://www.investopedia.com/terms/y/year-over-year.asp)
 
 Financial
-*   [Capital Budgeting Wikipedia](https://en.wikipedia.org/wiki/Capital_budgeting)
-*   [Cash Flow Wikipedia](https://en.wikipedia.org/wiki/Cash_flow)
-*   [Cash Flow Forecasting Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_forecasting)
+* [Capital Budgeting Wikipedia](https://en.wikipedia.org/wiki/Capital_budgeting)
+* [Cash Flow Wikipedia](https://en.wikipedia.org/wiki/Cash_flow)
+* [Cash Flow Forecasting Wikipedia](https://en.wikipedia.org/wiki/Cash_flow_forecasting)
 
 Time Value of Money
-*   [Adjusted Present Value Wikipedia](https://en.wikipedia.org/wiki/Adjusted_present_value)
-*   [Discounted Cash Flow Wikipedia](https://en.wikipedia.org/wiki/Discounted_cash_flow)
-*   [Discounting Wikipedia](https://en.wikipedia.org/wiki/Discounting)
-*   [Economic Value Added Wikipedia](https://en.wikipedia.org/wiki/Economic_Value_Added)
-*   [Future Value Wikipedia](https://en.wikipedia.org/wiki/Future_value)
-*   [Internal Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Internal_rate_of_return)
-*   [Market Value Added Wikipedia](https://en.wikipedia.org/wiki/Market_value_added)
-*   [Net Present Value Wikipedia](https://en.wikipedia.org/wiki/Net_present_value)
-*   [Present Value Wikipedia](https://en.wikipedia.org/wiki/Present_value)
-*   [Time Value of Money Wikipedia](https://en.wikipedia.org/wiki/Time_value_of_money)
+* [Adjusted Present Value Wikipedia](https://en.wikipedia.org/wiki/Adjusted_present_value)
+* [Discounted Cash Flow Wikipedia](https://en.wikipedia.org/wiki/Discounted_cash_flow)
+* [Discounting Wikipedia](https://en.wikipedia.org/wiki/Discounting)
+* [Economic Value Added Wikipedia](https://en.wikipedia.org/wiki/Economic_Value_Added)
+* [Future Value Wikipedia](https://en.wikipedia.org/wiki/Future_value)
+* [Internal Rate of Return Wikipedia](https://en.wikipedia.org/wiki/Internal_rate_of_return)
+* [Market Value Added Wikipedia](https://en.wikipedia.org/wiki/Market_value_added)
+* [Net Present Value Wikipedia](https://en.wikipedia.org/wiki/Net_present_value)
+* [Present Value Wikipedia](https://en.wikipedia.org/wiki/Present_value)
+* [Time Value of Money Wikipedia](https://en.wikipedia.org/wiki/Time_value_of_money)
 
 Working Capital Management
-*   [Cash Conversion Cycle Wikipedia](https://en.wikipedia.org/wiki/Cash_conversion_cycle)
-*   [Discounts and Allowances Wikipedia](https://en.wikipedia.org/wiki/Discounts_and_allowances)
-*   [Economic Order Quantity Wikipedia](https://en.wikipedia.org/wiki/Economic_order_quantity)
-*   [Economic Value Added Wikipedia](https://en.wikipedia.org/wiki/Economic_Value_Added)
-*   [Factoring (finance) Wikipedia](https://en.wikipedia.org/wiki/Factoring_(finance))
-*   [Just-in-Time Manufacturing Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_manufacturing)
-*   [Lean manufacturing Wikipedia](https://en.wikipedia.org/wiki/Lean_manufacturing)
-*   [Working Capital Wikipedia](https://en.wikipedia.org/wiki/Working_capital)
+* [Cash Conversion Cycle Wikipedia](https://en.wikipedia.org/wiki/Cash_conversion_cycle)
+* [Discounts and Allowances Wikipedia](https://en.wikipedia.org/wiki/Discounts_and_allowances)
+* [Economic Order Quantity Wikipedia](https://en.wikipedia.org/wiki/Economic_order_quantity)
+* [Economic Value Added Wikipedia](https://en.wikipedia.org/wiki/Economic_Value_Added)
+* [Factoring (finance) Wikipedia](https://en.wikipedia.org/wiki/Factoring_(finance))
+* [Just-in-Time Manufacturing Wikipedia](https://en.wikipedia.org/wiki/Just-in-time_manufacturing)
+* [Lean manufacturing Wikipedia](https://en.wikipedia.org/wiki/Lean_manufacturing)
+* [Working Capital Wikipedia](https://en.wikipedia.org/wiki/Working_capital)
 
 Analysis
-*   [Analysis Wikipedia](https://en.wikipedia.org/wiki/Analysis)
-*   [Business Analysis Wikipedia](https://en.wikipedia.org/wiki/Business_analysis)
-*   [Financial Analysis Wikipedia](https://en.wikipedia.org/wiki/Financial_analysis)
-*   [Financial Analyst Wikipedia](https://en.wikipedia.org/wiki/Financial_analyst)
-*   [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
-*   [Quantitative Analyst Wikipedia](https://en.wikipedia.org/wiki/Quantitative_analyst)
-*   [Systems Analysis Wikipedia](https://en.wikipedia.org/wiki/Systems_analysis)
+* [Analysis Wikipedia](https://en.wikipedia.org/wiki/Analysis)
+* [Business Analysis Wikipedia](https://en.wikipedia.org/wiki/Business_analysis)
+* [Financial Analysis Wikipedia](https://en.wikipedia.org/wiki/Financial_analysis)
+* [Financial Analyst Wikipedia](https://en.wikipedia.org/wiki/Financial_analyst)
+* [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
+* [Quantitative Analyst Wikipedia](https://en.wikipedia.org/wiki/Quantitative_analyst)
+* [Systems Analysis Wikipedia](https://en.wikipedia.org/wiki/Systems_analysis)
 
 Business Model
-*   [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
-*   [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
+* [Loss Leader Wikipedia](https://en.wikipedia.org/wiki/Loss_leader)
+* [Complementary Good Wikipedia](https://en.wikipedia.org/wiki/Complementary_good)
 
 Entrepreneurship and Intrapreneurship 
-*   [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
-*   [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
-*   [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
-*   [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
-*   [Karass](https://en.wiktionary.org/wiki/karass)
-*   [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
-*   [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
-*   [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
-*   [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
-*   [Tacit Knowledge Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
+* [Early Adopter Wikipedia](http://en.wikipedia.org/wiki/Early_adopter)
+* [Hockey Stick Graph (Growth Curve) Wikipedia](http://en.wikipedia.org/wiki/Hockey_stick_graph )
+* [Intrapreneurship Wikipedia](http://en.wikipedia.org/wiki/Intrapreneurship)
+* [Jugaad (Innovation) Wikipedia](http://en.wikipedia.org/wiki/Jugaad)
+* [Karass](https://en.wiktionary.org/wiki/karass)
+* [Reverse Innovation Wikipedia](http://en.wikipedia.org/wiki/Reverse_innovation)
+* [Reverse Mentoring](http://www.techopedia.com/definition/28107/reverse-mentoring)
+* [Shoshin Wikipedia](https://en.wikipedia.org/wiki/Shoshin)
+* [Synergy Wikipedia](https://en.wikipedia.org/wiki/Synergy)
+* [Tacit Knowledge Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
 
 Ops
-*   [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
-*   [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
-*   [Holacracy Wikipedia](https://en.wikipedia.org/wiki/Holacracy)
-*   Teal
+* [Employee Retention Wikipedia](https://en.wikipedia.org/wiki/Employee_retention)
+* [Productivity Wikipedia](https://en.wikipedia.org/wiki/Productivity)
+* [Holacracy Wikipedia](https://en.wikipedia.org/wiki/Holacracy)
+*  Teal
 
 Programming
-*   [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
-*   [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
-*   [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
+* [Gamification Wikipedia](http://en.wikipedia.org/wiki/Gamification)
+* [Single Player Video Game Wikipedia](http://en.wikipedia.org/wiki/Single-player_video_game)
+* [Technical Debt Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)
 
 Office
-*   [Front Office Wikipedia](https://en.wikipedia.org/wiki/Front_office)
-*   [Middle Office Wikipedia](https://en.wikipedia.org/wiki/Middle_office)
-*   [Back Office Wikipedia](https://en.wikipedia.org/wiki/Back_office)
+* [Front Office Wikipedia](https://en.wikipedia.org/wiki/Front_office)
+* [Middle Office Wikipedia](https://en.wikipedia.org/wiki/Middle_office)
+* [Back Office Wikipedia](https://en.wikipedia.org/wiki/Back_office)
 
 Topics
-*   [Wikipedia Portal: Business and Economics](https://en.wikipedia.org/wiki/Portal:Business_and_economics)
-*   [Accounting Wikipedia](https://en.wikipedia.org/wiki/Accounting)
-*   [Finance Wikipedia](https://en.wikipedia.org/wiki/Finance)
-*   [Financial Risk Wikipedia](https://en.wikipedia.org/wiki/Financial_risk)
-*   [Business Administration Wikipedia](https://en.wikipedia.org/wiki/Business_administration)
-*   [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
-*   [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
-*   [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
-*   [Corporate Law Wikipedia](https://en.wikipedia.org/wiki/Corporate_law)
-*   [Tax Wikipedia](https://en.wikipedia.org/wiki/Tax)
+* [Wikipedia Portal: Business and Economics](https://en.wikipedia.org/wiki/Portal:Business_and_economics)
+* [Accounting Wikipedia](https://en.wikipedia.org/wiki/Accounting)
+* [Finance Wikipedia](https://en.wikipedia.org/wiki/Finance)
+* [Financial Risk Wikipedia](https://en.wikipedia.org/wiki/Financial_risk)
+* [Business Administration Wikipedia](https://en.wikipedia.org/wiki/Business_administration)
+* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
+* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
+* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+* [Corporate Law Wikipedia](https://en.wikipedia.org/wiki/Corporate_law)
+* [Tax Wikipedia](https://en.wikipedia.org/wiki/Tax)
 
 Laws, Theories, Logic  
-*   [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
-*   [List of Memory Biases Wikipedia](https://en.wikipedia.org/wiki/List_of_memory_biases)
-*   [List of Laws Wikipedia](http://en.wikipedia.org/wiki/List_of_laws) 
-*   [Baumol's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
-*   [Benford's Law Wikipedia](http://en.wikipedia.org/wiki/Benford%27s_law)  
-*   [Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
-*   [Blue Sky Thinking](https://en.wiktionary.org/wiki/blue-sky_thinking)
-*   [Brook's Law (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law)
-*   [Clark's Three Laws Wikipedia](http://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
-*   [Coase Theorem Wikipedia](http://en.wikipedia.org/wiki/Coase_theorem)  
-*   [Conway's Law (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
-*   [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
-*   [Dunning–Kruger Effect Wikipedia](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
-*   [Echo Chamber Wikipedia](http://en.wikipedia.org/wiki/Echo_chamber_%28media%29)  
-*   [Ephemeralization Wikipedia](http://en.wikipedia.org/wiki/Ephemeralization)  
-*   Eroom's Law
-*   [False Dilemma (Dichotomy) Wikipedia](https://en.wikipedia.org/wiki/False_dilemma)
-*   [False Positive Wikipedia](http://en.wikipedia.org/wiki/False_positive)  
-*   [Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
-*   [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
-*   [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
-*   [Flynn Effect Wikipedia](https://en.wikipedia.org/wiki/Flynn_effect)
-*   [Forcing Function Wikipedia](https://en.wikipedia.org/wiki/Forcing_function)
-*   [Free Rider Problem Wikipedia](https://en.wikipedia.org/wiki/Free_rider_problem)
-*   [Friendship Paradox Wikipedia](https://en.wikipedia.org/wiki/Friendship_paradox)
-*   [God's Algorithm Wikipedia](http://en.wikipedia.org/wiki/God%27s_algorithm)  
-*   [Godwin's Law Wikipedia](https://en.wikipedia.org/wiki/Godwin%27s_Law)
-*   [Goodhart's Law Wikipedia](https://en.wikipedia.org/wiki/Goodhart%27s_law)
-*   [Good Old Days Wikipedia](http://rationalwiki.org/wiki/Good_old_days)   
-*   [Gordian Knot Wikipedia](https://en.wikipedia.org/wiki/Gordian_Knot)
-*   [Groupthink Wikipedia](https://en.wikipedia.org/wiki/Groupthink)
-*   [Herd Behavior Wikipedia](https://en.wikipedia.org/wiki/Herd_behavior)
-*   [Herd Mentality Wikipedia](https://en.wikipedia.org/wiki/Herd_mentality) and [Ochlocracy Wikipedia](https://en.wikipedia.org/wiki/Ochlocracy)
-*   [Hipster Paradox *can't believe I'm referencing the Daily Mail here*](http://www.dailymail.co.uk/sciencetech/article-2823245/The-science-HIPSTERS-Mathematical-equation-shows-trying-look-different-ultimately-makes-look-SAME.html)
-*   [Hotelling's Rule Wikipedia](http://en.wikipedia.org/wiki/Hotelling's_rule)  
-*   [If By Whiskey Wikipedia](http://en.wikipedia.org/wiki/If-by-whiskey)  
-*   [Indicator of Compromise Wikipedia](http://en.wikipedia.org/wiki/Indicator_of_compromise)  
-*   [Information Paradox (Arrow) Wikipedia](https://en.wikipedia.org/wiki/Arrow_information_paradox)
-*   [Is-Ought Problem Wikipedia](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)  
-*   [Gall's Law Wikipedia](http://en.wikipedia.org/wiki/John_Gall_%28author%29#Gall.27s_law)   
-*   [Joy's Law Wikipedia](http://en.wikipedia.org/wiki/Joy%27s_Law_%28management%29)  
-*   [Law of the Instrument Wikipedia](https://en.wikipedia.org/wiki/Law_of_the_instrument)
-*   [Lindy Effect Wikipedia](https://en.wikipedia.org/wiki/Lindy_Effect) 
-*   [Magical Thinking Wikipedia](https://en.wikipedia.org/wiki/Magical_thinking)
-*   [Memory Hole Wikipedia](http://en.wikipedia.org/wiki/Memory_hole)  
-*   [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
-*   [Metcalf's Law Wikipedia](http://en.wikipedia.org/wiki/Metcalfe%27s_law)  
-*   [Minority Influence Wikipedia](http://en.wikipedia.org/wiki/Minority_influence)   
-*   [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
-*   [Murphy's Law Wikipedia](https://en.wikipedia.org/wiki/Murphy%27s_law)
-*   [No True Scotsman Wikipedia](http://en.wikipedia.org/wiki/No_true_Scotsman)  
-*   [Optimism Bias Wikipedia](http://en.wikipedia.org/wiki/Optimism_bias)  
-*   [Pareidolia Wikipedia](https://en.wikipedia.org/wiki/Pareidolia)
-*   [Parkinson's Law of Triviality (Bikeshedding) Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
-*   [Pascal's Wager Wikipedia](https://en.wikipedia.org/wiki/Pascal%27s_Wager)
-*   [Pattern Matching Wikipedia](https://en.wikipedia.org/wiki/Pattern_matching)
-*   [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
-*   [Peto's Paradox Wikipedia](https://en.wikipedia.org/wiki/Peto%27s_paradox)   
-*   [Poe's Law Wikipedia](https://en.wikipedia.org/wiki/Poe%27s_law)
-*   [Precautionary Principle Wikipedia](https://en.wikipedia.org/wiki/Precautionary_principle)
-*   [Prisoner's Dilemma Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
-*   [Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
-*   [Rock's Law (or Moore's Second Law) Wikipedia](https://en.wikipedia.org/wiki/Rock%27s_law)
-*   [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
-*   [Satisficing (versus Optimizing) Wikipedia](https://en.wikipedia.org/wiki/Satisficing)
-*   [Selection Bias Wikipedia](http://en.wikipedia.org/wiki/Selection_bias)
-*   [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
-*   [Silent Majority Wikipedia](https://en.wikipedia.org/wiki/Silent_majority)
-*   [Simpson's Paradox Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
-*   [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
-*   [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
-*   [Stein's Law Wikipedia](https://en.wikipedia.org/wiki/Herbert_Stein#Philosophy)
-*   [Stockdale Paradox Wikipedia](https://en.wikipedia.org/wiki/James_Stockdale#Prisoner_of_war)
-*   [Streetlight Effect Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect)
-*   [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
-*   [Sisyphus (Sisyphean Task) Wikipedia](https://en.wikipedia.org/wiki/Sisyphus)
-*   The Babe Ruth Effect via [Chris Dixon](https://twitter.com/cdixon)
-*   [The Golden Rule Wikipedia](https://en.wikipedia.org/wiki/Golden_Rule)
-*   [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
-*   The Pie Fallacy
-*   [Tiebout Model Wikipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
-*   [Unintended Consequences (The Law of) Wikipedia](https://en.wikipedia.org/wiki/Unintended_consequences)
+* [List of Cognitive Biases Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) 
+* [List of Memory Biases Wikipedia](https://en.wikipedia.org/wiki/List_of_memory_biases)
+* [List of Laws Wikipedia](http://en.wikipedia.org/wiki/List_of_laws) 
+* [Baumol's Cost Disease Wikipedia](http://en.wikipedia.org/wiki/Baumol's_cost_disease)  
+* [Benford's Law Wikipedia](http://en.wikipedia.org/wiki/Benford%27s_law)  
+* [Betteridge Law of Headlines Wikipedia](http://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
+* [Blue Sky Thinking](https://en.wiktionary.org/wiki/blue-sky_thinking)
+* [Brook's Law (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law)
+* [Clark's Three Laws Wikipedia](http://en.wikipedia.org/wiki/Clarke%27s_three_laws)  
+* [Coase Theorem Wikipedia](http://en.wikipedia.org/wiki/Coase_theorem)  
+* [Conway's Law (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
+* [Diminishing Returns Wikipedia](http://en.wikipedia.org/wiki/Diminishing_returns) 
+* [Dunning–Kruger Effect Wikipedia](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)  
+* [Echo Chamber Wikipedia](http://en.wikipedia.org/wiki/Echo_chamber_%28media%29)  
+* [Ephemeralization Wikipedia](http://en.wikipedia.org/wiki/Ephemeralization)  
+* Eroom's Law
+* [False Dilemma (Dichotomy) Wikipedia](https://en.wikipedia.org/wiki/False_dilemma)
+* [False Positive Wikipedia](http://en.wikipedia.org/wiki/False_positive)  
+* [Faustian Bargain Wikipedia](http://en.wikipedia.org/wiki/Deal_with_the_Devil)  
+* [First Mover Advantage Wikipedia](http://en.wikipedia.org/wiki/First-mover_advantage)
+* [First Principle Wikipedia](http://en.wikipedia.org/wiki/First_principle)  
+* [Flynn Effect Wikipedia](https://en.wikipedia.org/wiki/Flynn_effect)
+* [Forcing Function Wikipedia](https://en.wikipedia.org/wiki/Forcing_function)
+* [Free Rider Problem Wikipedia](https://en.wikipedia.org/wiki/Free_rider_problem)
+* [Friendship Paradox Wikipedia](https://en.wikipedia.org/wiki/Friendship_paradox)
+* [God's Algorithm Wikipedia](http://en.wikipedia.org/wiki/God%27s_algorithm)  
+* [Godwin's Law Wikipedia](https://en.wikipedia.org/wiki/Godwin%27s_Law)
+* [Goodhart's Law Wikipedia](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+* [Good Old Days Wikipedia](http://rationalwiki.org/wiki/Good_old_days)   
+* [Gordian Knot Wikipedia](https://en.wikipedia.org/wiki/Gordian_Knot)
+* [Groupthink Wikipedia](https://en.wikipedia.org/wiki/Groupthink)
+* [Herd Behavior Wikipedia](https://en.wikipedia.org/wiki/Herd_behavior)
+* [Herd Mentality Wikipedia](https://en.wikipedia.org/wiki/Herd_mentality) and [Ochlocracy Wikipedia](https://en.wikipedia.org/wiki/Ochlocracy)
+* [Hipster Paradox *can't believe I'm referencing the Daily Mail here*](http://www.dailymail.co.uk/sciencetech/article-2823245/The-science-HIPSTERS-Mathematical-equation-shows-trying-look-different-ultimately-makes-look-SAME.html)
+* [Hotelling's Rule Wikipedia](http://en.wikipedia.org/wiki/Hotelling's_rule)  
+* [If By Whiskey Wikipedia](http://en.wikipedia.org/wiki/If-by-whiskey)  
+* [Indicator of Compromise Wikipedia](http://en.wikipedia.org/wiki/Indicator_of_compromise)  
+* [Information Paradox (Arrow) Wikipedia](https://en.wikipedia.org/wiki/Arrow_information_paradox)
+* [Is-Ought Problem Wikipedia](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)  
+* [Gall's Law Wikipedia](http://en.wikipedia.org/wiki/John_Gall_%28author%29#Gall.27s_law)   
+* [Joy's Law Wikipedia](http://en.wikipedia.org/wiki/Joy%27s_Law_%28management%29)  
+* [Law of the Instrument Wikipedia](https://en.wikipedia.org/wiki/Law_of_the_instrument)
+* [Lindy Effect Wikipedia](https://en.wikipedia.org/wiki/Lindy_Effect) 
+* [Magical Thinking Wikipedia](https://en.wikipedia.org/wiki/Magical_thinking)
+* [Memory Hole Wikipedia](http://en.wikipedia.org/wiki/Memory_hole)  
+* [Meritocracy Wikipedia](http://en.wikipedia.org/wiki/Meritocracy)
+* [Metcalf's Law Wikipedia](http://en.wikipedia.org/wiki/Metcalfe%27s_law)  
+* [Minority Influence Wikipedia](http://en.wikipedia.org/wiki/Minority_influence)   
+* [Moore's Law Wikipedia](http://en.wikipedia.org/wiki/Moore's_law) 
+* [Murphy's Law Wikipedia](https://en.wikipedia.org/wiki/Murphy%27s_law)
+* [No True Scotsman Wikipedia](http://en.wikipedia.org/wiki/No_true_Scotsman)  
+* [Optimism Bias Wikipedia](http://en.wikipedia.org/wiki/Optimism_bias)  
+* [Pareidolia Wikipedia](https://en.wikipedia.org/wiki/Pareidolia)
+* [Parkinson's Law of Triviality (Bikeshedding) Wikipedia](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
+* [Pascal's Wager Wikipedia](https://en.wikipedia.org/wiki/Pascal%27s_Wager)
+* [Pattern Matching Wikipedia](https://en.wikipedia.org/wiki/Pattern_matching)
+* [Peter Principle Wikipedia](http://en.wikipedia.org/wiki/Peter_Principle)   
+* [Peto's Paradox Wikipedia](https://en.wikipedia.org/wiki/Peto%27s_paradox)   
+* [Poe's Law Wikipedia](https://en.wikipedia.org/wiki/Poe%27s_law)
+* [Precautionary Principle Wikipedia](https://en.wikipedia.org/wiki/Precautionary_principle)
+* [Prisoner's Dilemma Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+* [Resource Curse Wikipedia](http://en.wikipedia.org/wiki/Resource_curse)  
+* [Rock's Law (or Moore's Second Law) Wikipedia](https://en.wikipedia.org/wiki/Rock%27s_law)
+* [Rube Goldberg Machine Wikipedia](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)  
+* [Satisficing (versus Optimizing) Wikipedia](https://en.wikipedia.org/wiki/Satisficing)
+* [Selection Bias Wikipedia](http://en.wikipedia.org/wiki/Selection_bias)
+* [Shannon–Hartley Theorem Wikipedia](http://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)  
+* [Silent Majority Wikipedia](https://en.wikipedia.org/wiki/Silent_majority)
+* [Simpson's Paradox Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+* [Ski Rental Problem Wikipedia](http://en.wikipedia.org/wiki/Ski_rental_problem)  
+* [Smiling Curve Wikipedia](http://en.wikipedia.org/wiki/Smiling_curve)  
+* [Stein's Law Wikipedia](https://en.wikipedia.org/wiki/Herbert_Stein#Philosophy)
+* [Stockdale Paradox Wikipedia](https://en.wikipedia.org/wiki/James_Stockdale#Prisoner_of_war)
+* [Streetlight Effect Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect)
+* [Survivorship Bias Wikipedia](http://en.wikipedia.org/wiki/Survivorship_bias)  
+* [Sisyphus (Sisyphean Task) Wikipedia](https://en.wikipedia.org/wiki/Sisyphus)
+* The Babe Ruth Effect via [Chris Dixon](https://twitter.com/cdixon)
+* [The Golden Rule Wikipedia](https://en.wikipedia.org/wiki/Golden_Rule)
+* [The Paradox of Choice Wikipedia](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
+* The Pie Fallacy
+* [Tiebout Model Wikipedia](http://en.wikipedia.org/wiki/Tiebout_model) 
+* [Unintended Consequences (The Law of) Wikipedia](https://en.wikipedia.org/wiki/Unintended_consequences)
 
 [Back to Top](#)
