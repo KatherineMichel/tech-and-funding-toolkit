@@ -1691,9 +1691,7 @@ Idea State Machine and Idea Maze
 
 List
 * [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
-* [Usability Gov Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
-* [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
-
+ 
 #### Surveys, Trends, Stats
 
 Surveys
@@ -5108,9 +5106,8 @@ General Terminology
 
 #### Launch Strategies
 
-Launch Guides
-* [App Launch Guide](https://github.com/adamwulf/app-launch-guide) 
-* [Marketing Checklist for Indie Game Developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers)
+Launch Guides: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 General
 * [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
