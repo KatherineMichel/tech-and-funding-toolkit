@@ -2069,25 +2069,24 @@ U.K. Government
 * [Data Gov U.K.](https://github.com/datagovuk) 
 -->
 
-U.S. Gov., U.K. Gov., Usability Gov., Australian Gov., Presidential Innovation Fellows, Code for America- GitHub: See
+U.S. Gov., Consumer Financial Protection Bureau, Department of Veterans Affairs, Presidential Innovation Fellows, Usability Gov., Code for America, U.K. Gov., Australian Gov., - GitHub: See
 * [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
+
+U.S. Gov., U.K. Gov., Usability Gov., Australian Gov.: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
 * [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
-* [C.I.O. Playbook GitHub](https://github.com/whitehouse/playbook) 
-
+ 
 U.S. Gov.- General Services Administration- GitHub
 * [G.S.A. Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
 * [G.S.A. U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
 
 U.S. Gov- Consumer Financial Protection Bureau- GitHub
-* [Consumer Financial Protection Bureau GitHub](http://cfpb.github.io)
+* [Consumer Financial Protection Bureau](http://cfpb.github.io)
 * [Consumer Financial Protection Bureau Source Code Policy GitHub](https://github.com/cfpb/source-code-policy)
-* [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
-* [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
 
 U.S. Gov- Department of Veterans Affairs- GitHub
-* [Department of Veterans Affairs GitHub](https://github.com/department-of-veterans-affairs/dsva)
 * [Department of Veterans Affairs Data GitHub](https://github.com/va-data)
 * [Department of Veterans Affairs Developer Area GitHub](https://github.com/va-data/va-developer)
 
@@ -2099,12 +2098,6 @@ U.S. Gov- 18F- GitHub
 * [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
 * [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
 * [18F HTTPS](https://github.com/18F/https) 
-
-Australian Gov.- GitHub
-* [Australia Digital Transformation Office Digital Service Standard GitHub](https://github.com/AusDTO/Digital-Service-Standard) 
-
-U.S. Gov., U.K. Gov., Usability Gov., Australian Gov.: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 BBC
 * [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
