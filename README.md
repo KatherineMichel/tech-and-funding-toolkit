@@ -4,6 +4,7 @@ Curated list of high quality resources, mostly free. See also...
 
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
+* [Organizations on GitHub](https://github.com/KatherineMichel/organizations-on-github)
 
 Table of Contents
 -----------------
