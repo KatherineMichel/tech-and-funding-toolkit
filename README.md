@@ -50,9 +50,7 @@ Table of Contents
   - [Basics](#basics)
   - [Code Sprints](#code-sprints) 
   - [Government Digital](#government-digital)
-  - [Google Ventures Research Sprint](#google-ventures-research-sprint)
-  - [Google Ventures Design Sprint](#google-ventures-design-sprint)
-  - [Google Ventures Research and Design Sprint Supporting Docs](#google-ventures-research-and-design-sprint-supporting-docs)
+  - [Google Ventures Research and Design Sprint](#google-ventures-research-and-design-sprint)
   - [Google Design Sprint](#google-design-sprint)
   - [Non-Google Ventures Research and Design Sprints](#non-google-ventures-research-and-design-sprints)
   - [More Research and Design Toolkits](#more-research-and-design-toolkits) 
@@ -2008,6 +2006,9 @@ Improvement Schools of Thought
 
 #### Research and Design Sprints
 
+See Also
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
 #### Basics
 
 Heuristic
@@ -2159,43 +2160,15 @@ U.S. Aid Learning Lab
 * [U.S. Aid Library](http://usaidlearninglab.org/library)
 * [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
 
-#### Google Ventures Research Sprint
+#### Google Ventures Research and Design Sprint
 
-* [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
-* [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions), [Day 1](http://www.gv.com/lib/the-gv-research-sprint-day-1), [Day 2](http://www.gv.com/lib/the-gv-research-sprint-day-2), [Day 3](http://www.gv.com/lib/the-gv-research-sprint-day-3), [Day 4](http://www.gv.com/lib/the-gv-research-sprint-day-4) 
+See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
-#### Google Ventures Design Sprint
-
-* [Google Ventures Design Sprint Book](http://www.thesprintbook.com)
-
-* [Google Ventures Library- Design](http://www.gv.com/library/design) and [Google Ventures Design Studio](http://www.gv.com/#design-studio) 
-* [Google Ventures Design Sprint](http://www.gv.com/sprint), [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage), and [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
-* [Google Ventures Design Sprint Day 1 Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1), [Day 2 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2), [Day 3 Decide](http://www.gv.com/lib/the-product-design-sprint-decideday3), [Day 4 Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4), [Day 5 Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5) 
-* [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
-* [Dave Brubeck: Blue Rondo A La Turk](https://www.youtube.com/watch?v=PD21CBN6KkE)
-
-Google Ventures Design Sprint- Fast Co (Basically Redundant)
-* [Fast Co Google Ventures How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint), [Fast Co Google Ventures From Google Ventures, The 6 Ingredients You Need To Run A Design Sprint (Setting the Stage)](http://www.fastcodesign.com/1672889/from-google-ventures-the-6-ingredients-you-need-to-run-a-design-sprint), [Fast Co Google Ventures The First Step In A Design Challenge: Build Team Understanding](http://www.fastcodesign.com/1672905/the-first-step-in-a-design-challenge-build-team-understanding), [Fast Co Google Ventures Design Sprint The 8 Steps To Creating A Great Storyboard](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard), [Fast Co Google Ventures Design Sprint How To Decide What Ideas To Prototype](http://www.fastcodesign.com/1672929/how-to-decide-what-ideas-to-prototype), and [Fast Co Google Ventures Design Sprint A Lightning-Fast Way To Make A Digital Prototype](http://www.fastcodesign.com/1672940/a-lightning-fast-way-to-make-a-digital-prototype) 
-
-#### Google Ventures Research and Design Sprint Supporting Docs
-
-* [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
-* [Google Ventures Research Plan and Interview Guide](http://www.gv.com/ds-redirect/images/content/research-worksheet.pdf)  
-* [Google Ventures Research Sprint Sample Craig's List Ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png)  
-* [Google Ventures Research Sprint Sample NDA (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)  
-* [Google Ventures Research Sprint Sample Recruiting Screener Worksheet #1 (Also in PDF)](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) and [Sample Recruiting Screener Worksheet #2](https://drive.google.com/previewtemplate?id=1E96r55rFIXcpMWhcVADL2aX11Q5MaS8IifvFIE1pLGs&mode=public&ddrp=1#) 
-* [Google Forms: About](http://www.google.com/forms/about) and [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
-* [Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png), [Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform), and [Sample Recruiting Screener Example #2 (Also in PDF)](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0)  
-* [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 #### Google Design Sprint
 
-* [Udacity Google Product Design: Validation and UX Through Design Sprints](https://www.udacity.com/course/product-design--ud509)
-* [Google I/O 2014 - The design sprint: from Google Ventures to GoogleX](https://www.youtube.com/watch?v=aWQUSiOZ0x8)
-* [Google Design Sprint](https://developers.google.com/design-sprint)  
-* [Google Design Sprint Personas](https://developers.google.com/design-sprint/downloads/DesignSprint-Personas.pdf)
-* [Google Product Design Sprint](https://developers.google.com/design-sprint/product) and [PDF](https://developers.google.com/design-sprint/downloads/DesignSprintMethods.pdf)
-* [Google New Form Factors Design Sprint](https://developers.google.com/design-sprint/new-form-factors) and [PDF](https://developers.google.com/design-sprint/downloads/DesignSprint-NewFormFactors.pdf), [Android Wear Flow](https://developers.google.com/design-sprint/downloads/DesignSprint-AndroidWearFlow.pdf) and [Presentation](https://docs.google.com/presentation/d/1rPGOnfRmIxXiJmGaC_2FYt_bBTR8Euu15U2kNU3auQk/edit#slide=id.p4)
-* [Android Wear Creative Vision](https://developer.android.com/design/wear/creative-vision.html), and [Android Wear Principles](https://developer.android.com/design/wear/principles.html)
+See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 #### Non-Google Ventures Research and Design Sprints
 
