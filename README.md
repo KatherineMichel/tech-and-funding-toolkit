@@ -1445,6 +1445,9 @@ Companies
 
 #### Government and International Data
 
+Australian Gov
+* [Australia Government Data Gov GitHub](http://data.gov.au)
+
 U.S. Departments
 * [The White House](http://www.whitehouse.gov) and [The White House Blog](https://www.whitehouse.gov/blog)
 * [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
@@ -2043,6 +2046,28 @@ MediaPublic
 GitHub Government 
 * [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
 
+U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
+* [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+* [C.I.O. Playbook GitHub](https://github.com/whitehouse/playbook) 
+
+U.S. Gov.- General Services Administration- GitHub
+* [G.S.A. Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
+* [G.S.A. U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
+
+U.S. Gov.- Presidential Innovation Fellows- GitHub
+* [Presidential Innovation Fellows Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
+
+U.S. Gov- Consumer Financial Protection Bureau- GitHub
+* [Consumer Financial Protection Bureau GitHub](http://cfpb.github.io)
+* [Consumer Financial Protection Bureau Source Code Policy GitHub](https://github.com/cfpb/source-code-policy)
+* [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
+* [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
+
+U.S. Gov- Department of Veterans Affairs- GitHub
+* [Department of Veterans Affairs GitHub](https://github.com/department-of-veterans-affairs/dsva)
+* [Department of Veterans Affairs Data GitHub](https://github.com/va-data)
+* [Department of Veterans Affairs Developer Area GitHub](https://github.com/va-data/va-developer)
+
 U.S. Gov- 18F- GitHub
 * [18F GitHub](https://github.com/18F)
 * [18F Pages GitHub](https://github.com/18F/pages)
@@ -2050,13 +2075,12 @@ U.S. Gov- 18F- GitHub
 * [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
 * [18F Analytics Standards GitHub](https://github.com/18F/analytics-standards), and [18F API Standards GitHub](https://github.com/18f/api-standards)
 * [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
+* [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
 * [18F HTTPS](https://github.com/18F/https) 
 
-U.S. Gov- Consumer Financial Protection Bureau- GitHub
-* [Consumer Financial Protection Bureau GitHub](http://cfpb.github.io)
-* [Consumer Financial Protection Bureau Source Code Policy GitHub](https://github.com/cfpb/source-code-policy)
-* [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
-* [Consumer Financial Protection Bureau Jekyll Documentation Template GitHub](https://github.com/cfpb/DOCter)
+U.S. Gov- Code for America- GitHub
+* [Code for America](https://github.com/codeforamerica)
+* [Code for America GitHub](https://github.com/codeforamerica/codeforamerica.org)
 
 U.K. Gov.- GitHub
 * [GOV.UK GitHub](https://github.com/alphagov)
@@ -2079,8 +2103,6 @@ South Africa
 Australian Gov.: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
-* [Australia Government Data Gov GitHub](http://data.gov.au) 
-
 BBC
 * [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
 
@@ -2099,39 +2121,8 @@ U.K. Gov.: See
 U.K. Design Council
 * [U.K. Design Council](http://www.designcouncil.org.uk)
 
-
-
-* [CIO Playbook GitHub](https://github.com/whitehouse/playbook) 
-* [GSA Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
-
-18F- Gov. 
-
-U.S. Gov.- GitHub
-* [Presidential Innovation Fellow Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
-* [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
-* [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
-
-
-CfA GitHub
+U.S. Gov.: Code for America
 * [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
-
-U.S. Gov.
-* [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
-* [18F](https://18f.gsa.gov), [18F Guides](https://pages.18f.gov/guides) and [18F Guides Template](https://pages.18f.gov/guides-template)
-* [18F Grouplets](https://pages.18f.gov/grouplet-playbook) and [18F Methods](https://methods.18f.gov)
-* [18F Open Source Guide](https://pages.18f.gov/open-source-guide)
-* [CIO Playbook Web Design Standards](https://playbook.cio.gov/designstandards) 
-* [CIO Playbook](http://playbook.cio.gov) 
-* [CIO Tech Federal Acquisition Regulation (FAR) Playbook](https://playbook.cio.gov/techfar), [CIO Tech Federal Acquisition Regulation (FAR) Playbook GitHub](https://github.com/WhiteHouse/playbook/blob/gh-pages/_includes/techfar-online.md), and [CIO Tech Federal Acquisition Regulation (FAR) Playbook PDF](https://playbook.cio.gov/assets/TechFAR%20Handbook_2014-08-07.pdf)
-* [DigitalGov Resources](http://www.digitalgov.gov/resources)  
-* [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
-* [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov) 
-
-https://www.vets.gov
-https://www.vets.gov/playbook
-https://pages.18f.gov/accessibility/pagetitles
-
-[Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual)
 
 U.S. Gov.: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
