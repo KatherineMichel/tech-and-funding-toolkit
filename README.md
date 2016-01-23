@@ -2046,6 +2046,27 @@ MediaPublic
 GitHub Government 
 * [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
 
+<!--
+Australia, Canada, New Zealand, U.K., U.S.
+Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, Venezuela
+
+European Union
+International
+South Africa
+
+U.S. Gov.
+* [U.S. Aid](https://github.com/USAID)
+* [U.S.A. Gov](https://github.com/usagov)
+* [Open Gov](https://github.com/opengov)  
+
+U.S. Government- Agencies
+* [Department of Labor](https://github.com/USDepartmentofLabor) 
+* [Food and Drug Administration (FDA)](https://github.com/FDA) 
+ 
+U.K. Government
+* [Data Gov U.K.](https://github.com/datagovuk) 
+-->
+
 U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
 * [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
 * [C.I.O. Playbook GitHub](https://github.com/whitehouse/playbook) 
@@ -2083,22 +2104,12 @@ U.S. Gov- Code for America- GitHub
 * [Code for America GitHub](https://github.com/codeforamerica/codeforamerica.org)
 
 U.K. Gov.- GitHub
-* [GOV.UK GitHub](https://github.com/alphagov)
 * [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
 * [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
 * [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
 
 Australian Gov.- GitHub
 * [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard) 
-
-<!--
-Australia, Canada, New Zealand, U.K., U.S.
-Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, Venezuela
-
-European Union
-International
-South Africa
--->
 
 Australian Gov.: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
