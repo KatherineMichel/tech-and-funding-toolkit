@@ -2045,6 +2045,16 @@ MediaPublic
 GitHub Government 
 * [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
 
+U.K. Gov.- GitHub
+* [GOV.UK GitHub](https://github.com/alphagov)
+* [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
+* [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
+* [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
+
+Australian Gov.- GitHub
+* [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard) 
+
+
 <!--
 
 Australia, Canada, New Zealand, U.K., U.S.
@@ -2056,24 +2066,11 @@ South Africa
 
 -->
 
-Australian Gov.
-* [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
-* [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/service-design-process)
-* [Australia Digital Transformation Office Design Guides](https://www.dto.gov.au/design-guides)
-* [Australia Digital Transformation Plan](https://www.dto.gov.au/standard/digital-transformation-plan), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard), [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
-* [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary) and [Sitemap](https://www.dto.gov.au/sitemap)
-* [Australia Digital Transformation Office Website Code GitHub](https://github.com/AusDTO/Digital-Service-Standard) 
+Australian Gov.: See Also
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
 * [Australia Government Data Gov GitHub](http://data.gov.au) 
 
-Australian Government Web Guide (Deprecated)
-* [Australian Government Web Guide (Deprecated)](http://webguide.gov.au)
-* [Australian Government Web Guide (Deprecated), Usability](http://webguide.gov.au/accessibility-usability), [Australian Government Web Guide (Deprecated), Usability Testing](http://webguide.gov.au/accessibility-usability/usability-testing), and [Australian Government Web Guide (deprecated), User Needs Analysis](http://webguide.gov.au/accessibility-usability/user-needs-analysis)
-
-Australian Government Department of Finance Archive
-* [Australian Government Department of Finance Archive](http://www.finance.gov.au/archive)
-* [Australian Government Department of Finance Archive Better Practice Checklists Guidance](http://www.finance.gov.au/archive/agimo-archive/better-practice-checklists-guidance) and [Australian Government Department of Finance Archive Better Practice Checklists](http://www.finance.gov.au/agimo-archive/better-practice-checklists) 
-Australian Gov.- GitHub
-  
 BBC
 * [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
 
@@ -2086,24 +2083,8 @@ The Prince's Trust
 * [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
 * [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
 
-U.K. Gov.: See
+U.K. Gov.: See Also
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-U.K. Gov.
-* [Digital Transformation](https://www.gov.uk/transformation) and [Digital Transformation Blog](https://digitaltransformation.blog.gov.uk)
-* [GOV.UK GitHub](https://github.com/alphagov)
-* [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
-* [U.K. Government Performance](https://www.gov.uk/performance) and [U.K. Government Performance by Device Type](https://www.gov.uk/performance/site-activity/device-type)
-* [Assisted Digital Information Template](https://www.gov.uk/service-manual/assets/documents/assisted-digital-information-template.pdf)
-* [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html), [Assisted Digital Action Plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html), and [Researching Assisted Digital Users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
-* [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
-* [Print Form Template](https://www.gov.uk/service-manual/assets/documents/print-forms/template-form.pdf)
-* [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), [Writing for U.K. Gov](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide), and [U.K. Government Style Guide A to Z](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
-
-U.K. Gov.- GitHub
-* [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
-* [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
-* [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
 
 U.K. Design Council
 * [U.K. Design Council](http://www.designcouncil.org.uk)
@@ -2143,7 +2124,7 @@ U.S. Gov.- GitHub
 * [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
 * [U.S. General Services Administration U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
 
-Usability Gov.: See
+Usability Gov.: See Also
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 U.S. Aid Learning Lab
