@@ -2090,7 +2090,6 @@ U.S. Gov- Department of Veterans Affairs- GitHub
 * [Department of Veterans Affairs Developer Area GitHub](https://github.com/va-data/va-developer)
 
 U.S. Gov- 18F- GitHub
-* [18F GitHub](https://github.com/18F)
 * [18F Pages GitHub](https://github.com/18F/pages)
 * [18F Guides Template GitHub](https://github.com/18F/guides-template)
 * [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
@@ -2100,7 +2099,6 @@ U.S. Gov- 18F- GitHub
 * [18F HTTPS](https://github.com/18F/https) 
 
 U.S. Gov- Code for America- GitHub
-* [Code for America](https://github.com/codeforamerica)
 * [Code for America GitHub](https://github.com/codeforamerica/codeforamerica.org)
 
 U.K. Gov.- GitHub
