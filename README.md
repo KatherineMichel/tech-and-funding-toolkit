@@ -1738,7 +1738,6 @@ Product/Service Directories
 
 Wayback Machine
 * [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
-
 #### Market, Business Models, Pricing, Product Tiers
   
 Market
