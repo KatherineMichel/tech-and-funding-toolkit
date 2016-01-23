@@ -2069,7 +2069,7 @@ U.K. Government
 * [Data Gov U.K.](https://github.com/datagovuk) 
 -->
 
-U.S. Gov., Consumer Financial Protection Bureau, Department of Veterans Affairs, Presidential Innovation Fellows, Usability Gov., Code for America, U.K. Gov., Australian Gov., - GitHub: See
+U.S. Gov., Consumer Financial Protection Bureau, Department of Veterans Affairs, Presidential Innovation Fellows, Usability Gov., 18F, Code for America, U.K. Gov., Australian Gov., - GitHub: See
 * [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
 
 U.S. Gov., U.K. Gov., Usability Gov., Australian Gov.: See
@@ -2091,8 +2091,6 @@ U.S. Gov- Department of Veterans Affairs- GitHub
 * [Department of Veterans Affairs Developer Area GitHub](https://github.com/va-data/va-developer)
 
 U.S. Gov- 18F- GitHub
-* [18F Pages GitHub](https://github.com/18F/pages)
-* [18F Guides Template GitHub](https://github.com/18F/guides-template)
 * [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
 * [18F Analytics Standards GitHub](https://github.com/18F/analytics-standards), and [18F API Standards GitHub](https://github.com/18f/api-standards)
 * [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
