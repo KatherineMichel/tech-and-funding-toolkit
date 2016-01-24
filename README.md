@@ -2020,7 +2020,11 @@ User Centered Design, User Experience, Usability
 * [User Experience Design Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 * [Usability Wikipedia](https://en.wikipedia.org/wiki/Usability_testing)
 
-Use Case
+Methods
+* [Affinity Diagram Wikipedia](https://en.wikipedia.org/wiki/Affinity_diagram)
+* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
+* [Six Thinking Hats Wikipedia](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
+* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
 * [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
 * [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 
