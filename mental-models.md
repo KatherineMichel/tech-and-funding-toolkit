@@ -215,6 +215,12 @@ More Models
 * [Reconciliation Wikipedia](https://en.wikipedia.org/wiki/Reconciliation_(accounting))
 * [Reflexivity Wikipedia](https://en.wikipedia.org/wiki/Reflexivity)
 
+Miscellaneous Metrics
+* [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
+* [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
+* [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
+* [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
+
 General
 * [Commodity Wikipedia](https://en.wikipedia.org/wiki/Commodity)
 * [Consumer Surplus Wikipedia](http://www.investopedia.com/terms/c/consumer_surplus.asp) and [Economic Surplus Wikipedia](https://en.wikipedia.org/wiki/Economic_surplus)
