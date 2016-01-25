@@ -1961,9 +1961,6 @@ BBC
 Estonian E-Residence
 * [Estonian E-Residence](https://e-estonia.com/e-residents/about)
 
-U.K. Design Council
-* [U.K. Design Council](http://www.designcouncil.org.uk)
-
 U.S. Gov.: Code for America
 * [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
 
