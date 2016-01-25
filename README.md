@@ -1675,6 +1675,12 @@ Templates
 * [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
 * [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
 
+The Prince's Trust
+* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
+* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
+* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
+* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
+
 #### Project Management
 
 #### Project Management Tools and Software Engineering
@@ -1951,24 +1957,11 @@ BBC
 Estonian E-Residence
 * [Estonian E-Residence](https://e-estonia.com/e-residents/about)
 
-The Prince's Trust
-* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
-* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
-* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
-* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
-
 U.K. Design Council
 * [U.K. Design Council](http://www.designcouncil.org.uk)
 
 U.S. Gov.: Code for America
 * [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
-
-U.S. Aid Learning Lab
-* [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
-* [U.S. Aid Project Design Development and Implementation](http://usaidlearninglab.org/learning-guide/project-design-development-implementation), [U.S. Aid Project Design](http://usaidlearninglab.org/learning-guide/project-design), and [U.S. Aid Project Implementation](http://usaidlearninglab.org/learning-guide/project-implementation-overview)
-* [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
-* [U.S. Aid Library](http://usaidlearninglab.org/library)
-* [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
 
 #### Agile Sprints
 
