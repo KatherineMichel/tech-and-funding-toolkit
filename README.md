@@ -1496,6 +1496,9 @@ Unconscious Bias
 Personality Tests
 * [Myers–Briggs Type Indicator Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
+The Happiness Project
+* [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
+
 Public Speaking
 * [ToasterMasters](https://www.toastmasters.org)
 
@@ -1967,10 +1970,6 @@ U.S. Gov.: Code for America
 
 Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nesta DIY, Nielson Norman and Various: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-Other
-* [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
-* [HubSpot Library](https://library.hubspot.com)
 
 #### Pretotyping and Prototyping
 
