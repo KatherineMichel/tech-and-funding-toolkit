@@ -51,7 +51,7 @@ Table of Contents
 * [Research and Design Sprints](#research-and-design-sprints)
   * [Basics](#basics)
   * [Government Digital](#government-digital)
-  * [Research and Design Sprints](#research-and-design-sprints)
+  * [Agile Sprints](#agile-sprints)
 
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   * [Pretotyping](#pretotyping)
@@ -1970,12 +1970,9 @@ U.S. Aid Learning Lab
 * [U.S. Aid Library](http://usaidlearninglab.org/library)
 * [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
 
-#### Research and Design Sprints
+#### Agile Sprints
 
-Code Sprints: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-Google and Google Ventures, Thoughtbot, IDEO, Nesta DIY, Nielson Norman: See
+Google and Google Ventures, Thoughtbot, IDEO, Nesta DIY, Nielson Norman and More: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 Dockyard Version
