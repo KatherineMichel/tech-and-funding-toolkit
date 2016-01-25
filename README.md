@@ -1972,43 +1972,12 @@ U.S. Aid Learning Lab
 
 #### Agile Sprints
 
-Google and Google Ventures, Thoughtbot, IDEO, Nesta DIY, Nielson Norman and More: See
+Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nesta DIY, Nielson Norman and Various: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
-Dockyard Version
-* [Dockyard Design Sprints](https://dockyard.com/design-sprints) and [Dockyard Design Sprints GitHub](https://github.com/dockyard/design-sprints)
-
-Hanno Version
-* [Hanno Design Thinking](https://github.com/wearehanno/designthinking/wiki)
-
-IBM Design Language
-* [IBM Design Language](http://www.ibm.com/design/language)
-
-Xplaner and Games
-* [Xplaner](http://xplaner.com), [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
-* [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
-
-WebAIM and Alt 
-* [WebAIM](http://webaim.org) and [WebAIM Wikipedia](https://en.wikipedia.org/wiki/WebAIM)
-* [WebAIM Alternative Text](http://webaim.org/techniques/alttext) and [Alt Attribute Wikipedia](https://en.wikipedia.org/wiki/Alt_attribute)
-
-Usability Net
-* [Usability Net](http://www.usabilitynet.org)
-
-* [W3 Standards](http://www.w3.org/standards) and [W3 Web Accessibility Initiative](http://www.w3.org/WAI)
-* [WAI Site Usability Testing Questions](http://www.w3.org/WAI/EO/Drafts/UCD/questions.html) and [See also Usability Gov](http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html)
-
-Miscellaneous
-* [Good Kick Off Meetings](http://goodkickoffmeetings.com)
+Other
 * [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
 * [HubSpot Library](https://library.hubspot.com)
-* [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia)
-* [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
-* [LEGO® SERIOUS PLAY® Method](http://www.lego.com/en-us/seriousplay/the-method)
-* [Service Design Tools](http://www.servicedesigntools.org/repository) and [Glossary](http://www.servicedesigntools.org/glossary)
-* [Strategyzer Workshop Toolkit](http://www.stattys.com/products.html?acc=e4da3b7fbbce2345d7772b0674a318d5&bannerid=3)
-* [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
-* [Usability BOK](http://www.usabilitybok.org)
 
 #### Pretotyping and Prototyping
 
@@ -2304,6 +2273,9 @@ Design- General
 Responsive Design
 * [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
 * [Responsive Design Examples](http://mediaqueri.es)  
+
+IBM Design Language
+* [IBM Design Language](http://www.ibm.com/design/language)
 
 Design Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
