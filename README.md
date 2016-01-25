@@ -68,6 +68,21 @@ Table of Contents
 * [Open Source Management and Style Guides](#open-source-management-and-style-guides)  
 * [Startup Transparency Examples](#startup-transparency-examples)
 
+* [Launch and Growth](#lauch-and-growth)
+  * [Launch Strategies](#launch-strategies)
+  * [Metrics](#metrics)
+  * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
+  * [Internationalization](#internationalization)
+
+* [Popular Tools](#popular-tools)
+
+* [General Resources](#general-resources)
+  * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
+  * [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
+  * [Philosophies, Milestones](#philosophies-milestones)
+  * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
+  * [Notable Quotes](#notable-quotes)
+
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
@@ -76,6 +91,7 @@ Table of Contents
 * [Development Environment and Programming](#development-environment-and-programming)
   * [Computer Basics](#computer-basics)
   * [Semver and 12 Factor App](#semver-and-12-factor-app)
+  * [Software Manuals and Documentation](#software-manuals-and-documentation)
   * [Git and Markdown](#git-and-markdown)
   * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
@@ -108,22 +124,7 @@ Table of Contents
 
 * [Data Science](#data-science)
 
-* [Launch and Growth](#lauch-and-growth)
-  * [Launch Strategies](#launch-strategies)
-  * [Metrics](#metrics)
-  * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
-  * [Internationalization](#internationalization)
-
-* [Popular Tools](#popular-tools)
-
-* [General Resources](#general-resources)
-  * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
-  * [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
-  * [Philosophies, Milestones](#philosophies-milestones)
-  * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
-  * [Notable Quotes](#notable-quotes)
 * [Appendix](#appendix)
-  * [Software Manuals and Documentation](#software-manuals-and-documentation) 
   * [Other Enormous Tool Lists](#other-enormous-tool-lists)
   * [Vocabulary](#vocabulary)
 
@@ -2455,6 +2456,320 @@ More
 * [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
 * [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
 
+
+
+#### Launch and Growth
+
+#### Launch Strategies
+
+Launch Guides: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+General
+* [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
+
+Epic
+* [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
+
+Tools
+* [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
+* [Amazon Example Press Release](http://aws.amazon.com/new) 
+* [Sandwich Video](http://sandwichvideo.com)
+
+#### Growth, Marketing, and Content Resources
+
+Advertising and Marketing
+* [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
+* [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
+* [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
+
+Distribution, Digital Distribution and User-Generated Content
+* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
+Distribution, Growth, Sales Hacking
+* [Distribution Hacks](http://distributionhacks.com) 
+* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+* [Saleshacker](http://www.saleshacker.com)
+
+Marketing and Search Engine Land
+* [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+* [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
+
+Hiten Shah and Neil Patel
+* [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+* [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+* [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
+* [Quicksprout](http://www.quicksprout.com) 
+
+Popular Tools
+* [Buffer](https://bufferapp.com)
+* [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
+* [Detour Blog](http://blog.detour.com)
+* [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+* [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+* [Intercom Blog](http://blog.intercom.io)
+* [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
+* [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
+* [URX Blog](http://blog.urx.com/urx-blog) 
+
+Digital Novel
+* [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
+* [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+* [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
+
+Digital Stats
+* [eMarketer](http://www.emarketer.com)
+
+#### Metrics
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+Bill Gurley on Conversion and LTV
+* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
+* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
+* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+
+Objectives and key Results (OKRs)
+* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+KPIs
+* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+
+Pirate Metrics
+* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
+#### Internationalization
+
+* [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
+
+#### Popular Tools
+
+Two Factor Authentication
+
+* [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
+
+Google Products, Office
+* [Google Products](http://www.google.com/intl/en/about/products) 
+* [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
+* [Google Gmail](http://gmail.com)  
+* [Google Drive](https://www.google.com/drive) 
+* [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
+* [Google Drawings](https://docs.google.com/drawings)  
+* [Google Calendar](https://www.google.com/calendar) 
+* [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
+* [Google Flights](https://www.google.com/flights)  
+* [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
+* [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
+* [Google Translate](https://translate.google.com/?hl=en)  
+* [Let Me Google that for You](http://lmgtfy.com) 
+
+API
+* [Blockspring](https://www.blockspring.com)
+
+Email
+* [MailChimp](http://mailchimp.com)
+* [Mailgun](http://www.mailgun.com)  
+* [Mandrill](http://mandrill.com)  
+* [SendGrid](http://sendgrid.com)  
+ 
+Group Communication/Chat
+* [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
+* [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
+* [Skype](http://www.skype.com/en) 
+* [Meetup](http://www.meetup.com)
+* [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+ 
+Livestreaming, Video, Audio 
+* [Livestream](http://new.livestream.com) 
+* [SoundCloud](https://soundcloud.com)  
+* [Vimeo](https://vimeo.com)  
+* [YouTube](https://www.youtube.com) 
+
+Photo Hosting
+* [Flickr](https://www.flickr.com) 
+* [Google Photos](https://photos.google.com)
+* [Picasa](https://picasa.google.com)
+
+Document Hosting
+* [Scribd](https://www.scribd.com)
+
+Links
+* [Bitly](https://bitly.com)
+
+Calendar 
+* [Sunrise](https://calendar.sunrise.am)
+
+Social Media Distribution 
+* [Facebook](https://www.facebook.com)
+* [Twitter](https://twitter.com)
+
+Social Media Distribution 
+* [Buffer](https://bufferapp.com)
+* [Hootsuite](https://hootsuite.com)
+* [HubSpot CRM](http://www.hubspot.com/crm)
+* [Storify](https://storify.com)  
+* [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
+* [Tweetbot](http://tapbots.com/tweetbot)
+
+Customer Relationship Management
+* [Salesforce](https://www.salesforce.com)
+* [RelateIQ](https://www.relateiq.com) 
+
+Task Automation
+* [IFTTT](https://ifttt.com) 
+
+Payments
+* [Apple Pay](https://www.apple.com/apple-pay) 
+* [Bitcoin](https://bitcoin.org/en) 
+* [Paypal](https://www.paypal.com)
+* [Square](https://squareup.com)
+* [Stripe](https://stripe.com)
+
+File Storage
+* [Box](https://www.box.com) 
+* [Dropbox](https://www.dropbox.com)
+
+Logistics
+* [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
+* [Gumtree](http://www.gumtree.co)
+* [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
+* [Move Loot](https://www.moveloot.com/welcome)
+* [Statewide List](http://www.statewidelist.com)
+
+Crowd Sourced Internet Marketplace
+* [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
+* [Crowdflower](http://www.crowdflower.com)  
+
+Docs
+* [DocSend](https://docsend.com)
+* [DocuSign](https://www.docusign.com)
+* [FullContact](http://www.fullcontact.com)
+* [HelloSign](https://www.hellosign.com)
+* [Streak](https://www.streak.com)
+
+Admin, Hiring, Payroll
+* [Clara Labs](https://claralabs.com) 
+* [Evernote](https://evernote.com)
+* [Lever](http://lever.co)  
+* [Jobvite](http://www.jobvite.com)
+* [QuickBooks](http://quickbooks.intuit.com)
+* [Teespring](http://teespring.com)
+* [ZenPayroll](https://zenpayroll.com) 
+* [Zenefits](http://www.zenefits.com)
+ 
+#### General Resources
+
+#### Software and Mobile are Eating the World, Software is Reorganizing the World
+
+* [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
+* [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
+* [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
+* [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
+
+#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
+
+* [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
+* [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
+* [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+* [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
+* [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+* [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
+* [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
+* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
+
+#### Philosophies, Milestones
+
+Company Internal Policies
+* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
+* [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
+* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
+
+Good Infographics
+* [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
+* [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
+* [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
+* [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
+
+Miscellaneous
+* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
+* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
+* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
+* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
+* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+
+Laws
+* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
+* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
+
+Models and Theories
+* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
+* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
+* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
+* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
+* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+
+Computer Lore
+* [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
+* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
+
+#### Notable Interviews and Presentations
+
+Trends
+* [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
+* [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
+* [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
+
+Famous
+* [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
+* [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
+* [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
+
+Innovation and Excellence
+* [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
+* [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+Google
+* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
+* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
+* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
+* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
+
+#### Notable Quotes
+
+* [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
+* [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
+* [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
+* [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
+* [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
+* [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
+* [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
+* [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
+* [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
+* [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
+* [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
+* [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
+* [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
+* [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
+
+
+
+
+
 #### Operating Systems
 
 #### Unix and Linux
@@ -2732,6 +3047,46 @@ https://github.com/mojombo/semver
 [Semver Org GitHub](https://github.com/mojombo/semver.org)
 https://github.com/heroku/12factor
 -->
+
+#### Software Manuals and Documentation 
+
+Pandoc
+* [Pandoc](http://johnmacfarlane.net/pandoc)  
+
+Dexy
+* [Dexy](http://www.dexy.it)  
+
+GitBook
+* [GitBook](https://www.gitbook.com)  
+* [GitBook GitHub](https://github.com/GitbookIO)  
+* [GitBook Documentation](http://help.gitbook.io)  
+* [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
+* [GitBook Themes](http://help.gitbook.io/book/themes.html)  
+
+GitHub Wiki
+* [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
+
+iPython
+* [iPython](http://ipython.org)  
+
+LaTeX
+* [LaTeX](http://latex-project.org)  
+* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
+* [Share LaTeX](https://github.com/sharelatex/sharelatex)  
+
+Read the Docs
+* [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+* [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
+* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
+
+Python- Django-Sphinxdoc
+* [Sphinxdoc](http://sphinx-doc.org)  
+* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
+
+API Docs (see also Python- Django- Rest Framework Swagger)
+* [Swagger API Docs](http://swagger.io)  
+* [Slate API Docs GitHub](https://github.com/tripit/slate)  
+* [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
 
 #### Git and Markdown
 
@@ -4858,355 +5213,7 @@ General Terminology
 * [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
 * [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
 
-#### Launch and Growth
-
-#### Launch Strategies
-
-Launch Guides: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-General
-* [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
-
-Epic
-* [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
-
-Tools
-* [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
-* [Amazon Example Press Release](http://aws.amazon.com/new) 
-* [Sandwich Video](http://sandwichvideo.com)
-
-#### Growth, Marketing, and Content Resources
-
-Advertising and Marketing
-* [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
-* [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
-* [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
-
-Distribution, Digital Distribution and User-Generated Content
-* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
-
-Distribution, Growth, Sales Hacking
-* [Distribution Hacks](http://distributionhacks.com) 
-* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-* [Saleshacker](http://www.saleshacker.com)
-
-Marketing and Search Engine Land
-* [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-* [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
-
-Hiten Shah and Neil Patel
-* [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
-* [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
-* [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
-* [Quicksprout](http://www.quicksprout.com) 
-
-Popular Tools
-* [Buffer](https://bufferapp.com)
-* [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
-* [Detour Blog](http://blog.detour.com)
-* [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-* [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-* [Intercom Blog](http://blog.intercom.io)
-* [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-* [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
-* [URX Blog](http://blog.urx.com/urx-blog) 
-
-Digital Novel
-* [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
-* [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
-* [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
-
-Digital Stats
-* [eMarketer](http://www.emarketer.com)
-
-#### Metrics
-
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-Bill Gurley on Conversion and LTV
-* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
-* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
-* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
-* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
-
-Objectives and key Results (OKRs)
-* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
-* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-
-KPIs
-* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
-
-Pirate Metrics
-* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-#### Internationalization
-
-* [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
-
-#### Popular Tools
-
-Two Factor Authentication
-
-* [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
-
-Google Products, Office
-* [Google Products](http://www.google.com/intl/en/about/products) 
-* [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
-* [Google Gmail](http://gmail.com)  
-* [Google Drive](https://www.google.com/drive) 
-* [Google Docs](https://docs.google.com) and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
-* [Google Drawings](https://docs.google.com/drawings)  
-* [Google Calendar](https://www.google.com/calendar) 
-* [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
-* [Google Flights](https://www.google.com/flights)  
-* [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
-* [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
-* [Google Translate](https://translate.google.com/?hl=en)  
-* [Let Me Google that for You](http://lmgtfy.com) 
-
-API
-* [Blockspring](https://www.blockspring.com)
-
-Email
-* [MailChimp](http://mailchimp.com)
-* [Mailgun](http://www.mailgun.com)  
-* [Mandrill](http://mandrill.com)  
-* [SendGrid](http://sendgrid.com)  
- 
-Group Communication/Chat
-* [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
-* [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
-* [Skype](http://www.skype.com/en) 
-* [Meetup](http://www.meetup.com)
-* [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
- 
-Livestreaming, Video, Audio 
-* [Livestream](http://new.livestream.com) 
-* [SoundCloud](https://soundcloud.com)  
-* [Vimeo](https://vimeo.com)  
-* [YouTube](https://www.youtube.com) 
-
-Photo Hosting
-* [Flickr](https://www.flickr.com) 
-* [Google Photos](https://photos.google.com)
-* [Picasa](https://picasa.google.com)
-
-Document Hosting
-* [Scribd](https://www.scribd.com)
-
-Links
-* [Bitly](https://bitly.com)
-
-Calendar 
-* [Sunrise](https://calendar.sunrise.am)
-
-Social Media Distribution 
-* [Facebook](https://www.facebook.com)
-* [Twitter](https://twitter.com)
-
-Social Media Distribution 
-* [Buffer](https://bufferapp.com)
-* [Hootsuite](https://hootsuite.com)
-* [HubSpot CRM](http://www.hubspot.com/crm)
-* [Storify](https://storify.com)  
-* [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
-* [Tweetbot](http://tapbots.com/tweetbot)
-
-Customer Relationship Management
-* [Salesforce](https://www.salesforce.com)
-* [RelateIQ](https://www.relateiq.com) 
-
-Task Automation
-* [IFTTT](https://ifttt.com) 
-
-Payments
-* [Apple Pay](https://www.apple.com/apple-pay) 
-* [Bitcoin](https://bitcoin.org/en) 
-* [Paypal](https://www.paypal.com)
-* [Square](https://squareup.com)
-* [Stripe](https://stripe.com)
-
-File Storage
-* [Box](https://www.box.com) 
-* [Dropbox](https://www.dropbox.com)
-
-Logistics
-* [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
-* [Gumtree](http://www.gumtree.co)
-* [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
-* [Move Loot](https://www.moveloot.com/welcome)
-* [Statewide List](http://www.statewidelist.com)
-
-Crowd Sourced Internet Marketplace
-* [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
-* [Crowdflower](http://www.crowdflower.com)  
-
-Docs
-* [DocSend](https://docsend.com)
-* [DocuSign](https://www.docusign.com)
-* [FullContact](http://www.fullcontact.com)
-* [HelloSign](https://www.hellosign.com)
-* [Streak](https://www.streak.com)
-
-Admin, Hiring, Payroll
-* [Clara Labs](https://claralabs.com) 
-* [Evernote](https://evernote.com)
-* [Lever](http://lever.co)  
-* [Jobvite](http://www.jobvite.com)
-* [QuickBooks](http://quickbooks.intuit.com)
-* [Teespring](http://teespring.com)
-* [ZenPayroll](https://zenpayroll.com) 
-* [Zenefits](http://www.zenefits.com)
- 
-#### General Resources
-
-#### Software and Mobile are Eating the World, Software is Reorganizing the World
-
-* [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
-* [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
-* [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
-* [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
-
-#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
-
-* [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
-* [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
-* [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
-* [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-* [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
-* [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
-* [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
-* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
-
-#### Philosophies, Milestones
-
-Company Internal Policies
-* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
-* [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
-* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
-
-Good Infographics
-* [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
-* [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
-* [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
-* [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
-
-Miscellaneous
-* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
-* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
-* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
-* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
-* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-
-Laws
-* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
-* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
-
-Models and Theories
-* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
-* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
-* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
-* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
-* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
-
-Computer Lore
-* [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
-* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
-
-#### Notable Interviews and Presentations
-
-Trends
-* [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
-* [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
-* [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
-
-Famous
-* [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
-* [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
-* [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
-
-Innovation and Excellence
-* [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
-* [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
-
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-Google
-* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
-* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
-* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
-* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
-
-#### Notable Quotes
-
-* [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
-* [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
-* [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
-* [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
-* [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
-* [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
-* [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
-* [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
-* [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
-* [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
-* [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
-* [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
-* [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
-* [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
-
 #### Appendix
-
-#### Software Manuals and Documentation 
-
-Pandoc
-* [Pandoc](http://johnmacfarlane.net/pandoc)  
-
-Dexy
-* [Dexy](http://www.dexy.it)  
-
-GitBook
-* [GitBook](https://www.gitbook.com)  
-* [GitBook GitHub](https://github.com/GitbookIO)  
-* [GitBook Documentation](http://help.gitbook.io)  
-* [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
-* [GitBook Themes](http://help.gitbook.io/book/themes.html)  
-
-GitHub Wiki
-* [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
-
-iPython
-* [iPython](http://ipython.org)  
-
-LaTeX
-* [LaTeX](http://latex-project.org)  
-* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
-* [Share LaTeX](https://github.com/sharelatex/sharelatex)  
-
-Read the Docs
-* [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
-* [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
-
-Python- Django-Sphinxdoc
-* [Sphinxdoc](http://sphinx-doc.org)  
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
-
-API Docs (see also Python- Django- Rest Framework Swagger)
-* [Swagger API Docs](http://swagger.io)  
-* [Slate API Docs GitHub](https://github.com/tripit/slate)  
-* [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
 
 #### Other Enormous Tool Lists
 * [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
