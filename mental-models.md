@@ -453,3 +453,7 @@ Probability and Statistics
 * [Tail: Long Tail Wikipedia](https://en.wikipedia.org/wiki/Long_tail)
 
 * [Fibonacci Number Wikipedia](http://en.wikipedia.org/wiki/Fibonacci_number) 
+
+Graph and Schema- General (See also Facebook Open Graph)
+* [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
+* [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
