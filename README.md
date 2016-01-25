@@ -50,7 +50,6 @@ Table of Contents
 
 * [Research and Design Sprints](#research-and-design-sprints)
   * [Basics](#basics)
-  * [Code Sprints](#code-sprints) 
   * [Government Digital](#government-digital)
   * [Research and Design Sprints](#research-and-design-sprints)
 
@@ -1889,20 +1888,6 @@ Methods
 Persuasive Technology
 * [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
-#### Code Sprints
-
-Python
-* [Learn Python the Hard Way- Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
-
-Django
-* [Django Sprints](https://code.djangoproject.com/wiki/Sprints)
-* [Sprint Hosting How-To](https://code.djangoproject.com/wiki/SprintHostingHowto)
-* [Sprint Information Template](https://code.djangoproject.com/wiki/SprintTemplate)
-
-MediaPublic
-* [MediaPublic GitHub](https://github.com/mediapublic/mediapublic)
-* [MediaPublic "Decide what information will be on the homepage." GitHub](https://github.com/mediapublic/mediapublic/issues/79) and [MediaPublic "Decide what information will be on the Organization page." GitHub](https://github.com/mediapublic/mediapublic/issues/81)
-
 #### Government Digital
 
 See
@@ -1987,7 +1972,10 @@ U.S. Aid Learning Lab
 
 #### Research and Design Sprints
 
-Google and Google Ventures, Thoughtbot, IDEO, Nesta DIY, Nielson Norman
+Code Sprints: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+Google and Google Ventures, Thoughtbot, IDEO, Nesta DIY, Nielson Norman: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 Dockyard Version
@@ -2002,12 +1990,6 @@ IBM Design Language
 Xplaner and Games
 * [Xplaner](http://xplaner.com), [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 * [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
-
-Stanford Institute of Design
-* [An Introduction to Design Thinking](https://dschool.stanford.edu/sandbox/groups/k12/wiki/c739e/attachments/ade8c/An_Intro_to_DT_Slides_07_10_09.pdf) and [An Introduction to Design Thinking Process Guide](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
-* [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start), [Use Our Methods](http://dschool.stanford.edu/use-our-methods)
-* [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf),
-* [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
 WebAIM and Alt 
 * [WebAIM](http://webaim.org) and [WebAIM Wikipedia](https://en.wikipedia.org/wiki/WebAIM)
