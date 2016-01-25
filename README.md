@@ -52,9 +52,7 @@ Table of Contents
   * [Basics](#basics)
   * [Code Sprints](#code-sprints) 
   * [Government Digital](#government-digital)
-  * [Google Research and Design Sprint](#google-research-and-design-sprint)
-  * [Non-Google Ventures Research and Design Sprints](#non-google-ventures-research-and-design-sprints)
-  * [More Research and Design Toolkits](#more-research-and-design-toolkits) 
+  * [Research and Design Sprints](#research-and-design-sprints)
 
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   * [Pretotyping](#pretotyping)
@@ -2001,12 +1999,10 @@ U.S. Aid Learning Lab
 * [U.S. Aid Library](http://usaidlearninglab.org/library)
 * [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
 
-#### Google Research and Design Sprint
+#### Research and Design Sprints
 
-Google and Google Ventures
+Google and Google Ventures, Thoughtbot, IDEO, Nesta DIY, Nielson Norman
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-#### Non-Google Ventures Research and Design Sprints
 
 Dockyard Version
 * [Dockyard Design Sprints](https://dockyard.com/design-sprints) and [Dockyard Design Sprints GitHub](https://github.com/dockyard/design-sprints)
@@ -2017,28 +2013,9 @@ Hanno Version
 IBM Design Language
 * [IBM Design Language](http://www.ibm.com/design/language)
 
-Thoughtbot Version: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-#### More Research and Design Toolkits
-
 Xplaner and Games
 * [Xplaner](http://xplaner.com), [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 * [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
-
-Ideo
-* [IDEO](http://www.ideo.com), [IDEO Org](http://www.ideo.org), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
-* [IDEO Design Thinking for Educators/Toolkit](http://www.designthinkingforeducators.com)
-* [Design Kit: The Course for Human-Centered Design](http://plusacumen.org/courses/hcd-for-social-innovation) 
-
-Nesta DIY
-* [Nesta](http://www.nesta.org.uk), 
-* [Nesta Creative Enterprise Toolkit](http://www.nesta.org.uk/publications/creative-enterprise-toolkit) and [Nesta Creative Enterprise Toolkit PDF](http://www.nesta.org.uk/sites/default/files/cet_books_1-4.pdf)
-* [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills), and [Nesta Publications](http://www.nesta.org.uk/publications)
-* [Nesta DIY](http://diytoolkit.org), [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit), and [Nesta DIY Tools](http://diytoolkit.org/tools)
-
-Nielson Norman: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 Stanford Institute of Design
 * [An Introduction to Design Thinking](https://dschool.stanford.edu/sandbox/groups/k12/wiki/c739e/attachments/ade8c/An_Intro_to_DT_Slides_07_10_09.pdf) and [An Introduction to Design Thinking Process Guide](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
@@ -4299,9 +4276,9 @@ Internet of Things (including payments)
 * [PayPal Beacon](https://www.paypal.com/us/webapps/mpp/beacon)  
 
 Internet of Things- Geo-fencing
-* [Geo-fence Wikipedia](http://en.wikipedia.org/wiki/Geo-fence)  
-* [Google Geo-fences](https://developers.google.com/maps/documentation/tracks/geofences)  
-* [Android Geo-fences](http://developer.android.com/training/location/geofencing.html)  
+* [Geo-Fence Wikipedia](http://en.wikipedia.org/wiki/Geo-fence)  
+* [Google Geo-Fences](https://developers.google.com/maps/documentation/tracks/geofences)  
+* [Android Geo-Fences](http://developer.android.com/training/location/geofencing.html)  
 
 Miscellaneous
 * [Facebook Start](https://developers.facebook.com/products/fb-start) 
@@ -5040,12 +5017,6 @@ KPIs
 Pirate Metrics
 * [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
 * [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-Miscellaneous Metrics
-* [Funnel Chart Wikipedia](http://en.wikipedia.org/wiki/Funnel_chart) 
-* [Purchase Funnel Wikipedia](http://en.wikipedia.org/wiki/Purchase_funnel) 
-* [Cost of Goods Sold Wikipedia](https://en.wikipedia.org/wiki/Cost_of_goods_sold) 
-* [Gross Profit Margin](http://www.investopedia.com/terms/g/gross_profit_margin.asp)
 
 #### Internationalization
 
