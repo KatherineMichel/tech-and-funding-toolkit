@@ -5147,12 +5147,6 @@ Data
 CSV
 * [CSV (Comma-Separated Values) Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
 
-Graph and Schema- General (See also Facebook Open Graph)
-* [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-* [Graph Theory Wikipedia](http://en.wikipedia.org/wiki/Graph_theory)  
-* [Social Graph Wikipedia](http://en.wikipedia.org/wiki/Social_graph) 
-
 API Methods- Common
 * HTTP
 * [JSON](http://www.json.org) and [JSON Wikipedia](http://en.wikipedia.org/wiki/JSON)  
