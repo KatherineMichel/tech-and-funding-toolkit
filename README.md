@@ -3036,14 +3036,16 @@ Symbolic Link
 
 #### Semver and 12 Factor App
 
-Semver
-* [Semver](http://semver.org) 
-
 12 Factor App
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 
+Semver
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+The Distributed Developer Stack Field Guide
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide)
+
 <!--
-https://github.com/mojombo/semver
 [Semver Org GitHub](https://github.com/mojombo/semver.org)
 https://github.com/heroku/12factor
 -->
