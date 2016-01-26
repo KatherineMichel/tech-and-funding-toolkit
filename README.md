@@ -90,7 +90,7 @@ Table of Contents
 
 * [Development Environment and Programming](#development-environment-and-programming)
   * [Computer Basics](#computer-basics)
-  * [Semver and 12 Factor App](#semver-and-12-factor-app)
+  * [Code Philosophies](#code-philosophies)
   * [Software Manuals and Documentation](#software-manuals-and-documentation)
   * [Git and Markdown](#git-and-markdown)
   * [More Command Line and Shell](#more-command-line-and-shell)
@@ -3034,7 +3034,7 @@ Hidden File and Hidden Directory
 Symbolic Link
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
-#### Semver and 12 Factor App
+#### Code Philosophies
 
 12 Factor App
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
@@ -3045,10 +3045,24 @@ Semver
 The Distributed Developer Stack Field Guide
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide)
 
+Trac Project Management and DB (Used with www.djangoproject.com)
+* [Trac](http://trac.edgewall.org)  
+* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
+* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+
 <!--
 [Semver Org GitHub](https://github.com/mojombo/semver.org)
 https://github.com/heroku/12factor
 -->
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing)  
 
 #### Software Manuals and Documentation 
 
@@ -3716,7 +3730,35 @@ Python- Django- BCrypt (Not just for Django)
 * [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
 
 Python- Django- Static File Serving
-* [Whitenoise GitHub](https://github.com/KatherineMichel/whitenoise) 
+* [Whitenoise GitHub](https://github.com/evansd/whitenoise) 
+
+CGI and WSGI (Web Server API)
+* [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
+* [WSGI Read the Docs](http://wsgi.readthedocs.org/en/latest)  
+* [WSGI Google Code](https://code.google.com/p/modwsgi)  
+* [WSGI Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
+* [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
+* [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
+
+More WSGI (See also Apache)
+* [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
+* [uWsgi GitHub](https://github.com/unbit/uwsgi)
+
+Gunicorn (Python WSGI HTTP Server for UNIX)
+* [Gunicorn](http://gunicorn.org)  
+* [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
+
+Waitress (Production-Quality Pure-Python WSGI Server)
+* [Waitress Read the Docs](http://waitress.readthedocs.org/en/latest)  
+* [Waitress GitHub](https://github.com/Pylons/waitress)  
+* [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
+
+Memcached (Object Caching)
+* [Memcached](http://memcached.org) 
+
+Cron
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 
 #### Python and Django Templates and Microframeworks
 
@@ -4190,6 +4232,9 @@ Content Delivery Network
 * [Google Cloud CDN](https://cloud.google.com/compute/docs/load-balancing/http/cdn)
 * [MAXCDN](https://www.maxcdn.com) 
 
+Optimization
+* [Cloudflare](https://www.cloudflare.com) 
+
 #### Dev Ops Tools
 
 Python- Fabric
@@ -4251,9 +4296,6 @@ Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
 * [Varnish](https://www.varnish-software.com)  
 * [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
 
-Memcached (Object Caching)
-* [Memcached](http://memcached.org)  
-
 Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
 * [Nginx](http://nginx.com/products)  
 * [Nginx GitHub](https://github.com/nginx/nginx)  
@@ -4267,46 +4309,7 @@ Jenkins CI and Travis CI (Continuous Integration), and PhantomJS (Testing, Autom
 
 Selenium (Automated Testing)
 * [SeleniumHQ](http://www.seleniumhq.org)  
-* [SeleniumHQ Docs](http://www.seleniumhq.org/docs)  
-
-CGI and WSGI (Web Server API)
-* [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
-* [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
-* [WSGI Read the Docs](http://wsgi.readthedocs.org/en/latest)  
-* [WSGI Google Code](https://code.google.com/p/modwsgi)  
-* [WSGI Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
-* [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
-* [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
-
-More WSGI (See also Apache)
-* [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
-* [uWsgi GitHub](https://github.com/unbit/uwsgi)
-
-Gunicorn (Python WSGI HTTP Server for UNIX)
-* [Gunicorn](http://gunicorn.org)  
-* [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
-
-Waitress (Production-Quality Pure-Python WSGI Server)
-* [Waitress Read the Docs](http://waitress.readthedocs.org/en/latest)  
-* [Waitress GitHub](https://github.com/Pylons/waitress)  
-* [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
-
-Trac Project Management and DB (Used with www.djangoproject.com)
-* [Trac](http://trac.edgewall.org)  
-* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
-* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
-
-Optimization
-* [Cloudflare](https://www.cloudflare.com)  
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing)  
+* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
 
 Erlang
 * [Erlang](http://www.erlang.org/)  
@@ -4355,9 +4358,6 @@ Event Tracking
 Typeahead and Awesomeplete
 * [Typeahead.js GitHub](https://github.com/twitter/typeahead.js)
 * [Awesomeplete GitHub](https://github.com/LeaVerou/awesomplete)
-
-Cron
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 
 #### Node.js and Related
 
