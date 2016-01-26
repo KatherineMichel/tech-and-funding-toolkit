@@ -3051,8 +3051,9 @@ Trac Project Management and DB (Used with www.djangoproject.com)
 * [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
 
 <!--
-[Semver Org GitHub](https://github.com/mojombo/semver.org)
 https://github.com/heroku/12factor
+[Semver Org GitHub](https://github.com/mojombo/semver.org)
+https://github.com/odewahn/dds-field-guide/
 -->
 
 Software Stacks
