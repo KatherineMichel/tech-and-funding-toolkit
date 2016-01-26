@@ -2418,6 +2418,9 @@ Objective C Styleguide GitHub
 * [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
 * [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
 
+Swift Styleguide GitHub
+* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
+
 Data Styleguide GitHub
 * [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
