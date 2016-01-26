@@ -3927,6 +3927,7 @@ Django Carrots (Python- Django)
 * [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
 * [Dotnet GitHub](https://github.com/dotnet)  
 * [Dotnet Core Docs](http://dotnet.github.io/docs/index.html) and [Dotnet Core Docs GitHub](https://github.com/dotnet/core-docs)
+* [Installing .NET Core on OS X](http://dotnet.github.io/docs/getting-started/installing/installing-core-osx.html)
 * [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
 ASP
