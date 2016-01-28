@@ -3250,6 +3250,7 @@ Dot Files
 * [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
 * [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
 * [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
+* [Jessica Lord GitHub](https://github.com/jlord/dotfiles)
 * [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
 * [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
 * [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
