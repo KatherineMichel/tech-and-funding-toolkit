@@ -1,6 +1,7 @@
 Tech and Venture Capital Toolkit
 ====================
-Curated list of high quality resources, mostly free. See also...
+
+A :star::star::star::star::star: curated list of high quality resources (mostly free) made with :heart: by Kati Michel. See also...
 
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
