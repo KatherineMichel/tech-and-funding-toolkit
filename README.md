@@ -3245,6 +3245,7 @@ Startup Class Dotfiles and AWS EC2 Setup
 
 Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)
 * [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
+* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 * [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
 * [Jekyll via GitHub Pages](https://jekyllrb.com)
 * Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
