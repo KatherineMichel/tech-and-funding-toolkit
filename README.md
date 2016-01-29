@@ -17,7 +17,6 @@ Table of Contents
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
   * [Chance](#chance)
-
 * [Venture](#venture)
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
@@ -30,65 +29,50 @@ Table of Contents
   * [Analyst Groups](#analyst-groups)
   * [Business and Tech News Sources](#business-and-tech-news-sources)
   * [Government and International Data](#government-and-international-data)
-
 * [General Research and Learning](#general-research-and-learning)
   * [Learning Resources](#learning-resources)
   * [Events, Talks, People](#events-talks-people)
   * [Books and Courses](#books-and-courses)
-
 * [STEM and STEAM](#stem-and-steam)
-
 * [Venture Analysis](#venture-analysis)
   * [Surveys, Trends, Stats](#surveys-trends-stats)
   * [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
   * [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
-
   * [Metrics](#metrics)
-
 * [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-
 * [Project Management](#project-management)
   * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
   * [Documents and Improvement](#documents-and-improvement)
-
 * [Research and Design Sprints](#research-and-design-sprints)
   * [Basics](#basics)
   * [Government Digital](#government-digital)
   * [Agile Sprints](#agile-sprints)
-
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   * [Pretotyping](#pretotyping)
   * [Prototyping](#prototyping)
-
 * [Facebook and Google Design Approach](#facebook-and-google-design-approach)
 * [Social Media and Social Graph](#social-media-and-social-graph) 
 * [Testing and Performance](#testing-and-performance)
-
 * [Web Dev and Design](#web-dev-and-design)
 * [Design Thinking](#design-thinking)
 * [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
 * [Labs](#labs)
 * [Open Source Management and Style Guides](#open-source-management-and-style-guides)  
-
 * [Launch and Growth](#lauch-and-growth)
   * [Launch Strategies](#launch-strategies)
   * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
   * [Internationalization](#internationalization)
-
 * [Popular Tools](#popular-tools)
-
 * [General Resources](#general-resources)
   * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
   * [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
   * [Philosophies, Milestones](#philosophies-milestones)
   * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
   * [Notable Quotes](#notable-quotes)
-
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple](#apple)
-
 * [Development Environment and Programming](#development-environment-and-programming)
   * [Computer Basics](#computer-basics)
   * [Code Philosophies](#code-philosophies)
@@ -96,12 +80,10 @@ Table of Contents
   * [Git and Markdown](#git-and-markdown)
   * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
-
 * [Programming](#programming)
   * [Programming Tiers](#programming-tiers)
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Languages, MVCs](#programming-languages-mvcs)
-
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
   * [Python and Django Contributing](#python-and-django-contributing)
@@ -110,21 +92,16 @@ Table of Contents
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Useful Tools](#python-and-django-useful-tools)
   * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
-
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
-
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Dev Ops Tools](#dev-ops-tools)
 * [Servers and Databases](#servers-and-databases)
 * [SQL](#sql)  
 * [More Back-End](#more-back-end)
 * [Node.js and Related](#nodejs-and-related)
-
 * [Mobile](#mobile)
   * [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
-
 * [Data Science](#data-science)
-
 * [Appendix](#appendix)
   * [Other Enormous Tool Lists](#other-enormous-tool-lists)
   * [Vocabulary](#vocabulary)
