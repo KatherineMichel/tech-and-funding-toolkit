@@ -3780,6 +3780,9 @@ Python- Django- BCrypt (Not just for Django)
 * [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
 * [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
 
+Python- Fabric
+* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric) 
+
 Python- Django- Static File Serving
 * [Whitenoise GitHub](https://github.com/evansd/whitenoise) 
 
@@ -4302,11 +4305,10 @@ Optimization
 
 #### Dev Ops Tools
 
-Python- Fabric
-* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric)  
-
-Python- kubernetes
-* [kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)  
+See also Fabric
+ 
+Python- Kubernetes
+* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)  
 
 Docker
 * [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
