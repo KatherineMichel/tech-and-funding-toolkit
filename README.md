@@ -3626,7 +3626,7 @@ Python- Mobile
 
 Python and Django Conferences
 * [PyCon](http://www.pycon.org)
-* [PyLadies](http://www.pyladies.com) and [PyLadies GitHub](https://github.com/pyladies)
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), and [PyLadies Remote](https://tlk.io/pyladiesremote)
 * [PyData](http://pydata.org)  
 * [Django Events Foundation North America](http://defna.org) 
 * [DjangoCon U.S.](http://www.djangocon.us) and [DjangoCon E.U.](https://djangocon.eu)  
