@@ -3289,11 +3289,12 @@ Example First-Timers Info
 
 #### Programming Learning Tools
 
-Programming and Math Learning Tools
+Programming and Math Learning Tools (See also MOOCs)
 * [Arduino](https://www.arduino.cc)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
 * [Learn Code the Hard Way](http://learncodethehardway.org)  
+* [Code School](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com)  
 * [CodePath GitHub](https://github.com/codepath)
 * [Code.org](https://code.org)
@@ -3321,7 +3322,7 @@ Documentation
 * [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [World Wide Web Consortium Homepage](http://www.w3.org)  
+* [The World Wide Web Consortium (W3C)](http://www.w3.org) and * [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
 
 GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software/software.html)  
