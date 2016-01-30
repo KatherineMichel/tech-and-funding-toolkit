@@ -2249,7 +2249,7 @@ Web General
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
 Whois Wikipedia
-* [Whois](http://en.wikipedia.org/wiki/Whois)
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
 
 HTML, XML, XHTML
 * [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
