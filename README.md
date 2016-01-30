@@ -1311,7 +1311,7 @@ U.S. Departments
 U.S. Open Government, Data
 * [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
 * [U.S. Dot Gov Domains](https://github.com/GSA/data)
-* [U.S. Data](http://www.data.gov)
+* [U.S. Data](http://www.data.gov) and [U.S. Data Catalog](https://catalog.data.gov)
 * [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
 * [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
 * [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
