@@ -1499,7 +1499,7 @@ Public Speaking
 #### STEM and STEAM
 
 * [STEM to STEAM](http://stemtosteam.org)
-* [STEAM Wikipedia](https://en.wikipedia.org/wiki/STEAM_fields)
+* [STEAM Wikipedia](https://en.wikipedia.org/wiki/STEAM_fields) and [STEAM with Us](http://steamwith.us)
 
 
 #### Venture Analysis
@@ -2885,6 +2885,7 @@ Virtual Box and Vagrant
 
 Apple Presentation and Design (See also Keynotopia)
 * [Keynote](https://www.apple.com/mac/keynote)
+* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com)
 * [Sketch](https://www.sketchapp.com)
 
 Apple MacBook Air
