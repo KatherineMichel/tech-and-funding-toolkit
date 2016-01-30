@@ -88,6 +88,7 @@ Table of Contents
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
   * [Python and Django Conferences](#python-and-django-conferences)
+  * [Python and Django Girls](#python-and-django-girls)
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Deployment](#python-and-django-deployment)
@@ -3572,17 +3573,6 @@ Python- Django- Resources
 * [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
-Django Girls (Python- Django)
-* [Django Girls GitHub](https://github.com/DjangoGirls) 
-* [Django Girls Blog](http://blog.djangogirls.org)
-* [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
-* [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
-* [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
-* [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
-* [Django Girls Organize](http://organize.djangogirls.org)  
-* [Django Girls Coach](http://coach.djangogirls.org)  
-* [Django Girls Resources](https://github.com/DjangoGirls/resources)  
-
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source)  
 * [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
@@ -3623,6 +3613,19 @@ Python and Django Conferences- Speaker Mentors
 * [DjangoCon E.U. 2016 Speaking Mentors](https://2016.djangocon.eu/cfp)  
 * [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors)  
 * [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
+
+#### Python and Django Girls
+
+Django Girls (Python- Django)
+* [Django Girls GitHub](https://github.com/DjangoGirls) 
+* [Django Girls Blog](http://blog.djangogirls.org)
+* [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
+* [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
+* [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
+* [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
+* [Django Girls Organize](http://organize.djangogirls.org)  
+* [Django Girls Coach](http://coach.djangogirls.org)  
+* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
 
 #### Python and Django Contributing
 
