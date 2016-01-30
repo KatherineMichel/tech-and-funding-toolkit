@@ -3190,13 +3190,15 @@ cURL
 
 Unix Shell
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 * [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
 * [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
 * [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
 
 Bash and Zsh (Alternative)
-* [Bash (Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
 * [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
 * [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
@@ -3348,7 +3350,8 @@ Miscellaneous Programming Languages
 
 Ruby
 * [Ruby](https://www.ruby-lang.org/en/)  
-* [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language))  
+* [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
+* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
 * [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
 * [Ruby GitHub](https://github.com/ruby/ruby)  
@@ -3460,8 +3463,8 @@ Node.js/PHP- WordPress- Preferred Templates and Documents
 * [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
 * [WordPress.org](https://wordpress.org)  
 * [WordPress GitHub](https://github.com/WordPress/WordPress)  
-* [WordPress.com](https://wordpress.com)  
-* [WordPress Plugins](http://www.pluginmirror.com/plugins)  
+* [WordPress.com](https://wordpress.com) and [WordPress.com Support](http://en.support.wordpress.com)
+* [WordPress Plugins](https://wordpress.org/plugins) and [WordPress Plugins Mirror](http://www.pluginmirror.com/plugins) 
 * [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
 * [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
 * [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
@@ -4166,6 +4169,7 @@ Amazon Web Services- Lambda
 * [AWS Lambda](http://aws.amazon.com/lambda)  
 * [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
+* [Serverless GitHub](https://github.com/serverless/serverless) 
 
 Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
 * [Heroku](https://www.heroku.com)  
