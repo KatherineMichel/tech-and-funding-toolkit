@@ -2248,6 +2248,9 @@ Web General
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
+Whois Wikipedia
+* [Whois](http://en.wikipedia.org/wiki/Whois)
+
 HTML, XML, XHTML
 * [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
 * [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
@@ -3219,7 +3222,7 @@ Windows PowerShell
 
 More Shell/Text Editors (See also Visual Studio and XCode)
 * [Sublime Text Editor](http://www.sublimetext.com)
-* [Atom GitHub](ttps://github.com/atom/atom)
+* [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
 * [Textmate](http://macromates.com)  
 * [Orgmode.org](http://orgmode.org)  
 * [Orgmode.org/features](http://orgmode.org/features.html)  
