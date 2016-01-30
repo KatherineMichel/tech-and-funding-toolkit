@@ -3427,9 +3427,10 @@ jQuery
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
-Underscore and Lodash
-* [Underscore GitHub](https://github.com/jashkenas/underscore)
+Other JavaScript Helpers
+* [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
 * [Lodash GitHub](https://github.com/lodash/lodash)
+* [Underscore GitHub](https://github.com/jashkenas/underscore)
 
 JavaScript Facebook React
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
