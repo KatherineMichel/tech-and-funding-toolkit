@@ -2254,12 +2254,15 @@ Web General
 Whois Wikipedia
 * [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
 
-HTML, XML, XHTML
+HTML
 * [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
 * [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
 * [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML) and [W3Schools HTML Tutorial](http://www.w3schools.com/html)
 * [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+* [W3 HTML Validator](https://validator.w3.org/nu)
+
+XML, XHTML
 * [XML Wikibook](https://en.wikipedia.org/wiki/XML)
 * [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
