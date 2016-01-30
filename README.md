@@ -13,6 +13,7 @@ Table of Contents
 * [People](#people)
   * [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   * [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
+  * [High Profile Developers](#high-profile-developers)
   * [Schools of Thought](#schools-of-thought)
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
@@ -241,6 +242,13 @@ Table of Contents
 * [Venkatesh Rao Ribbonfarm](http://www.ribbonfarm.com) and [Venkatesh Rao Breaking Smart](http://breakingsmart.com)
 * [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
+
+#### High Profile Developers
+
+* [Harper Reed GitHub](https://github.com/harperreed)
+* [Mark Otto GitHub](https://github.com/mdo)
+* [Zac Holman](http://zachholman.com)
+* [Zed Shaw GitHub](https://github.com/zedshaw)
 
 #### Schools of Thought
 * [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
@@ -3315,13 +3323,14 @@ Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 
 Miscellaneous Programming Languages
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
 * [Learn C the Hard Way](http://c.learncodethehardway.org)  
 * [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
-* [C++ Wikibook Wikipedia](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
+* [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
 * [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
 * [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)  
 * [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
@@ -3880,7 +3889,7 @@ Python- Books and Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net)  
 * [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
 * [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-* [Python Programming Wikibooks](http://en.wikibooks.org/wiki/Python_Programming)  
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming)  
 * [Python Tutorial](https://docs.python.org/2/tutorial)  
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
@@ -4759,7 +4768,7 @@ Bayesian (Supervised Learning)
 Deep Learning and Neural Networks
 * [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
 * [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-* [Artificial Neural Networks Wikipedia](http://en.wikibooks.org/wiki/Artificial_Neural_Networks)  
+* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks)  
 
 Recommendations and Filtering
 * [Cold Start Problem Wikipedia](http://en.wikipedia.org/wiki/Cold_start)  
