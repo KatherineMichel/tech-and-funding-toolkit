@@ -3550,6 +3550,10 @@ Python (See also Data Science)
 * [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
+Python Authorities
+* [Python Authority Authority GitHub](https://github.com/pyaa)
+* [Python Code Quality Authority GitHub](https://github.com/PyCQA)
+
 Pip
 * [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
 * [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
@@ -3624,6 +3628,9 @@ Python and Django Conferences- Speaker Mentors
 * [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors) 
 * [DjangoCon U.S. 2015 Call for Proposals](http://2015.djangocon.us/speaking/cfp)
 * [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
+
+DjangoGirls/PyCon
+* [DjangoGirls/PyCon](https://djangogirls.org/pycon)
 
 Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
@@ -3746,6 +3753,7 @@ Python- Django- Environmental Variables
 
 Python- Django- Random SECRET_KEY
 * [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
+* [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
 
 Python- Django- BCrypt (Not just for Django)
 * [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
