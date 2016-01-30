@@ -1493,6 +1493,7 @@ The Happiness Project
 * [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
 
 Public Speaking
+* [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
 * [ToasterMasters](https://www.toastmasters.org)
 
 #### STEM and STEAM
