@@ -3616,6 +3616,9 @@ Python and Django Conferences- Speaker Mentors
 * [DjangoCon U.S. 2015 Call for Proposals](http://2015.djangocon.us/speaking/cfp)
 * [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
 
+Assistance
+* [Financial Assistance](https://us.pycon.org/2016/assistance)
+
 #### Python and Django Girls
 
 Django Girls (Python- Django)
@@ -3650,16 +3653,13 @@ Python- Django- Forums and Lists
 Python- PEP 0008 (Style Guide for Python Code)
 * [PEP 0008](https://www.python.org/dev/peps/pep-0008) 
 
-Python- Django- Sprints
-* [Django Sprints](https://code.djangoproject.com/wiki/Sprints) 
-* [Django Sprint Ideas](https://code.djangoproject.com/wiki/SprintIdeas)
+Python- Django- Sprints: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
 http://docs.python-guide.org/en/latest/writing/structure
 
 http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
-
-https://us.pycon.org/2016/assistance
 -->
 
 #### Python and Django Packages and Snippets
