@@ -87,6 +87,7 @@ Table of Contents
   * [Programming Languages, MVCs](#programming-languages-mvcs)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
+  * [Python and Django Conferences](#python-and-django-conferences)
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Deployment](#python-and-django-deployment)
@@ -246,6 +247,7 @@ Table of Contents
 #### High Profile Developers
 
 * [Harper Reed GitHub](https://github.com/harperreed)
+* [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 * [Mark Otto GitHub](https://github.com/mdo)
 * [Zac Holman](http://zachholman.com)
 * [Zed Shaw GitHub](https://github.com/zedshaw)
@@ -3550,22 +3552,6 @@ Python Playbooks
 * [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
 * [Full Stack Python](https://www.fullstackpython.com)
 
-Python and Django Conferences
-* [PyCon](http://www.pycon.org)
-* [PyLadies](http://www.pyladies.com) and [PyLadies GitHub](https://github.com/pyladies)
-* [PyData](http://pydata.org)  
-* [Django Events Foundation North America](http://defna.org) 
-* [DjangoCon U.S.](http://www.djangocon.us) and [DjangoCon E.U.](https://djangocon.eu)  
-
-Python and Django Conferences- Proposal Examples
-* Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
-* [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
-
-Python and Django Conferences- Speaker Mentors
-* [DjangoCon E.U. 2016 Speaking Mentors](https://2016.djangocon.eu/cfp)  
-* [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors)  
-* [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors)  
-
 Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 * [Django Documentation](https://docs.djangoproject.com)  
@@ -3617,6 +3603,24 @@ Python- Mobile
 * [VOC Read the Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
 * Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
 
+#### Python and Django Conferences
+
+Python and Django Conferences
+* [PyCon](http://www.pycon.org)
+* [PyLadies](http://www.pyladies.com) and [PyLadies GitHub](https://github.com/pyladies)
+* [PyData](http://pydata.org)  
+* [Django Events Foundation North America](http://defna.org) 
+* [DjangoCon U.S.](http://www.djangocon.us) and [DjangoCon E.U.](https://djangocon.eu)  
+
+Python and Django Conferences- Proposal Examples
+* Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
+* [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
+
+Python and Django Conferences- Speaker Mentors
+* [DjangoCon E.U. 2016 Speaking Mentors](https://2016.djangocon.eu/cfp)  
+* [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors)  
+* [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
+
 #### Python and Django Contributing
 
 Python- Django- Contributing
@@ -3628,19 +3632,6 @@ Python- PEP 0008 (Style Guide for Python Code)
 <!--
 https://code.djangoproject.com/wiki/Version1.10Roadmap
 https://code.djangoproject.com/wiki/Version1.9Roadmap
-
-http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
-https://github.com/pinax/pinax/issues/103
-https://github.com/pinax/pinax/issues/102
-
-Heroku Commands to Deploy and Update
-* Follow normal instructions (cd name before deploying): [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
-
-Python and Django People
-* [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
-
-See Also
-* [Kenneth Reitz Virtual Environment Notes](http://docs.python-guide.org/en/latest/dev/virtualenvs)
 
 See Also
 * [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
@@ -3658,18 +3649,15 @@ https://www.djangoproject.com/foundation/cla
 https://code.djangoproject.com/wiki/Sprints
 https://code.djangoproject.com/wiki/SprintIdeas
 
-https://us.pycon.org/2016/assistance
-https://djangocon.eu
-http://2015.djangocon.us/speaking/cfp
-https://2015.djangocon.us
-http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
-
 http://docs.python-guide.org/en/latest/writing/structure
 
 https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
 
-http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax
+http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
 
+https://us.pycon.org/2016/assistance
+http://2015.djangocon.us/speaking/cfp
+https://2015.djangocon.us
 -->
 
 #### Python and Django Packages and Snippets
