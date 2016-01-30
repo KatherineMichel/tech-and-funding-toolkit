@@ -3430,6 +3430,10 @@ jQuery
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
 Other JavaScript Helpers
 * [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
 * [Lodash GitHub](https://github.com/lodash/lodash)
@@ -3438,6 +3442,7 @@ Other JavaScript Helpers
 
 JavaScript Facebook React
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+* [React How-To GitHub](https://github.com/petehunt/react-howto)
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
 * [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
@@ -3445,6 +3450,10 @@ JavaScript Facebook React
 * [Facebook Relay GitHub](https://github.com/facebook/relay)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
+
+Webpack
+* [Webpack GitHub](https://github.com/webpack/webpack)
+* [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 
 Babel (JavaScript)
 * [Babel GitHub](https://github.com/babel/babel)
@@ -4576,6 +4585,9 @@ Android
 
 CyanogenMod
 * [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
+
+Exponent.js
+* [Exponent.js](http://exponentjs.com)
 
 IDE
 * [Eclipse](http://www.eclipse.org) 
