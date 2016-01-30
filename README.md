@@ -3112,6 +3112,7 @@ Git
  
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
 * [GitHub Help](https://help.github.com)  
 * [GitHub Training](http://training.github.com)  
 * [GitHub Blog](https://github.com/blog)  
@@ -3610,8 +3611,9 @@ Python and Django Conferences- Proposal Examples
 * [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
 
 Python and Django Conferences- Speaker Mentors
-* [DjangoCon E.U. 2016 Speaking Mentors](https://2016.djangocon.eu/cfp)  
-* [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors)  
+* [DjangoCon E.U. 2016 Call for Proposals/Speaking Mentors](https://2016.djangocon.eu/cfp)  
+* [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors) 
+* [DjangoCon U.S. 2015 Call for Proposals](http://2015.djangocon.us/speaking/cfp)
 * [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
 
 #### Python and Django Girls
@@ -3629,41 +3631,35 @@ Django Girls (Python- Django)
 
 #### Python and Django Contributing
 
+Python- Django- Roadmaps
+* [Django Enhancement Proposals](https://github.com/django/deps)
+* [Django 1.10 Roadmap](https://code.djangoproject.com/wiki/Version1.10Roadmap) 
+* [Django 1.9 Roadmap](https://code.djangoproject.com/wiki/Version1.9Roadmap) 
+
 Python- Django- Contributing
-* [Django Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+
+Python- Django- Forums and Lists
+* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
+* [Django Original Team List](https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list)
+* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
+* [Django Organizational Repo People](https://github.com/orgs/django/people)
+* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 
 Python- PEP 0008 (Style Guide for Python Code)
 * [PEP 0008](https://www.python.org/dev/peps/pep-0008) 
 
+Python- Django- Sprints
+* [Django Sprints](https://code.djangoproject.com/wiki/Sprints) 
+* [Django Sprint Ideas](https://code.djangoproject.com/wiki/SprintIdeas)
+
 <!--
-https://code.djangoproject.com/wiki/Version1.10Roadmap
-https://code.djangoproject.com/wiki/Version1.9Roadmap
-
-See Also
-* [GitHub Help](https://help.github.com/articles/set-up-git/#platform-linux)
-
-https://github.com/django/deps
-
-https://github.com/orgs/django/people
-https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list
-https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers
-https://docs.djangoproject.com/en/1.9/internals/mailing-lists
-
-https://docs.djangoproject.com/en/dev/internals/contributing
-https://www.djangoproject.com/foundation/cla
-
-https://code.djangoproject.com/wiki/Sprints
-https://code.djangoproject.com/wiki/SprintIdeas
-
 http://docs.python-guide.org/en/latest/writing/structure
-
-https://p.ota.to/blog/2015/2/potato-hosting-django-girls-django-sprint
 
 http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
 
 https://us.pycon.org/2016/assistance
-http://2015.djangocon.us/speaking/cfp
-https://2015.djangocon.us
 -->
 
 #### Python and Django Packages and Snippets
