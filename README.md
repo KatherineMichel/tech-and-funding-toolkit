@@ -4575,7 +4575,7 @@ IDE
 Emulator
 * [Genymotion](http://www.genymotion.com) 
 
-Tools
+Tools (Parse is Going Bye-Bye)
 * [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
  
 Deep Linking
