@@ -3431,6 +3431,7 @@ Other JavaScript Helpers
 * [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
 * [Lodash GitHub](https://github.com/lodash/lodash)
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
+* [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
 
 JavaScript Facebook React
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
@@ -3760,6 +3761,9 @@ CGI and WSGI (Web Server API)
 * [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
 * [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
 
+Werkzeug (Flexible WSGI) (Security Flaw)
+* [Werkzeug GitHub](https://github.com/mitsuhiko/werkzeug)
+
 More WSGI (See also Apache)
 * [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
 * [uWsgi GitHub](https://github.com/unbit/uwsgi)
@@ -3776,7 +3780,7 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 Memcached (Object Caching)
 * [Memcached](http://memcached.org) 
 
-Nose
+Nose (Testing)
 * [Nose GitHub](https://github.com/nose-devs/nose)
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
