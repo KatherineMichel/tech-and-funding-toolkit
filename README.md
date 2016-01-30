@@ -3776,6 +3776,13 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 Memcached (Object Caching)
 * [Memcached](http://memcached.org) 
 
+Nose
+* [Nose GitHub](https://github.com/nose-devs/nose)
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
+
+Tox (Automation)
+* [Tox Docs](https://tox.readthedocs.org/en/latest)
+
 Cron
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 
