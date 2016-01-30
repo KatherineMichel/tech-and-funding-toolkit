@@ -3257,14 +3257,35 @@ Startup Class Dotfiles and AWS EC2 Setup
 #### Programming Tiers
 
 Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)
+
+Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
 * [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
+
+Learn Git/GitHub
 * [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
+
+Make Something Static/Client-Side- HTML (Can Use GitHub Browser)
 * [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
+
+Make Something Static- Jekyll (Can Use Git Bash)
 * [Jekyll via GitHub Pages](https://jekyllrb.com)
+
+Make Something Dynamic/Server-Side- Can Store Code on GitHub, but Host Elsewhere (Heroku, AWS, Digital Ocean)
 * Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
-* Start contributing to open source; seek out mentor(s) (some frameworks such as Django have mentor lists) 
-* Use guides such as [How to Contribute to Pinax](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+
+Start contributing to open source
+* Seek out mentor(s) (some frameworks such as Django have mentor lists) 
+* Follow community members and projects (for instance, on Twitter) and look for opportunities
+* Look for guides in repos that explain how to contribute
 * Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
+
+Look for First-Timers Info
+* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
+
+Example First-Timers Info
+* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466)
+* [How to Contribute to Pinax](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
 
 #### Programming Learning Tools
 
