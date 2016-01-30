@@ -3427,6 +3427,10 @@ jQuery
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
+Underscore and Lodash
+* [Underscore GitHub](https://github.com/jashkenas/underscore)
+* [Lodash GitHub](https://github.com/lodash/lodash)
+
 JavaScript Facebook React
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
