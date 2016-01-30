@@ -3643,6 +3643,13 @@ Python and Django Conferences- Speaker Mentors
 DjangoGirls/PyCon
 * [DjangoGirls/PyCon](https://djangogirls.org/pycon)
 
+DjangoCon Talk Ideas
+* [DjangoCon Talk Ideas](https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8)
+
+PyLadies Lacey Williams Henschel
+* [Tweet Storm with Resources](https://twitter.com/laceynwilliams/status/693514103931801600)
+* [Slides](https://docs.google.com/presentation/d/1vgYS-STJl9epz7_RiRGSKnnf4vYi4rtaF3zbJc8S1yA/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
 Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
 
