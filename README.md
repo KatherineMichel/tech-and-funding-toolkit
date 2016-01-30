@@ -3289,6 +3289,9 @@ Example First-Timers Info
 * [How to Contribute to Pinax](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
 * [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
 
+Example Help Tweets
+* [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
+
 #### Programming Learning Tools
 
 Programming and Math Learning Tools (See also MOOCs)
