@@ -3443,6 +3443,7 @@ Other JavaScript Helpers
 * [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
 * [Lodash GitHub](https://github.com/lodash/lodash)
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
+* [Redux GitHub](https://github.com/rackt/redux)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
 
 JavaScript Facebook React
