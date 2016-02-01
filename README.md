@@ -1410,15 +1410,18 @@ Scholarly Journals
 * [Science Direct](http://www.sciencedirect.com)  
 * [Elselvier](http://www.elsevier.com) 
 
-Libraries
+Libraries and Museums
 * [City of London Business Library](http://www.cityoflondon.gov.uk/Pages/default.aspx)
 * [The British Library](http://www.bl.uk)
+* [The British Museum](http://www.britishmuseum.org)
+* [The Smithsonian Institute](http://www.si.edu) and [Smithsonian Mag](http://www.smithsonianmag.com)
+
+Exploration
+* [NASA](http://www.nasa.gov) and [NASA TV](http://www.nasa.gov/multimedia/nasatv)
 
 Google for Education
 * [Google Classroom](https://www.google.com/edu/products/productivity-tools/classroom)
 * [Google Course Builder](https://code.google.com/p/course-builder)
-
-Culture
 
 #### Events, Talks, People
 * [Crunchbase Global Events List](http://www.crunchbase.com/events)  
@@ -1436,13 +1439,14 @@ Culture
 * [SXSW](http://sxsw.com) 
 * [KC Addys](http://aafkc.com/addys)
 
-Google, Google Tech, and TED Talks, Charlie Rose, PBS 
+Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
 * [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
 * [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
 * [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), and[TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest)
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
+* [This American Life](http://www.thisamericanlife.org)
 
 Shows
 * [Founder Stories](http://techcrunch.com/video/founder-stories)
