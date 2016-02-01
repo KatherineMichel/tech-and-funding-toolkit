@@ -592,8 +592,8 @@ Database List
 * [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
 * [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
 * [Mattermark](http://mattermark.com) and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-* [Product Hunt](http://www.producthunt.com) and [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt) 
-
+* [Product Hunt](http://www.producthunt.com), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), and [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt) 
+* 
 Databases and Benchmarking- Freemium
 * [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
 * [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Jobs](https://angel.co/jobs) 
