@@ -1475,6 +1475,7 @@ Books
 * [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
 * [Howard Marks](http://www.amazon.com/Howard-Marks/e/B004LE5B00/ref=dp_byline_cont_book_1)
 * [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
+* [Nir Eyal: Hooked: How to Build Habit-Forming Products](http://www.amazon.com/dp/1591847788/?tag=hooked-us-20)
 * [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 * [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
