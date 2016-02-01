@@ -218,7 +218,7 @@ Table of Contents
 * [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 * [Loic Le Meur](http://loiclemeur.com/english) and [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)
 * [Louis Gray](http://blog.louisgray.com)
-* [Luke Wroblewski](http://www.lukew.com/ff?tag=mobile)
+* [Luke Wroblewski](http://www.lukew.com)
 * [Marco Arment](http://www.marco.org)
 * [Marshall Kirkpatrick](http://marshallk.com)
 * [Matt Cutts](http://www.mattcutts.com/blog)   
