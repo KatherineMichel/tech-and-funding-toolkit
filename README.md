@@ -1425,6 +1425,8 @@ Google for Education
 * [Google Course Builder](https://code.google.com/p/course-builder)
 
 #### Events, Talks, People
+
+Conferences (See also Designer/Developer Conferences and Python Django Conferences)
 * [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 * [Techmeme Events List](http://techmeme.com/events) 
 * [Tech EU Events List](http://tech.eu/events)
@@ -1439,6 +1441,9 @@ Google for Education
 * [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 * [SXSW](http://sxsw.com) 
 * [KC Addys](http://aafkc.com/addys)
+
+Unconference
+* [Unconference Wikipedia](https://en.wikipedia.org/wiki/Unconference)
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
