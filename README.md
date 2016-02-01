@@ -2700,6 +2700,7 @@ Admin, Hiring, Payroll
 
 Company Internal Policies
 * [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
+* [Amazon: Back of the Napkin Drawing](http://a16z.com/2014/09/05/why-amazon-has-no-profits-and-why-it-works)
 * [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
 * [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 
