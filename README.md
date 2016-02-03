@@ -3710,6 +3710,10 @@ Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
+https://github.com/search?utf8=✓&q=django+e-commerce
+https://code.djangoproject.com/wiki/DjangoResources
+https://code.djangoproject.com/wiki/Version1.10Roadmap
+
 http://docs.python-guide.org/en/latest/writing/structure
 
 http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
