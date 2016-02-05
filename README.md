@@ -162,6 +162,7 @@ Table of Contents
 * [Semil Shah Archive](http://blog.semilshah.com/archive)
 * [Seth Levine Archive](http://www.sethlevine.com/archive)
 * [Steven Sinofsky](http://blog.learningbyshipping.com) and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
+* [Ted Rheingold Twitter](https://twitter.com/tedr)
 * [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
