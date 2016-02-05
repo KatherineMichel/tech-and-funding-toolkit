@@ -3598,6 +3598,7 @@ CPython
 
 Python Playbooks
 * [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
+* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
 * [Full Stack Python](https://www.fullstackpython.com)
 
 Python- Django
