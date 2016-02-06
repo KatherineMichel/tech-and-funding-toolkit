@@ -3714,6 +3714,9 @@ Python- Django- Sprints: See
 <!--
 2.12 Writing your first patch for Django
 https://www.djangoproject.com/conduct/
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
+https://docs.python.org/3/library/unittest.html
+http://www.diveintopython.net/unit_testing/
 
 https://github.com/search?utf8=✓&q=django+e-commerce
 https://code.djangoproject.com/wiki/DjangoResources
