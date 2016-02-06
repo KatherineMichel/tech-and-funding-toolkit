@@ -3712,6 +3712,9 @@ Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
+2.12 Writing your first patch for Django
+https://www.djangoproject.com/conduct/
+
 https://github.com/search?utf8=✓&q=django+e-commerce
 https://code.djangoproject.com/wiki/DjangoResources
 https://code.djangoproject.com/wiki/Version1.10Roadmap
