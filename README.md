@@ -1216,8 +1216,6 @@ Tech Aggregated, Question and Answer Forums
 * [Stack Overflow](http://stackoverflow.com)
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
-* [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
-
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
@@ -2613,6 +2611,10 @@ Photo Hosting
 * [Flickr](https://www.flickr.com) 
 * [Google Photos](https://photos.google.com)
 * [Picasa](https://picasa.google.com)
+
+Presentations
+* [SlideShare](www.slideshare.net)
+* [Speaker Deck](https://speakerdeck.com)
 
 Document Hosting
 * [Scribd](https://www.scribd.com)
