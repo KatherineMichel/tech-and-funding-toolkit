@@ -1,6 +1,8 @@
 Tech and Venture Capital Toolkit
 ====================
 
+![](tech-and-venture-capital-toolkit.jpg)
+
 A :star::star::star::star::star: curated list of high quality resources (mostly free) made with :heart: by Kati Michel. See also...
 
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
