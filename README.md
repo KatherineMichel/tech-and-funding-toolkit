@@ -2,6 +2,7 @@ Tech and Venture Capital Toolkit
 ====================
 
 ![](tech-and-venture-capital-toolkit.jpg)
+[Photo Credit](http://www.morguefile.com/archive/display/877310)
 
 A :star::star::star::star::star: curated list of high quality resources (mostly free) made with :heart: by Kati Michel. See also...
 
@@ -5369,5 +5370,3 @@ Book Lists
 #### Vocabulary
 
 [Back to Top](#)
-
-[Photo Credit](http://www.morguefile.com/archive/display/877310)
