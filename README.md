@@ -5368,3 +5368,5 @@ Book Lists
 #### Vocabulary
 
 [Back to Top](#)
+
+[Photo Credit](http://www.morguefile.com/archive/display/877310)
