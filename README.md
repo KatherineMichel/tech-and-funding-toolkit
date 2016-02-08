@@ -2579,6 +2579,7 @@ Google Products, Office
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
 * [Google Slides](https://support.google.com/docs#topic=2811776)
 * [Google Drawings](https://docs.google.com/drawings)  
+* [Google Images](https://images.google.com) 
 * [Google Calendar](https://www.google.com/calendar) 
 * [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
 * [Google Flights](https://www.google.com/flights)  
