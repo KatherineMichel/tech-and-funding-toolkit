@@ -3320,7 +3320,7 @@ Look for First-Timers Info
 
 Example First-Timers Info
 * [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
-* [How to Contribute to Pinax](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
 * [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
 
 Example Help Tweets
@@ -3661,6 +3661,10 @@ Python- Mobile
 * Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
 
 #### Python and Django Conferences and Mentors 
+
+Python- Users and Members
+* [Python Members](https://www.python.org/psf/members)
+* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 Python Mentors
 * [Python Mentors](http://pythonmentors.com)
