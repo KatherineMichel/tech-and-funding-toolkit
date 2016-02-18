@@ -90,7 +90,7 @@ Table of Contents
   * [Programming Languages, MVCs](#programming-languages-mvcs)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
-  * [Python and Django Conferences](#python-and-django-conferences)
+  * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
@@ -3614,7 +3614,7 @@ CPython
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
-Python Playbooks
+Python- Playbooks
 * [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
 * [Full Stack Python](https://www.fullstackpython.com)
@@ -3623,7 +3623,8 @@ Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 * [Django Documentation](https://docs.djangoproject.com)  
 
-Python- Django Jobs
+Python- Django People and Jobs
+* [Django People](https://people.djangoproject.com)
 * [Django Jobs](https://www.djangojobs.net) 
 
 Python- Django- News
@@ -3659,7 +3660,10 @@ Python- Mobile
 * [VOC Read the Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
 * Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
 
-#### Python and Django Conferences
+#### Python and Django Conferences and Mentors 
+
+Python Mentors
+* [Python Mentors](http://pythonmentors.com)
 
 Python and Django Conferences
 * [PyCon](http://www.pycon.org)
@@ -3677,6 +3681,9 @@ Python and Django Conferences- Speaker Mentors
 * [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors) 
 * [DjangoCon U.S. 2015 Call for Proposals](http://2015.djangocon.us/speaking/cfp)
 * [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
+
+DjangoCon Organizers
+* [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
 DjangoGirls/PyCon
 * [DjangoGirls/PyCon](https://djangogirls.org/pycon)
@@ -4741,7 +4748,7 @@ Data Science Websites
 * [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
 * [Deep Learning News (The "Hacker News" of Deep Learning)](http://news.startup.ml)
 
-ANalyst Group Resources
+Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
 * [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
 
@@ -5222,6 +5229,9 @@ R Programming Language
 * [R Programming Language Studio](http://www.rstudio.com)  
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets)
 * [Data Science Masters- R Resources](https://github.com/datasciencemasters/go/blob/master/r-resources.md)  
+
+Microsoft R
+* [Microsoft R Open](https://mran.revolutionanalytics.com/rro)
 
 R Markdown
 * [RStudio Using Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown)  
