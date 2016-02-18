@@ -3092,6 +3092,9 @@ Distributed and Parallel Computing
 
 #### Software Manuals and Documentation 
 
+Write the Docs (Conference and Community)
+* [Write the Docs](http://www.writethedocs.org)
+
 Pandoc
 * [Pandoc](http://johnmacfarlane.net/pandoc)  
 
@@ -3339,6 +3342,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
 * [Math Overflow](http://mathoverflow.net)
 * [Minecraft](https://minecraft.net)
+* [Node Together](http://www.nodetogether.org)
 * [Project Euler](http://www.projecteuler.net)  
 * [Project Euler Local](https://github.com/imsky/LocalEuler)  
 * [Project Euler Problems](http://projecteuler.net/problems)  
@@ -3348,6 +3352,11 @@ Programming and Math Learning Tools (See also MOOCs)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
+
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
 
 Text Editor and Code Demonstration
 * [JSFiddle](http://jsfiddle.net)
