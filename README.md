@@ -3849,8 +3849,9 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 Memcached (Object Caching)
 * [Memcached](http://memcached.org) 
 
-Nose (Testing)
+Nose (Unit Test Extension)
 * [Nose GitHub](https://github.com/nose-devs/nose)
+* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 Tox (Automation)
@@ -5126,9 +5127,6 @@ Python- Statistics Stack- StatsModel
 Python- Statistics Stack- GGPlot
 * [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
 * [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
-
-Python- Statistics Stack- Nose Reference
-* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest)  
 
 Python- Statistics Stack- Scikit-Learn
 * [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
