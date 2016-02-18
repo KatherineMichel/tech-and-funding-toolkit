@@ -3602,6 +3602,9 @@ Virtual Environment
 CPython
 * [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
 
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
 Python Playbooks
 * [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
@@ -3906,6 +3909,10 @@ Python- Django- Rest Framework GIS
 * [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
 * [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
 * [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+Python- Django- Records and Requests
+* [Records GitHub](https://github.com/kennethreitz/records)
+* [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
 Python- Python/Django- Internationalization and Localization, Translation
 * [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
