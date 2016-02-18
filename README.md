@@ -3723,8 +3723,15 @@ Python- Django- Forums and Lists
 * [Django Organizational Repo People](https://github.com/orgs/django/people)
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 
-Python- PEP 0008 (Style Guide for Python Code)
-* [PEP 0008](https://www.python.org/dev/peps/pep-0008) 
+Python- PEP
+* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) 
+* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+
+Python- Style Guides
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
+* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
 
 Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
@@ -3920,8 +3927,8 @@ Python- Django- Rest Framework GIS
 * [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
 
 Python- Django- Records and Requests
-* [Records GitHub](https://github.com/kennethreitz/records)
-* [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Requests](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
 Python- Python/Django- Internationalization and Localization, Translation
 * [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
@@ -3984,9 +3991,6 @@ Python- Django- Other CMS and E-Commerce Options
  
 Python- Django- TinyMCE
 * [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
-
-Python- Django- Requests
-* [Requests](https://pypi.python.org/pypi/requests) and [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests)
 
 Python- Django- Python Social Auth
 * [Python Social Auth](https://github.com/omab/python-social-auth)  
