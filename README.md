@@ -3751,6 +3751,7 @@ https://github.com/PyCon/2015-slides
 
 Django Girls (Python- Django)
 * [Django Girls GitHub](https://github.com/DjangoGirls) 
+* [Django Girls Wiki](https://github.com/DjangoGirls/wiki)
 * [Django Girls Blog](http://blog.djangogirls.org)
 * [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
 * [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
@@ -3767,7 +3768,8 @@ Python- Django- Roadmaps
 * [Django 1.10 Roadmap](https://code.djangoproject.com/wiki/Version1.10Roadmap) 
 * [Django 1.9 Roadmap](https://code.djangoproject.com/wiki/Version1.9Roadmap) 
 
-Python- Django- Contributing
+Python- Django- Code of Conduct and Contributing
+* [Django Code of Conduct[](https://www.djangoproject.com/conduct)
 * [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
 * [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
 
@@ -3798,31 +3800,25 @@ Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
+https://docs.python.org/2/howto/descriptor.html
+https://docs.python.org/2/tutorial/errors.html
+
 2.12 Writing your first patch for Django
-https://www.djangoproject.com/conduct/
 https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
 https://docs.python.org/3/library/unittest.html
 http://www.diveintopython.net/unit_testing/
 
-https://github.com/search?utf8=✓&q=django+e-commerce
 https://code.djangoproject.com/wiki/DjangoResources
-https://code.djangoproject.com/wiki/Version1.10Roadmap
-
-http://docs.python-guide.org/en/latest/writing/structure
-
-https://github.com/DjangoGirls/wiki
-
 https://www.python.org/community/workshops/
+
+http://docs.python-requests.org/en/master/dev/contributing/#code-style
+http://docs.python-guide.org/en/latest/writing/structure
 
 https://devcenter.heroku.com/articles/django-assets
 
 https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
-http://docs.python-requests.org/en/master/dev/contributing/#code-style
 https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf
 https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
-https://docs.python.org/2/howto/descriptor.html
-https://docs.python.org/2/tutorial/errors.html
 
 https://github.com/kennethreitz/conda-buildpack
 http://conda.pydata.org/miniconda.html
