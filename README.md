@@ -3322,6 +3322,8 @@ Example First-Timers Info
 * [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
 * [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
 * [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
+* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 Example Help Tweets
 * [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
@@ -3704,6 +3706,47 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
 
+<!--
+https://ep2016.europython.eu/en/call-for-proposals/
+
+https://2016.djangocon.eu/speakers/schedule
+https://2016.djangocon.eu/venue/#workshops
+https://2016.djangocon.eu/cfp/workshop/
+https://2016.djangocon.eu/faq/
+
+https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
+https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
+
+https://groups.google.com/forum/#!msg/django-users/-iTZB7K1QI4/TTVXd9Y6EwAJ
+https://groups.google.com/forum/#!topic/djangocon-organizers/-I4dLxPYXM8
+https://groups.google.com/forum/#!topic/djangocon-organizers/whBrRrNnxQA
+
+https://www.djangocon.us/sprints/
+https://2015.djangocon.us/blog/2015/05/08/announcing-our-call-reviewers/
+djangocon us trello board
+https://2015.djangocon.us/volunteers/
+https://trello.com/b/zBpdDpe7/djangcon-us-2012
+
+https://github.com/PyCon/2015/wiki/PyCon-2105-Sponsorship-Prospectus
+https://github.com/PyCon/2015/wiki/
+https://github.com/djangocon/djangocon-us-docs/wiki/DjangoCon-2015-Checklist
+https://github.com/djangocon/djangocon-us-docs
+
+https://twitter.com/pycon/status/695409083847868418
+https://twitter.com/MassHaste/status/694988623209299968
+https://us.pycon.org/2016/schedule/presentation/2082/
+https://us.pycon.org/2016/schedule/
+https://us.pycon.org/2016/events/keynotes/
+
+https://github.com/PyCon
+https://github.com/PyCon/pycon
+https://github.com/PyCon/2015/wiki#tentative-dates
+https://github.com/PyCon/2015
+https://github.com/PyCon/2016/issues
+https://github.com/PyCon/best-practices/blob/master/presentation_slides.md
+https://github.com/PyCon/2015-slides
+-->
+
 #### Python and Django Girls
 
 Django Girls (Python- Django)
@@ -3735,7 +3778,13 @@ Python- Django- Forums and Lists
 * [Django Organizational Repo People](https://github.com/orgs/django/people)
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 
+Python- Django- Slack
+* [Django Developers](https://django-developers.herokuapp.com)
+* [Pinax Slack](http://slack.pinaxproject.com)
+* [PyLadies](http://slackin.pyladies.com) and [PyLadies Remote](https://tlk.io/pyladiesremote)
+
 Python- PEP
+* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) 
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
 
@@ -3761,79 +3810,23 @@ https://code.djangoproject.com/wiki/Version1.10Roadmap
 
 http://docs.python-guide.org/en/latest/writing/structure
 
-http://www.datasciencecentral.com/forum/topics/interesting-tutorials-from-pycon-2014-usa?groupUrl=resources
+https://github.com/DjangoGirls/wiki
 
-https://code.djangoproject.com/wiki/DjangoResources
+https://www.python.org/community/workshops/
 
 https://devcenter.heroku.com/articles/django-assets
-
-https://github.com/kennethreitz/dj-static
-https://github.com/kennethreitz/dj-database-url
-https://github.com/kennethreitz/conda-buildpack
-http://conda.pydata.org/miniconda.html
-https://github.com/docopt/docopt
-
-http://pep8.org
-http://f.cl.ly/items/2F0a0S1h0p3V3z3T1q0Y/Screen%20Shot%202016-02-20%20at%2010.06.14%20PM.png
 
 https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
 http://docs.python-requests.org/en/master/dev/contributing/#code-style
 https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf
 https://pythonhosted.org/an_example_pypi_project/setuptools.html
 
-https://ep2016.europython.eu/en/call-for-proposals/
-
-https://2016.djangocon.eu/speakers/schedule
-https://2016.djangocon.eu/venue/#workshops
-https://2016.djangocon.eu/cfp/workshop/
-https://2016.djangocon.eu/faq/
-
-https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
-https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
-
-http://blog.pinaxproject.com/2016/02/01/pinax-1604/
-https://github.com/pinax/pinax/issues/84
-https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project
-
-Slack
-https://pinax.slack.com/messages/general/
-
-https://groups.google.com/forum/#!msg/django-users/-iTZB7K1QI4/TTVXd9Y6EwAJ
-https://groups.google.com/forum/#!topic/djangocon-organizers/-I4dLxPYXM8
-https://groups.google.com/forum/#!topic/djangocon-organizers/whBrRrNnxQA
-
-https://www.djangocon.us/sprints/
-https://2015.djangocon.us/blog/2015/05/08/announcing-our-call-reviewers/
-djangocon us trello board
-https://2015.djangocon.us/volunteers/
-https://trello.com/b/zBpdDpe7/djangcon-us-2012
-
-https://github.com/PyCon/2015/wiki/PyCon-2105-Sponsorship-Prospectus
-https://github.com/PyCon/2015/wiki/
-https://github.com/djangocon/djangocon-us-docs/wiki/DjangoCon-2015-Checklist
-https://github.com/djangocon/djangocon-us-docs
-
-https://github.com/DjangoGirls/wiki
-
 https://docs.python.org/2/howto/descriptor.html
 https://docs.python.org/2/tutorial/errors.html
 
-https://twitter.com/pycon/status/695409083847868418
-https://twitter.com/MassHaste/status/694988623209299968
-https://us.pycon.org/2016/schedule/presentation/2082/
-https://us.pycon.org/2016/schedule/
-https://us.pycon.org/2016/events/keynotes/
-
-https://github.com/PyCon
-https://github.com/PyCon/pycon
-https://github.com/PyCon/2015/wiki#tentative-dates
-https://github.com/PyCon/2015
-https://github.com/PyCon/2016/issues
-https://github.com/PyCon/best-practices/blob/master/presentation_slides.md
-https://github.com/PyCon/2015-slides
-
-https://www.python.org/community/workshops/
-
+https://github.com/kennethreitz/conda-buildpack
+http://conda.pydata.org/miniconda.html
+https://github.com/docopt/docopt
 -->
 
 #### Python and Django Packages and Snippets
@@ -4010,9 +4003,11 @@ Python- Django- Rest Framework GIS
 * [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
 * [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
 
-Python- Django- Records and Requests
+Python- Django- Records, Requests, DJ Static, DJ Database URL
 * [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
 * [Requests](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url)
 
 Python- Python/Django- Internationalization and Localization, Translation
 * [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
