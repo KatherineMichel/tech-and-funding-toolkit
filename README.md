@@ -3796,6 +3796,9 @@ Python- Style Guides
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
 * [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
 
+Python- Requests Contributor's Guide
+* [Kenneth Reitz: Requests Contributor's Guide](http://docs.python-requests.org/en/master/dev/contributing/#code-style)
+
 Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
@@ -3811,13 +3814,11 @@ http://www.diveintopython.net/unit_testing/
 https://code.djangoproject.com/wiki/DjangoResources
 https://www.python.org/community/workshops/
 
-http://docs.python-requests.org/en/master/dev/contributing/#code-style
 http://docs.python-guide.org/en/latest/writing/structure
 
 https://devcenter.heroku.com/articles/django-assets
 
 https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
-https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf
 https://pythonhosted.org/an_example_pypi_project/setuptools.html
 
 https://github.com/kennethreitz/conda-buildpack
@@ -4054,6 +4055,7 @@ Python- Django- CMS, E-Commerce
 
 Python- Django- Wagtail (Recommended)
 * [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template) 
+* [Wagtail Docs](https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf)
 
 Python- Django- Other CMS and E-Commerce Options
 * [Django Fluent CMS](http://django-fluent.org), [Django Fluent CMS GitHub](https://github.com/edoburu), and [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
