@@ -3707,8 +3707,6 @@ Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
 
 <!--
-https://ep2016.europython.eu/en/call-for-proposals/
-
 https://2016.djangocon.eu/speakers/schedule
 https://2016.djangocon.eu/venue/#workshops
 https://2016.djangocon.eu/cfp/workshop/
@@ -3745,6 +3743,8 @@ https://github.com/PyCon/2015
 https://github.com/PyCon/2016/issues
 https://github.com/PyCon/best-practices/blob/master/presentation_slides.md
 https://github.com/PyCon/2015-slides
+
+https://ep2016.europython.eu/en/call-for-proposals/
 -->
 
 #### Python and Django Girls
@@ -3789,6 +3789,7 @@ Python- PEP
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) 
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+* [PEP 0020 The Zen of Python](https://www.python.org/dev/peps/pep-0020)
 
 Python- Style Guides
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
