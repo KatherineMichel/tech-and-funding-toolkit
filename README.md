@@ -3624,6 +3624,9 @@ Python- Playbooks
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
 * [Full Stack Python](https://www.fullstackpython.com)
 
+Python- Playbooks
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
+
 Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 * [Django Documentation](https://docs.djangoproject.com)  
