@@ -3789,6 +3789,7 @@ Python- PEP
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) 
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+* [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
 * [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
 
 Python- Style Guides
@@ -3815,7 +3816,10 @@ http://www.diveintopython.net/unit_testing/
 https://code.djangoproject.com/wiki/DjangoResources
 https://www.python.org/community/workshops/
 
+Project Structure
 http://docs.python-guide.org/en/latest/writing/structure
+
+https://docs.python.org/devguide
 
 https://devcenter.heroku.com/articles/django-assets
 
