@@ -3789,7 +3789,7 @@ Python- PEP
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) 
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
-* [PEP 0020 The Zen of Python](https://www.python.org/dev/peps/pep-0020)
+* [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
 
 Python- Style Guides
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
