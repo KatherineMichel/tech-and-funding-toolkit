@@ -1437,6 +1437,7 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [Startup School](http://www.startupschool.org)
 * [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
 * [Mobile Ecosystem Forum](http://mefglobalforum.org)
+* [Mobile World Congress](https://www.mobileworldcongress.com)
 * [TechCrunch Events](http://techcrunch.com/events)  
 * Crunchies
 * [Recode Events](http://recode.net/events) 
