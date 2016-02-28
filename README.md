@@ -3217,8 +3217,6 @@ https://github.com/ajaxorg/ace
 https://github.com/features
 https://guides.github.com/introduction/flow/
 https://github.com/blog/2112-delivering-octicons-with-svg
-
-https://github.com/showcases/github-pages-examples
 -->
 
 GitHub- Trending
