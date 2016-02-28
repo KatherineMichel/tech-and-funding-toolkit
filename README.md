@@ -3157,6 +3157,25 @@ GitHub- Main
 * [Git Ignore GitHub](https://github.com/github/gitignore)  
 * [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
 
+<!--
+https://gist.github.com/starred
+https://github.com/github-archive
+https://github.com/github/training-kit
+https://github.com/github-archive/training.github.com
+https://github.com/blog/2104-working-with-submodules
+
+https://help.github.com/articles/adding-a-file-to-a-repository/
+https://github.com/blog/2111-issue-and-pull-request-templates
+https://help.github.com/articles/creating-a-pull-request/
+https://github.com/ajaxorg/ace
+
+https://github.com/features
+https://guides.github.com/introduction/flow/
+https://github.com/blog/2112-delivering-octicons-with-svg
+
+https://github.com/showcases/github-pages-examples
+-->
+
 GitHub- Trending
 * [GitHub Trending](https://github.com/josephyzhou/github-trending)
 
@@ -3664,6 +3683,11 @@ Python- Django- Major Organizations and Projects that Use Django (Excluding Temp
 * [Reddit GitHub](https://github.com/reddit)  
 * [StyleSeat GitHub](https://github.com/styleseat) 
 
+<!--
+disqus
+mozilla
+-->
+
 Python- Mobile
 * [Kivy GitHub](https://github.com/kivy/kivy)
 * [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
@@ -3918,6 +3942,17 @@ https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 http://www.apple.com/mac/imovie/
 https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
+
+https://github.com/python/community-starter-kit
+https://github.com/eldarion/djangocon.us
+
+https://www.djangoproject.com/fundraising/campaign/django-fellowship
+
+jacobian-archive
+http://codingwithkniv.es
+http://blog.sendecka.me
+http://www.pydanny.com
+http://www.kennethreitz.org
 -->
 
 #### Python and Django Packages and Snippets
