@@ -3889,6 +3889,35 @@ https://docs.djangoproject.com/en/1.9/ref/templates/api/
 https://github.com/yyuu/pyenv
 https://github.com/yyuu/pyenv-virtualenv
 https://github.com/yyuu/pyenv-virtualenvwrapper
+
+https://github.com/pypa/warehouse
+
+http://www.ellingtoncms.com
+https://github.com/socalpyladies/socalpyladies.github.io
+http://www.writethedocs.org/conf/na/2016/cfp/
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+https://en.wikipedia.org/wiki/ReStructuredText
+https://www.npmjs.com/package/generator-django
+
+Python Guides
+https://github.com/pyladies/pyladies
+https://github.com/python/pycon-code-of-conduct
+
+http://socalpyladies.github.io/
+http://london.pydata.org
+
+https://github.com/kivy/kivy-website
+kivy / python-for-android
+https://github.com/amontalenti/elements-of-python-style
+
+https://2015.djangocon.us/blog/2015/06/10/call-conference-venues
+https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
+http://python-packaging-user-guide.readthedocs.org/en/latest/installing
+
+https://twitter.com/CodingIsForGirl/status/695712398024511490
+https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
+http://www.apple.com/mac/imovie/
+https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
 -->
 
 #### Python and Django Packages and Snippets
