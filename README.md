@@ -2902,6 +2902,22 @@ Apple- iOS and Swift
 * [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Apple Swift](https://developer.apple.com/swift), [Apple Swift Standard Library Reference](https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
 * [Stanford: Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 * [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
+* [Accelerometer Wikipedia](https://en.wikipedia.org/wiki/Accelerometer)
+
+<!--
+https://swift.org/blog/swift-ci/
+https://developer.apple.com/swift/blog/
+https://twitter.com/swiftlang
+https://github.com/allenwong/30DaysofSwift
+https://github.com/IBM-Swift
+swift playground
+https://www.udacity.com/courses/ios
+https://developer.apple.com/library/ios/navigation/
+https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
+https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
+https://en.wikipedia.org/wiki/Cocoa_Touch
+http://lifehacker.com/stanfords-developing-ios-8-apps-with-swift-course-is-no-1682067022
+-->
 
 Apple- Heroku
 * [Heroku Toolbelt for Mac OS X](https://toolbelt.heroku.com)
@@ -3969,6 +3985,14 @@ https://www.npmjs.com/package/generator-django
 Python Guides
 https://github.com/pyladies/pyladies
 https://github.com/python/pycon-code-of-conduct
+
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+
+Pythonista
+http://masteringdjango.com/django-book/
+https://github.com/big-nige/djangobook-Updated-to-1.8
+http://www.diveintopython.net/regular_expressions/
+http://www.learnenough.com/git-tutorial#sec-getting_started
 
 http://socalpyladies.github.io/
 http://london.pydata.org
