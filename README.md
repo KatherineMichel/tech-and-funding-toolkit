@@ -4090,6 +4090,7 @@ Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python p
 * [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
 
 Dedicated Python Hosting
+* [Gondor (on Kubernetes)](https://gondor.io)
 * [Python Anywhere](https://www.pythonanywhere.com) 
 
 Python- Heroku
