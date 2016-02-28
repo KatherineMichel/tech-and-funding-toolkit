@@ -2897,8 +2897,10 @@ Apple Developer Tools
 PostgreSQL
 * [Postresapp.com](http://postgresapp.com) and [Postresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
 
-Apple- Swift
-* [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Apple Swift](https://developer.apple.com/swift), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
+Apple- iOS and Swift
+* [Apple iOS](https://developer.apple.com/ios)
+* [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Apple Swift](https://developer.apple.com/swift), [Apple Swift Standard Library Reference](https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
+* [Stanford: Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 * [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
 
 Apple- Heroku
