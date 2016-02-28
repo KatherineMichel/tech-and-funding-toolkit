@@ -75,6 +75,7 @@ Table of Contents
   * [Notable Quotes](#notable-quotes)
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
+  * [Google Chrome](#google-chrome)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple](#apple)
 * [Development Environment and Programming](#development-environment-and-programming)
@@ -2155,6 +2156,10 @@ Google Dev Tools
 * [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
 * [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
+<!--
+https://developers.google.com/drive
+-->
+
 Google Analytics
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 Google Ads
@@ -2853,6 +2858,17 @@ Linux- Other Popular Distributions
 * [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
 * [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
 
+#### Google Chrome
+
+* [Google Chrome](https://www.google.com/intl/en/chrome) 
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
+* [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
+
+<!--
+https://www.google.com/intl/en/chrome/browser
+http://www.google.com/intl/en/chrome/devices
+-->
+
 #### Mojombo Chromebook Recommendation
 
 * [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
@@ -2862,16 +2878,6 @@ Linux- Other Popular Distributions
 * [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
 * [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
 * [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
-
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
-* [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
-
-<!--
-http://en.wikipedia.org/wiki/Google_Chrome_OS
-https://www.google.com/intl/en/chrome/browser
-http://www.google.com/intl/en/chrome/devices
-https://developers.google.com/drive
--->
 
 Chromebook Ubuntu Installation
 * [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
@@ -2901,8 +2907,6 @@ Apple Developer and Open Source
 https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md
 https://help.apple.com/osx-elcapitan/from-yosemite/#/outro
 https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures
-https://support.apple.com/en-us/HT204990
-https://support.apple.com/en-us/HT201468
 -->
 
 Apple Developer Tools
@@ -2955,7 +2959,8 @@ Apple- Refurbished, Clearance, Reuse, Recycling
 
 Apple- Windows
 * [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
-* [Bootcamp (Free)](https://support.apple.com/en-us/HT201468)  
+* ["How to install Windows using Boot Camp"](https://support.apple.com/en-us/HT201468)  
+* ["Use Windows 10 on your Mac with Boot Camp"](https://support.apple.com/en-us/HT204990)
 * [Parallels](http://www.parallels.com)
 * [VMware Fusion](http://www.vmware.com/products/fusion)
 * [Wine](https://www.winehq.org)
@@ -3709,6 +3714,16 @@ Virtual Environment
 * [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
 * [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
   
+<!--
+http://virtualenvwrapper.readthedocs.org/en/latest/
+http://docs.python-guide.org/en/latest/dev/virtualenvs/
+http://virtualenvwrapper.readthedocs.org/en/latest/install.html
+
+https://github.com/yyuu/pyenv
+https://github.com/yyuu/pyenv-virtualenv
+https://github.com/yyuu/pyenv-virtualenvwrapper
+-->
+
 CPython
 * [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
 
@@ -3730,6 +3745,12 @@ Python- Django
 Python- Django People and Jobs
 * [Django People](https://people.djangoproject.com)
 * [Django Jobs](https://www.djangojobs.net) 
+
+Python- Django Community
+* [Adrienne Friend](http://codingwithkniv.es)
+* [Audrey Roy Greenfield](https://www.audreyr.com)
+* [Kenneth Reitz](http://www.kennethreitz.org)
+* [Daniel Greenfeld](http://www.pydanny.com)
 
 Python- Django- News
 * [Django Weblog GitHub](https://www.djangoproject.com/weblog)
@@ -3851,9 +3872,17 @@ https://github.com/PyCon/best-practices/blob/master/presentation_slides.md
 https://github.com/PyCon/2015-slides
 
 https://ep2016.europython.eu/en/call-for-proposals/
+
+https://2015.djangocon.us/blog/2015/06/10/call-conference-venues
+http://www.writethedocs.org/conf/na/2016/cfp/
+https://us.pycon.org/2016/schedule/conference.json
 -->
 
 #### Python and Django Girls
+
+Django Girls Co-Founders
+* [Ola Sendecka](http://blog.sendecka.me)
+* [Ola Sitarska](http://ola.sitarska.com)
 
 Django Girls (Python- Django)
 * [Django Girls GitHub](https://github.com/DjangoGirls) 
@@ -3913,62 +3942,6 @@ Python- Django- Sprints: See
 * [](http://docs.python-guide.org/en/latest/notes/styleguide/)
 
 <!--
-https://docs.python.org/2/howto/descriptor.html
-https://docs.python.org/2/tutorial/errors.html
-
-2.12 Writing your first patch for Django
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
-https://docs.python.org/3/library/unittest.html
-http://www.diveintopython.net/unit_testing/
-
-https://code.djangoproject.com/wiki/DjangoResources
-https://www.python.org/community/workshops/
-
-Project Structure
-http://docs.python-guide.org/en/latest/writing/structure
-
-https://docs.python.org/devguide
-
-https://devcenter.heroku.com/articles/django-assets
-
-https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
-https://github.com/kennethreitz/conda-buildpack
-http://conda.pydata.org/miniconda.html
-https://github.com/docopt/docopt
-
-
-https://github.com/pinax/pinax-webanalytics
-http://pinaxproject.com/pinax
-http://pinaxproject.com/pinax/quick_start
-http://pinaxproject.com/pinax/apps_list
-https://github.com/pinax/pinax-theme-bootstrap
-https://github.com/pinax/django-user-accounts
-http://django-user-accounts.readthedocs.org/en/latest
-https://github.com/pinax/django-forms-bootstrap
-
-http://awesome-python.com
-
-https://github.com/divio/django-mailchimp
-
-https://github.com/django/code.djangoproject.com
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
-
-http://django-mailer2.readthedocs.org/en/latest
-https://docs.djangoproject.com/en/1.8/topics/email
-
-https://us.pycon.org/2016/schedule/conference.json
-
-http://docs.python-guide.org/en/latest/starting/install/osx/
-
-http://virtualenvwrapper.readthedocs.org/en/latest/
-http://docs.python-guide.org/en/latest/dev/virtualenvs/
-http://virtualenvwrapper.readthedocs.org/en/latest/install.html
-
-https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf
-
 http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
 https://docs.djangoproject.com/en/1.9/ref/models/expressions/
 https://docs.djangoproject.com/en/1.9/contents/
@@ -3985,57 +3958,100 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 https://docs.djangoproject.com/en/1.9/topics/http/urls/
 https://docs.djangoproject.com/en/1.9/ref/templates/api/
 
-https://github.com/yyuu/pyenv
-https://github.com/yyuu/pyenv-virtualenv
-https://github.com/yyuu/pyenv-virtualenvwrapper
+http://awesome-python.com
 
-https://github.com/pypa/warehouse
+https://github.com/pinax/pinax-webanalytics
+http://pinaxproject.com/pinax
+http://pinaxproject.com/pinax/quick_start
+http://pinaxproject.com/pinax/apps_list
+https://github.com/pinax/pinax-theme-bootstrap
+https://github.com/pinax/django-user-accounts
+https://github.com/pinax/django-forms-bootstrap
+http://django-user-accounts.readthedocs.org/en/latest
 
-http://www.ellingtoncms.com
-https://github.com/socalpyladies/socalpyladies.github.io
-http://www.writethedocs.org/conf/na/2016/cfp/
-https://github.com/DutchDjangoAssociation/djangovereniging.nl
-https://en.wikipedia.org/wiki/ReStructuredText
-https://www.npmjs.com/package/generator-django
+Project Structure
+http://docs.python-guide.org/en/latest/writing/structure
+
+https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf
+
+2.12 Writing your first patch for Django
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
+https://docs.python.org/3/library/unittest.html
+http://www.diveintopython.net/unit_testing/
 
 Python Guides
 https://github.com/pyladies/pyladies
 https://github.com/python/pycon-code-of-conduct
 
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-
-Pythonista
-http://masteringdjango.com/django-book/
-https://github.com/big-nige/djangobook-Updated-to-1.8
-http://www.diveintopython.net/regular_expressions/
-http://www.learnenough.com/git-tutorial#sec-getting_started
-
+https://github.com/socalpyladies/socalpyladies.github.io
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
 http://socalpyladies.github.io/
 http://london.pydata.org
 
+Pythonista
 https://github.com/kivy/kivy-website
-kivy / python-for-android
-https://github.com/amontalenti/elements-of-python-style
+kivy/python-for-android
 
-https://2015.djangocon.us/blog/2015/06/10/call-conference-venues
-https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
-http://python-packaging-user-guide.readthedocs.org/en/latest/installing
+http://masteringdjango.com/django-book/
+https://github.com/big-nige/djangobook-Updated-to-1.8
+http://www.diveintopython.net/regular_expressions/
+
+https://github.com/kennethreitz/conda-buildpack
+http://conda.pydata.org/miniconda.html
+https://github.com/docopt/docopt
 
 https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 http://www.apple.com/mac/imovie/
 https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
 
+
+jacobian-archive
+
+https://docs.python.org/2/howto/descriptor.html
+https://docs.python.org/2/tutorial/errors.html
+
+https://code.djangoproject.com/wiki/DjangoResources
+https://www.python.org/community/workshops/
+
+https://docs.python.org/devguide
+
+https://devcenter.heroku.com/articles/django-assets
+
+https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+https://github.com/divio/django-mailchimp
+
+https://github.com/django/code.djangoproject.com
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+
+http://django-mailer2.readthedocs.org/en/latest
+https://docs.djangoproject.com/en/1.8/topics/email
+
+http://docs.python-guide.org/en/latest/starting/install/osx/
+
+https://github.com/pypa/warehouse
+
+http://www.ellingtoncms.com
+
+https://en.wikipedia.org/wiki/ReStructuredText
+https://www.npmjs.com/package/generator-django
+
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+
+http://www.learnenough.com/git-tutorial#sec-getting_started
+
+https://github.com/amontalenti/elements-of-python-style
+
+https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
+http://python-packaging-user-guide.readthedocs.org/en/latest/installing
+
 https://github.com/python/community-starter-kit
 https://github.com/eldarion/djangocon.us
 
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
-
-jacobian-archive
-http://codingwithkniv.es
-http://blog.sendecka.me
-http://www.pydanny.com
-http://www.kennethreitz.org
 -->
 
 #### Python and Django Packages and Snippets
