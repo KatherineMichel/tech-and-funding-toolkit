@@ -2862,8 +2862,16 @@ Linux- Other Popular Distributions
 * [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
 * [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
 * [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
 * [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
+
+<!--
+http://en.wikipedia.org/wiki/Google_Chrome_OS
+https://www.google.com/intl/en/chrome/browser
+http://www.google.com/intl/en/chrome/devices
+https://developers.google.com/drive
+-->
 
 Chromebook Ubuntu Installation
 * [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
@@ -2888,6 +2896,14 @@ Apple Developer and Open Source
 * [Apple Open Source](https://developer.apple.com/opensource)
 * [OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
 * [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
+
+<!--
+https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md
+https://help.apple.com/osx-elcapitan/from-yosemite/#/outro
+https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures
+https://support.apple.com/en-us/HT204990
+https://support.apple.com/en-us/HT201468
+-->
 
 Apple Developer Tools
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
@@ -4397,7 +4413,191 @@ Mono
 Xamarin (Visual Studio Community Mobile Development Partner)
 * [Xamarin](https://xamarin.com/platform)
 
+<!--
+
 https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
+
+http://www.asp.net/mvc
+https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
+http://www.sitepoint.com/vb-dot-net-c-sharp-programming/
+https://github.com/PerfDotNet/BenchmarkDotNet
+https://github.com/aspnet/home
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+
+https://github.com/Microsoft/vscode-samples
+
+https://github.com/aspnet/Mvc/tree/dev/samples
+https://github.com/aspnet/Home/wiki/Project.json-file
+https://github.com/aspnet/live.asp.net
+
+Overview of Visual Studio 2015 Products
+https://www.visualstudio.com/vs-2015-product-editions
+Visual Studio Community
+https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
+Visual Studio Express
+https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
+https://www.visualstudio.com/products/visual-studio-dev-essentials-vs
+
+Visual Studio Versions
+https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs
+
+https://www.visualstudio.com/features/mobile-app-development-vs
+https://www.visualstudio.com/en-us/features/net-development-vs.aspx
+
+ASP.NET 5 Applications with VS Code
+https://code.visualstudio.com/Docs/runtimes/ASPnet5
+https://code.visualstudio.com/Docs/?dv=linux32
+https://code.visualstudio.com/download
+https://code.visualstudio.com/docs/customization/userdefinedsnippets
+https://code.visualstudio.com/docs/editor/setup Open with code .
+https://code.visualstudio.com/Docs/?dv=win
+https://code.visualstudio.com/docs/languages/overview
+
+Tutorial
+http://www.asp.net/downloads
+https://www.asp.net/get-started
+http://www.asp.net/mvc/overview/getting-started/introduction/adding-a-model
+http://www.asp.net/mvc/overview/getting-started/introduction/adding-a-controller
+http://www.asp.net/mvc/overview/security/create-an-aspnet-mvc-5-web-app-with-email-confirmation-and-password-reset
+http://www.asp.net/mvc/overview/views
+http://www.asp.net/mvc/overview/api-reference
+ASP.NET Web Pages (Razor) API Quick Reference
+http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
+
+Latest
+https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+
+https://docs.asp.net/en/latest/getting-started/installing-on-mac.html
+http://docs.asp.net/en/latest/getting-started/installing-on-windows.html
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=49981
+
+https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+
+http://dotnet.github.io/getting-started
+
+How To Create an ASP.NET HTTP Module Using Visual C# .NET
+https://support.microsoft.com/en-us/kb/307996
+
+http://referencesource.microsoft.com
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/66b367a3-cf04-4f41-9457-4be0f405e5e6/difference-between-visual-studio-code-and-community-2015?forum=visualstudiogeneral
+
+Welcome to Visual Studio 2015
+https://msdn.microsoft.com/library/dd831853.aspx
+
+.NET Framework Development Guide
+https://msdn.microsoft.com/en-us/library/hh156542(v=vs.110).aspx
+.NET Framework Class Library
+https://msdn.microsoft.com/en-us/library/mt472912(v=vs.110).aspx
+.NET Framework Class Library
+https://msdn.microsoft.com/en-us/library/gg145045(v=VS.110).aspx
+Generic Collections in the .NET Framework
+https://msdn.microsoft.com/en-us/library/bb762916(v=vs.110).aspx
+When to Use Generic Collections
+https://msdn.microsoft.com/en-us/library/ms172181(v=vs.110).aspx
+System.Collections.Generic Namespace
+https://msdn.microsoft.com/en-us/library/system.collections.generic(v=vs.110).aspx
+ASP.NET
+https://msdn.microsoft.com/en-us/library/aa286485.aspx
+ASP.NET MVC Facebook Template
+https://msdn.microsoft.com/en-us/library/jj891078(v=vs.108).aspx
+ASP.NET Reference
+https://msdn.microsoft.com/en-us/library/9k6k3k4a(v=vs.85).aspx
+Developing Web Applications with ASP.NET
+https://msdn.microsoft.com/en-us/library/bb400852(v=vs.110).aspx
+Getting Started with Python
+https://msdn.microsoft.com/en-us/library/dn705848.aspx
+List<T> Class
+https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
+Microsoft API and reference catalog
+https://msdn.microsoft.com/library
+
+Visual Studio IDE
+https://msdn.microsoft.com/en-us/library/dn762121.aspx
+Get Started Developing with Visual Studio
+https://msdn.microsoft.com/en-us/library/ms165079.aspx
+Visual Web Developer Express
+https://msdn.microsoft.com/library/dd537667(v=vs.100).aspx
+Comparing Visual Studio and Visual Web Developer Express
+https://msdn.microsoft.com/library/ms349441(v=vs.100).aspx
+Compare Visual Studio 2015 Offerings
+https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-vs
+Overview of Visual Studio 2015 Products
+https://www.visualstudio.com/products/vs-2015-product-editions
+
+https://github.com/Microsoft/PTVS/releases/v2.2
+https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
+Python Web Projects
+https://github.com/Microsoft/PTVS/wiki/Web-Project
+
+https://azure.microsoft.com/en-us/documentation/articles/web-sites-create-web-app-using-vscode
+http://azure.microsoft.com/en-us/campaigns/visual-studio-get-started
+https://azure.microsoft.com/en-us/develop/python
+
+https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
+
+http://www.omnisharp.net
+https://github.com/omnisharp
+https://github.com/OmniSharp/omnisharp-roslyn
+
+http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c
+http://www.asp.net/mvc/overview/models-data
+https://docs.asp.net/en/latest/getting-started/choosing-the-right-dotnet.html
+http://docs.efproject.net/en/latest
+
+http://aws.amazon.com/developers/getting-started/python/
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
+http://docs.aws.amazon.com/AWSSdkDocsNET/latest/V3/DeveloperGuide/aws-sdk-net-dg.pdf
+http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-create-as.html
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
+
+Tutorial: How to Deploy a .NET Sample Application Using AWS Elastic Beanstalk
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_NET.quickstart.html
+
+Common issues in Visual Studio 2015 setup
+https://support.microsoft.com/en-us/kb/3039361
+Microsoft Developer Network .NET
+https://msdn.microsoft.com/en-us/vstudio/aa496123
+
+http://www.w3schools.com/aspnet/webpages_razor.asp
+http://www.w3schools.com/aspnet/mvc_htmlhelpers.asp
+https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
+https://www.google.com/search?client=safari&rls=en&q=asp.net+helpers&ie=UTF-8&oe=UTF-8
+https://www.google.com/search?client=safari&rls=en&q=razor+markup&ie=UTF-8&oe=UTF-8
+https://en.wikipedia.org/wiki/ASP.NET_Razor
+https://www.google.com/search?client=safari&rls=en&q=asp.net+view+data&ie=UTF-8&oe=UTF-8
+https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
+
+https://github.com/jincod/AspNet5DemoApp
+https://github.com/NonFactors/MVC5.Template
+https://github.com/NancyFx/Nancy.Website
+https://github.com/friism/heroku-buildpack-mono
+
+Microsoft
+https://github.com/aspnet/dnx
+https://github.com/aspnet/Scaffolding
+https://github.com/aspnet/Hosting
+https://github.com/aspnet/EntityFramework
+
+https://github.com/aspnet/Home/wiki/Roadmap
+
+http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html
+http://docs.asp.net/en/latest/conceptual-overview/aspnet.html
+https://search.yahoo.com/search?fr=mcafee&type=C211US0D20120304&p=visual+code+studio
+https://search.yahoo.com/search?fr=mcafee&type=C211US0D20120304&p=asp.net+5
+https://search.yahoo.com/search?fr=mcafee&type=C211US0D20120304&p=asp.net+core
+https://blogs.msdn.microsoft.com/dotnet/2014/11/12/net-core-is-open-source/
+http://www.asp.net/web-pages/overview/getting-started/program-asp-net-web-pages-in-visual-studio
+http://www.asp.net/
+http://blogs.msdn.com/b/cesardelatorre/archive/2014/11/18/what-is-net-core-5-and-asp-net-5-within-net-2015-preview.aspx
+http://dotnet.github.io/docs/concepts/primer.html
+https://visualstudiogallery.msdn.microsoft.com/4cd5e0e0-2c38-426b-9f43-1d3688cc8be1
+
+https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
+-->
 
 #### Servers and Databases
 
