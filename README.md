@@ -3198,29 +3198,23 @@ GitHub- Main
 https://github.com/thank-you-github/thank-you-github
 https://github.com/dear-github/dear-github
 
-https://help.github.com/articles/adding-a-remote/
-
-GitHub Monikers
-https://github.com/petethepig/github-ribbons-css
-https://github.com/heipei/github-commit-badge
-https://github.com/msparks/libgithub
-https://github.com/berkerpeksag/github-badge
-
 https://github.com/account/organizations/new
-https://github.com/github/octicons
-https://github.com/mdo/github-buttons
-https://github.com/blog/273-github-ribbons
-https://github.com/tholman/github-corners
 
-https://github.com/octokit/octokit.objc
-https://github.com/github/hubot
-zmmbreeze/octocard 
-
-https://github.com/driftyco/ionicons
+https://github.com/andygrunwald/TrendingGithub
 
 https://status.github.com/messages
-https://github.com/blog/2097-improved-commenting-with-markdown
-https://github.com/blog/2046-github-desktop-is-now-available
+
+https://github.com/ajaxorg/ace
+
+https://guides.github.com
+https://gist.github.com/starred
+https://github.com/github-archive
+https://github.com/github/training-kit
+https://github.com/github-archive/training.github.com
+
+https://github.com/features
+https://guides.github.com/introduction/flow/
+https://help.github.com/articles/about-repository-graphs#traffic
 
 https://github.com/github/teach.github.com
 https://github.com/jlord/git-it
@@ -3229,31 +3223,37 @@ http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
 
+https://guides.github.com/features/mastering-markdown
+https://github.com/blog/2046-github-desktop-is-now-available
+https://github.com/blog/2097-improved-commenting-with-markdown
+https://help.github.com/articles/creating-a-pull-request/
+https://github.com/blog/2111-issue-and-pull-request-templates
+https://help.github.com/articles/adding-a-file-to-a-repository/
+https://help.github.com/articles/adding-a-remote/
+https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
 
-https://github.com/andygrunwald/TrendingGithub
-https://guides.github.com
-https://help.github.com/articles/about-repository-graphs#traffic
-https://guides.github.com/features/mastering-markdown
+https://github.com/octokit/octokit.objc
+https://github.com/github/hubot
+https://github.com/zmmbreeze/octocard 
+
+https://github.com/driftyco/ionicons
+
+https://github.com/blog/2112-delivering-octicons-with-svg
+https://github.com/github/octicons
+https://github.com/mdo/github-buttons
+https://github.com/blog/273-github-ribbons
+https://github.com/tholman/github-corners
+
+GitHub Monikers
+https://github.com/petethepig/github-ribbons-css
+https://github.com/heipei/github-commit-badge
+https://github.com/msparks/libgithub
+https://github.com/berkerpeksag/github-badge
 
 http://shields.io
 http://badges.github.io/gh-badges/
 https://github.com/badges/badgerbadgerbadger
-
-https://gist.github.com/starred
-https://github.com/github-archive
-https://github.com/github/training-kit
-https://github.com/github-archive/training.github.com
-https://github.com/blog/2104-working-with-submodules
-
-https://help.github.com/articles/adding-a-file-to-a-repository/
-https://github.com/blog/2111-issue-and-pull-request-templates
-https://help.github.com/articles/creating-a-pull-request/
-https://github.com/ajaxorg/ace
-
-https://github.com/features
-https://guides.github.com/introduction/flow/
-https://github.com/blog/2112-delivering-octicons-with-svg
 -->
 
 GitHub- Trending
