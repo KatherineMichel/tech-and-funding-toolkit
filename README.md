@@ -3230,6 +3230,7 @@ https://help.github.com/articles/creating-a-pull-request/
 https://github.com/blog/2111-issue-and-pull-request-templates
 https://help.github.com/articles/adding-a-file-to-a-repository/
 https://help.github.com/articles/adding-a-remote/
+https://github.com/blog/1986-announcing-git-large-file-storage-lfs
 https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
 
@@ -3713,17 +3714,12 @@ Virtual Environment
 * [Virtualenv GitHub](https://github.com/pypa/virtualenv) and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
 * [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
 * [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
-  
-<!--
-http://virtualenvwrapper.readthedocs.org/en/latest/
-http://docs.python-guide.org/en/latest/dev/virtualenvs/
-http://virtualenvwrapper.readthedocs.org/en/latest/install.html
-
-https://github.com/yyuu/pyenv
-https://github.com/yyuu/pyenv-virtualenv
-https://github.com/yyuu/pyenv-virtualenvwrapper
--->
-
+ 
+Pyenv
+* [Pyenv GitHub](https://github.com/yyuu/pyenv)
+* [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
+* [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
+ 
 CPython
 * [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
 
