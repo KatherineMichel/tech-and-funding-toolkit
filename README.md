@@ -3234,6 +3234,9 @@ https://github.com/blog/1986-announcing-git-large-file-storage-lfs
 https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
 
+https://github.com/github/git-lfs
+https://git-lfs.github.com
+
 https://github.com/octokit/octokit.objc
 https://github.com/github/hubot
 https://github.com/zmmbreeze/octocard 
@@ -3995,6 +3998,9 @@ http://www.diveintopython.net/regular_expressions/
 https://github.com/kennethreitz/conda-buildpack
 http://conda.pydata.org/miniconda.html
 https://github.com/docopt/docopt
+
+http://www.asty.org/cmatrix/
+http://brewformulas.org/Cmatrix
 
 https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
