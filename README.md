@@ -3898,6 +3898,11 @@ https://ep2016.europython.eu/en/call-for-proposals/
 https://2015.djangocon.us/blog/2015/06/10/call-conference-venues
 http://www.writethedocs.org/conf/na/2016/cfp/
 https://us.pycon.org/2016/schedule/conference.json
+
+https://github.com/DEFNA/defna.org
+
+https://www.djangoproject.com/weblog/2016/mar/04/host-djangocon-europe-2017/
+https://us.pycon.org/2016/schedule/presentation/1473/
 -->
 
 #### Python and Django Girls
@@ -4074,9 +4079,22 @@ https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
 http://python-packaging-user-guide.readthedocs.org/en/latest/installing
 
 https://github.com/python/community-starter-kit
-https://github.com/eldarion/djangocon.us
 
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
+
+http://scipy2016.scipy.org/ehome/146062/332968/?&&
+
+https://symposion.readthedocs.org/en/latest/
+https://ky395.us2.gondor.io
+https://github.com/eldarion/djangocon.us
+https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
+https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+http://eldarion.com
+
+https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
+
+http://channels.readthedocs.org/en/latest/
+https://pypi.python.org/pypi/everything
 -->
 
 #### Python and Django Packages and Snippets
