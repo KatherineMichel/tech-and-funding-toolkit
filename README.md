@@ -2920,6 +2920,20 @@ Apple- iOS and Swift
 <!--
 https://en.wikipedia.org/wiki/Storyboard
 
+swift 2.2
+
+https://developer.apple.com/library/prerelease/ios/navigation/
+
+https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html
+https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_Operators/index.html
+https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_TypeAliases/index.html
+https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_Functions/index.html
+https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#structures
+https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#enumerations
+https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#classes
+https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#protocols
+https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#other
+
 https://developer.apple.com/swift/blog/
 https://developer.apple.com/library/ios/navigation/
 https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
@@ -2936,6 +2950,7 @@ https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11
 http://swiftdoc.org
 https://swift.org/documentation/
 https://swift.org/blog/swift-ci/
+https://swift.org/compiler-stdlib/#compiler-architecture
 
 https://github.com/apple/swift-evolution
 https://twitter.com/swiftlang
