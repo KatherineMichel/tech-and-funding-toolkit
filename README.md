@@ -2156,10 +2156,6 @@ Google Dev Tools
 * [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
 * [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
-<!--
-https://developers.google.com/drive
--->
-
 Google Analytics
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 Google Ads
@@ -2444,6 +2440,7 @@ Data Styleguide GitHub
 * [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
+Income Reports
 * [Income Reports](http://www.incomereports.co)
 
 Buffer
@@ -2689,6 +2686,7 @@ Docs
 Admin, Hiring, Payroll
 * [Clara Labs](https://claralabs.com) 
 * [Evernote](https://evernote.com)
+* [Freshbooks](https://www.freshbooks.com)
 * [Lever](http://lever.co)  
 * [Jobvite](http://www.jobvite.com)
 * [QuickBooks](http://quickbooks.intuit.com)
@@ -2860,18 +2858,14 @@ Linux- Other Popular Distributions
 
 #### Google Chrome
 
-* [Google Chrome](https://www.google.com/intl/en/chrome) 
+* [Google Chrome](https://www.google.com/intl/en/chrome) and [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
 * [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
 
-<!--
-https://www.google.com/intl/en/chrome/browser
-http://www.google.com/intl/en/chrome/devices
--->
-
 #### Mojombo Chromebook Recommendation
 
-* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016)  
+* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
+* [Google Chromebook](http://www.google.com/chromebook)
 * [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
 * [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
 * [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
@@ -2891,6 +2885,11 @@ Chromebook Ubuntu Installation
 Apple Posters of Ago
 * [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
 
+Apple El Capitan
+* [El Capitan](https://help.apple.com/osx-elcapitan)
+* [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
+* [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
+
 Apple Developer Program Membership
 * [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), and [Apple Developer Program Membership Center](https://developer.apple.com/membercenter)
 * [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
@@ -2902,12 +2901,6 @@ Apple Developer and Open Source
 * [Apple Open Source](https://developer.apple.com/opensource)
 * [OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
 * [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
-
-<!--
-https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md
-https://help.apple.com/osx-elcapitan/from-yosemite/#/outro
-https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures
--->
 
 Apple Developer Tools
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
@@ -2925,33 +2918,42 @@ Apple- iOS and Swift
 * [Accelerometer Wikipedia](https://en.wikipedia.org/wiki/Accelerometer)
 
 <!--
-https://swift.org/blog/swift-ci/
-https://developer.apple.com/swift/blog/
-https://twitter.com/swiftlang
-https://github.com/allenwong/30DaysofSwift
-https://github.com/IBM-Swift
-swift playground
-https://www.udacity.com/courses/ios
-https://developer.apple.com/library/ios/navigation/
-https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
-https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
-https://en.wikipedia.org/wiki/Cocoa_Touch
-http://lifehacker.com/stanfords-developing-ios-8-apps-with-swift-course-is-no-1682067022
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
 https://en.wikipedia.org/wiki/Storyboard
+
+https://developer.apple.com/swift/blog/
+https://developer.apple.com/library/ios/navigation/
+https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/
-https://swift.org/documentation/
-https://developer.apple.com/swift/resources/
-http://swift-lang.org/docs/
-http://swiftdoc.org
-https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html#//apple_ref/doc/uid/TP40015214-CH3-SW1
-https://en.wikipedia.org/wiki/Cocoa_(API)
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UILabel_Class/
+https://developer.apple.com/swift/resources/
+
 https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11
-https://github.com/hollance/swift-algorithm-club
+
+http://swiftdoc.org
+https://swift.org/documentation/
+https://swift.org/blog/swift-ci/
+
 https://github.com/apple/swift-evolution
+https://twitter.com/swiftlang
+
+http://swift-lang.org/docs/
+
+https://en.wikipedia.org/wiki/Cocoa_Touch
+xhttps://en.wikipedia.org/wiki/Cocoa_(API)
+
+https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
+http://lifehacker.com/stanfords-developing-ios-8-apps-with-swift-course-is-no-1682067022
+https://www.udacity.com/courses/ios
+
+https://github.com/allenwong/30DaysofSwift
+https://github.com/hollance/swift-algorithm-club
+
+https://github.com/IBM-Swift
+swift playground
 -->
 
 Apple- Heroku
@@ -3051,10 +3053,16 @@ Binary
 * [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
 
 Encoding
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
 * [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
 * [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
 * [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
 * [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
+URL and IRI
+* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
 
 General Terms
 * [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
