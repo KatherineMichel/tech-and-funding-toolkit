@@ -2937,6 +2937,21 @@ https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
 https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
 https://en.wikipedia.org/wiki/Cocoa_Touch
 http://lifehacker.com/stanfords-developing-ios-8-apps-with-swift-course-is-no-1682067022
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
+https://en.wikipedia.org/wiki/Storyboard
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/
+https://swift.org/documentation/
+https://developer.apple.com/swift/resources/
+http://swift-lang.org/docs/
+http://swiftdoc.org
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html#//apple_ref/doc/uid/TP40015214-CH3-SW1
+https://en.wikipedia.org/wiki/Cocoa_(API)
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UILabel_Class/
+https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11
+https://github.com/hollance/swift-algorithm-club
+https://github.com/apple/swift-evolution
 -->
 
 Apple- Heroku
