@@ -2919,6 +2919,7 @@ Apple- iOS and Swift
 
 <!--
 https://en.wikipedia.org/wiki/Storyboard
+http://shop.oreilly.com/product/0636920033851.do
 
 swift 2.2
 
@@ -2987,6 +2988,16 @@ https://github.com/twostraws/HackingWithSwift
 http://developersacademy.io/blog/
 https://developer.apple.com/library/prerelease/ios/navigation/#section=Frameworks&topic=UIKit
 https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
+https://developer.apple.com/support/compare-memberships/
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html
+https://medium.com/ios-os-x-development/apple-has-published-a-great-free-learn-to-code-course-for-swift-on-github-feb5e4d70691#.g0n2ktcxx
+http://it-ebooks.info/search/?q=swift&type=title
+
+https://github.com/twostraws/HackingWithSwift
+https://www.hackingwithswift.com/read/0/overview/
+http://www.hackingwithphp.com
+http://www.hackingwithreact.com
+http://tryruby.org/levels/1/challenges/0
 -->
 
 Apple- Heroku
