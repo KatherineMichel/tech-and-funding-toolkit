@@ -2921,14 +2921,29 @@ Apple- iOS and Swift
 https://en.wikipedia.org/wiki/Storyboard
 http://shop.oreilly.com/product/0636920033851.do
 
+https://github.com/showcases/swift
+https://github.com/trending/swift
+
+https://developer.apple.com/support/compare-memberships/
+
+https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11
+http://it-ebooks.info/search/?q=swift&type=title
+
+http://swifteducation.github.io
+https://github.com/swifteducation
+
 swift 2.2
 
-https://developer.apple.com/library/prerelease/ios/navigation/
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
 
-https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html
+https://developer.apple.com/library/prerelease/ios/navigation/
+https://developer.apple.com/library/prerelease/ios/navigation/#section=Frameworks&topic=UIKit
+
 https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_Operators/index.html
 https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_TypeAliases/index.html
 https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_Functions/index.html
+
+https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#structures
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#enumerations
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#classes
@@ -2936,17 +2951,19 @@ https://developer.apple.com/library/ios/documentation/General/Reference/SwiftSta
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#other
 
 https://developer.apple.com/swift/blog/
-https://developer.apple.com/library/ios/navigation/
-https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
+https://developer.apple.com/swift/resources/
+
 https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/
+
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UILabel_Class/
-https://developer.apple.com/swift/resources/
 
-https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11
+https://developer.apple.com/library/ios/navigation/
+https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html
 
 http://swiftdoc.org
 https://swift.org/documentation/
@@ -2967,34 +2984,25 @@ https://www.udacity.com/courses/ios
 
 https://github.com/allenwong/30DaysofSwift
 https://github.com/hollance/swift-algorithm-club
+https://www.hackingwithswift.com
+https://www.hackingwithswift.com/read/0/overview/
+https://github.com/twostraws/HackingWithSwift
+
+https://github.com/appsquickly/Typhoon-Swift-Example
+https://github.com/sachinkesiraju/SwiftExample
+https://github.com/dkhamsing/open-source-ios-apps
 
 https://github.com/IBM-Swift
 swift playground
 
 https://medium.com/ios-os-x-development/apple-has-published-a-great-free-learn-to-code-course-for-swift-on-github-feb5e4d70691#.g0n2ktcxx
 tableview ios
-http://swifteducation.github.io
-https://github.com/swifteducation
-https://github.com/appsquickly/Typhoon-Swift-Example
-https://github.com/sachinkesiraju/SwiftExample
-http://www.learnswift.tips
-https://github.com/dkhamsing/open-source-ios-apps
-https://github.com/trending/swift
-https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#swift
-https://github.com/showcases/swift
-https://github.com/cmoulton?tab=repositories
-https://www.hackingwithswift.com
-https://github.com/twostraws/HackingWithSwift
-http://developersacademy.io/blog/
-https://developer.apple.com/library/prerelease/ios/navigation/#section=Frameworks&topic=UIKit
-https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
-https://developer.apple.com/support/compare-memberships/
-https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html
-https://medium.com/ios-os-x-development/apple-has-published-a-great-free-learn-to-code-course-for-swift-on-github-feb5e4d70691#.g0n2ktcxx
-http://it-ebooks.info/search/?q=swift&type=title
 
-https://github.com/twostraws/HackingWithSwift
-https://www.hackingwithswift.com/read/0/overview/
+http://www.learnswift.tips
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#swift
+https://github.com/cmoulton?tab=repositories
+http://developersacademy.io/blog/
+
 http://www.hackingwithphp.com
 http://www.hackingwithreact.com
 http://tryruby.org/levels/1/challenges/0
