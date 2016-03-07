@@ -2969,6 +2969,24 @@ https://github.com/hollance/swift-algorithm-club
 
 https://github.com/IBM-Swift
 swift playground
+
+https://medium.com/ios-os-x-development/apple-has-published-a-great-free-learn-to-code-course-for-swift-on-github-feb5e4d70691#.g0n2ktcxx
+tableview ios
+http://swifteducation.github.io
+https://github.com/swifteducation
+https://github.com/appsquickly/Typhoon-Swift-Example
+https://github.com/sachinkesiraju/SwiftExample
+http://www.learnswift.tips
+https://github.com/dkhamsing/open-source-ios-apps
+https://github.com/trending/swift
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#swift
+https://github.com/showcases/swift
+https://github.com/cmoulton?tab=repositories
+https://www.hackingwithswift.com
+https://github.com/twostraws/HackingWithSwift
+http://developersacademy.io/blog/
+https://developer.apple.com/library/prerelease/ios/navigation/#section=Frameworks&topic=UIKit
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
 -->
 
 Apple- Heroku
