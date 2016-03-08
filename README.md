@@ -3006,6 +3006,15 @@ http://developersacademy.io/blog/
 http://www.hackingwithphp.com
 http://www.hackingwithreact.com
 http://tryruby.org/levels/1/challenges/0
+
+https://github.com/cocoapods
+
+Sprite Kit and Scene Kit
+
+https://www.twitch.tv/brentschooley
+https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
+https://www.twilio.com/docs/api/video
+
 -->
 
 Apple- Heroku
