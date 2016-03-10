@@ -4971,7 +4971,6 @@ VMware, Vagrant, VirtualBox
 * [VMware](http://www.vmware.com)  
 * [VMware Wikipedia](http://en.wikipedia.org/wiki/VMware)  
 * [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
-* [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
 * [VagrantCloud](https://vagrantcloud.com)  
 * [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
 * [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox) 
