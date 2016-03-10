@@ -2920,7 +2920,7 @@ Apple Developer Tools
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
 PostgreSQL
-* [Postresapp.com](http://postgresapp.com) and [Postresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
+* [Postgresapp.com](http://postgresapp.com) and [Postgresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
 
 Apple- iOS and Swift
 * [Apple iOS](https://developer.apple.com/ios)
@@ -2933,10 +2933,21 @@ Apple- iOS and Swift
 https://en.wikipedia.org/wiki/Storyboard
 http://shop.oreilly.com/product/0636920033851.do
 
+Universal Storyboard
+
+https://www.apple.com/itunes
+https://developer.apple.com/support/compare-memberships
+
 https://github.com/showcases/swift
 https://github.com/trending/swift
 
-https://developer.apple.com/support/compare-memberships/
+https://developer.apple.com/swift/blog/
+https://developer.apple.com/swift/blog/?id=16
+https://developer.apple.com/swift/resources/
+
+https://developer.apple.com/library
+
+https://github.com/apple/swift-package-manager
 
 https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11
 http://it-ebooks.info/search/?q=swift&type=title
@@ -2962,20 +2973,26 @@ https://developer.apple.com/library/ios/documentation/General/Reference/SwiftSta
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#protocols
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#other
 
-https://developer.apple.com/swift/blog/
-https://developer.apple.com/swift/resources/
-
 https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/
 
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UILabel_Class/
 
-https://developer.apple.com/library/ios/navigation/
+https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Chapters/PageViewControllers.html
+
 https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
+
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UISegmentedControl.html#//apple_ref/doc/uid/TP40012857-UISegmentedControl-SW1
 https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
+
 https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Attributes.html#//apple_ref/doc/uid/TP40014097-CH35-ID347
+
+https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/#//apple_ref/occ/intfm/NSCoding/initWithCoder:
+
+https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSKeyedUnarchiver_Class/index.html#//apple_ref/occ/instm/NSKeyedUnarchiver/decodeObjectForKey:
+https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
 
 http://swiftdoc.org
 https://swift.org/documentation/
@@ -2989,6 +3006,7 @@ http://swift-lang.org/docs/
 
 https://en.wikipedia.org/wiki/Cocoa_Touch
 xhttps://en.wikipedia.org/wiki/Cocoa_(API)
+https://github.com/cocoapods
 
 https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
 http://lifehacker.com/stanfords-developing-ios-8-apps-with-swift-course-is-no-1682067022
@@ -3006,52 +3024,20 @@ https://github.com/dkhamsing/open-source-ios-apps
 
 https://github.com/IBM-Swift
 swift playground
+https://developer.xamarin.com/api/type/MonoTouch.UIKit.UIReferenceLibraryViewController/
+
+Sprite Kit and Scene Kit
 
 https://medium.com/ios-os-x-development/apple-has-published-a-great-free-learn-to-code-course-for-swift-on-github-feb5e4d70691#.g0n2ktcxx
-tableview ios
 
 http://www.learnswift.tips
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#swift
 https://github.com/cmoulton?tab=repositories
 http://developersacademy.io/blog/
 
-http://www.hackingwithphp.com
-http://www.hackingwithreact.com
-http://tryruby.org/levels/1/challenges/0
-
-https://github.com/cocoapods
-
-Sprite Kit and Scene Kit
-
-
-
-https://developer.xamarin.com/api/type/MonoTouch.UIKit.UIReferenceLibraryViewController/
-
-https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Chapters/PageViewControllers.html
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UISegmentedControl.html#//apple_ref/doc/uid/TP40012857-UISegmentedControl-SW1
-https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
-https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/#//apple_ref/occ/intfm/NSCoding/initWithCoder:
-https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSKeyedUnarchiver_Class/index.html#//apple_ref/occ/instm/NSKeyedUnarchiver/decodeObjectForKey:
-https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
-https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Attributes.html#//apple_ref/doc/uid/TP40014097-CH35-ID347
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/#other
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
-
-https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
-
-https://developer.apple.com/swift/blog/?id=16
-
-https://developer.apple.com/library
-https://www.apple.com/itunes
-
-http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
-https://github.com/apple/swift-package-manager
-
 * [Awesome iOS GitHub](https://github.com/vsouza/awesome-ios)
 * [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
 * [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
-
-Universal Storyboard
 -->
 
 Apple- Heroku
@@ -3564,6 +3550,10 @@ Example First-Timers Info
 * [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
+<!--
+http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
+-->
+
 Example Help Tweets
 * [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
 
@@ -3672,7 +3662,8 @@ Miscellaneous Programming Languages
 * Apple- Swift
 
 Ruby
-* [Ruby](https://www.ruby-lang.org/en/)  
+* [Ruby](https://www.ruby-lang.org/en)  
+* [Try Ruby](http://tryruby.org)
 * [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
 * [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
 * [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
