@@ -3594,6 +3594,7 @@ Live Coding
 Twitch Creative- Accounts
 * [Twilio Twitch](http://www.twitch.tv/team/twilio)
 * [Brent Schooley](https://www.twitch.tv/brentschooley)
+* [Levelsio](http://www.twitch.tv/levelsio)
 
 <!--
 https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
@@ -4323,10 +4324,11 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 Memcached (Object Caching)
 * [Memcached](http://memcached.org) 
 
-Nose (Unit Test Extension)
+pytest and Nose (Unit Test Extension)
 * [Nose GitHub](https://github.com/nose-devs/nose)
 * [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
+* [pytest](http://pytest.org)
 
 Tox (Automation)
 * [Tox Docs](https://tox.readthedocs.org/en/latest)
