@@ -158,7 +158,7 @@ Table of Contents
 * [Peter Levine Archives](http://peter.a16z.com/archives)
 * [Reid Hoffman Slideshare](http://www.slideshare.net/reidhoffman/presentations)
 * [Richard Branson](http://www.virgin.com/richard-branson)
-* [Roger Ehrenberg](http://informationarbitrage.com)
+* [Roger Ehrenberg](http://informationarbitrage.com) and [Roger Ehrenberg Slideshare](http://www.slideshare.net/RogerEhrenberg)
 * [Sam Altman Archive](http://blog.samaltman.com/archive)
 * [Sam Lessin](http://blog.wlessin.com)
 * [Satya Patel](http://venturegeneratedcontent.com)
@@ -3011,6 +3011,7 @@ https://github.com/cocoapods
 
 Sprite Kit and Scene Kit
 
+http://www.twitch.tv/team/twilio
 https://www.twitch.tv/brentschooley
 https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
 https://www.twilio.com/docs/api/video
