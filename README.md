@@ -1437,8 +1437,6 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [500 Startups Events](http://500.co/events)
 * [Startup School](http://www.startupschool.org)
 * [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
-* [Mobile Ecosystem Forum](http://mefglobalforum.org)
-* [Mobile World Congress](https://www.mobileworldcongress.com)
 * [TechCrunch Events](http://techcrunch.com/events)  
 * Crunchies
 * [Recode Events](http://recode.net/events) 
@@ -1446,6 +1444,11 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 * [SXSW](http://sxsw.com) 
 * [KC Addys](http://aafkc.com/addys)
+
+Mobile
+* [Groupe Speciale Mobile Association (GSMA)](http://www.gsma.com)
+* [Mobile Ecosystem Forum](http://mefglobalforum.org)
+* [Mobile World Congress](https://www.mobileworldcongress.com)
 
 Unconference
 * [Unconference Wikipedia](https://en.wikipedia.org/wiki/Unconference)
@@ -1466,6 +1469,9 @@ Shows
 * [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
 * [This Week in Startups](http://thisweekinstartups.com)
 * [This Week in Tech](https://twit.tv)
+
+Unboxing
+* [Unboxing](http://unboxing.gearlive.com)
 
 #### Books and Courses
 
@@ -2315,6 +2321,7 @@ IBM Design Language
 Design Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
 * [Smashing Magazine](http://www.smashingmagazine.com) 
+* [Tympanus](http://tympanus.net)
 * [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
 * [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
  
@@ -3011,11 +3018,31 @@ https://github.com/cocoapods
 
 Sprite Kit and Scene Kit
 
-http://www.twitch.tv/team/twilio
-https://www.twitch.tv/brentschooley
-https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
-https://www.twilio.com/docs/api/video
 
+
+https://developer.xamarin.com/api/type/MonoTouch.UIKit.UIReferenceLibraryViewController/
+
+https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Chapters/PageViewControllers.html
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UISegmentedControl.html#//apple_ref/doc/uid/TP40012857-UISegmentedControl-SW1
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
+https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/#//apple_ref/occ/intfm/NSCoding/initWithCoder:
+https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSKeyedUnarchiver_Class/index.html#//apple_ref/occ/instm/NSKeyedUnarchiver/decodeObjectForKey:
+https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Attributes.html#//apple_ref/doc/uid/TP40014097-CH35-ID347
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/#other
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
+
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+
+https://developer.apple.com/swift/blog/?id=16
+
+https://developer.apple.com/library
+https://www.apple.com/itunes
+
+http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
+https://github.com/apple/swift-package-manager
+
+Universal Storyboard
 -->
 
 Apple- Heroku
@@ -3067,6 +3094,9 @@ Mac Update
 #### Development Environment and Programming
 
 #### Computer Basics
+
+Computer glasses (*solarized dark*)
+* [Gunnars](http://www.gunnars.com)
 
 Wikipedia Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
@@ -3221,6 +3251,9 @@ Distributed and Parallel Computing
 Write the Docs (Conference and Community)
 * [Write the Docs](http://www.writethedocs.org)
 
+MkDocs
+* [MkDocs](http://www.mkdocs.org)
+
 Pandoc
 * [Pandoc](http://johnmacfarlane.net/pandoc)  
 
@@ -3343,6 +3376,10 @@ https://github.com/berkerpeksag/github-badge
 http://shields.io
 http://badges.github.io/gh-badges/
 https://github.com/badges/badgerbadgerbadger
+
+
+https://www.atlassian.com/git/tutorials
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 -->
 
 GitHub- Trending
@@ -3553,6 +3590,15 @@ Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
 * [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
 * [YouTube](https://www.youtube.com)
+
+Twitch Creative- Accounts
+* [Twilio Twitch](http://www.twitch.tv/team/twilio)
+* [Brent Schooley](https://www.twitch.tv/brentschooley)
+
+<!--
+https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
+https://www.twilio.com/docs/api/video
+-->
 
 Text Editor and Code Demonstration
 * [JSFiddle](http://jsfiddle.net)
@@ -4884,7 +4930,7 @@ AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Referenc
 * [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)  
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html)  
 
-Amazon Web Services- Lambda
+Amazon Web Services- Lambda (See also Google Cloud Functions)
 * [AWS Lambda](http://aws.amazon.com/lambda)  
 * [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
@@ -4938,6 +4984,9 @@ Google Cloud and App Engine
 * [Google App Engine Code](http://code.google.com/p/googleappengine)  
 * [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
 * [Google Apps for Work](https://www.google.com/a/signup)  
+
+Google Cloud Functions (See also Amazon Web Services- Lambda)
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
 
 Nitrous (IDE)
 * [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
@@ -5298,6 +5347,7 @@ Miscellaneous
 * [Twitch TV](http://www.twitch.tv)
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
+* [Vive](https://developer.htcvive.com/us/hero.php)
 
 #### Data Science
 
