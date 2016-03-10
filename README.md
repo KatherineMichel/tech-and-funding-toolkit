@@ -1581,6 +1581,11 @@ Mobile and Browser
 * [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
 * [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
 
+<!--
+https://webkit.org/
+https://github.com/WebKit/webkit 
+-->
+
 Product/Service Directories
 * [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
 * [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
@@ -2627,7 +2632,7 @@ Photo Hosting
 * [Google Photos](https://photos.google.com)
 * [Picasa](https://picasa.google.com)
 
-Presentations
+Presentations (See also JavaScript Presentations Frameworks)
 * [SlideShare](www.slideshare.net)
 * [Speaker Deck](https://speakerdeck.com)
 
@@ -3042,6 +3047,10 @@ https://www.apple.com/itunes
 http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
 https://github.com/apple/swift-package-manager
 
+* [Awesome iOS GitHub](https://github.com/vsouza/awesome-ios)
+* [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
+* [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+
 Universal Storyboard
 -->
 
@@ -3432,9 +3441,10 @@ Licenses
 GitHub Speaker Deck
 * [GitHub Speaker Deck](https://speakerdeck.com)
 
-Emoji Shortcode 
+Emoji and Other Funny Keyboard Shortcode 
 * [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
 * [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
 
 #### More Command Line and Shell
 
@@ -3736,6 +3746,10 @@ Webpack
 
 Babel (JavaScript)
 * [Babel GitHub](https://github.com/babel/babel)
+
+JavaScript Presentations Frameworks
+* [Reveal.js](https://github.com/hakimel/reveal.js)
+* [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
 
 Golang, otherwise known as "Go"
 * [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
