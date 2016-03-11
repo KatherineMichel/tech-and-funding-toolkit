@@ -2902,8 +2902,11 @@ Apple El Capitan
 * [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
 * [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
 
+Apple- Utilities
+* [iTunes](https://www.apple.com/itunes)
+
 Apple Developer Program Membership
-* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), and [Apple Developer Program Membership Center](https://developer.apple.com/membercenter)
+* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
 * [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
 * [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
 
@@ -2916,60 +2919,89 @@ Apple Developer and Open Source
 
 Apple Developer Tools
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
-* [Xcode](https://developer.apple.com/xcode)
+* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
 PostgreSQL
 * [Postgresapp.com](http://postgresapp.com) and [Postgresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
 
-Apple- iOS and Swift
+Apple- iOS
 * [Apple iOS](https://developer.apple.com/ios)
-* [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Apple Swift](https://developer.apple.com/swift), [Apple Swift Standard Library Reference](https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
+
+Apple- Swift
+* [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Apple Swift](https://developer.apple.com/swift), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
+* [Apple Swift Blog](https://developer.apple.com/swift/blog)
 * [Stanford: Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+* [Swift Education](http://swifteducation.github.io) and [Swift Education GitHub](https://github.com/swifteducation)
+* [Swift Showcases GitHub](https://github.com/showcases/swift) and [Swift Trending GitHub](https://github.com/trending/swift)
 * [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
 * [Accelerometer Wikipedia](https://en.wikipedia.org/wiki/Accelerometer)
 
 <!--
+https://swift.org/documentation/
+
+https://github.com/apple/swift-evolution
+https://twitter.com/swiftlang
+
+https://github.com/IBM-Swift
+swift playground
+https://developer.xamarin.com/api/type/MonoTouch.UIKit.UIReferenceLibraryViewController/
+-->
+
+Apple- Major Swift References
+* [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language)
+* [Book: The Swift Programming Language (Swift 2.2 Prerelease)](https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11)
+* [Apple Swift Standard Library Reference](https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html)
+* [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214)
+
+Apple- Cocoa
+* [Cocoa (API) Wikipedia](https://en.wikipedia.org/wiki/Cocoa_(API))
+* [Cocoa Touch Wikipedia](https://en.wikipedia.org/wiki/Cocoa_Touch)
+
+Apple- Package and Dependency Managers
+* [Swift Package Manager GitHub](https://github.com/apple/swift-package-manager)
+* [Cocoa Pods GitHub](https://github.com/cocoapods)
+
+Apple Developer Docs Navigation
+* [Navigation](https://developer.apple.com/library/ios/navigation)
+* [Xcode Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=Xcode)
+* [Xcode Tasks Navigation](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Xcode%20Tasks)
+* [UIKit Navigation](https://developer.apple.com/library/prerelease/ios/navigation/#section=Frameworks&topic=UIKit)
+* [Cocoa Touch Layer Navigation](https://developer.apple.com/library/ios/navigation/#section=Frameworks&topic=Cocoa%20Touch%20Layer)
+* [Swift Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=Swift)
+
+Xcode References
+* [Xcode Overview](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215)
+* [Xcode Basics Help](https://developer.apple.com/library/ios/recipes/xcode_help-general/_index.html#//apple_ref/doc/uid/TP40010548)
+* [Xcode Application Help](https://developer.apple.com/library/ios/documentation/IDEs/Reference/xcode_help-collection/index.html#//apple_ref/doc/uid/TP40009996)
+* [Xcode Gestures and Keyboard Shortcuts](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010560)
+* [Xcode Glossary](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/Xcode_Glossary/10-Introduction/Introduction.html#//apple_ref/doc/uid/TP40007993)
+
+* [UIKit Framework](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework)
+* [Interface Builder Help](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.html#//apple_ref/doc/uid/TP40009971)
+* [Storyboard Help](https://developer.apple.com/library/ios/recipes/xcode_help-IB_storyboard/_index.html#//apple_ref/doc/uid/TP40014225)
+* [User Experience Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=User%20Experience)
+* [User Experience Starting Point for iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/GS_UserExperience_iPhone/index.html#//apple_ref/doc/uid/TP40007296)
+* [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785)
+* [Apple Style Guide](https://help.apple.com/asg/mac/2013)
+* [App Distribution Quick Start](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppStoreDistributionTutorial/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013839)
+* [App Distribution Guide](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012582)
+
+<!--
+https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A
+
 https://en.wikipedia.org/wiki/Storyboard
 http://shop.oreilly.com/product/0636920033851.do
 
 Universal Storyboard
 
-https://www.apple.com/itunes
-https://developer.apple.com/support/compare-memberships
-
-https://github.com/showcases/swift
-https://github.com/trending/swift
-
-https://developer.apple.com/swift/blog/
-https://developer.apple.com/swift/blog/?id=16
-https://developer.apple.com/swift/resources/
-
-https://developer.apple.com/library
-
-https://github.com/apple/swift-package-manager
-
-https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11
-http://it-ebooks.info/search/?q=swift&type=title
-
-http://swifteducation.github.io
-https://github.com/swifteducation
-
 swift 2.2
 
-* [Swift Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))
-* [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
-
-https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214
+https://developer.apple.com/library/prerelease/ios/navigation/
 
 https://developer.apple.com/library/prerelease/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072
 https://developer.apple.com/library/prerelease/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898
 https://developer.apple.com/library/prerelease/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html#//apple_ref/doc/uid/TP40008194-CH100-SW9
-
-https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
-
-https://developer.apple.com/library/prerelease/ios/navigation/
-https://developer.apple.com/library/prerelease/ios/navigation/#section=Frameworks&topic=UIKit
 
 https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_Operators/index.html
 https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_TypeAliases/index.html
@@ -2982,17 +3014,10 @@ https://developer.apple.com/library/ios/documentation/General/Reference/SwiftSta
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#protocols
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#other
 
-https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKitFunctionReference/index.html#//apple_ref/doc/uid/TP40006894
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKitConstantsReference/index.html#//apple_ref/doc/uid/TP40007526
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKitDataTypesReference/index.html#//apple_ref/doc/uid/TP40007525
 
-https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#protocols
-https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#classes
-https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#other
-
-https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKitFunctionReference/index.html#//apple_ref/doc/uid/TP40006894
-https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKitConstantsReference/index.html#//apple_ref/doc/uid/TP40007526
-https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKitDataTypesReference/index.html#//apple_ref/doc/uid/TP40007525
-
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UILabel_Class/
 
@@ -3003,29 +3028,23 @@ https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedi
 https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UISegmentedControl.html#//apple_ref/doc/uid/TP40012857-UISegmentedControl-SW1
 https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
 
-https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html
-https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Attributes.html#//apple_ref/doc/uid/TP40014097-CH35-ID347
-
 https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/#//apple_ref/occ/intfm/NSCoding/initWithCoder:
 
 https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSKeyedUnarchiver_Class/index.html#//apple_ref/occ/instm/NSKeyedUnarchiver/decodeObjectForKey:
 https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
 
-http://swiftdoc.org
-https://swift.org/documentation/
+
+http://it-ebooks.info/search/?q=swift&type=title
+
+Building Your First Swift App Video
+https://developer.apple.com/swift/blog/?id=16
+https://developer.apple.com/swift/resources/
 https://swift.org/blog/swift-ci/
 https://swift.org/compiler-stdlib/#compiler-architecture
 
-https://github.com/apple/swift-evolution
-https://twitter.com/swiftlang
-
+http://swiftdoc.org
 http://swift-lang.org/docs/
 
-https://en.wikipedia.org/wiki/Cocoa_Touch
-xhttps://en.wikipedia.org/wiki/Cocoa_(API)
-https://github.com/cocoapods
-
-https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
 http://lifehacker.com/stanfords-developing-ios-8-apps-with-swift-course-is-no-1682067022
 https://www.udacity.com/courses/ios
 
@@ -3038,10 +3057,6 @@ https://github.com/twostraws/HackingWithSwift
 https://github.com/appsquickly/Typhoon-Swift-Example
 https://github.com/sachinkesiraju/SwiftExample
 https://github.com/dkhamsing/open-source-ios-apps
-
-https://github.com/IBM-Swift
-swift playground
-https://developer.xamarin.com/api/type/MonoTouch.UIKit.UIReferenceLibraryViewController/
 
 Sprite Kit and Scene Kit
 
