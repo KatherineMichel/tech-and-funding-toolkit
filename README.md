@@ -2978,7 +2978,7 @@ Xcode References
 * [Xcode Overview](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215)
 * [Xcode Basics Help](https://developer.apple.com/library/ios/recipes/xcode_help-general/_index.html#//apple_ref/doc/uid/TP40010548)
 * [Xcode Application Help](https://developer.apple.com/library/ios/documentation/IDEs/Reference/xcode_help-collection/index.html#//apple_ref/doc/uid/TP40009996)
-* [Xcode Gestures and Keyboard Shortcuts](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010560)
+* [Xcode Keyboard Shortcuts and Gestures Help](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010560)
 * [Xcode Glossary](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/Xcode_Glossary/10-Introduction/Introduction.html#//apple_ref/doc/uid/TP40007993)
 
 <!--
