@@ -2994,14 +2994,40 @@ https://en.wikipedia.org/wiki/Storyboard
 http://shop.oreilly.com/product/0636920033851.do
 
 Universal Storyboard
+https://www.youtube.com/watch?v=p5wD8dvSDbM
 
 swift 2.2
 
-https://developer.apple.com/library/prerelease/ios/navigation/
 
 https://developer.apple.com/library/prerelease/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072
+
+iOS Technology Overview
 https://developer.apple.com/library/prerelease/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898
-https://developer.apple.com/library/prerelease/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html#//apple_ref/doc/uid/TP40008194-CH100-SW9
+
+Interface Builder Object and Media Help
+https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/Chapters/about_objects_media.html#//apple_ref/doc/uid/TP40014224-CH40-SW1
+
+UIKit Framework Reference
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
+
+Cocoa Core Competencies
+https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
+
+Foundation Framework
+https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
+
+
+Prerelease
+
+https://developer.apple.com/library/prerelease/ios/navigation/
+
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UILabel_Class/
+
+https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Chapters/PageViewControllers.html
+
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UIControl.html#//apple_ref/doc/uid/TP40012857-UIControl-SW1
+
+Standard References
 
 https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_Operators/index.html
 https://developer.apple.com/library/ios/documentation/Swift/Reference/Swift_StandardLibrary_TypeAliases/index.html
@@ -3014,25 +3040,13 @@ https://developer.apple.com/library/ios/documentation/General/Reference/SwiftSta
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#protocols
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#other
 
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKitFunctionReference/index.html#//apple_ref/doc/uid/TP40006894
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKitConstantsReference/index.html#//apple_ref/doc/uid/TP40007526
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKitDataTypesReference/index.html#//apple_ref/doc/uid/TP40007525
+https://developer.apple.com/library/prerelease/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html#//apple_ref/doc/uid/TP40008194-CH100-SW9
 
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UILabel_Class/
-
-https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Chapters/PageViewControllers.html
-
-https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
-
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UISegmentedControl.html#//apple_ref/doc/uid/TP40012857-UISegmentedControl-SW1
 https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
 
 https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/#//apple_ref/occ/intfm/NSCoding/initWithCoder:
 
 https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSKeyedUnarchiver_Class/index.html#//apple_ref/occ/instm/NSKeyedUnarchiver/decodeObjectForKey:
-https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
-
 
 http://it-ebooks.info/search/?q=swift&type=title
 
