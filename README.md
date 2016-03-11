@@ -2996,6 +2996,45 @@ https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/
 Scroll View Programming Guide for iOS
 https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008179
 
+Auto Layout Guide
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853
+Internationalization and Localization Guide
+https://developer.apple.com/library/ios/documentation/MacOSX/Conceptual/BPInternational/Introduction/Introduction.html#//apple_ref/doc/uid/10000171i
+iOS Human Interface Guidelines
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556
+Location and Maps Programming Guide
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009497
+System Messaging Programming Topics for iOS
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/SystemMessaging_TopicsForIOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010404
+Verifying App Accessibility on iOS
+https://developer.apple.com/library/ios/technotes/TestingAccessibilityOfiOSApps/TestingtheAccessibilityofiOSApps/TestingtheAccessibilityofiOSApps.html#//apple_ref/doc/uid/TP40012619
+Local and Remote Notification Programming Guide
+https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/Introduction.html#//apple_ref/doc/uid/TP40008194
+Event Handling Guide for iOS
+https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541
+Error Handling Programming Guide
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ErrorHandlingCocoa/ErrorHandling/ErrorHandling.html#//apple_ref/doc/uid/TP40001806
+Text Programming Guide for iOS
+https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009542
+
+Instruments User Reference
+https://developer.apple.com/library/ios/documentation/AnalysisTools/Reference/Instruments_User_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011355
+
+Instruments User Guide
+https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652
+
+Instruments Help
+https://developer.apple.com/library/ios/recipes/instruments_help-collection/index.html#//apple_ref/doc/uid/TP40010994
+
+Debugging with Xcode
+https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/about_debugging_w_xcode.html#//apple_ref/doc/uid/TP40015022
+
+Testing with Xcode
+https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html#//apple_ref/doc/uid/TP40014132
+
+
+UIKit Framework Reference
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
 
 Interface Builder Object and Media Help
 https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/Chapters/about_objects_media.html#//apple_ref/doc/uid/TP40014224-CH40-SW1
