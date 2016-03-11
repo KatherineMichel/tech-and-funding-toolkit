@@ -2971,6 +2971,7 @@ Apple Developer Docs Navigation
 * [Xcode Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=Xcode)
 * [Xcode Tasks Navigation](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Xcode%20Tasks)
 * [UIKit Navigation](https://developer.apple.com/library/prerelease/ios/navigation/#section=Frameworks&topic=UIKit)
+* [UIKit User Interface Catalog](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/index.html#//apple_ref/doc/uid/TP40012857)
 * [Cocoa Touch Layer Navigation](https://developer.apple.com/library/ios/navigation/#section=Frameworks&topic=Cocoa%20Touch%20Layer)
 * [Swift Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=Swift)
 
@@ -2982,6 +2983,20 @@ Xcode References
 * [Xcode Glossary](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/Xcode_Glossary/10-Introduction/Introduction.html#//apple_ref/doc/uid/TP40007993)
 
 <!--
+View Controller Catalog for iOS
+https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Introduction.html#//apple_ref/doc/uid/TP40011313
+View Controller Programming Guide for iOS
+https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457
+View Programming Guide for iOS
+https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503
+Collection View Programming Guide for iOS
+https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/CollectionViewPGforIOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012334
+Table View Programming Guide for iOS
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html#//apple_ref/doc/uid/TP40007451
+Scroll View Programming Guide for iOS
+https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008179
+
+
 Interface Builder Object and Media Help
 https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/Chapters/about_objects_media.html#//apple_ref/doc/uid/TP40014224-CH40-SW1
 
