@@ -2961,6 +2961,11 @@ Apple- Package and Dependency Managers
 * [Swift Package Manager GitHub](https://github.com/apple/swift-package-manager)
 * [Cocoa Pods GitHub](https://github.com/cocoapods)
 
+Apple Developer Docs- Conceptual
+* [About the iOS Technologies](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
+* [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
+* [Cocoa Core Competencies](https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html)
+
 Apple Developer Docs Navigation
 * [Navigation](https://developer.apple.com/library/ios/navigation)
 * [Xcode Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=Xcode)
@@ -2975,6 +2980,17 @@ Xcode References
 * [Xcode Application Help](https://developer.apple.com/library/ios/documentation/IDEs/Reference/xcode_help-collection/index.html#//apple_ref/doc/uid/TP40009996)
 * [Xcode Gestures and Keyboard Shortcuts](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010560)
 * [Xcode Glossary](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/Xcode_Glossary/10-Introduction/Introduction.html#//apple_ref/doc/uid/TP40007993)
+
+<!--
+Interface Builder Object and Media Help
+https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/Chapters/about_objects_media.html#//apple_ref/doc/uid/TP40014224-CH40-SW1
+
+UIKit Framework Reference
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
+
+Foundation Framework
+https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
+-->
 
 * [UIKit Framework](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework)
 * [Interface Builder Help](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.html#//apple_ref/doc/uid/TP40009971)
@@ -2997,24 +3013,6 @@ https://www.youtube.com/watch?v=p5wD8dvSDbM
 
 swift 2.2
 swift playground
-
-https://developer.apple.com/library/prerelease/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072
-
-iOS Technology Overview
-https://developer.apple.com/library/prerelease/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898
-
-Interface Builder Object and Media Help
-https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/Chapters/about_objects_media.html#//apple_ref/doc/uid/TP40014224-CH40-SW1
-
-UIKit Framework Reference
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
-
-Cocoa Core Competencies
-https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html
-
-Foundation Framework
-https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
-
 
 Prerelease
 
