@@ -2957,6 +2957,15 @@ https://github.com/swifteducation
 
 swift 2.2
 
+* [Swift Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))
+* [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
+
+https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214
+
+https://developer.apple.com/library/prerelease/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072
+https://developer.apple.com/library/prerelease/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898
+https://developer.apple.com/library/prerelease/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html#//apple_ref/doc/uid/TP40008194-CH100-SW9
+
 https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
 
 https://developer.apple.com/library/prerelease/ios/navigation/
@@ -2974,6 +2983,14 @@ https://developer.apple.com/library/ios/documentation/General/Reference/SwiftSta
 https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html#other
 
 https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/
+
+https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#protocols
+https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#classes
+https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#other
+
+https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKitFunctionReference/index.html#//apple_ref/doc/uid/TP40006894
+https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKitConstantsReference/index.html#//apple_ref/doc/uid/TP40007526
+https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIKitDataTypesReference/index.html#//apple_ref/doc/uid/TP40007525
 
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
