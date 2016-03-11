@@ -2929,26 +2929,25 @@ Apple- iOS
 * [Apple iOS](https://developer.apple.com/ios)
 
 Apple- Swift
-* [Swift](https://swift.org), [Apple Swift](http://www.apple.com/swift), [Apple Swift](https://developer.apple.com/swift), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
-* [Apple Swift Blog](https://developer.apple.com/swift/blog)
+* [Swift](https://swift.org), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
+* [Apple Swift](http://www.apple.com/swift), [Apple Swift Developer](https://developer.apple.com/swift),  and [Apple Swift Blog](https://developer.apple.com/swift/blog)
 * [Stanford: Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 * [Swift Education](http://swifteducation.github.io) and [Swift Education GitHub](https://github.com/swifteducation)
 * [Swift Showcases GitHub](https://github.com/showcases/swift) and [Swift Trending GitHub](https://github.com/trending/swift)
-* [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
 * [Accelerometer Wikipedia](https://en.wikipedia.org/wiki/Accelerometer)
 
-<!--
-https://swift.org/documentation/
+iOS- IBM and Microsoft Resources
+* [IBM Swift GitHub](https://github.com/IBM-Swift)
+* [IBM Swift Sandbox Post](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox), and [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp&cm_mc_uid=24434997155514405576954&cm_mc_sid_50200000=1449261658#/repl)
+* [Xamarin iOS](https://developer.xamarin.com/guides/ios)
 
+<!--
 https://github.com/apple/swift-evolution
 https://twitter.com/swiftlang
-
-https://github.com/IBM-Swift
-swift playground
-https://developer.xamarin.com/api/type/MonoTouch.UIKit.UIReferenceLibraryViewController/
 -->
 
 Apple- Major Swift References
+* [Swift Documentation](https://swift.org/documentation)
 * [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language)
 * [Book: The Swift Programming Language (Swift 2.2 Prerelease)](https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11)
 * [Apple Swift Standard Library Reference](https://developer.apple.com/library/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html)
@@ -2997,7 +2996,7 @@ Universal Storyboard
 https://www.youtube.com/watch?v=p5wD8dvSDbM
 
 swift 2.2
-
+swift playground
 
 https://developer.apple.com/library/prerelease/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072
 
