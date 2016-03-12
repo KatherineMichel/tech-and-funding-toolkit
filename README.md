@@ -2982,22 +2982,19 @@ Xcode References
 * [Xcode Keyboard Shortcuts and Gestures Help](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010560)
 * [Xcode Glossary](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/Xcode_Glossary/10-Introduction/Introduction.html#//apple_ref/doc/uid/TP40007993)
 
-<!--
-View Controller Catalog for iOS
-https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Introduction.html#//apple_ref/doc/uid/TP40011313
-View Controller Programming Guide for iOS
-https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457
-View Programming Guide for iOS
-https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503
-Collection View Programming Guide for iOS
-https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/CollectionViewPGforIOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012334
-Table View Programming Guide for iOS
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html#//apple_ref/doc/uid/TP40007451
-Scroll View Programming Guide for iOS
-https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008179
+* [Source Control Management Help](https://developer.apple.com/library/ios/recipes/xcode_help-source_control_management/_index.html#//apple_ref/doc/uid/TP40013353)
+* [Source Editor Help](https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/_index.html#//apple_ref/doc/uid/TP40009975)
 
-Auto Layout Guide
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853
+* [Documentation Viewer Help](https://developer.apple.com/library/ios/recipes/xcode_help-documentation_organizer/_index.html#//apple_ref/doc/uid/TP40010348)
+
+* [Debugging with Xcode](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/about_debugging_w_xcode.html#//apple_ref/doc/uid/TP40015022)
+* [Debug Area Help](https://developer.apple.com/library/ios/recipes/xcode_help-debugger/_index.html#//apple_ref/doc/uid/TP40009986)
+* [Debug Navigator Help](https://developer.apple.com/library/ios/recipes/xcode_help-debug_navigator/_index.html#//apple_ref/doc/uid/TP40010432)
+
+* [Testing with Xcode](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html#//apple_ref/doc/uid/TP40014132)
+* [Test Navigator Help](https://developer.apple.com/library/ios/recipes/xcode_help-test_navigator/_index.html#//apple_ref/doc/uid/TP40013329)
+
+<!--
 Internationalization and Localization Guide
 https://developer.apple.com/library/ios/documentation/MacOSX/Conceptual/BPInternational/Introduction/Introduction.html#//apple_ref/doc/uid/10000171i
 iOS Human Interface Guidelines
@@ -3017,66 +3014,35 @@ https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ErrorHand
 Text Programming Guide for iOS
 https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009542
 
-Instruments User Reference
-https://developer.apple.com/library/ios/documentation/AnalysisTools/Reference/Instruments_User_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011355
-
-Instruments User Guide
-https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652
-
-Instruments Help
-https://developer.apple.com/library/ios/recipes/instruments_help-collection/index.html#//apple_ref/doc/uid/TP40010994
-
-Debugging with Xcode
-https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/about_debugging_w_xcode.html#//apple_ref/doc/uid/TP40015022
-
-Testing with Xcode
-https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html#//apple_ref/doc/uid/TP40014132
-
-Auto Layout Help
-https://developer.apple.com/library/ios/recipes/xcode_help-IB_auto_layout/_index.html#//apple_ref/doc/uid/TP40014226
-
 Core Data Model Editor Help
 https://developer.apple.com/library/ios/recipes/xcode_help-core_data_modeling_tool/_index.html#//apple_ref/doc/uid/TP40010379
-
-Debug Area Help
-https://developer.apple.com/library/ios/recipes/xcode_help-debugger/_index.html#//apple_ref/doc/uid/TP40009986
-
-Debug Navigator Help
-https://developer.apple.com/library/ios/recipes/xcode_help-debug_navigator/_index.html#//apple_ref/doc/uid/TP40010432
-
-Documentation Viewer Help
-https://developer.apple.com/library/ios/recipes/xcode_help-documentation_organizer/_index.html#//apple_ref/doc/uid/TP40010348
-
-Interface Builder Connections Help
-https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/_index.html#//apple_ref/doc/uid/TP40014227
-
-Interface Builder Object and Media Help
-https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/_index.html#//apple_ref/doc/uid/TP40014224
-
-Size Classes Design Help
-https://developer.apple.com/library/ios/recipes/xcode_help-IB_adaptive_sizes/_index.html#//apple_ref/doc/uid/TP40014436
-
-Source Control Management Help
-https://developer.apple.com/library/ios/recipes/xcode_help-source_control_management/_index.html#//apple_ref/doc/uid/TP40013353
-
-Source Editor Help
-https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/_index.html#//apple_ref/doc/uid/TP40009975
-
-Test Navigator Help
-https://developer.apple.com/library/ios/recipes/xcode_help-test_navigator/_index.html#//apple_ref/doc/uid/TP40013329
-
-
-
-UIKit Framework Reference
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
-
-Foundation Framework
-https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091
 -->
 
 * [UIKit Framework](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework)
+* [UIKit Framework Reference](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955)
+
+* [Instruments User Reference](https://developer.apple.com/library/ios/documentation/AnalysisTools/Reference/Instruments_User_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011355)
+* [Instruments User Guide](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652)
+* [Instruments Help](https://developer.apple.com/library/ios/recipes/instruments_help-collection/index.html#//apple_ref/doc/uid/TP40010994)
+
 * [Interface Builder Help](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.html#//apple_ref/doc/uid/TP40009971)
+* [Interface Builder Connections Help](https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/_index.html#//apple_ref/doc/uid/TP40014227)
+* [Interface Builder Object and Media Help](https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/_index.html#//apple_ref/doc/uid/TP40014224)
 * [Storyboard Help](https://developer.apple.com/library/ios/recipes/xcode_help-IB_storyboard/_index.html#//apple_ref/doc/uid/TP40014225)
+
+* [Foundation Framework](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091)
+
+* [Auto Layout Guide](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853)
+* [Auto Layout Help](https://developer.apple.com/library/ios/recipes/xcode_help-IB_auto_layout/_index.html#//apple_ref/doc/uid/TP40014226)
+* [Size Classes Design Help](https://developer.apple.com/library/ios/recipes/xcode_help-IB_adaptive_sizes/_index.html#//apple_ref/doc/uid/TP40014436)
+
+* [View Controller Catalog for iOS](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Introduction.html#//apple_ref/doc/uid/TP40011313)
+* [View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)
+* [View Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503)
+* [Collection View Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/CollectionViewPGforIOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012334)
+* [Table View Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html#//apple_ref/doc/uid/TP40007451)
+* [Scroll View Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008179)
+
 * [User Experience Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=User%20Experience)
 * [User Experience Starting Point for iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/GS_UserExperience_iPhone/index.html#//apple_ref/doc/uid/TP40007296)
 * [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785)
