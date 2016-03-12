@@ -2995,27 +2995,11 @@ Xcode References
 * [Test Navigator Help](https://developer.apple.com/library/ios/recipes/xcode_help-test_navigator/_index.html#//apple_ref/doc/uid/TP40013329)
 
 <!--
-Internationalization and Localization Guide
-https://developer.apple.com/library/ios/documentation/MacOSX/Conceptual/BPInternational/Introduction/Introduction.html#//apple_ref/doc/uid/10000171i
-iOS Human Interface Guidelines
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556
-Location and Maps Programming Guide
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009497
-System Messaging Programming Topics for iOS
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/SystemMessaging_TopicsForIOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010404
-Verifying App Accessibility on iOS
-https://developer.apple.com/library/ios/technotes/TestingAccessibilityOfiOSApps/TestingtheAccessibilityofiOSApps/TestingtheAccessibilityofiOSApps.html#//apple_ref/doc/uid/TP40012619
-Local and Remote Notification Programming Guide
-https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/Introduction.html#//apple_ref/doc/uid/TP40008194
 Event Handling Guide for iOS
 https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541
-Error Handling Programming Guide
-https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ErrorHandlingCocoa/ErrorHandling/ErrorHandling.html#//apple_ref/doc/uid/TP40001806
+
 Text Programming Guide for iOS
 https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009542
-
-Core Data Model Editor Help
-https://developer.apple.com/library/ios/recipes/xcode_help-core_data_modeling_tool/_index.html#//apple_ref/doc/uid/TP40010379
 -->
 
 * [UIKit Framework](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework)
@@ -3024,6 +3008,8 @@ https://developer.apple.com/library/ios/recipes/xcode_help-core_data_modeling_to
 * [Instruments User Reference](https://developer.apple.com/library/ios/documentation/AnalysisTools/Reference/Instruments_User_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011355)
 * [Instruments User Guide](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html#//apple_ref/doc/uid/TP40004652)
 * [Instruments Help](https://developer.apple.com/library/ios/recipes/instruments_help-collection/index.html#//apple_ref/doc/uid/TP40010994)
+
+* [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556)
 
 * [Interface Builder Help](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.html#//apple_ref/doc/uid/TP40009971)
 * [Interface Builder Connections Help](https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/_index.html#//apple_ref/doc/uid/TP40014227)
@@ -3046,6 +3032,7 @@ https://developer.apple.com/library/ios/recipes/xcode_help-core_data_modeling_to
 * [User Experience Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=User%20Experience)
 * [User Experience Starting Point for iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/GS_UserExperience_iPhone/index.html#//apple_ref/doc/uid/TP40007296)
 * [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785)
+* [Verifying App Accessibility on iOS](https://developer.apple.com/library/ios/technotes/TestingAccessibilityOfiOSApps/TestingtheAccessibilityofiOSApps/TestingtheAccessibilityofiOSApps.html#//apple_ref/doc/uid/TP40012619)
 * [Apple Style Guide](https://help.apple.com/asg/mac/2013)
 * [App Distribution Quick Start](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppStoreDistributionTutorial/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013839)
 * [App Distribution Guide](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012582)
