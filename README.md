@@ -3046,14 +3046,7 @@ swift 2.2
 swift playground
 
 Prerelease
-
 https://developer.apple.com/library/prerelease/ios/navigation/
-
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UILabel_Class/
-
-https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Chapters/PageViewControllers.html
-
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UIControl.html#//apple_ref/doc/uid/TP40012857-UIControl-SW1
 
 Standard References
 
