@@ -2994,14 +2994,6 @@ Xcode References
 * [Testing with Xcode](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html#//apple_ref/doc/uid/TP40014132)
 * [Test Navigator Help](https://developer.apple.com/library/ios/recipes/xcode_help-test_navigator/_index.html#//apple_ref/doc/uid/TP40013329)
 
-<!--
-Event Handling Guide for iOS
-https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541
-
-Text Programming Guide for iOS
-https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009542
--->
-
 * [UIKit Framework](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework)
 * [UIKit Framework Reference](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955)
 
@@ -3028,6 +3020,10 @@ https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptua
 * [Collection View Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/CollectionViewPGforIOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012334)
 * [Table View Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html#//apple_ref/doc/uid/TP40007451)
 * [Scroll View Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008179)
+
+* [Event Handling Guide for iOS](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541)
+
+* [Text Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009542)
 
 * [User Experience Navigation](https://developer.apple.com/library/ios/navigation/#section=Topics&topic=User%20Experience)
 * [User Experience Starting Point for iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/GS_UserExperience_iPhone/index.html#//apple_ref/doc/uid/TP40007296)
