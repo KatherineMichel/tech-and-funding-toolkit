@@ -3032,12 +3032,40 @@ https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/
 Testing with Xcode
 https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html#//apple_ref/doc/uid/TP40014132
 
+Auto Layout Help
+https://developer.apple.com/library/ios/recipes/xcode_help-IB_auto_layout/_index.html#//apple_ref/doc/uid/TP40014226
 
-UIKit Framework Reference
-https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
+Core Data Model Editor Help
+https://developer.apple.com/library/ios/recipes/xcode_help-core_data_modeling_tool/_index.html#//apple_ref/doc/uid/TP40010379
+
+Debug Area Help
+https://developer.apple.com/library/ios/recipes/xcode_help-debugger/_index.html#//apple_ref/doc/uid/TP40009986
+
+Debug Navigator Help
+https://developer.apple.com/library/ios/recipes/xcode_help-debug_navigator/_index.html#//apple_ref/doc/uid/TP40010432
+
+Documentation Viewer Help
+https://developer.apple.com/library/ios/recipes/xcode_help-documentation_organizer/_index.html#//apple_ref/doc/uid/TP40010348
+
+Interface Builder Connections Help
+https://developer.apple.com/library/ios/recipes/xcode_help-IB_connections/_index.html#//apple_ref/doc/uid/TP40014227
 
 Interface Builder Object and Media Help
-https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/Chapters/about_objects_media.html#//apple_ref/doc/uid/TP40014224-CH40-SW1
+https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/_index.html#//apple_ref/doc/uid/TP40014224
+
+Size Classes Design Help
+https://developer.apple.com/library/ios/recipes/xcode_help-IB_adaptive_sizes/_index.html#//apple_ref/doc/uid/TP40014436
+
+Source Control Management Help
+https://developer.apple.com/library/ios/recipes/xcode_help-source_control_management/_index.html#//apple_ref/doc/uid/TP40013353
+
+Source Editor Help
+https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/_index.html#//apple_ref/doc/uid/TP40009975
+
+Test Navigator Help
+https://developer.apple.com/library/ios/recipes/xcode_help-test_navigator/_index.html#//apple_ref/doc/uid/TP40013329
+
+
 
 UIKit Framework Reference
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
