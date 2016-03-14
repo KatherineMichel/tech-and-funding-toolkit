@@ -1719,6 +1719,7 @@ Bill Gurley on Conversion and LTV
 
 Objectives and key Results (OKRs)
 * [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
 * [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
 
 KPIs
@@ -5446,6 +5447,7 @@ Emulator
 
 Tools (Parse is Going Bye-Bye)
 * [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
+* [Parse Alternatives](https://github.com/relatedcode/ParseAlternatives)
  
 Deep Linking
 * [Deep Linking Wikipedia](http://en.wikipedia.org/wiki/Deep_linking)  
