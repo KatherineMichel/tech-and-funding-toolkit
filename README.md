@@ -1209,6 +1209,13 @@ STEM Journals
 * [Science News](https://www.sciencenews.org)
 * [Social Sciences Research Network](http://www.ssrn.com/en)
 
+<!--
+http://papers.ssrn.com
+http://spectrum.ieee.org
+http://queue.acm.org
+http://dl.acm.org
+-->
+
 Tech Aggregated, Question and Answer Forums
 * [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 * [Inside Tech](https://www.inside.com/tech)
@@ -1290,6 +1297,9 @@ Directory of News Websites, Today's Front Pages, and NewsDiffs
 * [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
 * [Newseum Today's Front Pages](http://www.newseum.org/todaysfrontpages)
 * [NewsDiffs](http://newsdiffs.org)
+
+Fact Checking
+* [Snopes](http://www.snopes.com)
 
 People
 * [Klout (including Topic Expertise)](https://klout.com/home)
@@ -1395,6 +1405,7 @@ Wikipedia
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
 * [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
 * [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 * [EdX](https://www.edx.org)  
@@ -1580,11 +1591,6 @@ Mobile and Browser
 * [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
 * [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
 * [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
-
-<!--
-https://webkit.org/
-https://github.com/WebKit/webkit 
--->
 
 Product/Service Directories
 * [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
@@ -2040,6 +2046,9 @@ Photoshop and Similar
 
 Free Photos
 * [MorgueFile](http://www.morguefile.com)  
+
+Gifs
+* [Giphy](http://giphy.com) 
 
 Prototyping Software
 * [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
@@ -3256,6 +3265,7 @@ Browser
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 * [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 * [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
 
 Keyboard Shortcuts
 * [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
