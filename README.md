@@ -521,6 +521,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [OS Fund Playbook](http://osfund.co/the-osf-playbook)
 * [Sam Altman: Startup Playbook](http://playbook.samaltman.com) and [Sam Altman: Startup Playbook (Spanish)](https://platzi.com/startup-playbook)
 * [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
+* [Social Capital Eightball Diligence Tool](https://analytics.socialcapital.com/eightball)
 * [StackExchange Startups](http://startups.stackexchange.com)
 * [True University](http://trueuniversity.com) 
 * [Upfront Insights](http://insights.upfront.com)
@@ -533,7 +534,7 @@ Blogs and Whatnot
 * [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
 * [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
 * [Product Hunt Blog](http://blog.producthunt.com)
-* [Tech EU Research](http://tech.eu/section/research) and [Tech EU Radar Introduction](http://tech.eu/inside/4369/on-the-radar)
+* [Tech EU Research](http://tech.eu/section/research)
 
 RFS, Trends, Emerging Technologies
 * [Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/Emerging_technologies)
@@ -609,14 +610,16 @@ Databases and Benchmarking- Freemium
 * [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
 * [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Jobs](https://angel.co/jobs) 
 * [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
+* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
 * [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 * [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
 * [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 * [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
 
 Europe and U.K.
 * [AngelList U.K.](https://angel.co/uk)
-* [Tech EU Radar Online Database](http://radar.tech.eu) 
+* [Tech EU App Database Companies](https://app.tech.eu/companies)
 
 Database APIs
 * [AngelList API](https://angel.co/api)
@@ -853,6 +856,11 @@ Digital Millennium Copyright Act
 * [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
 
 #### Documents and Advice
+
+Investors on GitHub
+* [Agile Ventures](https://github.com/AgileVentures)
+* [Indie.vc](https://github.com/indievc)
+* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
 
 A16Z Funding and Valuation Advice
 * [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
@@ -2799,6 +2807,7 @@ Trends
 * [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
 
 Famous
+* [Amazon 1997 Shareholders Letter](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
 * [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
 * [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 * [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
