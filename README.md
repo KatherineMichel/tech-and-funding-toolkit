@@ -1479,6 +1479,7 @@ Mobile
 * [Groupe Speciale Mobile Association (GSMA)](http://www.gsma.com)
 * [Mobile Ecosystem Forum](http://mefglobalforum.org)
 * [Mobile World Congress](https://www.mobileworldcongress.com)
+* [Recode Mobile](http://recode.net/events/code-mobile)
 
 Unconference
 * [Unconference Wikipedia](https://en.wikipedia.org/wiki/Unconference)
