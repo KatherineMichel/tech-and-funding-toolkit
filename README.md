@@ -3384,6 +3384,8 @@ GitHub- Main
 * [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
 
 <!--
+https://try.github.io
+
 https://github.com/thank-you-github/thank-you-github
 https://github.com/dear-github/dear-github
 
@@ -3451,6 +3453,8 @@ https://github.com/badges/badgerbadgerbadger
 
 https://www.atlassian.com/git/tutorials
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+
+http://nvie.com/posts/a-successful-git-branching-model/
 -->
 
 GitHub- Trending
@@ -3763,6 +3767,7 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Ruby on Rails](http://rubyonrails.org)  
 * [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
 * [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
+* [Ruby Guides](http://guides.rubyonrails.org) 
 * [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
 * [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
@@ -4063,9 +4068,9 @@ https://groups.google.com/forum/#!topic/djangocon-organizers/whBrRrNnxQA
 
 https://www.djangocon.us/sprints/
 https://2015.djangocon.us/blog/2015/05/08/announcing-our-call-reviewers/
-djangocon us trello board
 https://2015.djangocon.us/volunteers/
 https://trello.com/b/zBpdDpe7/djangcon-us-2012
+djangocon us trello board
 
 https://github.com/PyCon/2015/wiki/PyCon-2105-Sponsorship-Prospectus
 https://github.com/PyCon/2015/wiki/
@@ -4096,6 +4101,17 @@ https://github.com/DEFNA/defna.org
 
 https://www.djangoproject.com/weblog/2016/mar/04/host-djangocon-europe-2017/
 https://us.pycon.org/2016/schedule/presentation/1473/
+
+
+https://twitter.com/webology/status/699277088256163840
+
+http://pycon.blogspot.com/2016/03/why-not-join-sprints-this-year-at-pycon.html
+http://pycon.blogspot.com/2016/02/full-schedule-is-up-and-financial-aid.html
+https://pycon.readthedocs.org/en/latest
+
+http://remote.pyladies.com/resources
+
+http://www.pydanny.com/beginners-guide-pycon-2014.html
 -->
 
 #### Python and Django Girls
@@ -4189,6 +4205,8 @@ https://github.com/pinax/django-user-accounts
 https://github.com/pinax/django-forms-bootstrap
 http://django-user-accounts.readthedocs.org/en/latest
 
+http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
+
 Project Structure
 http://docs.python-guide.org/en/latest/writing/structure
 
@@ -4210,7 +4228,7 @@ http://london.pydata.org
 
 Pythonista
 https://github.com/kivy/kivy-website
-kivy/python-for-android
+https://github.com/kivy/python-for-android
 
 http://masteringdjango.com/django-book/
 https://github.com/big-nige/djangobook-Updated-to-1.8
@@ -4225,9 +4243,8 @@ http://brewformulas.org/Cmatrix
 
 https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
-http://www.apple.com/mac/imovie/
 https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-
+http://www.apple.com/mac/imovie/
 
 jacobian-archive
 
