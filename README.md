@@ -5228,6 +5228,9 @@ Typeahead and Awesomeplete
 * [Typeahead.js GitHub](https://github.com/twitter/typeahead.js)
 * [Awesomeplete GitHub](https://github.com/LeaVerou/awesomplete)
 
+SAP
+* [SAP](http://go.sap.com/index.html)
+
 #### Node.js and Related
 
 Node.js
