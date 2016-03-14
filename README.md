@@ -471,6 +471,10 @@ More
 
 #### VC Firms, Accelerators, Resources
 
+:) 
+* [Palo Alto, California](https://en.wikipedia.org/wiki/Palo_Alto,_California)
+* [Sand Hill Road](https://en.wikipedia.org/wiki/Sand_Hill_Road)
+
 Lists of VC Firms and Accelerators
 * [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [Venture Capital Firms (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Venture_capital_firms)
 * [Private Equity and Venture Capital Investors (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Private_equity_and_venture_capital_investors)
@@ -519,6 +523,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 * [StackExchange Startups](http://startups.stackexchange.com)
 * [True University](http://trueuniversity.com) 
+* [Upfront Insights](http://insights.upfront.com)
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
@@ -567,6 +572,7 @@ VC and Tech Videos and Podcasts
 * [A16Z Podcasts](https://soundcloud.com/a16z)
 * [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
 * [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
+* [YCombinator The Macro](https://soundcloud.com/the-macro-y-combinator)
 
 VC Firm Apps
 * [First Round Pitch App](http://firstround.com/openapp)
@@ -1164,6 +1170,7 @@ Business News
 * [Wealthfront Blog](https://blog.wealthfront.com) 
 
 Venture Analysis
+* [Fortune Venture](http://fortune.com/venture) and [Fortune Termsheet](http://fortune.com/newsletter/termsheet)
 * [Graham and Doddsville](http://www.grahamanddoddsville.net)
 * [Horsley Bridge](http://www.horsleybridge.com)
 * [New York Times DealBook](http://dealbook.nytimes.com)
@@ -1409,10 +1416,14 @@ MOOCs
 * [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 * [EdX](https://www.edx.org)  
 * [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
-* [Udacity](https://www.udacity.com)
+* [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
 * [Udemy](https://www.udemy.com)
 * [NovoEd (Social Entrepreneurship)](https://novoed.com)  
 * [University of Reddit](http://universityofreddit.com) 
+
+Foreign Language
+* [Duolingo](https://en.duolingo.com)
+* [BaBa Dum](https://babadum.com)
 
 General Research
 * [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
@@ -1451,6 +1462,7 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * Crunchies
 * [Recode Events](http://recode.net/events) 
 * [LeWeb](http://leweb.co) 
+* [Pitch at the Palace Livestream](http://pitchatpalace.com/pitchlive)
 * [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 * [SXSW](http://sxsw.com) 
 * [KC Addys](http://aafkc.com/addys)
@@ -1670,6 +1682,7 @@ Notable Proposals and Pitch Decks
 Templates
 * [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
 * [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
+* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
 * [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
 * [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
 * [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
@@ -2144,6 +2157,9 @@ Polymer
 Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
+
+Salesforce Lightning Design System
+* [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
 
 #### Social Media and Social Graph
 
@@ -4438,6 +4454,9 @@ Tox (Automation)
 
 Cron
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+
+Automated Dependency Management
+* [Requires.io](https://requires.io)
 
 #### Python and Django Templates and Microframeworks
 
