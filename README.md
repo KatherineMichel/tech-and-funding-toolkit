@@ -217,7 +217,6 @@ Table of Contents
 * [John Resig](http://ejohn.org/blog) 
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
 * [Justin Kan](http://justinkan.com)
-* [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org)
 * [Kevin Kelly](http://kk.org/kk), [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
 * [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
 * [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
@@ -255,7 +254,7 @@ Table of Contents
 #### High Profile Developers
 
 * [Harper Reed GitHub](https://github.com/harperreed)
-* [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
+* [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 * [Mark Otto GitHub](https://github.com/mdo)
 * [Zac Holman](http://zachholman.com)
 * [Zed Shaw GitHub](https://github.com/zedshaw)
@@ -3707,6 +3706,11 @@ Programming Languages
 * [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
 * [Computer Programming/Hello world Wikibooks](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Chomsky Hierarchy and Automata
+* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
+* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
+* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
 
 Hard Coding
 * [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
