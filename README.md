@@ -2064,6 +2064,9 @@ Quickie Websites
 * [Weebly Themes](http://www.weebly.com/themes)
 * [Wix Templates](http://www.wix.com/website/templates)
 
+Quickie Mobile Apps
+* [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
+
 Turn Key Websites
 * [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
 
