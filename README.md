@@ -505,6 +505,12 @@ Startup Studios
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
 
+<!--
+https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
+http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
+https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
+-->
+
 Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [500 Startups Activity](http://500.co/activity), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
 * [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
