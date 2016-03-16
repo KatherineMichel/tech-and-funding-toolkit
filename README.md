@@ -3669,6 +3669,10 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
+https://github.com/pybee/pybee.github.io
+http://pybee.org
+
 https://github.com/kentcdodds/all-contributors
 https://github.com/jfmengels/all-contributors-cli
 
