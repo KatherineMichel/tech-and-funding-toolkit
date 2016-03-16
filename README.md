@@ -1436,8 +1436,9 @@ MOOCs
 * [University of Reddit](http://universityofreddit.com) 
 
 Foreign Language
-* [Duolingo](https://en.duolingo.com)
 * [BaBa Dum](https://babadum.com)
+* [Duolingo](https://en.duolingo.com)
+* [Google Translate](https://translate.google.com/?hl=en) 
 
 General Research
 * [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
@@ -2645,7 +2646,6 @@ Google Products, Office
 * [Google Flights](https://www.google.com/flights)  
 * [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
 * [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
-* [Google Translate](https://translate.google.com/?hl=en)  
 * [Let Me Google that for You](http://lmgtfy.com) 
 
 API
@@ -2725,7 +2725,9 @@ Logistics
 * [Gumtree](http://www.gumtree.co)
 * [Mattermark General and Administrative](http://mattermark.com/category/general-administrative)
 * [Move Loot](https://www.moveloot.com/welcome)
+* [Nomad List](https://nomadlist.com)
 * [Statewide List](http://www.statewidelist.com)
+* [Teleport](http://teleport.org)
 
 Crowd Sourced Internet Marketplace
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
@@ -3667,6 +3669,11 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+https://github.com/kentcdodds/all-contributors
+https://github.com/jfmengels/all-contributors-cli
+
+https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
+
 http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
 -->
 
