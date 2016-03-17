@@ -2068,16 +2068,11 @@ Device Mockups
 * [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
  
 Photoshop and Similar
-* [Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
+* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
+* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
 * [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
 * [Inkscape](http://www.inkscape.org/en)  
 * [Serif](http://www.serif.com) 
-
-<!--
-https://www.producthunt.com/tech/adobe-experience-design-cc
-https://medium.com/@ashorten/introducing-adobe-experience-design-cc-preview-a36300869233#.26d0fbvyr
-http://blogs.adobe.com/creativecloud/introducing-adobe-experience-design-cc-preview/?ref=producthunt
--->
 
 Free Photos
 * [MorgueFile](http://www.morguefile.com)  
@@ -2390,12 +2385,8 @@ Flickr
 * [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
 
 KPCB and John Maeda Design in Tech Report
-* [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
-<!--
-http://www.kpcb.com/blog/design-in-tech-report-2016
-http://www.slideshare.net/kleinerperkins/design-in-tech-report-2016/16-OverviewHow_Does_One_Go_About
--->
+* [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
+* [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
 #### Engineering Blogs and Designer, Developer Conferences
 
@@ -3697,25 +3688,25 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
+https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
+https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
+
 https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
 https://github.com/pybee/pybee.github.io
 http://pybee.org
 
+http://slides.com/kentcdodds/1st-pr#/
+https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
+
 https://github.com/kentcdodds/all-contributors
 https://github.com/jfmengels/all-contributors-cli
 
-https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-
-http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
+https://github.com/kentcdodds/ama/issues/93
 
 http://javascriptair.com
 
-https://github.com/kentcdodds/ama/issues/93
-http://slides.com/kentcdodds/1st-pr#/
-
-https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
-https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
-https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
+http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
 -->
 
 Example Help Tweets
