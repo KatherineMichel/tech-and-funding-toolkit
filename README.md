@@ -4207,6 +4207,19 @@ http://blog.djangogirls.org/submit
 http://remote.pyladies.com/resources
 
 https://www.djangoproject.com/foundation/developer-members/
+
+http://scipy2016.scipy.org/ehome/146062/332968/?&&
+
+https://github.com/eldarion/djangocon.us
+https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
+https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+https://symposion.readthedocs.org/en/latest/
+https://ky395.us2.gondor.io
+http://eldarion.com
+http://www.ellingtoncms.com
+
+http://www.learnenough.com/git-tutorial#sec-getting_started
+https://www.python.org/community/workshops/
 -->
 
 #### Python and Django Girls
@@ -4270,10 +4283,30 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 
 Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-* [](http://docs.python-guide.org/en/latest/notes/styleguide/)
 
 <!--
+http://awesome-python.com
+https://code.djangoproject.com/wiki/DjangoResources
+
+https://docs.python.org/devguide
+
+Project Structure
+http://docs.python-guide.org/en/latest/writing/structure
+
+http://docs.python-guide.org/en/latest/starting/install/osx/
+
+http://python-packaging-user-guide.readthedocs.org/en/latest/installing
+
+https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
+https://devcenter.heroku.com/articles/django-assets
+https://www.npmjs.com/package/generator-django
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+https://docs.python.org/2/howto/descriptor.html
+https://docs.python.org/2/tutorial/errors.html
+
 http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
+https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
 https://docs.djangoproject.com/en/1.9/ref/models/expressions/
 https://docs.djangoproject.com/en/1.9/contents/
 https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/coding-style/
@@ -4289,7 +4322,20 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 https://docs.djangoproject.com/en/1.9/topics/http/urls/
 https://docs.djangoproject.com/en/1.9/ref/templates/api/
 
-http://awesome-python.com
+https://docs.djangoproject.com/en/1.8/topics/email
+
+https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
+
+2.12 Writing your first patch for Django
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
+https://docs.python.org/3/library/unittest.html
+http://www.diveintopython.net/unit_testing/
+
+https://github.com/django/code.djangoproject.com
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+
+https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf
 
 https://github.com/pinax/pinax-webanalytics
 http://pinaxproject.com/pinax
@@ -4302,104 +4348,54 @@ http://django-user-accounts.readthedocs.org/en/latest
 
 http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
 
-Project Structure
-http://docs.python-guide.org/en/latest/writing/structure
-
-https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf
-
-2.12 Writing your first patch for Django
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
-https://docs.python.org/3/library/unittest.html
-http://www.diveintopython.net/unit_testing/
-
-Python Guides
-https://github.com/pyladies/pyladies
-https://github.com/python/pycon-code-of-conduct
-
-https://github.com/socalpyladies/socalpyladies.github.io
-https://github.com/DutchDjangoAssociation/djangovereniging.nl
-http://socalpyladies.github.io/
-http://london.pydata.org
-
-Pythonista
-https://github.com/kivy/kivy-website
-https://github.com/kivy/python-for-android
-
-http://masteringdjango.com/django-book/
-https://github.com/big-nige/djangobook-Updated-to-1.8
-http://www.diveintopython.net/regular_expressions/
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 
 https://github.com/kennethreitz/conda-buildpack
 http://conda.pydata.org/miniconda.html
 https://github.com/docopt/docopt
 
-http://www.asty.org/cmatrix/
-http://brewformulas.org/Cmatrix
+https://github.com/kivy/kivy-website
+https://github.com/kivy/python-for-android
+
+http://channels.readthedocs.org/en/latest/
+
+https://github.com/pypa/warehouse
+
+https://github.com/divio/django-mailchimp
+http://django-mailer2.readthedocs.org/en/latest
+
+https://pypi.python.org/pypi/everything
+
+https://en.wikipedia.org/wiki/ReStructuredText
+
+http://masteringdjango.com/django-book
+https://github.com/big-nige/djangobook-Updated-to-1.8
+http://www.diveintopython.net/regular_expressions/
 
 https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
 http://www.apple.com/mac/imovie/
 
+Python Guides
+https://github.com/pyladies/pyladies
+https://github.com/python/pycon-code-of-conduct
+https://github.com/socalpyladies/socalpyladies.github.io
+http://socalpyladies.github.io/
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+http://london.pydata.org
+
+http://www.asty.org/cmatrix/
+http://brewformulas.org/Cmatrix
+
+Pythonista
+
 jacobian-archive
-
-https://docs.python.org/2/howto/descriptor.html
-https://docs.python.org/2/tutorial/errors.html
-
-https://code.djangoproject.com/wiki/DjangoResources
-https://www.python.org/community/workshops/
-
-https://docs.python.org/devguide
-
-https://devcenter.heroku.com/articles/django-assets
-
-https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
-https://github.com/divio/django-mailchimp
-
-https://github.com/django/code.djangoproject.com
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
-
-http://django-mailer2.readthedocs.org/en/latest
-https://docs.djangoproject.com/en/1.8/topics/email
-
-http://docs.python-guide.org/en/latest/starting/install/osx/
-
-https://github.com/pypa/warehouse
-
-http://www.ellingtoncms.com
-
-https://en.wikipedia.org/wiki/ReStructuredText
-https://www.npmjs.com/package/generator-django
-
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-
-http://www.learnenough.com/git-tutorial#sec-getting_started
 
 https://github.com/amontalenti/elements-of-python-style
 
-https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
-http://python-packaging-user-guide.readthedocs.org/en/latest/installing
-
 https://github.com/python/community-starter-kit
-
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
-
-http://scipy2016.scipy.org/ehome/146062/332968/?&&
-
-https://symposion.readthedocs.org/en/latest/
-https://ky395.us2.gondor.io
-https://github.com/eldarion/djangocon.us
-https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
-https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
-http://eldarion.com
-
-https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
-
-http://channels.readthedocs.org/en/latest/
-https://pypi.python.org/pypi/everything
 -->
 
 #### Python and Django Packages and Snippets
@@ -5554,8 +5550,7 @@ Miscellaneous
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
 <!--
-http://uploadvr.com/unity-democratize-reality-creation/
-https://unity3d.com/get-unity/download
+http://uploadvr.com/unity-democratize-reality-creation
 -->
 
 #### Data Science
@@ -5824,12 +5819,10 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
-
 *   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
 *   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
 *   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
 *   https://www.facebook.com/Engineering/posts/10152495827632200
-
 -->
 
 Andrej Karpathy
@@ -5944,8 +5937,10 @@ Python- Statistics Stack- SciPy
 * [SciPy Reference PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)  
 * [SciPy Lectures GitHub](http://scipy-lectures.github.io)  
 
+<!--
 http://www.scipy.org/getting-started.html 
 http://www.scipy.org/topical-software.html List of Software  
+-->
 
 Python- Statistics Stack- MatPlotLib
 * [MatPlotLib](http://matplotlib.org), [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib), and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib)  
@@ -5965,10 +5960,12 @@ Python- Statistics Stack- MatPlotLib Reference
 * [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
 * [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits)](https://pypi.python.org/pypi/xlwt)  
 
+<!--
 http://matplotlib.org/index.html Resources 
 http://matplotlib.org/resources/index.html 
 External Resources 
 http://matplotlib.org/faq/index.html  
+-->
 
 Python- Statistics Stack- iPython
 * [iPython](http://ipython.org) , [iPython GitHub](https://github.com/ipython/ipython), and [iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)  
@@ -5979,7 +5976,9 @@ Python- Statistics Stack- iPython Reference
 * [iPython Notebook Docs](http://ipython.org/ipython-doc/2/notebook/index.html)  
 * [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)  
 
+<!--
 http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
+-->
 
 Python- Statistics Stack- Pandas
 * [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pydata/pandas)  
@@ -6115,11 +6114,13 @@ Unstructured Data and Data Structures- General
 * [List of Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_data_structures)  
 * [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
 
+<!--
 http://en.wikipedia.org/wiki/Raw_data
 http://en.wikipedia.org/wiki/Plain_old_data_structure
 http://en.wikipedia.org/wiki/Concurrent_data_structure
 http://en.wikipedia.org/wiki/Linked_data_structure
 http://en.wikipedia.org/wiki/Persistent_data_structure
+-->
 
 Data
 * [Array Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
