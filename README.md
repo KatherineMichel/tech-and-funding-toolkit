@@ -2073,6 +2073,12 @@ Photoshop and Similar
 * [Inkscape](http://www.inkscape.org/en)  
 * [Serif](http://www.serif.com) 
 
+<!--
+https://www.producthunt.com/tech/adobe-experience-design-cc
+https://medium.com/@ashorten/introducing-adobe-experience-design-cc-preview-a36300869233#.26d0fbvyr
+http://blogs.adobe.com/creativecloud/introducing-adobe-experience-design-cc-preview/?ref=producthunt
+-->
+
 Free Photos
 * [MorgueFile](http://www.morguefile.com)  
 
@@ -2385,6 +2391,11 @@ Flickr
 
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+<!--
+http://www.kpcb.com/blog/design-in-tech-report-2016
+http://www.slideshare.net/kleinerperkins/design-in-tech-report-2016/16-OverviewHow_Does_One_Go_About
+-->
 
 #### Engineering Blogs and Designer, Developer Conferences
 
@@ -2948,6 +2959,12 @@ Apple El Capitan
 * [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
 * [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
 
+<!--
+http://www.gmyle.com/collections/year-end-clearance-sale?page=1
+http://www.amazon.com/gp/product/B00G9DQJXO/ref=s9_top_hd_bw_b3NTTT1_g147_i3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=1M4E6M9T5DTCSF3G8PBY&pf_rd_t=101&pf_rd_p=f47208ae-f563-54fe-900f-bc055dbb8823&pf_rd_i=3095279011
+http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air+accessories&page=2&keywords=macbook+air+accessories&ie=UTF8&qid=1457656850&spIA=B00G9DQJXO,B010UFRNP4,B00LSJV5B0
+-->
+
 Apple- Utilities
 * [iTunes](https://www.apple.com/itunes)
 
@@ -3448,9 +3465,7 @@ https://help.github.com/articles/about-repository-graphs#traffic
 https://github.com/github/teach.github.com
 https://github.com/jlord/git-it
 
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+http://nvie.com/posts/a-successful-git-branching-model/
 
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2046-github-desktop-is-now-available
@@ -3459,9 +3474,28 @@ https://help.github.com/articles/creating-a-pull-request/
 https://github.com/blog/2111-issue-and-pull-request-templates
 https://help.github.com/articles/adding-a-file-to-a-repository/
 https://help.github.com/articles/adding-a-remote/
+https://help.github.com/articles/removing-a-remote/
+
+https://help.github.com/articles/syncing-a-fork/
+https://help.github.com/articles/configuring-a-remote-for-a-fork/
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
+
+https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
+
 https://github.com/blog/1986-announcing-git-large-file-storage-lfs
 https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+
+https://www.atlassian.com/git/tutorials
+https://www.atlassian.com/git/tutorials/syncing/git-pull
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
 
 https://github.com/github/git-lfs
 https://git-lfs.github.com
@@ -3487,12 +3521,6 @@ https://github.com/berkerpeksag/github-badge
 http://shields.io
 http://badges.github.io/gh-badges/
 https://github.com/badges/badgerbadgerbadger
-
-
-https://www.atlassian.com/git/tutorials
-https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
-
-http://nvie.com/posts/a-successful-git-branching-model/
 -->
 
 GitHub- Trending
@@ -3679,6 +3707,15 @@ https://github.com/jfmengels/all-contributors-cli
 https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
 
 http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
+
+http://javascriptair.com
+
+https://github.com/kentcdodds/ama/issues/93
+http://slides.com/kentcdodds/1st-pr#/
+
+https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
+https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
+https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 -->
 
 Example Help Tweets
@@ -4101,6 +4138,10 @@ Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
 
 <!--
+https://2016.djangocon.us/financialaid/
+
+https://2016.djangocon.eu/team/
+https://2016.djangocon.eu/schedule/#workshops
 https://2016.djangocon.eu/speakers/schedule
 https://2016.djangocon.eu/venue/#workshops
 https://2016.djangocon.eu/cfp/workshop/
@@ -4148,7 +4189,7 @@ https://github.com/DEFNA/defna.org
 
 https://www.djangoproject.com/weblog/2016/mar/04/host-djangocon-europe-2017/
 https://us.pycon.org/2016/schedule/presentation/1473/
-
+https://us.pycon.org/2016/venue/accessibility/
 
 https://twitter.com/webology/status/699277088256163840
 
@@ -4156,9 +4197,16 @@ http://pycon.blogspot.com/2016/03/why-not-join-sprints-this-year-at-pycon.html
 http://pycon.blogspot.com/2016/02/full-schedule-is-up-and-financial-aid.html
 https://pycon.readthedocs.org/en/latest
 
+http://www.pydanny.com/beginners-guide-pycon-2014.html
+
+https://djangogirls.org/pycon/
+https://djangogirls.org/events/
+http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
+http://blog.djangogirls.org/submit
+
 http://remote.pyladies.com/resources
 
-http://www.pydanny.com/beginners-guide-pycon-2014.html
+https://www.djangoproject.com/foundation/developer-members/
 -->
 
 #### Python and Django Girls
@@ -5504,6 +5552,11 @@ Miscellaneous
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
+
+<!--
+http://uploadvr.com/unity-democratize-reality-creation/
+https://unity3d.com/get-unity/download
+-->
 
 #### Data Science
 
