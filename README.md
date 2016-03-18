@@ -648,6 +648,10 @@ Searches
 * [GitHub: freelance](https://github.com/search?utf8=%E2%9C%93&q=freelance&type=Repositories&ref=searchresults)
 * [GitHub: contract](https://github.com/search?utf8=%E2%9C%93&q=contract&type=Repositories&ref=searchresults)
 
+<!--
+https://github.com/search?utf8=%E2%9C%93&q=code+conduct
+-->
+
 Buffer
 * [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
 * [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
@@ -1478,6 +1482,10 @@ Foreign Language
 * [Duolingo](https://en.duolingo.com)
 * [Google Translate](https://translate.google.com/?hl=en) 
 
+<!--
+http://bulletjournal.com
+-->
+
 General Research
 * [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 * [Google Books](https://books.google.com)
@@ -2237,6 +2245,9 @@ Accelerated Mobile Pages (AMP HTML)
 Salesforce Lightning Design System
 * [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
 
+HubSpot
+* [HubSpot](http://github.hubspot.com) and [HubSpot GitHub](https://github.com/HubSpot)
+
 #### Social Media and Social Graph
 
 Graph and Schema- General (See also Facebook Open Graph)
@@ -2409,6 +2420,36 @@ CSS
 Example
 * [Example Org](http://www.example.org)  
 * [Example Org Mobile](https://m.example.com) 
+
+<!--
+http://webaim.org/resources/contrastchecker/
+http://www.w3schools.com/css/css_boxmodel.asp
+http://www.w3schools.com/js/js_statements.asp
+http://www.w3schools.com/xml/xml_whatis.asp
+http://www.w3schools.com/charsets/
+http://www.w3schools.com/charsets/ref_utf_symbols.asp
+http://www.w3schools.com/charsets/ref_html_utf8.asp
+http://www.w3schools.com/tags/ref_charactersets.asp
+http://www.w3schools.com/tags/default.asp
+
+W3 CSS Recommendations Table of Contents
+https://www.w3.org/standards/
+http://www.w3.org/TR/CSS21/cover.html#minitoc
+[W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en
+
+https://developer.mozilla.org/en-US/docs/web/html/element" target="_blank">Mozilla Developer HTML Elements</a><br>
+[Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) 
+
+http://schema.org/Person
+
+http://microformats.org
+https://en.wikipedia.org/wiki/HCard
+http://microformats.org/wiki/hcard
+http://microformats.org/code/hcard/creator
+-->
 
 #### Design Thinking
 
@@ -2598,6 +2639,13 @@ Two Factor Authentication
 
 * [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
+<!--
+https://security.google.com/settings/security/permissions?pli=1
+https://www.facebook.com/settings?tab=applications&section=all
+https://twitter.com/settings/applications
+https://status.cloud.google.com/incident/compute/15045
+-->
+
 Google Products, Office
 * [Google Products](http://www.google.com/intl/en/about/products) 
 * [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
@@ -2657,8 +2705,13 @@ Calendar
 Social Media Distribution 
 * [Facebook](https://www.facebook.com)
 * [Twitter](https://twitter.com)
-* [Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
+* [Noah Liebman Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
 * [Twime Machine](http://www.twimemachine.com)
+
+<!--
+https://github.com/abraham/twitteroauth
+https://github.com/ryanmcgrath/twython
+-->
 
 Social Media Distribution 
 * [Buffer](https://bufferapp.com)
@@ -3296,6 +3349,11 @@ Hidden File and Hidden Directory
 Symbolic Link
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
+<!--
+https://github.com/letsencrypt/letsencrypt
+https://archive.org/details/malwaremuseum
+-->
+
 #### Code Philosophies
 
 12 Factor App
@@ -3843,6 +3901,10 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
+<!--
+https://nodejs.org/en/docs/es6
+-->
+
 Other JavaScript Helpers
 * [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
 * [Lodash GitHub](https://github.com/lodash/lodash)
@@ -4215,6 +4277,9 @@ https://symposion.readthedocs.org/en/latest/
 https://ky395.us2.gondor.io
 http://eldarion.com
 http://www.ellingtoncms.com
+
+Mastering Regular Expressions Jeffrey Friedl
+https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
 
 http://www.learnenough.com/git-tutorial#sec-getting_started
 https://www.python.org/community/workshops/
@@ -5556,10 +5621,6 @@ Miscellaneous
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
-
-<!--
-http://uploadvr.com/unity-democratize-reality-creation
--->
 
 #### Data Science
 
