@@ -1872,6 +1872,10 @@ Project Management Software
 * [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
 * [Trello](https://trello.com)
 
+<!--
+https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts
+-->
+
 Agile Project Management Methodologies
 * [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
 * [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
@@ -2449,6 +2453,17 @@ http://microformats.org
 https://en.wikipedia.org/wiki/HCard
 http://microformats.org/wiki/hcard
 http://microformats.org/code/hcard/creator
+
+https://github.com/PolymerElements/polymer-starter-kit
+https://github.com/nodejs/node-eps/pull/3
+https://github.com/nodejs/node-eps
+http://whatwg.github.io/loader
+https://twitter.com/kentcdodds/status/710701170268831744
+https://developer.chrome.com/devtools/docs/tips-and-tricks
+https://developer.mozilla.org/en-US/docs/Web/API/Console/table
+https://developers.google.com/web/updates/2016/02/es2015-proxies
+https://www.google.com/design/spec/components/bottom-navigation.html#bottom-navigation-specs
+https://support.google.com/analytics/answer/1638635?hl=en
 -->
 
 #### Design Thinking
@@ -3503,6 +3518,7 @@ https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
 https://www.atlassian.com/git/tutorials
 https://www.atlassian.com/git/tutorials/syncing/git-pull
+https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
 
@@ -3534,6 +3550,11 @@ https://github.com/berkerpeksag/github-badge
 http://shields.io
 http://badges.github.io/gh-badges/
 https://github.com/badges/badgerbadgerbadger
+
+
+CODE_OF_CONDUCT
+https://github.com/git-ftp/
+https://github.com/stevemao/github-issue-templates
 -->
 
 GitHub- Trending
