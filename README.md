@@ -2545,6 +2545,10 @@ DevCenter
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
+Stack Overflow Developer Survey
+* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
+* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+
 Built With (Exluding Django)
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
 * [Built With](http://builtwith.com)  
@@ -4424,8 +4428,7 @@ https://github.com/django/code.djangoproject.com
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
 
-https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf
-
+https://github.com/eldarion/
 https://github.com/pinax/pinax-webanalytics
 http://pinaxproject.com/pinax
 http://pinaxproject.com/pinax/quick_start
