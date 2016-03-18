@@ -1482,9 +1482,8 @@ Foreign Language
 * [Duolingo](https://en.duolingo.com)
 * [Google Translate](https://translate.google.com/?hl=en) 
 
-<!--
-http://bulletjournal.com
--->
+Bullet Journal
+* [Bullet Journal](http://bulletjournal.com)
 
 General Research
 * [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
@@ -3487,26 +3486,26 @@ https://github.com/github/training-kit
 https://github.com/github-archive/training.github.com
 
 https://github.com/features
-https://guides.github.com/introduction/flow/
+https://guides.github.com/introduction/flow
 https://help.github.com/articles/about-repository-graphs#traffic
 
 https://github.com/github/teach.github.com
 https://github.com/jlord/git-it
 
-http://nvie.com/posts/a-successful-git-branching-model/
+http://nvie.com/posts/a-successful-git-branching-model
 
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2046-github-desktop-is-now-available
 https://github.com/blog/2097-improved-commenting-with-markdown
-https://help.github.com/articles/creating-a-pull-request/
+https://help.github.com/articles/creating-a-pull-request
 https://github.com/blog/2111-issue-and-pull-request-templates
-https://help.github.com/articles/adding-a-file-to-a-repository/
-https://help.github.com/articles/adding-a-remote/
-https://help.github.com/articles/removing-a-remote/
+https://help.github.com/articles/adding-a-file-to-a-repository
+https://help.github.com/articles/adding-a-remote
+https://help.github.com/articles/removing-a-remote
 
-https://help.github.com/articles/syncing-a-fork/
-https://help.github.com/articles/configuring-a-remote-for-a-fork/
-https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
+https://help.github.com/articles/syncing-a-fork
+https://help.github.com/articles/configuring-a-remote-for-a-fork
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
 
 https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 
@@ -3526,6 +3525,7 @@ http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
 
+https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
 
@@ -3553,7 +3553,6 @@ https://github.com/badges/badgerbadgerbadger
 
 
 CODE_OF_CONDUCT
-https://github.com/git-ftp/
 https://github.com/stevemao/github-issue-templates
 -->
 
