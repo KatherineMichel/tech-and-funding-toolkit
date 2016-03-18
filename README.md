@@ -5691,6 +5691,8 @@ Data Styleguide GitHub
 Kaggle
 * [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
 * [Kaggle Competitions](https://www.kaggle.com/competitions)  
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Scripts](https://www.kaggle.com/scripts)
 * [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
 * [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection)  
 
@@ -5913,6 +5915,44 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
+https://github.com/tensorflow/tensorflow
+http://tensorflow.github.io/serving/setup
+https://www.tensorflow.org/versions/master/how_tos/image_retraining/index.html
+https://github.com/adatao/tensorspark
+
+https://github.com/torch/nn
+https://github.com/torch/nn/tree/master/doc
+https://github.com/torch/torch7/wiki/Cheatsheet
+https://github.com/jcjohnson/torch-rnn/blob/master/LanguageModel.lua
+
+https://github.com/karpathy/char-rnn
+https://github.com/karpathy/arxiv-sanity-preserver
+
+https://github.com/yahoo/CaffeOnSpark
+http://caffe.berkeleyvision.org
+https://github.com/BVLC/caffe
+
+http://libccv.org
+https://github.com/liuliu/ccv Computer Vision library
+
+http://h2o.ai
+https://github.com/h2oai/h2o-3
+
+http://www.partiallyderivative.com
+
+https://docs.google.com/spreadsheets/d/1YArw5RAnUxivUnlJFyKCjpBZVB-oDby0HwMwmvlZd6I/pub?output=html
+https://github.com/amplab/SparkNet
+http://research.baidu.com/warp-ctc/
+https://research.facebook.com/ai
+http://www.lua.org
+https://facebook.github.io/fbcunn/fbcunn
+http://arxiv.org/abs/1412.7580
+http://opendataday.org
+http://www.datasciencebowl.com
+http://infolab.stanford.edu/~backrub/google.html
+
+http://www.whitehouse.gov/issues/technology/big-data-review
+
 *   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
 *   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
 *   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
@@ -6098,7 +6138,9 @@ Python- Statistics Stack- GGPlot
 Python- Statistics Stack- Scikit-Learn
 * [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
 
+<!--
 https://scikits.appspot.com/scikits  
+-->
 
 Python- Statistics Stack- Scikit-Learn Reference
 * [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
