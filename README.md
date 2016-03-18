@@ -5480,6 +5480,7 @@ Mobile Phones- General
 * [Mobile Web Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_Web) 
 * [Mobile App Wikipedia](https://en.wikipedia.org/wiki/Mobile_app)
 * [Mobile Application Development Wikipedia](https://en.wikipedia.org/wiki/Mobile_application_development)
+* [Mobile Service Architecture Wikipedia](http://en.wikipedia.org/wiki/Mobile_Service_Architecture)
 * [Mobile Web Analytics Wikipedia](http://en.wikipedia.org/wiki/Mobile_Web_Analytics) 
 
 Embedded Operating Systems
@@ -5495,6 +5496,15 @@ Android
 
 CyanogenMod
 * [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
+
+Facebook- React-Native
+* [React-Native](https://facebook.github.io/react-native)
+
+Golang Mobile
+* [Golang Mobile GitHub](https://github.com/golang/mobile)
+
+Ionic Framework
+* [Ionic](http://ionicframework.com)
 
 Exponent.js
 * [Exponent.js](http://exponentjs.com)
