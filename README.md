@@ -4228,14 +4228,16 @@ Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
 
 <!--
-https://2016.djangocon.us/financialaid/
+https://github.com/PyCon/pycon
+
+https://2016.djangocon.us/financialaid
 
 https://2016.djangocon.eu/team/
 https://2016.djangocon.eu/schedule/#workshops
 https://2016.djangocon.eu/speakers/schedule
 https://2016.djangocon.eu/venue/#workshops
-https://2016.djangocon.eu/cfp/workshop/
-https://2016.djangocon.eu/faq/
+https://2016.djangocon.eu/cfp/workshop
+https://2016.djangocon.eu/faq
 
 https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
 https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
@@ -5939,6 +5941,8 @@ https://github.com/karpathy/arxiv-sanity-preserver
 https://github.com/yahoo/CaffeOnSpark
 http://caffe.berkeleyvision.org
 https://github.com/BVLC/caffe
+
+https://github.com/Rochester-NRT/AlphaGo
 
 http://libccv.org
 https://github.com/liuliu/ccv Computer Vision library
