@@ -25,6 +25,7 @@ Table of Contents
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
   * [Company and Product Databases](#company-and-product-databases)
+  * [Open Companies](#open-companies) 
   * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
   * [Regulatory, Business Entity](#regulation-business-entity)
   * [Documents and Advice](#documents-and-advice)
@@ -37,7 +38,8 @@ Table of Contents
   * [Learning Resources](#learning-resources)
   * [Events, Talks, People](#events-talks-people)
   * [Books and Courses](#books-and-courses)
-* [STEM and STEAM](#stem-and-steam)
+  * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
+  * [STEM and STEAM](#stem-and-steam)
 * [Venture Analysis](#venture-analysis)
   * [Surveys, Trends, Stats](#surveys-trends-stats)
   * [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
@@ -59,9 +61,9 @@ Table of Contents
 * [Testing and Performance](#testing-and-performance)
 * [Web Dev and Design](#web-dev-and-design)
 * [Design Thinking](#design-thinking)
+* [Design Agency Playbooks](#design-agency-playbooks)
 * [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
 * [Labs](#labs)
-* [Open Source Management and Style Guides](#open-source-management-and-style-guides)  
 * [Launch and Growth](#lauch-and-growth)
   * [Launch Strategies](#launch-strategies)
   * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
@@ -86,9 +88,10 @@ Table of Contents
   * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
 * [Programming](#programming)
-  * [Programming Tiers](#programming-tiers)
+  * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Languages, MVCs](#programming-languages-mvcs)
+  * [Programming Language Style Guides](#programming-language-style-guides) 
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
@@ -633,6 +636,35 @@ Database APIs
 * [Mattermark API](https://mattermark.com/api)  
 * [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
 
+#### Open Companies
+
+Searches
+* [GitHub: styleguide](https://github.com/search?utf8=%E2%9C%93&q=styleguide&type=Repositories&ref=searchresults)
+* [GitHub: guide](https://github.com/search?utf8=%E2%9C%93&q=guide&type=Repositories&ref=searchresults)
+* [GitHub: playbook](https://github.com/search?utf8=%E2%9C%93&q=playbook&type=Repositories&ref=searchresults)
+* [GitHub: handbook](https://github.com/search?utf8=%E2%9C%93&q=handbook&type=Repositories&ref=searchresults)
+* [GitHub: code of conduct](https://github.com/search?utf8=%E2%9C%93&q=code+of+conduct&type=Repositories&ref=searchresults)
+* [GitHub: consulting](https://github.com/search?utf8=%E2%9C%93&q=consulting&type=Repositories&ref=searchresults)
+* [GitHub: freelance](https://github.com/search?utf8=%E2%9C%93&q=freelance&type=Repositories&ref=searchresults)
+* [GitHub: contract](https://github.com/search?utf8=%E2%9C%93&q=contract&type=Repositories&ref=searchresults)
+
+Buffer
+* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
 #### Unicorns, Companies, Industry and Product Classifications, Associations
 
 Unicorns
@@ -677,6 +709,9 @@ Industry and Product Classifications
 
 Associations
 * [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+
+Income Reports
+* [Income Reports](http://www.incomereports.co)
 
 #### Regulation, Business Entity
 
@@ -952,6 +987,9 @@ Equity Investment Simulation
 
 Compensation
 * [CompStudy](https://www.compstudy.com)
+
+Contracts
+* [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
 
 Aquihire
 * [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
@@ -1557,6 +1595,26 @@ The Happiness Project
 Public Speaking
 * [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
 * [ToasterMasters](https://www.toastmasters.org)
+
+#### Journalism Handbooks and Grammatical Style Guides
+
+Journalism Handbooks
+* [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
+* [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
+* [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
+
+Journalism Style Guides 
+* [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
+* [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+* [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
+* [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
+* [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
+* [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
+* [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
+* [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
+
+BBC
+* [BBC Global Experience Language](http://www.bbc.co.uk/gel)
 
 #### STEM and STEAM
 
@@ -2368,6 +2426,9 @@ Responsive Design
 IBM Design Language
 * [IBM Design Language](http://www.ibm.com/design/language)
 
+Watson Design Guide
+* [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
+
 Design Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
 * [Smashing Magazine](http://www.smashingmagazine.com) 
@@ -2387,6 +2448,17 @@ Flickr
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+#### Design Agency Playbooks
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
 #### Engineering Blogs and Designer, Developer Conferences
 
@@ -2450,114 +2522,6 @@ Labs, Kitchens, Garages
 * [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
 * [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
 * [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
-
-#### Open Source Management and Style Guides
-
-Open Source Management, Codes of Conduct, Roadmaps
-* [Open Source Management at Docker](https://github.com/docker/opensource)
-* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
-* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
-
-Styleguides- General
-* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
-* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-* [Styleguide GitHub](https://github.com/styleguide) 
-* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
-* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
-* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-* [Google Styleguides GitHub](https://github.com/google/styleguide)
-* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
-* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
-* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-* [MDO Code Guide GitHub](https://github.com/mdo/code-guide)  
-* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
-* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
-* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
-* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
-* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
-
-JavaScript Styleguide GitHub
-* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
-
-Ruby Styleguide GitHub
-* [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
-* [Ruby Styleguide GitHub](https://github.com/styleguide/ruby) 
-
-Objective C Styleguide GitHub
-* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
-* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
-
-Swift Styleguide GitHub
-* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
-
-Data Styleguide GitHub
-* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
-* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
-
-Income Reports
-* [Income Reports](http://www.incomereports.co)
-
-Buffer
-* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)  
-
-Searches
-* [GitHub: styleguide](https://github.com/search?utf8=%E2%9C%93&q=styleguide&type=Repositories&ref=searchresults)
-* [GitHub: guide](https://github.com/search?utf8=%E2%9C%93&q=guide&type=Repositories&ref=searchresults)
-* [GitHub: playbook](https://github.com/search?utf8=%E2%9C%93&q=playbook&type=Repositories&ref=searchresults)
-* [GitHub: handbook](https://github.com/search?utf8=%E2%9C%93&q=handbook&type=Repositories&ref=searchresults)
-* [GitHub: code of conduct](https://github.com/search?utf8=%E2%9C%93&q=code+of+conduct&type=Repositories&ref=searchresults)
-* [GitHub: consulting](https://github.com/search?utf8=%E2%9C%93&q=consulting&type=Repositories&ref=searchresults)
-* [GitHub: freelance](https://github.com/search?utf8=%E2%9C%93&q=freelance&type=Repositories&ref=searchresults)
-* [GitHub: contract](https://github.com/search?utf8=%E2%9C%93&q=contract&type=Repositories&ref=searchresults)
-
-Contracts
-* [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
-
-Journalism Handbooks
-* [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
-* [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
-* [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
-
-Journalism Style Guides 
-* [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
-* [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
-* [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
-* [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
-* [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
-* [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
-* [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
-* [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
-
-BBC
-* [BBC Global Experience Language](http://www.bbc.co.uk/gel)
-
 
 
 #### Launch and Growth
@@ -3652,7 +3616,12 @@ Startup Class Dotfiles and AWS EC2 Setup
 
 #### Programming
 
-#### Programming Tiers
+#### Open Source Management and Programming Tiers
+
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
+* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
+* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
 
 Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)
 
@@ -3991,6 +3960,44 @@ Wikitech Development
 * [Wikitech AP](http://www.mediawiki.org/wiki/API:Main_page)  
 * [Wikitech Account](https://wikitech.wikimedia.org/wiki/Special:Preferences)  
 * [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git)  
+
+#### Programming Language Style Guides
+
+Styleguides- General
+* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
+* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+* [Styleguide GitHub](https://github.com/styleguide) 
+* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
+* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
+* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+* [Google Styleguides GitHub](https://github.com/google/styleguide)
+* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
+* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
+* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+* [MDO Code Guide GitHub](https://github.com/mdo/code-guide)  
+* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
+* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
+* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
+* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
+
+JavaScript Styleguide GitHub
+* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
+Ruby Styleguide GitHub
+* [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+* [Ruby Styleguide GitHub](https://github.com/styleguide/ruby) 
+
+Objective C Styleguide GitHub
+* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
+* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
+
+Swift Styleguide GitHub
+* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
 #### Python and Django Toolkit
 
@@ -5584,6 +5591,10 @@ Data Science Websites
 Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
 * [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
+
+Data Styleguide GitHub
+* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
+* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
 Kaggle
 * [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
