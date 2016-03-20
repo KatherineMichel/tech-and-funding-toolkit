@@ -5982,6 +5982,8 @@ http://www.whitehouse.gov/issues/technology/big-data-review
 *   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
 *   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
 *   https://www.facebook.com/Engineering/posts/10152495827632200
+
+https://s3.amazonaws.com/OM-SHARE/cia-ath.pdf
 -->
 
 Andrej Karpathy
