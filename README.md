@@ -1876,11 +1876,9 @@ Project Management Software
 * [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
 * [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 * [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
+* [Slack Keyboard Shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
+* [Hamsterpad](https://hamsterpad.com)
 * [Trello](https://trello.com)
-
-<!--
-https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts
--->
 
 Agile Project Management Methodologies
 * [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
@@ -3525,10 +3523,12 @@ https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
 
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
 
 https://www.atlassian.com/git/tutorials
 https://www.atlassian.com/git/tutorials/syncing/git-pull
 https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
+https://www.atlassian.com/git/tutorials/using-branches/git-branch/
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
 
@@ -3562,6 +3562,7 @@ http://shields.io
 http://badges.github.io/gh-badges/
 https://github.com/badges/badgerbadgerbadger
 
+https://about.gitlab.com/installation/
 
 CODE_OF_CONDUCT
 https://github.com/stevemao/github-issue-templates
