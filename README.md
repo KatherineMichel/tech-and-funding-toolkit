@@ -3774,6 +3774,13 @@ Example Help Tweets
 
 #### Programming Learning Tools
 
+Programming Groups
+* [Django Girls](https://djangogirls.org)
+* [Golang Bridge](http://golangbridge.org)
+* [Women Who Go](http://www.womenwhogo.org)
+* [Rails Bridge](http://www.railsbridge.org)
+* [PHP Women](https://phpwomen.org)
+
 Programming and Math Learning Tools (See also MOOCs)
 * [Arduino](https://www.arduino.cc)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
