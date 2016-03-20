@@ -720,6 +720,7 @@ Income Reports
 #### Regulation, Business Entity
 
 U.S. Law
+* [Cornell Law: U.S. Constitution](https://www.law.cornell.edu/constitution)
 * [Cornell Law: U.S. Code](https://www.law.cornell.edu/uscode/text)
 
 Corporate Law- General
@@ -4315,6 +4316,8 @@ https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
 
 http://www.learnenough.com/git-tutorial#sec-getting_started
 https://www.python.org/community/workshops/
+
+https://2016.djangocon.us/blog/2016/03/18/what-difference-year-makes
 -->
 
 #### Python and Django Girls
@@ -4383,6 +4386,10 @@ Python- Django- Sprints: See
 http://awesome-python.com
 https://code.djangoproject.com/wiki/DjangoResources
 
+https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+
+https://docs.python.org/3.5/library/stdtypes.html
+
 https://docs.python.org/devguide
 
 Project Structure
@@ -4441,6 +4448,8 @@ https://github.com/pinax/django-forms-bootstrap
 http://django-user-accounts.readthedocs.org/en/latest
 
 http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
 
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 
@@ -4451,7 +4460,9 @@ https://github.com/docopt/docopt
 https://github.com/kivy/kivy-website
 https://github.com/kivy/python-for-android
 
-http://channels.readthedocs.org/en/latest/
+https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+https://github.com/andrewgodwin/channels
+http://channels.readthedocs.org/en/latest
 
 https://github.com/pypa/warehouse
 
