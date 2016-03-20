@@ -3562,7 +3562,8 @@ http://shields.io
 http://badges.github.io/gh-badges/
 https://github.com/badges/badgerbadgerbadger
 
-https://about.gitlab.com/installation/
+https://about.gitlab.com/features
+https://about.gitlab.com/installation
 
 CODE_OF_CONDUCT
 https://github.com/stevemao/github-issue-templates
