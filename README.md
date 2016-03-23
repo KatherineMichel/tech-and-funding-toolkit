@@ -2713,6 +2713,7 @@ Photo Hosting
 * [Picasa](https://picasa.google.com)
 
 Presentations (See also JavaScript Presentations Frameworks)
+* [Slides.com (reveal.js)](https://slides.com)
 * [SlideShare](www.slideshare.net)
 * [Speaker Deck](https://speakerdeck.com)
 
@@ -3972,7 +3973,8 @@ Babel (JavaScript)
 * [Babel GitHub](https://github.com/babel/babel)
 
 JavaScript Presentations Frameworks
-* [Reveal.js](https://github.com/hakimel/reveal.js)
+* [Slides.com (reveal.js)](https://slides.com)
+* [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
 * [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
 
 Golang, otherwise known as "Go"
