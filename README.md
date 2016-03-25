@@ -56,7 +56,6 @@ Table of Contents
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   * [Pretotyping](#pretotyping)
   * [Prototyping](#prototyping)
-* [Facebook and Google Design Approach](#facebook-and-google-design-approach)
 * [Social Media and Social Graph](#social-media-and-social-graph) 
 * [Testing and Performance](#testing-and-performance)
 * [Web Dev and Design](#web-dev-and-design)
@@ -92,6 +91,7 @@ Table of Contents
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Languages, MVCs](#programming-languages-mvcs)
   * [Programming Language Style Guides](#programming-language-style-guides) 
+* [Facebook and Google Design Approach](#facebook-and-google-design-approach)
 * [React, Node.js and Related](#react-nodejs-and-related)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
@@ -2224,35 +2224,6 @@ Miscellaneous
 * [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-#### Facebook and Google Design Approach
-
-Facebook
-* [Facebook Design](http://facebook.github.io/design) 
-
-Google
-* [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
-* [Google Roboto GitHub](https://github.com/google/roboto) 
-* [Google Design Resources](https://design.google.com/resources)  
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-Google Material Design (See also Facebook React)
-* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
-
-Accelerated Mobile Pages (AMP HTML)
-* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
-* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
-
 Salesforce Lightning Design System
 * [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
 
@@ -4074,6 +4045,35 @@ Objective C Styleguide GitHub
 Swift Styleguide GitHub
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
+#### Facebook and Google Design Approach
+
+Facebook
+* [Facebook Design](http://facebook.github.io/design) 
+
+Google
+* [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
+* [Google Roboto GitHub](https://github.com/google/roboto) 
+* [Google Design Resources](https://design.google.com/resources)  
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google Material Design (See also Facebook React)
+* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
+
+Accelerated Mobile Pages (AMP HTML)
+* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
+* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
+
 #### React, Node.js and Related
 
 Facebook- React (JavaScript)
@@ -4149,7 +4149,6 @@ https://github.com/reactjs/redux
 * [Redux GitHub](https://github.com/rackt/redux)
 http://redux.js.org/docs/basics/Reducers.html
 
-Facebook- React Stack
 * polymer
 -->
 
@@ -4690,6 +4689,7 @@ https://github.com/docopt/docopt
 https://github.com/kivy/kivy-website
 https://github.com/kivy/python-for-android
 
+https://github.com/andrewgodwin/channels-examples
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 https://github.com/andrewgodwin/channels
 http://channels.readthedocs.org/en/latest
@@ -4698,8 +4698,6 @@ https://github.com/pypa/warehouse
 
 https://github.com/divio/django-mailchimp
 http://django-mailer2.readthedocs.org/en/latest
-
-https://pypi.python.org/pypi/everything
 
 https://en.wikipedia.org/wiki/ReStructuredText
 
@@ -4720,9 +4718,6 @@ http://socalpyladies.github.io/
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
 http://london.pydata.org
 
-http://www.asty.org/cmatrix/
-http://brewformulas.org/Cmatrix
-
 Pythonista
 
 jacobian-archive
@@ -4734,7 +4729,6 @@ https://www.djangoproject.com/fundraising/campaign/django-fellowship
 
 
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-https://github.com/andrewgodwin/channels-examples
 -->
 
 #### Python and Django Deployment
@@ -4983,6 +4977,12 @@ Python- Imaging Library
 
 Python- Django- Forms
 * [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+
+Python- Django- Everything
+* [Everything](https://pypi.python.org/pypi/everything)
+
+Python- Django- Cmatrix
+* [Cmatrix](http://www.asty.org/cmatrix) and [Cmatrix Homebrew](http://brewformulas.org/Cmatrix)
 
 #### Python and Django Books and Tutorials
 
