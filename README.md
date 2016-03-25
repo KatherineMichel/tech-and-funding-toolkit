@@ -2142,6 +2142,8 @@ Device Mockups
 * [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
  
 Photoshop and Similar
+* [Nik Collection](https://www.google.com/nikcollection)
+* [Adobe Lightroom](https://lightroom.adobe.com)
 * [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
 * [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
 * [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
