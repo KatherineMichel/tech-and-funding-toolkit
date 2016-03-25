@@ -5431,34 +5431,31 @@ SAP
 
 #### React, Node.js and Related
 
-<!--
-Facebook- React Stack
-* jwt
-* angular protactor
-* ionic
-* react-router
-* redux
-* flux
-* polymer
-* immutable.js
-* hapi.js
-* rx.js
--->
-
-<!--
 Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
-* [React How-To GitHub](https://github.com/petehunt/react-howto)
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
 * [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
-* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
+
+<!--
+* [React How-To GitHub](https://github.com/petehunt/react-howto)
+* [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
+* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
+
 * [Facebook Relay GitHub](https://github.com/facebook/relay)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
-* [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
+-->
+
+React Bootstrap (React Stack)
+* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
+
+React-Router (React Stack)
+* [React-Router GitHub](https://github.com/reactjs/react-router)
 
 Facebook- React Native (React Stack)
-* [React-Native](https://facebook.github.io/react-native)
+* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+
+Ionic Framework (React Stack)
+* [Ionic](http://ionicframework.com)
 
 Webpack (React Stack)
 * [Webpack GitHub](https://github.com/webpack/webpack)
@@ -5473,11 +5470,19 @@ Express (React Stack)
 
 Angular (React Stack)
 * [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
-* [Angular Material GitHub](https://github.com/angular/material) 
+* [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
+* [Angular Protractor GitHub](https://github.com/angular/protractor)
+
+Flux (React Stack)
+* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
 
 Gulp (React Stack)
 * [Gulp GitHub](https://github.com/gulpjs/gulp) 
--->
+
+Other React Stack Helpers
+* [Facebook Immutable](https://facebook.github.io/immutable-js)
+* [Hapi](http://hapijs.com)
+* [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
 
 <!--
 ECMAScript and ES6, ES7 Forthcoming
@@ -5486,34 +5491,23 @@ ECMAScript and ES6, ES7 Forthcoming
 
 https://nodejs.org/en/docs/es6
 
-https://github.com/nodejs/node-eps/pull/3
-https://github.com/nodejs/node-eps
-
-* [Redux GitHub](https://github.com/rackt/redux)
-
-https://github.com/angular/protractor
-https://jwt.io
-https://tools.ietf.org/html/rfc7519
-https://material.angularjs.org/latest/
-http://ionicframework.com
-https://github.com/reactjs
-http://reactjs.net
-https://facebook.github.io/react/
-https://github.com/reactjs/react-router
-https://github.com/reactjs/redux
-http://redux.js.org/docs/basics/Reducers.html
-https://facebook.github.io/flux/
-https://facebook.github.io/react/docs/flux-overview.html
-https://facebook.github.io/flux/docs/overview.html
-
 https://es5.github.io
 https://github.com/es5/es5.github.io
 
-https://facebook.github.io/immutable-js/
-http://hapijs.com
+https://github.com/nodejs/node-eps/pull/3
+https://github.com/nodejs/node-eps
 
-https://github.com/ReactiveX/rxjs
-http://reactivex.io/rxjs/
+https://jwt.io
+https://tools.ietf.org/html/rfc7519
+
+https://github.com/reactjs/redux
+* [Redux GitHub](https://github.com/rackt/redux)
+http://redux.js.org/docs/basics/Reducers.html
+
+Facebook- React Stack
+* jwt
+* redux
+* polymer
 -->
 
 Node.js
@@ -5659,6 +5653,8 @@ JavaScript Presentations Frameworks
 
 #### Mobile
 
+See also: React-Native and Ionic
+
 Mobile- General
 * [Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Mobile_operating_system)  
 * [Comparison of Mobile Operating Systems Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems)
@@ -5691,14 +5687,8 @@ Android
 CyanogenMod
 * [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
 
-Facebook- React-Native
-* [React-Native](https://facebook.github.io/react-native)
-
 Golang Mobile
 * [Golang Mobile GitHub](https://github.com/golang/mobile)
-
-Ionic Framework
-* [Ionic](http://ionicframework.com)
 
 Exponent.js
 * [Exponent.js](http://exponentjs.com)
@@ -6063,10 +6053,10 @@ http://infolab.stanford.edu/~backrub/google.html
 
 http://www.whitehouse.gov/issues/technology/big-data-review
 
-*   https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
-*   http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
-*   https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
-*   https://www.facebook.com/Engineering/posts/10152495827632200
+* https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
+* http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
+* https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
+* https://www.facebook.com/Engineering/posts/10152495827632200
 
 https://s3.amazonaws.com/OM-SHARE/cia-ath.pdf
 -->
@@ -6433,11 +6423,8 @@ Dev-Ops Wiki and Free for Dev
 * [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
 * [Awesome Vim](http://vimawesome.com)
 
-<!--
-https://github.com/watson/awesome-computer-history
--->
-
 Awesome Non-Code
+* [Awesome Computer History GitHub](https://github.com/watson/awesome-computer-history) 
 * [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
 * [Awesome A11Y GitHub](https://github.com/brunopulis/awesome-a11y)
 * [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
