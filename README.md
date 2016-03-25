@@ -4080,11 +4080,11 @@ Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
 * [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
+* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
 
 <!--
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
-* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 -->
 
