@@ -3250,6 +3250,11 @@ Apple- More
 Mac Update
 * [Mac Update](http://www.macupdate.com)
 
+<!--
+http://www.apple.com/recycling
+https://support.apple.com/en-us/HT201541
+-->
+
 #### Development Environment and Programming
 
 #### Computer Basics
@@ -4338,6 +4343,8 @@ http://www.learnenough.com/git-tutorial#sec-getting_started
 https://www.python.org/community/workshops/
 
 https://2016.djangocon.us/blog/2016/03/18/what-difference-year-makes
+
+http://scipy2016.scipy.org
 -->
 
 #### Python and Django Girls
@@ -6378,6 +6385,10 @@ Dev-Ops Wiki and Free for Dev
 * [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
 * [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
 * [Awesome Vim](http://vimawesome.com)
+
+<!--
+https://github.com/watson/awesome-computer-history
+-->
 
 Awesome Non-Code
 * [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
