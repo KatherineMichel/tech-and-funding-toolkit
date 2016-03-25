@@ -3506,10 +3506,13 @@ https://github.com/jlord/git-it
 
 http://nvie.com/posts/a-successful-git-branching-model
 
+https://help.github.com/articles/helping-people-contribute-to-your-project/
+
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2046-github-desktop-is-now-available
 https://github.com/blog/2097-improved-commenting-with-markdown
 https://help.github.com/articles/creating-a-pull-request
+https://github.com/blog/957-introducing-issue-mentions
 https://github.com/blog/2111-issue-and-pull-request-templates
 https://help.github.com/articles/adding-a-file-to-a-repository
 https://help.github.com/articles/adding-a-remote
@@ -4245,6 +4248,13 @@ Assistance
 <!--
 https://github.com/PyCon/pycon
 
+https://groups.google.com/forum/#!msg/django-users/-iTZB7K1QI4/TTVXd9Y6EwAJ
+https://groups.google.com/forum/#!topic/djangocon-organizers/-I4dLxPYXM8
+https://groups.google.com/forum/#!topic/djangocon-organizers/whBrRrNnxQA
+
+https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8
+
+https://2016.djangocon.us/speaking
 https://2016.djangocon.us/financialaid
 
 https://2016.djangocon.eu/team/
@@ -4256,10 +4266,6 @@ https://2016.djangocon.eu/faq
 
 https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
 https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
-
-https://groups.google.com/forum/#!msg/django-users/-iTZB7K1QI4/TTVXd9Y6EwAJ
-https://groups.google.com/forum/#!topic/djangocon-organizers/-I4dLxPYXM8
-https://groups.google.com/forum/#!topic/djangocon-organizers/whBrRrNnxQA
 
 https://www.djangocon.us/sprints/
 https://2015.djangocon.us/blog/2015/05/08/announcing-our-call-reviewers/
@@ -4515,6 +4521,12 @@ https://github.com/amontalenti/elements-of-python-style
 
 https://github.com/python/community-starter-kit
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
+
+
+
+https://pypi.python.org/pypi/cookiecutter/1.4.0
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+https://github.com/andrewgodwin/channels-examples
 -->
 
 #### Python and Django Packages and Snippets
