@@ -4523,8 +4523,6 @@ https://github.com/python/community-starter-kit
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
 
 
-
-https://pypi.python.org/pypi/cookiecutter/1.4.0
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 https://github.com/andrewgodwin/channels-examples
 -->
@@ -4546,6 +4544,12 @@ Python and Django- Creating Packages
 * [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
 * [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
+
+<!--
+https://pypi.python.org/pypi/cookiecutter/1.4.0
+http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-heroku.html
+http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html
+-->
 
 Python- Django- Packages and Snippets
 * [Django Packages](https://www.djangopackages.com)
