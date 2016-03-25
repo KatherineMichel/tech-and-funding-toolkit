@@ -56,10 +56,10 @@ Table of Contents
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   * [Pretotyping](#pretotyping)
   * [Prototyping](#prototyping)
+* [Design Thinking](#design-thinking)
 * [Social Media and Social Graph](#social-media-and-social-graph) 
 * [Testing and Performance](#testing-and-performance)
 * [Web Dev and Design](#web-dev-and-design)
-* [Design Thinking](#design-thinking)
 * [Design Agency Playbooks](#design-agency-playbooks)
 * [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
 * [Labs](#labs)
@@ -2224,11 +2224,61 @@ Miscellaneous
 * [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
+#### Design Thinking
+
+Design- General
+* [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
+* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+* [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
+* [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
+* [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
+
+Responsive Design
+* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+* [Responsive Design Examples](http://mediaqueri.es)  
+
+Design Publications
+* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+* [Smashing Magazine](http://www.smashingmagazine.com) 
+* [Tympanus](http://tympanus.net)
+* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
+ 
+Portfolio and Community Websites
+* [Behance](https://www.behance.net)  
+* [Dribbble](https://dribbble.com)  
+* [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
+* [Zurb Tavern](http://zurb.com/tavern) 
+
+Flickr
+* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+KPCB and John Maeda Design in Tech Report
+* [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
+* [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+#### Design Agency Playbooks
+
 Salesforce Lightning Design System
 * [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
 
 HubSpot
 * [HubSpot](http://github.hubspot.com) and [HubSpot GitHub](https://github.com/HubSpot)
+
+IBM Design Language
+* [IBM Design Language](http://www.ibm.com/design/language)
+
+Watson Design Guide
+* [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
 #### Social Media and Social Graph
 
@@ -2440,56 +2490,6 @@ https://developers.google.com/web/updates/2016/02/es2015-proxies
 https://www.google.com/design/spec/components/bottom-navigation.html#bottom-navigation-specs
 https://support.google.com/analytics/answer/1638635?hl=en
 -->
-
-#### Design Thinking
-
-Design- General
-* [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
-* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
-* [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
-* [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
-* [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
-
-Responsive Design
-* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-* [Responsive Design Examples](http://mediaqueri.es)  
-
-IBM Design Language
-* [IBM Design Language](http://www.ibm.com/design/language)
-
-Watson Design Guide
-* [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
-
-Design Publications
-* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-* [Smashing Magazine](http://www.smashingmagazine.com) 
-* [Tympanus](http://tympanus.net)
-* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
-* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
- 
-Portfolio and Community Websites
-* [Behance](https://www.behance.net)  
-* [Dribbble](https://dribbble.com)  
-* [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-* [Zurb Tavern](http://zurb.com/tavern) 
-
-Flickr
-* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-KPCB and John Maeda Design in Tech Report
-* [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
-* [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
-#### Design Agency Playbooks
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
 #### Engineering Blogs and Designer, Developer Conferences
 
@@ -4085,10 +4085,11 @@ Facebook- React (JavaScript)
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
 * [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
-
-* [Facebook Relay GitHub](https://github.com/facebook/relay)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 -->
+
+React Relay (React Stack)
+* [Facebook Relay GitHub](https://github.com/facebook/relay)
 
 React Bootstrap (React Stack)
 * [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
@@ -4121,12 +4122,17 @@ Angular (React Stack)
 Flux (React Stack)
 * [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
 
+Redux (React Stack)
+* [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
+
 Gulp (React Stack)
 * [Gulp GitHub](https://github.com/gulpjs/gulp) 
 
 Other React Stack Helpers
+* Polymer
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
 * [Hapi](http://hapijs.com)
+* [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
 
 <!--
@@ -4142,14 +4148,7 @@ https://github.com/es5/es5.github.io
 https://github.com/nodejs/node-eps/pull/3
 https://github.com/nodejs/node-eps
 
-https://jwt.io
-https://tools.ietf.org/html/rfc7519
-
-https://github.com/reactjs/redux
-* [Redux GitHub](https://github.com/rackt/redux)
 http://redux.js.org/docs/basics/Reducers.html
-
-* polymer
 -->
 
 Node.js
