@@ -94,10 +94,10 @@ Table of Contents
   * [Programming Language Style Guides](#programming-language-style-guides) 
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
+  * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
   * [Python and Django Contributing](#python-and-django-contributing)
-  * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Deployment](#python-and-django-deployment)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Useful Tools](#python-and-django-useful-tools)
@@ -4167,6 +4167,29 @@ Python- Mobile
 * [VOC Read the Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
 * Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
 
+#### Python and Django Packages and Snippets
+
+Python- Packages/Libraries
+* [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
+* [Python Packaging Authority GitHub](https://github.com/pypa)  
+* [Python Package Warehouse](https://warehouse.python.org/project) 
+* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
+* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
+* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
+* [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
+* [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
+
+Python and Django- Creating Packages
+* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
+* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
+* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
+* [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
+
+Python- Django- Packages and Snippets
+* [Django Packages](https://www.djangopackages.com)
+* [Django Snippets](https://djangosnippets.org) 
+
 #### Python and Django Conferences and Mentors 
 
 Python- Users and Members
@@ -4494,34 +4517,6 @@ https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L7
 https://github.com/andrewgodwin/channels-examples
 -->
 
-#### Python and Django Packages and Snippets
-
-Python- Packages/Libraries
-* [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
-* [Python Packaging Authority GitHub](https://github.com/pypa)  
-* [PyPi Python Package Index Wikipedia](https://pypi.python.org/pypi)  
-* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-* [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
-* [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
-
-Python and Django- Creating Packages
-* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
-* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
-
-<!--
-https://pypi.python.org/pypi/cookiecutter/1.4.0
-http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-heroku.html
-http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html
--->
-
-Python- Django- Packages and Snippets
-* [Django Packages](https://www.djangopackages.com)
-* [Django Snippets](https://djangosnippets.org) 
-
 #### Python and Django Deployment
 
 Python- Django- Git and Deployment
@@ -4544,12 +4539,9 @@ Python- Heroku
 * [Heroku Python Category](https://devcenter.heroku.com/categories/python) 
 * [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
 * [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
-* [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python-o)  
+* [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)  
 * [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
 * [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
-
-Python- Django- AWS Elastic Beanstalk Deployment
-* [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
 
 Python- Django- Heroku Deployment
 * [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template)  
@@ -4561,6 +4553,9 @@ Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 * [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
 * [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
 * [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
+
+Python- Django- AWS Elastic Beanstalk Deployment
+* [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
 
 Python- Django- Digital Ocean Deployment
 * [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
@@ -4588,6 +4583,7 @@ Python- Fabric
 
 Python- Django- Static File Serving
 * [Whitenoise GitHub](https://github.com/evansd/whitenoise) 
+* [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
 
 CGI and WSGI (Web Server API)
 * [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
@@ -4606,7 +4602,7 @@ More WSGI (See also Apache)
 * [uWsgi GitHub](https://github.com/unbit/uwsgi)
 
 Gunicorn (Python WSGI HTTP Server for UNIX)
-* [Gunicorn](http://gunicorn.org)  
+* [Gunicorn](http://gunicorn.org), [Gunicorn Python Warehouse](https://warehouse.python.org/project/gunicorn)  
 * [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
 
 Waitress (Production-Quality Pure-Python WSGI Server)
@@ -4644,8 +4640,11 @@ Python- Django- Pinax
 * [Pinax](http://pinaxproject.com) 
 
 Python- Django- Cookiecutter (See also Packages)
+* [Cookiecutter Django PyPi](https://pypi.python.org/pypi/cookiecutter)
 * [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
 * [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
+* [Cookiecutter Django Deployment on Heroku](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-heroku.html)
+* [Cookiecutter Django Deployment with Docker](http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html)
 
 #### Python and Django Useful Tools
 
@@ -4681,9 +4680,9 @@ Python- Django- Rest Framework GIS
 
 Python- Django- Records, Requests, DJ Static, DJ Database URL
 * [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Requests](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+* [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 * [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url) and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
 
 Python- Python/Django- Internationalization and Localization, Translation
 * [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
@@ -4691,7 +4690,7 @@ Python- Python/Django- Internationalization and Localization, Translation
 * [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
 * [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
 * [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPa](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
 * [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
 * [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
 
@@ -6205,7 +6204,7 @@ Python- Statistics Stack- MatPlotLib Reference
 * [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
 * [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html )  
 * [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
-* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits)](https://pypi.python.org/pypi/xlwt)  
+* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits) PyPi](https://pypi.python.org/pypi/xlwt)  
 
 <!--
 http://matplotlib.org/index.html Resources 
@@ -6238,7 +6237,7 @@ Python- Statistics Stack- SymPy (Symbolic Mathematics)
 
 Python- Statistics Stack- StatsModel
 * [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
-* [StatsModel Main Features](https://pypi.python.org/pypi/statsmodels)  
+* [StatsModel Main Features PyPi](https://pypi.python.org/pypi/statsmodels)  
 * [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
 * [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
 * [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
