@@ -91,7 +91,7 @@ Table of Contents
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Languages, MVCs](#programming-languages-mvcs)
   * [Programming Language Style Guides](#programming-language-style-guides) 
-* [Facebook and Google Design Approach](#facebook-and-google-design-approach)
+* [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
 * [React, Node.js and Related](#react-nodejs-and-related)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
@@ -4045,7 +4045,7 @@ Objective C Styleguide GitHub
 Swift Styleguide GitHub
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
-#### Facebook and Google Design Approach
+#### Facebook and Google Design and Development Approaches
 
 Facebook
 * [Facebook Design](http://facebook.github.io/design) 
