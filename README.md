@@ -5363,6 +5363,9 @@ Puppet Labs
 * [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
 * [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
+Sentry
+* [Sentry](https://getsentry.com/welcome)
+
 #### More Back-end
 
 Redis, Resque
