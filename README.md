@@ -92,6 +92,7 @@ Table of Contents
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Languages, MVCs](#programming-languages-mvcs)
   * [Programming Language Style Guides](#programming-language-style-guides) 
+* [React, Node.js and Related](#react-nodejs-and-related)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
@@ -108,7 +109,6 @@ Table of Contents
 * [Servers and Databases](#servers-and-databases)
 * [SQL](#sql)  
 * [More Back-End](#more-back-end)
-* [React, Node.js and Related](#react-nodejs-and-related)
 * [Mobile](#mobile)
   * [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 * [Data Science](#data-science)
@@ -4074,6 +4074,226 @@ Objective C Styleguide GitHub
 Swift Styleguide GitHub
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
+#### React, Node.js and Related
+
+Facebook- React (JavaScript)
+* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+* [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
+* [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
+
+<!--
+* [React How-To GitHub](https://github.com/petehunt/react-howto)
+* [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
+* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
+
+* [Facebook Relay GitHub](https://github.com/facebook/relay)
+* [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
+-->
+
+React Bootstrap (React Stack)
+* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
+
+React-Router (React Stack)
+* [React-Router GitHub](https://github.com/reactjs/react-router)
+
+Facebook- React Native (React Stack)
+* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+
+Ionic Framework (React Stack)
+* [Ionic](http://ionicframework.com)
+
+Webpack (React Stack)
+* [Webpack GitHub](https://github.com/webpack/webpack)
+* [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
+
+Babel (React Stack)
+* [Babel GitHub](https://github.com/babel/babel)
+
+Express (React Stack)
+* [Express (based on Sinatra)](http://expressjs.com)  
+* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
+
+Angular (React Stack)
+* [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
+* [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
+* [Angular Protractor GitHub](https://github.com/angular/protractor)
+
+Flux (React Stack)
+* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
+
+Gulp (React Stack)
+* [Gulp GitHub](https://github.com/gulpjs/gulp) 
+
+Other React Stack Helpers
+* [Facebook Immutable](https://facebook.github.io/immutable-js)
+* [Hapi](http://hapijs.com)
+* [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
+
+<!--
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+https://nodejs.org/en/docs/es6
+
+https://es5.github.io
+https://github.com/es5/es5.github.io
+
+https://github.com/nodejs/node-eps/pull/3
+https://github.com/nodejs/node-eps
+
+https://jwt.io
+https://tools.ietf.org/html/rfc7519
+
+https://github.com/reactjs/redux
+* [Redux GitHub](https://github.com/rackt/redux)
+http://redux.js.org/docs/basics/Reducers.html
+
+Facebook- React Stack
+* polymer
+-->
+
+Node.js
+* [Node.js](http://nodejs.org)  
+* [Node.js Docs/API](http://nodejs.org/api/)  
+* [Node.js Design](https://www.joyent.com/developers/node/design)  
+* [Nodejsmodules.org](https://nodejsmodules.org)  
+* [NPM Package Search](https://www.npmjs.org)  
+* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
+* [NPM GitHub](https://github.com/npm/npm)  
+* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
+* [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
+* [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
+* [JSDOM GitHub](https://github.com/tmpvar/jsdom)  
+* [Node Webkit GitHub](https://github.com/rogerwang/node-webkit Node Webkit)  
+* [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
+* [Node Beginner](http://www.nodebeginner.org)  
+
+Node.js Launch and Ryan Dahl
+* [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
+* [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
+* [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history)  
+
+Heroku- Node.js
+* [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
+* [Heroku App.json GitHub](https://github.com/heroku/app.json)  
+* [Heroku Getting Started with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)  
+* [Heroku Node.js Getting Started GitHub](https://github.com/heroku/node-js-getting-started)  
+* [Heroku Node.js Sample GitHub](https://github.com/heroku/node-js-sample)  
+
+Google Cloud- Node.js
+* [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
+
+Node Add-ons
+* [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
+* [Nodemon GitHub](https://github.com/remy/nodemon)  
+* [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
+* [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
+
+MVCs General, Backbone, Ember
+* [Todo MVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc)  
+* [Backbone](http://backbonejs.org)  
+* [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
+* [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
+* [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
+* [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
+
+Yo/Yeoman, Bower, Grunt
+* [Yo GitHub](https://github.com/yeoman/yo)  
+* [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
+* [Yeoman Bootstrap Generator GitHub](https://github.com/yeoman/generator-bootstrap)  
+* [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-node)  
+* [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-angular)  
+* [Yeoman Backbone Generator GitHub](https://github.com/yeoman/generator-backbone)  
+* [Yeoman Ember Generator GitHub](https://github.com/yeoman/generator-ember)  
+* [Yeoman Webapp Generator GitHub](https://github.com/yeoman/generator-webapp)  
+* [Yeoman Gulp Webapp Generator GitHub](https://github.com/yeoman/generator-gulp-webapp)  
+* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io)  
+* [Bower Package Search GitHub](http://bower.io/search)  
+* [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com)  
+
+Compilation Resources (See also Gulp)
+* [Compass GitHub](https://github.com/chriseppstein/compass)  
+* [Less GitHub](https://github.com/less/less.js)  
+* [Sass (Syntactically Awesome Style Sheets) GitHub](https://github.com/nex3/sass)  
+* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
+
+Extension Languages
+* [Jade](http://jade-lang.com)  
+* [Jade GitHub](https://github.com/visionmedia/jade)  
+* [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
+* [HTML to Jade Converter](http://html2jade.aaron-powell.com)  
+* [Bootstrap Jade GitHub](https://github.com/SeraphimSerapis/Bootstrap-for-Jade)  
+* [Bootstrap for Jade (Node, Express, Grunt) GitHub](https://github.com/ALT-F1/bootstrap3-jade-node-express-grunt)  
+* [Handlebars GitHub](https://github.com/wycats/handlebars.js)  
+* [Mustache GitHub](https://github.com/janl/mustache.js)  
+* [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
+* [Underscore](http://underscorejs.org)  
+* [Underscore GitHub](https://github.com/jashkenas/underscore)  
+
+ElasticSearch
+* [ElasticSearch](http://www.elasticsearch.org)  
+* [ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch)  
+* [ElasticSearch Rails GitHub](https://github.com/elasticsearch/elasticsearch-rails )  
+* [ElasticSearch Ruby GitHub](https://github.com/elasticsearch/elasticsearch-ruby)  
+
+RabbitMQ
+* [RabbitMQ Server GitHub](https://github.com/rabbitmq/rabbitmq-server)  
+* [RabbitMQ Tutorials GitHub](https://github.com/rabbitmq/rabbitmq-tutorials)  
+* [RabbitMQ ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-rabbitmq)  
+
+MEAN (Mongoose, Express, Angular, Node)
+* [MEAN](http://mean.io)  
+* [MEAN Wikipedia](http://en.wikipedia.org/wiki/MEAN)  
+ 
+MongoDB (Document-based)
+* [MongoDB](http://www.mongodb.org)  
+* [MongoDB GitHub](https://github.com/mongodb/mongo)  
+* [MongoDB Wikipedia](http://en.wikipedia.org/wiki/MongoDB)  
+* [BSON](http://bsonspec.org)  
+* [MongoDB BSON Wikipedia](http://en.wikipedia.org/wiki/BSON)  
+* [MongoDB Docs](http://docs.mongodb.org/manual)  
+* [MongoDB Docs GitHub](https://github.com/mongodb/docs)  
+* [MongoLab (Database-aaS)](http://www.mongolab.com)  
+* [MongoDB ElasticSearch GitHub](https://github.com/richardwilly98/elasticsearch-river-mongodb)  
+
+MongoDB- Drivers and Natives
+* [MongoDB Ruby Driver GitHub](https://github.com/mongodb/mongo-ruby-driver)  
+* [MongoDB Java Driver GitHub](https://github.com/mongodb/mongo-java-driver )  
+* [MongoDB Driver Examples GitHub](https://github.com/mongolab/mongodb-driver-examples)  
+* [Node MongoDB Native GitHub](https://github.com/mongodb/node-mongodb-native)  
+* [Node MongoDB Native GitHub](https://github.com/christkv/node-mongodb-native)  
+
+Mongoose, Mongoid, Moped, Mongomapper
+* [Mongoose.js](http://mongoosejs.com)  
+* [Mongoose (Example Website) GitHub](https://github.com/LearnBoost/mongoose)  
+* [Mongoose Elastic GitHub](https://github.com/Waidd/elasticmongoose)  
+* [Mongoose Express Node GitHub](https://github.com/madhums/node-express-mongoose)  
+* [Mongoosastic (Example Blog) GitHub](https://github.com/jamescarr/mongoosastic)  
+* [Mongoid GitHub](https://github.com/mongoid/mongoid)  
+* [Mongoid ElasticSearch GitHub](https://github.com/rs-pro/mongoid-elasticsearch)  
+* [Moped GitHub](https://github.com/mongoid/moped)  
+* [Mongomapper GitHub](https://github.com/mongomapper/mongomapper)  
+
+V8 JavaScript Engine
+* [V8 GitHub](https://github.com/v8/v8) and [V8 JavaScript Engine Wikipedia](http://en.wikipedia.org/wiki/V8_(JavaScript_engine))  
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Node Forks
+* [IO.js GitHub](https://github.com/iojs/io.js)  
+* [JXCore](http://jxcore.com/home) 
+
+Other JavaScript Helpers
+* [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
+* [Lodash GitHub](https://github.com/lodash/lodash)
+* [Underscore GitHub](https://github.com/jashkenas/underscore)
+* [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
+
+JavaScript Presentations Frameworks
+* [Slides.com (reveal.js)](https://slides.com)
+* [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
+* [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
+
 #### Python and Django Toolkit
 
 #### Python and Django General
@@ -5428,228 +5648,6 @@ Typeahead and Awesomeplete
 
 SAP
 * [SAP](http://go.sap.com/index.html)
-
-#### React, Node.js and Related
-
-Facebook- React (JavaScript)
-* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
-* [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
-* [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
-
-<!--
-* [React How-To GitHub](https://github.com/petehunt/react-howto)
-* [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
-* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
-
-* [Facebook Relay GitHub](https://github.com/facebook/relay)
-* [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
--->
-
-React Bootstrap (React Stack)
-* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
-
-React-Router (React Stack)
-* [React-Router GitHub](https://github.com/reactjs/react-router)
-
-Facebook- React Native (React Stack)
-* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-
-Ionic Framework (React Stack)
-* [Ionic](http://ionicframework.com)
-
-Webpack (React Stack)
-* [Webpack GitHub](https://github.com/webpack/webpack)
-* [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
-
-Babel (React Stack)
-* [Babel GitHub](https://github.com/babel/babel)
-
-Express (React Stack)
-* [Express (based on Sinatra)](http://expressjs.com)  
-* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
-
-Angular (React Stack)
-* [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
-* [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
-* [Angular Protractor GitHub](https://github.com/angular/protractor)
-
-Flux (React Stack)
-* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
-
-Gulp (React Stack)
-* [Gulp GitHub](https://github.com/gulpjs/gulp) 
-
-Other React Stack Helpers
-* [Facebook Immutable](https://facebook.github.io/immutable-js)
-* [Hapi](http://hapijs.com)
-* [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
-
-<!--
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-https://nodejs.org/en/docs/es6
-
-https://es5.github.io
-https://github.com/es5/es5.github.io
-
-https://github.com/nodejs/node-eps/pull/3
-https://github.com/nodejs/node-eps
-
-https://jwt.io
-https://tools.ietf.org/html/rfc7519
-
-https://github.com/reactjs/redux
-* [Redux GitHub](https://github.com/rackt/redux)
-http://redux.js.org/docs/basics/Reducers.html
-
-Facebook- React Stack
-* jwt
-* redux
-* polymer
--->
-
-Node.js
-* [Node.js](http://nodejs.org)  
-* [Node.js Docs/API](http://nodejs.org/api/)  
-* [Node.js Design](https://www.joyent.com/developers/node/design)  
-* [Nodejsmodules.org](https://nodejsmodules.org)  
-* [NPM Package Search](https://www.npmjs.org)  
-* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
-* [NPM GitHub](https://github.com/npm/npm)  
-* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
-* [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
-* [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
-* [JSDOM GitHub](https://github.com/tmpvar/jsdom)  
-* [Node Webkit GitHub](https://github.com/rogerwang/node-webkit Node Webkit)  
-* [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
-* [Node Beginner](http://www.nodebeginner.org)  
-
-Node.js Launch and Ryan Dahl
-* [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
-* [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
-* [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history)  
-
-Heroku- Node.js
-* [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
-* [Heroku App.json GitHub](https://github.com/heroku/app.json)  
-* [Heroku Getting Started with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)  
-* [Heroku Node.js Getting Started GitHub](https://github.com/heroku/node-js-getting-started)  
-* [Heroku Node.js Sample GitHub](https://github.com/heroku/node-js-sample)  
-
-Google Cloud- Node.js
-* [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
-
-Node Add-ons
-* [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
-* [Nodemon GitHub](https://github.com/remy/nodemon)  
-* [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
-* [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
-
-MVCs General, Backbone, Ember
-* [Todo MVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc)  
-* [Backbone](http://backbonejs.org)  
-* [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
-* [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
-* [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
-* [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
-
-Yo/Yeoman, Bower, Grunt
-* [Yo GitHub](https://github.com/yeoman/yo)  
-* [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
-* [Yeoman Bootstrap Generator GitHub](https://github.com/yeoman/generator-bootstrap)  
-* [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-node)  
-* [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-angular)  
-* [Yeoman Backbone Generator GitHub](https://github.com/yeoman/generator-backbone)  
-* [Yeoman Ember Generator GitHub](https://github.com/yeoman/generator-ember)  
-* [Yeoman Webapp Generator GitHub](https://github.com/yeoman/generator-webapp)  
-* [Yeoman Gulp Webapp Generator GitHub](https://github.com/yeoman/generator-gulp-webapp)  
-* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io)  
-* [Bower Package Search GitHub](http://bower.io/search)  
-* [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com)  
-
-Compilation Resources (See also Gulp)
-* [Compass GitHub](https://github.com/chriseppstein/compass)  
-* [Less GitHub](https://github.com/less/less.js)  
-* [Sass (Syntactically Awesome Style Sheets) GitHub](https://github.com/nex3/sass)  
-* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
-
-Extension Languages
-* [Jade](http://jade-lang.com)  
-* [Jade GitHub](https://github.com/visionmedia/jade)  
-* [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
-* [HTML to Jade Converter](http://html2jade.aaron-powell.com)  
-* [Bootstrap Jade GitHub](https://github.com/SeraphimSerapis/Bootstrap-for-Jade)  
-* [Bootstrap for Jade (Node, Express, Grunt) GitHub](https://github.com/ALT-F1/bootstrap3-jade-node-express-grunt)  
-* [Handlebars GitHub](https://github.com/wycats/handlebars.js)  
-* [Mustache GitHub](https://github.com/janl/mustache.js)  
-* [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
-* [Underscore](http://underscorejs.org)  
-* [Underscore GitHub](https://github.com/jashkenas/underscore)  
-
-ElasticSearch
-* [ElasticSearch](http://www.elasticsearch.org)  
-* [ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch)  
-* [ElasticSearch Rails GitHub](https://github.com/elasticsearch/elasticsearch-rails )  
-* [ElasticSearch Ruby GitHub](https://github.com/elasticsearch/elasticsearch-ruby)  
-
-RabbitMQ
-* [RabbitMQ Server GitHub](https://github.com/rabbitmq/rabbitmq-server)  
-* [RabbitMQ Tutorials GitHub](https://github.com/rabbitmq/rabbitmq-tutorials)  
-* [RabbitMQ ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-rabbitmq)  
-
-MEAN (Mongoose, Express, Angular, Node)
-* [MEAN](http://mean.io)  
-* [MEAN Wikipedia](http://en.wikipedia.org/wiki/MEAN)  
- 
-MongoDB (Document-based)
-* [MongoDB](http://www.mongodb.org)  
-* [MongoDB GitHub](https://github.com/mongodb/mongo)  
-* [MongoDB Wikipedia](http://en.wikipedia.org/wiki/MongoDB)  
-* [BSON](http://bsonspec.org)  
-* [MongoDB BSON Wikipedia](http://en.wikipedia.org/wiki/BSON)  
-* [MongoDB Docs](http://docs.mongodb.org/manual)  
-* [MongoDB Docs GitHub](https://github.com/mongodb/docs)  
-* [MongoLab (Database-aaS)](http://www.mongolab.com)  
-* [MongoDB ElasticSearch GitHub](https://github.com/richardwilly98/elasticsearch-river-mongodb)  
-
-MongoDB- Drivers and Natives
-* [MongoDB Ruby Driver GitHub](https://github.com/mongodb/mongo-ruby-driver)  
-* [MongoDB Java Driver GitHub](https://github.com/mongodb/mongo-java-driver )  
-* [MongoDB Driver Examples GitHub](https://github.com/mongolab/mongodb-driver-examples)  
-* [Node MongoDB Native GitHub](https://github.com/mongodb/node-mongodb-native)  
-* [Node MongoDB Native GitHub](https://github.com/christkv/node-mongodb-native)  
-
-Mongoose, Mongoid, Moped, Mongomapper
-* [Mongoose.js](http://mongoosejs.com)  
-* [Mongoose (Example Website) GitHub](https://github.com/LearnBoost/mongoose)  
-* [Mongoose Elastic GitHub](https://github.com/Waidd/elasticmongoose)  
-* [Mongoose Express Node GitHub](https://github.com/madhums/node-express-mongoose)  
-* [Mongoosastic (Example Blog) GitHub](https://github.com/jamescarr/mongoosastic)  
-* [Mongoid GitHub](https://github.com/mongoid/mongoid)  
-* [Mongoid ElasticSearch GitHub](https://github.com/rs-pro/mongoid-elasticsearch)  
-* [Moped GitHub](https://github.com/mongoid/moped)  
-* [Mongomapper GitHub](https://github.com/mongomapper/mongomapper)  
-
-V8 JavaScript Engine
-* [V8 GitHub](https://github.com/v8/v8) and [V8 JavaScript Engine Wikipedia](http://en.wikipedia.org/wiki/V8_(JavaScript_engine))  
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Node Forks
-* [IO.js GitHub](https://github.com/iojs/io.js)  
-* [JXCore](http://jxcore.com/home) 
-
-Other JavaScript Helpers
-* [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
-* [Lodash GitHub](https://github.com/lodash/lodash)
-* [Underscore GitHub](https://github.com/jashkenas/underscore)
-* [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
-
-JavaScript Presentations Frameworks
-* [Slides.com (reveal.js)](https://slides.com)
-* [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
-* [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
 
 #### Mobile
 
