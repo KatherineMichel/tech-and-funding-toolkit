@@ -2180,11 +2180,12 @@ Turn Key Websites
 Responsiveness- and Media Queries
 * [Media Queries Examples](http://mediaqueri.es)
 * [Bootstrap CSS](http://getbootstrap.com/css)
-* [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
 * [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 * [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
+* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
 
 Bootstrap, Font Awesome
 * [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
@@ -2414,6 +2415,10 @@ W3 Validators
 * [W3 HTML Validator](https://validator.w3.org/nu)
 * [W3 Mobile Validator](http://validator.w3.org/mobile)
 
+Accessibility
+* [WebAIM](http://webaim.org)
+* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+
 #### Web Dev and Design
 
 Web General
@@ -2432,9 +2437,11 @@ Web General
 
 W3Schools Tutorials
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+* [W3Schools CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+* [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
 
 HTML
 * [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
@@ -2442,6 +2449,7 @@ HTML
 * [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
 * [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
 
 CSS
 * [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
@@ -2459,12 +2467,6 @@ Example
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
-
-http://webaim.org/resources/contrastchecker/
-http://www.w3schools.com/css/css_boxmodel.asp
-http://www.w3schools.com/js/js_statements.asp
 http://www.w3schools.com/xml/xml_whatis.asp
 
 http://www.w3schools.com/charsets/
@@ -2479,26 +2481,22 @@ https://www.w3.org/standards/
 http://www.w3.org/TR/CSS21/cover.html#minitoc
 [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
-https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
-https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en
-
-https://developer.mozilla.org/en-US/docs/web/html/element" target="_blank">Mozilla Developer HTML Elements</a><br>
-[Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) 
-
-http://schema.org/Person
-
-http://microformats.org
-https://en.wikipedia.org/wiki/HCard
-http://microformats.org/wiki/hcard
-http://microformats.org/code/hcard/creator
-
 http://whatwg.github.io/loader
-https://twitter.com/kentcdodds/status/710701170268831744
 https://developer.chrome.com/devtools/docs/tips-and-tricks
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 https://developers.google.com/web/updates/2016/02/es2015-proxies
 https://www.google.com/design/spec/components/bottom-navigation.html#bottom-navigation-specs
 https://support.google.com/analytics/answer/1638635?hl=en
+
+http://schema.org/Person
+http://microformats.org
+https://en.wikipedia.org/wiki/HCard
+http://microformats.org/wiki/hcard
+http://microformats.org/code/hcard/creator
+
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+
+https://twitter.com/kentcdodds/status/710701170268831744
 -->
 
 #### Engineering Blogs and Designer, Developer Conferences
@@ -2542,6 +2540,9 @@ Built With (Exluding Django)
 Code Search
 * [Search Code](https://searchcode.com)  
 * [Nerdy Data](http://nerdydata.com)  
+
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
 
 Company Design
 * [Medium Design](https://medium.com/designing-medium)  
