@@ -2447,6 +2447,7 @@ HTML
 * [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 * [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
 CSS
 * [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
@@ -2483,8 +2484,6 @@ Example
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
-W3 CSS Recommendations Table of Contents
-https://www.w3.org/standards
 http://www.w3.org/TR/CSS21/cover.html#minitoc
 [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
@@ -3821,6 +3820,7 @@ Documentation
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [The World Wide Web Consortium (W3C)](http://www.w3.org) and * [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
 
 GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software/software.html)  
