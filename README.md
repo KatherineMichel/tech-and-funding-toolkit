@@ -4398,13 +4398,14 @@ Python- Packages/Libraries
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
 Python and Django- Creating Packages
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
 * [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
 * [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
 * [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
-Python- Django- Packages and Snippets
+Python- Django- Packages and Snippets (Unofficial)
 * [Django Packages](https://www.djangopackages.com)
 * [Django Snippets](https://djangosnippets.org) 
 
