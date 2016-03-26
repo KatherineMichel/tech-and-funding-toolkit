@@ -2409,6 +2409,9 @@ Cookies
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
 * [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+W3 Validators
+* [W3 HTML Validator](https://validator.w3.org/nu)
 * [W3 Mobile Validator](http://validator.w3.org/mobile)
 
 #### Web Dev and Design
@@ -2427,21 +2430,18 @@ Web General
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+W3Schools Tutorials
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
 
 HTML
 * [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
 * [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML) and [W3Schools HTML Tutorial](http://www.w3schools.com/html)
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
 * [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-* [W3 HTML Validator](https://validator.w3.org/nu)
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 
 CSS
 * [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
@@ -2449,18 +2449,28 @@ CSS
 * [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
 Example
 * [Example Org](http://www.example.org)  
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+
 http://webaim.org/resources/contrastchecker/
 http://www.w3schools.com/css/css_boxmodel.asp
 http://www.w3schools.com/js/js_statements.asp
 http://www.w3schools.com/xml/xml_whatis.asp
+
 http://www.w3schools.com/charsets/
 http://www.w3schools.com/charsets/ref_utf_symbols.asp
 http://www.w3schools.com/charsets/ref_html_utf8.asp
+
 http://www.w3schools.com/tags/ref_charactersets.asp
 http://www.w3schools.com/tags/default.asp
 
@@ -3446,6 +3456,7 @@ GitHub- Main
 * [GitHub Help](https://help.github.com)  
 * [GitHub Training](http://training.github.com)  
 * [GitHub Blog](https://github.com/blog)  
+* [GitHub Guides](https://guides.github.com) 
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 * [Git Ignore GitHub](https://github.com/github/gitignore)  
