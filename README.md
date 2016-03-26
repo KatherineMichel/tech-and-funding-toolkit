@@ -2305,8 +2305,9 @@ Google Developers
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-Google Dev Tools
-* [Google Chrome DevTools](https://developers.google.com/chrome-developer-tools), [Google Chrome Dev](https://developers.google.com/chrome), and [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)  
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Chrome DevTools](https://developer.chrome.com/devtools), [Google Chrome DevTools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)
+* [Google Chrome Home](https://developers.google.com/chrome)
 * [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
 * [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
@@ -2483,15 +2484,13 @@ Example
 
 <!--
 W3 CSS Recommendations Table of Contents
-https://www.w3.org/standards/
+https://www.w3.org/standards
 http://www.w3.org/TR/CSS21/cover.html#minitoc
 [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
 http://whatwg.github.io/loader
-https://developer.chrome.com/devtools/docs/tips-and-tricks
+
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
-https://developers.google.com/web/updates/2016/02/es2015-proxies
-https://www.google.com/design/spec/components/bottom-navigation.html#bottom-navigation-specs
 https://support.google.com/analytics/answer/1638635?hl=en
 
 http://schema.org/Person
@@ -4149,6 +4148,7 @@ Other React Stack Helpers
 ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+https://developers.google.com/web/updates/2016/02/es2015-proxies
 
 https://nodejs.org/en/docs/es6
 
