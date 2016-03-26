@@ -4062,7 +4062,7 @@ Facebook
 Google
 * [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
 * [Google Roboto GitHub](https://github.com/google/roboto) 
-* [Google Design Resources](https://design.google.com/resources)  
+* [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
