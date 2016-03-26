@@ -4578,6 +4578,7 @@ Django Girls (Python- Django)
 * [Django Girls Organize](http://organize.djangogirls.org)  
 * [Django Girls Coach](http://coach.djangogirls.org)  
 * [Django Girls Resources](https://github.com/DjangoGirls/resources) 
+* [Django Girls Store](https://store.djangogirls.org)
 
 #### Python and Django Contributing
 
@@ -4607,6 +4608,7 @@ Python- PEP
 * [PEP Index](https://www.python.org/dev/peps)
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
+* [PEP 0008 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
 * [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
 * [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
