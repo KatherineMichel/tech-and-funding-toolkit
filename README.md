@@ -2453,8 +2453,27 @@ CSS
 * [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+
+Encoding
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
+URL and IRI
+* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
+
 XML, XHTML
 * [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
 * [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 
@@ -2463,15 +2482,6 @@ Example
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
-http://www.w3schools.com/xml/xml_whatis.asp
-
-http://www.w3schools.com/charsets/
-http://www.w3schools.com/charsets/ref_utf_symbols.asp
-http://www.w3schools.com/charsets/ref_html_utf8.asp
-
-http://www.w3schools.com/tags/ref_charactersets.asp
-http://www.w3schools.com/tags/default.asp
-
 W3 CSS Recommendations Table of Contents
 https://www.w3.org/standards/
 http://www.w3.org/TR/CSS21/cover.html#minitoc
@@ -3283,18 +3293,6 @@ Binary
 * [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
 * [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
 * [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-Encoding
-* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
-* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
-* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
-
-URL and IRI
-* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
-* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
 
 General Terms
 * [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
