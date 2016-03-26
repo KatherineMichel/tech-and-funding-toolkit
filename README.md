@@ -4727,8 +4727,9 @@ https://github.com/amontalenti/elements-of-python-style
 https://github.com/python/community-starter-kit
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
 
-
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
+* [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 -->
 
 #### Python and Django Deployment
