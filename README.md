@@ -2283,6 +2283,9 @@ Graph and Schema- General (See also Facebook Open Graph)
 * [Open Graph Protocol Schema](http://ogp.me) 
 * [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
 
+Microformats
+* [Microformats](http://microformats.org)
+
 Web Analytics
 * [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
