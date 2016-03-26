@@ -1257,27 +1257,23 @@ Ivy League Business and Tech
 * [Stanford News](http://news.stanford.edu)
 * [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
 
+<!--
 "Discovery Blogs" 
 * UCBerkley 
 * CMU
+-->
 
 STEM Journals 
-* [ACM Publications](https://www.acm.org/publications) and [Journal of the ACM](http://jacm.acm.org)
+* [ACM Publications](https://www.acm.org/publications), [ACM Digital Library](http://dl.acm.org), [Journal of the ACM](http://jacm.acm.org), and [ACM Queue](http://queue.acm.org)
 * [Computing Research Repository](http://arxiv.org/corr/home)
 * [Electrical Engineering Times](http://www.eetimes.com)
-* [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html)
+* [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html) and [IEEE Spectrum](http://spectrum.ieee.org)
 * [Materials Research Society](http://www.mrs.org/home)
+* [Nature (Sonal)](http://www.nature.com/index.html) and [Nature Archive](http://www.nature.com/ncomms/archive/date.html)
 * [New Scientist](https://www.newscientist.com)
 * [Public Library of Science](https://www.plos.org)
 * [Science News](https://www.sciencenews.org)
-* [Social Sciences Research Network](http://www.ssrn.com/en)
-
-<!--
-http://papers.ssrn.com
-http://spectrum.ieee.org
-http://queue.acm.org
-http://dl.acm.org
--->
+* [Social Sciences Research Network](http://www.ssrn.com/en) and [Social Sciences Research Network Search](http://papers.ssrn.com)
 
 Tech Aggregated, Question and Answer Forums
 * [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
