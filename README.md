@@ -4592,6 +4592,7 @@ Python- Django- Slack
 * [PyLadies](http://slackin.pyladies.com) and [PyLadies Remote](https://tlk.io/pyladiesremote)
 
 Python- PEP
+* [PEP Index](https://www.python.org/dev/peps)
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) 
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
