@@ -3893,6 +3893,8 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Ruby Guides](http://guides.rubyonrails.org) 
 * [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
 * [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
+* [Jekyll Templates](https://jekyllrb.com/docs/templates)
+* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
