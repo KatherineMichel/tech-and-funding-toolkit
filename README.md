@@ -3322,22 +3322,27 @@ Operating Systems
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
 
-Browser
+Web Browser
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+
+Web Browsers
 * [Google Chrome](http://www.google.com/chrome)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [DOM Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+
+Web Browser Engines(See also JavaScript)
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
 * [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 * [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
 * [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
 
-Keyboard Shortcuts
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+Brower Object Model (BOM) and Document Object Model (DOM)
+* [Brower Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 
 HTTP
 * [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
@@ -3354,6 +3359,10 @@ Hidden File and Hidden Directory
 
 Symbolic Link
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
+
+Keyboard Shortcuts
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 
 <!--
 https://github.com/letsencrypt/letsencrypt
