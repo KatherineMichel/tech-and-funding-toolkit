@@ -4021,19 +4021,19 @@ Wikitech Development
 
 #### Programming Language Style Guides
 
-Styleguides- General
+GitHub StyleGuides
+* [GitHub StyleGuides](https://github.com/styleguide) 
+
+Styleguides- Various
 * [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 * [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
 * [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-* [Styleguide GitHub](https://github.com/styleguide) 
 * [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
 * [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
 * [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-* [Google Styleguides GitHub](https://github.com/google/styleguide)
 * [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
 * [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
 * [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-* [MDO Code Guide GitHub](https://github.com/mdo/code-guide)  
 * [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
 * [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
 * [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
@@ -4042,19 +4042,27 @@ Styleguides- General
 * [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 * [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
 
-JavaScript Styleguide GitHub
+GitHub CSS Styleguide
+* [GitHub CSS Styleguide](http://primercss.io) 
+* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
+
+Google Styleguides
+* [Google Styleguides GitHub](https://github.com/google/styleguide)
+* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
+
+JavaScript Styleguide
 * [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
 
-Ruby Styleguide GitHub
+Ruby Styleguide
+* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
 * [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
-* [Ruby Styleguide GitHub](https://github.com/styleguide/ruby) 
 
-Objective C Styleguide GitHub
+Objective C Styleguide
 * [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
 * [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
 
-Swift Styleguide GitHub
+Swift Styleguide
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
 #### Facebook and Google Design and Development Approaches
