@@ -6068,6 +6068,9 @@ http://caffe.berkeleyvision.org
 https://github.com/BVLC/caffe
 
 https://github.com/Rochester-NRT/AlphaGo
+https://github.com/Rochester-NRT/AlphaGo.data
+
+http://googleresearch.blogspot.com/2016/03/machine-learning-in-cloud-with.html
 
 http://libccv.org
 https://github.com/liuliu/ccv Computer Vision library
