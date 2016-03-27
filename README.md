@@ -4154,14 +4154,19 @@ Flux (React Stack)
 Redux (React Stack)
 * [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
 
+Karma
+* [Karma ](https://karma-runner.github.io)
+
 Gulp (React Stack)
 * [Gulp GitHub](https://github.com/gulpjs/gulp) 
 
 Other React Stack Helpers
 * Polymer
+* [ESLint](http://eslint.org)
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
 * [Hapi](http://hapijs.com)
 * [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
+* [JSX](https://jsx.github.io)
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
 
 <!--
