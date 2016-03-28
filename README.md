@@ -2504,6 +2504,9 @@ Example
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
+https://www.w3.org/DOM/
+https://www.w3.org/TR/DOM-Level-3-Core/core.html
+
 https://developer.mozilla.org/en-US/Apps
 https://developer.mozilla.org/en-US/docs/Web/Reference
 https://developer.mozilla.org/en-US/docs/Web/Guide
@@ -3868,6 +3871,9 @@ Twitch Creative- Accounts
 * [Levelsio](http://www.twitch.tv/levelsio)
 
 <!--
+https://www.twitch.tv/team/twilio
+https://github.com/TwilioDevEd
+https://github.com/TwilioDevEd/appointment-reminders-django
 https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
 https://www.twilio.com/docs/api/video
 -->
@@ -3876,13 +3882,18 @@ Text Editor and Code Demonstration
 * [JSFiddle](http://jsfiddle.net)
 * [Codepen](http://codepen.io)
 
-Documentation
+Documentation- General
 * [IT eBooks](http://it-ebooks.info)
 * [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+
+Documentation- Mozilla
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+Documentation- W3C
 * [The World Wide Web Consortium (W3C)](http://www.w3.org) and * [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
 GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software/software.html)  
@@ -3976,6 +3987,22 @@ JavaScript
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Eloquent JS](http://eloquentjavascript.net)  
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+
+<!--
+https://en.wikipedia.org/wiki/JavaScript_syntax
+https://en.wikipedia.org/wiki/JavaScript_library
+https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
+https://en.wikipedia.org/wiki/JavaScript_engine
+https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript
+https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
+https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks
+https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
+https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
+https://en.wikipedia.org/wiki/JSON
+
+https://en.wikipedia.org/wiki/List_of_ECMAScript_engines
+https://en.wikipedia.org/wiki/ECMAScript#Implementations
+-->
 
 AJAX
 * [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
