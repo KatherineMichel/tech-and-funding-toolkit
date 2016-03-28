@@ -2412,8 +2412,9 @@ Cookies
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
 W3 Validators
-* [W3 HTML Validator](https://validator.w3.org/nu)
-* [W3 Mobile Validator](http://validator.w3.org/mobile)
+* [W3C HTML Validator](https://validator.w3.org/nu)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Mobile Validator](http://validator.w3.org/mobile)
 
 Accessibility
 * [WebAIM](http://webaim.org)
@@ -5828,7 +5829,7 @@ Standards
 * [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
 * [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
 * [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
-* [W3.org](http://www.w3.org/Mobile) 
+* [W3C Mobile](http://www.w3.org/Mobile) 
 * [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language)  
 
 Internet of Things (including payments)
