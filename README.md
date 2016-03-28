@@ -2443,6 +2443,23 @@ W3Schools Tutorials
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
 * [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
 
+<!--
+http://www.w3schools.com/html/html5_syntax.asp
+http://www.w3schools.com/js/js_htmldom.asp
+http://www.w3schools.com/jsref/obj_window.asp
+http://www.w3schools.com/cssref/default.asp
+http://www.w3schools.com/cssref/css_selectors.asp
+http://www.w3schools.com/cssref/css_functions.asp
+http://www.w3schools.com/cssref/css_colors.asp
+http://www.w3schools.com/cssref/css_colors_legal.asp
+http://www.w3schools.com/cssref/css3_browsersupport.asp
+
+http://www.w3schools.com/jsref/obj_window.asp
+
+http://www.w3schools.com/colors/colors_names.asp
+http://www.w3schools.com/html/html_css.asp
+-->
+
 HTML
 * [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
 * [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
@@ -3483,12 +3500,23 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 #### Git and Markdown
 
 Git
+* [Git Homepage](https://git-scm.com)
 * [Git GitHub](https://github.com/git/git)  
 * [Git GitHub](https://github.com/mojombo/git)  
 * [Git GitHub](https://github.com/xlymian/git)  
 * [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
 * [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
  
+Git Learning Resources
+* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+* [Git Book](http://www.git-scm.com/book/en)  
+* [Git Videos](http://www.git-scm.com/videos)  
+* [Git Downloads](http://git-scm.com/downloads)  
+* [Git Index](http://gitref.org/index.html)  
+* [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
+
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
 * [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
@@ -3502,8 +3530,6 @@ GitHub- Main
 * [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
 
 <!--
-https://guides.github.com
-
 https://try.github.io
 
 https://github.com/thank-you-github/thank-you-github
@@ -3618,16 +3644,6 @@ Markdown
 * [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
-
-Git Learning Resources
-* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-* [Git Book](http://www.git-scm.com/book/en)  
-* [Git Videos](http://www.git-scm.com/videos)  
-* [Git Downloads](http://git-scm.com/downloads)  
-* [Git Index](http://gitref.org/index.html)  
-* [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic)  
 
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org)  
@@ -5562,6 +5578,7 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Deis GitHub](https://github.com/deis/deis)  
 
 Google Cloud and App Engine
+* [Google Cloud](https://cloud.google.com) 
 * [Google Cloud Products](https://cloud.google.com/products)  
 * [Google Cloud Solutions](https://cloud.google.com/solutions)  
 * [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
