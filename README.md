@@ -2501,6 +2501,7 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://developer.mozilla.org/en-US/docs/DOM
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 https://developer.mozilla.org/en-US/docs/Web/API
 https://developer.mozilla.org/en-US/docs/Web/Guide/API
 https://developer.mozilla.org/en-US/docs/Web/Reference/API
