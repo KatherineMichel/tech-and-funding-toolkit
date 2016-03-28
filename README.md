@@ -2445,6 +2445,10 @@ W3Schools Tutorials
 * [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
 
 <!--
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+
 http://www.w3schools.com/html/html5_syntax.asp
 http://www.w3schools.com/js/js_htmldom.asp
 http://www.w3schools.com/jsref/obj_window.asp
@@ -4874,7 +4878,8 @@ Python- Heroku
 * [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
 
 Python- Django- Heroku Deployment
-* [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template)  
+* [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template) 
+* URL: http://appname.herokuapp.com
 * [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
 * [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
 * [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache)  
