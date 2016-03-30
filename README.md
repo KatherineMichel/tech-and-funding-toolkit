@@ -2492,6 +2492,7 @@ Encoding
 * [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
 * [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
 * [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
 * [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
 
 URL and IRI
