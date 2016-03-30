@@ -1214,7 +1214,7 @@ Think Tanks
 #### Business and Tech News Sources
 
 Business News
-* [Bloomberg Business](http://www.bloomberg.com) and [Bloomberg Live](http://www.bloomberg.com/live)
+* [Bloomberg (Business)](http://www.bloomberg.com) and [Bloomberg Live](http://www.bloomberg.com/live)
 * [BloombergView](http://www.bloombergview.com) and [BloombergView Tech](http://www.bloombergview.com/topics/tech)
 * [Business Insider](http://www.businessinsider.com)
 * [Economist](http://www.economist.com)
@@ -6465,7 +6465,7 @@ RapidMiner (Open Source) and IBM SPSS
 
 Import.io and Kimono Labs
 * [Import.io](https://import.io)
-* [Kimono Labs](https://www.kimonolabs.com)  
+* [Kimono Labs (Palantir)](https://www.kimonolabs.com)  
 
 Unstructured Data and Data Structures- General
 * [Unstructured Data Wikipedia](http://en.wikipedia.org/wiki/Unstructured_data)  
