@@ -5971,7 +5971,7 @@ Miscellaneous
 
 #### Video Gaming and Virtual Reality
 
-* [OculusVR Developer Download](https://developer.oculus.com/downloads) and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
+* [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
 * [Twitch TV](http://www.twitch.tv)
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
