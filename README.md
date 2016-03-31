@@ -3866,6 +3866,23 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
+<!--
+https://learnxinyminutes.com/docs/css/
+https://learnxinyminutes.com/docs/javascript/
+https://learnxinyminutes.com/docs/pythonstatcomp/
+https://learnxinyminutes.com/docs/ruby/
+https://learnxinyminutes.com/docs/ruby-ecosystem/
+https://learnxinyminutes.com/docs/it-it/ruby-ecosystem-it/
+https://learnxinyminutes.com/docs/php/
+https://learnxinyminutes.com/docs/csharp/
+https://learnxinyminutes.com/docs/swift/
+https://learnxinyminutes.com/docs/go/
+https://learnxinyminutes.com/docs/json/
+https://learnxinyminutes.com/docs/markdown/
+https://learnxinyminutes.com/docs/git/
+https://learnxinyminutes.com/docs/powershell/
+-->
+
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
 * [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
