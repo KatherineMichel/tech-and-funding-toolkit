@@ -3771,6 +3771,9 @@ Open Source Management, Codes of Conduct, Roadmaps
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
 * [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
 
+Open Source Hosting
+* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
 Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)
 
 Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
