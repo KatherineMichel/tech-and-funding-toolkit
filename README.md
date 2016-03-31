@@ -1442,7 +1442,7 @@ Microcredit/Microfinance
 
 Happiness
 * [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
-* [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
+* [World Happiness Report](http://worldhappiness.report) and [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
 
 International Info
 * [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
@@ -3552,6 +3552,8 @@ https://status.github.com/messages
 
 https://github.com/ajaxorg/ace
 
+https://help.github.com/categories/bootcamp/
+
 https://guides.github.com
 https://gist.github.com/starred
 https://github.com/github-archive
@@ -4084,6 +4086,18 @@ PHP
 * [Composer GitHub](https://github.com/composer/composer)  
 * [Symfony GitHub](https://github.com/symfony/symfony)  
 * [CakePHP GitHub](https://github.com/cakephp/cakephp)  
+
+<!--
+http://php.net/manual/en/
+http://php.net/manual/en/features.php
+http://php.net/manual/en/funcref.php
+http://php.net/manual/en/internals2.php
+http://php.net/manual/en/appendices.php
+
+http://php.net/manual/en/langref.php
+
+http://php.net/manual/en/install.macosx.bundled.php
+-->
 
 WampServer
 * [WampServer (PHP, Apache, MySQL) GitHub](http://www.wampserver.com/en)  
