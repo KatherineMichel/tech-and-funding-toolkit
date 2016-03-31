@@ -4495,6 +4495,7 @@ Python- Django- Major Organizations and Projects that Use Django (Excluding Temp
 * [Rdio GitHub](https://github.com/rdio)  
 * [Reddit GitHub](https://github.com/reddit)  
 * [StyleSeat GitHub](https://github.com/styleseat) 
+* [Wharton GitHub](https://github.com/wharton)
 
 Python- Mobile
 * [Kivy GitHub](https://github.com/kivy/kivy)
