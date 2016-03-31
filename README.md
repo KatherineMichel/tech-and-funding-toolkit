@@ -10,7 +10,7 @@ A :star::star::star::star::star: curated list of high quality resources (mostly 
 * [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
 * [Organizations on GitHub](https://github.com/KatherineMichel/organizations-on-github)
 
-Table of Contents
+Table of Content
 -----------------
 
 * [People](#people)
@@ -625,6 +625,10 @@ Databases and Benchmarking- Freemium
 * [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 * [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
+
+<!--
+https://www.producthunt.com/topics
+-->
 
 Europe and U.K.
 * [AngelList U.K.](https://angel.co/uk)
@@ -1875,6 +1879,11 @@ Project Management Software
 * [Slack Keyboard Shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
 * [Hamsterpad](https://hamsterpad.com)
 * [Trello](https://trello.com)
+
+<!--
+https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
+https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
+-->
 
 Agile Project Management Methodologies
 * [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
@@ -3908,6 +3917,8 @@ https://github.com/TwilioDevEd
 https://github.com/TwilioDevEd/appointment-reminders-django
 https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
 https://www.twilio.com/docs/api/video
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/flask#0
 -->
 
 Text Editor and Code Demonstration
@@ -4055,6 +4066,10 @@ Golang, otherwise known as "Go"
 * [Golang Talks](https://talks.golang.org)
 * [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
+
+<!--
+https://github.com/golang/go/wiki/GoUsers
+-->
 
 Golang Installation
 * [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
