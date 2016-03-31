@@ -4165,7 +4165,8 @@ JavaScript Styleguide
 
 Ruby Styleguide
 * [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
-* [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
 
 Objective C Styleguide
 * [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
