@@ -3992,7 +3992,7 @@ Ruby- Executable Specification
 * [Ruby Testing Tool](http://rspec.info)  
 
 Rails, Jekyll- Preferred Templates and Documents
-* [Ruby on Rails](http://rubyonrails.org)  
+* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
 * [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
 * [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
 * [Ruby Guides](http://guides.rubyonrails.org) 
@@ -4162,6 +4162,21 @@ Google Styleguides
 JavaScript Styleguide
 * [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
+PHP Styleguides
+
+<!--
+http://www.php-fig.org
+http://www.php-fig.org/psr/
+http://www.php-fig.org/psr/psr-2/
+https://github.com/php-fig/fig-standards/tree/master/accepted
+
+http://pear.php.net/manual/en/standards.php
+http://framework.zend.com/manual/1.12/en/coding-standard.html?utm_medium=affiliate
+https://ellislab.com/codeigniter/user-guide/general/styleguide.html
+https://www.codeigniter.com/user_guide/general/styleguide.html
+http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html
+-->
 
 Ruby Styleguide
 * [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
