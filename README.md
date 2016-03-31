@@ -3567,6 +3567,7 @@ https://help.github.com/articles/about-repository-graphs#traffic
 https://github.com/github/teach.github.com
 https://github.com/jlord/git-it
 
+https://github.com/nvie/gitflow
 http://nvie.com/posts/a-successful-git-branching-model
 
 https://help.github.com/articles/helping-people-contribute-to-your-project/
@@ -3584,6 +3585,9 @@ https://help.github.com/articles/removing-a-remote
 https://help.github.com/articles/syncing-a-fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork
 https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
+
+https://help.github.com/articles/about-github-mirrors/
+https://help.github.com/articles/duplicating-a-repository/
 
 https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 
@@ -5637,6 +5641,48 @@ Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure 
 * [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
 * [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
 * [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
+
+<!--
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
+https://aws.amazon.com/articles/Ruby
+http://aws.amazon.com/articles/Ruby/846
+
+https://aws.amazon.com/php/
+https://aws.amazon.com/articles/4261
+https://github.com/aws/aws-sdk-php
+
+https://github.com/aws/aws-sdk-ruby
+https://github.com/aws/aws-flow-ruby
+
+https://aws.amazon.com/sdk-for-node-js/
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
+https://aws.amazon.com/documentation/sdk-for-javascript/
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
+https://github.com/aws/aws-sdk-js
+
+https://www.digitalocean.com/features/one-click-apps/
+https://www.digitalocean.com/community/tutorials
+https://www.digitalocean.com/company/logos-and-badges/
+https://www.digitalocean.com/help/getting-started/setting-up-your-server/
+
+https://github.com/heroku/heroku-apps
+https://github.com/heroku/node-js-sample
+https://github.com/heroku/node-js-getting-started
+https://github.com/heroku/node-heroku-client
+https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
+https://github.com/heroku/heroku-buildpack-nodejs
+https://github.com/heroku/docker-nodejs
+https://github.com/heroku/docker-nodejs-hello-world
+
+https://github.com/heroku/heroku-buildpack-php
+https://github.com/heroku/php-getting-started
+https://github.com/heroku/docker-php
+
+https://github.com/heroku/heroku-buildpack-ruby
+https://github.com/heroku/ruby-getting-started
+https://github.com/heroku/docker-ruby
+-->
 
 Heroku- Buildpacks and Getting Started (Other than Python, ASP.NET, and Node.js)
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
