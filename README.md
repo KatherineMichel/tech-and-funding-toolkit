@@ -4290,7 +4290,7 @@ Redux (React Stack)
 * [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
 
 Karma
-* [Karma ](https://karma-runner.github.io)
+* [Karma](https://karma-runner.github.io)
 
 Gulp (React Stack)
 * [Gulp GitHub](https://github.com/gulpjs/gulp) 
