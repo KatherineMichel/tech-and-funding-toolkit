@@ -4185,6 +4185,11 @@ http://www.php-fig.org/psr/
 http://www.php-fig.org/psr/psr-2/
 https://github.com/php-fig/fig-standards/tree/master/accepted
 
+PSR-0: Autoloader Standard
+PSR-1: Basic Coding Standard
+PSR-2: Coding Style Guide
+PSR-3: Logger Interface
+
 http://pear.php.net/manual/en/standards.php
 http://framework.zend.com/manual/1.12/en/coding-standard.html?utm_medium=affiliate
 https://ellislab.com/codeigniter/user-guide/general/styleguide.html
