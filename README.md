@@ -4010,7 +4010,7 @@ JavaScript
 * [JavaScript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [Eloquent JS](http://eloquentjavascript.net)  
+* [Eloquent JavaScript](http://eloquentjavascript.net) and * [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
 <!--
