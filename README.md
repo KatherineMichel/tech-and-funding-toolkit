@@ -4010,7 +4010,7 @@ JavaScript
 * [JavaScript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [Eloquent JavaScript](http://eloquentjavascript.net) and * [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
 <!--
@@ -4020,8 +4020,6 @@ https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
 https://en.wikipedia.org/wiki/JavaScript_engine
 https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript
 https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
-https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks
-https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
 https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
 https://en.wikipedia.org/wiki/JSON
 
