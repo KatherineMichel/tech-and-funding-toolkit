@@ -4209,23 +4209,20 @@ JavaScript Styleguide
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
 
 PHP Styleguides
+* [PHP FIG](http://www.php-fig.org) and [PHP FIG Standards Recommendations](http://www.php-fig.org/psr)
+* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
+* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
+* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
+* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
+* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
 
 <!--
-http://www.php-fig.org
-http://www.php-fig.org/psr/
-http://www.php-fig.org/psr/psr-2/
 https://github.com/php-fig/fig-standards/tree/master/accepted
 
 PSR-0: Autoloader Standard
 PSR-1: Basic Coding Standard
 PSR-2: Coding Style Guide
 PSR-3: Logger Interface
-
-http://pear.php.net/manual/en/standards.php
-http://framework.zend.com/manual/1.12/en/coding-standard.html?utm_medium=affiliate
-https://ellislab.com/codeigniter/user-guide/general/styleguide.html
-https://www.codeigniter.com/user_guide/general/styleguide.html
-http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html
 -->
 
 Ruby Styleguide
@@ -5925,6 +5922,13 @@ Ansible (Automation and Configuration Management)
 * [Ansible GitHub](https://github.com/ansible/ansible)  
 * [Ansible Playbooks](http://docs.ansible.com/ansible/playbooks.html)
 * [Ansible AWS](http://www.ansible.com/aws)
+
+<!--
+http://docs.ansible.com/ansible/playbooks_intro.html
+http://docs.ansible.com/ansible/playbooks_checkmode.html
+http://docs.ansible.com/ansible/playbooks_roles.html
+https://github.com/ansible/ansible-examples
+-->
 
 Salt (Automation and Configuration Management)
 * [Salt GitHub](https://github.com/saltstack)
