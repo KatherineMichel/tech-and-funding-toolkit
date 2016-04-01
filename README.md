@@ -5615,11 +5615,28 @@ AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Referenc
 
 Amazon Web Services- Lambda (See also Google Cloud Functions)
 * [AWS Lambda](http://aws.amazon.com/lambda)  
+* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
 * [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 
 <!--
+http://aws.amazon.com/sns
+[AWS SES](http://aws.amazon.com/ses)  
+
+http://aws.amazon.com/documentation/gettingstarted/
+
+https://aws.amazon.com/mobile/
+http://aws.amazon.com/mobile/sdk
+https://aws.amazon.com/websites
+http://aws.amazon.com/websites/getting-started
+
+Web and Mobile Apps
+http://aws.amazon.com/web-mobile-social
+
+http://aws.amazon.com/documentation/s3/
+http://docs.aws.amazon.com/elasticbeanstalk
+
 https://www.amazon.com/gp/drive/landing/everything
 https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
 https://support.google.com/drive/answer/2375123
@@ -5653,21 +5670,9 @@ https://aws.amazon.com/architecture
 http://docs.aws.amazon.com/general/latest/gr/Welcome.html
 http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
 
-http://aws.amazon.com/documentation/gettingstarted/
-
-https://aws.amazon.com/mobile/
-http://aws.amazon.com/mobile/sdk
-https://aws.amazon.com/websites
-http://aws.amazon.com/websites/getting-started
-
 http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
 http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
-Hosting a Web App on Amazon Web Services
-http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
-http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
-http://aws.amazon.com/web-applications/gsg-webapps-linux
-http://aws.amazon.com/web-applications/gsg-webapps-windows
 
 https://aws.amazon.com/elasticbeanstalk/faqs
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
@@ -5680,10 +5685,11 @@ http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 
-http://aws.amazon.com/sns
-[AWS SES](http://aws.amazon.com/ses)  
-
-http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+Hosting a Web App on Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
+http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
+http://aws.amazon.com/web-applications/gsg-webapps-linux
+http://aws.amazon.com/web-applications/gsg-webapps-windows
 -->
 
 Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
