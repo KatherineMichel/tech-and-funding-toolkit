@@ -3260,9 +3260,6 @@ http://developersacademy.io/blog/
 * [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
 -->
 
-Apple- Heroku
-* [Heroku Toolbelt for Mac OS X](https://toolbelt.heroku.com)
-
 Virtual Box and Vagrant
 * [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
 
@@ -3309,6 +3306,13 @@ Mac Update
 <!--
 http://www.apple.com/recycling
 https://support.apple.com/en-us/HT201541
+
+https://developer.apple.com/app-store/review/guidelines/
+https://developer.apple.com/app-store/review/
+https://developer.apple.com/app-store/marketing/guidelines/
+https://developer.apple.com/app-store/review/rejections/
+
+https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
 
 #### Development Environment and Programming
@@ -5653,19 +5657,27 @@ Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure 
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
 * [Heroku GitHub](https://github.com/heroku/heroku)  
 * [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
+* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
 * [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
 * [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
 
 <!--
+https://aws.amazon.com/sdk-for-python
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+https://github.com/boto/boto3
+https://github.com/heroku/python-sample
+
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
 https://aws.amazon.com/articles/Ruby
+https://aws.amazon.com/ruby
 http://aws.amazon.com/articles/Ruby/846
 
 https://aws.amazon.com/php/
 https://aws.amazon.com/articles/4261
 https://github.com/aws/aws-sdk-php
 
+https://aws.amazon.com/sdk-for-ruby/
 https://github.com/aws/aws-sdk-ruby
 https://github.com/aws/aws-flow-ruby
 
@@ -5675,6 +5687,9 @@ https://aws.amazon.com/documentation/sdk-for-javascript/
 http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
 http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
 https://github.com/aws/aws-sdk-js
+
+https://aws.amazon.com/net
+https://github.com/aws/aws-sdk-net
 
 https://www.digitalocean.com/features/one-click-apps/
 https://www.digitalocean.com/community/tutorials
