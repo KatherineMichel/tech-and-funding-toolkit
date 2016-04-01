@@ -3851,6 +3851,9 @@ https://github.com/kentcdodds/ama/issues/93
 http://javascriptair.com
 
 http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+Pinax Hanouts
+https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
 -->
 
 Example Help Tweets
@@ -5695,6 +5698,9 @@ https://github.com/aws/aws-sdk-js
 
 https://aws.amazon.com/net
 https://github.com/aws/aws-sdk-net
+
+http://aws.amazon.com/sns
+[AWS SES](http://aws.amazon.com/ses)  
 
 https://www.digitalocean.com/features/one-click-apps/
 https://www.digitalocean.com/community/tutorials
