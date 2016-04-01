@@ -5713,6 +5713,17 @@ http://aws.amazon.com/websites/getting-started
 http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
 http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
+Hosting a Web App on Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
+http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
+http://aws.amazon.com/web-applications/gsg-webapps-linux
+http://aws.amazon.com/web-applications/gsg-webapps-windows
+
+https://aws.amazon.com/elasticbeanstalk/faqs
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
+
 https://aws.amazon.com/sdk-for-python
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
