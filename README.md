@@ -5821,8 +5821,6 @@ Node.js- Google Cloud
 * [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
 
 <!--
-https://devcenter.heroku.com/articles/getting-started-with-nodejs
-
 https://aws.amazon.com/documentation/sdk-for-javascript/
 https://github.com/aws/aws-sdk-js
 https://aws.amazon.com/sdk-for-node-js/
