@@ -6390,7 +6390,6 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
-https://github.com/tensorflow/tensorflow
 http://tensorflow.github.io/serving/setup
 https://www.tensorflow.org/versions/master/how_tos/image_retraining/index.html
 https://github.com/adatao/tensorspark
