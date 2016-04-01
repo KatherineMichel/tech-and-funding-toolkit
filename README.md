@@ -5690,6 +5690,9 @@ https://aws.amazon.com/code
 https://aws.amazon.com/articles
 https://aws.amazon.com/whitepapers
 
+https://aws.amazon.com/blogs
+https://forums.aws.amazon.com
+
 http://www.slideshare.net/AmazonWebServices/presentations
 
 http://aws.amazon.com/security
@@ -5700,10 +5703,15 @@ https://aws.amazon.com/architecture
 http://docs.aws.amazon.com/general/latest/gr/Welcome.html
 http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
 
+http://aws.amazon.com/documentation/gettingstarted/
+
 https://aws.amazon.com/mobile/
 http://aws.amazon.com/mobile/sdk
 https://aws.amazon.com/websites
-http://aws.amazon.com/documentation/gettingstarted/
+http://aws.amazon.com/websites/getting-started
+
+http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
+http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
 https://aws.amazon.com/sdk-for-python
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
