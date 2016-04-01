@@ -5654,15 +5654,6 @@ Amazon Web Services- Lambda (See also Google Cloud Functions)
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 
-Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
-* [Heroku](https://www.heroku.com)  
-* [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
-* [Heroku GitHub](https://github.com/heroku/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
-* [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
-
 <!--
 https://www.amazon.com/gp/drive/landing/everything
 https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
@@ -5757,20 +5748,33 @@ http://aws.amazon.com/sns
 [AWS SES](http://aws.amazon.com/ses)  
 
 http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+-->
 
-https://developers.digitalocean.com/documentation
+Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
+* [Heroku](https://www.heroku.com)  
+* [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
+* [Heroku GitHub](https://github.com/heroku/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
+* [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
 
-https://www.digitalocean.com/features/technology
+Heroku- Buildpacks and Getting Started (Other than Python, ASP.NET, and Node.js)
+* [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
+* [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
+* [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
+* [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
+* [Heroku Go Getting Started GitHub](hhttps://github.com/heroku/go-getting-started) 
 
-https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
+<!--
+https://github.com/heroku/php-getting-started
+https://github.com/heroku/docker-php
 
-https://www.digitalocean.com/features/one-click-apps/gitlab
+https://github.com/heroku/ruby-getting-started
+https://github.com/heroku/docker-ruby
+-->
 
-https://www.digitalocean.com/features/one-click-apps/
-https://www.digitalocean.com/community/tutorials
-https://www.digitalocean.com/company/logos-and-badges/
-https://www.digitalocean.com/help/getting-started/setting-up-your-server/
-
+<!--
 https://github.com/heroku/heroku-apps
 https://github.com/heroku/node-js-sample
 https://github.com/heroku/node-js-getting-started
@@ -5779,14 +5783,6 @@ https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
 https://github.com/heroku/heroku-buildpack-nodejs
 https://github.com/heroku/docker-nodejs
 https://github.com/heroku/docker-nodejs-hello-world
-
-https://github.com/heroku/heroku-buildpack-php
-https://github.com/heroku/php-getting-started
-https://github.com/heroku/docker-php
-
-https://github.com/heroku/heroku-buildpack-ruby
-https://github.com/heroku/ruby-getting-started
-https://github.com/heroku/docker-ruby
 
 https://devcenter.heroku.com/start
 https://devcenter.heroku.com/categories/reference
@@ -5833,22 +5829,25 @@ https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-te
 http://postgis.refractions.net
 -->
 
-Heroku- Buildpacks and Getting Started (Other than Python, ASP.NET, and Node.js)
-* [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
-* [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
-* [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
-* [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
-* [Heroku Go Getting Started GitHub](hhttps://github.com/heroku/go-getting-started) 
-
 Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 * [Heroku Example Site Staging- Broken Link](http://example-site-staging.herokuapp.com)  
 * [Staging Code on Heroku GitHub](https://github.com/digitalpulp/developer-handbook/wiki/Staging-code-on-heroku)  
 
+<!--
+https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
+https://www.digitalocean.com/features/one-click-apps/gitlab
+
+https://www.digitalocean.com/company/logos-and-badges
+https://www.digitalocean.com/help/getting-started/setting-up-your-server
+-->
+
 Digital Ocean (VPS)
 * [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
 * [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
 * [Digital Ocean Pricing](https://www.digitalocean.com/pricing)  
+* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)  
 * [Digital Ocean Community](https://www.digitalocean.com/community)  
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
