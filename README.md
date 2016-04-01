@@ -5814,11 +5814,8 @@ https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
 -->
 
 Node.js- Heroku and Docker
-
-<!--
-https://github.com/heroku/docker-nodejs
-https://github.com/heroku/docker-nodejs-hello-world
--->
+* [Heroku Node.js Docker GitHub](https://github.com/heroku/docker-nodejs)
+* [Heroku Node.js Docker Hello World GitHub](https://github.com/heroku/docker-nodejs-hello-world)
 
 Node.js- Google Cloud
 * [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
@@ -5826,12 +5823,12 @@ Node.js- Google Cloud
 <!--
 https://devcenter.heroku.com/articles/getting-started-with-nodejs
 
-https://aws.amazon.com/sdk-for-node-js/
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
 https://aws.amazon.com/documentation/sdk-for-javascript/
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
 https://github.com/aws/aws-sdk-js
+https://aws.amazon.com/sdk-for-node-js/
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
 -->
 
 Python- Heroku
@@ -5875,10 +5872,7 @@ PHP- Heroku Buildpacks and Getting Started
 * [Heroku Deploying PHP GitHub](https://devcenter.heroku.com/articles/deploying-php) 
 
 PHP- Heroku and Docker
-
-<!--
-https://github.com/heroku/docker-php
--->
+* [Heroku PHP Docker GitHub](https://github.com/heroku/docker-php)
 
 PHP- Amazon
 
@@ -5890,13 +5884,12 @@ https://github.com/aws/aws-sdk-php
 
 Ruby- Heroku Buildpacks and Getting Started (Other than ASP.NET, and Node.js)
 * [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
+* [Heroku Ruby Getting Started GitHub](https://github.com/heroku/ruby-getting-started) 
 
 Ruby- Heroku and Docker
+* [Heroku Ruby Docker GitHub](https://github.com/heroku/docker-ruby)
 
 <!--
-https://github.com/heroku/ruby-getting-started
-https://github.com/heroku/docker-ruby
-
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
 https://aws.amazon.com/articles/Ruby
 https://aws.amazon.com/ruby
