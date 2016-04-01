@@ -5670,6 +5670,41 @@ Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure 
 * [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
 
 <!--
+https://www.amazon.com/gp/drive/landing/everything
+https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
+https://support.google.com/drive/answer/2375123
+https://affiliate-program.amazon.com
+
+https://live.awsevents.com
+
+http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
+
+http://aws.amazon.com/pricing
+https://aws.amazon.com/ec2/pricing
+https://aws.amazon.com/s3/pricing
+http://aws.amazon.com/pricing/rds
+
+http://aws.amazon.com/products
+http://aws.amazon.com/documentation
+https://aws.amazon.com/code
+https://aws.amazon.com/articles
+https://aws.amazon.com/whitepapers
+
+http://www.slideshare.net/AmazonWebServices/presentations
+
+http://aws.amazon.com/security
+https://developer.amazon.com/public/apis
+
+https://aws.amazon.com/architecture
+
+http://docs.aws.amazon.com/general/latest/gr/Welcome.html
+http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
+
+https://aws.amazon.com/mobile/
+http://aws.amazon.com/mobile/sdk
+https://aws.amazon.com/websites
+http://aws.amazon.com/documentation/gettingstarted/
+
 https://aws.amazon.com/sdk-for-python
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
@@ -5702,6 +5737,16 @@ https://github.com/aws/aws-sdk-net
 http://aws.amazon.com/sns
 [AWS SES](http://aws.amazon.com/ses)  
 
+http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+
+https://developers.digitalocean.com/documentation
+
+https://www.digitalocean.com/features/technology
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
+
+https://www.digitalocean.com/features/one-click-apps/gitlab
+
 https://www.digitalocean.com/features/one-click-apps/
 https://www.digitalocean.com/community/tutorials
 https://www.digitalocean.com/company/logos-and-badges/
@@ -5723,6 +5768,50 @@ https://github.com/heroku/docker-php
 https://github.com/heroku/heroku-buildpack-ruby
 https://github.com/heroku/ruby-getting-started
 https://github.com/heroku/docker-ruby
+
+https://devcenter.heroku.com/start
+https://devcenter.heroku.com/categories/reference
+https://devcenter.heroku.com/categories/add-on-documentation
+https://devcenter.heroku.com/articles/labs-pipelines
+https://devcenter.heroku.com/articles/releases
+https://devcenter.heroku.com/categories/deployment
+
+https://www.heroku.com/pricing
+https://www.heroku.com/beta-pricing
+https://devcenter.heroku.com/articles/usage-and-billing
+https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta
+All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
+
+https://devcenter.heroku.com/articles/git
+https://devcenter.heroku.com/articles/git-clone-heroku-app
+https://devcenter.heroku.com/articles/github-integration
+https://blog.heroku.com/archives/2015/2/6/heroku_github_integration
+
+https://devcenter.heroku.com/articles/dynos
+https://devcenter.heroku.com/articles/dyno-size
+https://devcenter.heroku.com/articles/scaling
+
+https://devcenter.heroku.com/articles/keys
+https://devcenter.heroku.com/articles/securekey Application architecture links
+https://addons.heroku.com/securekey#fortnightly
+
+https://blog.heroku.com/archives/2014/8/7/heroku-button
+https://devcenter.heroku.com/articles/heroku-button
+
+https://devcenter.heroku.com/articles/config-vars
+https://devcenter.heroku.com/articles/deploy-hooks
+https://devcenter.heroku.com/articles/architecting-apps
+https://devcenter.heroku.com/categories/application-architecture
+
+https://devcenter.heroku.com/articles/deploying-php
+https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku
+https://devcenter.heroku.com/articles/deploying-java-applications-to-heroku-from-eclipse-or-intellij-idea
+https://devcenter.heroku.com/articles/getting-started-with-nodejs
+
+https://devcenter.heroku.com/articles/django-app-configuration
+
+https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
+http://postgis.refractions.net
 -->
 
 Heroku- Buildpacks and Getting Started (Other than Python, ASP.NET, and Node.js)
