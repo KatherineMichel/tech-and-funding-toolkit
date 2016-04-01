@@ -5724,6 +5724,12 @@ http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
 
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
+http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
+https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
+
 https://aws.amazon.com/sdk-for-python
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
