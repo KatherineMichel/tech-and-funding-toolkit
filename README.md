@@ -105,6 +105,7 @@ Table of Content
   * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 * [Deployment and Cloud](#deployment-and-cloud)
+* [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
 * [Dev Ops Tools](#dev-ops-tools)
 * [Servers and Databases](#servers-and-databases)
 * [SQL](#sql)  
@@ -4367,28 +4368,6 @@ Node.js Launch and Ryan Dahl
 * [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
 * [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history)  
 
-Heroku- Node.js
-* [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
-* [Heroku App.json GitHub](https://github.com/heroku/app.json)  
-* [Heroku Getting Started with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)  
-* [Heroku Node.js Getting Started GitHub](https://github.com/heroku/node-js-getting-started)  
-* [Heroku Node.js Sample GitHub](https://github.com/heroku/node-js-sample)  
-
-<!--
-https://github.com/heroku/node-heroku-client
-https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
--->
-
-Heroku- Node.js and Docker
-
-<!--
-https://github.com/heroku/docker-nodejs
-https://github.com/heroku/docker-nodejs-hello-world
--->
-
-Google Cloud- Node.js
-* [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
-
 Node Add-ons
 * [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
 * [Nodemon GitHub](https://github.com/remy/nodemon)  
@@ -4958,46 +4937,13 @@ Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python p
 
 Dedicated Python Hosting
 * [Gondor (on Kubernetes)](https://gondor.io)
+* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
 * [Python Anywhere](https://www.pythonanywhere.com) 
-
-Python- Heroku
-* [Heroku Python Homepage](https://www.heroku.com/python) 
-* [Heroku Python Category](https://devcenter.heroku.com/categories/python) 
-* [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
-* [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
-* [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)  
-* [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
-* [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
-
-Python- Django- Heroku Deployment
-* [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template) 
-* URL: http://appname.herokuapp.com
-* [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
-* [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
-* [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache)  
 
 Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 * [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
 * [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
 * [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
-
-Python- Django- AWS Elastic Beanstalk Deployment
-* [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
-
-<!--
-https://aws.amazon.com/sdk-for-python
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
-https://github.com/boto/boto3
-https://github.com/heroku/python-sample
--->
-
-Python- Django- Digital Ocean Deployment
-* [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
-* [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
-* [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
-
-Python- Django- OpenShift Deployment
-* [OpenShift Django Example GitHub](https://github.com/openshift/django-example)  
 
 Python- Django- Environmental Variables
 * os.getenv and os.environ.get
@@ -5734,29 +5680,6 @@ http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
-https://aws.amazon.com/articles/Ruby
-https://aws.amazon.com/ruby
-http://aws.amazon.com/articles/Ruby/846
-
-https://aws.amazon.com/php/
-https://aws.amazon.com/articles/4261
-https://github.com/aws/aws-sdk-php
-
-https://aws.amazon.com/sdk-for-ruby/
-https://github.com/aws/aws-sdk-ruby
-https://github.com/aws/aws-flow-ruby
-
-https://aws.amazon.com/sdk-for-node-js/
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
-https://aws.amazon.com/documentation/sdk-for-javascript/
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
-https://github.com/aws/aws-sdk-js
-
-https://aws.amazon.com/net
-https://github.com/aws/aws-sdk-net
-
 http://aws.amazon.com/sns
 [AWS SES](http://aws.amazon.com/ses)  
 
@@ -5771,21 +5694,6 @@ Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure 
 * [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
 * [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
 * [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
-
-Heroku- Buildpacks and Getting Started (Other than Python, ASP.NET, and Node.js)
-* [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
-* [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
-* [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
-* [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
-* [Heroku Go Getting Started GitHub](hhttps://github.com/heroku/go-getting-started) 
-
-<!--
-https://github.com/heroku/php-getting-started
-https://github.com/heroku/docker-php
-
-https://github.com/heroku/ruby-getting-started
-https://github.com/heroku/docker-ruby
--->
 
 <!--
 https://github.com/heroku/heroku-apps
@@ -5823,13 +5731,6 @@ https://devcenter.heroku.com/articles/config-vars
 https://devcenter.heroku.com/articles/deploy-hooks
 https://devcenter.heroku.com/articles/architecting-apps
 https://devcenter.heroku.com/categories/application-architecture
-
-https://devcenter.heroku.com/articles/deploying-php
-https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku
-https://devcenter.heroku.com/articles/deploying-java-applications-to-heroku-from-eclipse-or-intellij-idea
-https://devcenter.heroku.com/articles/getting-started-with-nodejs
-
-https://devcenter.heroku.com/articles/django-app-configuration
 
 https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
 http://postgis.refractions.net
@@ -5898,11 +5799,134 @@ Content Delivery Network
 Optimization
 * [Cloudflare](https://www.cloudflare.com) 
 
+#### Deployment and Cloud by Language
+
+Node.js- Heroku
+* [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
+* [Heroku App.json GitHub](https://github.com/heroku/app.json)  
+* [Heroku Getting Started with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)  
+* [Heroku Node.js Getting Started GitHub](https://github.com/heroku/node-js-getting-started)  
+* [Heroku Node.js Sample GitHub](https://github.com/heroku/node-js-sample)  
+
+<!--
+https://github.com/heroku/node-heroku-client
+https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
+-->
+
+Node.js- Heroku and Docker
+
+<!--
+https://github.com/heroku/docker-nodejs
+https://github.com/heroku/docker-nodejs-hello-world
+-->
+
+Node.js- Google Cloud
+* [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
+
+<!--
+https://devcenter.heroku.com/articles/getting-started-with-nodejs
+
+https://aws.amazon.com/sdk-for-node-js/
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
+https://aws.amazon.com/documentation/sdk-for-javascript/
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
+https://github.com/aws/aws-sdk-js
+-->
+
+Python- Heroku
+* [Heroku Python Homepage](https://www.heroku.com/python) 
+* [Heroku Python Category](https://devcenter.heroku.com/categories/python) 
+* [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
+* [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
+* [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)  
+* [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
+* [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
+
+Python- Django- Heroku Deployment
+* [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template) 
+* URL: http://appname.herokuapp.com
+* [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
+* [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
+* [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
+
+Python- Django- AWS Elastic Beanstalk Deployment
+* [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
+
+<!--
+https://aws.amazon.com/sdk-for-python
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
+https://github.com/boto/boto3
+https://github.com/heroku/python-sample
+-->
+
+Python- Django- Digital Ocean Deployment
+* [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
+* [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
+* [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
+
+Python- Django- OpenShift Deployment
+* [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
+
+PHP- Heroku Buildpacks and Getting Started
+* [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
+* [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
+* [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
+* [Heroku Deploying PHP GitHub](https://devcenter.heroku.com/articles/deploying-php) 
+
+PHP- Heroku and Docker
+
+<!--
+https://github.com/heroku/docker-php
+-->
+
+PHP- Amazon
+
+<!--
+https://aws.amazon.com/php/
+https://aws.amazon.com/articles/4261
+https://github.com/aws/aws-sdk-php
+-->
+
+Ruby- Heroku Buildpacks and Getting Started (Other than ASP.NET, and Node.js)
+* [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
+
+Ruby- Heroku and Docker
+
+<!--
+https://github.com/heroku/ruby-getting-started
+https://github.com/heroku/docker-ruby
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
+https://aws.amazon.com/articles/Ruby
+https://aws.amazon.com/ruby
+http://aws.amazon.com/articles/Ruby/846
+
+https://aws.amazon.com/sdk-for-ruby/
+https://github.com/aws/aws-sdk-ruby
+https://github.com/aws/aws-flow-ruby
+-->
+
+Go- Heroku Buildpacks and Getting Started
+* [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
+* [Heroku Go Getting Started GitHub](https://github.com/heroku/go-getting-started) 
+
+<!--
+(Other than ASP.NET)
+
+https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku
+https://devcenter.heroku.com/articles/deploying-java-applications-to-heroku-from-eclipse-or-intellij-idea
+
+https://aws.amazon.com/net
+https://github.com/aws/aws-sdk-net
+-->
+
 #### Dev Ops Tools
 
 See also Fabric
  
 Python- Kubernetes
+* [Gondor (on Kubernetes)](https://gondor.io)
 * [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)  
 
 Docker
