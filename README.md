@@ -4079,9 +4079,8 @@ Golang, otherwise known as "Go"
 * [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 
-<!--
-https://github.com/golang/go/wiki/GoUsers
--->
+Golang, Uers
+* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
 
 Golang Installation
 * [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
@@ -4209,7 +4208,7 @@ JavaScript Styleguide
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
 
 PHP Styleguides
-* [PHP FIG](http://www.php-fig.org) and [PHP FIG Standards Recommendations](http://www.php-fig.org/psr)
+* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
 * [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
 * [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
 * [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
@@ -4217,8 +4216,6 @@ PHP Styleguides
 * [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
 
 <!--
-https://github.com/php-fig/fig-standards/tree/master/accepted
-
 PSR-0: Autoloader Standard
 PSR-1: Basic Coding Standard
 PSR-2: Coding Style Guide
