@@ -3563,24 +3563,29 @@ https://try.github.io
 
 https://github.com/account/organizations/new
 
-https://github.com/andygrunwald/TrendingGithub
-
 https://status.github.com/messages
-
-https://github.com/ajaxorg/ace
 
 https://help.github.com/categories/bootcamp/
 
-http://ndpsoftware.com/git-cheatsheet.html
-https://git-scm.com/docs
-
-https://guides.github.com
 https://gist.github.com/starred
-https://github.com/github-archive
+https://github.com/features
+https://git-scm.com/book
+https://git-scm.com/docs
+https://git-scm.com/documentation
+https://www.atlassian.com/git
+https://www.atlassian.com/git/tutorials
+
+
+https://github.com/andygrunwald/TrendingGithub
+
+https://github.com/ajaxorg/ace
+
 https://github.com/github/training-kit
+https://github.com/github-archive
 https://github.com/github-archive/training.github.com
 
-https://github.com/features
+http://ndpsoftware.com/git-cheatsheet.html
+
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/about-repository-graphs#traffic
 
@@ -3612,15 +3617,13 @@ https://github.com/blog/1986-announcing-git-large-file-storage-lfs
 https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
 
-https://git-scm.com/documentation
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
 
-https://www.atlassian.com/git
-https://www.atlassian.com/git/tutorials
 https://www.atlassian.com/git/tutorials/syncing/git-pull
 https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
 https://www.atlassian.com/git/tutorials/using-branches/git-branch/
+
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
 
@@ -3656,8 +3659,6 @@ https://github.com/badges/badgerbadgerbadger
 
 CODE_OF_CONDUCT
 https://github.com/stevemao/github-issue-templates
-
-https://education.github.com/pack
 -->
 
 GitHub- Trending
@@ -3670,6 +3671,7 @@ GitHub Services Integration
 GitHub- More
 * [GitHub DCMA](https://github.com/github/dmca)
 * [Octokit](https://github.com/octokit) 
+* [Education Pack](https://education.github.com/pack)
 
 Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
