@@ -3541,6 +3541,8 @@ Git Learning Resources
 * [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
 * [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
 * [Git Book](http://www.git-scm.com/book/en)  
+* [Git Docs](https://git-scm.com/docs) 
+* [Git Documentation](https://git-scm.com/documentation)
 * [Git Videos](http://www.git-scm.com/videos)  
 * [Git Downloads](http://git-scm.com/downloads)  
 * [Git Index](http://gitref.org/index.html)  
@@ -3548,30 +3550,19 @@ Git Learning Resources
 
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+* [GitHub Features (Code Review, ect.)](https://github.com/features)
 * [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
 * [GitHub Help](https://help.github.com)  
 * [GitHub Training](http://training.github.com)  
+* [GitHub Bootcamp](https://help.github.com/categories/bootcamp) 
 * [GitHub Blog](https://github.com/blog)  
 * [GitHub Guides](https://guides.github.com) 
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-* [Git Ignore GitHub](https://github.com/github/gitignore)  
-* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository)  
 
 <!--
 https://try.github.io
 
-https://github.com/account/organizations/new
-
-https://status.github.com/messages
-
-https://help.github.com/categories/bootcamp/
-
-https://gist.github.com/starred
-https://github.com/features
-https://git-scm.com/book
-https://git-scm.com/docs
-https://git-scm.com/documentation
 https://www.atlassian.com/git
 https://www.atlassian.com/git/tutorials
 
@@ -3661,17 +3652,34 @@ CODE_OF_CONDUCT
 https://github.com/stevemao/github-issue-templates
 -->
 
-GitHub- Trending
-* [GitHub Trending](https://github.com/josephyzhou/github-trending)
+Git Ignore and Licenses
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
 
 GitHub Services Integration
 * [Service Hooks GitHub](https://github.com/github/github-services)  
 * [GitHub Integrations](https://github.com/integrations)  
 
+GitHub Organizations
+* [GitHub Organizations](https://github.com/account/organizations/new)
+
+GitHub Status
+* [GitHub Status](https://status.github.com/messages)
+
+Gist
+* [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
+
 GitHub- More
 * [GitHub DCMA](https://github.com/github/dmca)
 * [Octokit](https://github.com/octokit) 
 * [Education Pack](https://education.github.com/pack)
+
+GitHub- Trending
+* [GitHub Trending](https://github.com/josephyzhou/github-trending)
+
+GitHub- How To
+* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
 
 Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
@@ -3694,9 +3702,7 @@ GitHub Alternatives
 * [Sourceforge](http://sourceforge.net)  
 * [Codebase](https://www.codebasehq.com)  
 
-Licenses
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+Types of Licenses
 * [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
 * [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
 * [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
