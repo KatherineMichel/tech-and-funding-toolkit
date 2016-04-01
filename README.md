@@ -1882,6 +1882,8 @@ Project Management Software
 * [Trello](https://trello.com)
 
 <!--
+* [GitLab](https://about.gitlab.com)
+
 https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
 https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
 -->
@@ -3530,6 +3532,10 @@ Git
 * [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
 * [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
  
+A Successful Git Branching Model
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+
 Git Learning Resources
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 * [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
@@ -3554,9 +3560,6 @@ GitHub- Main
 
 <!--
 https://try.github.io
-
-https://github.com/thank-you-github/thank-you-github
-https://github.com/dear-github/dear-github
 
 https://github.com/account/organizations/new
 
@@ -3584,9 +3587,6 @@ https://help.github.com/articles/about-repository-graphs#traffic
 https://github.com/github/teach.github.com
 https://github.com/jlord/git-it
 
-https://github.com/nvie/gitflow
-http://nvie.com/posts/a-successful-git-branching-model
-
 https://help.github.com/articles/helping-people-contribute-to-your-project/
 
 https://guides.github.com/features/mastering-markdown
@@ -3612,9 +3612,11 @@ https://github.com/blog/1986-announcing-git-large-file-storage-lfs
 https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
 
+https://git-scm.com/documentation
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
 
+https://www.atlassian.com/git
 https://www.atlassian.com/git/tutorials
 https://www.atlassian.com/git/tutorials/syncing/git-pull
 https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
@@ -3652,9 +3654,6 @@ http://shields.io
 http://badges.github.io/gh-badges/
 https://github.com/badges/badgerbadgerbadger
 
-https://about.gitlab.com/features
-https://about.gitlab.com/installation
-
 CODE_OF_CONDUCT
 https://github.com/stevemao/github-issue-templates
 
@@ -3672,12 +3671,20 @@ GitHub- More
 * [GitHub DCMA](https://github.com/github/dmca)
 * [Octokit](https://github.com/octokit) 
 
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
 Markdown
 * [Markdown](http://daringfireball.net/projects/markdown)  
 * [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
 * [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+
+GitLab (See also Project Management)
+* [GitLab Installation](https://about.gitlab.com/installation)
+* [GitLab Features](https://about.gitlab.com/features)
 
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org)  
