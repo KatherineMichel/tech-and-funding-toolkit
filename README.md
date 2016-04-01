@@ -4374,6 +4374,18 @@ Heroku- Node.js
 * [Heroku Node.js Getting Started GitHub](https://github.com/heroku/node-js-getting-started)  
 * [Heroku Node.js Sample GitHub](https://github.com/heroku/node-js-sample)  
 
+<!--
+https://github.com/heroku/node-heroku-client
+https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
+-->
+
+Heroku- Node.js and Docker
+
+<!--
+https://github.com/heroku/docker-nodejs
+https://github.com/heroku/docker-nodejs-hello-world
+-->
+
 Google Cloud- Node.js
 * [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
 
@@ -4971,6 +4983,13 @@ Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 
 Python- Django- AWS Elastic Beanstalk Deployment
 * [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
+
+<!--
+https://aws.amazon.com/sdk-for-python
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
+https://github.com/boto/boto3
+https://github.com/heroku/python-sample
+-->
 
 Python- Django- Digital Ocean Deployment
 * [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
@@ -5715,12 +5734,6 @@ http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 
-https://aws.amazon.com/sdk-for-python
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
-https://github.com/boto/boto3
-https://github.com/heroku/python-sample
-
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
 https://aws.amazon.com/articles/Ruby
 https://aws.amazon.com/ruby
@@ -5776,13 +5789,6 @@ https://github.com/heroku/docker-ruby
 
 <!--
 https://github.com/heroku/heroku-apps
-https://github.com/heroku/node-js-sample
-https://github.com/heroku/node-js-getting-started
-https://github.com/heroku/node-heroku-client
-https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
-https://github.com/heroku/heroku-buildpack-nodejs
-https://github.com/heroku/docker-nodejs
-https://github.com/heroku/docker-nodejs-hello-world
 
 https://devcenter.heroku.com/start
 https://devcenter.heroku.com/categories/reference
