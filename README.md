@@ -3567,6 +3567,9 @@ https://github.com/ajaxorg/ace
 
 https://help.github.com/categories/bootcamp/
 
+http://ndpsoftware.com/git-cheatsheet.html
+https://git-scm.com/docs
+
 https://guides.github.com
 https://gist.github.com/starred
 https://github.com/github-archive
@@ -3653,6 +3656,8 @@ https://about.gitlab.com/installation
 
 CODE_OF_CONDUCT
 https://github.com/stevemao/github-issue-templates
+
+https://education.github.com/pack
 -->
 
 GitHub- Trending
