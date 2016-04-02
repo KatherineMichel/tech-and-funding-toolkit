@@ -4162,9 +4162,6 @@ http://php.net/manual/en/langref.php
 http://php.net/manual/en/install.macosx.bundled.php
 -->
 
-WampServer
-* [WampServer (PHP, Apache, MySQL) GitHub](http://www.wampserver.com/en)  
-
 PHP- Laravel- Preferred Templates and Documents
 * [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
 * [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
@@ -4183,13 +4180,6 @@ Node.js/PHP- WordPress- Preferred Templates and Documents
 <!--
 https://wordpress.org/about/requirements/
 
-https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP
-
-https://www.mamp.info/en/mamp-pro/
-https://www.mamp.info/en/downloads/
-https://www.mamp.info/en/documentation/
-https://documentation.mamp.info/en/documentation/mamp/
-
 https://wordpress.org/themes/
 http://codex.wordpress.org/Theme_Development
 
@@ -4207,19 +4197,6 @@ WordPress Template Hierarchy
 * [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
 * [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
 * [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
-
-WordPress- Popular Templates
-
-<!--
-https://github.com/roots/sage
-https://roots.io/sage-vs-underscores/
-https://github.com/Automattic/_s
-http://underscores.me
-https://github.com/eddiemachado/bones
-https://github.com/0dp/generator-wp-bones
-https://github.com/roots/bedrock
-https://roots.io/bedrock/
--->
 
 WP Engine
 * [WP Engine](https://wpengine.com) 
@@ -5595,6 +5572,8 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [MySQL GitHub](https://github.com/twitter/mysql)  
 * [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
  
+WAMP and MAMP
+
 #### Deployment and Cloud
 
 IANA, Domize, DNSimple, Heroku
@@ -5837,24 +5816,23 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Deis](http://deis.io)  
 * [Deis GitHub](https://github.com/deis/deis)  
 
-Google Cloud and App Engine
-* [Google Cloud](https://cloud.google.com) 
+Google Cloud, App Engine
+* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
 * [Google Cloud Products](https://cloud.google.com/products)  
 * [Google Cloud Solutions](https://cloud.google.com/solutions)  
 * [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
 * [Google Cloud Pricing](https://cloud.google.com/appengine/pricing) 
 * [Google Cloud Developers](https://cloud.google.com/developers)  
-* [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html)  
-* [Google App Engine](https://developers.google.com/appengine)  
-* [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
+* [Google App Engine](https://developers.google.com/appengine) and [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
 * [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
 * [Google App Engine Code](http://code.google.com/p/googleappengine)  
 * [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
 * [Google Apps for Work](https://www.google.com/a/signup)  
 
+Google Cloud, App Engine and GitHub
+* [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html) 
+
 <!--
-Google Cloud Platform GitHub
-https://github.com/GoogleCloudPlatform
 https://github.com/GoogleCloudPlatform/getting-started-dotnet
 -->
 
@@ -5940,6 +5918,18 @@ Python- Django- Digital Ocean Deployment
 
 Python- Django- OpenShift Deployment
 * [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
+
+PHP- MAMP and WampServer
+* [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
+* [MAMP Pro](https://www.mamp.info/en/mamp-pro)
+* [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en)  
+
+<!--
+https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP
+
+https://www.mamp.info/en/documentation/
+https://documentation.mamp.info/en/documentation/mamp/
+-->
 
 PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
