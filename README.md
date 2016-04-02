@@ -5610,10 +5610,18 @@ Amazon
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
-* [AWS Marketplace](https://aws.amazon.com/marketplace)  
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [AWS Forum](https://forums.aws.amazon.com)
+
+Developer and Documentation
+* [AWS Products](http://aws.amazon.com/products)
+* [AWS Documentation](http://aws.amazon.com/documentation)
+* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
 * [AWS Developer Tools](https://aws.amazon.com/developertools)  
 * [AWS Tools](http://aws.amazon.com/tools)  
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices)   
+* [AWS Code](https://aws.amazon.com/code)
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
 AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
@@ -5634,8 +5642,6 @@ Amazon Web Services- Lambda (See also Google Cloud Functions)
 <!--
 http://aws.amazon.com/sns
 [AWS SES](http://aws.amazon.com/ses)  
-
-http://aws.amazon.com/documentation/gettingstarted/
 
 https://aws.amazon.com/mobile/
 http://aws.amazon.com/mobile/sdk
@@ -5662,16 +5668,8 @@ https://aws.amazon.com/ec2/pricing
 https://aws.amazon.com/s3/pricing
 http://aws.amazon.com/pricing/rds
 
-http://aws.amazon.com/products
-http://aws.amazon.com/documentation
-https://aws.amazon.com/code
 https://aws.amazon.com/articles
 https://aws.amazon.com/whitepapers
-
-https://aws.amazon.com/blogs
-https://forums.aws.amazon.com
-
-http://www.slideshare.net/AmazonWebServices/presentations
 
 http://aws.amazon.com/security
 https://developer.amazon.com/public/apis
