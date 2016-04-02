@@ -4152,20 +4152,35 @@ PHP- Laravel- Preferred Templates and Documents
 * [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
  
 Node.js/PHP- WordPress- Preferred Templates and Documents
+* [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
 * [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
-* [WordPress.org](https://wordpress.org)  
+* [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
+* [WordPress Developer](https://developer.wordpress.org)
 * [WordPress GitHub](https://github.com/WordPress/WordPress)  
-* [WordPress.com](https://wordpress.com) and [WordPress.com Support](http://en.support.wordpress.com)
 * [WordPress Plugins](https://wordpress.org/plugins) and [WordPress Plugins Mirror](http://www.pluginmirror.com/plugins) 
+* [WordPress Code](http://en.support.wordpress.com/code)  
+* [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
+* [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
+
+WordPress Template Hierarchy
 * [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
 * [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
 * [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
 * [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
-* [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster)  
-* [WordPress Code](http://en.support.wordpress.com/code)  
-* [WordPress W3Schools Tags Reference](http://www.w3schools.com/tags)  
-* [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
-* [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
+* [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
+
+WordPress- Popular Templates
+
+<!--
+https://github.com/roots/sage
+https://roots.io/sage-vs-underscores/
+https://github.com/Automattic/_s
+http://underscores.me
+https://github.com/eddiemachado/bones
+https://github.com/0dp/generator-wp-bones
+https://github.com/roots/bedrock
+https://roots.io/bedrock/
+-->
 
 WP Engine
 * [WP Engine](https://wpengine.com) 
