@@ -1617,6 +1617,7 @@ Journalism Handbooks
 Journalism Style Guides 
 * [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
 * [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+* [AP Style Guide](http://www.apstylebook.com) 
 * [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
 * [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
 * [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
@@ -4020,17 +4021,22 @@ Miscellaneous Programming Languages
 
 Ruby
 * [Ruby](https://www.ruby-lang.org/en)  
+* [Ruby GitHub](https://github.com/ruby/ruby)
+
+Ruby- Installation and Control
+* [Ruby Installation Methods](https://www.ruby-lang.org/en/documentation/installation)
+* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
+* [Ruby Gems GitHub](https://github.com/rubygems/rubygems)
+* [Rake GitHub](https://github.com/ruby/rake)
+* [Capistrano GitHub](https://github.com/capistrano/capistrano)
+
+Ruby- Learning Resources
 * [Try Ruby](http://tryruby.org)
 * [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
-* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
 * [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
-* [Ruby GitHub](https://github.com/ruby/ruby)  
-* [Ruby Gems GitHub](https://github.com/rubygems/rubygems)  
 * [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0)  
-* [Rake GitHub](https://github.com/ruby/rake)  
-* [Capistrano GitHub](https://github.com/capistrano/capistrano)  
-
+  
 Ruby- Executable Specification
 * [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
 * [Ruby Testing Tool](http://rspec.info)  
