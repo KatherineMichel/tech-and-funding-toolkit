@@ -2776,6 +2776,8 @@ Livestreaming, Video, Audio
 <!--
 YouTube auto transcription
 https://support.google.com/youtube/answer/2734799?hl=en
+
+https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html
 -->
 
 Photo Hosting
@@ -2845,6 +2847,7 @@ Logistics
 
 Crowd Sourced Internet Marketplace
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
+* [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
 * [Crowdflower](http://www.crowdflower.com)  
 
 Docs
@@ -5838,6 +5841,12 @@ https://github.com/GoogleCloudPlatform/getting-started-dotnet
 
 Google Cloud Functions (See also Amazon Web Services- Lambda)
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
+
+<!--
+https://msdn.microsoft.com/en-us/
+https://www.microsoft.com/bizspark
+https://www.dreamspark.com
+-->
 
 Nitrous (IDE)
 * [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
