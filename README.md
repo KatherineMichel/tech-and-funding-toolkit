@@ -840,6 +840,11 @@ Central Banks/Reserves
 * [San Franscisco Federal Research Bank](http://www.frbsf.org) 
 * [St. Louis Fed Research](https://research.stlouisfed.org) and [Archive](https://fraser.stlouisfed.org)
 
+<!--
+https://research.stlouisfed.org/fred2/
+https://research.stlouisfed.org/datatools.html
+-->
+
 Accounting Types
 * [Cost Accounting Wikipedia](https://en.wikipedia.org/wiki/Cost_accounting)
 * [Management Accounting Wikipedia](https://en.wikipedia.org/wiki/Management_accounting)
@@ -2767,6 +2772,11 @@ Livestreaming, Video, Audio
 * [SoundCloud](https://soundcloud.com)  
 * [Vimeo](https://vimeo.com)  
 * [YouTube](https://www.youtube.com) 
+
+<!--
+YouTube auto transcription
+https://support.google.com/youtube/answer/2734799?hl=en
+-->
 
 Photo Hosting
 * [Flickr](https://www.flickr.com) 
