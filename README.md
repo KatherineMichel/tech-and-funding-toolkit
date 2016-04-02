@@ -1605,7 +1605,7 @@ The Happiness Project
 
 Public Speaking
 * [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
-* [ToasterMasters](https://www.toastmasters.org)
+* [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
 
 #### Journalism Handbooks and Grammatical Style Guides
 
@@ -1865,12 +1865,15 @@ Quality
 * [ISO](http://www.iso.org/iso/home.html) 
 * [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
 
-Project Management Software
+Project Management- Obvious Software
 * [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
 * [Microsoft Project Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Project)
 * [Microsoft Visio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visio)
 * [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
+
+Project Management- Less Obvious Software
 * [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
+* [GitLab](https://about.gitlab.com)
 * [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 * [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
 * [Slack Keyboard Shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
@@ -1878,8 +1881,8 @@ Project Management Software
 * [Trello](https://trello.com)
 
 <!--
-* [GitLab](https://about.gitlab.com)
 
+https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
 https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
 https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
 -->
