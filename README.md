@@ -5894,6 +5894,16 @@ Python- Heroku
 * [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
 * [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
 
+Python- Amazon
+* [AWS Python](https://aws.amazon.com/python)
+* [AWS Python SDK](https://aws.amazon.com/sdk-for-python)
+
+<!--
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
+https://github.com/boto/boto3
+https://github.com/heroku/python-sample
+-->
+
 Python- Django- Heroku Deployment
 * [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template) 
 * URL: http://appname.herokuapp.com
@@ -5903,13 +5913,6 @@ Python- Django- Heroku Deployment
 
 Python- Django- AWS Elastic Beanstalk Deployment
 * [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
-
-<!--
-https://aws.amazon.com/sdk-for-python
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
-https://github.com/boto/boto3
-https://github.com/heroku/python-sample
--->
 
 Python- Django- Digital Ocean Deployment
 * [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
@@ -5941,12 +5944,9 @@ PHP- Heroku and Docker
 * [Heroku PHP Docker GitHub](https://github.com/heroku/docker-php)
 
 PHP- Amazon
-
-<!--
-https://aws.amazon.com/php/
-https://aws.amazon.com/articles/4261
-https://github.com/aws/aws-sdk-php
--->
+* [AWS PHP](https://aws.amazon.com/php)
+* [AWS PHP SDK](https://github.com/aws/aws-sdk-php)
+* [Getting Started with the AWS SDK for PHP](https://aws.amazon.com/articles/4261)
 
 Ruby- Heroku Buildpacks and Getting Started (Other than ASP.NET, and Node.js)
 * [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
@@ -5955,15 +5955,15 @@ Ruby- Heroku Buildpacks and Getting Started (Other than ASP.NET, and Node.js)
 Ruby- Heroku and Docker
 * [Heroku Ruby Docker GitHub](https://github.com/heroku/docker-ruby)
 
+Ruby- Amazon
+* [AWS Ruby](https://aws.amazon.com/ruby)
+* [AWS Ruby SDK](https://aws.amazon.com/sdk-for-ruby) and [AWS Ruby SDK GitHub](https://github.com/aws/aws-sdk-ruby)
+* [AWS Flow Framework for Ruby GitHub](https://github.com/aws/aws-flow-ruby)
+
 <!--
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
 https://aws.amazon.com/articles/Ruby
-https://aws.amazon.com/ruby
 http://aws.amazon.com/articles/Ruby/846
-
-https://aws.amazon.com/sdk-for-ruby/
-https://github.com/aws/aws-sdk-ruby
-https://github.com/aws/aws-flow-ruby
 -->
 
 Go- Heroku Buildpacks and Getting Started
