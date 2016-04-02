@@ -4139,6 +4139,8 @@ PHP
 * [CakePHP GitHub](https://github.com/cakephp/cakephp)  
 
 <!--
+http://php.net/manual/en/tutorial.requirements.php
+
 http://php.net/manual/en/
 http://php.net/manual/en/features.php
 http://php.net/manual/en/funcref.php
@@ -4167,6 +4169,27 @@ Node.js/PHP- WordPress- Preferred Templates and Documents
 * [WordPress Code](http://en.support.wordpress.com/code)  
 * [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
 * [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
+
+<!--
+https://wordpress.org/about/requirements/
+
+https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP
+
+https://www.mamp.info/en/mamp-pro/
+https://www.mamp.info/en/downloads/
+https://www.mamp.info/en/documentation/
+https://documentation.mamp.info/en/documentation/mamp/
+
+https://wordpress.org/themes/
+http://codex.wordpress.org/Theme_Development
+
+https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
+https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
+
+WordPress Helpers
+https://github.com/kennethreitz-archive/wordpress-theme-skeleton
+https://github.com/andjosh/naked-wordpress/blob/master/single.php
+-->
 
 WordPress Template Hierarchy
 * [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
@@ -5818,6 +5841,12 @@ Google Cloud and App Engine
 * [Google App Engine Code](http://code.google.com/p/googleappengine)  
 * [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
 * [Google Apps for Work](https://www.google.com/a/signup)  
+
+<!--
+Google Cloud Platform GitHub
+https://github.com/GoogleCloudPlatform
+https://github.com/GoogleCloudPlatform/getting-started-dotnet
+-->
 
 Google Cloud Functions (See also Amazon Web Services- Lambda)
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
