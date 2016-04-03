@@ -4013,6 +4013,7 @@ Facebook- React (JavaScript)
 * [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
 
 <!--
+* [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
@@ -5346,7 +5347,7 @@ Amazon Web Services
 * [AWS Articles](https://aws.amazon.com/articles)
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers)
 
-Developer and Documentation
+AWS- Developer and Documentation
 * [AWS Products](http://aws.amazon.com/products)
 * [AWS Documentation](http://aws.amazon.com/documentation)
 * [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
@@ -5356,7 +5357,7 @@ Developer and Documentation
 * [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
 * [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
-AWS Regions, Instances, Getting Started, EC2/CLI/Linux Reference
+AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
 * [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
 * [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
@@ -5364,27 +5365,28 @@ AWS Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
 * [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
 
-Pricing
+AWS- Pricing
 * [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
 * [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
 
-SES and SNS
+AWS- SES and SNS
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
 
-Amazon Web Services- Lambda (See also Google Cloud Functions)
+AWS- Lambda (See also Google Cloud Functions)
 * [AWS Lambda](http://aws.amazon.com/lambda)  
 * [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
 * [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 
-<!--
- https://aws.amazon.com/mobile/
-http://aws.amazon.com/mobile/sdk
-https://aws.amazon.com/websites
-http://aws.amazon.com/websites/getting-started
+AWS - Mobile
+* [AWS Mobile](https://aws.amazon.com/mobile)
+* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
+* [AWS Websites](https://aws.amazon.com/websites)
+* [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
 
+<!--
 http://aws.amazon.com/documentation/sdk-for-ios/
 
 Web and Mobile Apps
