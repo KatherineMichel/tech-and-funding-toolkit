@@ -3671,6 +3671,10 @@ GNU Software and Manuals
 
 #### Programming Languages, MVCs
 
+Cases
+* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
+* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
+
 Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
 * [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
