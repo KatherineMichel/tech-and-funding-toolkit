@@ -98,7 +98,7 @@ Table of Content
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
 * [Dev Ops Tools](#dev-ops-tools)
 * [Servers and Databases](#servers-and-databases)
-* [SQL](#sql)  
+* [Apache and SQL](#apach-and-sql)  
 * [More Back-End](#more-back-end)
 * [Mobile](#mobile)
   * [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
@@ -5223,7 +5223,14 @@ Types of Databases
 Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
-#### SQL
+#### Apache and SQL
+
+Apache (See also mod_wsgi)
+* [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
+* [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
+* [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+* [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
+* [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
 
 SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
@@ -5251,7 +5258,12 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [MySQL GitHub](https://github.com/twitter/mysql)  
 * [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
  
-WAMP and MAMP
+MAMP and WampServer (See also PHP)
+* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+* [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
+* [MAMP Pro](https://www.mamp.info/en/mamp-pro)
+* [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
+* [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
 #### Deployment and Cloud
 
@@ -5598,13 +5610,6 @@ Python- Django- Digital Ocean Deployment
 
 Python- Django- OpenShift Deployment
 * [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
-
-PHP- MAMP and WampServer
-* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
-* [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
-* [MAMP Pro](https://www.mamp.info/en/mamp-pro)
-* [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
-* [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en)  
 
 PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
@@ -6231,13 +6236,6 @@ Hadoop, Hortonworks Sandbox, Cloudera
 * [Hadoop Distributed File System](http://hortonworks.com/hadoop/hdfs)  
 * [Hadoop Distributed File System](http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  
 
-Apache (See also mod_wsgi)
-* [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
-* [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
-* [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
-* [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
-* [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
-
 Hadoop and MapReduce/Elastic MapReduce (Run MapReduce jobs on Hadoop or Amazon Web Services)
 * [MapR Blog](https://www.mapr.com/blog) 
 * [Hadoop MapReduce GitHub](https://github.com/apache/hadoop-mapreduce)  
@@ -6662,12 +6660,9 @@ Livestreaming, Video, Audio
 * [Vimeo](https://vimeo.com)  
 * [YouTube](https://www.youtube.com) 
 
-<!--
-YouTube auto transcription
-https://support.google.com/youtube/answer/2734799?hl=en
-
-https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html
--->
+Voice
+* [Google Docs Voice Typing](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
+* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
 
 Photo Hosting
 * [Flickr](https://www.flickr.com) 
