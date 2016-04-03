@@ -3421,6 +3421,8 @@ Emoji and Other Funny Keyboard Shortcode
 
 #### More Command Line and Shell
 
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
+
 Command Line
 * [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
 * [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
