@@ -5553,6 +5553,9 @@ Microsoft Special Deals
 
 #### Deployment and Cloud by Language
 
+JavaScript- Amazon
+* [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript) and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
+
 Node.js- Heroku
 * [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
 * [Heroku App.json GitHub](https://github.com/heroku/app.json)  
@@ -5574,7 +5577,7 @@ Node.js- Google Cloud
 
 Node.js- Amazon
 * [AWS Node.js](https://aws.amazon.com/sdk-for-node-js)
-* [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript) and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
+* [Deploying a Node.js Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.html)
 
 <!--
 http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
@@ -5595,11 +5598,10 @@ Python- Heroku
 Python- Amazon
 * [AWS Python](https://aws.amazon.com/python)
 * [AWS Python SDK (Boto3)](https://aws.amazon.com/sdk-for-python) and [Boto3 GitHub](https://github.com/boto/boto3)
-* [AWS Elastic Beanstalk: Working with Python](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html)
+* [Deploying a Python Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html)
 
-Python- Django- Heroku Deployment
+Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
 * [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template) 
-* URL: http://appname.herokuapp.com
 * [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
 * [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
 * [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
@@ -5628,8 +5630,9 @@ PHP- Amazon
 * [AWS PHP](https://aws.amazon.com/php)
 * [AWS PHP SDK](https://github.com/aws/aws-sdk-php)
 * [Getting Started with the AWS SDK for PHP](https://aws.amazon.com/articles/4261)
+* [Deploying a PHP Application to AWS Elastic Beanstalk (WordPress?)](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html)
 
-Ruby- Heroku Buildpacks and Getting Started (Other than ASP.NET, and Node.js)
+Ruby- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
 * [Heroku Ruby Getting Started GitHub](https://github.com/heroku/ruby-getting-started) 
 
