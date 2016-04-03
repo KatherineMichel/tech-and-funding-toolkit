@@ -5354,6 +5354,7 @@ AWS Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
 * [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
 * [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
+
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
 * [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
 
@@ -5442,6 +5443,16 @@ Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
 
 <!--
+https://www.heroku.com/pricing
+https://www.heroku.com/beta-pricing
+https://devcenter.heroku.com/articles/usage-and-billing
+https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta
+All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
+
+https://devcenter.heroku.com/articles/dynos
+https://devcenter.heroku.com/articles/dyno-size
+https://devcenter.heroku.com/articles/scaling
+
 https://github.com/heroku/heroku-apps
 
 https://devcenter.heroku.com/start
@@ -5451,20 +5462,10 @@ https://devcenter.heroku.com/articles/labs-pipelines
 https://devcenter.heroku.com/articles/releases
 https://devcenter.heroku.com/categories/deployment
 
-https://www.heroku.com/pricing
-https://www.heroku.com/beta-pricing
-https://devcenter.heroku.com/articles/usage-and-billing
-https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta
-All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
-
 https://devcenter.heroku.com/articles/git
 https://devcenter.heroku.com/articles/git-clone-heroku-app
 https://devcenter.heroku.com/articles/github-integration
 https://blog.heroku.com/archives/2015/2/6/heroku_github_integration
-
-https://devcenter.heroku.com/articles/dynos
-https://devcenter.heroku.com/articles/dyno-size
-https://devcenter.heroku.com/articles/scaling
 
 https://devcenter.heroku.com/articles/keys
 https://devcenter.heroku.com/articles/securekey Application architecture links
@@ -5556,6 +5557,12 @@ Microsoft Special Deals
 JavaScript- Amazon
 * [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript) and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
 
+<!--
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
+-->
+
 Node.js- Heroku
 * [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
 * [Heroku App.json GitHub](https://github.com/heroku/app.json)  
@@ -5578,12 +5585,6 @@ Node.js- Google Cloud
 Node.js- Amazon
 * [AWS Node.js](https://aws.amazon.com/sdk-for-node-js)
 * [Deploying a Node.js Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.html)
-
-<!--
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
--->
 
 Python- Heroku
 * [Heroku Python Homepage](https://www.heroku.com/python) 
