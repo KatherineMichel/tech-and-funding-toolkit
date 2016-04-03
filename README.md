@@ -5379,6 +5379,8 @@ http://aws.amazon.com/mobile/sdk
 https://aws.amazon.com/websites
 http://aws.amazon.com/websites/getting-started
 
+http://aws.amazon.com/documentation/sdk-for-ios/
+
 Web and Mobile Apps
 http://aws.amazon.com/web-mobile-social
 
@@ -5413,6 +5415,27 @@ http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
 http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
 http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html
+http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html
+http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html
+
+Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, and Ruby
+http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html
+
+Server-Side
+http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
+
+Windows
+http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
+
+Static/Client-Side Site
+http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+
+http://docs.aws.amazon.com/gettingstarted/latest/deploy/deploying-with-elastic-beanstalk.html
+
+Hosting a Web App on Amazon Web Services
+http://aws.amazon.com/web-applications/gsg-webapps-linux
+http://aws.amazon.com/web-applications/gsg-webapps-windows
 
 https://aws.amazon.com/elasticbeanstalk/faqs
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
@@ -5425,11 +5448,8 @@ http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 
-Hosting a Web App on Amazon Web Services
-http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
-http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
-http://aws.amazon.com/web-applications/gsg-webapps-linux
-http://aws.amazon.com/web-applications/gsg-webapps-windows
+
+https://aws.amazon.com/machine-learning/
 -->
 
 Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
@@ -5478,9 +5498,6 @@ https://devcenter.heroku.com/articles/config-vars
 https://devcenter.heroku.com/articles/deploy-hooks
 https://devcenter.heroku.com/articles/architecting-apps
 https://devcenter.heroku.com/categories/application-architecture
-
-https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
-http://postgis.refractions.net
 -->
 
 Heroku Multiple Environments and Site Staging
@@ -5633,6 +5650,16 @@ PHP- Amazon
 * [Getting Started with the AWS SDK for PHP](https://aws.amazon.com/articles/4261)
 * [Deploying a PHP Application to AWS Elastic Beanstalk (WordPress?)](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html)
 
+<!--
+https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
+http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html#installing-via-composer
+
+http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-wordpress.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
+http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2Win_CreateWordPressBlog.html
+https://d0.awsstatic.com/whitepapers/deploying-wordpress-with-aws-elastic-beanstalk.pdf
+-->
+
 Ruby- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
 * [Heroku Ruby Getting Started GitHub](https://github.com/heroku/ruby-getting-started) 
@@ -5652,6 +5679,10 @@ Go- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
 * [Heroku Go Getting Started GitHub](https://github.com/heroku/go-getting-started) 
 
+<!--
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_go.html
+-->
+
 .NET and ASP.Net- Heroku
 * [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
 * [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
@@ -5665,10 +5696,25 @@ Go- Heroku Buildpacks and Getting Started
 * [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
 <!--
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.container.html
+https://zapier.com/zapbook/amazon-s3/visual-studio-online/
+
+http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv-deployment.html
+
 https://github.com/GoogleCloudPlatform/getting-started-dotnet
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.deployment.source.html
 
 https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku
 https://devcenter.heroku.com/articles/deploying-java-applications-to-heroku-from-eclipse-or-intellij-idea
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html
+http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/docker-singlecontainer-deploy.html
+http://www.docker.com/aws
+
+https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
+http://postgis.refractions.net
 -->
 
 #### Dev Ops Tools
