@@ -5350,14 +5350,20 @@ Developer and Documentation
 * [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
 * [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
-AWS Regions, Instances, Free Tier Usage, Getting Started, EC2/CLI/Linux Reference
+AWS Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
 * [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
 * [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
+* [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
+* [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
+
+Pricing
 * [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
 * [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
-* [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)  
-* [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html)  
+
+SES and SNS
+* [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
+* [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
 
 Amazon Web Services- Lambda (See also Google Cloud Functions)
 * [AWS Lambda](http://aws.amazon.com/lambda)  
@@ -5367,10 +5373,7 @@ Amazon Web Services- Lambda (See also Google Cloud Functions)
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 
 <!--
-http://aws.amazon.com/sns
-[AWS SES](http://aws.amazon.com/ses)  
-
-https://aws.amazon.com/mobile/
+ https://aws.amazon.com/mobile/
 http://aws.amazon.com/mobile/sdk
 https://aws.amazon.com/websites
 http://aws.amazon.com/websites/getting-started
@@ -5429,13 +5432,14 @@ http://aws.amazon.com/web-applications/gsg-webapps-windows
 -->
 
 Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
-* [Heroku](https://www.heroku.com)  
-* [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
-* [Heroku GitHub](https://github.com/heroku/heroku)  
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku/heroku)  
 * [Heroku Dev Center](https://devcenter.heroku.com)  
 * [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
 * [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
 * [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
+
+Heroku- Pricing and App Limits
+* [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
 
 <!--
 https://github.com/heroku/heroku-apps
@@ -5692,13 +5696,13 @@ Ansible (Automation and Configuration Management)
 * [Ansible Deployment](http://www.ansible.com)  
 * [Ansible GitHub](https://github.com/ansible/ansible)  
 * [Ansible Playbooks](http://docs.ansible.com/ansible/playbooks.html)
+* [Ansible Examples GitHub](https://github.com/ansible/ansible-examples)
 * [Ansible AWS](http://www.ansible.com/aws)
 
 <!--
 http://docs.ansible.com/ansible/playbooks_intro.html
 http://docs.ansible.com/ansible/playbooks_checkmode.html
 http://docs.ansible.com/ansible/playbooks_roles.html
-https://github.com/ansible/ansible-examples
 -->
 
 Salt (Automation and Configuration Management)
