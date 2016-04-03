@@ -3828,10 +3828,12 @@ Java- General
 * [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet)  
 
 PHP
-* [PHP](http://php.net)  
-* [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
+* [PHP](http://php.net) and [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
 * [PHP Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/PHP_syntax_and_semantics)  
 * [PHP Manual](http://www.php.net/manual/en/index.php)  
+* [PHP Wiki](https://wiki.php.net)
+
+PHP- Version Control and Frameworks
 * [Composer GitHub](https://github.com/composer/composer)  
 * [Symfony GitHub](https://github.com/symfony/symfony)  
 * [CakePHP GitHub](https://github.com/cakephp/cakephp)  
@@ -3868,9 +3870,6 @@ Node.js/PHP- WordPress- Preferred Templates and Documents
 <!--
 https://wordpress.org/about/requirements/
 
-https://wordpress.org/themes/
-http://codex.wordpress.org/Theme_Development
-
 https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
 https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
 
@@ -3879,7 +3878,9 @@ https://github.com/kennethreitz-archive/wordpress-theme-skeleton
 https://github.com/andjosh/naked-wordpress/blob/master/single.php
 -->
 
-WordPress Template Hierarchy
+WordPress Theme Development and Template Hierarchy
+* [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
+* [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
 * [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
 * [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
 * [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
