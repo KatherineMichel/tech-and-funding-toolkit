@@ -5261,18 +5261,6 @@ ASP.NET- Docs
 * ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
 * ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
 
-.NET and ASP.Net- Heroku
-* [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
-* [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
-
-.NET and ASP.Net- AWS
-* [AWS Windows and .NET Developer Center](https://aws.amazon.com/net)
-* [AWS SDK for .NET GitHub](https://github.com/aws/aws-sdk-net)
-* ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
-* [AWS Toolkit for Visual Studio](https://aws.amazon.com/visualstudio)
-* [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
-* [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
-
 ASP.NET- Docker
 * [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
 * [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
@@ -5835,18 +5823,8 @@ Google Cloud, App Engine
 Google Cloud, App Engine and GitHub
 * [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html) 
 
-<!--
-https://github.com/GoogleCloudPlatform/getting-started-dotnet
--->
-
 Google Cloud Functions (See also Amazon Web Services- Lambda)
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
-
-<!--
-https://msdn.microsoft.com/en-us/
-https://www.microsoft.com/bizspark
-https://www.dreamspark.com
--->
 
 Nitrous (IDE)
 * [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
@@ -5863,6 +5841,11 @@ Content Delivery Network
 
 Optimization
 * [Cloudflare](https://www.cloudflare.com) 
+
+Microsoft Special Deals
+* [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
+* [Microsoft DreamSpark](https://www.dreamspark.com)
+* [Microsoft BizSpark](https://www.microsoft.com/bizspark)
 
 #### Deployment and Cloud by Language
 
@@ -5885,10 +5868,11 @@ Node.js- Heroku and Docker
 Node.js- Google Cloud
 * [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
 
+Node.js- Amazon
+* [AWS Node.js](https://aws.amazon.com/sdk-for-node-js)
+* [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript) and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
+
 <!--
-https://aws.amazon.com/documentation/sdk-for-javascript/
-https://github.com/aws/aws-sdk-js
-https://aws.amazon.com/sdk-for-node-js/
 http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
 http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
 http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
@@ -5897,7 +5881,8 @@ http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
 Python- Heroku
 * [Heroku Python Homepage](https://www.heroku.com/python) 
 * [Heroku Python Category](https://devcenter.heroku.com/categories/python) 
-* [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)  
+* [Heroku Python Sample GitHub](https://github.com/heroku/python-sample)  
+* [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)
 * [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
 * [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)  
 * [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
@@ -5905,13 +5890,8 @@ Python- Heroku
 
 Python- Amazon
 * [AWS Python](https://aws.amazon.com/python)
-* [AWS Python SDK](https://aws.amazon.com/sdk-for-python)
-
-<!--
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html
-https://github.com/boto/boto3
-https://github.com/heroku/python-sample
--->
+* [AWS Python SDK (Boto3)](https://aws.amazon.com/sdk-for-python) and [Boto3 GitHub](https://github.com/boto/boto3)
+* [AWS Elastic Beanstalk: Working with Python](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html)
 
 Python- Django- Heroku Deployment
 * [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template) 
@@ -5932,16 +5912,11 @@ Python- Django- OpenShift Deployment
 * [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
 
 PHP- MAMP and WampServer
+* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
 * [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
 * [MAMP Pro](https://www.mamp.info/en/mamp-pro)
+* [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en)  
-
-<!--
-https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP
-
-https://www.mamp.info/en/documentation/
-https://documentation.mamp.info/en/documentation/mamp/
--->
 
 PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
@@ -5979,14 +5954,23 @@ Go- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
 * [Heroku Go Getting Started GitHub](https://github.com/heroku/go-getting-started) 
 
+.NET and ASP.Net- Heroku
+* [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
+* [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+
+.NET- Amazon
+* [AWS .NET](https://aws.amazon.com/net)
+* [AWS .NET SDK](https://github.com/aws/aws-sdk-net)
+* ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
+* [AWS Toolkit for Visual Studio](https://aws.amazon.com/visualstudio)
+* [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
+* [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
+
 <!--
-(Other than ASP.NET)
+https://github.com/GoogleCloudPlatform/getting-started-dotnet
 
 https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku
 https://devcenter.heroku.com/articles/deploying-java-applications-to-heroku-from-eclipse-or-intellij-idea
-
-https://aws.amazon.com/net
-https://github.com/aws/aws-sdk-net
 -->
 
 #### Dev Ops Tools
