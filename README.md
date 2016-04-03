@@ -5343,6 +5343,8 @@ Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
 * [AWS Blog](https://aws.amazon.com/blogs)
 * [AWS Forum](https://forums.aws.amazon.com)
+* [AWS Articles](https://aws.amazon.com/articles)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
 
 Developer and Documentation
 * [AWS Products](http://aws.amazon.com/products)
@@ -5404,9 +5406,6 @@ http://aws.amazon.com/pricing
 https://aws.amazon.com/ec2/pricing
 https://aws.amazon.com/s3/pricing
 http://aws.amazon.com/pricing/rds
-
-https://aws.amazon.com/articles
-https://aws.amazon.com/whitepapers
 
 http://aws.amazon.com/security
 https://developer.amazon.com/public/apis
@@ -5480,23 +5479,24 @@ https://devcenter.heroku.com/articles/scaling
 https://github.com/heroku/heroku-apps
 
 https://devcenter.heroku.com/start
+
 https://devcenter.heroku.com/categories/reference
 https://devcenter.heroku.com/categories/add-on-documentation
+https://devcenter.heroku.com/categories/deployment
+
 https://devcenter.heroku.com/articles/labs-pipelines
 https://devcenter.heroku.com/articles/releases
-https://devcenter.heroku.com/categories/deployment
 
 https://devcenter.heroku.com/articles/git
 https://devcenter.heroku.com/articles/git-clone-heroku-app
 https://devcenter.heroku.com/articles/github-integration
 https://blog.heroku.com/archives/2015/2/6/heroku_github_integration
+https://blog.heroku.com/archives/2014/8/7/heroku-button
+https://devcenter.heroku.com/articles/heroku-button
 
 https://devcenter.heroku.com/articles/keys
 https://devcenter.heroku.com/articles/securekey Application architecture links
 https://addons.heroku.com/securekey#fortnightly
-
-https://blog.heroku.com/archives/2014/8/7/heroku-button
-https://devcenter.heroku.com/articles/heroku-button
 
 https://devcenter.heroku.com/articles/config-vars
 https://devcenter.heroku.com/articles/deploy-hooks
@@ -6745,7 +6745,10 @@ Social Media Distribution
 * [Twime Machine](http://www.twimemachine.com)
 
 <!--
+PHP
 https://github.com/abraham/twitteroauth
+
+Pytho
 https://github.com/ryanmcgrath/twython
 -->
 
