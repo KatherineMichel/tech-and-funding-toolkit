@@ -5380,17 +5380,15 @@ AWS- Lambda (See also Google Cloud Functions)
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 
-AWS - Mobile
-* [AWS Mobile](https://aws.amazon.com/mobile)
-* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
+AWS- Websites, Mobile, Social
 * [AWS Websites](https://aws.amazon.com/websites)
 * [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
+* [AWS Web Mobile Social](http://aws.amazon.com/web-mobile-social)
+* [AWS Mobile](https://aws.amazon.com/mobile)
+* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
 
 <!--
 http://aws.amazon.com/documentation/sdk-for-ios/
-
-Web and Mobile Apps
-http://aws.amazon.com/web-mobile-social
 
 http://aws.amazon.com/documentation/s3/
 http://docs.aws.amazon.com/elasticbeanstalk
