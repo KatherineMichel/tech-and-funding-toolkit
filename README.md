@@ -5369,6 +5369,17 @@ AWS- Pricing
 * [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
 * [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
 
+AWS- Websites, Mobile, Social
+* [AWS Websites](https://aws.amazon.com/websites)
+* [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
+* [AWS Web Mobile Social](http://aws.amazon.com/web-mobile-social)
+* [AWS Mobile](https://aws.amazon.com/mobile)
+* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
+
+AWS- Websites, Mobile, Social
+* [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
+* [AWS S3](http://aws.amazon.com/documentation/s3)
+
 AWS- SES and SNS
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
@@ -5380,18 +5391,8 @@ AWS- Lambda (See also Google Cloud Functions)
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 
-AWS- Websites, Mobile, Social
-* [AWS Websites](https://aws.amazon.com/websites)
-* [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
-* [AWS Web Mobile Social](http://aws.amazon.com/web-mobile-social)
-* [AWS Mobile](https://aws.amazon.com/mobile)
-* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
-
 <!--
 http://aws.amazon.com/documentation/sdk-for-ios/
-
-http://aws.amazon.com/documentation/s3/
-http://docs.aws.amazon.com/elasticbeanstalk
 
 https://www.amazon.com/gp/drive/landing/everything
 https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
