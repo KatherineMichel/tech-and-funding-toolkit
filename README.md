@@ -5619,7 +5619,7 @@ PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
 * [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
 * [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
-* [Heroku Deploying PHP GitHub](https://devcenter.heroku.com/articles/deploying-php) 
+* [Heroku Deploying PHP](https://devcenter.heroku.com/articles/deploying-php) 
 
 PHP- Heroku and Docker
 * [Heroku PHP Docker GitHub](https://github.com/heroku/docker-php)
@@ -5641,11 +5641,8 @@ Ruby- Amazon
 * [AWS Ruby SDK](https://aws.amazon.com/sdk-for-ruby) and [AWS Ruby SDK GitHub](https://github.com/aws/aws-sdk-ruby)
 * [AWS Flow Framework for Ruby GitHub](https://github.com/aws/aws-flow-ruby)
 
-<!--
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
-https://aws.amazon.com/articles/Ruby
-http://aws.amazon.com/articles/Ruby/846
--->
+Ruby on Rails- Amazon
+* [Deploying a Rails Application to Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html)
 
 Go- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
@@ -5658,7 +5655,7 @@ Go- Heroku Buildpacks and Getting Started
 .NET- Amazon
 * [AWS .NET](https://aws.amazon.com/net)
 * [AWS .NET SDK](https://github.com/aws/aws-sdk-net)
-* ["Hosting a .NET Web App on Amazon Web Services"](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
+* [Hosting a .NET Web App on Amazon Web Services](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
 * [AWS Toolkit for Visual Studio](https://aws.amazon.com/visualstudio)
 * [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
 * [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
