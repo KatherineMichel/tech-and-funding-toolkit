@@ -5342,6 +5342,7 @@ GitHub, AWS, Heroku Deployment
 * [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
 * [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
 * [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+* Illustration: Startup Engineering Dev, Staging, Production
 
 AWS Deployment/Staging- Virtual Private Networks
 * [Virtual Private Clouds](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html) and [Virtual Private Clouds Wikipedia](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud)  
