@@ -3718,7 +3718,7 @@ Miscellaneous Programming Languages
 * [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
 * [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
 * [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
-* [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)  
+* [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
 * [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
 * [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
 * [Angular Dart GitHub](https://github.com/angular/angular.dart)  
@@ -3731,40 +3731,6 @@ Miscellaneous Programming Languages
 * [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
 * [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 * Apple- Swift
-
-Ruby
-* [Ruby](https://www.ruby-lang.org/en)  
-* [Ruby GitHub](https://github.com/ruby/ruby)
-
-Ruby- Installation and Control
-* [Ruby Installation Methods](https://www.ruby-lang.org/en/documentation/installation)
-* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
-* [Ruby Gems GitHub](https://github.com/rubygems/rubygems)
-* [Rake GitHub](https://github.com/ruby/rake)
-* [Capistrano GitHub](https://github.com/capistrano/capistrano)
-
-Ruby- Learning Resources
-* [Try Ruby](http://tryruby.org)
-* [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
-* [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
-* [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
-* [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0)  
-  
-Ruby- Executable Specification
-* [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
-* [Ruby Testing Tool](http://rspec.info)  
-
-Rails, Jekyll- Preferred Templates and Documents
-* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
-* [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
-* [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
-* [Ruby Guides](http://guides.rubyonrails.org) 
-* [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
-* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
-* [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
-* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
-* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 JavaScript
 * [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
@@ -3807,45 +3773,39 @@ jQuery
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
-Golang, otherwise known as "Go"
-* [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
-* [Golang](http://golang.org)  
-* [Golang Documentation](http://golang.org/doc)  
-* [Golang Packages](http://golang.org/pkg)  
-* [Golang Search](http://go-search.org)  
-* [Golang Play](http://play.golang.org)  
-* [Golang Talks](https://talks.golang.org)
-* [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
-* [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
+Ruby
+* [Ruby](https://www.ruby-lang.org/en)  
+* [Ruby GitHub](https://github.com/ruby/ruby)
 
-Golang, Uers
-* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
+Ruby- Installation and Control
+* [Ruby Installation Methods](https://www.ruby-lang.org/en/documentation/installation)
+* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
+* [Ruby Gems GitHub](https://github.com/rubygems/rubygems)
+* [Rake GitHub](https://github.com/ruby/rake)
+* [Capistrano GitHub](https://github.com/capistrano/capistrano)
 
-Golang Installation
-* [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
+Ruby- Learning Resources
+* [Try Ruby](http://tryruby.org)
+* [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
+* [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
+* [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
+* [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0)  
+  
+Ruby- Executable Specification
+* [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
+* [Ruby Testing Tool](http://rspec.info)  
 
-Golang- Frameworks
-* [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
-* [Gin GitHub](https://github.com/gin-gonic/gin) 
-* [Martini GitHub](https://github.com/go-martini/martini)
-* [Revel GitHub](https://github.com/revel/revel)
-
-Java- General
-* [Java Website](http://www.java.com/en)  
-* [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
-* [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
-* [Java](http://www.oracle.com/technetwork/java/index-jsp-135888.html)  
-* [Java Documentation](http://www.oracle.com/technetwork/documentation/index.html#java)  
-* [Java Programming Language Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
-* [Java Programming Language Tutorials](http://docs.oracle.com/javase/tutorial)  
-* [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)  
-* [Java Core Libraries](http://openjdk.java.net/groups/core-libs)  
-* [Java ME Reference](http://www.oracle.com/technetwork/java/javame/documentation/index.html)  
-* [NetBeans Docs](https://netbeans.org/kb/index.html)  
-* [NetBeans Plugins](http://plugins.netbeans.org/)  
-* [Eclipse Docs](http://help.eclipse.org/kepler/index.jsp)  
-* [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
-* [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet)  
+Rails, Jekyll- Preferred Templates and Documents
+* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
+* [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
+* [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
+* [Ruby Guides](http://guides.rubyonrails.org) 
+* [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
+* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
+* [Jekyll Templates](https://jekyllrb.com/docs/templates)
+* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
+* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 PHP
 * [PHP](http://php.net) and [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
@@ -3926,6 +3886,46 @@ Wikitech Development
 * [Wikitech AP](http://www.mediawiki.org/wiki/API:Main_page)  
 * [Wikitech Account](https://wikitech.wikimedia.org/wiki/Special:Preferences)  
 * [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git)  
+
+Golang, otherwise known as "Go"
+* [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
+* [Golang](http://golang.org)  
+* [Golang Documentation](http://golang.org/doc)  
+* [Golang Packages](http://golang.org/pkg)  
+* [Golang Search](http://go-search.org)  
+* [Golang Play](http://play.golang.org)  
+* [Golang Talks](https://talks.golang.org)
+* [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
+* [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
+
+Golang, Uers
+* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
+
+Golang Installation
+* [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
+
+Golang- Frameworks
+* [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
+* [Gin GitHub](https://github.com/gin-gonic/gin) 
+* [Martini GitHub](https://github.com/go-martini/martini)
+* [Revel GitHub](https://github.com/revel/revel)
+
+Java- General
+* [Java Website](http://www.java.com/en)  
+* [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
+* [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
+* [Java](http://www.oracle.com/technetwork/java/index-jsp-135888.html)  
+* [Java Documentation](http://www.oracle.com/technetwork/documentation/index.html#java)  
+* [Java Programming Language Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
+* [Java Programming Language Tutorials](http://docs.oracle.com/javase/tutorial)  
+* [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)  
+* [Java Core Libraries](http://openjdk.java.net/groups/core-libs)  
+* [Java ME Reference](http://www.oracle.com/technetwork/java/javame/documentation/index.html)  
+* [NetBeans Docs](https://netbeans.org/kb/index.html)  
+* [NetBeans Plugins](http://plugins.netbeans.org/)  
+* [Eclipse Docs](http://help.eclipse.org/kepler/index.jsp)  
+* [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
+* [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet)  
 
 #### Programming Language Style Guides
 
