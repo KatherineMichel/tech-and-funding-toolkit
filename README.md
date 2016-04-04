@@ -2442,7 +2442,7 @@ Accessibility
 
 #### Web Dev and Design
 
-Web General
+Web General (See also JavaScript) 
 * [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 * [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
 * [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
@@ -2456,13 +2456,18 @@ Web General
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
-W3Schools Tutorials
+CSS Tutorials
+* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
 * [W3Schools CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
+
+HTML Tutorials
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [W3Schools HTML Tags Tutorial](http://www.w3schools.com/tags/default.asp)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+
+Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-* [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
 
 <!--
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
@@ -3613,19 +3618,23 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
-https://learnxinyminutes.com/docs/css/
-https://learnxinyminutes.com/docs/javascript/
+https://learnxinyminutes.com/docs/markdown/
+https://learnxinyminutes.com/docs/git/
+
 https://learnxinyminutes.com/docs/pythonstatcomp/
+
 https://learnxinyminutes.com/docs/ruby/
 https://learnxinyminutes.com/docs/ruby-ecosystem/
 https://learnxinyminutes.com/docs/it-it/ruby-ecosystem-it/
+
 https://learnxinyminutes.com/docs/php/
+
 https://learnxinyminutes.com/docs/csharp/
+
 https://learnxinyminutes.com/docs/swift/
 https://learnxinyminutes.com/docs/go/
+
 https://learnxinyminutes.com/docs/json/
-https://learnxinyminutes.com/docs/markdown/
-https://learnxinyminutes.com/docs/git/
 https://learnxinyminutes.com/docs/powershell/
 -->
 
@@ -3761,11 +3770,16 @@ JavaScript
 * [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
 * [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
+* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+
+JavaScript Tutorials
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+* [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
 * [JavaScript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
 <!--
 https://en.wikipedia.org/wiki/JavaScript_syntax
