@@ -1890,7 +1890,6 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
-
 https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
 https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
 https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
@@ -3264,6 +3263,9 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+https://en.wikipedia.org/wiki/List_of_tools_for_code_review
+https://en.wikipedia.org/wiki/Code_review
+
 https://try.github.io
 
 https://www.atlassian.com/git
