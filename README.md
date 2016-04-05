@@ -3400,7 +3400,7 @@ GitLab (See also Project Management)
 * [GitLab Features](https://about.gitlab.com/features)
 
 GitHub Alternatives
-* [Bitbucket](https://bitbucket.org)  
+* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
 * [Google Code](https://code.google.com)  
 * [Sourceforge](http://sourceforge.net)  
 * [Codebase](https://www.codebasehq.com)  
