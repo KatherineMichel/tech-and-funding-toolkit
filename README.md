@@ -3686,6 +3686,9 @@ Cases
 * [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
 * [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
 
+Method Resolution Order
+* [C3 Linearization](https://en.wikipedia.org/wiki/C3_linearization)
+
 Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
 * [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
@@ -5681,6 +5684,8 @@ http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-wordpress
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
 http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2Win_CreateWordPressBlog.html
 https://d0.awsstatic.com/whitepapers/deploying-wordpress-with-aws-elastic-beanstalk.pdf
+
+https://github.com/GoogleCloudPlatform/appengine-php-wordpress-starter-project
 -->
 
 Ruby- Heroku Buildpacks and Getting Started
@@ -5747,6 +5752,10 @@ See also Fabric
 Python- Kubernetes
 * [Gondor (on Kubernetes)](https://gondor.io)
 * [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)  
+
+<!--
+https://github.com/eldarion-gondor/pykube
+-->
 
 Docker
 * [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
