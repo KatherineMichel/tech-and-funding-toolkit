@@ -3234,6 +3234,10 @@ Git
 * [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
 * [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
  
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
 A Successful Git Branching Model
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
@@ -3263,8 +3267,7 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
-https://en.wikipedia.org/wiki/List_of_tools_for_code_review
-https://en.wikipedia.org/wiki/Code_review
+Project Management
 
 https://try.github.io
 
@@ -3687,7 +3690,7 @@ Cases
 * [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
 
 Method Resolution Order
-* [C3 Linearization](https://en.wikipedia.org/wiki/C3_linearization)
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 
 Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
