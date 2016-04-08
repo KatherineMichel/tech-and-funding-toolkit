@@ -4218,7 +4218,7 @@ Node Add-ons
 * [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
 
 MVCs General, Backbone, Ember
-* [Todo MVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc)  
+* [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc)  
 * [Backbone](http://backbonejs.org)  
 * [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
 * [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
@@ -5759,16 +5759,22 @@ PHP- Amazon
 * [Getting Started with the AWS SDK for PHP](https://aws.amazon.com/articles/4261)
 * [Deploying a PHP Application to AWS Elastic Beanstalk (WordPress?)](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html)
 
-<!--
-https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
-http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html#installing-via-composer
+PHP/WordPress- Amazon
 
+<!--
 http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-wordpress.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
 http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2Win_CreateWordPressBlog.html
 https://d0.awsstatic.com/whitepapers/deploying-wordpress-with-aws-elastic-beanstalk.pdf
+-->
 
+PHP/WordPress- Google Cloud
+
+<!--
 https://github.com/GoogleCloudPlatform/appengine-php-wordpress-starter-project
+
+https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
+http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html#installing-via-composer
 -->
 
 Ruby- Heroku Buildpacks and Getting Started
@@ -5789,10 +5795,7 @@ Ruby on Rails- Amazon
 Go- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
 * [Heroku Go Getting Started GitHub](https://github.com/heroku/go-getting-started) 
-
-<!--
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_go.html
--->
+* [Deploying Go Applications to Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_go.html)
 
 .NET and ASP.Net- Heroku
 * [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
@@ -5834,11 +5837,8 @@ See also Fabric
  
 Python- Kubernetes
 * [Gondor (on Kubernetes)](https://gondor.io)
+* [pykube GitHub](https://github.com/eldarion-gondor/pykube)
 * [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)  
-
-<!--
-https://github.com/eldarion-gondor/pykube
--->
 
 Docker
 * [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
