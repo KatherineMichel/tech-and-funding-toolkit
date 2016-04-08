@@ -3910,6 +3910,8 @@ WordPress Helpers
 https://github.com/kennethreitz-archive/wordpress-theme-skeleton
 https://github.com/andjosh/naked-wordpress/blob/master/single.php
 
+http://codex.wordpress.org/Using_Password_Protection
+
 https://developer.wordpress.org/reference/
 http://codex.wordpress.org
 http://codex.wordpress.org/Codex:Quick_index
