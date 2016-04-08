@@ -3756,6 +3756,9 @@ JavaScript Tutorials
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
 <!--
+http://www.w3schools.com/js/js_loop_while.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
+
 https://en.wikipedia.org/wiki/JavaScript_syntax
 https://en.wikipedia.org/wiki/JavaScript_library
 https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
