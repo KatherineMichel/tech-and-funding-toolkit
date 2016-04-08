@@ -3815,6 +3815,51 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
+<!--
+http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
+http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation
+http://edgeguides.rubyonrails.org
+https://github.com/rails/rails/issues
+https://groups.google.com/forum/#!forum/rubyonrails-docs
+http://guides.rubyonrails.org/ruby_on_rails_guides_guidelines.html
+http://guides.rubyonrails.org/api_documentation_guidelines.html
+http://guides.rubyonrails.org/plugins.html
+http://guides.rubyonrails.org/working_with_javascript_in_rails.html
+http://guides.rubyonrails.org/command_line.html
+http://guides.rubyonrails.org/configuring.html
+
+http://weblog.rubyonrails.org
+http://guides.rubyonrails.org
+http://api.rubyonrails.org
+http://stackoverflow.com/questions/tagged/ruby-on-rails
+https://github.com/rails/rails
+http://guides.rubyonrails.org/index.html
+http://guides.rubyonrails.org/getting_started.html
+http://guides.rubyonrails.org/Active_record_basics.html
+http://guides.rubyonrails.org/Active_record_migrations.html
+http://guides.rubyonrails.org/Active_record_validations.html
+http://guides.rubyonrails.org/Active_record_callbacks.html
+http://guides.rubyonrails.org/Association_basics.html
+http://guides.rubyonrails.org/Active_record_querying.html
+http://guides.rubyonrails.org/Layouts_and_rendering.html
+http://guides.rubyonrails.org/Form_helpers.html
+http://guides.rubyonrails.org/Action_controller_overview.html
+http://guides.rubyonrails.org/Routing.html
+http://guides.rubyonrails.org/Active_support_core_extensions.html
+http://guides.rubyonrails.org/I18n.html
+http://guides.rubyonrails.org/action_mailer_basics.html
+http://guides.rubyonrails.org/active_job_basics.html
+http://guides.rubyonrails.org/security.html
+http://guides.rubyonrails.org/debugging_rails_applications.html
+http://guides.rubyonrails.org/configuring.html
+http://guides.rubyonrails.org/command_line.html
+http://guides.rubyonrails.org/asset_pipeline.html
+http://guides.rubyonrails.org/working_with_javascript_in_rails.html
+http://guides.rubyonrails.org/autoloading_and_reloading_constants.html
+http://guides.rubyonrails.org/rails_on_rack.html
+http://guides.rubyonrails.org/generators.html
+-->
+
 PHP
 * [PHP](http://php.net) and [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
 * [PHP Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/PHP_syntax_and_semantics)  
