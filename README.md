@@ -2333,6 +2333,10 @@ Google Developers
 * [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
 * [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
+<!--
+https://www.google.com/chrome/browser/canary.html
+-->
+
 Google Analytics
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 Google Ads
@@ -3267,13 +3271,28 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+https://github.com/business
+https://github.com/integrations
+
+https://guides.github.com/features/issues/
+
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/
+
+https://developer.github.com/webhooks/
+https://developer.github.com/webhooks/creating/
+https://help.github.com/articles/about-webhooks/
+
+https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+
+
+
 Project Management
 
 https://try.github.io
 
 https://www.atlassian.com/git
 https://www.atlassian.com/git/tutorials
-
 
 https://github.com/andygrunwald/TrendingGithub
 
@@ -3915,6 +3934,8 @@ https://developer.wordpress.org/themes/template-files-section/page-template-file
 WordPress Helpers
 https://github.com/kennethreitz-archive/wordpress-theme-skeleton
 https://github.com/andjosh/naked-wordpress/blob/master/single.php
+
+https://codex.wordpress.org/Moving_WordPress
 
 http://codex.wordpress.org/Using_Password_Protection
 
