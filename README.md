@@ -3864,6 +3864,33 @@ https://developer.wordpress.org/themes/template-files-section/page-template-file
 WordPress Helpers
 https://github.com/kennethreitz-archive/wordpress-theme-skeleton
 https://github.com/andjosh/naked-wordpress/blob/master/single.php
+
+https://developer.wordpress.org/reference/
+http://codex.wordpress.org
+http://codex.wordpress.org/Codex:Quick_index
+http://codex.wordpress.org/Special:AllPages
+
+http://codex.wordpress.org/Developer_Documentation
+http://codex.wordpress.org/Advanced_Topics
+http://codex.wordpress.org/Blog_Design_and_Layout
+http://codex.wordpress.org/Working_with_WordPress
+http://codex.wordpress.org/Getting_Started_with_WordPress
+http://codex.wordpress.org/WordPress_Lessons
+http://codex.wordpress.org/Main_Page important
+
+http://codex.wordpress.org/Using_Themes
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
+http://codex.wordpress.org/Site_Design_and_Layout
+http://codex.wordpress.org/Stepping_Into_Templates
+http://codex.wordpress.org/Template_Tags
+http://codex.wordpress.org/The_Loop_in_Action
+http://codex.wordpress.org/Category_Templates
+http://codex.wordpress.org/Plugins
+http://codex.wordpress.org/Contributing_to_WordPress
+https://yoast.com/wordpress-theme-anatomy/
+http://codex.wordpress.org/Child_Themes
+http://codex.wordpress.org/Theme_Development#Template_Files_List
 -->
 
 WordPress Theme Development and Template Hierarchy
