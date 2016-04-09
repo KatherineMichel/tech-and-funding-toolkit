@@ -5407,10 +5407,7 @@ Apache (See also mod_wsgi)
 * [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 * [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
 * [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
-
-<!--
-http://httpd.apache.org/docs/current/mod/mod_rewrite.html
--->
+* [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
 SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
