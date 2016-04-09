@@ -3096,10 +3096,6 @@ General Terms
 * [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
 * [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 
-<!--
-https://www.techopedia.com/definition/27913/technical-debt
--->
-
 Port
 * [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
 * [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
@@ -3686,7 +3682,6 @@ https://learnxinyminutes.com/docs/go/
 https://learnxinyminutes.com/docs/json/
 https://learnxinyminutes.com/docs/powershell/
 
-Programming Language Examples Alike Cookbook
 http://pleac.sourceforge.net
 Programming Language Examples Alike Cookbook- Python
 http://pleac.sourceforge.net/pleac_python.data
@@ -3741,6 +3736,12 @@ Cases
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 
+Technical Debt
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+
+Hard Coding
+* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
+
 Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
 * [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
@@ -3758,9 +3759,6 @@ Chomsky Hierarchy and Automata
 * [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
 * [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
 * [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
-
-Hard Coding
-* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
 
 Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
