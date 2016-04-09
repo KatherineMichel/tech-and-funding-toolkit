@@ -3812,9 +3812,10 @@ Ruby
 
 Ruby- Installation and Control
 * [Ruby Installation Methods](https://www.ruby-lang.org/en/documentation/installation)
-* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
 * [Ruby Gems GitHub](https://github.com/rubygems/rubygems)
 * [Rake GitHub](https://github.com/ruby/rake)
+* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
+* [rbenv GitHub](https://github.com/rbenv/rbenv)
 * [Capistrano GitHub](https://github.com/capistrano/capistrano)
 
 Ruby- Learning Resources
@@ -3897,6 +3898,14 @@ PHP- Version Control and Frameworks
 * [CakePHP GitHub](https://github.com/cakephp/cakephp)  
 
 <!--
+http://symfony.com/doc/current/cookbook/composer.html
+https://getcomposer.org/doc/00-intro.md
+https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
+
+https://www.phpmyadmin.net
+
+http://php.net/manual/en/configuration.file.per-user.php
+
 http://php.net/manual/en/tutorial.requirements.php
 
 http://php.net/manual/en/
@@ -3926,7 +3935,11 @@ Node.js/PHP- WordPress- Preferred Templates and Documents
 * [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
 
 <!--
-https://wordpress.org/about/requirements/
+http://codex.wordpress.org/Installing_WordPress
+
+https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
+
+https://wordpress.org/about/requirements
 
 https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
 https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
@@ -5394,6 +5407,12 @@ MAMP and WampServer (See also PHP)
 * [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
+<!--
+http://dev.mysql.com/downloads/mysql/
+
+http://httpd.apache.org/docs/current/mod/mod_rewrite.html
+-->
+
 #### Deployment and Cloud
 
 IANA, Domize, DNSimple, Heroku
@@ -5771,6 +5790,12 @@ PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
 * [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
 * [Heroku Deploying PHP](https://devcenter.heroku.com/articles/deploying-php) 
+
+<!--
+https://devcenter.heroku.com/articles/getting-started-with-php
+https://devcenter.heroku.com/categories/php
+https://devcenter.heroku.com/articles/php-support
+-->
 
 PHP- Heroku and Docker
 * [Heroku PHP Docker GitHub](https://github.com/heroku/docker-php)
