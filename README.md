@@ -1374,6 +1374,7 @@ People
 
 Companies
 * [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+* [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [Great Place to Work](http://www.greatplacetowork.com)
 
 #### Government and International Data
@@ -2685,7 +2686,7 @@ Unix
 * [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
 * [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [Filesystem Hierarchy Standard](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Hierarchy Standard](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 * [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
 Linux
@@ -3132,8 +3133,8 @@ Web Browser Engines(See also JavaScript)
 * [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
 * [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
 
-Brower Object Model (BOM) and Document Object Model (DOM)
-* [Brower Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+Browser Object Model (BOM) and Document Object Model (DOM)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 
 HTTP
@@ -3146,9 +3147,6 @@ TCP-IP and OSI Protocols
 * [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
 * [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
-Hidden File and Hidden Directory
-* [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
-
 Symbolic Link
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
@@ -3156,10 +3154,9 @@ Keyboard Shortcuts
 * [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 
-<!--
-https://github.com/letsencrypt/letsencrypt
-https://archive.org/details/malwaremuseum
--->
+Malware and Encryption
+* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
+* [Malware Museum](https://archive.org/details/malwaremuseum)
 
 #### Code Philosophies
 
@@ -3256,15 +3253,18 @@ A Successful Git Branching Model
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
 
-Git Learning Resources
+Git- Official Learning Resources
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 * [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
 * [Git Book](http://www.git-scm.com/book/en)  
 * [Git Docs](https://git-scm.com/docs) 
 * [Git Documentation](https://git-scm.com/documentation)
 * [Git Videos](http://www.git-scm.com/videos)  
-* [Git Downloads](http://git-scm.com/downloads)  
+* [Git Downloads](http://git-scm.com/downloads) 
+
+Git Cheat Sheets and Tutorials
+* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
 * [Git Index](http://gitref.org/index.html)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
@@ -3282,16 +3282,11 @@ GitHub- Main
 
 <!--
 https://github.com/business
-https://github.com/integrations
 
 https://guides.github.com/features/issues/
 
 https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/
 https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/
-
-https://developer.github.com/webhooks/
-https://developer.github.com/webhooks/creating/
-https://help.github.com/articles/about-webhooks/
 
 https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
@@ -3301,9 +3296,6 @@ Project Management
 
 https://try.github.io
 
-https://www.atlassian.com/git
-https://www.atlassian.com/git/tutorials
-
 https://github.com/andygrunwald/TrendingGithub
 
 https://github.com/ajaxorg/ace
@@ -3311,14 +3303,13 @@ https://github.com/ajaxorg/ace
 https://github.com/github/training-kit
 https://github.com/github-archive
 https://github.com/github-archive/training.github.com
+https://github.com/github/teach.github.com
+https://github.com/jlord/git-it
 
 http://ndpsoftware.com/git-cheatsheet.html
 
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/about-repository-graphs#traffic
-
-https://github.com/github/teach.github.com
-https://github.com/jlord/git-it
 
 https://help.github.com/articles/helping-people-contribute-to-your-project/
 
@@ -3329,6 +3320,7 @@ https://help.github.com/articles/creating-a-pull-request
 https://github.com/blog/957-introducing-issue-mentions
 https://github.com/blog/2111-issue-and-pull-request-templates
 https://help.github.com/articles/adding-a-file-to-a-repository
+
 https://help.github.com/articles/adding-a-remote
 https://help.github.com/articles/removing-a-remote
 
@@ -3338,8 +3330,6 @@ https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
 
 https://help.github.com/articles/about-github-mirrors/
 https://help.github.com/articles/duplicating-a-repository/
-
-https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 
 https://github.com/blog/1986-announcing-git-large-file-storage-lfs
 https://github.com/blog/2104-working-with-submodules
@@ -3398,6 +3388,12 @@ GitHub Services Integration
 * [Service Hooks GitHub](https://github.com/github/github-services)  
 * [GitHub Integrations](https://github.com/integrations)  
 
+<!--
+https://developer.github.com/webhooks/
+https://developer.github.com/webhooks/creating/
+https://help.github.com/articles/about-webhooks/
+-->
+
 GitHub Organizations
 * [GitHub Organizations](https://github.com/account/organizations/new)
 
@@ -3425,6 +3421,10 @@ Markdown
 * [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+
+<!--
+https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
+-->
 
 GitLab (See also Project Management)
 * [GitLab Installation](https://about.gitlab.com/installation)
@@ -3485,13 +3485,10 @@ Unix Shell
 * [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
 
-Bash and Zsh (Alternative)
+Bash
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
-* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
-* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh)  
 
 <!--
 http://linux.die.net/man/1/bash
@@ -3502,6 +3499,11 @@ http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 http://www.tldp.org/LDP/abs/html/
 http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 -->
+
+Zsh (Bash Alternative)
+* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
+* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh)  
 
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
@@ -3527,6 +3529,9 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [Lighttable](http://www.lighttable.com)  
 
 #### Dot Files
+
+Hidden File and Hidden Directory Wikipedia
+* [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
 
 Dot Files
 * [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
@@ -3870,23 +3875,23 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
-http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
+http://stackoverflow.com/questions/tagged/ruby-on-rails
+https://github.com/rails/rails
+https://github.com/rails/rails/issues
+
 http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation
 http://edgeguides.rubyonrails.org
-https://github.com/rails/rails/issues
+
 https://groups.google.com/forum/#!forum/rubyonrails-docs
+
+http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
 http://guides.rubyonrails.org/ruby_on_rails_guides_guidelines.html
 http://guides.rubyonrails.org/api_documentation_guidelines.html
 http://guides.rubyonrails.org/plugins.html
-http://guides.rubyonrails.org/working_with_javascript_in_rails.html
-http://guides.rubyonrails.org/command_line.html
-http://guides.rubyonrails.org/configuring.html
 
 http://weblog.rubyonrails.org
-http://guides.rubyonrails.org
 http://api.rubyonrails.org
-http://stackoverflow.com/questions/tagged/ruby-on-rails
-https://github.com/rails/rails
+http://guides.rubyonrails.org
 http://guides.rubyonrails.org/index.html
 http://guides.rubyonrails.org/getting_started.html
 http://guides.rubyonrails.org/Active_record_basics.html
@@ -3905,9 +3910,11 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 http://guides.rubyonrails.org/active_job_basics.html
 http://guides.rubyonrails.org/security.html
 http://guides.rubyonrails.org/debugging_rails_applications.html
+
 http://guides.rubyonrails.org/configuring.html
 http://guides.rubyonrails.org/command_line.html
 http://guides.rubyonrails.org/asset_pipeline.html
+
 http://guides.rubyonrails.org/working_with_javascript_in_rails.html
 http://guides.rubyonrails.org/autoloading_and_reloading_constants.html
 http://guides.rubyonrails.org/rails_on_rack.html
@@ -3932,7 +3939,6 @@ http://php.net/manual/en/configuration.file.per-user.php
 
 http://php.net/manual/en/tutorial.requirements.php
 
-http://php.net/manual/en/
 http://php.net/manual/en/features.php
 http://php.net/manual/en/funcref.php
 http://php.net/manual/en/internals2.php
@@ -3950,23 +3956,28 @@ PHP- Laravel- Preferred Templates and Documents
 PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
 
-Node.js/PHP- WordPress- Preferred Templates and Documents
+PHP/Node.js- WordPress- Com, Org, Calypso
 * [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
 * [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
 * [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
-* [WordPress Developer](https://developer.wordpress.org)
+
+PHP/Node.js- WordPress- Developer Resource
+* [WordPress Codex](http://codex.wordpress.org)
+* [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
 * [WordPress GitHub](https://github.com/WordPress/WordPress)  
 * [WordPress Plugins](https://wordpress.org/plugins) and [WordPress Plugins Mirror](http://www.pluginmirror.com/plugins) 
 * [WordPress Code](http://en.support.wordpress.com/code)  
 * [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
-* [WordPress Appearance](http://en.support.wordpress.com/category/appearance)  
+* [WordPress Appearance](http://en.support.wordpress.com/category/appearance) 
+
+PHP/Node.js- WordPress Installation and Migration
+* [WordPress Requirements](https://wordpress.org/about/requirements)
+* [WordPress Installation](http://codex.wordpress.org/Installing_WordPress)
+* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+* [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
 
 <!--
-http://codex.wordpress.org/Installing_WordPress
-
 https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
-
-https://wordpress.org/about/requirements
 
 https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
 https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
@@ -3975,12 +3986,8 @@ WordPress Helpers
 https://github.com/kennethreitz-archive/wordpress-theme-skeleton
 https://github.com/andjosh/naked-wordpress/blob/master/single.php
 
-https://codex.wordpress.org/Moving_WordPress
-
 http://codex.wordpress.org/Using_Password_Protection
 
-https://developer.wordpress.org/reference/
-http://codex.wordpress.org
 http://codex.wordpress.org/Codex:Quick_index
 http://codex.wordpress.org/Special:AllPages
 
@@ -4235,6 +4242,8 @@ Other React Stack Helpers
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
 
 <!--
+https://www.npmjs.com/package/eslint-config-airbnb
+
 ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
