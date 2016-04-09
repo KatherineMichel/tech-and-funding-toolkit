@@ -3977,6 +3977,8 @@ PHP/Node.js- WordPress Installation and Migration
 * [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
 
 <!--
+https://www.woothemes.com/hosting-solutions/
+
 https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
 
 https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
