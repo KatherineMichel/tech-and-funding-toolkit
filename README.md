@@ -3094,10 +3094,9 @@ General Terms
 * [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
 * [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
 * [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 
 <!--
-https://en.wikipedia.org/wiki/Network_socket
-
 https://www.techopedia.com/definition/27913/technical-debt
 -->
 
@@ -3518,11 +3517,8 @@ Emacs and Vim (Text Editors)
 * [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
 * [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
 * [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
+* [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
-
-<!--
-http://www.viemu.com/vi-vim-cheat-sheet.gif
--->
 
 Windows PowerShell
 * [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
@@ -3564,14 +3560,13 @@ Startup Class Dotfiles and AWS EC2 Setup
 
 #### Open Source Management and Programming Tiers
 
-<!--
-https://en.wikipedia.org/wiki/Bus_factor
--->
-
 Open Source Management, Codes of Conduct, Roadmaps
 * [Open Source Management at Docker](https://github.com/docker/opensource)
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
 * [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
+
+Bus Factor
+* [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
 
 Open Source Hosting
 * [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
@@ -3880,8 +3875,6 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
-https://rvm.io/rvm/install
-
 http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
 http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation
 http://edgeguides.rubyonrails.org
@@ -3933,17 +3926,13 @@ PHP
 * [PHP Wiki](https://wiki.php.net)
 
 PHP- Version Control and Frameworks
-* [Composer GitHub](https://github.com/composer/composer)  
+* [Composer](https://getcomposer.org/doc/00-intro.md) and [Composer GitHub](https://github.com/composer/composer) 
+* [Composer Installation](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
+* [Symfony Composer Cookbook](http://symfony.com/doc/current/cookbook/composer.html)
 * [Symfony GitHub](https://github.com/symfony/symfony)  
 * [CakePHP GitHub](https://github.com/cakephp/cakephp)  
 
 <!--
-http://symfony.com/doc/current/cookbook/composer.html
-https://getcomposer.org/doc/00-intro.md
-https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
-
-https://www.phpmyadmin.net
-
 http://php.net/manual/en/configuration.file.per-user.php
 
 http://php.net/manual/en/tutorial.requirements.php
@@ -5419,6 +5408,10 @@ Apache (See also mod_wsgi)
 * [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
 * [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
 
+<!--
+http://httpd.apache.org/docs/current/mod/mod_rewrite.html
+-->
+
 SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
 * [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
@@ -5442,24 +5435,22 @@ Postgrest (PostgreSQL API)
 MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [MySQL](http://www.mysql.com)  
 * [MySQL Documentation](http://dev.mysql.com/doc)  
+* [MySQL Downloads (DMG)](http://dev.mysql.com/downloads/mysql) 
 * [MySQL GitHub](https://github.com/twitter/mysql)  
 * [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
+
+Sequel Pro (Recommended and MAMP bundled)
+* [Sequel Pro](http://www.sequelpro.com)
  
+phpMyAdmin
+* [phpMyAdmin](https://www.phpmyadmin.net)
+
 MAMP and WampServer (See also PHP)
 * [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
 * [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
 * [MAMP Pro](https://www.mamp.info/en/mamp-pro)
 * [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
-
-<!--
-Recommended (MAMP bundled)
-http://www.sequelpro.com
-
-http://dev.mysql.com/downloads/mysql/
-
-http://httpd.apache.org/docs/current/mod/mod_rewrite.html
--->
 
 #### Deployment and Cloud
 
