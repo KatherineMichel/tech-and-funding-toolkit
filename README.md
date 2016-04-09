@@ -3842,6 +3842,8 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
+https://rvm.io/rvm/install
+
 http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
 http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation
 http://edgeguides.rubyonrails.org
