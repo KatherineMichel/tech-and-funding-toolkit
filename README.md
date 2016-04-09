@@ -2210,6 +2210,15 @@ Bootstrap, Font Awesome
 * [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
+<!--
+https://github.com/silverbux/bootflat-admin
+https://github.com/almasaeed2010/AdminLTE
+https://github.com/VinceG/Bootstrap-Admin-Theme 
+https://github.com/onokumus/Bootstrap-Admin-Template
+
+https://github.com/BlackrockDigital/startbootstrap
+-->
+
 Foundation
 * [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 * [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
@@ -3086,6 +3095,12 @@ General Terms
 * [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
 * [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
 
+<!--
+https://en.wikipedia.org/wiki/Network_socket
+
+https://www.techopedia.com/definition/27913/technical-debt
+-->
+
 Port
 * [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
 * [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
@@ -3486,6 +3501,16 @@ Bash and Zsh (Alternative)
 * [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh)  
 
+<!--
+http://linux.die.net/man/1/bash
+https://www.gnu.org/software/bash
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+http://www.tldp.org/LDP/abs/html/
+http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+-->
+
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
 * [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
@@ -3494,6 +3519,10 @@ Emacs and Vim (Text Editors)
 * [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
 * [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
+
+<!--
+http://www.viemu.com/vi-vim-cheat-sheet.gif
+-->
 
 Windows PowerShell
 * [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
@@ -3534,6 +3563,10 @@ Startup Class Dotfiles and AWS EC2 Setup
 #### Programming
 
 #### Open Source Management and Programming Tiers
+
+<!--
+https://en.wikipedia.org/wiki/Bus_factor
+-->
 
 Open Source Management, Codes of Conduct, Roadmaps
 * [Open Source Management at Docker](https://github.com/docker/opensource)
@@ -3660,6 +3693,11 @@ https://learnxinyminutes.com/docs/go/
 
 https://learnxinyminutes.com/docs/json/
 https://learnxinyminutes.com/docs/powershell/
+
+Programming Language Examples Alike Cookbook
+http://pleac.sourceforge.net
+Programming Language Examples Alike Cookbook- Python
+http://pleac.sourceforge.net/pleac_python.data
 -->
 
 Live Coding
@@ -4241,6 +4279,11 @@ Node.js
 * [Node Webkit GitHub](https://github.com/rogerwang/node-webkit Node Webkit)  
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org)  
+
+<!--
+https://nodejs.org/metrics/#versions
+http://nodejs.org/api/debugger.html
+-->
 
 Node.js Launch and Ryan Dahl
 * [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
@@ -5410,6 +5453,9 @@ MAMP and WampServer (See also PHP)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
 <!--
+Recommended (MAMP bundled)
+http://www.sequelpro.com
+
 http://dev.mysql.com/downloads/mysql/
 
 http://httpd.apache.org/docs/current/mod/mod_rewrite.html
@@ -5614,6 +5660,8 @@ Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
 
 <!--
+https://devcenter.heroku.com/articles/heroku-command
+
 https://www.heroku.com/pricing
 https://www.heroku.com/beta-pricing
 https://devcenter.heroku.com/articles/usage-and-billing
