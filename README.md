@@ -3405,9 +3405,6 @@ GitHub Services Integration
 GitHub Organizations
 * [GitHub Organizations](https://github.com/account/organizations/new)
 
-GitHub Status
-* [GitHub Status](https://status.github.com/messages)
-
 Gist
 * [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
 
@@ -3952,6 +3949,9 @@ PHP- Laravel- Preferred Templates and Documents
 * [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
 * [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
  
+PHP- Twitter OAuth
+* [Twitter OAuth](https://github.com/abraham/twitteroauth)
+
 Node.js/PHP- WordPress- Preferred Templates and Documents
 * [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
 * [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
@@ -4432,6 +4432,9 @@ Python- Playbooks
 
 Python- Playbooks
 * [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
+
+Python- Twython
+* [Twython](https://github.com/ryanmcgrath/twython)
 
 Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
@@ -5299,8 +5302,6 @@ http://www.asp.net/mvc/overview/models-data
 https://docs.asp.net/en/latest/getting-started/choosing-the-right-dotnet.html
 http://docs.efproject.net/en/latest
 
-http://aws.amazon.com/developers/getting-started/python/
-
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
 http://docs.aws.amazon.com/AWSSdkDocsNET/latest/V3/DeveloperGuide/aws-sdk-net-dg.pdf
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-create-as.html
@@ -5451,6 +5452,11 @@ MAMP and WampServer (See also PHP)
 
 #### Deployment and Cloud
 
+Status
+* [GitHub Status](https://status.github.com/messages) and [GitHub Status Twitter](https://twitter.com/githubstatus)
+* [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
+* [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
+
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
 * [Domize](http://domize.com)  
@@ -5557,7 +5563,7 @@ AWS- Websites, Mobile, Social
 * [AWS Mobile](https://aws.amazon.com/mobile)
 * [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
 
-AWS- Websites, Mobile, Social
+AWS- Elastic Beanstalk and S3
 * [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
 * [AWS S3](http://aws.amazon.com/documentation/s3)
 
@@ -5664,6 +5670,8 @@ https://github.com/heroku/heroku-apps
 
 https://devcenter.heroku.com/start
 
+https://devcenter.heroku.com/categories/application-architecture
+
 https://devcenter.heroku.com/categories/reference
 https://devcenter.heroku.com/categories/add-on-documentation
 https://devcenter.heroku.com/categories/deployment
@@ -5760,10 +5768,9 @@ Microsoft Special Deals
 #### Deployment and Cloud by Language
 
 JavaScript- Amazon
-* [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript) and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
+* [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript), [AWS SDK for JavaScript](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide), and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
 
 <!--
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/
 http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
 http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
 -->
@@ -5774,11 +5781,8 @@ Node.js- Heroku
 * [Heroku Getting Started with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)  
 * [Heroku Node.js Getting Started GitHub](https://github.com/heroku/node-js-getting-started)  
 * [Heroku Node.js Sample GitHub](https://github.com/heroku/node-js-sample)  
-
-<!--
-https://github.com/heroku/node-heroku-client
-https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
--->
+* [Heroku Node.js Client GitHub](https://github.com/heroku/node-heroku-client)
+* [Node Angular Heroku To Do Demo GitHub](https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo)
 
 Node.js- Heroku and Docker
 * [Heroku Node.js Docker GitHub](https://github.com/heroku/docker-nodejs)
@@ -5804,6 +5808,7 @@ Python- Heroku
 Python- Amazon
 * [AWS Python](https://aws.amazon.com/python)
 * [AWS Python SDK (Boto3)](https://aws.amazon.com/sdk-for-python) and [Boto3 GitHub](https://github.com/boto/boto3)
+* [Getting Started with the AWS SDK for Python (Boto)](http://aws.amazon.com/developers/getting-started/python)
 * [Deploying a Python Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html)
 
 Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
@@ -5826,13 +5831,12 @@ Python- Django- OpenShift Deployment
 PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
 * [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
-* [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
+* [Heroku PHP Getting Started](https://devcenter.heroku.com/articles/getting-started-with-php) and [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
 * [Heroku Deploying PHP](https://devcenter.heroku.com/articles/deploying-php) 
+* [Heroku PHP Support](https://devcenter.heroku.com/articles/php-support) 
 
 <!--
-https://devcenter.heroku.com/articles/getting-started-with-php
 https://devcenter.heroku.com/categories/php
-https://devcenter.heroku.com/articles/php-support
 -->
 
 PHP- Heroku and Docker
@@ -5841,26 +5845,18 @@ PHP- Heroku and Docker
 PHP- Amazon
 * [AWS PHP](https://aws.amazon.com/php)
 * [AWS PHP SDK](https://github.com/aws/aws-sdk-php)
+* [Installing AWS SDK for PHP via Composer](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html#installing-via-composer)
 * [Getting Started with the AWS SDK for PHP](https://aws.amazon.com/articles/4261)
 * [Deploying a PHP Application to AWS Elastic Beanstalk (WordPress?)](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html)
 
 PHP/WordPress- Amazon
-
-<!--
-http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-wordpress.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
-http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2Win_CreateWordPressBlog.html
-https://d0.awsstatic.com/whitepapers/deploying-wordpress-with-aws-elastic-beanstalk.pdf
--->
+* [Getting Started with WordPress](http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-wordpress.html)
+* [Deploying WordPress with AWS Elastic Beanstalk](https://d0.awsstatic.com/whitepapers/deploying-wordpress-with-aws-elastic-beanstalk.pdf)
+* [Tutorial: Hosting a WordPress Blog with Amazon Linux](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html)
+* [Tutorial: Deploying a WordPress Blog on Your Amazon EC2 Instance Running Windows Server](http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2Win_CreateWordPressBlog.html)
 
 PHP/WordPress- Google Cloud
-
-<!--
-https://github.com/GoogleCloudPlatform/appengine-php-wordpress-starter-project
-
-https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
-http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html#installing-via-composer
--->
+* [Google Cloud Platform WordPress Starter Project](https://github.com/GoogleCloudPlatform/appengine-php-wordpress-starter-project)
 
 Ruby- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
@@ -6864,14 +6860,7 @@ Digital Stats
 
 Two Factor Authentication
 
-* [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
-
-<!--
-https://security.google.com/settings/security/permissions?pli=1
-https://www.facebook.com/settings?tab=applications&section=all
-https://twitter.com/settings/applications
-https://status.cloud.google.com/incident/compute/15045
--->
+* [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Facebook Settings](https://www.facebook.com/settings?tab=applications&section=all), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Google Settings](https://security.google.com/settings/security/permissions?pli=1), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), [Twitter Settings](https://twitter.com/settings/applications), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
 Google Products, Office
 * [Google Products](http://www.google.com/intl/en/about/products) 
@@ -6939,14 +6928,6 @@ Social Media Distribution
 * [Twitter](https://twitter.com)
 * [Noah Liebman Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
 * [Twime Machine](http://www.twimemachine.com)
-
-<!--
-PHP
-https://github.com/abraham/twitteroauth
-
-Pytho
-https://github.com/ryanmcgrath/twython
--->
 
 Social Media Distribution 
 * [Buffer](https://bufferapp.com)
