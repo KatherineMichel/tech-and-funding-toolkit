@@ -5676,7 +5676,6 @@ Heroku- Deployment
 * [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
 * [Heroku Releases](https://devcenter.heroku.com/articles/releases)
 * [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains) 
 
 Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
