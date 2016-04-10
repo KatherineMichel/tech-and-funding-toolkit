@@ -3112,11 +3112,35 @@ Port
 
 Operating Systems
 * [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 * [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
 * [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+
+Operating System and Command Shell Comparisons
+* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+
+<!--
+https://en.wikipedia.org/wiki/Chrome_OS
+https://en.wikipedia.org/wiki/Android_(operating_system)
+
+https://en.wikipedia.org/wiki/IOS
+
+https://en.wikipedia.org/wiki/Linux
+
+https://en.wikipedia.org/wiki/Microsoft_Windows
+https://en.wikipedia.org/wiki/Windows_NT#Releases
+https://en.wikipedia.org/wiki/Cmd.exe
+
+https://en.wikipedia.org/wiki/OS_X
+https://en.wikipedia.org/wiki/Architecture_of_OS_X
+https://en.wikipedia.org/wiki/List_of_OS_X_components
+-->
+
+Web Browsers
+* [Google Chrome](http://www.google.com/chrome)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
@@ -3126,10 +3150,6 @@ Web Browser
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-
-Web Browsers
-* [Google Chrome](http://www.google.com/chrome)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 
 Web Browser Engines(See also JavaScript)
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
@@ -3165,6 +3185,15 @@ Keyboard Shortcuts
 * [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
 Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
@@ -3190,15 +3219,6 @@ https://github.com/heroku/12factor
 [Semver Org GitHub](https://github.com/mojombo/semver.org)
 https://github.com/odewahn/dds-field-guide/
 -->
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing)  
 
 #### Software Manuals and Documentation 
 
@@ -4012,6 +4032,8 @@ PHP/Node.js- WordPress Installation and Migration
 * [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
 
 <!--
+https://wordpress.org/hosting/
+
 http://codex.wordpress.org/Developer_Documentation
 
 https://make.wordpress.org/core/handbook/best-practices/coding-standards/
