@@ -3123,10 +3123,30 @@ Operating System and Command Shell Comparisons
 
 Mac OS
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
 * [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
 * [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+<!--
+Darwin
+-->
+
+Mac OS- Bash
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
+* [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
+
+<!--
+http://linux.die.net/man/1/bash
+https://www.gnu.org/software/bash
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+http://www.tldp.org/LDP/abs/html/
+http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+-->
 
 Linux
 * [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
@@ -3137,17 +3157,21 @@ Windows
 * [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 
+Windows- PowerShell
+* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
+* [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
+
 Google
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 * [Google Chrome](http://www.google.com/chrome) and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
-32 Bit vs. 64 Bit
-* [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
-
 Web Browser
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+
+Web Browser Comparisons
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 
 Web Browser Engines(See also JavaScript)
@@ -3180,9 +3204,8 @@ Maintenance and Testing
 Symbolic Link
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
-Keyboard Shortcuts
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+32 Bit vs. 64 Bit
+* [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
 
 Software Stacks
 * [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
@@ -3196,6 +3219,91 @@ Distributed and Parallel Computing
 Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
+
+Keyboard Shortcuts
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+#### More Command Line and Shell
+
+See also Bash and PowerShell<br>
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
+
+Command Line
+* [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
+* [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
+* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
+
+Shell
+* [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
+* [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
+* [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
+
+Integrated Development Environment
+* [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
+* [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+
+cURL
+* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+* [WGet](https://www.gnu.org/software/wget)
+
+Unix Shell
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+* [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
+* [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
+* [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
+
+Zsh (Bash Alternative)
+* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
+* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh)  
+
+Emacs and Vim (Text Editors)
+* [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
+* [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
+* [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
+* [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
+* [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
+* [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
+* [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+* [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
+
+More Shell/Text Editors (See also Visual Studio and XCode)
+* [Sublime Text Editor](http://www.sublimetext.com)
+* [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
+* [Textmate](http://macromates.com)  
+* [Orgmode.org](http://orgmode.org)  
+* [Orgmode.org/features](http://orgmode.org/features.html)  
+* [.emacs.d](https://github.com/seshness/.emacs.d)  
+* [Lighttable](http://www.lighttable.com)  
+
+#### Dot Files
+
+Hidden File and Hidden Directory Wikipedia
+* [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
+
+Dot Files
+* [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
+* [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
+* [Dotfiles](http://dotfiles.github.io)  
+* [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
+* [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
+* [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
+* [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
+* [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
+* [Jessica Lord GitHub](https://github.com/jlord/dotfiles)
+* [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
+* [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
+* [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
+* [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [YADR GitHub](https://github.com/skwp/dotfiles)
+
+Startup Class Dotfiles and AWS EC2 Setup
+* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
+* [Course EC2 Setup](https://github.com/startup-class/setup)  
+* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
 
 #### Code Philosophies
 
@@ -3483,105 +3591,6 @@ Emoji and Other Funny Keyboard Shortcode
 * [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
 * [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
 * [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
-
-#### More Command Line and Shell
-
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
-
-Command Line
-* [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
-* [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
-* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
-
-Shell
-* [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
-* [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
-* [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
-
-Integrated Development Environment
-* [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
-* [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
-
-cURL
-* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
-* [WGet](https://www.gnu.org/software/wget)
-
-Unix Shell
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
-* [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
-* [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
-* [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
-
-Bash
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
-* [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
-
-<!--
-http://linux.die.net/man/1/bash
-https://www.gnu.org/software/bash
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
-http://www.tldp.org/LDP/abs/html/
-http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
--->
-
-Zsh (Bash Alternative)
-* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
-* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh)  
-
-Emacs and Vim (Text Editors)
-* [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
-* [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
-* [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
-* [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
-* [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
-* [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
-* [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
-* [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
-
-Windows PowerShell
-* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
-* [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell) 
-
-More Shell/Text Editors (See also Visual Studio and XCode)
-* [Sublime Text Editor](http://www.sublimetext.com)
-* [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
-* [Textmate](http://macromates.com)  
-* [Orgmode.org](http://orgmode.org)  
-* [Orgmode.org/features](http://orgmode.org/features.html)  
-* [.emacs.d](https://github.com/seshness/.emacs.d)  
-* [Lighttable](http://www.lighttable.com)  
-
-#### Dot Files
-
-Hidden File and Hidden Directory Wikipedia
-* [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
-
-Dot Files
-* [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
-* [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
-* [Dotfiles](http://dotfiles.github.io)  
-* [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
-* [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
-* [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
-* [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
-* [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
-* [Jessica Lord GitHub](https://github.com/jlord/dotfiles)
-* [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
-* [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
-* [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
-* [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [YADR GitHub](https://github.com/skwp/dotfiles)
-
-Startup Class Dotfiles and AWS EC2 Setup
-* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-* [Course EC2 Setup](https://github.com/startup-class/setup)  
-* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
 
 #### Programming
 
