@@ -3276,6 +3276,7 @@ Git- Official Learning Resources
 Git Cheat Sheets and Tutorials
 * [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
 * [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
+* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
 * [Git Index](http://gitref.org/index.html)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
@@ -3442,6 +3443,7 @@ https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 GitLab (See also Project Management)
 * [GitLab Installation](https://about.gitlab.com/installation)
 * [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
@@ -5771,25 +5773,22 @@ GitHub, Heroku, AWS SSH and SSH Keys
 * [GitHub SSH](https://github.com/settings/ssh)  
 * [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
 * [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
-* [AWS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html) 
+* [AWS EC2 Key Pairs](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html) 
+
+Heroku Secure Key
+* [Secure Key](https://devcenter.heroku.com/articles/securekey)
+* [Fortnightly](https://addons.heroku.com/securekey#fortnightly)
 
 Google Cloud, App Engine and GitHub
 * [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html) 
 
-<!--
-https://devcenter.heroku.com/articles/securekey Application architecture links
-https://addons.heroku.com/securekey#fortnightly
+Heroku Git Integration
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
 
-https://devcenter.heroku.com/articles/git
-https://devcenter.heroku.com/articles/git-clone-heroku-app
-https://devcenter.heroku.com/articles/github-integration
-https://blog.heroku.com/archives/2015/2/6/heroku_github_integration
-https://blog.heroku.com/archives/2014/8/7/heroku-button
-https://devcenter.heroku.com/articles/heroku-button
-
-https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
-https://www.digitalocean.com/features/one-click-apps/gitlab
--->
+Git Cloning Existing Heroku Applications
+* [Git Cloning Existing Heroku Applications](https://devcenter.heroku.com/articles/git-clone-heroku-app)
 
 Ubuntu (Debian) Deployment
 * [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
