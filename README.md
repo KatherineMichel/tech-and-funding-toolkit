@@ -3133,7 +3133,7 @@ Mac OS X- OS, Browser, Layout Engine
 
 WebKit Parts
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScript Core Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
 Mac OS X- Architecture
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
@@ -3149,6 +3149,7 @@ Mac OS X- Bash
 http://linux.die.net/man/1/bash
 https://www.gnu.org/software/bash
 https://www.gnu.org/software/bash/manual/bashref.html
+
 http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 http://www.tldp.org/LDP/abs/html/
@@ -3158,8 +3159,57 @@ http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 Apple iOS
 * [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
 
-Linux
-* [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
+Google (Chromium, Chrome, Blink, V8) 
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+<!--
+https://bugs.chromium.org/p/v8/issues/list
+
+https://developer.chrome.com/devtools/
+https://developers.google.com/web/tools/chrome-devtools
+https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts?hl=en
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions
+https://developers.google.com/cast/docs/developers
+https://www.chromium.org/developers
+https://github.com/GoogleChrome/devtools-docs
+https://developers.google.com/web/tools/chrome-devtools/debug/console/console-ui?hl=en
+https://chrome.google.com/webstore/developer/dashboard
+https://developer.chrome.com/home
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://www.chromium.org/getting-involved/dev-channel
+https://toolbox.googleapps.com/apps/har_analyzer/
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://docs.ionic.io/docs/chrome-inspector
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines
+
+https://www.codeschool.com/courses/discover-devtools
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+-->
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
 Windows
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
@@ -3169,24 +3219,22 @@ Windows
 
 Windows- PowerShell
 * [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
-* [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
+* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
 
-Google
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
+Linux
+* [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
 
 
-Web Browser Engines(See also JavaScript)
+Web Browser Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 * [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-* [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+
+Comparison of Layout Engines by DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
 
 Browser Object Model (BOM) and Document Object Model (DOM)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
@@ -3197,6 +3245,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://www.w3.org/DOM/#what
 https://www.w3.org/TR/dom
 http://www.w3schools.com/js/js_htmldom.asp
+
+https://en.wikipedia.org/wiki/JavaScript_engine
 -->
 
 HTTP
@@ -4464,10 +4514,6 @@ Mongoose, Mongoid, Moped, Mongomapper
 * [Mongoid ElasticSearch GitHub](https://github.com/rs-pro/mongoid-elasticsearch)  
 * [Moped GitHub](https://github.com/mongoid/moped)  
 * [Mongomapper GitHub](https://github.com/mongomapper/mongomapper)  
-
-V8 JavaScript Engine
-* [V8 GitHub](https://github.com/v8/v8) and [V8 JavaScript Engine Wikipedia](http://en.wikipedia.org/wiki/V8_(JavaScript_engine))  
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
 
 Node Forks
 * [IO.js GitHub](https://github.com/iojs/io.js)  
