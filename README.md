@@ -3121,26 +3121,25 @@ Operating System and Command Shell Comparisons
 * [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 * [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 
-<!--
-https://en.wikipedia.org/wiki/Chrome_OS
-https://en.wikipedia.org/wiki/Android_(operating_system)
+Mac OS
+* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
 
-https://en.wikipedia.org/wiki/IOS
+Linux
+* [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
-https://en.wikipedia.org/wiki/Linux
-
-https://en.wikipedia.org/wiki/Microsoft_Windows
-https://en.wikipedia.org/wiki/Windows_NT#Releases
-https://en.wikipedia.org/wiki/Cmd.exe
-
-https://en.wikipedia.org/wiki/OS_X
-https://en.wikipedia.org/wiki/Architecture_of_OS_X
-https://en.wikipedia.org/wiki/List_of_OS_X_components
--->
-
-Web Browsers
-* [Google Chrome](http://www.google.com/chrome)
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+
+Google
+* [Google Chrome](http://www.google.com/chrome) and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
