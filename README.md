@@ -3891,10 +3891,10 @@ http://stackoverflow.com/questions/tagged/ruby-on-rails
 https://github.com/rails/rails
 https://github.com/rails/rails/issues
 
+https://groups.google.com/forum/#!forum/rubyonrails-docs
+
 http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation
 http://edgeguides.rubyonrails.org
-
-https://groups.google.com/forum/#!forum/rubyonrails-docs
 
 http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
 http://guides.rubyonrails.org/ruby_on_rails_guides_guidelines.html
@@ -3905,32 +3905,47 @@ http://weblog.rubyonrails.org
 http://api.rubyonrails.org
 http://guides.rubyonrails.org
 http://guides.rubyonrails.org/index.html
-http://guides.rubyonrails.org/getting_started.html
-http://guides.rubyonrails.org/Active_record_basics.html
-http://guides.rubyonrails.org/Active_record_migrations.html
-http://guides.rubyonrails.org/Active_record_validations.html
-http://guides.rubyonrails.org/Active_record_callbacks.html
-http://guides.rubyonrails.org/Association_basics.html
-http://guides.rubyonrails.org/Active_record_querying.html
-http://guides.rubyonrails.org/Layouts_and_rendering.html
-http://guides.rubyonrails.org/Form_helpers.html
-http://guides.rubyonrails.org/Action_controller_overview.html
-http://guides.rubyonrails.org/Routing.html
-http://guides.rubyonrails.org/Active_support_core_extensions.html
-http://guides.rubyonrails.org/I18n.html
-http://guides.rubyonrails.org/action_mailer_basics.html
-http://guides.rubyonrails.org/active_job_basics.html
-http://guides.rubyonrails.org/security.html
-http://guides.rubyonrails.org/debugging_rails_applications.html
 
-http://guides.rubyonrails.org/configuring.html
-http://guides.rubyonrails.org/command_line.html
-http://guides.rubyonrails.org/asset_pipeline.html
+Start Here
+Getting Started with Rails
 
-http://guides.rubyonrails.org/working_with_javascript_in_rails.html
-http://guides.rubyonrails.org/autoloading_and_reloading_constants.html
-http://guides.rubyonrails.org/rails_on_rack.html
-http://guides.rubyonrails.org/generators.html
+Models
+Active Record Basics
+Active Record Migrations
+Active Record Validations
+Active Record Callbacks
+Active Record Associations
+Active Record Query Interface
+
+Views
+Layouts and Rendering in Rails
+Action View Form Helpers
+
+Controllers
+Action Controller Overview
+Rails Routing from the Outside In
+
+Digging Deeper
+Active Support Core Extensions
+Rails Internationalization API
+Action Mailer Basics
+Active Job Basics
+Securing Rails Applications
+Debugging Rails Applications
+Configuring Rails Applications
+Rails Command Line Tools and Rake Tasks
+Asset Pipeline
+Working with JavaScript in Rails
+Autoloading and Reloading Constants
+
+Extending Rails
+Rails on Rack
+Creating and Customizing Rails Generators
+
+Contributing to Ruby on Rails
+Contributing to Ruby on Rails
+API Documentation Guidelines
+Ruby on Rails Guides Guidelines
 -->
 
 PHP
@@ -3991,26 +4006,31 @@ PHP/Node.js- WordPress Installation and Migration
 
 <!--
 http://codex.wordpress.org/Developer_Documentation
+
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
+
 http://codex.wordpress.org/Advanced_Topics
-http://codex.wordpress.org/Blog_Design_and_Layout
+
 http://codex.wordpress.org/Working_with_WordPress
 http://codex.wordpress.org/Getting_Started_with_WordPress
 http://codex.wordpress.org/WordPress_Lessons
-http://codex.wordpress.org/Main_Page important
 
-http://codex.wordpress.org/Using_Themes
-https://make.wordpress.org/core/handbook/best-practices/coding-standards/
-https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
+http://codex.wordpress.org/Blog_Design_and_Layout
+
 http://codex.wordpress.org/Site_Design_and_Layout
-http://codex.wordpress.org/Stepping_Into_Templates
-http://codex.wordpress.org/Template_Tags
-http://codex.wordpress.org/The_Loop_in_Action
 http://codex.wordpress.org/Category_Templates
+http://codex.wordpress.org/Using_Themes
+http://codex.wordpress.org/Stepping_Into_Templates
+http://codex.wordpress.org/Theme_Development#Template_Files_List
+http://codex.wordpress.org/Child_Themes
+http://codex.wordpress.org/Template_Tags
+
+http://codex.wordpress.org/The_Loop_in_Action
+
 http://codex.wordpress.org/Plugins
 http://codex.wordpress.org/Contributing_to_WordPress
 https://yoast.com/wordpress-theme-anatomy/
-http://codex.wordpress.org/Child_Themes
-http://codex.wordpress.org/Theme_Development#Template_Files_List
 
 https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
 https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
