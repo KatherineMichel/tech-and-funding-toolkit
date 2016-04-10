@@ -66,7 +66,6 @@ Table of Content
 
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
-  * [Google Chrome](#google-chrome)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple](#apple)
 * [Development Environment and Programming](#development-environment-and-programming)
@@ -2740,12 +2739,6 @@ Linux- Other Popular Distributions
 * [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
 * [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
 
-#### Google Chrome
-
-* [Google Chrome](https://www.google.com/intl/en/chrome) and [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS)  
-* [Chrome OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chrome_OS)  
-
 #### Mojombo Chromebook Recommendation
 
 * [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
@@ -3121,19 +3114,23 @@ Operating System and Command Shell Comparisons
 * [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 * [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 
-Mac OS
+Web Browser
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+
+Web Browser Comparisons
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+
+Mac OS X
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
 * [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
 * [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
 
-<!--
-Darwin
--->
-
-Mac OS- Bash
+Mac OS X- Bash
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
@@ -3147,6 +3144,9 @@ http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 http://www.tldp.org/LDP/abs/html/
 http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 -->
+
+Apple iOS
+* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
 
 Linux
 * [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
@@ -3162,25 +3162,22 @@ Windows- PowerShell
 * [Windows Power Shell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
 
 Google
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
 * [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Google Chrome](http://www.google.com/chrome) and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+
+Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
 
-Web Browser Comparisons
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 
 Web Browser Engines(See also JavaScript)
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 * [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
 * [Comparison of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
 
 Browser Object Model (BOM) and Document Object Model (DOM)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
