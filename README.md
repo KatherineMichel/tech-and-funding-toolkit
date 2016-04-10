@@ -5655,31 +5655,33 @@ https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 https://aws.amazon.com/machine-learning/
 -->
 
-Heroku- General (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
+Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku/heroku)  
 * [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+ 
+Heroku- Deployment
 * [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
 * [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains)  
+* [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains) 
 
 Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
+* [Heroku Pricing](https://www.heroku.com/pricing)
+* [Heroku Usage and Billing](https://devcenter.heroku.com/articles/usage-and-billing)
+* [New Dyno Types and Pricing Public Beta](https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta)
+
+Heroku- Dynos
+* [Heroku Dynos](https://devcenter.heroku.com/articles/dynos)
+* [Heroku Dyno Size](https://devcenter.heroku.com/articles/dyno-size)
+* [Heroku Scaling](https://devcenter.heroku.com/articles/scaling)
 
 <!--
-https://www.heroku.com/pricing
-https://www.heroku.com/beta-pricing
-https://devcenter.heroku.com/articles/usage-and-billing
-https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta
+(Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
 All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
-
-https://devcenter.heroku.com/articles/dynos
-https://devcenter.heroku.com/articles/dyno-size
-https://devcenter.heroku.com/articles/scaling
 
 https://devcenter.heroku.com/start
 https://github.com/heroku/heroku-apps
-
-https://devcenter.heroku.com/categories/reference
 
 https://devcenter.heroku.com/categories/add-on-documentation
 
