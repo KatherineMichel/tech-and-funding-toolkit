@@ -5662,7 +5662,11 @@ Heroku- General
  
 Heroku- Deployment
 * [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
-* [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
 * [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains) 
 
 Heroku- Pricing and App Limits
@@ -5676,6 +5680,9 @@ Heroku- Dynos
 * [Heroku Dyno Size](https://devcenter.heroku.com/articles/dyno-size)
 * [Heroku Scaling](https://devcenter.heroku.com/articles/scaling)
 
+Heroku- Add on Documentation
+* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
+
 <!--
 (Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
 All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
@@ -5683,20 +5690,10 @@ All dynos in your application that are scaled above 0 will accrue usage–regard
 https://devcenter.heroku.com/start
 https://github.com/heroku/heroku-apps
 
-https://devcenter.heroku.com/categories/add-on-documentation
-
 https://devcenter.heroku.com/articles/heroku-command
 
 https://devcenter.heroku.com/articles/architecting-apps
 https://devcenter.heroku.com/categories/application-architecture
-
-https://devcenter.heroku.com/articles/config-vars
-https://devcenter.heroku.com/articles/deploy-hooks
-https://devcenter.heroku.com/categories/deployment
-https://devcenter.heroku.com/articles/releases
-https://devcenter.heroku.com/articles/labs-pipelines
-
-https://www.digitalocean.com/company/logos-and-badges
 -->
 
 Digital Ocean (VPS)
@@ -5709,6 +5706,7 @@ Digital Ocean (VPS)
 
 <!--
 https://www.digitalocean.com/help/getting-started/setting-up-your-server
+https://www.digitalocean.com/company/logos-and-badges
 -->
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
