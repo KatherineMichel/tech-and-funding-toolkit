@@ -3401,12 +3401,7 @@ Git Ignore and Licenses
 GitHub Services Integration
 * [Service Hooks GitHub](https://github.com/github/github-services)  
 * [GitHub Integrations](https://github.com/integrations)  
-
-<!--
-https://developer.github.com/webhooks/
-https://developer.github.com/webhooks/creating/
-https://help.github.com/articles/about-webhooks/
--->
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
 
 GitHub Organizations
 * [GitHub Organizations](https://github.com/account/organizations/new)
@@ -3870,10 +3865,13 @@ Ruby- Installation and Control
 Ruby- Learning Resources
 * [Try Ruby](http://tryruby.org)
 * [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
-* [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
 * [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0)  
   
+<!--
+* [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
+-->
+
 Ruby- Executable Specification
 * [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
 * [Ruby Testing Tool](http://rspec.info)  
@@ -3984,6 +3982,11 @@ PHP- Laravel- Preferred Templates and Documents
 * [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
 * [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
  
+<!--
+Possibility recommended by Gregg
+https://laravel.com/docs/5.2/homestead
+-->
+
 PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
 
@@ -4055,6 +4058,11 @@ WordPress Theme Development and Template Hierarchy
 * [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
 * [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
 * [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
+
+<!--
+PHP (More)
+* [Official Themes](https://wordpress.org/themes)) 
+-->
 
 WP eCommerce
 * [WooCommerce](https://www.woothemes.com)
@@ -4309,7 +4317,7 @@ Node.js
 * [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
 * [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
 * [JSDOM GitHub](https://github.com/tmpvar/jsdom)  
-* [Node Webkit GitHub](https://github.com/rogerwang/node-webkit Node Webkit)  
+* [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org)  
 
@@ -4439,9 +4447,10 @@ JavaScript Presentations Frameworks
 
 Python (See also Data Science)
 * [Python](http://www.python.org) and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
-* [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)  
+* [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
+* [Python Docs](https://docs.python.org/3.5)
+* [Python Standard Library](https://docs.python.org/3.5/library)
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
-* [Python Standard Library](http://docs.python.org/2/library)  
 * [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
