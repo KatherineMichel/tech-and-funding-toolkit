@@ -3150,6 +3150,7 @@ http://linux.die.net/man/1/bash
 https://www.gnu.org/software/bash
 https://www.gnu.org/software/bash/manual/bashref.html
 
+http://tldp.org/LDP/abs/html/sample-bashrc.html
 http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 http://www.tldp.org/LDP/abs/html/
@@ -3170,22 +3171,24 @@ Google (Chromium, Chrome, Blink, V8)
 <!--
 https://bugs.chromium.org/p/v8/issues/list
 
-https://developer.chrome.com/devtools/
 https://developers.google.com/web/tools/chrome-devtools
 https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts?hl=en
+
+https://developer.chrome.com/home
+https://developer.chrome.com/devtools/
 https://developer.chrome.com/devtools/docs/videos
 https://developer.chrome.com/devtools/docs/console
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
 https://developer.chrome.com/extensions/getstarted
 https://developer.chrome.com/extensions
+https://developer.chrome.com/apps/about_apps
+https://developers.google.com/web/tools/chrome-devtools/debug/console/console-ui?hl=en
 https://developers.google.com/cast/docs/developers
 https://www.chromium.org/developers
 https://github.com/GoogleChrome/devtools-docs
-https://developers.google.com/web/tools/chrome-devtools/debug/console/console-ui?hl=en
+
 https://chrome.google.com/webstore/developer/dashboard
-https://developer.chrome.com/home
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://www.chromium.org/getting-involved/dev-channel
 https://toolbox.googleapps.com/apps/har_analyzer/
