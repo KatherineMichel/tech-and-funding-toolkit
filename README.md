@@ -95,6 +95,7 @@ Table of Content
   * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 * [Deployment and Cloud](#deployment-and-cloud)
+* [Deployment and Git Integration](#deployment-and-git-integration)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
 * [Dev Ops Tools](#dev-ops-tools)
 * [Servers and Databases](#servers-and-databases)
@@ -2688,6 +2689,11 @@ Unix
 * [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
 * [Unix Filesystem Hierarchy Standard](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 * [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
+
+<!--
+https://en.wikipedia.org/wiki/Unix_File_System
+https://en.wikipedia.org/wiki/Comparison_of_file_systems
+-->
 
 Linux
 * [Linux](http://www.linux.org)  
@@ -5512,27 +5518,6 @@ PaaS- General and Alternatives to Heroku (including Google App Engine)
 SaaS- General and Alternatives to GoogleApps
 * [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
-Ubuntu (Debian) Deployment
-* [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
-* [AWS Ubuntu](https://help.ubuntu.com/community/EC2StartersGuide)  
-* [AWS Ubuntu Server 14.04 LTS (HVM)](https://aws.amazon.com/marketplace/pp/B00JV9TBA6/ref=gtw_msl_title?ie=UTF8&amp;amp;amp;pf_rd_r=03MSJ27P1BFT09163JEP&amp;amp;amp;pf_rd_m=A33KC2ESLMUT5Y&amp;amp;amp;pf_rd_t=101&amp;amp;amp;pf_rd_i=awsmp-gateway-1&amp;amp;amp;pf_rd_p=1841533842&amp;amp;amp;pf_rd_s=right-3)  
-* [Heroku Ubuntu](https://toolbelt.heroku.com/debian)  
-
-GitHub, AWS, Heroku Deployment
-* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-* Illustration: Startup Engineering Dev, Staging, Production
-
-AWS Deployment/Staging- Virtual Private Networks
-* [Virtual Private Clouds](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html) and [Virtual Private Clouds Wikipedia](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud)  
-
-GitHub, Heroku, AWS SSH and SSH Keys
-* [GitHub SSH](https://github.com/settings/ssh)  
-* [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
-* [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
-* [AWS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)  
-
 Amazon
 * [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 
@@ -5679,8 +5664,6 @@ https://github.com/heroku/heroku-apps
 
 https://devcenter.heroku.com/start
 
-https://devcenter.heroku.com/categories/application-architecture
-
 https://devcenter.heroku.com/categories/reference
 https://devcenter.heroku.com/categories/add-on-documentation
 https://devcenter.heroku.com/categories/deployment
@@ -5688,33 +5671,13 @@ https://devcenter.heroku.com/categories/deployment
 https://devcenter.heroku.com/articles/labs-pipelines
 https://devcenter.heroku.com/articles/releases
 
-https://devcenter.heroku.com/articles/git
-https://devcenter.heroku.com/articles/git-clone-heroku-app
-https://devcenter.heroku.com/articles/github-integration
-https://blog.heroku.com/archives/2015/2/6/heroku_github_integration
-https://blog.heroku.com/archives/2014/8/7/heroku-button
-https://devcenter.heroku.com/articles/heroku-button
-
-https://devcenter.heroku.com/articles/keys
-https://devcenter.heroku.com/articles/securekey Application architecture links
-https://addons.heroku.com/securekey#fortnightly
-
 https://devcenter.heroku.com/articles/config-vars
 https://devcenter.heroku.com/articles/deploy-hooks
 https://devcenter.heroku.com/articles/architecting-apps
 https://devcenter.heroku.com/categories/application-architecture
--->
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-* [Heroku Example Site Staging- Broken Link](http://example-site-staging.herokuapp.com)  
-* [Staging Code on Heroku GitHub](https://github.com/digitalpulp/developer-handbook/wiki/Staging-code-on-heroku)  
-
-<!--
-https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
-https://www.digitalocean.com/features/one-click-apps/gitlab
 
 https://www.digitalocean.com/company/logos-and-badges
+
 https://www.digitalocean.com/help/getting-started/setting-up-your-server
 -->
 
@@ -5747,9 +5710,6 @@ Google Cloud, App Engine
 * [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
 * [Google Apps for Work](https://www.google.com/a/signup)  
 
-Google Cloud, App Engine and GitHub
-* [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html) 
-
 Google Cloud Functions (See also Amazon Web Services- Lambda)
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
 
@@ -5773,6 +5733,51 @@ Microsoft Special Deals
 * [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
 * [Microsoft DreamSpark](https://www.dreamspark.com)
 * [Microsoft BizSpark](https://www.microsoft.com/bizspark)
+
+#### Deployment and Git Integration
+
+Startup Mooc Staging Example: GitHub, AWS, Heroku
+* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
+* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
+* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+* Illustration: Startup Engineering Dev, Staging, Production
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+* [Staging Code on Heroku GitHub](https://github.com/digitalpulp/developer-handbook/wiki/Staging-code-on-heroku) 
+
+AWS Deployment/Staging- Virtual Private Networks
+* [Virtual Private Clouds](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html) and [Virtual Private Clouds Wikipedia](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud)  
+
+GitHub, Heroku, AWS SSH and SSH Keys
+* [GitHub SSH](https://github.com/settings/ssh)  
+* [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
+* [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
+* [AWS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html) 
+
+Google Cloud, App Engine and GitHub
+* [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html) 
+
+<!--
+https://devcenter.heroku.com/articles/securekey Application architecture links
+https://addons.heroku.com/securekey#fortnightly
+
+https://devcenter.heroku.com/articles/git
+https://devcenter.heroku.com/articles/git-clone-heroku-app
+https://devcenter.heroku.com/articles/github-integration
+https://blog.heroku.com/archives/2015/2/6/heroku_github_integration
+https://blog.heroku.com/archives/2014/8/7/heroku-button
+https://devcenter.heroku.com/articles/heroku-button
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively
+https://www.digitalocean.com/features/one-click-apps/gitlab
+-->
+
+Ubuntu (Debian) Deployment
+* [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
+* [AWS Ubuntu](https://help.ubuntu.com/community/EC2StartersGuide)  
+* [AWS Ubuntu Server 14.04 LTS (HVM)](https://aws.amazon.com/marketplace/pp/B00JV9TBA6/ref=gtw_msl_title?ie=UTF8&amp;amp;amp;pf_rd_r=03MSJ27P1BFT09163JEP&amp;amp;amp;pf_rd_m=A33KC2ESLMUT5Y&amp;amp;amp;pf_rd_t=101&amp;amp;amp;pf_rd_i=awsmp-gateway-1&amp;amp;amp;pf_rd_p=1841533842&amp;amp;amp;pf_rd_s=right-3)  
+* [Heroku Ubuntu](https://toolbelt.heroku.com/debian) 
 
 #### Deployment and Cloud by Language
 
