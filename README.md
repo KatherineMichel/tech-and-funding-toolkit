@@ -2762,6 +2762,9 @@ Chromebook Ubuntu Installation
 Apple Posters of Ago
 * [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
 
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+
 Apple El Capitan
 * [El Capitan](https://help.apple.com/osx-elcapitan)
 * [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
