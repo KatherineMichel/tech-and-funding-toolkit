@@ -2687,11 +2687,11 @@ Unix
 * [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
 * [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [Unix Filesystem Hierarchy Standard](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 * [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
 <!--
-https://en.wikipedia.org/wiki/Unix_File_System
 https://en.wikipedia.org/wiki/Comparison_of_file_systems
 -->
 
@@ -3152,6 +3152,11 @@ TCP-IP and OSI Protocols
 * [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 * [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
 * [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+Maintenance and Testing
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 
 Symbolic Link
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
@@ -3740,7 +3745,8 @@ GNU Software and Manuals
 
 #### Programming Languages, MVCs
 
-Cases
+Naming Conventions
+* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
 * [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
 * [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
 
@@ -4932,9 +4938,6 @@ pytest and Nose (Unit Test Extension)
 Tox (Automation)
 * [Tox Docs](https://tox.readthedocs.org/en/latest)
 
-Cron
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-
 Automated Dependency Management
 * [Requires.io](https://requires.io)
 
@@ -5648,8 +5651,6 @@ Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
 
 <!--
-https://devcenter.heroku.com/articles/heroku-command
-
 https://www.heroku.com/pricing
 https://www.heroku.com/beta-pricing
 https://devcenter.heroku.com/articles/usage-and-billing
@@ -5660,9 +5661,12 @@ https://devcenter.heroku.com/articles/dynos
 https://devcenter.heroku.com/articles/dyno-size
 https://devcenter.heroku.com/articles/scaling
 
+https://devcenter.heroku.com/start
 https://github.com/heroku/heroku-apps
 
-https://devcenter.heroku.com/start
+https://devcenter.heroku.com/articles/heroku-command
+
+https://www.digitalocean.com/help/getting-started/setting-up-your-server
 
 https://devcenter.heroku.com/categories/reference
 https://devcenter.heroku.com/categories/add-on-documentation
@@ -5677,8 +5681,6 @@ https://devcenter.heroku.com/articles/architecting-apps
 https://devcenter.heroku.com/categories/application-architecture
 
 https://www.digitalocean.com/company/logos-and-badges
-
-https://www.digitalocean.com/help/getting-started/setting-up-your-server
 -->
 
 Digital Ocean (VPS)
