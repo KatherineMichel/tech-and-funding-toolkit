@@ -3118,15 +3118,25 @@ Web Browser
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
 * [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
 
+<!--
+https://en.wikipedia.org/wiki/Cross-browser
+-->
+
 Web Browser Comparisons
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 
-Mac OS X
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+Mac OS X- OS, Browser, Layout Engine
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
 * [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+
+WebKit Parts
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScript Core Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
 * [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
 
@@ -3165,8 +3175,7 @@ Google
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
 * [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 * [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)) and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
 
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
@@ -3181,7 +3190,14 @@ Web Browser Engines(See also JavaScript)
 
 Browser Object Model (BOM) and Document Object Model (DOM)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://www.w3.org/DOM/#what
+https://www.w3.org/TR/dom
+http://www.w3schools.com/js/js_htmldom.asp
+-->
 
 HTTP
 * [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
