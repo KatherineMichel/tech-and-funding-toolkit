@@ -3118,9 +3118,8 @@ Web Browser
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
 * [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
 
-<!--
-https://en.wikipedia.org/wiki/Cross-browser
--->
+Cross-Browser
+* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 
 Web Browser Comparisons
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
@@ -3146,9 +3145,18 @@ Mac OS X- Bash
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
 
 <!--
+https://en.wikipedia.org/wiki/POSIX
+http://www.unix.com/man-page/posix/1posix/eval/
+
+http://www.gnu.org/software/bash/manual/bashref.html
+
 http://linux.die.net/man/1/bash
 https://www.gnu.org/software/bash
-https://www.gnu.org/software/bash/manual/bashref.html
+
+http://pubs.opengroup.org/onlinepubs/9699919799/
+http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
+
+https://en.wikibooks.org/wiki/Bash_Shell_Scripting
 
 http://tldp.org/LDP/abs/html/sample-bashrc.html
 http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
@@ -3171,26 +3179,34 @@ Google (Chromium, Chrome, Blink, V8)
 <!--
 https://bugs.chromium.org/p/v8/issues/list
 
+New docs
 https://developers.google.com/web/tools/chrome-devtools
 https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts?hl=en
 
+https://developers.google.com/web/tools/chrome-devtools/debug/console/console-ui?hl=en
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://developers.google.com/cast/docs/developers
+
+Old docs
+
 https://developer.chrome.com/home
 https://developer.chrome.com/devtools/
-https://developer.chrome.com/devtools/docs/videos
 https://developer.chrome.com/devtools/docs/console
 https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/devtools/docs/videos
+
 https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/devguide
+
 https://developer.chrome.com/apps/about_apps
-https://developers.google.com/web/tools/chrome-devtools/debug/console/console-ui?hl=en
-https://developers.google.com/cast/docs/developers
+
+https://chrome.google.com/webstore/developer/dashboard
+https://www.chromium.org/getting-involved/dev-channel
+
 https://www.chromium.org/developers
 https://github.com/GoogleChrome/devtools-docs
 
-https://chrome.google.com/webstore/developer/dashboard
-https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-https://www.chromium.org/getting-involved/dev-channel
 https://toolbox.googleapps.com/apps/har_analyzer/
 
 http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
@@ -3229,10 +3245,11 @@ Linux
 
 
 
-Web Browser Engines (See also JavaScript)- General
+Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 * [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
 
 Comparison of Layout Engines by DOM and ECMA Script)
 * [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
@@ -3248,8 +3265,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://www.w3.org/DOM/#what
 https://www.w3.org/TR/dom
 http://www.w3schools.com/js/js_htmldom.asp
-
-https://en.wikipedia.org/wiki/JavaScript_engine
 -->
 
 HTTP
@@ -3261,14 +3276,6 @@ TCP-IP and OSI Protocols
 * [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 * [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
 * [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-Maintenance and Testing
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Symbolic Link
-* [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
@@ -3289,6 +3296,21 @@ Malware and Encryption
 Keyboard Shortcuts
 * [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+Naming Conventions
+* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
+* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
+* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
+
+Maintenance and Testing
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Miscellaneous Vocab
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
+* [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
 #### More Command Line and Shell
 
@@ -3838,19 +3860,8 @@ GNU Software and Manuals
 
 #### Programming Languages, MVCs
 
-Naming Conventions
-* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
-* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
-
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-Technical Debt
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-
-Hard Coding
-* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
 
 Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
@@ -3961,10 +3972,7 @@ Ruby- Learning Resources
 * [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
 * [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0)  
-  
-<!--
-* [Ruby MRI Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
--->
+* [Ruby MRI (Matz's Ruby Interpreter) Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
 
 Ruby- Executable Specification
 * [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
