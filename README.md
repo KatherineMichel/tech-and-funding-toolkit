@@ -5659,12 +5659,21 @@ Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku/heroku)  
 * [Heroku Dev Center](https://devcenter.heroku.com)  
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
  
+<!--
+(Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
+All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
+
+https://github.com/heroku/heroku-apps
+-->
+
 Heroku- Deployment
 * [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
 * [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
 * [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
 * [Heroku Releases](https://devcenter.heroku.com/articles/releases)
 * [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
 * [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains) 
@@ -5683,31 +5692,19 @@ Heroku- Dynos
 Heroku- Add on Documentation
 * [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
 
-<!--
-(Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
-All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
-
-https://devcenter.heroku.com/start
-https://github.com/heroku/heroku-apps
-
-https://devcenter.heroku.com/articles/heroku-command
-
-https://devcenter.heroku.com/articles/architecting-apps
-https://devcenter.heroku.com/categories/application-architecture
--->
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
 
 Digital Ocean (VPS)
 * [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
 * [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
 * [Digital Ocean Pricing](https://www.digitalocean.com/pricing)  
 * [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
+* [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)  
 * [Digital Ocean Community](https://www.digitalocean.com/community)  
-
-<!--
-https://www.digitalocean.com/help/getting-started/setting-up-your-server
-https://www.digitalocean.com/company/logos-and-badges
--->
+* [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
