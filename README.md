@@ -3292,6 +3292,8 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+http://www.learnenough.com/git-tutorial#sec-getting_started
+
 https://github.com/business
 
 https://guides.github.com/features/issues/
@@ -3618,24 +3620,24 @@ https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=o
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
 https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
+http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+
+https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
+https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
+https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
+
 https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
 https://github.com/pybee/pybee.github.io
 http://pybee.org
 
 http://slides.com/kentcdodds/1st-pr#/
 https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-
 https://github.com/kentcdodds/all-contributors
 https://github.com/jfmengels/all-contributors-cli
-
 https://github.com/kentcdodds/ama/issues/93
-
 http://javascriptair.com
-
-http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-Pinax Hanouts
-https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
 -->
 
 Example Help Tweets
@@ -4677,15 +4679,6 @@ http://www.writethedocs.org/conf/na/2016/cfp/
 
 http://scipy2016.scipy.org/ehome/146062/332968/?&&
 http://scipy2016.scipy.org
-
-https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
-https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
-https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
-
-http://www.learnenough.com/git-tutorial#sec-getting_started
-
-Mastering Regular Expressions Jeffrey Friedl
-https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
 -->
 
 #### Python and Django Girls
@@ -4873,6 +4866,9 @@ https://www.djangoproject.com/fundraising/campaign/django-fellowship
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 
 * [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+Mastering Regular Expressions Jeffrey Friedl
+https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
 -->
 
 #### Python and Django Deployment
