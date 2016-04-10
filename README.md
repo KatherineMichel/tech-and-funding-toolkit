@@ -5661,21 +5661,20 @@ https://devcenter.heroku.com/articles/scaling
 https://devcenter.heroku.com/start
 https://github.com/heroku/heroku-apps
 
+https://devcenter.heroku.com/categories/reference
+
+https://devcenter.heroku.com/categories/add-on-documentation
+
 https://devcenter.heroku.com/articles/heroku-command
 
-https://www.digitalocean.com/help/getting-started/setting-up-your-server
-
-https://devcenter.heroku.com/categories/reference
-https://devcenter.heroku.com/categories/add-on-documentation
-https://devcenter.heroku.com/categories/deployment
-
-https://devcenter.heroku.com/articles/labs-pipelines
-https://devcenter.heroku.com/articles/releases
+https://devcenter.heroku.com/articles/architecting-apps
+https://devcenter.heroku.com/categories/application-architecture
 
 https://devcenter.heroku.com/articles/config-vars
 https://devcenter.heroku.com/articles/deploy-hooks
-https://devcenter.heroku.com/articles/architecting-apps
-https://devcenter.heroku.com/categories/application-architecture
+https://devcenter.heroku.com/categories/deployment
+https://devcenter.heroku.com/articles/releases
+https://devcenter.heroku.com/articles/labs-pipelines
 
 https://www.digitalocean.com/company/logos-and-badges
 -->
@@ -5687,6 +5686,10 @@ Digital Ocean (VPS)
 * [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)  
 * [Digital Ocean Community](https://www.digitalocean.com/community)  
+
+<!--
+https://www.digitalocean.com/help/getting-started/setting-up-your-server
+-->
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
