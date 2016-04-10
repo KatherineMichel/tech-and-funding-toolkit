@@ -3970,11 +3970,12 @@ PHP- Twitter OAuth
 
 PHP/Node.js- WordPress- Com, Org, Calypso
 * [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
-* [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
 * [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
+* [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
 
 PHP/Node.js- WordPress- Developer Resource
 * [WordPress Codex](http://codex.wordpress.org)
+* [WordPress Codex Quick Index](http://codex.wordpress.org/Codex:Quick_index) and [WordPress Codex All Pages](http://codex.wordpress.org/Special:AllPages)
 * [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
 * [WordPress GitHub](https://github.com/WordPress/WordPress)  
 * [WordPress Plugins](https://wordpress.org/plugins) and [WordPress Plugins Mirror](http://www.pluginmirror.com/plugins) 
@@ -3989,22 +3990,6 @@ PHP/Node.js- WordPress Installation and Migration
 * [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
 
 <!--
-https://www.woothemes.com/hosting-solutions/
-
-https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
-
-https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
-https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
-
-WordPress Helpers
-https://github.com/kennethreitz-archive/wordpress-theme-skeleton
-https://github.com/andjosh/naked-wordpress/blob/master/single.php
-
-http://codex.wordpress.org/Using_Password_Protection
-
-http://codex.wordpress.org/Codex:Quick_index
-http://codex.wordpress.org/Special:AllPages
-
 http://codex.wordpress.org/Developer_Documentation
 http://codex.wordpress.org/Advanced_Topics
 http://codex.wordpress.org/Blog_Design_and_Layout
@@ -4026,6 +4011,16 @@ http://codex.wordpress.org/Contributing_to_WordPress
 https://yoast.com/wordpress-theme-anatomy/
 http://codex.wordpress.org/Child_Themes
 http://codex.wordpress.org/Theme_Development#Template_Files_List
+
+https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
+https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
+https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
+
+WordPress Helpers
+https://github.com/kennethreitz-archive/wordpress-theme-skeleton
+https://github.com/andjosh/naked-wordpress/blob/master/single.php
+
+http://codex.wordpress.org/Using_Password_Protection
 -->
 
 WordPress Theme Development and Template Hierarchy
@@ -4036,6 +4031,10 @@ WordPress Theme Development and Template Hierarchy
 * [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
 * [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
 * [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
+
+WP eCommerce
+* [WooCommerce](https://www.woothemes.com)
+* [WooCommerce Hosting Solutions](https://www.woothemes.com/hosting-solutions)
 
 WP Engine
 * [WP Engine](https://wpengine.com) 
@@ -4575,8 +4574,6 @@ Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
 
 <!--
-https://github.com/PyCon/pycon
-
 https://groups.google.com/forum/#!msg/django-users/-iTZB7K1QI4/TTVXd9Y6EwAJ
 https://groups.google.com/forum/#!topic/djangocon-organizers/-I4dLxPYXM8
 https://groups.google.com/forum/#!topic/djangocon-organizers/whBrRrNnxQA
@@ -4586,21 +4583,18 @@ https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8
 https://2016.djangocon.us/speaking
 https://2016.djangocon.us/financialaid
 
-https://2016.djangocon.eu/team/
-https://2016.djangocon.eu/schedule/#workshops
-https://2016.djangocon.eu/speakers/schedule
-https://2016.djangocon.eu/venue/#workshops
-https://2016.djangocon.eu/cfp/workshop
-https://2016.djangocon.eu/faq
-
-https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
-https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
-
 https://www.djangocon.us/sprints/
 https://2015.djangocon.us/blog/2015/05/08/announcing-our-call-reviewers/
 https://2015.djangocon.us/volunteers/
 https://trello.com/b/zBpdDpe7/djangcon-us-2012
 djangocon us trello board
+
+https://github.com/DEFNA/defna.org
+https://twitter.com/webology/status/699277088256163840
+https://2016.djangocon.us/blog/2016/03/18/what-difference-year-makes
+https://2015.djangocon.us/blog/2015/06/10/call-conference-venues
+
+https://www.djangoproject.com/weblog/2016/mar/04/host-djangocon-europe-2017/
 
 https://github.com/PyCon/2015/wiki/PyCon-2105-Sponsorship-Prospectus
 https://github.com/PyCon/2015/wiki/
@@ -4613,6 +4607,13 @@ https://us.pycon.org/2016/schedule/presentation/2082/
 https://us.pycon.org/2016/schedule/
 https://us.pycon.org/2016/events/keynotes/
 
+https://2016.djangocon.eu/team/
+https://2016.djangocon.eu/schedule/#workshops
+https://2016.djangocon.eu/speakers/schedule
+https://2016.djangocon.eu/venue/#workshops
+https://2016.djangocon.eu/cfp/workshop
+https://2016.djangocon.eu/faq
+
 https://github.com/PyCon
 https://github.com/PyCon/pycon
 https://github.com/PyCon/2015/wiki#tentative-dates
@@ -4621,26 +4622,28 @@ https://github.com/PyCon/2016/issues
 https://github.com/PyCon/best-practices/blob/master/presentation_slides.md
 https://github.com/PyCon/2015-slides
 
-https://ep2016.europython.eu/en/call-for-proposals/
-
-https://2015.djangocon.us/blog/2015/06/10/call-conference-venues
-http://www.writethedocs.org/conf/na/2016/cfp/
-https://us.pycon.org/2016/schedule/conference.json
-
-https://github.com/DEFNA/defna.org
-
-https://www.djangoproject.com/weblog/2016/mar/04/host-djangocon-europe-2017/
 https://us.pycon.org/2016/schedule/presentation/1473/
 https://us.pycon.org/2016/venue/accessibility/
-
-https://twitter.com/webology/status/699277088256163840
-
 http://pycon.blogspot.com/2016/03/why-not-join-sprints-this-year-at-pycon.html
 http://pycon.blogspot.com/2016/02/full-schedule-is-up-and-financial-aid.html
+https://us.pycon.org/2016/schedule/conference.json
+
+https://www.python.org/community/workshops/
+
+https://www.djangoproject.com/foundation/developer-members/
+
+https://github.com/PyCon/pycon
 https://pycon.readthedocs.org/en/latest
+https://symposion.readthedocs.org/en/latest/
+https://github.com/eldarion/djangocon.us
+https://ky395.us2.gondor.io
+http://eldarion.com
+
+http://www.ellingtoncms.com
 
 http://www.pydanny.com/beginners-guide-pycon-2014.html
 
+https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 https://djangogirls.org/pycon/
 https://djangogirls.org/events/
 http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
@@ -4648,27 +4651,21 @@ http://blog.djangogirls.org/submit
 
 http://remote.pyladies.com/resources
 
-https://www.djangoproject.com/foundation/developer-members/
+https://ep2016.europython.eu/en/call-for-proposals/
+
+http://www.writethedocs.org/conf/na/2016/cfp/
 
 http://scipy2016.scipy.org/ehome/146062/332968/?&&
+http://scipy2016.scipy.org
 
-https://github.com/eldarion/djangocon.us
-https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
-https://symposion.readthedocs.org/en/latest/
-https://ky395.us2.gondor.io
-http://eldarion.com
-http://www.ellingtoncms.com
+https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
+https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
+
+http://www.learnenough.com/git-tutorial#sec-getting_started
 
 Mastering Regular Expressions Jeffrey Friedl
 https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-
-http://www.learnenough.com/git-tutorial#sec-getting_started
-https://www.python.org/community/workshops/
-
-https://2016.djangocon.us/blog/2016/03/18/what-difference-year-makes
-
-http://scipy2016.scipy.org
 -->
 
 #### Python and Django Girls
