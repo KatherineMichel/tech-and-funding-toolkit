@@ -3267,6 +3267,7 @@ Windows- PowerShell
 * [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
 * [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
 * [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
+* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
 
 Linux
 * [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
@@ -3511,6 +3512,10 @@ Code Review (See also Project Management)
 A Successful Git Branching Model
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+
+Learn X in Y Minutes Git and Markdown
+* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
+* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 Git- Official Learning Resources
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
@@ -3827,9 +3832,6 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
-https://learnxinyminutes.com/docs/markdown/
-https://learnxinyminutes.com/docs/git/
-
 https://learnxinyminutes.com/docs/pythonstatcomp/
 
 https://learnxinyminutes.com/docs/ruby/
@@ -3844,7 +3846,6 @@ https://learnxinyminutes.com/docs/swift/
 https://learnxinyminutes.com/docs/go/
 
 https://learnxinyminutes.com/docs/json/
-https://learnxinyminutes.com/docs/powershell/
 
 http://pleac.sourceforge.net
 Programming Language Examples Alike Cookbook- Python
