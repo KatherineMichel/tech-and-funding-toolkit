@@ -3242,6 +3242,7 @@ Windows
 Windows- PowerShell
 * [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
 * [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
+* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
 
 Linux
 * [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
