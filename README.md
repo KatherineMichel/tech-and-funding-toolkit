@@ -2697,12 +2697,17 @@ Unix
 * [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
 * [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
+
+Unix Shell and File system
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 * [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
 * [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
 <!--
 https://en.wikipedia.org/wiki/Comparison_of_file_systems
+https://en.wikipedia.org/wiki/Sudo
 -->
 
 Linux
@@ -3363,9 +3368,7 @@ cURL
 * [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
 * [WGet](https://www.gnu.org/software/wget)
 
-Unix Shell
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+Unix Shell (See also Unix)
 * [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
 * [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
 * [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
