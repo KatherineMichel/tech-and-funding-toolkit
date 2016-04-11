@@ -3546,6 +3546,9 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks
+https://git-scm.com/docs/git-merge
+
 http://www.learnenough.com/git-tutorial#sec-getting_started
 
 https://github.com/business
