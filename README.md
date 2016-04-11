@@ -3264,9 +3264,16 @@ Browser Object Model (BOM) and Document Object Model (DOM)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 
 <!--
+https://docs.python.org/3/library/xml.dom.html
+
+http://www.w3schools.com/js/js_htmldom.asp
+http://www.w3schools.com/xml/dom_intro.asp
+
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://www.w3.org/DOM/#what
 https://www.w3.org/TR/dom
+https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
+
 http://www.w3schools.com/js/js_htmldom.asp
 -->
 
