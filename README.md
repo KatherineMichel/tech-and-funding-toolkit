@@ -3259,22 +3259,19 @@ Comparison of Layout Engines by DOM and ECMA Script)
 * [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 * [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
 
-Browser Object Model (BOM) and Document Object Model (DOM)
+Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
+* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 <!--
 https://docs.python.org/3/library/xml.dom.html
 
-http://www.w3schools.com/js/js_htmldom.asp
-http://www.w3schools.com/xml/dom_intro.asp
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://www.w3.org/DOM/#what
 https://www.w3.org/TR/dom
 https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
-
-http://www.w3schools.com/js/js_htmldom.asp
 -->
 
 HTTP
@@ -3933,6 +3930,7 @@ JavaScript Tutorials
 * [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
 * [JavaScript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
