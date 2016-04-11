@@ -2483,12 +2483,7 @@ Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
 <!--
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-
 http://www.w3schools.com/html/html5_syntax.asp
-http://www.w3schools.com/js/js_htmldom.asp
 http://www.w3schools.com/jsref/obj_window.asp
 http://www.w3schools.com/cssref/default.asp
 http://www.w3schools.com/cssref/css_selectors.asp
@@ -2496,8 +2491,6 @@ http://www.w3schools.com/cssref/css_functions.asp
 http://www.w3schools.com/cssref/css_colors.asp
 http://www.w3schools.com/cssref/css_colors_legal.asp
 http://www.w3schools.com/cssref/css3_browsersupport.asp
-
-http://www.w3schools.com/jsref/obj_window.asp
 
 http://www.w3schools.com/colors/colors_names.asp
 http://www.w3schools.com/html/html_css.asp
@@ -2548,6 +2541,10 @@ Example
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+
 https://www.w3.org/DOM/
 https://www.w3.org/TR/DOM-Level-3-Core/core.html
 
@@ -2557,38 +2554,54 @@ https://developer.mozilla.org/en-US/docs/Web/Guide
 https://developer.mozilla.org/en-US/docs/Web/Tutorials
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
 https://developer.mozilla.org/en-US/docs/Web/Security
+
 https://developer.mozilla.org/en-US/docs/Web/HTML
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
 https://developer.mozilla.org/en-US/docs/Web/CSS
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
 https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
+
+https://developer.mozilla.org/en-US/Learn
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+Prototype-based Programming
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://developer.mozilla.org/en-US/docs/DOM
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
 https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
+https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
 https://developer.mozilla.org/en-US/docs/Web/Guide/Events
 https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
 https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
-https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
-https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
 https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
 https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
+
 https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
 https://developer.mozilla.org/en-US/docs/Web/SVG
 https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
 https://developer.mozilla.org/en-US/docs/Web/MathML
 https://developer.mozilla.org/en-US/docs/Glossary
 
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+https://developer.mozilla.org/en-US/docs/Tools
+http://getfirebug.com
 
+http://whatwg.github.io/loader
+
+https://twitter.com/kentcdodds/status/710701170268831744
 
 http://www.w3.org/TR/CSS21/cover.html#minitoc
 [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-http://whatwg.github.io/loader
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 https://support.google.com/analytics/answer/1638635?hl=en
@@ -2600,8 +2613,6 @@ http://microformats.org/wiki/hcard
 http://microformats.org/code/hcard/creator
 
 https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
-
-https://twitter.com/kentcdodds/status/710701170268831744
 -->
 
 #### Engineering Blogs and Designer, Developer Conferences
@@ -2795,9 +2806,6 @@ Apple Developer Tools
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
 * [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-PostgreSQL
-* [Postgresapp.com](http://postgresapp.com) and [Postgresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
 
 Apple- iOS
 * [Apple iOS](https://developer.apple.com/ios)
@@ -3156,6 +3164,9 @@ Mac OS X- Bash
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
 
 <!--
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+https://en.wikipedia.org/wiki/Command-line_interface
+
 https://en.wikipedia.org/wiki/POSIX
 http://www.unix.com/man-page/posix/1posix/eval/
 
@@ -5589,6 +5600,9 @@ PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 
 Postgrest (PostgreSQL API)
 * [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
+
+PostgreSQL
+* [Postgresapp.com](http://postgresapp.com) and [Postgresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
 
 MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [MySQL](http://www.mysql.com)  
