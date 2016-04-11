@@ -70,11 +70,11 @@ Table of Content
   * [Apple](#apple)
 * [Development Environment and Programming](#development-environment-and-programming)
   * [Computer Basics](#computer-basics)
+  * [More Command Line and Shell](#more-command-line-and-shell)
+  * [Dot Files](#dot-files)
   * [Code Philosophies](#code-philosophies)
   * [Software Manuals and Documentation](#software-manuals-and-documentation)
   * [Git and Markdown](#git-and-markdown)
-  * [More Command Line and Shell](#more-command-line-and-shell)
-  * [Dot Files](#dot-files)
 * [Programming](#programming)
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
   * [Programming Learning Tools](#programming-learning-tools) 
@@ -3292,6 +3292,8 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 <!--
+https://en.wikipedia.org/wiki/DOM_events
+
 https://docs.python.org/3/library/xml.dom.html
 
 https://www.w3.org/DOM/#what
@@ -3890,6 +3892,9 @@ GNU Software and Manuals
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 
 #### Programming Languages, MVCs
+
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
@@ -5560,7 +5565,6 @@ Types of Databases
 * [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
 * [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
 * [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)  
 * [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
 * [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
 * [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
