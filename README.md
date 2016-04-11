@@ -5908,7 +5908,6 @@ Startup Mooc Staging Example: GitHub, AWS, Heroku
 
 Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-* [Staging Code on Heroku GitHub](https://github.com/digitalpulp/developer-handbook/wiki/Staging-code-on-heroku) 
 
 AWS Deployment/Staging- Virtual Private Networks
 * [Virtual Private Clouds](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html) and [Virtual Private Clouds Wikipedia](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud)  
