@@ -3082,6 +3082,10 @@ CPU and Instruction Set
 * [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
 * [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
+<!--
+https://en.wikipedia.org/wiki/List_of_instruction_sets
+-->
+
 Binary
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
 * [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
@@ -3136,6 +3140,10 @@ Mac OS X- OS, Browser, Layout Engine
 WebKit Parts
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+<!--
+https://en.wikipedia.org/wiki/Intel_Core
+-->
 
 Mac OS X- Architecture
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
@@ -3318,6 +3326,7 @@ Maintenance and Testing
 Miscellaneous Vocab
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 * [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
+* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
 #### More Command Line and Shell
