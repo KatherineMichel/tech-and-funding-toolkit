@@ -5714,6 +5714,11 @@ Status
 * [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 
+<!--
+https://github.com/ChromeDevTools/awesome-chrome-devtools
+https://console.developers.google.com/project?pli=1
+-->
+
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
 * [Domize](http://domize.com)  
