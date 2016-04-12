@@ -2563,6 +2563,40 @@ http://www.w3schools.com/colors/colors_names.asp
 http://www.w3schools.com/html/html_css.asp
 -->
 
+<!--
+JavaScript
+
+Learn JavaScript
+Learn jQuery
+Learn jQueryMobile
+Learn AppML
+Learn AngularJS
+Learn JSON
+HTML Graphics
+
+Learn Canvas
+Learn SVG
+Learn Icons
+Learn Google Maps
+Learn HTML Games
+Server Side
+
+Learn SQL
+Learn PHP
+Learn ASP
+Learn ASP.NET
+Web Building
+
+Web Building
+Web Statistics
+Web Certificates
+XML Tutorials
+
+Learn XML
+Learn XSLT
+Learn AJAX
+-->
+
 HTML
 * [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
 * [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
