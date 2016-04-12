@@ -27,6 +27,7 @@
 * [Google](https://github.com/google)  
 * [Google Ads](https://github.com/googleads)  
 * [Google Chrome](https://github.com/GoogleChrome)  
+* [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
 * [Google Cloud Platform](https://github.com/GoogleCloudPlatform)  
 * [Google Drive](https://github.com/googledrive)  
 * [Google Glass](https://github.com/googleglass)  
