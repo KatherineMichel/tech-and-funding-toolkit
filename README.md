@@ -1641,6 +1641,64 @@ Journalism Style Guides
 BBC
 * [BBC Global Experience Language](http://www.bbc.co.uk/gel)
 
+<!--
+https://github.com/bbc/gel-test
+https://github.com/bbc/gel-standards
+https://github.com/BBC-News/bbc-news.github.io
+https://github.com/BBC-News/pr-templates
+
+http://www.bbc.co.uk/news/resources/idt-bbb9e158-4a1b-43c7-8b3b-9651938d4d6a
+http://www.bbc.co.uk/guidelines/futuremedia
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility/index.shtml
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml
+http://www.bbc.co.uk/guidelines/futuremedia/desed/searchmetadata.shtml (See also 'References')
+http://www.bbc.co.uk/editorialguidelines
+
+http://bbc.github.io/idstyleguide
+https://github.com/bbc/idstyleguide
+https://github.com/bbc/timelines-design-sprint-2-prototypes/tree/gh-pages
+https://github.com/bbc/BBC.github.io
+https://github.com/bbc/gel-labs-styleguide-js
+http://static.bbci.co.uk/gel/0.5.3/downloads/GEL_web_styleguide.pdf
+http://static.bbci.co.uk/gel/0.5.3/downloads/GEL_web_toolbar_guide.pdf
+http://www.bbc.co.uk/gel/accessibility/accessibility-principles/test
+http://www.bbc.co.uk/gel/guidelines/grid (new)
+http://www.bbc.co.uk/guidelines
+http://www.bbc.co.uk/guidelines/futuremedia
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml
+http://www.bbc.co.uk/iwonder
+https://github.com/bbc/kandl-style-guide
+
+http://www.bbc.co.uk/accessibility
+
+http://bootstrap.bbcnewslabs.co.uk
+https://github.com/BBC-News-Labs/bbcnewslabs-bootstrap
+https://github.com/BBC-News-Labs/bbcnewslabs-internal-bootstrap
+https://github.com/iaincollins/themestrap
+http://code.divshot.com/themestrap
+
+https://next.ft.com/__styleguide
+https://next.ft.com/__styleguide/accessibility
+https://github.com/Financial-Times/next-opt-in-out
+http://www.w3.org/TR/WCAG20
+
+http://styleguide.ft.com
+https://github.com/Financial-Times/ui-style-guide
+http://financial-times.github.io/ui-style-guide
+
+http://labs.ft.com
+https://developer.ft.com
+http://origami.ft.com/docs/developer-guide
+http://origami.ft.com/docs/developer-guide/using-modules
+http://origami.ft.com/docs/developer-guide/general-best-practices
+http://origami.ft.com/docs/developer-guide/build-service/#building-a-page
+http://origami.ft.com/docs/developer-guide/building-modules
+http://origami.ft.com/docs/3rd-party-a-list
+http://origami.ft.com/docs/syntax
+-->
+
 #### STEM and STEAM
 
 * [STEM to STEAM](http://stemtosteam.org)
