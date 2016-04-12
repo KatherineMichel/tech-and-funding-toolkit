@@ -513,6 +513,11 @@ Startup Studios
 * [Expa](http://expa.com) 
 * [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 
+<!--
+http://expa.com/news/100m_labs/
+http://expa.com/labs
+-->
+
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
 
@@ -3217,6 +3222,13 @@ WebKit Parts
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
 <!--
+https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html
+
+https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf
+
+https://en.wikipedia.org/wiki/Terminal_(OS_X)
+https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html
+
 https://en.wikipedia.org/wiki/Intel_Core
 -->
 
@@ -3231,6 +3243,8 @@ Mac OS X- Bash
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
 
 <!--
+http://cli.learncodethehardway.org/bash_cheat_sheet.pdf
+
 https://en.wikipedia.org/wiki/List_of_Unix_commands
 https://en.wikipedia.org/wiki/Command-line_interface
 
@@ -3355,6 +3369,8 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 <!--
+http://caniuse.com
+
 https://en.wikipedia.org/wiki/DOM_events
 
 https://docs.python.org/3/library/xml.dom.html
@@ -3376,15 +3392,6 @@ TCP-IP and OSI Protocols
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
 
 Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
@@ -3608,6 +3615,8 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+https://www.producthunt.com/@jordan_gonen/collections/everything-github
+
 https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks
 https://git-scm.com/docs/git-merge
 
@@ -5414,6 +5423,7 @@ Xamarin (Visual Studio Community Mobile Development Partner)
 * [Xamarin](https://xamarin.com/platform)
 
 <!--
+http://dotnet.github.io/about/overview.html
 
 https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
 
@@ -5927,6 +5937,19 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Deis](http://deis.io)  
 * [Deis GitHub](https://github.com/deis/deis)  
 
+<!--
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+-->
+
 Google Cloud, App Engine
 * [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
 * [Google Cloud Products](https://cloud.google.com/products)  
@@ -6174,6 +6197,11 @@ VMware, Vagrant, VirtualBox
 * [VagrantCloud](https://vagrantcloud.com)  
 * [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
 * [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox) 
+
+<!--
+http://store.vmware.com/store/vmware/en_US/pd/productID.323689100
+https://www.virtualbox.org/wiki/Documentation
+-->
 
 Ansible (Automation and Configuration Management)
 * [Ansible Deployment](http://www.ansible.com)  
