@@ -3794,6 +3794,16 @@ HTML Tutorials
 * [W3Schools HTML Tags Tutorial](http://www.w3schools.com/tags/default.asp)
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
 
+<!--
+Mozilla
+* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+-->
+
 Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
