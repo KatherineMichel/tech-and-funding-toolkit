@@ -60,10 +60,8 @@ Table of Content
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   * [Pretotyping](#pretotyping)
   * [Prototyping](#prototyping)
-* [Design Thinking](#design-thinking)
 * [Social Media and Social Graph](#social-media-and-social-graph) 
 * [Testing and Performance](#testing-and-performance)
-* [Web Dev and Design](#web-dev-and-design)
 * [Design Agency Playbooks](#design-agency-playbooks)
 * [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
 * [Labs](#labs)
@@ -76,16 +74,23 @@ Table of Content
   * [Computer Basics](#computer-basics)
   * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
-  * [Code Philosophies](#code-philosophies)
-  * [Software Manuals and Documentation](#software-manuals-and-documentation)
   * [Git and Markdown](#git-and-markdown)
-* [Programming](#programming)
+  * [Code Philosophies](#code-philosophies)
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
+  * [Software Manuals and Documentation](#software-manuals-and-documentation)
+  * [Programming Language Style Guides](#programming-language-style-guides) 
+
+* [Design](#design)
+  * [Design Thinking](#design-thinking)
+* [Web Dev and Design](#web-dev-and-design)
+
+* [Programming](#programming)
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Languages, MVCs](#programming-languages-mvcs)
-  * [Programming Language Style Guides](#programming-language-style-guides) 
+
 * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
 * [React, Node.js and Related](#react-nodejs-and-related)
+
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
@@ -2317,38 +2322,6 @@ Miscellaneous
 * [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-#### Design Thinking
-
-Design- General
-* [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
-* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
-* [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
-* [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
-* [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
-
-Responsive Design
-* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-* [Responsive Design Examples](http://mediaqueri.es)  
-
-Design Publications
-* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-* [Smashing Magazine](http://www.smashingmagazine.com) 
-* [Tympanus](http://tympanus.net)
-* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
-* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
- 
-Portfolio and Community Websites
-* [Behance](https://www.behance.net)  
-* [Dribbble](https://dribbble.com)  
-* [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-* [Zurb Tavern](http://zurb.com/tavern) 
-
-Flickr
-* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-KPCB and John Maeda Design in Tech Report
-* [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
-* [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
 #### Design Agency Playbooks
 
@@ -2519,202 +2492,6 @@ W3 Validators
 Accessibility
 * [WebAIM](http://webaim.org)
 * [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
-
-#### Web Dev and Design
-
-Web General (See also JavaScript) 
-* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
-* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
-* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
-* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
-* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
-* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
-* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
-* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
-* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
-* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
-* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
-
-CSS Tutorials
-* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
-* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-* [W3Schools CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
-
-HTML Tutorials
-* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [W3Schools HTML Tags Tutorial](http://www.w3schools.com/tags/default.asp)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-
-Bootstrap Tutorials
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-
-<!--
-http://www.w3schools.com/html/html5_syntax.asp
-http://www.w3schools.com/jsref/obj_window.asp
-http://www.w3schools.com/cssref/default.asp
-http://www.w3schools.com/cssref/css_selectors.asp
-http://www.w3schools.com/cssref/css_functions.asp
-http://www.w3schools.com/cssref/css_colors.asp
-http://www.w3schools.com/cssref/css_colors_legal.asp
-http://www.w3schools.com/cssref/css3_browsersupport.asp
-
-http://www.w3schools.com/colors/colors_names.asp
-http://www.w3schools.com/html/html_css.asp
--->
-
-<!--
-JavaScript
-
-Learn JavaScript
-Learn jQuery
-Learn jQueryMobile
-Learn AppML
-Learn AngularJS
-Learn JSON
-HTML Graphics
-
-Learn Canvas
-Learn SVG
-Learn Icons
-Learn Google Maps
-Learn HTML Games
-Server Side
-
-Learn SQL
-Learn PHP
-Learn ASP
-Learn ASP.NET
-Web Building
-
-Web Building
-Web Statistics
-Web Certificates
-XML Tutorials
-
-Learn XML
-Learn XSLT
-Learn AJAX
--->
-
-HTML
-* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-CSS
-* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
-* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
-
-Char Sets
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
-* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
-
-Encoding
-* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
-* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
-* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
-* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
-
-URL and IRI
-* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
-* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
-
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
-
-<!--
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-
-https://www.w3.org/DOM/
-https://www.w3.org/TR/DOM-Level-3-Core/core.html
-
-https://developer.mozilla.org/en-US/Apps
-https://developer.mozilla.org/en-US/docs/Web/Reference
-https://developer.mozilla.org/en-US/docs/Web/Guide
-https://developer.mozilla.org/en-US/docs/Web/Tutorials
-https://developer.mozilla.org/en-US/docs/Web/Accessibility
-https://developer.mozilla.org/en-US/docs/Web/Security
-
-https://developer.mozilla.org/en-US/docs/Web/HTML
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
-https://developer.mozilla.org/en-US/docs/Web/CSS
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
-https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
-
-https://developer.mozilla.org/en-US/Learn
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
-Prototype-based Programming
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
-https://developer.mozilla.org/en-US/docs/DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.mozilla.org/en-US/docs/Web/Reference/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
-https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
-https://developer.mozilla.org/en-US/docs/Web/Guide/Events
-https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
-https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
-https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
-https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
-
-https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
-https://developer.mozilla.org/en-US/docs/Web/SVG
-https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
-https://developer.mozilla.org/en-US/docs/Web/MathML
-https://developer.mozilla.org/en-US/docs/Glossary
-
-https://developer.mozilla.org/en-US/docs/Tools
-http://getfirebug.com
-
-http://whatwg.github.io/loader
-
-https://twitter.com/kentcdodds/status/710701170268831744
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
-[W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-https://developer.mozilla.org/en-US/docs/Web/API/Console/table
-https://support.google.com/analytics/answer/1638635?hl=en
-
-http://schema.org/Person
-http://microformats.org
-https://en.wikipedia.org/wiki/HCard
-http://microformats.org/wiki/hcard
-http://microformats.org/code/hcard/creator
-
-https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
--->
 
 #### Engineering Blogs and Designer, Developer Conferences
 
@@ -3095,9 +2872,6 @@ http://developersacademy.io/blog/
 * [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
 -->
 
-Virtual Box and Vagrant
-* [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
-
 Apple Presentation and Design (See also Keynotopia)
 * [Keynote](https://www.apple.com/mac/keynote)
 * [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com)
@@ -3110,7 +2884,10 @@ Apple- Refurbished, Clearance, Reuse, Recycling
 * [Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
 * [Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
 
-Apple- Windows
+Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
+* [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
+
+Apple- Windows (See also: VMware, Vagrant, VirtualBox)
 * [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 * ["How to install Windows using Boot Camp"](https://support.apple.com/en-us/HT201468)  
 * ["Use Windows 10 on your Mac with Boot Camp"](https://support.apple.com/en-us/HT204990)
@@ -3194,11 +2971,8 @@ Computer Classes and Sizes
 CPU and Instruction Set
 * [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
 * [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
 * [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-<!--
-https://en.wikipedia.org/wiki/List_of_instruction_sets
--->
 
 Binary
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
@@ -3382,8 +3156,6 @@ Windows- PowerShell
 Linux
 * [Linux Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
-
-
 Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
@@ -3530,74 +3302,6 @@ Startup Class Dotfiles and AWS EC2 Setup
 * [Course Dotfiles](https://github.com/startup-class/dotfiles)  
 * [Course EC2 Setup](https://github.com/startup-class/setup)  
 * [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
-
-#### Code Philosophies
-
-12 Factor App
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-
-Semver
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-
-The Distributed Developer Stack Field Guide
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide)
-
-Trac Project Management and DB (Used with www.djangoproject.com)
-* [Trac](http://trac.edgewall.org)  
-* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
-* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
-
-<!--
-https://github.com/heroku/12factor
-[Semver Org GitHub](https://github.com/mojombo/semver.org)
-https://github.com/odewahn/dds-field-guide/
--->
-
-#### Software Manuals and Documentation 
-
-Write the Docs (Conference and Community)
-* [Write the Docs](http://www.writethedocs.org)
-
-MkDocs
-* [MkDocs](http://www.mkdocs.org)
-
-Pandoc
-* [Pandoc](http://johnmacfarlane.net/pandoc)  
-
-Dexy
-* [Dexy](http://www.dexy.it)  
-
-GitBook
-* [GitBook](https://www.gitbook.com)  
-* [GitBook GitHub](https://github.com/GitbookIO)  
-* [GitBook Documentation](http://help.gitbook.io)  
-* [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
-* [GitBook Themes](http://help.gitbook.io/book/themes.html)  
-
-GitHub Wiki
-* [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
-
-iPython
-* [iPython](http://ipython.org)  
-
-LaTeX
-* [LaTeX](http://latex-project.org)  
-* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
-* [Share LaTeX](https://github.com/sharelatex/sharelatex)  
-
-Read the Docs
-* [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
-* [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
-
-Python- Django-Sphinxdoc
-* [Sphinxdoc](http://sphinx-doc.org)  
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
-
-API Docs (see also Python- Django- Rest Framework Swagger)
-* [Swagger API Docs](http://swagger.io)  
-* [Slate API Docs GitHub](https://github.com/tripit/slate)  
-* [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
 
 #### Git and Markdown
 
@@ -3827,7 +3531,27 @@ Emoji and Other Funny Keyboard Shortcode
 * [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
 * [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
 
-#### Programming
+#### Code Philosophies
+
+12 Factor App
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+
+Semver
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+The Distributed Developer Stack Field Guide
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide)
+
+Trac Project Management and DB (Used with www.djangoproject.com)
+* [Trac](http://trac.edgewall.org)  
+* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
+* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+
+<!--
+https://github.com/heroku/12factor
+[Semver Org GitHub](https://github.com/mojombo/semver.org)
+https://github.com/odewahn/dds-field-guide/
+-->
 
 #### Open Source Management and Programming Tiers
 
@@ -3902,6 +3626,347 @@ http://javascriptair.com
 
 Example Help Tweets
 * [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
+
+#### Software Manuals and Documentation 
+
+Write the Docs (Conference and Community)
+* [Write the Docs](http://www.writethedocs.org)
+
+MkDocs
+* [MkDocs](http://www.mkdocs.org)
+
+Pandoc
+* [Pandoc](http://johnmacfarlane.net/pandoc)  
+
+Dexy
+* [Dexy](http://www.dexy.it)  
+
+GitBook
+* [GitBook](https://www.gitbook.com)  
+* [GitBook GitHub](https://github.com/GitbookIO)  
+* [GitBook Documentation](http://help.gitbook.io)  
+* [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
+* [GitBook Themes](http://help.gitbook.io/book/themes.html)  
+
+GitHub Wiki
+* [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
+
+iPython
+* [iPython](http://ipython.org)  
+
+LaTeX
+* [LaTeX](http://latex-project.org)  
+* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
+* [Share LaTeX](https://github.com/sharelatex/sharelatex)  
+
+Read the Docs
+* [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+* [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
+* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
+
+Python- Django-Sphinxdoc
+* [Sphinxdoc](http://sphinx-doc.org)  
+* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
+
+API Docs (see also Python- Django- Rest Framework Swagger)
+* [Swagger API Docs](http://swagger.io)  
+* [Slate API Docs GitHub](https://github.com/tripit/slate)  
+* [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
+
+#### Programming Language Style Guides
+
+GitHub StyleGuides
+* [GitHub StyleGuides](https://github.com/styleguide) 
+
+Styleguides- Various
+* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
+* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
+* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
+* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
+* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
+* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
+* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
+* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
+* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
+
+GitHub CSS Styleguide
+* [GitHub CSS Styleguide](http://primercss.io) 
+* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
+
+Google Styleguides
+* [Google Styleguides GitHub](https://github.com/google/styleguide)
+* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
+
+JavaScript Styleguide
+* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
+PHP Styleguides
+* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
+* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
+* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
+* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
+* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
+* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
+
+<!--
+PSR-0: Autoloader Standard
+PSR-1: Basic Coding Standard
+PSR-2: Coding Style Guide
+PSR-3: Logger Interface
+-->
+
+Ruby Styleguide
+* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
+* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
+
+Objective C Styleguide
+* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
+* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
+
+Swift Styleguide
+* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
+
+#### Design
+
+#### Design Thinking
+
+Design- General
+* [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
+* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+* [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
+* [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
+* [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
+
+Responsive Design
+* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+* [Responsive Design Examples](http://mediaqueri.es)  
+
+Design Publications
+* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+* [Smashing Magazine](http://www.smashingmagazine.com) 
+* [Tympanus](http://tympanus.net)
+* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
+ 
+Portfolio and Community Websites
+* [Behance](https://www.behance.net)  
+* [Dribbble](https://dribbble.com)  
+* [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
+* [Zurb Tavern](http://zurb.com/tavern) 
+
+Flickr
+* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+KPCB and John Maeda Design in Tech Report
+* [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
+* [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+#### Web Dev and Design
+
+Web General (See also JavaScript) 
+* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
+* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
+* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+
+CSS Tutorials
+* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+* [W3Schools CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
+
+HTML Tutorials
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [W3Schools HTML Tags Tutorial](http://www.w3schools.com/tags/default.asp)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+
+Bootstrap Tutorials
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+
+<!--
+http://www.w3schools.com/html/html5_syntax.asp
+http://www.w3schools.com/jsref/obj_window.asp
+http://www.w3schools.com/cssref/default.asp
+http://www.w3schools.com/cssref/css_selectors.asp
+http://www.w3schools.com/cssref/css_functions.asp
+http://www.w3schools.com/cssref/css_colors.asp
+http://www.w3schools.com/cssref/css_colors_legal.asp
+http://www.w3schools.com/cssref/css3_browsersupport.asp
+
+http://www.w3schools.com/colors/colors_names.asp
+http://www.w3schools.com/html/html_css.asp
+-->
+
+<!--
+JavaScript
+
+Learn JavaScript
+Learn jQuery
+Learn jQueryMobile
+Learn AppML
+Learn AngularJS
+Learn JSON
+HTML Graphics
+
+Learn Canvas
+Learn SVG
+Learn Icons
+Learn Google Maps
+Learn HTML Games
+Server Side
+
+Learn SQL
+Learn PHP
+Learn ASP
+Learn ASP.NET
+Web Building
+
+Web Building
+Web Statistics
+Web Certificates
+XML Tutorials
+
+Learn XML
+Learn XSLT
+Learn AJAX
+-->
+
+HTML
+* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+CSS
+* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
+* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+
+Encoding
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
+* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
+URL and IRI
+* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
+<!--
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+
+https://www.w3.org/DOM/
+https://www.w3.org/TR/DOM-Level-3-Core/core.html
+
+https://developer.mozilla.org/en-US/Apps
+https://developer.mozilla.org/en-US/docs/Web/Reference
+https://developer.mozilla.org/en-US/docs/Web/Guide
+https://developer.mozilla.org/en-US/docs/Web/Tutorials
+https://developer.mozilla.org/en-US/docs/Web/Accessibility
+https://developer.mozilla.org/en-US/docs/Web/Security
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
+https://developer.mozilla.org/en-US/docs/Web/CSS
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
+
+https://developer.mozilla.org/en-US/Learn
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+Prototype-based Programming
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://developer.mozilla.org/en-US/docs/DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+https://developer.mozilla.org/en-US/docs/Web/API
+https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
+https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
+https://developer.mozilla.org/en-US/docs/Web/Guide/Events
+https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
+https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
+https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
+https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
+
+https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+https://developer.mozilla.org/en-US/docs/Web/MathML
+https://developer.mozilla.org/en-US/docs/Glossary
+
+https://developer.mozilla.org/en-US/docs/Tools
+http://getfirebug.com
+
+http://whatwg.github.io/loader
+
+https://twitter.com/kentcdodds/status/710701170268831744
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
+[W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+https://developer.mozilla.org/en-US/docs/Web/API/Console/table
+https://support.google.com/analytics/answer/1638635?hl=en
+
+http://schema.org/Person
+http://microformats.org
+https://en.wikipedia.org/wiki/HCard
+http://microformats.org/wiki/hcard
+http://microformats.org/code/hcard/creator
+
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+-->
+
+#### Programming
 
 #### Programming Learning Tools
 
@@ -4089,6 +4154,17 @@ https://en.wikipedia.org/wiki/JSON
 https://en.wikipedia.org/wiki/List_of_ECMAScript_engines
 https://en.wikipedia.org/wiki/ECMAScript#Implementations
 -->
+<!--
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+https://developers.google.com/web/updates/2016/02/es2015-proxies
+
+https://nodejs.org/en/docs/es6
+
+https://es5.github.io
+https://github.com/es5/es5.github.io
+-->
 
 AJAX
 * [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
@@ -4229,12 +4305,7 @@ http://php.net/manual/en/install.macosx.bundled.php
 
 PHP- Laravel- Preferred Templates and Documents
 * [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
-* [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
- 
-<!--
-Possibility recommended by Gregg
-https://laravel.com/docs/5.2/homestead
--->
+* [Homestead- Possibility recommended by Gregg)](https://laravel.com/docs/5.2/homestead) and [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
 
 PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
@@ -4379,68 +4450,6 @@ Java- General
 * [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
 * [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet)  
 
-#### Programming Language Style Guides
-
-GitHub StyleGuides
-* [GitHub StyleGuides](https://github.com/styleguide) 
-
-Styleguides- Various
-* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
-* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
-* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
-* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
-* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
-* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
-* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
-* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
-* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
-* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
-
-GitHub CSS Styleguide
-* [GitHub CSS Styleguide](http://primercss.io) 
-* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
-
-Google Styleguides
-* [Google Styleguides GitHub](https://github.com/google/styleguide)
-* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
-
-JavaScript Styleguide
-* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
-
-PHP Styleguides
-* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
-* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
-* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
-* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
-* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
-* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
-
-<!--
-PSR-0: Autoloader Standard
-PSR-1: Basic Coding Standard
-PSR-2: Coding Style Guide
-PSR-3: Logger Interface
--->
-
-Ruby Styleguide
-* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
-* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
-* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
-
-Objective C Styleguide
-* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
-* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
-
-Swift Styleguide
-* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
-
 #### Facebook and Google Design and Development Approaches
 
 Facebook
@@ -4540,20 +4549,13 @@ Other React Stack Helpers
 <!--
 https://www.npmjs.com/package/eslint-config-airbnb
 
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-https://developers.google.com/web/updates/2016/02/es2015-proxies
-
-https://nodejs.org/en/docs/es6
-
-https://es5.github.io
-https://github.com/es5/es5.github.io
-
 https://github.com/nodejs/node-eps/pull/3
 https://github.com/nodejs/node-eps
 
 http://redux.js.org/docs/basics/Reducers.html
+
+https://nodejs.org/metrics/#versions
+http://nodejs.org/api/debugger.html
 -->
 
 Node.js
@@ -4571,11 +4573,6 @@ Node.js
 * [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org)  
-
-<!--
-https://nodejs.org/metrics/#versions
-http://nodejs.org/api/debugger.html
--->
 
 Node.js Launch and Ryan Dahl
 * [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
@@ -5742,6 +5739,15 @@ MAMP and WampServer (See also PHP)
 * [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
 #### Deployment and Cloud
 
 Status
@@ -5749,9 +5755,11 @@ Status
 * [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 
+Consles
+* [Google Developer Console](https://console.developers.google.com)
+
 <!--
 https://github.com/ChromeDevTools/awesome-chrome-devtools
-https://console.developers.google.com/project?pli=1
 -->
 
 IANA, Domize, DNSimple, Heroku
@@ -5969,6 +5977,10 @@ Digital Ocean (VPS)
 * [Digital Ocean Community](https://www.digitalocean.com/community)  
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
+<!--
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+-->
+
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
 * [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
@@ -5976,19 +5988,6 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Dokku GitHub](https://github.com/progrium/dokku)  
 * [Deis](http://deis.io)  
 * [Deis GitHub](https://github.com/deis/deis)  
-
-<!--
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
--->
 
 Google Cloud, App Engine
 * [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
@@ -6233,15 +6232,12 @@ Docker
 VMware, Vagrant, VirtualBox
 * [VMware](http://www.vmware.com)  
 * [VMware Wikipedia](http://en.wikipedia.org/wiki/VMware)  
+* [VMware Fusion 8](http://store.vmware.com/store/vmware/en_US/pd/productID.32368910)
 * [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
 * [VagrantCloud](https://vagrantcloud.com)  
 * [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
-* [VirtualBox (Ruby) GitHub](https://github.com/mitchellh/virtualbox) 
-
-<!--
-http://store.vmware.com/store/vmware/en_US/pd/productID.323689100
-https://www.virtualbox.org/wiki/Documentation
--->
+* [VirtualBox Documentation](https://www.virtualbox.org/wiki/Documentation)
+* [VirtualBox Ruby Gem](http://mitchellh.github.io/virtualbox) 
 
 Ansible (Automation and Configuration Management)
 * [Ansible Deployment](http://www.ansible.com)  
