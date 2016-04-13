@@ -3164,6 +3164,7 @@ Web Browser and JavaScript Engines (See also JavaScript)- General
 
 Comparison of Layout Engines by DOM and ECMA Script)
 * [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
 * [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 * [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
 
@@ -3495,11 +3496,8 @@ Markdown
 * [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
 * [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
-
-<!--
-https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
--->
 
 GitLab (See also Project Management)
 * [GitLab Installation](https://about.gitlab.com/installation)
@@ -4138,6 +4136,10 @@ JavaScript Tutorials
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
 <!--
 http://www.w3schools.com/js/js_loop_while.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
@@ -4151,13 +4153,6 @@ https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
 https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
 https://en.wikipedia.org/wiki/JSON
 
-https://en.wikipedia.org/wiki/List_of_ECMAScript_engines
-https://en.wikipedia.org/wiki/ECMAScript#Implementations
--->
-<!--
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 https://developers.google.com/web/updates/2016/02/es2015-proxies
 
 https://nodejs.org/en/docs/es6
@@ -4372,6 +4367,9 @@ https://github.com/andjosh/naked-wordpress/blob/master/single.php
 http://codex.wordpress.org/Using_Password_Protection
 -->
 
+WordPress Official Themes
+* [Official Themes](https://wordpress.org/themes)) 
+
 WordPress Theme Development and Template Hierarchy
 * [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
 * [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
@@ -4380,11 +4378,6 @@ WordPress Theme Development and Template Hierarchy
 * [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
 * [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
 * [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
-
-<!--
-PHP (More)
-* [Official Themes](https://wordpress.org/themes)) 
--->
 
 WP eCommerce
 * [WooCommerce](https://www.woothemes.com)
