@@ -4176,6 +4176,7 @@ AJAX
 * [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
 
 jQuery
+* [jQuery](https://jquery.com)
 * [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery)  and [jQuery GitHub](https://github.com/jquery/jquery)  
 * [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
 * [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
