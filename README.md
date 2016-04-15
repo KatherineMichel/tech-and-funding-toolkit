@@ -4340,6 +4340,63 @@ https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a
 
 https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s
 
+How does client-side JavaScript work?
+
+DOM (Document Object Model)
+JavaScript
+async
+AJAX
+
+Frameworks
+React
+Angular
+Ember
+Backbone
+jQuery
+Underscore
+Lodash
+
+Types of JavaScript
+ES5
+ES6
+ES2015
+CoffeeScript
+TypeScript
+ClojureScript
+Babel
+transpiling
+compiling
+MDN reference
+
+Use other people’s code
+AMD
+commonJS modules
+ES6 modules
+npm
+Github
+
+Node.js
+Node.js
+npm
+nvm
+
+Build Tools
+grunt
+gulp
+bower
+browserify
+webpack
+hot reloading
+sourcemap
+
+Testing
+Mocha
+Jasmine
+Chai, Tape
+Karma
+Selenium
+phantomjs
+
 * [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
