@@ -2978,6 +2978,10 @@ CPU and Instruction Set
 * [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
 * [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
+<!--
+https://en.wikipedia.org/wiki/Intel_Core
+-->
+
 Binary
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
 * [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
@@ -3040,8 +3044,6 @@ https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overv
 
 https://en.wikipedia.org/wiki/Terminal_(OS_X)
 https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html
-
-https://en.wikipedia.org/wiki/Intel_Core
 -->
 
 Mac OS X- Architecture
@@ -3049,30 +3051,21 @@ Mac OS X- Architecture
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
 * [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
 
-Mac OS X- Bash
+Mac OS X- Bash (Unix)
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Bash Homepage](https://www.gnu.org/software/bash) and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
+* [Bash Shell Scripting Wikipedia](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+* [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
-http://cli.learncodethehardway.org/bash_cheat_sheet.pdf
-
-https://en.wikipedia.org/wiki/List_of_Unix_commands
-https://en.wikipedia.org/wiki/Command-line_interface
-
-https://en.wikipedia.org/wiki/POSIX
-http://www.unix.com/man-page/posix/1posix/eval/
-
-http://www.gnu.org/software/bash/manual/bashref.html
-
 http://linux.die.net/man/1/bash
-https://www.gnu.org/software/bash
 
 http://pubs.opengroup.org/onlinepubs/9699919799/
 http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
 
-https://en.wikibooks.org/wiki/Bash_Shell_Scripting
-
+Bash Tutorials
 http://tldp.org/LDP/abs/html/sample-bashrc.html
 http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
@@ -3254,11 +3247,21 @@ cURL
 * [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
 * [WGet](https://www.gnu.org/software/wget)
 
+Unix
+* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+
 Unix Shell (See also Unix)
 * [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
 * [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
 * [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
+
+POSIX (Compatible with Unix)
+* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+<!--
+http://www.unix.com/man-page/posix/1posix/eval/
+-->
 
 Zsh (Bash Alternative)
 * [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
@@ -3815,18 +3818,6 @@ Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
 <!--
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-
-http://www.w3schools.com/html/html5_syntax.asp
-http://www.w3schools.com/jsref/obj_window.asp
-http://www.w3schools.com/cssref/css_functions.asp
-http://www.w3schools.com/cssref/css_colors_legal.asp
-http://www.w3schools.com/cssref/css3_browsersupport.asp
-
-http://www.w3schools.com/html/html_css.asp
--->
-
-<!--
 JavaScript
 
 Learn JavaScript
@@ -3872,6 +3863,16 @@ CSS
 * [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
 * [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+<!--
+http://www.w3schools.com/html/html5_syntax.asp
+http://www.w3schools.com/jsref/obj_window.asp
+http://www.w3schools.com/cssref/css_functions.asp
+http://www.w3schools.com/cssref/css_colors_legal.asp
+http://www.w3schools.com/cssref/css3_browsersupport.asp
+
+http://www.w3schools.com/html/html_css.asp
+-->
 
 <!--
 Char Sets
@@ -4134,21 +4135,17 @@ JavaScript Tutorials
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
 JavaScript Tutorials- Mozilla
-* [JavaScript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
--->
 
 ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 <!--
-http://www.w3schools.com/js/js_loop_while.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
 
 https://en.wikipedia.org/wiki/JavaScript_syntax
@@ -4189,6 +4186,7 @@ http://www.w3schools.com/jquery/default.asp
 Ruby
 * [Ruby](https://www.ruby-lang.org/en)  
 * [Ruby GitHub](https://github.com/ruby/ruby)
+* [Ruby MRI (Matz's Ruby Interpreter) Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI) 
 
 Ruby- Installation and Control
 * [Ruby Installation Methods](https://www.ruby-lang.org/en/documentation/installation)
@@ -4198,34 +4196,17 @@ Ruby- Installation and Control
 * [rbenv GitHub](https://github.com/rbenv/rbenv)
 * [Capistrano GitHub](https://github.com/capistrano/capistrano)
 
-Ruby- Learning Resources
+Ruby- Documentation
+* [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0) 
+
+Ruby- Tutorials
 * [Try Ruby](http://tryruby.org)
 * [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
-* [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0)  
-* [Ruby MRI (Matz's Ruby Interpreter) Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI)  
-
-Ruby- Executable Specification
-* [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
-* [Ruby Testing Tool](http://rspec.info)  
-
-Rails, Jekyll- Preferred Templates and Documents
-* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
-* [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
-* [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
-* [Ruby Guides](http://guides.rubyonrails.org) 
-* [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
-* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
-* [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
-* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
-* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+* [Learn X in Y Minutes Ruby](https://learnxinyminutes.com/docs/ruby)
+* [Learn X in Y Minutes Ruby Ecosystem](https://learnxinyminutes.com/docs/ruby-ecosystem)
 
 <!--
-https://learnxinyminutes.com/docs/ruby/
-https://learnxinyminutes.com/docs/ruby-ecosystem/
-https://learnxinyminutes.com/docs/it-it/ruby-ecosystem-it/
-
 http://stackoverflow.com/questions/tagged/ruby-on-rails
 https://github.com/rails/rails
 https://github.com/rails/rails/issues
@@ -4287,6 +4268,22 @@ API Documentation Guidelines
 Ruby on Rails Guides Guidelines
 -->
 
+Ruby- Executable Specification
+* [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
+* [Ruby Testing Tool](http://rspec.info)  
+
+Rails, Jekyll- Preferred Templates and Documents
+* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
+* [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
+* [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
+* [Ruby Guides](http://guides.rubyonrails.org) 
+* [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
+* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
+* [Jekyll Templates](https://jekyllrb.com/docs/templates)
+* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
+* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
 PHP
 * [PHP](http://php.net) and [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
 * [PHP Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/PHP_syntax_and_semantics)  
@@ -4300,11 +4297,11 @@ PHP- Version Control and Frameworks
 * [Symfony GitHub](https://github.com/symfony/symfony)  
 * [CakePHP GitHub](https://github.com/cakephp/cakephp)  
 
+PHP- Tutorials
+* [Learn X in Y Minutes PHP](https://learnxinyminutes.com/docs/php)
+* [W3Schools PHP Tutorial](http://www.w3schools.com/php/default.asp)
+
 <!--
-http://www.w3schools.com/php/default.asp
-
-https://learnxinyminutes.com/docs/php/
-
 http://php.net/manual/en/configuration.file.per-user.php
 
 http://php.net/manual/en/tutorial.requirements.php
