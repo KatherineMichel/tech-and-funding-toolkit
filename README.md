@@ -2762,6 +2762,14 @@ Wikipedia Portals
 How The Web Works
 * [Preethi Kasireddy: "How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 
+<!--
+https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.6bcoqjtat
+https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e
+https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp
+
+https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s
+-->
+
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
 * [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
@@ -4335,12 +4343,6 @@ https://medium.com/@preethikasireddy
 https://github.com/bonniee/react-starter
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
-
-https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.6bcoqjtat
-https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e
-https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp
-
-https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s
 
 How does client-side JavaScript work?
 
