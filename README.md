@@ -4187,10 +4187,8 @@ jQuery
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
-<!--
-jQuery (including AJAX)
-http://www.w3schools.com/jquery/default.asp
--->
+jQuery Tutorials
+* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
 
 Ruby
 * [Ruby](https://www.ruby-lang.org/en)  
