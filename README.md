@@ -6417,6 +6417,10 @@ Miscellaneous
 #### Swift
 
 <!--
+https://github.com/codeschool/AppEvolutionWithSwiftDemo
+-->
+
+<!--
 Apple- Swift
 * [Swift](https://swift.org), [Swift GitHub](https://github.com/apple/swift), and [Swift Wikipedia](http://en.wikipedia.org/wiki/Swift_(programming_language))
 * [Apple Swift](http://www.apple.com/swift), [Apple Swift Developer](https://developer.apple.com/swift),  and [Apple Swift Blog](https://developer.apple.com/swift/blog)
