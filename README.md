@@ -4146,6 +4146,15 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 <!--
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [Mozilla DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [Mozilla Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+* [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Mozilla Event Listener API](https://developer.mozilla.org/en-US/docs/Web/API/EventListener)
+* [Mozilla Event API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+* [Mozilla HTML Element Objects Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
 
 https://en.wikipedia.org/wiki/JavaScript_syntax
