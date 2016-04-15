@@ -2583,10 +2583,8 @@ Unix Shell and File system
 * [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
 * [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
-<!--
-https://en.wikipedia.org/wiki/Comparison_of_file_systems
-https://en.wikipedia.org/wiki/Sudo
--->
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 
 Linux
 * [Linux](http://www.linux.org)  
@@ -2966,7 +2964,13 @@ Computing Classification
 
 Computer Classes and Sizes
 * [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+
+<!--
+https://en.wikipedia.org/wiki/Comparison_of_smartphones
+https://en.wikipedia.org/wiki/Smartphone
+https://en.wikipedia.org/wiki/Computer_display_standard
+-->
 
 CPU and Instruction Set
 * [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
@@ -3170,15 +3174,13 @@ Comparison of Layout Engines by DOM and ECMA Script)
 
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model) and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 <!--
 http://caniuse.com
-
-https://en.wikipedia.org/wiki/DOM_events
 
 https://docs.python.org/3/library/xml.dom.html
 
@@ -3234,6 +3236,10 @@ Command Line
 * [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
 * [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
 * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
+
+Notable Commands
+* [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
+* [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
 
 Shell
 * [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
@@ -3564,7 +3570,7 @@ Bus Factor
 Open Source Hosting
 * [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
 
-Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)
+Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
 
 Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
 * [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
@@ -3784,40 +3790,39 @@ Web General (See also JavaScript)
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
-HTML and CSS Tutorials
+HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 * [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
 
-<!--
-Mozilla
+HTML and CSS Tutorials- Mozilla
 * [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+HTML5 and CSS3 Tutorials- Mozilla
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+<!--
+* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 -->
 
 Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
 <!--
-* [W3Schools CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
-
-* [W3Schools HTML Tags Tutorial](http://www.w3schools.com/tags/default.asp)
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
 
 http://www.w3schools.com/html/html5_syntax.asp
 http://www.w3schools.com/jsref/obj_window.asp
-http://www.w3schools.com/cssref/default.asp
-http://www.w3schools.com/cssref/css_selectors.asp
 http://www.w3schools.com/cssref/css_functions.asp
-http://www.w3schools.com/cssref/css_colors.asp
 http://www.w3schools.com/cssref/css_colors_legal.asp
 http://www.w3schools.com/cssref/css3_browsersupport.asp
 
-http://www.w3schools.com/colors/colors_names.asp
 http://www.w3schools.com/html/html_css.asp
 -->
 
@@ -3861,8 +3866,6 @@ HTML
 * [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
 * [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
 CSS
 * [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
@@ -3870,11 +3873,13 @@ CSS
 * [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
+<!--
 Char Sets
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
 * [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
 * [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+-->
 
 Encoding
 * [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
@@ -3914,22 +3919,14 @@ https://developer.mozilla.org/en-US/docs/Web/Tutorials
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
 https://developer.mozilla.org/en-US/docs/Web/Security
 
-https://developer.mozilla.org/en-US/docs/Web/HTML
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
-https://developer.mozilla.org/en-US/docs/Web/CSS
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
-https://developer.mozilla.org/en-US/docs/Web/Guide/CSS
-
 https://developer.mozilla.org/en-US/Learn
 https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 Prototype-based Programming
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://developer.mozilla.org/en-US/docs/DOM
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
@@ -4134,11 +4131,17 @@ JavaScript Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
 * [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
+* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+
+JavaScript Tutorials- Mozilla
 * [JavaScript Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [JavaScript Reference Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+-->
 
 ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
@@ -4179,6 +4182,7 @@ jQuery
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
 <!--
+jQuery (including AJAX)
 http://www.w3schools.com/jquery/default.asp
 -->
 
