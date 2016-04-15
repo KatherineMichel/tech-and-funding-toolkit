@@ -89,8 +89,11 @@ Table of Content
   * [Programming Languages, MVCs](#programming-languages-mvcs)
 
 * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
-* [React, Node.js and Related](#react-nodejs-and-related)
 
+* [JavaScript](#javascript)
+  * [JavaScript Tools](#javascript-tools)
+* [Ruby and Jekyll](#ruby-and-jekyll)
+* [PHP](#php)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
@@ -2759,14 +2762,12 @@ Wikipedia Portals
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
-How The Web Works
-* [Preethi Kasireddy: "How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 <!--
-https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.6bcoqjtat
-https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e
-https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp
-
 https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s
 -->
 
@@ -2798,8 +2799,9 @@ Computer Classes and Sizes
 * [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
 
 <!--
-https://en.wikipedia.org/wiki/Comparison_of_smartphones
-https://en.wikipedia.org/wiki/Smartphone
+Smartphones
+* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
+* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
 -->
 
 CPU and Instruction Set
@@ -2858,7 +2860,7 @@ Web Browser Comparisons
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 
-Mac OS X- OS, Browser, Layout Engine
+Mac OS X- OS,  Browser, Layout Engine
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
 * [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
 * [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
@@ -2872,7 +2874,6 @@ https://developer.apple.com/library/safari/documentation/AppleApplications/Conce
 
 https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf
 
-https://en.wikipedia.org/wiki/Terminal_(OS_X)
 https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html
 -->
 
@@ -2881,7 +2882,8 @@ Mac OS X- Architecture
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
 * [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
 
-Mac OS X- Bash (Unix)
+Mac OS X- Terminal, Bash (Unix)
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 * [Bash Homepage](https://www.gnu.org/software/bash) and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
@@ -2898,8 +2900,8 @@ http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
 Bash Tutorials
 http://tldp.org/LDP/abs/html/sample-bashrc.html
 http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
-http://www.tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html
+http://www.tldp.org/LDP/abs/html
 http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 -->
 
@@ -3648,8 +3650,6 @@ Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
 <!--
-JavaScript
-
 Learn jQueryMobile
 Learn AppML
 Learn AngularJS
@@ -3670,7 +3670,6 @@ Web Building
 
 Web Building
 Web Statistics
-Web Certificates
 XML Tutorials
 
 Learn XML
@@ -3951,315 +3950,6 @@ Miscellaneous Programming Languages
 * [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 * Apple- Swift
 
-JavaScript
-* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
-* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
-* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
-
-JavaScript Tutorials
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-* [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
-* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-
-JavaScript Tutorials- Mozilla
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-<!--
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [Mozilla DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [Mozilla Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-* [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [Mozilla Event Listener API](https://developer.mozilla.org/en-US/docs/Web/API/EventListener)
-* [Mozilla Event API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
-* [Mozilla HTML Element Objects Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
-
-https://en.wikipedia.org/wiki/JavaScript_syntax
-https://en.wikipedia.org/wiki/JavaScript_library
-https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
-https://en.wikipedia.org/wiki/JavaScript_engine
-https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript
-https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
-https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
-https://en.wikipedia.org/wiki/JSON
-
-https://developers.google.com/web/updates/2016/02/es2015-proxies
-
-https://nodejs.org/en/docs/es6
-
-https://es5.github.io
-https://github.com/es5/es5.github.io
--->
-
-AJAX
-* [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
-
-jQuery
-* [jQuery](https://jquery.com)
-* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery)  and [jQuery GitHub](https://github.com/jquery/jquery)  
-* [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
-* [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
-* [jQuery Boilerplate GitHub](https://github.com/jquery-boilerplate/jquery-boilerplate)  
-* [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
-* [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
-
-jQuery Tutorials
-* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
-
-Ruby
-* [Ruby](https://www.ruby-lang.org/en)  
-* [Ruby GitHub](https://github.com/ruby/ruby)
-* [Ruby MRI (Matz's Ruby Interpreter) Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI) 
-
-Ruby- Installation and Control
-* [Ruby Installation Methods](https://www.ruby-lang.org/en/documentation/installation)
-* [Ruby Gems GitHub](https://github.com/rubygems/rubygems)
-* [Rake GitHub](https://github.com/ruby/rake)
-* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
-* [rbenv GitHub](https://github.com/rbenv/rbenv)
-* [Capistrano GitHub](https://github.com/capistrano/capistrano)
-
-Ruby- Documentation
-* [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0) 
-
-Ruby- Tutorials
-* [Try Ruby](http://tryruby.org)
-* [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
-* [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
-* [Learn X in Y Minutes Ruby](https://learnxinyminutes.com/docs/ruby)
-* [Learn X in Y Minutes Ruby Ecosystem](https://learnxinyminutes.com/docs/ruby-ecosystem)
-
-<!--
-http://stackoverflow.com/questions/tagged/ruby-on-rails
-https://github.com/rails/rails
-https://github.com/rails/rails/issues
-
-https://groups.google.com/forum/#!forum/rubyonrails-docs
-
-http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation
-http://edgeguides.rubyonrails.org
-
-http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
-http://guides.rubyonrails.org/ruby_on_rails_guides_guidelines.html
-http://guides.rubyonrails.org/api_documentation_guidelines.html
-http://guides.rubyonrails.org/plugins.html
-
-http://weblog.rubyonrails.org
-http://api.rubyonrails.org
-http://guides.rubyonrails.org
-http://guides.rubyonrails.org/index.html
-
-Start Here
-Getting Started with Rails
-
-Models
-Active Record Basics
-Active Record Migrations
-Active Record Validations
-Active Record Callbacks
-Active Record Associations
-Active Record Query Interface
-
-Views
-Layouts and Rendering in Rails
-Action View Form Helpers
-
-Controllers
-Action Controller Overview
-Rails Routing from the Outside In
-
-Digging Deeper
-Active Support Core Extensions
-Rails Internationalization API
-Action Mailer Basics
-Active Job Basics
-Securing Rails Applications
-Debugging Rails Applications
-Configuring Rails Applications
-Rails Command Line Tools and Rake Tasks
-Asset Pipeline
-Working with JavaScript in Rails
-Autoloading and Reloading Constants
-
-Extending Rails
-Rails on Rack
-Creating and Customizing Rails Generators
-
-Contributing to Ruby on Rails
-Contributing to Ruby on Rails
-API Documentation Guidelines
-Ruby on Rails Guides Guidelines
--->
-
-Ruby- Executable Specification
-* [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
-* [Ruby Testing Tool](http://rspec.info)  
-
-Rails, Jekyll- Preferred Templates and Documents
-* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
-* [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
-* [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
-* [Ruby Guides](http://guides.rubyonrails.org) 
-* [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
-* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
-* [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
-* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
-* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
-
-PHP
-* [PHP](http://php.net) and [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
-* [PHP Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/PHP_syntax_and_semantics)  
-* [PHP Manual](http://www.php.net/manual/en/index.php)  
-* [PHP Wiki](https://wiki.php.net)
-
-PHP- Version Control and Frameworks
-* [Composer](https://getcomposer.org/doc/00-intro.md) and [Composer GitHub](https://github.com/composer/composer) 
-* [Composer Installation](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
-* [Symfony Composer Cookbook](http://symfony.com/doc/current/cookbook/composer.html)
-* [Symfony GitHub](https://github.com/symfony/symfony)  
-* [CakePHP GitHub](https://github.com/cakephp/cakephp)  
-
-PHP- Tutorials
-* [Learn X in Y Minutes PHP](https://learnxinyminutes.com/docs/php)
-* [W3Schools PHP Tutorial](http://www.w3schools.com/php/default.asp)
-
-<!--
-http://php.net/manual/en/configuration.file.per-user.php
-
-http://php.net/manual/en/tutorial.requirements.php
-
-http://php.net/manual/en/features.php
-http://php.net/manual/en/funcref.php
-http://php.net/manual/en/internals2.php
-http://php.net/manual/en/appendices.php
-
-http://php.net/manual/en/langref.php
-
-http://php.net/manual/en/install.macosx.bundled.php
--->
-
-PHP- Laravel- Preferred Templates and Documents
-* [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
-* [Homestead- Possibility recommended by Gregg)](https://laravel.com/docs/5.2/homestead) and [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
-
-PHP- Twitter OAuth
-* [Twitter OAuth](https://github.com/abraham/twitteroauth)
-
-PHP/Node.js- WordPress- Com, Org, Calypso
-* [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
-* [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
-* [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
-
-PHP/Node.js- WordPress- Developer Resource
-* [WordPress Codex](http://codex.wordpress.org)
-* [WordPress Codex Quick Index](http://codex.wordpress.org/Codex:Quick_index) and [WordPress Codex All Pages](http://codex.wordpress.org/Special:AllPages)
-* [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
-* [WordPress GitHub](https://github.com/WordPress/WordPress)  
-* [WordPress Plugins](https://wordpress.org/plugins) and [WordPress Plugins Mirror](http://www.pluginmirror.com/plugins) 
-* [WordPress Code](http://en.support.wordpress.com/code)  
-* [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
-* [WordPress Appearance](http://en.support.wordpress.com/category/appearance) 
-
-PHP/Node.js- WordPress Installation and Migration
-* [WordPress Requirements](https://wordpress.org/about/requirements)
-* [WordPress Installation](http://codex.wordpress.org/Installing_WordPress)
-* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
-* [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
-
-<!--
-WordPress Importer
-https://wordpress.org/plugins/wordpress-importer/
-
-https://wordpress.org/hosting/
-
-http://codex.wordpress.org/Developer_Documentation
-
-https://make.wordpress.org/core/handbook/best-practices/coding-standards/
-https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
-
-http://codex.wordpress.org/Advanced_Topics
-
-http://codex.wordpress.org/Working_with_WordPress
-http://codex.wordpress.org/Getting_Started_with_WordPress
-http://codex.wordpress.org/WordPress_Lessons
-
-http://codex.wordpress.org/Blog_Design_and_Layout
-
-http://codex.wordpress.org/Site_Design_and_Layout
-http://codex.wordpress.org/Category_Templates
-http://codex.wordpress.org/Using_Themes
-http://codex.wordpress.org/Stepping_Into_Templates
-http://codex.wordpress.org/Theme_Development#Template_Files_List
-http://codex.wordpress.org/Child_Themes
-http://codex.wordpress.org/Template_Tags
-
-http://codex.wordpress.org/The_Loop_in_Action
-
-http://codex.wordpress.org/Plugins
-http://codex.wordpress.org/Contributing_to_WordPress
-https://yoast.com/wordpress-theme-anatomy/
-
-https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
-https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
-https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
-
-WordPress Helpers
-https://github.com/kennethreitz-archive/wordpress-theme-skeleton
-https://github.com/andjosh/naked-wordpress/blob/master/single.php
-
-http://codex.wordpress.org/Using_Password_Protection
--->
-
-WordPress Official Themes
-* [Official Themes](https://wordpress.org/themes)) 
-
-WordPress Theme Development and Template Hierarchy
-* [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
-* [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
-* [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
-* [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
-* [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
-* [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
-* [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
-
-WP eCommerce
-* [WooCommerce](https://www.woothemes.com)
-* [WooCommerce Hosting Solutions](https://www.woothemes.com/hosting-solutions)
-
-WP Engine
-* [WP Engine](https://wpengine.com) 
-* [WP Engine Staging](http://wpengine.com/support/staging) 
-
-WordPress Development
-* [WordPress Contributing](http://codex.wordpress.org/Contributing_to_WordPress)  
-* [WordPress: Good First Bugs](https://core.trac.wordpress.org/tickets/good-first-bugs)  
-
-WordPress Translation
-* [WordPress Translate](https://translate.wordpress.org)  
-* [WordPress Translators Team](https://make.wordpress.org/polyglots) 
-
-Wikitech Development
-* [Wikipedia Development](https://www.mediawiki.org/wiki/Category:MediaWiki_Development)  
-* [Wikipedia Search Engine](http://www.mediawiki.org/wiki/Help:CirrusSearch)  
-* [Wikitech](https://wikitech.wikimedia.org/wiki/Main_Page)  
-* [Wikitech AP](http://www.mediawiki.org/wiki/API:Main_page)  
-* [Wikitech Account](https://wikitech.wikimedia.org/wiki/Special:Preferences)  
-* [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git)  
-
 Golang, otherwise known as "Go"
 * [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
 * [Golang](http://golang.org)  
@@ -4329,7 +4019,77 @@ Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
-#### React, Node.js and Related
+#### JavaScript
+
+JavaScript
+* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
+* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
+* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+
+JavaScript Tutorials
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+* [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
+* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+
+JavaScript Tutorials- Mozilla
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+<!--
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [Mozilla DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [Mozilla Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+* [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Mozilla Event Listener API](https://developer.mozilla.org/en-US/docs/Web/API/EventListener)
+* [Mozilla Event API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+* [Mozilla HTML Element Objects Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
+
+https://en.wikipedia.org/wiki/JavaScript_syntax
+https://en.wikipedia.org/wiki/JavaScript_library
+https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
+https://en.wikipedia.org/wiki/JavaScript_engine
+https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript
+https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
+https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
+https://en.wikipedia.org/wiki/JSON
+
+https://developers.google.com/web/updates/2016/02/es2015-proxies
+
+https://nodejs.org/en/docs/es6
+
+https://es5.github.io
+https://github.com/es5/es5.github.io
+-->
+
+AJAX
+* [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
+
+jQuery
+* [jQuery](https://jquery.com)
+* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery)  and [jQuery GitHub](https://github.com/jquery/jquery)  
+* [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
+* [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
+* [jQuery Boilerplate GitHub](https://github.com/jquery-boilerplate/jquery-boilerplate)  
+* [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
+* [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
+
+jQuery Tutorials
+* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
+
+#### JavaScript Tools
 
 Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
@@ -4597,6 +4357,251 @@ JavaScript Presentations Frameworks
 * [Slides.com (reveal.js)](https://slides.com)
 * [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
 * [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
+
+#### Ruby and Jekyll
+
+Ruby
+* [Ruby](https://www.ruby-lang.org/en)  
+* [Ruby GitHub](https://github.com/ruby/ruby)
+* [Ruby MRI (Matz's Ruby Interpreter) Wikipedia](http://en.wikipedia.org/wiki/Ruby_MRI) 
+
+Ruby- Installation and Control
+* [Ruby Installation Methods](https://www.ruby-lang.org/en/documentation/installation)
+* [Ruby Gems GitHub](https://github.com/rubygems/rubygems)
+* [Rake GitHub](https://github.com/ruby/rake)
+* [RVM (Ruby enVironment (Version) Manager)](https://rvm.io/rvm/install)
+* [rbenv GitHub](https://github.com/rbenv/rbenv)
+* [Capistrano GitHub](https://github.com/capistrano/capistrano)
+
+Ruby- Documentation
+* [Ruby Standard Library](http://www.ruby-doc.org/stdlib-2.1.0) 
+
+Ruby- Tutorials
+* [Try Ruby](http://tryruby.org)
+* [Ruby (including Syntax and Semantics) Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language)) 
+* [Learn Ruby the Hard Way](http://learnrubythehardway.org)  
+* [Learn X in Y Minutes Ruby](https://learnxinyminutes.com/docs/ruby)
+* [Learn X in Y Minutes Ruby Ecosystem](https://learnxinyminutes.com/docs/ruby-ecosystem)
+
+<!--
+http://stackoverflow.com/questions/tagged/ruby-on-rails
+https://github.com/rails/rails
+https://github.com/rails/rails/issues
+
+https://groups.google.com/forum/#!forum/rubyonrails-docs
+
+http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation
+http://edgeguides.rubyonrails.org
+
+http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
+http://guides.rubyonrails.org/ruby_on_rails_guides_guidelines.html
+http://guides.rubyonrails.org/api_documentation_guidelines.html
+http://guides.rubyonrails.org/plugins.html
+
+http://weblog.rubyonrails.org
+http://api.rubyonrails.org
+http://guides.rubyonrails.org
+http://guides.rubyonrails.org/index.html
+
+Start Here
+Getting Started with Rails
+
+Models
+Active Record Basics
+Active Record Migrations
+Active Record Validations
+Active Record Callbacks
+Active Record Associations
+Active Record Query Interface
+
+Views
+Layouts and Rendering in Rails
+Action View Form Helpers
+
+Controllers
+Action Controller Overview
+Rails Routing from the Outside In
+
+Digging Deeper
+Active Support Core Extensions
+Rails Internationalization API
+Action Mailer Basics
+Active Job Basics
+Securing Rails Applications
+Debugging Rails Applications
+Configuring Rails Applications
+Rails Command Line Tools and Rake Tasks
+Asset Pipeline
+Working with JavaScript in Rails
+Autoloading and Reloading Constants
+
+Extending Rails
+Rails on Rack
+Creating and Customizing Rails Generators
+
+Contributing to Ruby on Rails
+Contributing to Ruby on Rails
+API Documentation Guidelines
+Ruby on Rails Guides Guidelines
+-->
+
+Ruby- Executable Specification
+* [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
+* [Ruby Testing Tool](http://rspec.info)  
+
+Rails, Jekyll- Preferred Templates and Documents
+* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
+* [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
+* [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
+* [Ruby Guides](http://guides.rubyonrails.org) 
+* [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
+* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
+* [Jekyll Templates](https://jekyllrb.com/docs/templates)
+* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
+* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
+#### PHP
+
+PHP
+* [PHP](http://php.net) and [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
+* [PHP Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/PHP_syntax_and_semantics)  
+* [PHP Manual](http://www.php.net/manual/en/index.php)  
+* [PHP Wiki](https://wiki.php.net)
+
+PHP- Version Control and Frameworks
+* [Composer](https://getcomposer.org/doc/00-intro.md) and [Composer GitHub](https://github.com/composer/composer) 
+* [Composer Installation](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
+* [Symfony Composer Cookbook](http://symfony.com/doc/current/cookbook/composer.html)
+* [Symfony GitHub](https://github.com/symfony/symfony)  
+* [CakePHP GitHub](https://github.com/cakephp/cakephp)  
+
+PHP- Tutorials
+* [Learn X in Y Minutes PHP](https://learnxinyminutes.com/docs/php)
+* [W3Schools PHP Tutorial](http://www.w3schools.com/php/default.asp)
+
+<!--
+http://php.net/manual/en/configuration.file.per-user.php
+
+http://php.net/manual/en/tutorial.requirements.php
+
+http://php.net/manual/en/features.php
+http://php.net/manual/en/funcref.php
+http://php.net/manual/en/internals2.php
+http://php.net/manual/en/appendices.php
+
+http://php.net/manual/en/langref.php
+
+http://php.net/manual/en/install.macosx.bundled.php
+-->
+
+PHP- Laravel- Preferred Templates and Documents
+* [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
+* [Homestead- Possibility recommended by Gregg)](https://laravel.com/docs/5.2/homestead) and [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
+
+PHP- Twitter OAuth
+* [Twitter OAuth](https://github.com/abraham/twitteroauth)
+
+PHP/Node.js- WordPress- Com, Org, Calypso
+* [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
+* [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
+* [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
+
+PHP/Node.js- WordPress- Developer Resource
+* [WordPress Codex](http://codex.wordpress.org)
+* [WordPress Codex Quick Index](http://codex.wordpress.org/Codex:Quick_index) and [WordPress Codex All Pages](http://codex.wordpress.org/Special:AllPages)
+* [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
+* [WordPress GitHub](https://github.com/WordPress/WordPress)  
+* [WordPress Plugins](https://wordpress.org/plugins) and [WordPress Plugins Mirror](http://www.pluginmirror.com/plugins) 
+* [WordPress Code](http://en.support.wordpress.com/code)  
+* [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
+* [WordPress Appearance](http://en.support.wordpress.com/category/appearance) 
+
+PHP/Node.js- WordPress Installation and Migration
+* [WordPress Requirements](https://wordpress.org/about/requirements)
+* [WordPress Installation](http://codex.wordpress.org/Installing_WordPress)
+* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+* [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
+
+<!--
+WordPress Importer
+https://wordpress.org/plugins/wordpress-importer/
+
+https://wordpress.org/hosting/
+
+http://codex.wordpress.org/Developer_Documentation
+
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
+
+http://codex.wordpress.org/Advanced_Topics
+
+http://codex.wordpress.org/Working_with_WordPress
+http://codex.wordpress.org/Getting_Started_with_WordPress
+http://codex.wordpress.org/WordPress_Lessons
+
+http://codex.wordpress.org/Blog_Design_and_Layout
+
+http://codex.wordpress.org/Site_Design_and_Layout
+http://codex.wordpress.org/Category_Templates
+http://codex.wordpress.org/Using_Themes
+http://codex.wordpress.org/Stepping_Into_Templates
+http://codex.wordpress.org/Theme_Development#Template_Files_List
+http://codex.wordpress.org/Child_Themes
+http://codex.wordpress.org/Template_Tags
+
+http://codex.wordpress.org/The_Loop_in_Action
+
+http://codex.wordpress.org/Plugins
+http://codex.wordpress.org/Contributing_to_WordPress
+https://yoast.com/wordpress-theme-anatomy/
+
+https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
+https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
+https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
+
+WordPress Helpers
+https://github.com/kennethreitz-archive/wordpress-theme-skeleton
+https://github.com/andjosh/naked-wordpress/blob/master/single.php
+
+http://codex.wordpress.org/Using_Password_Protection
+-->
+
+WordPress Official Themes
+* [Official Themes](https://wordpress.org/themes)) 
+
+WordPress Theme Development and Template Hierarchy
+* [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
+* [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
+* [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
+* [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
+* [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
+* [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
+* [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
+
+WP eCommerce
+* [WooCommerce](https://www.woothemes.com)
+* [WooCommerce Hosting Solutions](https://www.woothemes.com/hosting-solutions)
+
+WP Engine
+* [WP Engine](https://wpengine.com) 
+* [WP Engine Staging](http://wpengine.com/support/staging) 
+
+WordPress Development
+* [WordPress Contributing](http://codex.wordpress.org/Contributing_to_WordPress)  
+* [WordPress: Good First Bugs](https://core.trac.wordpress.org/tickets/good-first-bugs)  
+
+WordPress Translation
+* [WordPress Translate](https://translate.wordpress.org)  
+* [WordPress Translators Team](https://make.wordpress.org/polyglots) 
+
+Wikitech Development
+* [Wikipedia Development](https://www.mediawiki.org/wiki/Category:MediaWiki_Development)  
+* [Wikipedia Search Engine](http://www.mediawiki.org/wiki/Help:CirrusSearch)  
+* [Wikitech](https://wikitech.wikimedia.org/wiki/Main_Page)  
+* [Wikitech AP](http://www.mediawiki.org/wiki/API:Main_page)  
+* [Wikitech Account](https://wikitech.wikimedia.org/wiki/Special:Preferences)  
+* [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git) 
 
 #### Python and Django Toolkit
 
