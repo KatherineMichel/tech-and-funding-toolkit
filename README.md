@@ -3784,15 +3784,10 @@ Web General (See also JavaScript)
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
-CSS Tutorials
+HTML and CSS Tutorials
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 * [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-* [W3Schools CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
-
-HTML Tutorials
-* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [W3Schools HTML Tags Tutorial](http://www.w3schools.com/tags/default.asp)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
 
 <!--
 Mozilla
@@ -3808,6 +3803,11 @@ Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
 <!--
+* [W3Schools CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
+
+* [W3Schools HTML Tags Tutorial](http://www.w3schools.com/tags/default.asp)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+
 http://www.w3schools.com/html/html5_syntax.asp
 http://www.w3schools.com/jsref/obj_window.asp
 http://www.w3schools.com/cssref/default.asp
@@ -4016,12 +4016,6 @@ Programming and Math Learning Tools (See also MOOCs)
 <!--
 https://learnxinyminutes.com/docs/pythonstatcomp/
 
-https://learnxinyminutes.com/docs/ruby/
-https://learnxinyminutes.com/docs/ruby-ecosystem/
-https://learnxinyminutes.com/docs/it-it/ruby-ecosystem-it/
-
-https://learnxinyminutes.com/docs/php/
-
 https://learnxinyminutes.com/docs/csharp/
 
 https://learnxinyminutes.com/docs/swift/
@@ -4184,6 +4178,10 @@ jQuery
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
+<!--
+http://www.w3schools.com/jquery/default.asp
+-->
+
 Ruby
 * [Ruby](https://www.ruby-lang.org/en)  
 * [Ruby GitHub](https://github.com/ruby/ruby)
@@ -4220,6 +4218,10 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
+https://learnxinyminutes.com/docs/ruby/
+https://learnxinyminutes.com/docs/ruby-ecosystem/
+https://learnxinyminutes.com/docs/it-it/ruby-ecosystem-it/
+
 http://stackoverflow.com/questions/tagged/ruby-on-rails
 https://github.com/rails/rails
 https://github.com/rails/rails/issues
@@ -4295,6 +4297,10 @@ PHP- Version Control and Frameworks
 * [CakePHP GitHub](https://github.com/cakephp/cakephp)  
 
 <!--
+http://www.w3schools.com/php/default.asp
+
+https://learnxinyminutes.com/docs/php/
+
 http://php.net/manual/en/configuration.file.per-user.php
 
 http://php.net/manual/en/tutorial.requirements.php
@@ -5934,11 +5940,11 @@ https://aws.amazon.com/machine-learning/
 Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku/heroku)  
 * [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 * [Getting Started on Heroku](https://devcenter.heroku.com/start)
  
 <!--
-(Languages Supported- Java, PHP, Python, Ruby, Node.js, Clojure and Scala/Add-ons- Postgres, Mongo, Redis, Hadoop, ElasticSearch, RabbitMQ)
 All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
 
 https://github.com/heroku/heroku-apps
@@ -6072,6 +6078,10 @@ Ubuntu (Debian) Deployment
 * [Heroku Ubuntu](https://toolbelt.heroku.com/debian) 
 
 #### Deployment and Cloud by Language
+
+<!--
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+-->
 
 JavaScript- Amazon
 * [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript), [AWS SDK for JavaScript](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide), and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
