@@ -3977,6 +3977,11 @@ Miscellaneous Programming Languages
 * [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 * Apple- Swift
 
+<!--
+https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
+-->
+
 Golang, otherwise known as "Go"
 * [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
 * [Golang](http://golang.org)  
@@ -5631,6 +5636,10 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [MySQL Downloads (DMG)](http://dev.mysql.com/downloads/mysql) 
 * [MySQL GitHub](https://github.com/twitter/mysql)  
 * [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
+
+<!--
+http://dev.mysql.com/doc/refman/5.7/en/
+-->
 
 Sequel Pro (Recommended and MAMP bundled)
 * [Sequel Pro](http://www.sequelpro.com)
