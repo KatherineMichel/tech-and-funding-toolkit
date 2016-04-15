@@ -3965,6 +3965,8 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 <!--
+https://github.com/bonniee/react-starter
+
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [Mozilla DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -4171,6 +4173,9 @@ PHP/Node.js- WordPress Installation and Migration
 * [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
 
 <!--
+WordPress Importer
+https://wordpress.org/plugins/wordpress-importer/
+
 https://wordpress.org/hosting/
 
 http://codex.wordpress.org/Developer_Documentation
