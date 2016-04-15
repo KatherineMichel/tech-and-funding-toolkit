@@ -4503,7 +4503,36 @@ http://codex.wordpress.org/Working_with_WordPress
 http://codex.wordpress.org/Getting_Started_with_WordPress
 http://codex.wordpress.org/WordPress_Lessons
 
+http://codex.wordpress.org/Administration_Panels#Your_Profile
+
 http://codex.wordpress.org/Blog_Design_and_Layout
+
+WordPress Features
+Migrating Plugins and Themes to the Latest Version
+Using Themes
+Using Pages
+Writing Posts
+Design and Layout
+WordPress Feeds
+
+WordPress Site Reviews
+WordPress Theme List
+Working With Templates
+Working With Theme Templates
+Editing Files in WordPress
+Creating an Archive Index
+Stepping Into Template Tags
+https://developer.wordpress.org/themes/basics/template-hierarchy/
+Understanding the WordPress Loop
+Customizing the WordPress Loop
+Meta Tags in WordPress
+Accessibility
+Linking to Posts, Pages, and Categories
+Validating a Website
+WordPress Housekeeping
+WordPress Site Maintenance
+Advanced Techniques
+Search Engine Optimization for Wordpress
 
 https://yoast.com/wordpress-theme-anatomy/
 
@@ -4533,6 +4562,8 @@ http://codex.wordpress.org/Theme_Development#Template_Files_List
 http://codex.wordpress.org/Child_Themes
 http://codex.wordpress.org/Template_Tags
 
+https://developer.wordpress.org/themes/basics/conditional-tags/
+
 http://codex.wordpress.org/The_Loop
 http://codex.wordpress.org/The_Loop_in_Action
 
@@ -4554,6 +4585,8 @@ Filter Hooks
 https://codex.wordpress.org/Plugin_API/Filter_Reference
 Action Hooks
 https://codex.wordpress.org/Plugin_API/Action_Reference
+
+https://developer.wordpress.org/themes/advanced-topics/javascript-best-practices/
 -->
 
 WordPress Template Hierarchy
