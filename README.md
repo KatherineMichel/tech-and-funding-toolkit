@@ -3831,6 +3831,8 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://www.khanacademy.org/computing/computer-programming
+
 https://learnxinyminutes.com/docs/pythonstatcomp/
 
 https://learnxinyminutes.com/docs/csharp/
