@@ -3965,8 +3965,6 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 <!--
-https://github.com/bonniee/react-starter
-
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [Mozilla DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -4330,6 +4328,18 @@ Facebook- React (JavaScript)
 * [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
 
 <!--
+https://medium.com/@preethikasireddy
+
+https://github.com/bonniee/react-starter
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
+https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
+
+https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.6bcoqjtat
+https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e
+https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp
+
+https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s
+
 * [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
