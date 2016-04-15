@@ -4494,16 +4494,11 @@ PHP- WordPress- Developer Resource
 WordPress Importer (Recommended)
 https://wordpress.org/plugins/wordpress-importer/
 
-https://make.wordpress.org/core/handbook/best-practices/coding-standards/
-https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
-
 http://codex.wordpress.org/Advanced_Topics
 
-http://codex.wordpress.org/Working_with_WordPress
-http://codex.wordpress.org/Getting_Started_with_WordPress
-http://codex.wordpress.org/WordPress_Lessons
+http://codex.wordpress.org/Debugging_in_WordPress
 
-http://codex.wordpress.org/Administration_Panels#Your_Profile
+http://codex.wordpress.org/Administration_Panels
 
 http://codex.wordpress.org/Blog_Design_and_Layout
 
@@ -4534,6 +4529,19 @@ WordPress Site Maintenance
 Advanced Techniques
 Search Engine Optimization for Wordpress
 
+API
+Plugin API
+Shortcode API
+Dashboard Widgets API
+Settings API
+Options API
+Transients API
+Widgets API
+Quicktags API
+Rewrite API
+Theme Customization API
+Filesystem API
+
 https://yoast.com/wordpress-theme-anatomy/
 
 http://codex.wordpress.org/Using_Password_Protection
@@ -4554,6 +4562,14 @@ WordPress Theme Development
 * [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
 
 <!--
+http://codex.wordpress.org/WordPress_Coding_Standards
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
+
+http://codex.wordpress.org/Working_with_WordPress
+http://codex.wordpress.org/Getting_Started_with_WordPress
+http://codex.wordpress.org/WordPress_Lessons
+
 http://codex.wordpress.org/Site_Design_and_Layout
 http://codex.wordpress.org/Category_Templates
 http://codex.wordpress.org/Using_Themes
@@ -4576,7 +4592,10 @@ Function/Methods
 https://codex.wordpress.org/Function_Reference
 https://codex.wordpress.org/Pluggable_Functions
 
+http://codex.wordpress.org/Global_Variables
+
 https://codex.wordpress.org/Class_Reference
+
 https://codex.wordpress.org/Styling_Lists_with_CSS
 
 Hooks
@@ -4586,7 +4605,11 @@ https://codex.wordpress.org/Plugin_API/Filter_Reference
 Action Hooks
 https://codex.wordpress.org/Plugin_API/Action_Reference
 
+http://codex.wordpress.org/Taxonomies
+
 https://developer.wordpress.org/themes/advanced-topics/javascript-best-practices/
+
+http://codex.wordpress.org/Reserved_Terms
 -->
 
 WordPress Template Hierarchy
