@@ -4494,26 +4494,6 @@ PHP- WordPress- Developer Resource
 WordPress Importer (Recommended)
 https://wordpress.org/plugins/wordpress-importer/
 
-https://developer.wordpress.org/reference/functions/
-https://developer.wordpress.org/reference/hooks/
-https://developer.wordpress.org/reference/classes/
-https://developer.wordpress.org/reference/methods/
-
-https://codex.wordpress.org/Template_Tags
-Function/Methods
-https://codex.wordpress.org/Function_Reference
-https://codex.wordpress.org/Pluggable_Functions
-
-https://codex.wordpress.org/Class_Reference
-https://codex.wordpress.org/Styling_Lists_with_CSS
-
-Hooks
-https://codex.wordpress.org/Plugin_API/Hooks
-Filter Hooks
-https://codex.wordpress.org/Plugin_API/Filter_Reference
-Action Hooks
-https://codex.wordpress.org/Plugin_API/Action_Reference
-
 https://make.wordpress.org/core/handbook/best-practices/coding-standards/
 https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
 
@@ -4553,7 +4533,27 @@ http://codex.wordpress.org/Theme_Development#Template_Files_List
 http://codex.wordpress.org/Child_Themes
 http://codex.wordpress.org/Template_Tags
 
+http://codex.wordpress.org/The_Loop
 http://codex.wordpress.org/The_Loop_in_Action
+
+https://developer.wordpress.org/reference/functions/
+https://developer.wordpress.org/reference/hooks/
+https://developer.wordpress.org/reference/classes/
+https://developer.wordpress.org/reference/methods/
+
+Function/Methods
+https://codex.wordpress.org/Function_Reference
+https://codex.wordpress.org/Pluggable_Functions
+
+https://codex.wordpress.org/Class_Reference
+https://codex.wordpress.org/Styling_Lists_with_CSS
+
+Hooks
+https://codex.wordpress.org/Plugin_API/Hooks
+Filter Hooks
+https://codex.wordpress.org/Plugin_API/Filter_Reference
+Action Hooks
+https://codex.wordpress.org/Plugin_API/Action_Reference
 -->
 
 WordPress Template Hierarchy
