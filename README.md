@@ -25,7 +25,7 @@ Table of Content
 * [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 * [Company and Product Databases](#company-and-product-databases)
 * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-* [Surveys, Trends, Stats](#surveys-trends-stats)
+
 * [Open Companies](#open-companies) 
 
 * [Design Agencies and Labs](#design-agencies-and-labs)
@@ -40,12 +40,11 @@ Table of Content
 
 * [Design](#design)
   * [Design Thinking](#design-thinking)
+  * [Surveys, Trends, Stats](#surveys-trends-stats)
   * [Site and App Research](#site-and-app-research)
   * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
-
-* [Social Media and Social Graph](#social-media-and-social-graph) 
-
-* [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
+  * [Social Media and Social Graph](#social-media-and-social-graph) 
+  * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
 
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
@@ -320,18 +319,6 @@ Associations
 
 Income Reports
 * [Income Reports](http://www.incomereports.co)
-
-#### Surveys, Trends, Stats
-
-Surveys
-* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
-* [SurveyMonkey](https://www.surveymonkey.com)
-* [Typeform](https://subtraction.typeform.com)
-
-Google Insights and Trends
-* [Google Insights](http://www.google.com/insights)
-* [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
-* [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
 #### Open Companies
 
@@ -757,6 +744,18 @@ Flickr
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+#### Surveys, Trends, Stats
+
+Surveys
+* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
+* [SurveyMonkey](https://www.surveymonkey.com)
+* [Typeform](https://subtraction.typeform.com)
+
+Google Insights and Trends
+* [Google Insights](http://www.google.com/insights)
+* [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
+* [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
 #### Site and App Research
 
