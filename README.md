@@ -88,16 +88,13 @@ Table of Content
   * [Code Philosophies](#code-philosophies)
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
   * [Software Manuals and Documentation](#software-manuals-and-documentation)
-
 * [Programming](#programming)
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Language Style Guides](#programming-language-style-guides) 
 
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
-  * [Pretotyping](#pretotyping)
-  * [Prototyping](#prototyping)
 
-  * [Front-End Programming](#front-end-programming) 
+  * [Front-End Development](#front-end-development) 
 
   * [Programming Languages, MVCs](#programming-languages-mvcs)
 * [JavaScript](#javascript)
@@ -139,7 +136,7 @@ Table of Content
   * [Philosophies, Milestones](#philosophies-milestones)
   * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
   * [Notable Quotes](#notable-quotes)
-  
+
 * [Appendix](#appendix)
   * [Other Enormous Tool Lists](#other-enormous-tool-lists)
   * [Vocabulary](#vocabulary)
@@ -3562,6 +3559,34 @@ Programming Language Examples Alike Cookbook- Python
 http://pleac.sourceforge.net/pleac_python.data
 -->
 
+<!--
+Learn jQueryMobile
+Learn AppML
+Learn AngularJS
+Learn JSON
+HTML Graphics
+
+Learn Canvas
+Learn SVG
+Learn Icons
+Learn Google Maps
+Learn HTML Games
+Server Side
+
+Learn SQL
+Learn ASP
+Learn ASP.NET
+Web Building
+
+Web Building
+Web Statistics
+XML Tutorials
+
+Learn XML
+Learn XSLT
+Learn AJAX
+-->
+
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
 * [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
@@ -3666,11 +3691,7 @@ Swift Styleguide
 
 #### Pretotyping and Prototyping
 
-#### Pretotyping
-
 * [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
-
-#### Prototyping
 
 * [Prototype Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
 * [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
@@ -3716,6 +3737,78 @@ Quickie Mobile Apps
 
 Turn Key Websites
 * [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
+
+CSS Zen Garden 
+* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
+* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
+
+Miscellaneous
+* [Namium (Name Generator)](http://www.naminum.com)
+* [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
+* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+
+#### Front-End Development
+
+Web General (See also JavaScript) 
+* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
+* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
+* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+
+HTML and CSS Tutorials- General
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+
+HTML and CSS Tutorials- Mozilla
+* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+HTML5 and CSS3 Tutorials- Mozilla
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+<!--
+* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+-->
+
+Bootstrap Tutorials
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+
+HTML
+* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+
+CSS
+* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
+* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+<!--
+http://www.w3schools.com/html/html5_syntax.asp
+http://www.w3schools.com/jsref/obj_window.asp
+http://www.w3schools.com/cssref/css_functions.asp
+http://www.w3schools.com/cssref/css_colors_legal.asp
+http://www.w3schools.com/cssref/css3_browsersupport.asp
+
+http://www.w3schools.com/html/html_css.asp
+-->
 
 Responsiveness- and Media Queries
 * [Media Queries Examples](http://mediaqueri.es)
@@ -3765,105 +3858,6 @@ Kickstarters
 * [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
 * [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
 
-CSS Zen Garden 
-* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
-* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
-
-Miscellaneous
-* [Namium (Name Generator)](http://www.naminum.com)
-* [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
-* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-#### Front-End Programming
-
-Web General (See also JavaScript) 
-* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
-* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
-* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
-* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
-* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
-* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
-* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
-* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
-* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
-* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
-* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
-
-HTML and CSS Tutorials- General
-* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
-* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-
-HTML and CSS Tutorials- Mozilla
-* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
-* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-
-HTML5 and CSS3 Tutorials- Mozilla
-* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
-<!--
-* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
--->
-
-Bootstrap Tutorials
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-
-<!--
-Learn jQueryMobile
-Learn AppML
-Learn AngularJS
-Learn JSON
-HTML Graphics
-
-Learn Canvas
-Learn SVG
-Learn Icons
-Learn Google Maps
-Learn HTML Games
-Server Side
-
-Learn SQL
-Learn ASP
-Learn ASP.NET
-Web Building
-
-Web Building
-Web Statistics
-XML Tutorials
-
-Learn XML
-Learn XSLT
-Learn AJAX
--->
-
-HTML
-* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-
-CSS
-* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
-* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
-
-<!--
-http://www.w3schools.com/html/html5_syntax.asp
-http://www.w3schools.com/jsref/obj_window.asp
-http://www.w3schools.com/cssref/css_functions.asp
-http://www.w3schools.com/cssref/css_colors_legal.asp
-http://www.w3schools.com/cssref/css3_browsersupport.asp
-
-http://www.w3schools.com/html/html_css.asp
--->
 
 <!--
 Char Sets
@@ -3995,9 +3989,6 @@ Scripting and MVCs
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 
-TodoMVC (See also JavaScript)
-* [TodoMVC](http://todomvc.com)
-
 Miscellaneous Programming Languages
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
@@ -4090,6 +4081,9 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 <!--
+TodoMVC (See also JavaScript)
+* [TodoMVC](http://todomvc.com)
+
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [Mozilla DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
