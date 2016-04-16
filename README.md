@@ -4263,6 +4263,10 @@ Node Add-ons
 * [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
 * [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
 
+Node Forks
+* [IO.js GitHub](https://github.com/iojs/io.js)  
+* [JXCore](http://jxcore.com/home) 
+
 MVCs General, Backbone, Ember
 * [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc)  
 * [Backbone](http://backbonejs.org)  
@@ -4304,59 +4308,26 @@ Extension Languages
 * [Underscore](http://underscorejs.org)  
 * [Underscore GitHub](https://github.com/jashkenas/underscore)  
 
-ElasticSearch
-* [ElasticSearch](http://www.elasticsearch.org)  
-* [ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch)  
-* [ElasticSearch Rails GitHub](https://github.com/elasticsearch/elasticsearch-rails )  
-* [ElasticSearch Ruby GitHub](https://github.com/elasticsearch/elasticsearch-ruby)  
-
-RabbitMQ
-* [RabbitMQ Server GitHub](https://github.com/rabbitmq/rabbitmq-server)  
-* [RabbitMQ Tutorials GitHub](https://github.com/rabbitmq/rabbitmq-tutorials)  
-* [RabbitMQ ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-rabbitmq)  
-
-MEAN (Mongoose, Express, Angular, Node)
-* [MEAN](http://mean.io)  
-* [MEAN Wikipedia](http://en.wikipedia.org/wiki/MEAN)  
- 
-MongoDB (Document-based)
-* [MongoDB](http://www.mongodb.org)  
-* [MongoDB GitHub](https://github.com/mongodb/mongo)  
-* [MongoDB Wikipedia](http://en.wikipedia.org/wiki/MongoDB)  
-* [BSON](http://bsonspec.org)  
-* [MongoDB BSON Wikipedia](http://en.wikipedia.org/wiki/BSON)  
-* [MongoDB Docs](http://docs.mongodb.org/manual)  
-* [MongoDB Docs GitHub](https://github.com/mongodb/docs)  
-* [MongoLab (Database-aaS)](http://www.mongolab.com)  
-* [MongoDB ElasticSearch GitHub](https://github.com/richardwilly98/elasticsearch-river-mongodb)  
-
-MongoDB- Drivers and Natives
-* [MongoDB Ruby Driver GitHub](https://github.com/mongodb/mongo-ruby-driver)  
-* [MongoDB Java Driver GitHub](https://github.com/mongodb/mongo-java-driver )  
-* [MongoDB Driver Examples GitHub](https://github.com/mongolab/mongodb-driver-examples)  
-* [Node MongoDB Native GitHub](https://github.com/mongodb/node-mongodb-native)  
-* [Node MongoDB Native GitHub](https://github.com/christkv/node-mongodb-native)  
-
-Mongoose, Mongoid, Moped, Mongomapper
-* [Mongoose.js](http://mongoosejs.com)  
-* [Mongoose (Example Website) GitHub](https://github.com/LearnBoost/mongoose)  
-* [Mongoose Elastic GitHub](https://github.com/Waidd/elasticmongoose)  
-* [Mongoose Express Node GitHub](https://github.com/madhums/node-express-mongoose)  
-* [Mongoosastic (Example Blog) GitHub](https://github.com/jamescarr/mongoosastic)  
-* [Mongoid GitHub](https://github.com/mongoid/mongoid)  
-* [Mongoid ElasticSearch GitHub](https://github.com/rs-pro/mongoid-elasticsearch)  
-* [Moped GitHub](https://github.com/mongoid/moped)  
-* [Mongomapper GitHub](https://github.com/mongomapper/mongomapper)  
-
-Node Forks
-* [IO.js GitHub](https://github.com/iojs/io.js)  
-* [JXCore](http://jxcore.com/home) 
-
 Other JavaScript Helpers
 * [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
 * [Lodash GitHub](https://github.com/lodash/lodash)
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
+
+Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
+* [Mocha GitHub](https://github.com/visionmedia/mocha)  
+* [Jasmine GitHub](https://github.com/pivotal/jasmine)  
+* [SeleniumHQ](http://www.seleniumhq.org)  
+* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
+* [PhantomJS](http://phantomjs.org)  
+* [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
+
+Normalization
+* [Normalize GitHub](https://github.com/necolas/normalize.css)  
+* [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
+* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
+* [Shim GitHub](https://github.com/marstall/shim)  
+* [Zepto GitHub](https://github.com/madrobby/zepto)  
 
 JavaScript Presentations Frameworks
 * [Slides.com (reveal.js)](https://slides.com)
@@ -6303,15 +6274,9 @@ Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versu
 * [Nginx GitHub](https://github.com/nginx/nginx)  
 * [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx)  
 
-Jenkins CI and Travis CI (Continuous Integration), and PhantomJS (Testing, Automation, Scraping)
+Jenkins CI and Travis CI (Continuous Integration)
 * [Jenkins](http://jenkins-ci.org)  
 * [Travis CI GitHub](https://github.com/travis-ci/travis-ci)  
-* [PhantomJS](http://phantomjs.org)  
-* [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
-
-Selenium (Automated Testing)
-* [SeleniumHQ](http://www.seleniumhq.org)  
-* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
 
 Erlang
 * [Erlang](http://www.erlang.org/)  
@@ -6332,12 +6297,49 @@ CouchDB (Document-based)
 * [CouchDB GitHub](https://github.com/apache/couchdb)  
 * [CouchDB ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-couchdb)  
 
-Normalization
-* [Normalize GitHub](https://github.com/necolas/normalize.css)  
-* [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
-* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
-* [Shim GitHub](https://github.com/marstall/shim)  
-* [Zepto GitHub](https://github.com/madrobby/zepto)  
+ElasticSearch
+* [ElasticSearch](http://www.elasticsearch.org)  
+* [ElasticSearch GitHub](https://github.com/elasticsearch/elasticsearch)  
+* [ElasticSearch Rails GitHub](https://github.com/elasticsearch/elasticsearch-rails )  
+* [ElasticSearch Ruby GitHub](https://github.com/elasticsearch/elasticsearch-ruby)  
+
+RabbitMQ
+* [RabbitMQ Server GitHub](https://github.com/rabbitmq/rabbitmq-server)  
+* [RabbitMQ Tutorials GitHub](https://github.com/rabbitmq/rabbitmq-tutorials)  
+* [RabbitMQ ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-rabbitmq)  
+
+MEAN (Mongoose, Express, Angular, Node)
+* [MEAN](http://mean.io)  
+* [MEAN Wikipedia](http://en.wikipedia.org/wiki/MEAN)  
+ 
+MongoDB (Document-based)
+* [MongoDB](http://www.mongodb.org)  
+* [MongoDB GitHub](https://github.com/mongodb/mongo)  
+* [MongoDB Wikipedia](http://en.wikipedia.org/wiki/MongoDB)  
+* [BSON](http://bsonspec.org)  
+* [MongoDB BSON Wikipedia](http://en.wikipedia.org/wiki/BSON)  
+* [MongoDB Docs](http://docs.mongodb.org/manual)  
+* [MongoDB Docs GitHub](https://github.com/mongodb/docs)  
+* [MongoLab (Database-aaS)](http://www.mongolab.com)  
+* [MongoDB ElasticSearch GitHub](https://github.com/richardwilly98/elasticsearch-river-mongodb)  
+
+MongoDB- Drivers and Natives
+* [MongoDB Ruby Driver GitHub](https://github.com/mongodb/mongo-ruby-driver)  
+* [MongoDB Java Driver GitHub](https://github.com/mongodb/mongo-java-driver )  
+* [MongoDB Driver Examples GitHub](https://github.com/mongolab/mongodb-driver-examples)  
+* [Node MongoDB Native GitHub](https://github.com/mongodb/node-mongodb-native)  
+* [Node MongoDB Native GitHub](https://github.com/christkv/node-mongodb-native)  
+
+Mongoose, Mongoid, Moped, Mongomapper
+* [Mongoose.js](http://mongoosejs.com)  
+* [Mongoose (Example Website) GitHub](https://github.com/LearnBoost/mongoose)  
+* [Mongoose Elastic GitHub](https://github.com/Waidd/elasticmongoose)  
+* [Mongoose Express Node GitHub](https://github.com/madhums/node-express-mongoose)  
+* [Mongoosastic (Example Blog) GitHub](https://github.com/jamescarr/mongoosastic)  
+* [Mongoid GitHub](https://github.com/mongoid/mongoid)  
+* [Mongoid ElasticSearch GitHub](https://github.com/rs-pro/mongoid-elasticsearch)  
+* [Moped GitHub](https://github.com/mongoid/moped)  
+* [Mongomapper GitHub](https://github.com/mongomapper/mongomapper)  
 
 Real Time Application Frameworks
 * [Engine.io GitHub](https://github.com/LearnBoost/engine.io)  
@@ -6350,8 +6352,6 @@ Encryption
 
 Testing Frameworks
 * [Flight GitHub](https://github.com/flightjs/flight)  
-* [Mocha GitHub](https://github.com/visionmedia/mocha)  
-* [Jasmine GitHub](https://github.com/pivotal/jasmine)  
 
 Event Tracking
 * [EventHub Cross Device Event Tracking GitHub](https://github.com/Codecademy/EventHub)  
