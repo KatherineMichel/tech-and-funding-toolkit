@@ -6,13 +6,10 @@ Tech and Venture Capital Toolkit
 
 A :star::star::star::star::star: curated list of high quality resources (mostly free) made with :heart: by Kati Michel. See also...
 
+* [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
 * [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
-
-<!--
-Mental Models
--->
 
 Table of Content
 -----------------
