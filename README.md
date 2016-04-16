@@ -38,38 +38,43 @@ Table of Content
   * [Analyst Groups](#analyst-groups)
   * [Business and Tech News Sources](#business-and-tech-news-sources)
   * [Government and International Data](#government-and-international-data)
+
 * [General Research and Learning](#general-research-and-learning)
   * [Learning Resources](#learning-resources)
   * [Events, Talks, People](#events-talks-people)
   * [Books and Courses](#books-and-courses)
   * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
   * [STEM and STEAM](#stem-and-steam)
+
 * [Venture Analysis](#venture-analysis)
   * [Surveys, Trends, Stats](#surveys-trends-stats)
   * [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
   * [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
   * [Metrics](#metrics)
+
 * [Lean Startup and Launchpad](#lean-startup-and-launchpad)
+
+* [Design Agency Playbooks](#design-agency-playbooks)
+* [Labs](#labs)
+* [Project Management](#project-management)
+  * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
+  * [Documents and Improvement](#documents-and-improvement)
+
 * [Research and Design Sprints](#research-and-design-sprints)
   * [Basics](#basics)
   * [Government Digital](#government-digital)
   * [Agile Sprints](#agile-sprints)
-* [Pretotyping and Prototyping](#pretotyping-and-prototyping)
-  * [Pretotyping](#pretotyping)
-  * [Prototyping](#prototyping)
-* [Social Media and Social Graph](#social-media-and-social-graph) 
-* [Testing and Performance](#testing-and-performance)
-* [Design Agency Playbooks](#design-agency-playbooks)
-* [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
-* [Labs](#labs)
 
 * [Design](#design)
-  * [Design Thinking](#design-thinking)
-* [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
 
-* [Project Management](#project-management)
-  * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
-  * [Documents and Improvement](#documents-and-improvement)
+  * [Design Thinking](#design-thinking)
+  * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
+
+* [Social Media and Social Graph](#social-media-and-social-graph) 
+
+* [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
+
+* [Testing and Performance](#testing-and-performance)
 
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
@@ -87,6 +92,10 @@ Table of Content
 * [Programming](#programming)
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Language Style Guides](#programming-language-style-guides) 
+
+* [Pretotyping and Prototyping](#pretotyping-and-prototyping)
+  * [Pretotyping](#pretotyping)
+  * [Prototyping](#prototyping)
 
   * [Front-End Programming](#front-end-programming) 
 
@@ -1923,214 +1932,6 @@ Spinoffs
 * [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 * [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
 
-#### Research and Design Sprints
-
-See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-#### Basics
-
-Heuristic
-* [Heuristic Wikipedia](http://en.wikipedia.org/wiki/Heuristic) and [Heuristic (Computer Science) Wikipedia](http://en.wikipedia.org/wiki/Heuristic_(computer_science)) 
-
-User Centered Design, User Experience, Usability
-* [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
-* [User Experience Design Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
-* [Usability Wikipedia](https://en.wikipedia.org/wiki/Usability_testing)
-
-Methods
-* [Affinity Diagram Wikipedia](https://en.wikipedia.org/wiki/Affinity_diagram)
-* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
-* [Six Thinking Hats Wikipedia](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
-* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
-* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
-* [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-
-Persuasive Technology
-* [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
-
-#### Government Digital
-
-See
-* [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
-
-GitHub Government 
-* [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
-
-<!--
-Australia, Canada, New Zealand, U.K., U.S.
-Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, Venezuela
-
-European Union
-International
-South Africa
-
-U.S. Gov.
-* [U.S. Aid](https://github.com/USAID)
-* [U.S.A. Gov](https://github.com/usagov)
-* [Open Gov](https://github.com/opengov)  
-
-U.S. Government- Agencies
-* [Department of Labor](https://github.com/USDepartmentofLabor) 
-* [Food and Drug Administration (FDA)](https://github.com/FDA) 
- 
-U.K. Government
-* [Data Gov U.K.](https://github.com/datagovuk) 
--->
-
-U.S. Gov., Consumer Financial Protection Bureau, Department of Veterans Affairs, Presidential Innovation Fellows, Usability Gov., 18F, Code for America, U.K. Gov., Australian Gov., - GitHub: See
-* [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
-
-U.S. Gov., U.K. Gov., Usability Gov., Australian Gov.: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
-* [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
- 
-U.S. Gov.- General Services Administration- GitHub
-* [G.S.A. Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
-* [G.S.A. U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
-
-U.S. Gov- Consumer Financial Protection Bureau- GitHub
-* [Consumer Financial Protection Bureau](http://cfpb.github.io)
-* [Consumer Financial Protection Bureau Source Code Policy GitHub](https://github.com/cfpb/source-code-policy)
-
-U.S. Gov- Department of Veterans Affairs- GitHub
-* [Department of Veterans Affairs Data GitHub](https://github.com/va-data)
-* [Department of Veterans Affairs Developer Area GitHub](https://github.com/va-data/va-developer)
-
-U.S. Gov- 18F- GitHub
-* [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
-* [18F Analytics Standards GitHub](https://github.com/18F/analytics-standards), and [18F API Standards GitHub](https://github.com/18f/api-standards)
-* [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
-* [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
-* [18F HTTPS](https://github.com/18F/https) 
-
-BBC
-* [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
-
-Estonian E-Residence
-* [Estonian E-Residence](https://e-estonia.com/e-residents/about)
-
-U.S. Gov.: Code for America
-* [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
-
-#### Agile Sprints
-
-Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nesta DIY, Nielson Norman and Various: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-#### Pretotyping and Prototyping
-
-#### Pretotyping
-
-* [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
-
-#### Prototyping
-
-* [Prototype Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
-* [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
-* [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
-* [Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration) 
-
-Device Mockups
-* [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
-* [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
- 
-Photoshop and Similar
-* [Nik Collection](https://www.google.com/nikcollection)
-* [Adobe Lightroom](https://lightroom.adobe.com)
-* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
-* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
-* [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
-* [Inkscape](http://www.inkscape.org/en)  
-* [Serif](http://www.serif.com) 
-
-Free Photos
-* [MorgueFile](http://www.morguefile.com)  
-
-Gifs
-* [Giphy](http://giphy.com) 
-
-Prototyping Software
-* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
-* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
-* [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
-* [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
-* [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
-* [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
-* See also Apple
- 
-Quickie Websites
-* [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
-* [Squarespace Templates](http://www.squarespace.com/templates)
-* [Weebly Themes](http://www.weebly.com/themes)
-* [Wix Templates](http://www.wix.com/website/templates)
-
-Quickie Mobile Apps
-* [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
-
-Turn Key Websites
-* [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
-
-Responsiveness- and Media Queries
-* [Media Queries Examples](http://mediaqueri.es)
-* [Bootstrap CSS](http://getbootstrap.com/css)
-* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
-* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
-* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
-
-Bootstrap, Font Awesome
-* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
-* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
-* [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-
-<!--
-https://github.com/silverbux/bootflat-admin
-https://github.com/almasaeed2010/AdminLTE
-https://github.com/VinceG/Bootstrap-Admin-Theme 
-https://github.com/onokumus/Bootstrap-Admin-Template
-
-https://github.com/BlackrockDigital/startbootstrap
--->
-
-Foundation
-* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
-* [Foundation for Emails](http://foundation.zurb.com/emails.html)
-* [Zurb Library](http://zurb.com/library)
-
-Good, Basic Templates, Themes
-* [Template Stash](http://www.templatestash.com)
-* [HTML5 UP](http://html5up.net) 
-* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
-* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-* [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
-* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
-* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
-
-Kickstarters
-* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
-* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
-* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
-* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
-
-CSS Zen Garden 
-* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
-* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
-
-Miscellaneous
-* [Namium (Name Generator)](http://www.naminum.com)
-* [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
-* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-
 #### Design Agency Playbooks
 
 Salesforce Lightning Design System
@@ -2154,218 +1955,6 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
-#### Social Media and Social Graph
-
-Graph and Schema- General (See also Facebook Open Graph)
-* [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-
-Microformats
-* [Microformats](http://microformats.org)
-
-Web Analytics
-* [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
-
-Facebook
-* [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
-
-Facebook Developers
-* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-
-Facebook Tools
-* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-* [Facebook Business](https://www.facebook.com/business)
-* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
-* [Fb Start for Mobile Startups](http://fbstart.com)
-
-Google
-* [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Chrome DevTools](https://developer.chrome.com/devtools), [Google Chrome DevTools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)
-* [Google Chrome Home](https://developers.google.com/chrome)
-* [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
-* [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-<!--
-https://www.google.com/chrome/browser/canary.html
--->
-
-Google Analytics
-* [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
-Google Ads
-* [Google Ads](http://www.google.com/ads) 
-* [Google AdMob (Apps)](http://www.google.com/admob)  
-* [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-* [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
-* [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
-* [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
-* [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
-* [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
-* [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
-
-Google Monetization
-* [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
-
-Google Rich Snippets
-* [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-Google Webmaster
-* [Google Tag Manager](http://www.google.com/tagmanager)
-
-Google News Publisher
-* [Google News Publisher Help](https://support.google.com/news/publisher)
-
-LinkedIn
-* [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
-* [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
-
-Pinterest
-* [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
-* [Pinterest for Developers](https://developers.pinterest.com) 
-* [Pinterest Blog](http://blog.pinterest.com)
-* [Pinterest for Business](https://business.pinterest.com)
-
-Slideshare
-* [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
-* [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
-
-Snapchat
-* [Snapchat Blog](http://blog.snapchat.com)
-
-Twitter
-* [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
-* [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
-* [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
-* [Twitter Business](https://biz.twitter.com)
-* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-* [Twitter Curator](https://curator.twitter.com)
-* [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
-
-Twitter Data
-* [Twitter Data](https://twitter.com/TwitterData)
-
-Twitter Media and News
-* [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-* [Twitter News](https://twitter.com/TwitterForNews) 
-
-Twitter Advanced Search
-* [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
-
-Yahoo and Bing- Developer, Webmaster, and Ads
-* [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
-* [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
-* [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
-* [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
-YouTube (Google)
-* [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
-* [YouTube Creators](http://www.youtube.com/yt/creators)  
-* [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
-
-Sharing Buttons
-* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
-* [AddToAny](https://www.addtoany.com) 
-* [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
-
-RRSSB
-* [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
-
-Cookies
-* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
-* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
-* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
-
-#### Testing and Performance
-
-* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-* [AWS Device Farm](https://aws.amazon.com/device-farm)
-* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-* [Google App Invites](https://developers.google.com/app-invites)
-* [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
-* [Google Pagespeed](https://developers.google.com/speed/pagespeed)
-* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-<!--
-https://www.testflightapp.com/
--->
-
-W3 Validators
-* [W3C HTML Validator](https://validator.w3.org/nu)
-* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-* [W3C Mobile Validator](http://validator.w3.org/mobile)
-
-Accessibility
-* [WebAIM](http://webaim.org)
-* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
-
-#### Engineering Blogs and Designer, Developer Conferences
-
-StackShare
-* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-
-Individual Engineering Blogs
-* [Buffer Engineering](https://overflow.bufferapp.com)
-* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-* [LinkedIn Engineering](http://engineering.linkedin.com)  
-* [Pinterest Engineering](http://engineering.pinterest.com)  
-* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-* [Uber Developers](https://devblog.uber.com)  
-* [Yelp Engineering](http://engineeringblog.yelp.com) 
-
-DevCenter
-* [DevCenter Website](DevCenter.me)  
-
-Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Stack Overflow Developer Survey
-* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
-* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-
-Built With (Exluding Django)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-* [Built With](http://builtwith.com)  
-* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-* [Built with Bootstrap](http://expo.getbootstrap.com)  
-* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Squarespace (Website Examples)](http://www.squarespace.com) 
-
-Code Search
-* [Search Code](https://searchcode.com)  
-* [Nerdy Data](http://nerdydata.com)  
-
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
-
-Company Design
-* [Medium Design](https://medium.com/designing-medium)  
-* [IBM Design](https://www.ibm.com/design) 
-* [eBay/PayPal](http://ebay.com/design)  
-* [Twitter Design](https://twitter.com/design)  
-* [Uber Design](https://www.uber.com/design) 
-
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
 #### Labs
 
 Labs, Kitchens, Garages
@@ -2374,72 +1963,6 @@ Labs, Kitchens, Garages
 * [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
 * [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
 * [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
-
-#### Design
-
-#### Design Thinking
-
-Design- General
-* [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
-* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
-* [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
-* [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
-* [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
-
-Responsive Design
-* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-* [Responsive Design Examples](http://mediaqueri.es)  
-
-Design Publications
-* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-* [Smashing Magazine](http://www.smashingmagazine.com) 
-* [Tympanus](http://tympanus.net)
-* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
-* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
- 
-Portfolio and Community Websites
-* [Behance](https://www.behance.net)  
-* [Dribbble](https://dribbble.com)  
-* [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-* [Zurb Tavern](http://zurb.com/tavern) 
-
-Flickr
-* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-KPCB and John Maeda Design in Tech Report
-* [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
-* [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
-#### Facebook and Google Design and Development Approaches
-
-Facebook
-* [Facebook Design](http://facebook.github.io/design) 
-
-Google
-* [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
-* [Google Roboto GitHub](https://github.com/google/roboto) 
-* [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-Google Material Design (See also Facebook React)
-* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
-
-Accelerated Mobile Pages (AMP HTML)
-* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
-* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
-
-
 
 #### Project Management
 
@@ -2667,6 +2190,379 @@ Improvement Schools of Thought
 * [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
 * [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
 * [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
+
+#### Research and Design Sprints
+
+See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+#### Basics
+
+Heuristic
+* [Heuristic Wikipedia](http://en.wikipedia.org/wiki/Heuristic) and [Heuristic (Computer Science) Wikipedia](http://en.wikipedia.org/wiki/Heuristic_(computer_science)) 
+
+User Centered Design, User Experience, Usability
+* [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
+* [User Experience Design Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
+* [Usability Wikipedia](https://en.wikipedia.org/wiki/Usability_testing)
+
+Methods
+* [Affinity Diagram Wikipedia](https://en.wikipedia.org/wiki/Affinity_diagram)
+* [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
+* [Six Thinking Hats Wikipedia](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
+* [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
+* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
+* [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
+
+Persuasive Technology
+* [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
+
+#### Government Digital
+
+See
+* [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
+
+GitHub Government 
+* [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
+
+<!--
+Australia, Canada, New Zealand, U.K., U.S.
+Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, Venezuela
+
+European Union
+International
+South Africa
+
+U.S. Gov.
+* [U.S. Aid](https://github.com/USAID)
+* [U.S.A. Gov](https://github.com/usagov)
+* [Open Gov](https://github.com/opengov)  
+
+U.S. Government- Agencies
+* [Department of Labor](https://github.com/USDepartmentofLabor) 
+* [Food and Drug Administration (FDA)](https://github.com/FDA) 
+ 
+U.K. Government
+* [Data Gov U.K.](https://github.com/datagovuk) 
+-->
+
+U.S. Gov., Consumer Financial Protection Bureau, Department of Veterans Affairs, Presidential Innovation Fellows, Usability Gov., 18F, Code for America, U.K. Gov., Australian Gov., - GitHub: See
+* [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
+
+U.S. Gov., U.K. Gov., Usability Gov., Australian Gov.: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
+* [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+ 
+U.S. Gov.- General Services Administration- GitHub
+* [G.S.A. Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
+* [G.S.A. U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
+
+U.S. Gov- Consumer Financial Protection Bureau- GitHub
+* [Consumer Financial Protection Bureau](http://cfpb.github.io)
+* [Consumer Financial Protection Bureau Source Code Policy GitHub](https://github.com/cfpb/source-code-policy)
+
+U.S. Gov- Department of Veterans Affairs- GitHub
+* [Department of Veterans Affairs Data GitHub](https://github.com/va-data)
+* [Department of Veterans Affairs Developer Area GitHub](https://github.com/va-data/va-developer)
+
+U.S. Gov- 18F- GitHub
+* [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
+* [18F Analytics Standards GitHub](https://github.com/18F/analytics-standards), and [18F API Standards GitHub](https://github.com/18f/api-standards)
+* [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
+* [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
+* [18F HTTPS](https://github.com/18F/https) 
+
+BBC
+* [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
+
+Estonian E-Residence
+* [Estonian E-Residence](https://e-estonia.com/e-residents/about)
+
+U.S. Gov.: Code for America
+* [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
+
+#### Agile Sprints
+
+Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nesta DIY, Nielson Norman and Various: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+#### Design
+
+#### Design Thinking
+
+Design- General
+* [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
+* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+* [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
+* [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
+* [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
+
+Responsive Design
+* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+* [Responsive Design Examples](http://mediaqueri.es)  
+
+Design Publications
+* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+* [Smashing Magazine](http://www.smashingmagazine.com) 
+* [Tympanus](http://tympanus.net)
+* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
+ 
+Portfolio and Community Websites
+* [Behance](https://www.behance.net)  
+* [Dribbble](https://dribbble.com)  
+* [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
+* [Zurb Tavern](http://zurb.com/tavern) 
+
+Flickr
+* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+KPCB and John Maeda Design in Tech Report
+* [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
+* [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
+
+#### Facebook and Google Design and Development Approaches
+
+Facebook
+* [Facebook Design](http://facebook.github.io/design) 
+
+Google
+* [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
+* [Google Roboto GitHub](https://github.com/google/roboto) 
+* [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google Material Design (See also Facebook React)
+* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
+
+Accelerated Mobile Pages (AMP HTML)
+* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
+* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
+
+#### Social Media and Social Graph
+
+Graph and Schema- General (See also Facebook Open Graph)
+* [Open Graph Protocol Schema](http://ogp.me) 
+* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+
+Microformats
+* [Microformats](http://microformats.org)
+
+Web Analytics
+* [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
+
+Facebook
+* [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
+
+Facebook Developers
+* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+
+Facebook Tools
+* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+* [Facebook Business](https://www.facebook.com/business)
+* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+* [Fb Start for Mobile Startups](http://fbstart.com)
+
+Google
+* [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Chrome DevTools](https://developer.chrome.com/devtools), [Google Chrome DevTools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
+* [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+<!--
+https://www.google.com/chrome/browser/canary.html
+-->
+
+Google Analytics
+* [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+Google Ads
+* [Google Ads](http://www.google.com/ads) 
+* [Google AdMob (Apps)](http://www.google.com/admob)  
+* [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
+* [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+* [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
+* [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
+* [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+* [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
+* [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
+
+Google Monetization
+* [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
+
+Google Rich Snippets
+* [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+Google Webmaster
+* [Google Tag Manager](http://www.google.com/tagmanager)
+
+Google News Publisher
+* [Google News Publisher Help](https://support.google.com/news/publisher)
+
+LinkedIn
+* [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
+* [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
+
+Pinterest
+* [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
+* [Pinterest for Developers](https://developers.pinterest.com) 
+* [Pinterest Blog](http://blog.pinterest.com)
+* [Pinterest for Business](https://business.pinterest.com)
+
+Slideshare
+* [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
+* [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
+
+Snapchat
+* [Snapchat Blog](http://blog.snapchat.com)
+
+Twitter
+* [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
+* [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
+* [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+* [Twitter Business](https://biz.twitter.com)
+* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+* [Twitter Curator](https://curator.twitter.com)
+* [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
+
+Twitter Data
+* [Twitter Data](https://twitter.com/TwitterData)
+
+Twitter Media and News
+* [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+* [Twitter News](https://twitter.com/TwitterForNews) 
+
+Twitter Advanced Search
+* [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+
+Yahoo and Bing- Developer, Webmaster, and Ads
+* [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+* [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
+* [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
+* [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+YouTube (Google)
+* [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
+* [YouTube Creators](http://www.youtube.com/yt/creators)  
+* [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Sharing Buttons
+* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
+* [AddToAny](https://www.addtoany.com) 
+* [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
+
+RRSSB
+* [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
+
+Cookies
+* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
+
+#### Engineering Blogs and Designer, Developer Conferences
+
+StackShare
+* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+
+Individual Engineering Blogs
+* [Buffer Engineering](https://overflow.bufferapp.com)
+* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+* [LinkedIn Engineering](http://engineering.linkedin.com)  
+* [Pinterest Engineering](http://engineering.pinterest.com)  
+* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+* [Uber Developers](https://devblog.uber.com)  
+* [Yelp Engineering](http://engineeringblog.yelp.com) 
+
+DevCenter
+* [DevCenter Website](DevCenter.me)  
+
+Guides for Development
+* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Stack Overflow Developer Survey
+* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
+* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+
+Built With (Exluding Django)
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+* [Built With](http://builtwith.com)  
+* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+* [Built with Bootstrap](http://expo.getbootstrap.com)  
+* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Squarespace (Website Examples)](http://www.squarespace.com) 
+
+Code Search
+* [Search Code](https://searchcode.com)  
+* [Nerdy Data](http://nerdydata.com)  
+
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+
+Company Design
+* [Medium Design](https://medium.com/designing-medium)  
+* [IBM Design](https://www.ibm.com/design) 
+* [eBay/PayPal](http://ebay.com/design)  
+* [Twitter Design](https://twitter.com/design)  
+* [Uber Design](https://www.uber.com/design) 
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+#### Testing and Performance
+
+* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+* [AWS Device Farm](https://aws.amazon.com/device-farm)
+* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+* [Google App Invites](https://developers.google.com/app-invites)
+* [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
+* [Google Pagespeed](https://developers.google.com/speed/pagespeed)
+* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+<!--
+https://www.testflightapp.com/
+-->
+
+W3 Validators
+* [W3C HTML Validator](https://validator.w3.org/nu)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Mobile Validator](http://validator.w3.org/mobile)
+
+Accessibility
+* [WebAIM](http://webaim.org)
+* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
 
 #### Operating Systems
 
@@ -3767,6 +3663,116 @@ Objective C Styleguide
 
 Swift Styleguide
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
+
+#### Pretotyping and Prototyping
+
+#### Pretotyping
+
+* [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
+
+#### Prototyping
+
+* [Prototype Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
+* [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
+* [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
+* [Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration) 
+
+Device Mockups
+* [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
+* [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
+ 
+Photoshop and Similar
+* [Nik Collection](https://www.google.com/nikcollection)
+* [Adobe Lightroom](https://lightroom.adobe.com)
+* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
+* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
+* [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
+* [Inkscape](http://www.inkscape.org/en)  
+* [Serif](http://www.serif.com) 
+
+Free Photos
+* [MorgueFile](http://www.morguefile.com)  
+
+Gifs
+* [Giphy](http://giphy.com) 
+
+Prototyping Software
+* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
+* [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
+* [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
+* [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
+* [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
+* See also Apple
+ 
+Quickie Websites
+* [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
+* [Squarespace Templates](http://www.squarespace.com/templates)
+* [Weebly Themes](http://www.weebly.com/themes)
+* [Wix Templates](http://www.wix.com/website/templates)
+
+Quickie Mobile Apps
+* [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
+
+Turn Key Websites
+* [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
+
+Responsiveness- and Media Queries
+* [Media Queries Examples](http://mediaqueri.es)
+* [Bootstrap CSS](http://getbootstrap.com/css)
+* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
+* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
+* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
+
+Bootstrap, Font Awesome
+* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
+* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+
+<!--
+https://github.com/silverbux/bootflat-admin
+https://github.com/almasaeed2010/AdminLTE
+https://github.com/VinceG/Bootstrap-Admin-Theme 
+https://github.com/onokumus/Bootstrap-Admin-Template
+
+https://github.com/BlackrockDigital/startbootstrap
+-->
+
+Foundation
+* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
+* [Foundation for Emails](http://foundation.zurb.com/emails.html)
+* [Zurb Library](http://zurb.com/library)
+
+Good, Basic Templates, Themes
+* [Template Stash](http://www.templatestash.com)
+* [HTML5 UP](http://html5up.net) 
+* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
+* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
+* [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
+* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
+* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+
+Kickstarters
+* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
+* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
+* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
+
+CSS Zen Garden 
+* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
+* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
+
+Miscellaneous
+* [Namium (Name Generator)](http://www.naminum.com)
+* [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
+* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
 #### Front-End Programming
 
