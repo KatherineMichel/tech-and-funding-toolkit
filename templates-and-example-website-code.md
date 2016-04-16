@@ -5,7 +5,7 @@ Table of Contents
 - [Jekyll](#jekyll)
 - [Python](#python) 
 - [ASP](#asp) 
-- [Node.js](#nodejs)
+- [node.js](#nodejs)
 - [PHP](#php)
 - [Ruby, Rails](#ruby-rails)
 - [Newspaper Code and Style Guides](#newspaper-code-and-style-guides)
@@ -49,7 +49,7 @@ Jekyll Bootstrap
 GitHub Pages Showcase (Jekyll)
 * [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
 
-Jekyll themes
+Jekyll Themes
 * [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
 * [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
 * [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
@@ -89,17 +89,17 @@ Python- Django- PyCon, DjangoCon, and PyData
 Python- Django- Django Birthday
 * [Django Birthday GitHub](https://github.com/jacobian/djangobirthday)
 
-Template examples
+Template Examples
 * [Django Website Templates](https://github.com/django/djangoproject.com/tree/master/djangoproject/templates)
 * [Python Website Templates](https://github.com/python/pythondotorg/tree/master/templates)
 * [Django Girls Website Templates](https://github.com/DjangoGirls/djangogirls/tree/master/templates)
 
-Python- Django- Django product websites
+Python- Django- Django Product Websites
 * [Django Sites GitHub](https://github.com/rossp/djangosites.org)
 * [Django Packages GitHub](https://github.com/pydanny/djangopackages)
 * [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
 
-Python- Django- Python product websites
+Python- Django- Python Product Websites
 * [Celery Project](http://www.celeryproject.org)  and [Celery Project GitHub](https://github.com/celery/celeryproject) 
 * [SciPy Central (Deprecated?) GitHub](https://github.com/scipy/SciPyCentral)
 
@@ -126,7 +126,7 @@ David Leonard- Django Hackathon Starter (Python- Django) and Django tutorial
 * [Django Hackathon Starter GitHub](https://github.com/DrkSephy/django-hackathon-starter) 
 * [Django Tutorial](https://github.com/DrkSephy/django-tutorial)
 
-18F and Peace Corps new website (Python- Django)
+18F and Peace Corps New Website (Python- Django)
 * [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
 * [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site) 
 
@@ -191,19 +191,19 @@ Reddit (Python- adapted from Django)
 * [Reddit i18n Getting Started](http://www.reddit.com/r/i18n/wiki/getting_started)  
 * [Reddit Enhancement Suite Github](https://github.com/Photobucket/Reddit-Enhancement-Suite)  
 
-Reddit- mobile (Node.js)
+Reddit- mobile (node.js)
 * [Reddit Mobile Github](https://github.com/reddit/reddit-mobile) 
 * Reddit Android?
 
 NPR + others (Python (Also Node for Less))
 * [NPR App Templates (Python and OSX) GitHub](https://github.com/nprapps/app-template)  
 * [Planet Money Makes a T-Shirt](http://planetmoney.com/shirt)  
-* [Planet Money Makes a T-Shirt (example website) GitHub](https://github.com/nprapps/tshirt)  
+* [Planet Money Makes a T-Shirt (Example website) GitHub](https://github.com/nprapps/tshirt)  
 * [NPR Apps (Jekyll) GitHub](https://github.com/nprapps/nprapps.github.com)  
 * [NPR Best Practices (Interesting file structure) GitHub](https://github.com/nprapps/bestpractices)  
 
 Miscellaneous (Python)
-* [Chicago News Team's Docs including paywall instructions for Tarbell Github](https://github.com/newsapps/docs)  
+* [Chicago News Team's Docs (Including paywall instructions for Tarbell) Github](https://github.com/newsapps/docs)  
 * [Chicago News Team's Tarbell Github](https://github.com/newsapps/flask-tarbell)  
 * [CKAN Data Management System Github](https://github.com/GSA/ckan)  
 * [CKAN Data Management System Github](https://github.com/ckan/ckan)  
@@ -213,7 +213,7 @@ Miscellaneous (Python)
 * [Full Stack Python GitHub](https://github.com/makaimc/fullstackpython.com)
 * [Plone Content Management System (Runs on Zope) Github](https://github.com/plone/Plone)  
 * [PyLadies GitHub](https://github.com/pyladies/pyladies)
-* [Zipline Algorithmic Trading Platform (basis for Quantopian) Github](https://github.com/quantopian/zipline)  
+* [Zipline Algorithmic Trading Platform (Basis for Quantopian) Github](https://github.com/quantopian/zipline)  
 * [Zipline Spinoff Quantopian's Algorithms Github](https://github.com/quantopian/quantopian-algos)  
 * [Zope Web App Server Github](https://github.com/zopefoundation/Zope)  
 
@@ -234,12 +234,12 @@ ASP.NET- Boilerplate
 * [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
 * [ASP.NET Boilerplate Event Cloud GitHub](https://github.com/aspnetboilerplate/eventcloud)
 
-ASP.NET- example websits
+ASP.NET- Example Website
 * [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
 
 ## Node
 
-Preferred non-official templates (See also WordPress)
+Preferred Non-Official Templates (See also WordPress)
 * [Hackathon-Starter GitHub](https://github.com/sahat/hackathon-starter)  
 * [Satellizer GitHub](https://github.com/sahat/satellizer)  
 * [Hackathon-Starter Companion- JS Recipes (example website) GitHub](https://github.com/sahat/jsrecipes)  
@@ -261,12 +261,12 @@ Drupal
 
 ## PHP 
 
-PHP- Laravel- preferred templates and documents
+PHP- Laravel- Preferred Templates and Documents
 * [Laravel 4 Starter Kit GitHub](https://github.com/brunogaspar/laravel4-starter-kit)  
 * [Laravel 4 Bootstrap Starter Site GitHub](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)  
 * [Laravel 4 Generators GitHub](https://github.com/JeffreyWay/Laravel-4-Generators) 
 
-PHP- WordPress- popular themes
+PHP- WordPress- Popular Themes
 * [Official Themes](https://wordpress.org/themes)
 * [WordPress MTV Github](https://github.com/newsapps/wordpress-mtv) 
 * [Sage](https://roots.io/sage), [Sage GitHub](https://github.com/roots/sage), and [Sage vs. Underscores](https://roots.io/sage-vs-underscores)
@@ -275,9 +275,9 @@ PHP- WordPress- popular themes
 * [Bedrock](https://roots.io/bedrock) and [Bedrock GitHub](https://github.com/roots/bedrock)
 
 Other
-* [Facebook Platform (deprecated) GitHub](https://github.com/facebookarchive/platform)  
-* [Facebook Ad Manager (deprecated) GitHub](https://github.com/facebookarchive/powereditor)  
-* [Facebook IE Toolbar (deprecated) GitHub](https://github.com/facebookarchive/ie-toolbar)  
+* [Facebook Platform (Deprecated) GitHub](https://github.com/facebookarchive/platform)  
+* [Facebook Ad Manager (Deprecated) GitHub](https://github.com/facebookarchive/powereditor)  
+* [Facebook IE Toolbar (Deprecated) GitHub](https://github.com/facebookarchive/ie-toolbar)  
 
 * [Wikipedia GitHub](https://github.com/wikimedia)  
 * [Wikipedia Android GitHub](https://github.com/wikimedia/apps-android-wikipedia)  
@@ -311,7 +311,7 @@ Guardian Developer
 * [Guardian Developers GitHub](http://guardian.github.io/developers)
 * [Guardian Developers](http://developers.theguardian.com) and [Guardian Developers Open Source](http://developers.theguardian.com/open-source.html)
 
-Guardian frontend (Ruby, Rails, Scala, Play, Node)
+Guardian Frontend (Ruby, Rails, Scala, Play, Node)
 * [Guardian Frontend Home](http://www.theguardian.com/uk?view=mobile)
 * [Guardian Frontend Fonts GitHub](https://github.com/guardian/frontend-fonts) 
 * [Guardian Frontend GitHub (clone repo, npm install, command line 'bundle,' lacking sbt)](https://github.com/guardian/frontend)  
@@ -340,13 +340,13 @@ Guardian Pasteup
 * [Guardian Pasteup Forms Examples GitHub](http://guardian.github.io/pasteup-forms)  
 * [Guardian Pasteup Palate GitHub](https://github.com/guardian/pasteup-palette)  
 
-Guardian mobile
+Guardian Mobile
 * [Guardian Mobile Apps Article Template GitHub](https://github.com/guardian/mobile-apps-article-templates)  
 * [Guardian Mobile Notifications Content GitHub](https://github.com/guardian/mobile-notifications-content)  
 * [Guardian Mobile Notifications API Client GitHub](https://github.com/guardian/mobile-notifications-api-client)  
 * [Guardian Mobile Edition Backpage GitHub](https://github.com/guardian/mobile-edition-backpage)  
 
-Guardian miscellaneous
+Guardian Miscellaneous
 * [Guardian Web Application Specifications GitHub](https://github.com/guardian/guardian-management)  
 * [Guardian Error Pages GitHub](https://github.com/guardian/error-pages)  
 * [Guardian Robots.txt GitHub](https://github.com/guardian/robots.txt)  
