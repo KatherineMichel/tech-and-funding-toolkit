@@ -50,9 +50,6 @@ Table of Content
   * [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
   * [Metrics](#metrics)
 * [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-* [Project Management](#project-management)
-  * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
-  * [Documents and Improvement](#documents-and-improvement)
 * [Research and Design Sprints](#research-and-design-sprints)
   * [Basics](#basics)
   * [Government Digital](#government-digital)
@@ -68,8 +65,11 @@ Table of Content
 
 * [Design](#design)
   * [Design Thinking](#design-thinking)
-* [Web Dev and Design](#web-dev-and-design)
 * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
+
+* [Project Management](#project-management)
+  * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
+  * [Documents and Improvement](#documents-and-improvement)
 
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
@@ -83,12 +83,14 @@ Table of Content
   * [Code Philosophies](#code-philosophies)
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
   * [Software Manuals and Documentation](#software-manuals-and-documentation)
-  * [Programming Language Style Guides](#programming-language-style-guides) 
 
 * [Programming](#programming)
   * [Programming Learning Tools](#programming-learning-tools) 
-  * [Programming Languages, MVCs](#programming-languages-mvcs)
+  * [Programming Language Style Guides](#programming-language-style-guides) 
 
+  * [Front-End Programming](#front-end-programming) 
+
+  * [Programming Languages, MVCs](#programming-languages-mvcs)
 * [JavaScript](#javascript)
   * [JavaScript Ecosystem](#javascript-ecosystem)
   * [JavaScript Tools](#javascript-tools)
@@ -1921,233 +1923,6 @@ Spinoffs
 * [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 * [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
 
-#### Project Management
-
-#### Project Management Tools and Software Engineering
-
-Operations, Changement Management, Program Management. Project Management
-* [Operations Management Wikipedia](https://en.wikipedia.org/wiki/Operations_management)
-* [Change Management Wikipedia](https://en.wikipedia.org/wiki/Change_management)
-* [Program Management Wikipedia](https://en.wikipedia.org/wiki/Program_management)
-* [Project Management Wikipedia](http://en.wikipedia.org/wiki/Project_management)  
-* [Project Manager Wikipedia](https://en.wikipedia.org/wiki/Project_manager)  
-
-Project Management
-* [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics), [Outline of Project Management Wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
-* [Project Management (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
-* [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
-* [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
-
-Project Management Associations, Certifications, Frameworks
-* [Association for Project Management](http://www.apm.org.uk)  
-* [Project Management Institute](http://www.pmi.org) 
-* [PRojects IN Controlled Environments](https://www.prince2.com)
-* [Axelos (Formerly Managing Successful Programmes)](https://www.axelos.com), [Axelos Prince2](https://www.axelos.com/best-practice-solutions/prince2), [Axelos ITIL](https://www.axelos.com/best-practice-solutions/itil), [ITIL Wikipedia](https://en.wikipedia.org/wiki/ITIL), and [Axelos MSP](https://www.axelos.com/best-practice-solutions/msp)
-* [CITI](http://www.citi.co.uk)
-* [COBIT](http://www.isaca.org/cobit/pages/default.aspx) and [COBIT Wikipedia](https://en.wikipedia.org/wiki/COBIT)
-* [TOGAF](https://www2.opengroup.org/ogsys/catalog/g116)
-
-Quality
-* [ISO](http://www.iso.org/iso/home.html) 
-* [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
-
-Project Management- Obvious Software
-* [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
-* [Microsoft Project Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Project)
-* [Microsoft Visio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visio)
-* [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
-
-Project Management- Less Obvious Software
-* [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
-* [GitLab](https://about.gitlab.com)
-* [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
-* [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
-* [Slack Keyboard Shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
-* [Hamsterpad](https://hamsterpad.com)
-* [Trello](https://trello.com)
-
-<!--
-https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
-https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
-https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
--->
-
-Agile Project Management Methodologies
-* [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
-* [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
-* [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
-* [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
-* [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
-* [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
-* [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
-* [Lean IT Wikipedia](http://en.wikipedia.org/wiki/Lean_IT)
-* [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
-* [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
-* [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-* [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
-* [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
-
-<!--
-## Wikipedia
-
-Agile Practices
-* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-* [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-* [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-* [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
-* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
-* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
-
-* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
-* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
-* [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-* [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
-* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
-* [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
-
-* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
--->
-
-Sprints
-* [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
-* [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
-
-Waterfall Project Management Methodologies
-* [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
-
-Software Project Management
-* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
-
-Software Engineering/Development 
-* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
-* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
-* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
-* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
-* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
-* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
-* [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
-
-Programming and Paradigm
-* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-Modeling
-* [Unified Modeling Language (Series) Wikipedia](http://en.wikipedia.org/wiki/Unified_Modeling_Language)
-* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
-
-Software Release Life Cycle
-* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
-
-Software Prototyping
-* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
-* [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
-
-Software Testing
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-
-#### Documents and Improvement 
-
-Project Documents
-* [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
-* [Mind Map Wikipedia](http://en.wikipedia.org/wiki/Mind_map)
-* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
-* [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
-* [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
-* [Work Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Work_breakdown_structure)
-* [Gantt Chart Wikipedia](https://en.wikipedia.org/wiki/Gantt_chart)
-* [Schedule (Project Management) Wikipedia](https://en.wikipedia.org/wiki/Schedule_(project_management))
-* [Project Network Wikipedia](https://en.wikipedia.org/wiki/Project_network)
-* [Critical Path Method Wikipedia](https://en.wikipedia.org/wiki/Critical_path_method)
-* [Product Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Product_breakdown_structure)
-* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
-* [Organizational Structure Wikipedia](https://en.wikipedia.org/wiki/Organizational_structure)
-* [Organizational Chart Wikipedia](https://en.wikipedia.org/wiki/Organizational_chart)
-* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
-* [Change Request Wikipedia](https://en.wikipedia.org/wiki/Change_request)
-* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
-* Objective, Assumption, Constraint
-
-Requirements
-* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
-* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
-* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
-* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
-* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
-* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
-* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
-* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
-* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
-
-Product
-* [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
-* [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
-* [Product (Business) Wikipedia](http://en.wikipedia.org/wiki/Product_(business))  
-* [Product Management Wikipedia](http://en.wikipedia.org/wiki/Product_management)  
-* [Product Manager Wikipedia](http://en.wikipedia.org/wiki/Product_manager) 
-
-Strategy
-* [Strategy Series Wikipedia](http://en.wikipedia.org/wiki/Strategy) 
-* [Strategic Management Wikipedia](http://en.wikipedia.org/wiki/Strategic_management)  
-* [Strategic Planning Wikipedia](http://en.wikipedia.org/wiki/Strategic_planning) 
-* [Strategic Partnership Wikipedia](https://en.wikipedia.org/wiki/Strategic_partnership)
-
-Value
-* [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
-* [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
-* [Value Engineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
-* [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
-* [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
-
-Supply Chain
-* [Supply Chain Wikipedia](https://en.wikipedia.org/wiki/Supply_chain)
-* [Supply Chain Management Wikipedia](https://en.wikipedia.org/wiki/Supply_chain_management)
-* [Supply Chain Optimization Wikipedia](http://en.wikipedia.org/wiki/Supply_chain_optimization)
-* [Global Supply-Chain Finance Wikipedia](https://en.wikipedia.org/wiki/Global_supply-chain_finance)
-
-Business Process
-* [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
-* [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
-
-Flow Chart
-* [Flow Process Chart Wikipedia](https://en.wikipedia.org/wiki/Flow_process_chart)
-* [Flowchart Wikipedia](https://en.wikipedia.org/wiki/Flowchart)
-* [Workflow Wikipedia](https://en.wikipedia.org/wiki/Workflow)
-
-Improvement Schools of Thought
-* [Analytical Quality Control Wikipedia](https://en.wikipedia.org/wiki/Analytical_quality_control)
-* [Continual Improvement Process Wikipedia](https://en.wikipedia.org/wiki/Continual_improvement_process)
-* [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
-* [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
-* [Capability Maturity Model Integration Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
-* [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization) and [Chris Argyris Wikipedia](https://en.wikipedia.org/wiki/Chris_Argyris)
-* [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
-* [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
-* [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
-* [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
-* [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
-* [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
-
 #### Research and Design Sprints
 
 See
@@ -2635,195 +2410,6 @@ KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
-#### Web Dev and Design
-
-Web General (See also JavaScript) 
-* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
-* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
-* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
-* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
-* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
-* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
-* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
-* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
-* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
-* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
-* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
-
-HTML and CSS Tutorials- General
-* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
-* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-
-HTML and CSS Tutorials- Mozilla
-* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
-* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-
-HTML5 and CSS3 Tutorials- Mozilla
-* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
-<!--
-* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
--->
-
-Bootstrap Tutorials
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-
-<!--
-Learn jQueryMobile
-Learn AppML
-Learn AngularJS
-Learn JSON
-HTML Graphics
-
-Learn Canvas
-Learn SVG
-Learn Icons
-Learn Google Maps
-Learn HTML Games
-Server Side
-
-Learn SQL
-Learn ASP
-Learn ASP.NET
-Web Building
-
-Web Building
-Web Statistics
-XML Tutorials
-
-Learn XML
-Learn XSLT
-Learn AJAX
--->
-
-HTML
-* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-
-CSS
-* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
-* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
-
-<!--
-http://www.w3schools.com/html/html5_syntax.asp
-http://www.w3schools.com/jsref/obj_window.asp
-http://www.w3schools.com/cssref/css_functions.asp
-http://www.w3schools.com/cssref/css_colors_legal.asp
-http://www.w3schools.com/cssref/css3_browsersupport.asp
-
-http://www.w3schools.com/html/html_css.asp
--->
-
-<!--
-Char Sets
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
-* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
--->
-
-Encoding
-* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
-* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
-* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
-* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
-
-URL and IRI
-* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
-* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
-
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
-
-<!--
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-
-https://www.w3.org/DOM/
-https://www.w3.org/TR/DOM-Level-3-Core/core.html
-
-https://developer.mozilla.org/en-US/Apps
-https://developer.mozilla.org/en-US/docs/Web/Reference
-https://developer.mozilla.org/en-US/docs/Web/Guide
-https://developer.mozilla.org/en-US/docs/Web/Tutorials
-https://developer.mozilla.org/en-US/docs/Web/Accessibility
-https://developer.mozilla.org/en-US/docs/Web/Security
-
-https://developer.mozilla.org/en-US/Learn
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-Prototype-based Programming
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
-
-https://developer.mozilla.org/en-US/docs/DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.mozilla.org/en-US/docs/Web/Reference/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
-https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
-https://developer.mozilla.org/en-US/docs/Web/Guide/Events
-https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
-https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
-https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
-https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
-
-https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
-https://developer.mozilla.org/en-US/docs/Web/SVG
-https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
-https://developer.mozilla.org/en-US/docs/Web/MathML
-https://developer.mozilla.org/en-US/docs/Glossary
-
-https://developer.mozilla.org/en-US/docs/Tools
-http://getfirebug.com
-
-http://whatwg.github.io/loader
-
-https://twitter.com/kentcdodds/status/710701170268831744
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
-[W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-https://developer.mozilla.org/en-US/docs/Web/API/Console/table
-https://support.google.com/analytics/answer/1638635?hl=en
-
-http://schema.org/Person
-http://microformats.org
-https://en.wikipedia.org/wiki/HCard
-http://microformats.org/wiki/hcard
-http://microformats.org/code/hcard/creator
-
-https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
--->
-
 #### Facebook and Google Design and Development Approaches
 
 Facebook
@@ -2853,6 +2439,234 @@ Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
+
+
+#### Project Management
+
+#### Project Management Tools and Software Engineering
+
+Operations, Changement Management, Program Management. Project Management
+* [Operations Management Wikipedia](https://en.wikipedia.org/wiki/Operations_management)
+* [Change Management Wikipedia](https://en.wikipedia.org/wiki/Change_management)
+* [Program Management Wikipedia](https://en.wikipedia.org/wiki/Program_management)
+* [Project Management Wikipedia](http://en.wikipedia.org/wiki/Project_management)  
+* [Project Manager Wikipedia](https://en.wikipedia.org/wiki/Project_manager)  
+
+Project Management
+* [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics), [Outline of Project Management Wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
+* [Project Management (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
+* [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
+* [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
+
+Project Management Associations, Certifications, Frameworks
+* [Association for Project Management](http://www.apm.org.uk)  
+* [Project Management Institute](http://www.pmi.org) 
+* [PRojects IN Controlled Environments](https://www.prince2.com)
+* [Axelos (Formerly Managing Successful Programmes)](https://www.axelos.com), [Axelos Prince2](https://www.axelos.com/best-practice-solutions/prince2), [Axelos ITIL](https://www.axelos.com/best-practice-solutions/itil), [ITIL Wikipedia](https://en.wikipedia.org/wiki/ITIL), and [Axelos MSP](https://www.axelos.com/best-practice-solutions/msp)
+* [CITI](http://www.citi.co.uk)
+* [COBIT](http://www.isaca.org/cobit/pages/default.aspx) and [COBIT Wikipedia](https://en.wikipedia.org/wiki/COBIT)
+* [TOGAF](https://www2.opengroup.org/ogsys/catalog/g116)
+
+Quality
+* [ISO](http://www.iso.org/iso/home.html) 
+* [ISO 21500:2012, Guidance on Project Management](https://en.wikipedia.org/wiki/ISO_21500)
+
+Project Management- Obvious Software
+* [Comparison of Project Management Software](http://en.wikipedia.org/wiki/Comparison_of_project_management_software) 
+* [Microsoft Project Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Project)
+* [Microsoft Visio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visio)
+* [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
+
+Project Management- Less Obvious Software
+* [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
+* [GitLab](https://about.gitlab.com)
+* [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
+* [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
+* [Slack Keyboard Shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
+* [Hamsterpad](https://hamsterpad.com)
+* [Trello](https://trello.com)
+
+<!--
+https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
+https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
+https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
+-->
+
+Agile Project Management Methodologies
+* [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
+* [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
+* [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
+* [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
+* [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
+* [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
+* [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
+* [Lean IT Wikipedia](http://en.wikipedia.org/wiki/Lean_IT)
+* [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
+* [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
+* [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
+
+* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
+* [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
+* [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
+
+Sprints
+* [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
+* [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
+
+Waterfall Project Management Methodologies
+* [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
+
+Software Project Management
+* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
+
+Software Engineering/Development 
+* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
+* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
+* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+* [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
+
+Programming and Paradigm
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+Modeling
+* [Unified Modeling Language (Series) Wikipedia](http://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
+
+Software Release Life Cycle
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
+Software Prototyping
+* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
+* [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
+
+Software Testing
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
+
+#### Documents and Improvement 
+
+Project Documents
+* [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
+* [Mind Map Wikipedia](http://en.wikipedia.org/wiki/Mind_map)
+* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
+* [Business Case Wikipedia](https://en.wikipedia.org/wiki/Business_case)
+* [Kickoff Meeting Wikipedia](https://en.wikipedia.org/wiki/Kickoff_meeting)
+* [Work Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Work_breakdown_structure)
+* [Gantt Chart Wikipedia](https://en.wikipedia.org/wiki/Gantt_chart)
+* [Schedule (Project Management) Wikipedia](https://en.wikipedia.org/wiki/Schedule_(project_management))
+* [Project Network Wikipedia](https://en.wikipedia.org/wiki/Project_network)
+* [Critical Path Method Wikipedia](https://en.wikipedia.org/wiki/Critical_path_method)
+* [Product Breakdown Structure Wikipedia](https://en.wikipedia.org/wiki/Product_breakdown_structure)
+* [Organizational Structure Wikipedia](https://en.wikipedia.org/wiki/Organizational_structure)
+* [Organizational Chart Wikipedia](https://en.wikipedia.org/wiki/Organizational_chart)
+* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
+* [Change Request Wikipedia](https://en.wikipedia.org/wiki/Change_request)
+* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
+* Objective, Assumption, Constraint
+
+* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
+
+<!--
+## Wikipedia
+
+Agile Practices
+* [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+* [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
+* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
+
+* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
+* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
+* [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
+* [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
+* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
+* [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
+
+* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
+-->
+
+Requirements
+* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
+* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
+* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
+* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
+* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
+* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
+* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
+* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
+* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
+
+Product
+* [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
+* [Product Wikipedia](http://en.wikipedia.org/wiki/Product)  
+* [Product (Business) Wikipedia](http://en.wikipedia.org/wiki/Product_(business))  
+* [Product Management Wikipedia](http://en.wikipedia.org/wiki/Product_management)  
+* [Product Manager Wikipedia](http://en.wikipedia.org/wiki/Product_manager) 
+
+Strategy
+* [Strategy Series Wikipedia](http://en.wikipedia.org/wiki/Strategy) 
+* [Strategic Management Wikipedia](http://en.wikipedia.org/wiki/Strategic_management)  
+* [Strategic Planning Wikipedia](http://en.wikipedia.org/wiki/Strategic_planning) 
+* [Strategic Partnership Wikipedia](https://en.wikipedia.org/wiki/Strategic_partnership)
+
+Value
+* [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
+* [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
+* [Value Engineering Wikipedia](http://en.wikipedia.org/wiki/Value_engineering)
+* [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
+* [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
+
+Supply Chain
+* [Supply Chain Wikipedia](https://en.wikipedia.org/wiki/Supply_chain)
+* [Supply Chain Management Wikipedia](https://en.wikipedia.org/wiki/Supply_chain_management)
+* [Supply Chain Optimization Wikipedia](http://en.wikipedia.org/wiki/Supply_chain_optimization)
+* [Global Supply-Chain Finance Wikipedia](https://en.wikipedia.org/wiki/Global_supply-chain_finance)
+
+Business Process
+* [Business Process Modeling Wikipedia](http://en.wikipedia.org/wiki/Business_Process_Modeling)  
+* [Business Process Reengineering Wikipedia](https://en.wikipedia.org/wiki/Business_process_reengineering)
+
+Flow Chart
+* [Flow Process Chart Wikipedia](https://en.wikipedia.org/wiki/Flow_process_chart)
+* [Flowchart Wikipedia](https://en.wikipedia.org/wiki/Flowchart)
+* [Workflow Wikipedia](https://en.wikipedia.org/wiki/Workflow)
+
+Improvement Schools of Thought
+* [Analytical Quality Control Wikipedia](https://en.wikipedia.org/wiki/Analytical_quality_control)
+* [Continual Improvement Process Wikipedia](https://en.wikipedia.org/wiki/Continual_improvement_process)
+* [Define, Measure, Analyze, Improve and Control Wikipedia](https://en.wikipedia.org/wiki/DMAIC)
+* [DuPont Analysis Wikipedia](https://en.wikipedia.org/wiki/DuPont_analysis)
+* [Capability Maturity Model Integration Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
+* [Learning Organization Wikipedia](https://en.wikipedia.org/wiki/Learning_organization) and [Chris Argyris Wikipedia](https://en.wikipedia.org/wiki/Chris_Argyris)
+* [Plan-Do-Check-Act/Adjust Wikipedia](https://en.wikipedia.org/wiki/PDCA)
+* [Process Mining Wikipedia](https://en.wikipedia.org/wiki/Process_mining)
+* [Six Sigma Wikipedia](https://en.wikipedia.org/wiki/Six_Sigma)
+* [Theory of Constraints Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
+* [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
+* [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
 
 #### Operating Systems
 
@@ -3796,68 +3610,6 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 * [Slate API Docs GitHub](https://github.com/tripit/slate)  
 * [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
 
-#### Programming Language Style Guides
-
-GitHub StyleGuides
-* [GitHub StyleGuides](https://github.com/styleguide) 
-
-Styleguides- Various
-* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
-* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
-* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
-* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
-* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
-* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
-* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
-* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
-* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
-* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
-
-GitHub CSS Styleguide
-* [GitHub CSS Styleguide](http://primercss.io) 
-* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
-
-Google Styleguides
-* [Google Styleguides GitHub](https://github.com/google/styleguide)
-* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
-
-JavaScript Styleguide
-* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
-
-PHP Styleguides
-* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
-* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
-* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
-* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
-* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
-* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
-
-<!--
-PSR-0: Autoloader Standard
-PSR-1: Basic Coding Standard
-PSR-2: Coding Style Guide
-PSR-3: Logger Interface
--->
-
-Ruby Styleguide
-* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
-* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
-* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
-
-Objective C Styleguide
-* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
-* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
-
-Swift Styleguide
-* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
-
 #### Programming
 
 #### Programming Learning Tools
@@ -3953,6 +3705,257 @@ Documentation- W3C
 GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software/software.html)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+
+#### Programming Language Style Guides
+
+GitHub StyleGuides
+* [GitHub StyleGuides](https://github.com/styleguide) 
+
+Styleguides- Various
+* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
+* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
+* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
+* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
+* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
+* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
+* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
+* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
+* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
+
+GitHub CSS Styleguide
+* [GitHub CSS Styleguide](http://primercss.io) 
+* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
+
+Google Styleguides
+* [Google Styleguides GitHub](https://github.com/google/styleguide)
+* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
+
+JavaScript Styleguide
+* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
+PHP Styleguides
+* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
+* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
+* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
+* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
+* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
+* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
+
+<!--
+PSR-0: Autoloader Standard
+PSR-1: Basic Coding Standard
+PSR-2: Coding Style Guide
+PSR-3: Logger Interface
+-->
+
+Ruby Styleguide
+* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
+* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
+
+Objective C Styleguide
+* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
+* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
+
+Swift Styleguide
+* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
+
+#### Front-End Programming
+
+Web General (See also JavaScript) 
+* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
+* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
+* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+
+HTML and CSS Tutorials- General
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+
+HTML and CSS Tutorials- Mozilla
+* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+HTML5 and CSS3 Tutorials- Mozilla
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+<!--
+* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+-->
+
+Bootstrap Tutorials
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+
+<!--
+Learn jQueryMobile
+Learn AppML
+Learn AngularJS
+Learn JSON
+HTML Graphics
+
+Learn Canvas
+Learn SVG
+Learn Icons
+Learn Google Maps
+Learn HTML Games
+Server Side
+
+Learn SQL
+Learn ASP
+Learn ASP.NET
+Web Building
+
+Web Building
+Web Statistics
+XML Tutorials
+
+Learn XML
+Learn XSLT
+Learn AJAX
+-->
+
+HTML
+* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+
+CSS
+* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
+* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+<!--
+http://www.w3schools.com/html/html5_syntax.asp
+http://www.w3schools.com/jsref/obj_window.asp
+http://www.w3schools.com/cssref/css_functions.asp
+http://www.w3schools.com/cssref/css_colors_legal.asp
+http://www.w3schools.com/cssref/css3_browsersupport.asp
+
+http://www.w3schools.com/html/html_css.asp
+-->
+
+<!--
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+-->
+
+Encoding
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
+* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
+URL and IRI
+* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
+<!--
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+
+https://www.w3.org/DOM/
+https://www.w3.org/TR/DOM-Level-3-Core/core.html
+
+https://developer.mozilla.org/en-US/Apps
+https://developer.mozilla.org/en-US/docs/Web/Reference
+https://developer.mozilla.org/en-US/docs/Web/Guide
+https://developer.mozilla.org/en-US/docs/Web/Tutorials
+https://developer.mozilla.org/en-US/docs/Web/Accessibility
+https://developer.mozilla.org/en-US/docs/Web/Security
+
+https://developer.mozilla.org/en-US/Learn
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+Prototype-based Programming
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
+https://developer.mozilla.org/en-US/docs/DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+https://developer.mozilla.org/en-US/docs/Web/API
+https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
+https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
+https://developer.mozilla.org/en-US/docs/Web/Guide/Events
+https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
+https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
+https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
+https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
+
+https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+https://developer.mozilla.org/en-US/docs/Web/MathML
+https://developer.mozilla.org/en-US/docs/Glossary
+
+https://developer.mozilla.org/en-US/docs/Tools
+http://getfirebug.com
+
+http://whatwg.github.io/loader
+
+https://twitter.com/kentcdodds/status/710701170268831744
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
+[W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+https://developer.mozilla.org/en-US/docs/Web/API/Console/table
+https://support.google.com/analytics/answer/1638635?hl=en
+
+http://schema.org/Person
+http://microformats.org
+https://en.wikipedia.org/wiki/HCard
+http://microformats.org/wiki/hcard
+http://microformats.org/code/hcard/creator
+
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+-->
 
 #### Programming Languages, MVCs
 
