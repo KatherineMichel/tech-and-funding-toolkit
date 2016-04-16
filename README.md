@@ -17,22 +17,16 @@ Mental Models
 Table of Content
 -----------------
 
-  * [Chance](#chance)
-
-  * [Company and Product Databases](#company-and-product-databases)
-  * [Open Companies](#open-companies) 
-  * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-
-  * [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
-  * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
-
-  * [Government and International Data](#government-and-international-data)
+* [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
+* [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
+* [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 
 * [Venture Analysis](#venture-analysis)
-  * [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-  * [Surveys, Trends, Stats](#surveys-trends-stats)
-
-* [Lean Startup and Launchpad](#lean-startup-and-launchpad)
+* [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
+* [Company and Product Databases](#company-and-product-databases)
+* [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
+* [Surveys, Trends, Stats](#surveys-trends-stats)
+* [Open Companies](#open-companies) 
 
 * [Design Agencies and Labs](#design-agencies-and-labs)
 * [Project Management](#project-management)
@@ -110,12 +104,14 @@ Table of Content
 * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 * [Internationalization](#internationalization)
 
-* [General Resources](#general-resources)
-  * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
-  * [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
-  * [Philosophies, Milestones](#philosophies-milestones)
-  * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
-  * [Notable Quotes](#notable-quotes)
+* [Philosophies, Milestones](#philosophies-milestones)
+* [Notable Interviews and Presentations](#notable-interviews-and-presentations)
+
+* [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
+* [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
+* [Chance](#chance)
+
+* [Notable Quotes](#notable-quotes)
 
 * [Appendix](#appendix)
 * [Other Enormous Tool Lists](#other-enormous-tool-lists)
@@ -137,404 +133,57 @@ Table of Content
 * [Books and Courses](#books-and-courses)
 * [Analyst Groups](#analyst-groups)
 * [Business and Tech News Sources](#business-and-tech-news-sources)
+* [Government and International Data](#government-and-international-data)
 * [Learning Resources](#learning-resources)
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
 
+#### Software and Mobile are Eating the World, Software is Reorganizing the World
 
-#### Chance
-* [Michael Mauboussin](http://michaelmauboussin.com)
-* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+* [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
+* [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
+* [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
+* [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
 
-Mauboussin, Callahan, Rone, Burns, Bartholdson
-* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
-* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
-* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
-* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
-* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
-* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
-* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
-* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
-* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
-* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
-* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
-* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
-* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
-* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
+#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
 
-Nassim Nicholas Taleb: Antifragile and The Black Swan
-* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
-* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
-* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
-* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
-* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
-* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
-* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
-* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+* [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
+* [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
+* [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+* [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
+* [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+* [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
+* [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
+* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
 
-Nassim Nicholas Taleb's Teachings
-* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
-* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
-* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
-* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
-* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
-* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
-* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
-* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
-* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
+#### Lean Startup and Launchpad
 
-#### Company and Product Databases
+* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+* [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
+* [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries)
+* [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
+* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+* [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
+* [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
+* [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
+* [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+* [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
+* [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
+* [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
+* [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
+* [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
+* [Business Model Fiddle](http://bmfiddle.com)
 
-Database List
-* [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
-* [CB Insights](https://www.cbinsights.com)
-* [CrunchBase](http://www.crunchbase.com)
-* [Datafox](http://www.datafox.co)
-* [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
-* [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
-* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-* [Product Hunt](http://www.producthunt.com) 
-
-Databases and Benchmarking- Freemium
-* [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Jobs](https://angel.co/jobs) 
-* [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
-* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
-* [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
-* [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
-* [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
-* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
-
-Europe and U.K.
-* [AngelList U.K.](https://angel.co/uk)
-* [Tech EU App Database Companies](https://app.tech.eu/companies)
-
-Database APIs
-* [AngelList API](https://angel.co/api)
-* [CrunchBase API](https://developer.crunchbase.com)
-* [Mattermark API](https://mattermark.com/api)  
-* [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
-
-#### Open Companies
-
-<!--
-Searches
-* [GitHub: styleguide](https://github.com/search?utf8=%E2%9C%93&q=styleguide&type=Repositories&ref=searchresults)
-* [GitHub: guide](https://github.com/search?utf8=%E2%9C%93&q=guide&type=Repositories&ref=searchresults)
-* [GitHub: playbook](https://github.com/search?utf8=%E2%9C%93&q=playbook&type=Repositories&ref=searchresults)
-* [GitHub: handbook](https://github.com/search?utf8=%E2%9C%93&q=handbook&type=Repositories&ref=searchresults)
-* [GitHub: code of conduct](https://github.com/search?utf8=%E2%9C%93&q=code+of+conduct&type=Repositories&ref=searchresults)
-* [GitHub: consulting](https://github.com/search?utf8=%E2%9C%93&q=consulting&type=Repositories&ref=searchresults)
-* [GitHub: freelance](https://github.com/search?utf8=%E2%9C%93&q=freelance&type=Repositories&ref=searchresults)
-* [GitHub: contract](https://github.com/search?utf8=%E2%9C%93&q=contract&type=Repositories&ref=searchresults)
-
-https://github.com/search?utf8=%E2%9C%93&q=code+conduct
--->
-
-Buffer
-* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-#### Unicorns, Companies, Industry and Product Classifications, Associations
-
-Unicorns
-* [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
-* [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
-* [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
-* [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
-* [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
-* [TechCrunch Unicorn Leaderboard](http://techcrunch.com/unicorn-leaderboard)
-* [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
-* [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
-* [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-* [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
-
-The Terms Behind the Unicorn Valuations
-* [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-
-Breakout Companies
-* [Breakout List](https://breakoutlist.com)
-
-Companies and Indices
-* [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
-* [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
-* [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
-* [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
-* [Inc. 5000](http://www.inc.com/inc5000)
-* [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
-* [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-* [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
-* [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
-* [London Stock Exchange](http://www.londonstockexchange.com)
-* [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
-* [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
-* [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
-
-Industry and Product Classifications
-* [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
-* [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-* [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-* [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-* [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-* [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
-Income Reports
-* [Income Reports](http://www.incomereports.co)
-
-
-#### Economics, Models, Biases, Metrics
-
-Finance
-* [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
-
-Corporate Finance
-* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
-* [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
-* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
-* [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
-
-Valuation
-* [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
-* [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
-* [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
-* [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
-* [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
-* [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
-* [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
-* [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
-* [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
-* [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
-
-Opolies
-* [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
-
-Excel and Financial Modeling
-* [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
-* [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
-* [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
-* [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
-* [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
-* [Spreadsheet Standards Review Board](http://www.ssrb.org)  
-* [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
-
-Free Market and Capitalism
-* [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
-* [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
-
-Economics
-* [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
-* [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-* [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
-* [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
-* [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
-* [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-* [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
-* [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
-* [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
-* [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
-  
-Economic Models
-* [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
-* [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
-* [Roll's Critique Wikipedia](https://en.wikipedia.org/wiki/Roll%27s_critique)
-* [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
-* [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
-* [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
-* [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
-* [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
-* [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
-* [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
-* [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
-* [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
-* [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
-
-Volatility and Stochastic Calculus
-* [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
-* [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
-* [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
-
-Technical and Fundamental Analysis
-* [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
-* [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
-* [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
-
-Options Models
-* [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
-* [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
-* [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
-* [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
-* [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
-* [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
-
-Financial Market and Instruments
-* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
-* [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
-* [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
-* [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
-
-Rational Decisions 
-* [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
-* [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
- 
-Public Market
-* [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
-* [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
-* [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
-* [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
-* [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
-* [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
-* [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
-* [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
-* [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
-* [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
-
-Demand-Side and Supply Side Economics
-* [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
-* [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
-
-General
-* [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
-* [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
-* [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
-
-#### Warren Buffet, Charlie Munger, Alphabet
-  
-Google and Alphabet
-* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
-* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
-* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
-* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
-
-Berkshire Hathaway
-* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
-* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
-* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
-* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
-* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
-* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
-
-Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
-* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
-
-Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
-* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
-* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
-
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-
-Mental Models
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-
-Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
-
-
-#### Government and International Data
-
-Australian Gov
-* [Australia Government Data Gov GitHub](http://data.gov.au)
-
-U.S. Departments
-* [The White House](http://www.whitehouse.gov) and [The White House Blog](https://www.whitehouse.gov/blog)
-* [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
-* [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
-* [List of Federal Agencies in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States)
-* [Independent Agencies of the United States Government Wikipedia](https://en.wikipedia.org/wiki/Independent_agencies_of_the_United_States_government)
-* [U.S. Census](http://www.census.gov)
-* [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
-* [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
-
-U.S. Open Government, Data
-* [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
-* [U.S. Dot Gov Domains](https://github.com/GSA/data)
-* [U.S. Data](http://www.data.gov) and [U.S. Data Catalog](https://catalog.data.gov)
-* [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
-* [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
-* [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
-* [U.S. Project Open Data](https://project-open-data.cio.gov)
-
-G8 and U.K. Data 
-* [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
-* [U.K. Government Publications](https://www.gov.uk/government/publications)
-
-International Organizations
-* [International Monetary Fund](https://www.imf.org) 
-* [Organisation for Economic Cooperation and Development Wikipedia](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
-* [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
-* [World Bank Wikipedia](https://en.wikipedia.org/wiki/World_Bank) and [World Bank Group Wikipedia](https://en.wikipedia.org/wiki/World_Bank_Group)
-* [Multilateral Investment Guarantee Agency Wikipedia](https://en.wikipedia.org/wiki/Multilateral_Investment_Guarantee_Agency)
-* [World Economic Forum](http://www.weforum.org) and [World Economic Forum Agenda](https://agenda.weforum.org)
-
-International Organizations Reports and Data
-* [OECD Data](https://data.oecd.org)
-* [Our World in Data](http://ourworldindata.org)
-* [United Nations Statistics Division](http://unstats.un.org)
-* [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org)
-* [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
-
-International Organizations Special Reports: Business and Competitiveness
-* [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
-* [International Innovation Index Wikipedia](https://en.wikipedia.org/wiki/International_Innovation_Index)
-* [OECD Innovation](http://www.oecd.org/innovation) and [OECD Technology and Innovation Data](https://data.oecd.org/innovation-and-technology.htm)
-* [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
-* [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
-* [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
-* [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
-* [World Economic Forum Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2015)
-* [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
-* [World Economic Forum Global Gender Gap Report](http://reports.weforum.org/global-gender-gap-report-2015)
-
-International Organizations Special Reports: Development
-* [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
-* [Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
-* [The 2015 Revision of World Population Prospects](http://esa.un.org/unpd/wpp)
-* [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
-* [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
-* [World Bank World Development Indicators](http://wdi.worldbank.org/tables) 
-
-Social Entrepreneurship
-* [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
-* [Gates Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
-* [Gates Notes](http://www.gatesnotes.com)
-* [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
-
-Microcredit/Microfinance
-* [Microcredit Wikipedia](https://en.wikipedia.org/wiki/Microcredit)
-* [Microfinance Wikipedia](https://en.wikipedia.org/wiki/Microfinance)
-
-Happiness
-* [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
-* [World Happiness Report](http://worldhappiness.report) and [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
-
-International Info
-* [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
-* [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
-* [Lists of Countries by Number of Internet Users Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users) 
-* [Lists of Countries by Number of Mobile Phones in Use Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use) 
-* [Lists of Countries by Smartphone Penetration Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) 
-* [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
-* [Currencies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
-* [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
-
+Spinoffs
+* [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
+* [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
+* [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
+* [Lean Stack](http://leanstack.com/the-lean-stack) and [Lean Stack Diagram](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/leancanvas.png)  
+* [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
+* [Minimum Viable Canvas Resources](https://medium.com/minimum-viable-canvas), [Minimum Viable Canvas Intro](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65), [Using the Minimum Viable Canvas](https://medium.com/minimum-viable-canvas/using-the-minimum-viable-canvas-fae7e027cafc), [Minimum Viable Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*PlhNZAMQxiuwPN7TsRV20g.png), and [Minimum Viable Canvas Example](https://d262ilb51hltx0.cloudfront.net/max/800/1*gk40wStd6F-3GkGKO8M_wA.png) 
+* [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
+* [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
+* [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
 
 #### Venture Analysis
 
@@ -590,6 +239,87 @@ Pricing Strategies
 Product Tiers
 * [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
+#### Company and Product Databases
+
+Database List
+* [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
+* [CB Insights](https://www.cbinsights.com)
+* [CrunchBase](http://www.crunchbase.com)
+* [Datafox](http://www.datafox.co)
+* [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
+* [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
+* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
+* [Product Hunt](http://www.producthunt.com) 
+
+Databases and Benchmarking- Freemium
+* [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
+* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Jobs](https://angel.co/jobs) 
+* [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
+* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
+* [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
+* [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
+* [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
+* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
+
+Europe and U.K.
+* [AngelList U.K.](https://angel.co/uk)
+* [Tech EU App Database Companies](https://app.tech.eu/companies)
+
+Database APIs
+* [AngelList API](https://angel.co/api)
+* [CrunchBase API](https://developer.crunchbase.com)
+* [Mattermark API](https://mattermark.com/api)  
+* [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+
+#### Unicorns, Companies, Industry and Product Classifications, Associations
+
+Unicorns
+* [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
+* [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+* [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+* [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+* [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+* [TechCrunch Unicorn Leaderboard](http://techcrunch.com/unicorn-leaderboard)
+* [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+* [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+* [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+* [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+The Terms Behind the Unicorn Valuations
+* [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+
+Breakout Companies
+* [Breakout List](https://breakoutlist.com)
+
+Companies and Indices
+* [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
+* [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
+* [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
+* [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
+* [Inc. 5000](http://www.inc.com/inc5000)
+* [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
+* [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
+* [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
+* [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
+* [London Stock Exchange](http://www.londonstockexchange.com)
+* [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
+* [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
+* [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
+
+Industry and Product Classifications
+* [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
+* [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+* [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+* [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+* [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+* [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+
+Income Reports
+* [Income Reports](http://www.incomereports.co)
+
 #### Surveys, Trends, Stats
 
 Surveys
@@ -634,34 +364,38 @@ Product/Service Directories
 Wayback Machine
 * [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
 
-#### Lean Startup and Launchpad
+#### Open Companies
 
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-* [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
-* [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries)
-* [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
-* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-* [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
-* [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
-* [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
-* [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-* [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
-* [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
-* [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
-* [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
-* [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
-* [Business Model Fiddle](http://bmfiddle.com)
+<!--
+Searches
+* [GitHub: styleguide](https://github.com/search?utf8=%E2%9C%93&q=styleguide&type=Repositories&ref=searchresults)
+* [GitHub: guide](https://github.com/search?utf8=%E2%9C%93&q=guide&type=Repositories&ref=searchresults)
+* [GitHub: playbook](https://github.com/search?utf8=%E2%9C%93&q=playbook&type=Repositories&ref=searchresults)
+* [GitHub: handbook](https://github.com/search?utf8=%E2%9C%93&q=handbook&type=Repositories&ref=searchresults)
+* [GitHub: code of conduct](https://github.com/search?utf8=%E2%9C%93&q=code+of+conduct&type=Repositories&ref=searchresults)
+* [GitHub: consulting](https://github.com/search?utf8=%E2%9C%93&q=consulting&type=Repositories&ref=searchresults)
+* [GitHub: freelance](https://github.com/search?utf8=%E2%9C%93&q=freelance&type=Repositories&ref=searchresults)
+* [GitHub: contract](https://github.com/search?utf8=%E2%9C%93&q=contract&type=Repositories&ref=searchresults)
 
-Spinoffs
-* [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
-* [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
-* [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
-* [Lean Stack](http://leanstack.com/the-lean-stack) and [Lean Stack Diagram](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/leancanvas.png)  
-* [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
-* [Minimum Viable Canvas Resources](https://medium.com/minimum-viable-canvas), [Minimum Viable Canvas Intro](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65), [Using the Minimum Viable Canvas](https://medium.com/minimum-viable-canvas/using-the-minimum-viable-canvas-fae7e027cafc), [Minimum Viable Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*PlhNZAMQxiuwPN7TsRV20g.png), and [Minimum Viable Canvas Example](https://d262ilb51hltx0.cloudfront.net/max/800/1*gk40wStd6F-3GkGKO8M_wA.png) 
-* [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
-* [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
-* [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
+https://github.com/search?utf8=%E2%9C%93&q=code+conduct
+-->
+
+Buffer
+* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
 
 
 
@@ -6157,25 +5891,6 @@ Digital Stats
 * [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
 
 
-#### General Resources
-
-#### Software and Mobile are Eating the World, Software is Reorganizing the World
-
-* [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
-* [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
-* [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
-* [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
-
-#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
-
-* [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
-* [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
-* [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
-* [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-* [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
-* [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
-* [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
-* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
 
 #### Philosophies, Milestones
 
@@ -6242,6 +5957,196 @@ Google
 * [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 * [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 
+#### Economics, Models, Biases, Metrics
+
+Finance
+* [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
+
+Corporate Finance
+* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
+* [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
+* [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
+
+Valuation
+* [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
+* [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
+* [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
+* [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
+* [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
+* [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
+* [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
+* [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
+* [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
+* [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
+
+Opolies
+* [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
+
+Excel and Financial Modeling
+* [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
+* [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
+* [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
+* [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
+* [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+* [Spreadsheet Standards Review Board](http://www.ssrb.org)  
+* [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
+
+Free Market and Capitalism
+* [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
+* [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
+
+Economics
+* [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
+* [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+* [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
+* [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
+* [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
+* [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+* [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
+* [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
+* [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+* [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
+  
+Economic Models
+* [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
+* [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
+* [Roll's Critique Wikipedia](https://en.wikipedia.org/wiki/Roll%27s_critique)
+* [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
+* [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+* [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
+* [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
+* [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
+* [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
+* [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
+* [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
+* [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
+* [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
+
+Volatility and Stochastic Calculus
+* [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
+* [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
+* [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
+
+Technical and Fundamental Analysis
+* [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
+* [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
+* [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
+
+Options Models
+* [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
+* [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
+* [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
+* [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
+* [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+* [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
+
+Financial Market and Instruments
+* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+* [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
+* [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
+* [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
+
+Rational Decisions 
+* [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
+* [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
+ 
+Public Market
+* [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
+* [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
+* [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
+* [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+* [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
+* [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
+* [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
+* [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
+* [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
+* [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
+
+Demand-Side and Supply Side Economics
+* [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
+* [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
+
+General
+* [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
+* [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
+* [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
+
+#### Warren Buffet, Charlie Munger, Alphabet
+  
+Google and Alphabet
+* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
+* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
+* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
+* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
+
+Berkshire Hathaway
+* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
+* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
+* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
+* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
+* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
+* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
+
+Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
+* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
+
+Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
+* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
+* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+
+Mental Models
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+
+Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
+
+#### Chance
+* [Michael Mauboussin](http://michaelmauboussin.com)
+* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+
+Mauboussin, Callahan, Rone, Burns, Bartholdson
+* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
+* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
+* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
+* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
+* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
+* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
+* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
+* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
+* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
+* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
+* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
+* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
+
+Nassim Nicholas Taleb: Antifragile and The Black Swan
+* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
+* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
+* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
+* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
+* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
+* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
+* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+
+Nassim Nicholas Taleb's Teachings
+* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
+* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
+* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
+* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
+* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
+* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
+* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
+* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
+* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
+
 #### Notable Quotes
 
 * [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
@@ -6258,6 +6163,7 @@ Google
 * [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
 * [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 * [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
+
 
 #### Appendix
 
@@ -7524,6 +7430,93 @@ Companies
 * [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 * [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [Great Place to Work](http://www.greatplacetowork.com)
+
+#### Government and International Data
+
+Australian Gov
+* [Australia Government Data Gov GitHub](http://data.gov.au)
+
+U.S. Departments
+* [The White House](http://www.whitehouse.gov) and [The White House Blog](https://www.whitehouse.gov/blog)
+* [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
+* [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
+* [List of Federal Agencies in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States)
+* [Independent Agencies of the United States Government Wikipedia](https://en.wikipedia.org/wiki/Independent_agencies_of_the_United_States_government)
+* [U.S. Census](http://www.census.gov)
+* [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
+* [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
+
+U.S. Open Government, Data
+* [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+* [U.S. Dot Gov Domains](https://github.com/GSA/data)
+* [U.S. Data](http://www.data.gov) and [U.S. Data Catalog](https://catalog.data.gov)
+* [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
+* [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
+* [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
+* [U.S. Project Open Data](https://project-open-data.cio.gov)
+
+G8 and U.K. Data 
+* [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
+* [U.K. Government Publications](https://www.gov.uk/government/publications)
+
+International Organizations
+* [International Monetary Fund](https://www.imf.org) 
+* [Organisation for Economic Cooperation and Development Wikipedia](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
+* [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
+* [World Bank Wikipedia](https://en.wikipedia.org/wiki/World_Bank) and [World Bank Group Wikipedia](https://en.wikipedia.org/wiki/World_Bank_Group)
+* [Multilateral Investment Guarantee Agency Wikipedia](https://en.wikipedia.org/wiki/Multilateral_Investment_Guarantee_Agency)
+* [World Economic Forum](http://www.weforum.org) and [World Economic Forum Agenda](https://agenda.weforum.org)
+
+International Organizations Reports and Data
+* [OECD Data](https://data.oecd.org)
+* [Our World in Data](http://ourworldindata.org)
+* [United Nations Statistics Division](http://unstats.un.org)
+* [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org)
+* [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
+
+International Organizations Special Reports: Business and Competitiveness
+* [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
+* [International Innovation Index Wikipedia](https://en.wikipedia.org/wiki/International_Innovation_Index)
+* [OECD Innovation](http://www.oecd.org/innovation) and [OECD Technology and Innovation Data](https://data.oecd.org/innovation-and-technology.htm)
+* [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
+* [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
+* [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
+* [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
+* [World Economic Forum Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2015)
+* [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
+* [World Economic Forum Global Gender Gap Report](http://reports.weforum.org/global-gender-gap-report-2015)
+
+International Organizations Special Reports: Development
+* [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
+* [Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
+* [The 2015 Revision of World Population Prospects](http://esa.un.org/unpd/wpp)
+* [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
+* [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
+* [World Bank World Development Indicators](http://wdi.worldbank.org/tables) 
+
+Social Entrepreneurship
+* [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
+* [Gates Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
+* [Gates Notes](http://www.gatesnotes.com)
+* [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
+
+Microcredit/Microfinance
+* [Microcredit Wikipedia](https://en.wikipedia.org/wiki/Microcredit)
+* [Microfinance Wikipedia](https://en.wikipedia.org/wiki/Microfinance)
+
+Happiness
+* [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
+* [World Happiness Report](http://worldhappiness.report) and [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
+
+International Info
+* [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
+* [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
+* [Lists of Countries by Number of Internet Users Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users) 
+* [Lists of Countries by Number of Mobile Phones in Use Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use) 
+* [Lists of Countries by Smartphone Penetration Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) 
+* [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
+* [Currencies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
+* [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
 #### Learning Resources
 
