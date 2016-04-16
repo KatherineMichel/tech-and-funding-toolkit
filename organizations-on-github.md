@@ -59,13 +59,13 @@ U.S. Government
 * [U.S.A. Gov](https://github.com/usagov)
 * [Open Gov](https://github.com/opengov)  
 
-U.S. Government- agencies
+U.S. Government- Agencies
 * [Consumer Financial Protection Bureau](https://github.com/cfpb)
 * [Department of Labor](https://github.com/USDepartmentofLabor) 
 * [Department of Veterans Affairs](https://github.com/department-of-veterans-affairs)
 * [Food and Drug Administration (FDA)](https://github.com/FDA) 
  
-U.S. Government- digital agency
+U.S. Government- Digital Agency
 * [18F](https://github.com/18F)  
 * [Code for America](https://github.com/codeforamerica) 
 
@@ -76,7 +76,7 @@ U.K. Government
 Australian Government 
 * [Australia Digital Transformation Office](https://github.com/AusDTO)
 
-Not-for-profit
+Not-for-Profit
 * [Be My Eyes](https://github.com/bemyeyes)
 * [Berkman Center for Internet and Society](https://github.com/berkmancenter)
 * [CKAN](https://github.com/CKAN) 
