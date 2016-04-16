@@ -99,6 +99,7 @@ Table of Content
   * [Programming Languages, MVCs](#programming-languages-mvcs)
 * [JavaScript](#javascript)
   * [JavaScript Ecosystem](#javascript-ecosystem)
+  * [JavaScript Framework](#javascript-framework)
   * [JavaScript Tools](#javascript-tools)
 * [Ruby and Jekyll](#ruby-and-jekyll)
 * [PHP](#php)
@@ -4130,26 +4131,15 @@ jQuery Tutorials
 
 #### JavaScript Ecosystem
 
-DOM (Document Object Model)
-* JavaScript, async, AJAX
+DOM (Document Object Model) (JavaScript, async, AJAX)
+Frameworks (React, Angular, Ember, Backbone, jQuery, Underscore, Lodash)
+Types of JavaScript (ES5, ES6, ES2015, CoffeeScript, TypeScript, ClojureScript, Babel, transpiling, compiling, MDN reference)
+Use other people’s code (AMD, commonJS modules, ES6 modules, npm, Github)
+Node.js (Node.js, npm, nvm)
+Build Tools (grunt, gulp, bower, browserify, webpack, hot reloading, sourcemap)
+Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
-Frameworks
-* React, Angular, Ember, Backbone, jQuery, Underscore, Lodash
-
-Types of JavaScript
-* ES5, ES6, ES2015, CoffeeScript, TypeScript, ClojureScript, Babel, transpiling, compiling, MDN reference
-
-Use other people’s code
-* AMD, commonJS modules, ES6 modules, npm, Github
-
-Node.js
-* Node.js, npm, nvm
-
-Build Tools
-* grunt, gulp, bower, browserify, webpack, hot reloading, sourcemap
-
-Testing
-* Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs
+#### JavaScript Frameworks
 
 #### JavaScript Tools
 
@@ -4160,6 +4150,8 @@ Facebook- React (JavaScript)
 * [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
 
 <!--
+React- Gulp, Webpack, Karma
+
 https://medium.com/@preethikasireddy
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
@@ -4187,10 +4179,6 @@ Facebook- React Native (React Stack)
 Ionic Framework (React Stack)
 * [Ionic](http://ionicframework.com)
 
-Webpack (React Stack)
-* [Webpack GitHub](https://github.com/webpack/webpack)
-* [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
-
 Babel (React Stack)
 * [Babel GitHub](https://github.com/babel/babel)
 
@@ -4209,11 +4197,10 @@ Flux (React Stack)
 Redux (React Stack)
 * [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
 
-Karma
-* [Karma](https://karma-runner.github.io)
-
-Gulp (React Stack)
+Build Tools (grunt, gulp, bower, browserify, webpack)
 * [Gulp GitHub](https://github.com/gulpjs/gulp) 
+* [Webpack GitHub](https://github.com/webpack/webpack)
+* [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 
 Other React Stack Helpers
 * Polymer
@@ -4317,6 +4304,7 @@ Other JavaScript Helpers
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jasmine GitHub](https://github.com/pivotal/jasmine)  
+* [Karma](https://karma-runner.github.io)
 * [SeleniumHQ](http://www.seleniumhq.org)  
 * [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
 * [PhantomJS](http://phantomjs.org)  
