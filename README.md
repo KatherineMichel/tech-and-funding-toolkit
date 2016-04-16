@@ -86,17 +86,10 @@ Table of Content
 * [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 * [Data Science](#data-science)
 
-* [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
-* [Metrics](#metrics)
-
-* [Launch Strategies](#launch-strategies)
-* [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
-* [Internationalization](#internationalization)
 
 * [Philosophies, Milestones](#philosophies-milestones)
 * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
 
-* [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
 * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
 * [Chance](#chance)
 
@@ -105,12 +98,18 @@ Table of Content
 * [Appendix](#appendix)
 * [Other Enormous Tool Lists](#other-enormous-tool-lists)
 * [Popular Tools](#popular-tools)
-
+* [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
 * [Venture](#venture)
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
   * [Regulation, Business Entity](#regulation-business-entity)
   * [Documents and Advice](#documents-and-advice)
+  * [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
+* [Launch](#launch)
+  * [Metrics](#metrics)
+  * [Launch Strategies](#launch-strategies)
+  * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
+  * [Internationalization](#internationalization)
 * [People](#people)
   * [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   * [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
@@ -5721,149 +5720,6 @@ General Terminology
 
 
 
-#### Notable Proposals and Pitch Decks
-
-* [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
-
-Pitch Deck Search
-* [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
-* [Pitch Envy](http://www.pitchenvy.com)
-* [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
-
-Notable Proposals and Pitch Decks
-* [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
-* [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
-* [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
-* [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
-* [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
-* [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
-* [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
-* [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
-* [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
-* [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
-* [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
-* [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
-* [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
-* [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
-* [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
-* [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
-* [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
-* [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
-* [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
-* [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
-* [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
-* [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
-* [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
-* [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
-
-Templates
-* [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
-* [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
-* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
-* [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
-* [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
-* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
-* [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
-* [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
-
-The Prince's Trust
-* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
-* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
-* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
-* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
-
-#### Launch Strategies
-
-Launch Guides: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-General
-* [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
-
-Epic
-* [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
-
-Tools
-* [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
-* [Amazon Example Press Release](http://aws.amazon.com/new) 
-* [Sandwich Video](http://sandwichvideo.com)
-
-#### Metrics
-
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-Bill Gurley on Conversion and LTV
-* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
-* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
-* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
-* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
-
-Objectives and key Results (OKRs)
-* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
-* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
-* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-
-KPIs
-* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
-
-Pirate Metrics
-* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-#### Growth, Marketing, and Content Resources
-
-Advertising and Marketing
-* [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
-* [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
-* [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
-
-Distribution, Digital Distribution and User-Generated Content
-* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
-
-Distribution, Growth, Sales Hacking
-* [Distribution Hacks](http://distributionhacks.com) 
-* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-* [Saleshacker](http://www.saleshacker.com)
-
-Marketing and Search Engine Land
-* [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-* [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
-
-Hiten Shah and Neil Patel
-* [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
-* [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
-* [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
-* [Quicksprout](http://www.quicksprout.com) 
-
-Popular Tools
-* [Buffer](https://bufferapp.com)
-* [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
-* [Detour Blog](http://blog.detour.com)
-* [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-* [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-* [Intercom Blog](http://blog.intercom.io)
-* [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-* [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
-* [URX Blog](http://blog.urx.com/urx-blog) 
-
-Digital Novel
-* [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
-* [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
-* [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
-
-Digital Stats
-* [eMarketer](http://www.emarketer.com)
-
-#### Internationalization
-
-* [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
-
 
 
 #### Philosophies, Milestones
@@ -5930,121 +5786,6 @@ Google
 * [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
 * [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 * [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
-
-#### Economics, Models, Biases, Metrics
-
-Finance
-* [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
-
-Corporate Finance
-* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
-* [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
-* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
-* [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
-
-Valuation
-* [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
-* [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
-* [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
-* [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
-* [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
-* [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
-* [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
-* [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
-* [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
-* [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
-
-Opolies
-* [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
-
-Excel and Financial Modeling
-* [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
-* [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
-* [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
-* [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
-* [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
-* [Spreadsheet Standards Review Board](http://www.ssrb.org)  
-* [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
-
-Free Market and Capitalism
-* [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
-* [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
-
-Economics
-* [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
-* [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-* [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
-* [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
-* [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
-* [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-* [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
-* [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
-* [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
-* [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
-  
-Economic Models
-* [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
-* [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
-* [Roll's Critique Wikipedia](https://en.wikipedia.org/wiki/Roll%27s_critique)
-* [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
-* [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
-* [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
-* [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
-* [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
-* [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
-* [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
-* [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
-* [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
-* [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
-
-Volatility and Stochastic Calculus
-* [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
-* [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
-* [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
-
-Technical and Fundamental Analysis
-* [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
-* [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
-* [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
-
-Options Models
-* [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
-* [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
-* [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
-* [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
-* [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
-* [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
-
-Financial Market and Instruments
-* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
-* [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
-* [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
-* [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
-
-Rational Decisions 
-* [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
-* [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
- 
-Public Market
-* [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
-* [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
-* [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
-* [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
-* [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
-* [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
-* [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
-* [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
-* [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
-* [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
-
-Demand-Side and Supply Side Economics
-* [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
-* [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
-
-General
-* [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
-* [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
-* [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 
 #### Warren Buffet, Charlie Munger, Alphabet
   
@@ -6356,7 +6097,122 @@ Admin, Hiring, Payroll
 * [Teespring](http://teespring.com)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
+
+#### Economics, Models, Biases, Metrics
+
+Finance
+* [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
+
+Corporate Finance
+* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
+* [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
+* [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
+
+Valuation
+* [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
+* [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
+* [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
+* [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
+* [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
+* [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
+* [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
+* [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
+* [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
+* [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
+
+Opolies
+* [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
+
+Excel and Financial Modeling
+* [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
+* [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
+* [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
+* [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
+* [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+* [Spreadsheet Standards Review Board](http://www.ssrb.org)  
+* [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
+
+Free Market and Capitalism
+* [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
+* [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
+
+Economics
+* [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
+* [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+* [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
+* [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
+* [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
+* [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+* [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
+* [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
+* [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+* [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
+  
+Economic Models
+* [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
+* [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
+* [Roll's Critique Wikipedia](https://en.wikipedia.org/wiki/Roll%27s_critique)
+* [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
+* [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+* [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
+* [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
+* [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
+* [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
+* [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
+* [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
+* [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
+* [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
+
+Volatility and Stochastic Calculus
+* [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
+* [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
+* [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
+
+Technical and Fundamental Analysis
+* [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
+* [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
+* [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
+
+Options Models
+* [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
+* [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
+* [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
+* [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
+* [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+* [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
+
+Financial Market and Instruments
+* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+* [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
+* [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
+* [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
+
+Rational Decisions 
+* [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
+* [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
  
+Public Market
+* [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
+* [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
+* [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
+* [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+* [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
+* [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
+* [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
+* [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
+* [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
+* [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
+
+Demand-Side and Supply Side Economics
+* [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
+* [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
+
+General
+* [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
+* [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
+* [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
+
 #### Venture
 
 #### VC Theory
@@ -6917,6 +6773,151 @@ Leverage
 Leveraged Buyout Firms
 * [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
 * [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
+
+#### Notable Proposals and Pitch Decks
+
+* [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
+
+Pitch Deck Search
+* [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
+* [Pitch Envy](http://www.pitchenvy.com)
+* [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
+
+Notable Proposals and Pitch Decks
+* [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
+* [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
+* [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
+* [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
+* [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
+* [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
+* [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
+* [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
+* [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
+* [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
+* [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
+* [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
+* [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
+* [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
+* [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
+* [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
+* [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
+* [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
+* [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
+* [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
+* [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
+* [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
+* [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+* [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
+
+Templates
+* [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
+* [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
+* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
+* [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
+* [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
+* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+* [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
+* [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
+
+The Prince's Trust
+* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
+* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
+* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
+* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
+
+#### Launch
+
+#### Launch Strategies
+
+Launch Guides: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+General
+* [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
+
+Epic
+* [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
+
+Tools
+* [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
+* [Amazon Example Press Release](http://aws.amazon.com/new) 
+* [Sandwich Video](http://sandwichvideo.com)
+
+#### Metrics
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+Bill Gurley on Conversion and LTV
+* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
+* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
+* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+
+Objectives and key Results (OKRs)
+* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
+* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+KPIs
+* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+
+Pirate Metrics
+* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
+#### Growth, Marketing, and Content Resources
+
+Advertising and Marketing
+* [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
+* [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
+* [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
+
+Distribution, Digital Distribution and User-Generated Content
+* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
+Distribution, Growth, Sales Hacking
+* [Distribution Hacks](http://distributionhacks.com) 
+* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+* [Saleshacker](http://www.saleshacker.com)
+
+Marketing and Search Engine Land
+* [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+* [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
+
+Hiten Shah and Neil Patel
+* [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+* [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+* [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
+* [Quicksprout](http://www.quicksprout.com) 
+
+Popular Tools
+* [Buffer](https://bufferapp.com)
+* [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
+* [Detour Blog](http://blog.detour.com)
+* [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+* [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+* [Intercom Blog](http://blog.intercom.io)
+* [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
+* [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
+* [URX Blog](http://blog.urx.com/urx-blog) 
+
+Digital Novel
+* [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
+* [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+* [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
+
+Digital Stats
+* [eMarketer](http://www.emarketer.com)
+
+#### Internationalization
+
+* [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
 
 #### People
 
