@@ -40,11 +40,12 @@ Table of Content
 
 * [Design](#design)
   * [Design Thinking](#design-thinking)
+  * [Site and App Research](#site-and-app-research)
   * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
 
 * [Social Media and Social Graph](#social-media-and-social-graph) 
 
-* [Engineering Blogs and Designer, Developer Conferences](#engineering-blogs-and-designer-developer-conferences)
+* [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
 
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
@@ -332,38 +333,6 @@ Google Insights and Trends
 * [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
 * [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
-Apple and Google Statistics
-* [Apple Store Charts](https://www.apple.com/itunes/charts)
-* [Google Play Top Apps](https://play.google.com/store/apps/top)  
-
-App and Website Statistics- General
-* [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
-* [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
-* [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-* [Gallup](http://www.gallup.com/home.aspx)
-* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
-* [ComScore](http://www.comscore.com/Insights/Market-Rankings)
-
-Mobile and Browser
-* [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
-* [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
-* [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
-* [Apple Store](http://store.apple.com/us)
-* [Chrome Web Store](https://chrome.google.com/webstore)
-* [Google Play](https://play.google.com)
-* [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
-* [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
-* [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
-* [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
-* [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-Wayback Machine
-* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
-
 #### Open Companies
 
 <!--
@@ -397,6 +366,19 @@ More
 * [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
 * [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
 
+
+StackShare
+* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
+
+DevCenter
+* [DevCenter Website](DevCenter.me)  
+
+Guides for Development
+* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Stack Overflow Developer Survey
+* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
+* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 
 
 #### Design Agencies and Labs
@@ -776,6 +758,57 @@ KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
+#### Site and App Research
+
+Apple and Google Statistics
+* [Apple Store Charts](https://www.apple.com/itunes/charts)
+* [Google Play Top Apps](https://play.google.com/store/apps/top)  
+
+App and Website Statistics- General
+* [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+* [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+* [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+* [Gallup](http://www.gallup.com/home.aspx)
+* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
+* [ComScore](http://www.comscore.com/Insights/Market-Rankings)
+
+Mobile and Browser
+* [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
+* [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
+* [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
+* [Apple Store](http://store.apple.com/us)
+* [Chrome Web Store](https://chrome.google.com/webstore)
+* [Google Play](https://play.google.com)
+* [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
+* [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
+* [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+* [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
+* [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+Wayback Machine
+* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
+
+Built With (Exluding Django)
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+* [Built With](http://builtwith.com)  
+* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+* [Built with Bootstrap](http://expo.getbootstrap.com)  
+* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Squarespace (Website Examples)](http://www.squarespace.com) 
+
+Code Search
+* [Search Code](https://searchcode.com)  
+* [Nerdy Data](http://nerdydata.com)  
+
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+
 #### Facebook and Google Design and Development Approaches
 
 Facebook
@@ -926,7 +959,7 @@ Cookies
 * [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
 * [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
 
-#### Engineering Blogs and Designer, Developer Conferences
+#### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
@@ -968,40 +1001,6 @@ IBM Design Language
 
 Watson Design Guide
 * [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
-
-
-
-StackShare
-* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
-
-DevCenter
-* [DevCenter Website](DevCenter.me)  
-
-Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Stack Overflow Developer Survey
-* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
-* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-
-Built With (Exluding Django)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-* [Built With](http://builtwith.com)  
-* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-* [Built with Bootstrap](http://expo.getbootstrap.com)  
-* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Squarespace (Website Examples)](http://www.squarespace.com) 
-
-Code Search
-* [Search Code](https://searchcode.com)  
-* [Nerdy Data](http://nerdydata.com)  
-
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
-
-
 
 #### Operating Systems
 
