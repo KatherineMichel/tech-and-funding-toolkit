@@ -299,6 +299,7 @@ Table of Content
 
 Awards
 * [Nobel Prizes](http://www.nobelprize.org/nobel_prizes)
+* [Pulitzer Prizes](http://www.pulitzer.org)
 * [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm)
 
