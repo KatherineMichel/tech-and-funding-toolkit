@@ -79,6 +79,7 @@ Table of Content
   * [Apple](#apple)
 * [Development Environment and Programming](#development-environment-and-programming)
   * [Computer Basics](#computer-basics)
+  * [OS, Shell, Browser](#os-shell-browser)
   * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
   * [Git and Markdown](#git-and-markdown)
@@ -93,7 +94,7 @@ Table of Content
 
   * [Front-End Development](#front-end-development) 
 
-  * [Programming Languages, MVCs](#programming-languages-mvcs)
+  * [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
 * [JavaScript](#javascript)
   * [JavaScript Ecosystem](#javascript-ecosystem)
   * [JavaScript Framework](#javascript-framework)
@@ -529,13 +530,8 @@ Equity
 
 Startup Studios
 * [Betaworks](https://betaworks.com)
-* [Expa](http://expa.com) 
+* [Expa](http://expa.com) , [Expa Labs](http://expa.com/labs)
 * [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
-
-<!--
-http://expa.com/news/100m_labs/
-http://expa.com/labs
--->
 
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
@@ -670,6 +666,7 @@ Database APIs
 
 #### Open Companies
 
+<!--
 Searches
 * [GitHub: styleguide](https://github.com/search?utf8=%E2%9C%93&q=styleguide&type=Repositories&ref=searchresults)
 * [GitHub: guide](https://github.com/search?utf8=%E2%9C%93&q=guide&type=Repositories&ref=searchresults)
@@ -680,7 +677,6 @@ Searches
 * [GitHub: freelance](https://github.com/search?utf8=%E2%9C%93&q=freelance&type=Repositories&ref=searchresults)
 * [GitHub: contract](https://github.com/search?utf8=%E2%9C%93&q=contract&type=Repositories&ref=searchresults)
 
-<!--
 https://github.com/search?utf8=%E2%9C%93&q=code+conduct
 -->
 
@@ -868,13 +864,9 @@ Central Banks/Reserves
 * [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
 * [Federal Reserve Bank Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_Bank) and [Federal Reserve System Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_System)
 * [Kansas City Fed](https://www.kansascityfed.org)
-* [San Franscisco Federal Research Bank](http://www.frbsf.org) 
+* [San Franscisco Federal Reserve Bank](http://www.frbsf.org) 
 * [St. Louis Fed Research](https://research.stlouisfed.org) and [Archive](https://fraser.stlouisfed.org)
-
-<!--
-https://research.stlouisfed.org/fred2/
-https://research.stlouisfed.org/datatools.html
--->
+* [St. Louis Fed Fred](https://research.stlouisfed.org/fred2) and [St. Louis Fed Data Tools](https://research.stlouisfed.org/datatools.html)
 
 Accounting Types
 * [Cost Accounting Wikipedia](https://en.wikipedia.org/wiki/Cost_accounting)
@@ -2294,11 +2286,7 @@ Google Developers
 * [Google Chrome DevTools](https://developer.chrome.com/devtools), [Google Chrome DevTools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)
 * [Google Chrome Home](https://developers.google.com/chrome)
 * [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
-* [Google Canary Chrome](https://www.google.com/intl/en/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-<!--
-https://www.google.com/chrome/browser/canary.html
--->
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
 Google Analytics
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
@@ -2459,31 +2447,7 @@ Watson Design Guide
 
 
 
-#### Testing and Performance
 
-* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-* [AWS Device Farm](https://aws.amazon.com/device-farm)
-* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-* [Google App Invites](https://developers.google.com/app-invites)
-* [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
-* [Google Pagespeed](https://developers.google.com/speed/pagespeed)
-* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-<!--
-https://www.testflightapp.com/
--->
-
-W3 Validators
-* [W3C HTML Validator](https://validator.w3.org/nu)
-* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-* [W3C Mobile Validator](http://validator.w3.org/mobile)
-
-Accessibility
-* [WebAIM](http://webaim.org)
-* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
 
 #### Operating Systems
 
@@ -2753,6 +2717,75 @@ Port
 * [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
 * [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
 
+HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+32 Bit vs. 64 Bit
+* [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
+
+<!--
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+-->
+
+<!--
+Encoding
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
+* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
+URL and IRI
+* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+-->
+
+Malware and Encryption
+* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
+* [Malware Museum](https://archive.org/details/malwaremuseum)
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+Naming Conventions
+* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
+* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
+* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
+
+Maintenance and Testing
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Miscellaneous Vocab
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
+* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
+* [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
+
+#### OS, Shell, Browser
+
 Operating Systems
 * [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
 * [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
@@ -2928,44 +2961,6 @@ https://www.w3.org/DOM/#what
 https://www.w3.org/TR/dom
 https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
 -->
-
-HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-32 Bit vs. 64 Bit
-* [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
-
-Malware and Encryption
-* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
-* [Malware Museum](https://archive.org/details/malwaremuseum)
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-Naming Conventions
-* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
-* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
-
-Maintenance and Testing
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Miscellaneous Vocab
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
-* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
-* [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
 #### More Command Line and Shell
 
@@ -3671,6 +3666,11 @@ Miscellaneous
 * [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
+<!--
+http://www.cupcakeipsum.com/
+http://loremdimsum.com/
+-->
+
 #### Front-End Development
 
 Web General (See also JavaScript) 
@@ -3782,38 +3782,6 @@ Kickstarters
 * [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
 * [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
 
-
-<!--
-Char Sets
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
-* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
--->
-
-Encoding
-* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
-* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
-* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
-* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
-
-URL and IRI
-* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
-* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
-
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
-
 <!--
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
@@ -3881,7 +3849,37 @@ http://microformats.org/code/hcard/creator
 https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
 -->
 
-#### Programming Languages, MVCs
+#### Testing and Performance
+
+* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
+* [AWS Device Farm](https://aws.amazon.com/device-farm)
+* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+* [Google App Invites](https://developers.google.com/app-invites)
+* [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
+* [Google Pagespeed](https://developers.google.com/speed/pagespeed)
+* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+<!--
+https://www.testflightapp.com/
+-->
+
+W3 Validators
+* [W3C HTML Validator](https://validator.w3.org/nu)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Mobile Validator](http://validator.w3.org/mobile)
+
+Accessibility
+* [WebAIM](http://webaim.org)
+* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
+#### Back-End Programming Languages, MVCs
 
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
