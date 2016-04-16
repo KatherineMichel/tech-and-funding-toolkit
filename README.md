@@ -17,24 +17,19 @@ Table of Content
 * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 * [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 * [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-
 * [Venture Analysis](#venture-analysis)
 * [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 * [Company and Product Databases](#company-and-product-databases)
 * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-
 * [Open Companies](#open-companies) 
-
 * [Design Agencies and Labs](#design-agencies-and-labs)
 * [Project Management](#project-management)
   * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
   * [Documents and Improvement](#documents-and-improvement)
-
 * [Research and Design Sprints](#research-and-design-sprints)
   * [Basics](#basics)
   * [Government Digital](#government-digital)
   * [Agile Sprints](#agile-sprints)
-
 * [Design](#design)
   * [Design Thinking](#design-thinking)
   * [Surveys, Trends, Stats](#surveys-trends-stats)
@@ -42,7 +37,6 @@ Table of Content
   * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
   * [Social Media and Social Graph](#social-media-and-social-graph) 
   * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
-
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
@@ -59,9 +53,7 @@ Table of Content
 * [Programming](#programming)
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Language Style Guides](#programming-language-style-guides) 
-
-* [Pretotyping and Prototyping](#pretotyping-and-prototyping)
-
+  * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
   * [Front-End Development](#front-end-development) 
   * [Testing and Performance](#testing-and-performance)
   * [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
