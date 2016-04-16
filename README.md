@@ -43,8 +43,6 @@ Table of Content
   * [Learning Resources](#learning-resources)
   * [Events, Talks, People](#events-talks-people)
   * [Books and Courses](#books-and-courses)
-  * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
-  * [STEM and STEAM](#stem-and-steam)
 
 * [Venture Analysis](#venture-analysis)
   * [Surveys, Trends, Stats](#surveys-trends-stats)
@@ -54,8 +52,7 @@ Table of Content
 
 * [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 
-* [Design Agency Playbooks](#design-agency-playbooks)
-* [Labs](#labs)
+* [Design Agencies and Labs](#design-agencies-and-labs)
 * [Project Management](#project-management)
   * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
   * [Documents and Improvement](#documents-and-improvement)
@@ -130,7 +127,9 @@ Table of Content
   * [Launch Strategies](#launch-strategies)
   * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
   * [Internationalization](#internationalization)
+
 * [Popular Tools](#popular-tools)
+
 * [General Resources](#general-resources)
   * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
   * [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
@@ -140,6 +139,7 @@ Table of Content
 
 * [Appendix](#appendix)
   * [Other Enormous Tool Lists](#other-enormous-tool-lists)
+  * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
   * [Vocabulary](#vocabulary)
 
 #### People
@@ -1629,6 +1629,10 @@ Courses
 MOOCs
 * [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance), [Overview](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Overview.pdf), [The Language of Early-Stage Finance](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_The%20Language%20of%20Early-Stage%20Finance.pdf), [Why Start With A Business Plan?](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Why%20Start%20With%20a%20Business%20Plan.pdf), [A “Good” Plan and What VC’s Look For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_A%20Good%20Plan%20and%20What%20VC%27s%20Look%20For.pdf), [Financial Statements for Investors](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Financial%20Statements%20for%20Investors.pdf), [Balance Sheets](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Balance%20Sheets.pdf), [What an Income Statement Presents](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20an%20Income%20Statement%20Presents.pdf), [Statement of Cash Flow](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Statement%20of%20Cash%20Flow.pdf), [Corporate Structure](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Corporate%20Structure.pdf), and [What Investors Are Looking For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20Investors%20Are%20Looking%20For.pdf)
 
+STEM and STEAM
+* [STEM to STEAM](http://stemtosteam.org)
+* [STEAM Wikipedia](https://en.wikipedia.org/wiki/STEAM_fields) and [STEAM with Us](http://steamwith.us)
+
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
 * [Paradigm: Managing Unconscious Bias](https://app.box.com/s/bpk3v4umfbj8dkakepwvqpqt79y87tyt)
@@ -1642,90 +1646,6 @@ The Happiness Project
 Public Speaking
 * [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
 * [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
-
-#### Journalism Handbooks and Grammatical Style Guides
-
-Journalism Handbooks
-* [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
-* [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
-* [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
-
-Journalism Style Guides 
-* [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
-* [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
-* [AP Style Guide](http://www.apstylebook.com) 
-* [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
-* [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
-* [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
-* [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
-* [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
-* [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
-
-BBC
-* [BBC Global Experience Language](http://www.bbc.co.uk/gel)
-
-<!--
-https://github.com/bbc/gel-test
-https://github.com/bbc/gel-standards
-https://github.com/BBC-News/bbc-news.github.io
-https://github.com/BBC-News/pr-templates
-
-http://www.bbc.co.uk/news/resources/idt-bbb9e158-4a1b-43c7-8b3b-9651938d4d6a
-http://www.bbc.co.uk/guidelines/futuremedia
-http://www.bbc.co.uk/guidelines/futuremedia/accessibility/index.shtml
-http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml
-http://www.bbc.co.uk/guidelines/futuremedia/desed/searchmetadata.shtml (See also 'References')
-http://www.bbc.co.uk/editorialguidelines
-
-http://bbc.github.io/idstyleguide
-https://github.com/bbc/idstyleguide
-https://github.com/bbc/timelines-design-sprint-2-prototypes/tree/gh-pages
-https://github.com/bbc/BBC.github.io
-https://github.com/bbc/gel-labs-styleguide-js
-http://static.bbci.co.uk/gel/0.5.3/downloads/GEL_web_styleguide.pdf
-http://static.bbci.co.uk/gel/0.5.3/downloads/GEL_web_toolbar_guide.pdf
-http://www.bbc.co.uk/gel/accessibility/accessibility-principles/test
-http://www.bbc.co.uk/gel/guidelines/grid (new)
-http://www.bbc.co.uk/guidelines
-http://www.bbc.co.uk/guidelines/futuremedia
-http://www.bbc.co.uk/guidelines/futuremedia/accessibility
-http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html
-http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml
-http://www.bbc.co.uk/iwonder
-https://github.com/bbc/kandl-style-guide
-
-http://www.bbc.co.uk/accessibility
-
-http://bootstrap.bbcnewslabs.co.uk
-https://github.com/BBC-News-Labs/bbcnewslabs-bootstrap
-https://github.com/BBC-News-Labs/bbcnewslabs-internal-bootstrap
-https://github.com/iaincollins/themestrap
-http://code.divshot.com/themestrap
-
-https://next.ft.com/__styleguide
-https://next.ft.com/__styleguide/accessibility
-https://github.com/Financial-Times/next-opt-in-out
-http://www.w3.org/TR/WCAG20
-
-http://styleguide.ft.com
-https://github.com/Financial-Times/ui-style-guide
-http://financial-times.github.io/ui-style-guide
-
-http://labs.ft.com
-https://developer.ft.com
-http://origami.ft.com/docs/developer-guide
-http://origami.ft.com/docs/developer-guide/using-modules
-http://origami.ft.com/docs/developer-guide/general-best-practices
-http://origami.ft.com/docs/developer-guide/build-service/#building-a-page
-http://origami.ft.com/docs/developer-guide/building-modules
-http://origami.ft.com/docs/3rd-party-a-list
-http://origami.ft.com/docs/syntax
--->
-
-#### STEM and STEAM
-
-* [STEM to STEAM](http://stemtosteam.org)
-* [STEAM Wikipedia](https://en.wikipedia.org/wiki/STEAM_fields) and [STEAM with Us](http://steamwith.us)
 
 #### Venture Analysis
 
@@ -1930,19 +1850,9 @@ Spinoffs
 * [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 * [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
 
-#### Design Agency Playbooks
 
-Salesforce Lightning Design System
-* [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
 
-HubSpot
-* [HubSpot](http://github.hubspot.com) and [HubSpot GitHub](https://github.com/HubSpot)
-
-IBM Design Language
-* [IBM Design Language](http://www.ibm.com/design/language)
-
-Watson Design Guide
-* [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
+#### Design Agencies and Labs
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 * [The Figure 53 Company Handbook](http://figure53.com/handbook)
@@ -1952,8 +1862,6 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
 * [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-
-#### Labs
 
 Labs, Kitchens, Garages
 * [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
@@ -2535,6 +2443,20 @@ Designer/Developer Conferences
 * [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
 * [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
 * [Twitter Flock](http://flock.fabric.io) 
+
+Salesforce Lightning Design System
+* [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
+
+HubSpot
+* [HubSpot](http://github.hubspot.com) and [HubSpot GitHub](https://github.com/HubSpot)
+
+IBM Design Language
+* [IBM Design Language](http://www.ibm.com/design/language)
+
+Watson Design Guide
+* [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
+
+
 
 #### Testing and Performance
 
@@ -7664,6 +7586,85 @@ Awesome- More
 Book Lists
 * [Bookicious](http://www.bookicious.com/collections)
 * [Bookstck](http://bookstck.tumblr.com)
+
+#### Journalism Handbooks and Grammatical Style Guides
+
+Journalism Handbooks
+* [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
+* [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
+* [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
+
+Journalism Style Guides 
+* [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
+* [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+* [AP Style Guide](http://www.apstylebook.com) 
+* [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
+* [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
+* [Guardian Observer Style Guide (A-O)](http://www.theguardian.com/guardian-observer-style-guide-a) and [Guardian Observer Style Guide (P-Z)](http://www.theguardian.com/guardian-observer-style-guide-p)  
+* [New York Times Style Guide Wikipedia](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage)
+* [Reuters Handbook of Journalism](http://handbook.reuters.com/index.php?title=Main_Page)  
+* [Telegraph Style Guide](http://www.telegraph.co.uk/topics/about-us/style-book) 
+
+BBC
+* [BBC Global Experience Language](http://www.bbc.co.uk/gel)
+
+<!--
+https://github.com/bbc/gel-test
+https://github.com/bbc/gel-standards
+https://github.com/BBC-News/bbc-news.github.io
+https://github.com/BBC-News/pr-templates
+
+http://www.bbc.co.uk/news/resources/idt-bbb9e158-4a1b-43c7-8b3b-9651938d4d6a
+http://www.bbc.co.uk/guidelines/futuremedia
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility/index.shtml
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml
+http://www.bbc.co.uk/guidelines/futuremedia/desed/searchmetadata.shtml (See also 'References')
+http://www.bbc.co.uk/editorialguidelines
+
+http://bbc.github.io/idstyleguide
+https://github.com/bbc/idstyleguide
+https://github.com/bbc/timelines-design-sprint-2-prototypes/tree/gh-pages
+https://github.com/bbc/BBC.github.io
+https://github.com/bbc/gel-labs-styleguide-js
+http://static.bbci.co.uk/gel/0.5.3/downloads/GEL_web_styleguide.pdf
+http://static.bbci.co.uk/gel/0.5.3/downloads/GEL_web_toolbar_guide.pdf
+http://www.bbc.co.uk/gel/accessibility/accessibility-principles/test
+http://www.bbc.co.uk/gel/guidelines/grid (new)
+http://www.bbc.co.uk/guidelines
+http://www.bbc.co.uk/guidelines/futuremedia
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html
+http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml
+http://www.bbc.co.uk/iwonder
+https://github.com/bbc/kandl-style-guide
+
+http://www.bbc.co.uk/accessibility
+
+http://bootstrap.bbcnewslabs.co.uk
+https://github.com/BBC-News-Labs/bbcnewslabs-bootstrap
+https://github.com/BBC-News-Labs/bbcnewslabs-internal-bootstrap
+https://github.com/iaincollins/themestrap
+http://code.divshot.com/themestrap
+
+https://next.ft.com/__styleguide
+https://next.ft.com/__styleguide/accessibility
+https://github.com/Financial-Times/next-opt-in-out
+http://www.w3.org/TR/WCAG20
+
+http://styleguide.ft.com
+https://github.com/Financial-Times/ui-style-guide
+http://financial-times.github.io/ui-style-guide
+
+http://labs.ft.com
+https://developer.ft.com
+http://origami.ft.com/docs/developer-guide
+http://origami.ft.com/docs/developer-guide/using-modules
+http://origami.ft.com/docs/developer-guide/general-best-practices
+http://origami.ft.com/docs/developer-guide/build-service/#building-a-page
+http://origami.ft.com/docs/developer-guide/building-modules
+http://origami.ft.com/docs/3rd-party-a-list
+http://origami.ft.com/docs/syntax
+-->
 
 #### Vocabulary
 
