@@ -311,20 +311,6 @@ Income Reports
 
 #### Open Companies
 
-<!--
-Searches
-* [GitHub: styleguide](https://github.com/search?utf8=%E2%9C%93&q=styleguide&type=Repositories&ref=searchresults)
-* [GitHub: guide](https://github.com/search?utf8=%E2%9C%93&q=guide&type=Repositories&ref=searchresults)
-* [GitHub: playbook](https://github.com/search?utf8=%E2%9C%93&q=playbook&type=Repositories&ref=searchresults)
-* [GitHub: handbook](https://github.com/search?utf8=%E2%9C%93&q=handbook&type=Repositories&ref=searchresults)
-* [GitHub: code of conduct](https://github.com/search?utf8=%E2%9C%93&q=code+of+conduct&type=Repositories&ref=searchresults)
-* [GitHub: consulting](https://github.com/search?utf8=%E2%9C%93&q=consulting&type=Repositories&ref=searchresults)
-* [GitHub: freelance](https://github.com/search?utf8=%E2%9C%93&q=freelance&type=Repositories&ref=searchresults)
-* [GitHub: contract](https://github.com/search?utf8=%E2%9C%93&q=contract&type=Repositories&ref=searchresults)
-
-https://github.com/search?utf8=%E2%9C%93&q=code+conduct
--->
-
 Buffer
 * [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
 * [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
@@ -341,21 +327,6 @@ Medium
 More
 * [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
 * [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-
-StackShare
-* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
-
-DevCenter
-* [DevCenter Website](DevCenter.me)  
-
-Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Stack Overflow Developer Survey
-* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
-* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-
 
 #### Design Agencies and Labs
 
@@ -989,6 +960,15 @@ IBM Design Language
 
 Watson Design Guide
 * [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
+
+<!--
+StackShare
+* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
+
+DevCenter
+* [DevCenter Website](DevCenter.me)  
+-->
+
 
 #### Operating Systems
 
@@ -2047,6 +2027,9 @@ Learn XSLT
 Learn AJAX
 -->
 
+Guides for Development
+* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
 * [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
@@ -2086,6 +2069,10 @@ Documentation- W3C
 GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software/software.html)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+
+Stack Overflow Developer Survey
+* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
+* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 
 #### Programming Language Style Guides
 
