@@ -90,15 +90,14 @@ Table of Content
 * [Philosophies, Milestones](#philosophies-milestones)
 * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
 
-* [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
-* [Chance](#chance)
-
 * [Notable Quotes](#notable-quotes)
 
 * [Appendix](#appendix)
 * [Other Enormous Tool Lists](#other-enormous-tool-lists)
 * [Popular Tools](#popular-tools)
 * [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
+  * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
+  * [Chance](#chance)
 * [Venture](#venture)
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
@@ -5787,81 +5786,6 @@ Google
 * [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
 * [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 
-#### Warren Buffet, Charlie Munger, Alphabet
-  
-Google and Alphabet
-* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
-* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
-* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
-* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
-
-Berkshire Hathaway
-* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
-* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
-* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
-* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
-* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
-* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
-
-Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
-* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
-
-Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
-* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
-* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
-
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-
-Mental Models
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-
-Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
-
-#### Chance
-* [Michael Mauboussin](http://michaelmauboussin.com)
-* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
-
-Mauboussin, Callahan, Rone, Burns, Bartholdson
-* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
-* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
-* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
-* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
-* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
-* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
-* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
-* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
-* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
-* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
-* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
-* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
-* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
-* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
-
-Nassim Nicholas Taleb: Antifragile and The Black Swan
-* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
-* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
-* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
-* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
-* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
-* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
-* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
-* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
-
-Nassim Nicholas Taleb's Teachings
-* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
-* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
-* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
-* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
-* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
-* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
-* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
-* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
-* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
-
 #### Notable Quotes
 
 * [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
@@ -6212,6 +6136,81 @@ General
 * [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 * [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
 * [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
+
+#### Warren Buffet, Charlie Munger, Alphabet
+  
+Google and Alphabet
+* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
+* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
+* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
+* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
+
+Berkshire Hathaway
+* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
+* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
+* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
+* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
+* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
+* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
+
+Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
+* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
+
+Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
+* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
+* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+
+Mental Models
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+
+Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
+
+#### Chance
+* [Michael Mauboussin](http://michaelmauboussin.com)
+* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+
+Mauboussin, Callahan, Rone, Burns, Bartholdson
+* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
+* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
+* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
+* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
+* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
+* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
+* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
+* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
+* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
+* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
+* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
+* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
+
+Nassim Nicholas Taleb: Antifragile and The Black Swan
+* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
+* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
+* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
+* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
+* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
+* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
+* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+
+Nassim Nicholas Taleb's Teachings
+* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
+* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
+* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
+* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
+* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
+* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
+* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
+* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
+* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
 
 #### Venture
 
