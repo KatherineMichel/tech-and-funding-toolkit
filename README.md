@@ -143,33 +143,35 @@ Table of Content
 * [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
 * [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
 * [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
-* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
-
-<!--
-http://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing
--->
+* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) and [HBS: Clay Christensen’s Milkshake Marketing](http://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing)
+* [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
 
 #### Lean Startup and Launchpad
 
+Scientific Method
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+
+Eric Ries
 * [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
 * [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries)
 * [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 * [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 * [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
+
+Steve Blank
 * [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
 * [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
 * [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 * [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
 * [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
+
+Alex Osterwalder
 * [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
 * [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
 * [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
-* [Business Model Fiddle](http://bmfiddle.com)
 
 Spinoffs
 * [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
-* [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
 * [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
 * [Lean Stack](http://leanstack.com/the-lean-stack) and [Lean Stack Diagram](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/leancanvas.png)  
 * [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
@@ -177,6 +179,7 @@ Spinoffs
 * [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
 * [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 * [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
+* [Business Model Fiddle](http://bmfiddle.com)
 
 #### Venture Analysis
 
@@ -425,18 +428,16 @@ Agile Project Management Tools
 * [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
 * [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
 
-
-
 Software Project Management
 * [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
-
-Modeling
-* [Unified Modeling Language (Series) Wikipedia](http://en.wikipedia.org/wiki/Unified_Modeling_Language)
-* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
 
 Software Prototyping
 * [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
 * [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
+
+Modeling
+* [Unified Modeling Language (Series) Wikipedia](http://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
 
 #### Documents and Improvement 
 
@@ -479,8 +480,6 @@ Agile Practices
 * [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
 
 * [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
-* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
-* [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 * [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
 * [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
 * [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
@@ -743,6 +742,14 @@ Code Search
 Whois Wikipedia
 * [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
 
+StackShare
+* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
+
+<!--
+DevCenter
+* [DevCenter Website](DevCenter.me)  
+-->
+
 #### Facebook and Google Design and Development Approaches
 
 Facebook
@@ -935,15 +942,6 @@ IBM Design Language
 
 Watson Design Guide
 * [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
-
-<!--
-StackShare
-* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
-
-DevCenter
-* [DevCenter Website](DevCenter.me)  
--->
-
 
 #### Operating Systems
 
@@ -1399,15 +1397,6 @@ TCP-IP and OSI Protocols
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
 
-<!--
-Char Sets
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
-* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
--->
-
-<!--
 Encoding
 * [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
 * [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
@@ -1417,16 +1406,15 @@ Encoding
 * [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
 * [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
 
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+
 URL and IRI
 * [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 * [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
--->
 
 Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
@@ -1998,14 +1986,16 @@ Programming and Math Learning Tools (See also MOOCs)
 <!--
 https://www.khanacademy.org/computing/computer-programming
 
-https://learnxinyminutes.com/docs/pythonstatcomp/
-
+W3Schools
+Learn SQL
+Learn ASP
+Learn ASP.NET
 https://learnxinyminutes.com/docs/csharp/
 
 https://learnxinyminutes.com/docs/swift/
 https://learnxinyminutes.com/docs/go/
 
-https://learnxinyminutes.com/docs/json/
+https://learnxinyminutes.com/docs/pythonstatcomp/
 
 http://pleac.sourceforge.net
 Programming Language Examples Alike Cookbook- Python
@@ -2013,12 +2003,7 @@ http://pleac.sourceforge.net/pleac_python.data
 -->
 
 <!--
-Learn jQueryMobile
-Learn AppML
-Learn AngularJS
-Learn JSON
 HTML Graphics
-
 Learn Canvas
 Learn SVG
 Learn Icons
@@ -2026,18 +2011,12 @@ Learn Google Maps
 Learn HTML Games
 Server Side
 
-Learn SQL
-Learn ASP
-Learn ASP.NET
-Web Building
+Learn AppML
 
+Web Building
 Web Building
 Web Statistics
 XML Tutorials
-
-Learn XML
-Learn XSLT
-Learn AJAX
 -->
 
 Guides for Development
@@ -2151,8 +2130,10 @@ Swift Styleguide
 
 #### Pretotyping and Prototyping
 
+Prototyping
 * [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
 
+Prototyping
 * [Prototype Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
 * [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
 * [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
@@ -2270,6 +2251,23 @@ http://www.w3schools.com/cssref/css_colors_legal.asp
 http://www.w3schools.com/cssref/css3_browsersupport.asp
 
 http://www.w3schools.com/html/html_css.asp
+-->
+
+<!--
+W3Schools
+Learn jQueryMobile
+Learn AngularJS
+Learn JSON
+https://learnxinyminutes.com/docs/json/
+Learn XML
+Learn XSLT
+Learn AJAX
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 -->
 
 Responsiveness- and Media Queries
