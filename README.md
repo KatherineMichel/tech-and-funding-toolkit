@@ -25,6 +25,7 @@ Table of Content
 * [Design Agencies and Labs](#design-agencies-and-labs)
 * [Project Management](#project-management)
   * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
+  * [Software Testing](#software-testing)
   * [Documents and Improvement](#documents-and-improvement)
 * [Research and Design Sprints](#research-and-design-sprints)
   * [Basics](#basics)
@@ -50,6 +51,7 @@ Table of Content
   * [Code Philosophies](#code-philosophies)
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
   * [Software Manuals and Documentation](#software-manuals-and-documentation)
+  * [Software Engineering and Testing](#software-engineering-and-testing)
 * [Programming](#programming)
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Language Style Guides](#programming-language-style-guides) 
@@ -142,6 +144,10 @@ Table of Content
 * [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
 * [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
 * [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
+
+<!--
+http://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing
+-->
 
 #### Lean Startup and Launchpad
 
@@ -358,8 +364,6 @@ Operations, Changement Management, Program Management. Project Management
 Project Management
 * [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics), [Outline of Project Management Wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), and [Glossary of Project Management Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_project_management)
 * [Project Management (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
-* [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
-* [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
 
 Project Management Associations, Certifications, Frameworks
 * [Association for Project Management](http://www.apm.org.uk)  
@@ -369,6 +373,11 @@ Project Management Associations, Certifications, Frameworks
 * [CITI](http://www.citi.co.uk)
 * [COBIT](http://www.isaca.org/cobit/pages/default.aspx) and [COBIT Wikipedia](https://en.wikipedia.org/wiki/COBIT)
 * [TOGAF](https://www2.opengroup.org/ogsys/catalog/g116)
+
+Project Management BOKs
+* [Project Management Body of Knowledge](http://www.pmi.org/PMBOK-Guide-and-Standards.aspx) and [Project Management Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) 
+* [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
+* [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
 
 Quality
 * [ISO](http://www.iso.org/iso/home.html) 
@@ -395,8 +404,11 @@ https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
 https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
 -->
 
-Agile Project Management Methodologies
+Agile and Waterfall Project Management Methodologies
 * [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
+* [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
+
+Agile Project Management Methodologies
 * [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
 * [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
 * [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
@@ -407,59 +419,26 @@ Agile Project Management Methodologies
 * [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 * [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
 * [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-
 * [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-* [Scrum Guide](http://www.scrumguides.org/scrum-guide.html) and [The Scrum Guide PDF](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf)
-* [Scrum BOK Overview](http://www.scrumstudy.com/overview-of-sbok.asp), [A Guide to the Scrum BOK](http://www.scrumstudy.com/Chapter%201%20(Introduction).pdf), and [Scrum BOK PDF](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
+
+
+
+* [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
 
 Sprints
 * [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
 * [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
 
-Waterfall Project Management Methodologies
-* [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
-
 Software Project Management
 * [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
-
-Software Engineering/Development 
-* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
-* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
-* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
-* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
-* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
-* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
-* [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
-
-Programming and Paradigm
-* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
 Modeling
 * [Unified Modeling Language (Series) Wikipedia](http://en.wikipedia.org/wiki/Unified_Modeling_Language)
 * [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
 
-Software Release Life Cycle
-* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
-
 Software Prototyping
 * [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
 * [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
-
-Software Testing
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 
 #### Documents and Improvement 
 
@@ -489,9 +468,7 @@ Project Documents
 
 Agile Practices
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+
 * [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
 * [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
@@ -1460,9 +1437,8 @@ Naming Conventions
 * [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
 * [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
 
-Maintenance and Testing
+Maintenance
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
 * [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 
 Local Terms
@@ -1940,6 +1916,45 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 * [Swagger API Docs](http://swagger.io)  
 * [Slate API Docs GitHub](https://github.com/tripit/slate)  
 * [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
+
+#### Software Engineering and Testing
+
+Software Engineering/Development 
+* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
+* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
+* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+* [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
+
+Programming and Paradigm
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+
+Software Release Life Cycle
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
+Software Testing
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 
 #### Programming
 
@@ -7093,7 +7108,7 @@ Awards
 * [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
 * [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
 * [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
-* [René Girard (influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
+* [René Girard (Influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
 * [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 * [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
 * [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
@@ -7175,6 +7190,10 @@ Books
 * [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 * [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
+
+<!--
+http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
+-->
 
 Books- Historical
 * [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
@@ -7293,12 +7312,6 @@ Ivy League Business and Tech
 * [MIT Technology Review](http://www.technologyreview.com)
 * [Stanford News](http://news.stanford.edu)
 * [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
-
-<!--
-"Discovery Blogs" 
-* UCBerkley 
-* CMU
--->
 
 STEM Journals 
 * [ACM Publications](https://www.acm.org/publications), [ACM Digital Library](http://dl.acm.org), [Journal of the ACM](http://jacm.acm.org), and [ACM Queue](http://queue.acm.org)
