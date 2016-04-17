@@ -806,15 +806,82 @@ Facebook Tools
 Google
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
-Google Developers
+Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+
+Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Developers- Web
 * [Google Developer Web](https://developers.google.com/web)
-* [Google Chrome DevTools](https://developer.chrome.com/devtools), [Google Chrome DevTools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+Google Developers- Google Chrome Doc
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
 * [Google Chrome Home](https://developers.google.com/chrome)
-* [Google Chrome: Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+Google Developers- Canary Chrome
 * [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Developers- Google Chrome Tools
+* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+ 
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+<!--
+New docs
+https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts
+
+https://developers.google.com/web/tools/chrome-devtools/iterate
+https://developers.google.com/web/tools/chrome-devtools/debug
+https://developers.google.com/web/tools/chrome-devtools/debug/console
+https://developers.google.com/web/tools/chrome-devtools/profile
+
+https://developers.google.com/web/tools/starter-kit
+https://developers.google.com/web/tools/polymer-starter-kit
+https://developers.google.com/web/tools/service-worker-libraries
+
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://developers.google.com/cast/docs/developers
+
+https://chrome.google.com/webstore/developer/dashboard
+-->
+
+<!--
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+https://bugs.chromium.org/p/v8/issues/list
+
+https://toolbox.googleapps.com/apps/har_analyzer/
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://docs.ionic.io/docs/chrome-inspector
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines
+
+https://www.codeschool.com/courses/discover-devtools
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+-->
 
 Google Analytics
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
@@ -1195,75 +1262,15 @@ http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 Apple iOS
 * [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
 
-Google (Chromium, Chrome, Blink, V8) 
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
 * [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 * [Chromium Developers](https://www.chromium.org/developers)
 * [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
 * [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 * [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
 * [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
 * [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Google Chrome Doc
-* [Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-
-<!--
-New docs
-https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts
-
-https://developers.google.com/web/tools/chrome-devtools/iterate
-https://developers.google.com/web/tools/chrome-devtools/debug
-https://developers.google.com/web/tools/chrome-devtools/debug/console
-https://developers.google.com/web/tools/chrome-devtools/profile
-
-https://developers.google.com/web/tools/starter-kit
-https://developers.google.com/web/tools/polymer-starter-kit
-https://developers.google.com/web/tools/service-worker-libraries
-
-https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-https://developers.google.com/cast/docs/developers
-
-https://chrome.google.com/webstore/developer/dashboard
--->
-
-Google Chrome Doc Archive 
-* [Chrome DevTool Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-* [Chrome Docs (Old)](https://developer.chrome.com/home)
-
-<!--
-Old Docs
-https://developer.chrome.com/devtools/
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/getstarted
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-https://bugs.chromium.org/p/v8/issues/list
-
-https://toolbox.googleapps.com/apps/har_analyzer/
-
-http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
-http://www.ibm.com/developerworks/library/os-extendchrome/
-https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
-http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-http://docs.ionic.io/docs/chrome-inspector
-http://developer.samsung.com/technical-doc/view.do?v=T000000203
-https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
-https://dev.twitter.com/web/embedded-timelines
-
-https://www.codeschool.com/courses/discover-devtools
-
-https://developer.mozilla.org/en-US/docs/Chrome_Registration
--->
 
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
