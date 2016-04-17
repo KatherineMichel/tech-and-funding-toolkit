@@ -1198,41 +1198,52 @@ Apple iOS
 Google (Chromium, Chrome, Blink, V8) 
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
 * [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
 * [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 * [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
 * [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
 * [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
 
+Google Chrome Doc
+* [Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+
 <!--
-https://bugs.chromium.org/p/v8/issues/list
-
 New docs
-https://developers.google.com/web/tools/chrome-devtools
-https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts?hl=en
+https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts
 
-https://developers.google.com/web/tools/chrome-devtools/debug/console/console-ui?hl=en
+https://developers.google.com/web/tools/chrome-devtools/iterate
+https://developers.google.com/web/tools/chrome-devtools/debug
+https://developers.google.com/web/tools/chrome-devtools/debug/console
+https://developers.google.com/web/tools/chrome-devtools/profile
+
+https://developers.google.com/web/tools/starter-kit
+https://developers.google.com/web/tools/polymer-starter-kit
+https://developers.google.com/web/tools/service-worker-libraries
+
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://developers.google.com/cast/docs/developers
 
-Old docs
+https://chrome.google.com/webstore/developer/dashboard
+-->
 
-https://developer.chrome.com/home
+Google Chrome Doc Archive 
+* [Chrome DevTool Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+* [Chrome Docs (Old)](https://developer.chrome.com/home)
+
+<!--
+Old Docs
 https://developer.chrome.com/devtools/
 https://developer.chrome.com/devtools/docs/console
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.chrome.com/devtools/docs/videos
-
 https://developer.chrome.com/extensions
 https://developer.chrome.com/extensions/getstarted
 https://developer.chrome.com/extensions/devguide
-
 https://developer.chrome.com/apps/about_apps
 
-https://chrome.google.com/webstore/developer/dashboard
-https://www.chromium.org/getting-involved/dev-channel
-
-https://www.chromium.org/developers
-https://github.com/GoogleChrome/devtools-docs
+https://bugs.chromium.org/p/v8/issues/list
 
 https://toolbox.googleapps.com/apps/har_analyzer/
 
@@ -1278,7 +1289,7 @@ Web Browser and JavaScript Engines (See also JavaScript)- General
 * [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
 * [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
 
-Comparison of Layout Engines by DOM and ECMA Script)
+Comparison of Layout Engines (By DOM and ECMA Script)
 * [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
 * [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
 * [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
@@ -4176,10 +4187,6 @@ Status
 
 Consles
 * [Google Developer Console](https://console.developers.google.com)
-
-<!--
-https://github.com/ChromeDevTools/awesome-chrome-devtools
--->
 
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
