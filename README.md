@@ -406,28 +406,26 @@ https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
 
 Agile and Waterfall Project Management Methodologies
 * [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management), [Agile Software Development Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development), [Agile Methods Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods), and [Agile Practices Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices)
-* [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
-
-Agile Project Management Methodologies
-* [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
-* [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
 * [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming) and [Extreme Programming Practices Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
-* [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
 * [Extreme Project Management Wikipedia](https://en.wikipedia.org/wiki/Extreme_project_management)
 * [Lean Software Development Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)
 * [Lean IT Wikipedia](http://en.wikipedia.org/wiki/Lean_IT)
+* [Waterfall Model Wikipedia](http://en.wikipedia.org/wiki/Waterfall_model)
+
+Scrum Software Developmet, Sprints
+* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
+* [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
+* [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
+
+Agile Project Management Tools
+* [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
+* [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
+* [Extreme Programming](http://www.extremeprogramming.org) and [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
 * [Kaizen Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 * [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
 * [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
-* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
 
 
-
-* [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
-
-Sprints
-* [Sprint (Software Development) Wikipedia](https://en.wikipedia.org/wiki/Sprint_(software_development))
-* [Sprint (Scrum Software Development) Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint)
 
 Software Project Management
 * [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
@@ -441,6 +439,8 @@ Software Prototyping
 * [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
 
 #### Documents and Improvement 
+
+* [Project Finance Wikipedia](https://en.wikipedia.org/wiki/Project_finance)
 
 Project Documents
 * [Flywheel Wikipedia](http://en.wikipedia.org/wiki/Flywheel_(disambiguation))
