@@ -1299,6 +1299,20 @@ W3C DOM4
 
 <!--
 https://docs.python.org/3/library/xml.dom.html
+
+Browser Statistics
+Browser OS
+Browser Display
+Browser Mobile
+Browser IE
+Browser Chrome
+Browser Firefox
+Browser Safari
+Browser Opera
+
+Firefox Developer Tools
+https://developer.mozilla.org/en-US/docs/Tools
+http://getfirebug.com
 -->
 
 Keyboard Shortcuts
@@ -1360,15 +1374,12 @@ Smartphones
 * [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
 -->
 
-CPU and Instruction Set
+Microprocessor, CPU and Instruction Set
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
 * [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
 * [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
 * [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
 * [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-<!--
-https://en.wikipedia.org/wiki/Intel_Core
--->
 
 Binary
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
@@ -1973,6 +1984,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Math Overflow](http://mathoverflow.net)
 * [Minecraft](https://minecraft.net)
 * [Node Together](http://www.nodetogether.org)
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Pluralsight](https://www.pluralsight.com)
 * [Project Euler](http://www.projecteuler.net)  
 * [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
@@ -1983,16 +1995,6 @@ Programming and Math Learning Tools (See also MOOCs)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
-
-<!--
-W3Schools
-Learn SQL
-
-https://learnxinyminutes.com/docs/swift/
-https://learnxinyminutes.com/docs/go/
-
-http://pleac.sourceforge.net
--->
 
 <!--
 HTML Graphics
@@ -2008,7 +2010,6 @@ Learn AppML
 Web Building
 Web Building
 Web Statistics
-XML Tutorials
 -->
 
 Guides for Development
@@ -2260,6 +2261,7 @@ http://www.w3schools.com/angular/default.asp
 Learn JSON
 https://learnxinyminutes.com/docs/json/
 Learn XML
+XML Tutorials
 Learn XSLT
 Learn AJAX
 
@@ -2360,12 +2362,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
 https://developer.mozilla.org/en-US/docs/Web/MathML
 https://developer.mozilla.org/en-US/docs/Glossary
 
-https://developer.mozilla.org/en-US/docs/Tools
-http://getfirebug.com
-
 http://whatwg.github.io/loader
-
-https://twitter.com/kentcdodds/status/710701170268831744
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 https://support.google.com/analytics/answer/1638635?hl=en
@@ -2458,17 +2455,6 @@ Miscellaneous Programming Languages
 * [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 * Apple- Swift
 
-<!--
-W3Schools
-Learn SQL
-Learn ASP
-Learn ASP.NET
-https://learnxinyminutes.com/docs/csharp/
-
-https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
--->
-
 Golang, otherwise known as "Go"
 * [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
 * [Golang](http://golang.org)  
@@ -2479,6 +2465,10 @@ Golang, otherwise known as "Go"
 * [Golang Talks](https://talks.golang.org)
 * [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
+
+<!--
+https://learnxinyminutes.com/docs/go
+-->
 
 Golang, Uers
 * [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
@@ -2564,6 +2554,8 @@ https://nodejs.org/en/docs/es6
 
 https://es5.github.io
 https://github.com/es5/es5.github.io
+
+https://twitter.com/kentcdodds/status/710701170268831744
 -->
 
 AJAX
@@ -3805,6 +3797,16 @@ Python- Django- Cmatrix
 
 #### .NET, ASP, Visual Studio, WebMatrix
 
+<!--
+W3Schools
+Learn ASP
+Learn ASP.NET
+https://learnxinyminutes.com/docs/csharp/
+
+https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
+-->
+
 .NET
 * [Microsoft.github.io](http://microsoft.github.io)  
 * [Microsoft .NET](http://www.microsoft.com/net) 
@@ -4122,6 +4124,10 @@ Apache (See also mod_wsgi)
 SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
 * [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
+
+<!--
+http://www.w3schools.com/sql/default.asp
+-->
 
 SQLite (RDBMS, written in C)
 * [SQLite](http://sqlite.org)  
@@ -4894,6 +4900,8 @@ Miscellaneous
 #### Swift
 
 <!--
+https://learnxinyminutes.com/docs/swift
+
 https://github.com/codeschool/AppEvolutionWithSwiftDemo
 -->
 
