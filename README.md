@@ -947,14 +947,6 @@ Sharing Buttons
 * [AddToAny](https://www.addtoany.com) 
 * [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
-RRSSB
-* [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
-
-Cookies
-* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
-* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
-* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie)  
-
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
 List of Engineering Blogs
@@ -4806,6 +4798,14 @@ Event Tracking
 Typeahead and Awesomeplete
 * [Typeahead.js GitHub](https://github.com/twitter/typeahead.js)
 * [Awesomeplete GitHub](https://github.com/LeaVerou/awesomplete)
+
+RRSSB
+* [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
+
+Cookies
+* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
 
 SAP
 * [SAP](http://go.sap.com/index.html)
