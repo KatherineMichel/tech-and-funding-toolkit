@@ -2939,10 +2939,12 @@ PHP- Laravel- Preferred Templates and Documents
 PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
 
-PHP/Node.js- WordPress- Com, Org, Calypso
+PHP/node.js- WordPress- Com, Calypso
 * [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
+* [WordPress Calypso](https://developer.wordpress.com/calypso) and [WordPress Calypso GitHub](https://github.com/Automattic/wp-calypso) 
+
+PHP/node.js- WordPress- Com, Org, Calypso
 * [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
-* [WordPress Calypso](https://github.com/Automattic/wp-calypso) 
 
 PHP- WordPress Installation and Migration
 * [WordPress GitHub](https://github.com/WordPress/WordPress) 
