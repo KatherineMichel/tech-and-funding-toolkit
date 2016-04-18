@@ -86,6 +86,9 @@ Python- Django- PyCon, DjangoCon, and PyData
 * [PyData 2015 GitHub](https://github.com/pydata/conf_site)
 * [DjangoCon Website Archive GitHub](https://github.com/djangocon/djangocon-backups)
 
+Python- Django Under the Hood
+* [Django Under the Hood GitHub](https://github.com/djangounderthehood/duh-web)
+
 Python- Django- Django Birthday
 * [Django Birthday GitHub](https://github.com/jacobian/djangobirthday)
 
