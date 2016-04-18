@@ -67,6 +67,7 @@ Table of Content
 * [PHP](#php)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django General](#python-and-django-general)
+  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
@@ -74,7 +75,6 @@ Table of Content
   * [Python and Django Deployment](#python-and-django-deployment)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Useful Tools](#python-and-django-useful-tools)
-  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
@@ -465,8 +465,6 @@ Project Documents
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 
 <!--
-## Wikipedia
-
 Agile Practices
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 
@@ -478,7 +476,6 @@ Agile Practices
 * [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
-
 * [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
 * [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
 * [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
@@ -745,10 +742,8 @@ Whois Wikipedia
 StackShare
 * [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
 
-<!--
-DevCenter
+DevCenter (Developer Center/API)
 * [DevCenter Website](DevCenter.me)  
--->
 
 #### Facebook and Google Design and Development Approaches
 
@@ -819,36 +814,28 @@ Google Developers- Web
 Google Developers- Google Chrome Doc
 * [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
 * [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
+* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
+* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
+* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
+* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
 
 Google Developers- Canary Chrome
 * [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
 Google Developers- Google Chrome Tools
 * [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
- 
+
 Google Chrome Doc Archive 
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
-New docs
-https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts
-
-https://developers.google.com/web/tools/chrome-devtools/iterate
-https://developers.google.com/web/tools/chrome-devtools/debug
-https://developers.google.com/web/tools/chrome-devtools/debug/console
-https://developers.google.com/web/tools/chrome-devtools/profile
-
-https://developers.google.com/web/tools/starter-kit
-https://developers.google.com/web/tools/polymer-starter-kit
 https://developers.google.com/web/tools/service-worker-libraries
 
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+
 https://developers.google.com/cast/docs/developers
 
-https://chrome.google.com/webstore/developer/dashboard
--->
-
-<!--
 Old Docs
 * [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
 
@@ -861,6 +848,7 @@ https://developer.chrome.com/extensions/getstarted
 https://developer.chrome.com/extensions/devguide
 https://developer.chrome.com/apps/about_apps
 
+Miscellaneous
 https://bugs.chromium.org/p/v8/issues/list
 
 https://toolbox.googleapps.com/apps/har_analyzer/
@@ -1144,8 +1132,9 @@ Apple MacBook Air
 * [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
 
 Apple- Refurbished, Clearance, Reuse, Recycling
-* [Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
-* [Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
+* [Apple Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
+* [Apple Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
+* [Apple Recycling](http://www.apple.com/recycling)
 
 Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
 * [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
@@ -1172,6 +1161,7 @@ Apple- More
 * [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
 * [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
 * [Apple Watchkit](https://developer.apple.com/watchkit)  
+* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
 * [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
 * [Apple Support](http://www.apple.com/support) 
 
@@ -1179,14 +1169,7 @@ Mac Update
 * [Mac Update](http://www.macupdate.com)
 
 <!--
-http://www.apple.com/recycling
 https://support.apple.com/en-us/HT201541
-
-https://developer.apple.com/app-store/review/guidelines/
-https://developer.apple.com/app-store/review/
-https://developer.apple.com/app-store/marketing/guidelines/
-https://developer.apple.com/app-store/review/rejections/
-
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
 
@@ -2013,11 +1996,7 @@ https://learnxinyminutes.com/docs/csharp/
 https://learnxinyminutes.com/docs/swift/
 https://learnxinyminutes.com/docs/go/
 
-https://learnxinyminutes.com/docs/pythonstatcomp/
-
 http://pleac.sourceforge.net
-Programming Language Examples Alike Cookbook- Python
-http://pleac.sourceforge.net/pleac_python.data
 -->
 
 <!--
@@ -2943,9 +2922,6 @@ PHP/node.js- WordPress- Com, Calypso
 * [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
 * [WordPress Calypso](https://developer.wordpress.com/calypso) and [WordPress Calypso GitHub](https://github.com/Automattic/wp-calypso) 
 
-PHP/node.js- WordPress- Com, Org, Calypso
-* [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
-
 PHP- WordPress Installation and Migration
 * [WordPress GitHub](https://github.com/WordPress/WordPress) 
 * [WordPress Requirements](https://wordpress.org/about/requirements)
@@ -2953,6 +2929,9 @@ PHP- WordPress Installation and Migration
 * [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
 * [WordPress Hosting](https://wordpress.org/hosting)
 * [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
+
+PHP/node.js- WordPress- Org
+* [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
 
 PHP- WordPress- Developer Resource
 * [WordPress Codex](http://codex.wordpress.org)
@@ -3219,6 +3198,41 @@ Python- Mobile
 * [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
 * [VOC Read the Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
 * Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
+
+#### Python and Django Books and Tutorials
+
+<!--
+Programming Language Examples Alike Cookbook- Python
+http://pleac.sourceforge.net/pleac_python.data
+https://learnxinyminutes.com/docs/pythonstatcomp/
+-->
+
+Python- Books and Tutorials
+* [Dive into Python (Deprecated)](http://www.diveintopython.net)  
+* [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
+* [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming)  
+* [Python Tutorial](https://docs.python.org/2/tutorial)  
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
+* [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
+* [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
+* [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
+
+O'Reilly Test-Driven Development with Python
+* [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
+* [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+
+Python- Django Tutorials (excluding Django Girls)
+* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
+* [Django Book (Deprecated but useful)](http://www.djangobook.com)  
+* [Light Weight Django](http://it-ebooks.info/book/2820)  
+* [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+* [Tango with Django Tutorial](http://www.tangowithdjango.com) 
+
+Django Carrots (Python- Django)
+* [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 #### Python and Django Packages and Snippets
 
@@ -3788,35 +3802,6 @@ Python- Django- Everything
 Python- Django- Cmatrix
 * [Cmatrix](http://www.asty.org/cmatrix) and [Cmatrix Homebrew](http://brewformulas.org/Cmatrix)
 
-#### Python and Django Books and Tutorials
-
-Python- Books and Tutorials
-* [Dive into Python (Deprecated)](http://www.diveintopython.net)  
-* [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
-* [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming)  
-* [Python Tutorial](https://docs.python.org/2/tutorial)  
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
-* [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-* [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
-* [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
-
-O'Reilly Test-Driven Development with Python
-* [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
-* [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
-
-Python- Django Tutorials (excluding Django Girls)
-* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-* [Django Book (Deprecated but useful)](http://www.djangobook.com)  
-* [Light Weight Django](http://it-ebooks.info/book/2820)  
-* [Light Weight Django GitHub](https://github.com/lightweightdjango)  
-* [Tango with Django Tutorial](http://www.tangowithdjango.com) 
-
-Django Carrots (Python- Django)
-* [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
-
 #### .NET, ASP, Visual Studio, WebMatrix
 
 .NET
@@ -4197,7 +4182,7 @@ Status
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 
 Consles
-* [Google Developer Console](https://console.developers.google.com)
+* [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
 
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
