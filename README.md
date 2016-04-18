@@ -1295,15 +1295,16 @@ W3C DOM4
 <!--
 https://docs.python.org/3/library/xml.dom.html
 
-Browser Statistics
-Browser OS
-Browser Display
-Browser Mobile
-Browser IE
-Browser Chrome
-Browser Firefox
-Browser Safari
-Browser Opera
+Statistics
+OS
+Display
+Mobile
+
+IE
+Chrome
+Firefox
+Safari
+Opera
 -->
 
 Keyboard Shortcuts
@@ -1457,7 +1458,8 @@ Command Line
 * [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
 * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
 
-Notable Commands
+Notable Terminology
+* [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 * [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
 * [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
 
@@ -1924,8 +1926,6 @@ Programming and Paradigm
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-
 Software Release Life Cycle
 * [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
 
@@ -1933,6 +1933,7 @@ Software Testing
 * [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
 
 * [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
 * [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
@@ -1989,18 +1990,22 @@ Programming and Math Learning Tools (See also MOOCs)
 
 <!--
 HTML Graphics
+http://www.w3schools.com/canvas/default.asp
 Learn Canvas
+http://www.w3schools.com/canvas/default.asp
 Learn SVG
+http://www.w3schools.com/svg/default.asp
 Learn Icons
+http://www.w3schools.com/icons/default.asp
 Learn Google Maps
+http://www.w3schools.com/googleapi/default.asp
 Learn HTML Games
-Server Side
+http://www.w3schools.com/games/default.asp
 
-Learn AppML
+http://www.w3schools.com/appml/default.asp
 
-Web Building
-Web Building
-Web Statistics
+http://www.w3schools.com/website/default.asp
+http://www.w3schools.com/browsers/default.asp
 -->
 
 Guides for Development
@@ -2513,9 +2518,6 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 <!--
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [Mozilla DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [Mozilla Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
 * [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [Mozilla Event Listener API](https://developer.mozilla.org/en-US/docs/Web/API/EventListener)
