@@ -1154,6 +1154,10 @@ Apple- Platforms and Devices
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
+App Store Submission
+* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
+* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
+
 Apple- More
 * [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
 * [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
@@ -1161,8 +1165,6 @@ Apple- More
 * [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
 * [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
 * [Apple Watchkit](https://developer.apple.com/watchkit)  
-* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
-* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections)  
 * [Apple Support](http://www.apple.com/support) 
 
 Mac Update
@@ -1199,6 +1201,7 @@ Web Browser Comparisons
 
 Mac OS X- OS,  Browser, Layout Engine
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
 * [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
 * [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
 
@@ -1206,13 +1209,8 @@ WebKit Parts
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
-<!--
-https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html
-
-https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf
-
-https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html
--->
+Safari Web Inspector
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
 
 Mac OS X- Architecture
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
@@ -1221,6 +1219,7 @@ Mac OS X- Architecture
 
 Mac OS X- Terminal, Bash (Unix)
 * [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 * [Bash Homepage](https://www.gnu.org/software/bash) and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
@@ -1292,14 +1291,14 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
 <!--
-http://caniuse.com
-
 https://docs.python.org/3/library/xml.dom.html
-
-https://www.w3.org/DOM/#what
-https://www.w3.org/TR/dom
-https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
 -->
 
 Keyboard Shortcuts
@@ -1969,6 +1968,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Free Code Camp](http://www.freecodecamp.com) and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
 * [Kano Playground](http://art.kano.me/playground)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
 * [Math Overflow](http://mathoverflow.net)
 * [Minecraft](https://minecraft.net)
@@ -1985,13 +1985,8 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
-https://www.khanacademy.org/computing/computer-programming
-
 W3Schools
 Learn SQL
-Learn ASP
-Learn ASP.NET
-https://learnxinyminutes.com/docs/csharp/
 
 https://learnxinyminutes.com/docs/swift/
 https://learnxinyminutes.com/docs/go/
@@ -2222,8 +2217,14 @@ HTML5 and CSS3 Tutorials- Mozilla
 <!--
 http://peter.sh/experiments/vendor-prefixed-css-property-overview/
 
+https://www.w3.org/html
+https://www.w3.org/TR/html5
 * [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+
+http://caniuse.com
 * [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
 -->
 
 Bootstrap Tutorials
@@ -2255,7 +2256,7 @@ http://www.w3schools.com/html/html_css.asp
 <!--
 W3Schools
 Learn jQueryMobile
-Learn AngularJS
+http://www.w3schools.com/angular/default.asp
 Learn JSON
 https://learnxinyminutes.com/docs/json/
 Learn XML
@@ -2322,9 +2323,6 @@ Kickstarters
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
-https://www.w3.org/DOM/
-https://www.w3.org/TR/DOM-Level-3-Core/core.html
-
 https://developer.mozilla.org/en-US/Apps
 https://developer.mozilla.org/en-US/docs/Web/Reference
 https://developer.mozilla.org/en-US/docs/Web/Guide
@@ -2368,9 +2366,6 @@ http://getfirebug.com
 http://whatwg.github.io/loader
 
 https://twitter.com/kentcdodds/status/710701170268831744
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
-[W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 https://support.google.com/analytics/answer/1638635?hl=en
@@ -2464,6 +2459,12 @@ Miscellaneous Programming Languages
 * Apple- Swift
 
 <!--
+W3Schools
+Learn SQL
+Learn ASP
+Learn ASP.NET
+https://learnxinyminutes.com/docs/csharp/
+
 https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
 -->
