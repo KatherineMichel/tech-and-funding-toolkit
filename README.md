@@ -1209,9 +1209,6 @@ WebKit Parts
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
-Safari Web Inspector
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
 Mac OS X- Architecture
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
@@ -1309,10 +1306,6 @@ Browser Chrome
 Browser Firefox
 Browser Safari
 Browser Opera
-
-Firefox Developer Tools
-https://developer.mozilla.org/en-US/docs/Tools
-http://getfirebug.com
 -->
 
 Keyboard Shortcuts
@@ -2378,6 +2371,12 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 
 #### Testing and Performance
 
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+
 * [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
 * [AWS Device Farm](https://aws.amazon.com/device-farm)
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
@@ -2525,9 +2524,6 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 <!--
-TodoMVC (See also JavaScript)
-* [TodoMVC](http://todomvc.com)
-
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [Mozilla DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -2699,8 +2695,10 @@ Node Forks
 * [IO.js GitHub](https://github.com/iojs/io.js)  
 * [JXCore](http://jxcore.com/home) 
 
+TodoMVC (See also JavaScript)
+* [TodoMVC](http://todomvc.com) and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
+
 MVCs General, Backbone, Ember
-* [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc)  
 * [Backbone](http://backbonejs.org)  
 * [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
 * [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
@@ -3195,10 +3193,11 @@ Python- Mobile
 #### Python and Django Books and Tutorials
 
 <!--
-Programming Language Examples Alike Cookbook- Python
-http://pleac.sourceforge.net/pleac_python.data
 https://learnxinyminutes.com/docs/pythonstatcomp/
 -->
+
+* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 Python- Books and Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net)  
@@ -3206,7 +3205,6 @@ Python- Books and Tutorials
 * [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming)  
 * [Python Tutorial](https://docs.python.org/2/tutorial)  
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
 * [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
