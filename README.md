@@ -789,14 +789,14 @@ Web Analytics
 Facebook
 * [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
 
-Facebook Developers
-* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-
 Facebook Tools
 * [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 * [Facebook Business](https://www.facebook.com/business)
 * [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
 * [Fb Start for Mobile Startups](http://fbstart.com)
+
+Facebook Developers
+* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 
 Google
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
@@ -1214,6 +1214,9 @@ Mac OS X- Architecture
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
 * [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
 
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
 Mac OS X- Terminal, Bash (Unix)
 * [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
 * [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
@@ -1287,6 +1290,9 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 
 W3C DOM4
 * [W3C DOM4](https://www.w3.org/TR/dom)
@@ -2192,6 +2198,10 @@ Web General (See also JavaScript)
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
+W3C HTML Standards
+* [W3C HTML](https://www.w3.org/html)
+* [W3C HTML5](https://www.w3.org/TR/html5)
+
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 * [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
@@ -2210,10 +2220,6 @@ HTML5 and CSS3 Tutorials- Mozilla
 
 <!--
 http://peter.sh/experiments/vendor-prefixed-css-property-overview/
-
-https://www.w3.org/html
-https://www.w3.org/TR/html5
-* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
 
 http://caniuse.com
 * [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
@@ -2371,12 +2377,6 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 
 #### Testing and Performance
 
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-
 * [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
 * [AWS Device Farm](https://aws.amazon.com/device-farm)
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
@@ -2457,6 +2457,7 @@ Miscellaneous Programming Languages
 Golang, otherwise known as "Go"
 * [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
 * [Golang](http://golang.org)  
+* [Learn X in Y Minutes Golang](https://learnxinyminutes.com/docs/go)
 * [Golang Documentation](http://golang.org/doc)  
 * [Golang Packages](http://golang.org/pkg)  
 * [Golang Search](http://go-search.org)  
@@ -2464,10 +2465,6 @@ Golang, otherwise known as "Go"
 * [Golang Talks](https://talks.golang.org)
 * [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
-
-<!--
-https://learnxinyminutes.com/docs/go
--->
 
 Golang, Uers
 * [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
