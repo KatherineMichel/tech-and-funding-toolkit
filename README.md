@@ -1068,6 +1068,10 @@ Unix Shell and File system
 * [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
 * [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
+<!--
+https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout
+-->
+
 Comparison of File Systems
 * [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 
@@ -1408,6 +1412,10 @@ https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/Shel
 
 https://en.wikipedia.org/wiki/Grep
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
+
+https://en.wikibooks.org/wiki/Grep
+https://en.wikibooks.org/wiki/AWK
+https://en.wikibooks.org/wiki/Sed
 
 https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems
 https://en.wikipedia.org/wiki/GNU_Project
