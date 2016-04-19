@@ -572,8 +572,10 @@ Persuasive Technology
 
 #### Government Digital
 
+<!--
 See
 * [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
+-->
 
 GitHub Government 
 * [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
@@ -2989,7 +2991,7 @@ https://developer.wordpress.org/themes/template-files-section/page-template-file
 WordPress Official Themes
 * [Official Themes](https://wordpress.org/themes)) 
 
-WordPress Theme Development
+WordPress Page Templates
 * [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
 
 <!--
