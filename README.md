@@ -1399,6 +1399,24 @@ Emoji and Other Funny Keyboard Shortcode
 
 #### More Command Line and Shell
 
+<!--
+https://developer.apple.com/app-store/business-models
+
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
+
+https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html#//apple_ref/doc/uid/TP40004268-CH271-BBCBEAJD
+
+https://en.wikipedia.org/wiki/Grep
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
+
+https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/List_of_GNU_packages
+https://en.wikipedia.org/wiki/KDE
+https://en.wikipedia.org/wiki/List_of_KDE_applications
+https://en.wikipedia.org/wiki/List_of_Unix_daemons
+-->
+
 See also Bash and PowerShell<br>
 Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
 
@@ -1463,8 +1481,6 @@ http://www.unix.com/man-page/posix/1posix/eval/
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
 * [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
-* [Emacs 24 Reference Card](http://cs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
-* [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
 * [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
 * [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
 * [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
