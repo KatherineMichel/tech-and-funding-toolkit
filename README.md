@@ -1306,12 +1306,8 @@ Operating Systems
 * [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
 * [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
 * [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-
-Operating System and Command Shell Comparisons
 * [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
 * [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 
 Web Browser
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
@@ -1406,6 +1402,11 @@ Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 
 <!--
+https://en.wikipedia.org/wiki/Microsoft_Edge
+https://en.wikipedia.org/wiki/Opera_(web_browser)
+-->
+
+<!--
 https://docs.python.org/3/library/xml.dom.html
 
 Statistics
@@ -1451,6 +1452,9 @@ Shell
 * [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
 * [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
 * [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
+
+Comparison of Command Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 
 Integrated Development Environment
 * [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
