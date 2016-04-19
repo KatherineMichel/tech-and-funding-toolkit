@@ -1244,9 +1244,9 @@ Web Browser
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 
-<!--
-https://en.wikipedia.org/wiki/Opera_(web_browser)
--->
+More Web Browsers (See below)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+* [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
 
 <!--
 https://docs.python.org/3/library/xml.dom.html
@@ -1255,8 +1255,6 @@ Statistics
 OS
 Display
 Mobile
-
-Firefox
 -->
 
 Mac OS X- OS,  Browser, Layout Engine
@@ -1290,14 +1288,11 @@ Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
-Windows and IE
+Windows, IE, and Edge
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 * [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-
-<!--
-https://en.wikipedia.org/wiki/Microsoft_Edge
--->
+* [Microsoft Edge Web Browser](https://en.wikipedia.org/wiki/Microsoft_Edge)
 
 Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
