@@ -1316,12 +1316,8 @@ Operating System and Command Shell Comparisons
 Web Browser
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
 * [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-
-Web Browser Comparisons
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-
-Cross-Browser
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 
 Mac OS X- OS,  Browser, Layout Engine
