@@ -1492,6 +1492,7 @@ Emacs and Vim (Text Editors)
 * [Emacs 24 Reference Card](http://socs.acadiau.ca/~jdiamond/emacs/refcard.pdf)  
 * [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
 * [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
+* [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
 * [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
