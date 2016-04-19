@@ -1332,6 +1332,12 @@ Google Developers- Google Chrome Doc
 * [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
 * [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
 
+<!--
+https://developers.google.com/web/tools/setup/setup-workflow
+https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
+https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
+-->
+
 Google Developers- Canary Chrome
 * [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
