@@ -44,6 +44,7 @@ Table of Content
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple](#apple)
   * [OS, Shell, Browser](#os-shell-browser)
+  * [Developer Tools](#developer-tools)
 * [Development Environment and Programming](#development-environment-and-programming)
   * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
@@ -800,76 +801,6 @@ Facebook Developers
 Google
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-Google Developers- Web
-* [Google Developer Web](https://developers.google.com/web)
-
-Google Developers- Google Chrome Doc
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
-* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
-* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
-* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
-* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Developers- Google Chrome Tools
-* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-<!--
-https://developers.google.com/web/tools/service-worker-libraries
-
-https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-
-https://developers.google.com/cast/docs/developers
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools/
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/getstarted
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-Miscellaneous
-https://bugs.chromium.org/p/v8/issues/list
-
-https://toolbox.googleapps.com/apps/har_analyzer/
-
-http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
-http://www.ibm.com/developerworks/library/os-extendchrome/
-https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
-http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-http://docs.ionic.io/docs/chrome-inspector
-http://developer.samsung.com/technical-doc/view.do?v=T000000203
-https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
-https://dev.twitter.com/web/embedded-timelines
-
-https://www.codeschool.com/courses/discover-devtools
-
-https://developer.mozilla.org/en-US/docs/Chrome_Registration
--->
-
 Google Analytics
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 Google Ads
@@ -1003,10 +934,6 @@ Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s
--->
 
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
@@ -1316,6 +1243,26 @@ Web Browser
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 
+<!--
+https://en.wikipedia.org/wiki/Microsoft_Edge
+https://en.wikipedia.org/wiki/Opera_(web_browser)
+-->
+
+<!--
+https://docs.python.org/3/library/xml.dom.html
+
+Statistics
+OS
+Display
+Mobile
+
+IE
+Chrome
+Firefox
+Safari
+Opera
+-->
+
 Mac OS X- OS,  Browser, Layout Engine
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
 * [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
@@ -1330,6 +1277,146 @@ Mac OS X- Architecture
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
 * [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Apple iOS
+* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+
+Web Browser and JavaScript Engines (See also JavaScript)- General
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
+* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
+* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+Emoji and Other Funny Keyboard Shortcode 
+* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
+* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
+
+#### Developer Tools
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Developers- Web
+* [Google Developer Web](https://developers.google.com/web)
+
+Google Developers- Google Chrome Doc
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
+* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
+* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
+* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
+* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
+* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Developers- Google Chrome Tools
+* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+<!--
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+
+https://developers.google.com/cast/docs/developers
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+Miscellaneous
+https://bugs.chromium.org/p/v8/issues/list
+
+https://toolbox.googleapps.com/apps/har_analyzer/
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://docs.ionic.io/docs/chrome-inspector
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines
+
+https://www.codeschool.com/courses/discover-devtools
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+-->
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+
+#### Development Environment and Programming
+
+#### More Command Line and Shell
+
+See also Bash and PowerShell<br>
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
+
+Command Line
+* [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
+* [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
+* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
+
+Shell
+* [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
+* [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
+* [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
+
+Comparison of Command Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 
 Mac OS X- Terminal, Bash (Unix)
 * [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
@@ -1355,115 +1442,6 @@ http://www.tldp.org/LDP/abs/html
 http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 -->
 
-Apple iOS
-* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
-
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-
-Windows- PowerShell
-* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
-* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
-* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
-* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
-* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
-
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-
-<!--
-https://en.wikipedia.org/wiki/Microsoft_Edge
-https://en.wikipedia.org/wiki/Opera_(web_browser)
--->
-
-<!--
-https://docs.python.org/3/library/xml.dom.html
-
-Statistics
-OS
-Display
-Mobile
-
-IE
-Chrome
-Firefox
-Safari
-Opera
--->
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-Emoji and Other Funny Keyboard Shortcode 
-* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
-* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
-* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
-
-#### Development Environment and Programming
-
-#### More Command Line and Shell
-
-See also Bash and PowerShell<br>
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
-
-Command Line
-* [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
-* [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
-* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
-
-Notable Terminology
-* [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
-* [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
-* [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
-
-Shell
-* [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
-* [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
-* [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
-
-Comparison of Command Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-
-Integrated Development Environment
-* [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
-* [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
-
-cURL
-* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
-* [WGet](https://www.gnu.org/software/wget)
-
 Unix
 * [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 
@@ -1473,17 +1451,17 @@ Unix Shell (See also Unix)
 * [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
 
+Notable Terminology
+* [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+* [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
+* [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
+
 POSIX (Compatible with Unix)
 * [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
 
 <!--
 http://www.unix.com/man-page/posix/1posix/eval/
 -->
-
-Zsh (Bash Alternative)
-* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
-* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh)  
 
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
@@ -1499,6 +1477,18 @@ Emacs and Vim (Text Editors)
 Nano
 * [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
 
+Windows- PowerShell
+* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
+* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
+* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
+* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
+* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
+
+Zsh (Bash Alternative)
+* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
+* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh) 
+
 More Shell/Text Editors (See also Visual Studio and XCode)
 * [Sublime Text Editor](http://www.sublimetext.com)
 * [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
@@ -1507,6 +1497,14 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [Orgmode.org/features](http://orgmode.org/features.html)  
 * [.emacs.d](https://github.com/seshness/.emacs.d)  
 * [Lighttable](http://www.lighttable.com)  
+
+cURL and Wget
+* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+* [WGet](https://www.gnu.org/software/wget)
+
+Integrated Development Environment
+* [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
+* [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
 
 #### Dot Files
 
@@ -2033,6 +2031,7 @@ Documentation- Mozilla
 Documentation- W3C
 * [The World Wide Web Consortium (W3C)](http://www.w3.org) and * [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
 GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software/software.html)  
@@ -2307,10 +2306,6 @@ Kickstarters
 * [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
 
 <!--
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-
 https://developer.mozilla.org/en-US/Apps
 https://developer.mozilla.org/en-US/docs/Web/Reference
 https://developer.mozilla.org/en-US/docs/Web/Guide
@@ -4653,6 +4648,8 @@ Docker
 * [Docker GitHub](https://github.com/docker/docker)  
 * [Docker Hub](https://hub.docker.com)
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
+
+* [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s)
 
 VMware, Vagrant, VirtualBox
 * [VMware](http://www.vmware.com)  
