@@ -45,6 +45,7 @@ Table of Content
   * [Apple](#apple)
   * [OS, Shell, Browser](#os-shell-browser)
   * [Developer Tools](#developer-tools)
+  * [Keyboard Shortcuts](#keyboard-shortcuts)
 * [Development Environment and Programming](#development-environment-and-programming)
   * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
@@ -922,7 +923,7 @@ Watson Design Guide
 
 #### Computer Basics
 
-Computer glasses (*solarized dark*)
+Computer Classes (*solarized dark*)
 * [Gunnars](http://www.gunnars.com)
 
 Wikipedia Portals
@@ -1244,7 +1245,6 @@ Web Browser
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 
 <!--
-https://en.wikipedia.org/wiki/Microsoft_Edge
 https://en.wikipedia.org/wiki/Opera_(web_browser)
 -->
 
@@ -1256,11 +1256,7 @@ OS
 Display
 Mobile
 
-IE
-Chrome
 Firefox
-Safari
-Opera
 -->
 
 Mac OS X- OS,  Browser, Layout Engine
@@ -1294,10 +1290,14 @@ Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
-Windows
+Windows and IE
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 * [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+
+<!--
+https://en.wikipedia.org/wiki/Microsoft_Edge
+-->
 
 Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
@@ -1310,16 +1310,6 @@ Comparison of Layout Engines (By DOM and ECMA Script)
 * [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
 * [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 * [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-Emoji and Other Funny Keyboard Shortcode 
-* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
-* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
-* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
 
 #### Developer Tools
 
@@ -1397,6 +1387,18 @@ Safari Developer Tools
 
 Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+
+#### Keyboard Shortcuts
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+Emoji and Other Funny Keyboard Shortcode 
+* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
+* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
 
 #### Development Environment and Programming
 
