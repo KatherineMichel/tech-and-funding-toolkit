@@ -1298,6 +1298,7 @@ WebKit Parts
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
 <!--
+http://ftp.gnu.org
 http://gcc.gnu.org
 http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro
 http://en.wikipedia.org/wiki/GNU_readline
@@ -1357,6 +1358,10 @@ Comparison of Layout Engines (By DOM and ECMA Script)
 
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+
+<!--
+https://developers.google.com/maps/documentation/javascript
+-->
 
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
@@ -3616,6 +3621,13 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 
 Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+<!--
+Startup MOOC
+https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
+https://docs.python.org/2/reference/grammar.html
+https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
+-->
 
 <!--
 http://awesome-python.com
