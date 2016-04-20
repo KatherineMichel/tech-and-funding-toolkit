@@ -1002,7 +1002,6 @@ HTTP
 
 <!--
 http://en.wikipedia.org/wiki/HTTP_body_data#Response_example
-http://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Responses
 -->
 
 TCP-IP and OSI Protocols
