@@ -799,6 +799,11 @@ Facebook Tools
 Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 
+<!--
+Facebook's Advertisers Tool
+https://developers.facebook.com/docs/javascript
+-->
+
 Google
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
@@ -1051,6 +1056,11 @@ Miscellaneous Vocab
 * [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
+<!--
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+-->
+
 #### Operating Systems
 
 #### Unix and Linux
@@ -1069,6 +1079,8 @@ Unix Shell and File system
 * [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
 <!--
+http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities
+
 https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout
 -->
 
@@ -1087,6 +1099,11 @@ Linux
 * [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
 * [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
 * [Linux Journal](http://www.linuxjournal.com)  
+
+<!--
+http://www.tldp.org
+http://www.tldp.org/LDP
+-->
 
 Linux- Ubuntu (Debian)
 * [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
@@ -1276,6 +1293,14 @@ WebKit Parts
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
+<!--
+http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro
+http://en.wikipedia.org/wiki/GNU_readline
+https://en.wikipedia.org/wiki/GNU_Compiler_Collection
+Mac OS X
+https://en.wikipedia.org/wiki/LLVM
+-->
+
 Mac OS X- Architecture
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
@@ -1302,6 +1327,12 @@ Windows, IE, and Edge
 * [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 * [Microsoft Edge Web Browser](https://en.wikipedia.org/wiki/Microsoft_Edge)
+
+<!--
+http://technet.microsoft.com/en-us 
+
+http://cygwin.com
+-->
 
 Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
@@ -1480,6 +1511,10 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
+http://www.gnu.org/software/bash/manual  
+-->
+
+<!--
 http://linux.die.net/man/1/bash
 
 http://pubs.opengroup.org/onlinepubs/9699919799/
@@ -1527,7 +1562,6 @@ Emacs and Vim (Text Editors)
 Emacsformacosx.com
 http://www.emacswiki.org
 http://www.emacswiki.org/emacs
-http://www.gnu.org/software/emacs/
 -->
 
 Nano
@@ -1588,6 +1622,10 @@ Startup Class Dotfiles and AWS EC2 Setup
 * [Course EC2 Setup](https://github.com/startup-class/setup)  
 * [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
 
+<!--
+https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
+-->
+
 #### Git and Markdown
 
 Git
@@ -1609,6 +1647,21 @@ A Successful Git Branching Model
 Learn X in Y Minutes Git and Markdown
 * [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
+
+<!--
+Git-scm.com/book
+http://git-scm.com
+http://git-scm.com/book
+http://git-scm.com/book/ch3-2.html
+http://git-scm.com/book/ch9-5.html
+http://git-scm.com/book/en/Git-Basics-Tagging
+
+http://gitref.org
+http://gitref.org/branching
+
+https://help.github.com/articles/fork-a-repo
+https://github.com/blog/1256-new-user-profile-pages
+-->
 
 Git- Official Learning Resources
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
@@ -2320,6 +2373,10 @@ XML, XHTML
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 -->
 
+<!--
+http://www.json.org/xml.html
+-->
+
 Responsiveness- and Media Queries
 * [Media Queries Examples](http://mediaqueri.es)
 * [Bootstrap CSS](http://getbootstrap.com/css)
@@ -2554,6 +2611,12 @@ JavaScript Tutorials
 * [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
+<!--
+Eloquent JavaScript
+http://eloquentjavascript.net/chapter6.html
+http://eloquentjavascript.net/chapter8.html  
+-->
+
 JavaScript Tutorials- Mozilla
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
@@ -2567,6 +2630,29 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
+
+http://www.w3schools.com/js/js_popup.asp
+http://www.w3schools.com/jsref/event_onload.asp
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#Non-constructor_functions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+-->
 
 W3C DOM4
 * [W3C DOM4](https://www.w3.org/TR/dom)
@@ -2618,6 +2704,12 @@ jQuery
 * [jQuery Boilerplate GitHub](https://github.com/jquery-boilerplate/jquery-boilerplate)  
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
+
+<!--
+http://api.jquery.com
+http://learn.jquery.com 
+http://learn.jquery.com/using-jquery-core
+-->
 
 jQuery Tutorials
 * [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
@@ -2734,6 +2826,12 @@ Node.js
 
 <!--
 http://nodejs.org/api
+
+Node.js Debugger
+http://nodejs.org/api/debugger.html#debugger_breakpoints
+https://nodejsmodules.org/
+https://github.com/sequelize/sequelize
+https://github.com/caolan/async
 -->
 
 Node.js Launch and Ryan Dahl
@@ -4181,6 +4279,10 @@ Apache (See also mod_wsgi)
 * [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
 * [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
+<!--
+http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
+-->
+
 SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
 * [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
@@ -4786,6 +4888,10 @@ Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versu
 * [Nginx](http://nginx.com/products)  
 * [Nginx GitHub](https://github.com/nginx/nginx)  
 * [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx)  
+
+<!--
+http://wiki.nginx.org
+-->
 
 Jenkins CI and Travis CI (Continuous Integration)
 * [Jenkins](http://jenkins-ci.org)  
