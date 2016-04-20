@@ -5135,6 +5135,10 @@ Android
 * [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
 * [MIT App Inventor](http://appinventor.mit.edu/explore) and [MIT App Inventor Set Up](http://appinventor.mit.edu/explore/ai2/setup.html)
 
+<!--
+https://github.com/googlesamples/android-architecture
+-->
+
 CyanogenMod
 * [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
 
@@ -6234,6 +6238,10 @@ Email
 * [Mandrill](http://mandrill.com)  
 * [SendGrid](http://sendgrid.com)  
  
+<!--
+https://github.com/mailchimp/email-blueprints
+-->
+
 Group Communication/Chat
 * [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
 * [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
