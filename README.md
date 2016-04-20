@@ -1000,6 +1000,11 @@ HTTP
 * [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
 
+<!--
+http://en.wikipedia.org/wiki/HTTP_body_data#Response_example
+http://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Responses
+-->
+
 TCP-IP and OSI Protocols
 * [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 * [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
@@ -1294,6 +1299,7 @@ WebKit Parts
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
 <!--
+http://gcc.gnu.org
 http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro
 http://en.wikipedia.org/wiki/GNU_readline
 https://en.wikipedia.org/wiki/GNU_Compiler_Collection
@@ -1330,6 +1336,8 @@ Windows, IE, and Edge
 
 <!--
 http://technet.microsoft.com/en-us 
+https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
+https://msdn.microsoft.com/en-us/library/aa155073.aspx
 
 http://cygwin.com
 -->
@@ -2153,6 +2161,10 @@ GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software/software.html)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 
+<!--
+http://www.gnu.org/software
+-->
+
 Stack Overflow Developer Survey
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
 * [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
@@ -2951,6 +2963,9 @@ Ruby- Tutorials
 * [Learn X in Y Minutes Ruby Ecosystem](https://learnxinyminutes.com/docs/ruby-ecosystem)
 
 <!--
+Startup MOOC
+http://edgeguides.rubyonrails.org/active_record_basics.html#naming-conventions
+
 http://stackoverflow.com/questions/tagged/ruby-on-rails
 https://github.com/rails/rails
 https://github.com/rails/rails/issues
@@ -4266,6 +4281,12 @@ Types of Databases
 * [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
 * [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
 
+<!--
+http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
+http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
+
 Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
@@ -4364,6 +4385,12 @@ IANA, Domize, DNSimple, Heroku
 * [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)  
 * [DNSimple SSL Certifcate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)  
 * [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
+
+<!--
+http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
+http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
+http://en.wikipedia.org/wiki/Domain_registration#History
+-->
 
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
 * [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
@@ -4529,6 +4556,8 @@ Heroku- General
 All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
 
 https://github.com/heroku/heroku-apps
+
+https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-local-branches-to-remote-apps
 -->
 
 Heroku- Deployment
@@ -6598,6 +6627,10 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
+<!--
+http://www.kpcb.com/articles
+-->
+
 Blogs and Whatnot
 * [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
 * [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
@@ -7299,6 +7332,10 @@ Awards
 * [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
 * [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 * [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
+
+<!--
+http://www.greatachievements.org
+-->
 
 #### Markets and Institutional Investing 
 * [Ben Carlson](http://awealthofcommonsense.com)
