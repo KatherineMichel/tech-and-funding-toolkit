@@ -1410,6 +1410,9 @@ Emoji and Other Funny Keyboard Shortcode
 #### More Command Line and Shell
 
 <!--
+http://www.gnu.org/software/bash/manual
+http://www.tldp.org/LDP/abs/html
+
 https://developer.apple.com/app-store/business-models
 
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
@@ -1429,6 +1432,11 @@ https://en.wikipedia.org/wiki/List_of_GNU_packages
 https://en.wikipedia.org/wiki/KDE
 https://en.wikipedia.org/wiki/List_of_KDE_applications
 https://en.wikipedia.org/wiki/List_of_Unix_daemons
+-->
+
+<!--
+Sha-bang
+http://tldp.org/LDP/abs/html/sha-bang.html
 -->
 
 See also Bash and PowerShell<br>
@@ -1596,6 +1604,11 @@ Git Cheat Sheets and Tutorials
 * [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
 * [Git Index](http://gitref.org/index.html)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
+
+<!--
+Git Branching
+http://www.atlassian.com/git/tutorial/git-branches#!branch
+-->
 
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
@@ -2695,6 +2708,10 @@ Node.js
 * [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org)  
+
+<!--
+http://nodejs.org/api
+-->
 
 Node.js Launch and Ryan Dahl
 * [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
