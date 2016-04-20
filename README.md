@@ -4669,6 +4669,58 @@ Startup Mooc Staging Example: GitHub, AWS, Heroku
 * [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
 * Illustration: Startup Engineering Dev, Staging, Production
 
+<!--
+Lecture 11: Regulation, Disruption, and the Technologies of 2013. https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf
+
+Lecture 0: Course Overview 
+https://class.coursera.org/startup-001/lecture/57
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf
+
+Lecture 1: Introduction 
+https://class.coursera.org/startup-001/lecture/33
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf
+
+Lecture 2: Interactive Start 
+http://class.coursera.org/startup-001/lecture/75
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf
+
+Lecture 3: Linux and Server Side Javascript 
+https://class.coursera.org/startup-001/lecture/index
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf
+
+Lecture 3: Linux and Server-Side Javascript 
+https://class.coursera.org/startup-001/lecture/99
+href="https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf
+
+Lecture 4A: Linux Command Line 
+https://class.coursera.org/startup-001/lecture/131
+https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf
+
+Lecture 4B: Development Environment (<a href="https://class.coursera.org/startup-001/lecture/155 https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf
+
+Lecture 7: Deployment, DNS, and Custom Domains (<a https://class.coursera.org/startup-001/lecture/197
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf
+
+Lecture 12: Node JS: Async, Flow Control, Node Debugging 
+https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf
+
+Lecture 6: Introduction to HTML/CSS/JS
+https://class.coursera.org/startup-001/lecture/193
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf
+
+Lecture 10: Intermediate and Frontend JS
+https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf
+
+Lecture 8: Mobile: HTTP, User Agents, and Responsive Design https://class.coursera.org/startup-001/lecture/199
+https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf
+
+Lecture 9: Why do VCs love mobile, local, and social? And what they love next? https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf
+
+Lecture 5: Market Research, Wireframing, Design
+https://class.coursera.org/startup-001/lecture/189
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf
+-->
+
 Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 
