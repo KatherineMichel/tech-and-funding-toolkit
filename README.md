@@ -703,6 +703,11 @@ App and Website Statistics- General
 * [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
 * [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
+<!--
+Quantcast Top Million U.S. Websites
+Alexa Top 500 Websites
+-->
+
 Mobile and Browser
 * [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
 * [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
@@ -1305,6 +1310,11 @@ http://en.wikipedia.org/wiki/GNU_readline
 https://en.wikipedia.org/wiki/GNU_Compiler_Collection
 Mac OS X
 https://en.wikipedia.org/wiki/LLVM
+
+http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
+
+gnu/windows
+https://en.wikipedia.org/wiki/GNU_Hurd
 -->
 
 Mac OS X- Architecture
@@ -2102,6 +2112,9 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+http://www.gnu.org/doc/other-free-books.html
+https://github.com/vhf/free-programming-books
+
 HTML Graphics
 http://www.w3schools.com/canvas/default.asp
 Learn Canvas
@@ -4316,6 +4329,8 @@ Apache (See also mod_wsgi)
 * [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
 <!--
+Httpd.apache.org
+
 http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
 -->
 
@@ -7503,6 +7518,11 @@ MOOCs
 STEM and STEAM
 * [STEM to STEAM](http://stemtosteam.org)
 * [STEAM Wikipedia](https://en.wikipedia.org/wiki/STEAM_fields) and [STEAM with Us](http://steamwith.us)
+
+<!--
+https://en.wikipedia.org/wiki/Neuroplasticity
+https://www.khanacademy.org/brainworkout_1
+-->
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
