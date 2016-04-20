@@ -1093,6 +1093,11 @@ Linux- Ubuntu (Debian)
 * [Ubuntu](http://www.ubuntu.com)  
 * [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))  
  
+<!--
+https://help.ubuntu.com/community    
+http://manpages.ubuntu.com
+-->
+
 Linux- Ubuntu Dual Boot
 * [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
 * [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
@@ -1348,12 +1353,22 @@ Google Chrome Doc Archive
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
+Chrome
+https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
+Chrome Secure Shell
+https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
+Chrome User Agent Switcher
+https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en
+
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 
 https://developers.google.com/cast/docs/developers
 
 Old Docs
 * [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/docs
+https://developer.chrome.com/devtools/docs/network
 
 https://developer.chrome.com/devtools/
 https://developer.chrome.com/devtools/docs/console
@@ -1411,7 +1426,6 @@ Emoji and Other Funny Keyboard Shortcode
 
 <!--
 http://www.gnu.org/software/bash/manual
-http://www.tldp.org/LDP/abs/html
 
 https://developer.apple.com/app-store/business-models
 
@@ -1508,6 +1522,13 @@ Emacs and Vim (Text Editors)
 * [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
 * [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
+
+<!--
+Emacsformacosx.com
+http://www.emacswiki.org
+http://www.emacswiki.org/emacs
+http://www.gnu.org/software/emacs/
+-->
 
 Nano
 * [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
@@ -1606,6 +1627,8 @@ Git Cheat Sheets and Tutorials
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
 <!--
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
 -->
@@ -2792,6 +2815,12 @@ Normalization
 * [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
 * [Shim GitHub](https://github.com/marstall/shim)  
 * [Zepto GitHub](https://github.com/madrobby/zepto)  
+
+<!--
+https://www.meteor.com
+http://docs.meteor.com
+http://install.meteor.com
+-->
 
 JavaScript Presentations Frameworks
 * [Slides.com (reveal.js)](https://slides.com)
