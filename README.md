@@ -1078,8 +1078,12 @@ http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-
-https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=numbers%20every%20computer%20engineer%20should%20know
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
 -->
 
 #### Operating Systems
