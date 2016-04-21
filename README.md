@@ -41,9 +41,9 @@ Table of Content
 * [Computer Basics](#computer-basics)
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
-  * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
-  * [Apple](#apple)
   * [OS, Shell, Browser](#os-shell-browser)
+  * [Apple](#apple)
+  * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Developer Tools](#developer-tools)
   * [Keyboard Shortcuts](#keyboard-shortcuts)
 * [Development Environment and Programming](#development-environment-and-programming)
@@ -246,7 +246,7 @@ Database List
 * [Datafox](http://www.datafox.co)
 * [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
 * [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
-* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
+* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
 * [Product Hunt](http://www.producthunt.com) 
 
 Databases and Benchmarking- Freemium
@@ -259,10 +259,6 @@ Databases and Benchmarking- Freemium
 * [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 * [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
-
-<!--
-https://mattermark.com/google-sheets
--->
 
 Europe and U.K.
 * [AngelList U.K.](https://angel.co/uk)
@@ -1071,6 +1067,8 @@ Miscellaneous Vocab
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
 <!--
+https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists
+
 https://en.wikipedia.org/wiki/Console_application
 https://en.wikipedia.org/wiki/Cross-site_scripting
 [Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
@@ -1078,6 +1076,8 @@ https://en.wikipedia.org/wiki/Cross-site_scripting
 [Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
 [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
 [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering)  
+
+http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
@@ -1103,6 +1103,7 @@ Unix Shell and File system
 * [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
 <!--
+Guide to Unix/Commands/File System Utilities
 http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities
 
 https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout
@@ -1162,23 +1163,112 @@ Linux- Other Popular Distributions
 * [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
 * [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
 
-#### Mojombo Chromebook Recommendation
+#### OS, Shell, Browser
 
-* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
-* [Google Chromebook](http://www.google.com/chromebook)
-* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
-* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
-* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
-* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
-* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
-* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+Operating Systems
+* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 
-Chromebook Ubuntu Installation
-* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
-* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
-* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
-* [Crouton GitHub](https://github.com/dnschneid/crouton)  
+Web Browser
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
+
+More Web Browsers (See below)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+* [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+
+<!--
+https://docs.python.org/3/library/xml.dom.html
+
+Statistics
+OS
+Display
+Mobile
+-->
+
+Mac OS X- OS,  Browser, Layout Engine
+* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+
+WebKit Parts
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems
+
+http://ftp.gnu.org
+http://gcc.gnu.org
+
+http://en.wikipedia.org/wiki/GNU_readline
+https://en.wikipedia.org/wiki/GNU_Compiler_Collection
+Mac OS X
+https://en.wikipedia.org/wiki/LLVM
+
+gnu/windows
+https://en.wikipedia.org/wiki/GNU_Hurd
+
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/List_of_GNU_packages
+https://en.wikipedia.org/wiki/KDE
+https://en.wikipedia.org/wiki/List_of_KDE_applications
+https://en.wikipedia.org/wiki/List_of_Unix_daemons
+-->
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Apple iOS
+* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
+
+Windows, IE, and Edge
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Microsoft Edge Web Browser](https://en.wikipedia.org/wiki/Microsoft_Edge)
+
+<!--
+http://technet.microsoft.com/en-us 
+https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
+https://msdn.microsoft.com/en-us/library/aa155073.aspx
+
+http://cygwin.com
+-->
+
+Web Browser and JavaScript Engines (See also JavaScript)- General
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
+* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
+* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
 
 #### Apple
 
@@ -1270,108 +1360,29 @@ Mac Update
 * [Mac Update](http://www.macupdate.com)
 
 <!--
+https://developer.apple.com/app-store/business-models
+
 https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
 
-#### OS, Shell, Browser
+#### Mojombo Chromebook Recommendation
 
-Operating Systems
-* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
+* [Google Chromebook](http://www.google.com/chromebook)
+* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
+* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
+* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
+* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
+* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
 
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
-
-More Web Browsers (See below)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-* [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-
-<!--
-https://docs.python.org/3/library/xml.dom.html
-
-Statistics
-OS
-Display
-Mobile
--->
-
-Mac OS X- OS,  Browser, Layout Engine
-* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
-* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
-* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-
-WebKit Parts
-* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-
-<!--
-http://ftp.gnu.org
-http://gcc.gnu.org
-http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro
-http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Compiler_Collection
-Mac OS X
-https://en.wikipedia.org/wiki/LLVM
-
-gnu/windows
-https://en.wikipedia.org/wiki/GNU_Hurd
--->
-
-Mac OS X- Architecture
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
-
-Apple iOS
-* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
-
-Windows, IE, and Edge
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Microsoft Edge Web Browser](https://en.wikipedia.org/wiki/Microsoft_Edge)
-
-<!--
-http://technet.microsoft.com/en-us 
-https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
-https://msdn.microsoft.com/en-us/library/aa155073.aspx
-
-http://cygwin.com
--->
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
-* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
+Chromebook Ubuntu Installation
+* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
+* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
+* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
+* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
+* [Crouton GitHub](https://github.com/dnschneid/crouton)  
 
 #### Developer Tools
 
@@ -1487,9 +1498,12 @@ Emoji and Other Funny Keyboard Shortcode
 #### More Command Line and Shell
 
 <!--
-http://www.gnu.org/software/bash/manual
+https://help.ubuntu.com/community/UsingTheTerminal
+http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
 
-https://developer.apple.com/app-store/business-models
+https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
+
+http://www.gnu.org/software/bash/manual
 
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
 
@@ -1501,27 +1515,6 @@ https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/
 https://en.wikibooks.org/wiki/Grep
 https://en.wikibooks.org/wiki/AWK
 https://en.wikibooks.org/wiki/Sed
-
-https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/List_of_GNU_packages
-https://en.wikipedia.org/wiki/KDE
-https://en.wikipedia.org/wiki/List_of_KDE_applications
-https://en.wikipedia.org/wiki/List_of_Unix_daemons
--->
-
-<!--
-http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
-http://tldp.org/LDP/abs/html/sha-bang.html
-http://ss64.com/
-http://ss64.com/osx/
-http://ss64.com/bash/
-https://help.ubuntu.com/community/UsingTheTerminal
-https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
-http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
-https://en.wikipedia.org/wiki/Free_Software_Foundation
-https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists
-https://en.wikipedia.org/wiki/Concurrent_Versions_System
 -->
 
 See also Bash and PowerShell<br>
@@ -1551,10 +1544,13 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
-http://www.gnu.org/software/bash/manual  
--->
+http://tldp.org/LDP/abs/html/sha-bang.html
+http://ss64.com/
+http://ss64.com/osx/
+http://ss64.com/bash/
 
-<!--
+http://www.gnu.org/software/bash/manual  
+
 http://linux.die.net/man/1/bash
 
 http://pubs.opengroup.org/onlinepubs/9699919799/
@@ -1601,6 +1597,9 @@ Emacs and Vim (Text Editors)
 <!--
 Emacsformacosx.com
 http://www.emacswiki.org/emacs
+
+http://www.gnu.org/software/emacs/manual/
+http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro
 
 http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
 -->
@@ -1721,6 +1720,8 @@ Git Cheat Sheets and Tutorials
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
 <!--
+https://en.wikipedia.org/wiki/Concurrent_Versions_System
+
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 
 Git Branching
@@ -2196,6 +2197,11 @@ Documentation- W3C
 GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+
+<!--
+https://www.gnu.org
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+-->
 
 Stack Overflow Developer Survey
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
