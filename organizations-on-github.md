@@ -123,8 +123,12 @@ Not-for-Profit
 * [Khan Academy](https://github.com/Khan)
 * [O'Reilly Media](https://github.com/oreillymedia)
 * [Udacity](https://github.com/udacity)  
-* [The World Wide Web Consortium (W3C) ](https://github.com/w3c)  
 * [W3Schools](https://github.com/w3schools) 
+
+## Standards
+* [W3C (The World Wide Web Consortium)](https://github.com/w3c)  
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://github.com/whatwg)
+* [WICG (Web Incubator CG)](https://github.com/WICG)
 
 ## Newspapers
 * [Al Jazeera America](https://github.com/ajam)  
