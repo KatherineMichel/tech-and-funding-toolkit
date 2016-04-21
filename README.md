@@ -1071,6 +1071,14 @@ Miscellaneous Vocab
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
 <!--
+https://en.wikipedia.org/wiki/Console_application
+https://en.wikipedia.org/wiki/Cross-site_scripting
+[Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
+[Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
+[Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
+[Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
+[Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering)  
+
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 
@@ -4337,6 +4345,10 @@ Apache (See also mod_wsgi)
 * [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
 <!--
+http://en.wikipedia.org/wiki/.htaccess
+https://en.wikipedia.org/wiki/Httpd.conf
+http://httpd.apache.org/docs/current/configuring.html
+
 http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
 -->
 
@@ -6226,6 +6238,10 @@ Google Products, Office
 * [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
 * [Let Me Google that for You](http://lmgtfy.com) 
 
+<!--
+https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en
+-->
+
 API
 * [Blockspring](https://www.blockspring.com)
 
@@ -6677,6 +6693,10 @@ Startup Studios
 * [Betaworks](https://betaworks.com)
 * [Expa](http://expa.com) and [Expa Labs](http://expa.com/labs)
 * [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
+
+<!--
+https://betaworks.com/botcamp
+-->
 
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
