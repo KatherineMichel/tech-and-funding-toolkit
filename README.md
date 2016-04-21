@@ -1311,8 +1311,6 @@ https://en.wikipedia.org/wiki/GNU_Compiler_Collection
 Mac OS X
 https://en.wikipedia.org/wiki/LLVM
 
-http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
-
 gnu/windows
 https://en.wikipedia.org/wiki/GNU_Hurd
 -->
@@ -1582,8 +1580,9 @@ Emacs and Vim (Text Editors)
 
 <!--
 Emacsformacosx.com
-http://www.emacswiki.org
 http://www.emacswiki.org/emacs
+
+http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
 -->
 
 Nano
@@ -2175,12 +2174,8 @@ Documentation- W3C
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
 GNU Software and Manuals
-* [GNU Software](http://www.gnu.org/software/software.html)  
+* [GNU Software](http://www.gnu.org/software)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
-
-<!--
-http://www.gnu.org/software
--->
 
 Stack Overflow Developer Survey
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
@@ -2339,7 +2334,7 @@ HTML and CSS Tutorials- General
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
 
 <!--
-http://www.w3schools.com/html/tryit.asp
+http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic
 -->
 
 HTML and CSS Tutorials- Mozilla
@@ -2732,20 +2727,20 @@ AJAX
 jQuery
 * [jQuery](https://jquery.com)
 * [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery)  and [jQuery GitHub](https://github.com/jquery/jquery)  
+* [jQuery API](http://api.jquery.com)
+* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
+* [jQuery Learning Center](http://learn.jquery.com)
+
+<!--
+http://learn.jquery.com/using-jquery-core
+-->
+
+jQuery Extras
 * [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
 * [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
 * [jQuery Boilerplate GitHub](https://github.com/jquery-boilerplate/jquery-boilerplate)  
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
-
-<!--
-http://api.jquery.com
-http://learn.jquery.com 
-http://learn.jquery.com/using-jquery-core
--->
-
-jQuery Tutorials
-* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
 
 #### JavaScript Ecosystem
 
@@ -2947,11 +2942,8 @@ Normalization
 * [Shim GitHub](https://github.com/marstall/shim)  
 * [Zepto GitHub](https://github.com/madrobby/zepto)  
 
-<!--
-https://www.meteor.com
-http://docs.meteor.com
-http://install.meteor.com
--->
+Meteor
+* [Meteor](https://www.meteor.com)
 
 JavaScript Presentations Frameworks
 * [Slides.com (reveal.js)](https://slides.com)
@@ -3127,6 +3119,10 @@ PHP- WordPress- Developer Resource
 * [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
 
 <!--
+https://wordpress.org/support/topic/how-to-deploy-a-complete-wordpress-site-to-customers-server
+-->
+
+<!--
 WordPress Importer (Recommended)
 https://wordpress.org/plugins/wordpress-importer/
 
@@ -3265,7 +3261,7 @@ WordPress Theme Development (not "Using Themes")
 * [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
 
 WP eCommerce
-* [WooCommerce](https://www.woothemes.com)
+* [WooCommerce](https://www.woothemes.com) and [WooCommerce GitHub](https://github.com/woothemes/woocommerce)
 * [WooCommerce Hosting Solutions](https://www.woothemes.com/hosting-solutions)
 
 WP Engine
@@ -4334,11 +4330,8 @@ http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
 
 SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
 * [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
-
-<!--
-http://www.w3schools.com/sql/default.asp
--->
 
 SQLite (RDBMS, written in C)
 * [SQLite](http://sqlite.org)  
@@ -4365,10 +4358,6 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [MySQL Downloads (DMG)](http://dev.mysql.com/downloads/mysql) 
 * [MySQL GitHub](https://github.com/twitter/mysql)  
 * [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
-
-<!--
-http://dev.mysql.com/doc/refman/5.7/en/
--->
 
 Sequel Pro (Recommended and MAMP bundled)
 * [Sequel Pro](http://www.sequelpro.com)
