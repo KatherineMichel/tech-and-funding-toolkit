@@ -260,6 +260,10 @@ Databases and Benchmarking- Freemium
 * [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
 
+<!--
+https://mattermark.com/google-sheets
+-->
+
 Europe and U.K.
 * [AngelList U.K.](https://angel.co/uk)
 * [Tech EU App Database Companies](https://app.tech.eu/companies)
@@ -800,6 +804,12 @@ Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 
 <!--
+https://developers.facebook.com/docs/messenger-platform
+https://live.fb.com
+https://github.com/fbsamples/f8app
+http://makeitopen.com/
+https://github.com/facebook/origami
+
 Facebook's Advertisers Tool
 https://developers.facebook.com/docs/javascript
 -->
@@ -6117,6 +6127,11 @@ Google
 * [Startup Resources](http://startupresources.io)
 * [Startup Stash](http://startupstash.com)
 
+<!--
+https://github.com/minimaxir/big-list-of-naughty-strings
+https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+-->
+
 Awesome
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -7505,6 +7520,11 @@ STEM and STEAM
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
+
+<!--
+Stanford Encyclopedia of Philosophy
+http://plato.stanford.edu
+-->
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
