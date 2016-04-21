@@ -1493,8 +1493,17 @@ https://en.wikipedia.org/wiki/List_of_Unix_daemons
 -->
 
 <!--
-Sha-bang
+http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 http://tldp.org/LDP/abs/html/sha-bang.html
+http://ss64.com/
+http://ss64.com/osx/
+http://ss64.com/bash/
+https://help.ubuntu.com/community/UsingTheTerminal
+https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
+http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists
+https://en.wikipedia.org/wiki/Concurrent_Versions_System
 -->
 
 See also Bash and PowerShell<br>
