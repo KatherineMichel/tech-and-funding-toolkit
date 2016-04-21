@@ -2615,6 +2615,10 @@ Scripting and MVCs
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 
+<!--
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+-->
+
 Miscellaneous Programming Languages
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
@@ -3835,6 +3839,7 @@ Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python p
 Dedicated Python Hosting
 * [Gondor (on Kubernetes)](https://gondor.io)
 * [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
+* [pykube GitHub](https://github.com/eldarion-gondor/pykube)
 * [Python Anywhere](https://www.pythonanywhere.com) 
 
 Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
