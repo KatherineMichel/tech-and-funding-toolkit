@@ -700,13 +700,8 @@ App and Website Statistics- General
 * [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
 * [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
 * [Gallup](http://www.gallup.com/home.aspx)
-* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites](https://www.quantcast.com/top-sites) 
+* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites) 
 * [ComScore](http://www.comscore.com/Insights/Market-Rankings)
-
-<!--
-Quantcast Top Million U.S. Websites
-Alexa Top 500 Websites
--->
 
 Mobile and Browser
 * [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
@@ -1068,6 +1063,8 @@ Miscellaneous Vocab
 <!--
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=numbers%20every%20computer%20engineer%20should%20know
 -->
 
 #### Operating Systems
@@ -1118,12 +1115,8 @@ Linux- Ubuntu (Debian)
 * [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
 * [Ubuntu](http://www.ubuntu.com)  
 * [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))  
+* [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
  
-<!--
-https://help.ubuntu.com/community    
-http://manpages.ubuntu.com
--->
-
 Linux- Ubuntu Dual Boot
 * [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
 * [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
