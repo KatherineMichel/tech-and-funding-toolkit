@@ -134,6 +134,11 @@ Not-for-Profit
 * [Bloomberg](https://github.com/bloomberg)  
 * [Buzzfeed](https://github.com/buzzfeed)  
 * [Buzzfeed News](https://github.com/buzzfeednews)  
+
+<!--
+https://github.com/BuzzFeedNews/everything
+-->
+
 * [Census Reporter](https://github.com/censusreporter) 
 * [Data Desk](https://github.com/datadesk)  
 * [Duke Chronicle](https://github.com/dukechronicle)
@@ -238,6 +243,12 @@ Not-for-Profit
 * [MailChimp](https://github.com/mailchimp)  
 * [Mashery](https://github.com/mashery)  
 * [Medium](https://github.com/medium)
+
+<!--
+https://github.com/Medium/opensource
+https://github.com/Medium/medium-policy
+-->
+
 * [Meetup](https://github.com/meetup)  
 * [Mixpanel](https://github.com/mixpanel)
 * [Netflix](https://github.com/Netflix)  
