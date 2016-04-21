@@ -292,6 +292,9 @@ Other
 Ruby on Rails
 * [Ruby on Rails](http://rubyonrails.org) 
 
+RailsBridge
+* [RailsBridge GitHub](https://github.com/railsbridge/railsbridge_dot_org)
+
 * [Crowdtilt GitHub](https://github.com/Crowdtilt/CrowdtiltOpen)  
 * [Crowdtilt Balanced Payments GitHub](https://github.com/Crowdtilt/Business-BalancedPayments)  
 
