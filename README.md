@@ -2212,6 +2212,8 @@ https://github.com/WICG/incubation-template/blob/gh-pages/index.html
 https://github.com/w3c/html
 https://github.com/whatwg/dom
 
+https://whatwg.org
+
 https://github.com/tabatkins/bikeshed
 https://github.com/tabatkins?tab=repositories
 -->
@@ -4733,6 +4735,55 @@ Startup Mooc Staging Example: GitHub, AWS, Heroku
 * Illustration: Startup Engineering Dev, Staging, Production
 
 <!--
+Lecture 1: Figure 1: Signoidal curve for the development of an industry
+Lecture 1: Table 1: Future and current/ongoing technological trends
+Lecture 1: Table 2: An overview of technologies used in the course                                
+Lecture 1: Figure 5: The Rise and Fall of Personal Computing
+
+Lecture 2: Figure 1: Goal
+Lecture 2: Figure 2: Startup Engineering Dev and Deployment 
+Lecture 2: Figure 4: Chrome User Agent Switcher
+Lecture 2: Figure 5: Closing using GUI
+Lecture 2: Figure 6: Closing using CLI
+Lecture 2: Figure 7-12: Apple Terminal
+Lecture 2: Figure 13-24: Cygwin
+Lecture 2: Figure 25: Ping
+Lecture 2: Figure 26-40: AWS
+Lecture 2: Figure 40-42: Gravatar
+Lecture 2: Figure 43-45: GitHub
+Lecture 2: Figure 46-51: Heroku
+Lecture 2: Figure 52-65: AWS
+Lecture 2: Figure 66: Apple
+Lecture 2: Figure 67-70: Cygwin
+Lecture 2: Figure 71-72: AWS
+Lecture 2: Figure 73: SSH
+Lecture 2: Figure 74: AWS Ubuntu
+Lecture 2: Figure 75: Local Versus Remote Commands
+Lecture 2: Figure 76-83: SSH
+Lecture 2: Figure 84: Goal
+Lecture 3: Figure 1: Virtualization
+Lecture 3: Figure 2-6: SSH
+Lecture 4a: Figures: All Technical
+Lecture 4b: Figures: All Technical
+
+Lecture 5: Table 5: The Idea State Machine
+Lecture 5: Figure 1: Visualizing the Idea Maze
+Lecture 5: Figure 2-3: Implement the 'One-Thing’
+Lecture 5: Table 2: A Product that Exhibits an Economy of Scale
+Lecture 5: Figures 4 and 5: A Product with an Economy of Scale                              
+Lecture 5: Figure 6: Qualitative Graph of Market Size
+Lecture 5: Figure 7: Facebook Census Tool
+Lecture 5: Figure 8: Google Keyword Planner
+Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
+Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
+
+Lecture 7: Figure 1-3: Dev, Staging, Production
+Lecture 7: Figure 4-19: SSH, including Bitstarter
+Lecture 7: Figure 20: Dev, Staging, Production
+Lecture 7: Figure 20-34: SSH
+Lecture 7: Figure 35-43: Domize and DNSimple
+Lecture 7: Figure 44-46: SSH
+
 Lecture 11: Regulation, Disruption, and the Technologies of 2013. https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf
 
 Lecture 0: Course Overview 
