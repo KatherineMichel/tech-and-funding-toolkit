@@ -1212,8 +1212,6 @@ https://en.wikipedia.org/wiki/LLVM
 gnu/windows
 https://en.wikipedia.org/wiki/GNU_Hurd
 
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/List_of_GNU_packages
 https://en.wikipedia.org/wiki/KDE
 https://en.wikipedia.org/wiki/List_of_KDE_applications
 https://en.wikipedia.org/wiki/List_of_Unix_daemons
@@ -2224,6 +2222,11 @@ Free Software Foundation
 GNU Software and Manuals
 * [GNU](https://www.gnu.org) and [GNU Software](http://www.gnu.org/software)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+
+<!--
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/List_of_GNU_packages
+-->
 
 Stack Overflow Developer Survey
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
