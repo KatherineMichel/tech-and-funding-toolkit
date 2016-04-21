@@ -2215,20 +2215,19 @@ Standards
 ## Standards
 https://wicg.github.io/admin/charter.html
 https://github.com/WICG/incubation-template/blob/gh-pages/index.html
-https://github.com/tabatkins/bikeshed
-https://github.com/tabatkins?tab=repositories
 https://github.com/w3c/html
 https://github.com/whatwg/dom
+
+https://github.com/tabatkins/bikeshed
+https://github.com/tabatkins?tab=repositories
 -->
+
+Free Software Foundation
+* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
 GNU Software and Manuals
-* [GNU Software](http://www.gnu.org/software)  
+* [GNU](https://www.gnu.org) and [GNU Software](http://www.gnu.org/software)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
-
-<!--
-https://www.gnu.org
-https://en.wikipedia.org/wiki/Free_Software_Foundation
--->
 
 Stack Overflow Developer Survey
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
