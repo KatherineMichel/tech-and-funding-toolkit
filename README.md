@@ -1689,6 +1689,9 @@ Learn X in Y Minutes Git and Markdown
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 <!--
+https://git-scm.com/docs/git-tag
+https://git-scm.com/book/en/v2/Git-Basics-Tagging
+
 Git-scm.com/book
 http://git-scm.com
 http://git-scm.com/book
@@ -2132,6 +2135,17 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://egghead.io/series/learn-to-use-vim
+https://egghead.io/tags/free
+https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
+https://egghead.io/lessons/javascript-intro-to-webpack
+https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
+
+http://campus.codeschool.com/courses/mastering-github/level/1/section/4/video/1
+http://campus.codeschool.com/courses/app-evolution-with-swift/subscribe
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+http://campus.codeschool.com/courses/app-evolution-with-swift/level/4/section/1/creating-a-table-view
+
 http://www.gnu.org/doc/other-free-books.html
 https://github.com/vhf/free-programming-books
 
@@ -2193,6 +2207,15 @@ Documentation- W3C
 * [The World Wide Web Consortium (W3C)](http://www.w3.org) and * [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
+
+<!--
+https://wicg.github.io/admin/charter.html
+https://github.com/WICG/incubation-template/blob/gh-pages/index.html
+https://github.com/tabatkins/bikeshed
+https://github.com/tabatkins?tab=repositories
+https://github.com/w3c/html
+https://github.com/whatwg/dom
+-->
 
 GNU Software and Manuals
 * [GNU Software](http://www.gnu.org/software)  
