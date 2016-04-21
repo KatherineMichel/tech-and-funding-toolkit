@@ -4323,14 +4323,12 @@ Shard
 Apache (See also mod_wsgi)
 * [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
 * [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
-* [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+* [Apache HTTP Server Project](http://httpd.apache.org) and [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 * [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
 * [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
 * [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
 <!--
-Httpd.apache.org
-
 http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
 -->
 
@@ -4998,11 +4996,8 @@ Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
 Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
 * [Nginx](http://nginx.com/products)  
 * [Nginx GitHub](https://github.com/nginx/nginx)  
-* [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx)  
-
-<!--
-http://wiki.nginx.org
--->
+* [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
+* [Nginx Wiki](http://wiki.nginx.org)
 
 Jenkins CI and Travis CI (Continuous Integration)
 * [Jenkins](http://jenkins-ci.org)  
@@ -5131,13 +5126,10 @@ Android
 * [Android.com](http://www.android.com), [Android GitHub](https://github.com/android), and [Android Wikipedia](http://en.wikipedia.org/wiki/Android_(operating_system))  
 * [Android Version History](https://en.wikipedia.org/wiki/Android_version_history)
 * [Android Developer](http://developer.android.com/about/index.html) and [Google Developers Android](https://developers.google.com/android)  
+* [Google Samples Android Architecture GitHub](https://github.com/googlesamples/android-architecture)
 * [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
 * [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
 * [MIT App Inventor](http://appinventor.mit.edu/explore) and [MIT App Inventor Set Up](http://appinventor.mit.edu/explore/ai2/setup.html)
-
-<!--
-https://github.com/googlesamples/android-architecture
--->
 
 CyanogenMod
 * [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
@@ -6119,7 +6111,6 @@ Google
 * [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 * [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
 
-
 #### Appendix
 
 #### Other Enormous Tool Lists
@@ -6233,15 +6224,11 @@ API
 * [Blockspring](https://www.blockspring.com)
 
 Email
-* [MailChimp](http://mailchimp.com)
+* [MailChimp](http://mailchimp.com) and [MailChimp Email Blueprints](https://github.com/mailchimp/email-blueprints)
 * [Mailgun](http://www.mailgun.com)  
 * [Mandrill](http://mandrill.com)  
 * [SendGrid](http://sendgrid.com)  
  
-<!--
-https://github.com/mailchimp/email-blueprints
--->
-
 Group Communication/Chat
 * [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
 * [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
@@ -6682,7 +6669,7 @@ Equity
 
 Startup Studios
 * [Betaworks](https://betaworks.com)
-* [Expa](http://expa.com) , [Expa Labs](http://expa.com/labs)
+* [Expa](http://expa.com) and [Expa Labs](http://expa.com/labs)
 * [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 
 Other
@@ -6703,7 +6690,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
 * [Founders Club Learn](https://fundersclub.com/learn)  
 * [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-* [KPCB Insights](https://www.kpcb.com/insights), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
+* [KPCB Articles](http://www.kpcb.com/articles), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
 * [Nasdaq Entrepreneurial Center](http://thecenter.nasdaq.org)
 * [NEA](http://www.nea.com)
 * [NFX Guild Program](http://www.nfx.com/company/program)
@@ -6716,10 +6703,6 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Upfront Insights](http://insights.upfront.com)
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
-
-<!--
-http://www.kpcb.com/articles
--->
 
 Blogs and Whatnot
 * [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
@@ -7505,6 +7488,7 @@ Books
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
+Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
 http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
 -->
 
@@ -7527,10 +7511,9 @@ STEM and STEAM
 * [STEM to STEAM](http://stemtosteam.org)
 * [STEAM Wikipedia](https://en.wikipedia.org/wiki/STEAM_fields) and [STEAM with Us](http://steamwith.us)
 
-<!--
-https://en.wikipedia.org/wiki/Neuroplasticity
-https://www.khanacademy.org/brainworkout_1
--->
+Neuroplasticity
+* [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
+* [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
