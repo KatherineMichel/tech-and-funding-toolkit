@@ -2203,12 +2203,16 @@ Documentation- General
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 
-Documentation- W3C
-* [The World Wide Web Consortium (W3C)](http://www.w3.org) and * [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C (The World Wide Web Consortium) GitHub](https://github.com/w3c) 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://github.com/whatwg)
+* [WICG (Web Incubator CG)](https://github.com/WICG)
 
 <!--
+## Standards
 https://wicg.github.io/admin/charter.html
 https://github.com/WICG/incubation-template/blob/gh-pages/index.html
 https://github.com/tabatkins/bikeshed
