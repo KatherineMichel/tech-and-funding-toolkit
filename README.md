@@ -1005,10 +1005,7 @@ HTTP
 * [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-
-<!--
-http://en.wikipedia.org/wiki/HTTP_body_data#Response_example
--->
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 TCP-IP and OSI Protocols
 * [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
@@ -1125,10 +1122,9 @@ Linux
 * [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
 * [Linux Journal](http://www.linuxjournal.com)  
 
-<!--
-http://www.tldp.org
-http://www.tldp.org/LDP
--->
+The Linux Documentation Project
+* [The Linux Documentation Project](http://www.tldp.org)
+* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
 
 Linux- Ubuntu (Debian)
 * [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
