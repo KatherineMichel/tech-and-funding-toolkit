@@ -2318,6 +2318,9 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+Free Code Camp LinkedIn
+https://www.reddit.com/r/freecodecamp
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites
 https://gitter.im/FreeCodeCamp/FreeCodeCamp
 https://gitter.im/apps
