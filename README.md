@@ -1173,7 +1173,7 @@ Web Browser
 
 More Web Browsers (See below)
 * [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-* [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
 
 <!--
 https://docs.python.org/3/library/xml.dom.html
@@ -1468,6 +1468,12 @@ Safari Developer Tools
 
 Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+
+<!--
+https://addons.mozilla.org/en-US/firefox
+http://getfirebug.com/releases/lite/chrome
+https://chrome.google.com/webstore/detail/firebug-lite-for-google-c
+-->
 
 #### Keyboard Shortcuts
 
@@ -2007,7 +2013,10 @@ Lecture 9: Why do VCs love mobile, local, and social? And what they love next? h
 #### Code Philosophies
 
 <!--
+Trello
+https://upcase.com/design-for-developers-resources/principles
 https://github.com/thoughtbot/guides
+https://github.com/thoughtbot/guides/tree/master/protocol
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 * [The Figure 53 Company Handbook](http://figure53.com/handbook)
@@ -2231,7 +2240,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [CodePath GitHub](https://github.com/codepath)
 * [Code.org](https://code.org)
 * [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
-* [Free Code Camp](http://www.freecodecamp.com) and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
+* [Free Code Camp](http://www.freecodecamp.com), [Free Code Camp Medium](https://medium.freecodecamp.com/), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
 * [Kano Playground](http://art.kano.me/playground)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
@@ -2846,6 +2855,10 @@ JavaScript Tutorials
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
 <!--
+https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
+http://www.ecma-international.org
+Ecma International - European association for standardizing information and communication systems.
+
 Eloquent JavaScript
 http://eloquentjavascript.net/chapter6.html
 http://eloquentjavascript.net/chapter8.html  
