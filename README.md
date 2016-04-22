@@ -953,7 +953,15 @@ https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 https://en.wikipedia.org/wiki/Uniform_Resource_Locator
 https://en.wikipedia.org/wiki/Root_name_server
 https://en.wikipedia.org/wiki/Top-level_domain
+https://en.wikipedia.org/wiki/Network_socket
+https://en.wikipedia.org/wiki/Parsing
+https://en.wikipedia.org/wiki/Client%E2%80%93server_model
 
+DOM Tree
+
+https://en.wikipedia.org/wiki/HTTP_cookie
+
+HTTP protocol defaults to port 80 and HTTPS defaults to port 443
 https://technet.microsoft.com/en-us/library/bb962069.aspx
 -->
 
@@ -1636,6 +1644,10 @@ Zsh (Bash Alternative)
 * [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
 * [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh) 
+
+<!--
+zsh --version
+-->
 
 More Shell/Text Editors (See also Visual Studio and XCode)
 * [Sublime Text Editor](http://www.sublimetext.com)
