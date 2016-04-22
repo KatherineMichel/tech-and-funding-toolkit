@@ -2318,6 +2318,13 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites
+https://gitter.im/FreeCodeCamp/FreeCodeCamp
+https://gitter.im/apps
+https://gitter.im/FreeCodeCamp/Help
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
 https://egghead.io/series/learn-to-use-vim
 https://egghead.io/tags/free
 https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
