@@ -956,6 +956,14 @@ https://en.wikipedia.org/wiki/Top-level_domain
 https://en.wikipedia.org/wiki/Network_socket
 https://en.wikipedia.org/wiki/Parsing
 https://en.wikipedia.org/wiki/Client%E2%80%93server_model
+https://en.wikipedia.org/wiki/Load_balancing_(computing)
+https://en.wikipedia.org/wiki/Virtual_IP_address
+https://en.wikipedia.org/wiki/Round-robin_DNS
+Least Connections
+https://en.wikipedia.org/wiki/Server_farm
+https://en.wikipedia.org/wiki/Web_service
+https://en.wikipedia.org/wiki/Content_delivery_network
+https://en.wikipedia.org/wiki/Proxy_server
 
 DOM Tree
 
