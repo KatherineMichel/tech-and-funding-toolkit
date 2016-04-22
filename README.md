@@ -934,6 +934,10 @@ Wikipedia Portals
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
+<!--
+https://en.wikibooks.org/wiki/Category:Computer_science
+-->
+
 Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
@@ -1008,18 +1012,29 @@ TCP-IP and OSI Protocols
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
 
 Encoding
-* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
 * [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+
+ASCII
 * [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
 * [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
 * [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
 
-Char Sets
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+Bytcote versus Unicode
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+
+<!--
+https://www.w3.org/International/getting-started/characters
+https://www.w3.org/International/articles/definitions-characters/
+-->
+
+HTML5 Charactersets
+* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
 * [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
 * [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
 
 URL and IRI
@@ -1465,11 +1480,10 @@ Safari Developer Tools
 
 Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
 
 <!--
 https://addons.mozilla.org/en-US/firefox
-http://getfirebug.com/releases/lite/chrome
-https://chrome.google.com/webstore/detail/firebug-lite-for-google-c
 -->
 
 #### Keyboard Shortcuts
@@ -2725,6 +2739,10 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
 * [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 * [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+<!--
+http://newrelic.com
+-->
 
 W3 Validators
 * [W3C HTML Validator](https://validator.w3.org/nu)
