@@ -2165,6 +2165,8 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
+
 https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
 https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
@@ -2633,6 +2635,14 @@ http://peter.sh/experiments/vendor-prefixed-css-property-overview/
 
 https://github.com/Fyrd/caniuse
 http://caniuse.com
+
+http://v4-alpha.getbootstrap.com
+http://v4-alpha.getbootstrap.com/components
+
+Hex Shorthand Colors
+
+Clockwise notation
+https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
 -->
 
 Bootstrap Tutorials
