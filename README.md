@@ -934,10 +934,6 @@ Wikipedia Portals
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
-<!--
-https://en.wikibooks.org/wiki/Category:Computer_science
--->
-
 Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
@@ -954,6 +950,10 @@ History of Technology and Computer Science
 * [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
 * [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
 * [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology)
+
+<!--
+https://en.wikibooks.org/wiki/Category:Computer_science
+-->
 
 Computer Scientists
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
@@ -1215,10 +1215,6 @@ http://ftp.gnu.org
 http://gcc.gnu.org
 
 http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Compiler_Collection
-Mac OS X
-https://en.wikipedia.org/wiki/LLVM
-
 https://en.wikipedia.org/wiki/GNU_Hurd
 -->
 
@@ -1269,6 +1265,10 @@ Comparison of Layout Engines (By DOM and ECMA Script)
 * [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
 * [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 * [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
+
+Compilers
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X)](https://en.wikipedia.org/wiki/LLVM)
 
 #### Apple
 
@@ -1339,7 +1339,7 @@ Apple- Windows (See also: VMware, Vagrant, VirtualBox)
 * External Hard Drive, USB SSD, Western Digital Terabyte
 
 Apple- Platforms and Devices
-* [OSX Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
+* [OS X Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
