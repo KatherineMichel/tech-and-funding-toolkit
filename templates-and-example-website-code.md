@@ -57,6 +57,11 @@ Jekyll Themes
 
 ## Python
 
+<!--
+Django
+https://github.com/cfpb/cfgov-refresh
+-->
+
 Python- Django- Heroku Deployment
 * [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
 
