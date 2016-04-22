@@ -1268,7 +1268,7 @@ Comparison of Layout Engines (By DOM and ECMA Script)
 
 Compilers
 * [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X)](https://en.wikipedia.org/wiki/LLVM)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
 
 #### Apple
 
@@ -1545,7 +1545,6 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
-http://tldp.org/LDP/abs/html/sha-bang.html
 http://ss64.com
 http://ss64.com/osx
 http://ss64.com/bash
@@ -1572,8 +1571,10 @@ Unix Shell (See also Unix)
 * [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
 
+Sha-Bang/Shebang
+* [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+
 Notable Terminology
-* [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 * [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
 * [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
 
