@@ -1344,6 +1344,7 @@ Apple- Platforms and Devices
 * [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
 App Store Submission
+* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
 * [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
 * [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
 
@@ -1360,8 +1361,6 @@ Mac Update
 * [Mac Update](http://www.macupdate.com)
 
 <!--
-https://developer.apple.com/app-store/business-models
-
 https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
@@ -1388,10 +1387,6 @@ Chromebook Ubuntu Installation
 
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-
-<!--
-https://developers.google.com/maps/documentation/javascript
--->
 
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
@@ -1426,12 +1421,10 @@ Google Chrome Doc Archive
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
-Chrome
-https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
-Chrome Secure Shell
-https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
 Chrome User Agent Switcher
-https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en
+https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
+Chrome Secure Shell
+https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
 
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 
@@ -1473,6 +1466,9 @@ https://dev.twitter.com/web/embedded-timelines
 https://www.codeschool.com/courses/discover-devtools
 
 https://developer.mozilla.org/en-US/docs/Chrome_Registration
+
+Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript
 -->
 
 Safari Developer Tools
@@ -1720,8 +1716,6 @@ Git Cheat Sheets and Tutorials
 <!--
 https://en.wikipedia.org/wiki/Concurrent_Versions_System
 
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
-
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
 -->
@@ -1818,17 +1812,19 @@ https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
 
-https://github.com/octokit/octokit.objc
+https://hubot.github.com/
 https://github.com/github/hubot
-https://github.com/zmmbreeze/octocard 
-
-https://github.com/driftyco/ionicons
 
 https://github.com/blog/2112-delivering-octicons-with-svg
+https://octicons.github.com/
 https://github.com/github/octicons
+https://ghbtns.com/
 https://github.com/mdo/github-buttons
 https://github.com/blog/273-github-ribbons
 https://github.com/tholman/github-corners
+
+https://github.com/octokit/octokit.objc
+https://github.com/zmmbreeze/octocard 
 
 GitHub Monikers
 https://github.com/petethepig/github-ribbons-css
@@ -1837,7 +1833,7 @@ https://github.com/msparks/libgithub
 https://github.com/berkerpeksag/github-badge
 
 http://shields.io
-http://badges.github.io/gh-badges/
+http://badges.github.io/gh-badges
 https://github.com/badges/badgerbadgerbadger
 -->
 
@@ -2042,6 +2038,8 @@ https://github.com/hypenotic/hypelabs
 
 CODE_OF_CONDUCT
 https://github.com/stevemao/github-issue-templates
+
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 -->
 
 A Successful Git Branching Model
@@ -3025,6 +3023,10 @@ Facebook- React Native (React Stack)
 
 Ionic Framework (React Stack)
 * [Ionic](http://ionicframework.com)
+
+<!--
+https://github.com/driftyco/ionicons
+-->
 
 Babel (React Stack)
 * [Babel GitHub](https://github.com/babel/babel)
