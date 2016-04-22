@@ -2209,7 +2209,33 @@ Standards
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://github.com/whatwg)
 * [WICG (Web Incubator CG)](https://github.com/WICG)
 
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
+
 <!--
+Standards Homepage
+https://www.w3.org/standards
+
+https://www.w3.org/standards/webdesign
+https://www.w3.org/standards/webdesign/htmlcss
+https://www.w3.org/standards/webdesign/script.html
+
+https://www.w3.org/standards/webofdevices
+https://www.w3.org/standards/webarch
+https://www.w3.org/standards/agents
+
+http://validator.w3.org/unicorn
+https://www.w3.org/2009/cheatsheet
+https://www.w3.org/Mobile
+https://www.w3.org/2002/03/tutorials.html
+
+Standards Only
+https://www.w3.org/TR/tr-date-stds.html
+
+All Standards and Drafts
+https://www.w3.org/TR
+
 ## Standards
 https://wicg.github.io/admin/charter.html
 https://github.com/WICG/incubation-template/blob/gh-pages/index.html
@@ -2410,9 +2436,6 @@ http://peter.sh/experiments/vendor-prefixed-css-property-overview/
 
 https://github.com/Fyrd/caniuse
 http://caniuse.com
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
 -->
 
 Bootstrap Tutorials
