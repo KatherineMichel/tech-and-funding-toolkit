@@ -1999,6 +1999,10 @@ Lecture 7: Figure 20-34: SSH
 Lecture 7: Figure 35-43: Domize and DNSimple
 Lecture 7: Figure 44-46: SSH
 
+Homework
+https://class.coursera.org/startup-001/wiki/homework
+https://class.coursera.org/startup-001/lecture
+
 Startup Mooc Staging Example: GitHub, AWS, Heroku
 * [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
 * Illustration: Startup Engineering Dev, Staging, Production
