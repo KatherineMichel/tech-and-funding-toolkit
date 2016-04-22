@@ -1148,9 +1148,12 @@ Unix Shell and File system
 https://en.wikipedia.org/wiki/List_of_Unix_daemons
 https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems
 
+https://en.wikibooks.org/wiki/Guide_to_Unix/Commands
 Guide to Unix/Commands/File System Utilities
 http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities
+https://en.wikibooks.org/wiki/Category:Guide_to_Unix/Commands
 
+https://en.wikipedia.org/wiki/Unix_File_System
 https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout
 -->
 
@@ -1245,6 +1248,8 @@ WebKit Parts
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
 <!--
+http://www.gnu.org/software/coreutils/manual/coreutils.html
+
 http://ftp.gnu.org
 http://gcc.gnu.org
 
