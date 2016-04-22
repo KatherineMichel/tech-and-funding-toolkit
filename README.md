@@ -2209,11 +2209,9 @@ Standards
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://github.com/whatwg)
 * [WICG (Web Incubator CG)](https://github.com/WICG)
 
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
-
 <!--
+https://www.w3.org/community/webed/wiki/Main_Page
+
 Standards Homepage
 https://www.w3.org/standards
 
@@ -2229,6 +2227,10 @@ http://validator.w3.org/unicorn
 https://www.w3.org/2009/cheatsheet
 https://www.w3.org/Mobile
 https://www.w3.org/2002/03/tutorials.html
+
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
 
 Standards Only
 https://www.w3.org/TR/tr-date-stds.html
