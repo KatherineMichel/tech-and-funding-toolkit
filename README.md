@@ -795,7 +795,7 @@ Facebook Developers
 https://developers.facebook.com/docs/messenger-platform
 https://live.fb.com
 https://github.com/fbsamples/f8app
-http://makeitopen.com/
+http://makeitopen.com
 https://github.com/facebook/origami
 
 Facebook's Advertisers Tool
@@ -1208,8 +1208,6 @@ https://en.wikipedia.org/wiki/LLVM
 gnu/windows
 https://en.wikipedia.org/wiki/GNU_Hurd
 
-https://en.wikipedia.org/wiki/KDE
-https://en.wikipedia.org/wiki/List_of_KDE_applications
 https://en.wikipedia.org/wiki/List_of_Unix_daemons
 -->
 
@@ -1826,9 +1824,6 @@ https://github.com/berkerpeksag/github-badge
 http://shields.io
 http://badges.github.io/gh-badges/
 https://github.com/badges/badgerbadgerbadger
-
-CODE_OF_CONDUCT
-https://github.com/stevemao/github-issue-templates
 -->
 
 Git Ignore and Licenses
@@ -1898,14 +1893,6 @@ GitHub Speaker Deck
 #### Startup Engineering MOOC
 
 <!--
-https://github.com/thoughtbot/guides
-
-Startup Mooc Staging Example: GitHub, AWS, Heroku
-* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-* Illustration: Startup Engineering Dev, Staging, Production
-
 Lecture 1: Figure 1: Signoidal curve for the development of an industry
 Lecture 1: Table 1: Future and current/ongoing technological trends
 Lecture 1: Table 2: An overview of technologies used in the course                                
@@ -1955,15 +1942,16 @@ Lecture 7: Figure 20-34: SSH
 Lecture 7: Figure 35-43: Domize and DNSimple
 Lecture 7: Figure 44-46: SSH
 
+Startup Mooc Staging Example: GitHub, AWS, Heroku
+* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+* Illustration: Startup Engineering Dev, Staging, Production
+
+* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
+* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
+
 Lecture 11: Regulation, Disruption, and the Technologies of 2013. https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf
 
-Lecture 0: Course Overview 
-https://class.coursera.org/startup-001/lecture/57
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf
-
-Lecture 1: Introduction 
-https://class.coursera.org/startup-001/lecture/33
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf
+http://www.html5rocks.com/en/mobile/
 
 Lecture 2: Interactive Start 
 http://class.coursera.org/startup-001/lecture/75
@@ -1996,19 +1984,31 @@ https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-j
 Lecture 10: Intermediate and Frontend JS
 https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf
 
-Lecture 8: Mobile: HTTP, User Agents, and Responsive Design https://class.coursera.org/startup-001/lecture/199
+Lecture 8: Mobile: HTTP, User Agents, and Responsive Design 
+https://class.coursera.org/startup-001/lecture/199
 https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf
-
-Lecture 9: Why do VCs love mobile, local, and social? And what they love next? https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf
 
 Lecture 5: Market Research, Wireframing, Design
 https://class.coursera.org/startup-001/lecture/189
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf
+
+
+Lecture 0: Course Overview 
+https://class.coursera.org/startup-001/lecture/57
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf
+
+Lecture 1: Introduction 
+https://class.coursera.org/startup-001/lecture/33
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf
+
+Lecture 9: Why do VCs love mobile, local, and social? And what they love next? https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf
 -->
 
 #### Code Philosophies
 
 <!--
+https://github.com/thoughtbot/guides
+
 Digital Agency Playbook, Blog, Styleguide, Templates
 * [The Figure 53 Company Handbook](http://figure53.com/handbook)
 * [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
@@ -2019,6 +2019,9 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
 https://github.com/hypenotic/hypelabs
+
+CODE_OF_CONDUCT
+https://github.com/stevemao/github-issue-templates
 -->
 
 A Successful Git Branching Model
@@ -2370,13 +2373,13 @@ Free Software Foundation
 * [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
 GNU Software and Manuals
-* [GNU](https://www.gnu.org) and [GNU Software](http://www.gnu.org/software)  
+* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
 
-<!--
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/List_of_GNU_packages
--->
+KDE
+* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
+* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 
 Stack Overflow Developer Survey
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
