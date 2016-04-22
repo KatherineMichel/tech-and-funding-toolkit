@@ -939,6 +939,24 @@ Preethi Kasireddy: How The Web Works
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
+<!--
+https://en.wikipedia.org/wiki/Client_(computing)
+https://en.wikipedia.org/wiki/Server_(computing)
+https://en.wikipedia.org/wiki/IP_address
+https://en.wikipedia.org/wiki/Internet_service_provider
+https://en.wikipedia.org/wiki/Domain_Name_System
+https://en.wikipedia.org/wiki/Domain_name
+https://en.wikipedia.org/wiki/Internet_protocol_suite (TCP/IP)
+https://en.wikipedia.org/wiki/Port_(computer_networking) (Port Number)
+https://en.wikipedia.org/wiki/Host_(network)
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+https://en.wikipedia.org/wiki/Uniform_Resource_Locator
+https://en.wikipedia.org/wiki/Root_name_server
+https://en.wikipedia.org/wiki/Top-level_domain
+
+https://technet.microsoft.com/en-us/library/bb962069.aspx
+-->
+
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
 * [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
