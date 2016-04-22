@@ -1634,6 +1634,9 @@ Emacs and Vim (Text Editors)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
 <!--
+https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
+https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
+
 Emacsformacosx.com
 http://www.emacswiki.org/emacs
 
