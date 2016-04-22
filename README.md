@@ -1096,6 +1096,9 @@ Unix Shell and File system
 * [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
 <!--
+https://en.wikipedia.org/wiki/List_of_Unix_daemons
+https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems
+
 Guide to Unix/Commands/File System Utilities
 http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities
 
@@ -1155,6 +1158,9 @@ Linux- Other Popular Distributions
 * [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
 * [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
 
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
+
 #### OS, Shell, Browser
 
 Operating Systems
@@ -1171,18 +1177,13 @@ Web Browser
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 
+<!--
+Browser Statistics
+-->
+
 More Web Browsers (See below)
 * [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
 * [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-
-<!--
-https://docs.python.org/3/library/xml.dom.html
-
-Statistics
-OS
-Display
-Mobile
--->
 
 Mac OS X- OS,  Browser, Layout Engine
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
@@ -1195,8 +1196,6 @@ WebKit Parts
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
 <!--
-https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems
-
 http://ftp.gnu.org
 http://gcc.gnu.org
 
@@ -1205,10 +1204,7 @@ https://en.wikipedia.org/wiki/GNU_Compiler_Collection
 Mac OS X
 https://en.wikipedia.org/wiki/LLVM
 
-gnu/windows
 https://en.wikipedia.org/wiki/GNU_Hurd
-
-https://en.wikipedia.org/wiki/List_of_Unix_daemons
 -->
 
 Mac OS X- Architecture
@@ -1240,10 +1236,11 @@ Windows, IE, and Edge
 
 <!--
 http://technet.microsoft.com/en-us 
-https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
-https://msdn.microsoft.com/en-us/library/aa155073.aspx
 
-http://cygwin.com
+JavaScript Reference
+https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
+Web Development
+https://msdn.microsoft.com/en-us/library/aa155073.aspx
 -->
 
 Web Browser and JavaScript Engines (See also JavaScript)- General
@@ -1539,11 +1536,9 @@ Mac OS X- Terminal, Bash (Unix)
 
 <!--
 http://tldp.org/LDP/abs/html/sha-bang.html
-http://ss64.com/
-http://ss64.com/osx/
-http://ss64.com/bash/
-
-http://www.gnu.org/software/bash/manual  
+http://ss64.com
+http://ss64.com/osx
+http://ss64.com/bash
 
 http://linux.die.net/man/1/bash
 
@@ -1925,8 +1920,10 @@ Lecture 2: Figure 74: AWS Ubuntu
 Lecture 2: Figure 75: Local Versus Remote Commands
 Lecture 2: Figure 76-83: SSH
 Lecture 2: Figure 84: Goal
+
 Lecture 3: Figure 1: Virtualization
 Lecture 3: Figure 2-6: SSH
+
 Lecture 4a: Figures: All Technical
 Lecture 4b: Figures: All Technical
 
@@ -3604,6 +3601,8 @@ Python- Mobile
 #### Python and Django Books and Tutorials
 
 <!--
+https://docs.python.org/3/library/xml.dom.html
+
 https://learnxinyminutes.com/docs/pythonstatcomp/
 -->
 
