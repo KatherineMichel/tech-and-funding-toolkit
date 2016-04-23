@@ -3064,6 +3064,7 @@ https://github.com/reactjs/react-tutorial
 
 https://github.com/bonniee/react-starter
 https://github.com/gaearon/react-transform-boilerplate
+https://github.com/gaearon/react-hot-boilerplate
 https://github.com/mxstbr/react-boilerplate
 https://github.com/tj/frontend-boilerplate
 https://github.com/pheuter/essential-react
@@ -3075,7 +3076,12 @@ https://github.com/geniuscarrier/webpack-boilerplate
 https://github.com/ruanyf/react-babel-webpack-boilerplate
 https://github.com/erikras/react-redux-universal-hot-example
 https://github.com/davezuko/react-redux-starter-kit
+https://github.com/gaearon/react-transform-boilerplate
+https://github.com/coryhouse/react-slingshot
+https://github.com/elementalui/elemental
+https://github.com/ryanflorence/react-project
 
+https://github.com/iSimar/HackerNews-React-Native
 https://github.com/lukehoban/es6features
 http://es6-features.org/#Constants
 https://github.com/markerikson/react-redux-links
