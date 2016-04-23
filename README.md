@@ -2412,28 +2412,6 @@ Standards
 * [WICG (Web Incubator CG)](https://github.com/WICG)
 
 <!--
-https://www.w3.org/community/webed/wiki/Main_Page
-
-Standards Homepage
-https://www.w3.org/standards
-
-https://www.w3.org/standards/webdesign
-https://www.w3.org/standards/webdesign/htmlcss
-https://www.w3.org/standards/webdesign/script.html
-
-https://www.w3.org/standards/webofdevices
-https://www.w3.org/standards/webarch
-https://www.w3.org/standards/agents
-
-http://validator.w3.org/unicorn
-https://www.w3.org/2009/cheatsheet
-https://www.w3.org/Mobile
-https://www.w3.org/2002/03/tutorials.html
-
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
-
 Standards Only
 https://www.w3.org/TR/tr-date-stds.html
 
@@ -2444,9 +2422,8 @@ https://www.w3.org/TR
 https://wicg.github.io/admin/charter.html
 https://github.com/WICG/incubation-template/blob/gh-pages/index.html
 https://github.com/w3c/html
-https://github.com/whatwg/dom
-
 https://whatwg.org
+https://github.com/whatwg/dom
 
 https://github.com/tabatkins/bikeshed
 https://github.com/tabatkins?tab=repositories
@@ -2636,6 +2613,25 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 <!--
+https://www.w3.org/community/webed/wiki/Main_Page
+
+https://www.w3.org/standards/webdesign
+https://www.w3.org/standards/webdesign/htmlcss
+https://www.w3.org/standards/webdesign/script.html
+
+https://www.w3.org/standards/webofdevices
+https://www.w3.org/standards/webarch
+https://www.w3.org/standards/agents
+
+http://validator.w3.org/unicorn
+https://www.w3.org/2009/cheatsheet
+https://www.w3.org/Mobile
+https://www.w3.org/2002/03/tutorials.html
+
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
+
 http://peter.sh/experiments/vendor-prefixed-css-property-overview/
 
 https://github.com/Fyrd/caniuse
@@ -2643,11 +2639,6 @@ http://caniuse.com
 
 http://v4-alpha.getbootstrap.com
 http://v4-alpha.getbootstrap.com/components
-
-Hex Shorthand Colors
-
-Clockwise notation
-https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
 -->
 
 Bootstrap Tutorials
@@ -2678,8 +2669,6 @@ http://www.w3schools.com/html/html_css.asp
 
 <!--
 W3Schools
-Learn jQueryMobile
-http://www.w3schools.com/angular/default.asp
 Learn JSON
 https://learnxinyminutes.com/docs/json/
 Learn XML
@@ -2946,10 +2935,6 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 <!--
-http://www.w3schools.com/js/js_switch.asp
-http://www.w3schools.com/js/js_popup.asp
-http://www.w3schools.com/jsref/event_onload.asp
-
 https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
@@ -2957,18 +2942,11 @@ Prototype-based Programming
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 
 https://developer.mozilla.org/en-US/docs/DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 
 https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Contributor_s_Guide/Private_Properties
 
 https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
-
-* [Mozilla Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-* [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [Mozilla Event Listener API](https://developer.mozilla.org/en-US/docs/Web/API/EventListener)
-* [Mozilla Event API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
-* [Mozilla HTML Element Objects Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
@@ -3040,6 +3018,8 @@ jQuery
 * [jQuery Learning Center](http://learn.jquery.com)
 
 <!--
+Learn jQueryMobile
+
 http://learn.jquery.com/using-jquery-core
 -->
 
@@ -3120,6 +3100,10 @@ Angular (React Stack)
 * [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
 * [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
 * [Angular Protractor GitHub](https://github.com/angular/protractor)
+
+<!--
+http://www.w3schools.com/angular/default.asp
+-->
 
 Flux (React Stack)
 * [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
