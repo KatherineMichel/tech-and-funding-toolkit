@@ -3089,6 +3089,9 @@ https://github.com/ruanyf/react-demos
 https://github.com/ele828/react-native-guide
 https://github.com/mikechau/react-primer-draft
 
+http://isomorphic.net
+https://github.com/sgaurav/understanding-es6
+
 https://github.com/touchstonejs/touchstonejs
 https://github.com/reflux/refluxjs
 https://github.com/relax/relax
