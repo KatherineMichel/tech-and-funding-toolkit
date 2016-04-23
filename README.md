@@ -2613,25 +2613,6 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 <!--
-https://www.w3.org/community/webed/wiki/Main_Page
-
-https://www.w3.org/standards/webdesign
-https://www.w3.org/standards/webdesign/htmlcss
-https://www.w3.org/standards/webdesign/script.html
-
-https://www.w3.org/standards/webofdevices
-https://www.w3.org/standards/webarch
-https://www.w3.org/standards/agents
-
-http://validator.w3.org/unicorn
-https://www.w3.org/2009/cheatsheet
-https://www.w3.org/Mobile
-https://www.w3.org/2002/03/tutorials.html
-
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
-
 http://peter.sh/experiments/vendor-prefixed-css-property-overview/
 
 https://github.com/Fyrd/caniuse
@@ -2658,6 +2639,25 @@ CSS
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
 <!--
+https://www.w3.org/community/webed/wiki/Main_Page
+
+https://www.w3.org/standards/webdesign
+https://www.w3.org/standards/webdesign/htmlcss
+https://www.w3.org/standards/webdesign/script.html
+
+https://www.w3.org/standards/webofdevices
+https://www.w3.org/standards/webarch
+https://www.w3.org/standards/agents
+
+http://validator.w3.org/unicorn
+https://www.w3.org/2009/cheatsheet
+https://www.w3.org/Mobile
+https://www.w3.org/2002/03/tutorials.html
+
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
+
 http://www.w3schools.com/html/html5_syntax.asp
 http://www.w3schools.com/jsref/obj_window.asp
 http://www.w3schools.com/cssref/css_functions.asp
@@ -2681,9 +2681,7 @@ XML, XHTML
 * [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
 * [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
--->
 
-<!--
 http://www.json.org/xml.html
 -->
 
