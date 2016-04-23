@@ -1519,6 +1519,10 @@ Mozilla Developer Tools
 
 <!--
 https://addons.mozilla.org/en-US/firefox
+
+https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related
+https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc
 -->
 
 #### Keyboard Shortcuts
@@ -2965,8 +2969,9 @@ http://eloquentjavascript.net/chapter8.html
 
 https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.elfzmj1vd
 http://chimera.labs.oreilly.com/books/1234000000262/pr01.html#who_this_book_is_for
--->
-<!--
+
+https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Contributor_s_Guide/Private_Properties
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
 
 https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
