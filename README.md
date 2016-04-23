@@ -794,9 +794,6 @@ Facebook Developers
 <!--
 https://developers.facebook.com/docs/messenger-platform
 https://live.fb.com
-https://github.com/fbsamples/f8app
-http://makeitopen.com
-https://github.com/facebook/origami
 
 Facebook's Advertisers Tool
 https://developers.facebook.com/docs/javascript
@@ -1462,11 +1459,6 @@ Google Chrome Doc Archive
 <!--
 https://www.codeschool.com/courses/discover-devtools
 
-Chrome User Agent Switcher
-https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
-Chrome Secure Shell
-https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
-
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 
 https://developers.google.com/cast/docs/developers
@@ -1519,6 +1511,11 @@ Mozilla Developer Tools
 
 <!--
 https://addons.mozilla.org/en-US/firefox
+
+Chrome User Agent Switcher
+https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
+Chrome Secure Shell
+https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
 
 https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related
@@ -1682,6 +1679,8 @@ Integrated Development Environment
 
 #### Dot Files
 
+See also Startup Engineering MOOC<br>
+
 Hidden File and Hidden Directory Wikipedia
 * [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
 
@@ -1700,15 +1699,6 @@ Dot Files
 * [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
 * [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
 * [YADR GitHub](https://github.com/skwp/dotfiles)
-
-<!--
-Startup Class Dotfiles and AWS EC2 Setup
-* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-* [Course EC2 Setup](https://github.com/startup-class/setup)  
-* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
-
-https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
--->
 
 #### Git and Markdown
 
@@ -2003,6 +1993,7 @@ Lecture 7: Figure 44-46: SSH
 Homework
 https://class.coursera.org/startup-001/wiki/homework
 https://class.coursera.org/startup-001/lecture
+https://class.coursera.org/startup-001/assignment/view?assignment_id=5
 
 Startup Mooc Staging Example: GitHub, AWS, Heroku
 * [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
@@ -2064,6 +2055,13 @@ https://class.coursera.org/startup-001/lecture/33
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf
 
 Lecture 9: Why do VCs love mobile, local, and social? And what they love next? https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf
+
+Startup Class Dotfiles and AWS EC2 Setup
+* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
+* [Course EC2 Setup](https://github.com/startup-class/setup)  
+* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
+
+https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
 -->
 
 #### Code Philosophies
@@ -2300,7 +2298,6 @@ Programming and Math Learning Tools (See also MOOCs)
 * [CodePath GitHub](https://github.com/codepath)
 * [Code.org](https://code.org)
 * [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
-* [Free Code Camp](http://www.freecodecamp.com), [Free Code Camp Medium](https://medium.freecodecamp.com/), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
 * [Kano Playground](http://art.kano.me/playground)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
@@ -2319,6 +2316,9 @@ Programming and Math Learning Tools (See also MOOCs)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
+
+Free Code Camp
+* [Free Code Camp](http://www.freecodecamp.com), [Free Code Camp Medium](https://medium.freecodecamp.com/), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
 
 <!--
 Free Code Camp LinkedIn
@@ -2561,15 +2561,18 @@ Flickr
 Gifs
 * [Giphy](http://giphy.com) 
 
-Prototyping Software
+Prototyping Software- Keynotopia
 * [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
 * [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
 * [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
 * [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
+
+Prototyping Software- Others
+* [Facebook Origami GitHub](https://github.com/facebook/origami)
 * [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
 * [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
 * See also Apple
- 
+
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
 * [Squarespace Templates](http://www.squarespace.com/templates)
@@ -2615,12 +2618,9 @@ W3C HTML Standards
 
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [W3Schools HTML Try It](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
 * [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-
-<!--
-http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic
--->
 
 HTML and CSS Tutorials- Mozilla
 * [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -2753,19 +2753,6 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility
 https://developer.mozilla.org/en-US/docs/Web/Security
 
 https://developer.mozilla.org/en-US/Learn
-
-
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-Prototype-based Programming
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
-
-https://developer.mozilla.org/en-US/docs/DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-
 
 https://developer.mozilla.org/en-US/docs/Web/API
 https://developer.mozilla.org/en-US/docs/Web/Reference/API
@@ -2958,26 +2945,28 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 
 <!--
 http://www.w3schools.com/js/js_switch.asp
+http://www.w3schools.com/js/js_popup.asp
+http://www.w3schools.com/jsref/event_onload.asp
 
-https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
-http://www.ecma-international.org
-Ecma International - European association for standardizing information and communication systems.
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 
-Eloquent JavaScript
-http://eloquentjavascript.net/chapter6.html
-http://eloquentjavascript.net/chapter8.html  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+Prototype-based Programming
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.elfzmj1vd
-http://chimera.labs.oreilly.com/books/1234000000262/pr01.html#who_this_book_is_for
+https://developer.mozilla.org/en-US/docs/DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 
 https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Contributor_s_Guide/Private_Properties
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
-
 https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
 
-http://www.w3schools.com/js/js_popup.asp
-http://www.w3schools.com/jsref/event_onload.asp
+* [Mozilla Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+* [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Mozilla Event Listener API](https://developer.mozilla.org/en-US/docs/Web/API/EventListener)
+* [Mozilla Event API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+* [Mozilla HTML Element Objects Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
@@ -2994,26 +2983,30 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
--->
-<!--
-* [Mozilla Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-* [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [Mozilla Event Listener API](https://developer.mozilla.org/en-US/docs/Web/API/EventListener)
-* [Mozilla Event API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
-* [Mozilla HTML Element Objects Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
 
+https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
+
 https://en.wikipedia.org/wiki/JavaScript_syntax
 https://en.wikipedia.org/wiki/JavaScript_library
-https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
 https://en.wikipedia.org/wiki/JavaScript_engine
 https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript
 https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
 https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
 https://en.wikipedia.org/wiki/JSON
 
+Eloquent JavaScript
+http://eloquentjavascript.net/chapter6.html
+http://eloquentjavascript.net/chapter8.html  
+
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.elfzmj1vd
+http://chimera.labs.oreilly.com/books/1234000000262/pr01.html#who_this_book_is_for
+
 https://developers.google.com/web/updates/2016/02/es2015-proxies
+
+http://www.ecma-international.org
+Ecma International - European association for standardizing information and communication systems.
 
 https://nodejs.org/en/docs/es6
 
@@ -3092,6 +3085,11 @@ https://github.com/bonniee/react-starter
 
 React Relay (React Stack)
 * [Facebook Relay GitHub](https://github.com/facebook/relay)
+
+<!--
+https://github.com/fbsamples/f8app
+http://makeitopen.com
+-->
 
 React Bootstrap (React Stack)
 * [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
