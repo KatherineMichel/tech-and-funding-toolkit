@@ -931,45 +931,6 @@ Wikipedia Portals
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-https://en.wikipedia.org/wiki/Client_(computing)
-https://en.wikipedia.org/wiki/Server_(computing)
-https://en.wikipedia.org/wiki/IP_address
-https://en.wikipedia.org/wiki/Internet_service_provider
-https://en.wikipedia.org/wiki/Domain_Name_System
-https://en.wikipedia.org/wiki/Domain_name
-https://en.wikipedia.org/wiki/Internet_protocol_suite (TCP/IP)
-https://en.wikipedia.org/wiki/Port_(computer_networking) (Port Number)
-https://en.wikipedia.org/wiki/Host_(network)
-https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-https://en.wikipedia.org/wiki/Uniform_Resource_Locator
-https://en.wikipedia.org/wiki/Root_name_server
-https://en.wikipedia.org/wiki/Top-level_domain
-https://en.wikipedia.org/wiki/Network_socket
-https://en.wikipedia.org/wiki/Parsing
-https://en.wikipedia.org/wiki/Client%E2%80%93server_model
-https://en.wikipedia.org/wiki/Load_balancing_(computing)
-https://en.wikipedia.org/wiki/Virtual_IP_address
-https://en.wikipedia.org/wiki/Round-robin_DNS
-Least Connections
-https://en.wikipedia.org/wiki/Server_farm
-https://en.wikipedia.org/wiki/Web_service
-https://en.wikipedia.org/wiki/Content_delivery_network
-https://en.wikipedia.org/wiki/Proxy_server
-
-DOM Tree
-
-https://en.wikipedia.org/wiki/HTTP_cookie
-
-HTTP protocol defaults to port 80 and HTTPS defaults to port 443
-https://technet.microsoft.com/en-us/library/bb962069.aspx
--->
-
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
 * [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
@@ -1020,6 +981,45 @@ Binary
 * [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
 * [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
 * [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+<!--
+https://en.wikipedia.org/wiki/Client_(computing)
+https://en.wikipedia.org/wiki/Server_(computing)
+https://en.wikipedia.org/wiki/IP_address
+https://en.wikipedia.org/wiki/Internet_service_provider
+https://en.wikipedia.org/wiki/Domain_Name_System
+https://en.wikipedia.org/wiki/Domain_name
+https://en.wikipedia.org/wiki/Internet_protocol_suite (TCP/IP)
+https://en.wikipedia.org/wiki/Port_(computer_networking) (Port Number)
+https://en.wikipedia.org/wiki/Host_(network)
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+https://en.wikipedia.org/wiki/Uniform_Resource_Locator
+https://en.wikipedia.org/wiki/Root_name_server
+https://en.wikipedia.org/wiki/Top-level_domain
+https://en.wikipedia.org/wiki/Network_socket
+https://en.wikipedia.org/wiki/Parsing
+https://en.wikipedia.org/wiki/Client%E2%80%93server_model
+https://en.wikipedia.org/wiki/Load_balancing_(computing)
+https://en.wikipedia.org/wiki/Virtual_IP_address
+https://en.wikipedia.org/wiki/Round-robin_DNS
+Least Connections
+https://en.wikipedia.org/wiki/Server_farm
+https://en.wikipedia.org/wiki/Web_service
+https://en.wikipedia.org/wiki/Content_delivery_network
+https://en.wikipedia.org/wiki/Proxy_server
+
+DOM Tree
+
+https://en.wikipedia.org/wiki/HTTP_cookie
+
+HTTP protocol defaults to port 80 and HTTPS defaults to port 443
+https://technet.microsoft.com/en-us/library/bb962069.aspx
+-->
 
 Port
 * [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
@@ -1565,16 +1565,14 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
+
 https://help.ubuntu.com/community/UsingTheTerminal
 http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
 
 https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
 
 http://www.gnu.org/software/bash/manual
-
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
-
-https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html#//apple_ref/doc/uid/TP40004268-CH271-BBCBEAJD
 
 https://en.wikipedia.org/wiki/Grep
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
