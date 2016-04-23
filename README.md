@@ -1230,17 +1230,17 @@ Web Browser
 Browser Statistics
 -->
 
-More Web Browsers (See below)
+Mozilla (Browser, Layout Engine)
 * [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
 
-Mac OS X- OS,  Browser, Layout Engine
+Mac OS X 
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
 * [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
+
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
 * [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
 * [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-
-WebKit Parts
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
@@ -1267,19 +1267,30 @@ Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
 * [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 * [Chromium Developers](https://www.chromium.org/developers)
 * [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
 * [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
 * [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
 * [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
 * [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
 
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
-Windows, IE, and Edge
+Windows, 
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 * [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+
+Internet Explorer and Trident (Browser, Layout Engine)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Microsoft Edge Web Browser](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
 
 <!--
 http://technet.microsoft.com/en-us 
@@ -2408,21 +2419,15 @@ Standards
 * [W3C (The World Wide Web Consortium) GitHub](https://github.com/w3c) 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://github.com/whatwg)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org) and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 * [WICG (Web Incubator CG)](https://github.com/WICG)
 
 <!--
-Standards Only
-https://www.w3.org/TR/tr-date-stds.html
-
-All Standards and Drafts
-https://www.w3.org/TR
-
-## Standards
+Standards
 https://wicg.github.io/admin/charter.html
 https://github.com/WICG/incubation-template/blob/gh-pages/index.html
 https://github.com/w3c/html
-https://whatwg.org
 https://github.com/whatwg/dom
 
 https://github.com/tabatkins/bikeshed
@@ -2612,15 +2617,9 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
-<!--
-http://peter.sh/experiments/vendor-prefixed-css-property-overview/
-
-https://github.com/Fyrd/caniuse
-http://caniuse.com
-
-http://v4-alpha.getbootstrap.com
-http://v4-alpha.getbootstrap.com/components
--->
+Can I Use and Vendor-prefixed CSS Property Overview
+* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
+* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
 
 Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
@@ -2657,32 +2656,6 @@ https://www.w3.org/2002/03/tutorials.html
 * [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
 http://www.w3.org/TR/CSS21/cover.html#minitoc
-
-http://www.w3schools.com/html/html5_syntax.asp
-http://www.w3schools.com/jsref/obj_window.asp
-http://www.w3schools.com/cssref/css_functions.asp
-http://www.w3schools.com/cssref/css_colors_legal.asp
-http://www.w3schools.com/cssref/css3_browsersupport.asp
-
-http://www.w3schools.com/html/html_css.asp
--->
-
-<!--
-W3Schools
-Learn JSON
-https://learnxinyminutes.com/docs/json/
-Learn XML
-XML Tutorials
-Learn XSLT
-Learn AJAX
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
-
-http://www.json.org/xml.html
 -->
 
 Responsiveness- and Media Queries
@@ -2697,6 +2670,7 @@ Responsiveness- and Media Queries
 
 Bootstrap, Font Awesome
 * [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
 * [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 * [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
@@ -2933,6 +2907,25 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 <!--
+W3Schools
+Learn XML
+XML Tutorials
+Learn XSLT
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+-->
+
+<!--
+Learn JSON
+https://learnxinyminutes.com/docs/json/
+Learn AJAX
+
+http://www.json.org/xml.html
+
 https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
