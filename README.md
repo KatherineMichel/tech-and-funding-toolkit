@@ -1749,6 +1749,8 @@ Git Cheat Sheets and Tutorials
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
 <!--
+https://github.com/settings/applications/new
+
 https://en.wikipedia.org/wiki/Concurrent_Versions_System
 
 Git Branching
@@ -2330,6 +2332,7 @@ https://gitter.im/apps
 https://gitter.im/FreeCodeCamp/Help
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
+https://github.com/FreeCodeCamp
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
