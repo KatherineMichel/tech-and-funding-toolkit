@@ -3073,7 +3073,17 @@ https://github.com/kriasoft/react-starter-kit
 https://github.com/krasimir/react-webpack-starter
 https://github.com/geniuscarrier/webpack-boilerplate
 https://github.com/ruanyf/react-babel-webpack-boilerplate
+https://github.com/erikras/react-redux-universal-hot-example
+https://github.com/davezuko/react-redux-starter-kit
 
+https://github.com/lukehoban/es6features
+http://es6-features.org/#Constants
+https://github.com/markerikson/react-redux-links
+https://github.com/ruanyf/react-demos
+https://github.com/ele828/react-native-guide
+https://github.com/mikechau/react-primer-draft
+
+https://github.com/touchstonejs/touchstonejs
 https://github.com/reflux/refluxjs
 https://github.com/relax/relax
 https://github.com/feathersjs/feathers
