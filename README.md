@@ -1460,6 +1460,8 @@ Google Chrome Doc Archive
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
+https://www.codeschool.com/courses/discover-devtools
+
 Chrome User Agent Switcher
 https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
 Chrome Secure Shell
@@ -1502,8 +1504,6 @@ http://developer.samsung.com/technical-doc/view.do?v=T000000203
 https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
 https://dev.twitter.com/web/embedded-timelines
 
-https://www.codeschool.com/courses/discover-devtools
-
 https://developer.mozilla.org/en-US/docs/Chrome_Registration
 
 Google Maps JavaScript API
@@ -1537,26 +1537,6 @@ Emoji and Other Funny Keyboard Shortcode
 
 #### More Command Line and Shell
 
-<!--
-https://help.ubuntu.com/community/UsingTheTerminal
-http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
-
-https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
-
-http://www.gnu.org/software/bash/manual
-
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
-
-https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html#//apple_ref/doc/uid/TP40004268-CH271-BBCBEAJD
-
-https://en.wikipedia.org/wiki/Grep
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
-
-https://en.wikibooks.org/wiki/Grep
-https://en.wikibooks.org/wiki/AWK
-https://en.wikibooks.org/wiki/Sed
--->
-
 See also Bash and PowerShell<br>
 Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
 
@@ -1584,6 +1564,24 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
+https://help.ubuntu.com/community/UsingTheTerminal
+http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
+
+https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
+
+http://www.gnu.org/software/bash/manual
+
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
+
+https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html#//apple_ref/doc/uid/TP40004268-CH271-BBCBEAJD
+
+https://en.wikipedia.org/wiki/Grep
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
+
+https://en.wikibooks.org/wiki/Grep
+https://en.wikibooks.org/wiki/AWK
+https://en.wikibooks.org/wiki/Sed
+
 http://ss64.com
 http://ss64.com/osx
 http://ss64.com/bash
@@ -1661,10 +1659,6 @@ Zsh (Bash Alternative)
 * [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh) 
 
-<!--
-zsh --version
--->
-
 More Shell/Text Editors (See also Visual Studio and XCode)
 * [Sublime Text Editor](http://www.sublimetext.com)
 * [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
@@ -1703,12 +1697,12 @@ Dot Files
 * [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
 * [YADR GitHub](https://github.com/skwp/dotfiles)
 
+<!--
 Startup Class Dotfiles and AWS EC2 Setup
 * [Course Dotfiles](https://github.com/startup-class/dotfiles)  
 * [Course EC2 Setup](https://github.com/startup-class/setup)  
 * [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
 
-<!--
 https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
 -->
 
@@ -2330,6 +2324,8 @@ https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-ba
 https://gitter.im/FreeCodeCamp/FreeCodeCamp
 https://gitter.im/apps
 https://gitter.im/FreeCodeCamp/Help
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki
+https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
@@ -2753,6 +2749,8 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility
 https://developer.mozilla.org/en-US/docs/Web/Security
 
 https://developer.mozilla.org/en-US/Learn
+
+
 https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
@@ -2763,6 +2761,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 https://developer.mozilla.org/en-US/docs/DOM
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+
+
 https://developer.mozilla.org/en-US/docs/Web/API
 https://developer.mozilla.org/en-US/docs/Web/Reference/API
 
@@ -2938,16 +2938,6 @@ JavaScript Tutorials
 * [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
-<!--
-https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
-http://www.ecma-international.org
-Ecma International - European association for standardizing information and communication systems.
-
-Eloquent JavaScript
-http://eloquentjavascript.net/chapter6.html
-http://eloquentjavascript.net/chapter8.html  
--->
-
 JavaScript Tutorials- Mozilla
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
@@ -2963,6 +2953,22 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 <!--
+http://www.w3schools.com/js/js_switch.asp
+
+https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
+http://www.ecma-international.org
+Ecma International - European association for standardizing information and communication systems.
+
+Eloquent JavaScript
+http://eloquentjavascript.net/chapter6.html
+http://eloquentjavascript.net/chapter8.html  
+
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.elfzmj1vd
+http://chimera.labs.oreilly.com/books/1234000000262/pr01.html#who_this_book_is_for
+-->
+<!--
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+
 https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
 
 http://www.w3schools.com/js/js_popup.asp
@@ -2984,17 +2990,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/swi
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
 -->
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
 <!--
 * [Mozilla Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
 * [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
@@ -3022,6 +3017,16 @@ https://github.com/es5/es5.github.io
 
 https://twitter.com/kentcdodds/status/710701170268831744
 -->
+
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 AJAX
 * [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
