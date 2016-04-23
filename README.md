@@ -991,6 +991,7 @@ Preethi Kasireddy: How The Web Works
 https://en.wikipedia.org/wiki/Client_(computing)
 https://en.wikipedia.org/wiki/Server_(computing)
 https://en.wikipedia.org/wiki/IP_address
+[IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
 https://en.wikipedia.org/wiki/Internet_service_provider
 https://en.wikipedia.org/wiki/Domain_Name_System
 https://en.wikipedia.org/wiki/Domain_name
@@ -1001,7 +1002,7 @@ https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 https://en.wikipedia.org/wiki/Uniform_Resource_Locator
 https://en.wikipedia.org/wiki/Root_name_server
 https://en.wikipedia.org/wiki/Top-level_domain
-https://en.wikipedia.org/wiki/Network_socket
+[Network Socket Wikipedia](http://en.wikipedia.org/wiki/Network_socket)   
 https://en.wikipedia.org/wiki/Parsing
 https://en.wikipedia.org/wiki/Client%E2%80%93server_model
 https://en.wikipedia.org/wiki/Load_balancing_(computing)
@@ -2335,6 +2336,7 @@ Free Code Camp
 Free Code Camp LinkedIn
 https://www.reddit.com/r/freecodecamp
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1
+https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites
 https://gitter.im/FreeCodeCamp/FreeCodeCamp
 https://gitter.im/apps
@@ -3048,12 +3050,33 @@ https://medium.com/@preethikasireddy
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
 
-https://github.com/bonniee/react-starter
-
 * [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
+
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
+
+https://reactcommunity.org/
+https://github.com/reactjs/react-basic
+https://github.com/reactjs/react-redux
+https://github.com/reactjs/react-router-redux
+https://github.com/reactjs/react-tutorial
+
+https://github.com/bonniee/react-starter
+https://github.com/gaearon/react-transform-boilerplate
+https://github.com/mxstbr/react-boilerplate
+https://github.com/tj/frontend-boilerplate
+https://github.com/pheuter/essential-react
+https://github.com/RickWong/react-isomorphic-starterkit
+https://github.com/benoitvallon/react-native-nw-react-calculator
+https://github.com/kriasoft/react-starter-kit
+https://github.com/krasimir/react-webpack-starter
+https://github.com/geniuscarrier/webpack-boilerplate
+https://github.com/ruanyf/react-babel-webpack-boilerplate
+
+https://github.com/reflux/refluxjs
+https://github.com/relax/relax
+https://github.com/feathersjs/feathers
 -->
 
 React Relay (React Stack)
