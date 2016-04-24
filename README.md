@@ -3074,9 +3074,13 @@ Facebook- React (JavaScript)
 * [React JSFiddle](https://jsfiddle.net/reactjs)
 
 <!--
+http://buildwithreact.com/
 https://facebook.github.io/react/docs/tutorial.html
+https://facebook.github.io/react/docs/thinking-in-react.html
 https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
 http://facebook.github.io/react/docs/multiple-components.html
+https://facebook.github.io/flux/docs/overview.html
+https://facebook.github.io/react-native/docs/embedded-app-ios.html
 -->
 
 <!--
@@ -3141,6 +3145,10 @@ https://github.com/wix/hello-react-templates
 http://wix.github.io/react-templates/
 
 https://github.com/react-native-material-design/demo-app
+
+https://github.com/jsx/JSX
+https://babeljs.io/docs/plugins/transform-react-jsx/
+http://www.sitepoint.com/getting-started-react-jsx
 -->
 
 React Relay (React Stack)
