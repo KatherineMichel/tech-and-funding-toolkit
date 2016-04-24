@@ -3079,8 +3079,6 @@ https://facebook.github.io/react/docs/tutorial.html
 https://facebook.github.io/react/docs/thinking-in-react.html
 https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
 http://facebook.github.io/react/docs/multiple-components.html
-https://facebook.github.io/flux/docs/overview.html
-https://facebook.github.io/react-native/docs/embedded-app-ios.html
 -->
 
 <!--
@@ -3145,10 +3143,6 @@ https://github.com/wix/hello-react-templates
 http://wix.github.io/react-templates/
 
 https://github.com/react-native-material-design/demo-app
-
-https://github.com/jsx/JSX
-https://babeljs.io/docs/plugins/transform-react-jsx/
-http://www.sitepoint.com/getting-started-react-jsx
 -->
 
 React Relay (React Stack)
@@ -3166,11 +3160,19 @@ Facebook- React Native (React Stack)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
 <!--
+https://facebook.github.io/react-native/docs/embedded-app-ios.html
+-->
+
+JSX
+* [JSX](https://jsx.github.io)
+* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+
+<!--
 https://www.npmjs.com/package/jsx
-https://jsx.github.io
-https://facebook.github.io/jsx
-https://facebook.github.io/react/docs/jsx-in-depth.html
 http://buildwithreact.com/tutorial/jsx
+https://github.com/jsx/JSX
+https://babeljs.io/docs/plugins/transform-react-jsx/
+http://www.sitepoint.com/getting-started-react-jsx
 -->
 
 Ionic Framework (React Stack)
@@ -3182,6 +3184,10 @@ Babel (React Stack)
 Flux (React Stack)
 * [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
 * [Reflux](https://github.com/reflux/refluxjs)
+
+<!--
+https://facebook.github.io/flux/docs/overview.html
+-->
 
 Redux (React Stack)
 * [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
