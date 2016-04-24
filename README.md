@@ -3100,11 +3100,19 @@ https://github.com/facebook/react/wiki/Sites-Using-React
 http://react-components.com/
 https://jsfiddle.net/reactjs
 https://facebook.github.io/react-native/docs/tutorial.html
-https://github.com/sahat/instagram-hackhands
+https://facebook.github.io/react/docs/tutorial.html
+https://facebook.github.io/react/docs/jsx-in-depth.html
+https://jsx.github.io/
+https://facebook.github.io/jsx/
+http://buildwithreact.com/tutorial/jsx
 
 https://en.wikipedia.org/wiki/CommonJS
 https://webpack.github.io/docs/commonjs.html
 http://requirejs.org/docs/commonjs.html
+http://wiki.commonjs.org/wiki/Introduction
+
+https://github.com/sahat/instagram-hackhands
+https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/
 -->
 
 React Relay (React Stack)
