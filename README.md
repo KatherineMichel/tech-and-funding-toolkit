@@ -3156,11 +3156,9 @@ React-Router (React Stack)
 Facebook- React Native (React Stack)
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
 <!--
-https://github.com/fbsamples/f8app
-http://makeitopen.com
-
 https://jsx.github.io/
 https://facebook.github.io/jsx/
 http://buildwithreact.com/tutorial/jsx
@@ -3181,8 +3179,8 @@ Redux (React Stack)
 
 Build Tools (grunt, gulp, bower, browserify, webpack)
 * [Gulp GitHub](https://github.com/gulpjs/gulp) 
-* [Webpack GitHub](https://github.com/webpack/webpack)
-* [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
+* [webpack GitHub](https://github.com/webpack/webpack) and [webpack docs](https://webpack.github.io/docs)
+* [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 
 Other React Stack Helpers
 * Polymer
@@ -3195,7 +3193,6 @@ Other React Stack Helpers
 * [Relax GitHub](https://github.com/relax/relax)
 
 <!--
-https://webpack.github.io/docs
 http://requirejs.org/docs
 
 https://github.com/touchstonejs/touchstonejs
@@ -3208,15 +3205,12 @@ https://github.com/nodejs/node-eps
 
 http://redux.js.org/docs/basics/Reducers.html
 
-https://nodejs.org/metrics/#versions
-http://nodejs.org/api/debugger.html
--->
-
-<!--
-http://nodejs.org/api
-
 Node.js Debugger
 http://nodejs.org/api/debugger.html#debugger_breakpoints
+http://nodejs.org/api/debugger.html
+
+http://nodejs.org/api
+https://nodejs.org/metrics/#versions
 https://nodejsmodules.org/
 https://github.com/sequelize/sequelize
 https://github.com/caolan/async
