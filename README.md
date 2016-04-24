@@ -3053,6 +3053,8 @@ https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-502038
 * [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
 
+https://github.com/petehunt/react-webpack-template
+
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 
@@ -3091,6 +3093,18 @@ https://github.com/mikechau/react-primer-draft
 
 http://isomorphic.net
 https://github.com/sgaurav/understanding-es6
+
+https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
+http://facebook.github.io/react/docs/multiple-components.html
+https://github.com/facebook/react/wiki/Sites-Using-React
+http://react-components.com/
+https://jsfiddle.net/reactjs
+https://facebook.github.io/react-native/docs/tutorial.html
+https://github.com/sahat/instagram-hackhands
+
+https://en.wikipedia.org/wiki/CommonJS
+https://webpack.github.io/docs/commonjs.html
+http://requirejs.org/docs/commonjs.html
 -->
 
 React Relay (React Stack)
