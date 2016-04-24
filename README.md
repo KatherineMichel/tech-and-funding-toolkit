@@ -3023,6 +3023,13 @@ jQuery Extras
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
+<!--
+https://en.wikipedia.org/wiki/CommonJS
+https://webpack.github.io/docs/commonjs.html
+http://requirejs.org/docs/commonjs.html
+http://wiki.commonjs.org/wiki/Introduction
+-->
+
 #### JavaScript Ecosystem
 
 DOM (Document Object Model) (JavaScript, async, AJAX)
@@ -3091,28 +3098,23 @@ https://github.com/ruanyf/react-demos
 https://github.com/ele828/react-native-guide
 https://github.com/mikechau/react-primer-draft
 
+https://github.com/sahat/instagram-hackhands
+https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/
+
 http://isomorphic.net
 https://github.com/sgaurav/understanding-es6
 
-https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
-http://facebook.github.io/react/docs/multiple-components.html
-https://github.com/facebook/react/wiki/Sites-Using-React
-http://react-components.com/
-https://jsfiddle.net/reactjs
-https://facebook.github.io/react-native/docs/tutorial.html
 https://facebook.github.io/react/docs/tutorial.html
 https://facebook.github.io/react/docs/jsx-in-depth.html
-https://jsx.github.io/
-https://facebook.github.io/jsx/
-http://buildwithreact.com/tutorial/jsx
+https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
+http://facebook.github.io/react/docs/multiple-components.html
 
-https://en.wikipedia.org/wiki/CommonJS
-https://webpack.github.io/docs/commonjs.html
-http://requirejs.org/docs/commonjs.html
-http://wiki.commonjs.org/wiki/Introduction
+https://github.com/facebook/react/wiki/Sites-Using-React
 
-https://github.com/sahat/instagram-hackhands
-https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/
+https://github.com/react-native-material-design/demo-app
+
+http://react-components.com/
+https://jsfiddle.net/reactjs
 -->
 
 React Relay (React Stack)
@@ -3131,6 +3133,14 @@ React-Router (React Stack)
 
 Facebook- React Native (React Stack)
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+
+<!--
+https://facebook.github.io/react-native/docs/tutorial.html
+
+https://jsx.github.io/
+https://facebook.github.io/jsx/
+http://buildwithreact.com/tutorial/jsx
+-->
 
 Ionic Framework (React Stack)
 * [Ionic](http://ionicframework.com) and [Ionic GitHub](https://github.com/driftyco/ionicons)
