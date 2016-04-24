@@ -945,6 +945,7 @@ History of Technology and Computer Science
 
 <!--
 https://en.wikibooks.org/wiki/Category:Computer_science
+https://en.wikibooks.org/wiki/Open_Metadata_Handbook
 -->
 
 Computer Scientists
@@ -2928,6 +2929,9 @@ Learn AJAX
 
 http://www.json.org/xml.html
 
+Pre-Flight
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+
 https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
@@ -3054,6 +3058,11 @@ Node.js
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org)  
 
+<!--
+npm install -g npm-check-updates
+https://www.npmjs.com/package/check-update
+-->
+
 Angular (React Stack)
 * [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
 * [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
@@ -3117,6 +3126,8 @@ https://github.com/coryhouse/react-slingshot
 https://github.com/elementalui/elemental
 https://github.com/ryanflorence/react-project
 
+https://github.com/gaearon/redux-devtools
+
 CMS
 https://github.com/relax
 https://github.com/relax/relax
@@ -3164,13 +3175,12 @@ https://facebook.github.io/react-native/docs/embedded-app-ios.html
 -->
 
 JSX
-* [JSX](https://jsx.github.io)
+* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
 * [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
 
 <!--
 https://www.npmjs.com/package/jsx
 http://buildwithreact.com/tutorial/jsx
-https://github.com/jsx/JSX
 https://babeljs.io/docs/plugins/transform-react-jsx/
 http://www.sitepoint.com/getting-started-react-jsx
 -->
