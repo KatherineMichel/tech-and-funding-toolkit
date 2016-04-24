@@ -3111,6 +3111,13 @@ http://facebook.github.io/react/docs/multiple-components.html
 
 https://github.com/facebook/react/wiki/Sites-Using-React
 
+https://github.com/wix/react-templates-transform-boilerplate
+https://github.com/wix/generator-react-templates
+https://github.com/wix/hello-react-templates
+http://wix.github.io/react-templates/
+
+https://www.npmjs.com/package/jsx
+
 https://github.com/react-native-material-design/demo-app
 
 http://react-components.com/
