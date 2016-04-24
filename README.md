@@ -3111,8 +3111,6 @@ https://facebook.github.io/react/docs/jsx-in-depth.html
 https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
 http://facebook.github.io/react/docs/multiple-components.html
 
-https://github.com/facebook/react/wiki/Sites-Using-React
-
 https://github.com/wix/react-templates-transform-boilerplate
 https://github.com/wix/generator-react-templates
 https://github.com/wix/hello-react-templates
