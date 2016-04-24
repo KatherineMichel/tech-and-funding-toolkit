@@ -22,7 +22,7 @@ Table of Content
 * [Company and Product Databases](#company-and-product-databases)
 * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
 * [Open Companies](#open-companies) 
-* [Labs, Kitchens, Garages](#labs-kitchens-garages)
+* [Labs, Kitchens, Garages](#labs-kitchens-garages)r
 * [Project Management](#project-management)
   * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
   * [Software Testing](#software-testing)
@@ -3083,6 +3083,11 @@ Facebook- React (JavaScript)
 * [React JSFiddle](https://jsfiddle.net/reactjs)
 
 <!--
+http://todomvc.com/examples/
+https://github.com/tastejs/todomvc
+
+http://keycode.info/
+
 http://buildwithreact.com/
 https://facebook.github.io/react/docs/tutorial.html
 https://facebook.github.io/react/docs/thinking-in-react.html
@@ -3197,6 +3202,7 @@ Flux (React Stack)
 
 <!--
 https://facebook.github.io/flux/docs/overview.html
+http://facebook.github.io/flux/docs/testing-flux-applications.html
 -->
 
 Redux (React Stack)
