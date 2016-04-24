@@ -3091,11 +3091,6 @@ https://github.com/mikechau/react-primer-draft
 
 http://isomorphic.net
 https://github.com/sgaurav/understanding-es6
-
-https://github.com/touchstonejs/touchstonejs
-https://github.com/reflux/refluxjs
-https://github.com/relax/relax
-https://github.com/feathersjs/feathers
 -->
 
 React Relay (React Stack)
@@ -3116,11 +3111,7 @@ Facebook- React Native (React Stack)
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 
 Ionic Framework (React Stack)
-* [Ionic](http://ionicframework.com)
-
-<!--
-https://github.com/driftyco/ionicons
--->
+* [Ionic](http://ionicframework.com) and [Ionic GitHub](https://github.com/driftyco/ionicons)
 
 Babel (React Stack)
 * [Babel GitHub](https://github.com/babel/babel)
@@ -3130,16 +3121,14 @@ Express (React Stack)
 * [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
 
 Angular (React Stack)
+* [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
 * [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
 * [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
 * [Angular Protractor GitHub](https://github.com/angular/protractor)
 
-<!--
-http://www.w3schools.com/angular/default.asp
--->
-
 Flux (React Stack)
 * [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
+* [Reflux](https://github.com/reflux/refluxjs)
 
 Redux (React Stack)
 * [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
@@ -3157,8 +3146,12 @@ Other React Stack Helpers
 * [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
 * [JSX](https://jsx.github.io)
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
+* [Relax GitHub](https://github.com/relax/relax)
 
 <!--
+https://github.com/touchstonejs/touchstonejs
+https://github.com/feathersjs/feathers
+
 https://www.npmjs.com/package/eslint-config-airbnb
 
 https://github.com/nodejs/node-eps/pull/3
