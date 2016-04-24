@@ -2901,6 +2901,13 @@ JavaScript Tutorials- Mozilla
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
+<!--
+https://en.wikipedia.org/wiki/CommonJS
+https://webpack.github.io/docs/commonjs.html
+http://requirejs.org/docs/commonjs.html
+http://wiki.commonjs.org/wiki/Introduction
+-->
+
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
@@ -3023,13 +3030,6 @@ jQuery Extras
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
-<!--
-https://en.wikipedia.org/wiki/CommonJS
-https://webpack.github.io/docs/commonjs.html
-http://requirejs.org/docs/commonjs.html
-http://wiki.commonjs.org/wiki/Introduction
--->
-
 #### JavaScript Ecosystem
 
 DOM (Document Object Model) (JavaScript, async, AJAX)
@@ -3150,7 +3150,7 @@ http://buildwithreact.com/tutorial/jsx
 -->
 
 Ionic Framework (React Stack)
-* [Ionic](http://ionicframework.com) and [Ionic GitHub](https://github.com/driftyco/ionicons)
+* [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
 
 Babel (React Stack)
 * [Babel GitHub](https://github.com/babel/babel)
@@ -6430,11 +6430,6 @@ Google
 * [Startup Resources](http://startupresources.io)
 * [Startup Stash](http://startupstash.com)
 
-<!--
-https://github.com/minimaxir/big-list-of-naughty-strings
-https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
--->
-
 Awesome
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -6457,7 +6452,14 @@ Awesome Non-Code
 * [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
 * [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
+
+README and Head
 * [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
+* [HEAD GitHub](https://github.com/joshbuchea/HEAD)
+
+Naughty Strings and Words
+* [Big List of Naughty Strings GitHub](https://github.com/minimaxir/big-list-of-naughty-strings)
+* [List of Dirty, Naughty, Obscene, and Otherwise Bad Words GitHub](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
 Awesome Git
 * [Git Tips GitHub](https://github.com/git-tips/tips)
@@ -7832,10 +7834,8 @@ Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
 
-<!--
 Stanford Encyclopedia of Philosophy
-http://plato.stanford.edu
--->
+* [](http://plato.stanford.edu)
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
