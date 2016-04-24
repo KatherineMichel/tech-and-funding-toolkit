@@ -3071,6 +3071,16 @@ Facebook- React (JavaScript)
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
 * [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
 * [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
+* [React How-To GitHub](https://github.com/petehunt/react-howto)
+
+<!--
+https://jsfiddle.net/reactjs
+
+https://facebook.github.io/react/docs/tutorial.html
+https://facebook.github.io/react/docs/jsx-in-depth.html
+https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
+http://facebook.github.io/react/docs/multiple-components.html
+-->
 
 <!--
 React- Gulp, Webpack, Karma
@@ -3078,11 +3088,6 @@ React- Gulp, Webpack, Karma
 https://medium.com/@preethikasireddy
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
-
-* [Webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
-* [React How-To GitHub](https://github.com/petehunt/react-howto)
-
-https://github.com/petehunt/react-webpack-template
 
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
@@ -3092,6 +3097,8 @@ https://github.com/reactjs/react-basic
 https://github.com/reactjs/react-redux
 https://github.com/reactjs/react-router-redux
 https://github.com/reactjs/react-tutorial
+
+https://github.com/petehunt/react-webpack-template
 
 https://github.com/bonniee/react-starter
 https://github.com/gaearon/react-transform-boilerplate
@@ -3107,7 +3114,6 @@ https://github.com/geniuscarrier/webpack-boilerplate
 https://github.com/ruanyf/react-babel-webpack-boilerplate
 https://github.com/erikras/react-redux-universal-hot-example
 https://github.com/davezuko/react-redux-starter-kit
-https://github.com/gaearon/react-transform-boilerplate
 https://github.com/coryhouse/react-slingshot
 https://github.com/elementalui/elemental
 https://github.com/ryanflorence/react-project
@@ -3126,11 +3132,6 @@ https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongo
 http://isomorphic.net
 https://github.com/sgaurav/understanding-es6
 
-https://facebook.github.io/react/docs/tutorial.html
-https://facebook.github.io/react/docs/jsx-in-depth.html
-https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
-http://facebook.github.io/react/docs/multiple-components.html
-
 https://github.com/wix/react-templates-transform-boilerplate
 https://github.com/wix/generator-react-templates
 https://github.com/wix/hello-react-templates
@@ -3141,7 +3142,6 @@ https://www.npmjs.com/package/jsx
 https://github.com/react-native-material-design/demo-app
 
 http://react-components.com/
-https://jsfiddle.net/reactjs
 -->
 
 React Relay (React Stack)
