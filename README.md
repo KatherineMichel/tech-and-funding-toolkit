@@ -2988,6 +2988,7 @@ https://nodejs.org/en/docs/es6
 
 https://es5.github.io
 https://github.com/es5/es5.github.io
+https://github.com/sgaurav/understanding-es6
 
 https://twitter.com/kentcdodds/status/710701170268831744
 -->
@@ -3077,7 +3078,6 @@ Facebook- React (JavaScript)
 https://jsfiddle.net/reactjs
 
 https://facebook.github.io/react/docs/tutorial.html
-https://facebook.github.io/react/docs/jsx-in-depth.html
 https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
 http://facebook.github.io/react/docs/multiple-components.html
 -->
@@ -3126,18 +3126,17 @@ https://github.com/ruanyf/react-demos
 https://github.com/ele828/react-native-guide
 https://github.com/mikechau/react-primer-draft
 
+Demos
+https://github.com/toomastahves/react-node-demo
 https://github.com/sahat/instagram-hackhands
 https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/
 
 http://isomorphic.net
-https://github.com/sgaurav/understanding-es6
 
 https://github.com/wix/react-templates-transform-boilerplate
 https://github.com/wix/generator-react-templates
 https://github.com/wix/hello-react-templates
 http://wix.github.io/react-templates/
-
-https://www.npmjs.com/package/jsx
 
 https://github.com/react-native-material-design/demo-app
 
@@ -3159,8 +3158,10 @@ Facebook- React Native (React Stack)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
 <!--
-https://jsx.github.io/
-https://facebook.github.io/jsx/
+https://www.npmjs.com/package/jsx
+https://jsx.github.io
+https://facebook.github.io/jsx
+https://facebook.github.io/react/docs/jsx-in-depth.html
 http://buildwithreact.com/tutorial/jsx
 -->
 
