@@ -2760,12 +2760,9 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 * [Google Pagespeed](https://developers.google.com/speed/pagespeed)
 * [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [New Relic](http://newrelic.com)
 * [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 * [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-<!--
-http://newrelic.com
--->
 
 W3 Validators
 * [W3C HTML Validator](https://validator.w3.org/nu)
@@ -3073,10 +3070,10 @@ Facebook- React (JavaScript)
 * [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
 * [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
+* [React Components](http://react-components.com)
+* [React JSFiddle](https://jsfiddle.net/reactjs)
 
 <!--
-https://jsfiddle.net/reactjs
-
 https://facebook.github.io/react/docs/tutorial.html
 https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
 http://facebook.github.io/react/docs/multiple-components.html
@@ -3144,8 +3141,6 @@ https://github.com/wix/hello-react-templates
 http://wix.github.io/react-templates/
 
 https://github.com/react-native-material-design/demo-app
-
-http://react-components.com/
 -->
 
 React Relay (React Stack)
