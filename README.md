@@ -2901,8 +2901,10 @@ JavaScript Tutorials- Mozilla
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
+CommonJS
+* [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
 <!--
-https://en.wikipedia.org/wiki/CommonJS
 https://webpack.github.io/docs/commonjs.html
 http://requirejs.org/docs/commonjs.html
 http://wiki.commonjs.org/wiki/Introduction
@@ -3188,6 +3190,8 @@ Other React Stack Helpers
 * [Relax GitHub](https://github.com/relax/relax)
 
 <!--
+https://github.com/facebook/relay
+
 https://github.com/touchstonejs/touchstonejs
 https://github.com/feathersjs/feathers
 
