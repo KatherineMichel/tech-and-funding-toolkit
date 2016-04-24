@@ -1712,6 +1712,9 @@ Dot Files
 
 #### Git and Markdown
 
+Concurrent Version System
+* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
+
 Git
 * [Git Homepage](https://git-scm.com)
 * [Git GitHub](https://github.com/git/git)  
@@ -1725,15 +1728,12 @@ Learn X in Y Minutes Git and Markdown
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 <!--
-https://git-scm.com/docs/git-tag
-https://git-scm.com/book/en/v2/Git-Basics-Tagging
-
-Git-scm.com/book
-http://git-scm.com
 http://git-scm.com/book
 http://git-scm.com/book/ch3-2.html
 http://git-scm.com/book/ch9-5.html
 http://git-scm.com/book/en/Git-Basics-Tagging
+https://git-scm.com/book/en/v2/Git-Basics-Tagging
+https://git-scm.com/docs/git-tag
 
 http://gitref.org
 http://gitref.org/branching
@@ -1760,8 +1760,6 @@ Git Cheat Sheets and Tutorials
 
 <!--
 https://github.com/settings/applications/new
-
-https://en.wikipedia.org/wiki/Concurrent_Versions_System
 
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
@@ -2902,13 +2900,9 @@ JavaScript Tutorials- Mozilla
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 CommonJS
-* [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
-
-<!--
-https://webpack.github.io/docs/commonjs.html
-http://requirejs.org/docs/commonjs.html
-http://wiki.commonjs.org/wiki/Introduction
--->
+* [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+* [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
+* [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
 
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
@@ -3046,6 +3040,32 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 #### JavaScript Tools
 
+Node.js
+* [Node.js](http://nodejs.org)  
+* [Node.js Docs/API](http://nodejs.org/api/)  
+* [Node.js Design](https://www.joyent.com/developers/node/design)  
+* [Nodejsmodules.org](https://nodejsmodules.org)  
+* [NPM Package Search](https://www.npmjs.org)  
+* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
+* [NPM GitHub](https://github.com/npm/npm)  
+* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
+* [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
+* [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
+* [JSDOM GitHub](https://github.com/tmpvar/jsdom)  
+* [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
+* [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
+* [Node Beginner](http://www.nodebeginner.org)  
+
+Angular (React Stack)
+* [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
+* [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
+* [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
+* [Angular Protractor GitHub](https://github.com/angular/protractor)
+
+Express (React Stack)
+* [Express (based on Sinatra)](http://expressjs.com)  
+* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
+
 Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
@@ -3127,11 +3147,6 @@ https://jsfiddle.net/reactjs
 React Relay (React Stack)
 * [Facebook Relay GitHub](https://github.com/facebook/relay)
 
-<!--
-https://github.com/fbsamples/f8app
-http://makeitopen.com
--->
-
 React Bootstrap (React Stack)
 * [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
 
@@ -3140,9 +3155,11 @@ React-Router (React Stack)
 
 Facebook- React Native (React Stack)
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
 <!--
-https://facebook.github.io/react-native/docs/tutorial.html
+https://github.com/fbsamples/f8app
+http://makeitopen.com
 
 https://jsx.github.io/
 https://facebook.github.io/jsx/
@@ -3154,16 +3171,6 @@ Ionic Framework (React Stack)
 
 Babel (React Stack)
 * [Babel GitHub](https://github.com/babel/babel)
-
-Express (React Stack)
-* [Express (based on Sinatra)](http://expressjs.com)  
-* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
-
-Angular (React Stack)
-* [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
-* [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
-* [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
-* [Angular Protractor GitHub](https://github.com/angular/protractor)
 
 Flux (React Stack)
 * [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
@@ -3188,7 +3195,8 @@ Other React Stack Helpers
 * [Relax GitHub](https://github.com/relax/relax)
 
 <!--
-https://github.com/facebook/relay
+https://webpack.github.io/docs
+http://requirejs.org/docs
 
 https://github.com/touchstonejs/touchstonejs
 https://github.com/feathersjs/feathers
@@ -3204,22 +3212,6 @@ https://nodejs.org/metrics/#versions
 http://nodejs.org/api/debugger.html
 -->
 
-Node.js
-* [Node.js](http://nodejs.org)  
-* [Node.js Docs/API](http://nodejs.org/api/)  
-* [Node.js Design](https://www.joyent.com/developers/node/design)  
-* [Nodejsmodules.org](https://nodejsmodules.org)  
-* [NPM Package Search](https://www.npmjs.org)  
-* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
-* [NPM GitHub](https://github.com/npm/npm)  
-* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
-* [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
-* [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
-* [JSDOM GitHub](https://github.com/tmpvar/jsdom)  
-* [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
-* [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
-* [Node Beginner](http://www.nodebeginner.org)  
-
 <!--
 http://nodejs.org/api
 
@@ -3230,21 +3222,6 @@ https://github.com/sequelize/sequelize
 https://github.com/caolan/async
 -->
 
-Node.js Launch and Ryan Dahl
-* [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
-* [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
-* [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history)  
-
-Node Add-ons
-* [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
-* [Nodemon GitHub](https://github.com/remy/nodemon)  
-* [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
-* [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
-
-Node Forks
-* [IO.js GitHub](https://github.com/iojs/io.js)  
-* [JXCore](http://jxcore.com/home) 
-
 TodoMVC (See also JavaScript)
 * [TodoMVC](http://todomvc.com) and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
 
@@ -3254,6 +3231,21 @@ MVCs General, Backbone, Ember
 * [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
 * [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
 * [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
+
+Node Add-ons
+* [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
+* [Nodemon GitHub](https://github.com/remy/nodemon)  
+* [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
+* [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
+
+Node.js Launch and Ryan Dahl
+* [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
+* [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
+* [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history) 
+
+Node Forks
+* [IO.js GitHub](https://github.com/iojs/io.js)  
+* [JXCore](http://jxcore.com/home) 
 
 Yo/Yeoman, Bower, Grunt
 * [Yo GitHub](https://github.com/yeoman/yo)  
