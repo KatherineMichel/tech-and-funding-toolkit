@@ -2948,23 +2948,23 @@ https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#Non-constructor_functions
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#Non-constructor_functions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
@@ -2975,7 +2975,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
@@ -2999,9 +2998,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
