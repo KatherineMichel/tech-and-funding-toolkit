@@ -2933,6 +2933,7 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 <!--
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
@@ -2944,10 +2945,12 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arit
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 
 
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+Prototype-based Programming
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+https://developer.mozilla.org/en-US/docs/DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 
 https://www.mathsisfun.com/combinatorics/combinations-permutations.html
 https://www.mathsisfun.com/least-common-multiple.html
@@ -2955,17 +2958,6 @@ http://www.mathsisfun.com/roman-numerals.html
 
 https://dev.w3.org/html5/html-author/charref
 https://www.youtube.com/watch?v=PxffSUQRkG4
-
-Pre-Flight
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-Prototype-based Programming
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
-https://developer.mozilla.org/en-US/docs/DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Contributor_s_Guide/Private_Properties
-https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
 
 https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
 
