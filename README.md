@@ -2921,14 +2921,14 @@ XML, XHTML
 * [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 -->
-
 <!--
 Learn JSON
 https://learnxinyminutes.com/docs/json/
 Learn AJAX
 
 http://www.json.org/xml.html
-
+-->
+<!--
 Pre-Flight
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 
@@ -2947,6 +2947,7 @@ https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
@@ -2954,12 +2955,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#Non-constructor_functions
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
@@ -2999,7 +3002,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
@@ -3013,8 +3015,6 @@ http://www.mathsisfun.com/roman-numerals.html
 
 https://dev.w3.org/html5/html-author/charref
 https://www.youtube.com/watch?v=PxffSUQRkG4
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
 
 https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
 
