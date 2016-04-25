@@ -2632,6 +2632,19 @@ HTML
 * [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 
+<!--
+W3Schools
+Learn XML
+XML Tutorials
+Learn XSLT
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+-->
+
 CSS
 * [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
 * [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
@@ -2902,6 +2915,14 @@ CommonJS
 * [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
 * [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
 
+JSON
+* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
+* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
+
+<!--
+http://www.json.org/xml.html
+-->
+
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
@@ -2910,41 +2931,6 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 <!--
-W3Schools
-Learn XML
-XML Tutorials
-Learn XSLT
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
--->
-<!--
-Learn JSON
-https://learnxinyminutes.com/docs/json/
-Learn AJAX
-
-http://www.json.org/xml.html
--->
-<!--
-Pre-Flight
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
-
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-Prototype-based Programming
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
-
-https://developer.mozilla.org/en-US/docs/DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-
-https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Contributor_s_Guide/Private_Properties
-
-https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
@@ -3016,6 +3002,17 @@ http://www.mathsisfun.com/roman-numerals.html
 https://dev.w3.org/html5/html-author/charref
 https://www.youtube.com/watch?v=PxffSUQRkG4
 
+Pre-Flight
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+Prototype-based Programming
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+https://developer.mozilla.org/en-US/docs/DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Contributor_s_Guide/Private_Properties
+https://developer.mozilla.org/en-US/docs/Browser_detection_using_the_user_agent
+
 https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
 
 https://en.wikipedia.org/wiki/JavaScript_syntax
@@ -3024,7 +3021,6 @@ https://en.wikipedia.org/wiki/JavaScript_engine
 https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript
 https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
 https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
-https://en.wikipedia.org/wiki/JSON
 
 Eloquent JavaScript
 http://eloquentjavascript.net/chapter6.html
@@ -3064,6 +3060,7 @@ ECMAScript and ES6, ES7 Forthcoming
 
 AJAX
 * [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [W3Schools AJAX Tutorials](http://www.w3schools.com/ajax/default.asp)
 * [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
 
 jQuery
