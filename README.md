@@ -2934,9 +2934,9 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
-
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
@@ -2944,10 +2944,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arit
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
 
 https://www.mathsisfun.com/combinatorics/combinations-permutations.html
