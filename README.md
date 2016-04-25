@@ -2932,28 +2932,17 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 
 <!--
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#Non-constructor_functions
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
