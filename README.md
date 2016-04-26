@@ -2020,13 +2020,11 @@ Lecture 11: Regulation, Disruption, and the Technologies of 2013. https://d28rh4
 
 http://www.html5rocks.com/en/mobile/
 
-Lecture 1: Figure 1: Signoidal curve for the development of an industry
-Lecture 1: Table 1: Future and current/ongoing technological trends
-Lecture 1: Table 2: An overview of technologies used in the course                                
-Lecture 1: Figure 5: The Rise and Fall of Personal Computing
-
-Lecture 2: Figure 2: Startup Engineering Dev and Deployment, AWS, Heroku, Git
-Lecture 2: Figure 84: AWS, Heroku, Git
+AWS, Heroku, Git
+Lecture 2: Figure 2: Startup Engineering Dev and Deployment
+Lecture 2: Figure 84:
+Lecture 7: Figure 1-3: Dev, Staging, Production
+Lecture 7: Figure 20: Dev, Staging, Production
 
 Setup
 Lecture 2: Figure 1: Goal
@@ -2058,9 +2056,7 @@ Setup
 Lecture 4a: Figures: All Technical
 Lecture 4b: Figures: All Technical
 
-Lecture 7: Figure 1-3: Dev, Staging, Production,  AWS, Heroku, Git
-Lecture 7: Figure 20: Dev, Staging, Production,  AWS, Heroku, Git
-
+Setup
 Lecture 7: Figure 4-19: SSH, including Bitstarter
 Lecture 7: Figure 20-34: SSH
 Lecture 7: Figure 35-43: Domize and DNSimple
@@ -2077,6 +2073,10 @@ Lecture 5: Figure 8: Google Keyword Planner
 Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
 Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
 
+Lecture 1: Figure 1: Signoidal curve for the development of an industry
+Lecture 1: Table 1: Future and current/ongoing technological trends
+Lecture 1: Table 2: An overview of technologies used in the course                                
+Lecture 1: Figure 5: The Rise and Fall of Personal Computing
 -->
 
 #### Code Philosophies
