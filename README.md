@@ -1950,8 +1950,12 @@ https://class.coursera.org/startup-001/lecture
 Homework
 https://class.coursera.org/startup-001/wiki/homework
 
-Assignments
+Deployment Assignments
 https://class.coursera.org/startup-001/assignment
+https://class.coursera.org/startup-001/assignment/view?assignment_id=5
+https://class.coursera.org/startup-001/assignment/view?assignment_id=8
+https://class.coursera.org/startup-001/assignment/view?assignment_id=10
+https://class.coursera.org/startup-001/assignment/view?assignment_id=12
 
 Startup Class Dotfiles and AWS EC2 Setup
 * [Course Dotfiles](https://github.com/startup-class/dotfiles)  
@@ -1960,12 +1964,7 @@ Startup Class Dotfiles and AWS EC2 Setup
 
 https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
 
-Startup Mooc Staging Example: GitHub, AWS, Heroku
 * [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-* Illustration: Startup Engineering Dev, Staging, Production
-
-
-
 
 Lecture 2: Interactive Start 
 http://class.coursera.org/startup-001/lecture/75
@@ -2637,8 +2636,9 @@ HTML
 <!--
 W3Schools
 Learn XML
-XML Tutorials
+http://www.w3schools.com/xml/default.asp
 Learn XSLT
+http://www.w3schools.com/xsl/default.asp
 
 XML, XHTML
 * [XML Wikibook](https://en.wikipedia.org/wiki/XML)
