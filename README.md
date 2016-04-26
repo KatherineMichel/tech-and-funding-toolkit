@@ -1455,6 +1455,9 @@ Google Developers- Google Chrome Doc
 * [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
 
 <!--
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
 https://developers.google.com/web/tools/setup/setup-workflow
 https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
 https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
@@ -1470,10 +1473,9 @@ Google Chrome Doc Archive
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
-https://www.codeschool.com/courses/discover-devtools
+https://toolbox.googleapps.com/apps/har_analyzer/
 
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-
 https://developers.google.com/cast/docs/developers
 
 Old Docs
@@ -1494,17 +1496,11 @@ https://developer.chrome.com/apps/about_apps
 Miscellaneous
 https://bugs.chromium.org/p/v8/issues/list
 
-https://toolbox.googleapps.com/apps/har_analyzer/
-
 http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
 http://www.ibm.com/developerworks/library/os-extendchrome/
 https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
 http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
 https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-http://docs.ionic.io/docs/chrome-inspector
 http://developer.samsung.com/technical-doc/view.do?v=T000000203
 https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
 https://dev.twitter.com/web/embedded-timelines
@@ -1524,6 +1520,11 @@ Mozilla Developer Tools
 
 <!--
 https://addons.mozilla.org/en-US/firefox
+
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+http://docs.ionic.io/docs/chrome-inspector
 
 Chrome User Agent Switcher
 https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
@@ -1732,9 +1733,10 @@ Learn X in Y Minutes Git and Markdown
 http://git-scm.com/book
 http://git-scm.com/book/ch3-2.html
 http://git-scm.com/book/ch9-5.html
+https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
 http://git-scm.com/book/en/Git-Basics-Tagging
-https://git-scm.com/book/en/v2/Git-Basics-Tagging
 https://git-scm.com/docs/git-tag
+https://git-scm.com/docs/git-merge
 
 http://gitref.org
 http://gitref.org/branching
@@ -1779,31 +1781,9 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
-https://www.producthunt.com/@jordan_gonen/collections/everything-github
-
-https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks
-https://git-scm.com/docs/git-merge
-
-http://www.learnenough.com/git-tutorial#sec-getting_started
-
-https://github.com/business
-
-https://guides.github.com/features/issues/
-
-https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/
-https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/
-
-https://help.github.com/articles/using-a-custom-domain-with-github-pages/
-
-
-
-Project Management
-
 https://try.github.io
 
-https://github.com/andygrunwald/TrendingGithub
-
-https://github.com/ajaxorg/ace
+https://github.com/business
 
 https://github.com/github/training-kit
 https://github.com/github-archive
@@ -1811,10 +1791,12 @@ https://github.com/github-archive/training.github.com
 https://github.com/github/teach.github.com
 https://github.com/jlord/git-it
 
-http://ndpsoftware.com/git-cheatsheet.html
-
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/about-repository-graphs#traffic
+
+https://guides.github.com/features/issues
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
 
 https://help.github.com/articles/helping-people-contribute-to-your-project/
 
@@ -1836,10 +1818,6 @@ https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
 https://help.github.com/articles/about-github-mirrors/
 https://help.github.com/articles/duplicating-a-repository/
 
-https://github.com/blog/1986-announcing-git-large-file-storage-lfs
-https://github.com/blog/2104-working-with-submodules
-https://github.com/blog/2041-improving-map-data-on-github
-
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
 
@@ -1849,6 +1827,12 @@ https://www.atlassian.com/git/tutorials/using-branches/git-branch/
 
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
+
+https://help.github.com/articles/using-a-custom-domain-with-github-pages
+
+https://github.com/blog/1986-announcing-git-large-file-storage-lfs
+https://github.com/blog/2104-working-with-submodules
+https://github.com/blog/2041-improving-map-data-on-github
 
 http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
@@ -1881,6 +1865,16 @@ https://github.com/berkerpeksag/github-badge
 http://shields.io
 http://badges.github.io/gh-badges
 https://github.com/badges/badgerbadgerbadger
+
+http://ndpsoftware.com/git-cheatsheet.html
+
+https://www.producthunt.com/@jordan_gonen/collections/everything-github
+
+http://www.learnenough.com/git-tutorial#sec-getting_started
+
+https://github.com/andygrunwald/TrendingGithub
+
+https://github.com/ajaxorg/ace
 -->
 
 Git Ignore and Licenses
@@ -2175,19 +2169,22 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
-https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
+http://blog.djangogirls.org
+http://blog.djangogirls.org/post/137825610883/about-your-django-story
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
+http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
 
 https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
 https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
-http://pinaxproject.com/pinax/how_to_contribute/#reporting-bugs-requesting-features-making-pull-requests
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
 
+http://pinaxproject.com/pinax/how_to_contribute
+https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
 https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
 https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
-https://plus.google.com/u/0/events/ca9n7iklbra4i67te8uh55468n0
 
 https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
 https://github.com/pybee/pybee.github.io
@@ -2333,29 +2330,24 @@ Free Code Camp
 
 <!--
 Free Code Camp LinkedIn
-https://www.reddit.com/r/freecodecamp
-https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1
-https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites
+
+https://github.com/FreeCodeCamp
 https://gitter.im/FreeCodeCamp/FreeCodeCamp
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites
+
 https://gitter.im/apps
 https://gitter.im/FreeCodeCamp/Help
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki
+https://www.reddit.com/r/freecodecamp
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1
+
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
-https://github.com/FreeCodeCamp
 
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-
-https://egghead.io/series/learn-to-use-vim
 https://egghead.io/tags/free
+https://egghead.io/series/learn-to-use-vim
 https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
 https://egghead.io/lessons/javascript-intro-to-webpack
 https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
-
-http://campus.codeschool.com/courses/mastering-github/level/1/section/4/video/1
-http://campus.codeschool.com/courses/app-evolution-with-swift/subscribe
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-http://campus.codeschool.com/courses/app-evolution-with-swift/level/4/section/1/creating-a-table-view
 
 http://www.gnu.org/doc/other-free-books.html
 https://github.com/vhf/free-programming-books
