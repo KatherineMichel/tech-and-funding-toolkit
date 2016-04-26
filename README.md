@@ -3371,7 +3371,6 @@ Ruby- Tutorials
 * [Learn X in Y Minutes Ruby Ecosystem](https://learnxinyminutes.com/docs/ruby-ecosystem)
 
 <!--
-Startup MOOC
 http://edgeguides.rubyonrails.org/active_record_basics.html#naming-conventions
 
 http://stackoverflow.com/questions/tagged/ruby-on-rails
@@ -4033,7 +4032,6 @@ Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
-Startup MOOC
 https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
 https://docs.python.org/2/reference/grammar.html
 https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
