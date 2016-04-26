@@ -1972,12 +1972,9 @@ http://class.coursera.org/startup-001/lecture/75
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf
 
 Lecture 3: Linux and Server Side Javascript 
-https://class.coursera.org/startup-001/lecture/index
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf
-
-Lecture 3: Linux and Server-Side Javascript 
 https://class.coursera.org/startup-001/lecture/99
-href="https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf
+https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf
 
 Lecture 4A: Linux Command Line 
 https://class.coursera.org/startup-001/lecture/131
@@ -1986,7 +1983,8 @@ https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-c
 Lecture 4B: Development Environment 
 https://class.coursera.org/startup-001/lecture/155 https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf
 
-Lecture 7: Deployment, DNS, and Custom Domains (<a https://class.coursera.org/startup-001/lecture/197
+Lecture 7: Deployment, DNS, and Custom Domains 
+https://class.coursera.org/startup-001/lecture/197
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf
 
 Lecture 12: Node JS: Async, Flow Control, Node Debugging 
@@ -2027,8 +2025,11 @@ Lecture 1: Table 1: Future and current/ongoing technological trends
 Lecture 1: Table 2: An overview of technologies used in the course                                
 Lecture 1: Figure 5: The Rise and Fall of Personal Computing
 
+Lecture 2: Figure 2: Startup Engineering Dev and Deployment, AWS, Heroku, Git
+Lecture 2: Figure 84: AWS, Heroku, Git
+
+Setup
 Lecture 2: Figure 1: Goal
-Lecture 2: Figure 2: Startup Engineering Dev and Deployment 
 Lecture 2: Figure 4: Chrome User Agent Switcher
 Lecture 2: Figure 5: Closing using GUI
 Lecture 2: Figure 6: Closing using CLI
@@ -2049,11 +2050,21 @@ Lecture 2: Figure 75: Local Versus Remote Commands
 Lecture 2: Figure 76-83: SSH
 Lecture 2: Figure 84: Goal
 
+Setup
 Lecture 3: Figure 1: Virtualization
 Lecture 3: Figure 2-6: SSH
 
+Setup
 Lecture 4a: Figures: All Technical
 Lecture 4b: Figures: All Technical
+
+Lecture 7: Figure 1-3: Dev, Staging, Production,  AWS, Heroku, Git
+Lecture 7: Figure 20: Dev, Staging, Production,  AWS, Heroku, Git
+
+Lecture 7: Figure 4-19: SSH, including Bitstarter
+Lecture 7: Figure 20-34: SSH
+Lecture 7: Figure 35-43: Domize and DNSimple
+Lecture 7: Figure 44-46: SSH
 
 Lecture 5: Table 5: The Idea State Machine
 Lecture 5: Figure 1: Visualizing the Idea Maze
@@ -2065,13 +2076,6 @@ Lecture 5: Figure 7: Facebook Census Tool
 Lecture 5: Figure 8: Google Keyword Planner
 Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
 Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
-
-Lecture 7: Figure 1-3: Dev, Staging, Production
-Lecture 7: Figure 4-19: SSH, including Bitstarter
-Lecture 7: Figure 20: Dev, Staging, Production
-Lecture 7: Figure 20-34: SSH
-Lecture 7: Figure 35-43: Domize and DNSimple
-Lecture 7: Figure 44-46: SSH
 
 -->
 
