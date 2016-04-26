@@ -4721,6 +4721,10 @@ Apache (See also mod_wsgi)
 * [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
 <!--
+https://httpd.apache.org/docs/current/vhosts
+https://httpd.apache.org/docs/current/vhosts/examples.html
+https://en.wikipedia.org/wiki/Virtual_hosting
+
 http://en.wikipedia.org/wiki/.htaccess
 https://en.wikipedia.org/wiki/Httpd.conf
 http://httpd.apache.org/docs/current/configuring.html
@@ -4790,6 +4794,10 @@ Status
 
 Consles
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
+
+<!--
+https://console.aws.amazon.com/billing/home
+-->
 
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
@@ -4898,6 +4906,16 @@ AWS- Lambda (See also Google Cloud Functions)
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 
 <!--
+https://aws.amazon.com/cloudformation/aws-cloudformation-templates
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-cloudformer.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/gettingstarted.templatebasics.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/mappings-section-structure.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-iam-role.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-1.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html
+
 http://aws.amazon.com/documentation/sdk-for-ios/
 
 https://www.amazon.com/gp/drive/landing/everything
@@ -4910,7 +4928,9 @@ https://live.awsevents.com
 http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
 
 http://aws.amazon.com/pricing
+https://aws.amazon.com/ec2/purchasing-options
 https://aws.amazon.com/ec2/pricing
+https://aws.amazon.com/ec2/spot/pricing
 https://aws.amazon.com/s3/pricing
 http://aws.amazon.com/pricing/rds
 
