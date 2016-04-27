@@ -1584,6 +1584,9 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
+https://en.wikipedia.org/wiki/Option_key
+https://en.wikipedia.org/wiki/Meta_key
+
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
 
 https://help.ubuntu.com/community/UsingTheTerminal
@@ -2614,6 +2617,10 @@ HTML and CSS Tutorials- General
 * [W3Schools HTML Try It](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
 * [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+
+<!--
+https://developer.microsoft.com/en-us/microsoft-edge/platform/usage/
+-->
 
 HTML and CSS Tutorials- Mozilla
 * [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -4271,6 +4278,10 @@ Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter Django Deployment on Heroku](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-heroku.html)
 * [Cookiecutter Django Deployment with Docker](http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html)
 
+<!--
+http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-pythonanywhere.html
+-->
+
 #### Python and Django Useful Tools
 
 Python- Django- Debug Toolbar
@@ -4887,6 +4898,7 @@ AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
 http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
 -->
 
@@ -5049,6 +5061,9 @@ Digital Ocean (VPS)
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
 <!--
+https://www.digitalocean.com/community/tutorials
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
+
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
 -->
 
@@ -6594,6 +6609,8 @@ Google Products, Office
 
 <!--
 https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en
+
+http://en.gravatar.com
 -->
 
 API
