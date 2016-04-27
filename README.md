@@ -1212,6 +1212,11 @@ Linux- Other Popular Distributions
 Linux Feeling- on Windows
 * [Cygwin](http://cygwin.com)
 
+<!--
+PuTTY is a Windows SSH and telnet client
+http://www.putty.org
+-->
+
 #### OS, Shell, Browser
 
 Operating Systems
@@ -1956,6 +1961,8 @@ https://class.coursera.org/startup-001/assignment/view?assignment_id=5
 https://class.coursera.org/startup-001/assignment/view?assignment_id=8
 https://class.coursera.org/startup-001/assignment/view?assignment_id=10
 https://class.coursera.org/startup-001/assignment/view?assignment_id=12
+
+https://github.com/heroku/node-js-sample
 
 Startup Class Dotfiles and AWS EC2 Setup
 * [Course Dotfiles](https://github.com/startup-class/dotfiles)  
@@ -4875,6 +4882,13 @@ AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
 * [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
 * [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
+
+<!--
+https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
+-->
 
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
 * [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
