@@ -1564,7 +1564,7 @@ Mac OS X- Terminal, Bash (Unix)
 * [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
 * [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Bash Homepage](https://www.gnu.org/software/bash) and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
+* [Bash Homepage](https://www.gnu.org/software/bash), [Bash Manual](http://www.gnu.org/software/bash/manual), and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
 * [Bash Shell Scripting Wikipedia](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
@@ -1575,13 +1575,6 @@ https://en.wikipedia.org/wiki/Option_key
 https://en.wikipedia.org/wiki/Meta_key
 
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
-
-https://help.ubuntu.com/community/UsingTheTerminal
-http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
-
-https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
-
-http://www.gnu.org/software/bash/manual
 
 https://en.wikipedia.org/wiki/Grep
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
@@ -1594,8 +1587,6 @@ http://ss64.com
 http://ss64.com/osx
 http://ss64.com/bash
 
-http://linux.die.net/man/1/bash
-
 http://pubs.opengroup.org/onlinepubs/9699919799/
 http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
 
@@ -1605,6 +1596,13 @@ http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 http://www.tldp.org/LDP/Bash-Beginners-Guide/html
 http://www.tldp.org/LDP/abs/html
 http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+
+http://linux.die.net/man/1/bash
+
+https://help.ubuntu.com/community/UsingTheTerminal
+http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
+
+https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
 -->
 
 Unix
@@ -1627,11 +1625,12 @@ POSIX (Compatible with Unix)
 * [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
 
 <!--
-http://www.unix.com/man-page/posix/1posix/eval/
+http://www.unix.com/man-page/posix/1posix/eval
 -->
 
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
+* [Emacs Manual](http://www.gnu.org/software/emacs/manual) and [Emacs Manual Intro](http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro)
 * [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
 * [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
 * [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
@@ -1640,16 +1639,11 @@ Emacs and Vim (Text Editors)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
 <!--
+https://emacsformacosx.com/
+http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
+
 https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
 https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
-
-Emacsformacosx.com
-http://www.emacswiki.org/emacs
-
-http://www.gnu.org/software/emacs/manual/
-http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro
-
-http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
 -->
 
 Nano
