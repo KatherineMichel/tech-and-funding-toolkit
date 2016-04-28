@@ -4416,6 +4416,15 @@ https://learnxinyminutes.com/docs/csharp/
 
 https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
+
+https://store.xamarin.com
+https://developer.xamarin.com/
+https://developer.xamarin.com/guides/mac/getting_started/hello,_mac/
+https://developer.xamarin.com/guides/mac/
+https://developer.xamarin.com/guides/ios/getting_started/installation/mac/
+https://developer.xamarin.com/api/root/monomac-lib/
+https://developer.xamarin.com/guides/ios/getting_started/
+https://github.com/xamarin/xamarin-macios
 -->
 
 .NET
