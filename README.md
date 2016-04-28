@@ -1212,11 +1212,6 @@ Linux- Other Popular Distributions
 Linux Feeling- on Windows
 * [Cygwin](http://cygwin.com)
 
-<!--
-PuTTY is a Windows SSH and telnet client
-http://www.putty.org
--->
-
 #### OS, Shell, Browser
 
 Operating Systems
@@ -1233,10 +1228,6 @@ Web Browser
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 
-<!--
-Browser Statistics
--->
-
 Mozilla (Browser, Layout Engine)
 * [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
 * [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
@@ -1252,6 +1243,8 @@ Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
 <!--
+Browser Statistics
+
 http://www.gnu.org/software/coreutils/manual/coreutils.html
 
 http://ftp.gnu.org
@@ -1287,7 +1280,7 @@ Opera (Also Blink)
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
-Windows, 
+Windows
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 * [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
 
@@ -1307,6 +1300,9 @@ https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
 Web Development
 https://msdn.microsoft.com/en-us/library/aa155073.aspx
 -->
+
+Windows SSH and Telnet Client
+* [PuTTY](http://www.putty.org)
 
 Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
@@ -4417,6 +4413,7 @@ https://learnxinyminutes.com/docs/csharp/
 https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
 
+http://blogs.microsoft.com/blog/2016/04/27/the-future-of-mobile-app-development/#sm.0008g19oo96nf84111o1ljq1vrm8j
 https://store.xamarin.com
 https://developer.xamarin.com/
 https://developer.xamarin.com/guides/mac/getting_started/hello,_mac/
@@ -5764,6 +5761,10 @@ http://developersacademy.io/blog/
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
+
+<!--
+https://developer.oculus.com/documentation/pcsdk/0.4/concepts/dg-sdk-setup-requirements/
+-->
 
 #### Data Science
 
