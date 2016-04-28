@@ -4272,11 +4272,8 @@ Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
 * [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
 * [Cookiecutter Django Deployment on Heroku](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-heroku.html)
+* [Cookiecutter Django Deployment on Python Anywhere](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-pythonanywhere.html)
 * [Cookiecutter Django Deployment with Docker](http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html)
-
-<!--
-http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-pythonanywhere.html
--->
 
 #### Python and Django Useful Tools
 
@@ -4821,6 +4818,7 @@ Consles
 
 <!--
 https://console.aws.amazon.com/billing/home
+https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances
 -->
 
 IANA, Domize, DNSimple, Heroku
@@ -4901,8 +4899,6 @@ AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
 
 <!--
-https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances
-
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
 http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
@@ -5067,7 +5063,6 @@ Digital Ocean (VPS)
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
 <!--
-https://www.digitalocean.com/community/tutorials
 https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
@@ -5136,11 +5131,8 @@ GitHub, Heroku, AWS SSH and SSH Keys
 (http://git-scm.com/book/ch3-2.html)
 (http://goo.gl/sQ6OI)
  
-See here to understand the ’git push staging-heroku staging:master’ syntax:
 http://devcenter.heroku.com/articles/multiple-environments
 http://git-scm.com/book/ch9-5.html
-
-https://devcenter.heroku.com/articles/keys
 -->
 
 Heroku Secure Key
