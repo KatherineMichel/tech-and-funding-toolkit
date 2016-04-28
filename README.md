@@ -2332,8 +2332,6 @@ Free Code Camp
 <!--
 Free Code Camp LinkedIn
 
-https://github.com/FreeCodeCamp
-https://gitter.im/FreeCodeCamp/FreeCodeCamp
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites
 
