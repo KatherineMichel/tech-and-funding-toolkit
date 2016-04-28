@@ -1513,18 +1513,19 @@ Mozilla Developer Tools
 <!--
 https://addons.mozilla.org/en-US/firefox
 
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
 https://facebook.github.io/react-native/docs/debugging.html
 http://docs.ionic.io/docs/chrome-inspector
 
 Chrome User Agent Switcher
 https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
+chrome://apps
 Chrome Secure Shell
 https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
-
 https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related
+
 https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc
 -->
 
@@ -4811,6 +4812,9 @@ Consles
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
 
 <!--
+https://cloud.digitalocean.com
+https://cloud.digitalocean.com/settings
+
 https://console.aws.amazon.com/billing/home
 https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances
 -->
