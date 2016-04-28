@@ -5132,6 +5132,17 @@ GitHub, Heroku, AWS SSH and SSH Keys
 * [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
 * [AWS EC2 Key Pairs](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html) 
 
+<!--
+(http://git-scm.com/book/ch3-2.html)
+(http://goo.gl/sQ6OI)
+ 
+See here to understand the ’git push staging-heroku staging:master’ syntax:
+http://devcenter.heroku.com/articles/multiple-environments
+http://git-scm.com/book/ch9-5.html
+
+https://devcenter.heroku.com/articles/keys
+-->
+
 Heroku Secure Key
 * [Secure Key](https://devcenter.heroku.com/articles/securekey)
 * [Fortnightly](https://addons.heroku.com/securekey#fortnightly)
