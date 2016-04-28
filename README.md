@@ -1292,15 +1292,6 @@ Edge and EdgeHTML (Browser, Layout Engine)
 * [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
 * [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
 
-<!--
-http://technet.microsoft.com/en-us 
-
-JavaScript Reference
-https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
-Web Development
-https://msdn.microsoft.com/en-us/library/aa155073.aspx
--->
-
 Windows SSH and Telnet Client
 * [PuTTY](http://www.putty.org)
 
@@ -2628,6 +2619,13 @@ HTML and CSS Tutorials- Mozilla
 HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+<!--
+JavaScript Reference
+https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
+Web Development
+https://msdn.microsoft.com/en-us/library/aa155073.aspx
+-->
 
 Can I Use and Vendor-prefixed CSS Property Overview
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
@@ -4409,6 +4407,8 @@ https://learnxinyminutes.com/docs/csharp/
 
 https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
+
+http://technet.microsoft.com/en-us 
 
 http://blogs.microsoft.com/blog/2016/04/27/the-future-of-mobile-app-development/#sm.0008g19oo96nf84111o1ljq1vrm8j
 https://store.xamarin.com
