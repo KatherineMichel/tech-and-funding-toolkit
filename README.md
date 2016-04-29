@@ -4401,7 +4401,17 @@ https://learnxinyminutes.com/docs/csharp/
 https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
 
+https://msdn.microsoft.com/en-us/library/618ayhy6.aspx
+https://msdn.microsoft.com/en-us/library/618ayhy6(v=vs.71).aspx
+https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
+https://msdn.microsoft.com/en-us/library/ms228593.aspx
+https://msdn.microsoft.com/en-us/library/aa645596(v=vs.71).aspx
+https://msdn.microsoft.com/en-us/library/aa287558(v=vs.71).aspx
+https://msdn.microsoft.com/en-us/library/kx37x362.aspx
+
 http://technet.microsoft.com/en-us 
+
+https://docs.asp.net/en/latest/client-side/yeoman.html
 
 http://blogs.microsoft.com/blog/2016/04/27/the-future-of-mobile-app-development/#sm.0008g19oo96nf84111o1ljq1vrm8j
 https://store.xamarin.com
@@ -4895,6 +4905,10 @@ AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
 
 <!--
+http://docs.aws.amazon.com/gettingstarted/latest/wah/awsgsg-wah.pdf
+
+http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
+
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
 http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
