@@ -1755,6 +1755,8 @@ Git Cheat Sheets and Tutorials
 <!--
 https://github.com/settings/applications/new
 
+https://github.com/business
+
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
 
@@ -1774,8 +1776,6 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
-https://github.com/business
-
 https://github.com/github/training-kit
 https://github.com/github-archive
 https://github.com/github-archive/training.github.com
@@ -2792,7 +2792,7 @@ Chomsky Hierarchy and Automata
 * [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
 
 Singly Linked Linear Lists vs. Other Lists
-* [](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
