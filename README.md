@@ -1710,11 +1710,14 @@ Dot Files
 Concurrent Version System
 * [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
 
-Git
-* [Git Homepage](https://git-scm.com)
+Git Origin
 * [Git GitHub](https://github.com/git/git)  
 * [Git GitHub](https://github.com/mojombo/git)  
-* [Git GitHub](https://github.com/xlymian/git)  
+* [Git GitHub](https://github.com/xlymian/git) 
+
+Git
+* [Git Homepage](https://git-scm.com)
+* [Git Book](http://git-scm.com/book)
 * [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
 * [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
  
@@ -1723,13 +1726,13 @@ Learn X in Y Minutes Git and Markdown
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 <!--
-http://git-scm.com/book
-http://git-scm.com/book/ch3-2.html
-http://git-scm.com/book/ch9-5.html
 https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
 http://git-scm.com/book/en/Git-Basics-Tagging
 https://git-scm.com/docs/git-tag
 https://git-scm.com/docs/git-merge
+
+http://git-scm.com/book/ch3-2.html
+http://git-scm.com/book/ch9-5.html
 
 http://gitref.org
 http://gitref.org/branching
