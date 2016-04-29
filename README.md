@@ -1563,8 +1563,12 @@ Shell
 Comparison of Command Shells
 * [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 
+SS64 (Command Line Reference (CMD, PowerShell, Bash, OS X, Access, VB Script, Oracle, SQL Server, CSS, Convert MB/GB))
+* [SS64](http://ss64.com)
+
 Mac OS X- Terminal, Bash (Unix)
 * [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [SS64 OS X Reference](http://ss64.com/osx) and [SS64 Bash Reference](http://ss64.com/bash)
 * [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 * [Bash Homepage](https://www.gnu.org/software/bash), [Bash Manual](http://www.gnu.org/software/bash/manual), and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
@@ -1574,25 +1578,6 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
-Search…
-Command line reference –
-Web, Database and OS scripting.
- 
-CMD
-PowerShell
-Bash
-OS X
-Access
-VB Script
-Oracle
-SQL Server
-CSS
-Convert MB/GB
-
-http://ss64.com
-http://ss64.com/osx
-http://ss64.com/bash
-
 https://en.wikipedia.org/wiki/Option_key
 https://en.wikipedia.org/wiki/Meta_key
 
