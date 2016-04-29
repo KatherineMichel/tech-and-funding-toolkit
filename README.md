@@ -1114,6 +1114,8 @@ https://en.wikipedia.org/wiki/Cross-site_scripting
 [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
 [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering)  
 
+https://en.wikipedia.org/wiki/CNAME_record
+
 http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 
 What are the Numbers that Every Computer Engineer Should Know
@@ -1473,10 +1475,9 @@ https://developers.google.com/cast/docs/developers
 Old Docs
 * [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
 
+https://developer.chrome.com/devtools
 https://developer.chrome.com/devtools/docs
 https://developer.chrome.com/devtools/docs/network
-
-https://developer.chrome.com/devtools/
 https://developer.chrome.com/devtools/docs/console
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.chrome.com/devtools/docs/videos
@@ -1524,7 +1525,6 @@ Chrome Secure Shell
 https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
 https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related
 
 https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc
 -->
@@ -1640,6 +1640,7 @@ Emacs and Vim (Text Editors)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
 <!--
+Emacs for Mac or Linux
 https://emacsformacosx.com/
 http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
 
