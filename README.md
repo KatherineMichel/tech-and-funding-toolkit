@@ -988,24 +988,18 @@ Preethi Kasireddy: How The Web Works
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
+Client Server
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+
 <!--
-https://en.wikipedia.org/wiki/Client_(computing)
-https://en.wikipedia.org/wiki/Server_(computing)
-https://en.wikipedia.org/wiki/Client%E2%80%93server_model
-
-https://en.wikipedia.org/wiki/Port_(computer_networking) (Port Number)
-https://en.wikipedia.org/wiki/Host_(network)
-[Network Socket Wikipedia](http://en.wikipedia.org/wiki/Network_socket) 
-
 https://en.wikipedia.org/wiki/Internet_service_provider
-https://en.wikipedia.org/wiki/Internet_protocol_suite (TCP/IP)
-https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 https://en.wikipedia.org/wiki/Parsing
 
 https://en.wikipedia.org/wiki/IP_address
 [IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
 https://en.wikipedia.org/wiki/Virtual_IP_address
-https://en.wikipedia.org/wiki/Uniform_Resource_Locator
 
 https://en.wikipedia.org/wiki/Top-level_domain
 https://en.wikipedia.org/wiki/Domain_Name_System
@@ -1027,23 +1021,31 @@ HTTP protocol defaults to port 80 and HTTPS defaults to port 443
 https://technet.microsoft.com/en-us/library/bb962069.aspx
 -->
 
-Port
+Port and Host
 * [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
 * [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
 * [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 * [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
 * [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
+* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+
+URL and IRI
+* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
+* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
 HTTP
 * [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
@@ -1074,10 +1076,6 @@ Char Sets
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
 
-URL and IRI
-* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
-* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
-
 Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
@@ -1087,19 +1085,17 @@ Naming Conventions
 * [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
 * [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
 
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
 Local Terms
-* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
 * [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
 * [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
 * [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
 * [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
 * [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
 * [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 
 Miscellaneous Vocab
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
@@ -2414,7 +2410,6 @@ Standards
 Standards
 https://wicg.github.io/admin/charter.html
 https://github.com/WICG/incubation-template/blob/gh-pages/index.html
-https://github.com/w3c/html
 https://github.com/whatwg/dom
 
 https://github.com/tabatkins/bikeshed
@@ -2587,6 +2582,10 @@ W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
 
+<!--
+https://github.com/w3c/html
+-->
+
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 * [W3Schools HTML Try It](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
@@ -2594,7 +2593,14 @@ HTML and CSS Tutorials- General
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
 
 <!--
-https://developer.microsoft.com/en-us/microsoft-edge/platform/usage/
+https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
+
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
 -->
 
 HTML and CSS Tutorials- Mozilla
@@ -2607,13 +2613,6 @@ HTML and CSS Tutorials- Mozilla
 HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
 
 Can I Use and Vendor-prefixed CSS Property Overview
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
@@ -2747,7 +2746,9 @@ https://developer.mozilla.org/en-US/docs/Web/SVG
 https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
 https://developer.mozilla.org/en-US/docs/Web/MathML
 https://developer.mozilla.org/en-US/docs/Glossary
+-->
 
+<!--
 http://whatwg.github.io/loader
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
@@ -2796,9 +2797,8 @@ Chomsky Hierarchy and Automata
 * [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
 * [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
 
-<!--
-https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists
--->
+Singly Linked Linear Lists vs. Other Lists
+* [](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
