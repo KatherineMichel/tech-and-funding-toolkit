@@ -934,6 +934,7 @@ Wikipedia Portals
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
 * [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
 * [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
 * [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
 * [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
@@ -944,7 +945,6 @@ History of Technology and Computer Science
 * [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology)
 
 <!--
-https://en.wikibooks.org/wiki/Category:Computer_science
 https://en.wikibooks.org/wiki/Open_Metadata_Handbook
 -->
 
@@ -991,31 +991,35 @@ Preethi Kasireddy: How The Web Works
 <!--
 https://en.wikipedia.org/wiki/Client_(computing)
 https://en.wikipedia.org/wiki/Server_(computing)
-https://en.wikipedia.org/wiki/IP_address
-[IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
-https://en.wikipedia.org/wiki/Internet_service_provider
-https://en.wikipedia.org/wiki/Domain_Name_System
-https://en.wikipedia.org/wiki/Domain_name
-https://en.wikipedia.org/wiki/Internet_protocol_suite (TCP/IP)
+https://en.wikipedia.org/wiki/Client%E2%80%93server_model
+
 https://en.wikipedia.org/wiki/Port_(computer_networking) (Port Number)
 https://en.wikipedia.org/wiki/Host_(network)
+[Network Socket Wikipedia](http://en.wikipedia.org/wiki/Network_socket) 
+
+https://en.wikipedia.org/wiki/Internet_service_provider
+https://en.wikipedia.org/wiki/Internet_protocol_suite (TCP/IP)
 https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-https://en.wikipedia.org/wiki/Uniform_Resource_Locator
-https://en.wikipedia.org/wiki/Root_name_server
-https://en.wikipedia.org/wiki/Top-level_domain
-[Network Socket Wikipedia](http://en.wikipedia.org/wiki/Network_socket)   
 https://en.wikipedia.org/wiki/Parsing
-https://en.wikipedia.org/wiki/Client%E2%80%93server_model
-https://en.wikipedia.org/wiki/Load_balancing_(computing)
+
+https://en.wikipedia.org/wiki/IP_address
+[IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
 https://en.wikipedia.org/wiki/Virtual_IP_address
+https://en.wikipedia.org/wiki/Uniform_Resource_Locator
+
+https://en.wikipedia.org/wiki/Top-level_domain
+https://en.wikipedia.org/wiki/Domain_Name_System
+https://en.wikipedia.org/wiki/Domain_name
 https://en.wikipedia.org/wiki/Round-robin_DNS
 Least Connections
+
+https://en.wikipedia.org/wiki/Root_name_server
+
+https://en.wikipedia.org/wiki/Load_balancing_(computing)
 https://en.wikipedia.org/wiki/Server_farm
 https://en.wikipedia.org/wiki/Web_service
 https://en.wikipedia.org/wiki/Content_delivery_network
 https://en.wikipedia.org/wiki/Proxy_server
-
-DOM Tree
 
 https://en.wikipedia.org/wiki/HTTP_cookie
 
@@ -1104,17 +1108,14 @@ Miscellaneous Vocab
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
 <!--
-https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists
-
 https://en.wikipedia.org/wiki/Console_application
 https://en.wikipedia.org/wiki/Cross-site_scripting
+
 [Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
 [Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
 [Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
 [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
 [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering)  
-
-https://en.wikipedia.org/wiki/CNAME_record
 
 http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 
@@ -1137,25 +1138,19 @@ Unix
 * [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
 * [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
 * [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
 Unix Shell and File system
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
 * [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+* [Guide to Unix/Commands Wikibook](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands) and [Guide to Unix/Commands/File System Utilities Wikibook](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
 * [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
 * [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
 
 <!--
 https://en.wikipedia.org/wiki/List_of_Unix_daemons
-https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems
-
-https://en.wikibooks.org/wiki/Guide_to_Unix/Commands
-Guide to Unix/Commands/File System Utilities
-http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities
-https://en.wikibooks.org/wiki/Category:Guide_to_Unix/Commands
-
-https://en.wikipedia.org/wiki/Unix_File_System
-https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout
 -->
 
 Comparison of File Systems
@@ -1568,7 +1563,7 @@ Mac OS X- Terminal, Bash (Unix)
 * [Bash Homepage](https://www.gnu.org/software/bash), [Bash Manual](http://www.gnu.org/software/bash/manual), and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
-* [Bash Shell Scripting Wikipedia](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+* [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
@@ -1641,7 +1636,7 @@ Emacs and Vim (Text Editors)
 
 <!--
 Emacs for Mac or Linux
-https://emacsformacosx.com/
+https://emacsformacosx.com
 http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
 
 https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
@@ -2111,7 +2106,7 @@ Semver
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
 
 The Distributed Developer Stack Field Guide
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 
 Trac Project Management and DB (Used with www.djangoproject.com)
 * [Trac](http://trac.edgewall.org)  
@@ -2121,7 +2116,6 @@ Trac Project Management and DB (Used with www.djangoproject.com)
 <!--
 https://github.com/heroku/12factor
 [Semver Org GitHub](https://github.com/mojombo/semver.org)
-https://github.com/odewahn/dds-field-guide/
 -->
 
 #### Open Source Management and Programming Tiers
@@ -2614,12 +2608,12 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
-<!--
-JavaScript Reference
-https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx
-Web Development
-https://msdn.microsoft.com/en-us/library/aa155073.aspx
--->
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
 
 Can I Use and Vendor-prefixed CSS Property Overview
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
@@ -2802,6 +2796,10 @@ Chomsky Hierarchy and Automata
 * [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
 * [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
 
+<!--
+https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists
+-->
+
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 
@@ -2818,7 +2816,7 @@ Programming Languages
 * [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
 * [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
 * [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibooks](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
 Scripting and MVCs
@@ -3000,7 +2998,7 @@ W3C DOM4
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
 <!--
-DOM Parent Child
+DOM Tree/Parent Child
 https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
 -->
 
@@ -3673,7 +3671,7 @@ WordPress Translation
 * [WordPress Translators Team](https://make.wordpress.org/polyglots) 
 
 Wikitech Development
-* [Wikipedia Development](https://www.mediawiki.org/wiki/Category:MediaWiki_Development)  
+* [Wikipedia Development (Category)](https://www.mediawiki.org/wiki/Category:MediaWiki_Development)  
 * [Wikipedia Search Engine](http://www.mediawiki.org/wiki/Help:CirrusSearch)  
 * [Wikitech](https://wikitech.wikimedia.org/wiki/Main_Page)  
 * [Wikitech AP](http://www.mediawiki.org/wiki/API:Main_page)  
@@ -4394,6 +4392,10 @@ Python- Django- Cmatrix
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
+See also 
+JavaScript- Microsoft
+Web Development- Microsoft
+
 W3Schools
 Learn ASP
 Learn ASP.NET
@@ -4698,7 +4700,7 @@ Client and Server-Side
 Databases
 * [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
 * [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-* [Database Management Systems (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
+* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
 * [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
 * [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
 * [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
@@ -4719,7 +4721,7 @@ Types of Databases
 * [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
 * [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
 * [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-* [Document Oriented Databases (Category)  Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
 * [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
 * [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
 * [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
@@ -4841,6 +4843,7 @@ IANA, Domize, DNSimple, Heroku
 * [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
 
 <!--
+https://en.wikipedia.org/wiki/CNAME_record
 http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
 http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
 http://en.wikipedia.org/wiki/Domain_registration#History
@@ -5508,12 +5511,12 @@ Mobile- General
 
 Mobile Phones- General
 * [History of Mobile Phones Wikipedia](https://en.wikipedia.org/wiki/History_of_mobile_phones) 
-* [Mobile Phone Companies by Country Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_phone_companies_by_country)
+* [Mobile Phone Companies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_phone_companies_by_country)
 * [Mobile Phone Makers by Country Wikipedia](http://en.wikipedia.org/wiki/List_of_mobile_phone_makers_by_country) 
 * [List of Mobile Phone Standards Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_phone_standards)
 * [Comparison of Mobile Phone Standards Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards)
 * [Comparison of Smart Phones Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_smartphones)  
-* [Mobile Web Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_Web) 
+* [Mobile Web (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Mobile_Web) 
 * [Mobile App Wikipedia](https://en.wikipedia.org/wiki/Mobile_app)
 * [Mobile Application Development Wikipedia](https://en.wikipedia.org/wiki/Mobile_application_development)
 * [Mobile Service Architecture Wikipedia](http://en.wikipedia.org/wiki/Mobile_Service_Architecture)
@@ -5871,7 +5874,7 @@ Linear/Regression (Supervised Learning)
 
 Statistics- General
 * [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-* [Statistics Category Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
  
 Probability
 * [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
@@ -5929,12 +5932,12 @@ Stochastic Calculus, Stochastic Neural Network, Stochastic Gradient Descent (SGD
 The Science of Viral (See also Stochastic Calculus)
 * [Viral Phenomenon Wikipedia](http://en.wikipedia.org/wiki/Viral_phenomenon)  
 * [Viral Marketing Wikipedia](http://en.wikipedia.org/wiki/Viral_marketing)  
-* [Viral Marketing Category Wikipedia](http://en.wikipedia.org/wiki/Category:Viral_marketing) 
+* [Viral Marketing (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Viral_marketing) 
 
 Artificial Intelligence- General
 * [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
 * [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-* [Artificial Intelligence Category Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
 * [List of Programming Languages for Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence)  
 * [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects)  
 
@@ -5946,8 +5949,8 @@ Data, Data Science, Big Data
 
 Data Mining and Machine Learning- General
 * [Data Mining Series ("Knowledge Discovery in Databases" process, or KDD) Wikipedia](http://en.wikipedia.org/wiki/Data_mining)  
-* [Data Mining Category Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
-* [Data Mining and Machine Learning Software Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
+* [Data Mining (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
+* [Data Mining and Machine Learning Software (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
 * [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
 * [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
 * [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
@@ -5957,7 +5960,7 @@ Algorithms
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
 * [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms Category Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
 
 Online- Machine Learning, Analysis
 * [Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
