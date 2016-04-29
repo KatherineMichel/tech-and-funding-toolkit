@@ -1639,11 +1639,11 @@ Emacs and Vim (Text Editors)
 * [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
-<!--
 Emacs for Mac or Linux
-https://emacsformacosx.com
-http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux
+* [Emacs for Mac OS X](https://emacsformacosx.com)
+* [Installing Emacs on GNU/Linux](http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux)
 
+<!--
 https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
 https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
 -->
