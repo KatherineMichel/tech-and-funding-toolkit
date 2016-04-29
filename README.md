@@ -39,6 +39,7 @@ Table of Content
   * [Social Media and Social Graph](#social-media-and-social-graph) 
   * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
 * [Computer Basics](#computer-basics)
+  * [Encoding](#encoding)
 * [Operating Systems](#operating-systems)
   * [Unix and Linux](#unix-and-linux)
   * [OS, Shell, Browser](#os-shell-browser)
@@ -1026,8 +1027,8 @@ https://en.wikipedia.org/wiki/Virtual_IP_address
 https://en.wikipedia.org/wiki/Root_name_server
 
 https://en.wikipedia.org/wiki/Top-level_domain
-https://en.wikipedia.org/wiki/Domain_Name_System
 https://en.wikipedia.org/wiki/Domain_name
+https://en.wikipedia.org/wiki/Domain_Name_System
 http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
 http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
 http://en.wikipedia.org/wiki/Domain_registration#History
@@ -1055,32 +1056,6 @@ HTTP
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
-
-Encoding
-* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-
-ASCII
-* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
-* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
-
-Bytcote versus Unicode
-* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
-* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-
-<!--
-https://www.w3.org/International/getting-started/characters
-https://www.w3.org/International/articles/definitions-characters/
--->
-
-HTML5 Charactersets
-* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
-* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
-* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
-
-Char Sets
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
 
 Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
@@ -1130,6 +1105,34 @@ http://static.googleusercontent.com/media/research.google.com/en//people/jeff/st
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 -->
+
+#### Encoding
+
+Encoding
+* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+
+ASCII
+* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
+* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
+Bytcote versus Unicode
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+
+<!--
+https://www.w3.org/International/getting-started/characters
+https://www.w3.org/International/articles/definitions-characters/
+-->
+
+HTML5 Charactersets
+* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
 
 #### Operating Systems
 
@@ -1501,6 +1504,23 @@ Google Maps JavaScript API
 https://developers.google.com/maps/documentation/javascript
 -->
 
+Chrome Extensions
+* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
+* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+<!--
+chrome://apps
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+
+http://docs.ionic.io/docs/chrome-inspector
+-->
+
 Safari Developer Tools
 * [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
 
@@ -1508,26 +1528,8 @@ Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 * [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
 
-<!--
-https://addons.mozilla.org/en-US/firefox
-
-https://facebook.github.io/react-native/docs/debugging.html
-http://docs.ionic.io/docs/chrome-inspector
-
-Chrome User Agent Switcher
-https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
-chrome://apps
-Chrome Secure Shell
-https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
-Accessibility Developer Tools
-https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
-
-https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc
--->
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 #### Keyboard Shortcuts
 
