@@ -997,18 +997,6 @@ Client Server
 https://en.wikipedia.org/wiki/Internet_service_provider
 https://en.wikipedia.org/wiki/Parsing
 
-https://en.wikipedia.org/wiki/IP_address
-[IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
-https://en.wikipedia.org/wiki/Virtual_IP_address
-
-https://en.wikipedia.org/wiki/Top-level_domain
-https://en.wikipedia.org/wiki/Domain_Name_System
-https://en.wikipedia.org/wiki/Domain_name
-https://en.wikipedia.org/wiki/Round-robin_DNS
-Least Connections
-
-https://en.wikipedia.org/wiki/Root_name_server
-
 https://en.wikipedia.org/wiki/Load_balancing_(computing)
 https://en.wikipedia.org/wiki/Server_farm
 https://en.wikipedia.org/wiki/Web_service
@@ -1029,6 +1017,24 @@ Port and Host
 * [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
 * [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
 * [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+
+<!--
+https://en.wikipedia.org/wiki/IP_address
+[IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
+https://en.wikipedia.org/wiki/Virtual_IP_address
+
+https://en.wikipedia.org/wiki/Root_name_server
+
+https://en.wikipedia.org/wiki/Top-level_domain
+https://en.wikipedia.org/wiki/Domain_Name_System
+https://en.wikipedia.org/wiki/Domain_name
+http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
+http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
+http://en.wikipedia.org/wiki/Domain_registration#History
+https://en.wikipedia.org/wiki/CNAME_record
+https://en.wikipedia.org/wiki/Round-robin_DNS
+Least Connections
+-->
 
 URL and IRI
 * [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
@@ -1458,7 +1464,7 @@ Google Chrome Doc Archive
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
-https://toolbox.googleapps.com/apps/har_analyzer/
+https://toolbox.googleapps.com/apps/har_analyzer
 
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://developers.google.com/cast/docs/developers
@@ -1505,7 +1511,6 @@ Mozilla Developer Tools
 <!--
 https://addons.mozilla.org/en-US/firefox
 
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
 https://facebook.github.io/react-native/docs/debugging.html
 http://docs.ionic.io/docs/chrome-inspector
 
@@ -1514,7 +1519,11 @@ https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdh
 chrome://apps
 Chrome Secure Shell
 https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo
+Accessibility Developer Tools
 https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 
 https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc
@@ -1748,6 +1757,8 @@ https://github.com/settings/applications/new
 
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
+
+https://try.github.io
 -->
 
 GitHub- Main
@@ -1763,8 +1774,6 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
-https://try.github.io
-
 https://github.com/business
 
 https://github.com/github/training-kit
@@ -2579,29 +2588,14 @@ Web General (See also JavaScript)
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
 W3C HTML Standards
-* [W3C HTML](https://www.w3.org/html)
+* [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
-
-<!--
-https://github.com/w3c/html
--->
 
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 * [W3Schools HTML Try It](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
 * [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-
-<!--
-https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
--->
 
 HTML and CSS Tutorials- Mozilla
 * [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -4392,6 +4386,17 @@ Python- Django- Cmatrix
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
+https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
+
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+-->
+
+<!--
 See also 
 JavaScript- Microsoft
 Web Development- Microsoft
@@ -4841,13 +4846,6 @@ IANA, Domize, DNSimple, Heroku
 * [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)  
 * [DNSimple SSL Certifcate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)  
 * [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
-
-<!--
-https://en.wikipedia.org/wiki/CNAME_record
-http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
-http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
-http://en.wikipedia.org/wiki/Domain_registration#History
--->
 
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
 * [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
