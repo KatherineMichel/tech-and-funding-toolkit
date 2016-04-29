@@ -1574,6 +1574,25 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
+Search…
+Command line reference –
+Web, Database and OS scripting.
+ 
+CMD
+PowerShell
+Bash
+OS X
+Access
+VB Script
+Oracle
+SQL Server
+CSS
+Convert MB/GB
+
+http://ss64.com
+http://ss64.com/osx
+http://ss64.com/bash
+
 https://en.wikipedia.org/wiki/Option_key
 https://en.wikipedia.org/wiki/Meta_key
 
@@ -1585,10 +1604,6 @@ https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/
 https://en.wikibooks.org/wiki/Grep
 https://en.wikibooks.org/wiki/AWK
 https://en.wikibooks.org/wiki/Sed
-
-http://ss64.com
-http://ss64.com/osx
-http://ss64.com/bash
 
 http://pubs.opengroup.org/onlinepubs/9699919799/
 http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
@@ -1736,9 +1751,13 @@ http://gitref.org/branching
 
 https://help.github.com/articles/fork-a-repo
 https://github.com/blog/1256-new-user-profile-pages
+
+Git Branching
+http://www.atlassian.com/git/tutorial/git-branches#!branch
 -->
 
 Git- Official Learning Resources
+* [Try Git](https://try.github.io)
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 * [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
 * [Git Book](http://www.git-scm.com/book/en)  
@@ -1753,17 +1772,6 @@ Git Cheat Sheets and Tutorials
 * [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
 * [Git Index](http://gitref.org/index.html)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
-
-<!--
-https://github.com/settings/applications/new
-
-https://github.com/business
-
-Git Branching
-http://www.atlassian.com/git/tutorial/git-branches#!branch
-
-https://try.github.io
--->
 
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
@@ -1865,8 +1873,6 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 
 http://www.learnenough.com/git-tutorial#sec-getting_started
 
-https://github.com/andygrunwald/TrendingGithub
-
 https://github.com/ajaxorg/ace
 -->
 
@@ -1879,6 +1885,9 @@ GitHub Services Integration
 * [Service Hooks GitHub](https://github.com/github/github-services)  
 * [GitHub Integrations](https://github.com/integrations)  
 * [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+GitHub Business
+* [GitHub Business](https://github.com/business)
 
 GitHub Organizations
 * [GitHub Organizations](https://github.com/account/organizations/new)
@@ -1893,6 +1902,7 @@ GitHub- More
 
 GitHub- Trending
 * [GitHub Trending](https://github.com/josephyzhou/github-trending)
+* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
 
 GitHub- How To
 * [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
@@ -2595,7 +2605,7 @@ W3C HTML Standards
 
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [W3Schools HTML Try It](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
 * [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
 
@@ -4830,6 +4840,8 @@ Consles
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
 
 <!--
+https://github.com/settings/applications/new
+
 https://cloud.digitalocean.com
 https://cloud.digitalocean.com/settings
 
