@@ -3476,6 +3476,11 @@ http://php.net/manual/en/appendices.php
 http://php.net/manual/en/langref.php
 
 http://php.net/manual/en/install.macosx.bundled.php
+
+
+http://php.net/manual/en/functions.internal.php
+http://php.net/manual/en/funcref.php
+http://php.net/manual/en/indexes.functions.php
 -->
 
 PHP- Laravel- Preferred Templates and Documents
