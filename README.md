@@ -2326,6 +2326,10 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
+<!--
+http://rosettacode.org
+-->
+
 Free Code Camp
 * [Free Code Camp](http://www.freecodecamp.com), [Free Code Camp Medium](https://medium.freecodecamp.com/), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
 
@@ -4773,6 +4777,10 @@ SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
 * [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
 * [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
+
+<!--
+https://en.wikipedia.org/wiki/Transact-SQL
+-->
 
 SQLite (RDBMS, written in C)
 * [SQLite](http://sqlite.org)  
