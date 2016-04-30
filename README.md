@@ -2170,6 +2170,10 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+http://pyfound.blogspot.com
+https://opensource.com/how-submit-article
+http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
+
 http://blog.djangogirls.org
 http://blog.djangogirls.org/post/137825610883/about-your-django-story
 https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
