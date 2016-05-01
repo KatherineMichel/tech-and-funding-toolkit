@@ -2828,6 +2828,11 @@ Scripting and MVCs
 
 <!--
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+
+Bracket Notation
+https://en.wikipedia.org/wiki/Bracket_(mathematics)
+https://en.wikipedia.org/wiki/Zero-based_numbering
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 -->
 
 Miscellaneous Programming Languages
