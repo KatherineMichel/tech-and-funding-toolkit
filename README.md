@@ -4252,6 +4252,28 @@ Python- Django- Cmatrix
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
+Microsoft Library
+https://msdn.microsoft.com/en-us/library
+Table of Contents
+https://msdn.microsoft.com/en-us/library/ms310241
+
+https://dotnetfiddle.net/
+https://msdn.microsoft.com/en-us/library/gg145045(v=vs.110).aspx
+https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
+https://docs.asp.net/en/latest/fundamentals/environments.html
+https://docs.asp.net/en/latest/tutorials/first-mvc-app
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
+https://msdn.microsoft.com/en-us/library/ms173142.aspx
+https://msdn.microsoft.com/en-us/library/cs7y5x0x(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/ms173104.aspx
+https://msdn.microsoft.com/en-us/library/ms228360(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/ms379570(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/7y3x785f(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/aa289148(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/system.console(v=vs.110).aspx
+
+https://en.wikibooks.org/wiki/C_Sharp_Programming
+
 https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
 
 JavaScript- Microsoft
