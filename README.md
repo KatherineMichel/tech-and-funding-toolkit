@@ -2749,7 +2749,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
 https://developer.mozilla.org/en-US/docs/Web/MathML
 https://developer.mozilla.org/en-US/docs/Glossary
 -->
-
 <!--
 http://whatwg.github.io/loader
 
@@ -2904,7 +2903,7 @@ JavaScript
 JavaScript Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-* [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)
+<!--* [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)-->
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
 JavaScript Tutorials- Mozilla
@@ -2938,16 +2937,6 @@ Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
-
 
 https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
@@ -3470,26 +3459,6 @@ PHP- Version Control and Frameworks
 PHP- Tutorials
 * [Learn X in Y Minutes PHP](https://learnxinyminutes.com/docs/php)
 * [W3Schools PHP Tutorial](http://www.w3schools.com/php/default.asp)
-
-<!--
-http://php.net/manual/en/configuration.file.per-user.php
-
-http://php.net/manual/en/tutorial.requirements.php
-
-http://php.net/manual/en/features.php
-http://php.net/manual/en/funcref.php
-http://php.net/manual/en/internals2.php
-http://php.net/manual/en/appendices.php
-
-http://php.net/manual/en/langref.php
-
-http://php.net/manual/en/install.macosx.bundled.php
-
-
-http://php.net/manual/en/functions.internal.php
-http://php.net/manual/en/funcref.php
-http://php.net/manual/en/indexes.functions.php
--->
 
 PHP- Laravel- Preferred Templates and Documents
 * [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
