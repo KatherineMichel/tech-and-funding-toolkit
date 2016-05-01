@@ -2903,7 +2903,6 @@ JavaScript
 JavaScript Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-<!--* [W3Schools JavaScript Statements](http://www.w3schools.com/js/js_statements.asp)-->
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
 JavaScript Tutorials- Mozilla
@@ -3488,131 +3487,11 @@ PHP- WordPress- Developer Resource
 * [WordPress Codex Developer Documentation](http://codex.wordpress.org/Developer_Documentation)
 * [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
 
-<!--
-https://wordpress.org/support/topic/how-to-deploy-a-complete-wordpress-site-to-customers-server
--->
-
-<!--
-WordPress Importer (Recommended)
-https://wordpress.org/plugins/wordpress-importer/
-
-http://codex.wordpress.org/Advanced_Topics
-
-http://codex.wordpress.org/Debugging_in_WordPress
-
-http://codex.wordpress.org/Administration_Panels
-
-http://codex.wordpress.org/Blog_Design_and_Layout
-
-WordPress Features
-Migrating Plugins and Themes to the Latest Version
-Using Themes
-Using Pages
-Writing Posts
-Design and Layout
-WordPress Feeds
-
-WordPress Site Reviews
-WordPress Theme List
-Working With Templates
-Working With Theme Templates
-Editing Files in WordPress
-Creating an Archive Index
-Stepping Into Template Tags
-https://developer.wordpress.org/themes/basics/template-hierarchy/
-Understanding the WordPress Loop
-Customizing the WordPress Loop
-Meta Tags in WordPress
-Accessibility
-Linking to Posts, Pages, and Categories
-Validating a Website
-WordPress Housekeeping
-WordPress Site Maintenance
-Advanced Techniques
-Search Engine Optimization for Wordpress
-
-API
-Plugin API
-Shortcode API
-Dashboard Widgets API
-Settings API
-Options API
-Transients API
-Widgets API
-Quicktags API
-Rewrite API
-Theme Customization API
-Filesystem API
-
-https://yoast.com/wordpress-theme-anatomy/
-
-http://codex.wordpress.org/Using_Password_Protection
-
-WordPress Helpers
-https://github.com/kennethreitz-archive/wordpress-theme-skeleton
-https://github.com/andjosh/naked-wordpress/blob/master/single.php
-
-https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
-https://developer.wordpress.org/plugins/metadata/creating-custom-meta-boxes/
-https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates/
--->
-
 WordPress Official Themes
 * [Official Themes](https://wordpress.org/themes)) 
 
 WordPress Page Templates
 * [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
-
-<!--
-http://codex.wordpress.org/WordPress_Coding_Standards
-https://make.wordpress.org/core/handbook/best-practices/coding-standards/
-https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
-
-http://codex.wordpress.org/Working_with_WordPress
-http://codex.wordpress.org/Getting_Started_with_WordPress
-http://codex.wordpress.org/WordPress_Lessons
-
-http://codex.wordpress.org/Site_Design_and_Layout
-http://codex.wordpress.org/Category_Templates
-http://codex.wordpress.org/Using_Themes
-http://codex.wordpress.org/Stepping_Into_Templates
-http://codex.wordpress.org/Theme_Development#Template_Files_List
-http://codex.wordpress.org/Child_Themes
-http://codex.wordpress.org/Template_Tags
-
-https://developer.wordpress.org/themes/basics/conditional-tags/
-
-http://codex.wordpress.org/The_Loop
-http://codex.wordpress.org/The_Loop_in_Action
-
-https://developer.wordpress.org/reference/functions/
-https://developer.wordpress.org/reference/hooks/
-https://developer.wordpress.org/reference/classes/
-https://developer.wordpress.org/reference/methods/
-
-Function/Methods
-https://codex.wordpress.org/Function_Reference
-https://codex.wordpress.org/Pluggable_Functions
-
-http://codex.wordpress.org/Global_Variables
-
-https://codex.wordpress.org/Class_Reference
-
-https://codex.wordpress.org/Styling_Lists_with_CSS
-
-Hooks
-https://codex.wordpress.org/Plugin_API/Hooks
-Filter Hooks
-https://codex.wordpress.org/Plugin_API/Filter_Reference
-Action Hooks
-https://codex.wordpress.org/Plugin_API/Action_Reference
-
-http://codex.wordpress.org/Taxonomies
-
-https://developer.wordpress.org/themes/advanced-topics/javascript-best-practices/
-
-http://codex.wordpress.org/Reserved_Terms
--->
 
 WordPress Template Hierarchy
 * [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
