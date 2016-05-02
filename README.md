@@ -4262,12 +4262,13 @@ JavaScript- Microsoft
 Web Development- Microsoft
 * [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
 
-Microsoft TechNet
-* [TechNet](http://technet.microsoft.com/en-us )
+Microsoft General Resources
+* [Microsoft Support](https://support.microsoft.com)
+* [Microsoft TechNet](http://technet.microsoft.com/en-us )
 
-<!--
-http://referencesource.microsoft.com
--->
+Microsoft Library
+* [Microsoft Library](https://msdn.microsoft.com/en-us/library)
+* [Microsoft Library Table of Contents](https://msdn.microsoft.com/en-us/library/ms310241)
 
 C#
 * [C# Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
@@ -4279,8 +4280,9 @@ C#
 * [Microsoft .NET](http://www.microsoft.com/net) 
 * [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
 * [.NET Foundation Projects on GitHub](https://github.com/dotnet/home)
-* [Dotnet GitHub](https://github.com/dotnet)  
+* [Dotnet GitHub](http://dotnet.github.io) and [Dotnet GitHub](https://github.com/dotnet)  
 * [Dotnet Core Docs](http://dotnet.github.io/docs/index.html) and [Dotnet Core Docs GitHub](https://github.com/dotnet/core-docs)
+* [.NET Framework Reference Source](http://referencesource.microsoft.com)
 * [Installing .NET Core on OS X](http://dotnet.github.io/docs/getting-started/installing/installing-core-osx.html)
 * [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
@@ -4337,6 +4339,11 @@ Xamarin (Visual Studio Community Mobile Development Partner)
 
 Azure (See also Apache and SQL)
 * [Azure](https://azure.microsoft.com)
+
+Microsoft Special Deals
+* [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
+* [Microsoft DreamSpark](https://www.dreamspark.com)
+* [Microsoft BizSpark](https://www.microsoft.com/bizspark)
 
 ASP.NET- Boilerplate
 * [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
@@ -4800,11 +4807,6 @@ Content Delivery Network
 
 Optimization
 * [Cloudflare](https://www.cloudflare.com) 
-
-Microsoft Special Deals
-* [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
-* [Microsoft DreamSpark](https://www.dreamspark.com)
-* [Microsoft BizSpark](https://www.microsoft.com/bizspark)
 
 #### Deployment and Git Integration
 
