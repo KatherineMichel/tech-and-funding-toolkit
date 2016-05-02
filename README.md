@@ -3195,7 +3195,6 @@ Flux (React Stack)
 * [Reflux](https://github.com/reflux/refluxjs)
 
 <!--
-https://facebook.github.io/flux/docs/overview.html
 http://facebook.github.io/flux/docs/testing-flux-applications.html
 -->
 
