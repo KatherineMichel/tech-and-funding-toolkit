@@ -1288,10 +1288,7 @@ Google
 Windows
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 * [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-
-<!--
-https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
--->
+* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
 
 Internet Explorer and Trident (Browser, Layout Engine)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
