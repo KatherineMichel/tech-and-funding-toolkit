@@ -1019,20 +1019,23 @@ Port and Host
 * [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
 * [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 
-<!--
-https://en.wikipedia.org/wiki/IP_address
-[IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
-https://en.wikipedia.org/wiki/Virtual_IP_address
+IP
+* [IP Address Wikipedia](https://en.wikipedia.org/wiki/IP_address)
+* [IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
+* [Virtual IP Address Wikipedia](https://en.wikipedia.org/wiki/Virtual_IP_address)
 
+Domain Name
+* [Domain Name Wikipedia](https://en.wikipedia.org/wiki/Domain_name)
+* [Domain Name System Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
+* [Top Level Domain Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
+* [CNAME Record Wikipedia](https://en.wikipedia.org/wiki/CNAME_record)
+
+<!--
 https://en.wikipedia.org/wiki/Root_name_server
 
-https://en.wikipedia.org/wiki/Top-level_domain
-https://en.wikipedia.org/wiki/Domain_name
-https://en.wikipedia.org/wiki/Domain_Name_System
 http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
 http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
 http://en.wikipedia.org/wiki/Domain_registration#History
-https://en.wikipedia.org/wiki/CNAME_record
 https://en.wikipedia.org/wiki/Round-robin_DNS
 Least Connections
 -->
