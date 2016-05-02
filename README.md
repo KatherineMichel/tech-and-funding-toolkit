@@ -1738,7 +1738,6 @@ https://git-scm.com/docs/git-merge
 http://git-scm.com/book/ch3-2.html
 http://git-scm.com/book/ch9-5.html
 
-http://gitref.org
 http://gitref.org/branching
 
 https://help.github.com/articles/fork-a-repo
@@ -1762,7 +1761,7 @@ Git Cheat Sheets and Tutorials
 * [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
 * [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
 * [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
-* [Git Index](http://gitref.org/index.html)  
+* [Git Index](http://gitref.org)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
 GitHub- Main
@@ -3055,10 +3054,8 @@ Node.js
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org)  
 
-<!--
-npm install -g npm-check-updates
-https://www.npmjs.com/package/check-update
--->
+Check Update
+* [Check Update (npm install -g npm-check-updates)](https://www.npmjs.com/package/check-update)
 
 Angular (React Stack)
 * [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
@@ -3085,9 +3082,6 @@ https://github.com/jondot/awesome-react-native
 https://github.com/xgrommx/awesome-redux
 
 https://github.com/necolas/react-native-web
-
-http://todomvc.com/examples/
-https://github.com/tastejs/todomvc
 
 http://keycode.info/
 
@@ -3136,10 +3130,6 @@ https://github.com/elementalui/elemental
 https://github.com/ryanflorence/react-project
 
 https://github.com/gaearon/redux-devtools
-
-CMS
-https://github.com/relax
-https://github.com/relax/relax
 
 https://github.com/iSimar/HackerNews-React-Native
 https://github.com/lukehoban/es6features
@@ -3225,7 +3215,7 @@ Other React Stack Helpers
 * [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
 * [JSX](https://jsx.github.io)
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
-* [Relax GitHub](https://github.com/relax/relax)
+* [Relax (CMS) GitHub](https://github.com/relax/relax)
 
 <!--
 http://requirejs.org/docs
@@ -3252,7 +3242,7 @@ https://github.com/caolan/async
 -->
 
 TodoMVC (See also JavaScript)
-* [TodoMVC](http://todomvc.com) and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
+* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples), and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
 
 MVCs General, Backbone, Ember
 * [Backbone](http://backbonejs.org)  
@@ -4301,6 +4291,7 @@ ASP.NET- GitHub
 * [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
 * [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
 * [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
+* [ASP.NET DNX](https://github.com/aspnet/dnx)
 
 Installing ASP.NET
 * [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
@@ -4327,7 +4318,6 @@ https://docs.asp.net/en/latest/tutorials/first-mvc-app
 
 https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
 
-https://github.com/aspnet/dnx
 https://github.com/aspnet/Mvc/tree/dev/samples
 https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
 
@@ -4383,6 +4373,9 @@ Xamarin (Visual Studio Community Mobile Development Partner)
 
 Azure (See also Apache and SQL)
 * [Azure](https://azure.microsoft.com)
+
+Transact-SQL
+* [Transact-SQL Wikipedia](https://en.wikipedia.org/wiki/Transact-SQL)
 
 Microsoft Special Deals
 * [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
@@ -4495,11 +4488,7 @@ SQL
 * [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
 * [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
 
-<!--
-https://en.wikipedia.org/wiki/Transact-SQL
--->
-
-SQLite (RDBMS, written in C)
+SQLite
 * [SQLite](http://sqlite.org)  
 * [SQLite Documentation](http://www.sqlite.org/docs.html)  
 * [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
