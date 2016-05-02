@@ -2327,15 +2327,12 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
 * [Project Euler Problems](http://projecteuler.net/problems)  
 * [Raspberry PI](http://www.raspberrypi.org)
+* [Rosetta Code](http://rosettacode.org)
 * [Scratch (MIT)](https://scratch.mit.edu)
 * [Skillshare](http://www.skillshare.com/classes)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
-
-<!--
-http://rosettacode.org
--->
 
 Free Code Camp
 * [Free Code Camp](http://www.freecodecamp.com), [Free Code Camp Medium](https://medium.freecodecamp.com/), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
@@ -4254,75 +4251,6 @@ Python- Django- Cmatrix
 
 #### .NET, ASP, Visual Studio, WebMatrix
 
-<!--
-Microsoft Library
-https://msdn.microsoft.com/en-us/library
-Table of Contents
-https://msdn.microsoft.com/en-us/library/ms310241
-
-https://dotnetfiddle.net/
-https://msdn.microsoft.com/en-us/library/gg145045(v=vs.110).aspx
-https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
-https://docs.asp.net/en/latest/fundamentals/environments.html
-https://docs.asp.net/en/latest/tutorials/first-mvc-app
-https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
-https://msdn.microsoft.com/en-us/library/ms173142.aspx
-https://msdn.microsoft.com/en-us/library/cs7y5x0x(v=vs.110).aspx
-https://msdn.microsoft.com/en-us/library/ms173104.aspx
-https://msdn.microsoft.com/en-us/library/ms228360(v=vs.110).aspx
-https://msdn.microsoft.com/en-us/library/ms379570(v=vs.110).aspx
-https://msdn.microsoft.com/en-us/library/7y3x785f(v=vs.110).aspx
-https://msdn.microsoft.com/en-us/library/aa289148(v=vs.110).aspx
-https://msdn.microsoft.com/en-us/library/system.console(v=vs.110).aspx
-
-https://en.wikibooks.org/wiki/C_Sharp_Programming
-
-https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
--->
-
-<!--
-See also 
-JavaScript- Microsoft
-Web Development- Microsoft
-
-W3Schools
-Learn ASP
-Learn ASP.NET
-https://learnxinyminutes.com/docs/csharp/
-
-https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
-
-https://msdn.microsoft.com/en-us/library/618ayhy6.aspx
-https://msdn.microsoft.com/en-us/library/618ayhy6(v=vs.71).aspx
-https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
-https://msdn.microsoft.com/en-us/library/ms228593.aspx
-https://msdn.microsoft.com/en-us/library/aa645596(v=vs.71).aspx
-https://msdn.microsoft.com/en-us/library/aa287558(v=vs.71).aspx
-https://msdn.microsoft.com/en-us/library/kx37x362.aspx
-
-http://technet.microsoft.com/en-us 
-
-https://docs.asp.net/en/latest/client-side/yeoman.html
-
-http://blogs.microsoft.com/blog/2016/04/27/the-future-of-mobile-app-development/#sm.0008g19oo96nf84111o1ljq1vrm8j
-https://store.xamarin.com
-https://developer.xamarin.com/
-https://developer.xamarin.com/guides/mac/getting_started/hello,_mac/
-https://developer.xamarin.com/guides/mac/
-https://developer.xamarin.com/guides/ios/getting_started/installation/mac/
-https://developer.xamarin.com/api/root/monomac-lib/
-https://developer.xamarin.com/guides/ios/getting_started/
-https://github.com/xamarin/xamarin-macios
--->
-
 .NET
 * [Microsoft.github.io](http://microsoft.github.io)  
 * [Microsoft .NET](http://www.microsoft.com/net) 
@@ -4355,17 +4283,6 @@ ASP.NET- Docs
 * ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
 * ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
 
-ASP.NET- Docker
-* [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
-* [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
-
-ASP.NET- Yeoman Generator
-* [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
-
-ASP.NET- Boilerplate
-* [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
-* [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
-
 W3Schools ASP.NET
 * [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
 * [W3Schools ASP.NET Web Pages Examples](http://www.w3schools.com/aspnet/webpages_examples.asp)
@@ -4379,9 +4296,6 @@ Visual Studio
 * [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
 * [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
 
-WebMatrix
-* [WebMatrix](http://www.microsoft.com/web/webmatrix)
-
 Nuget
 * [NuGet](https://www.nuget.org) and [Nuget Packages](https://www.nuget.org/packages)
 
@@ -4389,196 +4303,25 @@ Mono
 * [Mono Project](http://www.mono-project.com) and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
 * [Introduction to Mono on MacOS X](http://www.mono-project.com/docs/about-mono/supported-platforms/osx)
 
-.NET Platform as a Service
-* [AppHarbor](https://appharbor.com)
-
 Xamarin (Visual Studio Community Mobile Development Partner)
 * [Xamarin](https://xamarin.com/platform)
 
-<!--
-http://dotnet.github.io/about/overview.html
+WebMatrix
+* [WebMatrix](http://www.microsoft.com/web/webmatrix)
 
-https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
+ASP.NET- Docker
+* [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
+* [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
 
-http://www.asp.net/mvc
-https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
-http://www.sitepoint.com/vb-dot-net-c-sharp-programming/
-https://github.com/PerfDotNet/BenchmarkDotNet
-https://github.com/aspnet/home
-https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
-http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+ASP.NET- Yeoman Generator
+* [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
 
-https://github.com/Microsoft/vscode-samples
+ASP.NET- Boilerplate
+* [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
+* [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
 
-https://github.com/aspnet/Mvc/tree/dev/samples
-https://github.com/aspnet/Home/wiki/Project.json-file
-https://github.com/aspnet/live.asp.net
-
-Overview of Visual Studio 2015 Products
-https://www.visualstudio.com/vs-2015-product-editions
-Visual Studio Community
-https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
-Visual Studio Express
-https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
-https://www.visualstudio.com/products/visual-studio-dev-essentials-vs
-
-Visual Studio Versions
-https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs
-
-https://www.visualstudio.com/features/mobile-app-development-vs
-https://www.visualstudio.com/en-us/features/net-development-vs.aspx
-
-ASP.NET 5 Applications with VS Code
-https://code.visualstudio.com/Docs/runtimes/ASPnet5
-https://code.visualstudio.com/Docs/?dv=linux32
-https://code.visualstudio.com/download
-https://code.visualstudio.com/docs/customization/userdefinedsnippets
-https://code.visualstudio.com/docs/editor/setup Open with code .
-https://code.visualstudio.com/Docs/?dv=win
-https://code.visualstudio.com/docs/languages/overview
-
-Tutorial
-http://www.asp.net/downloads
-https://www.asp.net/get-started
-http://www.asp.net/mvc/overview/getting-started/introduction/adding-a-model
-http://www.asp.net/mvc/overview/getting-started/introduction/adding-a-controller
-http://www.asp.net/mvc/overview/security/create-an-aspnet-mvc-5-web-app-with-email-confirmation-and-password-reset
-http://www.asp.net/mvc/overview/views
-http://www.asp.net/mvc/overview/api-reference
-ASP.NET Web Pages (Razor) API Quick Reference
-http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
-
-Latest
-https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
-https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
-
-https://docs.asp.net/en/latest/getting-started/installing-on-mac.html
-http://docs.asp.net/en/latest/getting-started/installing-on-windows.html
-https://www.microsoft.com/en-us/download/confirmation.aspx?id=49981
-
-https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
-
-http://dotnet.github.io/getting-started
-
-How To Create an ASP.NET HTTP Module Using Visual C# .NET
-https://support.microsoft.com/en-us/kb/307996
-
-http://referencesource.microsoft.com
-
-https://social.msdn.microsoft.com/Forums/vstudio/en-US/66b367a3-cf04-4f41-9457-4be0f405e5e6/difference-between-visual-studio-code-and-community-2015?forum=visualstudiogeneral
-
-Welcome to Visual Studio 2015
-https://msdn.microsoft.com/library/dd831853.aspx
-
-.NET Framework Development Guide
-https://msdn.microsoft.com/en-us/library/hh156542(v=vs.110).aspx
-.NET Framework Class Library
-https://msdn.microsoft.com/en-us/library/mt472912(v=vs.110).aspx
-.NET Framework Class Library
-https://msdn.microsoft.com/en-us/library/gg145045(v=VS.110).aspx
-Generic Collections in the .NET Framework
-https://msdn.microsoft.com/en-us/library/bb762916(v=vs.110).aspx
-When to Use Generic Collections
-https://msdn.microsoft.com/en-us/library/ms172181(v=vs.110).aspx
-System.Collections.Generic Namespace
-https://msdn.microsoft.com/en-us/library/system.collections.generic(v=vs.110).aspx
-ASP.NET
-https://msdn.microsoft.com/en-us/library/aa286485.aspx
-ASP.NET MVC Facebook Template
-https://msdn.microsoft.com/en-us/library/jj891078(v=vs.108).aspx
-ASP.NET Reference
-https://msdn.microsoft.com/en-us/library/9k6k3k4a(v=vs.85).aspx
-Developing Web Applications with ASP.NET
-https://msdn.microsoft.com/en-us/library/bb400852(v=vs.110).aspx
-Getting Started with Python
-https://msdn.microsoft.com/en-us/library/dn705848.aspx
-List<T> Class
-https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
-Microsoft API and reference catalog
-https://msdn.microsoft.com/library
-
-Visual Studio IDE
-https://msdn.microsoft.com/en-us/library/dn762121.aspx
-Get Started Developing with Visual Studio
-https://msdn.microsoft.com/en-us/library/ms165079.aspx
-Visual Web Developer Express
-https://msdn.microsoft.com/library/dd537667(v=vs.100).aspx
-Comparing Visual Studio and Visual Web Developer Express
-https://msdn.microsoft.com/library/ms349441(v=vs.100).aspx
-Compare Visual Studio 2015 Offerings
-https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-vs
-Overview of Visual Studio 2015 Products
-https://www.visualstudio.com/products/vs-2015-product-editions
-
-https://github.com/Microsoft/PTVS/releases/v2.2
-https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
-Python Web Projects
-https://github.com/Microsoft/PTVS/wiki/Web-Project
-
-https://azure.microsoft.com/en-us/documentation/articles/web-sites-create-web-app-using-vscode
-http://azure.microsoft.com/en-us/campaigns/visual-studio-get-started
-https://azure.microsoft.com/en-us/develop/python
-
-https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
-
-http://www.omnisharp.net
-https://github.com/omnisharp
-https://github.com/OmniSharp/omnisharp-roslyn
-
-http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c
-http://www.asp.net/mvc/overview/models-data
-https://docs.asp.net/en/latest/getting-started/choosing-the-right-dotnet.html
-http://docs.efproject.net/en/latest
-
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
-http://docs.aws.amazon.com/AWSSdkDocsNET/latest/V3/DeveloperGuide/aws-sdk-net-dg.pdf
-http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-create-as.html
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
-
-Tutorial: How to Deploy a .NET Sample Application Using AWS Elastic Beanstalk
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_NET.quickstart.html
-
-Common issues in Visual Studio 2015 setup
-https://support.microsoft.com/en-us/kb/3039361
-Microsoft Developer Network .NET
-https://msdn.microsoft.com/en-us/vstudio/aa496123
-
-http://www.w3schools.com/aspnet/webpages_razor.asp
-http://www.w3schools.com/aspnet/mvc_htmlhelpers.asp
-https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
-https://www.google.com/search?client=safari&rls=en&q=asp.net+helpers&ie=UTF-8&oe=UTF-8
-https://www.google.com/search?client=safari&rls=en&q=razor+markup&ie=UTF-8&oe=UTF-8
-https://en.wikipedia.org/wiki/ASP.NET_Razor
-https://www.google.com/search?client=safari&rls=en&q=asp.net+view+data&ie=UTF-8&oe=UTF-8
-https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
-
-https://github.com/jincod/AspNet5DemoApp
-https://github.com/NonFactors/MVC5.Template
-https://github.com/NancyFx/Nancy.Website
-https://github.com/friism/heroku-buildpack-mono
-
-Microsoft
-https://github.com/aspnet/dnx
-https://github.com/aspnet/Scaffolding
-https://github.com/aspnet/Hosting
-https://github.com/aspnet/EntityFramework
-
-https://github.com/aspnet/Home/wiki/Roadmap
-
-http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html
-http://docs.asp.net/en/latest/conceptual-overview/aspnet.html
-https://search.yahoo.com/search?fr=mcafee&type=C211US0D20120304&p=visual+code+studio
-https://search.yahoo.com/search?fr=mcafee&type=C211US0D20120304&p=asp.net+5
-https://search.yahoo.com/search?fr=mcafee&type=C211US0D20120304&p=asp.net+core
-https://blogs.msdn.microsoft.com/dotnet/2014/11/12/net-core-is-open-source/
-http://www.asp.net/web-pages/overview/getting-started/program-asp-net-web-pages-in-visual-studio
-http://www.asp.net/
-http://blogs.msdn.com/b/cesardelatorre/archive/2014/11/18/what-is-net-core-5-and-asp-net-5-within-net-2015-preview.aspx
-http://dotnet.github.io/docs/concepts/primer.html
-https://visualstudiogallery.msdn.microsoft.com/4cd5e0e0-2c38-426b-9f43-1d3688cc8be1
-
-https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
--->
+.NET Platform as a Service
+* [AppHarbor](https://appharbor.com)
 
 #### Servers and Databases
 
