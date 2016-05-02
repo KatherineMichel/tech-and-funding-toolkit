@@ -3067,7 +3067,7 @@ https://www.npmjs.com/package/check-update
 
 Angular (React Stack)
 * [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
-* [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
+* [Angular](https://angular.io/) and [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
 * [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
 * [Angular Protractor GitHub](https://github.com/angular/protractor)
 
@@ -4255,20 +4255,24 @@ Python- Django- Cmatrix
 
 #### .NET, ASP, Visual Studio, WebMatrix
 
+<!--
+https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
+-->
+
 JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
 
 Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
 
 Microsoft General Resources
 * [Microsoft Support](https://support.microsoft.com)
-* [Microsoft TechNet](http://technet.microsoft.com/en-us )
+* [Microsoft TechNet](http://technet.microsoft.com)
 
 Microsoft Library
-* [Microsoft Library](https://msdn.microsoft.com/en-us/library)
-* [Microsoft Library Table of Contents](https://msdn.microsoft.com/en-us/library/ms310241)
+* [Microsoft Library](https://msdn.microsoft.com/library)
+* [Microsoft Library Table of Contents](https://msdn.microsoft.com/library/ms310241)
 
 C#
 * [C# Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
@@ -4300,13 +4304,16 @@ ASP.NET- GitHub
 * [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
 * [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
 
-ASP.NET- Docs
-* [ASP.NET Docs](http://docs.asp.net)
+Installing ASP.NET
 * [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
 * [Installing ASP.NET 5 On Windows](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
+
+ASP.NET- Docs
+* [ASP.NET Docs](http://docs.asp.net)
 * [ASP.NET 5 Fundamentals](http://docs.asp.net/en/latest/fundamentals/index.html)
 * ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
 * ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
+* [ASP.NET Live](https://live.asp.net)
 
 W3Schools ASP.NET
 * [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
