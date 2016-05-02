@@ -4472,13 +4472,15 @@ Apache (See also mod_wsgi)
 * [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
 <!--
-https://httpd.apache.org/docs/current/vhosts
-https://httpd.apache.org/docs/current/vhosts/examples.html
-https://en.wikipedia.org/wiki/Virtual_hosting
+VHosts
+* [Virtual Hosting Wikipedia](https://en.wikipedia.org/wiki/Virtual_hosting)
+* [Apache Virtual Host documentation](https://httpd.apache.org/docs/current/vhosts)
+* [Apache VirtualHost Examples](https://httpd.apache.org/docs/current/vhosts/examples.html)
 
-http://en.wikipedia.org/wiki/.htaccess
-https://en.wikipedia.org/wiki/Httpd.conf
-http://httpd.apache.org/docs/current/configuring.html
+Apache Configs
+* [.htaccess Wikipedia](http://en.wikipedia.org/wiki/.htaccess)
+* [httpd.conf Wikipedia](https://en.wikipedia.org/wiki/Httpd.conf)
+* [Apache Configuration Files](http://httpd.apache.org/docs/current/configuring.html)
 
 http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
 -->
