@@ -1289,6 +1289,10 @@ Windows
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 * [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
 
+<!--
+https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
+-->
+
 Internet Explorer and Trident (Browser, Layout Engine)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 * [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
@@ -4251,6 +4255,25 @@ Python- Django- Cmatrix
 
 #### .NET, ASP, Visual Studio, WebMatrix
 
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+
+Microsoft TechNet
+* [TechNet](http://technet.microsoft.com/en-us )
+
+<!--
+http://referencesource.microsoft.com
+-->
+
+C#
+* [C# Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+* [C# Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
+* [Learn X in Y Minutes C#](https://learnxinyminutes.com/docs/csharp)
+
 .NET
 * [Microsoft.github.io](http://microsoft.github.io)  
 * [Microsoft .NET](http://www.microsoft.com/net) 
@@ -4289,8 +4312,12 @@ W3Schools ASP.NET
 * [W3Schools ASP.NET Web Pages Helpers- Objects References](http://www.w3schools.com/aspnet/webpages_ref_helpers.asp)
 * [W3Schools ASP.NET Web Pages Helpers- Classes References](http://www.w3schools.com/aspnet/webpages_ref_classes.asp)
 
+.NET Fiddle
+* [.NET Fiddle](https://dotnetfiddle.net)
+
 Visual Studio
-* [Visual Studio](http://www.visualstudio.com/en-us)  
+* [Microsoft Visual Studio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
+* [Visual Studio](http://www.visualstudio.com)  
 * [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
 * [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 * [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
@@ -4304,7 +4331,16 @@ Mono
 * [Introduction to Mono on MacOS X](http://www.mono-project.com/docs/about-mono/supported-platforms/osx)
 
 Xamarin (Visual Studio Community Mobile Development Partner)
-* [Xamarin](https://xamarin.com/platform)
+* [Xamarin](https://xamarin.com) and [Xamarin Platform](https://xamarin.com/platform)
+* [Xamarin Store](https://store.xamarin.com)
+* [Xamarin Developer](https://developer.xamarin.com) and [Xamarin Developer Guides](https://developer.xamarin.com/guides)
+
+Azure (See also Apache and SQL)
+* [Azure](https://azure.microsoft.com)
+
+ASP.NET- Boilerplate
+* [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
+* [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
 
 WebMatrix
 * [WebMatrix](http://www.microsoft.com/web/webmatrix)
@@ -4316,9 +4352,12 @@ ASP.NET- Docker
 ASP.NET- Yeoman Generator
 * [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
 
-ASP.NET- Boilerplate
-* [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
-* [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
+OmniSharp
+* [OmniSharp](http://www.omnisharp.net) and [OmniSharp GitHub](https://github.com/omnisharp)
+* [OmniSharp-Roslyn GitHub](https://github.com/OmniSharp/omnisharp-roslyn)
+
+Nancy
+* [Nancy](https://github.com/NancyFx)
 
 .NET Platform as a Service
 * [AppHarbor](https://appharbor.com)
@@ -4377,6 +4416,8 @@ Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 #### Apache and SQL
+
+See also Azure
 
 Apache (See also mod_wsgi)
 * [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
