@@ -2335,7 +2335,10 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
 Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
 Comparison of programming languages (string functions)
 Comparison of programming languages (strings)
 Comparison of programming languages (syntax)
@@ -2346,6 +2349,7 @@ Comparison of programming languages (mapping)
 Comparison of programming paradigms
 Comparison of multi-paradigm programming languages
 Comparison of type systems
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 -->
 
 Free Code Camp
