@@ -2336,19 +2336,15 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 Free Code Camp
-* [Free Code Camp](http://www.freecodecamp.com), [Free Code Camp Medium](https://medium.freecodecamp.com/), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
+* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
+* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
+* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
+* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
 
 <!--
-Free Code Camp LinkedIn
-
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites
-
-https://gitter.im/apps
-https://gitter.im/FreeCodeCamp/Help
-https://www.reddit.com/r/freecodecamp
-https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1
-
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
 
 https://egghead.io/tags/free
@@ -2356,9 +2352,6 @@ https://egghead.io/series/learn-to-use-vim
 https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
 https://egghead.io/lessons/javascript-intro-to-webpack
 https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
-
-http://www.gnu.org/doc/other-free-books.html
-https://github.com/vhf/free-programming-books
 
 HTML Graphics
 http://www.w3schools.com/canvas/default.asp
@@ -2377,7 +2370,12 @@ http://www.w3schools.com/appml/default.asp
 
 http://www.w3schools.com/website/default.asp
 http://www.w3schools.com/browsers/default.asp
+
+http://www.gnu.org/doc/other-free-books.html
 -->
+
+Free Programming Books
+* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -6390,6 +6388,10 @@ Group Communication/Chat
 * [Meetup](http://www.meetup.com)
 * [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
  
+<!--
+https://gitter.im/apps
+-->
+
 Livestreaming, Video, Audio 
 * [Livestream](http://new.livestream.com) 
 * [SoundCloud](https://soundcloud.com)  
