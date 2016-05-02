@@ -4938,6 +4938,13 @@ Go- Heroku Buildpacks and Getting Started
 * [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
 <!--
+Tutorial: How to Deploy a .NET Sample Application Using AWS Elastic Beanstalk
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_NET.quickstart.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
+http://docs.aws.amazon.com/AWSSdkDocsNET/latest/V3/DeveloperGuide/aws-sdk-net-dg.pdf
+http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-create-as.html
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
+
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.container.html
 https://zapier.com/zapbook/amazon-s3/visual-studio-online/
 
