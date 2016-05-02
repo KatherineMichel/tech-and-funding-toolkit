@@ -4287,6 +4287,9 @@ C#
 * [Installing .NET Core on OS X](http://dotnet.github.io/docs/getting-started/installing/installing-core-osx.html)
 * [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
+.NET Fiddle
+* [.NET Fiddle](https://dotnetfiddle.net)
+
 ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
@@ -4312,14 +4315,53 @@ ASP.NET- Docs
 * ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
 * [ASP.NET Live](https://live.asp.net)
 
+<!--
+http://www.asp.net/mvc
+https://github.com/aspnet/home
+
+.NET Framework 4.6 and 4.5
+https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
+
+http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
+https://docs.asp.net/en/latest/tutorials/first-mvc-app
+
+https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
+
+https://github.com/aspnet/dnx
+https://github.com/aspnet/Mvc/tree/dev/samples
+https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
+
+Tutorial
+http://www.asp.net/mvc/videos/pluralsight-building-applications-with-aspnet-mvc-4
+http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+https://www.pluralsight.com/courses/mvc4-building
+https://app.pluralsight.com/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
+https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
+
+https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
+
+Website Example
+https://github.com/aspnet/live.asp.net
+https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
+https://github.com/Microsoft/vscode-samples
+
+Visual Studio 2015 Getting Started with Python
+https://msdn.microsoft.com/en-us/library/dn705848.aspx
+https://github.com/Microsoft/PTVS/releases/v2.2
+https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
+Python Web Projects
+https://github.com/Microsoft/PTVS/wiki/Web-Project
+-->
+
 W3Schools ASP.NET
 * [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
 * [W3Schools ASP.NET Web Pages Examples](http://www.w3schools.com/aspnet/webpages_examples.asp)
 * [W3Schools ASP.NET Web Pages Helpers- Objects References](http://www.w3schools.com/aspnet/webpages_ref_helpers.asp)
 * [W3Schools ASP.NET Web Pages Helpers- Classes References](http://www.w3schools.com/aspnet/webpages_ref_classes.asp)
-
-.NET Fiddle
-* [.NET Fiddle](https://dotnetfiddle.net)
 
 Visual Studio
 * [Microsoft Visual Studio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
