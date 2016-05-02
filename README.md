@@ -2509,6 +2509,8 @@ PSR-0: Autoloader Standard
 PSR-1: Basic Coding Standard
 PSR-2: Coding Style Guide
 PSR-3: Logger Interface
+
+https://github.com/kciter/awesome-style-guide
 -->
 
 Ruby Styleguide
@@ -4349,6 +4351,8 @@ Website Example
 https://github.com/aspnet/live.asp.net
 https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
 https://github.com/Microsoft/vscode-samples
+https://github.com/aspnetboilerplate/sample-blog-module
+https://github.com/aspnet/Mvc/tree/dev/samples
 
 Visual Studio 2015 Getting Started with Python
 https://msdn.microsoft.com/en-us/library/dn705848.aspx
