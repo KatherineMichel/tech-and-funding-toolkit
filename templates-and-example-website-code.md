@@ -264,7 +264,8 @@ Free Code Camp
 * [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
 
 Websites
-* [HospitalRun GitHub](https://github.com/HospitalRun/hospitalrun-frontend)
+* [HospitalRun Frontend GitHub](https://github.com/HospitalRun/hospitalrun-frontend)
+* [HospitalRun Backend GitHub](https://github.com/HospitalRun/hospitalrun-server)
 
 Drupal
 * [Drupal GitHub](https://github.com/drupal/drupal)  
