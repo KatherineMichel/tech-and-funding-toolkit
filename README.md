@@ -2177,6 +2177,7 @@ https://www.python.org/jobs
 
 https://github.com/search?utf8=%E2%9C%93&q=interview+questions
 https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
 
 http://pyfound.blogspot.com
 https://opensource.com/how-submit-article
