@@ -2894,6 +2894,11 @@ Golang, otherwise known as "Go"
 * [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 
+<!--
+https://golang.org/dl
+https://gist.github.com/jcbwlkr/2cbe72427f9cbc41bfbb7972d62429d8
+-->
+
 Golang, Uers
 * [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
 
