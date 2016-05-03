@@ -2173,6 +2173,11 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+https://www.python.org/jobs
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+
 http://pyfound.blogspot.com
 https://opensource.com/how-submit-article
 http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
@@ -2335,6 +2340,8 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://github.com/jshomes/learning-resources
+
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
 Comparison of basic instructions of programming languages
