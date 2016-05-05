@@ -1124,6 +1124,8 @@ Bytcote versus Unicode
 * [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
 
 <!--
+https://en.wikipedia.org/wiki/Tilde
+
 https://www.w3.org/International/getting-started/characters
 https://www.w3.org/International/articles/definitions-characters/
 -->
@@ -2828,6 +2830,11 @@ Chomsky Hierarchy and Automata
 Singly Linked Linear Lists vs. Other Lists
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 
+<!--
+https://en.wikipedia.org/wiki/Strong_and_weak_typing
+https://en.wikipedia.org/wiki/Type_system
+-->
+
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 
@@ -4354,7 +4361,10 @@ https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
 https://github.com/aspnet/Mvc/tree/dev/samples
 https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
 
+https://www.pluralsight.com/authors/scott-allen
+
 Tutorial
+https://www.youtube.com/watch?v=EghnSvJ8h68
 http://www.asp.net/mvc/videos/pluralsight-building-applications-with-aspnet-mvc-4
 http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
 https://www.pluralsight.com/courses/mvc4-building
