@@ -1088,6 +1088,8 @@ Miscellaneous Vocab
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 
 <!--
+https://help.github.com/articles/dealing-with-line-endings
+
 https://en.wikipedia.org/wiki/Console_application
 https://en.wikipedia.org/wiki/Cross-site_scripting
 
