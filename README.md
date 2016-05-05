@@ -4377,6 +4377,8 @@ https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
 
 https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
 
+https://github.com/Microsoft/vscode-samples/tree/master/node-express-javascript
+
 Website Example
 https://github.com/aspnet/live.asp.net
 https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
