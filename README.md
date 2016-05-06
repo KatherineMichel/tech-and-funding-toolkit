@@ -1942,6 +1942,8 @@ GitHub Speaker Deck
 #### Startup Engineering MOOC
 
 <!--
+http://web.stanford.edu/class/cs106b/
+
 Startup Engineering Video Lectures
 https://class.coursera.org/startup-001/lecture 
 
@@ -3106,6 +3108,11 @@ Angular (React Stack)
 * [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
 * [Angular Protractor GitHub](https://github.com/angular/protractor)
 
+<!--
+https://www.gitbook.com/book/rangle-io/ngcourse2/details
+https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
+-->
+
 Express (React Stack)
 * [Express (based on Sinatra)](http://expressjs.com)  
 * [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
@@ -3346,6 +3353,12 @@ Other JavaScript Helpers
 * [Lodash GitHub](https://github.com/lodash/lodash)
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
+
+<!--
+eslint
+jshint
+jslint
+-->
 
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
@@ -5032,6 +5045,25 @@ PHP/WordPress- Amazon
 PHP/WordPress- Google Cloud
 * [Google Cloud Platform WordPress Starter Project](https://github.com/GoogleCloudPlatform/appengine-php-wordpress-starter-project)
 
+<!--
+https://github.com/heroku/mobile-template1
+https://github.com/heroku/heroku-buildkits
+https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
+https://github.com/heroku/skeleton-4r
+https://github.com/heroku/dotnet-buildpack
+https://github.com/heroku/heroku-buildpack-jvm-common
+https://github.com/heroku/heroku-git
+https://github.com/heroku/heroku-maven-plugin
+https://github.com/heroku/heroku-deploy
+
+ember, go
+heroku-kafka
+
+https://github.com/mhoofman/wordpress-heroku
+http://www.andrewgertig.com/2013/05/set-up-wordpress-on-heroku
+https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
+-->
+
 Ruby- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
 * [Heroku Ruby Getting Started GitHub](https://github.com/heroku/ruby-getting-started) 
@@ -5552,6 +5584,8 @@ http://developersacademy.io/blog/
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
 <!--
+http://store.steampowered.com/
+
 https://developer.oculus.com/documentation/pcsdk/0.4/concepts/dg-sdk-setup-requirements/
 -->
 
