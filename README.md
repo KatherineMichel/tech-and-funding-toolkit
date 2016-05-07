@@ -4597,6 +4597,10 @@ MAMP and WampServer (See also PHP)
 * [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
+<!--
+https://www.mamp.info/en/documentation/
+-->
+
 Software Stacks
 * [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
 * [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
