@@ -4599,6 +4599,21 @@ Software Stacks
 * [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
 * [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
 
+<!--
+https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
+https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
+https://www.godaddy.com/help/what-is-a-subdomain-296
+
+https://www.digitalocean.com/help/getting-started
+https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
+https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
+https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
+https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
+https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
+https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
+-->
+
 Distributed and Parallel Computing
 * [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
 * [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
