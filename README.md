@@ -1287,14 +1287,7 @@ Apple- Windows (See also: VMware, Vagrant, VirtualBox)
 * [Winclone](http://twocanoes.com/products/mac/winclone)
 * External Hard Drive, USB SSD, Western Digital Terabyte
 
-
-Apple- More
-* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-* [Apple Watchkit](https://developer.apple.com/watchkit)  
+Apple- Support
 * [Apple Support](http://www.apple.com/support) 
 
 Mac Update
@@ -1360,6 +1353,14 @@ App Store Submission
 * [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
 * [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
 * [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
+
+Apple- More
+* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+* [Apple Watchkit](https://developer.apple.com/watchkit)  
 
 
 #### Google Developer Tools
@@ -1522,19 +1523,6 @@ https://en.wikipedia.org/wiki/GNU_Hurd
 -->
 
 <!--
-* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) 
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-Locating Apps
-* [List All Applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-
-http://cli.learncodethehardway.org/bash_cheat_sheet.pdf    
-   
 Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
 
 Chrome Extensions
@@ -1652,9 +1640,6 @@ http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
 
 https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
 -->
-
-Unix
-* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 
 POSIX (Compatible with Unix)
 * [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
