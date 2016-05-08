@@ -40,14 +40,19 @@ Table of Content
   * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
 * [Computer Basics](#computer-basics)
   * [Encoding](#encoding)
-* [Operating Systems](#operating-systems)
-  * [Unix and Linux](#unix-and-linux)
-  * [OS, Shell, Browser](#os-shell-browser)
-  * [Apple](#apple)
+* [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
-  * [Developer Tools](#developer-tools)
-  * [Keyboard Shortcuts](#keyboard-shortcuts)
+  * [Apple General](#apple-general)
+  * [Apple Developer Tools](#apple-developer-tools)
+  * [Google Developer Tools](#google-developer-tools)
+  * [Microsoft Developer Tools](#microsoft-developer-tools)
+  * [Mozilla Developer Tools](#mozilla-developer-tools)
+
 * [Development Environment and Programming](#development-environment-and-programming)
+  * [Unix and Linux](#unix-and-linux)
+
+  * [Keyboard Shortcuts](#keyboard-shortcuts)
+
   * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
   * [Git and Markdown](#git-and-markdown)
@@ -1141,111 +1146,7 @@ Char Sets
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
 
-#### Operating Systems
-
-#### Unix and Linux
-
-Unix
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
-* [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
-
-Unix Shell and File system
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
-* [Guide to Unix/Commands Wikibook](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands) and [Guide to Unix/Commands/File System Utilities Wikibook](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-<!--
-https://en.wikipedia.org/wiki/List_of_Unix_daemons
--->
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Linux
-* [Linux](http://www.linux.org)  
-* [Canonical](http://www.canonical.com)  
-* [Linux Foundation](http://www.linuxfoundation.org)  
-* [Linux.com](http://www.linux.com)  
-* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
-* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
-* [Linux GitHub](https://github.com/torvalds/linux)  
-* [Linux in a Nutshell](http://it-ebooks.info/book/403)  
-* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
-* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
-* [Linux Journal](http://www.linuxjournal.com)  
-
-The Linux Documentation Project
-* [The Linux Documentation Project](http://www.tldp.org)
-* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
-
-Linux- Ubuntu (Debian)
-* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
-* [Ubuntu](http://www.ubuntu.com)  
-* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))  
-* [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
- 
-Linux- Ubuntu Dual Boot
-* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
-* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
-* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
-
-Ubuntu Terminal, Command Line, and Aptget
-* [Linux Command](http://linuxcommand.org)  
-* [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
-* [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
-* [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
-
-Ubuntu- + Programs
-* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
-* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
-* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
-* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
-
-Linux- Other Popular Distributions
-* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
-* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
-* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
-* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
-* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
-* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
-* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
-* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
-
-Linux Feeling- on Windows
-* [Cygwin](http://cygwin.com)
-
-<!--
-* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) 
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-Locating Apps
-* [List All Applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-
-http://cli.learncodethehardway.org/bash_cheat_sheet.pdf    
-   
-Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
-
-Chrome Extensions
-* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
-* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
-* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
--->
-
-#### OS, Shell, Browser
+#### Operating System, Browser, Layout Engine
 
 Operating Systems
 * [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
@@ -1260,74 +1161,6 @@ Web Browser
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
-
-Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
-
-Mac OS X 
-* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
-* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
-
-Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
-* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-
-<!--
-Browser Statistics
-
-http://www.gnu.org/software/coreutils/manual/coreutils.html
-
-http://ftp.gnu.org
-http://gcc.gnu.org
-
-http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Hurd
--->
-
-Mac OS X- Architecture
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
-
-Apple iOS
-* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Opera (Also Blink)
-* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
-
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
-
-Internet Explorer and Trident (Browser, Layout Engine)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
-
-Edge and EdgeHTML (Browser, Layout Engine)
-* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
-* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
-
-Windows SSH and Telnet Client
-* [PuTTY](http://www.putty.org)
 
 Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
@@ -1345,10 +1178,30 @@ Compilers
 * [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
 * [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
 
-#### Apple
+#### Mojombo Chromebook Recommendation
+
+* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
+* [Google Chromebook](http://www.google.com/chromebook)
+* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
+* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
+* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
+* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
+* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+
+Chromebook Ubuntu Installation
+* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
+* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
+* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
+* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
+* [Crouton GitHub](https://github.com/dnschneid/crouton)  
+
+#### Apple General
 
 Apple Posters of Ago
 * [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
+
+
 
 * [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
 * [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
@@ -1442,25 +1295,50 @@ https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
 
-#### Mojombo Chromebook Recommendation
+#### Development Environment and Programming
 
-* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
-* [Google Chromebook](http://www.google.com/chromebook)
-* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
-* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
-* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
-* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
-* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
-* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+#### Apple Developer Tools
 
-Chromebook Ubuntu Installation
-* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
-* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
-* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
-* [Crouton GitHub](https://github.com/dnschneid/crouton)  
+Mac OS X 
+* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
 
-#### Developer Tools
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Apple iOS
+* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+#### Google Developer Tools
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
@@ -1555,8 +1433,29 @@ https://facebook.github.io/react-native/docs/debugging.html
 http://docs.ionic.io/docs/chrome-inspector
 -->
 
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+#### Microsoft Developer Tools
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
+
+Windows SSH and Telnet Client
+* [PuTTY](http://www.putty.org)
+
+#### Mozilla Developer Tools
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
 
 Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
@@ -1565,19 +1464,119 @@ Mozilla Developer Tools
 Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
-#### Keyboard Shortcuts
+<!--
+Browser Statistics
+
+http://www.gnu.org/software/coreutils/manual/coreutils.html
+
+http://ftp.gnu.org
+http://gcc.gnu.org
+
+http://en.wikipedia.org/wiki/GNU_readline
+https://en.wikipedia.org/wiki/GNU_Hurd
+-->
+
+<!--
+* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) 
 
 Keyboard Shortcuts
 * [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
 * [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 
-Emoji and Other Funny Keyboard Shortcode 
-* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
-* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
-* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
+Locating Apps
+* [List All Applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
 
-#### Development Environment and Programming
+http://cli.learncodethehardway.org/bash_cheat_sheet.pdf    
+   
+Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
+
+Chrome Extensions
+* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
+* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+-->
+
+#### Unix and Linux
+
+Unix
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
+* [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
+
+Unix Shell and File system
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+* [Guide to Unix/Commands Wikibook](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands) and [Guide to Unix/Commands/File System Utilities Wikibook](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_Unix_daemons
+-->
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Linux
+* [Linux](http://www.linux.org)  
+* [Canonical](http://www.canonical.com)  
+* [Linux Foundation](http://www.linuxfoundation.org)  
+* [Linux.com](http://www.linux.com)  
+* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
+* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
+* [Linux GitHub](https://github.com/torvalds/linux)  
+* [Linux in a Nutshell](http://it-ebooks.info/book/403)  
+* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
+* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
+* [Linux Journal](http://www.linuxjournal.com)  
+
+The Linux Documentation Project
+* [The Linux Documentation Project](http://www.tldp.org)
+* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
+
+Linux- Ubuntu (Debian)
+* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
+* [Ubuntu](http://www.ubuntu.com)  
+* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))  
+* [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
+ 
+Linux- Ubuntu Dual Boot
+* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
+* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
+* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
+
+Ubuntu Terminal, Command Line, and Aptget
+* [Linux Command](http://linuxcommand.org)  
+* [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
+* [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
+* [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
+
+Ubuntu- + Programs
+* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
+* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
+* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
+* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
+
+Linux- Other Popular Distributions
+* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
+* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
+* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
+* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
+* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
+* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
+* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
+* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
+
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
 
 #### More Command Line and Shell
 
@@ -1722,6 +1721,18 @@ cURL and Wget
 Integrated Development Environment
 * [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
 * [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+
+#### Keyboard Shortcuts
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+Emoji and Other Funny Keyboard Shortcode 
+* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
+* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
 
 #### Dot Files
 
