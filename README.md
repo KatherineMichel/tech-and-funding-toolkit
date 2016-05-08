@@ -52,9 +52,6 @@ Table of Content
   * [Microsoft Developer Tools](#microsoft-developer-tools)
   * [Mozilla Developer Tools](#mozilla-developer-tools)
 
-
-  * [Unix and Linux](#unix-and-linux)
-
   * [Command Line and Shell](#command-line-and-shell)
   * [Keyboard Shortcuts](#keyboard-shortcuts)
   * [Dot Files](#dot-files)
