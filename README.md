@@ -1975,6 +1975,14 @@ GitHub Speaker Deck
 #### Startup Engineering MOOC
 
 <!--
+Startup Mooc Staging Example: GitHub, AWS, Heroku
+* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
+* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
+* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+* Illustration: Startup Engineering Dev, Staging, Production
+-->
+
+<!--
 http://web.stanford.edu/class/cs106b/
 
 Startup Engineering Video Lectures
@@ -3425,6 +3433,10 @@ JavaScript Presentations Frameworks
 
 #### Ruby and Jekyll
 
+<!--
+Contributing to Ruby Guide
+-->
+
 Ruby
 * [Ruby](https://www.ruby-lang.org/en)  
 * [Ruby GitHub](https://github.com/ruby/ruby)
@@ -4396,6 +4408,10 @@ ASP.NET- GitHub
 * [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
 * [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
 * [ASP.NET DNX](https://github.com/aspnet/dnx)
+
+<!--
+Learn ASP
+-->
 
 Installing ASP.NET
 * [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
