@@ -1162,13 +1162,6 @@ Unix Shell and File system
 * [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
 
 <!--
-https://en.wikipedia.org/wiki/Shell_builtin
-http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
-https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
-
-https://en.wikipedia.org/wiki/Chmod
-https://en.wikipedia.org/wiki/Chown
-
 https://en.wikipedia.org/wiki/List_of_Unix_daemons
 -->
 
@@ -1619,6 +1612,13 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
+https://en.wikipedia.org/wiki/Shell_builtin
+http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
+https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
+
+https://en.wikipedia.org/wiki/Chmod
+https://en.wikipedia.org/wiki/Chown
+
 https://en.wikipedia.org/wiki/Option_key
 https://en.wikipedia.org/wiki/Meta_key
 
