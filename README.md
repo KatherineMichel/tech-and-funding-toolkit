@@ -38,26 +38,30 @@ Table of Content
   * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
   * [Social Media and Social Graph](#social-media-and-social-graph) 
   * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
+
 * [Computer Basics](#computer-basics)
   * [Encoding](#encoding)
+
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
+  * [Unix and Linux General](#unix-and-linux-general)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple General](#apple-general)
+* [Development Environment and Programming](#development-environment-and-programming)
   * [Apple Developer Tools](#apple-developer-tools)
   * [Google Developer Tools](#google-developer-tools)
   * [Microsoft Developer Tools](#microsoft-developer-tools)
   * [Mozilla Developer Tools](#mozilla-developer-tools)
 
-* [Development Environment and Programming](#development-environment-and-programming)
+
   * [Unix and Linux](#unix-and-linux)
 
+  * [Command Line and Shell](#command-line-and-shell)
   * [Keyboard Shortcuts](#keyboard-shortcuts)
-
-  * [More Command Line and Shell](#more-command-line-and-shell)
   * [Dot Files](#dot-files)
   * [Git and Markdown](#git-and-markdown)
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Code Philosophies](#code-philosophies)
+
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
   * [Software Manuals and Documentation](#software-manuals-and-documentation)
   * [Software Engineering and Testing](#software-engineering-and-testing)
@@ -1178,6 +1182,51 @@ Compilers
 * [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
 * [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
 
+#### Unix and Linux General
+
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
+
+Linux
+* [Linux](http://www.linux.org)  
+* [Canonical](http://www.canonical.com)  
+* [Linux Foundation](http://www.linuxfoundation.org)  
+* [Linux.com](http://www.linux.com)  
+* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
+* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
+* [Linux GitHub](https://github.com/torvalds/linux)  
+* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
+* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
+* [Linux Journal](http://www.linuxjournal.com) 
+
+Linux- Ubuntu (Debian)
+* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
+* [Ubuntu](http://www.ubuntu.com)  
+* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
+
+Linux- Ubuntu Dual Boot
+* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
+* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
+* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
+
+Ubuntu- + Programs
+* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
+* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
+* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
+* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
+
+Linux- Other Popular Distributions
+* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
+* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
+* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
+* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
+* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
+* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
+* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
+* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports) 
+
 #### Mojombo Chromebook Recommendation
 
 * [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
@@ -1201,11 +1250,6 @@ Chromebook Ubuntu Installation
 Apple Posters of Ago
 * [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
 
-
-
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
-
 Apple El Capitan
 * [El Capitan](https://help.apple.com/osx-elcapitan)
 * [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
@@ -1219,6 +1263,10 @@ http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air
 
 Apple- Utilities
 * [iTunes](https://www.apple.com/itunes)
+
+
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
 
 Apple Developer Program Membership
 * [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
@@ -1451,6 +1499,9 @@ Edge and EdgeHTML (Browser, Layout Engine)
 Windows SSH and Telnet Client
 * [PuTTY](http://www.putty.org)
 
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
+
 #### Mozilla Developer Tools
 
 Mozilla (Browser, Layout Engine)
@@ -1500,15 +1551,16 @@ Chrome Extensions
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 -->
 
-#### Unix and Linux
+#### Command Line and Shell
+
+See also Bash and PowerShell<br>
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
+
+
 
 Unix
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
 * [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem)  
 
 Unix Shell and File system
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
@@ -1525,33 +1577,14 @@ https://en.wikipedia.org/wiki/List_of_Unix_daemons
 Comparison of File Systems
 * [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 
-Linux
-* [Linux](http://www.linux.org)  
-* [Canonical](http://www.canonical.com)  
-* [Linux Foundation](http://www.linuxfoundation.org)  
-* [Linux.com](http://www.linux.com)  
-* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
-* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
-* [Linux GitHub](https://github.com/torvalds/linux)  
 * [Linux in a Nutshell](http://it-ebooks.info/book/403)  
-* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
-* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
-* [Linux Journal](http://www.linuxjournal.com)  
 
 The Linux Documentation Project
 * [The Linux Documentation Project](http://www.tldp.org)
 * [Linux Documentation Project Guides](http://www.tldp.org/LDP)
 
 Linux- Ubuntu (Debian)
-* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
-* [Ubuntu](http://www.ubuntu.com)  
-* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))  
 * [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
- 
-Linux- Ubuntu Dual Boot
-* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
-* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
-* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
 
 Ubuntu Terminal, Command Line, and Aptget
 * [Linux Command](http://linuxcommand.org)  
@@ -1559,29 +1592,7 @@ Ubuntu Terminal, Command Line, and Aptget
 * [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
 * [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
 
-Ubuntu- + Programs
-* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
-* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
-* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
-* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
 
-Linux- Other Popular Distributions
-* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
-* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
-* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
-* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
-* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
-* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
-* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
-* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports)  
-
-Linux Feeling- on Windows
-* [Cygwin](http://cygwin.com)
-
-#### More Command Line and Shell
-
-See also Bash and PowerShell<br>
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
 
 Command Line
 * [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
