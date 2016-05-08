@@ -789,12 +789,6 @@ Web Analytics
 Facebook
 * [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
 
-Facebook Tools
-* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-* [Facebook Business](https://www.facebook.com/business)
-* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
-* [Fb Start for Mobile Startups](http://fbstart.com)
-
 Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 
@@ -1198,6 +1192,10 @@ Linux
 * [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
 * [Linux Journal](http://www.linuxjournal.com) 
 
+The Linux Documentation Project
+* [The Linux Documentation Project](http://www.tldp.org)
+* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
+
 Linux- Ubuntu (Debian)
 * [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
 * [Ubuntu](http://www.ubuntu.com)  
@@ -1361,6 +1359,7 @@ Apple- More
 * [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
 * [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
 * [Apple Watchkit](https://developer.apple.com/watchkit)  
+
 
 
 #### Google Developer Tools
@@ -2121,6 +2120,8 @@ Trello
 https://upcase.com/design-for-developers-resources/principles
 https://github.com/thoughtbot/guides
 https://github.com/thoughtbot/guides/tree/master/protocol
+
+#### Digital Agency
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 * [The Figure 53 Company Handbook](http://figure53.com/handbook)
@@ -4336,6 +4337,16 @@ Python- Django- Cmatrix
 <!--
 https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
 -->
+<!--
+* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+-->
 
 JavaScript- Microsoft
 * [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
@@ -4692,7 +4703,7 @@ IANA, Domize, DNSimple, Heroku
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
 * [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
 * [Heroku SSL Self Certification](https://devcenter.heroku.com/articles/ssl-certificate-self)  
-* [Heroku Custom Domains](https://devcenter.heroku.com/articles/custom-domains)  
+* [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains) 
 
 Namecheap
 * [Namecheap](https://www.namecheap.com)  
@@ -7740,7 +7751,7 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [SXSW](http://sxsw.com) 
 * [KC Addys](http://aafkc.com/addys)
 
-Mobile
+Mobile (See also Mobile)
 * [Groupe Speciale Mobile Association (GSMA)](http://www.gsma.com)
 * [Mobile Ecosystem Forum](http://mefglobalforum.org)
 * [Mobile World Congress](https://www.mobileworldcongress.com)
