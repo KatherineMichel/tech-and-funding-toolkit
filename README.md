@@ -1264,30 +1264,6 @@ http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air
 Apple- Utilities
 * [iTunes](https://www.apple.com/itunes)
 
-
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
-
-Apple Developer Program Membership
-* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
-* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
-* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
-
-Apple Developer and Open Source
-* [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Library](https://developer.apple.com/library)
-* [Apple Developer Forum](https://forums.developer.apple.com)
-* [Apple Open Source](https://developer.apple.com/opensource)
-* [OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
-* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
-
-Apple Developer Tools
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
-* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
-* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-Apple- iOS
-* [Apple iOS](https://developer.apple.com/ios)
-
 Apple Presentation and Design (See also Keynotopia)
 * [Keynote](https://www.apple.com/mac/keynote)
 * [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com)
@@ -1314,15 +1290,6 @@ Apple- Windows (See also: VMware, Vagrant, VirtualBox)
 * [Winclone](http://twocanoes.com/products/mac/winclone)
 * External Hard Drive, USB SSD, Western Digital Terabyte
 
-Apple- Platforms and Devices
-* [OS X Wikipedia](http://en.wikipedia.org/wiki/OS_X)  
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-
-App Store Submission
-* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
-* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
-* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
 
 Apple- More
 * [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
@@ -1363,10 +1330,40 @@ Mac OS X- Architecture
 * [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
 
 Apple iOS
-* [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
 Safari Developer Tools
 * [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+
+
+
+
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+
+Apple Developer Program Membership
+* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
+* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
+* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
+
+Apple Developer and Open Source
+* [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Library](https://developer.apple.com/library)
+* [Apple Developer Forum](https://forums.developer.apple.com)
+* [Apple Open Source](https://developer.apple.com/opensource)
+* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
+
+Apple Developer Tools
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
+* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
+* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+App Store Submission
+* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
+* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
+* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
+
 
 #### Google Developer Tools
 
@@ -1662,11 +1659,12 @@ https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-ent
 Unix
 * [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 
-Unix Shell (See also Unix)
-* [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
-* [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
-* [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
+POSIX (Compatible with Unix)
+* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+<!--
+http://www.unix.com/man-page/posix/1posix/eval
+-->
 
 Sha-Bang/Shebang
 * [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
@@ -1675,12 +1673,19 @@ Notable Terminology
 * [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
 * [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
 
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+cURL and Wget
+* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+* [WGet](https://www.gnu.org/software/wget)
 
-<!--
-http://www.unix.com/man-page/posix/1posix/eval
--->
+Nano
+* [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
+
+Windows- PowerShell
+* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
+* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
+* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
+* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
+* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
 
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
@@ -1701,16 +1706,6 @@ https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
 https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
 -->
 
-Nano
-* [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
-
-Windows- PowerShell
-* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
-* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
-* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
-* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
-* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
-
 Zsh (Bash Alternative)
 * [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
 * [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
@@ -1725,9 +1720,11 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [.emacs.d](https://github.com/seshness/.emacs.d)  
 * [Lighttable](http://www.lighttable.com)  
 
-cURL and Wget
-* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
-* [WGet](https://www.gnu.org/software/wget)
+Unix Shell (See also Unix)
+* [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
+* [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
+* [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
 
 Integrated Development Environment
 * [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
