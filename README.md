@@ -3160,6 +3160,7 @@ Angular (React Stack)
 <!--
 https://www.gitbook.com/book/rangle-io/ngcourse2/details
 https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
+https://angular.io/docs
 -->
 
 Express (React Stack)
@@ -3567,6 +3568,10 @@ PHP- Laravel- Preferred Templates and Documents
 
 PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
+
+<!--
+WordPress (PG4WP)
+-->
 
 PHP/node.js- WordPress- Com, Calypso
 * [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
