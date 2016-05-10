@@ -107,6 +107,9 @@ Python- Django- Django Product Websites
 * [Django Packages GitHub](https://github.com/pydanny/djangopackages)
 * [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
 
+Python- Pelican
+* [Full Stack Python GitHub](https://github.com/makaimc/fullstackpython.com)
+
 Python- Django- Python Product Websites
 * [Celery Project](http://www.celeryproject.org)  and [Celery Project GitHub](https://github.com/celery/celeryproject) 
 * [SciPy Central (Deprecated?) GitHub](https://github.com/scipy/SciPyCentral)
