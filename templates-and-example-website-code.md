@@ -114,11 +114,14 @@ Python- Django- Python Product Websites
 * [Celery Project](http://www.celeryproject.org)  and [Celery Project GitHub](https://github.com/celery/celeryproject) 
 * [SciPy Central (Deprecated?) GitHub](https://github.com/scipy/SciPyCentral)
 
-Django Girls (Python- Django)
+Python- Django- Django Girls (Python- Django)
 * [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
 
-Wharton
+Python- Django- Wharton
 * [Wharton Django Base Theme GitHub](https://github.com/wharton/django-base-theme)
+
+Python- Django- Lawrence Trail Hawks
+* [Lawrence Trail Hawks](https://trailhawks.com)
 
 <!--
 https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
