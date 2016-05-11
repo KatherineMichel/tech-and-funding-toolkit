@@ -757,6 +757,11 @@ Google
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
+<!--
+https://github.com/google/fonts/tree/master/ofl
+http://www.fontscape.com
+-->
+
 Google Material Design (See also Facebook React)
 * [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
 
@@ -2290,6 +2295,10 @@ GitBook
 * [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
 * [GitBook Themes](http://help.gitbook.io/book/themes.html)  
 
+<!--
+https://help.gitbook.com/books/how-can-i-use-git.html
+-->
+
 GitHub Wiki
 * [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
 
@@ -2954,6 +2963,7 @@ Golang, otherwise known as "Go"
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 
 <!--
+https://gobyexample.com/
 https://tour.golang.org/welcome/1
 
 https://golang.org/dl
@@ -4127,6 +4137,12 @@ https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L7
 
 Mastering Regular Expressions Jeffrey Friedl
 https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
+https://docs.python.org/3.5/library/re.html
+http://regex.info/book.html
+
+RegEx
+* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
+* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
 -->
 
 #### Python and Django Deployment
@@ -5905,10 +5921,6 @@ Text Mining, Sentiment Analysis- General
 * [Text Mining Wikipedia](http://en.wikipedia.org/wiki/Text_mining)  
 * [List of Text Mining Software Wikipedia](http://en.wikipedia.org/wiki/List_of_text_mining_software)  
 * [Sentiment Analysis (Opinion Mining) Wikipedia)](http://en.wikipedia.org/wiki/Sentiment_analysis)  
-
-RegEx
-* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org)  
 
 Web Crawling and Scraping
 * [Web Scraping Wikipedia](http://en.wikipedia.org/wiki/Web_scraping)  
