@@ -2647,9 +2647,13 @@ Prototyping Software- Keynotopia
 https://balsamiq.com/products/mockups/
 
 http://keynotopia.com/#how
-http://keynotopia.com/guides/
-http://keynotopia.com/keynote-mockups-templates/
-http://keynotopia.com/web-prototyping/
+http://keynotopia.com/guides
+http://keynotopia.com/keynote-mockups-templates
+http://keynotopia.com/web-prototyping
+
+https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
 -->
 
 Prototyping Software- Others
@@ -7852,8 +7856,12 @@ Books
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
+http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+
 Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
 http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
+
+http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
 -->
 
 Books- Historical
