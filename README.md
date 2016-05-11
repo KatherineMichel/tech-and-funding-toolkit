@@ -1309,6 +1309,12 @@ https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 
 #### Development Environment and Programming
 
+<!--
+http://docs.openstack.org/developer/nova/
+https://wiki.openstack.org/wiki/Horizon
+http://docs.openstack.org/developer/horizon/
+-->
+
 #### Apple Developer Tools
 
 Mac OS X 
@@ -1776,6 +1782,8 @@ Learn X in Y Minutes Git and Markdown
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 <!--
+https://ifttt.com/github/recipes
+
 https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
 http://git-scm.com/book/en/Git-Basics-Tagging
 https://git-scm.com/docs/git-tag
@@ -6816,6 +6824,10 @@ Google and Alphabet
 * [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
 * [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
 
+<!--
+https://longbets.org
+-->
+
 Berkshire Hathaway
 * [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
 * [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
@@ -7071,6 +7083,11 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Upfront Insights](http://insights.upfront.com)
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+
+<!--
+https://angel.co/intro
+http://www.growth.500.co
+-->
 
 Blogs and Whatnot
 * [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
@@ -7740,6 +7757,7 @@ Digital Stats
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 #### Schools of Thought
+
 * [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
 * [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
 * [W. Brian Arthur (books/articles recommended by Sonal) Wikipedia](https://en.wikipedia.org/wiki/W._Brian_Arthur)
@@ -7747,6 +7765,10 @@ Digital Stats
 * [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 * [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 * [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
+
+<!--
+https://en.wikipedia.org/wiki/Claude_Shannon
+-->
 
 Awards
 * [Nobel Prizes](http://www.nobelprize.org/nobel_prizes)
