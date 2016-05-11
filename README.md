@@ -1137,6 +1137,9 @@ Bytcote versus Unicode
 * [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
 
 <!--
+http://usefulshortcuts.com/alt-codes
+http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf
+
 https://en.wikipedia.org/wiki/Tilde
 
 https://www.w3.org/International/getting-started/characters
@@ -1377,7 +1380,9 @@ Apple- More
 * [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
 * [Apple Watchkit](https://developer.apple.com/watchkit)  
 
-
+<!--
+http://www.apple.com/researchkit
+-->
 
 #### Google Developer Tools
 
@@ -2715,6 +2720,10 @@ W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
 
+<!--
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
+-->
+
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 * [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
@@ -2902,6 +2911,11 @@ W3 Validators
 Accessibility
 * [WebAIM](http://webaim.org)
 * [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+
+<!--
+Microsoft
+INCLUSIVE_TOOLKIT_MANUAL_FINAL.pdf
+-->
 
 Example
 * [Example Org](http://www.example.org)  
@@ -6828,6 +6842,8 @@ Google and Alphabet
 
 <!--
 https://longbets.org
+
+https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack
 -->
 
 Berkshire Hathaway
