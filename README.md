@@ -2660,11 +2660,22 @@ Prototyping Software- Keynotopia
 
 <!--
 https://balsamiq.com/products/mockups/
+http://keynotekungfu.com/
+http://www.axure.com/
 
 http://keynotopia.com/#how
 http://keynotopia.com/guides
+http://keynotopia.com/bootstrap/
+http://keynotopia.com/keynotopia-super-bundle/
 http://keynotopia.com/keynote-mockups-templates
 http://keynotopia.com/web-prototyping
+
+http://keynotopia.com/keynote-and-powerpoint-mockup-templates/
+http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote/
+http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps/
+http://keynotopia.com/how-to-create-ui-animations-with-keynote/
+
+https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
 
 https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
 https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
