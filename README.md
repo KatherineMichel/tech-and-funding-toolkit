@@ -3262,6 +3262,7 @@ https://github.com/reactjs/react-tutorial
 
 https://github.com/petehunt/react-webpack-template
 
+https://github.com/mjackson/web-starter
 https://github.com/bonniee/react-starter
 https://github.com/gaearon/react-transform-boilerplate
 https://github.com/gaearon/react-hot-boilerplate
