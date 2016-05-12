@@ -1306,8 +1306,6 @@ Mac Update
 * [Mac Update](http://www.macupdate.com)
 
 <!--
-https://guide.macports.org
-
 https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
@@ -1382,6 +1380,8 @@ Apple- More
 
 <!--
 http://www.apple.com/researchkit
+
+https://guide.macports.org
 -->
 
 #### Google Developer Tools
