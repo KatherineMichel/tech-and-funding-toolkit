@@ -259,7 +259,7 @@ Database List
 
 Databases and Benchmarking- Freemium
 * [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Jobs](https://angel.co/jobs) 
+* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs) 
 * [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
 * [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
 * [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
@@ -5750,12 +5750,11 @@ http://developersacademy.io/blog/
 * [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
 * [Twitch TV](http://www.twitch.tv)
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
+* [Steam](http://store.steampowered.com)
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
 <!--
-http://store.steampowered.com/
-
 https://developer.oculus.com/documentation/pcsdk/0.4/concepts/dg-sdk-setup-requirements/
 -->
 
@@ -6622,16 +6621,13 @@ Email
 * [SendGrid](http://sendgrid.com)  
  
 Group Communication/Chat
+* [Glitter (Chat for GitHub](https://gitter.im)
 * [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
 * [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
 * [Skype](http://www.skype.com/en) 
 * [Meetup](http://www.meetup.com)
 * [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
  
-<!--
-https://gitter.im/apps
--->
-
 Livestreaming, Video, Audio 
 * [Livestream](http://new.livestream.com) 
 * [SoundCloud](https://soundcloud.com)  
@@ -6678,10 +6674,7 @@ Social Media Distribution
 Customer Relationship Management
 * [Salesforce](https://www.salesforce.com)
 * [RelateIQ](https://www.relateiq.com) 
-
-<!--
-https://www.zendesk.com
--->
+* [Zendesk](https://www.zendesk.com)
 
 Task Automation
 * [IFTTT](https://ifttt.com) 
@@ -6852,12 +6845,6 @@ Google and Alphabet
 * [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
 * [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
 
-<!--
-https://longbets.org
-
-https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack
--->
-
 Berkshire Hathaway
 * [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
 * [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
@@ -6865,6 +6852,13 @@ Berkshire Hathaway
 * [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
 * [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
 * [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
+
+<!--
+https://longbets.org
+-->
+
+Poor Charlie's Almanack
+* [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
 
 Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
 * [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
@@ -7074,13 +7068,9 @@ Equity
 * [Google Capital](http://www.googlecapital.com)
 
 Startup Studios
-* [Betaworks](https://betaworks.com)
+* [Betaworks](https://betaworks.com) and [Betaworks Bot Camp](https://betaworks.com/botcamp)
 * [Expa](http://expa.com) and [Expa Labs](http://expa.com/labs)
 * [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
-
-<!--
-https://betaworks.com/botcamp
--->
 
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
@@ -7113,11 +7103,6 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Upfront Insights](http://insights.upfront.com)
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
-
-<!--
-https://angel.co/intro
-http://www.growth.500.co
--->
 
 Blogs and Whatnot
 * [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
@@ -7158,7 +7143,7 @@ VC Firm Demo Days
 * [500 Startups Demo Day](http://500demoday.co)
 
 VC Firm Events
-* [PreMoney](http://premoney.co/agenda), [PreMoney Resources](http://premoney.co/resources), [WMD](http://wmd.co), and [Warm Gun](http://warmgun.com)
+* [PreMoney](http://premoney.co/agenda), [PreMoney Resources](http://premoney.co/resources), [WMD](http://wmd.co), [Warm Gun](http://warmgun.com), and [Marketing Hell Week](http://www.growth.500.co)
 
 VC and Tech Videos and Podcasts
 * [A16Z Podcasts](https://soundcloud.com/a16z)
@@ -7790,15 +7775,12 @@ Digital Stats
 
 * [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
 * [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
+* [Claude Shannon Wikipedia](https://en.wikipedia.org/wiki/Claude_Shannon)
 * [W. Brian Arthur (books/articles recommended by Sonal) Wikipedia](https://en.wikipedia.org/wiki/W._Brian_Arthur)
 * [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
 * [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
 * [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 * [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
-
-<!--
-https://en.wikipedia.org/wiki/Claude_Shannon
--->
 
 Awards
 * [Nobel Prizes](http://www.nobelprize.org/nobel_prizes)
@@ -7940,7 +7922,7 @@ Neuroplasticity
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
 
 Stanford Encyclopedia of Philosophy
-* [](http://plato.stanford.edu)
+* [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu)
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
