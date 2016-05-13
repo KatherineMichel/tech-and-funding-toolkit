@@ -755,14 +755,13 @@ Facebook
 * [Facebook Design](http://facebook.github.io/design) 
 
 Google
-* [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
+* [Google Fonts](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
 * [Google Roboto GitHub](https://github.com/google/roboto) 
 * [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
 <!--
-https://github.com/google/fonts/tree/master/ofl
 http://www.fontscape.com
 
 http://fontfamous.com/
@@ -2671,7 +2670,6 @@ http://keynotopia.com/keynote-mockups-templates
 http://keynotopia.com/web-prototyping
 
 http://keynotopia.com/keynote-and-powerpoint-mockup-templates/
-http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote/
 http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps/
 http://keynotopia.com/how-to-create-ui-animations-with-keynote/
 
@@ -2849,6 +2847,10 @@ Good, Basic Templates, Themes
 * [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 * [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+
+<!--
+http://templated.co
+-->
 
 Kickstarters
 * [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
