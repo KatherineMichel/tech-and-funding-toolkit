@@ -2701,6 +2701,15 @@ http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps/
 http://keynotopia.com/how-to-create-ui-animations-with-keynote/
 http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com/
 
+Keynote for Mac: Keynote for Mac keyboard shortcuts
+https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US
+
+Keynote for Mac: Add and edit master slides
+https://support.apple.com/kb/PH16978?locale=en_US
+
+Keynote for Mac: Animate objects
+https://support.apple.com/kb/ph16960?locale=en_US
+
 https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
 
 https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
