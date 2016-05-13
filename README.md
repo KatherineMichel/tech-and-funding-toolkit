@@ -2669,9 +2669,11 @@ http://keynotopia.com/keynotopia-super-bundle/
 http://keynotopia.com/keynote-mockups-templates
 http://keynotopia.com/web-prototyping
 
+http://keynotopia.com/tutorials/
 http://keynotopia.com/keynote-and-powerpoint-mockup-templates/
 http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps/
 http://keynotopia.com/how-to-create-ui-animations-with-keynote/
+http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com/
 
 https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
 
@@ -2850,6 +2852,10 @@ Good, Basic Templates, Themes
 
 <!--
 http://templated.co
+
+http://html5up.net
+https://github.com/n33/skel
+https://github.com/n33/skel/blob/master/docs/skel.md
 -->
 
 Kickstarters
