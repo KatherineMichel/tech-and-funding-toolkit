@@ -2170,6 +2170,7 @@ https://github.com/stevemao/github-issue-templates
 
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 
+https://devopsbootcamp.osuosl.org/slides.html
 https://github.com/devopsbootcamp
 https://github.com/DevOpsBootcamp/website
 https://docs.google.com/forms/d/12Mwr2D5jokWJh8hZm7bfk1uaXQQtyG0_cTdMASPjU10/viewform?edit_requested=true
