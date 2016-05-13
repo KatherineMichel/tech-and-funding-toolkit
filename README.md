@@ -1132,8 +1132,6 @@ Bytcote versus Unicode
 http://usefulshortcuts.com/alt-codes
 http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf
 
-https://en.wikipedia.org/wiki/Tilde
-
 https://www.w3.org/International/getting-started/characters
 https://www.w3.org/International/articles/definitions-characters/
 -->
@@ -1614,15 +1612,17 @@ Mac OS X- Terminal, Bash (Unix)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
 <!--
+https://en.wikipedia.org/wiki/Tilde
+
+https://en.wikipedia.org/wiki/Option_key
+https://en.wikipedia.org/wiki/Meta_key
+
 https://en.wikipedia.org/wiki/Shell_builtin
 http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
 https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
 
 https://en.wikipedia.org/wiki/Chmod
 https://en.wikipedia.org/wiki/Chown
-
-https://en.wikipedia.org/wiki/Option_key
-https://en.wikipedia.org/wiki/Meta_key
 
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
 
