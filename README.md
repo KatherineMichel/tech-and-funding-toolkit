@@ -733,12 +733,8 @@ Built With (Exluding Django)
 * [Squarespace (Website Examples)](http://www.squarespace.com) 
 
 Code Search
-* [Search Code](https://searchcode.com)  
+* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
 * [Nerdy Data](http://nerdydata.com)  
-
-<!--
-https://searchcode.com/product
--->
 
 Whois Wikipedia
 * [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
@@ -760,12 +756,6 @@ Google
 * [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-<!--
-http://www.fontscape.com
-
-http://fontfamous.com/
--->
 
 Google Material Design (See also Facebook React)
 * [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
@@ -2716,7 +2706,11 @@ https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-
 https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
 https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
 -->
+<!--
+http://www.fontscape.com
 
+http://fontfamous.com/
+-->
 Prototyping Software- Others
 * [Facebook Origami GitHub](https://github.com/facebook/origami)
 * [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
