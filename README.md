@@ -2634,6 +2634,29 @@ Device Mockups
 * [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
 * [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
  
+<!--
+http://blog.invisionapp.com/large-desktop-experience-responsive-design/
+https://support.invisionapp.com/hc/en-us/articles/203009779-What-size-should-my-screens-be-
+http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+https://www.google.com/design/spec/layout/structure.html#structure-system-bars
+http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/12/desktopchart.jpeg
+
+http://screensiz.es
+https://www.w3counter.com
+http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604
+
+http://www.productchart.com/laptops/
+http://www.devicespecifications.com/en
+
+https://en.wikipedia.org/wiki/List_of_common_resolutions
+https://en.wikipedia.org/wiki/Display_resolution
+
+http://www.mobilusdesign.com/responsive-web-designed-websites-for-wordpress/
+
+http://wiki.mobileread.com/wiki/Screen_sizes
+https://www.quora.com/Whats-the-average-desktop-screen-resolution-as-of-2015
+-->
+
 Photoshop and Similar
 * [Nik Collection](https://www.google.com/nikcollection)
 * [Adobe Lightroom](https://lightroom.adobe.com)
