@@ -1001,11 +1001,11 @@ Client Server
 https://en.wikipedia.org/wiki/Internet_service_provider
 https://en.wikipedia.org/wiki/Parsing
 
-https://en.wikipedia.org/wiki/Load_balancing_(computing)
-https://en.wikipedia.org/wiki/Server_farm
-https://en.wikipedia.org/wiki/Web_service
-https://en.wikipedia.org/wiki/Content_delivery_network
-https://en.wikipedia.org/wiki/Proxy_server
+* [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
+* [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
+* [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
+* [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network) 
+* [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
 
 https://en.wikipedia.org/wiki/HTTP_cookie
 
@@ -5103,7 +5103,6 @@ Cross Platform Dev Environment
 * [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
 
 Content Delivery Network
-* [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network)  
 * [Google Cloud CDN](https://cloud.google.com/compute/docs/load-balancing/http/cdn)
 * [MAXCDN](https://www.maxcdn.com) 
 
