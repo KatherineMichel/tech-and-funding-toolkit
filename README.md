@@ -916,6 +916,9 @@ Salesforce Lightning Design System
 HubSpot
 * [HubSpot](http://github.hubspot.com) and [HubSpot GitHub](https://github.com/HubSpot)
 
+Microsoft 
+* [Microsoft Design](https://www.microsoft.com/en-us/design/practice)
+
 IBM Design Language
 * [IBM Design Language](http://www.ibm.com/design/language)
 
@@ -1301,12 +1304,6 @@ https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 
 #### Development Environment and Programming
 
-<!--
-http://docs.openstack.org/developer/nova/
-https://wiki.openstack.org/wiki/Horizon
-http://docs.openstack.org/developer/horizon/
--->
-
 #### Apple Developer Tools
 
 Mac OS X 
@@ -1331,12 +1328,12 @@ Apple iOS
 Safari Developer Tools
 * [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
 
+MacPorts
+* [MacPorts](https://guide.macports.org)
 
-
-
-
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+Mac OS X Directory Strucure and Listing Applications
 * [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
 
 Apple Developer Program Membership
 * [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
@@ -1365,13 +1362,10 @@ Apple- More
 * [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
 * [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
 * [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-* [Apple Watchkit](https://developer.apple.com/watchkit)  
 
-<!--
-http://www.apple.com/researchkit
-
-https://guide.macports.org
--->
+Apple- Kits
+* [ResearchKit and Carekit](http://www.apple.com/researchkit)
+* [Watchkit](https://developer.apple.com/watchkit) 
 
 #### Google Developer Tools
 
@@ -1541,6 +1535,12 @@ Chrome Extensions
 * [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
 * [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+-->
+
+<!--
+http://docs.openstack.org/developer/nova/
+https://wiki.openstack.org/wiki/Horizon
+http://docs.openstack.org/developer/horizon/
 -->
 
 #### Command Line and Shell
@@ -2745,6 +2745,9 @@ Miscellaneous
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
+Gravatar
+* [Gravatar](http://en.gravatar.com)
+
 #### Front-End Development
 
 Web General (See also JavaScript) 
@@ -2965,10 +2968,8 @@ Accessibility
 * [WebAIM](http://webaim.org)
 * [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
 
-<!--
-Microsoft
-INCLUSIVE_TOOLKIT_MANUAL_FINAL.pdf
--->
+Microsoft Inclusion Approach
+* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
 
 Example
 * [Example Org](http://www.example.org)  
@@ -2981,19 +2982,27 @@ Chomsky Hierarchy and Automata
 * [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
 * [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
 
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-
-<!--
-https://en.wikipedia.org/wiki/Strong_and_weak_typing
-https://en.wikipedia.org/wiki/Type_system
--->
-
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+
+Singly Linked Linear Lists vs. Other Lists
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+
+Bracket Notation
+* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
+* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
+
+<!--
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+
+https://en.wikipedia.org/wiki/Strong_and_weak_typing
+https://en.wikipedia.org/wiki/Type_system
+
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+-->
 
 Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
@@ -3013,15 +3022,6 @@ Scripting and MVCs
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-
-<!--
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-
-Bracket Notation
-https://en.wikipedia.org/wiki/Bracket_(mathematics)
-https://en.wikipedia.org/wiki/Zero-based_numbering
-https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
--->
 
 Miscellaneous Programming Languages
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
@@ -4779,10 +4779,6 @@ MAMP and WampServer (See also PHP)
 * [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
-<!--
-https://www.mamp.info/en/documentation/
--->
-
 Software Stacks
 * [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
 * [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
@@ -4815,19 +4811,10 @@ Status
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 
 Consles
+* [GitHub Settings](https://github.com/settings)
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
-
-<!--
-See also Domains
-
-https://github.com/settings/applications/new
-
-https://cloud.digitalocean.com
-https://cloud.digitalocean.com/settings
-
-https://console.aws.amazon.com/billing/home
-https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances
--->
+* [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
+* [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
 
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
@@ -4840,6 +4827,10 @@ IANA, Domize, DNSimple, Heroku
 * [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)  
 * [DNSimple SSL Certifcate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)  
 * [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
+
+<!--
+See also Domains
+-->
 
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
 * [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
@@ -6643,7 +6634,6 @@ Google Products, Office
 * [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
 * [Google Gmail](http://gmail.com)  
 * [Google Drive](https://www.google.com/drive) 
-* [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
 * [Google Slides](https://support.google.com/docs#topic=2811776)
 * [Google Drawings](https://docs.google.com/drawings)  
 * [Google Images](https://images.google.com) 
@@ -6654,11 +6644,9 @@ Google Products, Office
 * [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
 * [Let Me Google that for You](http://lmgtfy.com) 
 
-<!--
-https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en
-
-http://en.gravatar.com
--->
+Google Docs and Research
+* [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
+* [Google Docs Do quick research in a document or presentation](https://support.google.com/docs/answer/2481802)
 
 API
 * [Blockspring](https://www.blockspring.com)
@@ -6684,7 +6672,9 @@ Livestreaming, Video, Audio
 * [YouTube](https://www.youtube.com) 
 
 Voice
-* [Google Docs Voice Typing](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
+* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
+* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
+* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
 * [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
 
 Photo Hosting
@@ -6902,9 +6892,8 @@ Berkshire Hathaway
 * [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
 * [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
 
-<!--
-https://longbets.org
--->
+Long Bets
+* [Long Bets](https://longbets.org)
 
 Poor Charlie's Almanack
 * [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
