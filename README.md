@@ -2695,6 +2695,11 @@ Quickie Websites
 * [Weebly Themes](http://www.weebly.com/themes)
 * [Wix Templates](http://www.wix.com/website/templates)
 
+Domain Names
+* [Google Domains](https://domains.google.com)
+* [Namecheap](https://www.namecheap.com)
+* [iwantmyname](https://iwantmyname.com)
+
 Quickie Mobile Apps
 * [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
 
@@ -4785,6 +4790,8 @@ Consles
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
 
 <!--
+See also Domains
+
 https://github.com/settings/applications/new
 
 https://cloud.digitalocean.com
@@ -4812,7 +4819,6 @@ Heroku SSL Endpoint, SSL Self Certification, Custom Domains
 * [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains) 
 
 Namecheap
-* [Namecheap](https://www.namecheap.com)  
 * [Namecheap SSL Certificate Wildcard](https://www.namecheap.com/security/ssl-certificates/comodo/positivessl-wildcard.aspx)  
 
 DNS
