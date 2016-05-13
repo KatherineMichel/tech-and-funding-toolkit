@@ -5040,6 +5040,12 @@ Digital Ocean (VPS)
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
 <!--
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
+https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
+https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
+
 https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
