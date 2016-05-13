@@ -2645,16 +2645,18 @@ http://screensiz.es
 https://www.w3counter.com
 http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604
 
-http://www.productchart.com/laptops/
+http://www.productchart.com/laptops
 http://www.devicespecifications.com/en
 
 https://en.wikipedia.org/wiki/List_of_common_resolutions
 https://en.wikipedia.org/wiki/Display_resolution
 
-http://www.mobilusdesign.com/responsive-web-designed-websites-for-wordpress/
+http://www.mobilusdesign.com/responsive-web-designed-websites-for-wordpress
 
 http://wiki.mobileread.com/wiki/Screen_sizes
 https://www.quora.com/Whats-the-average-desktop-screen-resolution-as-of-2015
+
+http://getbootstrap.com/css
 -->
 
 Photoshop and Similar
