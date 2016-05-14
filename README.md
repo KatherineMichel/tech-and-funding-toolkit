@@ -1676,6 +1676,11 @@ cURL and Wget
 Nano
 * [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
 
+<!--
+http://www.barebones.com/products/textwrangler
+https://wiki.gentoo.org/wiki/Nano/Basics_Guide
+->
+
 Windows- PowerShell
 * [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
 * [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
