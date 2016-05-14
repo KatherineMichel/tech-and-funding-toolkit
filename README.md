@@ -5099,6 +5099,21 @@ Optimization
 Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 
+<!--
+https://devcenter.heroku.com/articles/git
+https://devcenter.heroku.com/articles/renaming-apps
+https://devcenter.heroku.com/articles/multiple-environments
+https://devcenter.heroku.com/articles/fork-app
+https://devcenter.heroku.com/articles/git-repository-ssh-fingerprints
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
+
+https://help.github.com/articles/set-up-git
+https://help.github.com/articles/error-permission-denied-publickey
+https://help.github.com/articles/caching-your-github-password-in-git
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+-->
+
 AWS Deployment/Staging- Virtual Private Networks
 * [Virtual Private Clouds](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html) and [Virtual Private Clouds Wikipedia](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud)  
 
