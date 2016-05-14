@@ -1087,24 +1087,25 @@ Maintenance
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 * [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 
+Utilities
+* [Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
+* [Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
+* [Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
+* [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
+* [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering) 
+
 Miscellaneous Vocab
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 * [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
-* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
+* [Cross Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
+* [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
+
+Line Endings
+* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
+* [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
 
 <!--
-https://help.github.com/articles/dealing-with-line-endings
-
-https://en.wikipedia.org/wiki/Console_application
-https://en.wikipedia.org/wiki/Cross-site_scripting
-
-[Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
-[Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
-[Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
-[Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
-[Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering)  
-
 http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 
 What are the Numbers that Every Computer Engineer Should Know
@@ -1132,6 +1133,8 @@ Bytcote versus Unicode
 * [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
 
 <!--
+http://keycode.info
+
 http://usefulshortcuts.com/alt-codes
 http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf
 
@@ -1528,17 +1531,6 @@ https://en.wikipedia.org/wiki/GNU_Hurd
 -->
 
 <!--
-Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
-
-Chrome Extensions
-* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
-* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
-* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
--->
-
-<!--
 http://docs.openstack.org/developer/nova/
 https://wiki.openstack.org/wiki/Horizon
 http://docs.openstack.org/developer/horizon/
@@ -1614,6 +1606,9 @@ Mac OS X- Terminal, Bash (Unix)
 * [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
+<!--
+Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
+-->
 <!--
 https://en.wikipedia.org/wiki/Tilde
 
@@ -2714,10 +2709,7 @@ Domain Names
 
 Fonts (See also Google Apps)
 * [Font Famous](http://fontfamous.com)
-
-<!--
 * [Fontscape](http://www.fontscape.com)
--->
 
 Quickie Mobile Apps
 * [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
@@ -2871,6 +2863,7 @@ Foundation
 
 Good, Basic Templates, Themes
 * [Template Stash](http://www.templatestash.com)
+* [Templated](http://templated.co)
 * [HTML5 UP](http://html5up.net) 
 * [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
 * [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
@@ -2879,9 +2872,6 @@ Good, Basic Templates, Themes
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
 
 <!--
-http://templated.co
-
-http://html5up.net
 https://github.com/n33/skel
 https://github.com/n33/skel/blob/master/docs/skel.md
 -->
@@ -2982,15 +2972,16 @@ Method Resolution Order
 Singly Linked Linear Lists vs. Other Lists
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 
-Bracket Notation
+Bracket Notation and Zero-Based Numbering
 * [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
 * [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
 
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+
 <!--
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-
-https://en.wikipedia.org/wiki/Strong_and_weak_typing
-https://en.wikipedia.org/wiki/Type_system
 
 https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 -->
@@ -3278,9 +3269,7 @@ https://github.com/xgrommx/awesome-redux
 
 https://github.com/necolas/react-native-web
 
-http://keycode.info/
-
-http://buildwithreact.com/
+http://buildwithreact.com
 http://facebook.github.io/react/docs/events.html
 https://facebook.github.io/react/docs/tutorial.html
 https://facebook.github.io/react/docs/thinking-in-react.html
