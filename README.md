@@ -6670,11 +6670,7 @@ Voice
 * [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
 * [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
 * [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
-
-<!--
-Add subtitles & closed captions
-https://support.google.com/youtube/answer/2734796?hl=en
--->
+* [YouTube Add subtitles & closed captions](https://support.google.com/youtube/answer/2734796?hl=en)
 
 Photo Hosting
 * [Flickr](https://www.flickr.com) 
@@ -6693,7 +6689,7 @@ Links
 * [Bitly](https://bitly.com)
 
 Calendar 
-* [Sunrise](https://calendar.sunrise.am)
+* [Sunrise (Going away)](https://calendar.sunrise.am)
 
 Social Media Distribution 
 * [Facebook](https://www.facebook.com)
@@ -6713,11 +6709,6 @@ Customer Relationship Management
 * [Salesforce](https://www.salesforce.com)
 * [RelateIQ](https://www.relateiq.com) 
 * [Zendesk](https://www.zendesk.com)
-
-<!--
-http://newrelic.com
-http://kit.com
--->
 
 Task Automation
 * [IFTTT](https://ifttt.com) 
@@ -6741,6 +6732,9 @@ Logistics
 * [Nomad List](https://nomadlist.com)
 * [Statewide List](http://www.statewidelist.com)
 * [Teleport](http://teleport.org)
+
+Kits
+* [Kits](http://kit.com)
 
 Crowd Sourced Internet Marketplace
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
