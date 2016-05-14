@@ -997,9 +997,8 @@ Client Server
 * [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
 * [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 
-<!--
-https://en.wikipedia.org/wiki/Internet_service_provider
--->
+Internet Service Provider
+* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
 
 Port and Host
 * [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
@@ -1675,11 +1674,7 @@ cURL and Wget
 
 Nano
 * [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
-
-<!--
-http://www.barebones.com/products/textwrangler
-https://wiki.gentoo.org/wiki/Nano/Basics_Guide
-->
+* [Nano Basics Guide](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
 
 Windows- PowerShell
 * [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
@@ -1720,6 +1715,9 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [Orgmode.org/features](http://orgmode.org/features.html)  
 * [.emacs.d](https://github.com/seshness/.emacs.d)  
 * [Lighttable](http://www.lighttable.com)  
+
+TextWrangler (Recommended for Hard to Edit Files)
+* [TextWrangler](http://www.barebones.com/products/textwrangler)
 
 Unix Shell (See also Unix)
 * [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
@@ -2696,11 +2694,7 @@ https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-
 https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
 https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
 -->
-<!--
-http://www.fontscape.com
 
-http://fontfamous.com/
--->
 Prototyping Software- Others
 * [Facebook Origami GitHub](https://github.com/facebook/origami)
 * [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
@@ -2717,6 +2711,13 @@ Domain Names
 * [Google Domains](https://domains.google.com)
 * [Namecheap](https://www.namecheap.com)
 * [iwantmyname](https://iwantmyname.com)
+
+Fonts (See also Google Apps)
+* [Font Famous](http://fontfamous.com)
+
+<!--
+* [Fontscape](http://www.fontscape.com)
+-->
 
 Quickie Mobile Apps
 * [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
