@@ -999,18 +999,6 @@ Client Server
 
 <!--
 https://en.wikipedia.org/wiki/Internet_service_provider
-https://en.wikipedia.org/wiki/Parsing
-
-* [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
-* [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
-* [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
-* [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network) 
-* [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
-
-https://en.wikipedia.org/wiki/HTTP_cookie
-
-HTTP protocol defaults to port 80 and HTTPS defaults to port 443
-https://technet.microsoft.com/en-us/library/bb962069.aspx
 -->
 
 Port and Host
@@ -1059,6 +1047,22 @@ HTTP
 * [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+<!--
+https://en.wikipedia.org/wiki/Parsing
+
+https://en.wikipedia.org/wiki/HTTP_cookie
+
+HTTP protocol defaults to port 80 and HTTPS defaults to port 443
+https://technet.microsoft.com/en-us/library/bb962069.aspx
+-->
+
+More
+* [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
+* [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network) 
+* [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
+* [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
+* [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
@@ -1883,30 +1887,6 @@ http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
 https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
-
-https://hubot.github.com/
-https://github.com/github/hubot
-
-https://github.com/blog/2112-delivering-octicons-with-svg
-https://octicons.github.com/
-https://github.com/github/octicons
-https://ghbtns.com/
-https://github.com/mdo/github-buttons
-https://github.com/blog/273-github-ribbons
-https://github.com/tholman/github-corners
-
-https://github.com/octokit/octokit.objc
-https://github.com/zmmbreeze/octocard 
-
-GitHub Monikers
-https://github.com/petethepig/github-ribbons-css
-https://github.com/heipei/github-commit-badge
-https://github.com/msparks/libgithub
-https://github.com/berkerpeksag/github-badge
-
-http://shields.io
-http://badges.github.io/gh-badges
-https://github.com/badges/badgerbadgerbadger
 
 http://ndpsoftware.com/git-cheatsheet.html
 
@@ -6713,6 +6693,11 @@ Customer Relationship Management
 * [Salesforce](https://www.salesforce.com)
 * [RelateIQ](https://www.relateiq.com) 
 * [Zendesk](https://www.zendesk.com)
+
+<!--
+http://newrelic.com
+http://kit.com
+-->
 
 Task Automation
 * [IFTTT](https://ifttt.com) 
