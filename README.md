@@ -2654,6 +2654,9 @@ Prototyping Software- Keynotopia
 * [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
 
 <!--
+http://fileinfo.com
+http://fileinfo.com/extension/kth
+
 https://balsamiq.com/products/mockups/
 http://keynotekungfu.com/
 http://www.axure.com/
@@ -2670,6 +2673,8 @@ http://keynotopia.com/keynote-and-powerpoint-mockup-templates/
 http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps/
 http://keynotopia.com/how-to-create-ui-animations-with-keynote/
 http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com/
+
+https://support.apple.com/en-us/HT202220
 
 Keynote for Mac: Keynote for Mac keyboard shortcuts
 https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US
@@ -6655,6 +6660,11 @@ Voice
 * [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
 * [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
 * [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
+
+<!--
+Add subtitles & closed captions
+https://support.google.com/youtube/answer/2734796?hl=en
+-->
 
 Photo Hosting
 * [Flickr](https://www.flickr.com) 
