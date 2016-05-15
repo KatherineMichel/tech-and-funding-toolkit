@@ -2485,6 +2485,7 @@ Documentation- General
 * [IT eBooks](http://it-ebooks.info)
 * [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Packt](https://www.packtpub.com) [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
@@ -2940,6 +2941,8 @@ Photos
 Email
 [MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
 [Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
+
+http://www.goodemailcopy.com
 
 [Really Good Email](http://reallygoodemails.com)  
 [Voice and Tone](http://voiceandtone.com) 
