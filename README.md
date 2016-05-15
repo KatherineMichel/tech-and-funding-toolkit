@@ -715,6 +715,9 @@ Mobile and Browser
 * [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
 * [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
 
+Browser Stats
+* [W3Counter](https://www.w3counter.com)
+
 Product/Service Directories
 * [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
 * [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
@@ -1117,6 +1120,11 @@ http://highscalability.com/numbers-everyone-should-know
 http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
+-->
+<!--
+http://docs.openstack.org/developer/nova/
+https://wiki.openstack.org/wiki/Horizon
+http://docs.openstack.org/developer/horizon/
 -->
 
 #### Encoding
@@ -1536,11 +1544,6 @@ http://gcc.gnu.org
 
 http://en.wikipedia.org/wiki/GNU_readline
 https://en.wikipedia.org/wiki/GNU_Hurd
--->
-<!--
-http://docs.openstack.org/developer/nova/
-https://wiki.openstack.org/wiki/Horizon
-http://docs.openstack.org/developer/horizon/
 -->
 
 #### Command Line and Shell
@@ -2604,7 +2607,10 @@ Prototyping
 Device Mockups
 * [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
 * [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
- 
+
+Device Popularity Stats
+* [Top 14 Screen Resolutions](http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604)
+
 <!--
 http://blog.invisionapp.com/large-desktop-experience-responsive-design/
 https://support.invisionapp.com/hc/en-us/articles/203009779-What-size-should-my-screens-be-
@@ -2613,8 +2619,6 @@ https://www.google.com/design/spec/layout/structure.html#structure-system-bars
 http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/12/desktopchart.jpeg
 
 http://screensiz.es
-https://www.w3counter.com
-http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604
 
 http://www.productchart.com/laptops
 http://www.devicespecifications.com/en
@@ -2652,13 +2656,17 @@ Prototyping Software- Keynotopia
 * [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
 * [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
 * [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
+* [Keynote Theme File Extension](http://fileinfo.com/extension/kth)
+
+Prototyping Software- Keynotopia- Tutorials
 * [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
 
+Prototyping Software- Keynote- Docs
+* [Keynote for Mac: Keynote for Mac keyboard shortcuts](https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US)
+* [Keynote for Mac: Add and edit master slides](https://support.apple.com/kb/PH16978?locale=en_US)
+* [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
+
 <!--
-https://balsamiq.com/products/mockups
-
-http://fileinfo.com/extension/kth
-
 http://keynotopia.com/#how
 http://keynotopia.com/guides
 http://keynotopia.com/bootstrap/
@@ -2666,22 +2674,13 @@ http://keynotopia.com/keynotopia-super-bundle
 http://keynotopia.com/keynote-mockups-templates
 http://keynotopia.com/web-prototyping
 
-http://keynotopia.com/tutorials/
+http://keynotopia.com/tutorials
 http://keynotopia.com/keynote-and-powerpoint-mockup-templates
 http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps
 http://keynotopia.com/how-to-create-ui-animations-with-keynote
 http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com
 
 https://support.apple.com/en-us/HT202220
-
-Keynote for Mac: Keynote for Mac keyboard shortcuts
-https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US
-
-Keynote for Mac: Add and edit master slides
-https://support.apple.com/kb/PH16978?locale=en_US
-
-Keynote for Mac: Animate objects
-https://support.apple.com/kb/ph16960?locale=en_US
 
 https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
 -->
@@ -2691,7 +2690,7 @@ Prototyping Software- Others
 * [Facebook Origami GitHub](https://github.com/facebook/origami)
 * [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
 * [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
-* [Balsamiq](https://balsamiq.com)
+* [Balsamiq](https://balsamiq.com) and [Balsamiq Mockups](https://balsamiq.com/products/mockups)
 * [Axure](http://www.axure.com)
 * See also Apple
 
@@ -2910,19 +2909,20 @@ Color Palettes
 [Paintstrap (Adobe Kuler/Colorlover)](http://paintstrap.com) 
 https://color.adobe.com
 
+https://en.wikipedia.org/wiki/Color
 http://en.wikipedia.org/wiki/List_of_colors
+https://en.wikipedia.org/wiki/Color_scheme
+
+https://en.wikipedia.org/wiki/Category:Paint_manufacturers
+http://www.benjaminmoore.com/en-us/for-your-home/paint-color-combinations-room-design-ideas
+http://media.benjaminmoore.com/WebServices/prod/ColorCardUpdate/USFreshPales/index.html
+http://paletton.com
+http://www.pantone-colours.com/
+http://www.pantone.com/fashion-home-color-guide
+
 http://coolors.co/intro
 https://github.com/Ghosh/uiGradients
 http://uigradients.com
-
-http://www.benjaminmoore.com/en-us/for-your-home/paint-color-combinations-room-design-ideas
-http://media.benjaminmoore.com/WebServices/prod/ColorCardUpdate/USFreshPales/index.html
-https://en.wikipedia.org/wiki/Category:Paint_manufacturers
-https://en.wikipedia.org/wiki/Color_scheme
-http://www.pantone-colours.com/
-http://paletton.com
-
-http://www.pantone.com/fashion-home-color-guide
 
 Color Theory Reference Sheet
 http://www.pinterest.com/pin/263601384413811357
