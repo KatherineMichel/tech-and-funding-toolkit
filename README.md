@@ -1530,7 +1530,6 @@ http://gcc.gnu.org
 http://en.wikipedia.org/wiki/GNU_readline
 https://en.wikipedia.org/wiki/GNU_Hurd
 -->
-
 <!--
 http://docs.openstack.org/developer/nova/
 https://wiki.openstack.org/wiki/Horizon
@@ -1542,11 +1541,12 @@ http://docs.openstack.org/developer/horizon/
 See also Bash and PowerShell<br>
 Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
 
-
-
 Unix
 * [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 
 Unix Shell and File system
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
@@ -1556,29 +1556,24 @@ Unix Shell and File system
 * [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 * [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
 
-<!--
-https://en.wikipedia.org/wiki/List_of_Unix_daemons
--->
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-* [Linux in a Nutshell](http://it-ebooks.info/book/403)  
+POSIX (Compatible with Unix)
+* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
 
 The Linux Documentation Project
 * [The Linux Documentation Project](http://www.tldp.org)
 * [Linux Documentation Project Guides](http://www.tldp.org/LDP)
 
+Linux- More Resources
+* [Linux Command](http://linuxcommand.org) 
+* [Linux in a Nutshell](http://it-ebooks.info/book/403)
+
 Linux- Ubuntu (Debian)
 * [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
 
 Ubuntu Terminal, Command Line, and Aptget
-* [Linux Command](http://linuxcommand.org)  
 * [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
 * [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
 * [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
-
-
 
 Command Line
 * [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
@@ -1606,56 +1601,6 @@ Mac OS X- Terminal, Bash (Unix)
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
 * [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
-
-<!--
-Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
--->
-<!--
-https://en.wikipedia.org/wiki/Tilde
-
-https://en.wikipedia.org/wiki/Option_key
-https://en.wikipedia.org/wiki/Meta_key
-
-https://en.wikipedia.org/wiki/Shell_builtin
-http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
-https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
-
-https://en.wikipedia.org/wiki/Chmod
-https://en.wikipedia.org/wiki/Chown
-
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
-
-https://en.wikipedia.org/wiki/Grep
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
-
-https://en.wikibooks.org/wiki/Grep
-https://en.wikibooks.org/wiki/AWK
-https://en.wikibooks.org/wiki/Sed
-
-http://pubs.opengroup.org/onlinepubs/9699919799/
-http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
-
-Bash Tutorials
-http://tldp.org/LDP/abs/html/sample-bashrc.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html
-http://www.tldp.org/LDP/abs/html
-http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
-
-http://linux.die.net/man/1/bash
-
-https://help.ubuntu.com/community/UsingTheTerminal
-http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
-
-https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
--->
-
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-<!--
-http://www.unix.com/man-page/posix/1posix/eval
--->
 
 Sha-Bang/Shebang
 * [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
@@ -1724,6 +1669,53 @@ Unix Shell (See also Unix)
 Integrated Development Environment
 * [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
 * [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_Unix_daemons
+
+Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
+
+https://en.wikipedia.org/wiki/Tilde
+
+https://en.wikipedia.org/wiki/Option_key
+https://en.wikipedia.org/wiki/Meta_key
+
+https://en.wikipedia.org/wiki/Shell_builtin
+http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
+https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
+
+https://en.wikipedia.org/wiki/Chmod
+https://en.wikipedia.org/wiki/Chown
+
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
+
+https://en.wikipedia.org/wiki/Grep
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
+
+https://en.wikibooks.org/wiki/Grep
+https://en.wikibooks.org/wiki/AWK
+https://en.wikibooks.org/wiki/Sed
+
+http://pubs.opengroup.org/onlinepubs/9699919799/
+http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
+
+Bash Tutorials
+http://tldp.org/LDP/abs/html/sample-bashrc.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html
+http://www.tldp.org/LDP/abs/html
+http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+
+http://linux.die.net/man/1/bash
+
+https://help.ubuntu.com/community/UsingTheTerminal
+http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
+
+https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
+-->
+<!--
+http://www.unix.com/man-page/posix/1posix/eval
+-->
 
 #### Keyboard Shortcuts
 
