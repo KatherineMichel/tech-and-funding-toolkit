@@ -4605,7 +4605,7 @@ Xamarin (Visual Studio Community Mobile Development Partner)
 * [Xamarin Developer](https://developer.xamarin.com) and [Xamarin Developer Guides](https://developer.xamarin.com/guides)
 
 Azure (See also Apache and SQL)
-* [Azure](https://azure.microsoft.com)
+* [Azure](https://azure.microsoft.com) and [Azure Pricing](https://azure.microsoft.com/en-us/pricing)
 
 Transact-SQL
 * [Transact-SQL Wikipedia](https://en.wikipedia.org/wiki/Transact-SQL)
