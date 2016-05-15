@@ -1302,14 +1302,12 @@ Apple- Support
 Mac Update
 * [Mac Update](http://www.macupdate.com)
 
+Mac Keyboard Shortcuts
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-gu/HT201236)
+* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
+
 <!--
 https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
-
-Mac Keyboard Shortcuts
-https://support.apple.com/en-gu/HT201236
-
-How to type accents, emoji, and symbols on your Mac
-https://support.apple.com/en-us/HT201586
 
 https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
@@ -1587,9 +1585,11 @@ Command Line
 * [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
 * [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
 * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
+* [Learn the Command Line the Hard Way Commands List](http://cli.learncodethehardway.org/book/ex1.html) 
 
 <!--
-Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
+Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists]
+(Command, then relevant variable)
 -->
 
 Shell
@@ -1619,6 +1619,8 @@ Sha-Bang/Shebang
 
 Notable Terminology
 * [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
+* [chmod Wikipedia](https://en.wikipedia.org/wiki/Chmod)
+* [chown Wikipedia](https://en.wikipedia.org/wiki/Chown)
 * [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
 
 cURL and Wget
@@ -1694,9 +1696,6 @@ https://en.wikipedia.org/wiki/Shell_builtin
 http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
 https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
 
-https://en.wikipedia.org/wiki/Chmod
-https://en.wikipedia.org/wiki/Chown
-
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
 
 https://en.wikipedia.org/wiki/Grep
@@ -1722,8 +1721,7 @@ https://help.ubuntu.com/community/UsingTheTerminal
 http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
 
 https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
--->
-<!--
+
 http://www.unix.com/man-page/posix/1posix/eval
 -->
 
@@ -2684,10 +2682,6 @@ Keynote for Mac: Animate objects
 https://support.apple.com/kb/ph16960?locale=en_US
 
 https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
-
-https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
 -->
 
 Prototyping Software- Others
@@ -2749,6 +2743,12 @@ Web General (See also JavaScript)
 * [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+
+<!--
+https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
+-->
 
 W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
@@ -2878,13 +2878,11 @@ Good, Basic Templates, Themes- Skel
 * [HTML5 UP](http://html5up.net)
 
 <!--
+[Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
+
 Design Resources- General
-[Design Inspiration](http://designspiration.net)  
 [IMCreator](http://www.imcreator.com/free)  
 http://www.imcreator.com/free/website-templates
-[MChen Design Resources](http://thedesignocean.com/design-resources)  
-
-[Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
 
 Color Palettes
 [Adaptive Backgrounds GitHub](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)  
