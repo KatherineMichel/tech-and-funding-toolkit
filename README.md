@@ -4032,10 +4032,9 @@ Django Girls (Python- Django)
 * [Django Girls Resources](https://github.com/DjangoGirls/resources) 
 * [Django Girls Store](https://store.djangogirls.org)
 
-<!--
-https://djangogirls.org/london
-https://djangogirls.org/kansascity
--->
+Django Girls- Cities
+* [Django Girls London](https://djangogirls.org/london)
+* [Django Girls Kansas City](https://djangogirls.org/kansascity)
 
 #### Python and Django Contributing
 
@@ -5097,7 +5096,6 @@ Heroku Multiple Environments and Site Staging
 <!--
 https://devcenter.heroku.com/articles/git
 https://devcenter.heroku.com/articles/renaming-apps
-https://devcenter.heroku.com/articles/multiple-environments
 https://devcenter.heroku.com/articles/fork-app
 https://devcenter.heroku.com/articles/git-repository-ssh-fingerprints
 
@@ -5122,7 +5120,6 @@ GitHub, Heroku, AWS SSH and SSH Keys
 (http://git-scm.com/book/ch3-2.html)
 (http://goo.gl/sQ6OI)
  
-http://devcenter.heroku.com/articles/multiple-environments
 http://git-scm.com/book/ch9-5.html
 -->
 
@@ -5140,7 +5137,6 @@ Heroku Git Integration
 
 <!--
 Heroku Button
-Multiple Environments
 -->
 
 Git Cloning Existing Heroku Applications
