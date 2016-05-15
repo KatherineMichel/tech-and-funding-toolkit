@@ -1143,14 +1143,11 @@ Char Sets
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
 
 Alt Codes- PC
-* [Alt Codes](http://usefulshortcuts.com/alt-codes)
+* [Alt Codes](http://usefulshortcuts.com/alt-codes) and [Alt Codes Cheat Sheet](http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf)
 
 <!--
-http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf
--->
-<!--
 https://www.w3.org/International/getting-started/characters
-https://www.w3.org/International/articles/definitions-characters/
+https://www.w3.org/International/articles/definitions-characters
 -->
 
 #### Operating System, Browser, Layout Engine
@@ -1306,6 +1303,14 @@ Mac Update
 * [Mac Update](http://www.macupdate.com)
 
 <!--
+https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
+
+Mac Keyboard Shortcuts
+https://support.apple.com/en-gu/HT201236
+
+How to type accents, emoji, and symbols on your Mac
+https://support.apple.com/en-us/HT201586
+
 https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
@@ -1583,6 +1588,10 @@ Command Line
 * [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
 * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
 
+<!--
+Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
+-->
+
 Shell
 * [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
 * [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
@@ -1675,8 +1684,6 @@ Integrated Development Environment
 
 <!--
 https://en.wikipedia.org/wiki/List_of_Unix_daemons
-
-Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists](http://cli.learncodethehardway.org/book/ex1.html), (Command, then relevant variable)
 
 https://en.wikipedia.org/wiki/Tilde
 
