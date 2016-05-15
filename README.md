@@ -967,11 +967,9 @@ Computer Classes and Sizes
 * [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
 * [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
 
-<!--
-Smartphones
+Smartphones (See also Mobile)
 * [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
 * [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
--->
 
 Microprocessor, CPU and Instruction Set
 * [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
@@ -1019,13 +1017,13 @@ Domain Name
 * [Domain Name System Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
 * [Top Level Domain Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
 * [CNAME Record Wikipedia](https://en.wikipedia.org/wiki/CNAME_record)
+* [Root Name Server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
 
 <!--
-https://en.wikipedia.org/wiki/Root_name_server
-
 http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
 http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
 http://en.wikipedia.org/wiki/Domain_registration#History
+
 https://en.wikipedia.org/wiki/Round-robin_DNS
 Least Connections
 -->
@@ -1062,6 +1060,9 @@ More
 * [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
 * [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
 * [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
+
+File Types and Extensions
+* [File Types and Extensions](http://fileinfo.com)
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
@@ -1133,8 +1134,6 @@ Bytcote versus Unicode
 * [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
 
 <!--
-http://keycode.info
-
 http://usefulshortcuts.com/alt-codes
 http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf
 
@@ -1273,6 +1272,8 @@ Apple Presentation and Design (See also Keynotopia)
 * [Keynote](https://www.apple.com/mac/keynote)
 * [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com)
 * [Sketch](https://www.sketchapp.com)
+* [Keynotopia](http://keynotopia.com)
+* [Keynote Kung-Fu](http://keynotekungfu.com)
 
 Apple MacBook Air
 * [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
@@ -2652,25 +2653,22 @@ Prototyping Software- Keynotopia
 * [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
 
 <!--
-http://fileinfo.com
-http://fileinfo.com/extension/kth
+https://balsamiq.com/products/mockups
 
-https://balsamiq.com/products/mockups/
-http://keynotekungfu.com/
-http://www.axure.com/
+http://fileinfo.com/extension/kth
 
 http://keynotopia.com/#how
 http://keynotopia.com/guides
 http://keynotopia.com/bootstrap/
-http://keynotopia.com/keynotopia-super-bundle/
+http://keynotopia.com/keynotopia-super-bundle
 http://keynotopia.com/keynote-mockups-templates
 http://keynotopia.com/web-prototyping
 
 http://keynotopia.com/tutorials/
-http://keynotopia.com/keynote-and-powerpoint-mockup-templates/
-http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps/
-http://keynotopia.com/how-to-create-ui-animations-with-keynote/
-http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com/
+http://keynotopia.com/keynote-and-powerpoint-mockup-templates
+http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps
+http://keynotopia.com/how-to-create-ui-animations-with-keynote
+http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com
 
 https://support.apple.com/en-us/HT202220
 
@@ -2691,9 +2689,12 @@ https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
 -->
 
 Prototyping Software- Others
+* [Keynote Kung-Fu](http://keynotekungfu.com)
 * [Facebook Origami GitHub](https://github.com/facebook/origami)
 * [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
 * [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
+* [Balsamiq](https://balsamiq.com)
+* [Axure](http://www.axure.com)
 * See also Apple
 
 Quickie Websites
@@ -2863,18 +2864,16 @@ Foundation
 
 Good, Basic Templates, Themes
 * [Template Stash](http://www.templatestash.com)
-* [Templated](http://templated.co)
-* [HTML5 UP](http://html5up.net) 
 * [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
 * [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
 * [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 * [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
 
-<!--
-https://github.com/n33/skel
-https://github.com/n33/skel/blob/master/docs/skel.md
--->
+Good, Basic Templates, Themes- Skel
+* [Skel GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
+* [Templated](http://templated.co)
+* [HTML5 UP](http://html5up.net)
 
 Kickstarters
 * [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
@@ -3094,6 +3093,9 @@ JavaScript Tutorials- Mozilla
 * [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+JavaScript Event Keycodes
+* [JavaScript Event Keycodes](http://keycode.info)
 
 CommonJS
 * [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
