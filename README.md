@@ -1133,14 +1133,6 @@ Bytcote versus Unicode
 * [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
 * [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
 
-<!--
-http://usefulshortcuts.com/alt-codes
-http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf
-
-https://www.w3.org/International/getting-started/characters
-https://www.w3.org/International/articles/definitions-characters/
--->
-
 HTML5 Charactersets
 * [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
 * [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
@@ -1149,6 +1141,17 @@ HTML5 Charactersets
 Char Sets
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
 * [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+
+Alt Codes- PC
+* [Alt Codes](http://usefulshortcuts.com/alt-codes)
+
+<!--
+http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf
+-->
+<!--
+https://www.w3.org/International/getting-started/characters
+https://www.w3.org/International/articles/definitions-characters/
+-->
 
 #### Operating System, Browser, Layout Engine
 
