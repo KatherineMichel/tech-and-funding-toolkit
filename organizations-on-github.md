@@ -122,6 +122,7 @@ Not-for-Profit
 * [edX](https://github.com/edx)  
 * [Khan Academy](https://github.com/Khan)
 * [O'Reilly Media](https://github.com/oreillymedia)
+* [Pluralsight](https://github.com/pluralsight)
 * [Udacity](https://github.com/udacity)  
 * [W3Schools](https://github.com/w3schools) 
 
