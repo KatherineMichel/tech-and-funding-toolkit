@@ -2873,7 +2873,7 @@ Good, Basic Templates, Themes
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
 
 Good, Basic Templates, Themes- Skel
-* [Skel GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
+* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
 * [Templated](http://templated.co)
 * [HTML5 UP](http://html5up.net)
 
@@ -2884,16 +2884,44 @@ Design Resources- General
 http://www.imcreator.com/free/website-templates
 [MChen Design Resources](http://thedesignocean.com/design-resources)  
 
-[Skeljs by HTML5UP Creator GitHub](https://github.com/n33/skelJS) 
-
 [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
 
-Email
-[MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
-[Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
+Color Palettes
+[Adaptive Backgrounds GitHub](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)  
+[Bootflat (Example Website) GitHub](https://github.com/bootflat/bootflat.github.io)   
+[Bootstrap UI Kits GitHub](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits)  
+[CSS3 Patterns](http://lea.verou.me/css3patterns)  
+[Color Combos](http://www.colorcombos.com/combolibrary.html)  
+[Color Scheme Designer](http://colorschemedesigner.com)  
+[Color Thief Designer](https://github.com/lokesh/color-thief)  
+[Colors Palette](http://clrs.cc)  
+[Flat UI (Design Modo) GitHub](https://github.com/designmodo/Flat-UI)  
+[Flat UI Colors](http://flatuicolors.com)  
+[Flat UI Kit GitHub](https://github.com/Grouper/FlatUIKit)  
+[Geopattern GitHub](https://github.com/btmills/geopattern)  
+[HSL Color Picker](http://hslpicker.com)  
+[Solarized](http://ethanschoonover.com/solarized)  
+[Random Color GitHub](https://github.com/davidmerfield/randomColor)  
+[Solarized Lab Color Space Theory Wikipedia](http://en.wikipedia.org/wiki/Lab_color_space)  
+[Subtle Patterns GitHub](https://github.com/subtlepatterns/SubtlePatterns)  
+[The Pattern Library](http://thepatternlibrary.com)  
+[Trianglify GitHub](https://github.com/qrohlf/trianglify) 
 
-[Really Good Email](http://reallygoodemails.com)  
-[Voice and Tone](http://voiceandtone.com) 
+[Paintstrap (Adobe Kuler/Colorlover)](http://paintstrap.com) 
+https://color.adobe.com
+
+http://en.wikipedia.org/wiki/List_of_colors
+http://coolors.co/intro
+https://github.com/Ghosh/uiGradients
+http://uigradients.com
+
+http://www.pantone.com/fashion-home-color-guide
+
+Color Theory Reference Sheet
+http://www.pinterest.com/pin/263601384413811357
+https://www.linkedin.com/pulse/article/20141011060854-71962-how-colors-matter-more-than-size-and-visuals
+
+https://designschool.canva.com/blog/branding-templates
 
 https://en.wikipedia.org/wiki/Aspect_ratio_(image)
 [Raster Graphics (pixels) Wikipedia](http://en.wikipedia.org/wiki/Raster_graphics)  
@@ -2911,39 +2939,12 @@ Photos
 [Super Famous](http://superfamous.com)  
 [Unsplash](http://unsplash.com)
 
-Color Palettes
-[Adaptive Backgrounds GitHub](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)  
-[Bootflat (Example Website) GitHub](https://github.com/bootflat/bootflat.github.io)   
-[Bootstrap UI Kits GitHub](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits)  
-[CSS3 Patterns](http://lea.verou.me/css3patterns)  
-[Color Combos](http://www.colorcombos.com/combolibrary.html)  
-[Color Scheme Designer](http://colorschemedesigner.com)  
-[Color Thief Designer](https://github.com/lokesh/color-thief)  
-[Colors Palette](http://clrs.cc)  
-[Flat UI (Design Modo) GitHub](https://github.com/designmodo/Flat-UI)  
-[Flat UI Colors](http://flatuicolors.com)  
-[Flat UI Kit GitHub](https://github.com/Grouper/FlatUIKit)  
-[Geopattern GitHub](https://github.com/btmills/geopattern)  
-[HSL Color Picker](http://hslpicker.com)  
-[Paintstrap (Adobe Kuler/Colorlover)](http://paintstrap.com)  
-[Solarized](http://ethanschoonover.com/solarized)  
-[Random Color GitHub](https://github.com/davidmerfield/randomColor)  
-[Solarized Lab Color Space Theory Wikipedia](http://en.wikipedia.org/wiki/Lab_color_space)  
-[Subtle Patterns GitHub](https://github.com/subtlepatterns/SubtlePatterns)  
-[The Pattern Library](http://thepatternlibrary.com)  
-[Trianglify GitHub](https://github.com/qrohlf/trianglify) 
+Email
+[MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
+[Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
 
-http://en.wikipedia.org/wiki/List_of_colors
-http://coolors.co/intro
-https://github.com/Ghosh/uiGradients
-http://uigradients.com
-Color Theory Reference Sheet
-http://www.pinterest.com/pin/263601384413811357
-https://www.linkedin.com/pulse/article/20141011060854-71962-how-colors-matter-more-than-size-and-visuals
-
-http://www.e-corpus.org/notices/102464/gallery
-http://www.thisiscolossal.com/2014/05/color-book
-http://www.pantone.com/fashion-home-color-guide
+[Really Good Email](http://reallygoodemails.com)  
+[Voice and Tone](http://voiceandtone.com) 
 -->
 
 Kickstarters
