@@ -2914,6 +2914,13 @@ http://coolors.co/intro
 https://github.com/Ghosh/uiGradients
 http://uigradients.com
 
+http://www.benjaminmoore.com/en-us/for-your-home/paint-color-combinations-room-design-ideas
+http://media.benjaminmoore.com/WebServices/prod/ColorCardUpdate/USFreshPales/index.html
+https://en.wikipedia.org/wiki/Category:Paint_manufacturers
+https://en.wikipedia.org/wiki/Color_scheme
+http://www.pantone-colours.com/
+http://paletton.com
+
 http://www.pantone.com/fashion-home-color-guide
 
 Color Theory Reference Sheet
@@ -2936,7 +2943,7 @@ Photos
 [New Old Stock](http://nos.twnsnd.co)  
 [PicJumbo](http://picjumbo.com)  
 [Super Famous](http://superfamous.com)  
-[Unsplash](http://unsplash.com)
+[Unsplash](http://unsplash.com) and [Unsplash Collections](https://unsplash.com/collections)
 
 Email
 [MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
