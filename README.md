@@ -4334,6 +4334,10 @@ Python- Django- Random SECRET_KEY
 * [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
 * [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
 
+<!--
+https://pypi.python.org/pypi/python-decouple
+-->
+
 Python- Django- BCrypt (Not just for Django)
 * [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
 * [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
