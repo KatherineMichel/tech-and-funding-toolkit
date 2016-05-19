@@ -1488,6 +1488,7 @@ Chrome Extensions
 * [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
 * [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 * [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
 
 <!--
@@ -1618,6 +1619,12 @@ Mac OS X- Terminal, Bash (Unix)
 * [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
+<!--
+https://en.wikipedia.org/wiki/Shell_builtin
+http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
+https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
+-->
+
 Sha-Bang/Shebang
 * [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 
@@ -1696,13 +1703,8 @@ https://en.wikipedia.org/wiki/Tilde
 https://en.wikipedia.org/wiki/Option_key
 https://en.wikipedia.org/wiki/Meta_key
 
-https://en.wikipedia.org/wiki/Shell_builtin
-http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
-https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
-
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
 
-https://en.wikipedia.org/wiki/Grep
 https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
 
 https://en.wikibooks.org/wiki/Grep
@@ -4328,15 +4330,11 @@ Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 
 Python- Django- Environmental Variables
 * os.getenv and os.environ.get
-* [Python Decouple (Example: Bootcamp) GitHub](https://github.com/henriquebastos/python-decouple)
+* [Python Decouple (Example: Bootcamp) GitHub](https://github.com/henriquebastos/python-decouple) and [Python Decouple PyPi](https://pypi.python.org/pypi/python-decouple)
 
 Python- Django- Random SECRET_KEY
 * [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
 * [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
-
-<!--
-https://pypi.python.org/pypi/python-decouple
--->
 
 Python- Django- BCrypt (Not just for Django)
 * [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
@@ -4537,8 +4535,7 @@ Python- Django- Cmatrix
 
 <!--
 https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
--->
-<!--
+
 * [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
 
 JavaScript- Microsoft
@@ -4862,6 +4859,12 @@ https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click
 https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
 https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
 https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
+
+https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
 -->
 
 Distributed and Parallel Computing
@@ -5124,18 +5127,6 @@ Digital Ocean (VPS)
 * [Digital Ocean Community](https://www.digitalocean.com/community)  
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
-<!--
-https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
-https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
-https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
--->
-
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
 * [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
@@ -5183,7 +5174,6 @@ Heroku Multiple Environments and Site Staging
 <!--
 https://help.github.com/articles/caching-your-github-password-in-git/
 
-https://devcenter.heroku.com/articles/git
 https://devcenter.heroku.com/articles/renaming-apps
 https://devcenter.heroku.com/articles/fork-app
 https://devcenter.heroku.com/articles/git-repository-ssh-fingerprints
