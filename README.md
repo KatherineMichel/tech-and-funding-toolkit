@@ -2544,9 +2544,14 @@ KDE
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 
-Stack Overflow Developer Survey
+Developer Surveys
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
 * [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+* [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
+
+<!--
+https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd
+-->
 
 #### Programming Language Style Guides
 
@@ -4016,6 +4021,11 @@ Python- Users and Members
 * [Python Members](https://www.python.org/psf/members)
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
+<!--
+https://wiki.python.org/moin/FrontPage
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
+-->
+
 Python Mentors
 * [Python Mentors](http://pythonmentors.com)
 
@@ -4072,6 +4082,8 @@ http://www.apple.com/mac/imovie
 
 http://masteringdjango.com/django-book
 https://github.com/big-nige/djangobook-Updated-to-1.8
+
+https://django-unleashed.com/
 -->
 
 PyLadies
@@ -4318,8 +4330,13 @@ Automated Dependency Management
 #### Python and Django Useful Tools
 
 Python- Django- Debug Toolbar
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org)  
 * [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
+
+<!--
+http://django-debug-toolbar.readthedocs.io/en/1.4/installation.html
+https://django-extensions.readthedocs.io/en/latest/installation_instructions.html
+-->
 
 Python- Django- Migrations
 * [South](http://south.aeracode.org)  
@@ -4601,6 +4618,17 @@ http://www.writethedocs.org/conf/na/2016/cfp/
 
 http://scipy2016.scipy.org/ehome/146062/332968/?&&
 http://scipy2016.scipy.org
+
+
+
+http://2016.pyconuk.org/diversity-accessibility-inclusion/
+https://github.com/PanPacificPyLadiesConf/PPPCwebsite
+https://github.com/PyconUK/2016.pyconuk.org
+https://us.pycon.org/2016/schedule/presentation/2266/
+https://us.pycon.org/2016/schedule/talks/
+https://2016.djangocon.us/reviewerguidelines/
+https://djangogirls.org/pyconuk2016/
+http://il.pycon.org/2016/about/speakers.html
 -->
 
 #### .NET, ASP, Visual Studio, WebMatrix
