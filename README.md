@@ -3956,6 +3956,13 @@ Python- Django- Resources
 
 #### Python and Django Contributing
 
+Python- Users and Members
+* [Python Members](https://www.python.org/psf/members)
+* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+
+Python Mentors
+* [Python Mentors](http://pythonmentors.com)
+
 Python- Django- Roadmaps
 * [Django Enhancement Proposals](https://github.com/django/deps)
 * [Django 1.10 Roadmap](https://code.djangoproject.com/wiki/Version1.10Roadmap) 
@@ -3976,160 +3983,6 @@ Python- Django- Forums and Lists
 Python- Django- Slack
 * [Django Developers](https://django-developers.herokuapp.com)
 
-<!--
-https://www.linkedin.com/job/home
-
-http://lanyrd.com/search/?context=future&q=django&type=conference
--->
-<!--
-* [Pinax Slack](http://slack.pinaxproject.com)
-* [PyLadies](http://slackin.pyladies.com) and [PyLadies Remote](https://tlk.io/pyladiesremote)
-
-Python- Django- Sprints: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
-https://docs.python.org/2/reference/grammar.html
-https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
--->
-
-<!--
-http://awesome-python.com
-https://code.djangoproject.com/wiki/DjangoResources
-
-https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
-
-https://docs.python.org/3.5/library/stdtypes.html
-
-https://docs.python.org/devguide
-
-Project Structure
-http://docs.python-guide.org/en/latest/writing/structure
-
-http://docs.python-guide.org/en/latest/starting/install/osx/
-
-http://python-packaging-user-guide.readthedocs.org/en/latest/installing
-
-https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
-https://devcenter.heroku.com/articles/django-assets
-https://www.npmjs.com/package/generator-django
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
-https://docs.python.org/2/howto/descriptor.html
-https://docs.python.org/2/tutorial/errors.html
-
-http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
-https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
-https://docs.djangoproject.com/en/1.9/ref/models/expressions/
-https://docs.djangoproject.com/en/1.9/contents/
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/coding-style/
-https://docs.djangoproject.com/en/1.9/topics/forms/modelforms/
-https://docs.djangoproject.com/es/1.9/ref/class-based-views/flattened-index/
-https://docs.djangoproject.com/es/1.9/ref/django-admin/#testserver
-https://docs.djangoproject.com/en/1.9/ref/settings/
-https://docs.djangoproject.com/en/1.9/ref/models/instances/#extra-instance-methods
-https://docs.djangoproject.com/en/1.9/ref/models/instances/
-https://docs.djangoproject.com/en/1.9/ref/models/querysets/#field-lookups
-https://docs.djangoproject.com/es/1.9/topics/db/queries/
-https://docs.djangoproject.com/en/1.9/ref/settings/
-https://docs.djangoproject.com/en/1.9/topics/http/urls/
-https://docs.djangoproject.com/en/1.9/ref/templates/api/
-
-https://docs.djangoproject.com/en/1.8/topics/email
-
-https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
-
-2.12 Writing your first patch for Django
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
-https://docs.python.org/3/library/unittest.html
-http://www.diveintopython.net/unit_testing/
-
-https://github.com/django/code.djangoproject.com
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
-
-http://www.kelproject.com/
-https://github.com/kelproject
-https://github.com/kelproject/kel-docs
-
-https://github.com/eldarion/
-https://github.com/pinax/pinax-webanalytics
-https://pinax-blog.readthedocs.io/en/latest/
-http://pinaxproject.com/pinax
-http://pinaxproject.com/pinax/quick_start
-http://pinaxproject.com/pinax/apps_list
-https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
-https://github.com/pinax/pinax-theme-bootstrap
-https://github.com/pinax/django-user-accounts
-https://github.com/pinax/django-forms-bootstrap
-http://django-user-accounts.readthedocs.org/en/latest
-
-http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
-
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-
-https://github.com/kennethreitz/conda-buildpack
-http://conda.pydata.org/miniconda.html
-https://github.com/docopt/docopt
-
-https://github.com/kivy/kivy-website
-https://github.com/kivy/python-for-android
-
-https://github.com/andrewgodwin/daphne
-https://github.com/andrewgodwin/channels-examples
-https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
-https://github.com/andrewgodwin/channels
-http://channels.readthedocs.org/en/latest
-
-https://github.com/pypa/warehouse
-
-https://github.com/divio/django-mailchimp
-http://django-mailer2.readthedocs.org/en/latest
-
-https://en.wikipedia.org/wiki/ReStructuredText
-
-http://masteringdjango.com/django-book
-https://github.com/big-nige/djangobook-Updated-to-1.8
-http://www.diveintopython.net/regular_expressions/
-
-https://twitter.com/CodingIsForGirl/status/695712398024511490
-https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
-https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-http://www.apple.com/mac/imovie/
-
-Python Guides
-https://github.com/pyladies/pyladies
-https://github.com/python/pycon-code-of-conduct
-https://github.com/socalpyladies/socalpyladies.github.io
-http://socalpyladies.github.io/
-https://github.com/DutchDjangoAssociation/djangovereniging.nl
-http://london.pydata.org
-
-Pythonista
-
-jacobian-archive
-
-https://github.com/amontalenti/elements-of-python-style
-
-https://github.com/python/community-starter-kit
-https://www.djangoproject.com/fundraising/campaign/django-fellowship
-
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
-* [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
-Mastering Regular Expressions Jeffrey Friedl
-https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-https://docs.python.org/3.5/library/re.html
-http://regex.info/book.html
-
-RegEx
-* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
--->
-
 #### Python and Django Support Groups, Books and Tutorials
 
 <!--
@@ -4137,21 +3990,12 @@ https://docs.python.org/3/library/xml.dom.html
 
 https://learnxinyminutes.com/docs/pythonstatcomp/
 
-Two Scoops of Django
-https://hellowebapp.com/
-
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
-Python- Users and Members
-* [Python Members](https://www.python.org/psf/members)
-* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
-
-Python Mentors
-* [Python Mentors](http://pythonmentors.com)
-
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), and [PyLadies Remote](https://tlk.io/pyladiesremote)
 -->
+
+PyLadies
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), and [PyLadies Remote](https://tlk.io/pyladiesremote)
 
 Django Girls Co-Founders
 * [Ola Sendecka](http://blog.sendecka.me)
@@ -4173,6 +4017,12 @@ Django Girls (Python- Django)
 Django Girls- Cities
 * [Django Girls London](https://djangogirls.org/london)
 * [Django Girls Kansas City](https://djangogirls.org/kansascity)
+
+Hello Web App
+* [Hello Web App](https://hellowebapp.com)
+
+Two Scoops of Django
+* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
 
 Python- Books and Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net)  
@@ -4465,8 +4315,159 @@ Python- Django- Everything
 Python- Django- Cmatrix
 * [Cmatrix](http://www.asty.org/cmatrix) and [Cmatrix Homebrew](http://brewformulas.org/Cmatrix)
 
+<!--
+https://www.linkedin.com/job/home
 
+http://lanyrd.com/search/?context=future&q=django&type=conference
+-->
+<!--
+* [Pinax Slack](http://slack.pinaxproject.com)
+* [PyLadies](http://slackin.pyladies.com) and [PyLadies Remote](https://tlk.io/pyladiesremote)
 
+Python- Django- Sprints: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
+https://docs.python.org/2/reference/grammar.html
+https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
+-->
+
+<!--
+http://awesome-python.com
+https://code.djangoproject.com/wiki/DjangoResources
+
+https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+
+https://docs.python.org/3.5/library/stdtypes.html
+
+https://docs.python.org/devguide
+
+Project Structure
+http://docs.python-guide.org/en/latest/writing/structure
+
+http://docs.python-guide.org/en/latest/starting/install/osx/
+
+http://python-packaging-user-guide.readthedocs.org/en/latest/installing
+
+https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
+https://devcenter.heroku.com/articles/django-assets
+https://www.npmjs.com/package/generator-django
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+https://docs.python.org/2/howto/descriptor.html
+https://docs.python.org/2/tutorial/errors.html
+
+http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
+https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
+https://docs.djangoproject.com/en/1.9/ref/models/expressions/
+https://docs.djangoproject.com/en/1.9/contents/
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/coding-style/
+https://docs.djangoproject.com/en/1.9/topics/forms/modelforms/
+https://docs.djangoproject.com/es/1.9/ref/class-based-views/flattened-index/
+https://docs.djangoproject.com/es/1.9/ref/django-admin/#testserver
+https://docs.djangoproject.com/en/1.9/ref/settings/
+https://docs.djangoproject.com/en/1.9/ref/models/instances/#extra-instance-methods
+https://docs.djangoproject.com/en/1.9/ref/models/instances/
+https://docs.djangoproject.com/en/1.9/ref/models/querysets/#field-lookups
+https://docs.djangoproject.com/es/1.9/topics/db/queries/
+https://docs.djangoproject.com/en/1.9/ref/settings/
+https://docs.djangoproject.com/en/1.9/topics/http/urls/
+https://docs.djangoproject.com/en/1.9/ref/templates/api/
+
+https://docs.djangoproject.com/en/1.8/topics/email
+
+https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
+
+2.12 Writing your first patch for Django
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
+https://docs.python.org/3/library/unittest.html
+http://www.diveintopython.net/unit_testing/
+
+https://github.com/django/code.djangoproject.com
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+
+http://www.kelproject.com/
+https://github.com/kelproject
+https://github.com/kelproject/kel-docs
+
+https://github.com/eldarion/
+https://github.com/pinax/pinax-webanalytics
+https://pinax-blog.readthedocs.io/en/latest/
+http://pinaxproject.com/pinax
+http://pinaxproject.com/pinax/quick_start
+http://pinaxproject.com/pinax/apps_list
+https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
+https://github.com/pinax/pinax-theme-bootstrap
+https://github.com/pinax/django-user-accounts
+https://github.com/pinax/django-forms-bootstrap
+http://django-user-accounts.readthedocs.org/en/latest
+
+http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
+
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+
+https://github.com/kennethreitz/conda-buildpack
+http://conda.pydata.org/miniconda.html
+https://github.com/docopt/docopt
+
+https://github.com/kivy/kivy-website
+https://github.com/kivy/python-for-android
+
+https://github.com/andrewgodwin/daphne
+https://github.com/andrewgodwin/channels-examples
+https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+https://github.com/andrewgodwin/channels
+http://channels.readthedocs.org/en/latest
+
+https://github.com/pypa/warehouse
+
+https://github.com/divio/django-mailchimp
+http://django-mailer2.readthedocs.org/en/latest
+
+https://en.wikipedia.org/wiki/ReStructuredText
+
+http://masteringdjango.com/django-book
+https://github.com/big-nige/djangobook-Updated-to-1.8
+http://www.diveintopython.net/regular_expressions/
+
+https://twitter.com/CodingIsForGirl/status/695712398024511490
+https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
+https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
+http://www.apple.com/mac/imovie/
+
+Python Guides
+https://github.com/pyladies/pyladies
+https://github.com/python/pycon-code-of-conduct
+https://github.com/socalpyladies/socalpyladies.github.io
+http://socalpyladies.github.io/
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+http://london.pydata.org
+
+Pythonista
+
+jacobian-archive
+
+https://github.com/amontalenti/elements-of-python-style
+
+https://github.com/python/community-starter-kit
+https://www.djangoproject.com/fundraising/campaign/django-fellowship
+
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
+* [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+Mastering Regular Expressions Jeffrey Friedl
+https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
+https://docs.python.org/3.5/library/re.html
+http://regex.info/book.html
+
+RegEx
+* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
+* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
+-->
 
 #### Python and Django Conferences and Mentors 
 
