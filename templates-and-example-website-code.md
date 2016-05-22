@@ -72,11 +72,11 @@ Python- Django- Pinax
 * [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
 * [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
 * [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
+* [Pinax Blog GitHub](https://github.com/pinax/pinax-blog) 
 * [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
 * [Pinax Symposion GitHub](https://github.com/pinax/symposion)  
 
 <!--
-https://github.com/pinax/pinax-blog
 https://github.com/pinax/pinax-starter-projects/tree/static
 https://github.com/pinax/pinax-starter-projects/tree/team-wiki
 -->
@@ -103,17 +103,6 @@ Python- Django Under the Hood
 Python- Django- Django Birthday
 * [Django Birthday GitHub](https://github.com/jacobian/djangobirthday)
 
-<!--
-https://github.com/djangounderthehood/duh-web/blob/master/duh/settings.py
-https://github.com/jazzband/website
-
-https://github.com/trailhawks/lawrencetrailhawks/tree/master/templates/hawkhundred.com
-https://trailhawks.com/
-https://www.hawkhundred.com/
-
-Lanyard
--->
-
 Template Examples
 * [Django Website Templates](https://github.com/django/djangoproject.com/tree/master/djangoproject/templates)
 * [Python Website Templates](https://github.com/python/pythondotorg/tree/master/templates)
@@ -138,9 +127,13 @@ Python- Django- Wharton
 * [Wharton Django Base Theme GitHub](https://github.com/wharton/django-base-theme)
 
 Python- Django- Lawrence Trail Hawks
-* [Lawrence Trail Hawks](https://trailhawks.com)
+* [Lawrence Trail Hawks](https://trailhawks.com) and [Lawrence Trail Hawks GitHub](https://github.com/trailhawks/lawrencetrailhawks)
+* [The Hawk Hundred](https://www.hawkhundred.com) and [The Hawk Hundred GitHub](https://github.com/trailhawks/lawrencetrailhawks/tree/master/templates/hawkhundred.com)
 
 <!--
+Flask
+https://github.com/jazzband/website
+
 https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
 -->
 
