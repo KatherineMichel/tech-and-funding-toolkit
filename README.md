@@ -2257,6 +2257,7 @@ https://opensource.com/how-submit-article
 http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
 
 http://blog.djangogirls.org
+http://blog.djangogirls.org/submit
 http://blog.djangogirls.org/post/137825610883/about-your-django-story
 https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
 http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
@@ -4045,35 +4046,33 @@ Python- Django- Slack
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
-http://masteringdjango.com/django-book
-https://github.com/big-nige/djangobook-Updated-to-1.8
-
-https://twitter.com/CodingIsForGirl/status/695712398024511490
-
-Make movies the same way Ola makes Coding is for Girls
-https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
-https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-http://www.apple.com/mac/imovie
+https://docs.djangoproject.com/en/1.9/intro/tutorial01
 
 https://djangogirls.org/events/
-http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
-http://blog.djangogirls.org/submit
-https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
-http://remote.pyladies.com/resources
+http://tutorial.djangogirls.org/en/intro_to_command_line/
+http://tutorial.djangogirls.org/en/python_introduction/
+https://gitter.im/DjangoGirls/tutorial
 
+https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
+http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
+
+https://github.com/simpleisbetterthancomplex/simple-academy
+
+http://remote.pyladies.com/resources
 https://github.com/pyladies/pyladies
 https://github.com/socalpyladies/socalpyladies.github.io
 http://socalpyladies.github.io/
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
 
+Make movies the same way Ola makes Coding is for Girls
+https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
+https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
+http://www.apple.com/mac/imovie
 
-https://github.com/simpleisbetterthancomplex/simple-academy
-https://gitter.im/DjangoGirls/tutorial
-http://tutorial.djangogirls.org/en/intro_to_command_line/
-http://tutorial.djangogirls.org/en/python_introduction/
-
-https://docs.djangoproject.com/en/1.9/intro/tutorial01/
+http://masteringdjango.com/django-book
+https://github.com/big-nige/djangobook-Updated-to-1.8
 -->
 
 PyLadies
@@ -4573,13 +4572,6 @@ https://us.pycon.org/2016/schedule/presentation/2082/
 https://us.pycon.org/2016/schedule/
 https://us.pycon.org/2016/events/keynotes/
 
-https://2016.djangocon.eu/team/
-https://2016.djangocon.eu/schedule/#workshops
-https://2016.djangocon.eu/speakers/schedule
-https://2016.djangocon.eu/venue/#workshops
-https://2016.djangocon.eu/cfp/workshop
-https://2016.djangocon.eu/faq
-
 https://github.com/PyCon
 https://github.com/PyCon/pycon
 https://github.com/PyCon/2015/wiki#tentative-dates
@@ -4597,14 +4589,20 @@ https://us.pycon.org/2016/schedule/conference.json
 https://github.com/PyCon/pycon
 https://pycon.readthedocs.org/en/latest
 
+http://www.pydanny.com/beginners-guide-pycon-2014.html
+https://djangogirls.org/pycon/
+
 https://symposion.readthedocs.org/en/latest/
 https://github.com/eldarion/djangocon.us
 https://ky395.us2.gondor.io
 http://eldarion.com
 
-http://www.pydanny.com/beginners-guide-pycon-2014.html
-
-https://djangogirls.org/pycon/
+https://2016.djangocon.eu/team/
+https://2016.djangocon.eu/schedule/#workshops
+https://2016.djangocon.eu/speakers/schedule
+https://2016.djangocon.eu/venue/#workshops
+https://2016.djangocon.eu/cfp/workshop
+https://2016.djangocon.eu/faq
 
 https://ep2016.europython.eu/en/call-for-proposals/
 
