@@ -76,15 +76,19 @@ Table of Content
 * [Ruby and Jekyll](#ruby-and-jekyll)
 * [PHP](#php)
 * [Python and Django Toolkit](#python-and-django-toolkit)
-  * [Python and Django General](#python-and-django-general)
+  * [Python General](#python-general)
+  * [Python and Django Users, Jobs, News](#python-and-django-users-jobs-news)
+  * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)
+  * [Django General](#django-general)
+  * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
+  * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
+  * [Python and Django Deployment](#python-and-django-deployment)
+  * [Python and Django Useful Tools](#python-and-django-useful-tools)
+  * [Python and Django Unique](#python-and-django-unique)
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
-  * [Python and Django Contributing](#python-and-django-contributing)
-  * [Python and Django Deployment](#python-and-django-deployment)
-  * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
-  * [Python and Django Useful Tools](#python-and-django-useful-tools)
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
@@ -1492,13 +1496,13 @@ https://developers.google.com/maps/documentation/javascript
 -->
 
 Chrome Extensions
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
 * [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 * [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
 * [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
 * [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
 
 <!--
 chrome://apps
@@ -2240,9 +2244,9 @@ Example First-Timers Info
 
 <!--
 https://github.com/search?utf8=%E2%9C%93&q=help+wanted
-
-https://www.linkedin.com/job/home
-https://www.python.org/jobs
+https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
+https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
+https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
 https://github.com/search?utf8=%E2%9C%93&q=interview+questions
 https://github.com/MaximAbramchuck/awesome-interview-questions
@@ -2256,10 +2260,6 @@ http://blog.djangogirls.org
 http://blog.djangogirls.org/post/137825610883/about-your-django-story
 https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
 http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
-
-https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
-https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
-https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
 https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
 
@@ -3831,7 +3831,7 @@ Wikitech Development
 
 #### Python and Django Toolkit
 
-#### Python and Django General
+#### Python General
 
 Python (See also Data Science)
 * [Python](http://www.python.org) and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
@@ -3860,48 +3860,10 @@ Pyenv
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
  
-CPython
-* [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython)  
+#### Python and Django Users, Jobs, News
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-Python- Playbooks
-* [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
-* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
-* [Full Stack Python](https://www.fullstackpython.com)
-
-Python- Playbooks
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
-
-Python- Twython
-* [Twython](https://github.com/ryanmcgrath/twython)
-
-Python- Django
-* [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
-* [Django Documentation](https://docs.djangoproject.com)  
-
-Python- Django People and Jobs
-* [Django People](https://people.djangoproject.com)
-* [Django Official Jobs Board](https://code.djangoproject.com/wiki/DjangoJobs) 
-* [Django Jobs](https://www.djangojobs.net) 
-* [The Django Jobs Board](http://djangojobsboard.com) 
-
-Python- Django Community
-* [Adrienne Friend](http://codingwithkniv.es)
-* [Audrey Roy Greenfield](https://www.audreyr.com)
-* [Kenneth Reitz](http://www.kennethreitz.org)
-* [Daniel Greenfeld](http://www.pydanny.com)
-
-Python- Django- News
-* [Django Weblog GitHub](https://www.djangoproject.com/weblog)
-* [Get Topical Django Framework](http://gettopical.com/djangoframework) 
-* [Right Relevant Django Articles](http://www.rightrelevance.com/search/articles?query=django) 
-
-Python- Django- Resources
-* [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
-* [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
-* [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source)  
@@ -3923,11 +3885,250 @@ Python- Django- Major Organizations and Projects that Use Django (Excluding Temp
 * [StyleSeat GitHub](https://github.com/styleseat) 
 * [Wharton GitHub](https://github.com/wharton)
 
-Python- Mobile
-* [Kivy GitHub](https://github.com/kivy/kivy)
-* [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
-* [VOC Read the Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
-* Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
+Python- Python and Django People and Jobs
+* [Python Official Jobs Board](https://www.python.org/jobs)
+* [Django People](https://people.djangoproject.com)
+* [Django Official Jobs Board](https://code.djangoproject.com/wiki/DjangoJobs) 
+* [Django Jobs](https://www.djangojobs.net) 
+* [The Django Jobs Board](http://djangojobsboard.com) 
+
+Python- Django Community
+* [Adrienne Friend](http://codingwithkniv.es)
+* [Audrey Roy Greenfield](https://www.audreyr.com)
+* [Kenneth Reitz](http://www.kennethreitz.org)
+* [Daniel Greenfeld](http://www.pydanny.com)
+
+Python- Django- News
+* [Django Weblog GitHub](https://www.djangoproject.com/weblog)
+* [Get Topical Django Framework](http://gettopical.com/djangoframework) 
+* [Right Relevant Django Articles](http://www.rightrelevance.com/search/articles?query=django) 
+
+<!--
+https://www.linkedin.com/job/home
+
+http://lanyrd.com/search/?context=future&q=django&type=conference
+-->
+
+#### Python and Django Playbooks and Styleguides
+
+Python- Playbooks
+* [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
+* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
+* [Full Stack Python](https://www.fullstackpython.com)
+
+Python- Playbooks
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
+
+<!--
+Structuring Django Project
+http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/
+http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html
+
+http://nvie.com/posts/pin-your-packages/
+-->
+
+Python- PEP
+* [PEP Index](https://www.python.org/dev/peps)
+* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
+* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
+* [PEP 0008 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+* [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
+* [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
+
+Python- Style Guides
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
+* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+
+Python- Kenneth Reitz Contributor's Guide and Style Guides
+* [Kenneth Reitz: Requests Contributor's Guide](http://docs.python-requests.org/en/master/dev/contributing/#code-style)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Guide Style Guide](http://docs.python-guide.org/en/latest/notes/styleguide)
+
+#### Django General
+
+Python- Django
+* [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
+* [Django Documentation](https://docs.djangoproject.com)  
+
+Python- Django- Resources
+* [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
+* [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
+* [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
+
+#### Python and Django Contributing
+
+Python- Django- Roadmaps
+* [Django Enhancement Proposals](https://github.com/django/deps)
+* [Django 1.10 Roadmap](https://code.djangoproject.com/wiki/Version1.10Roadmap) 
+* [Django 1.9 Roadmap](https://code.djangoproject.com/wiki/Version1.9Roadmap) 
+
+Python- Django- Code of Conduct and Contributing
+* [Django Code of Conduct[](https://www.djangoproject.com/conduct)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+
+Python- Django- Forums and Lists
+* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
+* [Django Original Team List](https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list)
+* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
+* [Django Organizational Repo People](https://github.com/orgs/django/people)
+* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+
+Python- Django- Slack
+* [Django Developers](https://django-developers.herokuapp.com)
+* [Pinax Slack](http://slack.pinaxproject.com)
+* [PyLadies](http://slackin.pyladies.com) and [PyLadies Remote](https://tlk.io/pyladiesremote)
+
+
+
+
+Python- Django- Sprints: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+<!--
+https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
+https://docs.python.org/2/reference/grammar.html
+https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
+-->
+
+<!--
+http://awesome-python.com
+https://code.djangoproject.com/wiki/DjangoResources
+
+https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+
+https://docs.python.org/3.5/library/stdtypes.html
+
+https://docs.python.org/devguide
+
+Project Structure
+http://docs.python-guide.org/en/latest/writing/structure
+
+http://docs.python-guide.org/en/latest/starting/install/osx/
+
+http://python-packaging-user-guide.readthedocs.org/en/latest/installing
+
+https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
+https://devcenter.heroku.com/articles/django-assets
+https://www.npmjs.com/package/generator-django
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+https://docs.python.org/2/howto/descriptor.html
+https://docs.python.org/2/tutorial/errors.html
+
+http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
+https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
+https://docs.djangoproject.com/en/1.9/ref/models/expressions/
+https://docs.djangoproject.com/en/1.9/contents/
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/coding-style/
+https://docs.djangoproject.com/en/1.9/topics/forms/modelforms/
+https://docs.djangoproject.com/es/1.9/ref/class-based-views/flattened-index/
+https://docs.djangoproject.com/es/1.9/ref/django-admin/#testserver
+https://docs.djangoproject.com/en/1.9/ref/settings/
+https://docs.djangoproject.com/en/1.9/ref/models/instances/#extra-instance-methods
+https://docs.djangoproject.com/en/1.9/ref/models/instances/
+https://docs.djangoproject.com/en/1.9/ref/models/querysets/#field-lookups
+https://docs.djangoproject.com/es/1.9/topics/db/queries/
+https://docs.djangoproject.com/en/1.9/ref/settings/
+https://docs.djangoproject.com/en/1.9/topics/http/urls/
+https://docs.djangoproject.com/en/1.9/ref/templates/api/
+
+https://docs.djangoproject.com/en/1.8/topics/email
+
+https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
+
+2.12 Writing your first patch for Django
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
+https://docs.python.org/3/library/unittest.html
+http://www.diveintopython.net/unit_testing/
+
+https://github.com/django/code.djangoproject.com
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+
+http://www.kelproject.com/
+https://github.com/kelproject
+https://github.com/kelproject/kel-docs
+
+https://github.com/eldarion/
+https://github.com/pinax/pinax-webanalytics
+https://pinax-blog.readthedocs.io/en/latest/
+http://pinaxproject.com/pinax
+http://pinaxproject.com/pinax/quick_start
+http://pinaxproject.com/pinax/apps_list
+https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
+https://github.com/pinax/pinax-theme-bootstrap
+https://github.com/pinax/django-user-accounts
+https://github.com/pinax/django-forms-bootstrap
+http://django-user-accounts.readthedocs.org/en/latest
+
+http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
+
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+
+https://github.com/kennethreitz/conda-buildpack
+http://conda.pydata.org/miniconda.html
+https://github.com/docopt/docopt
+
+https://github.com/kivy/kivy-website
+https://github.com/kivy/python-for-android
+
+https://github.com/andrewgodwin/daphne
+https://github.com/andrewgodwin/channels-examples
+https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+https://github.com/andrewgodwin/channels
+http://channels.readthedocs.org/en/latest
+
+https://github.com/pypa/warehouse
+
+https://github.com/divio/django-mailchimp
+http://django-mailer2.readthedocs.org/en/latest
+
+https://en.wikipedia.org/wiki/ReStructuredText
+
+http://masteringdjango.com/django-book
+https://github.com/big-nige/djangobook-Updated-to-1.8
+http://www.diveintopython.net/regular_expressions/
+
+https://twitter.com/CodingIsForGirl/status/695712398024511490
+https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
+https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
+http://www.apple.com/mac/imovie/
+
+Python Guides
+https://github.com/pyladies/pyladies
+https://github.com/python/pycon-code-of-conduct
+https://github.com/socalpyladies/socalpyladies.github.io
+http://socalpyladies.github.io/
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+http://london.pydata.org
+
+Pythonista
+
+jacobian-archive
+
+https://github.com/amontalenti/elements-of-python-style
+
+https://github.com/python/community-starter-kit
+https://www.djangoproject.com/fundraising/campaign/django-fellowship
+
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
+* [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+Mastering Regular Expressions Jeffrey Friedl
+https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
+https://docs.python.org/3.5/library/re.html
+http://regex.info/book.html
+
+RegEx
+* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
+* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
+-->
 
 #### Python and Django Books and Tutorials
 
@@ -3935,6 +4136,8 @@ Python- Mobile
 https://docs.python.org/3/library/xml.dom.html
 
 https://learnxinyminutes.com/docs/pythonstatcomp/
+
+https://hellowebapp.com/
 -->
 
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
@@ -3989,6 +4192,247 @@ Python and Django- Creating Packages
 Python- Django- Packages and Snippets (Unofficial)
 * [Django Packages](https://www.djangopackages.com)
 * [Django Snippets](https://djangosnippets.org) 
+
+#### Python and Django Templates and Microframeworks
+
+Python- Microframeworks and Template Engines
+* [Bottle](http://bottlepy.org/docs/dev/index.html)  
+* [Jinja](http://jinja.pocoo.org) and [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
+* [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
+* [WebPy GitHub](https://github.com/webpy/webpy)
+
+Python- Django- Pinax
+* [Pinax](http://pinaxproject.com) 
+
+Python- Django- Cookiecutter (See also Packages)
+* [Cookiecutter Django PyPi](https://pypi.python.org/pypi/cookiecutter)
+* [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
+* [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
+* [Cookiecutter Django Deployment on Heroku](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-heroku.html)
+* [Cookiecutter Django Deployment on Python Anywhere](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-pythonanywhere.html)
+* [Cookiecutter Django Deployment with Docker](http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html)
+
+#### Python and Django Deployment
+
+Python- Django- Git and Deployment
+* [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
+* [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
+
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
+
+Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
+* [Psycopg](http://initd.org/psycopg)  
+* [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
+
+Dedicated Python Hosting
+* [Gondor (on Kubernetes)](https://gondor.io)
+* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
+* [pykube GitHub](https://github.com/eldarion-gondor/pykube)
+* [Python Anywhere](https://www.pythonanywhere.com) 
+
+Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
+* [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
+* [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
+* [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
+
+Python- Django- Environmental Variables
+* os.getenv and os.environ.get
+* [Python Decouple (Example: Bootcamp) GitHub](https://github.com/henriquebastos/python-decouple) and [Python Decouple PyPi](https://pypi.python.org/pypi/python-decouple)
+
+Python- Django- Random SECRET_KEY
+* [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
+* [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
+
+Python- Django- BCrypt (Not just for Django)
+* [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
+* [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
+* [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
+
+Python- Fabric
+* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric) 
+
+Python- Django- Static File Serving
+* [Whitenoise GitHub](https://github.com/evansd/whitenoise) 
+* [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
+
+CGI and WSGI (Web Server API)
+* [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
+* [WSGI Read the Docs](http://wsgi.readthedocs.org/en/latest)  
+* [WSGI Google Code](https://code.google.com/p/modwsgi)  
+* [WSGI Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
+* [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
+* [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
+
+Werkzeug (Flexible WSGI) (Security Flaw)
+* [Werkzeug GitHub](https://github.com/mitsuhiko/werkzeug)
+
+More WSGI (See also Apache)
+* [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
+* [uWsgi GitHub](https://github.com/unbit/uwsgi)
+
+Gunicorn (Python WSGI HTTP Server for UNIX)
+* [Gunicorn](http://gunicorn.org), [Gunicorn Python Warehouse](https://warehouse.python.org/project/gunicorn)  
+* [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
+
+Waitress (Production-Quality Pure-Python WSGI Server)
+* [Waitress Read the Docs](http://waitress.readthedocs.org/en/latest)  
+* [Waitress GitHub](https://github.com/Pylons/waitress)  
+* [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
+
+Memcached (Object Caching)
+* [Memcached](http://memcached.org) 
+
+pytest and Nose (Unit Test Extension)
+* [Nose GitHub](https://github.com/nose-devs/nose)
+* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
+* [pytest](http://pytest.org)
+
+Tox (Automation)
+* [Tox Docs](https://tox.readthedocs.org/en/latest)
+
+Automated Dependency Management
+* [Requires.io](https://requires.io)
+
+#### Python and Django Useful Tools
+
+Python- Django- Debug Toolbar
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
+* [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
+
+Python- Django- Migrations
+* [South](http://south.aeracode.org)  
+
+Python- Django and Celery (Also Example code)
+* [Celery](http://www.celeryproject.org)  
+* [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html)  
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org)  
+* [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
+
+Python- Django- Rest Framework (Serialization/Deserialization)
+* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
+* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
+* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
+
+Python- Django- Rest Framework GIS
+* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+Python- Django- Records, Requests, DJ Static, DJ Database URL
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url) and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Python- Python/Django- Internationalization and Localization, Translation
+* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
+
+GeoDjango
+* [GeoDjango](http://geodjango.org)  
+* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
+
+PostGIS (Spatial Database Extender for PostgreSQL)
+* [PostGIS](http://postgis.net)  
+* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+
+SpatiaLite (Spatial Database Extender for SQLite)
+* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+Python- Django-MPTT (Modified Pre-Order Traversal Tree)
+* [Django-MPTT](http://django-mptt.github.io/django-mptt)  
+* [Django-MPTT GitHub](https://github.com/django-mptt/django-mptt)  
+* [Django-MPTT PyPi](https://pypi.python.org/pypi/django-mptt)  
+
+Python- Django-Treebeard (Modified Pre-Order Traversal Tree)
+* [Django-Treebeard](https://tabo.pe/projects/django-treebeard)  
+* [Django-Treebeard Docs](https://tabo.pe/projects/django-treebeard/docs/tip)  
+* [Django-Treebeard GitHub](https://github.com/tabo/django-treebeard)  
+
+Python- Django- CMS, E-Commerce
+* [Django CMS](https://www.django-cms.org/en)  
+* [Django CMS Wikipedia](http://en.wikipedia.org/wiki/Django-cms)  
+* [Django CMS GitHub](https://github.com/divio/django-cms)  
+* [Django CMS Admin Style GitHub](https://github.com/divio/djangocms-admin-style)  
+* [Django CMS Column GitHub](https://github.com/divio/djangocms-column)  
+* [Django CMS Style GitHub](https://github.com/divio/djangocms-style)  
+* [Django CMS Text CK-Editor GitHub](https://github.com/divio/djangocms-text-ckeditor)  
+* [Django CMS Online Demo](https://control.aldryn.com/demo/get-new)  
+* [Django CMS E-Commerce](https://www.django-cms.org/en/e-commerce)  
+
+Python- Django- Wagtail (Recommended)
+* [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template) 
+* [Wagtail Docs](https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf)
+
+Python- Django- Other CMS and E-Commerce Options
+* [Django Fluent CMS](http://django-fluent.org), [Django Fluent CMS GitHub](https://github.com/edoburu), and [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
+* [Django Shop GitHub](https://github.com/divio/django-shop)  
+* [Mezzanine Docs](http://mezzanine.jupo.org/docs)  
+* [Mezzanine Sites](http://mezzanine.jupo.org/sites)  
+* [Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
+* [Oscar Read the Docs](http://django-oscar.readthedocs.org/en/latest) and [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
+* [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
+ 
+Python- Django- TinyMCE
+* [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
+
+Python- Django- Python Social Auth
+* [Python Social Auth](https://github.com/omab/python-social-auth)  
+* [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
+* [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
+* [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
+
+Python- Django- Search
+* [Haystack](http://haystacksearch.org)  and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
+
+Python- Imaging Library
+* [Python Imaging Library](http://www.pythonware.com/products/pil)  and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
+* [Python Imaging Library Read the Docs](https://pillow.readthedocs.org)  
+* [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
+
+Python- Django- Forms
+* [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+
+#### Python and Django Unique
+
+Python- Mobile
+* [Kivy GitHub](https://github.com/kivy/kivy)
+* [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
+* [VOC Read the Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
+* Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
+
+CPython
+* [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
+
+Python- Twython
+* [Twython](https://github.com/ryanmcgrath/twython)
+
+Python- Django- Everything
+* [Everything](https://pypi.python.org/pypi/everything)
+
+Python- Django- Cmatrix
+* [Cmatrix](http://www.asty.org/cmatrix) and [Cmatrix Homebrew](http://brewformulas.org/Cmatrix)
 
 #### Python and Django Conferences and Mentors 
 
@@ -4141,422 +4585,6 @@ Django Girls (Python- Django)
 Django Girls- Cities
 * [Django Girls London](https://djangogirls.org/london)
 * [Django Girls Kansas City](https://djangogirls.org/kansascity)
-
-#### Python and Django Contributing
-
-Python- Django- Roadmaps
-* [Django Enhancement Proposals](https://github.com/django/deps)
-* [Django 1.10 Roadmap](https://code.djangoproject.com/wiki/Version1.10Roadmap) 
-* [Django 1.9 Roadmap](https://code.djangoproject.com/wiki/Version1.9Roadmap) 
-
-Python- Django- Code of Conduct and Contributing
-* [Django Code of Conduct[](https://www.djangoproject.com/conduct)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
-
-Python- Django- Forums and Lists
-* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
-* [Django Original Team List](https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list)
-* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
-* [Django Organizational Repo People](https://github.com/orgs/django/people)
-* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
-
-Python- Django- Slack
-* [Django Developers](https://django-developers.herokuapp.com)
-* [Pinax Slack](http://slack.pinaxproject.com)
-* [PyLadies](http://slackin.pyladies.com) and [PyLadies Remote](https://tlk.io/pyladiesremote)
-
-Python- PEP
-* [PEP Index](https://www.python.org/dev/peps)
-* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
-* [PEP 0008 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
-* [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
-* [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
-
-Python- Style Guides
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
-* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-Python- Kenneth Reitz Contributor's Guide and Style Guides
-* [Kenneth Reitz: Requests Contributor's Guide](http://docs.python-requests.org/en/master/dev/contributing/#code-style)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Guide Style Guide](http://docs.python-guide.org/en/latest/notes/styleguide)
-
-Python- Django- Sprints: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-<!--
-https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
-https://docs.python.org/2/reference/grammar.html
-https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
--->
-
-<!--
-http://awesome-python.com
-https://code.djangoproject.com/wiki/DjangoResources
-
-https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
-
-https://docs.python.org/3.5/library/stdtypes.html
-
-https://docs.python.org/devguide
-
-Project Structure
-http://docs.python-guide.org/en/latest/writing/structure
-
-http://docs.python-guide.org/en/latest/starting/install/osx/
-
-http://python-packaging-user-guide.readthedocs.org/en/latest/installing
-
-https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
-https://devcenter.heroku.com/articles/django-assets
-https://www.npmjs.com/package/generator-django
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
-https://docs.python.org/2/howto/descriptor.html
-https://docs.python.org/2/tutorial/errors.html
-
-http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
-https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
-https://docs.djangoproject.com/en/1.9/ref/models/expressions/
-https://docs.djangoproject.com/en/1.9/contents/
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/coding-style/
-https://docs.djangoproject.com/en/1.9/topics/forms/modelforms/
-https://docs.djangoproject.com/es/1.9/ref/class-based-views/flattened-index/
-https://docs.djangoproject.com/es/1.9/ref/django-admin/#testserver
-https://docs.djangoproject.com/en/1.9/ref/settings/
-https://docs.djangoproject.com/en/1.9/ref/models/instances/#extra-instance-methods
-https://docs.djangoproject.com/en/1.9/ref/models/instances/
-https://docs.djangoproject.com/en/1.9/ref/models/querysets/#field-lookups
-https://docs.djangoproject.com/es/1.9/topics/db/queries/
-https://docs.djangoproject.com/en/1.9/ref/settings/
-https://docs.djangoproject.com/en/1.9/topics/http/urls/
-https://docs.djangoproject.com/en/1.9/ref/templates/api/
-
-https://docs.djangoproject.com/en/1.8/topics/email
-
-https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
-
-2.12 Writing your first patch for Django
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
-https://docs.python.org/3/library/unittest.html
-http://www.diveintopython.net/unit_testing/
-
-https://github.com/django/code.djangoproject.com
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
-
-http://www.kelproject.com/
-https://github.com/kelproject
-https://github.com/kelproject/kel-docs
-
-https://github.com/eldarion/
-https://github.com/pinax/pinax-webanalytics
-https://pinax-blog.readthedocs.io/en/latest/
-http://pinaxproject.com/pinax
-http://pinaxproject.com/pinax/quick_start
-http://pinaxproject.com/pinax/apps_list
-https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
-https://github.com/pinax/pinax-theme-bootstrap
-https://github.com/pinax/django-user-accounts
-https://github.com/pinax/django-forms-bootstrap
-http://django-user-accounts.readthedocs.org/en/latest
-
-http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
-
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-
-https://github.com/kennethreitz/conda-buildpack
-http://conda.pydata.org/miniconda.html
-https://github.com/docopt/docopt
-
-https://github.com/kivy/kivy-website
-https://github.com/kivy/python-for-android
-
-https://github.com/andrewgodwin/daphne
-https://github.com/andrewgodwin/channels-examples
-https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
-https://github.com/andrewgodwin/channels
-http://channels.readthedocs.org/en/latest
-
-https://github.com/pypa/warehouse
-
-https://github.com/divio/django-mailchimp
-http://django-mailer2.readthedocs.org/en/latest
-
-https://en.wikipedia.org/wiki/ReStructuredText
-
-http://masteringdjango.com/django-book
-https://github.com/big-nige/djangobook-Updated-to-1.8
-http://www.diveintopython.net/regular_expressions/
-
-https://twitter.com/CodingIsForGirl/status/695712398024511490
-https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
-https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-http://www.apple.com/mac/imovie/
-
-Python Guides
-https://github.com/pyladies/pyladies
-https://github.com/python/pycon-code-of-conduct
-https://github.com/socalpyladies/socalpyladies.github.io
-http://socalpyladies.github.io/
-https://github.com/DutchDjangoAssociation/djangovereniging.nl
-http://london.pydata.org
-
-Pythonista
-
-jacobian-archive
-
-https://github.com/amontalenti/elements-of-python-style
-
-https://github.com/python/community-starter-kit
-https://www.djangoproject.com/fundraising/campaign/django-fellowship
-
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
-* [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
-Mastering Regular Expressions Jeffrey Friedl
-https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-https://docs.python.org/3.5/library/re.html
-http://regex.info/book.html
-
-RegEx
-* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
--->
-
-#### Python and Django Deployment
-
-Python- Django- Git and Deployment
-* [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
-* [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
-
-Python- PEP 3333 (Python Web Server Gateway Interface)
-* [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
-
-Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
-* [Psycopg](http://initd.org/psycopg)  
-* [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
-
-Dedicated Python Hosting
-* [Gondor (on Kubernetes)](https://gondor.io)
-* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
-* [pykube GitHub](https://github.com/eldarion-gondor/pykube)
-* [Python Anywhere](https://www.pythonanywhere.com) 
-
-Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
-* [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
-* [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
-* [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
-
-Python- Django- Environmental Variables
-* os.getenv and os.environ.get
-* [Python Decouple (Example: Bootcamp) GitHub](https://github.com/henriquebastos/python-decouple) and [Python Decouple PyPi](https://pypi.python.org/pypi/python-decouple)
-
-Python- Django- Random SECRET_KEY
-* [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
-* [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
-
-Python- Django- BCrypt (Not just for Django)
-* [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
-* [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
-* [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
-
-Python- Fabric
-* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric) 
-
-Python- Django- Static File Serving
-* [Whitenoise GitHub](https://github.com/evansd/whitenoise) 
-* [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
-
-CGI and WSGI (Web Server API)
-* [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
-* [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
-* [WSGI Read the Docs](http://wsgi.readthedocs.org/en/latest)  
-* [WSGI Google Code](https://code.google.com/p/modwsgi)  
-* [WSGI Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
-* [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
-* [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
-
-Werkzeug (Flexible WSGI) (Security Flaw)
-* [Werkzeug GitHub](https://github.com/mitsuhiko/werkzeug)
-
-More WSGI (See also Apache)
-* [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
-* [uWsgi GitHub](https://github.com/unbit/uwsgi)
-
-Gunicorn (Python WSGI HTTP Server for UNIX)
-* [Gunicorn](http://gunicorn.org), [Gunicorn Python Warehouse](https://warehouse.python.org/project/gunicorn)  
-* [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
-
-Waitress (Production-Quality Pure-Python WSGI Server)
-* [Waitress Read the Docs](http://waitress.readthedocs.org/en/latest)  
-* [Waitress GitHub](https://github.com/Pylons/waitress)  
-* [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
-
-Memcached (Object Caching)
-* [Memcached](http://memcached.org) 
-
-pytest and Nose (Unit Test Extension)
-* [Nose GitHub](https://github.com/nose-devs/nose)
-* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
-* [pytest](http://pytest.org)
-
-Tox (Automation)
-* [Tox Docs](https://tox.readthedocs.org/en/latest)
-
-Automated Dependency Management
-* [Requires.io](https://requires.io)
-
-#### Python and Django Templates and Microframeworks
-
-Python- Microframeworks and Template Engines
-* [Bottle](http://bottlepy.org/docs/dev/index.html)  
-* [Jinja](http://jinja.pocoo.org) and [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
-* [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
-* [WebPy GitHub](https://github.com/webpy/webpy)
-
-Python- Django- Pinax
-* [Pinax](http://pinaxproject.com) 
-
-Python- Django- Cookiecutter (See also Packages)
-* [Cookiecutter Django PyPi](https://pypi.python.org/pypi/cookiecutter)
-* [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
-* [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
-* [Cookiecutter Django Deployment on Heroku](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-heroku.html)
-* [Cookiecutter Django Deployment on Python Anywhere](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-pythonanywhere.html)
-* [Cookiecutter Django Deployment with Docker](http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html)
-
-#### Python and Django Useful Tools
-
-Python- Django- Debug Toolbar
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org/en/1.2.2)  
-* [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
-
-Python- Django- Migrations
-* [South](http://south.aeracode.org)  
-
-Python- Django and Celery (Also Example code)
-* [Celery](http://www.celeryproject.org)  
-* [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html)  
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org)  
-* [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
-
-Python- Django- Rest Framework (Serialization/Deserialization)
-* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
-* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
-* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
-
-Python- Django- Rest Framework GIS
-* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
-Python- Django- Records, Requests, DJ Static, DJ Database URL
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
-* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url) and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-Python- Python/Django- Internationalization and Localization, Translation
-* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
-* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
-
-GeoDjango
-* [GeoDjango](http://geodjango.org)  
-* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
-
-PostGIS (Spatial Database Extender for PostgreSQL)
-* [PostGIS](http://postgis.net)  
-* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
-
-SpatiaLite (Spatial Database Extender for SQLite)
-* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
-Python- Django-MPTT (Modified Pre-Order Traversal Tree)
-* [Django-MPTT](http://django-mptt.github.io/django-mptt)  
-* [Django-MPTT GitHub](https://github.com/django-mptt/django-mptt)  
-* [Django-MPTT PyPi](https://pypi.python.org/pypi/django-mptt)  
-
-Python- Django-Treebeard (Modified Pre-Order Traversal Tree)
-* [Django-Treebeard](https://tabo.pe/projects/django-treebeard)  
-* [Django-Treebeard Docs](https://tabo.pe/projects/django-treebeard/docs/tip)  
-* [Django-Treebeard GitHub](https://github.com/tabo/django-treebeard)  
-
-Python- Django- CMS, E-Commerce
-* [Django CMS](https://www.django-cms.org/en)  
-* [Django CMS Wikipedia](http://en.wikipedia.org/wiki/Django-cms)  
-* [Django CMS GitHub](https://github.com/divio/django-cms)  
-* [Django CMS Admin Style GitHub](https://github.com/divio/djangocms-admin-style)  
-* [Django CMS Column GitHub](https://github.com/divio/djangocms-column)  
-* [Django CMS Style GitHub](https://github.com/divio/djangocms-style)  
-* [Django CMS Text CK-Editor GitHub](https://github.com/divio/djangocms-text-ckeditor)  
-* [Django CMS Online Demo](https://control.aldryn.com/demo/get-new)  
-* [Django CMS E-Commerce](https://www.django-cms.org/en/e-commerce)  
-
-Python- Django- Wagtail (Recommended)
-* [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template) 
-* [Wagtail Docs](https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf)
-
-Python- Django- Other CMS and E-Commerce Options
-* [Django Fluent CMS](http://django-fluent.org), [Django Fluent CMS GitHub](https://github.com/edoburu), and [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
-* [Django Shop GitHub](https://github.com/divio/django-shop)  
-* [Mezzanine Docs](http://mezzanine.jupo.org/docs)  
-* [Mezzanine Sites](http://mezzanine.jupo.org/sites)  
-* [Mezzanine CMS GitHub](https://github.com/stephenmcd/mezzanine)  
-* [Oscar Read the Docs](http://django-oscar.readthedocs.org/en/latest) and [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
-* [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
- 
-Python- Django- TinyMCE
-* [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
-
-Python- Django- Python Social Auth
-* [Python Social Auth](https://github.com/omab/python-social-auth)  
-* [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
-* [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
-* [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
-
-Python- Django- Search
-* [Haystack](http://haystacksearch.org)  and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
-
-Python- Imaging Library
-* [Python Imaging Library](http://www.pythonware.com/products/pil)  and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
-* [Python Imaging Library Read the Docs](https://pillow.readthedocs.org)  
-* [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
-
-Python- Django- Forms
-* [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
-
-Python- Django- Everything
-* [Everything](https://pypi.python.org/pypi/everything)
-
-Python- Django- Cmatrix
-* [Cmatrix](http://www.asty.org/cmatrix) and [Cmatrix Homebrew](http://brewformulas.org/Cmatrix)
 
 #### .NET, ASP, Visual Studio, WebMatrix
 
