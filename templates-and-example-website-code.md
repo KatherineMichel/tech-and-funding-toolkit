@@ -89,6 +89,15 @@ Python- Django- Cookiecutter (See also Packages)
 Python- Django- Python and Django official websites and code
 * [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
 * [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
+<!--
+https://pycon.readthedocs.org/en/latest
+
+https://symposion.readthedocs.org/en/latest/
+https://github.com/eldarion/djangocon.us
+https://ky395.us2.gondor.io
+http://eldarion.com
+-->
+
 Python- Django- PyCon, DjangoCon, and PyData
 * [PyCon GitHub](https://github.com/PyCon/pycon)
 * [DjangoCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
