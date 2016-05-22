@@ -3987,15 +3987,24 @@ Python- Django- Slack
 
 <!--
 https://docs.python.org/3/library/xml.dom.html
-
 https://learnxinyminutes.com/docs/pythonstatcomp/
 
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
+http://masteringdjango.com/django-book
+https://github.com/big-nige/djangobook-Updated-to-1.8
+
+https://twitter.com/CodingIsForGirl/status/695712398024511490
+
+Make movies the same way Ola makes Coding is for Girls
+https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
+https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
+http://www.apple.com/mac/imovie/
 -->
 
 PyLadies
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), and [PyLadies Remote](https://tlk.io/pyladiesremote)
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
 
 Django Girls Co-Founders
 * [Ola Sendecka](http://blog.sendecka.me)
@@ -4050,6 +4059,30 @@ Python- Django Tutorials (excluding Django Girls)
 Django Carrots (Python- Django)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
+<!--
+https://docs.python.org/2/howto/descriptor.html
+https://docs.python.org/2/tutorial/errors.html
+
+http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
+https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
+https://docs.djangoproject.com/en/1.9/ref/models/expressions/
+https://docs.djangoproject.com/en/1.9/contents/
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/coding-style/
+https://docs.djangoproject.com/en/1.9/topics/forms/modelforms/
+https://docs.djangoproject.com/es/1.9/ref/class-based-views/flattened-index/
+https://docs.djangoproject.com/es/1.9/ref/django-admin/#testserver
+https://docs.djangoproject.com/en/1.9/ref/settings/
+https://docs.djangoproject.com/en/1.9/ref/models/instances/#extra-instance-methods
+https://docs.djangoproject.com/en/1.9/ref/models/instances/
+https://docs.djangoproject.com/en/1.9/ref/models/querysets/#field-lookups
+https://docs.djangoproject.com/es/1.9/topics/db/queries/
+https://docs.djangoproject.com/en/1.9/ref/settings/
+https://docs.djangoproject.com/en/1.9/topics/http/urls/
+https://docs.djangoproject.com/en/1.9/ref/templates/api/
+
+https://docs.djangoproject.com/en/1.8/topics/email
+-->
+
 #### Python and Django Packages and Snippets
 
 Python- Packages/Libraries
@@ -4085,6 +4118,25 @@ Python- Microframeworks and Template Engines
 Python- Django- Pinax
 * [Pinax](http://pinaxproject.com) 
 
+<!--
+* [Pinax Slack](http://slack.pinaxproject.com)
+
+https://github.com/pinax/pinax-webanalytics
+https://pinax-blog.readthedocs.io/en/latest/
+http://pinaxproject.com/pinax
+http://pinaxproject.com/pinax/quick_start
+http://pinaxproject.com/pinax/apps_list
+https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
+https://github.com/pinax/pinax-theme-bootstrap
+https://github.com/pinax/django-user-accounts
+https://github.com/pinax/django-forms-bootstrap
+http://django-user-accounts.readthedocs.org/en/latest
+
+http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
+-->
+
 Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter Django PyPi](https://pypi.python.org/pypi/cookiecutter)
 * [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
@@ -4111,6 +4163,14 @@ Dedicated Python Hosting
 * [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
 * [pykube GitHub](https://github.com/eldarion-gondor/pykube)
 * [Python Anywhere](https://www.pythonanywhere.com) 
+
+<!--
+http://www.kelproject.com/
+https://github.com/kelproject
+https://github.com/kelproject/kel-docs
+
+https://github.com/eldarion/
+-->
 
 Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 * [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
@@ -4319,10 +4379,6 @@ Python- Django- Cmatrix
 https://www.linkedin.com/job/home
 
 http://lanyrd.com/search/?context=future&q=django&type=conference
--->
-<!--
-* [Pinax Slack](http://slack.pinaxproject.com)
-* [PyLadies](http://slackin.pyladies.com) and [PyLadies Remote](https://tlk.io/pyladiesremote)
 
 Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
@@ -4354,28 +4410,6 @@ https://devcenter.heroku.com/articles/django-assets
 https://www.npmjs.com/package/generator-django
 https://pythonhosted.org/an_example_pypi_project/setuptools.html
 
-https://docs.python.org/2/howto/descriptor.html
-https://docs.python.org/2/tutorial/errors.html
-
-http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
-https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
-https://docs.djangoproject.com/en/1.9/ref/models/expressions/
-https://docs.djangoproject.com/en/1.9/contents/
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/coding-style/
-https://docs.djangoproject.com/en/1.9/topics/forms/modelforms/
-https://docs.djangoproject.com/es/1.9/ref/class-based-views/flattened-index/
-https://docs.djangoproject.com/es/1.9/ref/django-admin/#testserver
-https://docs.djangoproject.com/en/1.9/ref/settings/
-https://docs.djangoproject.com/en/1.9/ref/models/instances/#extra-instance-methods
-https://docs.djangoproject.com/en/1.9/ref/models/instances/
-https://docs.djangoproject.com/en/1.9/ref/models/querysets/#field-lookups
-https://docs.djangoproject.com/es/1.9/topics/db/queries/
-https://docs.djangoproject.com/en/1.9/ref/settings/
-https://docs.djangoproject.com/en/1.9/topics/http/urls/
-https://docs.djangoproject.com/en/1.9/ref/templates/api/
-
-https://docs.djangoproject.com/en/1.8/topics/email
-
 https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
 
 2.12 Writing your first patch for Django
@@ -4386,26 +4420,6 @@ http://www.diveintopython.net/unit_testing/
 https://github.com/django/code.djangoproject.com
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
-
-http://www.kelproject.com/
-https://github.com/kelproject
-https://github.com/kelproject/kel-docs
-
-https://github.com/eldarion/
-https://github.com/pinax/pinax-webanalytics
-https://pinax-blog.readthedocs.io/en/latest/
-http://pinaxproject.com/pinax
-http://pinaxproject.com/pinax/quick_start
-http://pinaxproject.com/pinax/apps_list
-https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
-https://github.com/pinax/pinax-theme-bootstrap
-https://github.com/pinax/django-user-accounts
-https://github.com/pinax/django-forms-bootstrap
-http://django-user-accounts.readthedocs.org/en/latest
-
-http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
 
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 
@@ -4429,14 +4443,7 @@ http://django-mailer2.readthedocs.org/en/latest
 
 https://en.wikipedia.org/wiki/ReStructuredText
 
-http://masteringdjango.com/django-book
-https://github.com/big-nige/djangobook-Updated-to-1.8
 http://www.diveintopython.net/regular_expressions/
-
-https://twitter.com/CodingIsForGirl/status/695712398024511490
-https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
-https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-http://www.apple.com/mac/imovie/
 
 Python Guides
 https://github.com/pyladies/pyladies
@@ -4565,6 +4572,7 @@ https://www.djangoproject.com/foundation/developer-members/
 
 https://github.com/PyCon/pycon
 https://pycon.readthedocs.org/en/latest
+
 https://symposion.readthedocs.org/en/latest/
 https://github.com/eldarion/djangocon.us
 https://ky395.us2.gondor.io
