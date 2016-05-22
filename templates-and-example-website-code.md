@@ -106,6 +106,12 @@ Python- Django- Django Birthday
 <!--
 https://github.com/djangounderthehood/duh-web/blob/master/duh/settings.py
 https://github.com/jazzband/website
+
+https://github.com/trailhawks/lawrencetrailhawks/tree/master/templates/hawkhundred.com
+https://trailhawks.com/
+https://www.hawkhundred.com/
+
+Lanyard
 -->
 
 Template Examples
