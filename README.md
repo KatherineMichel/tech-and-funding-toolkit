@@ -81,7 +81,7 @@ Table of Content
   * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)
   * [Django General](#django-general)
   * [Python and Django Contributing](#python-and-django-contributing)
-  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
+  * [Python and Django Support Groups, Books and Tutorials](#python-and-django-support-groups-books-and-tutorials)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Deployment](#python-and-django-deployment)
@@ -3903,12 +3903,6 @@ Python- Django- News
 * [Get Topical Django Framework](http://gettopical.com/djangoframework) 
 * [Right Relevant Django Articles](http://www.rightrelevance.com/search/articles?query=django) 
 
-<!--
-https://www.linkedin.com/job/home
-
-http://lanyrd.com/search/?context=future&q=django&type=conference
--->
-
 #### Python and Django Playbooks and Styleguides
 
 Python- Playbooks
@@ -3919,9 +3913,12 @@ Python- Playbooks
 Python- Playbooks
 * [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
 
+Python- Django- Project Stucture
+* [Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
+* [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
 <!--
 Structuring Django Project
-http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/
 http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html
 
 http://nvie.com/posts/pin-your-packages/
@@ -3978,16 +3975,19 @@ Python- Django- Forums and Lists
 
 Python- Django- Slack
 * [Django Developers](https://django-developers.herokuapp.com)
+
+<!--
+https://www.linkedin.com/job/home
+
+http://lanyrd.com/search/?context=future&q=django&type=conference
+-->
+<!--
 * [Pinax Slack](http://slack.pinaxproject.com)
 * [PyLadies](http://slackin.pyladies.com) and [PyLadies Remote](https://tlk.io/pyladiesremote)
-
-
-
 
 Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
-<!--
 https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
 https://docs.python.org/2/reference/grammar.html
 https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
@@ -4130,18 +4130,49 @@ RegEx
 * [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
 -->
 
-#### Python and Django Books and Tutorials
+#### Python and Django Support Groups, Books and Tutorials
 
 <!--
 https://docs.python.org/3/library/xml.dom.html
 
 https://learnxinyminutes.com/docs/pythonstatcomp/
 
+Two Scoops of Django
 https://hellowebapp.com/
--->
 
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
+Python- Users and Members
+* [Python Members](https://www.python.org/psf/members)
+* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+
+Python Mentors
+* [Python Mentors](http://pythonmentors.com)
+
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), and [PyLadies Remote](https://tlk.io/pyladiesremote)
+-->
+
+Django Girls Co-Founders
+* [Ola Sendecka](http://blog.sendecka.me)
+* [Ola Sitarska](http://ola.sitarska.com)
+
+Django Girls (Python- Django)
+* [Django Girls GitHub](https://github.com/DjangoGirls) 
+* [Django Girls Wiki](https://github.com/DjangoGirls/wiki)
+* [Django Girls Blog](http://blog.djangogirls.org)
+* [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
+* [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
+* [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
+* [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
+* [Django Girls Organize](http://organize.djangogirls.org)  
+* [Django Girls Coach](http://coach.djangogirls.org)  
+* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
+* [Django Girls Store](https://store.djangogirls.org)
+
+Django Girls- Cities
+* [Django Girls London](https://djangogirls.org/london)
+* [Django Girls Kansas City](https://djangogirls.org/kansascity)
 
 Python- Books and Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net)  
@@ -4434,18 +4465,13 @@ Python- Django- Everything
 Python- Django- Cmatrix
 * [Cmatrix](http://www.asty.org/cmatrix) and [Cmatrix Homebrew](http://brewformulas.org/Cmatrix)
 
+
+
+
 #### Python and Django Conferences and Mentors 
-
-Python- Users and Members
-* [Python Members](https://www.python.org/psf/members)
-* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
-
-Python Mentors
-* [Python Mentors](http://pythonmentors.com)
 
 Python and Django Conferences
 * [PyCon](http://www.pycon.org)
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), and [PyLadies Remote](https://tlk.io/pyladiesremote)
 * [PyData](http://pydata.org)  
 * [Django Events Foundation North America](http://defna.org) 
 * [DjangoCon U.S.](http://www.djangocon.us) and [DjangoCon E.U.](https://djangocon.eu)  
@@ -4562,29 +4588,6 @@ http://www.writethedocs.org/conf/na/2016/cfp/
 http://scipy2016.scipy.org/ehome/146062/332968/?&&
 http://scipy2016.scipy.org
 -->
-
-#### Python and Django Girls
-
-Django Girls Co-Founders
-* [Ola Sendecka](http://blog.sendecka.me)
-* [Ola Sitarska](http://ola.sitarska.com)
-
-Django Girls (Python- Django)
-* [Django Girls GitHub](https://github.com/DjangoGirls) 
-* [Django Girls Wiki](https://github.com/DjangoGirls/wiki)
-* [Django Girls Blog](http://blog.djangogirls.org)
-* [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
-* [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
-* [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
-* [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
-* [Django Girls Organize](http://organize.djangogirls.org)  
-* [Django Girls Coach](http://coach.djangogirls.org)  
-* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
-* [Django Girls Store](https://store.djangogirls.org)
-
-Django Girls- Cities
-* [Django Girls London](https://djangogirls.org/london)
-* [Django Girls Kansas City](https://djangogirls.org/kansascity)
 
 #### .NET, ASP, Visual Studio, WebMatrix
 
