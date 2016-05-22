@@ -102,10 +102,8 @@ Not-for-Profit
 * [Wikimedia](https://github.com/wikimedia)  
 * [Wikimedia Deutschland](https://github.com/wmde) 
 
-## Django Consulting
-* [Eldarion](https://github.com/eldarion)
-
 ## Digital Agency
+* [Eldarion](https://github.com/eldarion)
 * [ElevenYellow](https://github.com/elevenyellow)
 * [Filament Group](https://github.com/filamentgroup) 
 * [Hanno](https://github.com/wearehanno) 
