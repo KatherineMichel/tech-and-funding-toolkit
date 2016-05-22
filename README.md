@@ -3900,6 +3900,12 @@ https://github.com/pypa/warehouse
 
 Pythonista
 https://github.com/jacobian-archive
+
+https://www.python.org/community/workshops/
+
+https://www.djangoproject.com/foundation/developer-members/
+
+http://www.ellingtoncms.com
 -->
 
 #### Python and Django Users, Jobs, News
@@ -4047,7 +4053,18 @@ https://twitter.com/CodingIsForGirl/status/695712398024511490
 Make movies the same way Ola makes Coding is for Girls
 https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-http://www.apple.com/mac/imovie/
+http://www.apple.com/mac/imovie
+
+https://djangogirls.org/events/
+http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
+http://blog.djangogirls.org/submit
+https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
+http://remote.pyladies.com/resources
+
+https://github.com/pyladies/pyladies
+https://github.com/socalpyladies/socalpyladies.github.io
+http://socalpyladies.github.io/
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
 -->
 
 PyLadies
@@ -4510,11 +4527,7 @@ Assistance
 https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
 
 Python Guides
-https://github.com/pyladies/pyladies
 https://github.com/python/pycon-code-of-conduct
-https://github.com/socalpyladies/socalpyladies.github.io
-http://socalpyladies.github.io/
-https://github.com/DutchDjangoAssociation/djangovereniging.nl
 http://london.pydata.org
 
 https://groups.google.com/forum/#!msg/django-users/-iTZB7K1QI4/TTVXd9Y6EwAJ
@@ -4571,10 +4584,6 @@ http://pycon.blogspot.com/2016/03/why-not-join-sprints-this-year-at-pycon.html
 http://pycon.blogspot.com/2016/02/full-schedule-is-up-and-financial-aid.html
 https://us.pycon.org/2016/schedule/conference.json
 
-https://www.python.org/community/workshops/
-
-https://www.djangoproject.com/foundation/developer-members/
-
 https://github.com/PyCon/pycon
 https://pycon.readthedocs.org/en/latest
 
@@ -4583,17 +4592,9 @@ https://github.com/eldarion/djangocon.us
 https://ky395.us2.gondor.io
 http://eldarion.com
 
-http://www.ellingtoncms.com
-
 http://www.pydanny.com/beginners-guide-pycon-2014.html
 
-https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 https://djangogirls.org/pycon/
-https://djangogirls.org/events/
-http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
-http://blog.djangogirls.org/submit
-
-http://remote.pyladies.com/resources
 
 https://ep2016.europython.eu/en/call-for-proposals/
 
