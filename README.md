@@ -4065,6 +4065,15 @@ https://github.com/pyladies/pyladies
 https://github.com/socalpyladies/socalpyladies.github.io
 http://socalpyladies.github.io/
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
+
+https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+
+https://github.com/simpleisbetterthancomplex/simple-academy
+https://gitter.im/DjangoGirls/tutorial
+http://tutorial.djangogirls.org/en/intro_to_command_line/
+http://tutorial.djangogirls.org/en/python_introduction/
+
+https://docs.djangoproject.com/en/1.9/intro/tutorial01/
 -->
 
 PyLadies
@@ -4524,7 +4533,8 @@ Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
 
 <!--
-https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+DjangoCon 2015 Playlist
+https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t
 
 Python Guides
 https://github.com/python/pycon-code-of-conduct
