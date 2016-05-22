@@ -326,6 +326,15 @@ Associations
 Income Reports
 * [Income Reports](http://www.incomereports.co)
 
+<!--
+http://earningscast.com/calls
+
+Fidelity, Magellan, Vanguard 
+http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
+http://en.wikipedia.org/wiki/Janus_Capital_Group
+http://en.wikipedia.org/wiki/PIMCO
+-->
+
 #### Open Companies
 
 Buffer
@@ -1836,6 +1845,8 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+https://github.com/github/hub
+
 https://github.com/github/training-kit
 https://github.com/github-archive
 https://github.com/github-archive/training.github.com
@@ -2225,6 +2236,8 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+https://github.com/search?utf8=%E2%9C%93&q=help+wanted
+
 https://www.linkedin.com/job/home
 https://www.python.org/jobs
 
@@ -3741,6 +3754,10 @@ PHP- Twitter OAuth
 
 <!--
 WordPress (PG4WP)
+
+https://wordpress.org/themes/browse/new/
+https://wordpress.org/themes/search/bootstrap/
+https://www.woothemes.com/product-category/themes/free-themes/
 -->
 
 PHP/node.js- WordPress- Com, Calypso
@@ -3865,6 +3882,12 @@ Python- Django
 Python- Django People and Jobs
 * [Django People](https://people.djangoproject.com)
 * [Django Jobs](https://www.djangojobs.net) 
+
+<!--
+http://djangojobsboard.com/
+https://www.djangojobs.net/jobs
+https://code.djangoproject.com/wiki/DjangoJobs
+-->
 
 Python- Django Community
 * [Adrienne Friend](http://codingwithkniv.es)
@@ -7970,6 +7993,10 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
 * [This American Life](http://www.thisamericanlife.org)
+
+<!--
+http://www.ted.com/playlists/171/the_most_popular_talks_of_all
+-->
 
 Shows
 * [Founder Stories](http://techcrunch.com/video/founder-stories)
