@@ -75,9 +75,15 @@ Python- Django- Pinax
 * [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
 * [Pinax Symposion GitHub](https://github.com/pinax/symposion)  
 
+<!--
+https://github.com/pinax/pinax-blog
+https://github.com/pinax/pinax-starter-projects/tree/static
+https://github.com/pinax/pinax-starter-projects/tree/team-wiki
+-->
+
 Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
-* [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django )
+* [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django)
 * [PyBee Cookiecutter Project GitHub](https://github.com/pybee/cookiecutter-project)
 
 Python- Django- Python and Django official websites and code
@@ -96,6 +102,11 @@ Python- Django Under the Hood
 
 Python- Django- Django Birthday
 * [Django Birthday GitHub](https://github.com/jacobian/djangobirthday)
+
+<!--
+https://github.com/djangounderthehood/duh-web/blob/master/duh/settings.py
+https://github.com/jazzband/website
+-->
 
 Template Examples
 * [Django Website Templates](https://github.com/django/djangoproject.com/tree/master/djangoproject/templates)
