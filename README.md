@@ -3860,10 +3860,56 @@ Pyenv
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
  
+<!--
+https://www.linkedin.com/job/home
+
+http://lanyrd.com/search/?context=future&q=django&type=conference
+
+http://awesome-python.com
+https://code.djangoproject.com/wiki/DjangoResources
+
+https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
+
+https://github.com/django/code.djangoproject.com
+
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+
+* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+https://docs.python.org/devguide
+https://github.com/python/community-starter-kit
+https://www.djangoproject.com/fundraising/campaign/django-fellowship
+
+http://docs.python-guide.org/en/latest/starting/install/osx/
+
+https://www.npmjs.com/package/generator-django
+
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
+https://docs.python.org/3.5/library/stdtypes.html
+
+Python- Django- Sprints: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+https://docs.python.org/2/reference/grammar.html
+
+https://docs.python.org/3/library/xml.dom.html
+https://learnxinyminutes.com/docs/pythonstatcomp
+
+https://github.com/pypa/warehouse
+
+Pythonista
+https://github.com/jacobian-archive
+-->
+
 #### Python and Django Users, Jobs, News
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+<!--
+https://github.com/eldarion
+-->
 
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source)  
@@ -3933,6 +3979,10 @@ Python- PEP
 * [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
 * [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
 
+<!--
+https://github.com/amontalenti/elements-of-python-style
+-->
+
 Python- Style Guides
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
@@ -3986,9 +4036,6 @@ Python- Django- Slack
 #### Python and Django Support Groups, Books and Tutorials
 
 <!--
-https://docs.python.org/3/library/xml.dom.html
-https://learnxinyminutes.com/docs/pythonstatcomp/
-
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
@@ -4163,14 +4210,7 @@ Dedicated Python Hosting
 * [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
 * [pykube GitHub](https://github.com/eldarion-gondor/pykube)
 * [Python Anywhere](https://www.pythonanywhere.com) 
-
-<!--
-http://www.kelproject.com/
-https://github.com/kelproject
-https://github.com/kelproject/kel-docs
-
-https://github.com/eldarion/
--->
+* [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
 
 Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 * [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
@@ -4213,6 +4253,13 @@ More WSGI (See also Apache)
 * [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
 * [uWsgi GitHub](https://github.com/unbit/uwsgi)
 
+<!--
+http://python-packaging-user-guide.readthedocs.org/en/latest/installing
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
+-->
+
 Gunicorn (Python WSGI HTTP Server for UNIX)
 * [Gunicorn](http://gunicorn.org), [Gunicorn Python Warehouse](https://warehouse.python.org/project/gunicorn)  
 * [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
@@ -4230,6 +4277,13 @@ pytest and Nose (Unit Test Extension)
 * [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 * [pytest](http://pytest.org)
+
+<!--
+2.12 Writing your first patch for Django
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
+https://docs.python.org/3/library/unittest.html
+http://www.diveintopython.net/unit_testing/
+-->
 
 Tox (Automation)
 * [Tox Docs](https://tox.readthedocs.org/en/latest)
@@ -4268,6 +4322,16 @@ Python- Django- Rest Framework GIS
 * [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
 * [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
 * [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+Channels
+* [Channels GitHub](https://github.com/andrewgodwin/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
+* [Django Channels HTTP/WebSocket Server](https://github.com/andrewgodwin/daphne)
+
+<!--
+https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+
+https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
+-->
 
 Python- Django- Records, Requests, DJ Static, DJ Database URL
 * [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
@@ -4355,13 +4419,45 @@ Python- Imaging Library
 Python- Django- Forms
 * [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
 
+<!--
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+
+https://github.com/divio/django-mailchimp
+http://django-mailer2.readthedocs.org/en/latest
+
+https://en.wikipedia.org/wiki/ReStructuredText
+
+Mastering Regular Expressions Jeffrey Friedl
+https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
+https://docs.python.org/3.5/library/re.html
+http://regex.info/book.html
+
+RegEx
+* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
+* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
+
+http://www.diveintopython.net/regular_expressions/
+-->
+
 #### Python and Django Unique
+
+<!--
+https://github.com/kennethreitz/conda-buildpack
+http://conda.pydata.org/miniconda.html
+https://github.com/docopt/docopt
+-->
 
 Python- Mobile
 * [Kivy GitHub](https://github.com/kivy/kivy)
 * [PyBee Briefcase GitHub](https://github.com/pybee/briefcase)
 * [VOC Read the Docs](http://voc.readthedocs.org/en/latest/intro/getting-started.html)
 * Russell Keith-McGee: ["An Android app written in Python"](https://gist.github.com/freakboy3742/3c6b74e8506d47d9bd97)
+
+<!--
+https://github.com/kivy/kivy-website
+https://github.com/kivy/python-for-android
+-->
 
 CPython
 * [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
@@ -4374,107 +4470,6 @@ Python- Django- Everything
 
 Python- Django- Cmatrix
 * [Cmatrix](http://www.asty.org/cmatrix) and [Cmatrix Homebrew](http://brewformulas.org/Cmatrix)
-
-<!--
-https://www.linkedin.com/job/home
-
-http://lanyrd.com/search/?context=future&q=django&type=conference
-
-Python- Django- Sprints: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
-https://docs.python.org/2/reference/grammar.html
-https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
--->
-
-<!--
-http://awesome-python.com
-https://code.djangoproject.com/wiki/DjangoResources
-
-https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
-
-https://docs.python.org/3.5/library/stdtypes.html
-
-https://docs.python.org/devguide
-
-Project Structure
-http://docs.python-guide.org/en/latest/writing/structure
-
-http://docs.python-guide.org/en/latest/starting/install/osx/
-
-http://python-packaging-user-guide.readthedocs.org/en/latest/installing
-
-https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
-https://devcenter.heroku.com/articles/django-assets
-https://www.npmjs.com/package/generator-django
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
-https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
-
-2.12 Writing your first patch for Django
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
-https://docs.python.org/3/library/unittest.html
-http://www.diveintopython.net/unit_testing/
-
-https://github.com/django/code.djangoproject.com
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
-
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-
-https://github.com/kennethreitz/conda-buildpack
-http://conda.pydata.org/miniconda.html
-https://github.com/docopt/docopt
-
-https://github.com/kivy/kivy-website
-https://github.com/kivy/python-for-android
-
-https://github.com/andrewgodwin/daphne
-https://github.com/andrewgodwin/channels-examples
-https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
-https://github.com/andrewgodwin/channels
-http://channels.readthedocs.org/en/latest
-
-https://github.com/pypa/warehouse
-
-https://github.com/divio/django-mailchimp
-http://django-mailer2.readthedocs.org/en/latest
-
-https://en.wikipedia.org/wiki/ReStructuredText
-
-http://www.diveintopython.net/regular_expressions/
-
-Python Guides
-https://github.com/pyladies/pyladies
-https://github.com/python/pycon-code-of-conduct
-https://github.com/socalpyladies/socalpyladies.github.io
-http://socalpyladies.github.io/
-https://github.com/DutchDjangoAssociation/djangovereniging.nl
-http://london.pydata.org
-
-Pythonista
-
-jacobian-archive
-
-https://github.com/amontalenti/elements-of-python-style
-
-https://github.com/python/community-starter-kit
-https://www.djangoproject.com/fundraising/campaign/django-fellowship
-
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
-* [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
-Mastering Regular Expressions Jeffrey Friedl
-https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-https://docs.python.org/3.5/library/re.html
-http://regex.info/book.html
-
-RegEx
-* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
--->
 
 #### Python and Django Conferences and Mentors 
 
@@ -4512,6 +4507,16 @@ Assistance
 * [Financial Assistance](https://us.pycon.org/2016/assistance)
 
 <!--
+https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+
+Python Guides
+https://github.com/pyladies/pyladies
+https://github.com/python/pycon-code-of-conduct
+https://github.com/socalpyladies/socalpyladies.github.io
+http://socalpyladies.github.io/
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+http://london.pydata.org
+
 https://groups.google.com/forum/#!msg/django-users/-iTZB7K1QI4/TTVXd9Y6EwAJ
 https://groups.google.com/forum/#!topic/djangocon-organizers/-I4dLxPYXM8
 https://groups.google.com/forum/#!topic/djangocon-organizers/whBrRrNnxQA
@@ -5338,6 +5343,11 @@ Python- Heroku
 * [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
 * [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
 
+<!--
+https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
+https://devcenter.heroku.com/articles/django-assets
+-->
+
 Python- Amazon
 * [AWS Python](https://aws.amazon.com/python)
 * [AWS Python SDK (Boto3)](https://aws.amazon.com/sdk-for-python) and [Boto3 GitHub](https://github.com/boto/boto3)
@@ -5473,13 +5483,8 @@ http://postgis.refractions.net
 
 #### Dev Ops Tools
 
-See also Fabric
+See also Django
  
-Python- Kubernetes
-* [Gondor (on Kubernetes)](https://gondor.io)
-* [pykube GitHub](https://github.com/eldarion-gondor/pykube)
-* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)  
-
 Docker
 * [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 * [Docker GitHub](https://github.com/docker/docker)  
@@ -8033,14 +8038,10 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
 * [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
 * [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
-* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), and[TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest)
+* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
 * [This American Life](http://www.thisamericanlife.org)
-
-<!--
-http://www.ted.com/playlists/171/the_most_popular_talks_of_all
--->
 
 Shows
 * [Founder Stories](http://techcrunch.com/video/founder-stories)
