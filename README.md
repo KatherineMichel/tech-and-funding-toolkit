@@ -4586,16 +4586,8 @@ http://pycon.blogspot.com/2016/03/why-not-join-sprints-this-year-at-pycon.html
 http://pycon.blogspot.com/2016/02/full-schedule-is-up-and-financial-aid.html
 https://us.pycon.org/2016/schedule/conference.json
 
-https://github.com/PyCon/pycon
-https://pycon.readthedocs.org/en/latest
-
 http://www.pydanny.com/beginners-guide-pycon-2014.html
 https://djangogirls.org/pycon/
-
-https://symposion.readthedocs.org/en/latest/
-https://github.com/eldarion/djangocon.us
-https://ky395.us2.gondor.io
-http://eldarion.com
 
 https://2016.djangocon.eu/team/
 https://2016.djangocon.eu/schedule/#workshops
