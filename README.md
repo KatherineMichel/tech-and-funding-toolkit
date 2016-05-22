@@ -4251,11 +4251,17 @@ https://github.com/django/code.djangoproject.com
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
 
+http://www.kelproject.com/
+https://github.com/kelproject
+https://github.com/kelproject/kel-docs
+
 https://github.com/eldarion/
 https://github.com/pinax/pinax-webanalytics
+https://pinax-blog.readthedocs.io/en/latest/
 http://pinaxproject.com/pinax
 http://pinaxproject.com/pinax/quick_start
 http://pinaxproject.com/pinax/apps_list
+https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
 https://github.com/pinax/pinax-theme-bootstrap
 https://github.com/pinax/django-user-accounts
 https://github.com/pinax/django-forms-bootstrap
