@@ -1503,6 +1503,10 @@ Chrome Extensions
 <!--
 chrome://apps
 
+Google Docs, Scraper Wiki
+https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
+https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
+
 React Developer Tools
 https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
 https://facebook.github.io/react-native/docs/debugging.html
@@ -1628,11 +1632,10 @@ Mac OS X- Terminal, Bash (Unix)
 * [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
 
-<!--
-https://en.wikipedia.org/wiki/Shell_builtin
-http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html
-https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
--->
+Shell and Bash Builtins
+* [Shell Builtins Wikipedia](https://en.wikipedia.org/wiki/Shell_builtin)
+* [Bash Reference Manual- Shell Builtin Commands](http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html)
+* [Bash Reference Manual- Builtins](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html)
 
 Sha-Bang/Shebang
 * [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
@@ -3754,10 +3757,6 @@ PHP- Twitter OAuth
 
 <!--
 WordPress (PG4WP)
-
-https://wordpress.org/themes/browse/new/
-https://wordpress.org/themes/search/bootstrap/
-https://www.woothemes.com/product-category/themes/free-themes/
 -->
 
 PHP/node.js- WordPress- Com, Calypso
@@ -3781,8 +3780,11 @@ PHP- WordPress- Developer Resource
 * [WordPress Codex Developer Documentation](http://codex.wordpress.org/Developer_Documentation)
 * [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
 
-WordPress Official Themes
-* [Official Themes](https://wordpress.org/themes)) 
+WordPress Themes
+* [WordPress Official Themes](https://wordpress.org/themes) 
+* [WordPress New Official Themes](https://wordpress.org/themes/browse/new)
+* [WordPress Official Bootstrap Themes](https://wordpress.org/themes/search/bootstrap)
+* [WooCommerce Free Themes](https://www.woothemes.com/product-category/themes/free-themes)
 
 WordPress Page Templates
 * [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
@@ -3881,13 +3883,9 @@ Python- Django
 
 Python- Django People and Jobs
 * [Django People](https://people.djangoproject.com)
+* [Django Official Jobs Board](https://code.djangoproject.com/wiki/DjangoJobs) 
 * [Django Jobs](https://www.djangojobs.net) 
-
-<!--
-http://djangojobsboard.com/
-https://www.djangojobs.net/jobs
-https://code.djangoproject.com/wiki/DjangoJobs
--->
+* [The Django Jobs Board](http://djangojobsboard.com) 
 
 Python- Django Community
 * [Adrienne Friend](http://codingwithkniv.es)
