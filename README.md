@@ -3914,9 +3914,8 @@ http://www.ellingtoncms.com
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
-<!--
-https://github.com/eldarion
--->
+Consulting Forms
+* [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source)  
