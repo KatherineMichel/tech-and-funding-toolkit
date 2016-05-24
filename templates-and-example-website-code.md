@@ -118,13 +118,14 @@ Template Examples
 * [Python Website Templates](https://github.com/python/pythondotorg/tree/master/templates)
 * [Django Girls Website Templates](https://github.com/DjangoGirls/djangogirls/tree/master/templates)
 
+Python- Django Brent O'Connor Django Base Template and Front-End Framework
+* [Brent O'Connor Django Base Template GitHub](https://github.com/epicserve/django-base-site) and [Django Base Template Docs](http://django-base-site.readthedocs.io/en/latest)
+* [Brent O'Connor Front-End Framework GitHub](https://github.com/epicserve/front-end-template) 
+
 Python- Django- Django Product Websites
 * [Django Sites GitHub](https://github.com/rossp/djangosites.org)
 * [Django Packages GitHub](https://github.com/pydanny/djangopackages)
 * [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
-
-Python- Pelican
-* [Full Stack Python GitHub](https://github.com/makaimc/fullstackpython.com)
 
 Python- Django- Python Product Websites
 * [Celery Project](http://www.celeryproject.org)  and [Celery Project GitHub](https://github.com/celery/celeryproject) 
@@ -167,6 +168,9 @@ David Leonard- Django Hackathon Starter (Python- Django) and Django tutorial
 Pier Angelo
 * [Pier Angelo GitHub](https://github.com/pierangelo1982)
 * [Pier Angelo Palmieri GitHub](https://github.com/pierangelo1982/palmieri)
+
+Python- Django- templates
+* [Django + HTML5B + Bootstrap GitHub](https://github.com/xenith/django-base-template)  
 
 App.net (Python- Django (Also Node))
 * [App.net Alpha Github](https://github.com/appdotnet/alpha)  
@@ -251,8 +255,8 @@ Miscellaneous (Python)
 * [Zipline Spinoff Quantopian's Algorithms Github](https://github.com/quantopian/quantopian-algos)  
 * [Zope Web App Server Github](https://github.com/zopefoundation/Zope)  
 
-Python- Django- templates
-* [Django + HTML5B + Bootstrap GitHub](https://github.com/xenith/django-base-template)  
+Python- Pelican
+* [Full Stack Python GitHub](https://github.com/makaimc/fullstackpython.com)
 
 ## ASP
 
