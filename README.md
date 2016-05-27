@@ -4282,77 +4282,110 @@ uWSGI
 
 http://12factor.net
 
+http://lincolnloop.com
+
 http://jmeter.apache.org
 https://en.wikipedia.org/wiki/Apache_JMeter
 
+https://www.varnish-cache.org
+http://uwsgi-docs.readthedocs.org/en/latest
 http://uwsgi-docs.readthedocs.org/en/latest/Options.html#env
+
 https://github.com/jacobian/django-dotenv
 https://github.com/lincolnloop/django-layout
 http://django-debug-toolbar.readthedocs.org
 https://github.com/recamshak/django-debug-panel
 https://github.com/dcramer/django-devserver
- https://docs.djangoproject.com/en/dev/ref/models/querysets/#select-related
-• https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related
+
+https://docs.djangoproject.com/en/dev/ref/models/querysets/#select-related
+https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related
 https://docs.djangoproject.com/en/1.7/ref/models/queries/#prefetch-objects
 https://docs.djangoproject.com/en/dev/ref/models/options/#index-together
+
 http://en.wikipedia.org/wiki/Memoization
+
 https://johnny-cache.readthedocs.org/en/latest
 https://cache-machine.readthedocs.org/en/latest
+
 https://docs.djangoproject.com/en/dev/topics/db/multi-db
 https://docs.djangoproject.com/en/dev/topics/db/sql/#performing-raw-queries
+
 Simon Willison’s Redis Tutorial
-• Scaling SQL with Redis by David Cramer
+Scaling SQL with Redis by David Cramer
+
 http://www.postgresql.org/docs/9.3/static/functions-json.html
 http://obartunov.livejournal.com/175235.html
+
 Sharding Your Database (Heroku)
 • Why You Don’t Want to Shard (Percona)
 • Scaling Pinterest presentation 
 • Scaling Instagram presentation
 • Sharding IDs at Instagram
 • Example Sharding Tools (Disqus)
+
 How Basecamp Next Got to Be So Damn Fast... and follow-up posts, How Key Based Expiration Works
 and The Performance Impact of Russian Doll Caching
+
 Gist on GitHub
 http://en.wikipedia.org/wiki/Thundering_herd_problem
+
 https://django-transaction-hooks.readthedocs.org
 http://celery.readthedocs.org/en/latest/userguide/periodic-tasks.html
+
 http://lanyrd.com/2012/djangocon-us/sxbyb
 High Performance Websites
 https://developer.yahoo.com/yslow
 https://developers.google.com/speed/pagespeed
+
 https://django-pipeline.readthedocs.org/en/latest
 http://django-compressor.readthedocs.org/en/latest
 http://webassets.readthedocs.org/en/latest
 http://requirejs.org
 http://browserify.org
+
 http://easy-thumbnails.readthedocs.org/en/latest/ref/optimize
+
 http://uwsgi-docs.readthedocs.org/en/latest/StaticFiles.html
 http://whitenoise.evans.io
+
 https://django-discover-jenkins.readthedocs.org/en/latest
+
 http://cr.yp.to/daemontools.html
 http://supervisord.org
 http://circus.readthedocs.org
+
 http://uwsgi-docs.readthedocs.org/en/latest/articles/TheArtOfGracefulReloading.html
+
 http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html
 http://blog.codinghorror.com/hardware-is-cheap-programmers-are-expensive
+
 http://lanyrd.com/2012/djangocon-europe/srpqz
+
 https://tools.percona.com/wizard
+
 http://uwsgi-docs.readthedocs.org/en/latest/articles/SerializingAccept.html
+
 http://docs.gunicorn.org/en/latest/install.html#async-workers
 https://glyph.twistedmatrix.com/2014/02/unyielding.html
 http://lincolnloop.com/blog/architecting-realtime-applications
+
+
+
 http://niwibe.github.io/django-redis
 http://en.wikipedia.org/wiki/Cache_stampede
 https://github.com/joshourisman/django-newcache
 https://github.com/lincolnloop/django-ft-cache
+
 Django docs: https://docs.djangoproject.com/en/dev/ref/settings/#caches
 https://docs.djangoproject.com/en/dev/topics/http/sessions/#using-cookie-based-sessions
 https://docs.djangoproject.com/en/dev/ref/settings/#databases
 https://docs.djangoproject.com/en/dev/topics/logging/#configuringlogging
 http://uwsgi-docs.readthedocs.org/en/latest/Logging.html
 https://docs.djangoproject.com/en/dev/ref/middleware
+
 https://github.com/carljm/django-secure#readme
 https://www.owasp.org
+
 https://www.varnish-cache.org/docs/4.0/users-guide
 https://www.varnish-cache.org/docs/4.0/whats-new/upgrading.html
 https://www.varnish-cache.org/docs/4.0/users-guide/vcl-backends.html#directors
@@ -4360,18 +4393,23 @@ https://www.varnish-cache.org/docs/4.0/users-guide/increasing-your-hitrate.html
 https://www.varnish-cache.org/docs/4.0/users-guide/esi.html
 https://www.varnish-cache.org/docs/4.0/users-guide/vcl-backends.html#health-checks
 https://www.varnish-cache.org/docs/4.0/users-guide/purging.html#http-purging
+
 UNIX and Linux System Administration Handbook, Essential System Administration 
 https://github.com/bitly/google_auth_proxy
 http://en.wikipedia.org/wiki/Principle_of_least_privilege
 https://github.com/wal-e/wal-e
+
 http://newrelic.com
 https://graphite.readthedocs.org
 https://github.com/brutasse/graphite-api
 http://grafana.org
+
 http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
 http://hekad.readthedocs.org/en/latest/man/plugin.html#statsdinput
+
 https://github.com/andymckay/django-statsd/pull/59
+
 https://collectd.org
 https://github.com/BrightcoveOS/Diamond
 http://www.nagios.org
@@ -4379,38 +4417,51 @@ http://riemann.io
 http://cabotapp.com
 https://github.com/scobal/seyren
 https://github.com/livingsocial/rearview
+
 http://www.splunk.com
 https://www.loggly.com
 http://www.elasticsearch.org
 http://www.elasticsearch.org/overview/kibana
 http://hekad.readthedocs.org
 http://logstash.net
+
 https://www.getsentry.com
 https://github.com/getsentry?query=raven
+
 http://httpd.apache.org/docs/2.2/programs/ab.html
 http://www.joedog.org/siege-home
+
 http://lincolnloop.com/blog/load-testing-jmeter-part-3-replaying-apache-logs
+
 https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin
+
 More info at: http://farmdev.com/thoughts/85/dark-launching-or-dark-testing-new-software-features
 http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production
 http://blog.disqus.com/post/789540337/partial-deployment-with-feature-switches
 https://www.youtube.com/watch?v=WMRjj06R6jg
+
 https://www.ssllabs.com/ssltest/index.html
+
 https://www.varnish-cache.org/docs/4.0/reference/vsl.html
 https://www.varnish-cache.org/docs/4.0/reference/vsl-query.html
+
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#commands
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#events
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#flower-real-time-celery-web-monitor
-https://code.google.com/p/memcache-top
+
 http://www.postgresql.org/docs/9.3/static/pgstatstatements.html
-http://www.percona.com/doc/percona-toolkit/2.2/pt-query-digest.html
-http://dalibo.github.io/pgbadger
-http://en.wikipedia.org/wiki/Cache_stampede
+
 https://docs.djangoproject.com/en/dev/ref/settings/#key-prefix
 https://docs.djangoproject.com/en/dev/ref/settings/#version
+
+http://en.wikipedia.org/wiki/Cache_stampede
+http://en.wikipedia.org/wiki/Not_invented_here
+
+https://code.google.com/p/memcache-top
+http://www.percona.com/doc/percona-toolkit/2.2/pt-query-digest.html
+http://dalibo.github.io/pgbadger
 http://signalvnoise.com/posts/3174-taking-the-pain-out-of-mysql-schema-changes
 http://www.aeracode.org/2012/11/13/one-change-not-enough
-http://en.wikipedia.org/wiki/Not_invented_here
 http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-ofinstances-dozens-of
 -->
 
