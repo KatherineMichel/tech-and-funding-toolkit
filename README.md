@@ -4089,6 +4089,13 @@ https://django-unleashed.com/
 PyLadies
 * [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
 
+High Performance Django
+* [High Performance Django](https://highperformancedjango.com)
+
+Mastering Django and Django Book
+* [Mastering Django (Django Book repurposed)](http://masteringdjango.com) and [Mastering Django PDF](https://leanpub.com/masteringdjangocore)
+* [Django Book (Deprecated but useful)](http://www.djangobook.com)
+
 Django Girls Co-Founders
 * [Ola Sendecka](http://blog.sendecka.me)
 * [Ola Sitarska](http://ola.sitarska.com)
@@ -4111,10 +4118,11 @@ Django Girls- Cities
 * [Django Girls Kansas City](https://djangogirls.org/kansascity)
 
 Hello Web App
-* [Hello Web App](https://hellowebapp.com)
+* [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
 
 Two Scoops of Django
 * [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
+* [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
 
 Python- Books and Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net)  
@@ -4134,7 +4142,6 @@ O'Reilly Test-Driven Development with Python
 
 Python- Django Tutorials (excluding Django Girls)
 * [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-* [Django Book (Deprecated but useful)](http://www.djangobook.com)  
 * [Light Weight Django](http://it-ebooks.info/book/2820)  
 * [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
@@ -4143,8 +4150,19 @@ Django Carrots (Python- Django)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 <!--
+https://www.python.org/doc/
+https://docs.python.org/3.5/library/re.html
+https://docs.python.org/3.5/library/datetime.html
+
 https://docs.python.org/2/howto/descriptor.html
 https://docs.python.org/2/tutorial/errors.html
+
+https://docs.djangoproject.com/en/1.9/howto/custom-template-tags/
+https://docs.djangoproject.com/en/1.9/topics/templates/
+The Django Template Language
+https://docs.djangoproject.com/en/1.9/topics/http/urls/#passing-extra-options-to-view-functions
+https://docs.djangoproject.com/en/1.9/topics/signals/
+https://docs.djangoproject.com/en/1.9/ref/templates/api/#playing-with-context-objects
 
 http://media.readthedocs.org/pdf/django/1.9.x/django.pdf
 https://docs.djangoproject.com/en/1.9/ref/contrib/gis/tutorial/
@@ -4369,6 +4387,8 @@ Channels
 * [Django Channels HTTP/WebSocket Server](https://github.com/andrewgodwin/daphne)
 
 <!--
+https://github.com/jacobian/demo-thing
+
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 
 https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
@@ -4959,6 +4979,8 @@ https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click
 https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
 https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
 https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
+
+https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
 
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
 
