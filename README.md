@@ -8541,6 +8541,21 @@ STEM Journals
 * [Science News](https://www.sciencenews.org)
 * [Social Sciences Research Network](http://www.ssrn.com/en) and [Social Sciences Research Network Search](http://papers.ssrn.com)
 
+<!--
+Check Often
+* Check [GitHub Trending](https://github.com/trending) and [Product Hunt](https://www.producthunt.com) often, preferably daily
+* [Product Hunt Today](http://ph.needles.me)
+* [Makerbase Explore](https://makerba.se/explore)
+* [StackShare Trending](http://stackshare.io/trending/tools) 
+
+More News
+* [Hacker News](https://news.ycombinator.com)
+* [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
+* Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+* [Feedly](https://feedly.com)
+-->
+
 Tech Aggregated, Question and Answer Forums
 * [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 * [Inside Tech](https://www.inside.com/tech)
