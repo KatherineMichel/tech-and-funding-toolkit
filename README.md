@@ -2249,7 +2249,7 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
-## Possible Open Source Repo Docs
++## Possible Open Source Repo Docs
 
 * README.md
 * LICENSE.md
@@ -4603,11 +4603,25 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 * [Waitress GitHub](https://github.com/Pylons/waitress)  
 * [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
 
-Python- Django- Records, Requests, DJ Static, DJ Database URL
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+Python- Django- DJ Static, DJ Database URL
 * [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
 * [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url) and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Python- Django and Celery (Also Example code)
+* [Celery](http://www.celeryproject.org)  
+* [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
+
+Optimization
+* [Cloudflare](https://www.cloudflare.com) 
+
+Python- Django- BCrypt (Not just for Django)
+* [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
+* [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
+* [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
+
+Python- Fabric
+* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric) 
 
 #### Python and Django Testing and Automation
 
@@ -4643,11 +4657,6 @@ https://django-extensions.readthedocs.io/en/latest/installation_instructions.htm
 Python- Django- Migrations
 * [South](http://south.aeracode.org)  
 
-Python- Django and Celery (Also Example code)
-* [Celery](http://www.celeryproject.org)  
-* [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html)  
-
 Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org)  
 * [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
@@ -4659,6 +4668,10 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
 * [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
+
+Python- Django- Records, Requests
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
 Channels
 * [Channels GitHub](https://github.com/andrewgodwin/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
@@ -4690,14 +4703,6 @@ Python- Django- Forms
 * [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
 
 <!--
-Python- Django- BCrypt (Not just for Django)
-* [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
-* [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
-* [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
-
-Python- Fabric
-* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric) 
-
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
 
