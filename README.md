@@ -85,7 +85,12 @@ Table of Content
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Deployment](#python-and-django-deployment)
+  * [Python and Django Lincoln Loop Stack](#python-and-django-lincoln-loop-stack)
+  * [Python and Django Common Deployment Tools](#python-and-django-common-deployment-tools)
+  * [Python and Django Testing and Automation](#python-and-django-testing-and-automation)
   * [Python and Django Useful Tools](#python-and-django-useful-tools)
+  * [Python and Django CMS](#python-and-django-cms)
+  * [Python and Django Geo](#python-and-django-geo)
   * [Python and Django Unique](#python-and-django-unique)
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
@@ -1503,12 +1508,11 @@ Chrome Extensions
 * [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
 
 <!--
 chrome://apps
 
-Google Docs, Scraper Wiki
-https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
 https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
 
 React Developer Tools
@@ -1836,6 +1840,7 @@ Git Cheat Sheets and Tutorials
 * [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
 * [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
 * [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
+* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
 * [Git Index](http://gitref.org)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
@@ -1968,12 +1973,9 @@ GitLab (See also Project Management)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
-<!--
-https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html
--->
-
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
+* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
 * [Google Code](https://code.google.com)  
 * [Sourceforge](http://sourceforge.net)  
 * [Codebase](https://www.codebasehq.com)  
@@ -2732,6 +2734,9 @@ Prototyping Software- Others
 * [Balsamiq](https://balsamiq.com) and [Balsamiq Mockups](https://balsamiq.com/products/mockups)
 * [Axure](http://www.axure.com)
 * See also Apple
+
+Prototyping Software- Wirify
+* [Wirify](https://www.wirify.com)
 
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
@@ -3990,9 +3995,7 @@ Python- Django- Project Stucture
 * [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
 
 <!--
-Structuring Django Project
-http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html
-
+See other article also
 http://nvie.com/posts/pin-your-packages/
 -->
 
@@ -4067,14 +4070,19 @@ Python- Django- Slack
 #### Python and Django Support Groups, Books and Tutorials
 
 <!--
+http://it-ebooks.info/book/3526
+http://www.seleniumhq.org
+
+http://it-ebooks.info/book/3816
+
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 https://docs.djangoproject.com/en/1.9/intro/tutorial01
 
-https://djangogirls.org/events/
-http://tutorial.djangogirls.org/en/intro_to_command_line/
-http://tutorial.djangogirls.org/en/python_introduction/
+https://djangogirls.org/events
+http://tutorial.djangogirls.org/en/intro_to_command_line
+http://tutorial.djangogirls.org/en/python_introduction
 https://gitter.im/DjangoGirls/tutorial
 
 https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
@@ -4134,6 +4142,7 @@ Django Girls- Cities
 
 Hello Web App
 * [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
+* [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
 
 Two Scoops of Django
 * [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
@@ -4264,6 +4273,8 @@ Python- Django- Cookiecutter (See also Packages)
 #### Python and Django Deployment
 
 <!--
+https://github.com/lincolnloop/django-layout
+
 High Performance Django Stack
 
 • Load Balancer:
@@ -4275,10 +4286,6 @@ High Performance Django Stack
 • App Server: uWSGI, Gunicorn, Apache
 • Cache: Memcached, Redis
 • Database: Postgres, MySQL/MariaDB
-
-Preferred
-Varnish
-uWSGI
 
 http://12factor.net
 
@@ -4472,9 +4479,10 @@ Python- Django- Git and Deployment
 Python- PEP 3333 (Python Web Server Gateway Interface)
 * [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
 
-Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
-* [Psycopg](http://initd.org/psycopg)  
-* [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
+Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
+* [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
+* [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
+* [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
 
 Dedicated Python Hosting
 * [Gondor (on Kubernetes)](https://gondor.io)
@@ -4483,10 +4491,45 @@ Dedicated Python Hosting
 * [Python Anywhere](https://www.pythonanywhere.com) 
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
 
-Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
-* [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
-* [Django Girls Switch to Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/commit/3bbef2ac03199932c1a9473c60eae28eefc63b52)
-* [Django Girls Tutorial- Heroku (just before Python Anywhere) GitHub](https://github.com/DjangoGirls/tutorial/blob/01001a4d61ee9bafcf754644c3fda7018010b887/en/deploy/README.md)
+<!--
+#### Lincoln Loop Stack
+
+Load Balancer- Open Source (Lincoln Loop prefers Varnish)
+* HAProxy
+* Nginx
+* Varnish
+
+Load Balancer- Commercial
+* Amazon ELB (Elastic Load Balancer)
+* Rackspace Clould Load Balancer
+
+Web Accelerator- Open Source (Lincoln Loop prefers Varnish)
+* Varnish
+* Nginx + Memcached
+
+Web Accelerator- Commercial
+* Fastly
+* Cloudflare
+
+App Server (Lincoln Loop prefers uWSGI)
+* uWSGI
+* Gunicorn
+* Apache
+
+Cache
+* [Memcached](http://memcached.org) 
+* [Redis](http://redis.io)
+
+Database
+* Postgres
+* MySQL/MariaDB
+-->
+
+#### Python and Django Common Deployment Tools
+
+Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
+* [Psycopg](http://initd.org/psycopg)  
+* [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
 
 Python- Django- Environmental Variables
 * os.getenv and os.environ.get
@@ -4495,14 +4538,6 @@ Python- Django- Environmental Variables
 Python- Django- Random SECRET_KEY
 * [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
 * [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
-
-Python- Django- BCrypt (Not just for Django)
-* [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
-* [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
-* [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
-
-Python- Fabric
-* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric) 
 
 Python- Django- Static File Serving
 * [Whitenoise GitHub](https://github.com/evansd/whitenoise) 
@@ -4540,12 +4575,13 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 * [Waitress GitHub](https://github.com/Pylons/waitress)  
 * [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
 
-Memcached (Object Caching)
-* [Memcached](http://memcached.org) 
+Python- Django- Records, Requests, DJ Static, DJ Database URL
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url) and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
 
-<!--
-http://redis.io
--->
+#### Python and Django Testing and Automation
 
 pytest and Nose (Unit Test Extension)
 * [Nose GitHub](https://github.com/nose-devs/nose)
@@ -4564,9 +4600,6 @@ http://www.diveintopython.net/unit_testing/
 
 Tox (Automation)
 * [Tox Docs](https://tox.readthedocs.org/en/latest)
-
-Automated Dependency Management
-* [Requires.io](https://requires.io)
 
 #### Python and Django Useful Tools
 
@@ -4599,12 +4632,6 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
-Python- Django- Rest Framework GIS
-* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
 Channels
 * [Channels GitHub](https://github.com/andrewgodwin/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
 * [Django Channels HTTP/WebSocket Server](https://github.com/andrewgodwin/daphne)
@@ -4617,37 +4644,61 @@ https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_futu
 https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
 -->
 
-Python- Django- Records, Requests, DJ Static, DJ Database URL
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
-* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url) and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+Python- Django- Python Social Auth
+* [Python Social Auth](https://github.com/omab/python-social-auth)  
+* [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
+* [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
+* [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
 
-Python- Python/Django- Internationalization and Localization, Translation
-* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
-* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
+Python- Django- Search
+* [Haystack](http://haystacksearch.org)  and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
 
-GeoDjango
-* [GeoDjango](http://geodjango.org)  
-* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
+Python- Imaging Library
+* [Python Imaging Library](http://www.pythonware.com/products/pil)  and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
+* [Python Imaging Library Read the Docs](https://pillow.readthedocs.org)  
+* [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
 
-PostGIS (Spatial Database Extender for PostgreSQL)
-* [PostGIS](http://postgis.net)  
-* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+Python- Django- Forms
+* [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
 
-SpatiaLite (Spatial Database Extender for SQLite)
-* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+<!--
+Python- Django- BCrypt (Not just for Django)
+* [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
+* [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
+* [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
+
+Python- Fabric
+* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric) 
+
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+
+https://github.com/divio/django-mailchimp
+http://django-mailer2.readthedocs.org/en/latest
+
+https://en.wikipedia.org/wiki/ReStructuredText
+
+Mastering Regular Expressions Jeffrey Friedl
+https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
+https://docs.python.org/3.5/library/re.html
+http://regex.info/book.html
+
+https://docs.python.org/3.5/howto/regex.html
+
+RegEx
+* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
+* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
+
+http://www.diveintopython.net/regular_expressions/
+-->
+
+Automated Dependency Management
+* [Requires.io](https://requires.io)
+
+Python- Django- TinyMCE
+* [TinyMCE GitHub](https://github.com/tinymce/tinymce) 
+
+#### Python and Django CMS
 
 Python- Django-MPTT (Modified Pre-Order Traversal Tree)
 * [Django-MPTT](http://django-mptt.github.io/django-mptt)  
@@ -4683,46 +4734,39 @@ Python- Django- Other CMS and E-Commerce Options
 * [Oscar Read the Docs](http://django-oscar.readthedocs.org/en/latest) and [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
  
-Python- Django- TinyMCE
-* [TinyMCE GitHub](https://github.com/tinymce/tinymce)  
+#### Python and Django Geo
 
-Python- Django- Python Social Auth
-* [Python Social Auth](https://github.com/omab/python-social-auth)  
-* [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
-* [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
-* [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
+Python- Django- Rest Framework GIS
+* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
 
-Python- Django- Search
-* [Haystack](http://haystacksearch.org)  and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
+Python- Python/Django- Internationalization and Localization, Translation
+* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
 
-Python- Imaging Library
-* [Python Imaging Library](http://www.pythonware.com/products/pil)  and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
-* [Python Imaging Library Read the Docs](https://pillow.readthedocs.org)  
-* [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
+GeoDjango
+* [GeoDjango](http://geodjango.org)  
+* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
 
-Python- Django- Forms
-* [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
+PostGIS (Spatial Database Extender for PostgreSQL)
+* [PostGIS](http://postgis.net)  
+* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
 
-<!--
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
-
-https://github.com/divio/django-mailchimp
-http://django-mailer2.readthedocs.org/en/latest
-
-https://en.wikipedia.org/wiki/ReStructuredText
-
-Mastering Regular Expressions Jeffrey Friedl
-https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-https://docs.python.org/3.5/library/re.html
-http://regex.info/book.html
-
-RegEx
-* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
-
-http://www.diveintopython.net/regular_expressions/
--->
+SpatiaLite (Spatial Database Extender for SQLite)
+* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
 
 #### Python and Django Unique
 
