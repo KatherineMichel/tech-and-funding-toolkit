@@ -4263,6 +4263,20 @@ Python- Django- Cookiecutter (See also Packages)
 
 #### Python and Django Deployment
 
+<!--
+High Performance Django Stack
+
+• Load Balancer:
+– Open Source: HAProxy, Nginx, Varnish
+– Commercial: Amazon ELB (Elastic Load Balancer), Rackspace Clould Load Balancer
+• Web Accelerator:
+– Open Source: Varnish, Nginx + Memcached
+– Commercial: Fastly, Cloudflare
+• App Server: uWSGI, Gunicorn, Apache
+• Cache: Memcached, Redis
+• Database: Postgres, MySQL/MariaDB
+-->
+
 Python- Django- Git and Deployment
 * [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
 * [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
@@ -4341,6 +4355,10 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 Memcached (Object Caching)
 * [Memcached](http://memcached.org) 
 
+<!--
+http://redis.io
+-->
+
 pytest and Nose (Unit Test Extension)
 * [Nose GitHub](https://github.com/nose-devs/nose)
 * [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
@@ -4348,6 +4366,8 @@ pytest and Nose (Unit Test Extension)
 * [pytest](http://pytest.org)
 
 <!--
+https://docs.python.org/3.5/library/unittest.html
+
 2.12 Writing your first patch for Django
 https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
 https://docs.python.org/3/library/unittest.html
