@@ -1872,15 +1872,20 @@ https://guides.github.com/features/issues
 https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
 https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
 
-https://help.github.com/articles/helping-people-contribute-to-your-project/
-
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2046-github-desktop-is-now-available
 https://github.com/blog/2097-improved-commenting-with-markdown
 https://help.github.com/articles/creating-a-pull-request
 https://github.com/blog/957-introducing-issue-mentions
-https://github.com/blog/2111-issue-and-pull-request-templates
 https://help.github.com/articles/adding-a-file-to-a-repository
+
+https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
+
+https://github.com/blog/2111-issue-and-pull-request-templates
+https://help.github.com/articles/helping-people-contribute-to-your-project/
+https://help.github.com/articles/creating-an-issue-template-for-your-repository
+https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
+https://help.github.com/articles/setting-guidelines-for-repository-contributors/
 
 https://help.github.com/articles/adding-a-remote
 https://help.github.com/articles/removing-a-remote
