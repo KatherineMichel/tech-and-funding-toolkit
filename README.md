@@ -1865,6 +1865,8 @@ https://github.com/jlord/git-it
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/about-repository-graphs#traffic
 
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2046-github-desktop-is-now-available
 https://github.com/blog/2097-improved-commenting-with-markdown
@@ -3901,28 +3903,14 @@ Pyenv
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
  
 <!--
-http://lanyrd.com/search/?context=future&q=django&type=conference
-
-* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
-https://docs.python.org/devguide
-https://github.com/python/community-starter-kit
-https://www.djangoproject.com/fundraising/campaign/django-fellowship
-
-http://docs.python-guide.org/en/latest/starting/install/osx/
-
-https://www.npmjs.com/package/generator-django
-
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
 Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
+* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+https://www.npmjs.com/package/generator-django
+
 https://github.com/pypa/warehouse
-
-https://www.python.org/community/workshops/
-
-http://www.ellingtoncms.com
 -->
 
 #### Python and Django Users, Jobs, News
@@ -3935,6 +3923,7 @@ Consulting Forms
 
 <!--
 Revsys
+http://www.ellingtoncms.com
 -->
 
 Python- Django- Sites
@@ -3974,7 +3963,15 @@ Python- Django Community
 Pythonista
 https://github.com/jacobian-archive
 
-https://www.djangoproject.com/foundation/developer-members/
+http://lanyrd.com/search/?context=future&q=django&type=conference
+
+https://www.djangoproject.com/foundation/developer-members
+
+https://docs.python.org/devguide
+https://github.com/python/community-starter-kit
+https://www.djangoproject.com/fundraising/campaign/django-fellowship
+
+https://www.python.org/community/workshops
 -->
 
 Python- Django- News
@@ -3999,6 +3996,8 @@ Python- Django- Project Stucture
 <!--
 See other article also
 http://nvie.com/posts/pin-your-packages/
+
+http://docs.python-guide.org/en/latest/starting/install/osx
 
 https://github.com/simpleisbetterthancomplex/simple-academy
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
