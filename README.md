@@ -2248,14 +2248,15 @@ Example First-Timers Info
 
 <!--
 https://github.com/HackathonHackers/code-of-conduct
-https://github.com/devspace/awesome-github-templates
 http://hackforchange.org/tips-for-better-open-source-documentation
 https://github.com/zalando/zalando-howto-open-source
 https://github.com/ddbeck/readme-checklist
-https://github.com/jdorfman/awesome-help-wanted
 
+https://github.com/devspace/awesome-github-templates
 https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
 https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
+
+https://github.com/jdorfman/awesome-help-wanted
 
 https://github.com/search?utf8=%E2%9C%93&q=help+wanted
 https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
