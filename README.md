@@ -4491,10 +4491,9 @@ Dedicated Python Hosting
 * [Python Anywhere](https://www.pythonanywhere.com) 
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
 
-<!--
 #### Lincoln Loop Stack
 
-Load Balancer- Open Source (Lincoln Loop prefers Varnish)
+Load Balancer- Open Source (preferred- Varnish)
 * HAProxy
 * Nginx
 * Varnish
@@ -4503,7 +4502,7 @@ Load Balancer- Commercial
 * Amazon ELB (Elastic Load Balancer)
 * Rackspace Clould Load Balancer
 
-Web Accelerator- Open Source (Lincoln Loop prefers Varnish)
+Web Accelerator- Open Source (preferred- Varnish)
 * Varnish
 * Nginx + Memcached
 
@@ -4511,19 +4510,38 @@ Web Accelerator- Commercial
 * Fastly
 * Cloudflare
 
-App Server (Lincoln Loop prefers uWSGI)
+App Server (preferred- uWSGI)
 * uWSGI
 * Gunicorn
 * Apache
 
 Cache
-* [Memcached](http://memcached.org) 
-* [Redis](http://redis.io)
+* Memcached 
+* Redis
 
 Database
 * Postgres
 * MySQL/MariaDB
--->
+
+Cache
+* [Memcached](http://memcached.org) 
+* [Redis](http://redis.io) and [Redis GitHub](https://github.com/antirez/redis) 
+
+Web Accelerator
+* [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)
+* [Varnish Cache](https://www.varnish-cache.org)  
+* [Varnish](https://www.varnish-software.com)  
+* [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
+
+Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
+* [Nginx](http://nginx.com/products)  
+* [Nginx GitHub](https://github.com/nginx/nginx)  
+* [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
+* [Nginx Wiki](http://wiki.nginx.org)
+
+Jenkins CI and Travis CI (Continuous Integration)
+* [Jenkins](http://jenkins-ci.org)  
+* [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
 
 #### Python and Django Common Deployment Tools
 
@@ -5855,28 +5873,13 @@ Sentry
 
 #### More Back-end
 
-Redis, Resque
-* [Redis GitHub](https://github.com/antirez/redis)  
+Resque
 * [Resque GitHub](https://github.com/resque/resque)  
 
 Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
 * [Web Cache Wikipedia](http://en.wikipedia.org/wiki/Web_cache)  
-* [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)  
 * [Squid Cache](http://www.squid-cache.org)  
 * [Squid Wikipedia](http://en.wikipedia.org/wiki/Squid_(software))  
-* [Varnish Cache](https://www.varnish-cache.org)  
-* [Varnish](https://www.varnish-software.com)  
-* [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
-
-Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
-* [Nginx](http://nginx.com/products)  
-* [Nginx GitHub](https://github.com/nginx/nginx)  
-* [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
-* [Nginx Wiki](http://wiki.nginx.org)
-
-Jenkins CI and Travis CI (Continuous Integration)
-* [Jenkins](http://jenkins-ci.org)  
-* [Travis CI GitHub](https://github.com/travis-ci/travis-ci)  
 
 Erlang
 * [Erlang](http://www.erlang.org/)  
