@@ -1819,9 +1819,6 @@ http://git-scm.com/book/ch9-5.html
 
 http://gitref.org/branching
 
-https://help.github.com/articles/fork-a-repo
-https://github.com/blog/1256-new-user-profile-pages
-
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
 -->
@@ -1868,17 +1865,19 @@ https://github.com/jlord/git-it
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/about-repository-graphs#traffic
 
-https://guides.github.com/features/issues
-https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
-https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
-
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2046-github-desktop-is-now-available
 https://github.com/blog/2097-improved-commenting-with-markdown
 https://help.github.com/articles/creating-a-pull-request
-https://github.com/blog/957-introducing-issue-mentions
 https://help.github.com/articles/adding-a-file-to-a-repository
 
+https://help.github.com/articles/fork-a-repo
+https://github.com/blog/1256-new-user-profile-pages
+
+https://guides.github.com/features/issues
+https://github.com/blog/957-introducing-issue-mentions
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
 https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 
 https://github.com/blog/2111-issue-and-pull-request-templates
@@ -2169,9 +2168,6 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 
 https://github.com/hypenotic/hypelabs
 
-CODE_OF_CONDUCT
-https://github.com/stevemao/github-issue-templates
-
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 
 https://devopsbootcamp.osuosl.org/slides.html
@@ -2268,6 +2264,9 @@ https://github.com/HackathonHackers/code-of-conduct
 http://hackforchange.org/tips-for-better-open-source-documentation
 https://github.com/zalando/zalando-howto-open-source
 https://github.com/ddbeck/readme-checklist
+
+CODE_OF_CONDUCT
+https://github.com/stevemao/github-issue-templates
 
 https://github.com/devspace/awesome-github-templates
 https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
@@ -3902,18 +3901,7 @@ Pyenv
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
  
 <!--
-https://www.linkedin.com/job/home
-
 http://lanyrd.com/search/?context=future&q=django&type=conference
-
-http://awesome-python.com
-https://code.djangoproject.com/wiki/DjangoResources
-
-https://github.com/django/djangoproject.com/tree/master/djangoproject/templates
-
-https://github.com/django/code.djangoproject.com
-
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 
 * [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 
@@ -3927,24 +3915,12 @@ https://www.npmjs.com/package/generator-django
 
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 
-https://docs.python.org/3.5/library/stdtypes.html
-
 Python- Django- Sprints: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
-https://docs.python.org/2/reference/grammar.html
-
-https://docs.python.org/3/library/xml.dom.html
-https://learnxinyminutes.com/docs/pythonstatcomp
-
 https://github.com/pypa/warehouse
 
-Pythonista
-https://github.com/jacobian-archive
-
 https://www.python.org/community/workshops/
-
-https://www.djangoproject.com/foundation/developer-members/
 
 http://www.ellingtoncms.com
 -->
@@ -3956,6 +3932,10 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 
 Consulting Forms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
+
+<!--
+Revsys
+-->
 
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source)  
@@ -3990,6 +3970,13 @@ Python- Django Community
 * [Kenneth Reitz](http://www.kennethreitz.org)
 * [Daniel Greenfeld](http://www.pydanny.com)
 
+<!--
+Pythonista
+https://github.com/jacobian-archive
+
+https://www.djangoproject.com/foundation/developer-members/
+-->
+
 Python- Django- News
 * [Django Weblog GitHub](https://www.djangoproject.com/weblog)
 * [Get Topical Django Framework](http://gettopical.com/djangoframework) 
@@ -4012,6 +3999,9 @@ Python- Django- Project Stucture
 <!--
 See other article also
 http://nvie.com/posts/pin-your-packages/
+
+https://github.com/simpleisbetterthancomplex/simple-academy
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 -->
 
 Python- PEP
@@ -4085,25 +4075,11 @@ Python- Django- Slack
 #### Python and Django Support Groups, Books and Tutorials
 
 <!--
-http://it-ebooks.info/book/3526
-http://www.seleniumhq.org
-
-http://it-ebooks.info/book/3816
-
-* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
-https://docs.djangoproject.com/en/1.9/intro/tutorial01
-
-https://djangogirls.org/events
 http://tutorial.djangogirls.org/en/intro_to_command_line
 http://tutorial.djangogirls.org/en/python_introduction
-https://gitter.im/DjangoGirls/tutorial
 
 https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
-
-https://github.com/simpleisbetterthancomplex/simple-academy
 
 http://remote.pyladies.com/resources
 https://github.com/pyladies/pyladies
@@ -4114,25 +4090,32 @@ https://github.com/DutchDjangoAssociation/djangovereniging.nl
 Make movies the same way Ola makes Coding is for Girls
 https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
-https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
+
+Make movies the same way Ola makes Coding is for Girls
+https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 http://www.apple.com/mac/imovie
-
-http://masteringdjango.com/django-book
-https://github.com/big-nige/djangobook-Updated-to-1.8
-
-https://django-unleashed.com/
 -->
 
 PyLadies
 * [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
 
+Tutorials
+* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
+Django Official Tutorial
+* [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
+
 High Performance Django
 * [High Performance Django](https://highperformancedjango.com)
 
 Mastering Django and Django Book
-* [Mastering Django (Django Book repurposed)](http://masteringdjango.com) and [Mastering Django PDF](https://leanpub.com/masteringdjangocore)
+* [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
 * [Django Book (Deprecated but useful)](http://www.djangobook.com)
+
+Django Unleashed
+* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 
 Django Girls Co-Founders
 * [Ola Sendecka](http://blog.sendecka.me)
@@ -4151,6 +4134,11 @@ Django Girls (Python- Django)
 * [Django Girls Resources](https://github.com/DjangoGirls/resources) 
 * [Django Girls Store](https://store.djangogirls.org)
 
+<!--
+https://djangogirls.org/events
+https://gitter.im/DjangoGirls/tutorial
+-->
+
 Django Girls- Cities
 * [Django Girls London](https://djangogirls.org/london)
 * [Django Girls Kansas City](https://djangogirls.org/kansascity)
@@ -4162,6 +4150,10 @@ Hello Web App
 Two Scoops of Django
 * [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
 * [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
+
+<!--
+http://it-ebooks.info/book/3816
+-->
 
 Python- Books and Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net)  
@@ -4175,9 +4167,9 @@ Python- Books and Tutorials
 * [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
 * [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
 
-O'Reilly Test-Driven Development with Python
+O'Reilly Test-Driven Development with Python and Selenium
 * [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
-* [Test-Driven Development with Python Chapter 8\. Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+* [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
 
 Python- Django Tutorials (excluding Django Girls)
 * [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
@@ -4189,6 +4181,12 @@ Django Carrots (Python- Django)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 <!--
+https://docs.python.org/3.5/library/stdtypes.html
+https://docs.python.org/2/reference/grammar.html
+
+https://docs.python.org/3/library/xml.dom.html
+https://learnxinyminutes.com/docs/pythonstatcomp
+
 https://www.python.org/doc/
 https://docs.python.org/3.5/library/re.html
 https://docs.python.org/3.5/library/datetime.html
@@ -4630,6 +4628,8 @@ Python- Fabric
 
 #### Python and Django Testing and Automation
 
+Test-Driven Development with Python<br>
+
 pytest and Nose (Unit Test Extension)
 * [Nose GitHub](https://github.com/nose-devs/nose)
 * [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
@@ -4644,6 +4644,9 @@ https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submit
 https://docs.python.org/3/library/unittest.html
 http://www.diveintopython.net/unit_testing/
 -->
+
+Selenium
+* [Selenium](http://www.seleniumhq.org)
 
 Tox (Automation)
 * [Tox Docs](https://tox.readthedocs.org/en/latest)
@@ -7072,7 +7075,7 @@ Awesome Apple
 * [Awesome WatchOS GitHub](https://github.com/yenchenlin1994/awesome-watchos)
 
 Awesome Python and Django
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python)  
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
 * [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
 * [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 * [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
