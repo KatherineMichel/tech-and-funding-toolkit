@@ -2249,6 +2249,16 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+## Possible Open Source Repo Docs
+
+* README.md
+* LICENSE.md
+* CODE-OF-CONDUCT.md
+* CONTRIBUTING.md
+* RELEASING.md
+* PULL-REQUEST-TEMPLATES.md
+* ISSUES-TEMPLATES.md
+
 https://github.com/HackathonHackers/code-of-conduct
 http://hackforchange.org/tips-for-better-open-source-documentation
 https://github.com/zalando/zalando-howto-open-source
