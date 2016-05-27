@@ -1968,6 +1968,10 @@ GitLab (See also Project Management)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
+<!--
+https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html
+-->
+
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
 * [Google Code](https://code.google.com)  
@@ -2243,6 +2247,16 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+https://github.com/HackathonHackers/code-of-conduct
+https://github.com/devspace/awesome-github-templates
+http://hackforchange.org/tips-for-better-open-source-documentation
+https://github.com/zalando/zalando-howto-open-source
+https://github.com/ddbeck/readme-checklist
+https://github.com/jdorfman/awesome-help-wanted
+
+https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
+https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
+
 https://github.com/search?utf8=%E2%9C%93&q=help+wanted
 https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
@@ -7309,6 +7323,9 @@ Other
 * [Silicon Valley Bank](http://www.svb.com) 
 
 <!--
+https://github.com/jlevy/og-equity-compensation
+https://github.com/holman/extended-exercise-windows
+
 https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
 http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
 https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
