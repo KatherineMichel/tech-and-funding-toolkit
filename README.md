@@ -4656,9 +4656,11 @@ Python- Django- Debug Toolbar
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org)  
 * [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
 
+Python- Django Extensions
+* [Django Extensions Read the Docs](https://django-extensions.readthedocs.io)
+
 <!--
 http://django-debug-toolbar.readthedocs.io/en/1.4/installation.html
-https://django-extensions.readthedocs.io/en/latest/installation_instructions.html
 -->
 
 Python- Django- Migrations
