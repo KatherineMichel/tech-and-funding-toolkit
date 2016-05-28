@@ -4208,18 +4208,18 @@ Two Scoops of Django
 
 <!--
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
-http://www.2scoops.co/1.8-errata/
-http://www.2scoops.co/1.8-code-examples/
+https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/errata.rst
+https://github.com/twoscoops/two-scoops-of-django-1.8/tree/master/code
 https://docs.djangoproject.com/en/1.8/misc/design-philosophies/
-http://www.2scoops.co/1.8-change-list/
+https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/change_list.md?ref=2
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
 http://www.python.org/dev/peps/pep-0008/
-http://2scoops.co/hobgoblin-of-little-minds
+https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
 http://www.python.org/dev/peps/pep-0008/#maximum-line-length
-http://2scoops.co/guido-on-pep-8-vs-pep-328
+https://mail.python.org/pipermail/python-dev/2010-October/104476.html
 http://www.python.org/dev/peps/pep-0328/
-http://2scoops.co/1.8-coding-style
+https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
 https://github.com/rwaldron/idiomatic.js/
 Pragmatic.js code style guidelines https://github.com/madrobby/pragmatic.js
 Airbnb JavaScript Style Guide https://github.com/airbnb/javascript
@@ -4245,16 +4245,16 @@ https://www.djangopackages.com/grids/g/cookiecutters/
 Makefile, Invoke, Paver, or Fabric
 https://github.com/imkevinxu/django-kevin
 https://docs.djangoproject.com/en/1.8/topics/signing/
-http://2scoops.co/the-best-and-worst-of-django
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
 http://12factor.net/config
-http://2scoops.co/wikipedia-env-variable
-http://2scoops.co/powershell
+https://en.wikipedia.org/wiki/Environment_variable
+https://en.wikipedia.org/wiki/Windows_PowerShell
 https://docs.djangoproject.com/en/1.8/ref/django-admin/
 http://pypi.python.org/pypi/Unipath/
-http://2scoops.co/1.8-model-inheritance
+https://docs.djangoproject.com/en/1.8/topics/db/models/#model-inheritance
 http://en.wikipedia.org/wiki/Database_normalization
 http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
-http://2scoops.co/three-things-not-to-put-in-database
+http://www.revsys.com/blog/2012/may/01/three-things-you-should-never-put-your-database/
 https://npmjs.org
 https://npmjs.org
 https://scalenpm.org
@@ -4264,17 +4264,18 @@ https://docs.djangoproject.com/en/1.8/topics/db/managers/
 http://blog.kevinastone.com/django-model-behaviors.html
 https://docs.djangoproject.com/en/1.8/ref/models/expressions/
 https://docs.djangoproject.com/en/1.8/ref/models/database-functions/
-http://2scoops.co/1.8-transactions-in-mysql
+https://docs.djangoproject.com/en/1.8/topics/db/transactions/#transactions-in-mysql
 http://dev.mysql.com/doc/refman/5.0/en/sql-syntax-transactions.html
 https://docs.djangoproject.com/en/1.8/topics/db/transactions/ https://realpython.com/blog/python/transaction-management-with-django-1-6/
-http://2scoops.co/1.8-url-design
+https://docs.djangoproject.com/en/1.8/misc/design-philosophies/#url-design
 http://www.2scoops.co/7E/info/
-http://www.2scoops.co/1.8-django-conf-urls-patterns/
-http://www.2scoops.co/django-views-and-locals-antipattern
-http://www.2scoops.co/how-to-write-obfuscated-python/
-http://2scoops.co/decorators-explained
-http://2scoops.co/decorators-functional-python
-http://2scoops.co/decorator-cheatsheet
+https://docs.djangoproject.com/en/1.8/releases/1.8/#django-conf-urls-patterns
+http://stackoverflow.com/questions/1901525/django-template-and-the-locals-trick#1901720
+http://pyvideo.org/video/398/pycon-2011--how-to-write-obfuscated-python
+http://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/
+http://www.brianholdefehr.com/decorators-and-functional-python
+http://www.pydanny.com/python-decorator-cheatsheet.html
+
 http://2scoops.co/1.8-process-response
 ccbv.co.uk
 http://2scoops.co/1.8-login-required-cbv
@@ -4284,33 +4285,34 @@ http://2scoops.co/1.8-cbv-generic-display
 http://2scoops.co/1.8-cbv-generic-editing
 http://2scoops.co/1.8-cbv-mixins
 http://2scoops.co/1.8-ref-class-based-views
+
 http://ccbv.co.uk
 www.python.org/download/releases/2.3/mro/
 http://pydanny.com/tag/class-based-views.html
-http://www.2scoops.co/1.8-raising-validationerror
+https://docs.djangoproject.com/en/1.8/ref/forms/validation/#raising-validationerror
 https://docs.djangoproject.com/en/1.8/ref/csrf/
 https://docs.djangoproject.com/en/1.8/ref/csrf/#ajax
 https://docs.djangoproject.com/en/1.8/ref/csrf/
-http://www.2scoops.co/django-braces-user-form-kwargs-mixin/
-http://www.2scoops.co/django-braces-user-kwarg-model-form-mixin/
-http://www.2scoops.co/1.8-form.errors.as_data/
-http://www.2scoops.co/1.8-form.errors.as_json/
-http://www.2scoops.co/1.8-form.has_error/
-http://www.2scoops.co/1.8-form.non_field_errors/
+http://django-braces.readthedocs.io/en/latest/form.html#userformkwargsmixin
+http://django-braces.readthedocs.io/en/latest/form.html#userkwargmodelformmixin
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_data
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_json
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.has_error
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.non_field_errors
 http://www.pydanny.com/tag/forms.html
-http://www.2scoops.co/bradmontgomery-nice-arrayfield/
-http://www.2scoops.co/django-forms-i-custom-fields-and-widgets-in/
+https://bradmontgomery.net/blog/2015/04/25/nice-arrayfield-widgets-choices-and-chosenjs/
+http://tothinkornottothink.com/post/10815277049/django-forms-i-custom-fields-and-widgets-in
 https://github.com/404
 https://github.com/500
 https://github.com/styleguide
-http://2scoops.co/1.8-slugify-source
+https://github.com/django/django/blob/2b267a70a16e2cb12075e75f7626effbe6811d5f/django/template/defaultfilters.py#L228-L236
 defaultŀlter.py
-http://2scoops.co/1.8-template-cached-loader
+https://docs.djangoproject.com/en/1.8/ref/templates/api/#django.template.loaders.cached.Loader
 http://jinja.pocoo.org/docs/dev/switching/#django
 djangopackages.com/grids
-http://www.2scoops.co/writing-jinja2-extensions/
+http://jinja.pocoo.org/docs/dev/extensions/#module-jinja2.ext
 http://jinja.pocoo.org/docs/dev/api/#jinja2.Environment
-http://www.2scoops.co/1.8-jinja2-templates/ 
+https://docs.djangoproject.com/en/1.8/topics/templates/#django.template.backends.jinja2.Jinja2
 jinja.pocoo.org
 http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 http://cdrf.co
@@ -4330,42 +4332,43 @@ https://facebook.github.io/react/
 http://angularjs.org
 http://backbonejs.org
 http://jquery.com/
-http://2scoops.co/chrome-developer-tools
+https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
 http://gulpjs.com/
 https://developers.google.com/webmasters/ajax-crawling/
-http://www.2scoops.co/bing-search-engine-best-practices/
+http://blogs.bing.com/webmaster/2013/03/21/search-engine-optimization-best-practices-for-ajax-urls/
 https://developers.google.com/webmasters/ajax-crawling/
 brombone.com
-http://2scoops.co/stack-overflow-javascript-unit-test-tools-for-tdd
+http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd
 https://docs.djangoproject.com/en/1.8/ref/csrf/
-http://2scoops.co/kevin-stone-django-angular-tutorial
+http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 https://github.com/rmurphey/js-assessment
 Felix’s Node.js Style Guide
 http://nodeguide.com/style.html
 idiomatic.js
 https://github.com/rwaldron/idiomatic.js/
-http://2scoops.co/lightweight-django
-http://2scoops.co/kevin-stone-django-angular-tutorial
-http://www.2scoops.co/joseph-misiti-django-backbone-tutorial/
-http://2scoops.co/instagram-insights
-http://www.2scoops.co/CAP-theorem/
-2scoops.co/learn-to-stop-using-shiny-new-things/
+http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20
+http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
+http://blog.mathandpencil.com/using-django-tastypie-to-create-RESTful-APIs/
+http://www.forbes.com/sites/limyunghui/2012/04/09/inspiring-insights-by-instagram-ceo-kevin-systrom-the-man-who-built-a-1-billion-startup/2/#3c3a66df5700
+https://en.wikipedia.org/wiki/CAP_theorem
+https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql
 mcfunley.com/why-mongodb-never-worked-out-at-etsy
 https://code.djangoproject.com/ticket/11313
 https://code.djangoproject.com/ticket/17118
-http://2scoops.co/1.8-admindocs
+https://docs.djangoproject.com/en/1.8/ref/contrib/admin/admindocs/
 https://www.djangopackages.com/grids/g/admin-styling/
 http://sehmaschine.net/blog/django-admin-frontend-framework
-http://www.2scoops.co/caktusgroup-migrating-custom-user-model
-http://www.2scoops.co/authtools-migrate-to-custom-user-model
-http://2scoops.co/1.8-custom-user-model-example
+https://www.caktusgroup.com/blog/2013/08/07/migrating-custom-user-model-django/
+http://django-authtools.readthedocs.io/en/latest/how-to/migrate-to-a-custom-user-model.html
+https://docs.djangoproject.com/en/1.8/topics/auth/customizing/#a-full-example
 https://github.com/fusionbox/django-authtools
 https://pypi.python.org/pypi
 https://www.djangopackages.com/
 https://docs.djangoproject.com/en/1.8/intro/reusable-apps/
 http://pypi.python.org
 http://2scoops.co/submit-to-pypi
+https://pypi.python.org/pypi?%3Aaction=submit_form
 https://www.djangopackages.com
 https://readthedocs.org/
 http://www.pip-installer.org/en/latest/logic.html#requirement-specifiers
@@ -4375,12 +4378,13 @@ http://semver.org/
 http://choosealicense.com/
 https://github.com/audreyr/cookiecutter
 http://cookiecutter.readthedocs.org/
-: http://2scoops.co/requests-history
+https://github.com/kennethreitz/requests/blob/master/HISTORY.rst
 http://www.python.org/dev/peps/pep-0427/
 https://pypi.python.org/pypi/wheel
 http://wheel.readthedocs.org/
 http://pythonwheels.com/
 https://alexgaynor.net/2013/oct/19/security-process-open-source-projects/
+
 http://2scoops.co/cookiecutter-djangopackage-base.html
 http://alexgaynor.net/2013/sep/26/effective-code-review/
 http://2scoops.co/sharing-your-labor-of-love-pypi-quick-and-dirty
@@ -4396,7 +4400,7 @@ http://httpbin.org/
 runscope.com
 https://pypi.python.org/pypi/pytest-django/
 https://pypi.python.org/pypi/django-nose
-http://2scoops.co/restructured-text-specification
+http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 https://docs.djangoproject.com/en/1.8/
 http://docs.python.org
 http://sphinx-doc.org/
@@ -4408,17 +4412,17 @@ http://www.mkdocs.org/
 http://documentup.com
 http://progrium.viewdocs.io/
 http://johnmacfarlane.net/pandoc/
-http://2scoops.co/1.8-db-optimization
+https://docs.djangoproject.com/en/1.8/topics/db/optimization/
 https://github.com/mtford90/silk
-http://2scoops.co/1.8-test-num-queries
+https://docs.djangoproject.com/en/1.8/topics/testing/overview/#django.test.TestCase.assertNumQueries
 http://www.revsys.com/writings/postgresql-performance.html
-http://2scoops.co/craig-postgresql-perf2
+http://www.craigkerstiens.com/2013/01/10/more-on-postgres-performance/
 http://dev.mysql.com/doc/refman/5.6/en/explain.html
 http://wiki.postgresql.org/wiki/Detailed_installation_guides
 http://wiki.postgresql.org/wiki/Tuning_Your_PostgreSQL_Server
 http://www.revsys.com/writings/postgresql-performance.html
-http://2scoops.co/craig-postgresql-perf
-http://2scoops.co/craig-postgresql-perf2
+http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/
+http://www.craigkerstiens.com/2013/01/10/more-on-postgres-performance/
 http://amzn.to/1fWctM2
 http://amzn.to/188VPcL
 https://docs.djangoproject.com/en/1.8/topics/cache/
@@ -4428,7 +4432,7 @@ http://www.djangopackages.com/grids/g/caching/
 ➤ django-pipeline
 ➤ django-compressor
 ➤ django-htmlmin
-http://2scoops.co/1.8-spaceless-tag
+https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#spaceless
 http://www.djangopackages.com/grids/g/asset-managers/
 http://varnish-cache.org/
 YSlow’s Web Performance Best Practices and Rules
@@ -4446,7 +4450,7 @@ Celery: https://pypi.python.org/pypi/flower
 Redis Queue: https://pypi.python.org/pypi/django-redisboard
 Redis Queue: https://pypi.python.org/pypi/django-rq
 http://www.fullstackpython.com/task-queues.html
-http://www.2scoops.co/why-task-queues/
+http://www.slideshare.net/bryanhelmig/task-queues-comorichweb-12962619
 https://pypi.python.org/pypi/django-transaction-hooks
 http://celeryproject.com Homepage of Celery
 https://denibertovic.com/posts/celery-best-practices/
@@ -4458,11 +4462,12 @@ http://racingtadpole.com/blog/redis-queue-with-django/
 django-background-tasks:
 https://pypi.python.org/pypi/django-background-tasks
 https://docs.djangoproject.com/en/1.8/topics/security/
-http://www.2scoops.co/1.8-settings-debug/
+https://docs.djangoproject.com/en/1.8/ref/settings/#debug
 https://docs.djangoproject.com/en/1.8/topics/security/#ssl-https
 https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
-2scoops.co/mozilla-ssl-config-generator
+https://mozilla.github.io/server-side-tls/ssl-config-generator/
 https://www.ssllabs.com/ssltest/
+
 http://2scoops.co/1.8-allowed-hosts
 http://2scoops.co/1.8-get_host
 http://2scoops.co/1.8-docs-on-html-escaping
@@ -4499,21 +4504,22 @@ https://github.com/dstufft/django-passwords
 https://github.com/rosarior/django-autoadmin
 http://ponycheckup.com
 http://2scoops.co/responsible-disclosure-of-security-vulnerabilities
+
 remove tags
 Remove Tags Advisory
 bleach library
-http://2scoops.co/nginx-http503-page
+http://www.cyberciti.biz/faq/custom-nginx-maintenance-page-with-http503/
 django-db-tools
-http://2scoops.co/emergency-management
+https://www.djangopackages.com/grids/g/emergency-management/
 https://en.wikipedia.org/wiki/0day
-http://2scoops.co/django-announce
+https://groups.google.com/forum/#!forum/django-announce
 “Ļe Tangled Web: A Guide to Securing Modern Web Applications”:
 http://amzn.to/1hXAAyx
 “Ļe Web Application Hacker’s Handbook”:
 http://amzn.to/1dZ7xEY
 https://code.google.com/p/browsersec/wiki/Main
 https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
-http://2scoops.co/1.8-additional-security-topics
+https://docs.djangoproject.com/en/1.8/topics/security/#additional-security-topics
 http://loggly.com/
 https://docs.djangoproject.com/en/1.8/topics/logging/
 http://www.pagerduty.com/
@@ -4527,10 +4533,10 @@ App Enlight (https://appenlight.com/
 loggly.com (http://loggly.com/
 http://www.celeryproject.org/
 https://docs.djangoproject.com/en/1.8/ref/utils/
-http://2scoops.co/1.8-cached_property
+https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.functional.cached_property
 https://github.com/pydanny/cached-property
 http://www.pydanny.com/cached-property.html
-http://2scoops.co/1.8-format_html
+https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.html.format_html
 https://djangoproject.com/weblog/2014/mar/22/strip-tags-advisory/
 Six on PyPI: https://pypi.python.org/pypi/six
 Six documentation: http://pythonhosted.org/six/
@@ -4543,7 +4549,7 @@ http://heroku.com
 http://www.theherokuhackersguide.com/ by Randall Degges.
 PythonAnywhere (https://www.pythonanywhere.com) 
 https://en.wikipedia.org/wiki/HIPAA#Security_Rule
-http://2scoops.co/wikipedia-PCI-standard
+https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 http://www.ubuntu.com/server
 https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/gunicorn/
 http://uwsgi-docs.readthedocs.org
@@ -4554,8 +4560,8 @@ http://gunicorn.org/
 http://cerebralmanifest.com/uwsgi-vs-gunicorn/
 https://highperformancedjango.com
 http://www.fullstackpython.com/deployment.html
-http://2scoops.co/martin-fowler-continuous-integration
-http://2scoops.co/ci-practices
+http://martinfowler.com/articles/continuousIntegration.html
+http://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration
 http://stackoverflow.com/a/9407940/93270
 http://tox.readthedocs.org/
 http://jenkins-ci.org/
@@ -4578,8 +4584,8 @@ Python’s pdb documentation: https://docs.python.org/2/library/pdb.html
 https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
 https://github.com/disqus/gargoyle
 https://github.com/jsocol/django-waffle
-http://www.2scoops.co/testing-with-gargoyle/
-http://www.2scoops.co/testing-with-waffle/
+http://gargoyle.readthedocs.io/en/latest/usage/index.html#testing-switches
+http://waffle.readthedocs.io/en/latest/testing/automated.html#testing-automated
 https://gist.github.com/
 https://www.djangoproject.com/community/
 Django Project’s Feeds
@@ -5497,10 +5503,10 @@ Python- Django- Python Social Auth
 * [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
 
 Python- Django- Search
-* [Haystack](http://haystacksearch.org)  and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
+* [Haystack](http://haystacksearch.org) and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
 
 Python- Imaging Library
-* [Python Imaging Library](http://www.pythonware.com/products/pil)  and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
+* [Python Imaging Library](http://www.pythonware.com/products/pil) and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
 * [Python Imaging Library Read the Docs](https://pillow.readthedocs.org)  
 * [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
 
