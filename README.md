@@ -2252,16 +2252,6 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
-+## Possible Open Source Repo Docs
-
-* README.md
-* LICENSE.md
-* CODE-OF-CONDUCT.md
-* CONTRIBUTING.md
-* RELEASING.md
-* PULL-REQUEST-TEMPLATES.md
-* ISSUES-TEMPLATES.md
-
 https://github.com/HackathonHackers/code-of-conduct
 http://hackforchange.org/tips-for-better-open-source-documentation
 https://github.com/zalando/zalando-howto-open-source
@@ -4132,6 +4122,9 @@ Django Girls- Events and Cities
 Hello Web App
 * [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
 * [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
+* [Hello Web App Setup](https://hellowebapp.com/setup)
+* [Hello Web App Discuss](http://discuss.hellowebapp.com)
+* [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
 http://www.amazon.com/gp/product/1118008189/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118008189&linkCode=as2&tag=limedaring-20&linkId=PWJJWWC63IMENA5W
@@ -4140,22 +4133,16 @@ http://www.dontfeartheinternet.com/
 http://pyvideo.org/video/2559/hands-on-intro-to-python-for-beginning-programmer
 http://learnpythonthehardway.org/book/ex29.html
 
-https://hellowebapp.com/setup/
-
 https://docs.python.org/2/howto/regex.html
 
-http://discuss.hellowebapp.com/
+http://twitter.com/limedaring
 
-https://github.com/hellowebapp/hellowebapp-code
 https://github.com/hellowebapp/hellowebapp/tree/master/python-tips
 https://github.com/hellowebapp/hellowebapp/tree/master/windows-help
-
-https://github.com/hellowebapp/hellowebapp
 https://github.com/hellowebapp/hellowebapp/tree/master/git-tips
 
 https://docs.djangoproject.com/en/1.7/ref/templates/builtins/
 https://docs.djangoproject.com/en/1.7/ref/contrib/humanize/
-https://docs.djangoproject.com/en/1.7/ref/templates/builtins/
 https://docs.djangoproject.com/en/dev/ref/models/fields/#slugfield
 https://docs.djangoproject.com/en/1.7/ref/models/querysets/
 https://docs.djangoproject.com/en/dev/topics/forms/modelforms/
@@ -4163,7 +4150,6 @@ https://docs.djangoproject.com/en/dev/ref/csrf/
 https://docs.djangoproject.com/en/dev/topics/forms/#form-rendering-options
 https://docs.djangoproject.com/en/dev/ref/models/querysets/#istartswith
 https://docs.djangoproject.com/en/1.7/topics/testing/overview/
-https://docs.djangoproject.com/en/1.7/internals/mailing-lists/#django-users
 
 https://django-registration-redux.readthedocs.io/en/latest/
 https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#settings
@@ -4177,19 +4163,15 @@ https://devcenter.heroku.com/articles/getting-started-with-python#introduction
 
 https://github.com/macropin/django-registration/
 
-http://haystacksearch.org/
-
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
 http://stackoverflow.com/
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 https://github.com/hellowebapp/hellowebapp/tree/master/irc-tips
 
-https://groups.google.com/forum/#!forum/django-users
-http://www.pyladies.com/
+https://docs.djangoproject.com/en/1.7/internals/mailing-lists/#django-users
 http://www.meetup.com/topics/python/
 
-https://www.python.org/dev/peps/pep-0008/
 http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
 
 http://www.djangobook.com/en/2.0/chapter20.html
@@ -4197,9 +4179,6 @@ http://gettingstartedwithdjango.com/
 http://www.tangowithdjango.com/
 https://www.coursera.org/courses?query=python
 https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
-
-http://twitter.com/hellowebapp (official book account)
-http://twitter.com/limedaring
 -->
 
 Two Scoops of Django
@@ -4211,15 +4190,62 @@ https://github.com/twoscoops/two-scoops-of-django-1.8/issues
 https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/errata.rst
 https://github.com/twoscoops/two-scoops-of-django-1.8/tree/master/code
 https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/change_list.md?ref=2
-https://github.com/twoscoops/two-scoops-of-django-1.8/issues
-https://github.com/twoscoops/two-scoops-of-django-1.8/issues
+
+https://docs.djangoproject.com/en/1.8/ref/django-admin/
+https://docs.djangoproject.com/en/1.8/topics/signing/
+https://docs.djangoproject.com/en/1.8/topics/db/models/#model-inheritance
+https://docs.djangoproject.com/en/1.8/ref/models/meta/
+https://docs.djangoproject.com/en/1.8/releases/1.8/#model-meta-api
+https://docs.djangoproject.com/en/1.8/topics/db/managers/
+https://docs.djangoproject.com/en/1.8/ref/models/expressions/
+https://docs.djangoproject.com/en/1.8/ref/models/database-functions/
+https://docs.djangoproject.com/en/1.8/topics/db/transactions/#transactions-in-mysql
+https://docs.djangoproject.com/en/1.8/misc/design-philosophies/#url-design
+https://docs.djangoproject.com/en/1.8/topics/db/transactions/
+https://docs.djangoproject.com/en/1.8/releases/1.8/#django-conf-urls-patterns
+https://docs.djangoproject.com/en/1.8/topics/http/middleware/#process-response
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#decorating-class-based-views
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#using-class-based-views
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-display/
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-editing/
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/mixins/
+https://docs.djangoproject.com/en/1.8/ref/class-based-views/
+https://docs.djangoproject.com/en/1.8/ref/forms/validation/#raising-validationerror
+https://docs.djangoproject.com/en/1.8/ref/csrf/
+https://docs.djangoproject.com/en/1.8/ref/csrf/#ajax
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_data
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_json
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.has_error
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.non_field_errors
+https://docs.djangoproject.com/en/1.8/ref/templates/api/#django.template.loaders.cached.Loader
+https://docs.djangoproject.com/en/1.8/topics/templates/#django.template.backends.jinja2.Jinja2
+https://docs.djangoproject.com/en/1.8/misc/design-philosophies/
+https://docs.djangoproject.com/en/1.8/topics/auth/customizing/#a-full-example
+https://docs.djangoproject.com/en/1.8/intro/reusable-apps/
+https://docs.djangoproject.com/en/1.8/ref/contrib/admin/admindocs/
+https://docs.djangoproject.com/en/1.8/topics/testing/tools/#assertions
+https://docs.djangoproject.com/en/1.8/
+https://docs.djangoproject.com/en/1.8/topics/db/optimization/
+https://docs.djangoproject.com/en/1.8/topics/testing/overview/#django.test.TestCase.assertNumQueries
+https://docs.djangoproject.com/en/1.8/topics/cache/
+https://docs.djangoproject.com/en/1.8/topics/security/
+https://docs.djangoproject.com/en/1.8/ref/settings/#debug
+https://docs.djangoproject.com/en/1.8/topics/security/#ssl-https
+https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
+https://docs.djangoproject.com/en/1.8/ref/request-response/#django.http.HttpRequest.get_host
+https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#escape
+https://docs.djangoproject.com/en/1.8/topics/http/sessions/#session-serialization
+https://docs.djangoproject.com/en/1.8/ref/settings/#session-serializer
+https://docs.djangoproject.com/en/1.8/topics/http/sessions/#using-cookie-based-sessions
+https://docs.djangoproject.com/en/1.8/ref/models/fields/#filefield
+https://docs.djangoproject.com/en/1.8/topics/security/#sql-injection-protection
+https://docs.djangoproject.com/en/1.8/ref/clickjacking/
 
 http://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
 http://www.python.org/dev/peps/pep-0008/#maximum-line-length
 http://www.python.org/dev/peps/pep-0328/
-
-https://docs.djangoproject.com/en/1.8/misc/design-philosophies/
 
 https://mail.python.org/pipermail/python-dev/2010-October/104476.html
 
@@ -4242,85 +4268,65 @@ virtualenv: http://virtualenv.org
 https://virtualenvwrapper.readthedocs.io/en/latest/
 https://pypi.python.org/pypi/virtualenvwrapper-win
 http://cs.simons-rock.edu/python/pythonpath.html
-https://docs.djangoproject.com/en/1.8/ref/django-admin/
+
 http://en.wikipedia.org/wiki/Comparison_of_revision_control_software
+
 https://github.com/pydanny/cookiecutter-django
 https://www.djangopackages.com/grids/g/cookiecutters/
+https://github.com/audreyr/cookiecutter
+http://cookiecutter.readthedocs.org/
+
 Makefile, Invoke, Paver, or Fabric
 https://github.com/imkevinxu/django-kevin
-https://docs.djangoproject.com/en/1.8/topics/signing/
+
 http://www.slideshare.net/jacobian/the-best-and-worst-of-django
 http://12factor.net/config
 https://en.wikipedia.org/wiki/Environment_variable
 https://en.wikipedia.org/wiki/Windows_PowerShell
-https://docs.djangoproject.com/en/1.8/ref/django-admin/
+
 http://pypi.python.org/pypi/Unipath/
-https://docs.djangoproject.com/en/1.8/topics/db/models/#model-inheritance
 http://en.wikipedia.org/wiki/Database_normalization
 http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 http://www.revsys.com/blog/2012/may/01/three-things-you-should-never-put-your-database/
 https://npmjs.org
-https://npmjs.org
 https://scalenpm.org
-
-https://docs.djangoproject.com/en/1.8/ref/models/meta/
-https://docs.djangoproject.com/en/1.8/releases/1.8/#model-meta-api
-https://docs.djangoproject.com/en/1.8/topics/db/managers/
-https://docs.djangoproject.com/en/1.8/ref/models/expressions/
-https://docs.djangoproject.com/en/1.8/ref/models/database-functions/
-https://docs.djangoproject.com/en/1.8/topics/db/transactions/#transactions-in-mysql
-https://docs.djangoproject.com/en/1.8/misc/design-philosophies/#url-design
 
 http://blog.kevinastone.com/django-model-behaviors.html
 http://dev.mysql.com/doc/refman/5.0/en/sql-syntax-transactions.html
-https://docs.djangoproject.com/en/1.8/topics/db/transactions/ https://realpython.com/blog/python/transaction-management-with-django-1-6/
+https://realpython.com/blog/python/transaction-management-with-django-1-6/
 http://www.2scoops.co/7E/info/
-https://docs.djangoproject.com/en/1.8/releases/1.8/#django-conf-urls-patterns
 http://stackoverflow.com/questions/1901525/django-template-and-the-locals-trick#1901720
 http://pyvideo.org/video/398/pycon-2011--how-to-write-obfuscated-python
 http://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/
 http://www.brianholdefehr.com/decorators-and-functional-python
 http://www.pydanny.com/python-decorator-cheatsheet.html
-ccbv.co.uk
 http://ccbv.co.uk
+
 www.python.org/download/releases/2.3/mro/
+
 http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
+
 http://django-braces.readthedocs.io/en/latest/form.html#userformkwargsmixin
 http://django-braces.readthedocs.io/en/latest/form.html#userkwargmodelformmixin
 
-https://docs.djangoproject.com/en/1.8/topics/http/middleware/#process-response
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#decorating-class-based-views
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#using-class-based-views
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-display/
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-editing/
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/mixins/
-https://docs.djangoproject.com/en/1.8/ref/class-based-views/
-https://docs.djangoproject.com/en/1.8/ref/forms/validation/#raising-validationerror
-https://docs.djangoproject.com/en/1.8/ref/csrf/
-https://docs.djangoproject.com/en/1.8/ref/csrf/#ajax
-https://docs.djangoproject.com/en/1.8/ref/csrf/
-https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_data
-https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_json
-https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.has_error
-https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.non_field_errors
-
-http://www.pydanny.com/tag/forms.html
 https://bradmontgomery.net/blog/2015/04/25/nice-arrayfield-widgets-choices-and-chosenjs/
 http://tothinkornottothink.com/post/10815277049/django-forms-i-custom-fields-and-widgets-in
+
 https://github.com/404
 https://github.com/500
 https://github.com/styleguide
 https://github.com/django/django/blob/2b267a70a16e2cb12075e75f7626effbe6811d5f/django/template/defaultfilters.py#L228-L236
 defaultŀlter.py
-https://docs.djangoproject.com/en/1.8/ref/templates/api/#django.template.loaders.cached.Loader
-http://jinja.pocoo.org/docs/dev/switching/#django
 djangopackages.com/grids
+
+http://jinja.pocoo.org
+http://jinja.pocoo.org/docs/dev/switching/#django
 http://jinja.pocoo.org/docs/dev/extensions/#module-jinja2.ext
 http://jinja.pocoo.org/docs/dev/api/#jinja2.Environment
-https://docs.djangoproject.com/en/1.8/topics/templates/#django.template.backends.jinja2.Jinja2
-jinja.pocoo.org
+
 http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
 http://cdrf.co
 http://ccbv.co.uk
 
@@ -4334,8 +4340,8 @@ https://en.wikipedia.org/wiki/Remote_Procedure_Call
 https://en.wikipedia.org/wiki/Resource-oriented_architecture
 swagger.io
 http://en.wikipedia.org/wiki/REST
-http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 http://jacobian.org/writing/rest-worst-practices/
+
 https://facebook.github.io/react/
 http://angularjs.org
 http://backbonejs.org
@@ -4345,10 +4351,8 @@ https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
 http://gulpjs.com/
 https://developers.google.com/webmasters/ajax-crawling/
 http://blogs.bing.com/webmaster/2013/03/21/search-engine-optimization-best-practices-for-ajax-urls/
-https://developers.google.com/webmasters/ajax-crawling/
 brombone.com
 http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd
-https://docs.djangoproject.com/en/1.8/ref/csrf/
 http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 https://github.com/rmurphey/js-assessment
 Felix’s Node.js Style Guide
@@ -4366,34 +4370,36 @@ mcfunley.com/why-mongodb-never-worked-out-at-etsy
 https://code.djangoproject.com/ticket/11313
 https://code.djangoproject.com/ticket/17118
 
-https://docs.djangoproject.com/en/1.8/ref/contrib/admin/admindocs/
 https://www.djangopackages.com/grids/g/admin-styling/
+
+https://pypi.python.org/pypi
+http://pypi.python.org
+
+https://www.djangopackages.com
+
+https://readthedocs.org/
 
 http://sehmaschine.net/blog/django-admin-frontend-framework
 https://www.caktusgroup.com/blog/2013/08/07/migrating-custom-user-model-django/
 http://django-authtools.readthedocs.io/en/latest/how-to/migrate-to-a-custom-user-model.html
-https://docs.djangoproject.com/en/1.8/topics/auth/customizing/#a-full-example
 https://github.com/fusionbox/django-authtools
-https://pypi.python.org/pypi
-https://www.djangopackages.com/
-https://docs.djangoproject.com/en/1.8/intro/reusable-apps/
-http://pypi.python.org
 http://2scoops.co/submit-to-pypi
 https://pypi.python.org/pypi?%3Aaction=submit_form
-https://www.djangopackages.com
-https://readthedocs.org/
 http://www.pip-installer.org/en/latest/logic.html#requirement-specifiers
 http://nvie.com/posts/pin-your-packages/
+
 http://www.python.org/dev/peps/pep-0386
+http://www.python.org/dev/peps/pep-0427/
+
 http://semver.org/
 http://choosealicense.com/
-https://github.com/audreyr/cookiecutter
-http://cookiecutter.readthedocs.org/
+
 https://github.com/kennethreitz/requests/blob/master/HISTORY.rst
-http://www.python.org/dev/peps/pep-0427/
+
 https://pypi.python.org/pypi/wheel
 http://wheel.readthedocs.org/
 http://pythonwheels.com/
+
 https://alexgaynor.net/2013/oct/19/security-process-open-source-projects/
 https://github.com/pydanny/cookiecutter-djangopackage/blob/master/%7B%7Bcookiecutter.repo_name%7D%7D/%7B%7Bcookiecutter.app_name%7D%7D/templates/%7B%7Bcookiecutter.app_name%7D%7D/base.html
 http://alexgaynor.net/2013/sep/26/effective-code-review/
@@ -4405,14 +4411,14 @@ https://docs.djangoproject.com/en/1.8/topics/testing/advanced/#module-django.tes
 https://docs.python.org/2/library/unittest.html#unittest.TestCase.assertRaises
 https://docs.python.org/2/library/unittest.html#assert-methods
 https://docs.python.org/3/library/unittest.html#assert-methods
-https://docs.djangoproject.com/en/1.8/topics/testing/tools/#assertions
+
 requestb.in
 http://httpbin.org/ 
 runscope.com
 https://pypi.python.org/pypi/pytest-django/
 https://pypi.python.org/pypi/django-nose
 http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
-https://docs.djangoproject.com/en/1.8/
+
 http://docs.python.org
 http://sphinx-doc.org/
 http://www.python.org/dev/peps/pep-0257
@@ -4423,20 +4429,21 @@ http://www.mkdocs.org/
 http://documentup.com
 http://progrium.viewdocs.io/
 http://johnmacfarlane.net/pandoc/
-https://docs.djangoproject.com/en/1.8/topics/db/optimization/
 https://github.com/mtford90/silk
-https://docs.djangoproject.com/en/1.8/topics/testing/overview/#django.test.TestCase.assertNumQueries
+
 http://www.revsys.com/writings/postgresql-performance.html
 http://www.craigkerstiens.com/2013/01/10/more-on-postgres-performance/
 http://dev.mysql.com/doc/refman/5.6/en/explain.html
+
 http://wiki.postgresql.org/wiki/Detailed_installation_guides
 http://wiki.postgresql.org/wiki/Tuning_Your_PostgreSQL_Server
+
 http://www.revsys.com/writings/postgresql-performance.html
 http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/
 http://www.craigkerstiens.com/2013/01/10/more-on-postgres-performance/
 http://amzn.to/1fWctM2
 http://amzn.to/188VPcL
-https://docs.djangoproject.com/en/1.8/topics/cache/
+
 https://github.com/sebleier/django-redis-cache/
 http://www.djangopackages.com/grids/g/caching/
 ➤ Apache and Nginx compression modules
@@ -4463,7 +4470,7 @@ Redis Queue: https://pypi.python.org/pypi/django-rq
 http://www.fullstackpython.com/task-queues.html
 http://www.slideshare.net/bryanhelmig/task-queues-comorichweb-12962619
 https://pypi.python.org/pypi/django-transaction-hooks
-http://celeryproject.com Homepage of Celery
+
 https://denibertovic.com/posts/celery-best-practices/
 https://pypi.python.org/pypi/flower
 http://wiredcraft.com/blog/3-gotchas-for-celery/
@@ -4486,19 +4493,6 @@ https://threatpost.com/security-vulnerability-in-django-could-allow-attackers-ac
 http://yuiblog.com/blog/2007/03/01/performance-research-part-3/
 https://github.com/ahupp/python-magic
 https://en.wikipedia.org/wiki/Mass_assignment_vulnerability
-
-https://docs.djangoproject.com/en/1.8/topics/security/
-https://docs.djangoproject.com/en/1.8/ref/settings/#debug
-https://docs.djangoproject.com/en/1.8/topics/security/#ssl-https
-https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
-https://docs.djangoproject.com/en/1.8/ref/request-response/#django.http.HttpRequest.get_host
-https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#escape
-https://docs.djangoproject.com/en/1.8/topics/http/sessions/#session-serialization
-https://docs.djangoproject.com/en/1.8/ref/settings/#session-serializer
-https://docs.djangoproject.com/en/1.8/topics/http/sessions/#using-cookie-based-sessions
-https://docs.djangoproject.com/en/1.8/ref/models/fields/#filefield
-https://docs.djangoproject.com/en/1.8/topics/security/#sql-injection-protection
-https://docs.djangoproject.com/en/1.8/ref/clickjacking/
 
 https://www.pcisecuritystandards.org/
 http://kencochrane.net/blog/2012/01/developers-guide-to-pci-compliant-web-applications/
@@ -4630,219 +4624,113 @@ http://www.python.org/community/irc/
 
 Core
 Django https://djangoproject.com
-Ļe web framework for perfectionists with deadlines.
 django-debug-toolbar http://django-debug-toolbar.readthedocs.org/
-Display panels used for debugging Django HTML views.
 django-model-utils https://pypi.python.org/pypi/django-model-utils
-Useful model utilities including a time stamped model.
 ipdb https://pypi.python.org/pypi/ipdb
-IPython-enabled pdb
 Pillow https://pypi.python.org/pypi/Pillow
-Friendly installer for the Python Imaging Library.
 pip http://www.pip-installer.org
-Package installer for Python. Comes built-in with Python 3.4 or higher.
-433
-Chapter 35: Appendix A: Packages Mentioned In Ļis Book
-Sphinx http://sphinx-doc.org/
-Documentation tool for Python projects.
-virtualenv http://virtualenv.org
-Virtual environments for Python.
+Sphinx
+http://sphinx-doc.org/
+http://virtualenv.org
 virtualenvwrapper http://www.doughellmann.com/projects/virtualenvwrapper/
-Makes virtualenv better for Mac OS X and Linux!
 virtualenvwrapper-win https://pypi.python.org/pypi/virtualenvwrapper-win
-Makes virtualenv better for Windows! win
+
 Asynchronous
 celery http://www.celeryproject.org/
-Distributed task queue.
-łower https://pypi.python.org/pypi/flower
-Tool for monitoring and management of Celery tasks.
+flower https://pypi.python.org/pypi/flower
 rq https://pypi.python.org/pypi/rq
-RQ is a simple, lightweight, library for creating background jobs, and processing them.
 django-rq https://pypi.python.org/pypi/django-rq
-A simple app that provides django integration for RQ (Redis Queue).
 django-background-tasks https://pypi.python.org/pypi/django-background-tasks
-Database backed asynchronous task queue.
+
 Database
 django-db-tools https://pypi.python.org/pypi/django-db-tools
-Great for łipping a site in and out of read-only mode.
 psycopg2 https://pypi.python.org/pypi/psycopg2
-PostgreSQL database adapter.
+
 Deployment
 circus https://pypi.python.org/pypi/circus
-Program that lets you run and watch multiple processes and sockets. Used at Mozilla, complicated,
-and not for small projects.
-434
 dj-database-url https://pypi.python.org/pypi/dj-database-url
-Ļis simple Django utility allows you to easily use Heroku for database access.
 django-heroku-memcacheify https://pypi.python.org/pypi/django-heroku-memcacheify
-Easy Memcached settings conŀguration for Heroku.
 Fabric https://pypi.python.org/pypi/Fabric
-Simple tool for remote execution and deployment.
 Invoke https://pypi.python.org/pypi/invoke
 Like Fabric, also works in Python 3.
 Paver https://pypi.python.org/pypi/invoke
-Easy build, distribution and deployment scripting.
 Supervisor http://supervisord.org/
-Supervisord is a client/server system that allows its users to monitor and control a number of
-processes on UNIX-like operating systems.
+
 Forms
 django-crispy-forms http://django-crispy-forms.readthedocs.org/
-Rendering controls for Django forms. Uses Twitter Bootstrap widgets by default, but
-skinnable.
-django-łoppyforms http://django-floppyforms.readthedocs.org/
-Form ŀeld, widget, and layout that can work with django-crispy-forms.
+django-floppyforms http://django-floppyforms.readthedocs.org/
 django-forms-bootstrap https://pypi.python.org/pypi/django-forms-bootstrap
-A simple form ŀlter for using Django forms with Twitter Bootstrap.
-django-forms-builder A Django reusable app providing the ability for admin
-users to create their own forms within the admin interface.
-https://github.com/stephenmcd/django-forms-builder
+django-forms-builder https://github.com/stephenmcd/django-forms-builder
+
 Front-End
 JSCS http://jscs.info/
-JavaScript code style linter.
 CSScomb http://csscomb.com/
-Coding style formatter for CSS.
-435
-Chapter 35: Appendix A: Packages Mentioned In Ļis Book
+
 Logging
 logutils https://pypi.python.org/pypi/logutils
-Adds useful handlers for logging.
 Sentry http://getsentry.com
-Exceptional error aggregation, with an open source code base.
-App Enlight https://appenlight.com/ Track errors and performance issues in your project.
+App Enlight https://appenlight.com/
 Newrelic http://newrelic.com
-Realtime logging and aggregation platform.
+
 Project Templates
 cookiecutter-django https://github.com/pydanny/cookiecutter-django
-Ļe sample project layout detailed in chapter 3 of this book.
 Cookiecutter http://cookiecutter.readthedocs.org
-Not explicitly for Django, a command-line utility for creating project and app templates. It’s
-focused, heavily tested and well documented. By one of the authors of this book.
 django-kevin https://github.com/imkevinxu/django-kevin
-Django project template optimized for Heroku deployments. Forked from the earlier (1.5, 1.6)
-Two Scoops project template
 django-herokuapp https://github.com/etianen/django-herokuapp
-A set of utilities and a project template for running Django sites on Heroku.
+
 REST APIs
 django-rest-framework http://django-rest-framework.org/
-Ļe defacto REST package for Django. Exposes model and non-model resources as a RESTful
-API.
 django-jsonview https://github.com/jsocol/django-jsonview
-Provides a simple decorator that translates Python objects to JSON and makes sure decorated
-views will always return JSON.
 django-tastypie http://django-tastypie.readthedocs.org
-Expose model and non-model resources as a RESTful API.
-436
+
 Security
 bleach https://pypi.python.org/pypi/bleachbleach
-An easy whitelist-based HTML-sanitizing tool.
 defusedxml https://pypi.python.org/pypi/defusedxml
-Must-have Python library if you are accepting XML from any foreign source.
 django-autoadmin https://pypi.python.org/pypi/django-autoadmin
-Automatic admin users for Django projects with autogenerated passwords, takes the headache
-out of providing secure access with auto-created sites.
 django-admin-honeypot https://pypi.python.org/pypi/django-admin-honeypot
-A fake Django admin login screen to notify admins of attempted unauthorized access.
 django-axes https://github.com/django-pci/django-axes
-Keep track of failed login attempts in Django-powered sites.
 django-ratelimit-backend https://pypi.python.org/pypi/django-ratelimit-backend
-Login rate-limiting at the auth backend level.
 django-passwords https://pypi.python.org/pypi/django-passwords
-A Django reusable app that provides validators and a form ŀeld that checks the strength of a
-password.
 django-secure https://pypi.python.org/pypi/django-secure
-Helps you lock down your site’s security using practices advocated by security specialists. Much
-of its functionality has been subsumed by Django’s SecurityMiddleware class.
 django-two-factor-auth https://pypi.python.org/pypi/django-two-factor-auth
-Complete Two-Factor Authentication for Django.
 django-user-sessions https://pypi.python.org/pypi/django-user-sessions
-Django sessions with a foreign key to the user.
 peep https://pypi.python.org/pypi/peep
-Uses only veriŀed TLS to upload to PyPI protecting your credentials from theft. Has other
-useful features worth looking at.
 Twine https://pypi.python.org/pypi/twine
-Uses only veriŀed TLS to upload to PyPI protecting your credentials from theft. Has other
-useful features worth looking at.
+
 Testing
 coverage http://coverage.readthedocs.org/
-Checks how much of your code is covered with tests.
-437
-Chapter 35: Appendix A: Packages Mentioned In Ļis Book
 factory boy https://pypi.python.org/pypi/factory_boy
-A package that generates model test data.
 model mommy https://pypi.python.org/pypi/model_mommy
-Another package that generates model test data.
 mock https://pypi.python.org/pypi/mock
-Not explicitly for Django, this allows you to replace parts of your system with mock objects.
-Ļis project made its way into the standard library as of Python 3.4.
 pytest http://pytest.org/
-A mature full-featured Python testing tool that is very useful for Python and Django projects.
 pytest-django http://pytest-django.readthedocs.org/
-pytest-django is a plugin for py.test that provides a set of useful tools for testing Django applications
-and projects.
 tox http://tox.readthedocs.org/
-A generic virtualenv management and test command line tool that allows testing of projects
-against multiple Python version with a single command at the shell.
+
 User Registration
 django-allauth http://django-allauth.readthedocs.org/
-General-purpose registration and authentication. Includes Email, Twitter, Facebook, GitHub,
-Google, and lots more.
 python-social-auth http://django-social-auth.readthedocs.org/
-Easy social authentication and registration for Twitter, Facebook, GitHub, Google, and lots
-more.
-Views
 django-braces http://django-braces.readthedocs.org
-Drop-in mixins that really empower Django’s class-based views.
 django-extra-views http://django-extra-views.readthedocs.org/
-Provides a number of additional generic class-based views to complement those provide by
-Django itself.
 django-vanilla-views http://django-vanilla-views.org/
-Simpliŀes Django’s generic class-based views by simplifying the inheritance chain.
-438
-Time
 python-dateutil https://pypi.python.org/pypi/python-dateutil
-Provides powerful extensions to Python’s datetime module.
 pytz https://pypi.python.org/pypi/pytz/
-Brings the Olson tz database into Python. Ļis library allows accurate and cross platform
-timezone calculations. It also solves the issue of ambiguous times at the end of daylight saving
-time. Library Reference
-Miscellaneous
 awesome-slugify https://pypi.python.org/pypi/awesome-slugify
-A łexible slugify function.
 dj-stripe https://pypi.python.org/pypi/dj-stripe
-Django + Stripe made easy.
 django-compressor http://django-compressor.readthedocs.org/
-Compresses linked and inline JavaScript or CSS into a single cached ŀle.
 django-extensions http://django-extensions.readthedocs.org/
-Provides shell plus management command and a lot of other utilities.
 django-haystack http://django-haystack.readthedocs.org/
-Full-text search that works with SOLR, Elasticsearch, and more.
 django-pipeline http://django-pipeline.readthedocs.org/
-Compression of CSS and JS. Use with cssmin and jsmin packages.
 django-htmlmin https://pypi.python.org/pypi/django-htmlmin
-HTML miniŀer for django.
 django-reversion https://pypi.python.org/pypi/django-reversion
-An extension to the Django web framework that provides comprehensive version control facilities.
 django-watson https://github.com/etianen/django-watson
-Full-text multi-table search application for Django using SQL database features.
 envdir http://envdir.readthedocs.org/ A Python port of daemontools’ envdir.
 łake8 https://pypi.python.org/pypi/flake8
-Checks code quality by using PyFlakes, pep8, and other tools.
 pathlib https://pypi.python.org/pypi/pathlib Object-oriented ŀlesystem paths being
-merged into Python as of release 3.4.
-439
-Chapter 35: Appendix A: Packages Mentioned In Ļis Book
 pip-tools https://github.com/nvie/pip-tools
-A set of tools to keep your pinned Python dependencies fresh.
 pyyaml https://pypi.python.org/pypi/PyYAML
-YAML parser and emitter for Python.
 requests http://docs.python-requests.org
-Easy-to-use HTTP library that replaces Python’s urllib2 library.
 silk https://github.com/mtford90/silk
-Silk is a live proŀling and inspection tool for the Django framework. Silk intercepts and stores
-HTTP requests and database queries before presenting them in a user interface for further
-inspection.
 unicode-slugify https://github.com/mozilla/unicode-slugify
-A Mozilla-supported slugiŀer that supports unicode characters.
 Unipath https://pypi.python.org/pypi/Unipath
 Object-oriented alternative to os/os.path/shutil.
 
