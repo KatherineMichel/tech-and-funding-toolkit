@@ -3902,17 +3902,6 @@ Pyenv
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
  
-<!--
-Python- Django- Sprints: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
-https://www.npmjs.com/package/generator-django
-
-https://github.com/pypa/warehouse
--->
-
 #### Python and Django Users, Jobs, News
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
@@ -3920,9 +3909,9 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 
 Consulting Forms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
+* [Revolution Systems](http://www.revsys.com) and [Revolution Systems Blog](http://www.revsys.com/writings)
 
 <!--
-Revsys
 http://www.ellingtoncms.com
 -->
 
@@ -3964,8 +3953,6 @@ Pythonista
 https://github.com/jacobian-archive
 
 http://lanyrd.com/search/?context=future&q=django&type=conference
-
-https://www.djangoproject.com/foundation/developer-members
 
 https://docs.python.org/devguide
 https://github.com/python/community-starter-kit
@@ -4044,6 +4031,8 @@ Python- Users and Members
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
+https://www.djangoproject.com/foundation/developer-members
+
 https://wiki.python.org/moin/FrontPage
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
 -->
@@ -4127,18 +4116,15 @@ Django Girls (Python- Django)
 * [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
 * [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
 * [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
+* [Django Girls Tutorial Help](https://gitter.im/DjangoGirls/tutorial)
 * [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
 * [Django Girls Organize](http://organize.djangogirls.org)  
 * [Django Girls Coach](http://coach.djangogirls.org)  
 * [Django Girls Resources](https://github.com/DjangoGirls/resources) 
 * [Django Girls Store](https://store.djangogirls.org)
 
-<!--
-https://djangogirls.org/events
-https://gitter.im/DjangoGirls/tutorial
--->
-
-Django Girls- Cities
+Django Girls- Events and Cities
+* [Django Girls Events](https://djangogirls.org/events)
 * [Django Girls London](https://djangogirls.org/london)
 * [Django Girls Kansas City](https://djangogirls.org/kansascity)
 
@@ -4150,14 +4136,11 @@ Two Scoops of Django
 * [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
 * [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
 
-<!--
-http://it-ebooks.info/book/3816
--->
-
 Python- Books and Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net)  
 * [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
 * [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
+* [O'Reilly High Performance Python](http://it-ebooks.info/book/3816)
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming)  
 * [Python Tutorial](https://docs.python.org/2/tutorial)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
@@ -4732,6 +4715,14 @@ RegEx
 * [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
 
 http://www.diveintopython.net/regular_expressions/
+-->
+
+<!--
+* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+https://www.npmjs.com/package/generator-django
+
+https://github.com/pypa/warehouse
 -->
 
 Automated Dependency Management
