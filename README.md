@@ -4133,6 +4133,75 @@ Hello Web App
 * [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
 * [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
 
+<!--
+http://www.amazon.com/gp/product/1118008189/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118008189&linkCode=as2&tag=limedaring-20&linkId=PWJJWWC63IMENA5W
+http://learn.shayhowe.com/html-css/
+http://www.dontfeartheinternet.com/
+http://pyvideo.org/video/2559/hands-on-intro-to-python-for-beginning-programmer
+http://learnpythonthehardway.org/book/ex29.html
+
+https://hellowebapp.com/setup/
+
+https://docs.python.org/2/howto/regex.html
+
+http://discuss.hellowebapp.com/
+
+https://github.com/hellowebapp/hellowebapp-code
+https://github.com/hellowebapp/hellowebapp/tree/master/python-tips
+https://github.com/hellowebapp/hellowebapp/tree/master/windows-help
+
+https://github.com/hellowebapp/hellowebapp
+https://github.com/hellowebapp/hellowebapp/tree/master/git-tips
+
+https://docs.djangoproject.com/en/1.7/ref/templates/builtins/
+https://docs.djangoproject.com/en/1.7/ref/contrib/humanize/
+https://docs.djangoproject.com/en/1.7/ref/templates/builtins/
+https://docs.djangoproject.com/en/dev/ref/models/fields/#slugfield
+https://docs.djangoproject.com/en/1.7/ref/models/querysets/
+https://docs.djangoproject.com/en/dev/topics/forms/modelforms/
+https://docs.djangoproject.com/en/dev/ref/csrf/
+https://docs.djangoproject.com/en/dev/topics/forms/#form-rendering-options
+https://docs.djangoproject.com/en/dev/ref/models/querysets/#istartswith
+https://docs.djangoproject.com/en/1.7/topics/testing/overview/
+https://docs.djangoproject.com/en/1.7/internals/mailing-lists/#django-users
+
+https://django-registration-redux.readthedocs.io/en/latest/
+https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#settings
+https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#required-templates
+http://django-registration-redux.readthedocs.io/en/stable/views.html
+
+https://dashboard.heroku.com/
+https://devcenter.heroku.com/articles/getting-started-with-python#set-up
+https://devcenter.heroku.com/articles/procfile
+https://devcenter.heroku.com/articles/getting-started-with-python#introduction
+
+https://github.com/macropin/django-registration/
+
+http://haystacksearch.org/
+
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+http://stackoverflow.com/
+https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
+https://github.com/hellowebapp/hellowebapp/tree/master/irc-tips
+
+https://groups.google.com/forum/#!forum/django-users
+http://www.pyladies.com/
+http://www.meetup.com/topics/python/
+
+https://www.python.org/dev/peps/pep-0008/
+http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+
+http://www.djangobook.com/en/2.0/chapter20.html
+http://gettingstartedwithdjango.com/
+http://www.tangowithdjango.com/
+https://www.coursera.org/courses?query=python
+https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
+
+http://twitter.com/hellowebapp (official book account)
+http://twitter.com/limedaring
+-->
+
 Two Scoops of Django
 * [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
 * [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
