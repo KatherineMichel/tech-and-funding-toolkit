@@ -3910,6 +3910,7 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 Consulting Forms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 * [Revolution Systems](http://www.revsys.com) and [Revolution Systems Blog](http://www.revsys.com/writings)
+* [Lincoln Loop](http://lincolnloop.com)
 
 <!--
 http://www.ellingtoncms.com
@@ -4283,8 +4284,6 @@ High Performance Django Stack
 • Database: Postgres, MySQL/MariaDB
 
 http://12factor.net
-
-http://lincolnloop.com
 
 http://jmeter.apache.org
 https://en.wikipedia.org/wiki/Apache_JMeter
