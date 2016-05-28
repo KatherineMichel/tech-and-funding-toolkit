@@ -4285,9 +4285,6 @@ High Performance Django Stack
 
 http://12factor.net
 
-http://jmeter.apache.org
-https://en.wikipedia.org/wiki/Apache_JMeter
-
 https://www.varnish-cache.org
 http://uwsgi-docs.readthedocs.org/en/latest
 http://uwsgi-docs.readthedocs.org/en/latest/Options.html#env
@@ -4338,6 +4335,7 @@ High Performance Websites
 https://developer.yahoo.com/yslow
 https://developers.google.com/speed/pagespeed
 
+Minimizing CSS and JavaScript
 https://django-pipeline.readthedocs.org/en/latest
 http://django-compressor.readthedocs.org/en/latest
 http://webassets.readthedocs.org/en/latest
@@ -4346,11 +4344,13 @@ http://browserify.org
 
 http://easy-thumbnails.readthedocs.org/en/latest/ref/optimize
 
+Static File Serving
 http://uwsgi-docs.readthedocs.org/en/latest/StaticFiles.html
 http://whitenoise.evans.io
 
 https://django-discover-jenkins.readthedocs.org/en/latest
 
+Process Management
 http://cr.yp.to/daemontools.html
 http://supervisord.org
 http://circus.readthedocs.org
@@ -4371,22 +4371,26 @@ https://glyph.twistedmatrix.com/2014/02/unyielding.html
 http://lincolnloop.com/blog/architecting-realtime-applications
 
 
-
+Caches
 http://niwibe.github.io/django-redis
 http://en.wikipedia.org/wiki/Cache_stampede
 https://github.com/joshourisman/django-newcache
 https://github.com/lincolnloop/django-ft-cache
 
 Django docs: https://docs.djangoproject.com/en/dev/ref/settings/#caches
-https://docs.djangoproject.com/en/dev/topics/http/sessions/#using-cookie-based-sessions
 https://docs.djangoproject.com/en/dev/ref/settings/#databases
 https://docs.djangoproject.com/en/dev/topics/logging/#configuringlogging
 http://uwsgi-docs.readthedocs.org/en/latest/Logging.html
 https://docs.djangoproject.com/en/dev/ref/middleware
 
+Session Engine
+https://docs.djangoproject.com/en/dev/topics/http/sessions/#using-cookie-based-sessions
+
+General Security
 https://github.com/carljm/django-secure#readme
 https://www.owasp.org
 
+Web Accelerator
 https://www.varnish-cache.org/docs/4.0/users-guide
 https://www.varnish-cache.org/docs/4.0/whats-new/upgrading.html
 https://www.varnish-cache.org/docs/4.0/users-guide/vcl-backends.html#directors
@@ -4395,22 +4399,27 @@ https://www.varnish-cache.org/docs/4.0/users-guide/esi.html
 https://www.varnish-cache.org/docs/4.0/users-guide/vcl-backends.html#health-checks
 https://www.varnish-cache.org/docs/4.0/users-guide/purging.html#http-purging
 
+Configuring Your Servers
 UNIX and Linux System Administration Handbook, Essential System Administration 
+
 https://github.com/bitly/google_auth_proxy
 http://en.wikipedia.org/wiki/Principle_of_least_privilege
 https://github.com/wal-e/wal-e
 
+Instrumentation
 http://newrelic.com
 https://graphite.readthedocs.org
 https://github.com/brutasse/graphite-api
 http://grafana.org
 
+Instrumentation
 http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
 http://hekad.readthedocs.org/en/latest/man/plugin.html#statsdinput
 
 https://github.com/andymckay/django-statsd/pull/59
 
+Server Resources
 https://collectd.org
 https://github.com/BrightcoveOS/Diamond
 http://www.nagios.org
@@ -4419,6 +4428,7 @@ http://cabotapp.com
 https://github.com/scobal/seyren
 https://github.com/livingsocial/rearview
 
+Logging
 http://www.splunk.com
 https://www.loggly.com
 http://www.elasticsearch.org
@@ -4426,16 +4436,23 @@ http://www.elasticsearch.org/overview/kibana
 http://hekad.readthedocs.org
 http://logstash.net
 
+Error Reporting
 https://www.getsentry.com
 https://github.com/getsentry?query=raven
 
+Load Testing
 http://httpd.apache.org/docs/2.2/programs/ab.html
 http://www.joedog.org/siege-home
 
+http://jmeter.apache.org
+https://en.wikipedia.org/wiki/Apache_JMeter
+
 http://lincolnloop.com/blog/load-testing-jmeter-part-3-replaying-apache-logs
 
+Integrating with Jenkins
 https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin
 
+Launch Planning
 More info at: http://farmdev.com/thoughts/85/dark-launching-or-dark-testing-new-software-features
 http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production
 http://blog.disqus.com/post/789540337/partial-deployment-with-feature-switches
@@ -4443,19 +4460,22 @@ https://www.youtube.com/watch?v=WMRjj06R6jg
 
 https://www.ssllabs.com/ssltest/index.html
 
+Varnish
 https://www.varnish-cache.org/docs/4.0/reference/vsl.html
 https://www.varnish-cache.org/docs/4.0/reference/vsl-query.html
 
+Celery
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#commands
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#events
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#flower-real-time-celery-web-monitor
 
 http://www.postgresql.org/docs/9.3/static/pgstatstatements.html
 
+Locking the Database
 https://docs.djangoproject.com/en/dev/ref/settings/#key-prefix
 https://docs.djangoproject.com/en/dev/ref/settings/#version
-
 http://en.wikipedia.org/wiki/Cache_stampede
+
 http://en.wikipedia.org/wiki/Not_invented_here
 
 https://code.google.com/p/memcache-top
