@@ -4853,6 +4853,9 @@ http://amzn.to/1OOYqYv
 http://learnpythonthehardway.org/
 http://twoscoopspress.com/pages/django-tutorials
 
+Beginner Django Material
+We actively maintain this list at http://twoscoopspress.com/pages/django-tutorials
+
 http://www.realpython.com/ 
 http://amzn.to/1Dky362 
 http://chimera.labs.oreilly.com/books/1234000000754/
@@ -4865,6 +4868,7 @@ http://2scoops.co/try-django
 http://www.codingforentrepreneurs.com/
 
 More Advanced Django Material
+
 Books:
 High Performance Django http://www.amazon.com/High-Performance-Django/dp/1508748128/
 https://highperformancedjango.com (ebook)
@@ -4887,6 +4891,7 @@ http://2scoops.co/two-scoops-1.5
 Two Scoops of Django: Best Practices for Django 1.5 (print version)
 http://amzn.to/188W07W
 Ļe ŀrst printed edition of this book, which you can still order from Amazon.
+
 Web:
 Django Packages
 https://www.djangopackages.com
@@ -4894,8 +4899,6 @@ A directory of reusable apps, sites, tools, and more for your Django projects ma
 authors of Two Scoops of Django.
 ccbv.co.uk
 http://ccbv.co.uk/
-447
-Chapter 35: Appendix C: Additional Resources
 A website that has provides detailed descriptions, with full methods and attributes, for each of
 Django’s class-based generic views.
 pydanny’s blog
@@ -4917,16 +4920,18 @@ this book.
 Awesome-Django
 https://github.com/rosarior/awesome-django
 A curated list of awesome Django apps, projects and resources.
+
 Video:
+
 GoDjango
 https://godjango.com
 A series of short videos that each focus on something challenging to do with Django. Ļe more
 recent episodes are for Django 1.8 and you can access more material by “going pro”.
+
 Useful Python Material
 Effective Python
 http://amzn.to/1NsiqVr
 Instructs on many useful practices and techniques when coding in Python.
-448
 Python Cookbook, 3rd Edition
 http://amzn.to/I3Sv6q
 An incredible book by Python luminaries David Beazley and Brian Jones, it’s ŀlled with delicious
@@ -4943,7 +4948,9 @@ the largest area of difference), but overall we concur with his practices.
 Writing Idiomatic Python 2.7
 http://amzn.to/1fj9j7z
 Jeff Knupp’s Idiomatic Python, but for Python 2.7
+
 JavaScript Resources
+
 Books:
 Secrets of a JavaScript Ninja (Print and Kindle)
 http://amzn.to/18QzT0r
@@ -4953,13 +4960,12 @@ JavaScript: Ļe Good Parts (Print and Kindle)
 http://amzn.to/1auwJ6x
 JavaScript Patterns (Print and Kindle)
 http://amzn.to/1dii9Th
+
 Web Resources:
 Mozilla Developer Network
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 Learning JavaScript Design Patterns
 http://addyosmani.com/resources/essentialjsdesignpatterns/book/
-449
-Chapter 35: Appendix C: Additional Resources
 Stack Overłow
 http://stackoverflow.com/questions/tagged/javascript
 -->
