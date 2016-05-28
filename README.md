@@ -4210,15 +4210,19 @@ Two Scoops of Django
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
 https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/errata.rst
 https://github.com/twoscoops/two-scoops-of-django-1.8/tree/master/code
-https://docs.djangoproject.com/en/1.8/misc/design-philosophies/
 https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/change_list.md?ref=2
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
+
 http://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
 http://www.python.org/dev/peps/pep-0008/#maximum-line-length
-https://mail.python.org/pipermail/python-dev/2010-October/104476.html
 http://www.python.org/dev/peps/pep-0328/
+
+https://docs.djangoproject.com/en/1.8/misc/design-philosophies/
+
+https://mail.python.org/pipermail/python-dev/2010-October/104476.html
+
 https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
 https://github.com/rwaldron/idiomatic.js/
 Pragmatic.js code style guidelines https://github.com/madrobby/pragmatic.js
@@ -4258,16 +4262,18 @@ http://www.revsys.com/blog/2012/may/01/three-things-you-should-never-put-your-da
 https://npmjs.org
 https://npmjs.org
 https://scalenpm.org
+
 https://docs.djangoproject.com/en/1.8/ref/models/meta/
 https://docs.djangoproject.com/en/1.8/releases/1.8/#model-meta-api
 https://docs.djangoproject.com/en/1.8/topics/db/managers/
-http://blog.kevinastone.com/django-model-behaviors.html
 https://docs.djangoproject.com/en/1.8/ref/models/expressions/
 https://docs.djangoproject.com/en/1.8/ref/models/database-functions/
 https://docs.djangoproject.com/en/1.8/topics/db/transactions/#transactions-in-mysql
+https://docs.djangoproject.com/en/1.8/misc/design-philosophies/#url-design
+
+http://blog.kevinastone.com/django-model-behaviors.html
 http://dev.mysql.com/doc/refman/5.0/en/sql-syntax-transactions.html
 https://docs.djangoproject.com/en/1.8/topics/db/transactions/ https://realpython.com/blog/python/transaction-management-with-django-1-6/
-https://docs.djangoproject.com/en/1.8/misc/design-philosophies/#url-design
 http://www.2scoops.co/7E/info/
 https://docs.djangoproject.com/en/1.8/releases/1.8/#django-conf-urls-patterns
 http://stackoverflow.com/questions/1901525/django-template-and-the-locals-trick#1901720
@@ -4275,8 +4281,14 @@ http://pyvideo.org/video/398/pycon-2011--how-to-write-obfuscated-python
 http://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/
 http://www.brianholdefehr.com/decorators-and-functional-python
 http://www.pydanny.com/python-decorator-cheatsheet.html
-https://docs.djangoproject.com/en/1.8/topics/http/middleware/#process-response
 ccbv.co.uk
+http://ccbv.co.uk
+www.python.org/download/releases/2.3/mro/
+http://pydanny.com/tag/class-based-views.html
+http://django-braces.readthedocs.io/en/latest/form.html#userformkwargsmixin
+http://django-braces.readthedocs.io/en/latest/form.html#userkwargmodelformmixin
+
+https://docs.djangoproject.com/en/1.8/topics/http/middleware/#process-response
 https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#decorating-class-based-views
 https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#using-class-based-views
 https://docs.djangoproject.com/en/1.8/topics/class-based-views/
@@ -4284,19 +4296,15 @@ https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-display/
 https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-editing/
 https://docs.djangoproject.com/en/1.8/topics/class-based-views/mixins/
 https://docs.djangoproject.com/en/1.8/ref/class-based-views/
-http://ccbv.co.uk
-www.python.org/download/releases/2.3/mro/
-http://pydanny.com/tag/class-based-views.html
 https://docs.djangoproject.com/en/1.8/ref/forms/validation/#raising-validationerror
 https://docs.djangoproject.com/en/1.8/ref/csrf/
 https://docs.djangoproject.com/en/1.8/ref/csrf/#ajax
 https://docs.djangoproject.com/en/1.8/ref/csrf/
-http://django-braces.readthedocs.io/en/latest/form.html#userformkwargsmixin
-http://django-braces.readthedocs.io/en/latest/form.html#userkwargmodelformmixin
 https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_data
 https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_json
 https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.has_error
 https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.non_field_errors
+
 http://www.pydanny.com/tag/forms.html
 https://bradmontgomery.net/blog/2015/04/25/nice-arrayfield-widgets-choices-and-chosenjs/
 http://tothinkornottothink.com/post/10815277049/django-forms-i-custom-fields-and-widgets-in
@@ -4315,8 +4323,10 @@ jinja.pocoo.org
 http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 http://cdrf.co
 http://ccbv.co.uk
+
 http://www.django-rest-framework.org/api-guide/authentication/
 http://www.django-rest-framework.org/api-guide/permissions/
+
 http://amzn.to/1KgRHG3 Domain-Driven Development by Eric Evans
 http://en.wikipedia.org/wiki/Service-oriented_architecture
 http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
@@ -4352,10 +4362,13 @@ http://www.forbes.com/sites/limyunghui/2012/04/09/inspiring-insights-by-instagra
 https://en.wikipedia.org/wiki/CAP_theorem
 https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql
 mcfunley.com/why-mongodb-never-worked-out-at-etsy
+
 https://code.djangoproject.com/ticket/11313
 https://code.djangoproject.com/ticket/17118
+
 https://docs.djangoproject.com/en/1.8/ref/contrib/admin/admindocs/
 https://www.djangopackages.com/grids/g/admin-styling/
+
 http://sehmaschine.net/blog/django-admin-frontend-framework
 https://www.caktusgroup.com/blog/2013/08/07/migrating-custom-user-model-django/
 http://django-authtools.readthedocs.io/en/latest/how-to/migrate-to-a-custom-user-model.html
@@ -4386,9 +4399,10 @@ https://github.com/pydanny/cookiecutter-djangopackage/blob/master/%7B%7Bcookiecu
 http://alexgaynor.net/2013/sep/26/effective-code-review/
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
 http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
+http://pytest.org/latest/assert.html#assertions-about-expected-exceptions
+
 https://docs.djangoproject.com/en/1.8/topics/testing/advanced/#module-django.test.client
 https://docs.python.org/2/library/unittest.html#unittest.TestCase.assertRaises
-http://pytest.org/latest/assert.html#assertions-about-expected-exceptions
 https://docs.python.org/2/library/unittest.html#assert-methods
 https://docs.python.org/3/library/unittest.html#assert-methods
 https://docs.djangoproject.com/en/1.8/topics/testing/tools/#assertions
@@ -4457,31 +4471,35 @@ https://www.caktusgroup.com/blog/2014/06/23/scheduling-tasks-celery/
 http://python-rq.org/ Homepage of Redis Queue
 http://racingtadpole.com/blog/redis-queue-with-django/
 django-background-tasks:
-https://pypi.python.org/pypi/django-background-tasks
-https://docs.djangoproject.com/en/1.8/topics/security/
-https://docs.djangoproject.com/en/1.8/ref/settings/#debug
-https://docs.djangoproject.com/en/1.8/topics/security/#ssl-https
 https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 https://mozilla.github.io/server-side-tls/ssl-config-generator/
 https://www.ssllabs.com/ssltest/
-https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
-https://docs.djangoproject.com/en/1.8/ref/request-response/#django.http.HttpRequest.get_host
-https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#escape
-http://en.wikipedia.org/wiki/Cross-site_scripting
-http://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html
-http://docs.python.org/2/library/pickle.html
+
+https://pypi.python.org/pypi/django-background-tasks
 https://lincolnloop.com/blog/playing-pickle-security/
 https://blog.nelhage.com/2011/03/exploiting-pickle/
 http://nedbatchelder.com/blog/201302/war_is_peace.html
-https://docs.djangoproject.com/en/1.8/topics/http/sessions/#session-serialization
-https://docs.djangoproject.com/en/1.8/ref/settings/#session-serializer
-https://docs.djangoproject.com/en/1.8/topics/http/sessions/#using-cookie-based-sessions
+http://en.wikipedia.org/wiki/Cross-site_scripting
+http://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html
+http://docs.python.org/2/library/pickle.html
 https://threatpost.com/security-vulnerability-in-django-could-allow-attackers-access-to-cookies/102501/
 http://yuiblog.com/blog/2007/03/01/performance-research-part-3/
 https://github.com/ahupp/python-magic
-https://docs.djangoproject.com/en/1.8/ref/models/fields/#filefield
 https://en.wikipedia.org/wiki/Mass_assignment_vulnerability
+
+https://docs.djangoproject.com/en/1.8/topics/security/
+https://docs.djangoproject.com/en/1.8/ref/settings/#debug
+https://docs.djangoproject.com/en/1.8/topics/security/#ssl-https
+https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
+https://docs.djangoproject.com/en/1.8/ref/request-response/#django.http.HttpRequest.get_host
+https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#escape
+https://docs.djangoproject.com/en/1.8/topics/http/sessions/#session-serialization
+https://docs.djangoproject.com/en/1.8/ref/settings/#session-serializer
+https://docs.djangoproject.com/en/1.8/topics/http/sessions/#using-cookie-based-sessions
+https://docs.djangoproject.com/en/1.8/ref/models/fields/#filefield
 https://docs.djangoproject.com/en/1.8/topics/security/#sql-injection-protection
+https://docs.djangoproject.com/en/1.8/ref/clickjacking/
+
 https://www.pcisecuritystandards.org/
 http://kencochrane.net/blog/2012/01/developers-guide-to-pci-compliant-web-applications/
 https://github.com/dmpayton/django-admin-honeypot
@@ -4489,12 +4507,15 @@ http://tech.marksblogg.com/django-admin-logins.html
 requires.io
 https://www.djangoproject.com/weblog/
 https://groups.google.com/forum/#!forum/django-announce
-https://docs.djangoproject.com/en/1.8/ref/clickjacking/
+
 http://en.wikipedia.org/wiki/Billion_laughs
+
 https://pypi.python.org/pypi/defusedxml#python-xml-libraries
 https://pypi.python.org/pypi/defusedxml
-http://en.wikipedia.org/wiki/Two_factor_authentication
 https://pypi.python.org/pypi/django-two-factor-auth
+
+http://en.wikipedia.org/wiki/Two_factor_authentication
+
 2scoops.co/time-based-one-time-password-algorithm/
 https://github.com/dstufft/django-passwords
 https://github.com/rosarior/django-autoadmin
@@ -4514,42 +4535,49 @@ http://amzn.to/1hXAAyx
 http://amzn.to/1dZ7xEY
 https://code.google.com/p/browsersec/wiki/Main
 https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
-https://docs.djangoproject.com/en/1.8/topics/security/#additional-security-topics
 http://loggly.com/
-https://docs.djangoproject.com/en/1.8/topics/logging/
 http://www.pagerduty.com/
+
+https://docs.djangoproject.com/en/1.8/topics/security/#additional-security-topics
+https://docs.djangoproject.com/en/1.8/topics/logging/
 https://docs.djangoproject.com/en/1.8/topics/logging/
 http://docs.python.org/2/library/logging.html
 http://docs.python.org/2/library/logging.config.html
 http://docs.python.org/2/library/logging.handlers.html
 http://docs.python.org/2/howto/logging-cookbook.html
+
 Sentry (https://www.getsentry.com/
 App Enlight (https://appenlight.com/
 loggly.com (http://loggly.com/
 http://www.celeryproject.org/
-https://docs.djangoproject.com/en/1.8/ref/utils/
-https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.functional.cached_property
 https://github.com/pydanny/cached-property
 http://www.pydanny.com/cached-property.html
+
+https://docs.djangoproject.com/en/1.8/ref/utils/
+https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.functional.cached_property
 https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.html.format_html
+https://docs.djangoproject.com/en/dev/ref/exceptions
+
 https://djangoproject.com/weblog/2014/mar/22/strip-tags-advisory/
+
 Six on PyPI: https://pypi.python.org/pypi/six
 Six documentation: http://pythonhosted.org/six/
 Six repo on BitBucket: https://bitbucket.org/gutworth/six
 Six in Django: https://github.com/django/django/blob/master/django/utils/six.py
 https://github.com/mozilla/unicode-slugify
 https://github.com/dimka665/awesome-slugify
-https://docs.djangoproject.com/en/dev/ref/exceptions
 http://heroku.com
 http://www.theherokuhackersguide.com/ by Randall Degges.
 PythonAnywhere (https://www.pythonanywhere.com) 
 https://en.wikipedia.org/wiki/HIPAA#Security_Rule
 https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 http://www.ubuntu.com/server
-https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/gunicorn/
 http://uwsgi-docs.readthedocs.org
+
+https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/gunicorn/
 https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/uwsgi/
-➤ http://justcramer.com/2013/06/27/serving-python-web-applications/
+
+http://justcramer.com/2013/06/27/serving-python-web-applications/
 David Cramer’s blog article arguing for using Nginx + UWSGI
 http://gunicorn.org/
 http://cerebralmanifest.com/uwsgi-vs-gunicorn/
@@ -4576,20 +4604,24 @@ http://django-debug-toolbar.readthedocs.org
 Python’s pdb documentation: https://docs.python.org/2/library/pdb.html
 ➤ IPDB: https://pypi.python.org/pypi/ipdb
 ➤ Using PDB with Django: https://mike.tig.as/blog/2010/09/14/pdb/
+
 https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
+
+https://www.djangoproject.com/community/
+
+https://github.com/twoscoops/two-scoops-of-django-1.8/issues
+
 https://github.com/disqus/gargoyle
 https://github.com/jsocol/django-waffle
 http://gargoyle.readthedocs.io/en/latest/usage/index.html#testing-switches
 http://waffle.readthedocs.io/en/latest/testing/automated.html#testing-automated
 https://gist.github.com/
-https://www.djangoproject.com/community/
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
 PyCoders Weekly and Python Weekly
 34.4.1 9 Easy Ways to Participate
 http://wiki.python.org/moin/LocalUserGroups
 http://www.python.org/community/irc/
-https://github.com/twoscoops/two-scoops-of-django-1.8/issues:
 
 ➤ pydanny.com / audreyr.com / twoscoopspress.com
 ➤ GitHub: @pydanny, @audreyr, and @twoscoopspress
