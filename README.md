@@ -3897,10 +3897,6 @@ Virtual Environment
 
 <!--
 virtualenvwrapper http://www.doughellmann.com/projects/virtualenvwrapper
-
-PyPI - the Python Package Index
-https://pypi.python.org/pypi
-http://pypi.python.org
 -->
 
 Pyenv
@@ -4223,8 +4219,6 @@ https://en.wikipedia.org/wiki/Resource-oriented_architecture
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
 http://en.wikipedia.org/wiki/REST
 http://pythonhosted.org/
-YSlow’s Web Performance Best Practices and Rules
-http://developer.yahoo.com/yslow/
 
 https://www.djangoproject.com/community/
 https://www.djangoproject.com/weblog/
@@ -4237,13 +4231,8 @@ https://groups.google.com/forum/#!forum/django-announce
 ➤ Facebook: https://www.facebook.com/twoscoopspress
 
 Core
-django-debug-toolbar http://django-debug-toolbar.readthedocs.org/
-https://pypi.python.org/pypi/django-debug-toolbar
 django-model-utils https://pypi.python.org/pypi/django-model-utils
 ipdb https://pypi.python.org/pypi/ipdb
-Pillow https://pypi.python.org/pypi/Pillow
-
-http://pypi.python.org/pypi/Unipath/
 
 https://www.djangopackages.com/python3/
 
@@ -4259,7 +4248,9 @@ Node.js Style Guide https://github.com/felixge/node-style-guide
 Code Conventions for the JavaScript Programming Language
 http://javascript.crockford.com/code.html
 http://jscs.info/
+
 @mdo for HTML and CSS: http://codeguide.co
+
 https://github.com/necolas/idiomatic-css
 http://csscomb.com/
 http://cs.simons-rock.edu/python/pythonpath.html
@@ -4335,6 +4326,7 @@ http://www.pip-installer.org/en/latest/logic.html#requirement-specifiers
 http://www.python.org/dev/peps/pep-0386
 http://www.python.org/dev/peps/pep-0427/
 http://www.python.org/dev/peps/pep-0263/
+http://www.python.org/dev/peps/pep-0257
 
 https://github.com/kennethreitz/requests/blob/master/HISTORY.rst
 
@@ -4349,8 +4341,6 @@ requestb.in
 http://httpbin.org/ 
 runscope.com
 http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
-
-http://www.python.org/dev/peps/pep-0257
 http://documentup.com
 http://progrium.viewdocs.io/
 http://johnmacfarlane.net/pandoc/
@@ -4897,44 +4887,26 @@ Python- Django- Cookiecutter (See also Packages)
 #### Python and Django Deployment
 
 <!--
-https://github.com/lincolnloop/django-layout
-
-High Performance Django Stack
-
-• Load Balancer:
-– Open Source: HAProxy, Nginx, Varnish
-– Commercial: Amazon ELB (Elastic Load Balancer), Rackspace Clould Load Balancer
-• Web Accelerator:
-– Open Source: Varnish, Nginx + Memcached
-– Commercial: Fastly, Cloudflare
-• App Server: uWSGI, Gunicorn, Apache
-• Cache: Memcached, Redis
-• Database: Postgres, MySQL/MariaDB
-
-http://12factor.net
-
-https://www.varnish-cache.org
-http://uwsgi-docs.readthedocs.org/en/latest
-http://uwsgi-docs.readthedocs.org/en/latest/Options.html#env
-
 https://github.com/jacobian/django-dotenv
 https://github.com/lincolnloop/django-layout
-http://django-debug-toolbar.readthedocs.org
+
 https://github.com/recamshak/django-debug-panel
 https://github.com/dcramer/django-devserver
+
+http://uwsgi-docs.readthedocs.org/en/latest/Options.html#env
 
 https://docs.djangoproject.com/en/dev/ref/models/querysets/#select-related
 https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related
 https://docs.djangoproject.com/en/1.7/ref/models/queries/#prefetch-objects
 https://docs.djangoproject.com/en/dev/ref/models/options/#index-together
 
+https://docs.djangoproject.com/en/dev/topics/db/multi-db
+https://docs.djangoproject.com/en/dev/topics/db/sql/#performing-raw-queries
+
 http://en.wikipedia.org/wiki/Memoization
 
 https://johnny-cache.readthedocs.org/en/latest
 https://cache-machine.readthedocs.org/en/latest
-
-https://docs.djangoproject.com/en/dev/topics/db/multi-db
-https://docs.djangoproject.com/en/dev/topics/db/sql/#performing-raw-queries
 
 Simon Willison’s Redis Tutorial
 Scaling SQL with Redis by David Cramer
@@ -4959,22 +4931,11 @@ https://django-transaction-hooks.readthedocs.org
 http://celery.readthedocs.org/en/latest/userguide/periodic-tasks.html
 
 http://lanyrd.com/2012/djangocon-us/sxbyb
-High Performance Websites
-https://developer.yahoo.com/yslow
-https://developers.google.com/speed/pagespeed
-
-Minimizing CSS and JavaScript
-https://django-pipeline.readthedocs.org/en/latest
-http://django-compressor.readthedocs.org/en/latest
-http://webassets.readthedocs.org/en/latest
-http://requirejs.org
-http://browserify.org
 
 http://easy-thumbnails.readthedocs.org/en/latest/ref/optimize
 
-Static File Serving
+Static File Serving (See also Whitenoise)
 http://uwsgi-docs.readthedocs.org/en/latest/StaticFiles.html
-http://whitenoise.evans.io
 
 https://django-discover-jenkins.readthedocs.org/en/latest
 
@@ -5019,7 +4980,6 @@ https://github.com/carljm/django-secure#readme
 https://www.owasp.org
 
 Web Accelerator
-https://www.varnish-cache.org/docs/4.0/users-guide
 https://www.varnish-cache.org/docs/4.0/whats-new/upgrading.html
 https://www.varnish-cache.org/docs/4.0/users-guide/vcl-backends.html#directors
 https://www.varnish-cache.org/docs/4.0/users-guide/increasing-your-hitrate.html
@@ -5135,6 +5095,8 @@ Dedicated Python Hosting
 
 #### Lincoln Loop Stack
 
+High Performance Django Stack
+
 Load Balancer- Open Source (preferred- Varnish)
 * HAProxy
 * Nginx
@@ -5175,6 +5137,10 @@ Web Accelerator
 * [Varnish](https://www.varnish-software.com)  
 * [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
 
+<!--
+https://www.varnish-cache.org/docs/4.0/users-guide
+-->
+
 Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
 * [Nginx](http://nginx.com/products)  
 * [Nginx GitHub](https://github.com/nginx/nginx)  
@@ -5185,6 +5151,9 @@ Jenkins CI and Travis CI (Continuous Integration)
 * [Jenkins](http://jenkins-ci.org)  
 * [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
 
+Continuous Integration
+* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
+
 <!--
 CI
 http://www.appveyor.com/
@@ -5193,7 +5162,6 @@ https://drone.io/
 https://codeship.com
 codecov.io
 
-http://en.wikipedia.org/wiki/Continuous_Integration
 http://djangoci.com
 http://docs.python-guide.org/en/latest/scenarios/ci/
 -->
@@ -5212,8 +5180,20 @@ Python- Django- Random SECRET_KEY
 * [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
 * [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
 
+Python- Django- Debug Toolbar
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org)  
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
+
+<!--
+http://django-debug-toolbar.readthedocs.io/en/1.4/installation.html
+-->
+
+Python- Unipath
+* [Unipath PyPi](http://pypi.python.org/pypi/Unipath)
+
 Python- Django- Static File Serving
-* [Whitenoise GitHub](https://github.com/evansd/whitenoise) 
+* [Whitenoise](http://whitenoise.evans.io) and [Whitenoise GitHub](https://github.com/evansd/whitenoise)
 * [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
 
 CGI and WSGI (Web Server API)
@@ -5230,7 +5210,7 @@ Werkzeug (Flexible WSGI) (Security Flaw)
 
 More WSGI (See also Apache)
 * [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
-* [uWsgi GitHub](https://github.com/unbit/uwsgi)
+* [uWsgi GitHub](https://github.com/unbit/uwsgi) and [uWsgi Docs](http://uwsgi-docs.readthedocs.org/en/latest)
 
 <!--
 http://python-packaging-user-guide.readthedocs.org/en/latest/installing
@@ -5277,10 +5257,9 @@ pytest and Nose (Unit Test Extension)
 * [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 * [pytest](http://pytest.org)
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django)
 
 <!--
-https://pypi.python.org/pypi/pytest-django/
-
 https://docs.python.org/3.5/library/unittest.html
 
 2.12 Writing your first patch for Django
@@ -5297,16 +5276,8 @@ Tox (Automation)
 
 #### Python and Django Useful Tools
 
-Python- Django- Debug Toolbar
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org)  
-* [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
-
 Python- Django Extensions
 * [Django Extensions Read the Docs](https://django-extensions.readthedocs.io)
-
-<!--
-http://django-debug-toolbar.readthedocs.io/en/1.4/installation.html
--->
 
 Python- Django- Migrations
 * [South](http://south.aeracode.org)  
@@ -5367,7 +5338,7 @@ Python- Django- Python Social Auth
 Python- Django- Search
 * [Haystack](http://haystacksearch.org) and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
 
-Python- Imaging Library
+Python- Imaging Library (Pillow)
 * [Python Imaging Library](http://www.pythonware.com/products/pil) and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
 * [Python Imaging Library Read the Docs](https://pillow.readthedocs.org)  
 * [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
@@ -5406,6 +5377,19 @@ https://github.com/pypa/warehouse
 
 Automated Dependency Management
 * [Requires.io](https://requires.io)
+
+<!--
+YSlow’s Web Performance Best Practices and Rules
+https://developer.yahoo.com/yslow
+https://developers.google.com/speed/pagespeed
+
+Minimizing CSS and JavaScript
+https://django-pipeline.readthedocs.org/en/latest
+http://django-compressor.readthedocs.org/en/latest
+http://webassets.readthedocs.org/en/latest
+http://requirejs.org
+http://browserify.org
+-->
 
 Python- Django- TinyMCE
 * [TinyMCE GitHub](https://github.com/tinymce/tinymce) 
