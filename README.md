@@ -4195,6 +4195,169 @@ http://www.meetup.com/topics/python/
 http://www.djangobook.com/en/2.0/chapter20.html
 -->
 
+<!--
+Introduction
+
+1 https://git-for-windows.github.io/
+
+Chapter 1
+2 https://docs.djangoproject.com/en/1.8/ref/forms/felds/
+3 http://www.pydanny.com/overloading-form-felds.html
+4 https://sendgrid.com/
+5 https://www.mandrill.com/
+6 https://sendgrid.com/docs/Integrate/Frameworks/django.html
+
+Chapter 2
+7 https://docs.djangoproject.com/en/1.8/ref/models/options/
+
+Chapter 3
+
+8 https://docs.djangoproject.com/en/1.8/ref/models/instanc-
+es/#get-absolute-url
+
+9 https://www.google.com/webmasters/tools/
+10 http://www.sitemaps.org
+11 https://docs.djangoproject.com/en/1.8/ref/contrib/sitemaps/
+
+12 http://lgiordani.com/blog/2013/10/28/digging-up-django-class-
+based-views-1/
+
+13 https://docs.djangoproject.com/en/1.9/ref/class-based-views/
+
+generic-display/#listview
+
+14 https://docs.djangoproject.com/en/1.9/topics/class-based-views/
+
+intro/
+
+15 https://ccbv.co.uk/
+
+16 https://godjango.com/15-class-based-views-part-1-templateview-
+and-redirectview/
+
+17 https://hellowebapp.com/news/tutorial-class-based-views
+
+Chapter 4
+18 https://devcenter.heroku.com/articles/s3-upload-python
+
+19 https://docs.djangoproject.com/en/1.8/howto/static-fles/deploy-
+ment/
+
+Chapter 5
+20 http://pillow.readthedocs.org/en/latest/handbook/tutorial.html
+21 https://github.com/mariocesar/sorl-thumbnail
+22 https://github.com/SmileyChris/easy-thumbnails
+23 https://www.youtube.com/watch?v=_H9uPRJWMNk
+
+Chapter 6
+24 https://docs.djangoproject.com/en/1.8/ref/contrib/messages/
+
+Chapter 7
+25 https://www.codecademy.com/tracks/web
+26 http://sass-lang.com/
+27 http://getbootstrap.com/
+28 https://github.com/postcss/autoprefxer
+29 https://github.com/postcss/postcss
+30 http://gulpjs.com/
+31 https://github.com/dahlia/libsass-python
+32 http://howtonode.org/how-to-install-nodejs
+33 http://v4-alpha.getbootstrap.com/getting-started/download/
+34 https://www.npmjs.com/
+35 http://gulpjs.com/plugins/
+36 https://www.npmjs.com/package/gulp-livereload
+37 http://sass-lang.com/guide
+38 https://help.github.com/articles/ignoring-fles/
+
+152 HELLO WEB APP: INTERMEDIATE CONCEPTS
+
+Chapter 8
+
+39 https://github.com/django/django/blob/58195f0b16999245ad-
+a6bd010b71c9c5352ae608/django/contrib/auth/models.py#L366
+
+40 https://github.com/django/django/blob/58195f0b16999245ad-
+a6bd010b71c9c5352ae608/django/contrib/auth/models.py#L297
+
+Chapter 9
+41 https://stripe.com
+42 https://devcenter.heroku.com/articles/ssl-endpoint
+43 https://cloudfare.com
+
+44 http://andrewtorkbaker.com/using-environment-vari-
+ables-with-django-settings
+
+45 https://devcenter.heroku.com/articles/confg-vars
+46 https://stripe.com/checkout
+47 https://stripe.com/docs/testing#cards
+48 https://stripe.com/docs/api/python#errors
+49 https://stripe.com/blog/improved-email-receipts
+50 https://zapier.com/
+51 https://stripe.com/docs/webhooks
+52 https://stripe.com/docs/api/python#retrieve_customer
+53 https://stripe.com/docs/api/python#update_customer
+
+54 https://stripe.com/docs/guides/subscriptions#canceling-sub-
+scriptions
+
+55 https://stripe.com/docs/examples
+56 http://dj-stripe.readthedocs.org/
+57 https://godjango.com/57-starting-with-stripejs/
+
+Chapter 10
+
+58 http://www.django-rest-framework.org/
+59 http://www.django-rest-framework.org/api-guide/permissions/
+60 https://docs.djangoproject.com/en/1.8/topics/serialization/
+61 https://docs.djangoproject.com/en/1.8/ref/request-response/#-
+
+jsonresponse-objects
+
+62 http://www.django-rest-framework.org/tutorial/quickstart/
+63 https://godjango.com/blog/working-with-json-and-django/
+64 https://godjango.com/41-start-your-api-django-rest-framework-part-1/
+
+Chapter 12
+65 http://heroku.com
+66 https://addons.heroku.com/scheduler
+
+67 http://guidovanoorschot.nl/adding-cron-jobs-to-a-django-project-
+with-heroku-scheduler/
+
+68 https://github.com/kraiz/django-crontab
+69 https://www.easycron.com/
+70 http://amzn.to/1LQKpvW
+
+Chapter 13
+
+71 http://django-debug-toolbar.readthedocs.org/
+
+72 https://docs.djangoproject.com/en/1.8/ref/models/query-
+sets/#prefetch-related
+
+73 https://docs.djangoproject.com/en/1.8/ref/models/query-
+sets/#select-related
+
+74 https://docs.djangoproject.com/en/1.8/topics/db/optimization/
+
+Chapter 14
+
+75 https://docs.djangoproject.com/en/stable/releases
+76 https://wiki.python.org/moin/Python2orPython3
+77 http://www.diveintopython3.net/
+78 http://amzn.to/1JN0NHK
+79 http://amzn.to/1OgbQRr
+80 http://amzn.to/1OgbXfT
+81 http://amzn.to/1jIeAub
+82 https://godjango.com
+83 https://www.codecademy.com/courses/learn-the-command-line
+84 https://www.udacity.com/course/intro-to-relational-databases–
+
+ud197
+85 https://teamtreehouse.com/
+86 http://regex.learncodethehardway.org/
+87 http://sql.learncodethehardway.org/
+-->
+
 Two Scoops of Django
 * [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
 * [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
