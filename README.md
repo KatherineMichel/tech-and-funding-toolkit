@@ -4371,8 +4371,8 @@ http://amzn.to/188VPcL
 
 https://github.com/sebleier/django-redis-cache/
 http://www.djangopackages.com/grids/g/caching/
-
 http://www.djangopackages.com/grids/g/asset-managers/
+
 Google’s Web Performance Best Practices
 https://developers.google.com/speed/docs/best-practices/rules_intro
 http://justcramer.com/
@@ -4468,8 +4468,8 @@ http://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuou
 http://stackoverflow.com/a/9407940/93270
 http://www.caktusgroup.com/blog/2010/03/08/django-and-hudson-ci-day-1/
 Python’s pdb documentation: https://docs.python.org/2/library/pdb.html
-➤ IPDB: https://pypi.python.org/pypi/ipdb
-➤ Using PDB with Django: https://mike.tig.as/blog/2010/09/14/pdb/
+IPDB: https://pypi.python.org/pypi/ipdb
+Using PDB with Django: https://mike.tig.as/blog/2010/09/14/pdb/
 
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
 
