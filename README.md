@@ -4202,10 +4202,8 @@ https://github.com/404
 https://github.com/500
 https://github.com/styleguide
 
-https://github.com/pydanny/cookiecutter-django
 https://www.djangopackages.com/grids/g/cookiecutters/
-https://github.com/audreyr/cookiecutter
-http://cookiecutter.readthedocs.org/
+Cookiecutter http://cookiecutter.readthedocs.org
 
 https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
 http://www.python.org/dev/peps/pep-0008/#maximum-line-length
@@ -4316,7 +4314,6 @@ Felix’s Node.js Style Guide
 http://nodeguide.com/style.html
 idiomatic.js
 https://github.com/rwaldron/idiomatic.js/
-http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20
 http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 http://blog.mathandpencil.com/using-django-tastypie-to-create-RESTful-APIs/
 http://www.forbes.com/sites/limyunghui/2012/04/09/inspiring-insights-by-instagram-ceo-kevin-systrom-the-man-who-built-a-1-billion-startup/2/#3c3a66df5700
@@ -4447,11 +4444,9 @@ http://amzn.to/1hXAAyx
 http://amzn.to/1dZ7xEY
 https://code.google.com/p/browsersec/wiki/Main
 https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
-http://loggly.com/
 http://www.pagerduty.com/
 
-Sentry (https://www.getsentry.com/
-App Enlight (https://appenlight.com/
+Sentry and App Enlight
 loggly.com (http://loggly.com/
 https://github.com/pydanny/cached-property
 http://www.pydanny.com/cached-property.html
@@ -4533,12 +4528,6 @@ Sentry http://getsentry.com
 App Enlight https://appenlight.com/
 Newrelic http://newrelic.com
 
-Project Templates
-cookiecutter-django https://github.com/pydanny/cookiecutter-django
-Cookiecutter http://cookiecutter.readthedocs.org
-django-kevin https://github.com/imkevinxu/django-kevin
-django-herokuapp https://github.com/etianen/django-herokuapp
-
 REST APIs
 django-rest-framework http://django-rest-framework.org/
 django-jsonview https://github.com/jsocol/django-jsonview
@@ -4619,8 +4608,6 @@ Django Model Behaviors
 http://blog.kevinastone.com/django-model-behaviors.html
 Lincoln Loop’s Django Best Practices
 http://lincolnloop.com/django-best-practices/
-Awesome-Django
-https://github.com/rosarior/awesome-django
 
 Video:
 
@@ -5338,7 +5325,22 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
 <!--
-https://django-registration-redux.readthedocs.io/en/latest/
+https://django-registration-redux.readthedocs.io/en/latest
+
+SendGrid Django
+https://sendgrid.com/docs/Integrate/Frameworks/django.html
+
+MailChimp API
+http://developer.mailchimp.com/documentation/mailchimp
+
+MailChimp API Documentation- Downloads
+https://apidocs.mailchimp.com/api/downloads
+
+Python MailChimp API Client
+https://pypi.python.org/pypi/mailchimp
+
+Python MailChimp API Client
+https://bitbucket.org/mailchimp/mailchimp-api-python
 -->
 
 Python- Django- Records, Requests
