@@ -8640,6 +8640,13 @@ Compensation
 Contracts
 * [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
 
+<!--
+CraigsList
+LinkedIn
+eLance
+oDesk
+-->
+
 Aquihire
 * [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
 
