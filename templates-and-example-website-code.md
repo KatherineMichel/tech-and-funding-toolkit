@@ -90,6 +90,8 @@ Python- Django- Cookiecutter (See also Packages)
 Project Templates
 django-kevin https://github.com/imkevinxu/django-kevin
 django-herokuapp https://github.com/etianen/django-herokuapp
+
+https://github.com/lincolnloop/django-layout
 -->
 
 Python- Django- Python and Django official websites and code
