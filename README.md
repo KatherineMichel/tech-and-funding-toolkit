@@ -3913,6 +3913,7 @@ Consulting Forms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 * [Revolution Systems](http://www.revsys.com) and [Revolution Systems Blog](http://www.revsys.com/writings)
 * [Lincoln Loop](http://lincolnloop.com)
+* [Caktus Group](https://www.caktusgroup.com)
 
 <!--
 http://www.ellingtoncms.com
@@ -4134,6 +4135,7 @@ Django Girls- Events and Cities
 Hello Web App
 * [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
 * [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
+* [Hello Web App Intermediate Concepts Code GitHub](https://github.com/hellowebapp/hellowebapp-ic-code)
 * [Hello Web App Setup](https://hellowebapp.com/setup)
 * [Hello Web App Discuss](http://discuss.hellowebapp.com)
 * [Hello Web App Twitter](http://twitter.com/hellowebapp)
@@ -4374,8 +4376,6 @@ http://www.fullstackpython.com/task-queues.html
 http://www.slideshare.net/bryanhelmig/task-queues-comorichweb-12962619
 https://pypi.python.org/pypi/django-transaction-hooks
 
-https://www.caktusgroup.com
-
 https://denibertovic.com/posts/celery-best-practices/
 https://pypi.python.org/pypi/flower
 http://wiredcraft.com/blog/3-gotchas-for-celery/
@@ -4447,7 +4447,6 @@ http://www.theherokuhackersguide.com/ by Randall Degges.
 https://en.wikipedia.org/wiki/HIPAA#Security_Rule
 https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 http://www.ubuntu.com/server
-http://uwsgi-docs.readthedocs.org
 
 http://justcramer.com/2013/06/27/serving-python-web-applications/
 David Cramer’s blog article arguing for using Nginx + UWSGI
