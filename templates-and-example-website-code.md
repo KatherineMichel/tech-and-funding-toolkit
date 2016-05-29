@@ -86,6 +86,12 @@ Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django)
 * [PyBee Cookiecutter Project GitHub](https://github.com/pybee/cookiecutter-project)
 
+<!--
+Project Templates
+django-kevin https://github.com/imkevinxu/django-kevin
+django-herokuapp https://github.com/etianen/django-herokuapp
+-->
+
 Python- Django- Python and Django official websites and code
 * [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
 * [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
