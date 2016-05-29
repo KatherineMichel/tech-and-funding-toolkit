@@ -2313,6 +2313,10 @@ Example Help Tweets
 Write the Docs (Conference and Community)
 * [Write the Docs](http://www.writethedocs.org)
 
+<!--
+http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+-->
+
 MkDocs
 * [MkDocs](http://www.mkdocs.org)
 
@@ -2345,7 +2349,7 @@ LaTeX
 * [Share LaTeX](https://github.com/sharelatex/sharelatex)  
 
 Read the Docs
-* [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+* [Read the Docs GitHub](https://readthedocs.org) and [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
 * [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
 
@@ -3868,7 +3872,7 @@ Wikitech Development
 Python (See also Data Science)
 * [Python](http://www.python.org) and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 * [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
-* [Python Docs](https://docs.python.org/3.5)
+* [Python Docs](https://docs.python.org)
 * [Python Standard Library](https://docs.python.org/3.5/library)
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
 * [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
@@ -3886,7 +3890,21 @@ Virtual Environment
 * [Virtualenv GitHub](https://github.com/pypa/virtualenv) and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
 * [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
 * [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
- 
+
+<!--
+http://pip-installer.org
+virtualenv: http://virtualenv.org
+https://virtualenvwrapper.readthedocs.io/en/latest/
+
+virtualenvwrapper http://www.doughellmann.com/projects/virtualenvwrapper/
+virtualenvwrapper-win https://pypi.python.org/pypi/virtualenvwrapper-win
+-->
+<!--
+PyPI - the Python Package Index
+https://pypi.python.org/pypi
+http://pypi.python.org
+-->
+
 Pyenv
 * [Pyenv GitHub](https://github.com/yyuu/pyenv)
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
@@ -4127,12 +4145,6 @@ Hello Web App
 * [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
-http://www.amazon.com/gp/product/1118008189/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118008189&linkCode=as2&tag=limedaring-20&linkId=PWJJWWC63IMENA5W
-http://learn.shayhowe.com/html-css/
-http://www.dontfeartheinternet.com/
-http://pyvideo.org/video/2559/hands-on-intro-to-python-for-beginning-programmer
-http://learnpythonthehardway.org/book/ex29.html
-
 https://docs.python.org/2/howto/regex.html
 
 http://twitter.com/limedaring
@@ -4161,24 +4173,25 @@ https://devcenter.heroku.com/articles/getting-started-with-python#set-up
 https://devcenter.heroku.com/articles/procfile
 https://devcenter.heroku.com/articles/getting-started-with-python#introduction
 
+http://www.amazon.com/gp/product/1118008189/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118008189&linkCode=as2&tag=limedaring-20&linkId=PWJJWWC63IMENA5W
+http://learn.shayhowe.com/html-css/
+http://www.dontfeartheinternet.com/
+http://pyvideo.org/video/2559/hands-on-intro-to-python-for-beginning-programmer
+http://learnpythonthehardway.org/book/ex29.html
+
 https://github.com/macropin/django-registration/
 
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
-http://stackoverflow.com/
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
+
 https://github.com/hellowebapp/hellowebapp/tree/master/irc-tips
+https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
 
 https://docs.djangoproject.com/en/1.7/internals/mailing-lists/#django-users
 http://www.meetup.com/topics/python/
 
-http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
-
 http://www.djangobook.com/en/2.0/chapter20.html
-http://gettingstartedwithdjango.com/
-http://www.tangowithdjango.com/
-https://www.coursera.org/courses?query=python
-https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
 -->
 
 Two Scoops of Django
@@ -4242,6 +4255,28 @@ https://docs.djangoproject.com/en/1.8/ref/models/fields/#filefield
 https://docs.djangoproject.com/en/1.8/topics/security/#sql-injection-protection
 https://docs.djangoproject.com/en/1.8/ref/clickjacking/
 
+https://docs.djangoproject.com/en/1.8/topics/security/#additional-security-topics
+https://docs.djangoproject.com/en/1.8/topics/logging/
+https://docs.djangoproject.com/en/1.8/topics/logging/
+http://docs.python.org/2/library/logging.html
+http://docs.python.org/2/library/logging.config.html
+http://docs.python.org/2/library/logging.handlers.html
+http://docs.python.org/2/howto/logging-cookbook.html
+
+https://docs.djangoproject.com/en/1.8/ref/utils/
+https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.functional.cached_property
+https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.html.format_html
+https://docs.djangoproject.com/en/dev/ref/exceptions
+https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/gunicorn/
+https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/uwsgi/
+https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
+https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#spaceless
+
+https://docs.djangoproject.com/en/1.8/topics/testing/advanced/#module-django.test.client
+https://docs.python.org/2/library/unittest.html#unittest.TestCase.assertRaises
+https://docs.python.org/2/library/unittest.html#assert-methods
+https://docs.python.org/3/library/unittest.html#assert-methods
+
 https://github.com/404
 https://github.com/500
 https://github.com/styleguide
@@ -4251,19 +4286,12 @@ https://www.djangopackages.com/grids/g/cookiecutters/
 https://github.com/audreyr/cookiecutter
 http://cookiecutter.readthedocs.org/
 
-http://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
 http://www.python.org/dev/peps/pep-0008/#maximum-line-length
 http://www.python.org/dev/peps/pep-0328/
 
-http://postgresql.org/download/windows/
-http://postgresql.org/download/linux/
-
-http://pip-installer.org
-virtualenv: http://virtualenv.org
-https://virtualenvwrapper.readthedocs.io/en/latest/
-https://pypi.python.org/pypi/virtualenvwrapper-win
-
+pydanny’s blog
+http://pydanny.com/tag/django.html
 http://www.pydanny.com/python-decorator-cheatsheet.html
 http://pydanny.com/tag/class-based-views.html
 http://www.pydanny.com/tag/forms.html
@@ -4273,44 +4301,38 @@ http://jacobian.org/writing/rest-worst-practices/
 
 https://npmjs.org
 http://en.wikipedia.org/wiki/Comparison_of_revision_control_software
-http://12factor.net/config
 https://en.wikipedia.org/wiki/Environment_variable
 www.python.org/download/releases/2.3/mro/
-http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 http://en.wikipedia.org/wiki/Service-oriented_architecture
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
 https://en.wikipedia.org/wiki/Resource-oriented_architecture
-swagger.io
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
 http://en.wikipedia.org/wiki/REST
-https://pypi.python.org/pypi
-http://pypi.python.org
-https://www.djangopackages.com
-https://readthedocs.org/
-http://semver.org/
-http://choosealicense.com/
-http://docs.python.org
-http://sphinx-doc.org/
-https://readthedocs.org/
 http://pythonhosted.org/
 https://en.wikipedia.org/wiki/Markdown
-http://www.mkdocs.org/
-http://varnish-cache.org/
-https://pypi.python.org/pypi/pytest-django/
-https://pypi.python.org/pypi/django-nose
 YSlow’s Web Performance Best Practices and Rules
 http://developer.yahoo.com/yslow/
-amazon.com/High-Performance-Django/dp/1508748128/
+http://en.wikipedia.org/wiki/Continuous_Integration
+
+https://www.djangoproject.com/community/
 https://www.djangoproject.com/weblog/
 https://groups.google.com/forum/#!forum/django-announce
-http://www.celeryproject.org/
-PythonAnywhere (https://www.pythonanywhere.com) 
-http://gunicorn.org/
-http://tox.readthedocs.org/
-http://jenkins-ci.org/
-https://travis-ci.org
-http://en.wikipedia.org/wiki/Continuous_Integration
+
+➤ pydanny.com / audreyr.com / twoscoopspress.com
+➤ GitHub: @pydanny, @audreyr, and @twoscoopspress
+➤ Twitter: @pydanny, @audreyr, and @twoscoopspress
+➤ Facebook: https://www.facebook.com/twoscoopspress
+
+Core
+django-debug-toolbar http://django-debug-toolbar.readthedocs.org/
 https://pypi.python.org/pypi/django-debug-toolbar
-http://django-debug-toolbar.readthedocs.org
+django-model-utils https://pypi.python.org/pypi/django-model-utils
+ipdb https://pypi.python.org/pypi/ipdb
+Pillow https://pypi.python.org/pypi/Pillow
+
+Lightweight Django
+http://2scoops.co/lightweight-django
+
+https://www.djangopackages.com/python3/
 
 https://mail.python.org/pipermail/python-dev/2010-October/104476.html
 
@@ -4407,6 +4429,7 @@ http://nvie.com/posts/pin-your-packages/
 
 http://www.python.org/dev/peps/pep-0386
 http://www.python.org/dev/peps/pep-0427/
+http://www.python.org/dev/peps/pep-0263/
 
 https://github.com/kennethreitz/requests/blob/master/HISTORY.rst
 
@@ -4420,11 +4443,6 @@ http://alexgaynor.net/2013/sep/26/effective-code-review/
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
 http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
 http://pytest.org/latest/assert.html#assertions-about-expected-exceptions
-
-https://docs.djangoproject.com/en/1.8/topics/testing/advanced/#module-django.test.client
-https://docs.python.org/2/library/unittest.html#unittest.TestCase.assertRaises
-https://docs.python.org/2/library/unittest.html#assert-methods
-https://docs.python.org/3/library/unittest.html#assert-methods
 
 requestb.in
 http://httpbin.org/ 
@@ -4456,7 +4474,7 @@ http://www.djangopackages.com/grids/g/caching/
 ➤ django-pipeline
 ➤ django-compressor
 ➤ django-htmlmin
-https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#spaceless
+
 http://www.djangopackages.com/grids/g/asset-managers/
 Google’s Web Performance Best Practices
 https://developers.google.com/speed/docs/best-practices/rules_intro
@@ -4528,24 +4546,11 @@ https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
 http://loggly.com/
 http://www.pagerduty.com/
 
-https://docs.djangoproject.com/en/1.8/topics/security/#additional-security-topics
-https://docs.djangoproject.com/en/1.8/topics/logging/
-https://docs.djangoproject.com/en/1.8/topics/logging/
-http://docs.python.org/2/library/logging.html
-http://docs.python.org/2/library/logging.config.html
-http://docs.python.org/2/library/logging.handlers.html
-http://docs.python.org/2/howto/logging-cookbook.html
-
 Sentry (https://www.getsentry.com/
 App Enlight (https://appenlight.com/
 loggly.com (http://loggly.com/
 https://github.com/pydanny/cached-property
 http://www.pydanny.com/cached-property.html
-
-https://docs.djangoproject.com/en/1.8/ref/utils/
-https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.functional.cached_property
-https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.html.format_html
-https://docs.djangoproject.com/en/dev/ref/exceptions
 
 https://djangoproject.com/weblog/2014/mar/22/strip-tags-advisory/
 
@@ -4560,9 +4565,6 @@ https://en.wikipedia.org/wiki/HIPAA#Security_Rule
 https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 http://www.ubuntu.com/server
 http://uwsgi-docs.readthedocs.org
-
-https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/gunicorn/
-https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/uwsgi/
 
 http://justcramer.com/2013/06/27/serving-python-web-applications/
 David Cramer’s blog article arguing for using Nginx + UWSGI
@@ -4583,41 +4585,18 @@ Python’s pdb documentation: https://docs.python.org/2/library/pdb.html
 ➤ IPDB: https://pypi.python.org/pypi/ipdb
 ➤ Using PDB with Django: https://mike.tig.as/blog/2010/09/14/pdb/
 
-https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
-
-https://www.djangoproject.com/community/
-
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
 
 https://github.com/disqus/gargoyle
 https://github.com/jsocol/django-waffle
 http://gargoyle.readthedocs.io/en/latest/usage/index.html#testing-switches
 http://waffle.readthedocs.io/en/latest/testing/automated.html#testing-automated
-https://gist.github.com/
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
 PyCoders Weekly and Python Weekly
 34.4.1 9 Easy Ways to Participate
 http://wiki.python.org/moin/LocalUserGroups
 http://www.python.org/community/irc/
-
-➤ pydanny.com / audreyr.com / twoscoopspress.com
-➤ GitHub: @pydanny, @audreyr, and @twoscoopspress
-➤ Twitter: @pydanny, @audreyr, and @twoscoopspress
-➤ Facebook: https://www.facebook.com/twoscoopspress
-
-Core
-Django https://djangoproject.com
-django-debug-toolbar http://django-debug-toolbar.readthedocs.org/
-django-model-utils https://pypi.python.org/pypi/django-model-utils
-ipdb https://pypi.python.org/pypi/ipdb
-Pillow https://pypi.python.org/pypi/Pillow
-pip http://www.pip-installer.org
-Sphinx
-http://sphinx-doc.org/
-http://virtualenv.org
-virtualenvwrapper http://www.doughellmann.com/projects/virtualenvwrapper/
-virtualenvwrapper-win https://pypi.python.org/pypi/virtualenvwrapper-win
 
 Asynchronous
 celery http://www.celeryproject.org/
@@ -4718,52 +4697,27 @@ unicode-slugify https://github.com/mozilla/unicode-slugify
 Unipath https://pypi.python.org/pypi/Unipath
 Object-oriented alternative to os/os.path/shutil.
 
-http://virtualenv.org
-http://pip-installer.org
-https://docs.djangoproject.com/en/1.8/faq/troubleshooting
-http://amzn.to/1OOYqYv
-http://learnpythonthehardway.org/
-http://twoscoopspress.com/pages/django-tutorials
-
 Beginner Django Material
-We actively maintain this list at http://twoscoopspress.com/pages/django-tutorials
 
 http://www.realpython.com/ 
 http://amzn.to/1Dky362 
 http://chimera.labs.oreilly.com/books/1234000000754/
 
-http://tutorial.djangogirls.org/
 http://www.marinamele.com/taskbuster-django-tutorial
-http://www.tangowithdjango.com/
-https://docs.djangoproject.com/en/1.8/
-http://2scoops.co/try-django
+https://www.youtube.com/playlist?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx
 http://www.codingforentrepreneurs.com/
 
 More Advanced Django Material
 
-Books:
-High Performance Django http://www.amazon.com/High-Performance-Django/dp/1508748128/
-https://highperformancedjango.com (ebook)
-Lightweight Django
-http://2scoops.co/lightweight-django
 Django Design Patterns and Best Practices
 http://www.amazon.com/Django-Design-Patterns-Best-Practices/dp/1783986646
 Two Scoops of Django: Best Practices for Django 1.6 (print)
-http://amzn.to/1dpCoIt
-Two Scoops of Django: Best Practices for Django 1.5 (electronic version)
-http://2scoops.co/two-scoops-1.5
-Two Scoops of Django: Best Practices for Django 1.5 (print version)
-http://amzn.to/188W07W
+Two Scoops of Django: Best Practices for Django 1.5 
 
 Web:
-Django Packages
-https://www.djangopackages.com
-ccbv.co.uk
 http://ccbv.co.uk/
-pydanny’s blog
-http://pydanny.com/tag/django.html
 Getting Started with Django Rest Framework and AngularJS
-http://www.2scoops.co/kevin-stone-django-angular-tutorial/
+http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 Django Model Behaviors
 http://blog.kevinastone.com/django-model-behaviors.html
 Lincoln Loop’s Django Best Practices
@@ -4802,29 +4756,14 @@ JavaScript Patterns (Print and Kindle)
 http://amzn.to/1dii9Th
 
 Web Resources:
-Mozilla Developer Network
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
 Learning JavaScript Design Patterns
 http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 Stack Overłow
 http://stackoverflow.com/questions/tagged/javascript
 
-http://www.python.org/dev/peps/pep-0263/
-
-https://docs.djangoproject.com/en/1.8/topics/i18n/translation/
-https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#standard-translation
-https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#lazy-translation
-https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#localized-names-of-languages
-https://docs.djangoproject.com/en/1.8/topics/db/queries/#querysets-are-lazy
-https://docs.djangoproject.com/en/1.8/topics/python3/
-https://docs.djangoproject.com/en/1.8/topics/python3/#coding-guidelines
-https://docs.djangoproject.com/en/1.8/topics/python3/#writing-compatible-code-with-six
-https://www.djangopackages.com/python3/
-
 https://feedhq.org
 https://github.com/feedhq/feedhq/blob/master/feedhq/settings.py
 http://bruno.im/2013/may/18/django-stop-writing-settings-files/
-http://12factor.net/config
 
 Resources
 Porting to Python 3
@@ -4837,11 +4776,19 @@ Writing Idiomatic Python 3.3
 http://amzn.to/1aS5df4
 Jeff Knupp’s guide to writing Python
 
+https://docs.djangoproject.com/en/1.8/faq/troubleshooting
+https://docs.djangoproject.com/en/1.8/topics/i18n/translation/
+https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#standard-translation
+https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#lazy-translation
+https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#localized-names-of-languages
+https://docs.djangoproject.com/en/1.8/topics/db/queries/#querysets-are-lazy
+https://docs.djangoproject.com/en/1.8/topics/python3/
+https://docs.djangoproject.com/en/1.8/topics/python3/#coding-guidelines
+https://docs.djangoproject.com/en/1.8/topics/python3/#writing-compatible-code-with-six
 https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-cookie-age
 https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-cookie-domain
 https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-failure-view
 https://docs.djangoproject.com/en/1.8/ref/settings/#email-use-tls
-http://ponycheckup.com/
 -->
 
 Python- Books and Tutorials
@@ -4863,14 +4810,20 @@ O'Reilly Test-Driven Development with Python and Selenium
 
 Python- Django Tutorials (excluding Django Girls)
 * [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-* [Light Weight Django](http://it-ebooks.info/book/2820)  
-* [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+* [Light Weight Django](http://it-ebooks.info/book/2820) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 
 Django Carrots (Python- Django)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 <!--
+* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+https://www.coursera.org/courses?query=python
+
+http://twoscoopspress.com/pages/django-tutorials
+http://gettingstartedwithdjango.com/
+
 https://docs.python.org/3.5/library/stdtypes.html
 https://docs.python.org/2/reference/grammar.html
 
@@ -5262,7 +5215,7 @@ Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versu
 
 Jenkins CI and Travis CI (Continuous Integration)
 * [Jenkins](http://jenkins-ci.org)  
-* [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
+* [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
 
 #### Python and Django Common Deployment Tools
 
@@ -5345,6 +5298,8 @@ pytest and Nose (Unit Test Extension)
 * [pytest](http://pytest.org)
 
 <!--
+https://pypi.python.org/pypi/pytest-django/
+
 https://docs.python.org/3.5/library/unittest.html
 
 2.12 Writing your first patch for Django
@@ -5444,8 +5399,6 @@ http://www.diveintopython.net/regular_expressions/
 -->
 
 <!--
-* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
 https://www.npmjs.com/package/generator-django
 
 https://github.com/pypa/warehouse
@@ -5961,6 +5914,11 @@ PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
 * [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
 * [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
+
+<!--
+http://postgresql.org/download/windows/
+http://postgresql.org/download/linux/
+-->
 
 Postgrest (PostgreSQL API)
 * [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
