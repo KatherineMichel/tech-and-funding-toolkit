@@ -3378,7 +3378,7 @@ Check Update
 
 Angular (React Stack)
 * [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
-* [Angular](https://angular.io/) and [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
+* [Angular](http://angularjs.org), [Angular](https://angular.io) and [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
 * [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
 * [Angular Protractor GitHub](https://github.com/angular/protractor)
 
@@ -4198,77 +4198,6 @@ https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/errata.rst
 https://github.com/twoscoops/two-scoops-of-django-1.8/tree/master/code
 https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/change_list.md?ref=2
 
-https://docs.djangoproject.com/en/1.8/ref/django-admin/
-https://docs.djangoproject.com/en/1.8/topics/signing/
-https://docs.djangoproject.com/en/1.8/topics/db/models/#model-inheritance
-https://docs.djangoproject.com/en/1.8/ref/models/meta/
-https://docs.djangoproject.com/en/1.8/releases/1.8/#model-meta-api
-https://docs.djangoproject.com/en/1.8/topics/db/managers/
-https://docs.djangoproject.com/en/1.8/ref/models/expressions/
-https://docs.djangoproject.com/en/1.8/ref/models/database-functions/
-https://docs.djangoproject.com/en/1.8/topics/db/transactions/#transactions-in-mysql
-https://docs.djangoproject.com/en/1.8/misc/design-philosophies/#url-design
-https://docs.djangoproject.com/en/1.8/topics/db/transactions/
-https://docs.djangoproject.com/en/1.8/releases/1.8/#django-conf-urls-patterns
-https://docs.djangoproject.com/en/1.8/topics/http/middleware/#process-response
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#decorating-class-based-views
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#using-class-based-views
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-display/
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-editing/
-https://docs.djangoproject.com/en/1.8/topics/class-based-views/mixins/
-https://docs.djangoproject.com/en/1.8/ref/class-based-views/
-https://docs.djangoproject.com/en/1.8/ref/forms/validation/#raising-validationerror
-https://docs.djangoproject.com/en/1.8/ref/csrf/
-https://docs.djangoproject.com/en/1.8/ref/csrf/#ajax
-https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_data
-https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_json
-https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.has_error
-https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.non_field_errors
-https://docs.djangoproject.com/en/1.8/ref/templates/api/#django.template.loaders.cached.Loader
-https://docs.djangoproject.com/en/1.8/topics/templates/#django.template.backends.jinja2.Jinja2
-https://docs.djangoproject.com/en/1.8/misc/design-philosophies/
-https://docs.djangoproject.com/en/1.8/topics/auth/customizing/#a-full-example
-https://docs.djangoproject.com/en/1.8/intro/reusable-apps/
-https://docs.djangoproject.com/en/1.8/ref/contrib/admin/admindocs/
-https://docs.djangoproject.com/en/1.8/topics/testing/tools/#assertions
-https://docs.djangoproject.com/en/1.8/topics/db/optimization/
-https://docs.djangoproject.com/en/1.8/topics/testing/overview/#django.test.TestCase.assertNumQueries
-https://docs.djangoproject.com/en/1.8/topics/cache/
-https://docs.djangoproject.com/en/1.8/topics/security/
-https://docs.djangoproject.com/en/1.8/ref/settings/#debug
-https://docs.djangoproject.com/en/1.8/topics/security/#ssl-https
-https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
-https://docs.djangoproject.com/en/1.8/ref/request-response/#django.http.HttpRequest.get_host
-https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#escape
-https://docs.djangoproject.com/en/1.8/topics/http/sessions/#session-serialization
-https://docs.djangoproject.com/en/1.8/ref/settings/#session-serializer
-https://docs.djangoproject.com/en/1.8/topics/http/sessions/#using-cookie-based-sessions
-https://docs.djangoproject.com/en/1.8/ref/models/fields/#filefield
-https://docs.djangoproject.com/en/1.8/topics/security/#sql-injection-protection
-https://docs.djangoproject.com/en/1.8/ref/clickjacking/
-
-https://docs.djangoproject.com/en/1.8/topics/security/#additional-security-topics
-https://docs.djangoproject.com/en/1.8/topics/logging/
-http://docs.python.org/2/library/logging.html
-http://docs.python.org/2/library/logging.config.html
-http://docs.python.org/2/library/logging.handlers.html
-http://docs.python.org/2/howto/logging-cookbook.html
-
-https://docs.djangoproject.com/en/1.8/ref/utils/
-https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.functional.cached_property
-https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.html.format_html
-https://docs.djangoproject.com/en/dev/ref/exceptions
-https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/gunicorn/
-https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/uwsgi/
-https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
-https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#spaceless
-
-https://docs.djangoproject.com/en/1.8/topics/testing/advanced/#module-django.test.client
-https://docs.python.org/2/library/unittest.html#unittest.TestCase.assertRaises
-https://docs.python.org/2/library/unittest.html#assert-methods
-https://docs.python.org/3/library/unittest.html#assert-methods
-
 https://github.com/404
 https://github.com/500
 https://github.com/styleguide
@@ -4318,17 +4247,18 @@ django-model-utils https://pypi.python.org/pypi/django-model-utils
 ipdb https://pypi.python.org/pypi/ipdb
 Pillow https://pypi.python.org/pypi/Pillow
 
-Lightweight Django
-http://2scoops.co/lightweight-django
+http://pypi.python.org/pypi/Unipath/
 
 https://www.djangopackages.com/python3/
 
 https://mail.python.org/pipermail/python-dev/2010-October/104476.html
 
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
 https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
 https://github.com/rwaldron/idiomatic.js/
 Pragmatic.js code style guidelines https://github.com/madrobby/pragmatic.js
-Airbnb JavaScript Style Guide https://github.com/airbnb/javascript
 Node.js Style Guide https://github.com/felixge/node-style-guide
 Code Conventions for the JavaScript Programming Language
 http://javascript.crockford.com/code.html
@@ -4339,9 +4269,6 @@ http://csscomb.com/
 http://cs.simons-rock.edu/python/pythonpath.html
 Makefile, Invoke, Paver, or Fabric
 https://github.com/imkevinxu/django-kevin
-http://pypi.python.org/pypi/Unipath/
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 http://www.revsys.com/blog/2012/may/01/three-things-you-should-never-put-your-database/
 https://scalenpm.org
 http://blog.kevinastone.com/django-model-behaviors.html
@@ -4361,29 +4288,24 @@ http://tothinkornottothink.com/post/10815277049/django-forms-i-custom-fields-and
 
 https://github.com/django/django/blob/2b267a70a16e2cb12075e75f7626effbe6811d5f/django/template/defaultfilters.py#L228-L236
 defaultŀlter.py
-djangopackages.com/grids
 
-http://jinja.pocoo.org
 http://jinja.pocoo.org/docs/dev/switching/#django
 http://jinja.pocoo.org/docs/dev/extensions/#module-jinja2.ext
 http://jinja.pocoo.org/docs/dev/api/#jinja2.Environment
 
-http://cdrf.co
-http://ccbv.co.uk
-
 http://www.django-rest-framework.org/api-guide/authentication/
 http://www.django-rest-framework.org/api-guide/permissions/
+
+djangopackages.com/grids
+
+http://cdrf.co
+http://ccbv.co.uk
 
 http://amzn.to/1KgRHG3 Domain-Driven Development by Eric Evans
 http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
 
-https://facebook.github.io/react/
-http://angularjs.org
-http://backbonejs.org
-http://jquery.com/
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-http://gulpjs.com/
 https://developers.google.com/webmasters/ajax-crawling/
 http://blogs.bing.com/webmaster/2013/03/21/search-engine-optimization-best-practices-for-ajax-urls/
 brombone.com
@@ -4414,7 +4336,6 @@ https://github.com/fusionbox/django-authtools
 http://2scoops.co/submit-to-pypi
 https://pypi.python.org/pypi?%3Aaction=submit_form
 http://www.pip-installer.org/en/latest/logic.html#requirement-specifiers
-http://nvie.com/posts/pin-your-packages/
 
 http://www.python.org/dev/peps/pep-0386
 http://www.python.org/dev/peps/pep-0427/
@@ -4465,8 +4386,6 @@ Google’s Web Performance Best Practices
 https://developers.google.com/speed/docs/best-practices/rules_intro
 http://justcramer.com/
 http://lanyrd.com/search/?q=django+scaling
-python-rq.org
-django-background-tasks
 Celery: https://pypi.python.org/pypi/flower
 Redis Queue: https://pypi.python.org/pypi/django-redisboard
 Redis Queue: https://pypi.python.org/pypi/django-rq
@@ -4474,13 +4393,14 @@ http://www.fullstackpython.com/task-queues.html
 http://www.slideshare.net/bryanhelmig/task-queues-comorichweb-12962619
 https://pypi.python.org/pypi/django-transaction-hooks
 
+https://www.caktusgroup.com
+
 https://denibertovic.com/posts/celery-best-practices/
 https://pypi.python.org/pypi/flower
 http://wiredcraft.com/blog/3-gotchas-for-celery/
 https://www.caktusgroup.com/blog/2014/06/23/scheduling-tasks-celery/
 http://python-rq.org/ Homepage of Redis Queue
 http://racingtadpole.com/blog/redis-queue-with-django/
-django-background-tasks:
 https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 https://mozilla.github.io/server-side-tls/ssl-config-generator/
 https://www.ssllabs.com/ssltest/
@@ -4490,11 +4410,12 @@ https://lincolnloop.com/blog/playing-pickle-security/
 https://blog.nelhage.com/2011/03/exploiting-pickle/
 http://nedbatchelder.com/blog/201302/war_is_peace.html
 http://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html
-http://docs.python.org/2/library/pickle.html
 https://threatpost.com/security-vulnerability-in-django-could-allow-attackers-access-to-cookies/102501/
 http://yuiblog.com/blog/2007/03/01/performance-research-part-3/
 https://github.com/ahupp/python-magic
 https://en.wikipedia.org/wiki/Mass_assignment_vulnerability
+
+http://docs.python.org/2/library/pickle.html
 
 https://www.pcisecuritystandards.org/
 http://kencochrane.net/blog/2012/01/developers-guide-to-pci-compliant-web-applications/
@@ -4507,7 +4428,6 @@ https://pypi.python.org/pypi/defusedxml
 https://pypi.python.org/pypi/django-two-factor-auth
 
 http://en.wikipedia.org/wiki/Cross-site_scripting
-requires.io
 http://en.wikipedia.org/wiki/Two_factor_authentication
 
 2scoops.co/time-based-one-time-password-algorithm/
@@ -4519,7 +4439,6 @@ remove tags
 Remove Tags Advisory
 bleach library
 http://www.cyberciti.biz/faq/custom-nginx-maintenance-page-with-http503/
-django-db-tools
 https://www.djangopackages.com/grids/g/emergency-management/
 https://en.wikipedia.org/wiki/0day
 “Ļe Tangled Web: A Guide to Securing Modern Web Applications”:
@@ -4558,11 +4477,6 @@ http://www.fullstackpython.com/deployment.html
 http://martinfowler.com/articles/continuousIntegration.html
 http://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration
 http://stackoverflow.com/a/9407940/93270
-http://www.appveyor.com/
-https://circleci.com
-https://drone.io/
-https://codeship.com
-codecov.io
 http://www.caktusgroup.com/blog/2010/03/08/django-and-hudson-ci-day-1/
 Python’s pdb documentation: https://docs.python.org/2/library/pdb.html
 ➤ IPDB: https://pypi.python.org/pypi/ipdb
@@ -4699,7 +4613,6 @@ Two Scoops of Django: Best Practices for Django 1.6 (print)
 Two Scoops of Django: Best Practices for Django 1.5 
 
 Web:
-http://ccbv.co.uk/
 Getting Started with Django Rest Framework and AngularJS
 http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 Django Model Behaviors
@@ -4780,7 +4693,7 @@ O'Reilly Test-Driven Development with Python and Selenium
 
 Python- Django Tutorials (excluding Django Girls)
 * [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-* [Light Weight Django](http://it-ebooks.info/book/2820) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+* [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 
 Django Carrots (Python- Django)
@@ -4847,6 +4760,81 @@ https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-cookie-age
 https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-cookie-domain
 https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-failure-view
 https://docs.djangoproject.com/en/1.8/ref/settings/#email-use-tls
+
+Two Scoops of Django
+https://docs.djangoproject.com/en/1.8/ref/django-admin/
+https://docs.djangoproject.com/en/1.8/topics/signing/
+https://docs.djangoproject.com/en/1.8/topics/db/models/#model-inheritance
+https://docs.djangoproject.com/en/1.8/ref/models/meta/
+https://docs.djangoproject.com/en/1.8/releases/1.8/#model-meta-api
+https://docs.djangoproject.com/en/1.8/topics/db/managers/
+https://docs.djangoproject.com/en/1.8/ref/models/expressions/
+https://docs.djangoproject.com/en/1.8/ref/models/database-functions/
+https://docs.djangoproject.com/en/1.8/topics/db/transactions/#transactions-in-mysql
+https://docs.djangoproject.com/en/1.8/misc/design-philosophies/#url-design
+https://docs.djangoproject.com/en/1.8/topics/db/transactions/
+https://docs.djangoproject.com/en/1.8/releases/1.8/#django-conf-urls-patterns
+https://docs.djangoproject.com/en/1.8/topics/http/middleware/#process-response
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#decorating-class-based-views
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#using-class-based-views
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-display/
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/generic-editing/
+https://docs.djangoproject.com/en/1.8/topics/class-based-views/mixins/
+https://docs.djangoproject.com/en/1.8/ref/class-based-views/
+https://docs.djangoproject.com/en/1.8/ref/forms/validation/#raising-validationerror
+https://docs.djangoproject.com/en/1.8/ref/csrf/
+https://docs.djangoproject.com/en/1.8/ref/csrf/#ajax
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_data
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.errors.as_json
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.has_error
+https://docs.djangoproject.com/en/1.8/ref/forms/api/#django.forms.Form.non_field_errors
+https://docs.djangoproject.com/en/1.8/ref/templates/api/#django.template.loaders.cached.Loader
+https://docs.djangoproject.com/en/1.8/topics/templates/#django.template.backends.jinja2.Jinja2
+https://docs.djangoproject.com/en/1.8/misc/design-philosophies/
+https://docs.djangoproject.com/en/1.8/topics/auth/customizing/#a-full-example
+https://docs.djangoproject.com/en/1.8/intro/reusable-apps/
+https://docs.djangoproject.com/en/1.8/ref/contrib/admin/admindocs/
+https://docs.djangoproject.com/en/1.8/topics/testing/tools/#assertions
+https://docs.djangoproject.com/en/1.8/topics/db/optimization/
+https://docs.djangoproject.com/en/1.8/topics/testing/overview/#django.test.TestCase.assertNumQueries
+https://docs.djangoproject.com/en/1.8/topics/cache/
+https://docs.djangoproject.com/en/1.8/topics/security/
+https://docs.djangoproject.com/en/1.8/ref/settings/#debug
+https://docs.djangoproject.com/en/1.8/topics/security/#ssl-https
+https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
+https://docs.djangoproject.com/en/1.8/ref/request-response/#django.http.HttpRequest.get_host
+https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#escape
+https://docs.djangoproject.com/en/1.8/topics/http/sessions/#session-serialization
+https://docs.djangoproject.com/en/1.8/ref/settings/#session-serializer
+https://docs.djangoproject.com/en/1.8/topics/http/sessions/#using-cookie-based-sessions
+https://docs.djangoproject.com/en/1.8/ref/models/fields/#filefield
+https://docs.djangoproject.com/en/1.8/topics/security/#sql-injection-protection
+https://docs.djangoproject.com/en/1.8/ref/clickjacking/
+
+Two Scoops of Django
+https://docs.djangoproject.com/en/1.8/topics/security/#additional-security-topics
+https://docs.djangoproject.com/en/1.8/topics/logging/
+http://docs.python.org/2/library/logging.html
+http://docs.python.org/2/library/logging.config.html
+http://docs.python.org/2/library/logging.handlers.html
+http://docs.python.org/2/howto/logging-cookbook.html
+
+Two Scoops of Django
+https://docs.djangoproject.com/en/1.8/ref/utils/
+https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.functional.cached_property
+https://docs.djangoproject.com/en/1.8/ref/utils/#django.utils.html.format_html
+https://docs.djangoproject.com/en/dev/ref/exceptions
+https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/gunicorn/
+https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/uwsgi/
+https://docs.djangoproject.com/en/1.8/ref/settings/#allowed-hosts
+https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#spaceless
+
+Two Scoops of Django
+https://docs.djangoproject.com/en/1.8/topics/testing/advanced/#module-django.test.client
+https://docs.python.org/2/library/unittest.html#unittest.TestCase.assertRaises
+https://docs.python.org/2/library/unittest.html#assert-methods
+https://docs.python.org/3/library/unittest.html#assert-methods
 -->
 
 #### Python and Django Packages and Snippets
@@ -5212,6 +5200,13 @@ Jenkins CI and Travis CI (Continuous Integration)
 * [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
 
 <!--
+CI
+http://www.appveyor.com/
+https://circleci.com
+https://drone.io/
+https://codeship.com
+codecov.io
+
 http://en.wikipedia.org/wiki/Continuous_Integration
 http://djangoci.com
 http://docs.python-guide.org/en/latest/scenarios/ci/
