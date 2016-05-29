@@ -3885,21 +3885,17 @@ Python Authorities
 Pip
 * [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
 * [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
+* [Pip Installer](http://pip-installer.org)
 
 Virtual Environment
-* [Virtualenv GitHub](https://github.com/pypa/virtualenv) and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
+* [Virtualenv](http://virtualenv.org), [Virtualenv GitHub](https://github.com/pypa/virtualenv), and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
 * [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
-* [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
+* [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io)
+* [Virtualenvwrapper-Win PyPi](https://pypi.python.org/pypi/virtualenvwrapper-win) and [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
 
 <!--
-http://pip-installer.org
-virtualenv: http://virtualenv.org
-https://virtualenvwrapper.readthedocs.io/en/latest/
+virtualenvwrapper http://www.doughellmann.com/projects/virtualenvwrapper
 
-virtualenvwrapper http://www.doughellmann.com/projects/virtualenvwrapper/
-virtualenvwrapper-win https://pypi.python.org/pypi/virtualenvwrapper-win
--->
-<!--
 PyPI - the Python Package Index
 https://pypi.python.org/pypi
 http://pypi.python.org
