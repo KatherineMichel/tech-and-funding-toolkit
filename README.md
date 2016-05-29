@@ -3953,6 +3953,14 @@ Python- Django Community
 * [Daniel Greenfeld](http://www.pydanny.com)
 
 <!--
+http://twitter.com/limedaring
+
+➤ pydanny.com / audreyr.com / twoscoopspress.com
+➤ GitHub: @pydanny, @audreyr, and @twoscoopspress
+➤ Twitter: @pydanny, @audreyr
+@twoscoopspress
+➤ Facebook: https://www.facebook.com/twoscoopspress
+
 Pythonista
 https://github.com/jacobian-archive
 
@@ -4143,8 +4151,6 @@ Hello Web App
 <!--
 https://docs.python.org/2/howto/regex.html
 
-http://twitter.com/limedaring
-
 https://github.com/hellowebapp/hellowebapp/tree/master/python-tips
 https://github.com/hellowebapp/hellowebapp/tree/master/windows-help
 https://github.com/hellowebapp/hellowebapp/tree/master/git-tips
@@ -4204,6 +4210,10 @@ https://www.djangopackages.com/grids/g/cookiecutters/
 https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
 http://www.python.org/dev/peps/pep-0008/#maximum-line-length
 http://www.python.org/dev/peps/pep-0328/
+http://www.python.org/dev/peps/pep-0386
+http://www.python.org/dev/peps/pep-0427/
+http://www.python.org/dev/peps/pep-0263/
+http://www.python.org/dev/peps/pep-0257
 
 pydanny’s blog
 http://pydanny.com/tag/django.html
@@ -4225,12 +4235,6 @@ http://pythonhosted.org/
 https://www.djangoproject.com/community/
 https://www.djangoproject.com/weblog/
 https://groups.google.com/forum/#!forum/django-announce
-
-➤ pydanny.com / audreyr.com / twoscoopspress.com
-➤ GitHub: @pydanny, @audreyr, and @twoscoopspress
-➤ Twitter: @pydanny, @audreyr
-@twoscoopspress
-➤ Facebook: https://www.facebook.com/twoscoopspress
 
 Core
 django-model-utils https://pypi.python.org/pypi/django-model-utils
@@ -4325,11 +4329,6 @@ http://2scoops.co/submit-to-pypi
 https://pypi.python.org/pypi?%3Aaction=submit_form
 http://www.pip-installer.org/en/latest/logic.html#requirement-specifiers
 
-http://www.python.org/dev/peps/pep-0386
-http://www.python.org/dev/peps/pep-0427/
-http://www.python.org/dev/peps/pep-0263/
-http://www.python.org/dev/peps/pep-0257
-
 https://github.com/kennethreitz/requests/blob/master/HISTORY.rst
 
 https://alexgaynor.net/2013/oct/19/security-process-open-source-projects/
@@ -4380,7 +4379,6 @@ https://denibertovic.com/posts/celery-best-practices/
 https://pypi.python.org/pypi/flower
 http://wiredcraft.com/blog/3-gotchas-for-celery/
 https://www.caktusgroup.com/blog/2014/06/23/scheduling-tasks-celery/
-http://python-rq.org/ Homepage of Redis Queue
 http://racingtadpole.com/blog/redis-queue-with-django/
 https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 https://mozilla.github.io/server-side-tls/ssl-config-generator/
@@ -4481,6 +4479,8 @@ rq https://pypi.python.org/pypi/rq
 django-rq https://pypi.python.org/pypi/django-rq
 django-background-tasks https://pypi.python.org/pypi/django-background-tasks
 
+http://python-rq.org/ Homepage of Redis Queue
+
 Database
 django-db-tools https://pypi.python.org/pypi/django-db-tools
 psycopg2 https://pypi.python.org/pypi/psycopg2
@@ -4529,15 +4529,6 @@ django-two-factor-auth https://pypi.python.org/pypi/django-two-factor-auth
 django-user-sessions https://pypi.python.org/pypi/django-user-sessions
 peep https://pypi.python.org/pypi/peep
 Twine https://pypi.python.org/pypi/twine
-
-Testing
-coverage http://coverage.readthedocs.org/
-factory boy https://pypi.python.org/pypi/factory_boy
-model mommy https://pypi.python.org/pypi/model_mommy
-mock https://pypi.python.org/pypi/mock
-pytest http://pytest.org/
-pytest-django http://pytest-django.readthedocs.org/
-tox http://tox.readthedocs.org/
 
 ➤ Apache and Nginx compression modules
 ➤ django-pipeline
@@ -5259,6 +5250,13 @@ pytest and Nose (Unit Test Extension)
 * [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django)
 
 <!--
+Testing
+coverage http://coverage.readthedocs.org/
+factory boy https://pypi.python.org/pypi/factory_boy
+model mommy https://pypi.python.org/pypi/model_mommy
+mock https://pypi.python.org/pypi/mock
+pytest-django http://pytest-django.readthedocs.org/
+
 https://docs.python.org/3.5/library/unittest.html
 
 2.12 Writing your first patch for Django
@@ -5271,7 +5269,7 @@ Selenium
 * [Selenium](http://www.seleniumhq.org)
 
 Tox (Automation)
-* [Tox Docs](https://tox.readthedocs.org/en/latest)
+* [Tox Read the Docs](https://tox.readthedocs.org)
 
 #### Python and Django Useful Tools
 
