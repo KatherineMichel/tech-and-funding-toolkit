@@ -690,6 +690,13 @@ Portfolio and Community Websites
 * [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
 * [Zurb Tavern](http://zurb.com/tavern) 
 
+<!--
+CraigsList
+LinkedIn
+eLance
+oDesk
+-->
+
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
@@ -3892,12 +3899,8 @@ Pip
 Virtual Environment
 * [Virtualenv](http://virtualenv.org), [Virtualenv GitHub](https://github.com/pypa/virtualenv), and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
 * [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
-* [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io)
+* [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io) and [Virtualenvwrapper BitBucket](http://www.doughellmann.com/projects/virtualenvwrapper)
 * [Virtualenvwrapper-Win PyPi](https://pypi.python.org/pypi/virtualenvwrapper-win) and [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
-
-<!--
-virtualenvwrapper http://www.doughellmann.com/projects/virtualenvwrapper
--->
 
 Pyenv
 * [Pyenv GitHub](https://github.com/yyuu/pyenv)
@@ -3963,14 +3966,6 @@ http://twitter.com/limedaring
 
 Pythonista
 https://github.com/jacobian-archive
-
-http://lanyrd.com/search/?context=future&q=django&type=conference
-
-https://docs.python.org/devguide
-https://github.com/python/community-starter-kit
-https://www.djangoproject.com/fundraising/campaign/django-fellowship
-
-https://www.python.org/community/workshops
 -->
 
 Python- Django- News
@@ -4047,6 +4042,14 @@ https://www.djangoproject.com/foundation/developer-members
 
 https://wiki.python.org/moin/FrontPage
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
+
+http://lanyrd.com/search/?context=future&q=django&type=conference
+
+https://docs.python.org/devguide
+https://github.com/python/community-starter-kit
+https://www.djangoproject.com/fundraising/campaign/django-fellowship
+
+https://www.python.org/community/workshops
 -->
 
 Python Mentors
@@ -4230,47 +4233,41 @@ http://en.wikipedia.org/wiki/Service-oriented_architecture
 https://en.wikipedia.org/wiki/Resource-oriented_architecture
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
 http://en.wikipedia.org/wiki/REST
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
 http://pythonhosted.org/
 
 https://www.djangoproject.com/community/
 https://www.djangoproject.com/weblog/
 https://groups.google.com/forum/#!forum/django-announce
 
-Core
-django-model-utils https://pypi.python.org/pypi/django-model-utils
-ipdb https://pypi.python.org/pypi/ipdb
-
 https://www.djangopackages.com/python3/
 
 https://mail.python.org/pipermail/python-dev/2010-October/104476.html
 
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
-
 https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
-https://github.com/rwaldron/idiomatic.js/
+
 Pragmatic.js code style guidelines https://github.com/madrobby/pragmatic.js
 Node.js Style Guide https://github.com/felixge/node-style-guide
 Code Conventions for the JavaScript Programming Language
 http://javascript.crockford.com/code.html
-http://jscs.info/
 
 @mdo for HTML and CSS: http://codeguide.co
 
+https://github.com/rwaldron/idiomatic.js/
+
 https://github.com/necolas/idiomatic-css
-http://csscomb.com/
 http://cs.simons-rock.edu/python/pythonpath.html
 Makefile, Invoke, Paver, or Fabric
 https://github.com/imkevinxu/django-kevin
 http://www.revsys.com/blog/2012/may/01/three-things-you-should-never-put-your-database/
 https://scalenpm.org
-http://blog.kevinastone.com/django-model-behaviors.html
 http://dev.mysql.com/doc/refman/5.0/en/sql-syntax-transactions.html
 https://realpython.com/blog/python/transaction-management-with-django-1-6/
 http://www.2scoops.co/7E/info/
 http://stackoverflow.com/questions/1901525/django-template-and-the-locals-trick#1901720
 http://pyvideo.org/video/398/pycon-2011--how-to-write-obfuscated-python
-http://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/
 http://www.brianholdefehr.com/decorators-and-functional-python
 
 http://django-braces.readthedocs.io/en/latest/form.html#userformkwargsmixin
@@ -4296,20 +4293,15 @@ http://ccbv.co.uk
 
 http://amzn.to/1KgRHG3 Domain-Driven Development by Eric Evans
 http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
-
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
 https://developers.google.com/webmasters/ajax-crawling/
 http://blogs.bing.com/webmaster/2013/03/21/search-engine-optimization-best-practices-for-ajax-urls/
 brombone.com
 http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd
-http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 https://github.com/rmurphey/js-assessment
 Felix’s Node.js Style Guide
 http://nodeguide.com/style.html
-idiomatic.js
-https://github.com/rwaldron/idiomatic.js/
-http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 http://blog.mathandpencil.com/using-django-tastypie-to-create-RESTful-APIs/
 http://www.forbes.com/sites/limyunghui/2012/04/09/inspiring-insights-by-instagram-ceo-kevin-systrom-the-man-who-built-a-1-billion-startup/2/#3c3a66df5700
 https://en.wikipedia.org/wiki/CAP_theorem
@@ -4321,21 +4313,29 @@ https://code.djangoproject.com/ticket/17118
 
 https://www.djangopackages.com/grids/g/admin-styling/
 
-http://sehmaschine.net/blog/django-admin-frontend-framework
-https://www.caktusgroup.com/blog/2013/08/07/migrating-custom-user-model-django/
 http://django-authtools.readthedocs.io/en/latest/how-to/migrate-to-a-custom-user-model.html
 https://github.com/fusionbox/django-authtools
+
+http://sehmaschine.net/blog/django-admin-frontend-framework
 http://2scoops.co/submit-to-pypi
 https://pypi.python.org/pypi?%3Aaction=submit_form
 http://www.pip-installer.org/en/latest/logic.html#requirement-specifiers
 
 https://github.com/kennethreitz/requests/blob/master/HISTORY.rst
 
+https://www.caktusgroup.com/blog/2013/08/07/migrating-custom-user-model-django/
+
+Django Model Behaviors
+http://blog.kevinastone.com/django-model-behaviors.html
+Getting Started with Django Rest Framework and AngularJS
+http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 https://alexgaynor.net/2013/oct/19/security-process-open-source-projects/
-https://github.com/pydanny/cookiecutter-djangopackage/blob/master/%7B%7Bcookiecutter.repo_name%7D%7D/%7B%7Bcookiecutter.app_name%7D%7D/templates/%7B%7Bcookiecutter.app_name%7D%7D/base.html
 http://alexgaynor.net/2013/sep/26/effective-code-review/
-https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
+http://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/
 http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
+
+https://github.com/pydanny/cookiecutter-djangopackage/blob/master/%7B%7Bcookiecutter.repo_name%7D%7D/%7B%7Bcookiecutter.app_name%7D%7D/templates/%7B%7Bcookiecutter.app_name%7D%7D/base.html
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
 http://pytest.org/latest/assert.html#assertions-about-expected-exceptions
 
 requestb.in
@@ -4347,8 +4347,6 @@ http://progrium.viewdocs.io/
 http://johnmacfarlane.net/pandoc/
 https://github.com/mtford90/silk
 
-http://www.revsys.com/writings/postgresql-performance.html
-http://www.craigkerstiens.com/2013/01/10/more-on-postgres-performance/
 http://dev.mysql.com/doc/refman/5.6/en/explain.html
 
 http://wiki.postgresql.org/wiki/Detailed_installation_guides
@@ -4376,7 +4374,6 @@ http://www.slideshare.net/bryanhelmig/task-queues-comorichweb-12962619
 https://pypi.python.org/pypi/django-transaction-hooks
 
 https://denibertovic.com/posts/celery-best-practices/
-https://pypi.python.org/pypi/flower
 http://wiredcraft.com/blog/3-gotchas-for-celery/
 https://www.caktusgroup.com/blog/2014/06/23/scheduling-tasks-celery/
 http://racingtadpole.com/blog/redis-queue-with-django/
@@ -4416,7 +4413,6 @@ http://ponycheckup.com
 https://help.github.com/articles/responsible-disclosure-of-security-vulnerabilities/
 remove tags
 Remove Tags Advisory
-bleach library
 http://www.cyberciti.biz/faq/custom-nginx-maintenance-page-with-http503/
 https://www.djangopackages.com/grids/g/emergency-management/
 https://en.wikipedia.org/wiki/0day
@@ -4428,8 +4424,6 @@ https://code.google.com/p/browsersec/wiki/Main
 https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
 http://www.pagerduty.com/
 
-Sentry and App Enlight
-loggly.com (http://loggly.com/
 https://github.com/pydanny/cached-property
 http://www.pydanny.com/cached-property.html
 
@@ -4455,7 +4449,6 @@ http://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuou
 http://stackoverflow.com/a/9407940/93270
 http://www.caktusgroup.com/blog/2010/03/08/django-and-hudson-ci-day-1/
 Python’s pdb documentation: https://docs.python.org/2/library/pdb.html
-IPDB: https://pypi.python.org/pypi/ipdb
 Using PDB with Django: https://mike.tig.as/blog/2010/09/14/pdb/
 
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
@@ -4581,10 +4574,6 @@ Two Scoops of Django: Best Practices for Django 1.6 (print)
 Two Scoops of Django: Best Practices for Django 1.5 
 
 Web:
-Getting Started with Django Rest Framework and AngularJS
-http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
-Django Model Behaviors
-http://blog.kevinastone.com/django-model-behaviors.html
 Lincoln Loop’s Django Best Practices
 http://lincolnloop.com/django-best-practices/
 
@@ -4801,6 +4790,19 @@ https://docs.djangoproject.com/en/1.8/topics/testing/advanced/#module-django.tes
 https://docs.python.org/2/library/unittest.html#unittest.TestCase.assertRaises
 https://docs.python.org/2/library/unittest.html#assert-methods
 https://docs.python.org/3/library/unittest.html#assert-methods
+
+High Performance Django
+https://docs.djangoproject.com/en/dev/ref/models/querysets/#select-related
+https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related
+https://docs.djangoproject.com/en/1.7/ref/models/queries/#prefetch-objects
+https://docs.djangoproject.com/en/dev/ref/models/options/#index-together
+https://docs.djangoproject.com/en/dev/topics/db/multi-db
+https://docs.djangoproject.com/en/dev/topics/db/sql/#performing-raw-queries
+https://docs.djangoproject.com/en/dev/ref/settings/#caches
+https://docs.djangoproject.com/en/dev/ref/settings/#databases
+https://docs.djangoproject.com/en/dev/topics/logging/#configuringlogging
+https://docs.djangoproject.com/en/dev/ref/middleware
+https://docs.djangoproject.com/en/dev/topics/http/sessions/#using-cookie-based-sessions
 -->
 
 #### Python and Django Packages and Snippets
@@ -4879,19 +4881,8 @@ Python- Django- Cookiecutter (See also Packages)
 <!--
 https://github.com/jacobian/django-dotenv
 https://github.com/lincolnloop/django-layout
-
 https://github.com/recamshak/django-debug-panel
 https://github.com/dcramer/django-devserver
-
-http://uwsgi-docs.readthedocs.org/en/latest/Options.html#env
-
-https://docs.djangoproject.com/en/dev/ref/models/querysets/#select-related
-https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related
-https://docs.djangoproject.com/en/1.7/ref/models/queries/#prefetch-objects
-https://docs.djangoproject.com/en/dev/ref/models/options/#index-together
-
-https://docs.djangoproject.com/en/dev/topics/db/multi-db
-https://docs.djangoproject.com/en/dev/topics/db/sql/#performing-raw-queries
 
 http://en.wikipedia.org/wiki/Memoization
 
@@ -4918,7 +4909,6 @@ Gist on GitHub
 http://en.wikipedia.org/wiki/Thundering_herd_problem
 
 https://django-transaction-hooks.readthedocs.org
-http://celery.readthedocs.org/en/latest/userguide/periodic-tasks.html
 
 http://lanyrd.com/2012/djangocon-us/sxbyb
 
@@ -4926,6 +4916,10 @@ http://easy-thumbnails.readthedocs.org/en/latest/ref/optimize
 
 Static File Serving (See also Whitenoise)
 http://uwsgi-docs.readthedocs.org/en/latest/StaticFiles.html
+http://uwsgi-docs.readthedocs.org/en/latest/Options.html#env
+http://uwsgi-docs.readthedocs.org/en/latest/articles/TheArtOfGracefulReloading.html
+http://uwsgi-docs.readthedocs.org/en/latest/articles/SerializingAccept.html
+http://uwsgi-docs.readthedocs.org/en/latest/Logging.html
 
 https://django-discover-jenkins.readthedocs.org/en/latest
 
@@ -4934,16 +4928,12 @@ http://cr.yp.to/daemontools.html
 http://supervisord.org
 http://circus.readthedocs.org
 
-http://uwsgi-docs.readthedocs.org/en/latest/articles/TheArtOfGracefulReloading.html
-
 http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html
 http://blog.codinghorror.com/hardware-is-cheap-programmers-are-expensive
 
 http://lanyrd.com/2012/djangocon-europe/srpqz
 
 https://tools.percona.com/wizard
-
-http://uwsgi-docs.readthedocs.org/en/latest/articles/SerializingAccept.html
 
 http://docs.gunicorn.org/en/latest/install.html#async-workers
 https://glyph.twistedmatrix.com/2014/02/unyielding.html
@@ -4955,15 +4945,6 @@ http://niwibe.github.io/django-redis
 http://en.wikipedia.org/wiki/Cache_stampede
 https://github.com/joshourisman/django-newcache
 https://github.com/lincolnloop/django-ft-cache
-
-Django docs: https://docs.djangoproject.com/en/dev/ref/settings/#caches
-https://docs.djangoproject.com/en/dev/ref/settings/#databases
-https://docs.djangoproject.com/en/dev/topics/logging/#configuringlogging
-http://uwsgi-docs.readthedocs.org/en/latest/Logging.html
-https://docs.djangoproject.com/en/dev/ref/middleware
-
-Session Engine
-https://docs.djangoproject.com/en/dev/topics/http/sessions/#using-cookie-based-sessions
 
 General Security
 https://github.com/carljm/django-secure#readme
@@ -5043,6 +5024,7 @@ https://www.varnish-cache.org/docs/4.0/reference/vsl.html
 https://www.varnish-cache.org/docs/4.0/reference/vsl-query.html
 
 Celery
+http://celery.readthedocs.org/en/latest/userguide/periodic-tasks.html
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#commands
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#events
 http://celery.readthedocs.org/en/latest/userguide/monitoring.html#flower-real-time-celery-web-monitor
@@ -5176,6 +5158,10 @@ Python- Django- Debug Toolbar
 * [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
 
 <!--
+Core
+django-model-utils https://pypi.python.org/pypi/django-model-utils
+ipdb https://pypi.python.org/pypi/ipdb
+
 http://django-debug-toolbar.readthedocs.io/en/1.4/installation.html
 -->
 
@@ -8639,13 +8625,6 @@ Compensation
 
 Contracts
 * [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
-
-<!--
-CraigsList
-LinkedIn
-eLance
-oDesk
--->
 
 Aquihire
 * [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
