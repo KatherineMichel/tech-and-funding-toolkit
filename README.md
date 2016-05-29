@@ -1790,6 +1790,7 @@ Dot Files
 
 Concurrent Version System
 * [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
+* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
 
 Git Origin
 * [Git GitHub](https://github.com/git/git)  
@@ -1967,6 +1968,7 @@ Dear GitHub and Thank You GitHub
 * [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
 
 Markdown
+* [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 * [Markdown](http://daringfireball.net/projects/markdown)  
 * [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
 * [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
@@ -3362,7 +3364,7 @@ Node.js
 * [Nodejsmodules.org](https://nodejsmodules.org)  
 * [NPM Package Search](https://www.npmjs.org)  
 * [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
-* [NPM GitHub](https://github.com/npm/npm)  
+* [NPM](https://npmjs.org) and [NPM GitHub](https://github.com/npm/npm)  
 * [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
 * [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
 * [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
@@ -4159,12 +4161,10 @@ https://docs.djangoproject.com/en/dev/topics/forms/#form-rendering-options
 https://docs.djangoproject.com/en/dev/ref/models/querysets/#istartswith
 https://docs.djangoproject.com/en/1.7/topics/testing/overview/
 
-https://django-registration-redux.readthedocs.io/en/latest/
 https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#settings
 https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#required-templates
 http://django-registration-redux.readthedocs.io/en/stable/views.html
 
-https://dashboard.heroku.com/
 https://devcenter.heroku.com/articles/getting-started-with-python#set-up
 https://devcenter.heroku.com/articles/procfile
 https://devcenter.heroku.com/articles/getting-started-with-python#introduction
@@ -4178,8 +4178,6 @@ http://learnpythonthehardway.org/book/ex29.html
 https://github.com/macropin/django-registration/
 
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 
 https://github.com/hellowebapp/hellowebapp/tree/master/irc-tips
 https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
@@ -4252,7 +4250,6 @@ https://docs.djangoproject.com/en/1.8/ref/clickjacking/
 
 https://docs.djangoproject.com/en/1.8/topics/security/#additional-security-topics
 https://docs.djangoproject.com/en/1.8/topics/logging/
-https://docs.djangoproject.com/en/1.8/topics/logging/
 http://docs.python.org/2/library/logging.html
 http://docs.python.org/2/library/logging.config.html
 http://docs.python.org/2/library/logging.handlers.html
@@ -4294,8 +4291,6 @@ http://www.pydanny.com/tag/forms.html
 http://www.slideshare.net/jacobian/the-best-and-worst-of-django
 http://jacobian.org/writing/rest-worst-practices/
 
-https://npmjs.org
-http://en.wikipedia.org/wiki/Comparison_of_revision_control_software
 https://en.wikipedia.org/wiki/Environment_variable
 www.python.org/download/releases/2.3/mro/
 http://en.wikipedia.org/wiki/Service-oriented_architecture
@@ -4303,7 +4298,6 @@ https://en.wikipedia.org/wiki/Resource-oriented_architecture
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
 http://en.wikipedia.org/wiki/REST
 http://pythonhosted.org/
-https://en.wikipedia.org/wiki/Markdown
 YSlow’s Web Performance Best Practices and Rules
 http://developer.yahoo.com/yslow/
 
@@ -5348,6 +5342,10 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
+<!--
+https://django-registration-redux.readthedocs.io/en/latest/
+-->
+
 Python- Django- Records, Requests
 * [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
 * [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
@@ -5990,6 +5988,10 @@ Status
 * [GitHub Status](https://status.github.com/messages) and [GitHub Status Twitter](https://twitter.com/githubstatus)
 * [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
+
+<!--
+https://dashboard.heroku.com/
+-->
 
 Consles
 * [GitHub Settings](https://github.com/settings)
@@ -9272,6 +9274,10 @@ Tech Aggregated, Question and Answer Forums
 * [Programmers Stack Exchange](http://programmers.stackexchange.com)
 * [Stack Overflow](http://stackoverflow.com)
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
+
+<!--
+https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
+-->
 
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
