@@ -4238,7 +4238,6 @@ https://docs.djangoproject.com/en/1.8/topics/auth/customizing/#a-full-example
 https://docs.djangoproject.com/en/1.8/intro/reusable-apps/
 https://docs.djangoproject.com/en/1.8/ref/contrib/admin/admindocs/
 https://docs.djangoproject.com/en/1.8/topics/testing/tools/#assertions
-https://docs.djangoproject.com/en/1.8/
 https://docs.djangoproject.com/en/1.8/topics/db/optimization/
 https://docs.djangoproject.com/en/1.8/topics/testing/overview/#django.test.TestCase.assertNumQueries
 https://docs.djangoproject.com/en/1.8/topics/cache/
@@ -4311,7 +4310,6 @@ http://pythonhosted.org/
 https://en.wikipedia.org/wiki/Markdown
 YSlow’s Web Performance Best Practices and Rules
 http://developer.yahoo.com/yslow/
-http://en.wikipedia.org/wiki/Continuous_Integration
 
 https://www.djangoproject.com/community/
 https://www.djangoproject.com/weblog/
@@ -4319,7 +4317,8 @@ https://groups.google.com/forum/#!forum/django-announce
 
 ➤ pydanny.com / audreyr.com / twoscoopspress.com
 ➤ GitHub: @pydanny, @audreyr, and @twoscoopspress
-➤ Twitter: @pydanny, @audreyr, and @twoscoopspress
+➤ Twitter: @pydanny, @audreyr
+@twoscoopspress
 ➤ Facebook: https://www.facebook.com/twoscoopspress
 
 Core
@@ -4432,10 +4431,6 @@ http://www.python.org/dev/peps/pep-0427/
 http://www.python.org/dev/peps/pep-0263/
 
 https://github.com/kennethreitz/requests/blob/master/HISTORY.rst
-
-https://pypi.python.org/pypi/wheel
-http://wheel.readthedocs.org/
-http://pythonwheels.com/
 
 https://alexgaynor.net/2013/oct/19/security-process-open-source-projects/
 https://github.com/pydanny/cookiecutter-djangopackage/blob/master/%7B%7Bcookiecutter.repo_name%7D%7D/%7B%7Bcookiecutter.app_name%7D%7D/templates/%7B%7Bcookiecutter.app_name%7D%7D/base.html
@@ -4579,8 +4574,6 @@ https://drone.io/
 https://codeship.com
 codecov.io
 http://www.caktusgroup.com/blog/2010/03/08/django-and-hudson-ci-day-1/
-http://ci.djangoproject.com/
-http://docs.python-guide.org/en/latest/scenarios/ci/
 Python’s pdb documentation: https://docs.python.org/2/library/pdb.html
 ➤ IPDB: https://pypi.python.org/pypi/ipdb
 ➤ Using PDB with Django: https://mike.tig.as/blog/2010/09/14/pdb/
@@ -4591,6 +4584,7 @@ https://github.com/disqus/gargoyle
 https://github.com/jsocol/django-waffle
 http://gargoyle.readthedocs.io/en/latest/usage/index.html#testing-switches
 http://waffle.readthedocs.io/en/latest/testing/automated.html#testing-automated
+
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
 PyCoders Weekly and Python Weekly
@@ -4775,20 +4769,6 @@ http://amzn.to/I3Sv6q
 Writing Idiomatic Python 3.3
 http://amzn.to/1aS5df4
 Jeff Knupp’s guide to writing Python
-
-https://docs.djangoproject.com/en/1.8/faq/troubleshooting
-https://docs.djangoproject.com/en/1.8/topics/i18n/translation/
-https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#standard-translation
-https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#lazy-translation
-https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#localized-names-of-languages
-https://docs.djangoproject.com/en/1.8/topics/db/queries/#querysets-are-lazy
-https://docs.djangoproject.com/en/1.8/topics/python3/
-https://docs.djangoproject.com/en/1.8/topics/python3/#coding-guidelines
-https://docs.djangoproject.com/en/1.8/topics/python3/#writing-compatible-code-with-six
-https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-cookie-age
-https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-cookie-domain
-https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-failure-view
-https://docs.djangoproject.com/en/1.8/ref/settings/#email-use-tls
 -->
 
 Python- Books and Tutorials
@@ -4862,6 +4842,21 @@ https://docs.djangoproject.com/en/1.9/topics/http/urls/
 https://docs.djangoproject.com/en/1.9/ref/templates/api/
 
 https://docs.djangoproject.com/en/1.8/topics/email
+
+Two Scoops of Django
+https://docs.djangoproject.com/en/1.8/faq/troubleshooting
+https://docs.djangoproject.com/en/1.8/topics/i18n/translation/
+https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#standard-translation
+https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#lazy-translation
+https://docs.djangoproject.com/en/1.6/topics/i18n/translation/#localized-names-of-languages
+https://docs.djangoproject.com/en/1.8/topics/db/queries/#querysets-are-lazy
+https://docs.djangoproject.com/en/1.8/topics/python3/
+https://docs.djangoproject.com/en/1.8/topics/python3/#coding-guidelines
+https://docs.djangoproject.com/en/1.8/topics/python3/#writing-compatible-code-with-six
+https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-cookie-age
+https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-cookie-domain
+https://docs.djangoproject.com/en/1.8/ref/settings/#csrf-failure-view
+https://docs.djangoproject.com/en/1.8/ref/settings/#email-use-tls
 -->
 
 #### Python and Django Packages and Snippets
@@ -4881,8 +4876,17 @@ Python and Django- Creating Packages
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
 * [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
 * [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [PyPI Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPI Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
+
+<!--
+https://pythonhosted.org/setuptools/formats.html
+http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
+-->
+
+Python and Django- Wheel
+* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
+* [Python Wheels](http://pythonwheels.com)
 
 Python- Django- Packages and Snippets (Unofficial)
 * [Django Packages](https://www.djangopackages.com)
@@ -5216,6 +5220,12 @@ Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versu
 Jenkins CI and Travis CI (Continuous Integration)
 * [Jenkins](http://jenkins-ci.org)  
 * [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
+
+<!--
+http://en.wikipedia.org/wiki/Continuous_Integration
+http://djangoci.com
+http://docs.python-guide.org/en/latest/scenarios/ci/
+-->
 
 #### Python and Django Common Deployment Tools
 
