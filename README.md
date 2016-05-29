@@ -4200,10 +4200,8 @@ https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/change_list.md
 
 https://github.com/404
 https://github.com/500
-https://github.com/styleguide
 
 https://www.djangopackages.com/grids/g/cookiecutters/
-Cookiecutter http://cookiecutter.readthedocs.org
 
 https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
 http://www.python.org/dev/peps/pep-0008/#maximum-line-length
@@ -4281,18 +4279,18 @@ http://www.brianholdefehr.com/decorators-and-functional-python
 http://django-braces.readthedocs.io/en/latest/form.html#userformkwargsmixin
 http://django-braces.readthedocs.io/en/latest/form.html#userkwargmodelformmixin
 
-https://bradmontgomery.net/blog/2015/04/25/nice-arrayfield-widgets-choices-and-chosenjs/
-http://tothinkornottothink.com/post/10815277049/django-forms-i-custom-fields-and-widgets-in
-
-https://github.com/django/django/blob/2b267a70a16e2cb12075e75f7626effbe6811d5f/django/template/defaultfilters.py#L228-L236
-defaultŀlter.py
-
 http://jinja.pocoo.org/docs/dev/switching/#django
 http://jinja.pocoo.org/docs/dev/extensions/#module-jinja2.ext
 http://jinja.pocoo.org/docs/dev/api/#jinja2.Environment
 
 http://www.django-rest-framework.org/api-guide/authentication/
 http://www.django-rest-framework.org/api-guide/permissions/
+
+https://bradmontgomery.net/blog/2015/04/25/nice-arrayfield-widgets-choices-and-chosenjs/
+http://tothinkornottothink.com/post/10815277049/django-forms-i-custom-fields-and-widgets-in
+
+https://github.com/django/django/blob/2b267a70a16e2cb12075e75f7626effbe6811d5f/django/template/defaultfilters.py#L228-L236
+defaultŀlter.py
 
 djangopackages.com/grids
 
@@ -4373,10 +4371,6 @@ http://amzn.to/188VPcL
 
 https://github.com/sebleier/django-redis-cache/
 http://www.djangopackages.com/grids/g/caching/
-➤ Apache and Nginx compression modules
-➤ django-pipeline
-➤ django-compressor
-➤ django-htmlmin
 
 http://www.djangopackages.com/grids/g/asset-managers/
 Google’s Web Performance Best Practices
@@ -4555,6 +4549,11 @@ mock https://pypi.python.org/pypi/mock
 pytest http://pytest.org/
 pytest-django http://pytest-django.readthedocs.org/
 tox http://tox.readthedocs.org/
+
+➤ Apache and Nginx compression modules
+➤ django-pipeline
+➤ django-compressor
+➤ django-htmlmin
 
 User Registration
 django-allauth http://django-allauth.readthedocs.org/
