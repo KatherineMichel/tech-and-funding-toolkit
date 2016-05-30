@@ -4152,6 +4152,8 @@ Hello Web App
 * [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+https://hellowebapp.com/news/tutorial-setting-up-a-contact-form-with-django/
+
 https://docs.python.org/2/howto/regex.html
 
 https://github.com/hellowebapp/hellowebapp/tree/master/python-tips
@@ -4363,6 +4365,8 @@ Two Scoops of Django
 * [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
 
 <!--
+https://pypi.python.org/pypi/flake8
+
 https://github.com/twoscoops/two-scoops-of-django-1.8/issues
 https://github.com/twoscoops/two-scoops-of-django-1.8/blob/master/errata.rst
 https://github.com/twoscoops/two-scoops-of-django-1.8/tree/master/code
