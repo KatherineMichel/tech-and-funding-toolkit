@@ -690,13 +690,6 @@ Portfolio and Community Websites
 * [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
 * [Zurb Tavern](http://zurb.com/tavern) 
 
-<!--
-CraigsList
-LinkedIn
-eLance
-oDesk
--->
-
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
@@ -2939,6 +2932,10 @@ Good, Basic Templates, Themes
 * [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 * [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+
+<!--
+http://www.templatestash.com/l
+-->
 
 Good, Basic Templates, Themes- Skel
 * [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
@@ -8040,6 +8037,19 @@ Logistics
 * [Nomad List](https://nomadlist.com)
 * [Statewide List](http://www.statewidelist.com)
 * [Teleport](http://teleport.org)
+
+<!--
+CraigsList
+LinkedIn
+eLance
+oDesk
+-->
+<!--
+https://acrobat.adobe.com/us/en/documents/esignatures.html?fromES=true
+http://www.yourrate.co
+https://www.expensify.com
+https://remoteok.io
+-->
 
 Kits
 * [Kits](http://kit.com)
