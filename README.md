@@ -266,6 +266,14 @@ Database List
 * [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
 * [Product Hunt](http://www.producthunt.com) 
 
+<!--
+https://angel.co/track
+http://beondeck.co
+http://fi.co/s
+
+https://upverter.com/periodic-table
+-->
+
 Databases and Benchmarking- Freemium
 * [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
 * [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs) 
@@ -338,6 +346,8 @@ Income Reports
 <!--
 http://earningscast.com/calls
 
+https://www.janestreet.com
+
 Fidelity, Magellan, Vanguard 
 http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 http://en.wikipedia.org/wiki/Janus_Capital_Group
@@ -362,6 +372,11 @@ Medium
 More
 * [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
 * [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+<!--
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+-->
 
 #### Labs, Kitchens, Garages
 
@@ -421,6 +436,8 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+https://slackline.io
+
 https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
 https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
 https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
@@ -2187,6 +2204,10 @@ A Successful Git Branching Model
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+<!--
+https://kite.com
+-->
 
 12 Factor App
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
@@ -3990,6 +4011,9 @@ Python- Django- Project Stucture
 
 <!--
 See other article also
+
+https://github.com/nvie
+http://nvie.com/
 http://nvie.com/posts/pin-your-packages/
 
 http://docs.python-guide.org/en/latest/starting/install/osx
@@ -6106,6 +6130,11 @@ https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dig
 https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
+https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
 -->
 
 Distributed and Parallel Computing
@@ -7754,6 +7783,11 @@ Company Internal Policies
 * [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
 * [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 
+<!--
+https://twitter.com/ValaAfshar/status/736956353042862080
+https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html
+-->
+
 Good Infographics
 * [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
 * [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
@@ -9166,6 +9200,8 @@ Awards
 * [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
 
 <!--
+http://noahpinionblog.blogspot.com
+
 http://www.greatachievements.org
 -->
 
@@ -9420,6 +9456,8 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
+http://worldbuilding.stackexchange.com
+
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
