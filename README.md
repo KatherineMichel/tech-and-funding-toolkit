@@ -1633,6 +1633,10 @@ Command Line
 <!--
 Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists]
 (Command, then relevant variable)
+
+http://www.tldp.org/HOWTO/Software-Building-HOWTO-3.html
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+https://en.wikipedia.org/wiki/Batch_file
 -->
 
 Shell
@@ -7784,6 +7788,9 @@ Company Internal Policies
 * [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 
 <!--
+http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
+http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
+https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
 https://twitter.com/ValaAfshar/status/736956353042862080
 https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html
 -->
