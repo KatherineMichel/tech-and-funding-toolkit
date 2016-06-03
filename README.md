@@ -272,6 +272,8 @@ http://beondeck.co
 http://fi.co/s
 
 https://upverter.com/periodic-table
+
+https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8
 -->
 
 Databases and Benchmarking- Freemium
@@ -969,7 +971,12 @@ Computer Classes (*solarized dark*)
 * [Gunnars](http://www.gunnars.com)
 
 <!--
+https://justgetflux.com
+
 https://en.wikipedia.org/wiki/Keyboard_layout#Colemak
+
+https://en.wikipedia.org/wiki/Code_refactoring
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 -->
 
 Wikipedia Portals
