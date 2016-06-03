@@ -6383,6 +6383,10 @@ Heroku- Pricing and App Limits
 * [Heroku Usage and Billing](https://devcenter.heroku.com/articles/usage-and-billing)
 * [New Dyno Types and Pricing Public Beta](https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta)
 
+<!--
+https://devcenter.heroku.com/articles/free-dyno-hours
+-->
+
 Heroku- Dynos
 * [Heroku Dynos](https://devcenter.heroku.com/articles/dynos)
 * [Heroku Dyno Size](https://devcenter.heroku.com/articles/dyno-size)
