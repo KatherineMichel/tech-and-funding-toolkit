@@ -968,6 +968,10 @@ Watson Design Guide
 Computer Classes (*solarized dark*)
 * [Gunnars](http://www.gunnars.com)
 
+<!--
+https://en.wikipedia.org/wiki/Keyboard_layout#Colemak
+-->
+
 Wikipedia Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
