@@ -1095,6 +1095,8 @@ HTTP
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 <!--
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
 https://en.wikipedia.org/wiki/Parsing
 
 https://en.wikipedia.org/wiki/HTTP_cookie
@@ -2453,7 +2455,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Arduino](https://www.arduino.cc)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
-* [Learn Code the Hard Way](http://learncodethehardway.org)  
+* [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com)  
 * [CodePath GitHub](https://github.com/codepath)
@@ -3188,7 +3190,7 @@ Scripting and MVCs
 Miscellaneous Programming Languages
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn C the Hard Way](http://c.learncodethehardway.org)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
 * [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
 * [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
 * [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
@@ -3408,7 +3410,7 @@ Node.js
 * [Nodejsmodules.org](https://nodejsmodules.org)  
 * [NPM Package Search](https://www.npmjs.org)  
 * [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
-* [NPM](https://npmjs.org) and [NPM GitHub](https://github.com/npm/npm)  
+* [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm)  
 * [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
 * [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
 * [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
@@ -3570,7 +3572,7 @@ Redux (React Stack)
 * [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
 
 Build Tools (grunt, gulp, bower, browserify, webpack)
-* [Gulp GitHub](https://github.com/gulpjs/gulp) 
+* [Gulp](http://gulpjs.com) and [Gulp GitHub](https://github.com/gulpjs/gulp) 
 * [webpack GitHub](https://github.com/webpack/webpack) and [webpack docs](https://webpack.github.io/docs)
 * [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 
@@ -4080,6 +4082,8 @@ Python- Users and Members
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
+http://www.meetup.com/topics/python
+
 https://www.djangoproject.com/foundation/developer-members
 
 https://wiki.python.org/moin/FrontPage
@@ -4192,6 +4196,17 @@ Hello Web App
 * [Hello Web App Setup](https://hellowebapp.com/setup)
 * [Hello Web App Discuss](http://discuss.hellowebapp.com)
 * [Hello Web App Twitter](http://twitter.com/hellowebapp)
+
+<!--
+https://hellowebapp.com/news/tutorial-setting-up-a-contact-form-with-django/
+
+https://github.com/hellowebapp/hellowebapp/tree/master/python-tips
+https://github.com/hellowebapp/hellowebapp/tree/master/git-tips
+https://github.com/hellowebapp/hellowebapp/tree/master/windows-help
+
+https://github.com/hellowebapp/hellowebapp/tree/master/irc-tips
+https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
+-->
 
 Two Scoops of Django
 * [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
@@ -4541,6 +4556,8 @@ Python- Django- Python Social Auth
 * [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
 
 <!--
+https://github.com/macropin/django-registration/
+
 SendGrid Django
 https://sendgrid.com/docs/Integrate/Frameworks/django.html
 
@@ -4594,7 +4611,7 @@ https://docs.python.org/3.5/howto/regex.html
 
 RegEx
 * [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [RegEx Learning Code the Hard Way](http://regex.learncodethehardway.org) 
+* [Learning to Code the Hard Way- RegEx](http://regex.learncodethehardway.org) 
 
 http://www.diveintopython.net/regular_expressions/
 -->
@@ -5114,7 +5131,7 @@ http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
 SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
 * [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
-* [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)  
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
 
 SQLite
 * [SQLite](http://sqlite.org)  
@@ -5424,6 +5441,10 @@ Heroku- Deployment
 * [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
 * [Heroku Releases](https://devcenter.heroku.com/articles/releases)
 * [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+
+<!--
+https://devcenter.heroku.com/articles/procfile
+-->
 
 Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
