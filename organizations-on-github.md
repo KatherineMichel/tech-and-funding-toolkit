@@ -263,6 +263,7 @@ https://github.com/Medium/medium-policy
 * [New Relic](https://github.com/newrelic)  
 * [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu)  
 * [Oculus VR](https://github.com/OculusVR) 
+* [OpenBazaar](https://github.com/openbazaar)
 * [OpenStack](https://github.com/openstack)  
 * [Palantir](https://github.com/palantir)
 * [Patreon](https://github.com/patreon)  
