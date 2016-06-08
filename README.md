@@ -3919,6 +3919,184 @@ Wikitech Development
 
 #### Python and Django Toolkit
 
+<!--
+https://www.codecademy.com/tracks/web
+
+@mdo for HTML and CSS: http://codeguide.co
+
+https://www.google.com/webmasters/tools/
+Google’s Web Performance Best Practices
+https://developers.google.com/speed/docs/best-practices/rules_intro
+http://www.sitemaps.org
+
+https://git-for-windows.github.io/
+
+https://www.codecademy.com/courses/learn-the-command-line
+
+http://sass-lang.com/
+http://sass-lang.com/guide
+http://gulpjs.com/plugins/
+
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
+
+https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
+http://www.python.org/dev/peps/pep-0008/#maximum-line-length
+http://www.python.org/dev/peps/pep-0328/
+http://www.python.org/dev/peps/pep-0386
+http://www.python.org/dev/peps/pep-0427/
+http://www.python.org/dev/peps/pep-0263/
+http://www.python.org/dev/peps/pep-0257
+
+Django Project’s Feeds
+Lincoln Loop’s Django Round Up
+PyCoders Weekly and Python Weekly
+34.4.1 9 Easy Ways to Participate
+http://wiki.python.org/moin/LocalUserGroups
+http://www.python.org/community/irc/
+
+https://www.djangoproject.com/community/
+https://www.djangoproject.com/weblog/
+https://groups.google.com/forum/#!forum/django-announce
+https://docs.djangoproject.com/en/stable/releases
+https://wiki.python.org/moin/Python2orPython3
+https://www.djangopackages.com/python3/
+www.python.org/download/releases/2.3/mro/
+https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
+
+http://docs.python.org/2/library/pickle.html
+
+https://devcenter.heroku.com/articles/s3-upload-python
+
+https://stripe.com/docs
+http://dj-stripe.readthedocs.org/
+
+Database
+django-db-tools https://pypi.python.org/pypi/django-db-tools
+psycopg2 https://pypi.python.org/pypi/psycopg2
+
+Deployment
+dj-database-url https://pypi.python.org/pypi/dj-database-url
+Fabric https://pypi.python.org/pypi/Fabric
+
+Asynchronous
+celery http://www.celeryproject.org/
+
+Forms
+django-crispy-forms http://django-crispy-forms.readthedocs.org/
+django-floppyforms http://django-floppyforms.readthedocs.org/
+django-forms-bootstrap https://pypi.python.org/pypi/django-forms-bootstrap
+django-forms-builder https://github.com/stephenmcd/django-forms-builder
+
+REST APIs
+django-rest-framework http://django-rest-framework.org/
+django-tastypie http://django-tastypie.readthedocs.org
+
+Security
+bleach https://pypi.python.org/pypi/bleachbleach
+
+User Registration
+dj-stripe https://pypi.python.org/pypi/dj-stripe
+django-haystack http://django-haystack.readthedocs.org/
+fłake8 https://pypi.python.org/pypi/flake8
+pip-tools https://github.com/nvie/pip-tools
+requests http://docs.python-requests.org
+Unipath https://pypi.python.org/pypi/Unipath
+
+Error Reporting
+https://www.getsentry.com
+
+Logging
+Sentry http://getsentry.com
+Newrelic http://newrelic.com
+
+Instrumentation
+http://newrelic.com
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+
+Instrumentation
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+http://django-authtools.readthedocs.io
+https://github.com/fusionbox/django-authtools
+https://pypi.python.org/pypi/django-two-factor-auth
+
+https://github.com/recamshak/django-debug-panel
+
+https://ccbv.co.uk/
+http://cdrf.co
+
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
+http://jacobian.org/writing/rest-worst-practices/
+https://github.com/jacobian/django-dotenv
+
+pydanny’s blog
+http://pydanny.com/tag/django.html
+http://www.pydanny.com/python-decorator-cheatsheet.html
+http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
+
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
+
+Web:
+Lincoln Loop’s Django Best Practices
+http://lincolnloop.com/django-best-practices/
+https://github.com/lincolnloop/django-layout
+
+http://twoscoopspress.com/pages/django-tutorials
+http://gettingstartedwithdjango.com/
+
+http://www.diveintopython3.net/
+
+https://www.djangopackages.com/grids/g/cookiecutters/
+
+Video:
+GoDjango
+https://godjango.com
+
+* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+https://www.coursera.org/courses?query=python
+
+http://pythonhosted.org/
+
+https://www.caktusgroup.com/blog
+
+https://teamtreehouse.com/
+
+http://www.ubuntu.com/server
+
+https://addons.heroku.com/scheduler
+
+https://mozilla.github.io/server-side-tls/ssl-config-generator/
+https://www.ssllabs.com/ssltest/index.html
+https://www.ssllabs.com/ssltest/
+https://code.google.com/p/browsersec/wiki/Main
+
+https://zapier.com/
+https://cloudfare.com
+https://devcenter.heroku.com/articles/ssl-endpoint
+https://devcenter.heroku.com/articles/confg-vars
+
+https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
+
+http://en.wikipedia.org/wiki/Cross-site_scripting
+http://en.wikipedia.org/wiki/Two_factor_authentication
+https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
+
+https://en.wikipedia.org/wiki/Environment_variable
+http://en.wikipedia.org/wiki/Service-oriented_architecture
+https://en.wikipedia.org/wiki/Resource-oriented_architecture
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
+http://en.wikipedia.org/wiki/REST
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+-->
+
 #### Python General
 
 Python (See also Data Science)
