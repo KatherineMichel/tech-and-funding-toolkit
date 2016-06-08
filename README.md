@@ -2292,6 +2292,8 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+https://opensource.com
+
 https://github.com/HackathonHackers/code-of-conduct
 http://hackforchange.org/tips-for-better-open-source-documentation
 https://github.com/zalando/zalando-howto-open-source
@@ -3920,7 +3922,7 @@ Wikitech Development
 #### Python General
 
 Python (See also Data Science)
-* [Python](http://www.python.org) and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
+* [Python](http://www.python.org), [Python GitHub](https://github.com/python), and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 * [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
 * [Python Docs](https://docs.python.org)
 * [Python Standard Library](https://docs.python.org/3.5/library)
@@ -3960,6 +3962,9 @@ Consulting Forms
 * [Caktus Group](https://www.caktusgroup.com)
 
 <!--
+http://www.revsys.com/blog/
+http://www.frankwiles.com/posts/django-template-variable-or-else
+
 http://www.ellingtoncms.com
 -->
 
@@ -4029,6 +4034,9 @@ Python- Django- Project Stucture
 * [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
 
 <!--
+http://www.kennethreitz.org/essays/a-better-pip-workflow
+https://devcenter.heroku.com/articles/deploying-python
+
 See other article also
 
 https://github.com/nvie
@@ -4039,6 +4047,7 @@ http://docs.python-guide.org/en/latest/starting/install/osx
 
 https://github.com/simpleisbetterthancomplex/simple-academy
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
 -->
 
 Python- PEP
@@ -4198,6 +4207,7 @@ Hello Web App
 * [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+https://hellowebapp.com/news/tutorial-class-based-views
 https://hellowebapp.com/news/tutorial-setting-up-a-contact-form-with-django/
 
 https://github.com/hellowebapp/hellowebapp/tree/master/python-tips
