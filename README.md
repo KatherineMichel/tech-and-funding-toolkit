@@ -4410,8 +4410,6 @@ Python- Django- Debug Toolbar
 Core
 django-model-utils https://pypi.python.org/pypi/django-model-utils
 ipdb https://pypi.python.org/pypi/ipdb
-
-http://django-debug-toolbar.readthedocs.io/en/1.4/installation.html
 -->
 
 Python- Unipath
@@ -4482,22 +4480,19 @@ pytest and Nose (Unit Test Extension)
 * [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 * [pytest](http://pytest.org)
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django)
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and * [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+* [mock PyPi](https://pypi.python.org/pypi/mock)
 
 <!--
 Testing
 coverage http://coverage.readthedocs.org/
 factory boy https://pypi.python.org/pypi/factory_boy
 model mommy https://pypi.python.org/pypi/model_mommy
-mock https://pypi.python.org/pypi/mock
-pytest-django http://pytest-django.readthedocs.org/
-
-https://docs.python.org/3.5/library/unittest.html
-
+ 
 2.12 Writing your first patch for Django
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches/
-https://docs.python.org/3/library/unittest.html
-http://www.diveintopython.net/unit_testing/
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches
+https://docs.python.org/3.5/library/unittest.html
+http://www.diveintopython.net/unit_testing
 -->
 
 Selenium
@@ -4512,7 +4507,7 @@ Python- Django Extensions
 * [Django Extensions Read the Docs](https://django-extensions.readthedocs.io)
 
 Python- Django- Migrations
-* [South](http://south.aeracode.org)  
+* [South](http://south.aeracode.org) and [South Read the Docs](http://django-south.readthedocs.io)
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org)  
@@ -4525,25 +4520,6 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
 * [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
-
-<!--
-https://django-registration-redux.readthedocs.io/en/latest
-
-SendGrid Django
-https://sendgrid.com/docs/Integrate/Frameworks/django.html
-
-MailChimp API
-http://developer.mailchimp.com/documentation/mailchimp
-
-MailChimp API Documentation- Downloads
-https://apidocs.mailchimp.com/api/downloads
-
-Python MailChimp API Client
-https://pypi.python.org/pypi/mailchimp
-
-Python MailChimp API Client
-https://bitbucket.org/mailchimp/mailchimp-api-python
--->
 
 Python- Django- Records, Requests
 * [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
@@ -4562,6 +4538,24 @@ https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
 -->
 
 Python- Django- Python Social Auth
+* [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
+
+<!--
+SendGrid Django
+https://sendgrid.com/docs/Integrate/Frameworks/django.html
+
+MailChimp API
+http://developer.mailchimp.com/documentation/mailchimp
+
+MailChimp API Documentation- Downloads
+https://apidocs.mailchimp.com/api/downloads
+
+Python MailChimp API Client
+https://pypi.python.org/pypi/mailchimp
+https://bitbucket.org/mailchimp/mailchimp-api-python
+-->
+
+Python- Django- Python Social Auth
 * [Python Social Auth](https://github.com/omab/python-social-auth)  
 * [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
 * [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
@@ -4570,20 +4564,14 @@ Python- Django- Python Social Auth
 Python- Django- Search
 * [Haystack](http://haystacksearch.org) and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
 
-Python- Imaging Library (Pillow)
+Python- Imaging Library (Pillow) and ImageKit
 * [Python Imaging Library](http://www.pythonware.com/products/pil) and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
 * [Python Imaging Library Read the Docs](https://pillow.readthedocs.org)  
 * [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
+* [Django ImageKit Read the Docs](http://django-imagekit.readthedocs.io)
 
-<!--
-http://django-imagekit.readthedocs.io/en/latest/#admin
-http://django-south.readthedocs.io/en/latest/tutorial/part1.html
-http://pillow.readthedocs.io/en/3.2.x/handbook/tutorial.html
-http://www.miniwebtool.com/django-secret-key-generator/
-https://django-taggit.readthedocs.io
-http://django-taggit.readthedocs.io/en/latest/getting_started.html
-https://pypi.python.org/pypi/mock
--->
+Python- Django- Tagging
+* [django-taggit Read the Docs](https://django-taggit.readthedocs.io)
 
 Python- Django- Forms
 * [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
@@ -5216,12 +5204,9 @@ Status
 * [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 
-<!--
-https://dashboard.heroku.com/
--->
-
 Consles
 * [GitHub Settings](https://github.com/settings)
+* [Heroku Dashboard](https://dashboard.heroku.com)
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
 * [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
@@ -5331,11 +5316,6 @@ AWS- Elastic Beanstalk and S3
 AWS- SES and SNS
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
-
-<!--
-Google Cloud Functions Documentation (Competitor to AWS Lambda)
-https://cloud.google.com/functions/docs/
--->
 
 AWS- Lambda (See also Google Cloud Functions)
 * [AWS Lambda](http://aws.amazon.com/lambda)  
