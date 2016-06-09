@@ -971,6 +971,8 @@ Computer Classes (*solarized dark*)
 * [Gunnars](http://www.gunnars.com)
 
 <!--
+http://www.catb.org/esr/writings/cathedral-bazaar
+
 https://justgetflux.com
 
 https://en.wikipedia.org/wiki/Keyboard_layout#Colemak
@@ -1889,6 +1891,9 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+Recommended
+https://www.git-tower.com/
+
 https://github.com/github/hub
 
 https://github.com/github/training-kit
@@ -2292,6 +2297,9 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+http://williln.github.io/
+https://github.com/williln/williln.github.io
+
 https://opensource.com
 
 https://github.com/HackathonHackers/code-of-conduct
@@ -4089,6 +4097,7 @@ http://en.wikipedia.org/wiki/Two_factor_authentication
 https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 
 https://en.wikipedia.org/wiki/Environment_variable
+
 http://en.wikipedia.org/wiki/Service-oriented_architecture
 https://en.wikipedia.org/wiki/Resource-oriented_architecture
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
@@ -4135,12 +4144,11 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 
 Consulting Forms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
-* [Revolution Systems](http://www.revsys.com) and [Revolution Systems Blog](http://www.revsys.com/writings)
+* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), and [Revolution Systems Writings](http://www.revsys.com/writings)
 * [Lincoln Loop](http://lincolnloop.com)
 * [Caktus Group](https://www.caktusgroup.com)
 
 <!--
-http://www.revsys.com/blog/
 http://www.frankwiles.com/posts/django-template-variable-or-else
 
 http://www.ellingtoncms.com
@@ -4269,6 +4277,9 @@ Python- Users and Members
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
+Guido van Rossum
+https://docs.python.org/devguide/
+
 http://www.meetup.com/topics/python
 
 https://www.djangoproject.com/foundation/developer-members
@@ -4592,6 +4603,11 @@ http://docs.python-guide.org/en/latest/scenarios/ci/
 
 #### Python and Django Common Deployment Tools
 
+<!--
+http://www.fullstackpython.com/deployment.html
+http://masteringdjango.com/testing-in-django/
+-->
+
 Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
 * [Psycopg](http://initd.org/psycopg)  
 * [Psycopg Usage](http://initd.org/psycopg/docs/usage.html)  
@@ -4621,6 +4637,23 @@ Python- Unipath
 Python- Django- Static File Serving
 * [Whitenoise](http://whitenoise.evans.io) and [Whitenoise GitHub](https://github.com/evansd/whitenoise)
 * [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
+
+<!--
+https://devcenter.heroku.com/articles/heroku-local
+
+https://aws.amazon.com/s3/pricing/
+
+https://devcenter.heroku.com/articles/s3-upload-python
+https://devcenter.heroku.com/articles/s3
+https://devcenter.heroku.com/articles/django-app-configuration
+https://devcenter.heroku.com/articles/django-assets
+
+http://whitenoise.evans.io/en/stable/index.html
+http://whitenoise.evans.io/en/stable/django.html
+http://whitenoise.evans.io/en/stable/django.html#using-whitenoise-in-development
+
+https://docs.djangoproject.com/en/1.9/ref/contrib/staticfiles/
+-->
 
 CGI and WSGI (Web Server API)
 * [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
@@ -5693,6 +5726,10 @@ Google Cloud Functions (See also Amazon Web Services- Lambda)
 Nitrous (IDE)
 * [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
+
+<!--
+https://hyperdev.com
+-->
 
 Cross Platform Dev Environment
 * [Bowery](http://bowery.io)  
