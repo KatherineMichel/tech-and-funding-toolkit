@@ -267,18 +267,15 @@ Database List
 * [Product Hunt](http://www.producthunt.com) 
 
 <!--
-https://angel.co/track
+https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8
 http://beondeck.co
-http://fi.co/s
 
 https://upverter.com/periodic-table
-
-https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8
 -->
 
 Databases and Benchmarking- Freemium
 * [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs) 
+* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
 * [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
 * [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
 * [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
@@ -345,9 +342,10 @@ Associations
 Income Reports
 * [Income Reports](http://www.incomereports.co)
 
-<!--
-http://earningscast.com/calls
+Earnings Calls
+* [earningscast Calls](http://earningscast.com/calls)
 
+<!--
 https://www.janestreet.com
 
 Fidelity, Magellan, Vanguard 
@@ -967,19 +965,11 @@ Watson Design Guide
 
 #### Computer Basics
 
-Computer Classes (*solarized dark*)
-* [Gunnars](http://www.gunnars.com)
-
-<!--
-http://www.catb.org/esr/writings/cathedral-bazaar
-
-https://justgetflux.com
-
-https://en.wikipedia.org/wiki/Keyboard_layout#Colemak
-
-https://en.wikipedia.org/wiki/Code_refactoring
-https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
--->
+Ergonomics 
+* [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
+* [f.lux](https://justgetflux.com)
+* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
+* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
 
 Wikipedia Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
@@ -1006,6 +996,10 @@ https://en.wikibooks.org/wiki/Open_Metadata_Handbook
 Computer Scientists
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+
+<!--
+http://www.catb.org/esr/writings/cathedral-bazaar
+-->
 
 Great Unsolved Problems in Computer Science
 * [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
@@ -1154,6 +1148,11 @@ Miscellaneous Vocab
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 * [Cross Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
 * [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
+
+<!--
+https://en.wikipedia.org/wiki/Code_refactoring
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+-->
 
 Line Endings
 * [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
@@ -1648,10 +1647,6 @@ Command Line
 <!--
 Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists]
 (Command, then relevant variable)
-
-http://www.tldp.org/HOWTO/Software-Building-HOWTO-3.html
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-https://en.wikipedia.org/wiki/Batch_file
 -->
 
 Shell
@@ -1770,7 +1765,11 @@ https://en.wikibooks.org/wiki/Sed
 http://pubs.opengroup.org/onlinepubs/9699919799/
 http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
 
+Using Make
+http://www.tldp.org/HOWTO/Software-Building-HOWTO-3.html
+
 Bash Tutorials
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
 http://tldp.org/LDP/abs/html/sample-bashrc.html
 http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 http://www.tldp.org/LDP/Bash-Beginners-Guide/html
@@ -1785,6 +1784,8 @@ http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
 https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
 
 http://www.unix.com/man-page/posix/1posix/eval
+
+https://en.wikipedia.org/wiki/Batch_file
 -->
 
 #### Keyboard Shortcuts
@@ -2731,8 +2732,6 @@ http://www.mobilusdesign.com/responsive-web-designed-websites-for-wordpress
 
 http://wiki.mobileread.com/wiki/Screen_sizes
 https://www.quora.com/Whats-the-average-desktop-screen-resolution-as-of-2015
-
-http://getbootstrap.com/css
 -->
 
 Photoshop and Similar
@@ -2797,10 +2796,6 @@ Prototyping Software- Others
 
 Prototyping Software- Wirify
 * [Wirify](https://www.wirify.com)
-
-<!--
-https://www.wirify.com/support/user-guide/
--->
 
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
@@ -2980,10 +2975,6 @@ Good, Basic Templates, Themes
 * [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 * [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
-
-<!--
-http://www.templatestash.com/l
--->
 
 Good, Basic Templates, Themes- Skel
 * [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
@@ -3582,7 +3573,7 @@ Redux (React Stack)
 * [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
 
 Build Tools (grunt, gulp, bower, browserify, webpack)
-* [Gulp](http://gulpjs.com) and [Gulp GitHub](https://github.com/gulpjs/gulp) 
+* [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
 * [webpack GitHub](https://github.com/webpack/webpack) and [webpack docs](https://webpack.github.io/docs)
 * [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 
@@ -3664,7 +3655,7 @@ Yo/Yeoman, Bower, Grunt
 Compilation Resources (See also Gulp)
 * [Compass GitHub](https://github.com/chriseppstein/compass)  
 * [Less GitHub](https://github.com/less/less.js)  
-* [Sass (Syntactically Awesome Style Sheets) GitHub](https://github.com/nex3/sass)  
+* [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
 * [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
 
 Extension Languages
@@ -3928,8 +3919,6 @@ Wikitech Development
 #### Python and Django Toolkit
 
 <!--
-https://www.codecademy.com/tracks/web
-
 @mdo for HTML and CSS: http://codeguide.co
 
 https://www.google.com/webmasters/tools/
@@ -3941,20 +3930,8 @@ https://git-for-windows.github.io/
 
 https://www.codecademy.com/courses/learn-the-command-line
 
-http://sass-lang.com/
-http://sass-lang.com/guide
-http://gulpjs.com/plugins/
-
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-
-https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
-http://www.python.org/dev/peps/pep-0008/#maximum-line-length
-http://www.python.org/dev/peps/pep-0328/
-http://www.python.org/dev/peps/pep-0386
-http://www.python.org/dev/peps/pep-0427/
-http://www.python.org/dev/peps/pep-0263/
-http://www.python.org/dev/peps/pep-0257
 
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
@@ -3976,64 +3953,6 @@ http://docs.python.org/2/library/pickle.html
 
 https://devcenter.heroku.com/articles/s3-upload-python
 
-https://stripe.com/docs
-http://dj-stripe.readthedocs.org/
-
-Database
-django-db-tools https://pypi.python.org/pypi/django-db-tools
-psycopg2 https://pypi.python.org/pypi/psycopg2
-
-Deployment
-dj-database-url https://pypi.python.org/pypi/dj-database-url
-Fabric https://pypi.python.org/pypi/Fabric
-
-Asynchronous
-celery http://www.celeryproject.org/
-
-Forms
-django-crispy-forms http://django-crispy-forms.readthedocs.org/
-django-floppyforms http://django-floppyforms.readthedocs.org/
-django-forms-bootstrap https://pypi.python.org/pypi/django-forms-bootstrap
-django-forms-builder https://github.com/stephenmcd/django-forms-builder
-
-REST APIs
-django-rest-framework http://django-rest-framework.org/
-django-tastypie http://django-tastypie.readthedocs.org
-
-Security
-bleach https://pypi.python.org/pypi/bleachbleach
-
-User Registration
-dj-stripe https://pypi.python.org/pypi/dj-stripe
-django-haystack http://django-haystack.readthedocs.org/
-fłake8 https://pypi.python.org/pypi/flake8
-pip-tools https://github.com/nvie/pip-tools
-requests http://docs.python-requests.org
-Unipath https://pypi.python.org/pypi/Unipath
-
-Error Reporting
-https://www.getsentry.com
-
-Logging
-Sentry http://getsentry.com
-Newrelic http://newrelic.com
-
-Instrumentation
-http://newrelic.com
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-
-Instrumentation
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-http://django-authtools.readthedocs.io
-https://github.com/fusionbox/django-authtools
-https://pypi.python.org/pypi/django-two-factor-auth
-
-https://github.com/recamshak/django-debug-panel
-
 https://ccbv.co.uk/
 http://cdrf.co
 
@@ -4050,33 +3969,12 @@ http://www.pydanny.com/tag/forms.html
 https://github.com/pydanny/cached-property
 http://www.pydanny.com/cached-property.html
 
-Web:
-Lincoln Loop’s Django Best Practices
-http://lincolnloop.com/django-best-practices/
-https://github.com/lincolnloop/django-layout
-
-http://twoscoopspress.com/pages/django-tutorials
-http://gettingstartedwithdjango.com/
-
-http://www.diveintopython3.net/
-
-https://www.djangopackages.com/grids/g/cookiecutters/
-
-Video:
-GoDjango
-https://godjango.com
-
-* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
 https://www.coursera.org/courses?query=python
 
 http://pythonhosted.org/
 
-https://www.caktusgroup.com/blog
-
 https://teamtreehouse.com/
-
-http://www.ubuntu.com/server
+https://www.codecademy.com/tracks/web
 
 https://addons.heroku.com/scheduler
 
@@ -4092,18 +3990,13 @@ https://devcenter.heroku.com/articles/confg-vars
 
 https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
 
+http://www.ubuntu.com/server
+
 http://en.wikipedia.org/wiki/Cross-site_scripting
 http://en.wikipedia.org/wiki/Two_factor_authentication
 https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 
 https://en.wikipedia.org/wiki/Environment_variable
-
-http://en.wikipedia.org/wiki/Service-oriented_architecture
-https://en.wikipedia.org/wiki/Resource-oriented_architecture
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
-http://en.wikipedia.org/wiki/REST
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 -->
 
 #### Python General
@@ -4146,7 +4039,7 @@ Consulting Forms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), and [Revolution Systems Writings](http://www.revsys.com/writings)
 * [Lincoln Loop](http://lincolnloop.com)
-* [Caktus Group](https://www.caktusgroup.com)
+* [Caktus Group](https://www.caktusgroup.com) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
 
 <!--
 http://www.frankwiles.com/posts/django-template-variable-or-else
@@ -4220,6 +4113,11 @@ Python- Django- Project Stucture
 * [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
 
 <!--
+Web:
+Lincoln Loop’s Django Best Practices
+http://lincolnloop.com/django-best-practices/
+https://github.com/lincolnloop/django-layout
+
 http://www.kennethreitz.org/essays/a-better-pip-workflow
 https://devcenter.heroku.com/articles/deploying-python
 
@@ -4246,6 +4144,14 @@ Python- PEP
 * [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
 
 <!--
+https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
+http://www.python.org/dev/peps/pep-0008/#maximum-line-length
+http://www.python.org/dev/peps/pep-0328/
+http://www.python.org/dev/peps/pep-0386
+http://www.python.org/dev/peps/pep-0427/
+http://www.python.org/dev/peps/pep-0263/
+http://www.python.org/dev/peps/pep-0257
+
 https://github.com/amontalenti/elements-of-python-style
 -->
 
@@ -4289,7 +4195,6 @@ https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
 
 http://lanyrd.com/search/?context=future&q=django&type=conference
 
-https://docs.python.org/devguide
 https://github.com/python/community-starter-kit
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
 
@@ -4342,6 +4247,21 @@ https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
 Make movies the same way Ola makes Coding is for Girls
 https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 http://www.apple.com/mac/imovie
+-->
+
+<!--
+http://twoscoopspress.com/pages/django-tutorials
+http://gettingstartedwithdjango.com/
+
+http://www.diveintopython3.net/
+
+https://www.djangopackages.com/grids/g/cookiecutters/
+
+Video:
+GoDjango
+https://godjango.com
+
+* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 -->
 
 PyLadies
@@ -4508,6 +4428,66 @@ Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter Django Deployment with Docker](http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html)
 
 #### Python and Django Deployment
+
+<!--
+https://stripe.com/docs
+http://dj-stripe.readthedocs.org/
+
+Database
+django-db-tools https://pypi.python.org/pypi/django-db-tools
+psycopg2 https://pypi.python.org/pypi/psycopg2
+
+Deployment
+dj-database-url https://pypi.python.org/pypi/dj-database-url
+Fabric https://pypi.python.org/pypi/Fabric
+
+Asynchronous
+celery http://www.celeryproject.org/
+
+Forms
+django-crispy-forms http://django-crispy-forms.readthedocs.org/
+django-floppyforms http://django-floppyforms.readthedocs.org/
+django-forms-bootstrap https://pypi.python.org/pypi/django-forms-bootstrap
+django-forms-builder https://github.com/stephenmcd/django-forms-builder
+
+REST APIs
+django-rest-framework http://django-rest-framework.org/
+django-tastypie http://django-tastypie.readthedocs.org
+
+Security
+bleach https://pypi.python.org/pypi/bleachbleach
+
+User Registration
+dj-stripe https://pypi.python.org/pypi/dj-stripe
+django-haystack http://django-haystack.readthedocs.org/
+fłake8 https://pypi.python.org/pypi/flake8
+pip-tools https://github.com/nvie/pip-tools
+requests http://docs.python-requests.org
+Unipath https://pypi.python.org/pypi/Unipath
+
+Error Reporting
+https://www.getsentry.com
+
+Logging
+Sentry http://getsentry.com
+Newrelic http://newrelic.com
+
+Instrumentation
+http://newrelic.com
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+
+Instrumentation
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+http://django-authtools.readthedocs.io
+https://github.com/fusionbox/django-authtools
+https://pypi.python.org/pypi/django-two-factor-auth
+
+https://github.com/recamshak/django-debug-panel
+-->
 
 Python- Django- Git and Deployment
 * [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
@@ -5294,6 +5274,15 @@ Databases
 
 Stanford Open Classroom- Introduction to Databases
 * [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+<!--
+http://en.wikipedia.org/wiki/Service-oriented_architecture
+https://en.wikipedia.org/wiki/Resource-oriented_architecture
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
+http://en.wikipedia.org/wiki/REST
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+-->
 
 Types of Databases
 * [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
@@ -8094,6 +8083,10 @@ Standard Docs and Terms
 * [Founder Institute Agreements (The Founder Agreement, Form of the Warrant, Form of Board Consent)](http://fi.co/agreements)
 * [Wilson Sonsini Goodrich & Rosati Incorporation Questionnaire](https://www.wsgr.com/WSGR/Display.aspx?SectionName=start/incorporation.htm), [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm), and [Wilson Sonsini Goodrich & Rosati Term Sheet Generator (Convertible Notes)](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm)
 * [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
+
+<!--
+http://fi.co/s
+-->
 
 Document Libraries- Free/Freemium
 * [Docracy Documents](http://www.docracy.com/application/dochome) 
