@@ -4740,6 +4740,14 @@ Python- Imaging Library (Pillow) and ImageKit
 * [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
 * [Django ImageKit Read the Docs](http://django-imagekit.readthedocs.io)
 
+https://devcenter.heroku.com/articles/cloudinary#using-with-django
+http://cloudinary.com/documentation/django_integration
+https://github.com/cloudinary/pycloudinary
+https://github.com/cloudinary/cloudinary_js
+https://github.com/sagoyanfisic/openshift-cloudinary-django-sample
+https://github.com/garymau/CloudinaryAlpha
+-->
+
 Python- Django- Tagging
 * [django-taggit Read the Docs](https://django-taggit.readthedocs.io)
 
@@ -7307,6 +7315,8 @@ Logistics
 * [Nomad List](https://nomadlist.com)
 * [Statewide List](http://www.statewidelist.com)
 * [Teleport](http://teleport.org)
+
+
 
 <!--
 CraigsList
