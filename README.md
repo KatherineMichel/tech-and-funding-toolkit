@@ -1142,8 +1142,11 @@ Utilities
 * [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
 * [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering) 
 
-Miscellaneous Vocab
+Important Concepts
+* [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+
+Miscellaneous Vocab
 * [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
 * [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
 * [Cross Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
@@ -1151,7 +1154,6 @@ Miscellaneous Vocab
 
 <!--
 https://en.wikipedia.org/wiki/Code_refactoring
-https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 -->
 
 Line Endings
@@ -2364,10 +2366,6 @@ Example Help Tweets
 Write the Docs (Conference and Community)
 * [Write the Docs](http://www.writethedocs.org)
 
-<!--
-http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
--->
-
 MkDocs
 * [MkDocs](http://www.mkdocs.org)
 
@@ -2380,12 +2378,13 @@ Dexy
 GitBook
 * [GitBook](https://www.gitbook.com)  
 * [GitBook GitHub](https://github.com/GitbookIO)  
+* ["How can I use Git to update my book?"](https://help.gitbook.com/books/how-can-i-use-git.html)
 * [GitBook Documentation](http://help.gitbook.io)  
 * [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
 * [GitBook Themes](http://help.gitbook.io/book/themes.html)  
 
 <!--
-https://help.gitbook.com/books/how-can-i-use-git.html
+GitBook Styling
 -->
 
 GitHub Wiki
@@ -2401,7 +2400,7 @@ LaTeX
 
 Read the Docs
 * [Read the Docs GitHub](https://readthedocs.org) and [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
-* [Beginners Guide to Docs](http://write-the-docs.readthedocs.org/writing/beginners-guide-to-docs)
+* [A Beginner's Guide to Docs](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs)
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
 
 Python- Django-Sphinxdoc
@@ -2654,7 +2653,7 @@ Styleguides- Various
 * [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 * [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
 
-GitHub CSS Styleguide
+GitHub HTML and CSS Styleguides
 * [GitHub CSS Styleguide](http://primercss.io) 
 * [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
 
@@ -3919,8 +3918,6 @@ Wikitech Development
 #### Python and Django Toolkit
 
 <!--
-@mdo for HTML and CSS: http://codeguide.co
-
 https://www.google.com/webmasters/tools/
 Google’s Web Performance Best Practices
 https://developers.google.com/speed/docs/best-practices/rules_intro
@@ -3941,7 +3938,6 @@ http://wiki.python.org/moin/LocalUserGroups
 http://www.python.org/community/irc/
 
 https://www.djangoproject.com/community/
-https://www.djangoproject.com/weblog/
 https://groups.google.com/forum/#!forum/django-announce
 https://docs.djangoproject.com/en/stable/releases
 https://wiki.python.org/moin/Python2orPython3
@@ -3951,23 +3947,8 @@ https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding
 
 http://docs.python.org/2/library/pickle.html
 
-https://devcenter.heroku.com/articles/s3-upload-python
-
 https://ccbv.co.uk/
 http://cdrf.co
-
-http://www.slideshare.net/jacobian/the-best-and-worst-of-django
-http://jacobian.org/writing/rest-worst-practices/
-https://github.com/jacobian/django-dotenv
-
-pydanny’s blog
-http://pydanny.com/tag/django.html
-http://www.pydanny.com/python-decorator-cheatsheet.html
-http://pydanny.com/tag/class-based-views.html
-http://www.pydanny.com/tag/forms.html
-
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
 
 https://www.coursera.org/courses?query=python
 
@@ -3975,8 +3956,6 @@ http://pythonhosted.org/
 
 https://teamtreehouse.com/
 https://www.codecademy.com/tracks/web
-
-https://addons.heroku.com/scheduler
 
 https://mozilla.github.io/server-side-tls/ssl-config-generator/
 https://www.ssllabs.com/ssltest/index.html
@@ -4091,6 +4070,19 @@ http://twitter.com/limedaring
 
 Pythonista
 https://github.com/jacobian-archive
+
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
+http://jacobian.org/writing/rest-worst-practices/
+https://github.com/jacobian/django-dotenv
+
+pydanny’s blog
+http://pydanny.com/tag/django.html
+http://www.pydanny.com/python-decorator-cheatsheet.html
+http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
+
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
 -->
 
 Python- Django- News
@@ -4126,6 +4118,7 @@ See other article also
 https://github.com/nvie
 http://nvie.com/
 http://nvie.com/posts/pin-your-packages/
+pip-tools https://github.com/nvie/pip-tools
 
 http://docs.python-guide.org/en/latest/starting/install/osx
 
@@ -4227,9 +4220,6 @@ Python- Django- Slack
 #### Python and Django Support Groups, Books and Tutorials
 
 <!--
-http://tutorial.djangogirls.org/en/intro_to_command_line
-http://tutorial.djangogirls.org/en/python_introduction
-
 https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
 
@@ -4430,63 +4420,29 @@ Python- Django- Cookiecutter (See also Packages)
 #### Python and Django Deployment
 
 <!--
-https://stripe.com/docs
-http://dj-stripe.readthedocs.org/
-
-Database
-django-db-tools https://pypi.python.org/pypi/django-db-tools
-psycopg2 https://pypi.python.org/pypi/psycopg2
-
-Deployment
-dj-database-url https://pypi.python.org/pypi/dj-database-url
-Fabric https://pypi.python.org/pypi/Fabric
-
-Asynchronous
-celery http://www.celeryproject.org/
-
-Forms
-django-crispy-forms http://django-crispy-forms.readthedocs.org/
-django-floppyforms http://django-floppyforms.readthedocs.org/
-django-forms-bootstrap https://pypi.python.org/pypi/django-forms-bootstrap
-django-forms-builder https://github.com/stephenmcd/django-forms-builder
-
-REST APIs
-django-rest-framework http://django-rest-framework.org/
-django-tastypie http://django-tastypie.readthedocs.org
-
 Security
 bleach https://pypi.python.org/pypi/bleachbleach
 
+https://stripe.com/docs
+
 User Registration
 dj-stripe https://pypi.python.org/pypi/dj-stripe
-django-haystack http://django-haystack.readthedocs.org/
+http://dj-stripe.readthedocs.org/
 fłake8 https://pypi.python.org/pypi/flake8
-pip-tools https://github.com/nvie/pip-tools
-requests http://docs.python-requests.org
-Unipath https://pypi.python.org/pypi/Unipath
 
-Error Reporting
+Error Reporting, Logging, Instrumentation
 https://www.getsentry.com
-
-Logging
 Sentry http://getsentry.com
 Newrelic http://newrelic.com
-
-Instrumentation
-http://newrelic.com
 https://graphite.readthedocs.org
 https://github.com/brutasse/graphite-api
 http://grafana.org
-
-Instrumentation
 http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
 
 http://django-authtools.readthedocs.io
 https://github.com/fusionbox/django-authtools
 https://pypi.python.org/pypi/django-two-factor-auth
-
-https://github.com/recamshak/django-debug-panel
 -->
 
 Python- Django- Git and Deployment
@@ -4586,6 +4542,10 @@ http://docs.python-guide.org/en/latest/scenarios/ci/
 <!--
 http://www.fullstackpython.com/deployment.html
 http://masteringdjango.com/testing-in-django/
+
+Database
+django-db-tools https://pypi.python.org/pypi/django-db-tools
+psycopg2 https://pypi.python.org/pypi/psycopg2
 -->
 
 Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
@@ -4605,6 +4565,9 @@ Python- Django- Debug Toolbar
 * [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
 * [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
 
+Python- Django- Debug Toolbar
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) 
+
 <!--
 Core
 django-model-utils https://pypi.python.org/pypi/django-model-utils
@@ -4622,6 +4585,8 @@ Python- Django- Static File Serving
 https://devcenter.heroku.com/articles/heroku-local
 
 https://aws.amazon.com/s3/pricing/
+
+https://addons.heroku.com/scheduler
 
 https://devcenter.heroku.com/articles/s3-upload-python
 https://devcenter.heroku.com/articles/s3
@@ -4669,9 +4634,9 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 
 Python- Django- DJ Static, DJ Database URL
 * [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url) and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
 
-Python- Django and Celery (Also Example code)
+Python- Django and Celery (Asynchronicity) (Also Example code)
 * [Celery](http://www.celeryproject.org)  
 * [Celery GitHub](https://github.com/celery/celery)  
 * [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
@@ -4685,7 +4650,7 @@ Python- Django- BCrypt (Not just for Django)
 * [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
 
 Python- Fabric
-* [Fabric](http://www.fabfile.org) and [Fabric GitHub](https://github.com/fabric/fabric) 
+* [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
 
 #### Python and Django Testing and Automation
 
@@ -4732,6 +4697,9 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
 * [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
 
+Python- Django- Alternative Rest Framework
+* [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
+
 Python- Django- Rest Framework (Serialization/Deserialization)
 * [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
 * [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
@@ -4739,7 +4707,7 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 
 Python- Django- Records, Requests
 * [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Requests PyPi](https://pypi.python.org/pypi/requests), [Kenneth Reitz: Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
 Channels
 * [Channels GitHub](https://github.com/andrewgodwin/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
@@ -4771,6 +4739,9 @@ https://apidocs.mailchimp.com/api/downloads
 Python MailChimp API Client
 https://pypi.python.org/pypi/mailchimp
 https://bitbucket.org/mailchimp/mailchimp-api-python
+
+https://github.com/divio/django-mailchimp
+http://django-mailer2.readthedocs.org/en/latest
 -->
 
 Python- Django- Python Social Auth
@@ -4780,7 +4751,7 @@ Python- Django- Python Social Auth
 * [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
 
 Python- Django- Search
-* [Haystack](http://haystacksearch.org) and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
+* [Haystack](http://haystacksearch.org), [Haystack Read the Docs](http://django-haystack.readthedocs.org), and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
 
 Python- Imaging Library (Pillow) and ImageKit
 * [Python Imaging Library](http://www.pythonware.com/products/pil) and [Python Imaging Library GitHub](https://github.com/python-pillow/Pillow)
@@ -4795,11 +4766,16 @@ Python- Django- Forms
 * [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
 
 <!--
+Forms
+django-crispy-forms http://django-crispy-forms.readthedocs.org/
+django-floppyforms http://django-floppyforms.readthedocs.org/
+django-forms-bootstrap https://pypi.python.org/pypi/django-forms-bootstrap
+django-forms-builder https://github.com/stephenmcd/django-forms-builder
+-->
+
+<!--
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
-
-https://github.com/divio/django-mailchimp
-http://django-mailer2.readthedocs.org/en/latest
 
 https://en.wikipedia.org/wiki/ReStructuredText
 
