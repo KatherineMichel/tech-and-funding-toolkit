@@ -4740,6 +4740,8 @@ Python- Imaging Library (Pillow) and ImageKit
 * [Python Imaging Library PyPi](https://pypi.python.org/pypi/Pillow)  
 * [Django ImageKit Read the Docs](http://django-imagekit.readthedocs.io)
 
+<!--
+http://cloudinary.com/documentation/django_integration
 https://devcenter.heroku.com/articles/cloudinary#using-with-django
 http://cloudinary.com/documentation/django_integration
 https://github.com/cloudinary/pycloudinary
@@ -7316,19 +7318,6 @@ Logistics
 * [Statewide List](http://www.statewidelist.com)
 * [Teleport](http://teleport.org)
 
-
-
-<!--
-CraigsList
-LinkedIn
-eLance
-oDesk
--->
-<!--
-http://www.yourrate.co
-https://remoteok.io
--->
-
 Kits
 * [Kits](http://kit.com)
 
@@ -7356,6 +7345,16 @@ Admin, Hiring, Payroll, Expenses
 * [Teespring](http://teespring.com)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
+
+Freelance
+* [Craigslist](https://craigslist.org)
+* [eLance](https://www.elance.com)
+* [LinkedIn](https://www.linkedin.com)
+* [Upwork](https://www.upwork.com)
+* [Your Rate](http://www.yourrate.co)
+
+Remote
+* [remoteok](https://remoteok.io)
 
 #### Economics, Models, Biases, Metrics
 
@@ -8403,6 +8402,7 @@ Digital Stats
 #### High Profile Developers
 
 * [Harper Reed GitHub](https://github.com/harperreed)
+* [Joel Spolsky](http://www.joelonsoftware.com)
 * [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 * [Mark Otto GitHub](https://github.com/mdo)
 * [Zac Holman](http://zachholman.com)
@@ -8411,7 +8411,6 @@ Digital Stats
 <!--
 https://m.signalvnoise.com
 https://m.signalvnoise.com/@jasonfried
-http://www.joelonsoftware.com
 -->
 
 #### Schools of Thought
@@ -8622,13 +8621,16 @@ Think Tanks
 * [NACUE](http://www.nacue.com)
 * [Startup Britain Resources](http://www.startupbritain.org/resources)
 
-<!--
-https://www.janestreet.com
+Investment Firms
+* [Fidelity](https://www.fidelity.com)
+* [Jane Street](https://www.janestreet.com)
+* [Janus Capital Group](http://en.wikipedia.org/wiki/Janus_Capital_Group)
+* [Magellan Financial](http://magellanfinancial.com)
+* [PIMCO](http://en.wikipedia.org/wiki/PIMCO)
+* [Vangent](https://investor.vanguard.com/home)
 
-Fidelity, Magellan, Vanguard 
+<!--
 http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
-http://en.wikipedia.org/wiki/Janus_Capital_Group
-http://en.wikipedia.org/wiki/PIMCO
 -->
 
 #### Business and Tech News Sources
