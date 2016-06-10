@@ -345,15 +345,6 @@ Income Reports
 Earnings Calls
 * [earningscast Calls](http://earningscast.com/calls)
 
-<!--
-https://www.janestreet.com
-
-Fidelity, Magellan, Vanguard 
-http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
-http://en.wikipedia.org/wiki/Janus_Capital_Group
-http://en.wikipedia.org/wiki/PIMCO
--->
-
 #### Open Companies
 
 Buffer
@@ -3138,6 +3129,17 @@ Example
 * [Example Org](http://www.example.org)  
 * [Example Org Mobile](https://m.example.com) 
 
+<!--
+https://www.google.com/webmasters/tools/
+Google’s Web Performance Best Practices
+https://developers.google.com/speed/docs/best-practices/rules_intro
+http://www.sitemaps.org
+
+YSlow’s Web Performance Best Practices and Rules
+https://developer.yahoo.com/yslow
+https://developers.google.com/speed/pagespeed
+-->
+
 #### Back-End Programming Languages, MVCs
 
 Chomsky Hierarchy and Automata
@@ -3589,8 +3591,6 @@ Other React Stack Helpers
 <!--
 https://github.com/airbnb/enzyme
 
-http://requirejs.org/docs
-
 https://github.com/touchstonejs/touchstonejs
 https://github.com/feathersjs/feathers
 
@@ -3705,6 +3705,19 @@ JavaScript Presentations Frameworks
 * [Slides.com (reveal.js)](https://slides.com)
 * [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
 * [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
+
+<!--
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
+
+Minimizing CSS and JavaScript
+https://django-pipeline.readthedocs.org/en/latest
+http://django-compressor.readthedocs.org/en/latest
+http://webassets.readthedocs.org/en/latest
+http://requirejs.org
+http://requirejs.org/docs
+http://browserify.org
+-->
 
 #### Ruby and Jekyll
 
@@ -3918,17 +3931,9 @@ Wikitech Development
 #### Python and Django Toolkit
 
 <!--
-https://www.google.com/webmasters/tools/
-Google’s Web Performance Best Practices
-https://developers.google.com/speed/docs/best-practices/rules_intro
-http://www.sitemaps.org
-
 https://git-for-windows.github.io/
 
 https://www.codecademy.com/courses/learn-the-command-line
-
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
 
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
@@ -4802,19 +4807,6 @@ https://github.com/pypa/warehouse
 Automated Dependency Management
 * [Requires.io](https://requires.io)
 
-<!--
-YSlow’s Web Performance Best Practices and Rules
-https://developer.yahoo.com/yslow
-https://developers.google.com/speed/pagespeed
-
-Minimizing CSS and JavaScript
-https://django-pipeline.readthedocs.org/en/latest
-http://django-compressor.readthedocs.org/en/latest
-http://webassets.readthedocs.org/en/latest
-http://requirejs.org
-http://browserify.org
--->
-
 Python- Django- TinyMCE
 * [TinyMCE GitHub](https://github.com/tinymce/tinymce) 
 
@@ -4890,11 +4882,9 @@ SpatiaLite (Spatial Database Extender for SQLite)
 
 #### Python and Django Unique
 
-<!--
-https://github.com/kennethreitz/conda-buildpack
-http://conda.pydata.org/miniconda.html
-https://github.com/docopt/docopt
--->
+Python- Conda and Miniconda (See also Data Science)
+* [Kenneth Reitz: Conda Buildpack GitHub](https://github.com/kennethreitz/conda-buildpack)
+* [Miniconda](http://conda.pydata.org/miniconda.html)
 
 Python- Mobile
 * [Kivy GitHub](https://github.com/kivy/kivy)
@@ -4918,6 +4908,10 @@ Python- Django- Everything
 
 Python- Django- Cmatrix
 * [Cmatrix](http://www.asty.org/cmatrix) and [Cmatrix Homebrew](http://brewformulas.org/Cmatrix)
+
+<!--
+https://github.com/docopt/docopt
+-->
 
 #### Python and Django Conferences and Mentors 
 
@@ -5251,15 +5245,6 @@ Databases
 Stanford Open Classroom- Introduction to Databases
 * [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
 
-<!--
-http://en.wikipedia.org/wiki/Service-oriented_architecture
-https://en.wikipedia.org/wiki/Resource-oriented_architecture
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
-http://en.wikipedia.org/wiki/REST
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
--->
-
 Types of Databases
 * [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
 * [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
@@ -5280,6 +5265,9 @@ Types of Databases
 * [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
 
 <!--
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
 http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
 http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
 http://en.wikipedia.org/wiki/SQL#Queries
@@ -5300,12 +5288,12 @@ Apache (See also mod_wsgi)
 * [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
 * [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
-<!--
-VHosts
+Virtual Hosting, VHosts, Apache
 * [Virtual Hosting Wikipedia](https://en.wikipedia.org/wiki/Virtual_hosting)
-* [Apache Virtual Host documentation](https://httpd.apache.org/docs/current/vhosts)
+* [Apache Virtual Host Documentation](https://httpd.apache.org/docs/current/vhosts)
 * [Apache VirtualHost Examples](https://httpd.apache.org/docs/current/vhosts/examples.html)
 
+<!--
 Apache Configs
 * [.htaccess Wikipedia](http://en.wikipedia.org/wiki/.htaccess)
 * [httpd.conf Wikipedia](https://en.wikipedia.org/wiki/Httpd.conf)
@@ -5362,6 +5350,15 @@ MAMP and WampServer (See also PHP)
 * [MAMP Pro](https://www.mamp.info/en/mamp-pro)
 * [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
+
+Architectures
+* [Service Oriented Architecture Wikipedia](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+
+<!--
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
+http://en.wikipedia.org/wiki/REST
+-->
 
 Software Stacks
 * [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
@@ -5594,9 +5591,11 @@ http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
 
+S3
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html
 http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
+
 http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 
@@ -5622,25 +5621,19 @@ https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-loc
 Heroku- Deployment
 * [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
 * [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
 * [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
 * [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
 * [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
 * [Heroku Releases](https://devcenter.heroku.com/articles/releases)
 * [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
 
-<!--
-https://devcenter.heroku.com/articles/procfile
--->
-
 Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
 * [Heroku Pricing](https://www.heroku.com/pricing)
 * [Heroku Usage and Billing](https://devcenter.heroku.com/articles/usage-and-billing)
-* [New Dyno Types and Pricing Public Beta](https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta)
-
-<!--
-https://devcenter.heroku.com/articles/free-dyno-hours
--->
+* [Heroku Free Dyno Hours](https://devcenter.heroku.com/articles/free-dyno-hours)
+* [New Dyno Types and Pricing Public Beta (Deprecated)](https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta)
 
 Heroku- Dynos
 * [Heroku Dynos](https://devcenter.heroku.com/articles/dynos)
@@ -5688,13 +5681,10 @@ Google Cloud, App Engine
 Google Cloud Functions (See also Amazon Web Services- Lambda)
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
 
-Nitrous (IDE)
+Developer Playground/IDE
+* [HyperDev (Beta)](https://hyperdev.com)
 * [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
-
-<!--
-https://hyperdev.com
--->
 
 Cross Platform Dev Environment
 * [Bowery](http://bowery.io)  
@@ -5723,7 +5713,6 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 
 https://help.github.com/articles/set-up-git
 https://help.github.com/articles/error-permission-denied-publickey
-https://help.github.com/articles/caching-your-github-password-in-git
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 -->
 
@@ -6389,10 +6378,6 @@ http://developersacademy.io/blog/
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
-<!--
-https://developer.oculus.com/documentation/pcsdk/0.4/concepts/dg-sdk-setup-requirements/
--->
-
 #### Data Science
 
 Data Monetization
@@ -7052,10 +7037,10 @@ Company Internal Policies
 
 <!--
 http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
-http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
 https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
-https://twitter.com/ValaAfshar/status/736956353042862080
+http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
 https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html
+https://twitter.com/ValaAfshar/status/736956353042862080
 -->
 
 Good Infographics
@@ -7279,7 +7264,7 @@ Voice
 * [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
 * [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
 * [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
-* [YouTube Add subtitles & closed captions](https://support.google.com/youtube/answer/2734796?hl=en)
+* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
 
 Photo Hosting
 * [Flickr](https://www.flickr.com) 
@@ -7349,9 +7334,7 @@ eLance
 oDesk
 -->
 <!--
-https://acrobat.adobe.com/us/en/documents/esignatures.html?fromES=true
 http://www.yourrate.co
-https://www.expensify.com
 https://remoteok.io
 -->
 
@@ -7364,14 +7347,16 @@ Crowd Sourced Internet Marketplace
 * [Crowdflower](http://www.crowdflower.com)  
 
 Docs
+* [Adobe Sign](https://acrobat.adobe.com/us/en/documents/esignatures.html)
 * [DocSend](https://docsend.com)
 * [DocuSign](https://www.docusign.com)
 * [FullContact](http://www.fullcontact.com)
 * [HelloSign](https://www.hellosign.com)
 * [Streak](https://www.streak.com)
 
-Admin, Hiring, Payroll
+Admin, Hiring, Payroll, Expenses
 * [Clara Labs](https://claralabs.com) 
+* [Expensify](https://www.expensify.com)
 * [Evernote](https://evernote.com)
 * [Freshbooks](https://www.freshbooks.com)
 * [Lever](http://lever.co)  
@@ -8060,10 +8045,6 @@ Standard Docs and Terms
 * [Wilson Sonsini Goodrich & Rosati Incorporation Questionnaire](https://www.wsgr.com/WSGR/Display.aspx?SectionName=start/incorporation.htm), [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm), and [Wilson Sonsini Goodrich & Rosati Term Sheet Generator (Convertible Notes)](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm)
 * [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
 
-<!--
-http://fi.co/s
--->
-
 Document Libraries- Free/Freemium
 * [Docracy Documents](http://www.docracy.com/application/dochome) 
 * [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
@@ -8644,6 +8625,15 @@ Think Tanks
 * [NACUE](http://www.nacue.com)
 * [Startup Britain Resources](http://www.startupbritain.org/resources)
 
+<!--
+https://www.janestreet.com
+
+Fidelity, Magellan, Vanguard 
+http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
+http://en.wikipedia.org/wiki/Janus_Capital_Group
+http://en.wikipedia.org/wiki/PIMCO
+-->
+
 #### Business and Tech News Sources
 
 Business News
@@ -8730,8 +8720,6 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
-http://worldbuilding.stackexchange.com
-
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
