@@ -2291,10 +2291,16 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
-http://williln.github.io/
-https://github.com/williln/williln.github.io
+https://github.com/search?utf8=%E2%9C%93&q=help+wanted
+https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
+https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
+https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
 https://opensource.com
+https://opensource.com/how-submit-article
+
+http://williln.github.io/
+https://github.com/williln/williln.github.io
 
 https://github.com/HackathonHackers/code-of-conduct
 http://hackforchange.org/tips-for-better-open-source-documentation
@@ -2310,29 +2316,23 @@ https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
 
 https://github.com/jdorfman/awesome-help-wanted
 
-https://github.com/search?utf8=%E2%9C%93&q=help+wanted
-https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
-https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
-https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
-
 https://github.com/search?utf8=%E2%9C%93&q=interview+questions
 https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/blakeembrey/code-problems
 
 http://pyfound.blogspot.com
-https://opensource.com/how-submit-article
 http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
 
 http://blog.djangogirls.org
 http://blog.djangogirls.org/submit
 http://blog.djangogirls.org/post/137825610883/about-your-django-story
 https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
-http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
 
 https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
 
 http://pinaxproject.com/pinax/how_to_contribute
 https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
 http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
 https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
 https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
@@ -2390,7 +2390,7 @@ LaTeX
 * [Share LaTeX](https://github.com/sharelatex/sharelatex)  
 
 Read the Docs
-* [Read the Docs GitHub](https://readthedocs.org) and [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+* [Read the Docs](https://readthedocs.org) and [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
 * [A Beginner's Guide to Docs](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs)
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
 
@@ -2724,24 +2724,6 @@ http://wiki.mobileread.com/wiki/Screen_sizes
 https://www.quora.com/Whats-the-average-desktop-screen-resolution-as-of-2015
 -->
 
-Photoshop and Similar
-* [Nik Collection](https://www.google.com/nikcollection)
-* [Adobe Lightroom](https://lightroom.adobe.com)
-* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
-* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
-* [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
-* [Inkscape](http://www.inkscape.org/en)  
-* [Serif](http://www.serif.com) 
-
-Free Photos
-* [MorgueFile](http://www.morguefile.com)  
-
-Flickr
-* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-Gifs
-* [Giphy](http://giphy.com) 
-
 Prototyping Software- Keynotopia
 * [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
 * [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
@@ -2798,10 +2780,6 @@ Domain Names
 * [Namecheap](https://www.namecheap.com)
 * [iwantmyname](https://iwantmyname.com)
 
-Fonts (See also Google Apps)
-* [Font Famous](http://fontfamous.com)
-* [Fontscape](http://www.fontscape.com)
-
 Quickie Mobile Apps
 * [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
 
@@ -2816,11 +2794,112 @@ Miscellaneous
 * [Namium (Name Generator)](http://www.naminum.com)
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
+Fonts (See also Google Apps)
+* [Font Famous](http://fontfamous.com)
+* [Fontscape](http://www.fontscape.com)
+
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
+Color
+* [Color Wikipedia](https://en.wikipedia.org/wiki/Color)
+* [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
+* [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
+
+Photoshop and Similar
+* [Nik Collection](https://www.google.com/nikcollection)
+* [Adobe Lightroom](https://lightroom.adobe.com)
+* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
+* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
+* [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
+* [Inkscape](http://www.inkscape.org/en)  
+* [Serif](http://www.serif.com)
+
+Free Photos
+* [MorgueFile](http://www.morguefile.com)  
+
+Flickr
+* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+Gifs
+* [Giphy](http://giphy.com) 
+
 Gravatar
 * [Gravatar](http://en.gravatar.com)
+
+<!--
+[Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
+
+Design Resources- General
+[IMCreator](http://www.imcreator.com/free)  
+http://www.imcreator.com/free/website-templates
+
+Color Palettes
+[Adaptive Backgrounds GitHub](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)  
+[Bootflat (Example Website) GitHub](https://github.com/bootflat/bootflat.github.io)   
+[Bootstrap UI Kits GitHub](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits)  
+[CSS3 Patterns](http://lea.verou.me/css3patterns)  
+[Color Combos](http://www.colorcombos.com/combolibrary.html)  
+[Color Scheme Designer](http://colorschemedesigner.com)  
+[Color Thief Designer](https://github.com/lokesh/color-thief)  
+[Colors Palette](http://clrs.cc)  
+[Flat UI (Design Modo) GitHub](https://github.com/designmodo/Flat-UI)  
+[Flat UI Colors](http://flatuicolors.com)  
+[Flat UI Kit GitHub](https://github.com/Grouper/FlatUIKit)  
+[Geopattern GitHub](https://github.com/btmills/geopattern)  
+[HSL Color Picker](http://hslpicker.com)  
+[Solarized](http://ethanschoonover.com/solarized)  
+[Random Color GitHub](https://github.com/davidmerfield/randomColor)  
+[Solarized Lab Color Space Theory Wikipedia](http://en.wikipedia.org/wiki/Lab_color_space)  
+[Subtle Patterns GitHub](https://github.com/subtlepatterns/SubtlePatterns)  
+[The Pattern Library](http://thepatternlibrary.com)  
+[Trianglify GitHub](https://github.com/qrohlf/trianglify) 
+
+[Paintstrap (Adobe Kuler/Colorlover)](http://paintstrap.com) 
+https://color.adobe.com
+
+https://en.wikipedia.org/wiki/Category:Paint_manufacturers
+http://www.benjaminmoore.com/en-us/for-your-home/paint-color-combinations-room-design-ideas
+http://media.benjaminmoore.com/WebServices/prod/ColorCardUpdate/USFreshPales/index.html
+http://paletton.com
+http://www.pantone-colours.com/
+http://www.pantone.com/fashion-home-color-guide
+
+http://coolors.co/intro
+https://github.com/Ghosh/uiGradients
+http://uigradients.com
+
+Color Theory Reference Sheet
+http://www.pinterest.com/pin/263601384413811357
+https://www.linkedin.com/pulse/article/20141011060854-71962-how-colors-matter-more-than-size-and-visuals
+
+https://designschool.canva.com/blog/branding-templates
+
+https://en.wikipedia.org/wiki/Aspect_ratio_(image)
+[Raster Graphics (pixels) Wikipedia](http://en.wikipedia.org/wiki/Raster_graphics)  
+[Vector Graphics (paths) Wikipedia](http://en.wikipedia.org/wiki/Vector_graphics)
+
+Photos
+[Death to the Stock Photo](http://deathtothestockphoto.com)  
+[Get Refe](http://getrefe.tumblr.com/)  
+[Gratisography](http://www.gratisography.com)  
+[Image Placeholders GitHub](https://github.com/imsky/holder)  
+[iStockPhoto](http://www.istockphoto.com)  
+[Little Visuals](http://littlevisuals.co)  
+[New Old Stock](http://nos.twnsnd.co)  
+[PicJumbo](http://picjumbo.com)  
+[Super Famous](http://superfamous.com)  
+[Unsplash](http://unsplash.com) and [Unsplash Collections](https://unsplash.com/collections)
+
+Email
+[MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
+[Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
+
+http://www.goodemailcopy.com
+
+[Really Good Email](http://reallygoodemails.com)  
+[Voice and Tone](http://voiceandtone.com) 
+-->
 
 #### Front-End Development
 
@@ -2971,84 +3050,6 @@ Good, Basic Templates, Themes- Skel
 * [Templated](http://templated.co)
 * [HTML5 UP](http://html5up.net)
 
-<!--
-[Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
-
-Design Resources- General
-[IMCreator](http://www.imcreator.com/free)  
-http://www.imcreator.com/free/website-templates
-
-Color Palettes
-[Adaptive Backgrounds GitHub](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)  
-[Bootflat (Example Website) GitHub](https://github.com/bootflat/bootflat.github.io)   
-[Bootstrap UI Kits GitHub](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits)  
-[CSS3 Patterns](http://lea.verou.me/css3patterns)  
-[Color Combos](http://www.colorcombos.com/combolibrary.html)  
-[Color Scheme Designer](http://colorschemedesigner.com)  
-[Color Thief Designer](https://github.com/lokesh/color-thief)  
-[Colors Palette](http://clrs.cc)  
-[Flat UI (Design Modo) GitHub](https://github.com/designmodo/Flat-UI)  
-[Flat UI Colors](http://flatuicolors.com)  
-[Flat UI Kit GitHub](https://github.com/Grouper/FlatUIKit)  
-[Geopattern GitHub](https://github.com/btmills/geopattern)  
-[HSL Color Picker](http://hslpicker.com)  
-[Solarized](http://ethanschoonover.com/solarized)  
-[Random Color GitHub](https://github.com/davidmerfield/randomColor)  
-[Solarized Lab Color Space Theory Wikipedia](http://en.wikipedia.org/wiki/Lab_color_space)  
-[Subtle Patterns GitHub](https://github.com/subtlepatterns/SubtlePatterns)  
-[The Pattern Library](http://thepatternlibrary.com)  
-[Trianglify GitHub](https://github.com/qrohlf/trianglify) 
-
-[Paintstrap (Adobe Kuler/Colorlover)](http://paintstrap.com) 
-https://color.adobe.com
-
-https://en.wikipedia.org/wiki/Color
-http://en.wikipedia.org/wiki/List_of_colors
-https://en.wikipedia.org/wiki/Color_scheme
-
-https://en.wikipedia.org/wiki/Category:Paint_manufacturers
-http://www.benjaminmoore.com/en-us/for-your-home/paint-color-combinations-room-design-ideas
-http://media.benjaminmoore.com/WebServices/prod/ColorCardUpdate/USFreshPales/index.html
-http://paletton.com
-http://www.pantone-colours.com/
-http://www.pantone.com/fashion-home-color-guide
-
-http://coolors.co/intro
-https://github.com/Ghosh/uiGradients
-http://uigradients.com
-
-Color Theory Reference Sheet
-http://www.pinterest.com/pin/263601384413811357
-https://www.linkedin.com/pulse/article/20141011060854-71962-how-colors-matter-more-than-size-and-visuals
-
-https://designschool.canva.com/blog/branding-templates
-
-https://en.wikipedia.org/wiki/Aspect_ratio_(image)
-[Raster Graphics (pixels) Wikipedia](http://en.wikipedia.org/wiki/Raster_graphics)  
-[Vector Graphics (paths) Wikipedia](http://en.wikipedia.org/wiki/Vector_graphics)
-
-Photos
-[Death to the Stock Photo](http://deathtothestockphoto.com)  
-[Get Refe](http://getrefe.tumblr.com/)  
-[Gratisography](http://www.gratisography.com)  
-[Image Placeholders GitHub](https://github.com/imsky/holder)  
-[iStockPhoto](http://www.istockphoto.com)  
-[Little Visuals](http://littlevisuals.co)  
-[New Old Stock](http://nos.twnsnd.co)  
-[PicJumbo](http://picjumbo.com)  
-[Super Famous](http://superfamous.com)  
-[Unsplash](http://unsplash.com) and [Unsplash Collections](https://unsplash.com/collections)
-
-Email
-[MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
-[Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
-
-http://www.goodemailcopy.com
-
-[Really Good Email](http://reallygoodemails.com)  
-[Voice and Tone](http://voiceandtone.com) 
--->
-
 Kickstarters
 * [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
 * [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
@@ -3109,9 +3110,20 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 * [Google Pagespeed](https://developers.google.com/speed/pagespeed)
 * [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [New Relic](http://newrelic.com)
 * [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 * [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+Error Reporting, Logging, Instrumentation
+* [New Relic](http://newrelic.com)
+* [Sentry](http://getsentry.com)
+
+<!--
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+-->
 
 W3 Validators
 * [W3C HTML Validator](https://validator.w3.org/nu)
@@ -3706,6 +3718,10 @@ JavaScript Presentations Frameworks
 * [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
 * [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
 
+Minimizing CSS and JavaScript
+* [Browserify](http://browserify.org)
+* [RequireJS](http://requirejs.org)
+
 <!--
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
@@ -3714,9 +3730,6 @@ Minimizing CSS and JavaScript
 https://django-pipeline.readthedocs.org/en/latest
 http://django-compressor.readthedocs.org/en/latest
 http://webassets.readthedocs.org/en/latest
-http://requirejs.org
-http://requirejs.org/docs
-http://browserify.org
 -->
 
 #### Ruby and Jekyll
@@ -3942,16 +3955,6 @@ PyCoders Weekly and Python Weekly
 http://wiki.python.org/moin/LocalUserGroups
 http://www.python.org/community/irc/
 
-https://www.djangoproject.com/community/
-https://groups.google.com/forum/#!forum/django-announce
-https://docs.djangoproject.com/en/stable/releases
-https://wiki.python.org/moin/Python2orPython3
-https://www.djangopackages.com/python3/
-www.python.org/download/releases/2.3/mro/
-https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
-
-http://docs.python.org/2/library/pickle.html
-
 https://ccbv.co.uk/
 http://cdrf.co
 
@@ -3962,9 +3965,6 @@ http://pythonhosted.org/
 https://teamtreehouse.com/
 https://www.codecademy.com/tracks/web
 
-https://mozilla.github.io/server-side-tls/ssl-config-generator/
-https://www.ssllabs.com/ssltest/index.html
-https://www.ssllabs.com/ssltest/
 https://code.google.com/p/browsersec/wiki/Main
 
 https://zapier.com/
@@ -3993,6 +3993,13 @@ Python (See also Data Science)
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
 * [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
+
+<!--
+https://wiki.python.org/moin/Python2orPython3
+https://www.djangopackages.com/python3/
+www.python.org/download/releases/2.3/mro/
+http://docs.python.org/2/library/pickle.html
+-->
 
 Python Authorities
 * [Python Authority Authority GitHub](https://github.com/pyaa)
@@ -4165,6 +4172,13 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 
 #### Django General
 
+<!--
+https://www.djangoproject.com/community/
+https://groups.google.com/forum/#!forum/django-announce
+https://docs.djangoproject.com/en/stable/releases
+https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
+-->
+
 Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 * [Django Documentation](https://docs.djangoproject.com)  
@@ -4225,6 +4239,23 @@ Python- Django- Slack
 #### Python and Django Support Groups, Books and Tutorials
 
 <!--
+PyLadies
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
+
+Django Girls Co-Founders
+* [Ola Sendecka](http://blog.sendecka.me)
+* [Ola Sitarska](http://ola.sitarska.com)
+
+Django Girls- Events and Cities
+* [Django Girls Events](https://djangogirls.org/events)
+* [Django Girls London](https://djangogirls.org/london)
+* [Django Girls Kansas City](https://djangogirls.org/kansascity)
+
+* [Django Girls Organize](http://organize.djangogirls.org)  
+* [Django Girls Coach](http://coach.djangogirls.org)  
+* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
+* [Django Girls Store](https://store.djangogirls.org)
+
 https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
 
@@ -4244,46 +4275,14 @@ https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 http://www.apple.com/mac/imovie
 -->
 
-<!--
-http://twoscoopspress.com/pages/django-tutorials
-http://gettingstartedwithdjango.com/
+Python- Django- Tutorials Lists
+* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
+* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
 
-http://www.diveintopython3.net/
-
-https://www.djangopackages.com/grids/g/cookiecutters/
-
-Video:
-GoDjango
-https://godjango.com
-
-* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
--->
-
-PyLadies
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
-
-Tutorials
-* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
-Django Official Tutorial
+Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
 
-High Performance Django
-* [High Performance Django](https://highperformancedjango.com)
-
-Mastering Django and Django Book
-* [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
-* [Django Book (Deprecated but useful)](http://www.djangobook.com)
-
-Django Unleashed
-* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
-
-Django Girls Co-Founders
-* [Ola Sendecka](http://blog.sendecka.me)
-* [Ola Sitarska](http://ola.sitarska.com)
-
-Django Girls (Python- Django)
+Python- Django- Django Girls (Python- Django)
 * [Django Girls GitHub](https://github.com/DjangoGirls) 
 * [Django Girls Wiki](https://github.com/DjangoGirls/wiki)
 * [Django Girls Blog](http://blog.djangogirls.org)
@@ -4292,17 +4291,11 @@ Django Girls (Python- Django)
 * [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
 * [Django Girls Tutorial Help](https://gitter.im/DjangoGirls/tutorial)
 * [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
-* [Django Girls Organize](http://organize.djangogirls.org)  
-* [Django Girls Coach](http://coach.djangogirls.org)  
-* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
-* [Django Girls Store](https://store.djangogirls.org)
 
-Django Girls- Events and Cities
-* [Django Girls Events](https://djangogirls.org/events)
-* [Django Girls London](https://djangogirls.org/london)
-* [Django Girls Kansas City](https://djangogirls.org/kansascity)
+Python- Django Carrots (Inspired Django Girls Tutorial)
+* [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
-Hello Web App
+Python- Django- Hello Web App
 * [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
 * [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
 * [Hello Web App Intermediate Concepts Code GitHub](https://github.com/hellowebapp/hellowebapp-ic-code)
@@ -4322,12 +4315,26 @@ https://github.com/hellowebapp/hellowebapp/tree/master/irc-tips
 https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
 -->
 
-Two Scoops of Django
-* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
-* [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
+Python- Django- Books and Tutorials (excluding Django Girls and Hello Web App)
+* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8) and [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
+* [High Performance Django](https://highperformancedjango.com)
+* [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
+* [Getting Started with Django](http://gettingstartedwithdjango.com)
+* [Django Book (Deprecated but useful)](http://www.djangobook.com)
+* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
+* [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+* [Tango with Django Tutorial](http://www.tangowithdjango.com) 
+
+Python- Django- Videos
+* [GoDjango](https://godjango.com)
+
+Python- Condensed Learning Resources
+* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 Python- Books and Tutorials
-* [Dive into Python (Deprecated)](http://www.diveintopython.net)  
+* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+* [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
 * [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
 * [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
 * [O'Reilly High Performance Python](http://it-ebooks.info/book/3816)
@@ -4339,17 +4346,9 @@ Python- Books and Tutorials
 * [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
 * [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
 
-O'Reilly Test-Driven Development with Python and Selenium
+Python- O'Reilly Test-Driven Development with Python and Selenium
 * [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
 * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
-
-Python- Django Tutorials (excluding Django Girls)
-* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials)  
-* [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
-* [Tango with Django Tutorial](http://www.tangowithdjango.com) 
-
-Django Carrots (Python- Django)
-* [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 #### Python and Django Packages and Snippets
 
@@ -4376,7 +4375,7 @@ https://pythonhosted.org/setuptools/formats.html
 http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
 -->
 
-Python and Django- Wheel
+Python and Django- Wheel (versus Egg!)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
 
@@ -4415,6 +4414,7 @@ https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/vie
 -->
 
 Python- Django- Cookiecutter (See also Packages)
+* [Django Packages Cookiecutters](https://www.djangopackages.com/grids/g/cookiecutters)
 * [Cookiecutter Django PyPi](https://pypi.python.org/pypi/cookiecutter)
 * [Cookiecutter Read the Docs](https://cookiecutter.readthedocs.org)  
 * [Cookiecutter The Latest](https://cookiecutter.readthedocs.org/en/latest)
@@ -4423,32 +4423,6 @@ Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter Django Deployment with Docker](http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html)
 
 #### Python and Django Deployment
-
-<!--
-Security
-bleach https://pypi.python.org/pypi/bleachbleach
-
-https://stripe.com/docs
-
-User Registration
-dj-stripe https://pypi.python.org/pypi/dj-stripe
-http://dj-stripe.readthedocs.org/
-fłake8 https://pypi.python.org/pypi/flake8
-
-Error Reporting, Logging, Instrumentation
-https://www.getsentry.com
-Sentry http://getsentry.com
-Newrelic http://newrelic.com
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-http://django-authtools.readthedocs.io
-https://github.com/fusionbox/django-authtools
-https://pypi.python.org/pypi/django-two-factor-auth
--->
 
 Python- Django- Git and Deployment
 * [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
@@ -4714,7 +4688,7 @@ Python- Django- Records, Requests
 * [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
 * [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
-Channels
+Python- Django- Channels
 * [Channels GitHub](https://github.com/andrewgodwin/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
 * [Django Channels HTTP/WebSocket Server](https://github.com/andrewgodwin/daphne)
 
@@ -4755,6 +4729,21 @@ Python- Django- Python Social Auth
 * [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
 * [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
 
+<!--
+Security
+bleach https://pypi.python.org/pypi/bleachbleach
+
+dj-stripe https://pypi.python.org/pypi/dj-stripe
+http://dj-stripe.readthedocs.org/
+
+User Registration
+fłake8 https://pypi.python.org/pypi/flake8
+
+http://django-authtools.readthedocs.io
+https://github.com/fusionbox/django-authtools
+https://pypi.python.org/pypi/django-two-factor-auth
+-->
+
 Python- Django- Search
 * [Haystack](http://haystacksearch.org), [Haystack Read the Docs](http://django-haystack.readthedocs.org), and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
 
@@ -4769,14 +4758,9 @@ Python- Django- Tagging
 
 Python- Django- Forms
 * [Crispy Forms Read the Docs](http://django-crispy-forms.readthedocs.org/en/latest)  and [Crispy Forms GitHub](https://github.com/maraujop/django-crispy-forms)  
-
-<!--
-Forms
-django-crispy-forms http://django-crispy-forms.readthedocs.org/
-django-floppyforms http://django-floppyforms.readthedocs.org/
-django-forms-bootstrap https://pypi.python.org/pypi/django-forms-bootstrap
-django-forms-builder https://github.com/stephenmcd/django-forms-builder
--->
+* [django-floppyforms Read the Docs](http://django-floppyforms.readthedocs.org)
+* [django-forms-bootstrap PyPi](https://pypi.python.org/pypi/django-forms-bootstrap)
+* [django-forms-builder GitHub](https://github.com/stephenmcd/django-forms-builder)
 
 <!--
 https://github.com/django/django-formtools
@@ -5300,6 +5284,12 @@ Apache Configs
 * [Apache Configuration Files](http://httpd.apache.org/docs/current/configuring.html)
 
 http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
+-->
+
+<!--
+https://mozilla.github.io/server-side-tls/ssl-config-generator/
+https://www.ssllabs.com/ssltest/index.html
+https://www.ssllabs.com/ssltest/
 -->
 
 SQL
@@ -7312,7 +7302,7 @@ Payments
 * [Bitcoin](https://bitcoin.org/en) 
 * [Paypal](https://www.paypal.com)
 * [Square](https://squareup.com)
-* [Stripe](https://stripe.com)
+* [Stripe](https://stripe.com) and [Stripe Docs](https://stripe.com/docs)
 
 File Storage
 * [Box](https://www.box.com) 
