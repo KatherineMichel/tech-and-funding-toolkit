@@ -4525,6 +4525,10 @@ http://masteringdjango.com/testing-in-django/
 Database
 django-db-tools https://pypi.python.org/pypi/django-db-tools
 psycopg2 https://pypi.python.org/pypi/psycopg2
+
+Core
+django-model-utils https://pypi.python.org/pypi/django-model-utils
+ipdb https://pypi.python.org/pypi/ipdb
 -->
 
 Python- Psycopg (Psycopg is the most popular PostgreSQL adapter for the Python programming language.)
@@ -4546,12 +4550,6 @@ Python- Django- Debug Toolbar
 
 Python- Django- Debug Toolbar
 * [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) 
-
-<!--
-Core
-django-model-utils https://pypi.python.org/pypi/django-model-utils
-ipdb https://pypi.python.org/pypi/ipdb
--->
 
 Python- Unipath
 * [Unipath PyPi](http://pypi.python.org/pypi/Unipath)
