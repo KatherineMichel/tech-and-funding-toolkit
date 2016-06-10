@@ -4552,24 +4552,13 @@ Python- Django- Debug Toolbar
 * [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) 
 
 Python- Unipath
-* [Unipath PyPi](http://pypi.python.org/pypi/Unipath)
+* [Unipath PyPi](http://pypi.python.org/pypi/Unipath) and [Unipath GitHub](https://github.com/mikeorr/Unipath)
 
 Python- Django- Static File Serving
 * [Whitenoise](http://whitenoise.evans.io) and [Whitenoise GitHub](https://github.com/evansd/whitenoise)
 * [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
 
 <!--
-https://devcenter.heroku.com/articles/heroku-local
-
-https://aws.amazon.com/s3/pricing/
-
-https://addons.heroku.com/scheduler
-
-https://devcenter.heroku.com/articles/s3-upload-python
-https://devcenter.heroku.com/articles/s3
-https://devcenter.heroku.com/articles/django-app-configuration
-https://devcenter.heroku.com/articles/django-assets
-
 http://whitenoise.evans.io/en/stable/index.html
 http://whitenoise.evans.io/en/stable/django.html
 http://whitenoise.evans.io/en/stable/django.html#using-whitenoise-in-development
@@ -5606,16 +5595,6 @@ https://github.com/heroku/heroku-apps
 https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-local-branches-to-remote-apps
 -->
 
-Heroku- Deployment
-* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-
 Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
 * [Heroku Pricing](https://www.heroku.com/pricing)
@@ -5628,8 +5607,25 @@ Heroku- Dynos
 * [Heroku Dyno Size](https://devcenter.heroku.com/articles/dyno-size)
 * [Heroku Scaling](https://devcenter.heroku.com/articles/scaling)
 
-Heroku- Add on Documentation
+Heroku- Deployment
+* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+
+Heroku- Addons
 * [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+<!--
+https://aws.amazon.com/s3/pricing/
+https://devcenter.heroku.com/articles/s3
+-->
 
 Heroku- App Architecture
 * [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
@@ -5791,6 +5787,9 @@ Python- Heroku
 
 <!--
 https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
+
+https://devcenter.heroku.com/articles/s3-upload-python
+https://devcenter.heroku.com/articles/django-app-configuration
 https://devcenter.heroku.com/articles/django-assets
 -->
 
@@ -5955,12 +5954,6 @@ Ansible (Automation and Configuration Management)
 * [Ansible Playbooks](http://docs.ansible.com/ansible/playbooks.html)
 * [Ansible Examples GitHub](https://github.com/ansible/ansible-examples)
 * [Ansible AWS](http://www.ansible.com/aws)
-
-<!--
-http://docs.ansible.com/ansible/playbooks_intro.html
-http://docs.ansible.com/ansible/playbooks_checkmode.html
-http://docs.ansible.com/ansible/playbooks_roles.html
--->
 
 Salt (Automation and Configuration Management)
 * [Salt GitHub](https://github.com/saltstack)
@@ -8404,6 +8397,12 @@ Digital Stats
 * [Mark Otto GitHub](https://github.com/mdo)
 * [Zac Holman](http://zachholman.com)
 * [Zed Shaw GitHub](https://github.com/zedshaw)
+
+<!--
+https://m.signalvnoise.com
+https://m.signalvnoise.com/@jasonfried
+http://www.joelonsoftware.com
+-->
 
 #### Schools of Thought
 
