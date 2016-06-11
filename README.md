@@ -100,7 +100,7 @@ Table of Content
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
 * [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Servers and Databases](#servers-and-databases)
-* [Apache and SQL](#apach-and-sql) 
+* [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Dev Ops Tools](#dev-ops-tools)
 * [More Back-End](#more-back-end)
 * [Mobile](#mobile)
@@ -4890,7 +4890,6 @@ Python- Imaging Library (Pillow) and ImageKit
 <!--
 http://cloudinary.com/documentation/django_integration
 https://devcenter.heroku.com/articles/cloudinary#using-with-django
-http://cloudinary.com/documentation/django_integration
 https://github.com/cloudinary/pycloudinary
 https://github.com/cloudinary/cloudinary_js
 https://github.com/sagoyanfisic/openshift-cloudinary-django-sample
@@ -5411,6 +5410,12 @@ Heroku- Addons
 <!--
 https://aws.amazon.com/s3/pricing/
 https://devcenter.heroku.com/articles/s3
+
+https://pypi.python.org/pypi/django-toolbelt
+https://pypi.python.org/pypi/static3/0.5
+https://pypi.python.org/pypi/boto
+https://github.com/boto/boto3
+https://aws.amazon.com/sdk-for-python/
 -->
 
 Heroku- App Architecture
@@ -5786,7 +5791,7 @@ Distributed and Parallel Computing
 * [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
 * [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
 
-#### Apache and SQL
+#### Apache, SQL, Nginx
 
 See also Azure
 
@@ -5895,46 +5900,11 @@ https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-cl
 https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
 -->
 
-
-
-Cache
-* [Memcached](http://memcached.org) 
-* [Redis](http://redis.io) and [Redis GitHub](https://github.com/antirez/redis) 
-
-Web Accelerator
-* [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)
-* [Varnish Cache](https://www.varnish-cache.org)  
-* [Varnish](https://www.varnish-software.com)  
-* [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
-
-<!--
-https://www.varnish-cache.org/docs/4.0/users-guide
--->
-
 Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
 * [Nginx](http://nginx.com/products)  
 * [Nginx GitHub](https://github.com/nginx/nginx)  
 * [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
 * [Nginx Wiki](http://wiki.nginx.org)
-
-Jenkins CI and Travis CI (Continuous Integration)
-* [Jenkins](http://jenkins-ci.org)  
-* [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
-
-Continuous Integration
-* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
-
-<!--
-CI
-http://www.appveyor.com/
-https://circleci.com
-https://drone.io/
-https://codeship.com
-codecov.io
-
-http://djangoci.com
-http://docs.python-guide.org/en/latest/scenarios/ci/
--->
 
 #### Dev Ops Tools
 
@@ -5984,8 +5954,39 @@ Puppet Labs
 
 #### More Back-end
 
-Resque
-* [Resque GitHub](https://github.com/resque/resque)  
+Cache
+* [Memcached](http://memcached.org) 
+* [Redis](http://redis.io) and [Redis GitHub](https://github.com/antirez/redis) 
+* [Resque GitHub](https://github.com/resque/resque) 
+
+Web Accelerator
+* [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)
+* [Varnish Cache](https://www.varnish-cache.org)  
+* [Varnish](https://www.varnish-software.com)  
+* [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
+
+<!--
+https://www.varnish-cache.org/docs/4.0/users-guide
+-->
+
+Jenkins CI and Travis CI (Continuous Integration)
+* [Jenkins](http://jenkins-ci.org)  
+* [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
+
+Continuous Integration
+* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
+
+<!--
+CI
+http://www.appveyor.com/
+https://circleci.com
+https://drone.io/
+https://codeship.com
+codecov.io
+
+http://djangoci.com
+http://docs.python-guide.org/en/latest/scenarios/ci/
+-->
 
 Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
 * [Web Cache Wikipedia](http://en.wikipedia.org/wiki/Web_cache)  
@@ -7204,6 +7205,17 @@ Book Lists
 Two Factor Authentication
 
 * [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Facebook Settings](https://www.facebook.com/settings?tab=applications&section=all), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Google Settings](https://security.google.com/settings/security/permissions?pli=1), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), [Twitter Settings](https://twitter.com/settings/applications), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
+
+<!--
+Install Google Authenticator
+https://en.wikipedia.org/wiki/Google_Authenticator
+https://support.google.com/accounts/answer/1066447?hl=en
+https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm
+https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm
+https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en
+https://guide.duo.com
+https://duo.com
+-->
 
 Google Products, Office
 * [Google Products](http://www.google.com/intl/en/about/products) 
