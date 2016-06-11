@@ -75,6 +75,7 @@ Table of Content
   * [JavaScript Tools](#javascript-tools)
 * [Ruby and Jekyll](#ruby-and-jekyll)
 * [PHP](#php)
+* [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python General](#python-general)
   * [Python and Django Users, Jobs, News](#python-and-django-users-jobs-news)
@@ -94,13 +95,13 @@ Table of Content
   * [Python and Django Unique](#python-and-django-unique)
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
-* [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
-* [Dev Ops Tools](#dev-ops-tools)
+* [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Servers and Databases](#servers-and-databases)
-* [Apache and SQL](#apach-and-sql)  
+* [Apache and SQL](#apach-and-sql) 
+* [Dev Ops Tools](#dev-ops-tools)
 * [More Back-End](#more-back-end)
 * [Mobile](#mobile)
 * [Swift](#swift)
@@ -3941,6 +3942,194 @@ Wikitech Development
 * [Wikitech Account](https://wikitech.wikimedia.org/wiki/Special:Preferences)  
 * [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git) 
 
+#### .NET, ASP, Visual Studio, WebMatrix
+
+<!--
+https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
+
+* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+-->
+
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
+
+Microsoft General Resources
+* [Microsoft Support](https://support.microsoft.com)
+* [Microsoft TechNet](http://technet.microsoft.com)
+
+Microsoft Library
+* [Microsoft Library](https://msdn.microsoft.com/library)
+* [Microsoft Library Table of Contents](https://msdn.microsoft.com/library/ms310241)
+
+C#
+* [C# Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+* [C# Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
+* [Learn X in Y Minutes C#](https://learnxinyminutes.com/docs/csharp)
+
+.NET
+* [Microsoft.github.io](http://microsoft.github.io)  
+* [Microsoft .NET](http://www.microsoft.com/net) 
+* [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
+* [.NET Foundation Projects on GitHub](https://github.com/dotnet/home)
+* [Dotnet GitHub](http://dotnet.github.io) and [Dotnet GitHub](https://github.com/dotnet)  
+* [Dotnet Core Docs](http://dotnet.github.io/docs/index.html) and [Dotnet Core Docs GitHub](https://github.com/dotnet/core-docs)
+* [.NET Framework Reference Source](http://referencesource.microsoft.com)
+* [Installing .NET Core on OS X](http://dotnet.github.io/docs/getting-started/installing/installing-core-osx.html)
+* [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
+
+.NET Fiddle
+* [.NET Fiddle](https://dotnetfiddle.net)
+
+ASP
+* [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
+
+ASP.NET- Home
+* [ASP.NET](http://www.asp.net) and [ASP.NET Downloads](http://www.asp.net/downloads)
+
+ASP.NET- GitHub
+* [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
+* [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
+* [ASP.NET Razor GitHub](https://github.com/aspnet/Razor)
+* [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
+* [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
+* [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
+* [ASP.NET DNX](https://github.com/aspnet/dnx)
+
+<!--
+Learn ASP
+-->
+
+Installing ASP.NET
+* [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
+* [Installing ASP.NET 5 On Windows](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
+
+ASP.NET- Docs
+* [ASP.NET Docs](http://docs.asp.net)
+* [ASP.NET 5 Fundamentals](http://docs.asp.net/en/latest/fundamentals/index.html)
+* ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
+* ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
+* [ASP.NET Live](https://live.asp.net)
+
+<!--
+http://www.asp.net/mvc
+https://github.com/aspnet/home
+
+.NET Framework 4.6 and 4.5
+https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
+
+http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
+https://docs.asp.net/en/latest/tutorials/first-mvc-app
+
+https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
+
+https://github.com/aspnet/Mvc/tree/dev/samples
+https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
+
+https://www.pluralsight.com/authors/scott-allen
+
+Tutorial
+https://www.youtube.com/watch?v=EghnSvJ8h68
+http://www.asp.net/mvc/videos/pluralsight-building-applications-with-aspnet-mvc-4
+http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+https://www.pluralsight.com/courses/mvc4-building
+https://app.pluralsight.com/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
+https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
+
+https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
+
+https://github.com/Microsoft/vscode-samples/tree/master/node-express-javascript
+
+Website Example
+https://github.com/aspnet/live.asp.net
+https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
+https://github.com/Microsoft/vscode-samples
+https://github.com/aspnetboilerplate/sample-blog-module
+https://github.com/aspnet/Mvc/tree/dev/samples
+
+Visual Studio 2015 Getting Started with Python
+https://msdn.microsoft.com/en-us/library/dn705848.aspx
+https://github.com/Microsoft/PTVS/releases/v2.2
+https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
+Python Web Projects
+https://github.com/Microsoft/PTVS/wiki/Web-Project
+-->
+
+W3Schools ASP.NET
+* [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
+* [W3Schools ASP.NET Web Pages Examples](http://www.w3schools.com/aspnet/webpages_examples.asp)
+* [W3Schools ASP.NET Web Pages Helpers- Objects References](http://www.w3schools.com/aspnet/webpages_ref_helpers.asp)
+* [W3Schools ASP.NET Web Pages Helpers- Classes References](http://www.w3schools.com/aspnet/webpages_ref_classes.asp)
+
+Visual Studio
+* [Microsoft Visual Studio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
+* [Visual Studio](http://www.visualstudio.com)  
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+* [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
+* [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
+
+Nuget
+* [NuGet](https://www.nuget.org) and [Nuget Packages](https://www.nuget.org/packages)
+
+Mono
+* [Mono Project](http://www.mono-project.com) and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
+* [Introduction to Mono on MacOS X](http://www.mono-project.com/docs/about-mono/supported-platforms/osx)
+
+Xamarin (Visual Studio Community Mobile Development Partner)
+* [Xamarin](https://xamarin.com) and [Xamarin Platform](https://xamarin.com/platform)
+* [Xamarin Store](https://store.xamarin.com)
+* [Xamarin Developer](https://developer.xamarin.com) and [Xamarin Developer Guides](https://developer.xamarin.com/guides)
+
+Azure (See also Apache and SQL)
+* [Azure](https://azure.microsoft.com) and [Azure Pricing](https://azure.microsoft.com/en-us/pricing)
+
+Transact-SQL
+* [Transact-SQL Wikipedia](https://en.wikipedia.org/wiki/Transact-SQL)
+
+Microsoft Special Deals
+* [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
+* [Microsoft DreamSpark](https://www.dreamspark.com)
+* [Microsoft BizSpark](https://www.microsoft.com/bizspark)
+
+ASP.NET- Boilerplate
+* [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
+* [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
+
+WebMatrix
+* [WebMatrix](http://www.microsoft.com/web/webmatrix)
+
+ASP.NET- Docker
+* [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
+* [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
+
+ASP.NET- Yeoman Generator
+* [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
+
+OmniSharp
+* [OmniSharp](http://www.omnisharp.net) and [OmniSharp GitHub](https://github.com/omnisharp)
+* [OmniSharp-Roslyn GitHub](https://github.com/OmniSharp/omnisharp-roslyn)
+
+Nancy
+* [Nancy](https://github.com/NancyFx)
+
+.NET Platform as a Service
+* [AppHarbor](https://appharbor.com)
+
 #### Python and Django Toolkit
 
 <!--
@@ -4477,45 +4666,6 @@ Database
 * Postgres
 * MySQL/MariaDB
 
-Cache
-* [Memcached](http://memcached.org) 
-* [Redis](http://redis.io) and [Redis GitHub](https://github.com/antirez/redis) 
-
-Web Accelerator
-* [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)
-* [Varnish Cache](https://www.varnish-cache.org)  
-* [Varnish](https://www.varnish-software.com)  
-* [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
-
-<!--
-https://www.varnish-cache.org/docs/4.0/users-guide
--->
-
-Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
-* [Nginx](http://nginx.com/products)  
-* [Nginx GitHub](https://github.com/nginx/nginx)  
-* [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
-* [Nginx Wiki](http://wiki.nginx.org)
-
-Jenkins CI and Travis CI (Continuous Integration)
-* [Jenkins](http://jenkins-ci.org)  
-* [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
-
-Continuous Integration
-* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
-
-<!--
-CI
-http://www.appveyor.com/
-https://circleci.com
-https://drone.io/
-https://codeship.com
-codecov.io
-
-http://djangoci.com
-http://docs.python-guide.org/en/latest/scenarios/ci/
--->
-
 #### Python and Django Common Deployment Tools
 
 <!--
@@ -4606,9 +4756,6 @@ Python- Django and Celery (Asynchronicity) (Also Example code)
 * [Celery](http://www.celeryproject.org)  
 * [Celery GitHub](https://github.com/celery/celery)  
 * [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-
-Optimization
-* [Cloudflare](https://www.cloudflare.com) 
 
 Python- Django- BCrypt (Not just for Django)
 * [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
@@ -5013,377 +5160,6 @@ https://djangogirls.org/pyconuk2016/
 http://il.pycon.org/2016/about/speakers.html
 -->
 
-#### .NET, ASP, Visual Studio, WebMatrix
-
-<!--
-https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
-
-* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
--->
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
-
-Microsoft General Resources
-* [Microsoft Support](https://support.microsoft.com)
-* [Microsoft TechNet](http://technet.microsoft.com)
-
-Microsoft Library
-* [Microsoft Library](https://msdn.microsoft.com/library)
-* [Microsoft Library Table of Contents](https://msdn.microsoft.com/library/ms310241)
-
-C#
-* [C# Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-* [C# Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
-* [Learn X in Y Minutes C#](https://learnxinyminutes.com/docs/csharp)
-
-.NET
-* [Microsoft.github.io](http://microsoft.github.io)  
-* [Microsoft .NET](http://www.microsoft.com/net) 
-* [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
-* [.NET Foundation Projects on GitHub](https://github.com/dotnet/home)
-* [Dotnet GitHub](http://dotnet.github.io) and [Dotnet GitHub](https://github.com/dotnet)  
-* [Dotnet Core Docs](http://dotnet.github.io/docs/index.html) and [Dotnet Core Docs GitHub](https://github.com/dotnet/core-docs)
-* [.NET Framework Reference Source](http://referencesource.microsoft.com)
-* [Installing .NET Core on OS X](http://dotnet.github.io/docs/getting-started/installing/installing-core-osx.html)
-* [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
-
-.NET Fiddle
-* [.NET Fiddle](https://dotnetfiddle.net)
-
-ASP
-* [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
-
-ASP.NET- Home
-* [ASP.NET](http://www.asp.net) and [ASP.NET Downloads](http://www.asp.net/downloads)
-
-ASP.NET- GitHub
-* [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
-* [ASP.NET MVC GitHub](https://github.com/aspnet/Mvc)
-* [ASP.NET Razor GitHub](https://github.com/aspnet/Razor)
-* [ASP.NET Templates GitHub](https://github.com/aspnet/Templates)
-* [ASP.NET API Docs GitHub](https://github.com/aspnet/ApiDocs)
-* [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
-* [ASP.NET DNX](https://github.com/aspnet/dnx)
-
-<!--
-Learn ASP
--->
-
-Installing ASP.NET
-* [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
-* [Installing ASP.NET 5 On Windows](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
-
-ASP.NET- Docs
-* [ASP.NET Docs](http://docs.asp.net)
-* [ASP.NET 5 Fundamentals](http://docs.asp.net/en/latest/fundamentals/index.html)
-* ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
-* ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
-* [ASP.NET Live](https://live.asp.net)
-
-<!--
-http://www.asp.net/mvc
-https://github.com/aspnet/home
-
-.NET Framework 4.6 and 4.5
-https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
-
-http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html
-https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
-https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
-https://docs.asp.net/en/latest/tutorials/first-mvc-app
-
-https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
-
-https://github.com/aspnet/Mvc/tree/dev/samples
-https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
-
-https://www.pluralsight.com/authors/scott-allen
-
-Tutorial
-https://www.youtube.com/watch?v=EghnSvJ8h68
-http://www.asp.net/mvc/videos/pluralsight-building-applications-with-aspnet-mvc-4
-http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
-https://www.pluralsight.com/courses/mvc4-building
-https://app.pluralsight.com/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
-
-https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
-https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
-
-https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
-
-https://github.com/Microsoft/vscode-samples/tree/master/node-express-javascript
-
-Website Example
-https://github.com/aspnet/live.asp.net
-https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
-https://github.com/Microsoft/vscode-samples
-https://github.com/aspnetboilerplate/sample-blog-module
-https://github.com/aspnet/Mvc/tree/dev/samples
-
-Visual Studio 2015 Getting Started with Python
-https://msdn.microsoft.com/en-us/library/dn705848.aspx
-https://github.com/Microsoft/PTVS/releases/v2.2
-https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
-Python Web Projects
-https://github.com/Microsoft/PTVS/wiki/Web-Project
--->
-
-W3Schools ASP.NET
-* [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
-* [W3Schools ASP.NET Web Pages Examples](http://www.w3schools.com/aspnet/webpages_examples.asp)
-* [W3Schools ASP.NET Web Pages Helpers- Objects References](http://www.w3schools.com/aspnet/webpages_ref_helpers.asp)
-* [W3Schools ASP.NET Web Pages Helpers- Classes References](http://www.w3schools.com/aspnet/webpages_ref_classes.asp)
-
-Visual Studio
-* [Microsoft Visual Studio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
-* [Visual Studio](http://www.visualstudio.com)  
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-* [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
-* [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
-
-Nuget
-* [NuGet](https://www.nuget.org) and [Nuget Packages](https://www.nuget.org/packages)
-
-Mono
-* [Mono Project](http://www.mono-project.com) and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
-* [Introduction to Mono on MacOS X](http://www.mono-project.com/docs/about-mono/supported-platforms/osx)
-
-Xamarin (Visual Studio Community Mobile Development Partner)
-* [Xamarin](https://xamarin.com) and [Xamarin Platform](https://xamarin.com/platform)
-* [Xamarin Store](https://store.xamarin.com)
-* [Xamarin Developer](https://developer.xamarin.com) and [Xamarin Developer Guides](https://developer.xamarin.com/guides)
-
-Azure (See also Apache and SQL)
-* [Azure](https://azure.microsoft.com) and [Azure Pricing](https://azure.microsoft.com/en-us/pricing)
-
-Transact-SQL
-* [Transact-SQL Wikipedia](https://en.wikipedia.org/wiki/Transact-SQL)
-
-Microsoft Special Deals
-* [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
-* [Microsoft DreamSpark](https://www.dreamspark.com)
-* [Microsoft BizSpark](https://www.microsoft.com/bizspark)
-
-ASP.NET- Boilerplate
-* [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
-* [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
-
-WebMatrix
-* [WebMatrix](http://www.microsoft.com/web/webmatrix)
-
-ASP.NET- Docker
-* [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
-* [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
-
-ASP.NET- Yeoman Generator
-* [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
-
-OmniSharp
-* [OmniSharp](http://www.omnisharp.net) and [OmniSharp GitHub](https://github.com/omnisharp)
-* [OmniSharp-Roslyn GitHub](https://github.com/OmniSharp/omnisharp-roslyn)
-
-Nancy
-* [Nancy](https://github.com/NancyFx)
-
-.NET Platform as a Service
-* [AppHarbor](https://appharbor.com)
-
-#### Servers and Databases
-
-Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
-
-Client and Server-Side
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Databases
-* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
-* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
-* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
-* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
-* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-* [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-
-Stanford Open Classroom- Introduction to Databases
-* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
-
-Types of Databases
-* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
-* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-* [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
-* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
-* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
-* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
-* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
-* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
-* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
-
-<!--
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
-
-http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
-http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
-http://en.wikipedia.org/wiki/SQL#Queries
--->
-
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
-#### Apache and SQL
-
-See also Azure
-
-Apache (See also mod_wsgi)
-* [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
-* [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
-* [Apache HTTP Server Project](http://httpd.apache.org) and [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
-* [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
-* [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
-* [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
-
-Virtual Hosting, VHosts, Apache
-* [Virtual Hosting Wikipedia](https://en.wikipedia.org/wiki/Virtual_hosting)
-* [Apache Virtual Host Documentation](https://httpd.apache.org/docs/current/vhosts)
-* [Apache VirtualHost Examples](https://httpd.apache.org/docs/current/vhosts/examples.html)
-
-<!--
-Apache Configs
-* [.htaccess Wikipedia](http://en.wikipedia.org/wiki/.htaccess)
-* [httpd.conf Wikipedia](https://en.wikipedia.org/wiki/Httpd.conf)
-* [Apache Configuration Files](http://httpd.apache.org/docs/current/configuring.html)
-
-http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
--->
-
-<!--
-https://mozilla.github.io/server-side-tls/ssl-config-generator/
-https://www.ssllabs.com/ssltest/index.html
-https://www.ssllabs.com/ssltest/
--->
-
-SQL
-* [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
-* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
-* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
-
-SQLite
-* [SQLite](http://sqlite.org)  
-* [SQLite Documentation](http://www.sqlite.org/docs.html)  
-* [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
-
-PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-* [PostgreSQL](http://www.postgresql.org)  
-* [PostgreSQL Documentation](http://www.postgresql.org/docs)  
-* [PostgreSQL GitHub](https://github.com/postgres/postgres)  
-* [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
-* [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
-* [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
-
-<!--
-http://postgresql.org/download/windows/
-http://postgresql.org/download/linux/
--->
-
-Postgrest (PostgreSQL API)
-* [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
-
-PostgreSQL
-* [Postgresapp.com](http://postgresapp.com) and [Postgresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
-
-MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-* [MySQL](http://www.mysql.com)  
-* [MySQL Documentation](http://dev.mysql.com/doc)  
-* [MySQL Downloads (DMG)](http://dev.mysql.com/downloads/mysql) 
-* [MySQL GitHub](https://github.com/twitter/mysql)  
-* [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
-
-Sequel Pro (Recommended and MAMP bundled)
-* [Sequel Pro](http://www.sequelpro.com)
- 
-phpMyAdmin
-* [phpMyAdmin](https://www.phpmyadmin.net)
-
-MAMP and WampServer (See also PHP)
-* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
-* [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
-* [MAMP Pro](https://www.mamp.info/en/mamp-pro)
-* [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
-* [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
-
-Architectures
-* [Service Oriented Architecture Wikipedia](http://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-
-<!--
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
-http://en.wikipedia.org/wiki/REST
--->
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
-
-<!--
-https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
-https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
-https://www.godaddy.com/help/what-is-a-subdomain-296
-
-https://www.digitalocean.com/help/getting-started
-https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
-https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
-https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
-https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
-https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
-https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
-https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
-
-https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
-
-https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
-
-https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
-https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
-https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
-https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
--->
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
-
 #### Deployment and Cloud
 
 Status
@@ -5391,7 +5167,7 @@ Status
 * [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 
-Consles
+Consoles
 * [GitHub Settings](https://github.com/settings)
 * [Heroku Dashboard](https://dashboard.heroku.com)
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
@@ -5936,6 +5712,230 @@ https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-te
 http://postgis.refractions.net
 -->
 
+#### Servers, Databases, Architectures
+
+Servers
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
+
+Client and Server-Side
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
+Databases
+* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
+* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
+* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
+* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+* [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+Types of Databases
+* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
+* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
+<!--
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
+http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
+http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+Architectures
+* [Service Oriented Architecture Wikipedia](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+
+<!--
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
+http://en.wikipedia.org/wiki/REST
+-->
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
+#### Apache and SQL
+
+See also Azure
+
+Apache (See also mod_wsgi)
+* [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
+* [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
+* [Apache HTTP Server Project](http://httpd.apache.org) and [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+* [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
+* [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
+* [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
+
+Virtual Hosting, VHosts, Apache
+* [Virtual Hosting Wikipedia](https://en.wikipedia.org/wiki/Virtual_hosting)
+* [Apache Virtual Host Documentation](https://httpd.apache.org/docs/current/vhosts)
+* [Apache VirtualHost Examples](https://httpd.apache.org/docs/current/vhosts/examples.html)
+
+<!--
+Apache Configs
+* [.htaccess Wikipedia](http://en.wikipedia.org/wiki/.htaccess)
+* [httpd.conf Wikipedia](https://en.wikipedia.org/wiki/Httpd.conf)
+* [Apache Configuration Files](http://httpd.apache.org/docs/current/configuring.html)
+
+http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
+-->
+
+<!--
+https://mozilla.github.io/server-side-tls/ssl-config-generator/
+https://www.ssllabs.com/ssltest/index.html
+https://www.ssllabs.com/ssltest/
+-->
+
+SQL
+* [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
+
+SQLite
+* [SQLite](http://sqlite.org)  
+* [SQLite Documentation](http://www.sqlite.org/docs.html)  
+* [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
+
+PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
+* [PostgreSQL](http://www.postgresql.org)  
+* [PostgreSQL Documentation](http://www.postgresql.org/docs)  
+* [PostgreSQL GitHub](https://github.com/postgres/postgres)  
+* [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
+* [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
+* [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
+
+<!--
+http://postgresql.org/download/windows/
+http://postgresql.org/download/linux/
+-->
+
+Postgrest (PostgreSQL API)
+* [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
+
+PostgreSQL
+* [Postgresapp.com](http://postgresapp.com) and [Postgresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
+
+MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
+* [MySQL](http://www.mysql.com)  
+* [MySQL Documentation](http://dev.mysql.com/doc)  
+* [MySQL Downloads (DMG)](http://dev.mysql.com/downloads/mysql) 
+* [MySQL GitHub](https://github.com/twitter/mysql)  
+* [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
+
+Sequel Pro (Recommended and MAMP bundled)
+* [Sequel Pro](http://www.sequelpro.com)
+ 
+phpMyAdmin
+* [phpMyAdmin](https://www.phpmyadmin.net)
+
+MAMP and WampServer (See also PHP)
+* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+* [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
+* [MAMP Pro](https://www.mamp.info/en/mamp-pro)
+* [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
+* [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
+
+<!--
+https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
+https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
+https://www.godaddy.com/help/what-is-a-subdomain-296
+
+https://www.digitalocean.com/help/getting-started
+https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
+https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
+https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
+https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
+https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
+https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
+
+https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
+
+https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
+https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
+-->
+
+
+
+Cache
+* [Memcached](http://memcached.org) 
+* [Redis](http://redis.io) and [Redis GitHub](https://github.com/antirez/redis) 
+
+Web Accelerator
+* [HAProxy Wikipedia](http://en.wikipedia.org/wiki/HAProxy)
+* [Varnish Cache](https://www.varnish-cache.org)  
+* [Varnish](https://www.varnish-software.com)  
+* [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
+
+<!--
+https://www.varnish-cache.org/docs/4.0/users-guide
+-->
+
+Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
+* [Nginx](http://nginx.com/products)  
+* [Nginx GitHub](https://github.com/nginx/nginx)  
+* [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
+* [Nginx Wiki](http://wiki.nginx.org)
+
+Jenkins CI and Travis CI (Continuous Integration)
+* [Jenkins](http://jenkins-ci.org)  
+* [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
+
+Continuous Integration
+* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
+
+<!--
+CI
+http://www.appveyor.com/
+https://circleci.com
+https://drone.io/
+https://codeship.com
+codecov.io
+
+http://djangoci.com
+http://docs.python-guide.org/en/latest/scenarios/ci/
+-->
+
 #### Dev Ops Tools
 
 See also Django
@@ -5981,9 +5981,6 @@ Puppet Labs
 * [Puppet Labs GitHub](https://github.com/puppetlabs/puppet)  
 * [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
 * [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
-
-Sentry
-* [Sentry](https://getsentry.com/welcome)
 
 #### More Back-end
 
