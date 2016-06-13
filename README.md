@@ -3124,6 +3124,23 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 * [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 * [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
+<!--
+[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
+[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
+
+[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
+[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
+[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
+[Google Page Speed](https://developers.google.com/speed/pagespeed/) or [Blame Stella](https://www.blamestella.com/)
+[Google Analytics](http://www.google.co.uk/analytics/) (free) or services such as [Hubspot](http://www.hubspot.com/), [GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
+[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
+[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
+[Pingdom](https://www.pingdom.com/)
+[Basecamp](http://basecamp.com/)
+[Git](http://git-scm.com/)
+[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
+-->
+
 Error Reporting, Logging, Instrumentation
 * [New Relic](http://newrelic.com)
 * [Sentry](http://getsentry.com)
