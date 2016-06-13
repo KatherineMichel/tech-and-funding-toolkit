@@ -1432,6 +1432,13 @@ Apple- Kits
 * [ResearchKit and Carekit](http://www.apple.com/researchkit)
 * [Watchkit](https://developer.apple.com/watchkit) 
 
+<!--
+https://developer.apple.com/reference/applepayjs
+https://developer.apple.com/reference/accelerate/1912851-bnns
+https://developer.apple.com/sirikit/
+https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
+-->
+
 #### Google Developer Tools
 
 Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
@@ -8449,6 +8456,7 @@ Awards
 * [Karl Popper Wikipedia](https://en.wikipedia.org/wiki/Karl_Popper)
 * [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
 * [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
+* [Noah Smith](http://noahpinionblog.blogspot.com)
 * [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
 * [René Girard (Influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
 * [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
@@ -8457,8 +8465,6 @@ Awards
 * [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
 
 <!--
-http://noahpinionblog.blogspot.com
-
 http://www.greatachievements.org
 -->
 
@@ -8699,7 +8705,6 @@ STEM Journals
 
 <!--
 Check Often
-* Check [GitHub Trending](https://github.com/trending) and [Product Hunt](https://www.producthunt.com) often, preferably daily
 * [Product Hunt Today](http://ph.needles.me)
 * [Makerbase Explore](https://makerba.se/explore)
 * [StackShare Trending](http://stackshare.io/trending/tools) 
@@ -8709,7 +8714,6 @@ More News
 * [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
 * Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-* [Feedly](https://feedly.com)
 -->
 
 Tech Aggregated, Question and Answer Forums
