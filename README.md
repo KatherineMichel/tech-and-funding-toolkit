@@ -5817,11 +5817,9 @@ Apache Configs
 http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
 -->
 
-<!--
-https://mozilla.github.io/server-side-tls/ssl-config-generator/
-https://www.ssllabs.com/ssltest/index.html
-https://www.ssllabs.com/ssltest/
--->
+SSL
+* [SSL Test](https://www.ssllabs.com/ssltest)
+* [Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator)
 
 SQL
 * [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
@@ -7203,19 +7201,13 @@ Book Lists
 #### Popular Tools
 
 Two Factor Authentication
-
 * [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Facebook Settings](https://www.facebook.com/settings?tab=applications&section=all), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Google Settings](https://security.google.com/settings/security/permissions?pli=1), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), [Twitter Settings](https://twitter.com/settings/applications), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
-<!--
-Install Google Authenticator
-https://en.wikipedia.org/wiki/Google_Authenticator
-https://support.google.com/accounts/answer/1066447?hl=en
-https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm
-https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm
-https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en
-https://guide.duo.com
-https://duo.com
--->
+Mobile Two Factor Authentication
+* [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en) and [Google Authenticator Wikipedia](https://en.wikipedia.org/wiki/Google_Authenticator)
+* [Install Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)
+* [Time-Based One-time Password Algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) and [HMAC-Based One-time Password Algorithm](https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm)
+* [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
 Google Products, Office
 * [Google Products](http://www.google.com/intl/en/about/products) 
