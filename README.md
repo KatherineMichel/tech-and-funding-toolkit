@@ -989,8 +989,11 @@ Computer Scientists
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
+Famous Literature
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar)
+
 <!--
-http://www.catb.org/esr/writings/cathedral-bazaar
+http://www.catb.org/~esr/faqs/hacker-howto.html
 -->
 
 Great Unsolved Problems in Computer Science
@@ -4560,6 +4563,8 @@ Python and Django- Creating Packages
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 <!--
+https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+
 https://pythonhosted.org/setuptools/formats.html
 http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
 -->
