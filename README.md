@@ -5945,6 +5945,11 @@ Ansible (Automation and Configuration Management)
 * [Ansible Examples GitHub](https://github.com/ansible/ansible-examples)
 * [Ansible AWS](http://www.ansible.com/aws)
 
+<!--
+Detailed Guides
+http://docs.ansible.com/ansible/guides.html
+-->
+
 Salt (Automation and Configuration Management)
 * [Salt GitHub](https://github.com/saltstack)
 * [Salt Docs](http://docs.saltstack.com/en/latest/contents.html)  
