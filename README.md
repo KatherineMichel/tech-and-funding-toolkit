@@ -8732,7 +8732,6 @@ Check Often
 * [StackShare Trending](http://stackshare.io/trending/tools) 
 
 More News
-* [Hacker News](https://news.ycombinator.com)
 * [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
 * Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
