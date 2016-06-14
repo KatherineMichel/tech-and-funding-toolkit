@@ -7,7 +7,6 @@ Tech and Venture Capital Toolkit
 A :star::star::star::star::star: curated list of high quality resources (mostly free) made with :heart: by Kati Michel. See also...
 
 * [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
 * [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
 
@@ -573,9 +572,6 @@ Improvement Schools of Thought
 * [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
 
 #### Research and Design Sprints
-
-See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 #### Basics
 
@@ -8205,9 +8201,6 @@ The Prince's Trust
 #### Launch
 
 #### Launch Strategies
-
-Launch Guides: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 General
 * [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
