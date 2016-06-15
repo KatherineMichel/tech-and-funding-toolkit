@@ -189,6 +189,10 @@ Alex Osterwalder
 * [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
 * [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
 
+<!--
+https://strategyzer.com/platform/resources
+-->
+
 Spinoffs
 * [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
 * [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
@@ -1400,6 +1404,10 @@ Apple Developer Program Membership
 * [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
 * [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
 * [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
+
+<!--
+https://developer.apple.com/reference
+-->
 
 Apple Developer and Open Source
 * [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Library](https://developer.apple.com/library)
@@ -4183,6 +4191,9 @@ PHP- Twitter OAuth
 
 <!--
 WordPress (PG4WP)
+
+WordPress Enfold
+http://www.kriesi.at/themes
 -->
 
 PHP/node.js- WordPress- Com, Calypso
@@ -6228,6 +6239,10 @@ Docker
 * [Docker GitHub](https://github.com/docker/docker)  
 * [Docker Hub](https://hub.docker.com)
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
+
+<!--
+https://docs.docker.com/mac
+-->
 
 * [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s)
 
