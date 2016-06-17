@@ -1439,8 +1439,10 @@ Apple- Kits
 <!--
 https://developer.apple.com/reference/applepayjs
 https://developer.apple.com/reference/accelerate/1912851-bnns
-https://developer.apple.com/sirikit/
+https://developer.apple.com/sirikit
 https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
+
+https://kapeli.com/dash
 -->
 
 #### Google Developer Tools
