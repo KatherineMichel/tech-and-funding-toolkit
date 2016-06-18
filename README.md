@@ -6702,6 +6702,12 @@ http://developersacademy.io/blog/
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
+<!--
+https://www.unrealengine.com
+https://docs.unrealengine.com
+https://unity3d.com
+-->
+
 #### Data Science
 
 Data Monetization
@@ -9225,6 +9231,11 @@ International Info
 
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+
+<!--
+Coursera Materials Downloader
+https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en
+-->
 
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
