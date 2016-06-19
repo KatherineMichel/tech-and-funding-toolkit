@@ -6715,6 +6715,10 @@ http://developersacademy.io/blog/
 https://www.unrealengine.com
 https://docs.unrealengine.com
 https://unity3d.com
+
+https://docs.unrealengine.com/latest/INT/Engine/Blueprints
+https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
+https://www.unrealengine.com/blog/blueprint-basics
 -->
 
 #### Data Science
