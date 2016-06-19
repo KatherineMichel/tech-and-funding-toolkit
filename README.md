@@ -2393,6 +2393,9 @@ GitBook
 
 <!--
 GitBook Styling
+
+http://styleguide.gitbook.com
+https://github.com/GitbookIO/theme-official
 -->
 
 GitHub Wiki
@@ -3180,6 +3183,7 @@ https://www.google.com/webmasters/tools/
 Google’s Web Performance Best Practices
 https://developers.google.com/speed/docs/best-practices/rules_intro
 http://www.sitemaps.org
+https://www.xml-sitemaps.com/index.php
 
 YSlow’s Web Performance Best Practices and Rules
 https://developer.yahoo.com/yslow
@@ -5714,6 +5718,11 @@ Heroku- Pricing and App Limits
 * [Heroku Usage and Billing](https://devcenter.heroku.com/articles/usage-and-billing)
 * [Heroku Free Dyno Hours](https://devcenter.heroku.com/articles/free-dyno-hours)
 * [New Dyno Types and Pricing Public Beta (Deprecated)](https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta)
+
+<!--
+https://github.com/blog/2164-introducing-unlimited-private-repositories
+https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
+-->
 
 Heroku- Dynos
 * [Heroku Dynos](https://devcenter.heroku.com/articles/dynos)
@@ -8743,6 +8752,13 @@ Digital Stats
 * [Venkatesh Rao Ribbonfarm](http://www.ribbonfarm.com) and [Venkatesh Rao Breaking Smart](http://breakingsmart.com)
 * [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
+
+<!--
+https://usesthis.com/interviews/horace.dediu
+
+https://plus.google.com/collection/EZT2b
+https://plus.google.com/collection/gbVpb
+-->
 
 #### High Profile Developers
 
