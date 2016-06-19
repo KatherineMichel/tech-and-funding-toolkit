@@ -6985,6 +6985,12 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
+https://github.com/facebookresearch/darkforestGo
+https://github.com/tensorflow/playground
+https://github.com/tensorflow/magenta
+https://github.com/tensorflow/models
+https://github.com/amznlabs/amazon-dsstne
+
 http://tensorflow.github.io/serving/setup
 https://www.tensorflow.org/versions/master/how_tos/image_retraining/index.html
 https://github.com/adatao/tensorspark
