@@ -671,6 +671,14 @@ U.S. Gov.: Code for America
 Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nesta DIY, Nielson Norman and Various: See
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
+<!--
+https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+https://en.wikipedia.org/wiki/Psychographic
+
+http://kit.com/jakek/the-sprint-kit
+http://www.thesprintbook.com/sprint-week
+-->
+
 #### Design
 
 #### Design Thinking
@@ -982,6 +990,8 @@ History of Technology and Computer Science
 * [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology)
 
 <!--
+https://en.wikipedia.org/wiki/Information_and_communications_technology
+
 https://en.wikibooks.org/wiki/Open_Metadata_Handbook
 -->
 
@@ -1073,6 +1083,10 @@ URL and IRI
 * [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
 * [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
 
+<!--
+https://en.wikipedia.org/wiki/UUID
+-->
+
 TCP-IP and OSI Protocols
 * [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 * [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
@@ -1156,6 +1170,8 @@ Line Endings
 * [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
 
 <!--
+https://en.wikipedia.org/wiki/Anywhere_on_Earth
+
 http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 
 What are the Numbers that Every Computer Engineer Should Know
@@ -1235,6 +1251,10 @@ Comparison of Layout Engines (By DOM and ECMA Script)
 Compilers
 * [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
 * [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+<!--
+[Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler)  
+-->
 
 #### Unix and Linux General
 
@@ -2749,6 +2769,10 @@ Prototyping Software- Keynotopia
 * [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
 * [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
 * [Keynote Theme File Extension](http://fileinfo.com/extension/kth)
+
+<!--
+http://keynotopia.com/fakeitmakeit
+-->
 
 Prototyping Software- Keynotopia- Tutorials
 * [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
@@ -5916,7 +5940,9 @@ Python- Heroku
 <!--
 https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
 
+http://docs.aws.amazon.com/AmazonS3/latest/dev/BucketBilling.html
 https://devcenter.heroku.com/articles/s3-upload-python
+
 https://devcenter.heroku.com/articles/django-app-configuration
 https://devcenter.heroku.com/articles/django-assets
 -->
@@ -7417,6 +7443,18 @@ Models and Theories
 * [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
 * [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 * [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+
+<!--
+http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=UTF8&ref_=cm_sw_r_cp_awd_tvhaxbCH8XQPF
+https://en.m.wikipedia.org/wiki/Anthropomorphism
+
+https://en.wikipedia.org/wiki/360-degree_feedback
+https://en.wikipedia.org/wiki/Institutional_memory
+https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
+
+https://en.wikipedia.org/wiki/Net_Promoter
+https://www.netpromoter.com/know/
+-->
 
 Computer Lore
 * [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
