@@ -159,6 +159,9 @@ Flask
 https://github.com/jazzband/website
 
 https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
+
+http://simpleisbetterthancomplex.com/ref/
+https://github.com/sibtc/sibtc.github.io
 -->
 
 Vitor Freitas (Python- Django)
