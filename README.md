@@ -707,6 +707,10 @@ Portfolio and Community Websites
 * [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
 * [Zurb Tavern](http://zurb.com/tavern) 
 
+<!--
+https://dribbble.com/shots
+-->
+
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
@@ -787,6 +791,10 @@ DevCenter (Developer Center/API)
 
 Facebook
 * [Facebook Design](http://facebook.github.io/design) 
+
+<!--
+https://fonts.google.com
+-->
 
 Google
 * [Google Fonts](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
@@ -1908,6 +1916,13 @@ Git Cheat Sheets and Tutorials
 * [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
 * [Git Index](http://gitref.org)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
+
+<!--
+https://help.github.com/articles/github-terms-of-service/
+https://help.github.com/articles/about-organizations/
+https://help.github.com/articles/publicizing-or-hiding-organization-membership/
+https://github.com/github/training-kit
+-->
 
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
@@ -3067,6 +3082,8 @@ Bootstrap, Font Awesome
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
 <!--
+http://fontawesome.io/icons
+
 https://github.com/silverbux/bootflat-admin
 https://github.com/almasaeed2010/AdminLTE
 https://github.com/VinceG/Bootstrap-Admin-Theme 
@@ -3088,6 +3105,14 @@ Good, Basic Templates, Themes
 * [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
 * [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+
+<!--
+http://www.bootstrapzero.com/c/one-page-themes
+http://www.bootply.com/
+http://bootstrap.theme.cards/l
+http://www.bootstrapzero.com/
+http://bootstraptaste.com/page/3/
+-->
 
 Good, Basic Templates, Themes- Skel
 * [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
@@ -3194,6 +3219,10 @@ W3 Validators
 Accessibility
 * [WebAIM](http://webaim.org)
 * [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+
+<!--
+http://webaim.org/resources/evalquickref/#checklist
+-->
 
 Microsoft Inclusion Approach
 * [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
@@ -6738,6 +6767,9 @@ http://developersacademy.io/blog/
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
 <!--
+Gfx
+https://en.wikipedia.org/wiki/Video_card
+
 https://www.unrealengine.com
 https://docs.unrealengine.com
 https://unity3d.com
@@ -7637,6 +7669,11 @@ Email
 * [Mandrill](http://mandrill.com)  
 * [SendGrid](http://sendgrid.com)  
  
+<!--
+Tiny Letter
+https://www.tinyletter.com
+-->
+
 Group Communication/Chat
 * [Glitter (Chat for GitHub](https://gitter.im)
 * [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
@@ -7718,6 +7755,13 @@ Logistics
 * [Nomad List](https://nomadlist.com)
 * [Statewide List](http://www.statewidelist.com)
 * [Teleport](http://teleport.org)
+
+<!--
+https://remoteok.io
+https://angel.co/jobs
+https://weworkremotely.com
+https://teleport.org/remote
+-->
 
 Kits
 * [Kits](http://kit.com)
@@ -9155,6 +9199,10 @@ The Wirecutter, Consumer Reports, Popular Mechanics, Tom's Hardware
 Leaderboard
 * [REDEF Charts](http://redef.com/charts)
 * [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
+
+<!--
+http://redef.com/charts/popular/total
+-->
 
 General News Sources- High Brow
 * [BBC](http://www.bbc.com)
