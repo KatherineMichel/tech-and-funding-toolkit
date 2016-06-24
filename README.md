@@ -709,6 +709,8 @@ Portfolio and Community Websites
 
 <!--
 https://dribbble.com/shots
+
+https://www.ideo.org
 -->
 
 KPCB and John Maeda Design in Tech Report
@@ -3107,6 +3109,8 @@ Good, Basic Templates, Themes
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
 
 <!--
+http://startbootstrap.com/template-categories/all/
+
 http://www.bootstrapzero.com/c/one-page-themes
 http://www.bootply.com/
 http://bootstrap.theme.cards/l
