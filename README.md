@@ -177,6 +177,10 @@ Eric Ries
 * [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 * [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
 
+<!--
+https://theleadersguide.org
+-->
+
 Steve Blank
 * [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
 * [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
@@ -711,6 +715,12 @@ Portfolio and Community Websites
 https://dribbble.com/shots
 
 https://www.ideo.org
+
+https://twitter.com/smashdlabs
+http://www.cssmania.com/
+https://www.siteinspire.com/
+https://twitter.com/siteinspire
+https://www.microsoft.com/en-us/design
 -->
 
 KPCB and John Maeda Design in Tech Report
@@ -1923,6 +1933,7 @@ Git Cheat Sheets and Tutorials
 https://help.github.com/articles/github-terms-of-service/
 https://help.github.com/articles/about-organizations/
 https://help.github.com/articles/publicizing-or-hiding-organization-membership/
+https://help.github.com/articles/adding-a-file-to-a-repository/
 https://github.com/github/training-kit
 -->
 
@@ -8192,6 +8203,10 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Upfront Insights](http://insights.upfront.com)
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+
+<!--
+http://nfx.com
+-->
 
 Blogs and Whatnot
 * [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
