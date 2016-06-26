@@ -1907,10 +1907,7 @@ Git Cheat Sheets and Tutorials
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
 <!--
-https://help.github.com/articles/github-terms-of-service/
-https://help.github.com/articles/about-organizations/
-https://help.github.com/articles/publicizing-or-hiding-organization-membership/
-https://help.github.com/articles/adding-a-file-to-a-repository/
+https://help.github.com/articles/github-terms-of-service
 https://github.com/github/training-kit
 -->
 
@@ -1928,7 +1925,7 @@ GitHub- Main
 
 <!--
 Recommended
-https://www.git-tower.com/
+https://www.git-tower.com
 
 https://github.com/github/hub
 
@@ -2022,6 +2019,11 @@ GitHub Business
 
 GitHub Organizations
 * [GitHub Organizations](https://github.com/account/organizations/new)
+
+<!--
+https://help.github.com/articles/about-organizations
+https://help.github.com/articles/publicizing-or-hiding-organization-membership
+-->
 
 Gist
 * [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
@@ -2771,13 +2773,9 @@ https://www.quora.com/Whats-the-average-desktop-screen-resolution-as-of-2015
 
 Prototyping Software- Keynotopia
 * [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
-* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY)
+* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
 * [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
 * [Keynote Theme File Extension](http://fileinfo.com/extension/kth)
-
-<!--
-http://keynotopia.com/fakeitmakeit
--->
 
 Prototyping Software- Keynotopia- Tutorials
 * [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
@@ -3069,11 +3067,9 @@ Bootstrap, Font Awesome
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 * [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 * [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
-* [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
 <!--
-http://fontawesome.io/icons
-
 https://github.com/silverbux/bootflat-admin
 https://github.com/almasaeed2010/AdminLTE
 https://github.com/VinceG/Bootstrap-Admin-Theme 
@@ -3102,7 +3098,6 @@ http://startbootstrap.com/template-categories/all/
 http://www.bootstrapzero.com/c/one-page-themes
 http://www.bootply.com/
 http://bootstrap.theme.cards/l
-http://www.bootstrapzero.com/
 http://bootstraptaste.com/page/3/
 -->
 
