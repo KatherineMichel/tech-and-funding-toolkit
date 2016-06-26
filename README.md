@@ -6356,19 +6356,17 @@ Web Accelerator
 https://www.varnish-cache.org/docs/4.0/users-guide
 -->
 
-Jenkins CI and Travis CI (Continuous Integration)
+Continuous Integration, Jenkins CI, Travis CI, and Other Tools
+* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
 * [Jenkins](http://jenkins-ci.org)  
 * [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
-
-Continuous Integration
-* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
+* [Codeship](https://codeship.com)
 
 <!--
 CI
 http://www.appveyor.com/
 https://circleci.com
 https://drone.io/
-https://codeship.com
 codecov.io
 
 http://djangoci.com
@@ -6754,10 +6752,10 @@ http://developersacademy.io/blog/
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
-<!--
-Gfx
-https://en.wikipedia.org/wiki/Video_card
+Equipment
+* [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
+<!--
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
 https://www.unrealengine.com/blog/blueprint-basics
@@ -7478,11 +7476,8 @@ Computer Lore
 
 #### Notable Interviews and Presentations
 
-<!--
 Trends
 * [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
--->
-
 * [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
 * [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
 
@@ -7491,11 +7486,7 @@ Famous
 * [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
 * [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 * [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
-
-<!--
-Steve Jobs The Pitchman
-https://www.facebook.com/METalInternational/videos/10153781985002446/
--->
+* [Steve Jobs: The Pitchman](https://www.facebook.com/METalInternational/videos/10153781985002446)
 
 Innovation and Excellence
 * [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
