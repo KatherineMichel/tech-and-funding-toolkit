@@ -172,14 +172,10 @@ Scientific Method
 
 Eric Ries
 * [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
-* [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries)
+* [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries) and [Eric Ries: The Leader's Guide Kickstarter](https://theleadersguide.org)
 * [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 * [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 * [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
-
-<!--
-https://theleadersguide.org
--->
 
 Steve Blank
 * [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
@@ -191,11 +187,8 @@ Steve Blank
 Alex Osterwalder
 * [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
 * [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
-* [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
-
-<!--
-https://strategyzer.com/platform/resources
--->
+* [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/books/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
+* [Alex Osterwalder: Strategyzer Resources](https://strategyzer.com/platform/resources)
 
 Spinoffs
 * [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
@@ -707,20 +700,17 @@ Design Publications
  
 Portfolio and Community Websites
 * [Behance](https://www.behance.net)  
-* [Dribbble](https://dribbble.com)  
+* [Dribbble](https://dribbble.com) and [Dribble Shots](https://dribbble.com/shots)
 * [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
 * [Zurb Tavern](http://zurb.com/tavern) 
 
 <!--
-https://dribbble.com/shots
-
 https://www.ideo.org
 
 https://twitter.com/smashdlabs
 http://www.cssmania.com/
 https://www.siteinspire.com/
 https://twitter.com/siteinspire
-https://www.microsoft.com/en-us/design
 -->
 
 KPCB and John Maeda Design in Tech Report
@@ -804,12 +794,8 @@ DevCenter (Developer Center/API)
 Facebook
 * [Facebook Design](http://facebook.github.io/design) 
 
-<!--
-https://fonts.google.com
--->
-
 Google
-* [Google Fonts](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
+* [Google Fonts](https://fonts.google.com), [Google Fonts (Old)](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
 * [Google Roboto GitHub](https://github.com/google/roboto) 
 * [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
@@ -975,7 +961,7 @@ HubSpot
 * [HubSpot](http://github.hubspot.com) and [HubSpot GitHub](https://github.com/HubSpot)
 
 Microsoft 
-* [Microsoft Design](https://www.microsoft.com/en-us/design/practice)
+* [Microsoft Design](https://www.microsoft.com/en-us/design)
 
 IBM Design Language
 * [IBM Design Language](http://www.ibm.com/design/language)
@@ -1007,11 +993,9 @@ History of Technology and Computer Science
 * [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
 * [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
 * [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology)
+* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
 
 <!--
-https://en.wikipedia.org/wiki/Information_and_communications_technology
-
 https://en.wikibooks.org/wiki/Open_Metadata_Handbook
 -->
 
@@ -1269,12 +1253,9 @@ Comparison of Layout Engines (By DOM and ECMA Script)
 * [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
 
 Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
 * [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
 * [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-<!--
-[Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler)  
--->
 
 #### Unix and Linux General
 
@@ -1445,12 +1426,8 @@ Apple Developer Program Membership
 * [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
 * [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
 
-<!--
-https://developer.apple.com/reference
--->
-
 Apple Developer and Open Source
-* [Apple Developer](https://developer.apple.com), [Apple Developer Resources](https://developer.apple.com/resources), and [Apple Developer Library](https://developer.apple.com/library)
+* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
 * [Apple Developer Forum](https://forums.developer.apple.com)
 * [Apple Open Source](https://developer.apple.com/opensource)
 * [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
