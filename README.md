@@ -1139,6 +1139,7 @@ Naming Conventions
 Local Terms
 * [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
 * [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
+* [Environmental Variable Wikipedia](hhttps://en.wikipedia.org/wiki/Environment_variable) 
 * [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
 * [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
 * [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
@@ -1907,8 +1908,9 @@ Git Cheat Sheets and Tutorials
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
 <!--
+https://git-for-windows.github.io
+
 https://help.github.com/articles/github-terms-of-service
-https://github.com/github/training-kit
 -->
 
 GitHub- Main
@@ -2530,6 +2532,12 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://www.codecademy.com/courses/learn-the-command-line
+
+https://teamtreehouse.com/
+https://www.codecademy.com/tracks/web
+-->
+<!--
 https://github.com/jshomes/learning-resources
 
 Category "Programming language comparisons"
@@ -2875,6 +2883,8 @@ Gravatar
 * [Gravatar](http://en.gravatar.com)
 
 <!--
+http://placehold.it
+
 [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
 
 Design Resources- General
@@ -4503,10 +4513,6 @@ Nancy
 #### Python and Django Toolkit
 
 <!--
-https://git-for-windows.github.io/
-
-https://www.codecademy.com/courses/learn-the-command-line
-
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
 PyCoders Weekly and Python Weekly
@@ -4520,9 +4526,6 @@ http://cdrf.co
 https://www.coursera.org/courses?query=python
 
 http://pythonhosted.org/
-
-https://teamtreehouse.com/
-https://www.codecademy.com/tracks/web
 
 https://code.google.com/p/browsersec/wiki/Main
 
@@ -4538,8 +4541,6 @@ http://www.ubuntu.com/server
 http://en.wikipedia.org/wiki/Cross-site_scripting
 http://en.wikipedia.org/wiki/Two_factor_authentication
 https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
-
-https://en.wikipedia.org/wiki/Environment_variable
 -->
 
 #### Python General
@@ -6757,10 +6758,6 @@ http://developersacademy.io/blog/
 Gfx
 https://en.wikipedia.org/wiki/Video_card
 
-https://www.unrealengine.com
-https://docs.unrealengine.com
-https://unity3d.com
-
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
 https://www.unrealengine.com/blog/blueprint-basics
@@ -7481,8 +7478,11 @@ Computer Lore
 
 #### Notable Interviews and Presentations
 
+<!--
 Trends
 * [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
+-->
+
 * [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
 * [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
 
@@ -7491,6 +7491,11 @@ Famous
 * [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
 * [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 * [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
+
+<!--
+Steve Jobs The Pitchman
+https://www.facebook.com/METalInternational/videos/10153781985002446/
+-->
 
 Innovation and Excellence
 * [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
@@ -7655,11 +7660,7 @@ Email
 * [Mailgun](http://www.mailgun.com)  
 * [Mandrill](http://mandrill.com)  
 * [SendGrid](http://sendgrid.com)  
- 
-<!--
-Tiny Letter
-https://www.tinyletter.com
--->
+* [Tiny Letter](https://www.tinyletter.com)
 
 Group Communication/Chat
 * [Glitter (Chat for GitHub](https://gitter.im)
@@ -8175,10 +8176,6 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Upfront Insights](http://insights.upfront.com)
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
-
-<!--
-http://nfx.com
--->
 
 Blogs and Whatnot
 * [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
