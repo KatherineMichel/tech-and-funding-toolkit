@@ -672,6 +672,8 @@ Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nes
 https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
 https://en.wikipedia.org/wiki/Psychographic
 
+https://www.ideo.org
+
 http://kit.com/jakek/the-sprint-kit
 http://www.thesprintbook.com/sprint-week
 -->
@@ -698,20 +700,18 @@ Design Publications
 * [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
 * [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
  
-Portfolio and Community Websites
-* [Behance](https://www.behance.net)  
-* [Dribbble](https://dribbble.com) and [Dribble Shots](https://dribbble.com/shots)
-* [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-* [Zurb Tavern](http://zurb.com/tavern) 
-
 <!--
-https://www.ideo.org
-
 https://twitter.com/smashdlabs
 http://www.cssmania.com/
 https://www.siteinspire.com/
 https://twitter.com/siteinspire
 -->
+
+Portfolio and Community Websites
+* [Behance](https://www.behance.net)  
+* [Dribbble](https://dribbble.com) and [Dribble Shots](https://dribbble.com/shots)
+* [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
+* [Zurb Tavern](http://zurb.com/tavern) 
 
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
@@ -1188,6 +1188,7 @@ http://static.googleusercontent.com/media/research.google.com/en//people/jeff/st
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 -->
+
 <!--
 http://docs.openstack.org/developer/nova/
 https://wiki.openstack.org/wiki/Horizon
