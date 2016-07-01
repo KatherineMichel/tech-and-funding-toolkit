@@ -163,6 +163,8 @@ https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
 http://simpleisbetterthancomplex.com/ref/
 https://github.com/sibtc/sibtc.github.io
 
+https://github.com/kelseyleftwich/capsule_grid
+
 https://github.com/limedaring/limedaring-website
 -->
 
