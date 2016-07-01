@@ -4280,6 +4280,13 @@ WordPress Themes
 * [WordPress Official Bootstrap Themes](https://wordpress.org/themes/search/bootstrap)
 * [WooCommerce Free Themes](https://www.woothemes.com/product-category/themes/free-themes)
 
+<!--
+https://wordpress.org/themes/search/bootstrap
+https://wordpress.org/themes/author/automattic
+https://theme.wordpress.com/?theme_shop=automattic
+https://theme.wordpress.com/themes/sort/free/
+-->
+
 WordPress Page Templates
 * [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
 
@@ -8421,6 +8428,10 @@ Digital Millennium Copyright Act
 * [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
 
 #### Documents and Advice
+
+<!--
+https://github.com/leonar15/startup-checklist
+-->
 
 Investors on GitHub
 * [Agile Ventures](https://github.com/AgileVentures)
