@@ -3146,6 +3146,16 @@ Kickstarters
 * [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
 
 <!--
+                                <!--Bootstraptaste  <a href="http://bootstraptaste.com" target="_blank">Website</a>, Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a><br>
+                                Live Bootstrap <a href="http://livebootstrap.com" target="_blank">Website</a>, Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a><br>
+                                <br><br>
+                                Miscellaneous:<br>
+                                HTML5 Boilerplate (Kickstarter) <a href="http://html5boilerplate.com" target="_blank">Website</a>, HTML5 Boilerplate <a href="https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt" target="_blank">License</a><br>
+                                Initializr-Bootstrap (Kickstarter) <a href="http://www.initializr.com/" target="_blank">Website</a><br>
+                                Trianglify (Background Generator) <a href="http://qrohlf.com/trianglify/" target="_blank">Website</a>, Trianglify <a href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a><br>
+-->
+
+<!--
 https://developer.mozilla.org/en-US/Apps
 https://developer.mozilla.org/en-US/docs/Web/Reference
 https://developer.mozilla.org/en-US/docs/Web/Guide
