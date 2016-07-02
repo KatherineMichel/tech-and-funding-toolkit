@@ -2572,6 +2572,8 @@ Free Code Camp
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
 
 <!--
+http://www.theodinproject.com
+
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
 
 https://egghead.io/tags/free
@@ -8400,6 +8402,10 @@ Accounting Organizations
 * [International Accounting Standards Board Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Board) and [International Accounting Standards Committee Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Committee)
 * [Financial Conduct Authority Handbook](https://www.handbook.fca.org.uk)
 
+<!--
+http://www.cfapubs.org
+-->
+
 Regulatory Agencies and Rules- Business and Finance Related
 * [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
 * [Internal Revenue Service](http://www.irs.gov)
@@ -8449,6 +8455,12 @@ Digital Millennium Copyright Act
 https://github.com/leonar15/startup-checklist
 
 https://www.rocketlawyer.com/document/web-hosting-agreement.rl
+
+Update MY VC Email Template
+http://updatemyvc.com
+
+Trademarkia
+http://www.trademarkia.com
 -->
 
 Investors on GitHub
@@ -9036,6 +9048,11 @@ Neuroplasticity
 
 Stanford Encyclopedia of Philosophy
 * [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu)
+
+<!--
+https://itunes.apple.com/us/podcast/brian-okelley-appnexus/id955346373?i=329712914&mt=2
+http://www.openculture.com/2014/03/the-harvard-classics-download-all-51-volumes-as-free-ebooks.html
+-->
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
