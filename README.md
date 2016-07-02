@@ -225,6 +225,8 @@ http://sfbay.craigslist.org/search/ggg
 
 https://www.facebook.com/ads/manager/creation/creation/?act=314539814&pid=p1
 https://www.reddit.com/advertising
+
+https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
 -->
 
 Idea State Machine and Idea Maze
