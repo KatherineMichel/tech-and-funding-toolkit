@@ -977,6 +977,10 @@ Ergonomics
 * [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
 * [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
 
+<!--
+Split keyboard
+-->
+
 Wikipedia Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
@@ -6764,6 +6768,12 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://developers.google.com/cardboard/ios/get-started
+https://www.google.com/get/cardboard/jump
+http://3drobotics.com/software
+
+https://developer.nvidia.com/devbox
+
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
 https://www.unrealengine.com/blog/blueprint-basics
@@ -7748,6 +7758,8 @@ https://remoteok.io
 https://angel.co/jobs
 https://weworkremotely.com
 https://teleport.org/remote
+
+https://news.ycombinator.com/item?id=12016568
 -->
 
 Kits
@@ -8008,6 +8020,10 @@ Funding Options
 * [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
 * [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity) and [List of Private Equity Firms Wikipedia](https://en.wikipedia.org/wiki/List_of_private_equity_firms)
 * [History of Private Equity and Venture Capital Wikipedia](https://en.wikipedia.org/wiki/History_of_private_equity_and_venture_capital)
+
+<!--
+https://blog.wealthfront.com/venture-capital-economics-part-5/
+-->
 
 Venture Capital and How Funding Works
 * [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
@@ -8431,6 +8447,8 @@ Digital Millennium Copyright Act
 
 <!--
 https://github.com/leonar15/startup-checklist
+
+https://www.rocketlawyer.com/document/web-hosting-agreement.rl
 -->
 
 Investors on GitHub
@@ -8685,6 +8703,10 @@ Popular Tools
 * [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
 * [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
 * [URX Blog](http://blog.urx.com/urx-blog) 
+
+<!--
+http://www.helpscout.net
+-->
 
 Digital Novel
 * [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
