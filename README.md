@@ -213,6 +213,11 @@ Spinoffs
 * [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
 * [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
 
+<!--
+http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
+http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
+-->
+
 Idea State Machine and Idea Maze
 * [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
 * [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
@@ -7755,8 +7760,10 @@ Logistics
 * [Statewide List](http://www.statewidelist.com)
 * [Teleport](http://teleport.org)
 
+Remote
+* [remoteok](https://remoteok.io)
+
 <!--
-https://remoteok.io
 https://angel.co/jobs
 https://weworkremotely.com
 https://teleport.org/remote
@@ -7798,9 +7805,6 @@ Freelance
 * [LinkedIn](https://www.linkedin.com)
 * [Upwork](https://www.upwork.com)
 * [Your Rate](http://www.yourrate.co)
-
-Remote
-* [remoteok](https://remoteok.io)
 
 #### Economics, Models, Biases, Metrics
 
@@ -8023,12 +8027,8 @@ Funding Options
 * [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity) and [List of Private Equity Firms Wikipedia](https://en.wikipedia.org/wiki/List_of_private_equity_firms)
 * [History of Private Equity and Venture Capital Wikipedia](https://en.wikipedia.org/wiki/History_of_private_equity_and_venture_capital)
 
-<!--
-https://blog.wealthfront.com/venture-capital-economics-part-5/
--->
-
 Venture Capital and How Funding Works
-* [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), and [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3)  
+* [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3), [Wealthfront Venture Capital Economics, Part 4](https://blog.wealthfront.com/venture-capital-economics-part-4), and [Wealthfront Venture Capital Economics, Part 5](https://blog.wealthfront.com/venture-capital-economics-part-5)   
 * [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
 * [Startup Growth Calculator](http://growth.tlb.org)
 * [Venture Dealr](http://dlopuch.github.io/venture-dealr)
