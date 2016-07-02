@@ -8777,6 +8777,10 @@ Digital Stats
 * [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
+<!--
+https://medium.learningbyshipping.com
+-->
+
 #### Tech Analysts, Thought Leaders
 
 * [Aaron Swartz](http://www.aaronsw.com)
