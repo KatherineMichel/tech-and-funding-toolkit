@@ -216,6 +216,15 @@ Spinoffs
 <!--
 http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
 http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
+http://fourhourworkweek.com/2016/03/04/5-million-week
+http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
+
+http://www.amazon.com/gp/bestsellers
+http://www.ebay.com/sch/allcategories/all-categories
+http://sfbay.craigslist.org/search/ggg
+
+https://www.facebook.com/ads/manager/creation/creation/?act=314539814&pid=p1
+https://www.reddit.com/advertising
 -->
 
 Idea State Machine and Idea Maze
