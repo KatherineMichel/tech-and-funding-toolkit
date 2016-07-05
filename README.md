@@ -2895,6 +2895,10 @@ Photoshop and Similar
 * [Inkscape](http://www.inkscape.org/en)  
 * [Serif](http://www.serif.com)
 
+<!--
+https://docs.gimp.org/en/script-fu-addborder.html
+-->
+
 Free Photos
 * [MorgueFile](http://www.morguefile.com)  
 
