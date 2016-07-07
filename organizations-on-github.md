@@ -261,6 +261,7 @@ https://github.com/Medium/medium-policy
 * [Netflix](https://github.com/Netflix)  
 * [Nextdoor](https://github.com/nextdoor)
 * [New Relic](https://github.com/newrelic)  
+* [Nike Inc.](https://github.com/Nike-Inc)
 * [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu)  
 * [Oculus VR](https://github.com/OculusVR) 
 * [OpenBazaar](https://github.com/openbazaar)
