@@ -7791,6 +7791,8 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
+http://salary.com
+
 https://angel.co/jobs
 https://weworkremotely.com
 https://teleport.org/remote
