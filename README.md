@@ -290,6 +290,10 @@ https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8
 http://beondeck.co
 
 https://upverter.com/periodic-table
+
+http://www.startuptimelines.org
+
+https://www.producthunt.com/books
 -->
 
 Databases and Benchmarking- Freemium
