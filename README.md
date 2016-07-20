@@ -2038,6 +2038,19 @@ Git Ignore and Licenses
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
 
+<!--
+https://ghbtns.com/
+https://github.com/mdo/github-buttons
+https://github.com/blog/2112-delivering-octicons-with-svg
+https://octicons.github.com/
+https://github.com/github/octicons
+https://github.com/blog/273-github-ribbons
+https://github.com/tholman/github-corners
+
+https://github.com/badges/shields
+http://shields.io
+-->
+
 GitHub Services Integration
 * [Service Hooks GitHub](https://github.com/github/github-services)  
 * [GitHub Integrations](https://github.com/integrations)  
@@ -4525,6 +4538,10 @@ Xamarin (Visual Studio Community Mobile Development Partner)
 * [Xamarin Store](https://store.xamarin.com)
 * [Xamarin Developer](https://developer.xamarin.com) and [Xamarin Developer Guides](https://developer.xamarin.com/guides)
 
+<!--
+https://testcloud.xamarin.com/devices
+-->
+
 Azure (See also Apache and SQL)
 * [Azure](https://azure.microsoft.com) and [Azure Pricing](https://azure.microsoft.com/en-us/pricing)
 
@@ -4855,6 +4872,8 @@ PyLadies
 Django Girls Co-Founders
 * [Ola Sendecka](http://blog.sendecka.me)
 * [Ola Sitarska](http://ola.sitarska.com)
+
+https://github.com/DjangoGirls/wiki
 
 Django Girls- Events and Cities
 * [Django Girls Events](https://djangogirls.org/events)
@@ -7777,6 +7796,10 @@ Payments
 * [Paypal](https://www.paypal.com)
 * [Square](https://squareup.com)
 * [Stripe](https://stripe.com) and [Stripe Docs](https://stripe.com/docs)
+
+<!--
+https://stripe.com/atlas
+-->
 
 File Storage
 * [Box](https://www.box.com) 
