@@ -2937,6 +2937,7 @@ Photoshop and Similar
 <!--
 https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8
 
+http://registry.gimp.org/glossary/a
 https://docs.gimp.org/en/script-fu-addborder.html
 -->
 
@@ -4327,11 +4328,18 @@ https://github.com/dirkfabisch/mediator
 http://blog.base68.com
 http://blog.base68.com/mediator/feature/2014/11/30/mediator_features.html
 
+http://bencentra.com/centrarium/
+https://github.com/bencentra/centrarium
+
 https://github.com/obaez/dentistsmile
 http://obaez.com/dentistsmile
 
+https://github.com/smartergiving
 http://smartergiving.org/free-nonprofit-starter-website
 https://github.com/smartergiving/free-nonprofit-starter-website
+
+http://themes.3rdwavemedia.com/demo/devaid/
+https://github.com/poole/hyde
 
 https://jekyllcms.grep.ro
 https://github.com/mgax/jekyllcms
@@ -4377,11 +4385,14 @@ http://themeforest.net
 
 http://justfreethemes.com/modern/
 http://justfreethemes.com/demo?theme=Modern
+https://www.webmandesign.eu/modern-wordpress-theme/
 https://www.webmandesign.eu/manual/modern/
 http://themedemos.webmandesign.eu/modern/
 http://themedemos.webmandesign.eu/modern/portfolio/yosemite-short-movie-2/
 http://themedemos.webmandesign.eu/modern/blog/
 http://themedemos.webmandesign.eu/modern/about/
+
+https://wordpress.org/themes/skt-charity/
 -->
 
 PHP/node.js- WordPress- Com, Calypso
@@ -7596,6 +7607,8 @@ Company Internal Policies
 * [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 
 <!--
+https://www.tesla.com/blog/master-plan-part-deux
+
 http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
 https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
 http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
@@ -7689,6 +7702,10 @@ Google
 * [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
 * [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 * [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
+
+<!--
+http://www.wholeearth.com/back-issues.php
+-->
 
 #### Appendix
 
@@ -9456,6 +9473,11 @@ Companies
 * [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
 * [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [Great Place to Work](http://www.greatplacetowork.com)
+
+<!--
+https://klic.dol.ks.gov/vosnet/Logoff.aspx?clearsession=true
+https://www.google.com/?client=safari#q=us+bureau+of+labor+stats
+-->
 
 #### Government and International Data
 
