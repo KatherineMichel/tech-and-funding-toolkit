@@ -676,6 +676,11 @@ U.S. Gov- 18F- GitHub
 * [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
 * [18F HTTPS](https://github.com/18F/https) 
 
+<!--
+https://github.com/18F/web-design-standards
+https://standards.usa.gov
+-->
+
 BBC
 * [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
 
@@ -4459,6 +4464,12 @@ Wikitech Development
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
+https://docs.asp.net/en/latest/client-side/yeoman.html
+https://github.com/heroku-net/aspnetcore
+https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
+https://github.com/Microsoft/api-guidelines
+
+
 https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
 
 * [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
