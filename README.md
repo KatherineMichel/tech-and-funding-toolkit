@@ -1382,6 +1382,10 @@ Apple Presentation and Design (See also Keynotopia)
 * [Keynotopia](http://keynotopia.com)
 * [Keynote Kung-Fu](http://keynotekungfu.com)
 
+<!--
+http://www.sketchappsources.com
+-->
+
 Apple MacBook Air
 * [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
 
@@ -6903,6 +6907,9 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+http://learn.vrdev.school
+https://www.reddit.com/r/learnVRdev
+
 https://developers.google.com/cardboard/ios/get-started
 https://www.google.com/get/cardboard/jump
 http://3drobotics.com/software
