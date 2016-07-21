@@ -92,6 +92,8 @@ django-kevin https://github.com/imkevinxu/django-kevin
 django-herokuapp https://github.com/etianen/django-herokuapp
 
 https://github.com/lincolnloop/django-layout
+
+https://github.com/SexualHealthInnovations/callisto-core
 -->
 
 Python- Django- Python and Django official websites and code
