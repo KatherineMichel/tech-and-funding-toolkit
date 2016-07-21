@@ -3,6 +3,7 @@
 ## Project Management and Infrastructure, Big Data
 * [ASP.NET](https://github.com/aspnet)
 * [Atlassian](https://github.com/atlassian)
+* [Alexa](https://github.com/alexa)
 * [Amazon Web Services](https://github.com/amazonwebservices)  
 * [Amazon](https://github.com/amzn)
 * [Apple](https://github.com/apple)
