@@ -1001,6 +1001,10 @@ Ergonomics
 
 <!--
 Split keyboard
+
+http://www.ikea.com/us/en/catalog/products/S89006683/
+https://www.amazon.com/gp/product/B0057D86QA/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+http://www.logitech.com/en-us/product/wireless-trackball-m570?crid=7
 -->
 
 Wikipedia Portals
@@ -2039,6 +2043,8 @@ Git Ignore and Licenses
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
 
 <!--
+https://help.github.com/articles/remove-sensitive-data/
+
 https://ghbtns.com/
 https://github.com/mdo/github-buttons
 https://github.com/blog/2112-delivering-octicons-with-svg
@@ -2913,6 +2919,8 @@ Photoshop and Similar
 * [Serif](http://www.serif.com)
 
 <!--
+https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8
+
 https://docs.gimp.org/en/script-fu-addborder.html
 -->
 
@@ -4306,6 +4314,12 @@ WordPress (PG4WP)
 
 WordPress Enfold
 http://www.kriesi.at/themes
+
+https://twitter.com/nimbusthemes/following
+http://www.sheamediaco.com/#about-scroll
+http://www.nimbusthemes.com/wordpress-themes/
+
+http://themeforest.net
 -->
 
 PHP/node.js- WordPress- Com, Calypso
@@ -5690,6 +5704,7 @@ AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
 
 <!--
+Getting Started with AWS Hosting a .NET Web App
 http://docs.aws.amazon.com/gettingstarted/latest/wah/awsgsg-wah.pdf
 
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
@@ -5849,6 +5864,10 @@ Heroku- Deployment
 * [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
 * [Heroku Releases](https://devcenter.heroku.com/articles/releases)
 * [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+
+<!--
+https://devcenter.heroku.com/changelog-items/926
+-->
 
 Heroku- Addons
 * [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
@@ -6574,6 +6593,12 @@ Android
 * [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
 * [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
 * [MIT App Inventor](http://appinventor.mit.edu/explore) and [MIT App Inventor Set Up](http://appinventor.mit.edu/explore/ai2/setup.html)
+
+<!--
+https://github.com/Yelp/android-school
+
+http://codepath.com/androidbootcamp
+-->
 
 CyanogenMod
 * [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
@@ -7818,6 +7843,9 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
+https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
+https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
+
 http://salary.com
 
 https://angel.co/jobs
@@ -8931,6 +8959,11 @@ https://medium.learningbyshipping.com
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+http://moneymasterthegame.com
+http://humanelevation.tonyrobbins.com
+
+http://fourhourworkweek.com/podcast
+
 https://usesthis.com/interviews/horace.dediu
 
 https://plus.google.com/collection/EZT2b
