@@ -4300,6 +4300,8 @@ http://jekyll.tips
 
 https://www.shopify.ca/partners/shopify-cheat-sheet
 
+https://github.com/imathis/octopress/wiki/3rd-party-plugins
+
 https://github.com/jekyll/jekyll-archives
 
 https://github.com/mattvh/jekyllthemes
@@ -4363,6 +4365,14 @@ http://www.sheamediaco.com/#about-scroll
 http://www.nimbusthemes.com/wordpress-themes/
 
 http://themeforest.net
+
+http://justfreethemes.com/modern/
+http://justfreethemes.com/demo?theme=Modern
+https://www.webmandesign.eu/manual/modern/
+http://themedemos.webmandesign.eu/modern/
+http://themedemos.webmandesign.eu/modern/portfolio/yosemite-short-movie-2/
+http://themedemos.webmandesign.eu/modern/blog/
+http://themedemos.webmandesign.eu/modern/about/
 -->
 
 PHP/node.js- WordPress- Com, Calypso
