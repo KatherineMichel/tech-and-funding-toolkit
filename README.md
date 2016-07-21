@@ -9386,6 +9386,9 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
+http://avc.com/2016/07/stack-documentation/
+http://stackoverflow.com/documentation
+
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
