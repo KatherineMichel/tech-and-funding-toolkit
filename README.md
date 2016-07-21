@@ -2878,6 +2878,13 @@ Quickie Websites
 * [Weebly Themes](http://www.weebly.com/themes)
 * [Wix Templates](http://www.wix.com/website/templates)
 
+<!--
+http://www.wix.com/upgrade/premium-plans
+
+https://www.squarespace.com/customers
+https://www.squarespace.com/websites
+-->
+
 Domain Names
 * [Google Domains](https://domains.google.com)
 * [Namecheap](https://www.namecheap.com)
@@ -3677,7 +3684,9 @@ Golang, otherwise known as "Go"
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 
 <!--
-https://gobyexample.com/
+http://gohugo.io
+
+https://gobyexample.com
 https://tour.golang.org/welcome/1
 
 https://golang.org/dl
@@ -4282,6 +4291,40 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
+<!--
+https://jekyllrb.com/docs/collections
+https://talk.jekyllrb.com
+http://www.jekyll-plugins.com
+http://jekyll.tips
+
+https://www.shopify.ca/partners/shopify-cheat-sheet
+
+https://github.com/jekyll/jekyll-archives
+
+https://github.com/mattvh/jekyllthemes
+
+https://github.com/poole/hyde
+http://hyde.getpoole.com
+http://getpoole.com
+http://hyde.github.io
+
+https://github.com/mmistakes/minimal-mistakes
+https://mmistakes.github.io/minimal-mistakes
+
+https://github.com/dirkfabisch/mediator
+http://blog.base68.com
+http://blog.base68.com/mediator/feature/2014/11/30/mediator_features.html
+
+https://github.com/obaez/dentistsmile
+http://obaez.com/dentistsmile
+
+http://smartergiving.org/free-nonprofit-starter-website
+https://github.com/smartergiving/free-nonprofit-starter-website
+
+https://jekyllcms.grep.ro
+https://github.com/mgax/jekyllcms
+-->
 
 #### PHP
 
@@ -7823,6 +7866,13 @@ Payments
 * [Stripe](https://stripe.com) and [Stripe Docs](https://stripe.com/docs)
 
 <!--
+https://www.paypal.com/webapps/mpp/get-started/donate-button
+https://developer.paypal.com/docs/classic/payflow/gs_ppa_hosted_pages
+
+https://stripe.com/docs/checkout/tutorial
+https://stripe.com/docs/webhooks
+https://stripe.com/docs/examples
+
 https://stripe.com/atlas
 -->
 
