@@ -4475,10 +4475,12 @@ Wikitech Development
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
+https://www.codeschool.com/courses/try-net-mvc
 https://docs.asp.net/en/latest/client-side/yeoman.html
 https://github.com/heroku-net/aspnetcore
 https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
 https://github.com/Microsoft/api-guidelines
+https://mva.microsoft.com
 
 
 https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
