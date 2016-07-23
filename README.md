@@ -2930,16 +2930,16 @@ Photoshop and Similar
 * [Adobe Lightroom](https://lightroom.adobe.com)
 * [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
 * [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
-* [Gimp](http://www.gimp.org) and [Gimp Docs](http://docs.gimp.org)  
+* [Gimp](http://www.gimp.org), [Gimp Docs](http://docs.gimp.org), and [Gimp Plugin Registry](http://registry.gimp.org/glossary/a)
 * [Inkscape](http://www.inkscape.org/en)  
 * [Serif](http://www.serif.com)
 
 <!--
-https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8
-
-http://registry.gimp.org/glossary/a
 https://docs.gimp.org/en/script-fu-addborder.html
 -->
+
+Photo Enhancement
+* [Prisma](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
 
 Free Photos
 * [MorgueFile](http://www.morguefile.com)  
@@ -3155,8 +3155,6 @@ https://github.com/silverbux/bootflat-admin
 https://github.com/almasaeed2010/AdminLTE
 https://github.com/VinceG/Bootstrap-Admin-Theme 
 https://github.com/onokumus/Bootstrap-Admin-Template
-
-https://github.com/BlackrockDigital/startbootstrap
 -->
 
 Foundation
@@ -3169,7 +3167,7 @@ Good, Basic Templates, Themes
 * [Template Stash](http://www.templatestash.com)
 * [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
 * [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-* [Start Bootstrap](http://startbootstrap.com), [Iron Summit GitHub](https://github.com/IronSummitMedia), and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
+* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
 * [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
 
@@ -4416,6 +4414,49 @@ PHP- WordPress- Developer Resource
 * [WordPress Codex Developer Documentation](http://codex.wordpress.org/Developer_Documentation)
 * [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
 
+WordPress Theme Development (not "Using Themes")
+* [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
+
+<!--
+New
+https://developer.wordpress.org/reference
+
+https://codex.wordpress.org/Using_Themes
+https://codex.wordpress.org/Plugins
+https://codex.wordpress.org/Migrating_Plugins_and_Themes
+https://codex.wordpress.org/Advanced_Topics#WordPress_Plugins_and_Customization
+https://codex.wordpress.org/WordPress_Lessons#Template_Files
+https://codex.wordpress.org/Templates
+https://codex.wordpress.org/Blog_Design_and_Layout
+https://codex.wordpress.org/Stepping_Into_Templates
+https://codex.wordpress.org/Theme_Development
+https://codex.wordpress.org/Theme_Frameworks
+https://make.wordpress.org/themes/handbook/review
+https://codex.wordpress.org/The_Loop
+https://codex.wordpress.org/The_Loop_in_Action
+https://developer.wordpress.org/themes/basics/conditional-tags
+https://developer.wordpress.org/themes/basics/conditional-tags/#conditional-tags-index
+https://developer.wordpress.org/themes/basics/conditional-tags/#function-reference
+https://developer.wordpress.org/themes/basics/template-files
+https://developer.wordpress.org/themes/basics/linking-theme-files-directories
+
+https://make.wordpress.org
+-->
+
+WordPress Template Hierarchy
+* [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
+* [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
+* [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
+* [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
+* [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
+
+WordPress Page Templates
+* [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
+
+WordPress Theme Helpers
+* [WordPress Template Tags](https://codex.wordpress.org/Template_Tags)
+* [WordPress bloginfo](https://developer.wordpress.org/reference/functions/bloginfo)
+
 WordPress Themes
 * [WordPress Official Themes](https://wordpress.org/themes) 
 * [WordPress New Official Themes](https://wordpress.org/themes/browse/new)
@@ -4429,24 +4470,11 @@ https://theme.wordpress.com/?theme_shop=automattic
 https://theme.wordpress.com/themes/sort/free/
 -->
 
-WordPress Page Templates
-* [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
-
-WordPress Template Hierarchy
-* [WordPress PHP Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy)  
-* [WordPress PHP In Depth Template Hierarchy](http://www.chipbennett.net/themes/template-hierarchy)  
-* [WordPress PHP Retina Ready Template Hierarchy](http://marktimemedia.com/redesigning-the-template-hierarchy) 
-* [WordPress PHP Interactive Template Hierarchy](http://wphierarchy.com)  
-* [WordPress PHP Whimsical Template Hierarchy](http://2013.minneapolis.wordcamp.org/2013/04/27/wordpress-theme-template-poster) 
-
 WordPress- Helpers
 * [WordPress Plugins](https://wordpress.org/plugins) and [WordPress Plugins Mirror](http://www.pluginmirror.com/plugins) 
 * [WordPress Code](http://en.support.wordpress.com/code)  
 * [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
 * [WordPress Appearance](http://en.support.wordpress.com/category/appearance) 
-
-WordPress Theme Development (not "Using Themes")
-* [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
 
 WP eCommerce
 * [WooCommerce](https://www.woothemes.com) and [WooCommerce GitHub](https://github.com/woothemes/woocommerce)
