@@ -4341,6 +4341,17 @@ https://github.com/poole/hyde
 
 https://jekyllcms.grep.ro
 https://github.com/mgax/jekyllcms
+
+http://jekyllthemes.org/themes/agency
+https://y7kim.github.io/agency-jekyll-theme
+
+http://jekyllthemes.org/themes/Jalpc-jekyll-theme/
+http://www.jack003.com
+
+http://mattcouchman.co.uk/jekyll-resume/
+
+http://jekyllthemes.org/themes/flex/
+http://the-development.github.io/flex/
 -->
 
 #### PHP
