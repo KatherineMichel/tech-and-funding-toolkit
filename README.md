@@ -6506,6 +6506,18 @@ Docker
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
 <!--
+https://devcenter.heroku.com/articles/how-heroku-works
+https://devcenter.heroku.com/articles/error-codes
+https://devcenter.heroku.com/articles/fork-app#git-repository
+https://devcenter.heroku.com/changelog-items/653
+
+http://stackoverflow.com/questions/35389389/how-can-i-host-my-own-parse-server-on-heroku-using-mongodb
+http://stackoverflow.com/questions/31608615/heroku-fork-heroku-gitclone-new-app-works-but-empty-repository
+
+
+
+
+
 https://docs.docker.com/mac
 
 https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
@@ -6521,6 +6533,7 @@ https://github.com/heroku/dotnet-buildpack
 
 https://hub.docker.com
 https://hub.docker.com/r/microsoft/aspnet/
+https://hub.docker.com/r/microsoft/dotnet
 https://hub.docker.com/r/heroku/cedar/
 
 http://www.mono-project.com/download/
@@ -6530,6 +6543,7 @@ https://github.com/friism/mono-builder/releases/
 https://github.com/aspnet/aspnet-docker
 https://github.com/herokumx/herokumxnet
 https://github.com/jincod/AspNet5DemoApp
+https://github.com/aspnet/MusicStore
 
 microsoft/aspnet:1.0.0-rc1-final
 https://github.com/OmniSharp/generator-aspnet/issues/524
