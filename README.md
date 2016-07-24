@@ -5959,6 +5959,15 @@ https://github.com/heroku/heroku-apps
 
 https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-local-branches-to-remote-apps
 -->
+<!--
+https://devcenter.heroku.com/articles/how-heroku-works
+https://devcenter.heroku.com/articles/error-codes
+https://devcenter.heroku.com/articles/fork-app#git-repository
+https://devcenter.heroku.com/changelog-items/653
+
+http://stackoverflow.com/questions/35389389/how-can-i-host-my-own-parse-server-on-heroku-using-mongodb
+http://stackoverflow.com/questions/31608615/heroku-fork-heroku-gitclone-new-app-works-but-empty-repository
+-->
 
 Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
@@ -6506,18 +6515,6 @@ Docker
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
 <!--
-https://devcenter.heroku.com/articles/how-heroku-works
-https://devcenter.heroku.com/articles/error-codes
-https://devcenter.heroku.com/articles/fork-app#git-repository
-https://devcenter.heroku.com/changelog-items/653
-
-http://stackoverflow.com/questions/35389389/how-can-i-host-my-own-parse-server-on-heroku-using-mongodb
-http://stackoverflow.com/questions/31608615/heroku-fork-heroku-gitclone-new-app-works-but-empty-repository
-
-
-
-
-
 https://docs.docker.com/mac
 
 https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
