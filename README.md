@@ -6507,8 +6507,39 @@ Docker
 
 <!--
 https://docs.docker.com/mac
--->
 
+https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
+https://devcenter.heroku.com/articles/container-registry-and-runtime
+https://blog.heroku.com/introducing_heroku_docker_release_build_deploy_heroku_apps_with_docker
+https://github.com/heroku/heroku-container-tools
+
+https://docs.docker.com/docker-for-mac/
+
+https://docs.docker.com/engine/reference/builder/
+
+https://github.com/heroku/dotnet-buildpack
+
+https://hub.docker.com
+https://hub.docker.com/r/microsoft/aspnet/
+https://hub.docker.com/r/heroku/cedar/
+
+http://www.mono-project.com/download/
+https://github.com/mono/docker
+https://github.com/friism/mono-builder/releases/
+
+https://github.com/aspnet/aspnet-docker
+https://github.com/herokumx/herokumxnet
+https://github.com/jincod/AspNet5DemoApp
+
+microsoft/aspnet:1.0.0-rc1-final
+https://github.com/OmniSharp/generator-aspnet/issues/524
+
+https://github.com/herokumx/herokumxnet/blob/master/Dockerfile
+https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
+https://github.com/heroku?utf8=%E2%9C%93&query=docker
+
+https://code.visualstudio.com/docs/languages/dockerfile
+-->
 * [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s)
 
 VMware, Vagrant, VirtualBox
