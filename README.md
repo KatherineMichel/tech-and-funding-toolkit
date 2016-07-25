@@ -227,8 +227,6 @@ https://www.facebook.com/ads/manager/creation/creation/?act=314539814&pid=p1
 https://www.reddit.com/advertising
 
 https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
-
-https://myactivity.google.com/myactivity
 -->
 
 Idea State Machine and Idea Maze
@@ -292,8 +290,6 @@ http://beondeck.co
 https://upverter.com/periodic-table
 
 http://www.startuptimelines.org
-
-https://www.producthunt.com/books
 -->
 
 Databases and Benchmarking- Freemium
@@ -304,7 +300,7 @@ Databases and Benchmarking- Freemium
 * [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 * [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
 * [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
 
 Europe and U.K.
@@ -998,13 +994,12 @@ Ergonomics
 * [f.lux](https://justgetflux.com)
 * [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
 * [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
+* [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
+* [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
+* [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
 
 <!--
 Split keyboard
-
-http://www.ikea.com/us/en/catalog/products/S89006683/
-https://www.amazon.com/gp/product/B0057D86QA/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
-http://www.logitech.com/en-us/product/wireless-trackball-m570?crid=7
 -->
 
 Wikipedia Portals
@@ -2468,13 +2463,12 @@ GitBook
 * ["How can I use Git to update my book?"](https://help.gitbook.com/books/how-can-i-use-git.html)
 * [GitBook Documentation](http://help.gitbook.io)  
 * [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
+* [GitBook Design Styleguide](http://styleguide.gitbook.com)
 * [GitBook Themes](http://help.gitbook.io/book/themes.html)  
+* [GitBook Official Theme GitHub](https://github.com/GitbookIO/theme-official)  
 
 <!--
 GitBook Styling
-
-http://styleguide.gitbook.com
-https://github.com/GitbookIO/theme-official
 -->
 
 GitHub Wiki
@@ -2584,7 +2578,7 @@ Programming and Math Learning Tools (See also MOOCs)
 <!--
 https://www.codecademy.com/courses/learn-the-command-line
 
-https://teamtreehouse.com/
+https://teamtreehouse.com
 https://www.codecademy.com/tracks/web
 -->
 <!--
@@ -2723,10 +2717,7 @@ Developer Surveys
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
 * [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 * [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
-
-<!--
-https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd
--->
+* ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 #### Programming Language Style Guides
 
@@ -3265,7 +3256,6 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 [quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
 [Pingdom](https://www.pingdom.com/)
 [Basecamp](http://basecamp.com/)
-[Git](http://git-scm.com/)
 [Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
 -->
 
@@ -3320,29 +3310,26 @@ https://developers.google.com/speed/pagespeed
 
     <rule name="Spell-check">
       <link url="http://www.jetbrains.com/idea/webhelp/spellchecking.html">IntelliJ IDEA Spell Checker</link>
-    </rule>
 
   <category name="Best practices">
     <rule name="Fix broken links">
       <link url="http://validator.w3.org/checklink">W3C link checker</link>
       <link url="http://iwebtool.com/broken_link_checker">iWebTool Broken Link Checker</link>
-    </rule>
+
     <rule name="Spelling and grammar">
       <link url="http://en.wikipedia.org/wiki/Capitalization">Capitalization</link>
       <link url="http://en.wikipedia.org/wiki/Writing_style">Writing Style</link>
       <link url="http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences">Word Variations e.g. UK vs US</link>
-    </rule>
+
     <rule name="Check website in all browsers">
       <link url="http://browsershots.org/">BrowserShots.org</link>
       <link url="https://browserling.com/">Browserling.com</link>
       <link url="http://spoon.net/browsers">Spoon.net</link>
-    </rule>
+
     <rule name="Decide on www-subdomain">
       <link url="http://no-www.org/">no-www.org score of 'B'</link>
       <link url="http://www.yes-www.org/">...or www.yes-www.org</link>
       <link url="http://madskristensen.net/post/url-rewrite-and-the-www-subdomain">Handle 'www' in web.config</link>
-    </rule>
-  </category>
 
     <rule name="Remove 'www' subdomain" />
     <rule name="Add the attribute rel='nofollow' to user-generated links to avoid spam" />
@@ -3351,50 +3338,46 @@ https://developers.google.com/speed/pagespeed
   <category name="Mobile">
     <rule name="MobileOK score of 75+">
       <link url="http://validator.w3.org/mobile/">W3C mobile checker</link>
-    </rule>
+
     <rule name="Use 'viewport' meta-tag">
       <link url="http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag/">Don’t Forget the Viewport Meta Tag</link>
       <link url="http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx">Make your website mobile friendly</link>
-    </rule>
+
     <rule name="Use correct input types">
       <link url="http://html5tutorial.info/html5-contact.php">Input type: Email, Url, Phone</link>
       <link url="http://diveintohtml5.info/forms.html">Diving in to HTML5 forms</link>
-    </rule>
+
     <rule name="Manual check using emulators">
       <link url="http://screenqueri.es/">Online media query tester</link>
       <link url="http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site/">6 free mobile emulators</link>
       <link url="http://www.opera.com/developer/tools/mobile/">Opera Mobile Emulator</link>
-    </rule>
+
     <rule name="Test using real devices">
       <link url="http://OpenDeviceLab.com/">Use Open Device Labs to test multiple devices</link>
-    </rule>
-  </category>
 
   <category name="Analytics">
     <rule name="Uptime monitoring">
       <link url="http://www.uptimerobot.com/">Uptime robot</link>
        <link url="https://www.pingdom.com/">Pingdom Website Monitor</link>
       <link url="http://www.gotsitemonitor.com/">GotSiteMonitor.com</link>
-    </rule>
+
     <rule name="Traffic analysis">
       <link url="http://www.google.com/analytics">Google Analytics</link>
       <link url="http://statcounter.com/">StatCounter</link>
       <link url="http://clicky.com/">Clicky</link>
       <link url="http://piwik.org/">Piwik</link>
-    </rule>
-  </category>
-    
+
   <category name="Performance">
     <rule name="Google Page Speed score of 90+">
       <link url="https://developers.google.com/speed/pagespeed/">Google Page Speed</link>
       <link url="https://developers.google.com/web-toolkit/speedtracer/">Google Speedtracer</link>
-    </rule>
+
     <rule name="Yahoo YSlow score of 85+">
       <link url="http://yslow.org/">Yahoo's YSlow</link>
-    </rule>
+
     <rule name="Optimize HTTP headers">
       <link url="http://redbot.org">redbot.org</link>
-    </rule>
+
     <rule name="Use CSS Sprites">
       <link url="http://spriteme.org/">Sprite Me</link>
     <rule name="Optimize images">
@@ -3402,77 +3385,66 @@ https://developers.google.com/speed/pagespeed
       <link url="http://punypng.com/">PunyPNG.com</link>
       <link url="http://pnggauntlet.com/">PNGGauntlet for Windows</link>
       <link url="http://imageoptim.com/">Image Optim for Mac</link>
-    </rule>
-  </category>
 
     <rule name="Use Content Distribution Network">
       <link url="http://www.cloudflare.com/">Cloudflare (CDN + security layer)</link>
       <link url="http://www.akamai.com/">Akamai CDN</link>
       <link url="http://aws.amazon.com/cloudfront/">Amazon Cloudfront CDN</link>
-    </rule>
+
     <rule name="Cloud optimizations">
       <link url="http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2">Reduce I/O to disk</link>
-    </rule>
+
     <rule name="Static resources">
       <link url="http://www.playframework.org/documentation/2.0.4/Assets">Add long TTL with Cache-Control</link>
       <link url="http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler">Minify Javascript</link>
       <link url="http://www.cssminifier.com/">Minify CSS</link>
       <link url="http://diveintohtml5.info/offline.html">Use HTML 5 Manifest</link>
-    </rule>
-  </category>
 
   <category name="Usability">
     <rule name="HTML5 compatibility check">
       <link url="http://ie.microsoft.com/testdrive/HTML5/CompatInspector/">Compat Inspector</link>
       <link url="http://www.modern.ie/report">modern.IE</link>
       <link url="http://modernizr.com/">Modernizr JS library</link>
-    </rule>
+
     <rule name="Custom 404 page">
       <link url="http://www.alistapart.com/articles/amoreuseful404/">A more useful 404</link>
-    </rule>
+
     <rule name="Favicon">
       <link url="http://realfavicongenerator.net/">Real Favicon Generator</link>
       <link url="http://github.com/audreyr/favicon-cheat-sheet">Favicon Cheat Sheet</link>
-    </rule>
+
     <rule name="Use friendly URLs">
       <link url="http://www.seomoz.org/blog/11-best-practices-for-urls">11 best practices for URLs</link>
       <link url="http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference">URL rewriting in IIS</link>
       <link url="http://httpd.apache.org/docs/current/mod/mod_rewrite.html">URL rewrite in Apache</link>
-    </rule>
+
     <rule name="Print-friendly CSS">
       <link url="http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/">Set up a print stylesheet</link>
     <rule name="Have a unified notification system across app" />
     <rule name="Don't display unfriendly errors directly to the user" />
-    </rule>
+
     <rule name="Add search feature" optional="true">
       <link url="http://www.google.com/cse/">Google Custom Search</link>
       <link url="http://www.opensearch.org/Home">Consider 'Open Search'</link>
-    </rule>
  
     <rule name="Environment Integration" optional="true">
       <link url="http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html">Safari on iOS</link>
       <link url="http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx">Internet Explorer on Windows</link>
       <link url="http://www.buildmypinnedsite.com/">Windows 8 Tiles</link>
-    </rule>
-  </category>
 
     <rule name="Test Responsive design" optional="true">
       <link url="http://responsive.is/">Responsive.is Tester</link>
-    </rule>
-  </category>
 
   <category name="Semantics">
     <rule name="Add meaning with Microdata">
       <link url="http://schema.org/">Schema.org reference</link>
       <link url="http://schema-creator.org/">Schema-Creator.org</link>
-    </rule>
+
     <rule name="Check the semantics">
       <link url="http://www.w3.org/2003/12/semantic-extractor.html">W3C semantic extractor</link>
       <link url="http://www.google.com/webmasters/tools/richsnippets">Google Structured Data Testing Tool</link>
       <link url="https://developers.facebook.com/tools/debug/">Facebook OpenGraph Debugger</link>
       <link url="https://dev.twitter.com/docs/cards/validation/validator">Twitter Card Validator</link>
-    </rule>
-  </category>
 
   <category name="SEO">
     <rule name="SenSEO score of 85+">
@@ -3480,46 +3452,42 @@ https://developers.google.com/speed/pagespeed
       <link url="http://ppcblog.com/how-google-works/">How Google works</link>
       <link url="http://www.google.com/webmasters/">Google Webmaster Tools</link>
       <link url="http://www.bing.com/toolbox/webmaster">Bing Webmaster Tools</link>
-    </rule>
+
     <rule name="Google Rich Snippets">
       <link url="http://www.google.com/webmasters/tools/richsnippets">Online tester</link>
       <link url="http://schema.org/docs/gs.html">Getting started</link>
-    </rule>
+
     <rule name="robots.txt">
       <link url="http://tools.seobook.com/robots-txt/">robots.txt tutorial</link>
       <link url="http://www.robotsgenerator.com/">Create robots.txt online</link>
-    </rule>
+
     <rule name="XML sitemap">
       <link url="http://www.xml-sitemaps.com/">Create sitemap online</link>
-    </rule>
+
     <rule name="A/B Testing">
       <link url="https://github.com/danmaz74/ABalytics">ABalytics</link>
-    </rule>
-  </category>
 
   <category name="Code quality">
     <rule name="HTML validation">
       <link url="http://validator.w3.org/">W3C HTML validator</link>
       <link url="http://watson.addy.com/">Dr. Watson</link>
-    </rule>
+
     <rule name="CSS validation">
       <link url="http://jigsaw.w3.org/css-validator/">W3C CSS validator</link>
-    </rule>
+
     <rule name="Run CSS Lint">
       <link url="http://csslint.net/">Run CSS Lint online</link>
-    </rule>    
+   
     <rule name="Run JSLint/JSHint">
       <link url="http://jslint.org/">Run JSLint online</link>
       <link url="http://jshint.com/">Run JSHint online</link>
-    </rule>
+
     <rule name="World ready">
       <link url="http://validator.w3.org/i18n-checker/">W3C i18n checker</link>
-    </rule>
+
     <rule name="Verify source code (Scala)">
       <link url="http://www.scalastyle.org/">Scala Style</link>
       <link url="http://mtkopone.github.com/scct/">SCCT</link>
-    </rule>
-  </category>
 
     <rule name="Automated testing">
       <link url="http://www.testomato.com/">Testomato</link>
@@ -3529,16 +3497,14 @@ https://developers.google.com/speed/pagespeed
       <link url="http://accessibility.oit.ncsu.edu/accessibleu/problems.html">Common problems and solutions</link>
       <link url="http://achecker.ca/checker/index.php">IDI Web Accessibility Checker</link>
       <link url="http://www.nvda-project.org/">Test using a screen reader</link>
-    </rule>
+
     <rule name="Color contrast">
       <link url="http://www.checkmycolours.com/">Check color contrast online</link>
-    </rule>
+
     <rule name="WAI-ARIA Landmarks">
       <link url="http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration/">Using WAI-ARIA Landmarks</link>
       <link url="http://www.alistapart.com/articles/the-accessibility-of-wai-aria/">Guide to WAI-ARIA</link>
       <link url="http://www.punkchip.com/2010/11/aria-basic-findings/">Practical examples</link>
-    </rule>
-  </category>
 
    <category name="Security">
     <rule name="Follow best practices">
@@ -3546,16 +3512,16 @@ https://developers.google.com/speed/pagespeed
       <link url="https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top 10 project</link>
       <link url="https://www.owasp.org/index.php/Cheat_Sheets">OWASP Cheat Sheets</link>
       <link url="http://cwe.mitre.org/top25/">CWE/SANS Top 25</link>
-    </rule>
+
     <rule name="Cross-site scripting">
       <link url="https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet">XSS cheat sheet</link>
       <link url="https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet">DOM based XSS cheat sheet</link>
       <link url="http://www.acunetix.com/cross-site-scripting/scanner/">Free XSS scanner</link>
-    </rule>
+
     <rule name="Cross-site request forgery">
       <link url="http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html">Explanation and walkthrough</link>
       <link url="https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet">CSRF cheat sheet</link>
-    </rule>
+
     <rule name="Secure Passwords" >
    <link url="http://www.mindrot.org/projects/jBCrypt/">BCrypt</link>
    <link url="https://github.com/wg/scrypt">SCrypt</link>
@@ -3576,8 +3542,7 @@ https://developers.google.com/speed/pagespeed
       <link url="https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy">MDN Guide</link>
       <link url="https://www.owasp.org/index.php/Content_Security_Policy">OWASP Overview</link>
       <link url="https://github.com/oxdef/csp-tester">CSP Tester</link>
-    </rule>
-  </category>
+
   <category name="Social Media">
     <rule name="Open Graph protocol" optional="true">
       <link url="http://ogp.me/">Open Graph protocol reference</link>
@@ -7893,6 +7858,10 @@ Google Products, Office
 * [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
 * [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
 * [Let Me Google that for You](http://lmgtfy.com) 
+
+<!--
+https://myactivity.google.com/myactivity
+-->
 
 Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
