@@ -1004,6 +1004,8 @@ Ergonomics
 
 <!--
 Split keyboard
+
+http://www.mindbodygreen.com/0-3972/How-Yoga-Healed-My-Carpal-Tunnel-Syndrome.html
 -->
 
 Wikipedia Portals
