@@ -3100,6 +3100,8 @@ CSS
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
 <!--
+https://www.w3.org/DesignIssues/Uses.html
+
 https://www.w3.org/community/webed/wiki/Main_Page
 
 https://www.w3.org/standards/webdesign
@@ -5787,6 +5789,11 @@ http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
 http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
+
+https://aws.amazon.com/cloudfront/
+http://docs.aws.amazon.com/general/latest/gr/rande.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
+http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
 -->
 
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
