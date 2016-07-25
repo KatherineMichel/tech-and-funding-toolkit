@@ -672,14 +672,9 @@ U.S. Gov- Department of Veterans Affairs- GitHub
 U.S. Gov- 18F- GitHub
 * [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
 * [18F Analytics Standards GitHub](https://github.com/18F/analytics-standards), and [18F API Standards GitHub](https://github.com/18f/api-standards)
-* [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
+* [18F Web Design Standards](https://standards.usa.gov) and [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
 * [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
 * [18F HTTPS](https://github.com/18F/https) 
-
-<!--
-https://github.com/18F/web-design-standards
-https://standards.usa.gov
--->
 
 BBC
 * [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
@@ -2883,7 +2878,7 @@ Prototyping Software- Wirify
 
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
-* [Squarespace Templates](http://www.squarespace.com/templates)
+* [Squarespace Templates](https://www.squarespace.com/websites)
 * [Weebly Themes](http://www.weebly.com/themes)
 * [Wix Templates](http://www.wix.com/website/templates)
 
@@ -2891,7 +2886,6 @@ Quickie Websites
 http://www.wix.com/upgrade/premium-plans
 
 https://www.squarespace.com/customers
-https://www.squarespace.com/websites
 -->
 
 Domain Names
@@ -3320,23 +3314,14 @@ https://developers.google.com/speed/pagespeed
 -->
 
 <!--
-<?xml version="1.0" encoding="utf-8" ?>
-<checklist>
   <category name="Best practices">
     <rule name="Read this link">
       <link url="http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development">What you should know</link>
-    </rule>
-    <rule name="Use HTML 5 templates">
-      <link url="http://www.initializr.com/">Initializr</link>
-      <link url="http://html5boilerplate.com/">HTML 5 Boilerplate</link>
-    </rule>
 
     <rule name="Spell-check">
       <link url="http://www.jetbrains.com/idea/webhelp/spellchecking.html">IntelliJ IDEA Spell Checker</link>
     </rule>
 
-<?xml version="1.0" encoding="utf-8" ?>
-<checklist>
   <category name="Best practices">
     <rule name="Fix broken links">
       <link url="http://validator.w3.org/checklink">W3C link checker</link>
@@ -3538,8 +3523,6 @@ https://developers.google.com/speed/pagespeed
 
     <rule name="Automated testing">
       <link url="http://www.testomato.com/">Testomato</link>
-    </rule>
-  </category>
 
   <category name="Accessibility">
     <rule name="Accessibility validation">
