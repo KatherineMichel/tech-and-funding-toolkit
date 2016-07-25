@@ -6614,10 +6614,10 @@ Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 * [Jenkins](http://jenkins-ci.org)  
 * [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
 * [Codeship](https://codeship.com)
+* [AppVeyor (Windows)](http://www.appveyor.com)
 
 <!--
 CI
-http://www.appveyor.com/
 https://circleci.com
 https://drone.io/
 codecov.io
@@ -7690,11 +7690,9 @@ Company Internal Policies
 * [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
 * [Amazon: Back of the Napkin Drawing](http://a16z.com/2014/09/05/why-amazon-has-no-profits-and-why-it-works)
 * [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
-* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
+* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) and [Tesla Master Plan Deux](https://www.tesla.com/blog/master-plan-part-deux)
 
 <!--
-https://www.tesla.com/blog/master-plan-part-deux
-
 http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
 https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
 http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
@@ -7994,7 +7992,7 @@ Payments
 * [Bitcoin](https://bitcoin.org/en) 
 * [Paypal](https://www.paypal.com)
 * [Square](https://squareup.com)
-* [Stripe](https://stripe.com) and [Stripe Docs](https://stripe.com/docs)
+* [Stripe](https://stripe.com), [Stripe Docs](https://stripe.com/docs), and [Stripe Atlas](https://stripe.com/atlas)
 
 <!--
 https://www.paypal.com/webapps/mpp/get-started/donate-button
@@ -8003,8 +8001,6 @@ https://developer.paypal.com/docs/classic/payflow/gs_ppa_hosted_pages
 https://stripe.com/docs/checkout/tutorial
 https://stripe.com/docs/webhooks
 https://stripe.com/docs/examples
-
-https://stripe.com/atlas
 -->
 
 File Storage
@@ -8661,15 +8657,11 @@ Accounting Methods
 
 Accounting Organizations
 * [American Institute of CPAs](http://www.aicpa.org)
-* [CFA (Chartered Financial Analyst) Institute](www.cfainstitute.org) and [CFA Institute Blog](https://blogs.cfainstitute.org)
+* [CFA (Chartered Financial Analyst) Institute](www.cfainstitute.org), [CFA Institute Pubs](http://www.cfapubs.org), and [CFA Institute Blog](https://blogs.cfainstitute.org)
 * [Chartered Institute of Management Accountants](http://www.cimaglobal.com)
 * [Financial Accounting Standards Board](http://www.fasb.org)
 * [International Accounting Standards Board Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Board) and [International Accounting Standards Committee Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Committee)
 * [Financial Conduct Authority Handbook](https://www.handbook.fca.org.uk)
-
-<!--
-http://www.cfapubs.org
--->
 
 Regulatory Agencies and Rules- Business and Finance Related
 * [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
@@ -8974,16 +8966,13 @@ Popular Tools
 * [Buffer](https://bufferapp.com)
 * [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
 * [Detour Blog](http://blog.detour.com)
+* [Help Scout](http://www.helpscout.net)
 * [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
 * [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
 * [Intercom Blog](http://blog.intercom.io)
 * [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
 * [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
 * [URX Blog](http://blog.urx.com/urx-blog) 
-
-<!--
-http://www.helpscout.net
--->
 
 Digital Novel
 * [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
@@ -9049,14 +9038,10 @@ Digital Stats
 * [Scott Weiss Archive](http://scott.a16z.com/archive)
 * [Semil Shah Archive](http://blog.semilshah.com/archive)
 * [Seth Levine Archive](http://www.sethlevine.com/archive)
-* [Steven Sinofsky](http://blog.learningbyshipping.com) and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
+* [Steven Sinofsky](http://blog.learningbyshipping.com), [Steven Sinofsky Medium](https://medium.learningbyshipping.com), and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
 * [Ted Rheingold Twitter](https://twitter.com/tedr)
 * [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
-
-<!--
-https://medium.learningbyshipping.com
--->
 
 #### Tech Analysts, Thought Leaders
 
