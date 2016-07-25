@@ -219,14 +219,7 @@ http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-i
 http://fourhourworkweek.com/2016/03/04/5-million-week
 http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
 
-http://www.amazon.com/gp/bestsellers
-http://www.ebay.com/sch/allcategories/all-categories
-http://sfbay.craigslist.org/search/ggg
-
-https://www.facebook.com/ads/manager/creation/creation/?act=314539814&pid=p1
-https://www.reddit.com/advertising
-
-https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
+Trends Analysis
 -->
 
 Idea State Machine and Idea Maze
@@ -720,8 +713,8 @@ Design Publications
  
 <!--
 https://twitter.com/smashdlabs
-http://www.cssmania.com/
-https://www.siteinspire.com/
+http://www.cssmania.com
+https://www.siteinspire.com
 https://twitter.com/siteinspire
 -->
 
@@ -746,6 +739,17 @@ Google Insights and Trends
 * [Google Insights](http://www.google.com/insights)
 * [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
 * [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
+<!--
+http://www.amazon.com/gp/bestsellers
+http://www.ebay.com/sch/allcategories/all-categories
+http://sfbay.craigslist.org/search/ggg
+
+https://www.facebook.com/ads/manager/creation/creation/?act=314539814&pid=p1
+https://www.reddit.com/advertising
+
+https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
+-->
 
 #### Site and App Research
 
