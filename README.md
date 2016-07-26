@@ -21,7 +21,7 @@ Table of Content
 * [Company and Product Databases](#company-and-product-databases)
 * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
 * [Open Companies](#open-companies) 
-* [Labs, Kitchens, Garages](#labs-kitchens-garages)r
+* [Labs, Kitchens, Garages](#labs-kitchens-garages)
 * [Project Management](#project-management)
   * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
   * [Software Testing](#software-testing)
@@ -895,12 +895,12 @@ Google Rich Snippets
     <rule name="SenSEO score of 85+">
       <link url="https://addons.mozilla.org/en-US/firefox/addon/senseo/">SenSEO for Firefox</link>
       <link url="http://ppcblog.com/how-google-works/">How Google works</link>
+ 
       <link url="http://www.google.com/webmasters/">Google Webmaster Tools</link>
-
       https://www.google.com/webmasters/tools/
 -->
 
-Google Webmaster
+Google Tag Manager
 * [Google Tag Manager](http://www.google.com/tagmanager)
 
 Google News Publisher
@@ -2939,14 +2939,17 @@ Photoshop and Similar
 https://docs.gimp.org/en/script-fu-addborder.html
 -->
 
-Photo Enhancement
-* [Prisma](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
+Photo Placeholders
+* [Placeholder It](http://placehold.it)
 
 Free Photos
 * [MorgueFile](http://www.morguefile.com)  
 
 Flickr
 * [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+Photo Enhancement
+* [Prisma](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
 
 Gifs
 * [Giphy](http://giphy.com) 
@@ -2962,8 +2965,6 @@ https://twitter.com/siteinspire
 -->
 
 <!--
-http://placehold.it
-
 [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
 
 Design Resources- General
@@ -3176,22 +3177,23 @@ Foundation
 Good, Basic Templates, Themes
 * [Template Stash](http://www.templatestash.com)
 * [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
+* [BootstrapTaste](http://bootstraptaste.com)
 * [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
 * [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
 * [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
 
 <!--
+http://www.bootstrapzero.com/c/one-page-themes
 http://startbootstrap.com/template-categories/all/
 
-http://www.bootstrapzero.com/c/one-page-themes
 http://www.bootply.com/
 http://bootstrap.theme.cards/l
-http://bootstraptaste.com/page/3/
 -->
 
 <!--
-                                <!--Bootstraptaste  <a href="http://bootstraptaste.com" target="_blank">Website</a>, Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a><br>
+                                Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a><br>
+ 
                                 Live Bootstrap <a href="http://livebootstrap.com" target="_blank">Website</a>, Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a><br>
                                 <br><br>
                                 Trianglify (Background Generator) <a href="http://qrohlf.com/trianglify/" target="_blank">Website</a>, Trianglify <a href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a><br>
@@ -3258,6 +3260,7 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
 * [Google App Invites](https://developers.google.com/app-invites)
 * [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
+* [Google GWT](http://www.gwtproject.org)
 * [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
 * [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
