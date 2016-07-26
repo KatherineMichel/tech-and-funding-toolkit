@@ -683,8 +683,6 @@ Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nes
 https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
 https://en.wikipedia.org/wiki/Psychographic
 
-https://www.ideo.org
-
 http://kit.com/jakek/the-sprint-kit
 http://www.thesprintbook.com/sprint-week
 -->
@@ -711,13 +709,6 @@ Design Publications
 * [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
 * [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
  
-<!--
-https://twitter.com/smashdlabs
-http://www.cssmania.com
-https://www.siteinspire.com
-https://twitter.com/siteinspire
--->
-
 Portfolio and Community Websites
 * [Behance](https://www.behance.net)  
 * [Dribbble](https://dribbble.com) and [Dribble Shots](https://dribbble.com/shots)
@@ -740,11 +731,13 @@ Google Insights and Trends
 * [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
 * [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
-<!--
-http://www.amazon.com/gp/bestsellers
-http://www.ebay.com/sch/allcategories/all-categories
-http://sfbay.craigslist.org/search/ggg
+Tim Ferris- Ideas
+* [Amazon Best Sellers](http://www.amazon.com/gp/bestsellers)
+* [eBay All Categories](http://www.ebay.com/sch/allcategories/all-categories) and [eBay Collections](http://www.ebay.com/cln)
+* [Craigslist Gigs](http://sfbay.craigslist.org/search/ggg)
+* [Kickstarter Discover](https://www.kickstarter.com/discover) and [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced)
 
+<!--
 https://www.facebook.com/ads/manager/creation/creation/?act=314539814&pid=p1
 https://www.reddit.com/advertising
 
@@ -887,6 +880,25 @@ Google Monetization
 
 Google Rich Snippets
 * [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+<!--
+    <rule name="Add meaning with Microdata">
+      <link url="http://schema-creator.org/">Schema-Creator.org</link>
+
+    <rule name="Check the semantics">
+      <link url="http://www.w3.org/2003/12/semantic-extractor.html">W3C semantic extractor</link>
+      <link url="http://www.google.com/webmasters/tools/richsnippets">Google Structured Data Testing Tool, Online tester</link>
+      <link url="https://developers.facebook.com/tools/debug/">Facebook OpenGraph Debugger</link>
+      <link url="https://dev.twitter.com/docs/cards/validation/validator">Twitter Card Validator</link>
+
+  <category name="SEO">
+    <rule name="SenSEO score of 85+">
+      <link url="https://addons.mozilla.org/en-US/firefox/addon/senseo/">SenSEO for Firefox</link>
+      <link url="http://ppcblog.com/how-google-works/">How Google works</link>
+      <link url="http://www.google.com/webmasters/">Google Webmaster Tools</link>
+
+      https://www.google.com/webmasters/tools/
+-->
 
 Google Webmaster
 * [Google Tag Manager](http://www.google.com/tagmanager)
@@ -1943,12 +1955,6 @@ Git Cheat Sheets and Tutorials
 * [Git Index](http://gitref.org)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
-<!--
-https://git-for-windows.github.io
-
-https://help.github.com/articles/github-terms-of-service
--->
-
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
 * [GitHub Features (Code Review, ect.)](https://github.com/features)
@@ -1965,7 +1971,9 @@ GitHub- Main
 Recommended
 https://www.git-tower.com
 
-https://github.com/github/hub
+https://git-for-windows.github.io
+
+https://help.github.com/articles/github-terms-of-service
 
 https://github.com/github/training-kit
 https://github.com/github-archive
@@ -1975,6 +1983,8 @@ https://github.com/jlord/git-it
 
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/about-repository-graphs#traffic
+
+https://github.com/github/hub
 
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 
@@ -2008,6 +2018,8 @@ https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
 
 https://help.github.com/articles/about-github-mirrors/
 https://help.github.com/articles/duplicating-a-repository/
+
+https://help.github.com/articles/remove-sensitive-data/
 
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
@@ -2048,9 +2060,7 @@ Git Ignore and Licenses
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
 
 <!--
-https://help.github.com/articles/remove-sensitive-data/
-
-https://ghbtns.com/
+https://ghbtns.com
 https://github.com/mdo/github-buttons
 https://github.com/blog/2112-delivering-octicons-with-svg
 https://octicons.github.com/
@@ -2945,6 +2955,13 @@ Gravatar
 * [Gravatar](http://en.gravatar.com)
 
 <!--
+https://twitter.com/smashdlabs
+http://www.cssmania.com
+https://www.siteinspire.com
+https://twitter.com/siteinspire
+-->
+
+<!--
 http://placehold.it
 
 [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
@@ -3173,6 +3190,13 @@ http://bootstrap.theme.cards/l
 http://bootstraptaste.com/page/3/
 -->
 
+<!--
+                                <!--Bootstraptaste  <a href="http://bootstraptaste.com" target="_blank">Website</a>, Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a><br>
+                                Live Bootstrap <a href="http://livebootstrap.com" target="_blank">Website</a>, Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a><br>
+                                <br><br>
+                                Trianglify (Background Generator) <a href="http://qrohlf.com/trianglify/" target="_blank">Website</a>, Trianglify <a href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a><br>
+-->
+
 Good, Basic Templates, Themes- Skel
 * [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
 * [Templated](http://templated.co)
@@ -3183,16 +3207,6 @@ Kickstarters
 * [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
 * [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
 * [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
-
-<!--
-                                <!--Bootstraptaste  <a href="http://bootstraptaste.com" target="_blank">Website</a>, Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a><br>
-                                Live Bootstrap <a href="http://livebootstrap.com" target="_blank">Website</a>, Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a><br>
-                                <br><br>
-                                Miscellaneous:<br>
-                                HTML5 Boilerplate (Kickstarter) <a href="http://html5boilerplate.com" target="_blank">Website</a>, HTML5 Boilerplate <a href="https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt" target="_blank">License</a><br>
-                                Initializr-Bootstrap (Kickstarter) <a href="http://www.initializr.com/" target="_blank">Website</a><br>
-                                Trianglify (Background Generator) <a href="http://qrohlf.com/trianglify/" target="_blank">Website</a>, Trianglify <a href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a><br>
--->
 
 <!--
 https://developer.mozilla.org/en-US/Apps
@@ -3230,7 +3244,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 https://support.google.com/analytics/answer/1638635?hl=en
 
 http://schema.org/Person
-http://microformats.org
 https://en.wikipedia.org/wiki/HCard
 http://microformats.org/wiki/hcard
 http://microformats.org/code/hcard/creator
@@ -3245,25 +3258,34 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
 * [Google App Invites](https://developers.google.com/app-invites)
 * [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
-* [Google Pagespeed](https://developers.google.com/speed/pagespeed)
+* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
 * [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
 * [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 * [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
 <!--
+  <category name="Performance">
+      <link url="https://developers.google.com/web-toolkit/speedtracer/">Google Speedtracer</link>
+
+    <rule name="Yahoo YSlow score of 85+">
+      <link url="http://yslow.org/">Yahoo's YSlow</link>
+https://developer.yahoo.com/yslow
+-->
+
+<!--
 [Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
 [A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
 
 [Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
-[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
-[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
-[Google Page Speed](https://developers.google.com/speed/pagespeed/) or [Blame Stella](https://www.blamestella.com/)
+[Blame Stella](https://www.blamestella.com/)
 [Google Analytics](http://www.google.co.uk/analytics/) (free) or services such as [Hubspot](http://www.hubspot.com/), [GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
 [SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
-[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
-[Pingdom](https://www.pingdom.com/)
 [Basecamp](http://basecamp.com/)
+
+[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
+[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
+[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
 [Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
 -->
 
@@ -3300,20 +3322,19 @@ Example
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
-https://www.google.com/webmasters/tools/
 Google’s Web Performance Best Practices
 https://developers.google.com/speed/docs/best-practices/rules_intro
 http://www.sitemaps.org
-https://www.xml-sitemaps.com/index.php
 
-YSlow’s Web Performance Best Practices and Rules
-https://developer.yahoo.com/yslow
-https://developers.google.com/speed/pagespeed
+    <rule name="robots.txt">
+      <link url="http://tools.seobook.com/robots-txt/">robots.txt tutorial</link>
+      <link url="http://www.robotsgenerator.com/">Create robots.txt online</link>
+
+    <rule name="XML sitemap">
+      <link url="http://www.xml-sitemaps.com/">Create sitemap online</link>
 -->
 
 <!--
-  <category name="Best practices">
-    <rule name="Read this link">
       <link url="http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development">What you should know</link>
 
     <rule name="Spell-check">
@@ -3323,11 +3344,6 @@ https://developers.google.com/speed/pagespeed
     <rule name="Fix broken links">
       <link url="http://validator.w3.org/checklink">W3C link checker</link>
       <link url="http://iwebtool.com/broken_link_checker">iWebTool Broken Link Checker</link>
-
-    <rule name="Spelling and grammar">
-      <link url="http://en.wikipedia.org/wiki/Capitalization">Capitalization</link>
-      <link url="http://en.wikipedia.org/wiki/Writing_style">Writing Style</link>
-      <link url="http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences">Word Variations e.g. UK vs US</link>
 
     <rule name="Check website in all browsers">
       <link url="http://browsershots.org/">BrowserShots.org</link>
@@ -3369,19 +3385,10 @@ https://developers.google.com/speed/pagespeed
        <link url="https://www.pingdom.com/">Pingdom Website Monitor</link>
       <link url="http://www.gotsitemonitor.com/">GotSiteMonitor.com</link>
 
-    <rule name="Traffic analysis">
-      <link url="http://www.google.com/analytics">Google Analytics</link>
+    <rule name="Traffic analysis"> (Google Analytics)
       <link url="http://statcounter.com/">StatCounter</link>
       <link url="http://clicky.com/">Clicky</link>
       <link url="http://piwik.org/">Piwik</link>
-
-  <category name="Performance">
-    <rule name="Google Page Speed score of 90+">
-      <link url="https://developers.google.com/speed/pagespeed/">Google Page Speed</link>
-      <link url="https://developers.google.com/web-toolkit/speedtracer/">Google Speedtracer</link>
-
-    <rule name="Yahoo YSlow score of 85+">
-      <link url="http://yslow.org/">Yahoo's YSlow</link>
 
     <rule name="Optimize HTTP headers">
       <link url="http://redbot.org">redbot.org</link>
@@ -3393,11 +3400,6 @@ https://developers.google.com/speed/pagespeed
       <link url="http://punypng.com/">PunyPNG.com</link>
       <link url="http://pnggauntlet.com/">PNGGauntlet for Windows</link>
       <link url="http://imageoptim.com/">Image Optim for Mac</link>
-
-    <rule name="Use Content Distribution Network">
-      <link url="http://www.cloudflare.com/">Cloudflare (CDN + security layer)</link>
-      <link url="http://www.akamai.com/">Akamai CDN</link>
-      <link url="http://aws.amazon.com/cloudfront/">Amazon Cloudfront CDN</link>
 
     <rule name="Cloud optimizations">
       <link url="http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2">Reduce I/O to disk</link>
@@ -3442,35 +3444,6 @@ https://developers.google.com/speed/pagespeed
 
     <rule name="Test Responsive design" optional="true">
       <link url="http://responsive.is/">Responsive.is Tester</link>
-
-  <category name="Semantics">
-    <rule name="Add meaning with Microdata">
-      <link url="http://schema.org/">Schema.org reference</link>
-      <link url="http://schema-creator.org/">Schema-Creator.org</link>
-
-    <rule name="Check the semantics">
-      <link url="http://www.w3.org/2003/12/semantic-extractor.html">W3C semantic extractor</link>
-      <link url="http://www.google.com/webmasters/tools/richsnippets">Google Structured Data Testing Tool</link>
-      <link url="https://developers.facebook.com/tools/debug/">Facebook OpenGraph Debugger</link>
-      <link url="https://dev.twitter.com/docs/cards/validation/validator">Twitter Card Validator</link>
-
-  <category name="SEO">
-    <rule name="SenSEO score of 85+">
-      <link url="https://addons.mozilla.org/en-US/firefox/addon/senseo/">SenSEO for Firefox</link>
-      <link url="http://ppcblog.com/how-google-works/">How Google works</link>
-      <link url="http://www.google.com/webmasters/">Google Webmaster Tools</link>
-      <link url="http://www.bing.com/toolbox/webmaster">Bing Webmaster Tools</link>
-
-    <rule name="Google Rich Snippets">
-      <link url="http://www.google.com/webmasters/tools/richsnippets">Online tester</link>
-      <link url="http://schema.org/docs/gs.html">Getting started</link>
-
-    <rule name="robots.txt">
-      <link url="http://tools.seobook.com/robots-txt/">robots.txt tutorial</link>
-      <link url="http://www.robotsgenerator.com/">Create robots.txt online</link>
-
-    <rule name="XML sitemap">
-      <link url="http://www.xml-sitemaps.com/">Create sitemap online</link>
 
     <rule name="A/B Testing">
       <link url="https://github.com/danmaz74/ABalytics">ABalytics</link>
@@ -6029,7 +6002,13 @@ Content Delivery Network
 * [MAXCDN](https://www.maxcdn.com) 
 
 Optimization
-* [Cloudflare](https://www.cloudflare.com) 
+* [Cloudflare (CDN + Security Layer)](https://www.cloudflare.com) 
+
+<!--
+    <rule name="Use Content Distribution Network">
+      <link url="http://www.akamai.com/">Akamai CDN</link>
+      <link url="http://aws.amazon.com/cloudfront/">Amazon Cloudfront CDN</link>
+-->
 
 #### Deployment and Git Integration
 
@@ -9686,6 +9665,13 @@ Journalism Style Guides
 
 BBC
 * [BBC Global Experience Language](http://www.bbc.co.uk/gel)
+
+<!--
+    <rule name="Spelling and grammar">
+      <link url="http://en.wikipedia.org/wiki/Capitalization">Capitalization</link>
+      <link url="http://en.wikipedia.org/wiki/Writing_style">Writing Style</link>
+      <link url="http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences">Word Variations e.g. UK vs US</link>
+-->
 
 <!--
 https://github.com/bbc/gel-test
