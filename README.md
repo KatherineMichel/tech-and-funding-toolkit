@@ -2121,6 +2121,10 @@ GitLab (See also Project Management)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
+<!--
+https://about.gitlab.com/2016/05/23/gitlab-container-registry/
+-->
+
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
 * [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
@@ -2965,6 +2969,8 @@ https://twitter.com/siteinspire
 -->
 
 <!--
+https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits
+
 [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
 
 Design Resources- General
@@ -3255,6 +3261,11 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 
 #### Testing and Performance
 
+<!--
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
+http://shop.oreilly.com/product/0636920041528.do
+-->
+
 * [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
 * [AWS Device Farm](https://aws.amazon.com/device-farm)
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
@@ -3387,6 +3398,8 @@ http://www.sitemaps.org
       <link url="http://www.uptimerobot.com/">Uptime robot</link>
        <link url="https://www.pingdom.com/">Pingdom Website Monitor</link>
       <link url="http://www.gotsitemonitor.com/">GotSiteMonitor.com</link>
+
+http://tools.pingdom.com/fpt
 
     <rule name="Traffic analysis"> (Google Analytics)
       <link url="http://statcounter.com/">StatCounter</link>
@@ -5904,6 +5917,8 @@ https://devcenter.heroku.com/changelog-items/653
 
 http://stackoverflow.com/questions/35389389/how-can-i-host-my-own-parse-server-on-heroku-using-mongodb
 http://stackoverflow.com/questions/31608615/heroku-fork-heroku-gitclone-new-app-works-but-empty-repository
+
+https://www.google.com/search?client=safari&rls=en&q=heroku+ps:scale+web=1&ie=UTF-8&oe=UTF-8
 -->
 
 Heroku- Pricing and App Limits
