@@ -857,6 +857,10 @@ https://live.fb.com
 
 Facebook's Advertisers Tool
 https://developers.facebook.com/docs/javascript
+
+Facebook Insights
+https://developers.facebook.com/docs/platforminsights
+https://developers.facebook.com/docs/platforminsights/domains
 -->
 
 Google
@@ -882,18 +886,14 @@ Google Rich Snippets
 * [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
 
 <!--
-    <rule name="Add meaning with Microdata">
+Microdata
       <link url="http://schema-creator.org/">Schema-Creator.org</link>
 
     <rule name="Check the semantics">
       <link url="http://www.w3.org/2003/12/semantic-extractor.html">W3C semantic extractor</link>
-      <link url="http://www.google.com/webmasters/tools/richsnippets">Google Structured Data Testing Tool, Online tester</link>
+      <link url="http://www.google.com/webmasters/tools/richsnippets">Google Structured Data Online Testing Tool
       <link url="https://developers.facebook.com/tools/debug/">Facebook OpenGraph Debugger</link>
-      <link url="https://dev.twitter.com/docs/cards/validation/validator">Twitter Card Validator</link>
 
-  <category name="SEO">
-    <rule name="SenSEO score of 85+">
-      <link url="https://addons.mozilla.org/en-US/firefox/addon/senseo/">SenSEO for Firefox</link>
       <link url="http://ppcblog.com/how-google-works/">How Google works</link>
  
       <link url="http://www.google.com/webmasters/">Google Webmaster Tools</link>
@@ -928,7 +928,7 @@ Twitter
 * [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
 * [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 * [Twitter Business](https://biz.twitter.com)
-* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Cards Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
 * [Twitter Curator](https://curator.twitter.com)
 * [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
 
@@ -1173,6 +1173,10 @@ File Types and Extensions
 Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
+
+<!--
+https://hackerone.com
+-->
 
 Naming Conventions
 * [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
@@ -1664,6 +1668,12 @@ Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 <!--
+  <category name="SEO">
+    <rule name="SenSEO score of 85+">
+      <link url="https://addons.mozilla.org/en-US/firefox/addon/senseo/">SenSEO for Firefox</link>
+-->
+
+<!--
 Browser Statistics
 
 http://www.gnu.org/software/coreutils/manual/coreutils.html
@@ -1987,6 +1997,10 @@ https://help.github.com/articles/about-repository-graphs#traffic
 https://github.com/github/hub
 
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
+https://help.github.com/articles/set-up-git
+https://help.github.com/articles/caching-your-github-password-in-git/
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
 
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2046-github-desktop-is-now-available
@@ -3262,6 +3276,7 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 #### Testing and Performance
 
 <!--
+https://hpbn.co
 http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
 http://shop.oreilly.com/product/0636920041528.do
 -->
@@ -3271,21 +3286,13 @@ http://shop.oreilly.com/product/0636920041528.do
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
 * [Google App Invites](https://developers.google.com/app-invites)
 * [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
-* [Google GWT](http://www.gwtproject.org)
+* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
 * [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
 * [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
 * [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
 * [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-<!--
-  <category name="Performance">
-      <link url="https://developers.google.com/web-toolkit/speedtracer/">Google Speedtracer</link>
-
-    <rule name="Yahoo YSlow score of 85+">
-      <link url="http://yslow.org/">Yahoo's YSlow</link>
-https://developer.yahoo.com/yslow
--->
+* [Yahoo YSlow score of 85+](http://yslow.org)
 
 <!--
 [Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
@@ -3351,13 +3358,13 @@ http://www.sitemaps.org
 <!--
       <link url="http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development">What you should know</link>
 
-    <rule name="Spell-check">
       <link url="http://www.jetbrains.com/idea/webhelp/spellchecking.html">IntelliJ IDEA Spell Checker</link>
 
-  <category name="Best practices">
-    <rule name="Fix broken links">
       <link url="http://validator.w3.org/checklink">W3C link checker</link>
       <link url="http://iwebtool.com/broken_link_checker">iWebTool Broken Link Checker</link>
+      <link url="http://validator.w3.org/">W3C HTML validator</link>
+      <link url="http://jigsaw.w3.org/css-validator/">W3C CSS validator</link>
+      <link url="http://validator.w3.org/i18n-checker/">W3C i18n checker</link>
 
     <rule name="Check website in all browsers">
       <link url="http://browsershots.org/">BrowserShots.org</link>
@@ -3373,7 +3380,6 @@ http://www.sitemaps.org
     <rule name="Add the attribute rel='nofollow' to user-generated links to avoid spam" />
     <rule name="Redirect after a POST to prevent a refresh from submitting again" />
 
-  <category name="Mobile">
     <rule name="MobileOK score of 75+">
       <link url="http://validator.w3.org/mobile/">W3C mobile checker</link>
 
@@ -3464,13 +3470,8 @@ http://tools.pingdom.com/fpt
     <rule name="A/B Testing">
       <link url="https://github.com/danmaz74/ABalytics">ABalytics</link>
 
-  <category name="Code quality">
     <rule name="HTML validation">
-      <link url="http://validator.w3.org/">W3C HTML validator</link>
       <link url="http://watson.addy.com/">Dr. Watson</link>
-
-    <rule name="CSS validation">
-      <link url="http://jigsaw.w3.org/css-validator/">W3C CSS validator</link>
 
     <rule name="Run CSS Lint">
       <link url="http://csslint.net/">Run CSS Lint online</link>
@@ -3478,9 +3479,6 @@ http://tools.pingdom.com/fpt
     <rule name="Run JSLint/JSHint">
       <link url="http://jslint.org/">Run JSLint online</link>
       <link url="http://jshint.com/">Run JSHint online</link>
-
-    <rule name="World ready">
-      <link url="http://validator.w3.org/i18n-checker/">W3C i18n checker</link>
 
     <rule name="Verify source code (Scala)">
       <link url="http://www.scalastyle.org/">Scala Style</link>
@@ -3541,11 +3539,6 @@ http://tools.pingdom.com/fpt
       <link url="https://github.com/oxdef/csp-tester">CSP Tester</link>
 
   <category name="Social Media">
-    <rule name="Open Graph protocol" optional="true">
-      <link url="http://ogp.me/">Open Graph protocol reference</link>
-    <rule name="Twitter Cards" optional="true">
-      <link url="https://dev.twitter.com/docs/cards">Documentation</link>
-      <link url="https://developers.facebook.com/docs/insights/">Facebook Insights</link>
     <rule name="Add humans.txt" optional="true">
       <link url="http://humanstxt.org/">We are humans, not machines!</link>
       <link url="https://github.com/kaiinkinen/pvm">Play Version Manager</link>
@@ -4627,6 +4620,15 @@ https://testcloud.xamarin.com/devices
 Azure (See also Apache and SQL)
 * [Azure](https://azure.microsoft.com) and [Azure Pricing](https://azure.microsoft.com/en-us/pricing)
 
+<!--
+https://tryappservice.azure.com
+https://en.wikipedia.org/wiki/Microsoft_Azure_Web_Sites
+https://azure.microsoft.com/en-us/pricing/details/app-service
+https://azure.microsoft.com/en-us/free/pricing-offers
+https://azure.microsoft.com/en-us/blog/visual-studio-code-and-azure-app-service-a-perfect-fit
+https://azure.microsoft.com/en-us/documentation/articles/vs-azure-tools-docker-hosting-web-apps-in-docker
+-->
+
 Transact-SQL
 * [Transact-SQL Wikipedia](https://en.wikipedia.org/wiki/Transact-SQL)
 
@@ -4658,6 +4660,37 @@ Nancy
 
 .NET Platform as a Service
 * [AppHarbor](https://appharbor.com)
+
+<!--
+https://code.visualstudio.com/Docs
+https://code.visualstudio.com/docs/languages/dockerfile
+
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+https://docs.asp.net/en/latest/getting-started.html
+
+http://www.asp.net/core
+https://github.com/heroku-net/aspnetcore
+
+http://referencesource.microsoft.com
+
+https://docs.docker.com/engine/reference/builder/
+
+https://blogs.msdn.microsoft.com/vscode/2015/08/11/getting-started-with-docker/
+https://blogs.msdn.microsoft.com/webdev/2015/01/14/running-asp-net-5-applications-in-linux-containers-with-docker/
+https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/
+
+https://www.visualstudio.com/en-us/docs/release/examples/docker/aspnet-core10-docker
+
+https://blog.xamarin.com/build-c-f-apps-on-your-ipad-with-continuous/
+
+http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
+https://blogs.aws.amazon.com/net/post/TxSBK1AHRGLHVC/Exploring-ASP-NET-Core-Part-1-Deploying-from-GitHub
+
+Dockerrun.aws.json
+
+http://www.iis.net/learn/publish/using-web-deploy
+-->
 
 #### Python and Django Toolkit
 
@@ -5905,19 +5938,6 @@ Heroku- General
 <!--
 All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
 
-https://github.com/heroku/heroku-apps
-
-https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-local-branches-to-remote-apps
--->
-<!--
-https://devcenter.heroku.com/articles/how-heroku-works
-https://devcenter.heroku.com/articles/error-codes
-https://devcenter.heroku.com/articles/fork-app#git-repository
-https://devcenter.heroku.com/changelog-items/653
-
-http://stackoverflow.com/questions/35389389/how-can-i-host-my-own-parse-server-on-heroku-using-mongodb
-http://stackoverflow.com/questions/31608615/heroku-fork-heroku-gitclone-new-app-works-but-empty-repository
-
 https://www.google.com/search?client=safari&rls=en&q=heroku+ps:scale+web=1&ie=UTF-8&oe=UTF-8
 -->
 
@@ -5950,23 +5970,18 @@ Heroku- Deployment
 * [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
 
 <!--
-https://devcenter.heroku.com/changelog-items/926
+https://github.com/heroku/heroku-apps
+
+https://devcenter.heroku.com/articles/how-heroku-works
+https://devcenter.heroku.com/articles/error-codes
+
+Heroku’s support for running multiple buildpacks against a single application now has first-class support in the Heroku Toolbelt.
+https://devcenter.heroku.com/changelog-items/653
 -->
 
 Heroku- Addons
 * [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
 * [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-<!--
-https://aws.amazon.com/s3/pricing/
-https://devcenter.heroku.com/articles/s3
-
-https://pypi.python.org/pypi/django-toolbelt
-https://pypi.python.org/pypi/static3/0.5
-https://pypi.python.org/pypi/boto
-https://github.com/boto/boto3
-https://aws.amazon.com/sdk-for-python/
--->
 
 Heroku- App Architecture
 * [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
@@ -6018,13 +6033,12 @@ Cross Platform Dev Environment
 Content Delivery Network
 * [Google Cloud CDN](https://cloud.google.com/compute/docs/load-balancing/http/cdn)
 * [MAXCDN](https://www.maxcdn.com) 
+* [Akamai CDN](http://www.akamai.com)
 
 Optimization
 * [Cloudflare (CDN + Security Layer)](https://www.cloudflare.com) 
 
 <!--
-    <rule name="Use Content Distribution Network">
-      <link url="http://www.akamai.com/">Akamai CDN</link>
       <link url="http://aws.amazon.com/cloudfront/">Amazon Cloudfront CDN</link>
 -->
 
@@ -6034,15 +6048,15 @@ Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 
 <!--
-https://help.github.com/articles/caching-your-github-password-in-git/
+https://devcenter.heroku.com/articles/s3
+
+https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-local-branches-to-remote-apps
 
 https://devcenter.heroku.com/articles/renaming-apps
 https://devcenter.heroku.com/articles/fork-app
+
 https://devcenter.heroku.com/articles/git-repository-ssh-fingerprints
 
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
-
-https://help.github.com/articles/set-up-git
 https://help.github.com/articles/error-permission-denied-publickey
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 -->
@@ -6075,12 +6089,14 @@ Heroku Git Integration
 * [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
 * [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
 
-<!--
-Heroku Button
--->
-
 Git Cloning Existing Heroku Applications
 * [Git Cloning Existing Heroku Applications](https://devcenter.heroku.com/articles/git-clone-heroku-app)
+
+<!--
+https://devcenter.heroku.com/articles/fork-app#git-repository
+http://stackoverflow.com/questions/35389389/how-can-i-host-my-own-parse-server-on-heroku-using-mongodb
+http://stackoverflow.com/questions/31608615/heroku-fork-heroku-gitclone-new-app-works-but-empty-repository
+-->
 
 Ubuntu (Debian) Deployment
 * [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
@@ -6144,9 +6160,15 @@ https://devcenter.heroku.com/articles/django-assets
 
 Python- Amazon
 * [AWS Python](https://aws.amazon.com/python)
+* [AWS Python SDK (Boto) PyPi](https://pypi.python.org/pypi/boto)
 * [AWS Python SDK (Boto3)](https://aws.amazon.com/sdk-for-python) and [Boto3 GitHub](https://github.com/boto/boto3)
 * [Getting Started with the AWS SDK for Python (Boto)](http://aws.amazon.com/developers/getting-started/python)
 * [Deploying a Python Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html)
+
+<!--
+https://pypi.python.org/pypi/django-toolbelt
+https://pypi.python.org/pypi/static3/0.5
+-->
 
 Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
 * [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template) 
@@ -6453,7 +6475,9 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-
 https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
 https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
+
 https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
+https://www.digitalocean.com/community/questions/how-can-i-host-multiple-domains-in-one-droplet
 -->
 
 Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
@@ -6473,20 +6497,29 @@ Docker
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
 <!--
+Possibly repeat
+https://docs.docker.com/engine/installation/mac
+
+https://github.com/dotnet/core/blob/master/cli/known-issues.md#users-of-zsh-z-shell-dont-get-dotnet-on-the-path-after-install
+https://www.microsoft.com/net/core#macos
+https://www.microsoft.com/net/core#docker
+
+https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker
+
+<!--
 https://docs.docker.com/mac
+
+https://docs.docker.com/docker-for-mac
+
+https://docs.docker.com/engine/reference/builder
 
 https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
 https://devcenter.heroku.com/articles/container-registry-and-runtime
 https://blog.heroku.com/introducing_heroku_docker_release_build_deploy_heroku_apps_with_docker
 https://github.com/heroku/heroku-container-tools
 
-https://docs.docker.com/docker-for-mac/
-
-https://docs.docker.com/engine/reference/builder/
-
 https://github.com/heroku/dotnet-buildpack
 
-https://hub.docker.com
 https://hub.docker.com/r/microsoft/aspnet/
 https://hub.docker.com/r/microsoft/dotnet
 https://hub.docker.com/r/heroku/cedar/
@@ -6499,6 +6532,8 @@ https://github.com/aspnet/aspnet-docker
 https://github.com/herokumx/herokumxnet
 https://github.com/jincod/AspNet5DemoApp
 https://github.com/aspnet/MusicStore
+https://elements.heroku.com/buttons/aspnet/musicstore
+https://github.com/nisarkhan/AspNet5DemoApp-heroku
 
 microsoft/aspnet:1.0.0-rc1-final
 https://github.com/OmniSharp/generator-aspnet/issues/524
@@ -6509,6 +6544,12 @@ https://github.com/heroku?utf8=%E2%9C%93&query=docker
 
 https://code.visualstudio.com/docs/languages/dockerfile
 -->
+
+<!--
+Container registry public beta - deploy Docker images to Heroku
+https://devcenter.heroku.com/changelog-items/926
+-->
+
 * [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s)
 
 VMware, Vagrant, VirtualBox
@@ -6562,10 +6603,6 @@ Web Accelerator
 * [Varnish Cache](https://www.varnish-cache.org)  
 * [Varnish](https://www.varnish-software.com)  
 * [Varnish Wikipedia](http://en.wikipedia.org/wiki/Varnish_(software))  
-
-<!--
-https://www.varnish-cache.org/docs/4.0/users-guide
--->
 
 Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 * [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
@@ -7871,6 +7908,9 @@ Google Products, Office
 
 <!--
 https://myactivity.google.com/myactivity
+
+https://www.google.com/alerts
+http://www.nytimes.com/content/help/account/myalerts/myalerts.html
 -->
 
 Google Docs and Research
@@ -7982,16 +8022,18 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
-https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
-https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
-
-http://salary.com
-
 https://angel.co/jobs
 https://weworkremotely.com
 https://teleport.org/remote
 
 https://news.ycombinator.com/item?id=12016568
+-->
+
+<!--
+https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
+https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
+
+http://salary.com
 -->
 
 Kits
@@ -8439,7 +8481,7 @@ VC Firm Numbers
 
 VC Firm Portfolios and Anti-Portfolios
 * [A16Z Portfolio](http://a16z.com/portfolio) and [A16Z Seeds](http://a16z.com/seeds)
-* [Bessemer Venture Partners Anti-Portfolio](http://www.bvp.com/portfolio/antiportfolio)
+* [Bessemer Venture Partners Anti-Portfolio](https://www.bvp.com/portfolio/anti-portfolio)
 * [Expa Portfolio](http://expa.com/#portfolio)
 * [Homebrew Companies](http://www.homebrew.co/#companies)
 * [StartX Stanford Companies](http://startx.stanford.edu/companies) 
@@ -9511,8 +9553,12 @@ Companies
 * [Great Place to Work](http://www.greatplacetowork.com)
 
 <!--
-https://klic.dol.ks.gov/vosnet/Logoff.aspx?clearsession=true
-https://www.google.com/?client=safari#q=us+bureau+of+labor+stats
+Kansas Labor Information Center
+https://klic.dol.ks.gov/vosnet/Default.aspx
+
+Bureau of Labor Statistics
+https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics
+http://www.bls.gov
 -->
 
 #### Government and International Data
