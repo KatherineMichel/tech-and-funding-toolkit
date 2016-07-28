@@ -107,11 +107,6 @@ Table of Content
 * [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 * [Data Science](#data-science)
 
-
-* [Philosophies, Milestones](#philosophies-milestones)
-* [Notable Interviews and Presentations](#notable-interviews-and-presentations)
-* [Notable Quotes](#notable-quotes)
-
 * [Appendix](#appendix)
 * [Other Enormous Tool Lists](#other-enormous-tool-lists)
 * [Popular Tools](#popular-tools)
@@ -146,6 +141,10 @@ Table of Content
 * [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
   * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
   * [Chance](#chance)
+
+* [Philosophies, Milestones](#philosophies-milestones)
+* [Notable Interviews and Presentations](#notable-interviews-and-presentations)
+* [Notable Quotes](#notable-quotes)
 
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
@@ -4459,6 +4458,17 @@ Wikitech Development
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
+https://docs.asp.net/en/latest
+https://docs.asp.net/en/latest/mvc/views/tag-helpers/intro.html
+https://github.com/aspnet/Docs
+https://docs.asp.net/en/latest/tutorials/first-mvc-app/start-mvc.html
+http://www.asp.net/learn
+https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
+https://code.visualstudio.com/Docs/setup/setup-overview
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+
+
 https://www.codeschool.com/courses/try-net-mvc
 https://docs.asp.net/en/latest/client-side/yeoman.html
 https://github.com/heroku-net/aspnetcore
@@ -7682,110 +7692,6 @@ General Terminology
 
 
 
-
-#### Philosophies, Milestones
-
-Company Internal Policies
-* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
-* [Amazon: Back of the Napkin Drawing](http://a16z.com/2014/09/05/why-amazon-has-no-profits-and-why-it-works)
-* [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
-* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) and [Tesla Master Plan Deux](https://www.tesla.com/blog/master-plan-part-deux)
-
-<!--
-http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
-https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
-http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
-https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html
-https://twitter.com/ValaAfshar/status/736956353042862080
--->
-
-Good Infographics
-* [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
-* [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
-* [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
-* [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
-
-Miscellaneous
-* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
-* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
-* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
-* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
-* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-
-Laws
-* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
-* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
-
-Models and Theories
-* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
-* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
-* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
-* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
-* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
-
-<!--
-http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=UTF8&ref_=cm_sw_r_cp_awd_tvhaxbCH8XQPF
-https://en.m.wikipedia.org/wiki/Anthropomorphism
-
-https://en.wikipedia.org/wiki/360-degree_feedback
-https://en.wikipedia.org/wiki/Institutional_memory
-https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
-
-https://en.wikipedia.org/wiki/Net_Promoter
-https://www.netpromoter.com/know/
--->
-
-Computer Lore
-* [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
-* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
-
-#### Notable Interviews and Presentations
-
-Trends
-* [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
-* [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
-* [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
-
-Famous
-* [Amazon 1997 Shareholders Letter](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
-* [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
-* [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
-* [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
-* [Steve Jobs: The Pitchman](https://www.facebook.com/METalInternational/videos/10153781985002446)
-
-Innovation and Excellence
-* [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
-* [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
-
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-Google
-* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
-* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
-* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
-* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
-
-#### Notable Quotes
-
-* [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
-* [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
-* [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
-* [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
-* [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
-* [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
-* [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
-* [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
-* [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
-* [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
-* [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
-* [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
-* [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
-* [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
-
 #### Appendix
 
 #### Other Enormous Tool Lists
@@ -8404,10 +8310,6 @@ Unboxing
 
 #### Books and Courses
 
-<!--
-* [Whole Earth Catalog Back Issues](http://www.wholeearth.com/back-issues.php)
--->
-
 Books
 * [Andy Grove: High Output Management](http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 * [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
@@ -8432,6 +8334,9 @@ http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
 
 http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
 -->
+
+Whole Earth Catalog
+* [Whole Earth Catalog Back Issues](http://www.wholeearth.com/back-issues.php)
 
 Books- Historical
 * [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
@@ -9709,6 +9614,109 @@ Nassim Nicholas Taleb's Teachings
 * [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
 * [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
 
+
+#### Philosophies, Milestones
+
+Company Internal Policies
+* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
+* [Amazon: Back of the Napkin Drawing](http://a16z.com/2014/09/05/why-amazon-has-no-profits-and-why-it-works)
+* [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
+* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) and [Tesla Master Plan Deux](https://www.tesla.com/blog/master-plan-part-deux)
+
+<!--
+http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
+https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
+http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
+https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html
+https://twitter.com/ValaAfshar/status/736956353042862080
+-->
+
+Good Infographics
+* [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
+* [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
+* [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
+* [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
+
+Miscellaneous
+* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
+* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
+* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
+* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
+* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+
+Laws
+* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
+* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
+
+Models and Theories
+* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
+* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
+* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
+* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
+* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+
+<!--
+http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=UTF8&ref_=cm_sw_r_cp_awd_tvhaxbCH8XQPF
+https://en.m.wikipedia.org/wiki/Anthropomorphism
+
+https://en.wikipedia.org/wiki/360-degree_feedback
+https://en.wikipedia.org/wiki/Institutional_memory
+https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
+
+https://en.wikipedia.org/wiki/Net_Promoter
+https://www.netpromoter.com/know/
+-->
+
+Computer Lore
+* [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
+* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
+
+#### Notable Interviews and Presentations
+
+Trends
+* [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
+* [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
+* [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
+
+Famous
+* [Amazon 1997 Shareholders Letter](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
+* [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
+* [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
+* [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
+* [Steve Jobs: The Pitchman](https://www.facebook.com/METalInternational/videos/10153781985002446)
+
+Innovation and Excellence
+* [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
+* [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+Google
+* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
+* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
+* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
+* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
+
+#### Notable Quotes
+
+* [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
+* [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
+* [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
+* [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
+* [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
+* [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
+* [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
+* [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
+* [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
+* [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
+* [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
+* [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
+* [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
+* [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
 
 #### Journalism Handbooks and Grammatical Style Guides
 
