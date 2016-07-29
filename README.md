@@ -2717,6 +2717,10 @@ Documentation- General
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Packt](https://www.packtpub.com) [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 
+<!--
+http://stackoverflow.com/documentation
+-->
+
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 
@@ -4480,6 +4484,9 @@ Microsoft General Resources
 * [Microsoft Support](https://support.microsoft.com)
 * [Microsoft TechNet](http://technet.microsoft.com)
 
+Microsoft Virtual Academy
+* [Microsoft Virtual Academy](https://mva.microsoft.com)
+
 Microsoft Library
 * [Microsoft Library](https://msdn.microsoft.com/library)
 * [Microsoft Library Table of Contents](https://msdn.microsoft.com/library/ms310241)
@@ -4488,6 +4495,11 @@ C#
 * [C# Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 * [C# Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [Learn X in Y Minutes C#](https://learnxinyminutes.com/docs/csharp)
+
+<!--
+https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+-->
 
 .NET
 * [Microsoft.github.io](http://microsoft.github.io)  
@@ -4500,6 +4512,10 @@ C#
 * [Installing .NET Core on OS X](http://dotnet.github.io/docs/getting-started/installing/installing-core-osx.html)
 * [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
+<!--
+https://www.codeschool.com/courses/try-net-mvc
+-->
+
 .NET Fiddle
 * [.NET Fiddle](https://dotnetfiddle.net)
 
@@ -4507,56 +4523,23 @@ ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
 <!--
-https://www.codeschool.com/courses/try-net-mvc
+Learn ASP
+-->
 
-https://code.visualstudio.com/Docs
-https://code.visualstudio.com/Docs/setup/setup-overview
-
-https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
-
-https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
-
-https://github.com/aspnet/Docs
-https://docs.asp.net/en/latest
-https://docs.asp.net/en/latest/getting-started.html
-https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
-https://docs.asp.net/en/latest/tutorials/first-mvc-app/start-mvc.html
-https://docs.asp.net/en/latest/mvc/views/tag-helpers/intro.html
-https://docs.asp.net/en/latest/client-side/yeoman.html
-
-http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html
-https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
-
-https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
-https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
-
+<!--
 https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
 
-http://www.asp.net/mvc
-http://www.asp.net/core
-http://www.asp.net/learn
-
-https://mva.microsoft.com
-
-https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
-
-https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
-
-https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
-
-https://github.com/Microsoft/api-guidelines
-
-.NET Framework 4.6 and 4.5
-https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
-
 https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
-
-https://github.com/aspnet/Mvc/tree/dev/samples
-https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
 -->
 
 ASP.NET- Home
 * [ASP.NET](http://www.asp.net) and [ASP.NET Downloads](http://www.asp.net/downloads)
+
+<!--
+http://www.asp.net/mvc
+http://www.asp.net/core
+http://www.asp.net/learn
+-->
 
 ASP.NET- GitHub
 * [ASP.NET Home GitHub](https://github.com/aspnet/Home), and [ASP.NET Docs GitHub](https://github.com/aspnet/Docs)
@@ -4567,13 +4550,26 @@ ASP.NET- GitHub
 * [ASP.NET Identity GitHub](https://github.com/aspnet/Identity)
 * [ASP.NET DNX](https://github.com/aspnet/dnx)
 
-<!--
-Learn ASP
--->
-
 Installing ASP.NET
 * [Installing ASP.NET 5 On Linux](https://docs.asp.net/en/latest/getting-started/installing-on-linux.html)
 * [Installing ASP.NET 5 On Windows](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
+
+<!--
+https://docs.asp.net/en/latest
+https://docs.asp.net/en/latest/getting-started.html
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+https://docs.asp.net/en/latest/tutorials/first-mvc-app/start-mvc.html
+https://docs.asp.net/en/latest/mvc/views/tag-helpers/intro.html
+https://docs.asp.net/en/latest/client-side/yeoman.html
+
+https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
+
+https://github.com/aspnet/Mvc/tree/dev/samples
+https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
+
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
+https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
+-->
 
 ASP.NET- Docs
 * [ASP.NET Docs](http://docs.asp.net)
@@ -4581,35 +4577,6 @@ ASP.NET- Docs
 * ["Getting Started"](https://docs.asp.net/projects/mvc/en/latest/getting-started/index.html)
 * ["Your First ASP.NET 5 Web App Using Visual Studio"](http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html)
 * [ASP.NET Live](https://live.asp.net)
-
-<!--
-https://github.com/heroku-net/aspnetcore
-
-https://blog.xamarin.com/build-c-f-apps-on-your-ipad-with-continuous/
-
-http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
-https://blogs.aws.amazon.com/net/post/TxSBK1AHRGLHVC/Exploring-ASP-NET-Core-Part-1-Deploying-from-GitHub
-
-http://www.iis.net/learn/publish/using-web-deploy
-
-https://www.pluralsight.com/authors/scott-allen
-
-Tutorial
-https://www.youtube.com/watch?v=EghnSvJ8h68
-http://www.asp.net/mvc/videos/pluralsight-building-applications-with-aspnet-mvc-4
-http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
-https://www.pluralsight.com/courses/mvc4-building
-https://app.pluralsight.com/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
-
-https://github.com/Microsoft/vscode-samples/tree/master/node-express-javascript
-
-Website Example
-https://github.com/aspnet/live.asp.net
-https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
-https://github.com/Microsoft/vscode-samples
-https://github.com/aspnetboilerplate/sample-blog-module
-https://github.com/aspnet/Mvc/tree/dev/samples
--->
 
 W3Schools ASP.NET
 * [W3Schools ASP.NET Tutorial](http://www.w3schools.com/aspnet)
@@ -4626,6 +4593,11 @@ Visual Studio
 * [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
 
 <!--
+https://code.visualstudio.com/Docs
+https://code.visualstudio.com/Docs/setup/setup-overview
+
+https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
+
 Visual Studio 2015 Getting Started with Python
 https://msdn.microsoft.com/en-us/library/dn705848.aspx
 https://github.com/Microsoft/PTVS/releases/v2.2
@@ -4707,6 +4679,42 @@ Nancy
 
 .NET Platform as a Service
 * [AppHarbor](https://appharbor.com)
+
+<!--
+https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
+
+https://github.com/Microsoft/api-guidelines
+
+.NET Framework 4.6 and 4.5
+https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
+
+https://github.com/heroku-net/aspnetcore
+
+https://blog.xamarin.com/build-c-f-apps-on-your-ipad-with-continuous/
+
+http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
+https://blogs.aws.amazon.com/net/post/TxSBK1AHRGLHVC/Exploring-ASP-NET-Core-Part-1-Deploying-from-GitHub
+
+http://www.iis.net/learn/publish/using-web-deploy
+
+https://www.pluralsight.com/authors/scott-allen
+
+Tutorial
+https://www.youtube.com/watch?v=EghnSvJ8h68
+http://www.asp.net/mvc/videos/pluralsight-building-applications-with-aspnet-mvc-4
+http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+https://www.pluralsight.com/courses/mvc4-building
+https://app.pluralsight.com/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
+
+https://github.com/Microsoft/vscode-samples/tree/master/node-express-javascript
+
+Website Example
+https://github.com/aspnet/live.asp.net
+https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinuxOSX.md
+https://github.com/Microsoft/vscode-samples
+https://github.com/aspnetboilerplate/sample-blog-module
+https://github.com/aspnet/Mvc/tree/dev/samples
+-->
 
 #### Python and Django Toolkit
 
@@ -8390,6 +8398,18 @@ Public Speaking
 
 #### Business and Tech News Sources
 
+<!--
+Check Often
+* [Product Hunt Today](http://ph.needles.me)
+* [Makerbase Explore](https://makerba.se/explore)
+* [StackShare Trending](http://stackshare.io/trending/tools) 
+
+More News
+* [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
+* Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+-->
+
 Business News
 * [Bloomberg (Business)](http://www.bloomberg.com) and [Bloomberg Live](http://www.bloomberg.com/live)
 * [BloombergView](http://www.bloombergview.com) and [BloombergView Tech](http://www.bloombergview.com/topics/tech)
@@ -8446,18 +8466,6 @@ STEM Journals
 * [Science News](https://www.sciencenews.org)
 * [Social Sciences Research Network](http://www.ssrn.com/en) and [Social Sciences Research Network Search](http://papers.ssrn.com)
 
-<!--
-Check Often
-* [Product Hunt Today](http://ph.needles.me)
-* [Makerbase Explore](https://makerba.se/explore)
-* [StackShare Trending](http://stackshare.io/trending/tools) 
-
-More News
-* [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
-* Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
--->
-
 Tech Aggregated, Question and Answer Forums
 * [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 * [Inside Tech](https://www.inside.com/tech)
@@ -8471,9 +8479,6 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
-http://avc.com/2016/07/stack-documentation/
-http://stackoverflow.com/documentation
-
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
