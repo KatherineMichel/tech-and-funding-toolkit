@@ -132,6 +132,7 @@ Table of Content
   * [Regulation, Business Entity](#regulation-business-entity)
   * [Documents and Advice](#documents-and-advice)
   * [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
+
 * [Launch](#launch)
   * [Metrics](#metrics)
   * [Launch Strategies](#launch-strategies)
@@ -4458,27 +4459,6 @@ Wikitech Development
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
-https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
-https://docs.asp.net/en/latest
-https://docs.asp.net/en/latest/mvc/views/tag-helpers/intro.html
-https://github.com/aspnet/Docs
-https://docs.asp.net/en/latest/tutorials/first-mvc-app/start-mvc.html
-http://www.asp.net/learn
-https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
-https://code.visualstudio.com/Docs/setup/setup-overview
-https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
-
-
-https://www.codeschool.com/courses/try-net-mvc
-https://docs.asp.net/en/latest/client-side/yeoman.html
-https://github.com/heroku-net/aspnetcore
-https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
-https://github.com/Microsoft/api-guidelines
-https://mva.microsoft.com
-
-
-https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
-
 * [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
 
 JavaScript- Microsoft
@@ -4526,6 +4506,55 @@ C#
 ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
+<!--
+https://www.codeschool.com/courses/try-net-mvc
+
+https://code.visualstudio.com/Docs
+https://code.visualstudio.com/Docs/setup/setup-overview
+
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
+
+https://github.com/aspnet/Docs
+https://docs.asp.net/en/latest
+https://docs.asp.net/en/latest/getting-started.html
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+https://docs.asp.net/en/latest/tutorials/first-mvc-app/start-mvc.html
+https://docs.asp.net/en/latest/mvc/views/tag-helpers/intro.html
+https://docs.asp.net/en/latest/client-side/yeoman.html
+
+http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html
+https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
+
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
+https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
+
+https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
+
+http://www.asp.net/mvc
+http://www.asp.net/core
+http://www.asp.net/learn
+
+https://mva.microsoft.com
+
+https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
+
+https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
+
+https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
+
+https://github.com/Microsoft/api-guidelines
+
+.NET Framework 4.6 and 4.5
+https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
+
+https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
+
+https://github.com/aspnet/Mvc/tree/dev/samples
+https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
+-->
+
 ASP.NET- Home
 * [ASP.NET](http://www.asp.net) and [ASP.NET Downloads](http://www.asp.net/downloads)
 
@@ -4554,21 +4583,14 @@ ASP.NET- Docs
 * [ASP.NET Live](https://live.asp.net)
 
 <!--
-http://www.asp.net/mvc
-https://github.com/aspnet/home
+https://github.com/heroku-net/aspnetcore
 
-.NET Framework 4.6 and 4.5
-https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx
+https://blog.xamarin.com/build-c-f-apps-on-your-ipad-with-continuous/
 
-http://docs.asp.net/en/latest/tutorials/your-first-aspnet-application.html
-https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
-https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-mvc.html
-https://docs.asp.net/en/latest/tutorials/first-mvc-app
+http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
+https://blogs.aws.amazon.com/net/post/TxSBK1AHRGLHVC/Exploring-ASP-NET-Core-Part-1-Deploying-from-GitHub
 
-https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
-
-https://github.com/aspnet/Mvc/tree/dev/samples
-https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
+http://www.iis.net/learn/publish/using-web-deploy
 
 https://www.pluralsight.com/authors/scott-allen
 
@@ -4579,11 +4601,6 @@ http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m1-
 https://www.pluralsight.com/courses/mvc4-building
 https://app.pluralsight.com/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building
 
-https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
-https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
-
-https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
-
 https://github.com/Microsoft/vscode-samples/tree/master/node-express-javascript
 
 Website Example
@@ -4592,13 +4609,6 @@ https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinux
 https://github.com/Microsoft/vscode-samples
 https://github.com/aspnetboilerplate/sample-blog-module
 https://github.com/aspnet/Mvc/tree/dev/samples
-
-Visual Studio 2015 Getting Started with Python
-https://msdn.microsoft.com/en-us/library/dn705848.aspx
-https://github.com/Microsoft/PTVS/releases/v2.2
-https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
-Python Web Projects
-https://github.com/Microsoft/PTVS/wiki/Web-Project
 -->
 
 W3Schools ASP.NET
@@ -4614,6 +4624,15 @@ Visual Studio
 * [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 * [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
 * [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
+
+<!--
+Visual Studio 2015 Getting Started with Python
+https://msdn.microsoft.com/en-us/library/dn705848.aspx
+https://github.com/Microsoft/PTVS/releases/v2.2
+https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
+Python Web Projects
+https://github.com/Microsoft/PTVS/wiki/Web-Project
+-->
 
 Nuget
 * [NuGet](https://www.nuget.org) and [Nuget Packages](https://www.nuget.org/packages)
@@ -4662,6 +4681,20 @@ ASP.NET- Docker
 * [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
 * [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
 
+<!--
+https://code.visualstudio.com/docs/languages/dockerfile
+
+https://docs.docker.com/engine/reference/builder/
+
+https://blogs.msdn.microsoft.com/vscode/2015/08/11/getting-started-with-docker/
+https://blogs.msdn.microsoft.com/webdev/2015/01/14/running-asp-net-5-applications-in-linux-containers-with-docker/
+https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/
+
+https://www.visualstudio.com/en-us/docs/release/examples/docker/aspnet-core10-docker
+
+Dockerrun.aws.json
+-->
+
 ASP.NET- Yeoman Generator
 * [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
 
@@ -4674,37 +4707,6 @@ Nancy
 
 .NET Platform as a Service
 * [AppHarbor](https://appharbor.com)
-
-<!--
-https://code.visualstudio.com/Docs
-https://code.visualstudio.com/docs/languages/dockerfile
-
-https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest
-https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
-https://docs.asp.net/en/latest/getting-started.html
-
-http://www.asp.net/core
-https://github.com/heroku-net/aspnetcore
-
-http://referencesource.microsoft.com
-
-https://docs.docker.com/engine/reference/builder/
-
-https://blogs.msdn.microsoft.com/vscode/2015/08/11/getting-started-with-docker/
-https://blogs.msdn.microsoft.com/webdev/2015/01/14/running-asp-net-5-applications-in-linux-containers-with-docker/
-https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/
-
-https://www.visualstudio.com/en-us/docs/release/examples/docker/aspnet-core10-docker
-
-https://blog.xamarin.com/build-c-f-apps-on-your-ipad-with-continuous/
-
-http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
-https://blogs.aws.amazon.com/net/post/TxSBK1AHRGLHVC/Exploring-ASP-NET-Core-Part-1-Deploying-from-GitHub
-
-Dockerrun.aws.json
-
-http://www.iis.net/learn/publish/using-web-deploy
--->
 
 #### Python and Django Toolkit
 
@@ -7024,6 +7026,8 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+http://steamcommunity.com
+
 http://learn.vrdev.school
 https://www.reddit.com/r/learnVRdev
 
@@ -7797,32 +7801,33 @@ Mobile Two Factor Authentication
 * [Time-Based One-time Password Algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) and [HMAC-Based One-time Password Algorithm](https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm)
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
-Google Products, Office
+Google Products
 * [Google Products](http://www.google.com/intl/en/about/products) 
 * [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
-* [Google Gmail](http://gmail.com)  
+* [Let Me Google that for You](http://lmgtfy.com) 
+
+Google Account
+* [Google Gmail](http://gmail.com) 
+* [Google My Activity](https://myactivity.google.com/myactivity)
 * [Google Drive](https://www.google.com/drive) 
 * [Google Slides](https://support.google.com/docs#topic=2811776)
 * [Google Drawings](https://docs.google.com/drawings)  
 * [Google Images](https://images.google.com) 
 * [Google Calendar](https://www.google.com/calendar) 
-* [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
-* [Google Flights](https://www.google.com/flights)  
-* [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
-* [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
-* [Let Me Google that for You](http://lmgtfy.com) 
-
-<!--
-https://myactivity.google.com/myactivity
-
-Alerts
-https://www.google.com/alerts
-http://www.nytimes.com/content/help/account/myalerts/myalerts.html
--->
 
 Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
 * [Google Docs Do quick research in a document or presentation](https://support.google.com/docs/answer/2481802)
+
+Google World
+* [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
+* [Google Flights](https://www.google.com/flights)  
+* [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
+* [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
+
+Alerts
+* [Google Alerts](https://www.google.com/alerts)
+* [New York Times Alerts](http://www.nytimes.com/content/help/account/myalerts/myalerts.html)
 
 API
 * [Blockspring](https://www.blockspring.com)
@@ -8947,6 +8952,7 @@ Federal Opportunities and Funding
 * [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 * [National Science Foundation Funding](https://www.nsf.gov/funding)
 * [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
+
 
 #### Regulation, Business Entity
 
