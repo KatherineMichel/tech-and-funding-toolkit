@@ -108,9 +108,6 @@ Table of Content
 * [Data Science](#data-science)
 
 * [Appendix](#appendix)
-* [Other Enormous Tool Lists](#other-enormous-tool-lists)
-* [Popular Tools](#popular-tools)
-* [Learning Resources](#learning-resources)
 
 * [People](#people)
   * [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
@@ -119,12 +116,10 @@ Table of Content
   * [Schools of Thought](#schools-of-thought)
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
-* [Events, Talks, People](#events-talks-people)
-* [Books and Courses](#books-and-courses)
-* [Business and Tech News Sources](#business-and-tech-news-sources)
-* [Analyst Groups](#analyst-groups)
 
-* [Government and International Data](#government-and-international-data)
+* [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
+  * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
+  * [Chance](#chance)
 
 * [Venture](#venture)
   * [VC Theory](#vc-theory)
@@ -133,19 +128,27 @@ Table of Content
   * [Documents and Advice](#documents-and-advice)
   * [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 
+* [Events, Talks, People](#events-talks-people)
+* [Books and Courses](#books-and-courses)
+* [Business and Tech News Sources](#business-and-tech-news-sources)
+* [Analyst Groups](#analyst-groups)
+
+* [Government and International Data](#government-and-international-data)
+
 * [Launch](#launch)
   * [Metrics](#metrics)
   * [Launch Strategies](#launch-strategies)
   * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
   * [Internationalization](#internationalization)
 
-* [Economics, Models, Biases, Metrics](#economics-models-biases-metrics)
-  * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
-  * [Chance](#chance)
-
 * [Philosophies, Milestones](#philosophies-milestones)
 * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
 * [Notable Quotes](#notable-quotes)
+
+* [Other Enormous Tool Lists](#other-enormous-tool-lists)
+* [Popular Tools](#popular-tools)
+
+* [Learning Resources](#learning-resources)
 
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
@@ -7706,6 +7709,1654 @@ General Terminology
 
 #### Appendix
 
+#### People
+
+#### Venture Capitalists and Angel Investors
+
+* [Albert Wenger](http://continuations.com), [Albert Wenger Archive](http://continuations.com/archive), and [Albert Wenger Tech Tuesday](http://continuations.com/tagged/tech-tuesday)
+* [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent), [Andrew Chen Lecture Description](http://us5.campaign-archive2.com/?u=96c185f15d9646d8014b765b7&id=9707a51462&e=d7ca30ca7d)
+* [Andy Weissman](http://blog.aweissman.com)
+* [Balaji Srinivasan A16Z](http://a16z.com/tag/balaji-s-srinivasan) and [Balaji Srinivasan Twitter](https://twitter.com/balajis) 
+* [Ben Horowitz](http://www.bhorowitz.com)  
+* [Bijan Sabet Archive](http://bijansabet.com/archive) and [Bijan Sabet SoundCloud](https://soundcloud.com/bijan)
+* [Bill Gurley Archives](http://abovethecrowd.com/archives)
+* [Bill Janeway](http://www.doingcapitalism.com)
+* [Brad Feld](http://www.feld.com) and [Brad Feld Archive](http://www.feld.com/archive)
+* [Bubba Murarka](http://bubba.vc)
+* [Caterina Fake](http://caterina.net)
+* [Charles Hudson](http://www.charleshudson.net) 
+* [Charlie O'Donnell](http://www.thisisgoingtobebig.com) and [Charlie O'Donnell Meet with Me](http://www.thisisgoingtobebig.com/meet-with-me) 
+* [Chris Dixon](http://cdixon.org), [Chris Dixon Old Blog (Nonchalantrepreneur)](http://nonchalantrepreneur.com), and [Chris Dixon Medium](https://medium.com/@cdixon)
+* [Chris Sacca via Lowercase Capital](http://lowercasecapital.com/cables), [Lowercase Creed](http://lowercasecapital.com/creed), [Lowercase Prospecting](http://lowercasecapital.com/prospecting), and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
+* [Christine Herron](http://www.christine.net)
+* [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
+* [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
+* [Heidi Roizen](http://heidiroizen.tumblr.com)  
+* [Hunter Walk](http://hunterwalk.com)  
+* [Jason Calcanis](http://calacanis.com)
+* [Jason M. Lemkin (SaaStr](http://www.saastr.com) and [Jason M. Lemkin Medium](https://medium.com/@jasonlk)
+* [Jeff Jordan Archives](http://jeff.a16z.com/archives)  
+* [Jerry Neumann (Reaction Wheel)](http://reactionwheel.net)
+* [Jessica Livingston](http://foundersatwork.posthaven.com) and [Jessica Livingston Old Blog](http://www.foundersatwork.com/blog.html)
+* [Joanne Wilson (Gotham Gal)](http://gothamgal.com/archive)
+* [John Lilly Tumblr](http://lilly.tumblr.com) and [John Lilly Slideshare](http://www.slideshare.net/johnolilly)
+* [Kanyi Maqubela](http://blog.kanyi.me)
+* [Leo Polovets](http://codingvc.com)
+* [Marc Andreessen Archive](http://blog.pmarca.com/archive), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
+* [Mark Suster](http://www.bothsidesofthetable.com), [Mark Suster: Both Sides of the Ghost](https://bothsidesoftheghost.wordpress.com), [Mark Suster Archive](http://www.bothsidesofthetable.com/archive), and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
+* [Matt Turck](http://mattturck.com)
+* [Megan Quinn Twitter](https://twitter.com/msquinn)
+* [M.G. Siegler 500ish](https://500ish.com) and [M.G. Siegler Archive](http://parislemon.com/archive) 
+* [Naveen Selvadurai the Artist](http://x.naveen.com)
+* [Om Malik](http://om.co)
+* [Paul Graham](http://paulgraham.com/articles.html)
+* [Paul Kedrosky](http://paul.kedrosky.com)
+* [Peter Levine Archives](http://peter.a16z.com/archives)
+* [Reid Hoffman Slideshare](http://www.slideshare.net/reidhoffman/presentations)
+* [Richard Branson](http://www.virgin.com/richard-branson)
+* [Roger Ehrenberg](http://informationarbitrage.com) and [Roger Ehrenberg Slideshare](http://www.slideshare.net/RogerEhrenberg)
+* [Sam Altman Archive](http://blog.samaltman.com/archive)
+* [Sam Lessin](http://blog.wlessin.com)
+* [Satya Patel](http://venturegeneratedcontent.com)
+* [Scott Weiss Archive](http://scott.a16z.com/archive)
+* [Semil Shah Archive](http://blog.semilshah.com/archive)
+* [Seth Levine Archive](http://www.sethlevine.com/archive)
+* [Steven Sinofsky](http://blog.learningbyshipping.com), [Steven Sinofsky Medium](https://medium.learningbyshipping.com), and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
+* [Ted Rheingold Twitter](https://twitter.com/tedr)
+* [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
+* [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
+
+#### Tech Analysts, Thought Leaders
+
+* [Aaron Swartz](http://www.aaronsw.com)
+* [Adam Khan: Hack the Bird](http://www.amazon.com/Hack-Bird-Counterintuitive-Strategies-Entrepreneurs-ebook/dp/B00XFMQHVQ/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1433450574&sr=1-1&keywords=hack+the+bird&linkCode=sl1&tag=inthestabiz-20&linkId=AADRKVFBXUFE75JI)
+* [Alan Kay Wikipedia](https://en.wikipedia.org/wiki/Alan_Kay)
+* [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
+* [Alex Osterwalder](http://www.alexosterwalder.com), [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder), and [Alex Osterwalder Slideshare](http://www.slideshare.net/Alex.Osterwalder)
+* [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
+* [Andrew Sullivan](http://dish.andrewsullivan.com)  
+* [Andy Grove Wikipedia](https://en.wikipedia.org/wiki/Andrew_Grove)
+* [Anil Dash](http://dashes.com/anil)
+* [Ben Bajarin](http://atbenbajarin.com)  
+* [Ben and Tim Bajarin](https://techpinions.com) 
+* [Ben Thompson](http://stratechery.com)  
+* [Benedict Evans](http://ben-evans.com) and [Benedict Evans Slideshare](http://www.slideshare.net/bge20)
+* [Beth Kanter Slideshare](http://www.slideshare.net/kanter)
+* [Bill and Melinda Gates](http://www.thegatesnotes.com) 
+* [Bob Lefsetz](http://lefsetz.com)
+* [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
+* [C. Todd Lombardo Speaker Deck](https://speakerdeck.com/iamctodd)
+* [Carlota Perez](http://www.carlotaperez.org) 
+* [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
+* [Clay Christensen](http://www.claytonchristensen.com) 
+* [Dan Olsen Presentations Page 1](http://olsensolutions.com/speaking), [Dan Olsen Presentations Page 2](http://product-jobs.com/speaking2), [Dan Olsen Presentations Page 3](http://product-jobs.com/speaking3), and [Dan Olsen Slideshare](http://www.slideshare.net/dan_o)
+* [Danielle Morrill](http://www.daniellemorrill.com), [Danielle Morrill Medium](https://medium.com/@DanielleMorrill) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
+* [Dao Nguyen](http://www.buzzfeed.com/daozers)
+* [Dave Winer](http://scripting.com) and [Dave Winer GitHub](https://github.com/scripting)
+* [Doc Searls](http://blogs.law.harvard.edu/doc) 
+* [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
+* [Eric Schmidt](http://www.slideshare.net/ericschmidt)
+* [Ev Williams Medium](https://medium.com/@ev) 
+* [Felix Dennis Wikipedia](https://en.wikipedia.org/wiki/Felix_Dennis)
+* [Guy Kawasaki](http://guykawasaki.com) and [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
+* [Hiten Shah](http://hitenism.com) 
+* [Horace Dediu](http://www.asymco.com) 
+* [Jake Knapp](https://medium.com/@jakek)
+* [Jay Rosen](http://pressthink.org)   
+* [Jeff Atwood](http://blog.codinghorror.com) and [Jeff Atwood GitHub](https://github.com/coding-horror)
+* [Jeff Jarvis](http://buzzmachine.com) 
+* [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
+* [Joel Spolsky](http://www.joelonsoftware.com)
+* [John Battelle](http://battellemedia.com)   
+* [John Gruber](http://daringfireball.net)   
+* [John Maeda (Creative Leadership)](http://creativeleadership.com)
+* [John Resig](http://ejohn.org/blog) 
+* [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
+* [Justin Kan](http://justinkan.com)
+* [Kevin Kelly](http://kk.org/kk), [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
+* [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
+* [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
+* [Loic Le Meur](http://loiclemeur.com/english) and [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)
+* [Louis Gray](http://blog.louisgray.com)
+* [Luke Wroblewski](http://www.lukew.com)
+* [Marco Arment](http://www.marco.org)
+* [Marshall Kirkpatrick](http://marshallk.com)
+* [Matt Cutts](http://www.mattcutts.com/blog)   
+* [Matt Mullenweg](http://ma.tt)
+* [Michael Arrington](http://uncrunched.com) 
+* [Michael Dearing (Harrison Metal)](https://www.harrisonmetal.com)
+* [Naval Ravikant](http://startupboy.com)
+* [Peter Rojas](http://roj.as/contact)
+* [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
+* [Rick Klau Medium](https://medium.com/@rklau)
+* [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
+* [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
+* [Sean Ellis Slideshare](http://www.slideshare.net/seanellis) and [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
+* [Sean Rose](https://medium.com/@sean_a_rose)
+* [Seth Godin](http://www.sethgodin.com) and [Seth Godin Typepad](http://sethgodin.typepad.com)
+* [Shane Parrish (Farnam Street Blog)](http://www.farnamstreetblog.com) 
+* [Sree Sreenivasan Twitter](https://twitter.com/sree)  
+* [Startup L. Jackson Archive](http://startupljackson.com/archive)  
+* [Steve Blank](http://steveblank.com), [Steve Blank Slides](http://steveblank.com/slides), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
+* [Stowe Boyd](http://stoweboyd.com)
+* [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
+* [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
+* [Tom Peters](http://tompeters.com), [Tom Peters Slides](http://tompeters.com/slides), and [Tom Peters Excellence Now](http://excellencenow.com) 
+* [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
+* [Venkatesh Rao Ribbonfarm](http://www.ribbonfarm.com) and [Venkatesh Rao Breaking Smart](http://breakingsmart.com)
+* [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
+* [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
+
+<!--
+http://moneymasterthegame.com
+http://humanelevation.tonyrobbins.com
+
+http://fourhourworkweek.com/podcast
+
+https://usesthis.com/interviews/horace.dediu
+
+https://plus.google.com/collection/EZT2b
+https://plus.google.com/collection/gbVpb
+-->
+
+#### High Profile Developers
+
+* [Harper Reed GitHub](https://github.com/harperreed)
+* [Joel Spolsky](http://www.joelonsoftware.com)
+* [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
+* [Mark Otto GitHub](https://github.com/mdo)
+* [Zac Holman](http://zachholman.com)
+* [Zed Shaw GitHub](https://github.com/zedshaw)
+
+<!--
+https://m.signalvnoise.com
+https://m.signalvnoise.com/@jasonfried
+-->
+
+#### Schools of Thought
+
+* [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
+* [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
+* [Claude Shannon Wikipedia](https://en.wikipedia.org/wiki/Claude_Shannon)
+* [W. Brian Arthur (books/articles recommended by Sonal) Wikipedia](https://en.wikipedia.org/wiki/W._Brian_Arthur)
+* [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
+* [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
+* [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
+* [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
+
+Awards
+* [Nobel Prizes](http://www.nobelprize.org/nobel_prizes)
+* [Pulitzer Prizes](http://www.pulitzer.org)
+* [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
+* [Turing Award Winners](http://amturing.acm.org/byyear.cfm)
+
+#### Inventors, Economists, Philosophers
+* [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
+* [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
+* [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+* [Abraham Maslow Wikipedia](https://en.wikipedia.org/wiki/Abraham_Maslow)
+* [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+* [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
+* [George Soros Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
+* [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
+* [Joseph Stiglitz Wikipedia](https://en.wikipedia.org/wiki/Joseph_Stiglitz)
+* [Karl Popper Wikipedia](https://en.wikipedia.org/wiki/Karl_Popper)
+* [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+* [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
+* [Noah Smith](http://noahpinionblog.blogspot.com)
+* [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
+* [René Girard (Influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
+* [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
+* [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
+* [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
+* [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
+
+<!--
+http://www.greatachievements.org
+-->
+
+#### Markets and Institutional Investing 
+* [Ben Carlson](http://awealthofcommonsense.com)
+* [Barry Ritholtz](http://www.ritholtz.com/blog) and [Barry Ritholtz Masters in Business](http://www.bloombergview.com/topics/masters-in-business)
+* [Howard Marks (Chairman, Oaktree Capital) Memos](http://www.oaktreecapital.com/memo.aspx) and [It’s not Easy](http://www.oaktreecapital.com/MemoTree/It's%20Not%20Easy.pdf)
+* [Jason Zweig](http://www.jasonzweig.com)
+* [Joshua M. Brown (CEO, Ritholtz Wealth Management and The Reformed Broker)](http://thereformedbroker.com/about)
+* [Larry Summers](http://larrysummers.com)
+* [Michael Batnick (The Irrelevant Investor)](https://theirrelevantinvestor.wordpress.com)
+* [Morgan Housel](http://www.morganhousel.com)
+* [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best)](http://szabo.best.vwh.net)
+* [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
+
+#### Economics, Models, Biases, Metrics
+
+Finance
+* [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
+
+Corporate Finance
+* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
+* [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
+* [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
+
+Valuation
+* [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
+* [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
+* [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
+* [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
+* [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
+* [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
+* [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
+* [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
+* [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
+* [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
+
+Opolies
+* [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
+
+Excel and Financial Modeling
+* [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
+* [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
+* [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
+* [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
+* [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+* [Spreadsheet Standards Review Board](http://www.ssrb.org)  
+* [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
+
+Free Market and Capitalism
+* [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
+* [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
+
+Economics
+* [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
+* [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+* [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
+* [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
+* [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
+* [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+* [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
+* [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
+* [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+* [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
+  
+Economic Models
+* [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
+* [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
+* [Roll's Critique Wikipedia](https://en.wikipedia.org/wiki/Roll%27s_critique)
+* [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
+* [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+* [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
+* [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
+* [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
+* [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
+* [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
+* [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
+* [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
+* [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
+
+Volatility and Stochastic Calculus
+* [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
+* [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
+* [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
+
+Technical and Fundamental Analysis
+* [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
+* [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
+* [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
+
+Options Models
+* [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
+* [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
+* [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
+* [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
+* [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+* [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
+
+Financial Market and Instruments
+* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+* [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
+* [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
+* [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
+
+Rational Decisions 
+* [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
+* [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
+ 
+Public Market
+* [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
+* [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
+* [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
+* [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+* [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
+* [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
+* [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
+* [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
+* [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
+* [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
+
+Demand-Side and Supply Side Economics
+* [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
+* [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
+
+General
+* [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
+* [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
+* [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
+
+#### Warren Buffet, Charlie Munger, Alphabet
+  
+Google and Alphabet
+* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
+* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
+* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
+* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
+
+Berkshire Hathaway
+* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
+* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
+* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
+* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
+* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
+* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
+
+Long Bets
+* [Long Bets](https://longbets.org)
+
+Poor Charlie's Almanack
+* [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
+
+Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
+* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
+
+Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
+* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
+* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+
+Mental Models
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+
+Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
+
+#### Chance
+* [Michael Mauboussin](http://michaelmauboussin.com)
+* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+
+<!--
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d
+-->
+
+Mauboussin, Callahan, Rone, Burns, Bartholdson
+* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
+* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
+* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
+* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
+* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
+* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
+* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
+* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
+* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
+* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
+* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
+* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
+
+Nassim Nicholas Taleb: Antifragile and The Black Swan
+* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
+* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
+* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
+* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
+* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
+* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
+* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+
+Nassim Nicholas Taleb's Teachings
+* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
+* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
+* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
+* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
+* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
+* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
+* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
+* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
+* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
+
+#### Venture
+
+#### VC Theory
+
+Investor Frameworks
+* [Brad Feld Framework](investor-frameworks/brad-feld-framework.md) 
+* [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
+* [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
+* [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
+* [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
+* [Sam Altman Framework](investor-frameworks/sam-altman-framework.md)
+
+Thesis
+* [Semil Shah](http://blog.semilshah.com/haystack)
+
+Funding Options
+* [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
+* [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
+* [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity) and [List of Private Equity Firms Wikipedia](https://en.wikipedia.org/wiki/List_of_private_equity_firms)
+* [History of Private Equity and Venture Capital Wikipedia](https://en.wikipedia.org/wiki/History_of_private_equity_and_venture_capital)
+
+Venture Capital and How Funding Works
+* [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3), [Wealthfront Venture Capital Economics, Part 4](https://blog.wealthfront.com/venture-capital-economics-part-4), and [Wealthfront Venture Capital Economics, Part 5](https://blog.wealthfront.com/venture-capital-economics-part-5)   
+* [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
+* [Startup Growth Calculator](http://growth.tlb.org)
+* [Venture Dealr](http://dlopuch.github.io/venture-dealr)
+
+Venture Capital Terminology- General
+* [Entrepreneurship Wikipedia](https://en.wikipedia.org/wiki/Entrepreneurship)
+* [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
+* [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
+* [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
+* [Carried Interest (Deduction) Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
+* [Capital Gains Tax Wikipedia](https://en.wikipedia.org/wiki/Capital_gains_tax)
+* [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
+* [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
+* [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
+* [Froth](http://www.investopedia.com/terms/f/froth.asp)
+* [Proxy (Law of Agency) Wikipedia](https://en.wikipedia.org/wiki/Law_of_agency)
+
+Venture Capital Terminology- Documents
+* [Due Diligence Wikipedia](https://en.wikipedia.org/wiki/Due_diligence)
+* [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
+* [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet) and [Termsheet Investopedia](http://www.investopedia.com/terms/t/termsheet.asp)
+* [Non-Disclosure Agreement Wikipedia](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
+* [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
+
+Venture Capital Terminology- Funding Instruments
+* [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
+* [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
+
+Venture Capital Terminology- Stock Classes
+* [Dual Class Stock (Important for Public Companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
+* [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
+* [Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
+* [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
+* [Startup Company Lawyer: What is the difference between non-participating preferred stock and participating preferred stock?](http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock)
+* [Class B Shares](http://www.investopedia.com/terms/c/classbshares.asp)
+* [Warrant Wikipedia](https://en.wikipedia.org/wiki/Warrant_(finance))
+
+Venture Capital Terminology- Stock Options
+* [Employee Stock Ownership Plan Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_ownership_plan)
+* [Employee Stock Option Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_option)
+* [Restricted Stock Unit](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
+* [Incentive Stock Option Wikipedia](https://en.wikipedia.org/wiki/Incentive_stock_option)
+* [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
+* [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
+* [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
+
+Venture Capital Terminology- Rights- Pro Rata, Refusal, Pre-Emption, Redemption
+* [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)
+* [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
+* [Pre-Emption Right Wikipedia](https://en.wikipedia.org/wiki/Pre-emption_right)
+* [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
+
+Venture Capital Terminology- Rights- Senority 
+* [Senior Debt Wikipedia](https://en.wikipedia.org/wiki/Senior_debt)
+* [Subordinated Debt Wikipedia](https://en.wikipedia.org/wiki/Subordinated_debt)
+* [Liquidation Preference (Also: Multiple Liquidation Preference)](http://www.investopedia.com/terms/l/liquidation-preference.asp)
+* [What is a senior liquidation preference?](https://www.quora.com/What-is-a-senior-liquidation-preference)
+
+Venture Capital Terminology- Rights- Anti-Dilution
+* [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
+* [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
+
+Venture Capital Terminology- Rights- Voting Rights
+* [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
+* [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
+
+Venture Capital Terminology- Rights- Minority
+* [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
+* [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
+* [Tag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Tag-along_right)
+
+Venture Capital Terminology- Rights- Activism
+* [Activist Shareholder Wikipedia](https://en.wikipedia.org/wiki/Activist_shareholder)
+* [Shareholder Rights Plan (Poison Pill) Wikipedia](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
+* [Super-Majority Amendment Wikipedia](https://en.wikipedia.org/wiki/Super-majority_amendment)
+* [Staggered Board of Directors Wikipedia](https://en.wikipedia.org/wiki/Staggered_board_of_directors)
+* [Control Premium Wikipedia](https://en.wikipedia.org/wiki/Control_premium)
+* [Corporate Raid Wikipedia](https://en.wikipedia.org/wiki/Corporate_raid)
+* [Takeover Wikipedia](https://en.wikipedia.org/wiki/Takeover)
+* [Reverse Takeover Wikipedia](https://en.wikipedia.org/wiki/Reverse_takeover)
+* [Proxy Fight Wikipedia](https://en.wikipedia.org/wiki/Proxy_fight)
+* [Tender Offer Wikipedia](https://en.wikipedia.org/wiki/Tender_offer)
+
+Endings
+* [Mergers and Acquisitions Wikipedia](https://en.wikipedia.org/wiki/Mergers_and_acquisitions)
+* [Equity Carve-Out Wikipedia](https://en.wikipedia.org/wiki/Equity_carve-out)
+* [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
+* [Corporate Spin-Off Wikipedia](https://en.wikipedia.org/wiki/Corporate_spin-off)
+* [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale) 
+
+More
+* [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
+* [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
+* [Clawback Wikipedia](https://en.wikipedia.org/wiki/Clawback)
+* [Cram Down Wikipedia](https://en.wikipedia.org/wiki/Cram_down)
+* [Hamburger Helper](https://twitter.com/trengriffin/status/660536443308109824)
+
+#### VC Firms, Accelerators, Resources
+
+:) 
+* [Palo Alto, California](https://en.wikipedia.org/wiki/Palo_Alto,_California)
+* [Sand Hill Road](https://en.wikipedia.org/wiki/Sand_Hill_Road)
+
+Lists of VC Firms and Accelerators
+* [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [Venture Capital Firms (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Venture_capital_firms)
+* [Private Equity and Venture Capital Investors (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Private_equity_and_venture_capital_investors)
+* [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
+* [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
+* [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
+* [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
+
+Angel Investors
+* [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
+
+Accelerators
+* [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
+* [Techstars](http://www.techstars.com)
+* [YCombinator](http://ycombinator.com)
+
+VC Funds/Accelerators
+* [Union Square Ventures](https://www.usv.com)
+
+Equity
+* [Google Capital](http://www.googlecapital.com)
+
+Startup Studios
+* [Betaworks](https://betaworks.com) and [Betaworks Bot Camp](https://betaworks.com/botcamp)
+* [Expa](http://expa.com) and [Expa Labs](http://expa.com/labs)
+* [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
+
+Other
+* [Silicon Valley Bank](http://www.svb.com) 
+
+<!--
+https://github.com/jlevy/og-equity-compensation
+https://github.com/holman/extended-exercise-windows
+
+https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
+http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
+https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
+
+https://github.com/leonar15/startup-checklist
+
+https://www.rocketlawyer.com/document/web-hosting-agreement.rl
+
+Update MY VC Email Template
+http://updatemyvc.com
+
+Trademarkia
+http://www.trademarkia.com
+-->
+
+Accelerator, Angel, VC Firm Blogs and Learning Resources
+* [500 Startups Activity](http://500.co/activity), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
+* [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
+* [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
+* [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
+* [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
+* [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
+* [Founders Club Learn](https://fundersclub.com/learn)  
+* [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+* [KPCB Articles](http://www.kpcb.com/articles), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
+* [Nasdaq Entrepreneurial Center](http://thecenter.nasdaq.org)
+* [NEA](http://www.nea.com)
+* [NFX Guild Program](http://www.nfx.com/company/program)
+* [OS Fund Playbook](http://osfund.co/the-osf-playbook)
+* [Sam Altman: Startup Playbook](http://playbook.samaltman.com) and [Sam Altman: Startup Playbook (Spanish)](https://platzi.com/startup-playbook)
+* [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
+* [Social Capital Eightball Diligence Tool](https://analytics.socialcapital.com/eightball)
+* [StackExchange Startups](http://startups.stackexchange.com)
+* [True University](http://trueuniversity.com) 
+* [Upfront Insights](http://insights.upfront.com)
+* [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
+* [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+
+Blogs and Whatnot
+* [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
+* [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
+* [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
+* [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
+* [Product Hunt Blog](http://blog.producthunt.com)
+* [Tech EU Research](http://tech.eu/section/research)
+
+RFS, Trends, Emerging Technologies
+* [Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/Emerging_technologies)
+* [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+* [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
+* [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
+* [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
+* [YCombinator RFS](http://www.ycombinator.com/rfs)
+
+VC Firm Numbers
+* [Felicis Numbers](http://www.felicis.com/numbers)
+* [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
+
+VC Firm Portfolios and Anti-Portfolios
+* [A16Z Portfolio](http://a16z.com/portfolio) and [A16Z Seeds](http://a16z.com/seeds)
+* [Bessemer Venture Partners Anti-Portfolio](https://www.bvp.com/portfolio/anti-portfolio)
+* [Expa Portfolio](http://expa.com/#portfolio)
+* [Homebrew Companies](http://www.homebrew.co/#companies)
+* [StartX Stanford Companies](http://startx.stanford.edu/companies) 
+* [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
+* [YCList](http://yclist.com)
+
+EquityZen
+* [EquityZen](https://equityzen.com)
+
+VC Firm Newsletters
+* [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+
+VC Firm Demo Days
+* [500 Startups Demo Day](http://500demoday.co)
+
+VC Firm Events
+* [PreMoney](http://premoney.co/agenda), [PreMoney Resources](http://premoney.co/resources), [WMD](http://wmd.co), [Warm Gun](http://warmgun.com), and [Marketing Hell Week](http://www.growth.500.co)
+
+VC and Tech Videos and Podcasts
+* [A16Z Podcasts](https://soundcloud.com/a16z)
+* [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
+* [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
+* [YCombinator The Macro](https://soundcloud.com/the-macro-y-combinator)
+
+VC Firm Apps
+* [First Round Pitch App](http://firstround.com/openapp)
+* [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
+
+VC Firm Alpha and Beta 
+* [Betaworks Openbeta](https://betaworks.com/openbeta)
+* [Lowercase Alpha](http://lowercasealpha.com)
+
+Crowdfunding
+* [Kickstarter](https://www.kickstarter.com)
+* [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
+* [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
+
+Federal Opportunities and Funding
+* [Federal Business Opportunities](https://www.fbo.gov)  
+* [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+* [National Science Foundation Funding](https://www.nsf.gov/funding)
+* [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
+
+
+#### Regulation, Business Entity
+
+U.S. Law
+* [Cornell Law: U.S. Constitution](https://www.law.cornell.edu/constitution)
+* [Cornell Law: U.S. Code](https://www.law.cornell.edu/uscode/text)
+
+Corporate Law- General
+* [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
+* [Limited Partnership Wikipedia](https://en.wikipedia.org/wiki/Limited_partnership)
+* [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) 
+* [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
+* [C Corp Wikipedia](https://en.wikipedia.org/wiki/C_corporation)
+
+Small Business Administration- Corporate Law
+* [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
+* [SBA Corporations](http://www.sba.gov/content/corporation) 
+* [SBA LLC](http://www.sba.gov/content/limited-liability-company-llc)  
+* [SBA S Corporation](http://www.sba.gov/content/s-corporation) 
+
+IRS- Corporate Law
+* [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
+* [IRS Corporations](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Corporations)   
+* [IRS LLC](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Limited-Liability-Company-LLC)    
+* [IRS S Corporation](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/S-Corporations) 
+
+Benefitcorp and B Corporation
+* [Benefitcorp (not B Corporation) Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation)
+* [Benefitcorp](http://benefitcorp.net) 
+* [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
+
+Delaware
+* [Delaware Code Online](http://delcode.delaware.gov)
+* [State of Delaware Division of Corporations](http://corp.delaware.gov)  
+* [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
+* [The Delaware Court of Chancery](http://courts.delaware.gov/chancery)
+* [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
+* [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
+
+California
+* [California Laws & Regulations](http://www.ca.gov/Work/LawsAndRegs.html)
+
+Kansas
+* [State of Kansas Business](http://www.kansas.gov/business) 
+* [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
+* [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
+* [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
+
+Associations
+* [Angel Capital Association](http://www.angelcapitalassociation.org) and [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
+* [British Private Equity and Venture Capital Association](http://www.bvca.co.uk)
+* [National Association of Investment Companies](http://www.naicvc.com)
+* [National Association of Investment Companies Partners](http://www.naicvc.com/resourcecenter.html)
+* [National Venture Capital Association](http://nvca.org)
+
+Special Rules- via AngelList
+* [SEC No Action Relief Letter](http://www.sec.gov/divisions/marketreg/mr-noaction/2013/angellist-15a1.pdf)
+* [AngelList Accreditation](https://angel.co/help/accreditation) and [AngelList API / Accreditation](https://angel.co/api/spec/accreditation)
+* [AngelList General Solicitation (Public Fundraising) 506(c)](https://angel.co/help/general-solicitation)
+* K-1 Form (Syndicates)
+
+Special Rules- via IRS
+* [Internal Revenue Code section 409A (Valuation) Wikipedia](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
+* 123R
+* Internal Revenue Code Sections 1202 and 1045
+
+Special Rules- via SEC
+* [The Laws That Govern the Securities Industry](http://www.sec.gov/about/laws.shtml)
+* [Glass-Steagall Legislation Wikipedia](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_Legislation)
+* [Small Business and the SEC](http://www.sec.gov/info/smallbus/qasbsec.htm)
+* [SEC Rule 506, 506(b) (Public Fundraising)](http://www.sec.gov/answers/rule506.htm)
+* Regulation A (Public Fundraising)
+* [Eliminating the Prohibition Against General Solicitation and General Advertising in Rule 506 and Rule 144A Offerings](http://www.sec.gov/info/smallbus/secg/general-solicitation-small-entity-compliance-guide.htm)
+* [Final Rules and Amendments to Regulation A (March 25, 2015)](http://www.sec.gov/rules/final/2015/33-9741.pdf)
+* [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
+* [Morrison Foester: Regulation A+: Final Rules Offer Important Capital Raising Alternatives](http://www.mofo.com/~/media/Files/ClientAlert/2015/03/150326RegulationA.pdf)
+* [SEC Accredited Investors](http://www.sec.gov/answers/accred.htm)
+* [Investor.gov Accredited Investors](http://www.investor.gov/news-alerts/investor-bulletins/investor-bulletin-accredited-investors#.VFcvnIvF8m8)
+
+Special Rules- General
+* [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
+* [FAS 157](http://www.fasb.org/pdf/aop_FAS157.pdf)
+* [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
+* [Basel II Wikipedia](https://en.wikipedia.org/wiki/Basel_II) and [Basel III Wikipedia](https://en.wikipedia.org/wiki/Basel_III)
+
+Securities and Exchange Commission (SEC)
+* [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
+* [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
+* [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
+* [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
+* [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
+* [Form D Wikipedia (cf. Brad Feld)](https://en.wikipedia.org/wiki/Form_D)
+
+IPO List
+* [Nasdaq IPO](http://www.nasdaq.com/markets/ipos)
+
+Notable SEC Filings
+* [Box S-1](http://www.sec.gov/Archives/edgar/data/1372612/000119312514112417/d642425ds1.htm)  
+* [Etsy SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001370637&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Etsy S-1](http://www.sec.gov/Archives/edgar/data/1370637/000119312515077045/d806992ds1.htm)
+* [Facebook SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001326801&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Facebook S-1](http://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm)  
+* [Groupon SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001490281&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Groupon S-1](http://www.sec.gov/Archives/edgar/data/1490281/000104746911005613/a2203913zs-1.htm)  
+* [Hortonworks S-1](http://www.sec.gov/Archives/edgar/data/1610532/000119312514405390/d748349ds1.htm)  
+* [HubSpot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001404655&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [HubSpot S-1](http://www.sec.gov/Archives/edgar/data/1404655/000119312514320044/d697256ds1.htm)  
+* [Linkedin SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001271024&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [LinkedIn S-1](http://www.sec.gov/Archives/edgar/data/1271024/000119312511295272/d250692ds1.htm)  
+* [Match Group S-1](http://www.sec.gov/Archives/edgar/data/1575189/000104746915007908/a2226226zs-1.htm)
+* [RetailMeNot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001475274&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [RetailMeNot S-1](http://www.sec.gov/Archives/edgar/data/1475274/000119312513261481/d498394ds1.htm)  
+* [Salesforce Marketing Cloud](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001108524&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Salesforce S-1](http://www.sec.gov/Archives/edgar/data/1108524/000119312503096073/ds1.htm)  
+* [Shutterstock SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001549346&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Shutterstock S-1](http://www.sec.gov/Archives/edgar/data/1549346/000104746913008614/a2216433zs-1.htm)  
+* [Square S-1](http://www.sec.gov/Archives/edgar/data/1512673/000119312515343733/d937622ds1.htm)
+* [Trulia SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001349454&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Trulia S-1](http://www.sec.gov/Archives/edgar/data/1349454/000119312513089639/d493065ds1.htm)  
+* [Twitter SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001418091&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Twitter S-1](http://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm)  
+* [Zendesk SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001463172&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zendesk S-1](http://www.sec.gov/Archives/edgar/data/1463172/000119312514137878/d665368ds1.htm)  
+* [Zillow SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001334814&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zillow S-1](http://www.sec.gov/Archives/edgar/data/1334814/000119312511100697/ds1.htm )  
+* [Zynga SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001439404&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zynga S-1](http://www.sec.gov/Archives/edgar/data/1439404/000119312512113668/d312579ds1.htm)  
+
+Central Banks/Reserves
+* [Bank of England Wikipedia](https://en.wikipedia.org/wiki/Bank_of_England)
+* [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
+* [Federal Reserve Bank Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_Bank) and [Federal Reserve System Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_System)
+* [Kansas City Fed](https://www.kansascityfed.org)
+* [San Franscisco Federal Reserve Bank](http://www.frbsf.org) 
+* [St. Louis Fed Research](https://research.stlouisfed.org) and [Archive](https://fraser.stlouisfed.org)
+* [St. Louis Fed Fred](https://research.stlouisfed.org/fred2) and [St. Louis Fed Data Tools](https://research.stlouisfed.org/datatools.html)
+
+Accounting Types
+* [Cost Accounting Wikipedia](https://en.wikipedia.org/wiki/Cost_accounting)
+* [Management Accounting Wikipedia](https://en.wikipedia.org/wiki/Management_accounting)
+
+Accounting Methods
+* [Generally Accepted Accounting Principles Wikipedia](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
+* [International Financial Reporting Standards Wikipedia](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) and [International Financial Reporting Standards](http://www.investopedia.com/terms/i/ifrs.asp)
+* [Historical Cost Wikipedia](https://en.wikipedia.org/wiki/Historical_cost)
+* [Mark-to-Market (Fair Value) Accounting Wikipedia](https://en.wikipedia.org/wiki/Mark-to-market_accounting)
+* [Generally Accepted Auditing Standards Wikipedia](https://en.wikipedia.org/wiki/Generally_Accepted_Auditing_Standards)
+
+Accounting Organizations
+* [American Institute of CPAs](http://www.aicpa.org)
+* [CFA (Chartered Financial Analyst) Institute](www.cfainstitute.org), [CFA Institute Pubs](http://www.cfapubs.org), and [CFA Institute Blog](https://blogs.cfainstitute.org)
+* [Chartered Institute of Management Accountants](http://www.cimaglobal.com)
+* [Financial Accounting Standards Board](http://www.fasb.org)
+* [International Accounting Standards Board Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Board) and [International Accounting Standards Committee Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Committee)
+* [Financial Conduct Authority Handbook](https://www.handbook.fca.org.uk)
+
+Regulatory Agencies and Rules- Business and Finance Related
+* [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
+* [Internal Revenue Service](http://www.irs.gov)
+* [Securities and Exchange Commission](http://www.sec.gov), [Securities and Exchange Commission Investor Pubs](http://www.sec.gov/investor/pubs.shtml), and [Investor.gov](http://investor.gov)
+* [Small Business Administration](http://www.sba.gov) 
+* [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
+
+Regulatory Agencies and Rules- General
+* [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
+* [Federal Aviation Administration](http://www.faa.gov)  
+* [Federal Communications Commission](https://www.fcc.gov)
+* [Federal Drug Administration](http://www.fda.gov)  
+
+Ecommerce, Advertising, Marketing
+* [FTC Advertising and Marketing on the Internet: Rules of the Road](http://www.business.ftc.gov/documents/bus28-advertising-and-marketing-internet-rules-road)
+* [FTC Business Guide to the FTC's Mail or Telephone Order Merchandise Rule](http://www.business.ftc.gov/documents/bus02-business-guide-mail-and-telephone-order-merchandise-rule)
+* [FTC CAN-SPAM Act: A Compliance Guide for Business](http://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business)
+* [SBA Ecommerce Resources](http://www.sba.gov/content/ecommerce-resources)
+* [SBA Online Advertising Law](http://www.sba.gov/content/online-advertising-law)
+
+Labor Law
+* [1099 Non-Corporate Independent Contractors Wikipedia](http://en.wikipedia.org/wiki/IRS_tax_forms#1099_series)
+* [National Labor Relations Act](http://www.nlrb.gov/resources/national-labor-relations-act) and [National Labor Relations Act Wikipedia](http://en.wikipedia.org/wiki/National_Labor_Relations_Act)
+* [NCA Wikipedia](http://en.wikipedia.org/wiki/Non-compete_clause)
+
+Trade Unions
+* [List of Trade Unions Wikipedia](https://en.wikipedia.org/wiki/List_of_trade_unions)
+* [List of Trade Unions in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_the_United_States)
+* [Freelancers Union](https://www.freelancersunion.org/)
+
+Patent Search and FOIA
+* [U.S. Patent and Trademark Office](http://www.uspto.gov)
+* [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
+* [FOIA](http://foia.state.gov)
+* [Stack Exchange Patents](http://patents.stackexchange.com)
+* [Twitter Innovator's Patent Agreement](https://github.com/twitter/innovators-patent-agreement)
+
+Digital Millennium Copyright Act
+* [Digital Millennium Copyright Act Wikipedia](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)  
+* [Digital Millennium Copyright Act](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)  
+* [Buzzfeed DMCA Policy](http://www.buzzfeed.com/about/dmca)  
+* [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
+
+#### Documents and Advice
+
+Investors on GitHub
+* [Agile Ventures](https://github.com/AgileVentures)
+* [Indie.vc](https://github.com/indievc)
+* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
+
+A16Z Funding and Valuation Advice
+* [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
+* [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+
+Law and Transaction Services
+* [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+* [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
+* [Gunderson Dettmer](http://www.gunder.com)
+* [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
+* [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
+* [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
+* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx) and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
+* [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+* [Fortis](http://fortisrep.com) 
+
+VCs on Standard Docs and Terms
+* [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
+* [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
+* [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
+* [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
+* [Walker Corporate Law Group, PLLC: VC Term Sheets – Protective Provisions](http://walkercorporatelaw.com/vc-issues/vc-term-sheets-%E2%80%93-protective-provisions)
+
+Standard Docs and Terms
+* [500 Startups Keep It Simple Security](http://500.co/kiss)
+* [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
+* [Foundry Group Docs via Ask the VC (Series A Term Sheet, Series A Restated Certificate of Incorporation, Series A Preferred Stock Purchase Agreement, Investor Rights Agreement, Co-Sale Agreement, Voting Agreement, Bylaws)](http://www.askthevc.com/wp/resources)
+* [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF) and [Other Gunderson Dettmer](http://www.docracy.com/doc/showalluserdocs?page=1&userId=80)
+* [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github) (in Conjunction with Cooley Go)
+* [Marc Andreessen on “Series Seed Documents,” and Why VCs Should Start Using Them](http://www.pehub.com/64825/marc-andreessen-on-series-seed-documents-and-why-vcs-should-start-using-them), [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Restated Certificate of Incorporation, Preferred Stock Investment Agreement)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+* [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Term Sheet, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
+* [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
+* [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Convertible Promissory Note Purchase Agreement, Note, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+* [TheFunded Founder Institute Document List (Certificate of Incorporation, Plain Preferred Term Sheet, Bylaws, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
+* [Founder Institute Agreements (The Founder Agreement, Form of the Warrant, Form of Board Consent)](http://fi.co/agreements)
+* [Wilson Sonsini Goodrich & Rosati Incorporation Questionnaire](https://www.wsgr.com/WSGR/Display.aspx?SectionName=start/incorporation.htm), [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm), and [Wilson Sonsini Goodrich & Rosati Term Sheet Generator (Convertible Notes)](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm)
+* [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
+
+Document Libraries- Free/Freemium
+* [Docracy Documents](http://www.docracy.com/application/dochome) 
+* [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
+* [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
+* [Venture Docs](https://venturedocs.com/documents)  
+* [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
+
+Document Libraries- Not Free/Freemium
+* [LegalZoom](http://www.legalzoom.com)
+* [Rocket Lawyer (Starts at $7/month)](https://www.rocketlawyer.com) 
+
+Standard Docs- International
+* [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
+* [Full Stack Foundry Blog Post](http://fullstack.ca/tools/canadian-term-sheets) and [Full Stack Foundry GitHub](https://github.com/FullStackFoundry/common-seed-termsheets)
+* [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
+* [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
+
+VC Firm Pitch Deck and Operational Report Templates
+* [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
+* [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
+* [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
+
+Term Sheets 101
+* [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
+* [Venture Hacks Top 10 Term Sheet Hacks](http://www.slideshare.net/venturehacks/top-10-term-sheet-hacks-presentation-725011)
+
+Carried Interest 101
+* [Wilson Sonsini Goodrich & Rosati: Venture Capital Fund Carried Interests](http://www.slideshare.net/Freddy56/venture-capital-fund-carried-interests)
+
+Document Web Services
+* [Captable.io](https://captable.io)  
+* [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
+* [Eshares Inc](https://www.esharesinc.com)
+* [Visible](https://visible.vc) 
+
+Cap Table
+* [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
+* [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
+
+Raising a Seed Round- The Spreadsheet
+* [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
+
+Equity Investment Simulation
+* [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
+
+Compensation
+* [CompStudy](https://www.compstudy.com)
+
+Contracts
+* [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
+
+Aquihire
+* [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
+
+How to Read A Financial Report
+* [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
+
+IPO
+* [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
+* [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
+* [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
+
+Initial Public Offering of Facebook
+* [Initial Public Offering of Facebook Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook)
+
+Types of Acquisitions
+* [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
+
+Warburg Pincus
+* [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
+
+Leverage
+* [Leverage Wikipedia](https://en.wikipedia.org/wiki/Leverage_(finance))
+* [Leveraged Buyout Wikipedia](https://en.wikipedia.org/wiki/Leveraged_buyout)
+* [Leveraged Recapitalization Wikipedia](https://en.wikipedia.org/wiki/Leveraged_recapitalization)
+* [Financial Sponsor Wikipedia](https://en.wikipedia.org/wiki/Financial_sponsor)
+
+Leveraged Buyout Firms
+* [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
+* [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
+
+#### Notable Proposals and Pitch Decks
+
+* [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
+
+Pitch Deck Search
+* [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
+* [Pitch Envy](http://www.pitchenvy.com)
+* [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
+
+Notable Proposals and Pitch Decks
+* [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
+* [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
+* [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
+* [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
+* [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
+* [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
+* [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
+* [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
+* [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
+* [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
+* [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
+* [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
+* [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
+* [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
+* [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
+* [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
+* [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
+* [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
+* [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
+* [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
+* [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
+* [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
+* [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+* [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
+
+Templates
+* [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
+* [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
+* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
+* [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
+* [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
+* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+* [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
+* [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
+
+The Prince's Trust
+* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
+* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
+* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
+* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
+
+
+
+#### Events, Talks, People
+
+Conferences (See also Designer/Developer Conferences and Python Django Conferences)
+* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Tech EU Events List](http://tech.eu/events)
+* [500 Startups Events](http://500.co/events)
+* [Startup School](http://www.startupschool.org)
+* [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
+* [TechCrunch Events](http://techcrunch.com/events)  
+* Crunchies
+* [Recode Events](http://recode.net/events) 
+* [LeWeb](http://leweb.co) 
+* [Pitch at the Palace Livestream](http://pitchatpalace.com/pitchlive)
+* [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
+* [SXSW](http://sxsw.com) 
+* [KC Addys](http://aafkc.com/addys)
+
+Mobile (See also Mobile)
+* [Groupe Speciale Mobile Association (GSMA)](http://www.gsma.com)
+* [Mobile Ecosystem Forum](http://mefglobalforum.org)
+* [Mobile World Congress](https://www.mobileworldcongress.com)
+* [Recode Mobile](http://recode.net/events/code-mobile)
+
+Unconference
+* [Unconference Wikipedia](https://en.wikipedia.org/wiki/Unconference)
+
+Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
+* [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
+* [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
+* [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
+* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+* [Charlie Rose](http://www.charlierose.com)
+* [PBS](http://www.pbs.org)
+* [This American Life](http://www.thisamericanlife.org)
+
+Shows
+* [Founder Stories](http://techcrunch.com/video/founder-stories)
+* [Heart Startup](http://hearstartup.com) 
+* [Product Hunt Live](http://www.producthunt.com/live)
+* [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
+* [This Week in Startups](http://thisweekinstartups.com)
+* [This Week in Tech](https://twit.tv)
+
+Unboxing
+* [Unboxing](http://unboxing.gearlive.com)
+
+#### Books and Courses
+
+Books
+* [Andy Grove: High Output Management](http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+* [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
+* [Bill Janeway: Doing Capitalism in the Innovation Economy: Markets, Speculation and the State](http://www.amazon.com/Doing-Capitalism-Innovation-Economy-Speculation/dp/1107031257)
+* [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
+* [Carlota Perez: Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](http://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
+* [Dale Carnegie: How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
+* [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
+* [Howard Marks](http://www.amazon.com/Howard-Marks/e/B004LE5B00/ref=dp_byline_cont_book_1)
+* [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
+* [Nir Eyal: Hooked: How to Build Habit-Forming Products](http://www.amazon.com/dp/1591847788/?tag=hooked-us-20)
+* [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
+* [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
+* [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
+
+<!--
+http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+
+Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
+http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
+
+http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
+-->
+
+Whole Earth Catalog
+* [Whole Earth Catalog Back Issues](http://www.wholeearth.com/back-issues.php)
+
+Books- Historical
+* [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
+* [Niccolò Machiavelli: The Prince Wikipedia](https://en.wikipedia.org/wiki/The_Prince)
+* [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
+
+Courses
+* [Balaji S. Srinivasan and Vijay S. Pande: Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
+* [Marissa Mayer: Ideas Come from Everywhere (New Product Development Process)](https://www.udemy.com/ideas-come-from-everywhere)
+* [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
+* [Reid Hoffman: CS183C Blitzscaling Introductory Post](https://www.linkedin.com/pulse/cs183c-technology-enabled-blitzscaling-visible-secret-reid-hoffman), [Eric Schmidt](https://www.youtube.com/watch?v=hcRxFRgNpns) and [Student Collection](https://medium.com/cs183c-blitzscaling-student-collection)
+* [Sam Altman: YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
+     
+MOOCs
+* [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance), [Overview](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Overview.pdf), [The Language of Early-Stage Finance](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_The%20Language%20of%20Early-Stage%20Finance.pdf), [Why Start With A Business Plan?](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Why%20Start%20With%20a%20Business%20Plan.pdf), [A “Good” Plan and What VC’s Look For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_A%20Good%20Plan%20and%20What%20VC%27s%20Look%20For.pdf), [Financial Statements for Investors](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Financial%20Statements%20for%20Investors.pdf), [Balance Sheets](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Balance%20Sheets.pdf), [What an Income Statement Presents](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20an%20Income%20Statement%20Presents.pdf), [Statement of Cash Flow](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Statement%20of%20Cash%20Flow.pdf), [Corporate Structure](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Corporate%20Structure.pdf), and [What Investors Are Looking For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20Investors%20Are%20Looking%20For.pdf)
+
+STEM and STEAM
+* [STEM to STEAM](http://stemtosteam.org)
+* [STEAM Wikipedia](https://en.wikipedia.org/wiki/STEAM_fields) and [STEAM with Us](http://steamwith.us)
+
+#### Business and Tech News Sources
+
+<!--
+Check Often
+* [Product Hunt Today](http://ph.needles.me)
+* [Makerbase Explore](https://makerba.se/explore)
+* [StackShare Trending](http://stackshare.io/trending/tools) 
+
+More News
+* [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
+* Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+-->
+
+Business News
+* [Bloomberg (Business)](http://www.bloomberg.com) and [Bloomberg Live](http://www.bloomberg.com/live)
+* [BloombergView](http://www.bloombergview.com) and [BloombergView Tech](http://www.bloombergview.com/topics/tech)
+* [Business Insider](http://www.businessinsider.com)
+* [Economist](http://www.economist.com)
+* [Entrepreneur](http://www.entrepreneur.com)
+* [Forbes](http://www.forbes.com)
+* [Fortune](http://fortune.com)
+* [Inc.](http://www.inc.com)
+* [New York Times Business](http://www.nytimes.com/pages/business/index.html, )
+* [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+* [Wealthfront Blog](https://blog.wealthfront.com) 
+
+Venture Analysis
+* [Fortune Venture](http://fortune.com/venture) and [Fortune Termsheet](http://fortune.com/newsletter/termsheet)
+* [Graham and Doddsville](http://www.grahamanddoddsville.net)
+* [Horsley Bridge](http://www.horsleybridge.com)
+* [New York Times DealBook](http://dealbook.nytimes.com)
+* [PE HUB](https://www.pehub.com)
+* [PitchBook](http://pitchbook.com)
+
+Markets and Finance
+* [Fitch](https://www.fitchratings.com)
+* [Google Finance](https://www.google.com/finance) 
+* [Reuters Stocks](http://www.reuters.com/finance/stocks)
+* [Yahoo Finance](http://finance.yahoo.com)  
+* [MarketWatch](http://www.marketwatch.com) 
+* [Nasdaq](http://www.nasdaq.com)
+* [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
+* [Wikinvest](http://www.wikinvest.com)
+
+Investor Vocab
+* [Investopedia Dictionary](http://www.investopedia.com/dictionary) and [Investopedia Tutorials](http://www.investopedia.com/university)
+* [Investor Words](http://www.investorwords.com)
+* [Reuters Financial Glossary](http://glossary.reuters.com/index.php?title=Main_Page)
+
+Ivy League Business and Tech
+* [Harvard Business Review](https://hbr.org), [Harvard Business Review, My HBR](https://hbr.org/my-hbr), and [Harvard Business Review Topics](https://hbr.org/topics)
+* [Harvard Business School Working Knowledge](http://hbswk.hbs.edu)
+* [MIT Sloan Review](http://sloanreview.mit.edu)
+* [MIT Technology Review](http://www.technologyreview.com)
+* [Stanford News](http://news.stanford.edu)
+* [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
+
+STEM Journals 
+* [ACM Publications](https://www.acm.org/publications), [ACM Digital Library](http://dl.acm.org), [Journal of the ACM](http://jacm.acm.org), and [ACM Queue](http://queue.acm.org)
+* [Computing Research Repository](http://arxiv.org/corr/home)
+* [Electrical Engineering Times](http://www.eetimes.com)
+* [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html) and [IEEE Spectrum](http://spectrum.ieee.org)
+* [Materials Research Society](http://www.mrs.org/home)
+* [Nature (Sonal)](http://www.nature.com/index.html) and [Nature Archive](http://www.nature.com/ncomms/archive/date.html)
+* [New Scientist](https://www.newscientist.com)
+* [Public Library of Science](https://www.plos.org)
+* [Science News](https://www.sciencenews.org)
+* [Social Sciences Research Network](http://www.ssrn.com/en) and [Social Sciences Research Network Search](http://papers.ssrn.com)
+
+Tech Aggregated, Question and Answer Forums
+* [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+* [Inside Tech](https://www.inside.com/tech)
+* [Launch Ticker](https://www.launchticker.com)
+* [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
+* [Quora Technology](https://www.quora.com/Technology)
+* [Reddit Technology](https://www.reddit.com/r/technology)
+* [Stack Exchange Sites Technology](http://stackexchange.com/sites#technology)
+* [Programmers Stack Exchange](http://programmers.stackexchange.com)
+* [Stack Overflow](http://stackoverflow.com)
+* [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
+
+<!--
+https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
+-->
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+Tech Periodical
+* [Mashable Tech](http://mashable.com/category/tech)
+* [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
+* [Recode](http://recode.net)
+* [Stratechery (Partially Subscription Based)](https://stratechery.com)
+* [TechCrunch](http://techcrunch.com)
+* [Techpinions (Partially Subscription Based)](https://techpinions.com)
+* [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
+* [The Next Web](http://thenextweb.com)
+* [The Information (Subscription Based)](https://www.theinformation.com)
+* [Wired](http://www.wired.com)
+
+Tech Longform
+* [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
+
+The Wirecutter, Consumer Reports, Popular Mechanics, Tom's Hardware
+* [The Wirecutter](http://thewirecutter.com)
+* [Consumer Reports](http://www.consumerreports.org)
+* [Popular Mechanics](http://www.popularmechanics.com)
+* [Tom's Hardware](http://www.tomshardware.com)
+
+Leaderboard
+* [REDEF Charts](http://redef.com/charts)
+* [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
+
+<!--
+http://redef.com/charts/popular/total
+-->
+
+General News Sources- High Brow
+* [BBC](http://www.bbc.com)
+* [New York Times](http://www.nytimes.com)
+* [Reuters U.K.](http://uk.reuters.com)
+* [Wall Street Journal](http://www.wsj.com) and [Wall Street Journal Blog](http://blogs.wsj.com)
+
+Question and Answer Forums
+* [Quora](http://www.quora.com)
+* [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
+* [Stack Exchange](http://stackexchange.com)
+* [Stack Exchange Sites](http://stackexchange.com/sites) 
+* [Yahoo Answers](https://answers.yahoo.com)
+
+Aggregated News Sources
+* [Feedly](http://feedly.com)  
+* [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
+* [Grasswire](https://grasswire.com)
+* [Inside Top](https://www.inside.com/top)
+* [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
+* [Matthew Keys](http://matthewkeys.net)
+* [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
+* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
+* [Pocket](https://getpocket.com)
+* [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
+* [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
+
+Eccentric
+* [Brain Pickings](https://www.brainpickings.org)
+* [Freakonomics](http://freakonomics.com)
+* [Marginal Revolution](http://marginalrevolution.com)
+* [Praxtime](http://praxtime.com)
+* [Priceonomics](http://priceonomics.com)
+* [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org), via [Alain de Botton](https://twitter.com/alaindebotton)
+* [Wait But Why](http://waitbutwhy.com)  
+* [XKCD](http://xkcd.com)
+
+Directory of News Websites, Today's Front Pages, and NewsDiffs
+* [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
+* [Newseum Today's Front Pages](http://www.newseum.org/todaysfrontpages)
+* [NewsDiffs](http://newsdiffs.org)
+
+Fact Checking
+* [Snopes](http://www.snopes.com)
+
+People
+* [Klout (including Topic Expertise)](https://klout.com/home)
+
+Companies
+* [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+* [Great Place to Work](http://www.greatplacetowork.com)
+
+#### Analyst Groups
+
+Analyst Groups
+* [Accenture](https://www.accenture.com)
+* [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
+* [Bain & Company](http://www.bain.com)
+* [Booz Allen Hamilton](http://www.boozallen.com)
+* [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
+* [Constellation Research](https://www.constellationr.com)
+* [CreditSuisse Plus](https://plus.credit-suisse.com/researchplus)
+* [Deloitte](http://www2.deloitte.com/us/en.html) and [Deloitte University Press](http://dupress.com)
+* [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
+* [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Technology](http://www.gartner.com/technology/home.jsp), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+* [GMO (Jeremy Grantham)](https://www.gmo.com)
+* [Goldman Sachs Our Thinking](http://www.goldmansachs.com/our-thinking)
+* [IDC](http://www.idc.com)
+* [Jana](http://www.jana.com)
+* [KPMG](http://www.kpmg.com/US/en/Pages/default.aspx)
+* [McKinsey & Company](http://www.mckinsey.com), [McKinsey & Company Insights](http://www.mckinsey.com/insights), and [McKinsey & Company Insights Technology and Innovation](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation)
+* [Nielsen](http://www.nielsen.com/us/en.html)
+* [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
+* [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
+* [PricewaterhouseCoopers](http://www.pwc.com), [PricewaterhouseCoopers Technology Institute](http://www.pwc.com/gx/en/industries/technology/publications.html), and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
+* [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
+* [RedMonk Twitter](https://twitter.com/redmonk)  
+* [State of the Internet](http://www.stateoftheinternet.com)
+
+Management Consulting Firms
+* [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
+
+Think Tanks
+* [Brookings](http://www.brookings.edu)
+* [Cato Institute Live](http://www.cato.org/live)
+* [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
+* [Milken Institute](http://www.milkeninstitute.org)
+* [Paley Center](http://www.paleycenter.org)
+* [NACUE](http://www.nacue.com)
+* [Startup Britain Resources](http://www.startupbritain.org/resources)
+
+Investment Firms
+* [Fidelity](https://www.fidelity.com)
+* [Jane Street](https://www.janestreet.com)
+* [Janus Capital Group](http://en.wikipedia.org/wiki/Janus_Capital_Group)
+* [Magellan Financial](http://magellanfinancial.com)
+* [PIMCO](http://en.wikipedia.org/wiki/PIMCO)
+* [Vangent](https://investor.vanguard.com/home)
+
+<!--
+http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
+-->
+
+#### Government and International Data
+
+Australian Gov
+* [Australia Government Data Gov GitHub](http://data.gov.au)
+
+U.S. Departments
+* [The White House](http://www.whitehouse.gov) and [The White House Blog](https://www.whitehouse.gov/blog)
+* [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
+* [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
+* [List of Federal Agencies in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States)
+* [Independent Agencies of the United States Government Wikipedia](https://en.wikipedia.org/wiki/Independent_agencies_of_the_United_States_government)
+* [U.S. Census](http://www.census.gov)
+* [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
+* [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
+
+U.S. Open Government, Data
+* [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+* [U.S. Dot Gov Domains](https://github.com/GSA/data)
+* [U.S. Data](http://www.data.gov) and [U.S. Data Catalog](https://catalog.data.gov)
+* [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
+* [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
+* [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
+* [U.S. Project Open Data](https://project-open-data.cio.gov)
+
+G8 and U.K. Data 
+* [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
+* [U.K. Government Publications](https://www.gov.uk/government/publications)
+
+International Organizations
+* [International Monetary Fund](https://www.imf.org) 
+* [Organisation for Economic Cooperation and Development Wikipedia](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
+* [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
+* [World Bank Wikipedia](https://en.wikipedia.org/wiki/World_Bank) and [World Bank Group Wikipedia](https://en.wikipedia.org/wiki/World_Bank_Group)
+* [Multilateral Investment Guarantee Agency Wikipedia](https://en.wikipedia.org/wiki/Multilateral_Investment_Guarantee_Agency)
+* [World Economic Forum](http://www.weforum.org) and [World Economic Forum Agenda](https://agenda.weforum.org)
+
+International Organizations Reports and Data
+* [OECD Data](https://data.oecd.org)
+* [Our World in Data](http://ourworldindata.org)
+* [United Nations Statistics Division](http://unstats.un.org)
+* [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org)
+* [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
+
+International Organizations Special Reports: Business and Competitiveness
+* [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
+* [International Innovation Index Wikipedia](https://en.wikipedia.org/wiki/International_Innovation_Index)
+* [OECD Innovation](http://www.oecd.org/innovation) and [OECD Technology and Innovation Data](https://data.oecd.org/innovation-and-technology.htm)
+* [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
+* [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
+* [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
+* [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
+* [World Economic Forum Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2015)
+* [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
+* [World Economic Forum Global Gender Gap Report](http://reports.weforum.org/global-gender-gap-report-2015)
+
+International Organizations Special Reports: Development
+* [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
+* [Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
+* [The 2015 Revision of World Population Prospects](http://esa.un.org/unpd/wpp)
+* [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
+* [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
+* [World Bank World Development Indicators](http://wdi.worldbank.org/tables) 
+
+Social Entrepreneurship
+* [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
+* [Gates Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
+* [Gates Notes](http://www.gatesnotes.com)
+* [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
+
+Microcredit/Microfinance
+* [Microcredit Wikipedia](https://en.wikipedia.org/wiki/Microcredit)
+* [Microfinance Wikipedia](https://en.wikipedia.org/wiki/Microfinance)
+
+Happiness
+* [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
+* [World Happiness Report](http://worldhappiness.report) and [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
+
+International Info
+* [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
+* [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
+* [Lists of Countries by Number of Internet Users Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users) 
+* [Lists of Countries by Number of Mobile Phones in Use Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use) 
+* [Lists of Countries by Smartphone Penetration Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) 
+* [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
+* [Currencies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
+* [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
+
+
+#### Launch
+
+#### Launch Strategies
+
+General
+* [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
+
+Epic
+* [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
+
+Tools
+* [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
+* [Amazon Example Press Release](http://aws.amazon.com/new) 
+* [Sandwich Video](http://sandwichvideo.com)
+
+#### Metrics
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+Bill Gurley on Conversion and LTV
+* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
+* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
+* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+
+Objectives and key Results (OKRs)
+* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
+* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+KPIs
+* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+
+Pirate Metrics
+* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+
+#### Growth, Marketing, and Content Resources
+
+Advertising and Marketing
+* [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
+* [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
+* [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
+
+Distribution, Digital Distribution and User-Generated Content
+* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
+Distribution, Growth, Sales Hacking
+* [Distribution Hacks](http://distributionhacks.com) 
+* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+* [Saleshacker](http://www.saleshacker.com)
+
+Marketing and Search Engine Land
+* [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+* [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
+
+Hiten Shah and Neil Patel
+* [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+* [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+* [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
+* [Quicksprout](http://www.quicksprout.com) 
+
+Popular Tools
+* [Buffer](https://bufferapp.com)
+* [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
+* [Detour Blog](http://blog.detour.com)
+* [Help Scout](http://www.helpscout.net)
+* [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+* [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+* [Intercom Blog](http://blog.intercom.io)
+* [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
+* [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
+* [URX Blog](http://blog.urx.com/urx-blog) 
+
+Digital Novel
+* [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
+* [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+* [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
+
+Digital Stats
+* [eMarketer](http://www.emarketer.com)
+
+#### Internationalization
+
+* [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
+
+
+
+#### Philosophies, Milestones
+
+Company Internal Policies
+* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
+* [Amazon: Back of the Napkin Drawing](http://a16z.com/2014/09/05/why-amazon-has-no-profits-and-why-it-works)
+* [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
+* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) and [Tesla Master Plan Deux](https://www.tesla.com/blog/master-plan-part-deux)
+
+<!--
+http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
+https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
+http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
+https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html
+https://twitter.com/ValaAfshar/status/736956353042862080
+-->
+
+Good Infographics
+* [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
+* [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
+* [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
+* [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
+
+Miscellaneous
+* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
+* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
+* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
+* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
+* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+
+Laws
+* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
+* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
+
+Models and Theories
+* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
+* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
+* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
+* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
+* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+
+<!--
+http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=UTF8&ref_=cm_sw_r_cp_awd_tvhaxbCH8XQPF
+https://en.m.wikipedia.org/wiki/Anthropomorphism
+
+https://en.wikipedia.org/wiki/360-degree_feedback
+https://en.wikipedia.org/wiki/Institutional_memory
+https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
+
+https://en.wikipedia.org/wiki/Net_Promoter
+https://www.netpromoter.com/know/
+-->
+
+Computer Lore
+* [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
+* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
+
+#### Notable Interviews and Presentations
+
+Trends
+* [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
+* [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
+* [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
+
+Famous
+* [Amazon 1997 Shareholders Letter](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
+* [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
+* [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
+* [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
+* [Steve Jobs: The Pitchman](https://www.facebook.com/METalInternational/videos/10153781985002446)
+
+Innovation and Excellence
+* [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
+* [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+Google
+* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
+* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
+* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
+* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
+
+#### Notable Quotes
+
+* [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
+* [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
+* [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
+* [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
+* [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
+* [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
+* [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
+* [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
+* [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
+* [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
+* [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
+* [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
+* [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
+* [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
+
 #### Other Enormous Tool Lists
 * [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
 * [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
@@ -8056,320 +9707,6 @@ Google for Education
 * [Google Classroom](https://www.google.com/edu/products/productivity-tools/classroom)
 * [Google Course Builder](https://code.google.com/p/course-builder)
 
-#### People
-
-#### Venture Capitalists and Angel Investors
-
-* [Albert Wenger](http://continuations.com), [Albert Wenger Archive](http://continuations.com/archive), and [Albert Wenger Tech Tuesday](http://continuations.com/tagged/tech-tuesday)
-* [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent), [Andrew Chen Lecture Description](http://us5.campaign-archive2.com/?u=96c185f15d9646d8014b765b7&id=9707a51462&e=d7ca30ca7d)
-* [Andy Weissman](http://blog.aweissman.com)
-* [Balaji Srinivasan A16Z](http://a16z.com/tag/balaji-s-srinivasan) and [Balaji Srinivasan Twitter](https://twitter.com/balajis) 
-* [Ben Horowitz](http://www.bhorowitz.com)  
-* [Bijan Sabet Archive](http://bijansabet.com/archive) and [Bijan Sabet SoundCloud](https://soundcloud.com/bijan)
-* [Bill Gurley Archives](http://abovethecrowd.com/archives)
-* [Bill Janeway](http://www.doingcapitalism.com)
-* [Brad Feld](http://www.feld.com) and [Brad Feld Archive](http://www.feld.com/archive)
-* [Bubba Murarka](http://bubba.vc)
-* [Caterina Fake](http://caterina.net)
-* [Charles Hudson](http://www.charleshudson.net) 
-* [Charlie O'Donnell](http://www.thisisgoingtobebig.com) and [Charlie O'Donnell Meet with Me](http://www.thisisgoingtobebig.com/meet-with-me) 
-* [Chris Dixon](http://cdixon.org), [Chris Dixon Old Blog (Nonchalantrepreneur)](http://nonchalantrepreneur.com), and [Chris Dixon Medium](https://medium.com/@cdixon)
-* [Chris Sacca via Lowercase Capital](http://lowercasecapital.com/cables), [Lowercase Creed](http://lowercasecapital.com/creed), [Lowercase Prospecting](http://lowercasecapital.com/prospecting), and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
-* [Christine Herron](http://www.christine.net)
-* [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
-* [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
-* [Heidi Roizen](http://heidiroizen.tumblr.com)  
-* [Hunter Walk](http://hunterwalk.com)  
-* [Jason Calcanis](http://calacanis.com)
-* [Jason M. Lemkin (SaaStr](http://www.saastr.com) and [Jason M. Lemkin Medium](https://medium.com/@jasonlk)
-* [Jeff Jordan Archives](http://jeff.a16z.com/archives)  
-* [Jerry Neumann (Reaction Wheel)](http://reactionwheel.net)
-* [Jessica Livingston](http://foundersatwork.posthaven.com) and [Jessica Livingston Old Blog](http://www.foundersatwork.com/blog.html)
-* [Joanne Wilson (Gotham Gal)](http://gothamgal.com/archive)
-* [John Lilly Tumblr](http://lilly.tumblr.com) and [John Lilly Slideshare](http://www.slideshare.net/johnolilly)
-* [Kanyi Maqubela](http://blog.kanyi.me)
-* [Leo Polovets](http://codingvc.com)
-* [Marc Andreessen Archive](http://blog.pmarca.com/archive), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
-* [Mark Suster](http://www.bothsidesofthetable.com), [Mark Suster: Both Sides of the Ghost](https://bothsidesoftheghost.wordpress.com), [Mark Suster Archive](http://www.bothsidesofthetable.com/archive), and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
-* [Matt Turck](http://mattturck.com)
-* [Megan Quinn Twitter](https://twitter.com/msquinn)
-* [M.G. Siegler 500ish](https://500ish.com) and [M.G. Siegler Archive](http://parislemon.com/archive) 
-* [Naveen Selvadurai the Artist](http://x.naveen.com)
-* [Om Malik](http://om.co)
-* [Paul Graham](http://paulgraham.com/articles.html)
-* [Paul Kedrosky](http://paul.kedrosky.com)
-* [Peter Levine Archives](http://peter.a16z.com/archives)
-* [Reid Hoffman Slideshare](http://www.slideshare.net/reidhoffman/presentations)
-* [Richard Branson](http://www.virgin.com/richard-branson)
-* [Roger Ehrenberg](http://informationarbitrage.com) and [Roger Ehrenberg Slideshare](http://www.slideshare.net/RogerEhrenberg)
-* [Sam Altman Archive](http://blog.samaltman.com/archive)
-* [Sam Lessin](http://blog.wlessin.com)
-* [Satya Patel](http://venturegeneratedcontent.com)
-* [Scott Weiss Archive](http://scott.a16z.com/archive)
-* [Semil Shah Archive](http://blog.semilshah.com/archive)
-* [Seth Levine Archive](http://www.sethlevine.com/archive)
-* [Steven Sinofsky](http://blog.learningbyshipping.com), [Steven Sinofsky Medium](https://medium.learningbyshipping.com), and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
-* [Ted Rheingold Twitter](https://twitter.com/tedr)
-* [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
-* [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
-
-#### Tech Analysts, Thought Leaders
-
-* [Aaron Swartz](http://www.aaronsw.com)
-* [Adam Khan: Hack the Bird](http://www.amazon.com/Hack-Bird-Counterintuitive-Strategies-Entrepreneurs-ebook/dp/B00XFMQHVQ/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1433450574&sr=1-1&keywords=hack+the+bird&linkCode=sl1&tag=inthestabiz-20&linkId=AADRKVFBXUFE75JI)
-* [Alan Kay Wikipedia](https://en.wikipedia.org/wiki/Alan_Kay)
-* [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
-* [Alex Osterwalder](http://www.alexosterwalder.com), [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder), and [Alex Osterwalder Slideshare](http://www.slideshare.net/Alex.Osterwalder)
-* [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
-* [Andrew Sullivan](http://dish.andrewsullivan.com)  
-* [Andy Grove Wikipedia](https://en.wikipedia.org/wiki/Andrew_Grove)
-* [Anil Dash](http://dashes.com/anil)
-* [Ben Bajarin](http://atbenbajarin.com)  
-* [Ben and Tim Bajarin](https://techpinions.com) 
-* [Ben Thompson](http://stratechery.com)  
-* [Benedict Evans](http://ben-evans.com) and [Benedict Evans Slideshare](http://www.slideshare.net/bge20)
-* [Beth Kanter Slideshare](http://www.slideshare.net/kanter)
-* [Bill and Melinda Gates](http://www.thegatesnotes.com) 
-* [Bob Lefsetz](http://lefsetz.com)
-* [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
-* [C. Todd Lombardo Speaker Deck](https://speakerdeck.com/iamctodd)
-* [Carlota Perez](http://www.carlotaperez.org) 
-* [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
-* [Clay Christensen](http://www.claytonchristensen.com) 
-* [Dan Olsen Presentations Page 1](http://olsensolutions.com/speaking), [Dan Olsen Presentations Page 2](http://product-jobs.com/speaking2), [Dan Olsen Presentations Page 3](http://product-jobs.com/speaking3), and [Dan Olsen Slideshare](http://www.slideshare.net/dan_o)
-* [Danielle Morrill](http://www.daniellemorrill.com), [Danielle Morrill Medium](https://medium.com/@DanielleMorrill) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
-* [Dao Nguyen](http://www.buzzfeed.com/daozers)
-* [Dave Winer](http://scripting.com) and [Dave Winer GitHub](https://github.com/scripting)
-* [Doc Searls](http://blogs.law.harvard.edu/doc) 
-* [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
-* [Eric Schmidt](http://www.slideshare.net/ericschmidt)
-* [Ev Williams Medium](https://medium.com/@ev) 
-* [Felix Dennis Wikipedia](https://en.wikipedia.org/wiki/Felix_Dennis)
-* [Guy Kawasaki](http://guykawasaki.com) and [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
-* [Hiten Shah](http://hitenism.com) 
-* [Horace Dediu](http://www.asymco.com) 
-* [Jake Knapp](https://medium.com/@jakek)
-* [Jay Rosen](http://pressthink.org)   
-* [Jeff Atwood](http://blog.codinghorror.com) and [Jeff Atwood GitHub](https://github.com/coding-horror)
-* [Jeff Jarvis](http://buzzmachine.com) 
-* [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
-* [Joel Spolsky](http://www.joelonsoftware.com)
-* [John Battelle](http://battellemedia.com)   
-* [John Gruber](http://daringfireball.net)   
-* [John Maeda (Creative Leadership)](http://creativeleadership.com)
-* [John Resig](http://ejohn.org/blog) 
-* [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
-* [Justin Kan](http://justinkan.com)
-* [Kevin Kelly](http://kk.org/kk), [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
-* [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
-* [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
-* [Loic Le Meur](http://loiclemeur.com/english) and [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)
-* [Louis Gray](http://blog.louisgray.com)
-* [Luke Wroblewski](http://www.lukew.com)
-* [Marco Arment](http://www.marco.org)
-* [Marshall Kirkpatrick](http://marshallk.com)
-* [Matt Cutts](http://www.mattcutts.com/blog)   
-* [Matt Mullenweg](http://ma.tt)
-* [Michael Arrington](http://uncrunched.com) 
-* [Michael Dearing (Harrison Metal)](https://www.harrisonmetal.com)
-* [Naval Ravikant](http://startupboy.com)
-* [Peter Rojas](http://roj.as/contact)
-* [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
-* [Rick Klau Medium](https://medium.com/@rklau)
-* [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
-* [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
-* [Sean Ellis Slideshare](http://www.slideshare.net/seanellis) and [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
-* [Sean Rose](https://medium.com/@sean_a_rose)
-* [Seth Godin](http://www.sethgodin.com) and [Seth Godin Typepad](http://sethgodin.typepad.com)
-* [Shane Parrish (Farnam Street Blog)](http://www.farnamstreetblog.com) 
-* [Sree Sreenivasan Twitter](https://twitter.com/sree)  
-* [Startup L. Jackson Archive](http://startupljackson.com/archive)  
-* [Steve Blank](http://steveblank.com), [Steve Blank Slides](http://steveblank.com/slides), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
-* [Stowe Boyd](http://stoweboyd.com)
-* [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
-* [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
-* [Tom Peters](http://tompeters.com), [Tom Peters Slides](http://tompeters.com/slides), and [Tom Peters Excellence Now](http://excellencenow.com) 
-* [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
-* [Venkatesh Rao Ribbonfarm](http://www.ribbonfarm.com) and [Venkatesh Rao Breaking Smart](http://breakingsmart.com)
-* [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
-* [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
-
-<!--
-http://moneymasterthegame.com
-http://humanelevation.tonyrobbins.com
-
-http://fourhourworkweek.com/podcast
-
-https://usesthis.com/interviews/horace.dediu
-
-https://plus.google.com/collection/EZT2b
-https://plus.google.com/collection/gbVpb
--->
-
-#### High Profile Developers
-
-* [Harper Reed GitHub](https://github.com/harperreed)
-* [Joel Spolsky](http://www.joelonsoftware.com)
-* [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
-* [Mark Otto GitHub](https://github.com/mdo)
-* [Zac Holman](http://zachholman.com)
-* [Zed Shaw GitHub](https://github.com/zedshaw)
-
-<!--
-https://m.signalvnoise.com
-https://m.signalvnoise.com/@jasonfried
--->
-
-#### Schools of Thought
-
-* [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
-* [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
-* [Claude Shannon Wikipedia](https://en.wikipedia.org/wiki/Claude_Shannon)
-* [W. Brian Arthur (books/articles recommended by Sonal) Wikipedia](https://en.wikipedia.org/wiki/W._Brian_Arthur)
-* [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
-* [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
-* [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
-* [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
-
-Awards
-* [Nobel Prizes](http://www.nobelprize.org/nobel_prizes)
-* [Pulitzer Prizes](http://www.pulitzer.org)
-* [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
-* [Turing Award Winners](http://amturing.acm.org/byyear.cfm)
-
-#### Inventors, Economists, Philosophers
-* [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
-* [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
-* [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
-* [Abraham Maslow Wikipedia](https://en.wikipedia.org/wiki/Abraham_Maslow)
-* [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
-* [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
-* [George Soros Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
-* [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
-* [Joseph Stiglitz Wikipedia](https://en.wikipedia.org/wiki/Joseph_Stiglitz)
-* [Karl Popper Wikipedia](https://en.wikipedia.org/wiki/Karl_Popper)
-* [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
-* [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
-* [Noah Smith](http://noahpinionblog.blogspot.com)
-* [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
-* [René Girard (Influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
-* [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
-* [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
-* [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
-* [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
-
-<!--
-http://www.greatachievements.org
--->
-
-#### Markets and Institutional Investing 
-* [Ben Carlson](http://awealthofcommonsense.com)
-* [Barry Ritholtz](http://www.ritholtz.com/blog) and [Barry Ritholtz Masters in Business](http://www.bloombergview.com/topics/masters-in-business)
-* [Howard Marks (Chairman, Oaktree Capital) Memos](http://www.oaktreecapital.com/memo.aspx) and [It’s not Easy](http://www.oaktreecapital.com/MemoTree/It's%20Not%20Easy.pdf)
-* [Jason Zweig](http://www.jasonzweig.com)
-* [Joshua M. Brown (CEO, Ritholtz Wealth Management and The Reformed Broker)](http://thereformedbroker.com/about)
-* [Larry Summers](http://larrysummers.com)
-* [Michael Batnick (The Irrelevant Investor)](https://theirrelevantinvestor.wordpress.com)
-* [Morgan Housel](http://www.morganhousel.com)
-* [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best)](http://szabo.best.vwh.net)
-* [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
-
-#### Events, Talks, People
-
-Conferences (See also Designer/Developer Conferences and Python Django Conferences)
-* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-* [Techmeme Events List](http://techmeme.com/events) 
-* [Tech EU Events List](http://tech.eu/events)
-* [500 Startups Events](http://500.co/events)
-* [Startup School](http://www.startupschool.org)
-* [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
-* [TechCrunch Events](http://techcrunch.com/events)  
-* Crunchies
-* [Recode Events](http://recode.net/events) 
-* [LeWeb](http://leweb.co) 
-* [Pitch at the Palace Livestream](http://pitchatpalace.com/pitchlive)
-* [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
-* [SXSW](http://sxsw.com) 
-* [KC Addys](http://aafkc.com/addys)
-
-Mobile (See also Mobile)
-* [Groupe Speciale Mobile Association (GSMA)](http://www.gsma.com)
-* [Mobile Ecosystem Forum](http://mefglobalforum.org)
-* [Mobile World Congress](https://www.mobileworldcongress.com)
-* [Recode Mobile](http://recode.net/events/code-mobile)
-
-Unconference
-* [Unconference Wikipedia](https://en.wikipedia.org/wiki/Unconference)
-
-Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
-* [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
-* [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
-* [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
-* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
-* [Charlie Rose](http://www.charlierose.com)
-* [PBS](http://www.pbs.org)
-* [This American Life](http://www.thisamericanlife.org)
-
-Shows
-* [Founder Stories](http://techcrunch.com/video/founder-stories)
-* [Heart Startup](http://hearstartup.com) 
-* [Product Hunt Live](http://www.producthunt.com/live)
-* [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
-* [This Week in Startups](http://thisweekinstartups.com)
-* [This Week in Tech](https://twit.tv)
-
-Unboxing
-* [Unboxing](http://unboxing.gearlive.com)
-
-#### Books and Courses
-
-Books
-* [Andy Grove: High Output Management](http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
-* [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
-* [Bill Janeway: Doing Capitalism in the Innovation Economy: Markets, Speculation and the State](http://www.amazon.com/Doing-Capitalism-Innovation-Economy-Speculation/dp/1107031257)
-* [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
-* [Carlota Perez: Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](http://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
-* [Dale Carnegie: How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
-* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
-* [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
-* [Howard Marks](http://www.amazon.com/Howard-Marks/e/B004LE5B00/ref=dp_byline_cont_book_1)
-* [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
-* [Nir Eyal: Hooked: How to Build Habit-Forming Products](http://www.amazon.com/dp/1591847788/?tag=hooked-us-20)
-* [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
-* [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
-* [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
-
-<!--
-http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
-
-Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
-http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
-
-http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
--->
-
-Whole Earth Catalog
-* [Whole Earth Catalog Back Issues](http://www.wholeearth.com/back-issues.php)
-
-Books- Historical
-* [Laozi: Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
-* [Niccolò Machiavelli: The Prince Wikipedia](https://en.wikipedia.org/wiki/The_Prince)
-* [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
-
-Courses
-* [Balaji S. Srinivasan and Vijay S. Pande: Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
-* [Marissa Mayer: Ideas Come from Everywhere (New Product Development Process)](https://www.udemy.com/ideas-come-from-everywhere)
-* [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
-* [Reid Hoffman: CS183C Blitzscaling Introductory Post](https://www.linkedin.com/pulse/cs183c-technology-enabled-blitzscaling-visible-secret-reid-hoffman), [Eric Schmidt](https://www.youtube.com/watch?v=hcRxFRgNpns) and [Student Collection](https://medium.com/cs183c-blitzscaling-student-collection)
-* [Sam Altman: YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
-     
-MOOCs
-* [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance), [Overview](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Overview.pdf), [The Language of Early-Stage Finance](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_The%20Language%20of%20Early-Stage%20Finance.pdf), [Why Start With A Business Plan?](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Why%20Start%20With%20a%20Business%20Plan.pdf), [A “Good” Plan and What VC’s Look For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_A%20Good%20Plan%20and%20What%20VC%27s%20Look%20For.pdf), [Financial Statements for Investors](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Financial%20Statements%20for%20Investors.pdf), [Balance Sheets](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Balance%20Sheets.pdf), [What an Income Statement Presents](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20an%20Income%20Statement%20Presents.pdf), [Statement of Cash Flow](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Statement%20of%20Cash%20Flow.pdf), [Corporate Structure](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Corporate%20Structure.pdf), and [What Investors Are Looking For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20Investors%20Are%20Looking%20For.pdf)
-
-STEM and STEAM
-* [STEM to STEAM](http://stemtosteam.org)
-* [STEAM Wikipedia](https://en.wikipedia.org/wiki/STEAM_fields) and [STEAM with Us](http://steamwith.us)
-
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
@@ -8395,1339 +9732,6 @@ The Happiness Project
 Public Speaking
 * [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
 * [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
-
-#### Business and Tech News Sources
-
-<!--
-Check Often
-* [Product Hunt Today](http://ph.needles.me)
-* [Makerbase Explore](https://makerba.se/explore)
-* [StackShare Trending](http://stackshare.io/trending/tools) 
-
-More News
-* [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
-* Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
--->
-
-Business News
-* [Bloomberg (Business)](http://www.bloomberg.com) and [Bloomberg Live](http://www.bloomberg.com/live)
-* [BloombergView](http://www.bloombergview.com) and [BloombergView Tech](http://www.bloombergview.com/topics/tech)
-* [Business Insider](http://www.businessinsider.com)
-* [Economist](http://www.economist.com)
-* [Entrepreneur](http://www.entrepreneur.com)
-* [Forbes](http://www.forbes.com)
-* [Fortune](http://fortune.com)
-* [Inc.](http://www.inc.com)
-* [New York Times Business](http://www.nytimes.com/pages/business/index.html, )
-* [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
-* [Wealthfront Blog](https://blog.wealthfront.com) 
-
-Venture Analysis
-* [Fortune Venture](http://fortune.com/venture) and [Fortune Termsheet](http://fortune.com/newsletter/termsheet)
-* [Graham and Doddsville](http://www.grahamanddoddsville.net)
-* [Horsley Bridge](http://www.horsleybridge.com)
-* [New York Times DealBook](http://dealbook.nytimes.com)
-* [PE HUB](https://www.pehub.com)
-* [PitchBook](http://pitchbook.com)
-
-Markets and Finance
-* [Fitch](https://www.fitchratings.com)
-* [Google Finance](https://www.google.com/finance) 
-* [Reuters Stocks](http://www.reuters.com/finance/stocks)
-* [Yahoo Finance](http://finance.yahoo.com)  
-* [MarketWatch](http://www.marketwatch.com) 
-* [Nasdaq](http://www.nasdaq.com)
-* [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
-* [Wikinvest](http://www.wikinvest.com)
-
-Investor Vocab
-* [Investopedia Dictionary](http://www.investopedia.com/dictionary) and [Investopedia Tutorials](http://www.investopedia.com/university)
-* [Investor Words](http://www.investorwords.com)
-* [Reuters Financial Glossary](http://glossary.reuters.com/index.php?title=Main_Page)
-
-Ivy League Business and Tech
-* [Harvard Business Review](https://hbr.org), [Harvard Business Review, My HBR](https://hbr.org/my-hbr), and [Harvard Business Review Topics](https://hbr.org/topics)
-* [Harvard Business School Working Knowledge](http://hbswk.hbs.edu)
-* [MIT Sloan Review](http://sloanreview.mit.edu)
-* [MIT Technology Review](http://www.technologyreview.com)
-* [Stanford News](http://news.stanford.edu)
-* [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
-
-STEM Journals 
-* [ACM Publications](https://www.acm.org/publications), [ACM Digital Library](http://dl.acm.org), [Journal of the ACM](http://jacm.acm.org), and [ACM Queue](http://queue.acm.org)
-* [Computing Research Repository](http://arxiv.org/corr/home)
-* [Electrical Engineering Times](http://www.eetimes.com)
-* [Journal of the Institute of Electrical and Electronics Engineers](http://www.ieee.org/publications_standards/publications/periodicals/journals_magazines.html) and [IEEE Spectrum](http://spectrum.ieee.org)
-* [Materials Research Society](http://www.mrs.org/home)
-* [Nature (Sonal)](http://www.nature.com/index.html) and [Nature Archive](http://www.nature.com/ncomms/archive/date.html)
-* [New Scientist](https://www.newscientist.com)
-* [Public Library of Science](https://www.plos.org)
-* [Science News](https://www.sciencenews.org)
-* [Social Sciences Research Network](http://www.ssrn.com/en) and [Social Sciences Research Network Search](http://papers.ssrn.com)
-
-Tech Aggregated, Question and Answer Forums
-* [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-* [Inside Tech](https://www.inside.com/tech)
-* [Launch Ticker](https://www.launchticker.com)
-* [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
-* [Quora Technology](https://www.quora.com/Technology)
-* [Reddit Technology](https://www.reddit.com/r/technology)
-* [Stack Exchange Sites Technology](http://stackexchange.com/sites#technology)
-* [Programmers Stack Exchange](http://programmers.stackexchange.com)
-* [Stack Overflow](http://stackoverflow.com)
-* [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
-
-<!--
-https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
--->
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-Tech Periodical
-* [Mashable Tech](http://mashable.com/category/tech)
-* [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
-* [Recode](http://recode.net)
-* [Stratechery (Partially Subscription Based)](https://stratechery.com)
-* [TechCrunch](http://techcrunch.com)
-* [Techpinions (Partially Subscription Based)](https://techpinions.com)
-* [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
-* [The Next Web](http://thenextweb.com)
-* [The Information (Subscription Based)](https://www.theinformation.com)
-* [Wired](http://www.wired.com)
-
-Tech Longform
-* [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
-
-The Wirecutter, Consumer Reports, Popular Mechanics, Tom's Hardware
-* [The Wirecutter](http://thewirecutter.com)
-* [Consumer Reports](http://www.consumerreports.org)
-* [Popular Mechanics](http://www.popularmechanics.com)
-* [Tom's Hardware](http://www.tomshardware.com)
-
-Leaderboard
-* [REDEF Charts](http://redef.com/charts)
-* [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
-
-<!--
-http://redef.com/charts/popular/total
--->
-
-General News Sources- High Brow
-* [BBC](http://www.bbc.com)
-* [New York Times](http://www.nytimes.com)
-* [Reuters U.K.](http://uk.reuters.com)
-* [Wall Street Journal](http://www.wsj.com) and [Wall Street Journal Blog](http://blogs.wsj.com)
-
-Question and Answer Forums
-* [Quora](http://www.quora.com)
-* [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
-* [Stack Exchange](http://stackexchange.com)
-* [Stack Exchange Sites](http://stackexchange.com/sites) 
-* [Yahoo Answers](https://answers.yahoo.com)
-
-Aggregated News Sources
-* [Feedly](http://feedly.com)  
-* [Flipboard](https://flipboard.com) and [Robert Scoble Flipboard](https://flipboard.com/@Scobleizer)
-* [Grasswire](https://grasswire.com)
-* [Inside Top](https://www.inside.com/top)
-* [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
-* [Matthew Keys](http://matthewkeys.net)
-* [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
-* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
-* [Pocket](https://getpocket.com)
-* [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
-* [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
-
-Eccentric
-* [Brain Pickings](https://www.brainpickings.org)
-* [Freakonomics](http://freakonomics.com)
-* [Marginal Revolution](http://marginalrevolution.com)
-* [Praxtime](http://praxtime.com)
-* [Priceonomics](http://priceonomics.com)
-* [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org), via [Alain de Botton](https://twitter.com/alaindebotton)
-* [Wait But Why](http://waitbutwhy.com)  
-* [XKCD](http://xkcd.com)
-
-Directory of News Websites, Today's Front Pages, and NewsDiffs
-* [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
-* [Newseum Today's Front Pages](http://www.newseum.org/todaysfrontpages)
-* [NewsDiffs](http://newsdiffs.org)
-
-Fact Checking
-* [Snopes](http://www.snopes.com)
-
-People
-* [Klout (including Topic Expertise)](https://klout.com/home)
-
-Companies
-* [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
-* [Great Place to Work](http://www.greatplacetowork.com)
-
-#### Analyst Groups
-
-Analyst Groups
-* [Accenture](https://www.accenture.com)
-* [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
-* [Bain & Company](http://www.bain.com)
-* [Booz Allen Hamilton](http://www.boozallen.com)
-* [Boston Consulting Group Perspectives](https://www.bcgperspectives.com)
-* [Constellation Research](https://www.constellationr.com)
-* [CreditSuisse Plus](https://plus.credit-suisse.com/researchplus)
-* [Deloitte](http://www2.deloitte.com/us/en.html) and [Deloitte University Press](http://dupress.com)
-* [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-* [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Technology](http://www.gartner.com/technology/home.jsp), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
-* [GMO (Jeremy Grantham)](https://www.gmo.com)
-* [Goldman Sachs Our Thinking](http://www.goldmansachs.com/our-thinking)
-* [IDC](http://www.idc.com)
-* [Jana](http://www.jana.com)
-* [KPMG](http://www.kpmg.com/US/en/Pages/default.aspx)
-* [McKinsey & Company](http://www.mckinsey.com), [McKinsey & Company Insights](http://www.mckinsey.com/insights), and [McKinsey & Company Insights Technology and Innovation](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation)
-* [Nielsen](http://www.nielsen.com/us/en.html)
-* [O'Reilly](http://oreilly.com) and [O'Reilly Radar](http://radar.oreilly.com) 
-* [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
-* [PricewaterhouseCoopers](http://www.pwc.com), [PricewaterhouseCoopers Technology Institute](http://www.pwc.com/gx/en/industries/technology/publications.html), and [PricewaterhouseCoopers Research and Insights](http://www.pwc.com/us/en/publications/research-and-insights.jhtml)
-* [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
-* [RedMonk Twitter](https://twitter.com/redmonk)  
-* [State of the Internet](http://www.stateoftheinternet.com)
-
-Management Consulting Firms
-* [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
-
-Think Tanks
-* [Brookings](http://www.brookings.edu)
-* [Cato Institute Live](http://www.cato.org/live)
-* [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
-* [Milken Institute](http://www.milkeninstitute.org)
-* [Paley Center](http://www.paleycenter.org)
-* [NACUE](http://www.nacue.com)
-* [Startup Britain Resources](http://www.startupbritain.org/resources)
-
-Investment Firms
-* [Fidelity](https://www.fidelity.com)
-* [Jane Street](https://www.janestreet.com)
-* [Janus Capital Group](http://en.wikipedia.org/wiki/Janus_Capital_Group)
-* [Magellan Financial](http://magellanfinancial.com)
-* [PIMCO](http://en.wikipedia.org/wiki/PIMCO)
-* [Vangent](https://investor.vanguard.com/home)
-
-<!--
-http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
--->
-
-#### Government and International Data
-
-Australian Gov
-* [Australia Government Data Gov GitHub](http://data.gov.au)
-
-U.S. Departments
-* [The White House](http://www.whitehouse.gov) and [The White House Blog](https://www.whitehouse.gov/blog)
-* [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov)
-* [United States Federal Executive Departments Wikipedia](https://en.wikipedia.org/wiki/United_States_federal_executive_departments)
-* [List of Federal Agencies in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States)
-* [Independent Agencies of the United States Government Wikipedia](https://en.wikipedia.org/wiki/Independent_agencies_of_the_United_States_government)
-* [U.S. Census](http://www.census.gov)
-* [U.S. Department of Commerce Data Hub](https://data.commerce.gov)
-* [U.S. Department of Labor, Bureau of Labor Statistics](http://www.bls.gov)
-
-U.S. Open Government, Data
-* [U.S. Executive Order: Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
-* [U.S. Dot Gov Domains](https://github.com/GSA/data)
-* [U.S. Data](http://www.data.gov) and [U.S. Data Catalog](https://catalog.data.gov)
-* [U.S. Open Data Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf)
-* [U.S. Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp)
-* [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
-* [U.S. Project Open Data](https://project-open-data.cio.gov)
-
-G8 and U.K. Data 
-* [G8 Open Data Charter](https://www.gov.uk/government/publications/open-data-charter) and [Document](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
-* [U.K. Government Publications](https://www.gov.uk/government/publications)
-
-International Organizations
-* [International Monetary Fund](https://www.imf.org) 
-* [Organisation for Economic Cooperation and Development Wikipedia](https://en.wikipedia.org/wiki/Organisation_for_Economic_Co-operation_and_Development)
-* [World Bank](http://www.worldbank.org) and [World Bank Blog](https://blogs.worldbank.org)
-* [World Bank Wikipedia](https://en.wikipedia.org/wiki/World_Bank) and [World Bank Group Wikipedia](https://en.wikipedia.org/wiki/World_Bank_Group)
-* [Multilateral Investment Guarantee Agency Wikipedia](https://en.wikipedia.org/wiki/Multilateral_Investment_Guarantee_Agency)
-* [World Economic Forum](http://www.weforum.org) and [World Economic Forum Agenda](https://agenda.weforum.org)
-
-International Organizations Reports and Data
-* [OECD Data](https://data.oecd.org)
-* [Our World in Data](http://ourworldindata.org)
-* [United Nations Statistics Division](http://unstats.un.org)
-* [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org)
-* [World Economic Forum Reports Homepage](http://www.weforum.org/reports)
-
-International Organizations Special Reports: Business and Competitiveness
-* [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
-* [International Innovation Index Wikipedia](https://en.wikipedia.org/wiki/International_Innovation_Index)
-* [OECD Innovation](http://www.oecd.org/innovation) and [OECD Technology and Innovation Data](https://data.oecd.org/innovation-and-technology.htm)
-* [World Bank- Doing Business Country Rankings (The Ease of Doing Business)](http://www.doingbusiness.org) and [The Ease of Doing Business Ranking Wikipedia](https://en.wikipedia.org/wiki/Ease_of_doing_business_index#Ranking)
-* [World Bank Entrepreneurship](http://econ.worldbank.org/research/entrepreneurship)
-* [World Economic Forum Entrepreneurial Innovation Report](http://www3.weforum.org/docs/WEFUSA_EntrepreneurialInnovation_Report.pdf)
-* [World Economic Forum Global Competitiveness Report](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)
-* [World Economic Forum Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2015)
-* [World Economic Forum Human Capital Report](http://reports.weforum.org/human-capital-report-2015)
-* [World Economic Forum Global Gender Gap Report](http://reports.weforum.org/global-gender-gap-report-2015)
-
-International Organizations Special Reports: Development
-* [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
-* [Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
-* [The 2015 Revision of World Population Prospects](http://esa.un.org/unpd/wpp)
-* [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
-* [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
-* [World Bank World Development Indicators](http://wdi.worldbank.org/tables) 
-
-Social Entrepreneurship
-* [Information and Communication Technologies for Development Wikipedia](https://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development)
-* [Gates Foundation: How We Work](http://www.gatesfoundation.org/How-We-Work) and [Gates Foundation: Evaluation Policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy)
-* [Gates Notes](http://www.gatesnotes.com)
-* [Stanford Social Innovation Review](http://www.ssireview.org) and [Stanford Social Innovation Review Twitter](https://twitter.com/SSIReview)
-
-Microcredit/Microfinance
-* [Microcredit Wikipedia](https://en.wikipedia.org/wiki/Microcredit)
-* [Microfinance Wikipedia](https://en.wikipedia.org/wiki/Microfinance)
-
-Happiness
-* [Happy Planet Index Wikipedia](https://en.wikipedia.org/wiki/Happy_Planet_Index) 
-* [World Happiness Report](http://worldhappiness.report) and [World Happiness Report Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report) 
-
-International Info
-* [Countries of the World Wikipedia](http://en.wikipedia.org/wiki/Countries_of_the_world)   
-* [Lists of Countries and Territories Wikipedia](http://en.wikipedia.org/wiki/Lists_of_countries_and_territories) 
-* [Lists of Countries by Number of Internet Users Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users) 
-* [Lists of Countries by Number of Mobile Phones in Use Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use) 
-* [Lists of Countries by Smartphone Penetration Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) 
-* [List of Circulating Currencies Wikipedia](http://en.wikipedia.org/wiki/List_of_circulating_currencies)  
-* [Currencies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
-* [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
-
-#### Venture
-
-#### VC Theory
-
-Investor Frameworks
-* [Brad Feld Framework](investor-frameworks/brad-feld-framework.md) 
-* [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
-* [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
-* [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
-* [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
-* [Sam Altman Framework](investor-frameworks/sam-altman-framework.md)
-
-Thesis
-* [Semil Shah](http://blog.semilshah.com/haystack)
-
-Funding Options
-* [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
-* [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
-* [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity) and [List of Private Equity Firms Wikipedia](https://en.wikipedia.org/wiki/List_of_private_equity_firms)
-* [History of Private Equity and Venture Capital Wikipedia](https://en.wikipedia.org/wiki/History_of_private_equity_and_venture_capital)
-
-Venture Capital and How Funding Works
-* [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3), [Wealthfront Venture Capital Economics, Part 4](https://blog.wealthfront.com/venture-capital-economics-part-4), and [Wealthfront Venture Capital Economics, Part 5](https://blog.wealthfront.com/venture-capital-economics-part-5)   
-* [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
-* [Startup Growth Calculator](http://growth.tlb.org)
-* [Venture Dealr](http://dlopuch.github.io/venture-dealr)
-
-Venture Capital Terminology- General
-* [Entrepreneurship Wikipedia](https://en.wikipedia.org/wiki/Entrepreneurship)
-* [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
-* [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
-* [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
-* [Carried Interest (Deduction) Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
-* [Capital Gains Tax Wikipedia](https://en.wikipedia.org/wiki/Capital_gains_tax)
-* [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
-* [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
-* [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
-* [Froth](http://www.investopedia.com/terms/f/froth.asp)
-* [Proxy (Law of Agency) Wikipedia](https://en.wikipedia.org/wiki/Law_of_agency)
-
-Venture Capital Terminology- Documents
-* [Due Diligence Wikipedia](https://en.wikipedia.org/wiki/Due_diligence)
-* [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
-* [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet) and [Termsheet Investopedia](http://www.investopedia.com/terms/t/termsheet.asp)
-* [Non-Disclosure Agreement Wikipedia](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
-* [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
-
-Venture Capital Terminology- Funding Instruments
-* [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
-* [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
-
-Venture Capital Terminology- Stock Classes
-* [Dual Class Stock (Important for Public Companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
-* [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
-* [Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
-* [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
-* [Startup Company Lawyer: What is the difference between non-participating preferred stock and participating preferred stock?](http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock)
-* [Class B Shares](http://www.investopedia.com/terms/c/classbshares.asp)
-* [Warrant Wikipedia](https://en.wikipedia.org/wiki/Warrant_(finance))
-
-Venture Capital Terminology- Stock Options
-* [Employee Stock Ownership Plan Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_ownership_plan)
-* [Employee Stock Option Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_option)
-* [Restricted Stock Unit](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
-* [Incentive Stock Option Wikipedia](https://en.wikipedia.org/wiki/Incentive_stock_option)
-* [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
-* [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
-* [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
-
-Venture Capital Terminology- Rights- Pro Rata, Refusal, Pre-Emption, Redemption
-* [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)
-* [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
-* [Pre-Emption Right Wikipedia](https://en.wikipedia.org/wiki/Pre-emption_right)
-* [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
-
-Venture Capital Terminology- Rights- Senority 
-* [Senior Debt Wikipedia](https://en.wikipedia.org/wiki/Senior_debt)
-* [Subordinated Debt Wikipedia](https://en.wikipedia.org/wiki/Subordinated_debt)
-* [Liquidation Preference (Also: Multiple Liquidation Preference)](http://www.investopedia.com/terms/l/liquidation-preference.asp)
-* [What is a senior liquidation preference?](https://www.quora.com/What-is-a-senior-liquidation-preference)
-
-Venture Capital Terminology- Rights- Anti-Dilution
-* [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
-* [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
-
-Venture Capital Terminology- Rights- Voting Rights
-* [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
-* [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
-
-Venture Capital Terminology- Rights- Minority
-* [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
-* [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
-* [Tag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Tag-along_right)
-
-Venture Capital Terminology- Rights- Activism
-* [Activist Shareholder Wikipedia](https://en.wikipedia.org/wiki/Activist_shareholder)
-* [Shareholder Rights Plan (Poison Pill) Wikipedia](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
-* [Super-Majority Amendment Wikipedia](https://en.wikipedia.org/wiki/Super-majority_amendment)
-* [Staggered Board of Directors Wikipedia](https://en.wikipedia.org/wiki/Staggered_board_of_directors)
-* [Control Premium Wikipedia](https://en.wikipedia.org/wiki/Control_premium)
-* [Corporate Raid Wikipedia](https://en.wikipedia.org/wiki/Corporate_raid)
-* [Takeover Wikipedia](https://en.wikipedia.org/wiki/Takeover)
-* [Reverse Takeover Wikipedia](https://en.wikipedia.org/wiki/Reverse_takeover)
-* [Proxy Fight Wikipedia](https://en.wikipedia.org/wiki/Proxy_fight)
-* [Tender Offer Wikipedia](https://en.wikipedia.org/wiki/Tender_offer)
-
-Endings
-* [Mergers and Acquisitions Wikipedia](https://en.wikipedia.org/wiki/Mergers_and_acquisitions)
-* [Equity Carve-Out Wikipedia](https://en.wikipedia.org/wiki/Equity_carve-out)
-* [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
-* [Corporate Spin-Off Wikipedia](https://en.wikipedia.org/wiki/Corporate_spin-off)
-* [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale) 
-
-More
-* [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
-* [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
-* [Clawback Wikipedia](https://en.wikipedia.org/wiki/Clawback)
-* [Cram Down Wikipedia](https://en.wikipedia.org/wiki/Cram_down)
-* [Hamburger Helper](https://twitter.com/trengriffin/status/660536443308109824)
-
-#### VC Firms, Accelerators, Resources
-
-:) 
-* [Palo Alto, California](https://en.wikipedia.org/wiki/Palo_Alto,_California)
-* [Sand Hill Road](https://en.wikipedia.org/wiki/Sand_Hill_Road)
-
-Lists of VC Firms and Accelerators
-* [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [Venture Capital Firms (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Venture_capital_firms)
-* [Private Equity and Venture Capital Investors (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Private_equity_and_venture_capital_investors)
-* [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
-* [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
-* [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
-* [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
-
-Angel Investors
-* [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
-
-Accelerators
-* [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
-* [Techstars](http://www.techstars.com)
-* [YCombinator](http://ycombinator.com)
-
-VC Funds/Accelerators
-* [Union Square Ventures](https://www.usv.com)
-
-Equity
-* [Google Capital](http://www.googlecapital.com)
-
-Startup Studios
-* [Betaworks](https://betaworks.com) and [Betaworks Bot Camp](https://betaworks.com/botcamp)
-* [Expa](http://expa.com) and [Expa Labs](http://expa.com/labs)
-* [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
-
-Other
-* [Silicon Valley Bank](http://www.svb.com) 
-
-<!--
-https://github.com/jlevy/og-equity-compensation
-https://github.com/holman/extended-exercise-windows
-
-https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
-http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
-https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
--->
-
-Accelerator, Angel, VC Firm Blogs and Learning Resources
-* [500 Startups Activity](http://500.co/activity), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
-* [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
-* [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
-* [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
-* [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
-* [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
-* [Founders Club Learn](https://fundersclub.com/learn)  
-* [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-* [KPCB Articles](http://www.kpcb.com/articles), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
-* [Nasdaq Entrepreneurial Center](http://thecenter.nasdaq.org)
-* [NEA](http://www.nea.com)
-* [NFX Guild Program](http://www.nfx.com/company/program)
-* [OS Fund Playbook](http://osfund.co/the-osf-playbook)
-* [Sam Altman: Startup Playbook](http://playbook.samaltman.com) and [Sam Altman: Startup Playbook (Spanish)](https://platzi.com/startup-playbook)
-* [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
-* [Social Capital Eightball Diligence Tool](https://analytics.socialcapital.com/eightball)
-* [StackExchange Startups](http://startups.stackexchange.com)
-* [True University](http://trueuniversity.com) 
-* [Upfront Insights](http://insights.upfront.com)
-* [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
-* [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
-
-Blogs and Whatnot
-* [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
-* [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
-* [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
-* [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
-* [Product Hunt Blog](http://blog.producthunt.com)
-* [Tech EU Research](http://tech.eu/section/research)
-
-RFS, Trends, Emerging Technologies
-* [Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/Emerging_technologies)
-* [List of Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
-* [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
-* [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
-* [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
-* [YCombinator RFS](http://www.ycombinator.com/rfs)
-
-VC Firm Numbers
-* [Felicis Numbers](http://www.felicis.com/numbers)
-* [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
-
-VC Firm Portfolios and Anti-Portfolios
-* [A16Z Portfolio](http://a16z.com/portfolio) and [A16Z Seeds](http://a16z.com/seeds)
-* [Bessemer Venture Partners Anti-Portfolio](https://www.bvp.com/portfolio/anti-portfolio)
-* [Expa Portfolio](http://expa.com/#portfolio)
-* [Homebrew Companies](http://www.homebrew.co/#companies)
-* [StartX Stanford Companies](http://startx.stanford.edu/companies) 
-* [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
-* [YCList](http://yclist.com)
-
-EquityZen
-* [EquityZen](https://equityzen.com)
-
-VC Firm Newsletters
-* [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
-
-VC Firm Demo Days
-* [500 Startups Demo Day](http://500demoday.co)
-
-VC Firm Events
-* [PreMoney](http://premoney.co/agenda), [PreMoney Resources](http://premoney.co/resources), [WMD](http://wmd.co), [Warm Gun](http://warmgun.com), and [Marketing Hell Week](http://www.growth.500.co)
-
-VC and Tech Videos and Podcasts
-* [A16Z Podcasts](https://soundcloud.com/a16z)
-* [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
-* [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
-* [YCombinator The Macro](https://soundcloud.com/the-macro-y-combinator)
-
-VC Firm Apps
-* [First Round Pitch App](http://firstround.com/openapp)
-* [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
-
-VC Firm Alpha and Beta 
-* [Betaworks Openbeta](https://betaworks.com/openbeta)
-* [Lowercase Alpha](http://lowercasealpha.com)
-
-Crowdfunding
-* [Kickstarter](https://www.kickstarter.com)
-* [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
-* [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
-
-Federal Opportunities and Funding
-* [Federal Business Opportunities](https://www.fbo.gov)  
-* [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
-* [National Science Foundation Funding](https://www.nsf.gov/funding)
-* [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
-
-
-#### Regulation, Business Entity
-
-U.S. Law
-* [Cornell Law: U.S. Constitution](https://www.law.cornell.edu/constitution)
-* [Cornell Law: U.S. Code](https://www.law.cornell.edu/uscode/text)
-
-Corporate Law- General
-* [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
-* [Limited Partnership Wikipedia](https://en.wikipedia.org/wiki/Limited_partnership)
-* [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) 
-* [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
-* [C Corp Wikipedia](https://en.wikipedia.org/wiki/C_corporation)
-
-Small Business Administration- Corporate Law
-* [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
-* [SBA Corporations](http://www.sba.gov/content/corporation) 
-* [SBA LLC](http://www.sba.gov/content/limited-liability-company-llc)  
-* [SBA S Corporation](http://www.sba.gov/content/s-corporation) 
-
-IRS- Corporate Law
-* [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
-* [IRS Corporations](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Corporations)   
-* [IRS LLC](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Limited-Liability-Company-LLC)    
-* [IRS S Corporation](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/S-Corporations) 
-
-Benefitcorp and B Corporation
-* [Benefitcorp (not B Corporation) Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation)
-* [Benefitcorp](http://benefitcorp.net) 
-* [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
-
-Delaware
-* [Delaware Code Online](http://delcode.delaware.gov)
-* [State of Delaware Division of Corporations](http://corp.delaware.gov)  
-* [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
-* [The Delaware Court of Chancery](http://courts.delaware.gov/chancery)
-* [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
-* [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
-
-California
-* [California Laws & Regulations](http://www.ca.gov/Work/LawsAndRegs.html)
-
-Kansas
-* [State of Kansas Business](http://www.kansas.gov/business) 
-* [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
-* [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
-* [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
-
-Associations
-* [Angel Capital Association](http://www.angelcapitalassociation.org) and [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
-* [British Private Equity and Venture Capital Association](http://www.bvca.co.uk)
-* [National Association of Investment Companies](http://www.naicvc.com)
-* [National Association of Investment Companies Partners](http://www.naicvc.com/resourcecenter.html)
-* [National Venture Capital Association](http://nvca.org)
-
-Special Rules- via AngelList
-* [SEC No Action Relief Letter](http://www.sec.gov/divisions/marketreg/mr-noaction/2013/angellist-15a1.pdf)
-* [AngelList Accreditation](https://angel.co/help/accreditation) and [AngelList API / Accreditation](https://angel.co/api/spec/accreditation)
-* [AngelList General Solicitation (Public Fundraising) 506(c)](https://angel.co/help/general-solicitation)
-* K-1 Form (Syndicates)
-
-Special Rules- via IRS
-* [Internal Revenue Code section 409A (Valuation) Wikipedia](http://en.wikipedia.org/wiki/Internal_Revenue_Code_section_409A) 
-* 123R
-* Internal Revenue Code Sections 1202 and 1045
-
-Special Rules- via SEC
-* [The Laws That Govern the Securities Industry](http://www.sec.gov/about/laws.shtml)
-* [Glass-Steagall Legislation Wikipedia](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_Legislation)
-* [Small Business and the SEC](http://www.sec.gov/info/smallbus/qasbsec.htm)
-* [SEC Rule 506, 506(b) (Public Fundraising)](http://www.sec.gov/answers/rule506.htm)
-* Regulation A (Public Fundraising)
-* [Eliminating the Prohibition Against General Solicitation and General Advertising in Rule 506 and Rule 144A Offerings](http://www.sec.gov/info/smallbus/secg/general-solicitation-small-entity-compliance-guide.htm)
-* [Final Rules and Amendments to Regulation A (March 25, 2015)](http://www.sec.gov/rules/final/2015/33-9741.pdf)
-* [Regulation A+](http://www.sec.gov/news/pressrelease/2015-49.html)
-* [Morrison Foester: Regulation A+: Final Rules Offer Important Capital Raising Alternatives](http://www.mofo.com/~/media/Files/ClientAlert/2015/03/150326RegulationA.pdf)
-* [SEC Accredited Investors](http://www.sec.gov/answers/accred.htm)
-* [Investor.gov Accredited Investors](http://www.investor.gov/news-alerts/investor-bulletins/investor-bulletin-accredited-investors#.VFcvnIvF8m8)
-
-Special Rules- General
-* [Regulation Fair Disclosure Wikipedia](https://en.wikipedia.org/wiki/Regulation_Fair_Disclosure)
-* [FAS 157](http://www.fasb.org/pdf/aop_FAS157.pdf)
-* [Sarbanes–Oxley Act Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
-* [Basel II Wikipedia](https://en.wikipedia.org/wiki/Basel_II) and [Basel III Wikipedia](https://en.wikipedia.org/wiki/Basel_III)
-
-Securities and Exchange Commission (SEC)
-* [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
-* [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
-* [SEC Filings Wikipedia](http://en.wikipedia.org/wiki/SEC_filing)
-* [Form S-1 Wikipedia](http://en.wikipedia.org/wiki/Form_S-1)  
-* [Form 10-K Wikipedia](http://en.wikipedia.org/wiki/Form_10-K) 
-* [Form D Wikipedia (cf. Brad Feld)](https://en.wikipedia.org/wiki/Form_D)
-
-IPO List
-* [Nasdaq IPO](http://www.nasdaq.com/markets/ipos)
-
-Notable SEC Filings
-* [Box S-1](http://www.sec.gov/Archives/edgar/data/1372612/000119312514112417/d642425ds1.htm)  
-* [Etsy SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001370637&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Etsy S-1](http://www.sec.gov/Archives/edgar/data/1370637/000119312515077045/d806992ds1.htm)
-* [Facebook SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001326801&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Facebook S-1](http://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm)  
-* [Groupon SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001490281&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Groupon S-1](http://www.sec.gov/Archives/edgar/data/1490281/000104746911005613/a2203913zs-1.htm)  
-* [Hortonworks S-1](http://www.sec.gov/Archives/edgar/data/1610532/000119312514405390/d748349ds1.htm)  
-* [HubSpot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001404655&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [HubSpot S-1](http://www.sec.gov/Archives/edgar/data/1404655/000119312514320044/d697256ds1.htm)  
-* [Linkedin SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001271024&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [LinkedIn S-1](http://www.sec.gov/Archives/edgar/data/1271024/000119312511295272/d250692ds1.htm)  
-* [Match Group S-1](http://www.sec.gov/Archives/edgar/data/1575189/000104746915007908/a2226226zs-1.htm)
-* [RetailMeNot SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001475274&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [RetailMeNot S-1](http://www.sec.gov/Archives/edgar/data/1475274/000119312513261481/d498394ds1.htm)  
-* [Salesforce Marketing Cloud](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001108524&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Salesforce S-1](http://www.sec.gov/Archives/edgar/data/1108524/000119312503096073/ds1.htm)  
-* [Shutterstock SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001549346&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Shutterstock S-1](http://www.sec.gov/Archives/edgar/data/1549346/000104746913008614/a2216433zs-1.htm)  
-* [Square S-1](http://www.sec.gov/Archives/edgar/data/1512673/000119312515343733/d937622ds1.htm)
-* [Trulia SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001349454&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Trulia S-1](http://www.sec.gov/Archives/edgar/data/1349454/000119312513089639/d493065ds1.htm)  
-* [Twitter SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001418091&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Twitter S-1](http://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm)  
-* [Zendesk SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001463172&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zendesk S-1](http://www.sec.gov/Archives/edgar/data/1463172/000119312514137878/d665368ds1.htm)  
-* [Zillow SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001334814&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zillow S-1](http://www.sec.gov/Archives/edgar/data/1334814/000119312511100697/ds1.htm )  
-* [Zynga SEC](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;amp;CIK=0001439404&amp;amp;amp;owner=exclude&amp;amp;amp;count=40) and [Zynga S-1](http://www.sec.gov/Archives/edgar/data/1439404/000119312512113668/d312579ds1.htm)  
-
-Central Banks/Reserves
-* [Bank of England Wikipedia](https://en.wikipedia.org/wiki/Bank_of_England)
-* [Federal Reserve (News Events)](http://www.federalreserve.gov/newsevents)
-* [Federal Reserve Bank Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_Bank) and [Federal Reserve System Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve_System)
-* [Kansas City Fed](https://www.kansascityfed.org)
-* [San Franscisco Federal Reserve Bank](http://www.frbsf.org) 
-* [St. Louis Fed Research](https://research.stlouisfed.org) and [Archive](https://fraser.stlouisfed.org)
-* [St. Louis Fed Fred](https://research.stlouisfed.org/fred2) and [St. Louis Fed Data Tools](https://research.stlouisfed.org/datatools.html)
-
-Accounting Types
-* [Cost Accounting Wikipedia](https://en.wikipedia.org/wiki/Cost_accounting)
-* [Management Accounting Wikipedia](https://en.wikipedia.org/wiki/Management_accounting)
-
-Accounting Methods
-* [Generally Accepted Accounting Principles Wikipedia](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles)
-* [International Financial Reporting Standards Wikipedia](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) and [International Financial Reporting Standards](http://www.investopedia.com/terms/i/ifrs.asp)
-* [Historical Cost Wikipedia](https://en.wikipedia.org/wiki/Historical_cost)
-* [Mark-to-Market (Fair Value) Accounting Wikipedia](https://en.wikipedia.org/wiki/Mark-to-market_accounting)
-* [Generally Accepted Auditing Standards Wikipedia](https://en.wikipedia.org/wiki/Generally_Accepted_Auditing_Standards)
-
-Accounting Organizations
-* [American Institute of CPAs](http://www.aicpa.org)
-* [CFA (Chartered Financial Analyst) Institute](www.cfainstitute.org), [CFA Institute Pubs](http://www.cfapubs.org), and [CFA Institute Blog](https://blogs.cfainstitute.org)
-* [Chartered Institute of Management Accountants](http://www.cimaglobal.com)
-* [Financial Accounting Standards Board](http://www.fasb.org)
-* [International Accounting Standards Board Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Board) and [International Accounting Standards Committee Wikipedia](https://en.wikipedia.org/wiki/International_Accounting_Standards_Committee)
-* [Financial Conduct Authority Handbook](https://www.handbook.fca.org.uk)
-
-Regulatory Agencies and Rules- Business and Finance Related
-* [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
-* [Internal Revenue Service](http://www.irs.gov)
-* [Securities and Exchange Commission](http://www.sec.gov), [Securities and Exchange Commission Investor Pubs](http://www.sec.gov/investor/pubs.shtml), and [Investor.gov](http://investor.gov)
-* [Small Business Administration](http://www.sba.gov) 
-* [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
-
-Regulatory Agencies and Rules- General
-* [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
-* [Federal Aviation Administration](http://www.faa.gov)  
-* [Federal Communications Commission](https://www.fcc.gov)
-* [Federal Drug Administration](http://www.fda.gov)  
-
-Ecommerce, Advertising, Marketing
-* [FTC Advertising and Marketing on the Internet: Rules of the Road](http://www.business.ftc.gov/documents/bus28-advertising-and-marketing-internet-rules-road)
-* [FTC Business Guide to the FTC's Mail or Telephone Order Merchandise Rule](http://www.business.ftc.gov/documents/bus02-business-guide-mail-and-telephone-order-merchandise-rule)
-* [FTC CAN-SPAM Act: A Compliance Guide for Business](http://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business)
-* [SBA Ecommerce Resources](http://www.sba.gov/content/ecommerce-resources)
-* [SBA Online Advertising Law](http://www.sba.gov/content/online-advertising-law)
-
-Labor Law
-* [1099 Non-Corporate Independent Contractors Wikipedia](http://en.wikipedia.org/wiki/IRS_tax_forms#1099_series)
-* [National Labor Relations Act](http://www.nlrb.gov/resources/national-labor-relations-act) and [National Labor Relations Act Wikipedia](http://en.wikipedia.org/wiki/National_Labor_Relations_Act)
-* [NCA Wikipedia](http://en.wikipedia.org/wiki/Non-compete_clause)
-
-Trade Unions
-* [List of Trade Unions Wikipedia](https://en.wikipedia.org/wiki/List_of_trade_unions)
-* [List of Trade Unions in the United States Wikipedia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_the_United_States)
-* [Freelancers Union](https://www.freelancersunion.org/)
-
-Patent Search and FOIA
-* [U.S. Patent and Trademark Office](http://www.uspto.gov)
-* [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
-* [FOIA](http://foia.state.gov)
-* [Stack Exchange Patents](http://patents.stackexchange.com)
-* [Twitter Innovator's Patent Agreement](https://github.com/twitter/innovators-patent-agreement)
-
-Digital Millennium Copyright Act
-* [Digital Millennium Copyright Act Wikipedia](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)  
-* [Digital Millennium Copyright Act](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)  
-* [Buzzfeed DMCA Policy](http://www.buzzfeed.com/about/dmca)  
-* [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
-
-#### Documents and Advice
-
-<!--
-https://github.com/leonar15/startup-checklist
-
-https://www.rocketlawyer.com/document/web-hosting-agreement.rl
-
-Update MY VC Email Template
-http://updatemyvc.com
-
-Trademarkia
-http://www.trademarkia.com
--->
-
-Investors on GitHub
-* [Agile Ventures](https://github.com/AgileVentures)
-* [Indie.vc](https://github.com/indievc)
-* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
-
-A16Z Funding and Valuation Advice
-* [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
-* [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
-
-Law and Transaction Services
-* [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-* [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
-* [Gunderson Dettmer](http://www.gunder.com)
-* [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
-* [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
-* [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
-* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx) and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
-* [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-* [Fortis](http://fortisrep.com) 
-
-VCs on Standard Docs and Terms
-* [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
-* [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
-* [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
-* [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
-* [Walker Corporate Law Group, PLLC: VC Term Sheets – Protective Provisions](http://walkercorporatelaw.com/vc-issues/vc-term-sheets-%E2%80%93-protective-provisions)
-
-Standard Docs and Terms
-* [500 Startups Keep It Simple Security](http://500.co/kiss)
-* [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
-* [Foundry Group Docs via Ask the VC (Series A Term Sheet, Series A Restated Certificate of Incorporation, Series A Preferred Stock Purchase Agreement, Investor Rights Agreement, Co-Sale Agreement, Voting Agreement, Bylaws)](http://www.askthevc.com/wp/resources)
-* [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF) and [Other Gunderson Dettmer](http://www.docracy.com/doc/showalluserdocs?page=1&userId=80)
-* [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github) (in Conjunction with Cooley Go)
-* [Marc Andreessen on “Series Seed Documents,” and Why VCs Should Start Using Them](http://www.pehub.com/64825/marc-andreessen-on-series-seed-documents-and-why-vcs-should-start-using-them), [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Restated Certificate of Incorporation, Preferred Stock Investment Agreement)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
-* [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Term Sheet, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
-* [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
-* [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Convertible Promissory Note Purchase Agreement, Note, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
-* [TheFunded Founder Institute Document List (Certificate of Incorporation, Plain Preferred Term Sheet, Bylaws, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
-* [Founder Institute Agreements (The Founder Agreement, Form of the Warrant, Form of Board Consent)](http://fi.co/agreements)
-* [Wilson Sonsini Goodrich & Rosati Incorporation Questionnaire](https://www.wsgr.com/WSGR/Display.aspx?SectionName=start/incorporation.htm), [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm), and [Wilson Sonsini Goodrich & Rosati Term Sheet Generator (Convertible Notes)](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm)
-* [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
-
-Document Libraries- Free/Freemium
-* [Docracy Documents](http://www.docracy.com/application/dochome) 
-* [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
-* [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
-* [Venture Docs](https://venturedocs.com/documents)  
-* [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
-
-Document Libraries- Not Free/Freemium
-* [LegalZoom](http://www.legalzoom.com)
-* [Rocket Lawyer (Starts at $7/month)](https://www.rocketlawyer.com) 
-
-Standard Docs- International
-* [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
-* [Full Stack Foundry Blog Post](http://fullstack.ca/tools/canadian-term-sheets) and [Full Stack Foundry GitHub](https://github.com/FullStackFoundry/common-seed-termsheets)
-* [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
-* [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
-
-VC Firm Pitch Deck and Operational Report Templates
-* [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
-* [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
-* [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
-
-Term Sheets 101
-* [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
-* [Venture Hacks Top 10 Term Sheet Hacks](http://www.slideshare.net/venturehacks/top-10-term-sheet-hacks-presentation-725011)
-
-Carried Interest 101
-* [Wilson Sonsini Goodrich & Rosati: Venture Capital Fund Carried Interests](http://www.slideshare.net/Freddy56/venture-capital-fund-carried-interests)
-
-Document Web Services
-* [Captable.io](https://captable.io)  
-* [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
-* [Eshares Inc](https://www.esharesinc.com)
-* [Visible](https://visible.vc) 
-
-Cap Table
-* [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
-* [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
-
-Raising a Seed Round- The Spreadsheet
-* [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
-
-Equity Investment Simulation
-* [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
-
-Compensation
-* [CompStudy](https://www.compstudy.com)
-
-Contracts
-* [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
-
-Aquihire
-* [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
-
-How to Read A Financial Report
-* [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
-
-IPO
-* [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
-* [Roadshow Definition](http://www.investopedia.com/terms/r/roadshow.asp)  
-* [Retail Roadshow](http://www.retailroadshow.com/wp/index.asp) 
-
-Initial Public Offering of Facebook
-* [Initial Public Offering of Facebook Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook)
-
-Types of Acquisitions
-* [Types of Acquisitions](https://docs.google.com/spreadsheet/pub?key=0AoNag2KcCMGvdGRtZVIyV2NWQlZQTWRLNmVScFRQZGc&chrome=false&gid=0)
-
-Warburg Pincus
-* [Warburg Pincus](http://www.warburgpincus.com) and [Warburg Pincus Wikipedia](http://en.wikipedia.org/wiki/Warburg_Pincus)
-
-Leverage
-* [Leverage Wikipedia](https://en.wikipedia.org/wiki/Leverage_(finance))
-* [Leveraged Buyout Wikipedia](https://en.wikipedia.org/wiki/Leveraged_buyout)
-* [Leveraged Recapitalization Wikipedia](https://en.wikipedia.org/wiki/Leveraged_recapitalization)
-* [Financial Sponsor Wikipedia](https://en.wikipedia.org/wiki/Financial_sponsor)
-
-Leveraged Buyout Firms
-* [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
-* [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
-
-#### Notable Proposals and Pitch Decks
-
-* [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
-
-Pitch Deck Search
-* [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
-* [Pitch Envy](http://www.pitchenvy.com)
-* [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
-
-Notable Proposals and Pitch Decks
-* [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
-* [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
-* [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
-* [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
-* [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
-* [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
-* [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
-* [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
-* [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
-* [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
-* [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
-* [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
-* [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
-* [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
-* [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
-* [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
-* [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
-* [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
-* [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
-* [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
-* [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
-* [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
-* [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
-* [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
-
-Templates
-* [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
-* [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
-* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
-* [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
-* [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
-* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
-* [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
-* [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
-
-The Prince's Trust
-* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
-* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
-* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
-* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
-
-#### Launch
-
-#### Launch Strategies
-
-General
-* [How Famous Startups Acquired Their First Users](http://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and)
-
-Epic
-* [Slack](http://firstround.com/article/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy) 
-
-Tools
-* [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
-* [Amazon Example Press Release](http://aws.amazon.com/new) 
-* [Sandwich Video](http://sandwichvideo.com)
-
-#### Metrics
-
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-Bill Gurley on Conversion and LTV
-* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
-* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
-* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
-* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
-
-Objectives and key Results (OKRs)
-* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
-* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
-* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-
-KPIs
-* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
-
-Pirate Metrics
-* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-
-#### Growth, Marketing, and Content Resources
-
-Advertising and Marketing
-* [Advertising Wikipedia](https://en.wikipedia.org/wiki/Advertising)
-* [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
-* [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
-
-Distribution, Digital Distribution and User-Generated Content
-* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
-
-Distribution, Growth, Sales Hacking
-* [Distribution Hacks](http://distributionhacks.com) 
-* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-* [Saleshacker](http://www.saleshacker.com)
-
-Marketing and Search Engine Land
-* [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-* [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
-
-Hiten Shah and Neil Patel
-* [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
-* [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
-* [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
-* [Quicksprout](http://www.quicksprout.com) 
-
-Popular Tools
-* [Buffer](https://bufferapp.com)
-* [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
-* [Detour Blog](http://blog.detour.com)
-* [Help Scout](http://www.helpscout.net)
-* [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-* [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-* [Intercom Blog](http://blog.intercom.io)
-* [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-* [Moz](http://moz.com), [Moz Tools](http://moz.com/tools) and [Moz Search](https://moz.com/pages/search_results?q=)
-* [URX Blog](http://blog.urx.com/urx-blog) 
-
-Digital Novel
-* [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
-* [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
-* [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
-
-Digital Stats
-* [eMarketer](http://www.emarketer.com)
-
-#### Internationalization
-
-* [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
-
-
-#### Economics, Models, Biases, Metrics
-
-Finance
-* [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
-
-Corporate Finance
-* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
-* [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
-* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
-* [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
-
-Valuation
-* [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
-* [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
-* [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
-* [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
-* [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
-* [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
-* [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
-* [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
-* [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
-* [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
-
-Opolies
-* [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
-
-Excel and Financial Modeling
-* [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
-* [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
-* [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
-* [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
-* [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
-* [Spreadsheet Standards Review Board](http://www.ssrb.org)  
-* [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
-
-Free Market and Capitalism
-* [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
-* [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
-
-Economics
-* [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
-* [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-* [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
-* [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
-* [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
-* [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-* [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
-* [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
-* [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
-* [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
-  
-Economic Models
-* [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
-* [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
-* [Roll's Critique Wikipedia](https://en.wikipedia.org/wiki/Roll%27s_critique)
-* [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
-* [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
-* [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
-* [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
-* [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
-* [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
-* [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
-* [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
-* [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
-* [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
-
-Volatility and Stochastic Calculus
-* [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
-* [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
-* [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
-
-Technical and Fundamental Analysis
-* [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
-* [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
-* [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
-
-Options Models
-* [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
-* [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
-* [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
-* [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
-* [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
-* [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
-
-Financial Market and Instruments
-* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
-* [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
-* [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
-* [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
-
-Rational Decisions 
-* [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
-* [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
- 
-Public Market
-* [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
-* [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
-* [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
-* [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
-* [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
-* [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
-* [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
-* [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
-* [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
-* [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
-
-Demand-Side and Supply Side Economics
-* [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
-* [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
-
-General
-* [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
-* [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
-* [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
-
-#### Warren Buffet, Charlie Munger, Alphabet
-  
-Google and Alphabet
-* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
-* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
-* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
-* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
-
-Berkshire Hathaway
-* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
-* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
-* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
-* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
-* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
-* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
-
-Long Bets
-* [Long Bets](https://longbets.org)
-
-Poor Charlie's Almanack
-* [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
-
-Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
-* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
-
-Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
-* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
-* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
-
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-
-Mental Models
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-
-Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
-
-#### Chance
-* [Michael Mauboussin](http://michaelmauboussin.com)
-* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
-
-<!--
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d
--->
-
-Mauboussin, Callahan, Rone, Burns, Bartholdson
-* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
-* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
-* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
-* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
-* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
-* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
-* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
-* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
-* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
-* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
-* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
-* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
-* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
-* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
-
-Nassim Nicholas Taleb: Antifragile and The Black Swan
-* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
-* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
-* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
-* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
-* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
-* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
-* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
-* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
-
-Nassim Nicholas Taleb's Teachings
-* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
-* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
-* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
-* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
-* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
-* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
-* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
-* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
-* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
-
-
-#### Philosophies, Milestones
-
-Company Internal Policies
-* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
-* [Amazon: Back of the Napkin Drawing](http://a16z.com/2014/09/05/why-amazon-has-no-profits-and-why-it-works)
-* [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
-* [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) and [Tesla Master Plan Deux](https://www.tesla.com/blog/master-plan-part-deux)
-
-<!--
-http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
-https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
-http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
-https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html
-https://twitter.com/ValaAfshar/status/736956353042862080
--->
-
-Good Infographics
-* [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
-* [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
-* [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
-* [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
-
-Miscellaneous
-* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
-* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
-* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
-* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
-* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-
-Laws
-* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
-* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
-
-Models and Theories
-* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
-* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
-* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
-* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
-* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
-
-<!--
-http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=UTF8&ref_=cm_sw_r_cp_awd_tvhaxbCH8XQPF
-https://en.m.wikipedia.org/wiki/Anthropomorphism
-
-https://en.wikipedia.org/wiki/360-degree_feedback
-https://en.wikipedia.org/wiki/Institutional_memory
-https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
-
-https://en.wikipedia.org/wiki/Net_Promoter
-https://www.netpromoter.com/know/
--->
-
-Computer Lore
-* [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
-* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
-
-#### Notable Interviews and Presentations
-
-Trends
-* [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
-* [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
-* [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
-
-Famous
-* [Amazon 1997 Shareholders Letter](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
-* [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
-* [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
-* [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
-* [Steve Jobs: The Pitchman](https://www.facebook.com/METalInternational/videos/10153781985002446)
-
-Innovation and Excellence
-* [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
-* [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
-
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-Google
-* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
-* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
-* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
-* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
-
-#### Notable Quotes
-
-* [Antoine de Saint Exupéry: "If you want to build a ship..."](https://en.wikiquote.org/wiki/Talk:Antoine_de_Saint_Exup%C3%A9ry)
-* [Buckminster Fuller via Tomasz Tunguz: "worldwide technological revolution" Prediction](http://tomtunguz.com/forty-seven-year-prediction) 
-* [Daniel Burnham: "Make no little plans"](http://www.ontko.com/pub/rayo/burnham.html)
-* [Doublas Adams: "I've Come up with a Set of Rules that Describe Our Reactions to Technologies](http://www.douglasadams.com/dna/19990901-00-a.html) via [Chris Dixon](http://cdixon.org/2014/11/20/ive-come-up-with-a-set-of-rules-that-describe-our-reactions-to-technologies-2)
-* [Ernest Hemingway: "Gradually, then suddenly"](http://www.goodreads.com/quotes/102579-how-did-you-go-bankrupt-two-ways-gradually-then-suddenly)
-* [Michael Moritz via Chris Dixon: “This business is like bird spotting”](http://cdixon.org/2014/12/01/this-business-is-like-bird-spotting)
-* [Nikola Tesla via Chris Dixon: “A man will be able to carry one in his vest pocket”](http://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket)
-* [Steve Jobs: Bicycle Speech](https://www.youtube.com/watch?v=0lvMgMrNDlg&feature=youtu.be)
-* [Steve Jobs via Chris Dixon: On Craftsmanship](http://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product)
-* [Steve Jobs via Chris Dixon: On Problem Solving](http://cdixon.org/2014/08/15/steve-jobs-on-problem-solving)
-* [Steve Jobs via Chris Dixon: "PCs are Going to be Like Trucks"](http://cdixon.org/2013/02/27/pcs-are-going-to-be-like-trucks)
-* [Steve Jobs via Tyler Hogge: "I've never found anyone that didn't want to help me..."](https://twitter.com/thogge/status/591009111355105280)
-* [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
-* [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
 
 #### Journalism Handbooks and Grammatical Style Guides
 
