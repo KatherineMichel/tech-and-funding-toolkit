@@ -8866,19 +8866,25 @@ Pirate Metrics
 
 #### Philosophies, Milestones
 
-Company Internal Policies
-* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
+Company Milestones
+* [Square: Back of the Napkin Drawing](https://twitter.com/ValaAfshar/status/736956353042862080)
 * [Amazon: Back of the Napkin Drawing](http://a16z.com/2014/09/05/why-amazon-has-no-profits-and-why-it-works)
+* [Amazon: Pay to Quit](https://hbr.org/2014/04/why-amazon-is-copying-zappos-and-paying-employees-to-quit)
+* [Amazon: 1997 Shareholder Letter](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
+* [Amazon: 2004 Shareholder Letter](http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf)
 * [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
 * [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) and [Tesla Master Plan Deux](https://www.tesla.com/blog/master-plan-part-deux)
 
 <!--
-http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf
-https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
 http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
-https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html
-https://twitter.com/ValaAfshar/status/736956353042862080
 -->
+
+Google
+* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
+* [Google: 2016 Founders' Letter](https://googleblog.blogspot.com/2016/04/this-years-founders-letter.html)
+* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
+* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
+* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 
 Good Infographics
 * [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
@@ -8927,7 +8933,6 @@ Trends
 * [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
 
 Famous
-* [Amazon 1997 Shareholders Letter](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
 * [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
 * [Sequoia Capital: Slideshare RIP Good Times](http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation)
 * [Steve Jobs: The Lost Interview via Fred Wilson](http://avc.com/2014/10/video-of-the-week-the-lost-interview)
@@ -8940,12 +8945,6 @@ Innovation and Excellence
 Personal Advice
 * [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
 * [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-Google
-* [Google: 2004 Founders' IPO Letter From the S-1 Registration Statement, "An Owner's Manual" for Google's Shareholders"](https://investor.google.com/corporate/2004/ipo-founders-letter.html)
-* [Google: History of Spectral Ranking (basis for Google PageRank)](http://vigna.di.unimi.it/ftp/papers/SpectralRanking.pdf)
-* [Eric Schmidt: How Google Works](http://www.slideshare.net/ericschmidt/how-google-works-final-1)
-* [Laszlo Bock: Work Rules!](https://www.workrules.net) and [Laszlo Bock: Work Rules! Slideshare](http://www.slideshare.net/lxbock/work-rules-48029695)
 
 #### Notable Quotes
 
@@ -9656,10 +9655,8 @@ MOOCs
 * [NovoEd (Social Entrepreneurship)](https://novoed.com)  
 * [University of Reddit](http://universityofreddit.com) 
 
-<!--
 Coursera Materials Downloader
-https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en
--->
+* [Coursera Materials Downloader](https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en)
 
 General Research
 * [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
