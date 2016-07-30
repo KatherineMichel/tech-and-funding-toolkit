@@ -8470,6 +8470,10 @@ Document Web Services
 * [Eshares Inc](https://www.esharesinc.com)
 * [Visible](https://visible.vc) 
 
+<!--
+https://esharesinc.com/investor-services
+-->
+
 Cap Table
 * [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
 * [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
@@ -9580,6 +9584,34 @@ File Storage
 * [Box](https://www.box.com) 
 * [Dropbox](https://www.dropbox.com)
 
+Docs
+* [Adobe Sign](https://acrobat.adobe.com/us/en/documents/esignatures.html)
+* [DocSend](https://docsend.com)
+* [DocuSign](https://www.docusign.com)
+* [FullContact](http://www.fullcontact.com)
+* [HelloSign](https://www.hellosign.com)
+* [Streak](https://www.streak.com)
+
+Kits
+* [Kits](http://kit.com)
+
+Crowd Sourced Internet Marketplace
+* [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
+* [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
+* [Crowdflower](http://www.crowdflower.com)  
+
+Admin, Hiring, Payroll, Expenses
+* [Clara Labs](https://claralabs.com) 
+* [Expensify](https://www.expensify.com)
+* [Evernote](https://evernote.com)
+* [Freshbooks](https://www.freshbooks.com)
+* [Lever](http://lever.co)  
+* [Jobvite](http://www.jobvite.com)
+* [QuickBooks](http://quickbooks.intuit.com)
+* [Teespring](http://teespring.com)
+* [ZenPayroll](https://zenpayroll.com) 
+* [Zenefits](http://www.zenefits.com)
+
 Logistics
 * [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
 * [Gumtree](http://www.gumtree.co)
@@ -9600,51 +9632,23 @@ https://teleport.org/remote
 https://news.ycombinator.com/item?id=12016568
 -->
 
-<!--
-Salary
-* [Kansas Labor Information Center](https://klic.dol.ks.gov/vosnet/Default.aspx)
-* [Bureau of Labor Statistics](http://www.bls.gov) and [Bureau of Labor Statistics Wikipedia](https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics)
-* [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
-* [salary.com](http://salary.com)
-
-https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
-https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
--->
-
-Kits
-* [Kits](http://kit.com)
-
-Crowd Sourced Internet Marketplace
-* [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
-* [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
-* [Crowdflower](http://www.crowdflower.com)  
-
-Docs
-* [Adobe Sign](https://acrobat.adobe.com/us/en/documents/esignatures.html)
-* [DocSend](https://docsend.com)
-* [DocuSign](https://www.docusign.com)
-* [FullContact](http://www.fullcontact.com)
-* [HelloSign](https://www.hellosign.com)
-* [Streak](https://www.streak.com)
-
-Admin, Hiring, Payroll, Expenses
-* [Clara Labs](https://claralabs.com) 
-* [Expensify](https://www.expensify.com)
-* [Evernote](https://evernote.com)
-* [Freshbooks](https://www.freshbooks.com)
-* [Lever](http://lever.co)  
-* [Jobvite](http://www.jobvite.com)
-* [QuickBooks](http://quickbooks.intuit.com)
-* [Teespring](http://teespring.com)
-* [ZenPayroll](https://zenpayroll.com) 
-* [Zenefits](http://www.zenefits.com)
-
 Freelance
 * [Craigslist](https://craigslist.org)
 * [eLance](https://www.elance.com)
 * [LinkedIn](https://www.linkedin.com)
 * [Upwork](https://www.upwork.com)
 * [Your Rate](http://www.yourrate.co)
+
+Salary
+* [Kansas Labor Information Center](https://klic.dol.ks.gov/vosnet/Default.aspx)
+* [Bureau of Labor Statistics](http://www.bls.gov) and [Bureau of Labor Statistics Wikipedia](https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics)
+* [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
+* [salary.com](http://salary.com)
+
+<!--
+https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
+https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
+-->
 
 #### Learning Resources
 
