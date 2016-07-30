@@ -4491,6 +4491,14 @@ Microsoft General Resources
 * [Microsoft Support](https://support.microsoft.com)
 * [Microsoft TechNet](http://technet.microsoft.com)
 
+Microsoft Special Deals
+* [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
+* [Microsoft DreamSpark](https://www.dreamspark.com)
+* [Microsoft BizSpark](https://www.microsoft.com/bizspark)
+
+.NET Fiddle
+* [.NET Fiddle](https://dotnetfiddle.net)
+
 Microsoft Virtual Academy
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 
@@ -4509,7 +4517,7 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 -->
 
 .NET
-* [Microsoft.github.io](http://microsoft.github.io)  
+* [microsoft.github.io](http://microsoft.github.io)  
 * [Microsoft .NET](http://www.microsoft.com/net) 
 * [Microsoft Dotnet GitHub](https://github.com/Microsoft/dotnet) 
 * [.NET Foundation Projects on GitHub](https://github.com/dotnet/home)
@@ -4522,9 +4530,6 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 <!--
 https://www.codeschool.com/courses/try-net-mvc
 -->
-
-.NET Fiddle
-* [.NET Fiddle](https://dotnetfiddle.net)
 
 ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
@@ -4613,11 +4618,63 @@ Python Web Projects
 https://github.com/Microsoft/PTVS/wiki/Web-Project
 -->
 
+ASP.NET- Yeoman Generator
+* [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
+
+ASP.NET- Boilerplate
+* [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
+* [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
+
+.NET and ASP.NET- Docker
+* [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
+* [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
+* [Docker Hub .NET](https://hub.docker.com/r/microsoft/dotnet)
+* [Mono Docker GitHub](https://github.com/mono/docker)
+
+<!--
+https://code.visualstudio.com/docs/languages/dockerfile
+
+https://blogs.msdn.microsoft.com/vscode/2015/08/11/getting-started-with-docker/
+https://blogs.msdn.microsoft.com/webdev/2015/01/14/running-asp-net-5-applications-in-linux-containers-with-docker/
+https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/
+
+https://www.visualstudio.com/en-us/docs/release/examples/docker/aspnet-core10-docker
+
+Dockerrun.aws.json
+-->
+
+<!--
+https://github.com/dotnet/core/blob/master/cli/known-issues.md#users-of-zsh-z-shell-dont-get-dotnet-on-the-path-after-install
+https://www.microsoft.com/net/core#macos
+https://www.microsoft.com/net/core#docker
+
+https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker
+
+http://www.mono-project.com/download
+https://github.com/friism/mono-builder/releases
+
+https://code.visualstudio.com/docs/languages/dockerfile
+
+
+https://github.com/herokumx/herokumxnet
+https://github.com/jincod/AspNet5DemoApp
+https://github.com/aspnet/MusicStore
+https://elements.heroku.com/buttons/aspnet/musicstore
+https://github.com/nisarkhan/AspNet5DemoApp-heroku
+
+microsoft/aspnet:1.0.0-rc1-final
+https://github.com/OmniSharp/generator-aspnet/issues/524
+
+https://github.com/herokumx/herokumxnet/blob/master/Dockerfile
+https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
+https://github.com/heroku?utf8=%E2%9C%93&query=docker
+-->
+
 Nuget
 * [NuGet](https://www.nuget.org) and [Nuget Packages](https://www.nuget.org/packages)
 
 Mono
-* [Mono Project](http://www.mono-project.com) and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
+* [Mono Project](http://www.mono-project.com), [Mono GitHub](https://github.com/mono), and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
 * [Introduction to Mono on MacOS X](http://www.mono-project.com/docs/about-mono/supported-platforms/osx)
 
 Xamarin (Visual Studio Community Mobile Development Partner)
@@ -4644,39 +4701,6 @@ https://azure.microsoft.com/en-us/documentation/articles/vs-azure-tools-docker-h
 Transact-SQL
 * [Transact-SQL Wikipedia](https://en.wikipedia.org/wiki/Transact-SQL)
 
-Microsoft Special Deals
-* [Microsoft Developer Network](https://msdn.microsoft.com/en-us)
-* [Microsoft DreamSpark](https://www.dreamspark.com)
-* [Microsoft BizSpark](https://www.microsoft.com/bizspark)
-
-ASP.NET- Boilerplate
-* [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
-* [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
-
-WebMatrix
-* [WebMatrix](http://www.microsoft.com/web/webmatrix)
-
-ASP.NET- Docker
-* [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
-* [Docker Hub ASP.NET](https://hub.docker.com/r/microsoft/aspnet)
-
-<!--
-https://code.visualstudio.com/docs/languages/dockerfile
-
-https://docs.docker.com/engine/reference/builder/
-
-https://blogs.msdn.microsoft.com/vscode/2015/08/11/getting-started-with-docker/
-https://blogs.msdn.microsoft.com/webdev/2015/01/14/running-asp-net-5-applications-in-linux-containers-with-docker/
-https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/
-
-https://www.visualstudio.com/en-us/docs/release/examples/docker/aspnet-core10-docker
-
-Dockerrun.aws.json
--->
-
-ASP.NET- Yeoman Generator
-* [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
-
 OmniSharp
 * [OmniSharp](http://www.omnisharp.net) and [OmniSharp GitHub](https://github.com/omnisharp)
 * [OmniSharp-Roslyn GitHub](https://github.com/OmniSharp/omnisharp-roslyn)
@@ -4686,6 +4710,9 @@ Nancy
 
 .NET Platform as a Service
 * [AppHarbor](https://appharbor.com)
+
+WebMatrix
+* [WebMatrix](http://www.microsoft.com/web/webmatrix)
 
 <!--
 https://developer.microsoft.com/en-us/microsoft-edge/platform/usage
@@ -6253,7 +6280,6 @@ https://github.com/heroku/mobile-template1
 https://github.com/heroku/heroku-buildkits
 https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
 https://github.com/heroku/skeleton-4r
-https://github.com/heroku/dotnet-buildpack
 https://github.com/heroku/heroku-buildpack-jvm-common
 https://github.com/heroku/heroku-git
 https://github.com/heroku/heroku-maven-plugin
@@ -6531,15 +6557,7 @@ Docker
 Possibly repeat
 https://docs.docker.com/engine/installation/mac
 
-https://github.com/dotnet/core/blob/master/cli/known-issues.md#users-of-zsh-z-shell-dont-get-dotnet-on-the-path-after-install
-https://www.microsoft.com/net/core#macos
-https://www.microsoft.com/net/core#docker
-
-https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker
-
-<!--
 https://docs.docker.com/mac
-
 https://docs.docker.com/docker-for-mac
 
 https://docs.docker.com/engine/reference/builder
@@ -6549,36 +6567,10 @@ https://devcenter.heroku.com/articles/container-registry-and-runtime
 https://blog.heroku.com/introducing_heroku_docker_release_build_deploy_heroku_apps_with_docker
 https://github.com/heroku/heroku-container-tools
 
-https://github.com/heroku/dotnet-buildpack
-
-https://hub.docker.com/r/microsoft/aspnet/
-https://hub.docker.com/r/microsoft/dotnet
-https://hub.docker.com/r/heroku/cedar/
-
-http://www.mono-project.com/download/
-https://github.com/mono/docker
-https://github.com/friism/mono-builder/releases/
-
-https://github.com/aspnet/aspnet-docker
-https://github.com/herokumx/herokumxnet
-https://github.com/jincod/AspNet5DemoApp
-https://github.com/aspnet/MusicStore
-https://elements.heroku.com/buttons/aspnet/musicstore
-https://github.com/nisarkhan/AspNet5DemoApp-heroku
-
-microsoft/aspnet:1.0.0-rc1-final
-https://github.com/OmniSharp/generator-aspnet/issues/524
-
-https://github.com/herokumx/herokumxnet/blob/master/Dockerfile
-https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
-https://github.com/heroku?utf8=%E2%9C%93&query=docker
-
-https://code.visualstudio.com/docs/languages/dockerfile
--->
-
-<!--
 Container registry public beta - deploy Docker images to Heroku
 https://devcenter.heroku.com/changelog-items/926
+
+https://hub.docker.com/r/heroku/cedar
 -->
 
 * [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s)
@@ -7033,7 +7025,7 @@ http://developersacademy.io/blog/
 * [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
 * [Twitch TV](http://www.twitch.tv)
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
-* [Steam](http://store.steampowered.com)
+* [Steam](http://store.steampowered.com) and [Steam Community](http://steamcommunity.com)
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
@@ -7041,8 +7033,6 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
-http://steamcommunity.com
-
 http://learn.vrdev.school
 https://www.reddit.com/r/learnVRdev
 
@@ -7358,18 +7348,21 @@ https://github.com/liuliu/ccv Computer Vision library
 http://h2o.ai
 https://github.com/h2oai/h2o-3
 
+https://research.facebook.com/ai
+https://facebook.github.io/fbcunn/fbcunn
+
+http://research.baidu.com/warp-ctc/
+
 http://www.partiallyderivative.com
 
 https://docs.google.com/spreadsheets/d/1YArw5RAnUxivUnlJFyKCjpBZVB-oDby0HwMwmvlZd6I/pub?output=html
 https://github.com/amplab/SparkNet
-http://research.baidu.com/warp-ctc/
-https://research.facebook.com/ai
 http://www.lua.org
-https://facebook.github.io/fbcunn/fbcunn
 http://arxiv.org/abs/1412.7580
+http://infolab.stanford.edu/~backrub/google.html
+
 http://opendataday.org
 http://www.datasciencebowl.com
-http://infolab.stanford.edu/~backrub/google.html
 
 http://www.whitehouse.gov/issues/technology/big-data-review
 
@@ -7843,7 +7836,7 @@ General Terminology
 * [Startup L. Jackson Archive](http://startupljackson.com/archive)  
 * [Steve Blank](http://steveblank.com), [Steve Blank Slides](http://steveblank.com/slides), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 * [Stowe Boyd](http://stoweboyd.com)
-* [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
+* [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 * [Tom Peters](http://tompeters.com), [Tom Peters Slides](http://tompeters.com/slides), and [Tom Peters Excellence Now](http://excellencenow.com) 
 * [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
@@ -7854,8 +7847,6 @@ General Terminology
 <!--
 http://moneymasterthegame.com
 http://humanelevation.tonyrobbins.com
-
-http://fourhourworkweek.com/podcast
 
 https://usesthis.com/interviews/horace.dediu
 
