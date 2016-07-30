@@ -6550,25 +6550,23 @@ See also Django
 Docker
 * [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 * [Docker GitHub](https://github.com/docker/docker)  
+* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
+* [Installing Docker on Mac](https://docs.docker.com/engine/installation/mac)
+* [Dockerfile Reference](https://docs.docker.com/engine/reference/builder)
 * [Docker Hub](https://hub.docker.com)
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
+Heroku- Docker
+
 <!--
-Possibly repeat
-https://docs.docker.com/engine/installation/mac
-
-https://docs.docker.com/mac
-https://docs.docker.com/docker-for-mac
-
-https://docs.docker.com/engine/reference/builder
+https://devcenter.heroku.com/articles/container-registry-and-runtime
+https://github.com/heroku/heroku-container-tools
 
 https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
-https://devcenter.heroku.com/articles/container-registry-and-runtime
-https://blog.heroku.com/introducing_heroku_docker_release_build_deploy_heroku_apps_with_docker
-https://github.com/heroku/heroku-container-tools
 
 Container registry public beta - deploy Docker images to Heroku
 https://devcenter.heroku.com/changelog-items/926
+https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
 
 https://hub.docker.com/r/heroku/cedar
 -->
@@ -6637,11 +6635,11 @@ Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 <!--
 CI
 https://circleci.com
-https://drone.io/
+https://drone.io
 codecov.io
 
 http://djangoci.com
-http://docs.python-guide.org/en/latest/scenarios/ci/
+http://docs.python-guide.org/en/latest/scenarios/ci
 -->
 
 Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
@@ -8472,6 +8470,7 @@ How to Read A Financial Report
 * [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
 
 <!--
+https://github.com/leonar15/startup-checklist
 https://github.com/jlevy/og-equity-compensation
 https://github.com/holman/extended-exercise-windows
 
@@ -8479,15 +8478,10 @@ https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
 http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
 https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
 
-https://github.com/leonar15/startup-checklist
-
 https://www.rocketlawyer.com/document/web-hosting-agreement.rl
 
-Update MY VC Email Template
+RRE Ventures: Update MY VC Email Template
 http://updatemyvc.com
-
-Trademarkia
-http://www.trademarkia.com
 -->
 
 IPO
@@ -8693,6 +8687,9 @@ Patent Search and FOIA
 * [FOIA](http://foia.state.gov)
 * [Stack Exchange Patents](http://patents.stackexchange.com)
 * [Twitter Innovator's Patent Agreement](https://github.com/twitter/innovators-patent-agreement)
+
+Trademarkia
+* [Trademarkia](http://www.trademarkia.com)
 
 Digital Millennium Copyright Act
 * [Digital Millennium Copyright Act Wikipedia](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)  
