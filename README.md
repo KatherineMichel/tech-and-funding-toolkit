@@ -116,12 +116,12 @@ Table of Content
   * [Schools of Thought](#schools-of-thought)
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
-
-* [Economics, Models](#economics-models)
   * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
   * [Chance](#chance)
 
+* [Economics, Models](#economics-models)
 * [Venture](#venture)
+  * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
   * [Documents and Advice](#documents-and-advice)
@@ -140,10 +140,9 @@ Table of Content
 * [Business and Tech News Sources](#business-and-tech-news-sources)
 * [Analyst Groups](#analyst-groups)
 
-* [Launch](#launch)
-  * [Launch Strategies](#launch-strategies)
-  * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
-  * [Internationalization](#internationalization)
+* [Launch Strategies](#launch-strategies)
+* [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
+* [Internationalization](#internationalization)
 
 * [Popular Tools](#popular-tools)
 * [Other Enormous Tool Lists](#other-enormous-tool-lists)
@@ -963,6 +962,11 @@ Sharing Buttons
 * [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
 * [AddToAny](https://www.addtoany.com) 
 * [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
+
+<!--
+https://en.wikipedia.org/wiki/Net_Promoter
+https://www.netpromoter.com/know
+-->
 
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
@@ -7927,6 +7931,91 @@ http://www.greatachievements.org
 * [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best)](http://szabo.best.vwh.net)
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
+#### Warren Buffet, Charlie Munger, Alphabet
+  
+Google and Alphabet
+* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
+* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
+* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
+* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
+
+Berkshire Hathaway
+* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
+* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
+* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
+* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
+* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
+* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
+
+Long Bets
+* [Long Bets](https://longbets.org)
+
+Poor Charlie's Almanack
+* [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
+
+Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
+* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
+
+Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
+* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
+* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+
+Mental Models
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+
+Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
+
+#### Chance
+* [Michael Mauboussin](http://michaelmauboussin.com)
+* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+
+<!--
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d
+-->
+
+Mauboussin, Callahan, Rone, Burns, Bartholdson
+* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
+* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
+* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
+* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
+* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
+* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
+* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
+* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
+* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
+* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
+* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
+* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
+
+Nassim Nicholas Taleb: Antifragile and The Black Swan
+* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
+* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
+* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
+* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
+* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
+* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
+* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+
+Nassim Nicholas Taleb's Teachings
+* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
+* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
+* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
+* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
+* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
+* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
+* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
+* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
+* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
+
 #### Economics, Models
 
 Finance
@@ -8042,94 +8131,9 @@ General
 * [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
 * [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 
-#### Warren Buffet, Charlie Munger, Alphabet
-  
-Google and Alphabet
-* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
-* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
-* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
-* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
-
-Berkshire Hathaway
-* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
-* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
-* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
-* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
-* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
-* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
-
-Long Bets
-* [Long Bets](https://longbets.org)
-
-Poor Charlie's Almanack
-* [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
-
-Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
-* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
-
-Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
-* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
-* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
-
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-
-Mental Models
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-
-Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
-
-#### Chance
-* [Michael Mauboussin](http://michaelmauboussin.com)
-* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
-
-<!--
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d
--->
-
-Mauboussin, Callahan, Rone, Burns, Bartholdson
-* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
-* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
-* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
-* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
-* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
-* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
-* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
-* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
-* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
-* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
-* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
-* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
-* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
-* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
-
-Nassim Nicholas Taleb: Antifragile and The Black Swan
-* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
-* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
-* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
-* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
-* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
-* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
-* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
-* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
-
-Nassim Nicholas Taleb's Teachings
-* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
-* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
-* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
-* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
-* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
-* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
-* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
-* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
-* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
-
 #### Venture
 
-#### VC Theory
+#### Venture Frameworks and Theses
 
 Investor Frameworks
 * [Brad Feld Framework](investor-frameworks/brad-feld-framework.md) 
@@ -8141,6 +8145,8 @@ Investor Frameworks
 
 Thesis
 * [Semil Shah](http://blog.semilshah.com/haystack)
+
+#### VC Theory
 
 Funding Options
 * [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
@@ -8282,25 +8288,6 @@ Startup Studios
 
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
-
-<!--
-https://github.com/jlevy/og-equity-compensation
-https://github.com/holman/extended-exercise-windows
-
-https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
-http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
-https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
-
-https://github.com/leonar15/startup-checklist
-
-https://www.rocketlawyer.com/document/web-hosting-agreement.rl
-
-Update MY VC Email Template
-http://updatemyvc.com
-
-Trademarkia
-http://www.trademarkia.com
--->
 
 Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [500 Startups Activity](http://500.co/activity), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
@@ -8484,9 +8471,6 @@ Raising a Seed Round- The Spreadsheet
 Equity Investment Simulation
 * [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
 
-Compensation
-* [CompStudy](https://www.compstudy.com)
-
 Contracts
 * [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
 
@@ -8495,6 +8479,25 @@ Aquihire
 
 How to Read A Financial Report
 * [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
+
+<!--
+https://github.com/jlevy/og-equity-compensation
+https://github.com/holman/extended-exercise-windows
+
+https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
+http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
+https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
+
+https://github.com/leonar15/startup-checklist
+
+https://www.rocketlawyer.com/document/web-hosting-agreement.rl
+
+Update MY VC Email Template
+http://updatemyvc.com
+
+Trademarkia
+http://www.trademarkia.com
+-->
 
 IPO
 * [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
@@ -8519,6 +8522,7 @@ Leverage
 Leveraged Buyout Firms
 * [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
 * [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
+
 
 #### Regulation, Business Entity
 
@@ -8918,9 +8922,6 @@ https://en.m.wikipedia.org/wiki/Anthropomorphism
 https://en.wikipedia.org/wiki/360-degree_feedback
 https://en.wikipedia.org/wiki/Institutional_memory
 https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
-
-https://en.wikipedia.org/wiki/Net_Promoter
-https://www.netpromoter.com/know/
 -->
 
 Computer Lore
@@ -8972,8 +8973,6 @@ Google
 * [Wayne Gretzky Wikipedia: Skate "to where the puck is going, not where it's been."](http://en.wikipedia.org/wiki/Wayne_Gretzky)
 * [Whole Earth Catalog ("Stay Hungry; Stay Foolish")](http://www.wholeearth.com/index.php)
 
-
-
 #### Events, Talks, People
 
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
@@ -9013,6 +9012,7 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 Shows
 * [Founder Stories](http://techcrunch.com/video/founder-stories)
 * [Heart Startup](http://hearstartup.com) 
+* [Princeton Entrepreneurs by School of Engineering](https://itunes.apple.com/us/podcast/brian-okelley-appnexus/id955346373?i=329712914&mt=2)
 * [Product Hunt Live](http://www.producthunt.com/live)
 * [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
 * [This Week in Startups](http://thisweekinstartups.com)
@@ -9291,10 +9291,6 @@ Investment Firms
 http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 -->
 
-
-
-#### Launch
-
 #### Launch Strategies
 
 General
@@ -9552,6 +9548,9 @@ Salary
 * [salary.com](http://salary.com)
 
 <!--
+Compensation
+* [CompStudy](https://www.compstudy.com)
+
 https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
 https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
 -->
@@ -9653,11 +9652,6 @@ Book Lists
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
 
-<!--
-Coursera Materials Downloader
-https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en
--->
-
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
@@ -9671,19 +9665,10 @@ MOOCs
 * [NovoEd (Social Entrepreneurship)](https://novoed.com)  
 * [University of Reddit](http://universityofreddit.com) 
 
-Foreign Language
-* [Duolingo](https://en.duolingo.com)
-* [Google Translate](https://translate.google.com/?hl=en) 
-* [BaBa Dum](https://babadum.com)
-
-Foreign Language- Spanish
-* [Spanish Language Wikipedia](https://en.wikipedia.org/wiki/Spanish_language), [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Nouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_nouns) [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs), [Spanish Tenses Wikibook](https://en.wikibooks.org/wiki/Spanish/Tenses), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), [Spanish/How to Conjugate Verbs Wikibook](https://en.wikipedia.org/wiki/Spanish_adjectives), [Spanish Pronouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_pronouns), [Spanish Prepositions Wikipedia](https://en.wikipedia.org/wiki/Spanish_prepositions), and [Spanish Determiners Wikipedia](https://en.wikipedia.org/wiki/Spanish_determiners)
-* [Medium en Español](https://medium.com/espanol)
-* [CNN en Español Radio](http://cnnespanol.cnn.com/radio/en-vivo)
-* [Iberian Romance Languages Wikipedia](https://en.wikipedia.org/wiki/Iberian_Romance_languages)
-
-Bullet Journal
-* [Bullet Journal](http://bulletjournal.com)
+<!--
+Coursera Materials Downloader
+https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en
+-->
 
 General Research
 * [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
@@ -9702,6 +9687,12 @@ Libraries and Museums
 * [The British Museum](http://www.britishmuseum.org)
 * [The Smithsonian Institute](http://www.si.edu) and [Smithsonian Mag](http://www.smithsonianmag.com)
 
+The Harvard Classics
+* [The Harvard Classics: Download All 51 Volumes as Free eBooks](http://www.openculture.com/2014/03/the-harvard-classics-download-all-51-volumes-as-free-ebooks.html)
+
+Stanford Encyclopedia of Philosophy
+* [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu)
+
 Exploration
 * [NASA](http://www.nasa.gov) and [NASA TV](http://www.nasa.gov/multimedia/nasatv)
 
@@ -9709,17 +9700,24 @@ Google for Education
 * [Google Classroom](https://www.google.com/edu/products/productivity-tools/classroom)
 * [Google Course Builder](https://code.google.com/p/course-builder)
 
+Foreign Language
+* [Duolingo](https://en.duolingo.com)
+* [Google Translate](https://translate.google.com/?hl=en) 
+* [BaBa Dum](https://babadum.com)
+
+Foreign Language- Spanish
+* [Spanish Language Wikipedia](https://en.wikipedia.org/wiki/Spanish_language), [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Nouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_nouns) [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs), [Spanish Tenses Wikibook](https://en.wikibooks.org/wiki/Spanish/Tenses), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), [Spanish/How to Conjugate Verbs Wikibook](https://en.wikipedia.org/wiki/Spanish_adjectives), [Spanish Pronouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_pronouns), [Spanish Prepositions Wikipedia](https://en.wikipedia.org/wiki/Spanish_prepositions), and [Spanish Determiners Wikipedia](https://en.wikipedia.org/wiki/Spanish_determiners)
+* [Medium en Español](https://medium.com/espanol)
+* [CNN en Español Radio](http://cnnespanol.cnn.com/radio/en-vivo)
+* [Iberian Romance Languages Wikipedia](https://en.wikipedia.org/wiki/Iberian_Romance_languages)
+
+Public Speaking
+* [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
+* [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
+
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
-
-Stanford Encyclopedia of Philosophy
-* [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu)
-
-<!--
-https://itunes.apple.com/us/podcast/brian-okelley-appnexus/id955346373?i=329712914&mt=2
-http://www.openculture.com/2014/03/the-harvard-classics-download-all-51-volumes-as-free-ebooks.html
--->
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
@@ -9731,9 +9729,8 @@ Personality Tests
 The Happiness Project
 * [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
 
-Public Speaking
-* [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
-* [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
+Bullet Journal
+* [Bullet Journal](http://bulletjournal.com)
 
 #### Journalism Handbooks and Grammatical Style Guides
 
