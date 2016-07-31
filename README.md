@@ -285,10 +285,6 @@ Database List
 <!--
 https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8
 http://beondeck.co
-
-https://upverter.com/periodic-table
-
-http://www.startuptimelines.org
 -->
 
 Databases and Benchmarking- Freemium
@@ -331,6 +327,12 @@ The Terms Behind the Unicorn Valuations
 
 Breakout Companies
 * [Breakout List](https://breakoutlist.com)
+
+<!--
+https://upverter.com/periodic-table
+
+http://www.startuptimelines.org
+-->
 
 Companies and Indices
 * [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
@@ -848,6 +850,13 @@ Graph and Schema- General (See also Facebook Open Graph)
 Microformats
 * [Microformats](http://microformats.org)
 
+<!--
+http://schema.org/Person
+https://en.wikipedia.org/wiki/HCard
+http://microformats.org/wiki/hcard
+http://microformats.org/code/hcard/creator
+-->
+
 Web Analytics
 * [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
@@ -873,11 +882,13 @@ Google
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
 <!--
-   <rule name="Google+">
       <link url="https://plus.google.com/authorship">Google+ Authorship</link>
       <link url="https://support.google.com/webmasters/answer/1708844?hl=en">Google+ Publisher</link>
       
 [Google Analytics](http://www.google.co.uk/analytics/) (free) or services such as [Hubspot](http://www.hubspot.com/),
+
+About Real-Time
+https://support.google.com/analytics/answer/1638635?hl=en
 -->
 
 Google Analytics
@@ -2889,7 +2900,7 @@ Prototyping Software- Keynote- Docs
 <!--
 http://keynotopia.com/#how
 http://keynotopia.com/guides
-http://keynotopia.com/bootstrap/
+http://keynotopia.com/bootstrap
 http://keynotopia.com/keynotopia-super-bundle
 http://keynotopia.com/keynote-mockups-templates
 http://keynotopia.com/web-prototyping
@@ -3279,12 +3290,6 @@ https://developer.mozilla.org/en-US/docs/Glossary
 http://whatwg.github.io/loader
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
-https://support.google.com/analytics/answer/1638635?hl=en
-
-http://schema.org/Person
-https://en.wikipedia.org/wiki/HCard
-http://microformats.org/wiki/hcard
-http://microformats.org/code/hcard/creator
 
 https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
 -->
@@ -3389,7 +3394,6 @@ http://www.sitemaps.org
 -->
 
 <!--
-  <category name="Social Media">
     <rule name="Add humans.txt" optional="true">
       <link url="http://humanstxt.org/">We are humans, not machines!</link>
       <link url="https://github.com/kaiinkinen/pvm">Play Version Manager</link>
@@ -3453,9 +3457,6 @@ http://tools.pingdom.com/fpt
       <link url="http://www.cssminifier.com/">Minify CSS</link>
       <link url="http://diveintohtml5.info/offline.html">Use HTML 5 Manifest</link>
 
-  <category name="Usability">
-
-    <rule name="Custom 404 page">
       <link url="http://www.alistapart.com/articles/amoreuseful404/">A more useful 404</link>
 
     <rule name="Favicon">
