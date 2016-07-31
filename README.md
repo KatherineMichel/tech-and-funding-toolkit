@@ -865,6 +865,12 @@ Facebook
 Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 
+Facebook Tools
+* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+* [Facebook Business](https://www.facebook.com/business)
+* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+* [Fb Start for Mobile Startups](http://fbstart.com)
+
 <!--
 https://developers.facebook.com/docs/messenger-platform
 https://live.fb.com
@@ -920,10 +926,6 @@ Google Monetization
 
 Google Rich Snippets
 * [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-<!--
-      <link url="http://ppcblog.com/how-google-works/">How Google works</link>
--->
 
 Google Tag Manager
 * [Google Tag Manager](http://www.google.com/tagmanager)
@@ -2988,6 +2990,16 @@ Photo Placeholders
 Free Photos
 * [MorgueFile](http://www.morguefile.com)  
 
+<!--
+    <rule name="Use CSS Sprites">
+      <link url="http://spriteme.org/">Sprite Me</link>
+    <rule name="Optimize images">
+      <link url="http://www.smushit.com/ysmush.it/">SmushIt.com</link> http://www.imgopt.com/
+      <link url="http://punypng.com/">PunyPNG.com</link>
+      <link url="http://pnggauntlet.com/">PNGGauntlet for Windows</link>
+      <link url="http://imageoptim.com/">Image Optim for Mac</link>
+ -->
+
 Flickr
 * [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
 
@@ -2996,6 +3008,23 @@ Photo Enhancement
 
 Gifs
 * [Giphy](http://giphy.com) 
+
+Favicon, Sitemap, robots.txt, humans.txt
+* [XML Sitemaps](http://www.xml-sitemaps.com)
+* [sitemaps.org](http://www.sitemaps.org)
+
+<!--
+Google’s Web Performance Best Practices
+https://developers.google.com/speed/docs/best-practices/rules_intro
+
+      <link url="http://tools.seobook.com/robots-txt/">robots.txt tutorial</link>
+
+      <link url="http://www.robotsgenerator.com/">Create robots.txt online
+      <link url="http://humanstxt.org/">We are humans, not machines!</link>
+      <link url="http://realfavicongenerator.net/">Real Favicon Generator</link>
+
+      <link url="http://responsive.is/">Responsive Design Tester</link>
+-->
 
 Gravatar
 * [Gravatar](http://en.gravatar.com)
@@ -3098,12 +3127,6 @@ Web General (See also JavaScript)
 * [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
-
-<!--
-https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
--->
 
 W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
@@ -3323,22 +3346,6 @@ http://shop.oreilly.com/product/0636920041528.do
 * [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 * [Yahoo YSlow score of 85+](http://yslow.org)
 
-<!--
-[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
-[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
-
-[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
-[Blame Stella](https://www.blamestella.com/)
-[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
-[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
-[Basecamp](http://basecamp.com/)
-
-[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
-[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
-[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
-[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
--->
-
 Error Reporting, Logging, Instrumentation
 * [New Relic](http://newrelic.com)
 * [Sentry](http://getsentry.com)
@@ -3370,6 +3377,12 @@ Accessibility
 
 <!--
 http://webaim.org/resources/evalquickref/#checklist
+
+      <link url="http://achecker.ca/checker/index.php">IDI Web Accessibility Checker</link>
+      <link url="http://www.nvaccess.org">Test using a screen reader</link>
+
+    <rule name="Color contrast">
+      <link url="http://www.checkmycolours.com/">Check color contrast online</link>
 -->
 
 Microsoft Inclusion Approach
@@ -3380,21 +3393,25 @@ Example
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
-Google’s Web Performance Best Practices
-https://developers.google.com/speed/docs/best-practices/rules_intro
-http://www.sitemaps.org
+https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
+[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
+[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
 
-    <rule name="robots.txt">
-      <link url="http://tools.seobook.com/robots-txt/">robots.txt tutorial</link>
-      <link url="http://www.robotsgenerator.com/">Create robots.txt online</link>
+[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
+[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
+[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
+[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
 
-    <rule name="XML sitemap">
-      <link url="http://www.xml-sitemaps.com/">Create sitemap online</link>
+[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
+[Blame Stella](https://www.blamestella.com/)
+[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
+[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
+[Basecamp](http://basecamp.com/)
 -->
 
 <!--
-    <rule name="Add humans.txt" optional="true">
-      <link url="http://humanstxt.org/">We are humans, not machines!</link>
       <link url="https://github.com/kaiinkinen/pvm">Play Version Manager</link>
 
       <link url="http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development">What you should know</link>
@@ -3439,14 +3456,6 @@ http://tools.pingdom.com/fpt
     <rule name="Optimize HTTP headers">
       <link url="http://redbot.org">redbot.org</link>
 
-    <rule name="Use CSS Sprites">
-      <link url="http://spriteme.org/">Sprite Me</link>
-    <rule name="Optimize images">
-      <link url="http://www.smushit.com/ysmush.it/">SmushIt.com</link>
-      <link url="http://punypng.com/">PunyPNG.com</link>
-      <link url="http://pnggauntlet.com/">PNGGauntlet for Windows</link>
-      <link url="http://imageoptim.com/">Image Optim for Mac</link>
-
     <rule name="Cloud optimizations">
       <link url="http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2">Reduce I/O to disk</link>
 
@@ -3458,8 +3467,6 @@ http://tools.pingdom.com/fpt
 
       <link url="http://www.alistapart.com/articles/amoreuseful404/">A more useful 404</link>
 
-    <rule name="Favicon">
-      <link url="http://realfavicongenerator.net/">Real Favicon Generator</link>
       <link url="http://github.com/audreyr/favicon-cheat-sheet">Favicon Cheat Sheet</link>
 
     <rule name="Use friendly URLs">
@@ -3481,9 +3488,6 @@ http://tools.pingdom.com/fpt
       <link url="http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx">Internet Explorer on Windows</link>
       <link url="http://www.buildmypinnedsite.com/">Windows 8 Tiles</link>
 
-    <rule name="Test Responsive design" optional="true">
-      <link url="http://responsive.is/">Responsive.is Tester</link>
-
     <rule name="A/B Testing">
       <link url="https://github.com/danmaz74/ABalytics">ABalytics</link>
 
@@ -3503,12 +3507,7 @@ http://tools.pingdom.com/fpt
   <category name="Accessibility">
     <rule name="Accessibility validation">
       <link url="http://accessibility.oit.ncsu.edu/accessibleu/problems.html">Common problems and solutions</link>
-      <link url="http://achecker.ca/checker/index.php">IDI Web Accessibility Checker</link>
-      <link url="http://www.nvda-project.org/">Test using a screen reader</link>
-
-    <rule name="Color contrast">
-      <link url="http://www.checkmycolours.com/">Check color contrast online</link>
-
+ 
     <rule name="WAI-ARIA Landmarks">
       <link url="http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration/">Using WAI-ARIA Landmarks</link>
       <link url="http://www.alistapart.com/articles/the-accessibility-of-wai-aria/">Guide to WAI-ARIA</link>
@@ -3549,6 +3548,8 @@ http://tools.pingdom.com/fpt
       <link url="https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy">MDN Guide</link>
       <link url="https://www.owasp.org/index.php/Content_Security_Policy">OWASP Overview</link>
       <link url="https://github.com/oxdef/csp-tester">CSP Tester</link>
+
+      <link url="http://ppcblog.com/how-google-works/">How Google works</link>
 -->
 
 #### Back-End Programming Languages, MVCs
