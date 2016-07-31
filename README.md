@@ -328,12 +328,6 @@ The Terms Behind the Unicorn Valuations
 Breakout Companies
 * [Breakout List](https://breakoutlist.com)
 
-<!--
-https://upverter.com/periodic-table
-
-http://www.startuptimelines.org
--->
-
 Companies and Indices
 * [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
 * [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
@@ -706,10 +700,9 @@ Design- General
 * [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
 * [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
 
-Responsive Design
+Responsive Design (See also Media Queries Examples)
 * [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-* [Responsive Design Examples](http://mediaqueri.es)  
-
+ 
 Design Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
 * [Smashing Magazine](http://www.smashingmagazine.com) 
@@ -846,6 +839,12 @@ Accelerated Mobile Pages (AMP HTML)
 Graph and Schema- General (See also Facebook Open Graph)
 * [Open Graph Protocol Schema](http://ogp.me) 
 * [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Schema Creator](http://schema-creator.org)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+
+Facebook Crawler
+* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
+* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
 
 Microformats
 * [Microformats](http://microformats.org)
@@ -876,23 +875,30 @@ https://developers.facebook.com/docs/javascript
 Facebook Insights
 https://developers.facebook.com/docs/platforminsights
 https://developers.facebook.com/docs/platforminsights/domains
+https://developers.facebook.com/docs/platforminsights/page
 -->
 
 Google
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
 <!--
-      <link url="https://plus.google.com/authorship">Google+ Authorship</link>
-      <link url="https://support.google.com/webmasters/answer/1708844?hl=en">Google+ Publisher</link>
-      
-[Google Analytics](http://www.google.co.uk/analytics/) (free) or services such as [Hubspot](http://www.hubspot.com/),
+Authorship in web-search
+https://plus.google.com/authorship
 
-About Real-Time
-https://support.google.com/analytics/answer/1638635?hl=en
+Google+ Publisher
+https://support.google.com/webmasters/answer/1708844?hl=en
 -->
 
+Google Webmaster
+* [Google Webmaster Tools](http://www.google.com/webmasters)
+* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
+
 Google Analytics
+* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+* [Google U.K. Analytics](http://www.google.co.uk/analytics)
+* [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
+
 Google Ads
 * [Google Ads](http://www.google.com/ads) 
 * [Google AdMob (Apps)](http://www.google.com/admob)  
@@ -904,25 +910,19 @@ Google Ads
 * [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
 * [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
 
+<!--
+Google Analytics Alternative
+[Hubspot](http://www.hubspot.com)
+-->
+
 Google Monetization
 * [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
 
 Google Rich Snippets
-* [Google Rich Snippets Official](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
 
 <!--
-Microdata
-      <link url="http://schema-creator.org/">Schema-Creator.org</link>
-
-    <rule name="Check the semantics">
-      <link url="http://www.w3.org/2003/12/semantic-extractor.html">W3C semantic extractor</link>
-      <link url="http://www.google.com/webmasters/tools/richsnippets">Google Structured Data Online Testing Tool
-      <link url="https://developers.facebook.com/tools/debug/">Facebook OpenGraph Debugger</link>
-
       <link url="http://ppcblog.com/how-google-works/">How Google works</link>
- 
-      <link url="http://www.google.com/webmasters/">Google Webmaster Tools</link>
-      https://www.google.com/webmasters/tools/
 -->
 
 Google Tag Manager
@@ -982,10 +982,8 @@ Sharing Buttons
 * [AddToAny](https://www.addtoany.com) 
 * [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
-<!--
-https://en.wikipedia.org/wiki/Net_Promoter
-https://www.netpromoter.com/know
--->
+Net Promoter
+* [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
 
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
@@ -3356,6 +3354,7 @@ https://github.com/etsy/statsd
 W3 Validators
 * [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
 * [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
 * [W3C Link Checker](https://validator.w3.org/checklink)
 * [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)
 * [W3C Mobile Validator](http://validator.w3.org/mobile)
@@ -5783,6 +5782,8 @@ Status
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 
 Consoles
+* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
+* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 * [GitHub Settings](https://github.com/settings)
 * [Heroku Dashboard](https://dashboard.heroku.com)
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
@@ -8355,6 +8356,12 @@ Federal Opportunities and Funding
 * [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 * [National Science Foundation Funding](https://www.nsf.gov/funding)
 * [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
+
+<!--
+https://upverter.com/periodic-table
+
+http://www.startuptimelines.org
+-->
 
 #### Documents and Advice
 
