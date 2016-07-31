@@ -872,6 +872,14 @@ https://developers.facebook.com/docs/platforminsights/domains
 Google
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
+<!--
+   <rule name="Google+">
+      <link url="https://plus.google.com/authorship">Google+ Authorship</link>
+      <link url="https://support.google.com/webmasters/answer/1708844?hl=en">Google+ Publisher</link>
+      
+[Google Analytics](http://www.google.co.uk/analytics/) (free) or services such as [Hubspot](http://www.hubspot.com/),
+-->
+
 Google Analytics
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 Google Ads
@@ -1182,12 +1190,9 @@ File Types and Extensions
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
 
 Malware and Encryption
+* [hackerone](https://hackerone.com)
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
-
-<!--
-https://hackerone.com
--->
 
 Naming Conventions
 * [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
@@ -2141,14 +2146,10 @@ Markdown
 * [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
 
-GitLab (See also Project Management)
+GitLab (See also Project Management and Docker)
 * [GitLab Installation](https://about.gitlab.com/installation)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
-<!--
-https://about.gitlab.com/2016/05/23/gitlab-container-registry/
--->
 
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
@@ -3296,6 +3297,16 @@ http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/3
 http://shop.oreilly.com/product/0636920041528.do
 -->
 
+<!--
+    <rule name="Manual check using emulators">
+      <link url="http://screenqueri.es/">Online media query tester</link>
+      <link url="http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site/">6 free mobile emulators</link>
+      <link url="http://www.opera.com/developer/tools/mobile/">Opera Mobile Emulator</link>
+
+    <rule name="Test using real devices">
+      <link url="http://OpenDeviceLab.com/">Use Open Device Labs to test multiple devices</link>
+-->
+
 * [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
 * [AWS Device Farm](https://aws.amazon.com/device-farm)
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
@@ -3315,7 +3326,7 @@ http://shop.oreilly.com/product/0636920041528.do
 
 [Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
 [Blame Stella](https://www.blamestella.com/)
-[Google Analytics](http://www.google.co.uk/analytics/) (free) or services such as [Hubspot](http://www.hubspot.com/), [GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
+[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
 [SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
 [Basecamp](http://basecamp.com/)
 
@@ -3338,9 +3349,16 @@ https://github.com/etsy/statsd
 -->
 
 W3 Validators
-* [W3C HTML Validator](https://validator.w3.org/nu)
+* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
 * [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Link Checker](https://validator.w3.org/checklink)
+* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)
 * [W3C Mobile Validator](http://validator.w3.org/mobile)
+* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
+
+<!--
+    <rule name="MobileOK score of 75+">
+-->
 
 Accessibility
 * [WebAIM](http://webaim.org)
@@ -3371,15 +3389,14 @@ http://www.sitemaps.org
 -->
 
 <!--
+  <category name="Social Media">
+    <rule name="Add humans.txt" optional="true">
+      <link url="http://humanstxt.org/">We are humans, not machines!</link>
+      <link url="https://github.com/kaiinkinen/pvm">Play Version Manager</link>
+
       <link url="http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development">What you should know</link>
 
       <link url="http://www.jetbrains.com/idea/webhelp/spellchecking.html">IntelliJ IDEA Spell Checker</link>
-
-      <link url="http://validator.w3.org/checklink">W3C link checker</link>
-      <link url="http://iwebtool.com/broken_link_checker">iWebTool Broken Link Checker</link>
-      <link url="http://validator.w3.org/">W3C HTML validator</link>
-      <link url="http://jigsaw.w3.org/css-validator/">W3C CSS validator</link>
-      <link url="http://validator.w3.org/i18n-checker/">W3C i18n checker</link>
 
     <rule name="Check website in all browsers">
       <link url="http://browsershots.org/">BrowserShots.org</link>
@@ -3395,9 +3412,6 @@ http://www.sitemaps.org
     <rule name="Add the attribute rel='nofollow' to user-generated links to avoid spam" />
     <rule name="Redirect after a POST to prevent a refresh from submitting again" />
 
-    <rule name="MobileOK score of 75+">
-      <link url="http://validator.w3.org/mobile/">W3C mobile checker</link>
-
     <rule name="Use 'viewport' meta-tag">
       <link url="http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag/">Don’t Forget the Viewport Meta Tag</link>
       <link url="http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx">Make your website mobile friendly</link>
@@ -3405,14 +3419,6 @@ http://www.sitemaps.org
     <rule name="Use correct input types">
       <link url="http://html5tutorial.info/html5-contact.php">Input type: Email, Url, Phone</link>
       <link url="http://diveintohtml5.info/forms.html">Diving in to HTML5 forms</link>
-
-    <rule name="Manual check using emulators">
-      <link url="http://screenqueri.es/">Online media query tester</link>
-      <link url="http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site/">6 free mobile emulators</link>
-      <link url="http://www.opera.com/developer/tools/mobile/">Opera Mobile Emulator</link>
-
-    <rule name="Test using real devices">
-      <link url="http://OpenDeviceLab.com/">Use Open Device Labs to test multiple devices</link>
 
   <category name="Analytics">
     <rule name="Uptime monitoring">
@@ -3448,10 +3454,6 @@ http://tools.pingdom.com/fpt
       <link url="http://diveintohtml5.info/offline.html">Use HTML 5 Manifest</link>
 
   <category name="Usability">
-    <rule name="HTML5 compatibility check">
-      <link url="http://ie.microsoft.com/testdrive/HTML5/CompatInspector/">Compat Inspector</link>
-      <link url="http://www.modern.ie/report">modern.IE</link>
-      <link url="http://modernizr.com/">Modernizr JS library</link>
 
     <rule name="Custom 404 page">
       <link url="http://www.alistapart.com/articles/amoreuseful404/">A more useful 404</link>
@@ -3491,10 +3493,6 @@ http://tools.pingdom.com/fpt
     <rule name="Run CSS Lint">
       <link url="http://csslint.net/">Run CSS Lint online</link>
    
-    <rule name="Run JSLint/JSHint">
-      <link url="http://jslint.org/">Run JSLint online</link>
-      <link url="http://jshint.com/">Run JSHint online</link>
-
     <rule name="Verify source code (Scala)">
       <link url="http://www.scalastyle.org/">Scala Style</link>
       <link url="http://mtkopone.github.com/scct/">SCCT</link>
@@ -3540,7 +3538,6 @@ http://tools.pingdom.com/fpt
       <link url="http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl">Setup SSL on Play 2</link>
       <link url="http://www.digicert.com/ssl-certificate-installation-apache.htm">Setup SSL on Apache</link>
       <link url="https://www.ssllabs.com/ssltest/">SSL Server Test</link>
-      <link url="http://www.html5rocks.com/en/tutorials/security/content-security-policy/">Content Security Policy</link>
       <link url="https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options">Set X-Frame-Options</link>
       <link url="https://developer.mozilla.org/en-US/docs/Security/CSP/Introducing_Content_Security_Policy">Set Content Security Policy</link>
     <rule name="HTTP Strict Transport Security" optional="true">
@@ -3552,14 +3549,6 @@ http://tools.pingdom.com/fpt
       <link url="https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy">MDN Guide</link>
       <link url="https://www.owasp.org/index.php/Content_Security_Policy">OWASP Overview</link>
       <link url="https://github.com/oxdef/csp-tester">CSP Tester</link>
-
-  <category name="Social Media">
-    <rule name="Add humans.txt" optional="true">
-      <link url="http://humanstxt.org/">We are humans, not machines!</link>
-      <link url="https://github.com/kaiinkinen/pvm">Play Version Manager</link>
-   <rule name="Google+">
-      <link url="https://plus.google.com/authorship">Google+ Authorship</link>
-      <link url="https://support.google.com/webmasters/answer/1708844?hl=en">Google+ Publisher</link>
 -->
 
 #### Back-End Programming Languages, MVCs
@@ -4104,6 +4093,10 @@ Other JavaScript Helpers
 eslint
 jshint
 jslint
+
+    <rule name="Run JSLint/JSHint">
+      <link url="http://jslint.org/">Run JSLint online</link>
+      <link url="http://jshint.com/">Run JSHint online</link>
 -->
 
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
@@ -4115,12 +4108,19 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phanto
 * [PhantomJS](http://phantomjs.org)  
 * [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
 
-Normalization
+HTML5 Compatibility Check/Normalization
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
 * [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
 * [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
 * [Shim GitHub](https://github.com/marstall/shim)  
 * [Zepto GitHub](https://github.com/madrobby/zepto)  
+
+<!--
+    <rule name="HTML5 compatibility check">
+      <link url="http://ie.microsoft.com/testdrive/HTML5/CompatInspector/">Compat Inspector</link>
+      <link url="http://www.modern.ie/report">modern.IE</link>
+      <link url="http://modernizr.com/">Modernizr JS library</link>
+-->
 
 Meteor
 * [Meteor](https://www.meteor.com)
@@ -6326,10 +6326,18 @@ Go- Heroku Buildpacks and Getting Started
 * [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
 <!--
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html
+http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/docker-singlecontainer-deploy.html
+http://www.docker.com/aws
+
+https://github.com/GoogleCloudPlatform/getting-started-dotnet
+
 Tutorial: How to Deploy a .NET Sample Application Using AWS Elastic Beanstalk
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_NET.quickstart.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
 http://docs.aws.amazon.com/AWSSdkDocsNET/latest/V3/DeveloperGuide/aws-sdk-net-dg.pdf
+
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-create-as.html
 http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
 
@@ -6338,17 +6346,10 @@ https://zapier.com/zapbook/amazon-s3/visual-studio-online/
 
 http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv-deployment.html
 
-https://github.com/GoogleCloudPlatform/getting-started-dotnet
-
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.deployment.source.html
 
 https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku
 https://devcenter.heroku.com/articles/deploying-java-applications-to-heroku-from-eclipse-or-intellij-idea
-
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html
-http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/docker-singlecontainer-deploy.html
-http://www.docker.com/aws
 
 https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
 http://postgis.refractions.net
@@ -6476,11 +6477,6 @@ PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
 * [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
 
-<!--
-http://postgresql.org/download/windows/
-http://postgresql.org/download/linux/
--->
-
 Postgrest (PostgreSQL API)
 * [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
 
@@ -6557,15 +6553,14 @@ Docker
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
 Heroku- Docker
+* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
+* [Heroku Container registry public beta - deploy Docker images to Heroku](https://devcenter.heroku.com/changelog-items/926)
+* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
+
+GitLab- Docker
+* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
 
 <!--
-https://devcenter.heroku.com/articles/container-registry-and-runtime
-https://github.com/heroku/heroku-container-tools
-
-https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
-
-Container registry public beta - deploy Docker images to Heroku
-https://devcenter.heroku.com/changelog-items/926
 https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
 
 https://hub.docker.com/r/heroku/cedar
@@ -7020,9 +7015,11 @@ http://developersacademy.io/blog/
 
 #### Video Gaming and Virtual Reality
 
+* [Learn VR Dev](https://www.reddit.com/r/learnVRdev)
 * [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
 * [Twitch TV](http://www.twitch.tv)
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
+* [NVIDIA Developer](https://developer.nvidia.com)
 * [Steam](http://store.steampowered.com) and [Steam Community](http://steamcommunity.com)
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
@@ -7031,14 +7028,8 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
-http://learn.vrdev.school
-https://www.reddit.com/r/learnVRdev
-
 https://developers.google.com/cardboard/ios/get-started
 https://www.google.com/get/cardboard/jump
-http://3drobotics.com/software
-
-https://developer.nvidia.com/devbox
 
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
@@ -7825,6 +7816,7 @@ General Terminology
 * [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 * [Rick Klau Medium](https://medium.com/@rklau)
 * [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
+* [Tony Robbins](https://www.tonyrobbins.com) and [Tony Robbins (Money: Master the Game)](http://moneymasterthegame.com)
 * [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
 * [Sean Ellis Slideshare](http://www.slideshare.net/seanellis) and [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
 * [Sean Rose](https://medium.com/@sean_a_rose)
@@ -7843,9 +7835,6 @@ General Terminology
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
-http://moneymasterthegame.com
-http://humanelevation.tonyrobbins.com
-
 https://usesthis.com/interviews/horace.dediu
 
 https://plus.google.com/collection/EZT2b
@@ -7884,6 +7873,7 @@ Awards
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm)
 
 #### Inventors, Economists, Philosophers
+
 * [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
 * [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
 * [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
@@ -7909,6 +7899,7 @@ http://www.greatachievements.org
 -->
 
 #### Markets and Institutional Investing 
+
 * [Ben Carlson](http://awealthofcommonsense.com)
 * [Barry Ritholtz](http://www.ritholtz.com/blog) and [Barry Ritholtz Masters in Business](http://www.bloombergview.com/topics/masters-in-business)
 * [Howard Marks (Chairman, Oaktree Capital) Memos](http://www.oaktreecapital.com/memo.aspx) and [It’s not Easy](http://www.oaktreecapital.com/MemoTree/It's%20Not%20Easy.pdf)
@@ -7962,11 +7953,8 @@ Charlie Munger Mental Models (A partial list of some Mental Models used by Charl
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
-<!--
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d
--->
-
-Mauboussin, Callahan, Rone, Burns, Bartholdson
+Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
+* [Operating Leverage: A Framework for Anticipating Changes in Earnings](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d)
 * [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
 * [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
 * [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
@@ -8479,9 +8467,6 @@ http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
 https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
 
 https://www.rocketlawyer.com/document/web-hosting-agreement.rl
-
-RRE Ventures: Update MY VC Email Template
-http://updatemyvc.com
 -->
 
 IPO
