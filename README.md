@@ -353,12 +353,6 @@ Industry and Product Classifications
 Associations
 * [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
-Income Reports
-* [Income Reports](http://www.incomereports.co)
-
-Earnings Calls
-* [earningscast Calls](http://earningscast.com/calls)
-
 #### Open Companies
 
 Buffer
@@ -861,6 +855,7 @@ Web Analytics
 
 Facebook
 * [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
+* [Facebook Live](https://live.fb.com)
 
 Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
@@ -868,18 +863,18 @@ Facebook Developers
 Facebook Tools
 * [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 * [Facebook Business](https://www.facebook.com/business)
+* [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
+* [Facebook Platform Insights](https://developers.facebook.com/docs/platforminsights)
 * [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
 * [Fb Start for Mobile Startups](http://fbstart.com)
 
 <!--
 https://developers.facebook.com/docs/messenger-platform
-https://live.fb.com
 
 Facebook's Advertisers Tool
 https://developers.facebook.com/docs/javascript
 
 Facebook Insights
-https://developers.facebook.com/docs/platforminsights
 https://developers.facebook.com/docs/platforminsights/domains
 https://developers.facebook.com/docs/platforminsights/page
 -->
@@ -932,6 +927,11 @@ Google Tag Manager
 
 Google News Publisher
 * [Google News Publisher Help](https://support.google.com/news/publisher)
+
+<!--
+    <rule name="SenSEO score of 85+">
+      <link url="https://addons.mozilla.org/en-US/firefox/addon/senseo/">SenSEO for Firefox</link>
+-->
 
 LinkedIn
 * [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
@@ -1248,9 +1248,10 @@ Line Endings
 * [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
 * [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
 
-<!--
-https://en.wikipedia.org/wiki/Anywhere_on_Earth
+Anywhere on Earth
+* [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
+<!--
 http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 
 What are the Numbers that Every Computer Engineer Should Know
@@ -1695,12 +1696,6 @@ Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 <!--
-  <category name="SEO">
-    <rule name="SenSEO score of 85+">
-      <link url="https://addons.mozilla.org/en-US/firefox/addon/senseo/">SenSEO for Firefox</link>
--->
-
-<!--
 Browser Statistics
 
 http://www.gnu.org/software/coreutils/manual/coreutils.html
@@ -2100,18 +2095,12 @@ Git Ignore and Licenses
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
 
-<!--
-https://ghbtns.com
-https://github.com/mdo/github-buttons
-https://github.com/blog/2112-delivering-octicons-with-svg
-https://octicons.github.com/
-https://github.com/github/octicons
-https://github.com/blog/273-github-ribbons
-https://github.com/tholman/github-corners
-
-https://github.com/badges/shields
-http://shields.io
--->
+Ribbons, Buttons, Octicons, Shields
+* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
+* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
+* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
+* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
+* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
 
 GitHub Services Integration
 * [Service Hooks GitHub](https://github.com/github/github-services)  
@@ -3022,8 +3011,6 @@ https://developers.google.com/speed/docs/best-practices/rules_intro
       <link url="http://www.robotsgenerator.com/">Create robots.txt online
       <link url="http://humanstxt.org/">We are humans, not machines!</link>
       <link url="http://realfavicongenerator.net/">Real Favicon Generator</link>
-
-      <link url="http://responsive.is/">Responsive Design Tester</link>
 -->
 
 Gravatar
@@ -3208,6 +3195,8 @@ https://www.w3.org/2002/03/tutorials.html
 * [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
 http://www.w3.org/TR/CSS21/cover.html#minitoc
+
+Responsive Design Tester
 -->
 
 Responsiveness- and Media Queries
@@ -8477,6 +8466,12 @@ https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/
 
 https://www.rocketlawyer.com/document/web-hosting-agreement.rl
 -->
+
+Income Reports
+* [Income Reports](http://www.incomereports.co)
+
+Earnings Calls
+* [earningscast Calls](http://earningscast.com/calls)
 
 IPO
 * [PwC Roadmap for an IPO](http://www.pwc.com/us/en/transaction-services/publications/roadmap-for-an-ipo-a-guide-to-going-public.jhtml)  
