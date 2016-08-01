@@ -850,6 +850,18 @@ Microformats
 * [Microformats](http://microformats.org)
 
 <!--
+Meta Name and others 
+https://en.wikipedia.org/wiki/Tag_(metadata)
+
+http://stackoverflow.com/questions/16171686/list-of-standard-w3c-meta-tags
+https://gist.github.com/kevinSuttle/1997924
+http://www.metatags.info/all_meta_tags
+http://www.w3schools.com/tags/tag_meta.asp
+https://support.google.com/webmasters/answer/79812?hl=en
+
+https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Microformats
+https://en.wikipedia.org/wiki/Microformat
+
 http://schema.org/Person
 https://en.wikipedia.org/wiki/HCard
 http://microformats.org/wiki/hcard
@@ -883,6 +895,25 @@ https://developers.facebook.com/docs/javascript
 Facebook Insights
 https://developers.facebook.com/docs/platforminsights/domains
 https://developers.facebook.com/docs/platforminsights/page
+
+https://www.facebook.com/business/learn/facebook-ads-measuring-results
+https://www.facebook.com/business/a/facebook-pixel
+https://www.facebook.com/business/help/952192354843755
+https://www.facebook.com/business/help/651294705016616
+https://www.facebook.com/business/a/online-sales/conversion-tracking
+https://www.facebook.com/business/help/1686199411616919
+https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
+https://www.facebook.com/business/help/460491677335370
+https://www.facebook.com/business/help/373979379354234
+
+Webmaster Guidelines
+https://support.google.com/webmasters/answer/35769
+
+https://en.wikipedia.org/wiki/Search_engine_optimization
+https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
+https://support.google.com/webmasters/answer/35291?hl=en
+https://support.google.com/webmasters/answer/40349?hl=en
+http://searchengineland.com/library/google/google-seo
 -->
 
 Google
