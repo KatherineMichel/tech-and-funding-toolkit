@@ -776,7 +776,7 @@ Product/Service Directories
 Wayback Machine
 * [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
 
-Built With (Exluding Django)
+Built With (Exluding Django; See also Squarespace)
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
 * [Built With](http://builtwith.com)  
 * [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
@@ -835,6 +835,12 @@ Graph and Schema- General (See also Facebook Open Graph)
 * [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
 * [Schema Creator](http://schema-creator.org)
 * [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+
+<!--
+    <rule name="Add search feature" optional="true">
+      <link url="http://www.google.com/cse/">Google Custom Search</link>
+      <link url="http://www.opensearch.org/Home">Consider 'Open Search'</link>
+-->
 
 Facebook Crawler
 * [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
@@ -1937,7 +1943,7 @@ Concurrent Version System
 
 Git Origin
 * [Git GitHub](https://github.com/git/git)  
-* [Git GitHub](https://github.com/mojombo/git)  
+* [Git Mojombo GitHub](https://github.com/mojombo/git)  
 * [Git GitHub](https://github.com/xlymian/git) 
 
 Git
@@ -2999,16 +3005,15 @@ Gifs
 Favicon, Sitemap, robots.txt, humans.txt
 * [XML Sitemaps](http://www.xml-sitemaps.com)
 * [sitemaps.org](http://www.sitemaps.org)
+* [humans.txt](http://humanstxt.org)
+* [robots.txt](http://www.robotsgenerator.com)
 
 <!--
 Google’s Web Performance Best Practices
 https://developers.google.com/speed/docs/best-practices/rules_intro
 
       <link url="http://tools.seobook.com/robots-txt/">robots.txt tutorial</link>
-
-      <link url="http://www.robotsgenerator.com/">Create robots.txt online
-      <link url="http://humanstxt.org/">We are humans, not machines!</link>
-      <link url="http://realfavicongenerator.net/">Real Favicon Generator</link>
+      <link url="http://realfavicongenerator.net">Real Favicon Generator</link>
 -->
 
 Gravatar
@@ -3467,10 +3472,6 @@ http://tools.pingdom.com/fpt
     <rule name="Have a unified notification system across app" />
     <rule name="Don't display unfriendly errors directly to the user" />
 
-    <rule name="Add search feature" optional="true">
-      <link url="http://www.google.com/cse/">Google Custom Search</link>
-      <link url="http://www.opensearch.org/Home">Consider 'Open Search'</link>
- 
     <rule name="Environment Integration" optional="true">
       <link url="http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html">Safari on iOS</link>
       <link url="http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx">Internet Explorer on Windows</link>
