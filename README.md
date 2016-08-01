@@ -900,6 +900,9 @@ Google Analytics
 * [Google U.K. Analytics](http://www.google.co.uk/analytics)
 * [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
 
+Google Analytics Alternative
+* [Hubspot](http://www.hubspot.com)
+
 Google Ads
 * [Google Ads](http://www.google.com/ads) 
 * [Google AdMob (Apps)](http://www.google.com/admob)  
@@ -910,11 +913,6 @@ Google Ads
 * [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
 * [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
 * [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
-
-<!--
-Google Analytics Alternative
-[Hubspot](http://www.hubspot.com)
--->
 
 Google Monetization
 * [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
@@ -929,8 +927,8 @@ Google News Publisher
 * [Google News Publisher Help](https://support.google.com/news/publisher)
 
 <!--
-    <rule name="SenSEO score of 85+">
-      <link url="https://addons.mozilla.org/en-US/firefox/addon/senseo/">SenSEO for Firefox</link>
+SenSEO for Firefox (SenSEO score of 85+)
+https://addons.mozilla.org/en-US/firefox/addon/senseo
 -->
 
 LinkedIn
@@ -3196,7 +3194,7 @@ https://www.w3.org/2002/03/tutorials.html
 
 http://www.w3.org/TR/CSS21/cover.html#minitoc
 
-Responsive Design Tester
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
 -->
 
 Responsiveness- and Media Queries
@@ -3239,21 +3237,17 @@ Good, Basic Templates, Themes
 * [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
 * [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
 
 <!--
 http://www.bootstrapzero.com/c/one-page-themes
-http://startbootstrap.com/template-categories/all/
-
-http://www.bootply.com/
 http://bootstrap.theme.cards/l
--->
 
-<!--
-                                Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a><br>
- 
-                                Live Bootstrap <a href="http://livebootstrap.com" target="_blank">Website</a>, Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a><br>
-                                <br><br>
-                                Trianglify (Background Generator) <a href="http://qrohlf.com/trianglify/" target="_blank">Website</a>, Trianglify <a href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a><br>
+http://www.bootply.com
+
+Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
+Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
+href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
 -->
 
 Good, Basic Templates, Themes- Skel
@@ -3300,8 +3294,6 @@ https://developer.mozilla.org/en-US/docs/Glossary
 http://whatwg.github.io/loader
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
-
-https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
 -->
 
 #### Testing and Performance
@@ -3313,38 +3305,13 @@ http://shop.oreilly.com/product/0636920041528.do
 -->
 
 <!--
+Responsive Design Tester
+http://responsivetest.net
+
     <rule name="Manual check using emulators">
       <link url="http://screenqueri.es/">Online media query tester</link>
       <link url="http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site/">6 free mobile emulators</link>
       <link url="http://www.opera.com/developer/tools/mobile/">Opera Mobile Emulator</link>
-
-    <rule name="Test using real devices">
-      <link url="http://OpenDeviceLab.com/">Use Open Device Labs to test multiple devices</link>
--->
-
-* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing)  
-* [AWS Device Farm](https://aws.amazon.com/device-farm)
-* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-* [Google App Invites](https://developers.google.com/app-invites)
-* [Google Cloud Test Lab](https://developers.google.com/cloud-test-lab)
-* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
-* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
-* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-* [Yahoo YSlow score of 85+](http://yslow.org)
-
-Error Reporting, Logging, Instrumentation
-* [New Relic](http://newrelic.com)
-* [Sentry](http://getsentry.com)
-
-<!--
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
 -->
 
 W3 Validators
@@ -3357,21 +3324,53 @@ W3 Validators
 * [W3C i18n Checker](http://validator.w3.org/i18n-checker)
 
 <!--
-    <rule name="MobileOK score of 75+">
+      <link url="http://csslint.net/">Run CSS Lint online</link>
+
+<rule name="MobileOK score of 75+">
 -->
+
+Device Testing
+* [AWS Device Farm](https://aws.amazon.com/device-farm)
+* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
+* [Open Device Labs](http://OpenDeviceLab.com)
+
+Speed and Performance
+* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
+* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
+* [Yahoo YSlow score of 85+](http://yslow.org)
+
+Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
+* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [New Relic](http://newrelic.com)
+* [Sentry](http://getsentry.com)
+
+<!--
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+-->
+
+A/B Testing
+* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
+* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+
+App Invites or Beta Testing
+* [Google App Invites](https://developers.google.com/app-invites)
+* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
 Accessibility
 * [WebAIM](http://webaim.org)
 * [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
+* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
+* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
 
 <!--
 http://webaim.org/resources/evalquickref/#checklist
-
-      <link url="http://achecker.ca/checker/index.php">IDI Web Accessibility Checker</link>
-      <link url="http://www.nvaccess.org">Test using a screen reader</link>
-
-    <rule name="Color contrast">
-      <link url="http://www.checkmycolours.com/">Check color contrast online</link>
 -->
 
 Microsoft Inclusion Approach
@@ -3483,9 +3482,6 @@ http://tools.pingdom.com/fpt
     <rule name="HTML validation">
       <link url="http://watson.addy.com/">Dr. Watson</link>
 
-    <rule name="Run CSS Lint">
-      <link url="http://csslint.net/">Run CSS Lint online</link>
-   
     <rule name="Verify source code (Scala)">
       <link url="http://www.scalastyle.org/">Scala Style</link>
       <link url="http://mtkopone.github.com/scct/">SCCT</link>
