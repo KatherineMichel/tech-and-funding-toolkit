@@ -280,12 +280,7 @@ Database List
 * [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
 * [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
 * [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-* [Product Hunt](http://www.producthunt.com) 
-
-<!--
-https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8
-http://beondeck.co
--->
+* [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 Databases and Benchmarking- Freemium
 * [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
@@ -297,6 +292,10 @@ Databases and Benchmarking- Freemium
 * [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 * [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
+
+<!--
+http://beondeck.co
+-->
 
 Europe and U.K.
 * [AngelList U.K.](https://angel.co/uk)
@@ -733,9 +732,6 @@ Tim Ferris- Ideas
 * [Kickstarter Discover](https://www.kickstarter.com/discover) and [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced)
 
 <!--
-https://www.facebook.com/ads/manager/creation/creation/?act=314539814&pid=p1
-https://www.reddit.com/advertising
-
 https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
 -->
 
@@ -880,6 +876,7 @@ Facebook Tools
 * [Facebook Business](https://www.facebook.com/business)
 * [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
 * [Facebook Platform Insights](https://developers.facebook.com/docs/platforminsights)
+* [Facebook Ad Creation Manager](https://www.facebook.com/ads/manager/creation)
 * [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
 * [Fb Start for Mobile Startups](http://fbstart.com)
 
@@ -1013,6 +1010,9 @@ YouTube (Google)
 * [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
 * [YouTube Creators](http://www.youtube.com/yt/creators)  
 * [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Reddit Advertising
+* [Reddit Advertising](https://www.reddit.com/advertising)
 
 Sharing Buttons
 * [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
@@ -1569,13 +1569,14 @@ Apple- Kits
 * [ResearchKit and Carekit](http://www.apple.com/researchkit)
 * [Watchkit](https://developer.apple.com/watchkit) 
 
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
 <!--
 https://developer.apple.com/reference/applepayjs
 https://developer.apple.com/reference/accelerate/1912851-bnns
 https://developer.apple.com/sirikit
 https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
-
-https://kapeli.com/dash
 -->
 
 #### Google Developer Tools
@@ -2759,10 +2760,7 @@ Documentation- General
 * [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Packt](https://www.packtpub.com) [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-
-<!--
-http://stackoverflow.com/documentation
--->
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
@@ -7036,6 +7034,7 @@ http://developersacademy.io/blog/
 #### Video Gaming and Virtual Reality
 
 * [Learn VR Dev](https://www.reddit.com/r/learnVRdev)
+* [Google VR Cardboard iOS](https://developers.google.com/cardboard/ios/get-started) and [Google VR Cardboard Jump](https://www.google.com/get/cardboard/jump)
 * [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
 * [Twitch TV](http://www.twitch.tv)
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
@@ -7048,9 +7047,6 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
-https://developers.google.com/cardboard/ios/get-started
-https://www.google.com/get/cardboard/jump
-
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
 https://www.unrealengine.com/blog/blueprint-basics
@@ -8341,6 +8337,12 @@ VC Firm Portfolios and Anti-Portfolios
 EquityZen
 * [EquityZen](https://equityzen.com)
 
+<!--
+https://upverter.com/periodic-table
+
+http://www.startuptimelines.org
+-->
+
 VC Firm Newsletters
 * [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
 
@@ -8374,12 +8376,6 @@ Federal Opportunities and Funding
 * [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 * [National Science Foundation Funding](https://www.nsf.gov/funding)
 * [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
-
-<!--
-https://upverter.com/periodic-table
-
-http://www.startuptimelines.org
--->
 
 #### Documents and Advice
 
