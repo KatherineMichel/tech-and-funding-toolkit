@@ -836,11 +836,8 @@ Graph and Schema- General (See also Facebook Open Graph)
 * [Schema Creator](http://schema-creator.org)
 * [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
 
-<!--
-    <rule name="Add search feature" optional="true">
-      <link url="http://www.google.com/cse/">Google Custom Search</link>
-      <link url="http://www.opensearch.org/Home">Consider 'Open Search'</link>
--->
+Open Search
+* [Open Search](http://www.opensearch.org/Home)
 
 Facebook Crawler
 * [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
@@ -959,6 +956,9 @@ Google Rich Snippets
 
 Google Tag Manager
 * [Google Tag Manager](http://www.google.com/tagmanager)
+
+Google Custom Search Engine
+* [Google Custom Search Engine](https://cse.google.com/cse)
 
 Google News Publisher
 * [Google News Publisher Help](https://support.google.com/news/publisher)
