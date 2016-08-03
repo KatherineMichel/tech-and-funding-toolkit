@@ -4551,6 +4551,18 @@ ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
 <!--
+https://channel9.msdn.com/VisualStudio
+https://msdn.microsoft.com/en-us/library/dn320181.aspx
+https://msdn.microsoft.com/en-us/default.aspx
+https://blogs.msdn.microsoft.com/visualstudio/2016/07/29/visual-studio-hidden-gems
+https://www.visualstudio.com/downloads/download-visual-studio-vs
+https://www.visualstudio.com/en-us/visual-studio-2015-system-requirements-vs#1
+http://www.developersfeed.com/10-best-c-books-to-learn-programming/
+https://forums.asp.net
+http://exercism.io/languages/csharp
+-->
+
+<!--
 Learn ASP
 -->
 
