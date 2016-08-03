@@ -732,6 +732,8 @@ Tim Ferris- Ideas
 * [Kickstarter Discover](https://www.kickstarter.com/discover) and [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced)
 
 <!--
+https://www.kickstarter.com/recommendations
+
 https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
 -->
 
@@ -931,6 +933,10 @@ Google Analytics
 * [Google U.K. Analytics](http://www.google.co.uk/analytics)
 * [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
 
+<!--
+https://www.google.com/analytics/data-studio
+-->
+
 Google Analytics Alternative
 * [Hubspot](http://www.hubspot.com)
 
@@ -1064,6 +1070,10 @@ Microsoft
 
 IBM Design Language
 * [IBM Design Language](http://www.ibm.com/design/language)
+
+<!--
+https://console.ng.bluemix.net
+-->
 
 Watson Design Guide
 * [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
@@ -2003,6 +2013,8 @@ http://gitref.org/branching
 
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
+
+https://www.atlassian.com/software-trends
 -->
 
 Git- Official Learning Resources
@@ -2885,6 +2897,9 @@ Device Popularity Stats
 * [Top 14 Screen Resolutions](http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604)
 
 <!--
+https://layer.com/messaging-design-kit
+http://blog.invisionapp.com/chat-minimal-ui-kit/
+
 http://blog.invisionapp.com/large-desktop-experience-responsive-design/
 https://support.invisionapp.com/hc/en-us/articles/203009779-What-size-should-my-screens-be-
 http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
@@ -3255,6 +3270,8 @@ https://github.com/silverbux/bootflat-admin
 https://github.com/almasaeed2010/AdminLTE
 https://github.com/VinceG/Bootstrap-Admin-Theme 
 https://github.com/onokumus/Bootstrap-Admin-Template
+https://github.com/akveo/blur-admin
+https://github.com/puikinsh/gentelella
 -->
 
 Foundation
@@ -3371,7 +3388,12 @@ Device Testing
 Speed and Performance
 * [Google GWT (including Speedtracer)](http://www.gwtproject.org)
 * [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
+* [Netflix Fast](https://fast.com)
 * [Yahoo YSlow score of 85+](http://yslow.org)
+
+<!--
+http://www.dslreports.com/speedtest
+-->
 
 Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
@@ -3404,6 +3426,8 @@ Accessibility
 * [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
 
 <!--
+https://ft-interactive.github.io/accessibility
+
 http://webaim.org/resources/evalquickref/#checklist
 -->
 
@@ -5938,6 +5962,8 @@ AWS- Lambda (See also Google Cloud Functions)
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 
 <!--
+https://github.com/awslabs/chalice
+
 https://aws.amazon.com/cloudformation/aws-cloudformation-templates
 http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html
 http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html
@@ -6128,6 +6154,8 @@ Optimization
 
 <!--
       <link url="http://aws.amazon.com/cloudfront/">Amazon Cloudfront CDN</link>
+      
+ Like yahoo pipes: https://zapier.com/blog/workflow-automation     
 -->
 
 #### Deployment and Git Integration
@@ -6581,6 +6609,10 @@ Docker
 * [Dockerfile Reference](https://docs.docker.com/engine/reference/builder)
 * [Docker Hub](https://hub.docker.com)
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
+
+<!--
+https://bitnami.com/webinar/stacksmith
+-->
 
 Heroku- Docker
 * [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
@@ -7879,6 +7911,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
+
 https://m.signalvnoise.com
 https://m.signalvnoise.com/@jasonfried
 -->
@@ -9165,6 +9199,8 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
+https://news.ycombinator.com/news
+
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
