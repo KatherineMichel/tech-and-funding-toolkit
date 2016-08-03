@@ -294,6 +294,8 @@ Databases and Benchmarking- Freemium
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
 
 <!--
+https://www.producthunt.com/tech/interesting-finds
+
 http://beondeck.co
 -->
 
@@ -1093,6 +1095,8 @@ Ergonomics
 Split keyboard
 
 http://www.mindbodygreen.com/0-3972/How-Yoga-Healed-My-Carpal-Tunnel-Syndrome.html
+
+http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow
 -->
 
 Wikipedia Portals
@@ -1987,6 +1991,10 @@ Git Origin
 * [Git GitHub](https://github.com/git/git)  
 * [Git Mojombo GitHub](https://github.com/mojombo/git)  
 * [Git GitHub](https://github.com/xlymian/git) 
+
+<!--
+http://tom.preston-werner.com/2009/05/19/the-git-parable.html
+-->
 
 Git
 * [Git Homepage](https://git-scm.com)
@@ -3903,6 +3911,8 @@ Facebook- React (JavaScript)
 * [React JSFiddle](https://jsfiddle.net/reactjs)
 
 <!--
+https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
+
 https://github.com/enaqx/awesome-react#example-apps
 https://github.com/jondot/awesome-react-native
 https://github.com/xgrommx/awesome-redux
@@ -4147,6 +4157,10 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phanto
 * [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
 * [PhantomJS](http://phantomjs.org)  
 * [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
+
+<!--
+https://github.com/seleniumbase/SeleniumBase
+-->
 
 HTML5 Compatibility Check/Normalization
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
@@ -4837,6 +4851,13 @@ https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 
 #### Python General
 
+<!--
+https://github.com/python/devguide
+http://campus.codeschool.com/courses/try-django/contents
+https://docs.djangoproject.com/en/1.9/ref/models/conditional-expressions/#case
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
+-->
+
 Python (See also Data Science)
 * [Python](http://www.python.org), [Python GitHub](https://github.com/python), and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 * [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
@@ -4885,6 +4906,11 @@ Consulting Forms
 * [Caktus Group](https://www.caktusgroup.com) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
 
 <!--
+http://eldarion.cloud/
+https://github.com/pinax/cloudspotting
+
+http://www.frankwiles.com
+
 http://www.frankwiles.com/posts/django-template-variable-or-else
 
 http://www.ellingtoncms.com
@@ -5953,6 +5979,10 @@ AWS- Elastic Beanstalk and S3
 AWS- SES and SNS
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
+
+<!--
+https://mobile.awsblog.com/post/TxSP0HUNM8FQ1Y/Introducing-Worldwide-SMS-Messaging
+-->
 
 AWS- Lambda (See also Google Cloud Functions)
 * [AWS Lambda](http://aws.amazon.com/lambda)  
@@ -7091,6 +7121,21 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+http://www.industrialthemes.com/steam/support/credits
+https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source
+https://www.udemy.com/unrealcourse
+
+https://github.com/launchkit/launchkit
+
+https://3dr.com
+
+http://graphics.pixar.com/usd/docs/index.html
+https://github.com/PixarAnimationStudios/USD
+
+https://www.unrealengine.com/ue4-on-github
+https://github.com/EpicGames
+https://wiki.unrealengine.com/GitHub_Setup
+
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
 https://www.unrealengine.com/blog/blueprint-basics
@@ -8015,6 +8060,10 @@ Charlie Munger Mental Models (A partial list of some Mental Models used by Charl
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
+<!--
+http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf
+-->
+
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
 * [Operating Leverage: A Framework for Anticipating Changes in Earnings](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d)
 * [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
@@ -8416,6 +8465,10 @@ Crowdfunding
 * [Kickstarter](https://www.kickstarter.com)
 * [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
 * [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
+
+<!--
+https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
+-->
 
 Federal Opportunities and Funding
 * [Federal Business Opportunities](https://www.fbo.gov)  
