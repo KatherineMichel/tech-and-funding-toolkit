@@ -4524,6 +4524,10 @@ Wikitech Development
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
+https://blog.xamarin.com/net-standard-library-support-for-xamarin
+https://blogs.windows.com/buildingapps/2016/07/28/adding-color-to-your-design
+
+
 * [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
 
 JavaScript- Microsoft
@@ -9803,6 +9807,10 @@ Foreign Language
 * [Duolingo](https://en.duolingo.com)
 * [Google Translate](https://translate.google.com/?hl=en) 
 * [BaBa Dum](https://babadum.com)
+
+<!--
+https://www.producthunt.com/tech/tinycards-by-duolingo
+-->
 
 Foreign Language- Spanish
 * [Spanish Language Wikipedia](https://en.wikipedia.org/wiki/Spanish_language), [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Nouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_nouns) [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs), [Spanish Tenses Wikibook](https://en.wikibooks.org/wiki/Spanish/Tenses), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), [Spanish/How to Conjugate Verbs Wikibook](https://en.wikipedia.org/wiki/Spanish_adjectives), [Spanish Pronouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_pronouns), [Spanish Prepositions Wikipedia](https://en.wikipedia.org/wiki/Spanish_prepositions), and [Spanish Determiners Wikipedia](https://en.wikipedia.org/wiki/Spanish_determiners)
