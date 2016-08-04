@@ -23,6 +23,7 @@
 * [Facebook](https://github.com/facebook)  
 * [Facebook Archive](https://github.com/facebookarchive)  
 * [Facebook Platform Samples](https://github.com/fbsamples) 
+* [Facebook Research](https://github.com/facebookresearch)
 * [GitHub](https://github.com/github) 
 * [GitHub Archive](https://github.com/github-archive)
 * [Google](https://github.com/google)  
