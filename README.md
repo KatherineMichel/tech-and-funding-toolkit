@@ -2007,6 +2007,8 @@ Learn X in Y Minutes Git and Markdown
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 <!--
+https://github.myshopify.com
+
 https://ifttt.com/github/recipes
 
 https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
@@ -2782,6 +2784,10 @@ Documentation- General
 * [Packt](https://www.packtpub.com) [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 
+<!--
+http://research.ibm.com
+-->
+
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 
@@ -3026,6 +3032,8 @@ Photoshop and Similar
 * [Serif](http://www.serif.com)
 
 <!--
+https://blogs.adobe.com/creativecloud/
+
 https://docs.gimp.org/en/script-fu-addborder.html
 -->
 
@@ -3079,6 +3087,9 @@ https://twitter.com/siteinspire
 -->
 
 <!--
+http://www.colourlovers.com/
+http://www.themeleon.com/
+
 https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits
 
 [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
@@ -4570,6 +4581,13 @@ C#
 * [Learn X in Y Minutes C#](https://learnxinyminutes.com/docs/csharp)
 
 <!--
+https://developer.xamarin.com/guides/cross-platform/azure
+https://azure.microsoft.com/en-us/documentation/services/app-service/web
+https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-started
+https://developer.xamarin.com/guides/cross-platform/getting_started
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+https://developer.xamarin.com/guides/cross-platform/azure
+
 https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 -->
@@ -6596,6 +6614,8 @@ MAMP and WampServer (See also PHP)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
 <!--
+https://madmimi.com/service_agreements/choose_plan
+
 https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
 https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
 https://www.godaddy.com/help/what-is-a-subdomain-296
@@ -7125,6 +7145,8 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://www.tiltbrush.com
+
 http://www.industrialthemes.com/steam/support/credits
 https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source
 https://www.udemy.com/unrealcourse
@@ -8065,6 +8087,12 @@ Charlie Munger Mental Models (A partial list of some Mental Models used by Charl
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
 <!--
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1063945621&serialid=1wRGyN6EnJdsEAzicRfCQyDmuExS84d2HcYRBRMNZJ8%3d
+http://www.michaelmauboussin.com
+
+https://25iq.com/2013/02/17/mauboussin
+https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
+
 http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf
 -->
 
@@ -9567,6 +9595,11 @@ Customer Relationship Management
 * [Salesforce](https://www.salesforce.com)
 * [RelateIQ](https://www.relateiq.com) 
 * [Zendesk](https://www.zendesk.com)
+
+<!--
+https://admin.salesforce.com
+https://developer.salesforce.com
+-->
 
 Task Automation
 * [IFTTT](https://ifttt.com) 
