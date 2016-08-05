@@ -923,6 +923,8 @@ https://plus.google.com/authorship
 
 Google+ Publisher
 https://support.google.com/webmasters/answer/1708844?hl=en
+
+https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
 -->
 
 Google Webmaster
@@ -1051,6 +1053,10 @@ Company Design
 * [eBay/PayPal](http://ebay.com/design)  
 * [Twitter Design](https://twitter.com/design)  
 * [Uber Design](https://www.uber.com/design) 
+
+<!--
+http://samara.airbnb.com
+-->
 
 Designer/Developer Conferences
 * [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
@@ -2680,6 +2686,8 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://jam.com
+
 https://www.codecademy.com/courses/learn-the-command-line
 
 https://teamtreehouse.com
@@ -2987,6 +2995,8 @@ Quickie Websites
 
 <!--
 http://www.wix.com/upgrade/premium-plans
+
+http://developers.squarespace.com/local-development
 
 https://www.squarespace.com/customers
 -->
@@ -8136,6 +8146,10 @@ Nassim Nicholas Taleb's Teachings
 * [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
 * [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
 
+<!--
+https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf
+-->
+
 #### Economics, Models
 
 Finance
@@ -8962,6 +8976,10 @@ Notable Proposals and Pitch Decks
 * [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
 * [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
 * [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
+
+<!--
+https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.tvtsh6on1
+-->
 
 Templates
 * [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
@@ -9854,6 +9872,10 @@ Foreign Language- Spanish
 Public Speaking
 * [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
 * [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
+
+<!--
+http://www.nsaspeaker.org
+-->
 
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
