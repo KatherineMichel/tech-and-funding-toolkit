@@ -56,7 +56,7 @@ Table of Content
   * [Dot Files](#dot-files)
   * [Git and Markdown](#git-and-markdown)
   * [Startup Engineering MOOC](#startup-engineering-mooc)
-  * [Code Philosophies](#code-philosophies)
+  * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
 
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
   * [Software Manuals and Documentation](#software-manuals-and-documentation)
@@ -294,8 +294,6 @@ Databases and Benchmarking- Freemium
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
 
 <!--
-https://www.producthunt.com/tech/interesting-finds
-
 http://beondeck.co
 -->
 
@@ -730,15 +728,13 @@ Google Insights and Trends
 * [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
 * [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
-Tim Ferris- Ideas
-* [Amazon Best Sellers](http://www.amazon.com/gp/bestsellers)
+Tim Ferris Inspired- Ideas
+* [Amazon Best Sellers](http://www.amazon.com/gp/bestsellers) and [Amazon Interesting Finds](https://www.amazon.com/stream/hotpicks)
 * [eBay All Categories](http://www.ebay.com/sch/allcategories/all-categories) and [eBay Collections](http://www.ebay.com/cln)
 * [Craigslist Gigs](http://sfbay.craigslist.org/search/ggg)
-* [Kickstarter Discover](https://www.kickstarter.com/discover) and [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced)
+* [Kickstarter Discover](https://www.kickstarter.com/discover), [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced), and [Kickstarter Recommendations](https://www.kickstarter.com/recommendations)
 
 <!--
-https://www.kickstarter.com/recommendations
-
 https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
 -->
 
@@ -753,7 +749,7 @@ App and Website Statistics- General
 * [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
 * [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
 * [Gallup](http://www.gallup.com/home.aspx)
-* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites) 
+* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites)
 * [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
 Mobile and Browser
@@ -939,10 +935,7 @@ Google Analytics
 * [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 * [Google U.K. Analytics](http://www.google.co.uk/analytics)
 * [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
-
-<!--
-https://www.google.com/analytics/data-studio
--->
+* [Google Data Studio](https://www.google.com/analytics/data-studio)
 
 Google Analytics Alternative
 * [Hubspot](http://www.hubspot.com)
@@ -973,10 +966,8 @@ Google Custom Search Engine
 Google News Publisher
 * [Google News Publisher Help](https://support.google.com/news/publisher)
 
-<!--
-SenSEO for Firefox (SenSEO score of 85+)
-https://addons.mozilla.org/en-US/firefox/addon/senseo
--->
+Firefox SEO (See also Mozilla)
+* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
 
 LinkedIn
 * [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
@@ -1051,15 +1042,12 @@ Individual Engineering Blogs
 * [Yelp Engineering](http://engineeringblog.yelp.com) 
 
 Company Design
+* [Airbnb Samara](http://samara.airbnb.com)
 * [Medium Design](https://medium.com/designing-medium)  
 * [IBM Design](https://www.ibm.com/design) 
 * [eBay/PayPal](http://ebay.com/design)  
 * [Twitter Design](https://twitter.com/design)  
 * [Uber Design](https://www.uber.com/design) 
-
-<!--
-http://samara.airbnb.com
--->
 
 Designer/Developer Conferences
 * [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
@@ -1486,8 +1474,6 @@ Apple Presentation and Design (See also Keynotopia)
 * [Keynote Kung-Fu](http://keynotekungfu.com)
 
 <!--
-https://marvelapp.com
-
 http://www.sketchappsources.com
 -->
 
@@ -1999,13 +1985,10 @@ Concurrent Version System
 * [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
 
 Git Origin
+* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 * [Git GitHub](https://github.com/git/git)  
 * [Git Mojombo GitHub](https://github.com/mojombo/git)  
 * [Git GitHub](https://github.com/xlymian/git) 
-
-<!--
-http://tom.preston-werner.com/2009/05/19/the-git-parable.html
--->
 
 Git
 * [Git Homepage](https://git-scm.com)
@@ -2216,14 +2199,12 @@ Markdown
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
 
 GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
 * [GitLab Installation](https://about.gitlab.com/installation)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
-<!--
-http://docs.gitlab.com/ce/intro/README.html
-http://docs.gitlab.com/ce/workflow/importing/README.html
--->
 
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
@@ -2395,15 +2376,7 @@ Lecture 1: Table 2: An overview of technologies used in the course
 Lecture 1: Figure 5: The Rise and Fall of Personal Computing
 -->
 
-#### Code Philosophies
-
-<!--
-Trello
-https://upcase.com/design-for-developers-resources/principles
-https://github.com/thoughtbot/guides
-https://github.com/thoughtbot/guides/tree/master/protocol
-
-#### Digital Agency
+#### Digital Agencies and Code Philosophies
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 * [The Figure 53 Company Handbook](http://figure53.com/handbook)
@@ -2413,6 +2386,12 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
 * [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+
+<!--
+Trello
+https://upcase.com/design-for-developers-resources/principles
+https://github.com/thoughtbot/guides
+https://github.com/thoughtbot/guides/tree/master/protocol
 
 https://github.com/hypenotic/hypelabs
 
@@ -2675,6 +2654,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [CodePath GitHub](https://github.com/codepath)
 * [Code.org](https://code.org)
 * [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
+* [Jam](https://jam.com)
 * [Kano Playground](http://art.kano.me/playground)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
@@ -2696,8 +2676,6 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
-https://jam.com
-
 https://www.codecademy.com/courses/learn-the-command-line
 
 https://teamtreehouse.com
@@ -2797,14 +2775,10 @@ Text Editor and Code Demonstration
 
 Documentation- General
 * [IT eBooks](http://it-ebooks.info)
-* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Packt](https://www.packtpub.com) [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-
-<!--
-http://research.ibm.com
--->
 
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
@@ -2967,6 +2941,8 @@ Prototyping Software- Keynote- Docs
 * [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
 
 <!--
+https://marvelapp.com
+
 http://keynotopia.com/#how
 http://keynotopia.com/guides
 http://keynotopia.com/bootstrap
