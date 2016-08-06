@@ -8537,6 +8537,8 @@ Crowdfunding
 * [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
 
 <!--
+https://www.patreon.com
+
 https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
 -->
 
