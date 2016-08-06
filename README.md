@@ -7141,25 +7141,32 @@ http://developersacademy.io/blog/
 
 #### Video Gaming and Virtual Reality
 
+Learning Resources
 * [Learn VR Dev](https://www.reddit.com/r/learnVRdev)
+
+Platforms
+* [Steam](http://store.steampowered.com) and [Steam Community](http://steamcommunity.com)
+* [Twitch TV](http://www.twitch.tv)
+
+Software
+* [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com) 
+* [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
+
+Hardware
 * [Google VR Cardboard iOS](https://developers.google.com/cardboard/ios/get-started) and [Google VR Cardboard Jump](https://www.google.com/get/cardboard/jump)
 * [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
-* [Twitch TV](http://www.twitch.tv)
-* [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com)  
-* [NVIDIA Developer](https://developer.nvidia.com)
-* [Steam](http://store.steampowered.com) and [Steam Community](http://steamcommunity.com)
-* [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
 Equipment
+* [NVIDIA Developer](https://developer.nvidia.com)
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
 https://www.tiltbrush.com
+http://store.steampowered.com/app/327140
 
 http://www.industrialthemes.com/steam/support/credits
 https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source
-https://www.udemy.com/unrealcourse
 
 https://github.com/launchkit/launchkit
 
@@ -7168,6 +7175,7 @@ https://3dr.com
 http://graphics.pixar.com/usd/docs/index.html
 https://github.com/PixarAnimationStudios/USD
 
+https://www.udemy.com/unrealcourse
 https://www.unrealengine.com/ue4-on-github
 https://github.com/EpicGames
 https://wiki.unrealengine.com/GitHub_Setup
@@ -8097,9 +8105,6 @@ Charlie Munger Mental Models (A partial list of some Mental Models used by Charl
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
 <!--
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1063945621&serialid=1wRGyN6EnJdsEAzicRfCQyDmuExS84d2HcYRBRMNZJ8%3d
-http://www.michaelmauboussin.com
-
 https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
 
@@ -8107,6 +8112,7 @@ http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pd
 -->
 
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
+* [Thirty Years, Reflections on the Ten Attributes of Great Investors](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1063945621&serialid=1wRGyN6EnJdsEAzicRfCQyDmuExS84d2HcYRBRMNZJ8%3d)
 * [Operating Leverage: A Framework for Anticipating Changes in Earnings](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d)
 * [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
 * [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
@@ -8136,6 +8142,7 @@ Nassim Nicholas Taleb: Antifragile and The Black Swan
 * [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 
 Nassim Nicholas Taleb's Teachings
+* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
 * [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
 * [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
 * [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
@@ -8145,10 +8152,6 @@ Nassim Nicholas Taleb's Teachings
 * [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
 * [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
 * [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
-
-<!--
-https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf
--->
 
 #### Economics, Models
 
