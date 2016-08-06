@@ -4548,7 +4548,6 @@ Wikitech Development
 https://blog.xamarin.com/net-standard-library-support-for-xamarin
 https://blogs.windows.com/buildingapps/2016/07/28/adding-color-to-your-design
 
-
 * [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
 
 JavaScript- Microsoft
@@ -4591,13 +4590,6 @@ C#
 * [Learn X in Y Minutes C#](https://learnxinyminutes.com/docs/csharp)
 
 <!--
-https://developer.xamarin.com/guides/cross-platform/azure
-https://azure.microsoft.com/en-us/documentation/services/app-service/web
-https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-started
-https://developer.xamarin.com/guides/cross-platform/getting_started
-https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
-https://developer.xamarin.com/guides/cross-platform/azure
-
 https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 -->
@@ -4794,6 +4786,12 @@ https://azure.microsoft.com/en-us/pricing/details/app-service
 https://azure.microsoft.com/en-us/free/pricing-offers
 https://azure.microsoft.com/en-us/blog/visual-studio-code-and-azure-app-service-a-perfect-fit
 https://azure.microsoft.com/en-us/documentation/articles/vs-azure-tools-docker-hosting-web-apps-in-docker
+
+https://azure.microsoft.com/en-us/documentation/services/app-service/web
+https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-started
+
+https://developer.xamarin.com/guides/cross-platform/azure
+https://developer.xamarin.com/guides/cross-platform/getting_started
 -->
 
 Transact-SQL
@@ -5984,7 +5982,6 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
 http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
 
-https://aws.amazon.com/cloudfront/
 http://docs.aws.amazon.com/general/latest/gr/rande.html
 http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
@@ -6216,7 +6213,7 @@ Optimization
 
 <!--
       <link url="http://aws.amazon.com/cloudfront/">Amazon Cloudfront CDN</link>
-      
+
  Like yahoo pipes: https://zapier.com/blog/workflow-automation     
 -->
 
@@ -6892,15 +6889,12 @@ Android
 * [Android Version History](https://en.wikipedia.org/wiki/Android_version_history)
 * [Android Developer](http://developer.android.com/about/index.html) and [Google Developers Android](https://developers.google.com/android)  
 * [Google Samples Android Architecture GitHub](https://github.com/googlesamples/android-architecture)
-* [Codepath Android Guides](http://guides.codepath.com/android) and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides) 
-* [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
 * [MIT App Inventor](http://appinventor.mit.edu/explore) and [MIT App Inventor Set Up](http://appinventor.mit.edu/explore/ai2/setup.html)
 
-<!--
-https://github.com/Yelp/android-school
-
-http://codepath.com/androidbootcamp
--->
+Android Learning Materials
+* [Codepath Android Bootcamp](http://codepath.com/androidbootcamp), [Codepath Android Guides](http://guides.codepath.com/android), and [Codepath Android Guides GitHub](https://github.com/codepath/android_guides)
+* [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
+* [Yelp Android School GitHub](https://github.com/Yelp/android-school)
 
 CyanogenMod
 * [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
