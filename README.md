@@ -9223,14 +9223,20 @@ STEM and STEAM
 
 <!--
 Check Often
-* [Product Hunt Today](http://ph.needles.me)
-* [Makerbase Explore](https://makerba.se/explore)
-* [StackShare Trending](http://stackshare.io/trending/tools) 
+* [GitHub Trending](https://github.com/trending)
+* [Product Hunt Today](https://www.producthunt.com)
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+
+https://www.producthunt.com/e/the-1000-club
 
 More News
 * [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
 * Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+* [Makerbase Explore](https://makerba.se/explore)
+* [StackShare Trending](http://stackshare.io/trending/tools) 
+* [Product Hunt Today](http://ph.needles.me)
 -->
 
 Business News
@@ -9290,7 +9296,7 @@ STEM Journals
 * [Social Sciences Research Network](http://www.ssrn.com/en) and [Social Sciences Research Network Search](http://papers.ssrn.com)
 
 Tech Aggregated, Question and Answer Forums
-* [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+* [Hacker News](https://news.ycombinator.com), [Hacker News News](https://news.ycombinator.com/news), [Hacker News Newest](https://news.ycombinator.com/newest), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 * [Inside Tech](https://www.inside.com/tech)
 * [Launch Ticker](https://www.launchticker.com)
 * [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
@@ -9302,8 +9308,6 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
-https://news.ycombinator.com/news
-
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
@@ -9855,13 +9859,9 @@ Google for Education
 * [Google Course Builder](https://code.google.com/p/course-builder)
 
 Foreign Language
-* [Duolingo](https://en.duolingo.com)
+* [Duolingo](https://en.duolingo.com) and [Duolingo Mobile](https://www.duolingo.com/mobile)
 * [Google Translate](https://translate.google.com/?hl=en) 
 * [BaBa Dum](https://babadum.com)
-
-<!--
-https://www.producthunt.com/tech/tinycards-by-duolingo
--->
 
 Foreign Language- Spanish
 * [Spanish Language Wikipedia](https://en.wikipedia.org/wiki/Spanish_language), [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Nouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_nouns) [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs), [Spanish Tenses Wikibook](https://en.wikibooks.org/wiki/Spanish/Tenses), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), [Spanish/How to Conjugate Verbs Wikibook](https://en.wikipedia.org/wiki/Spanish_adjectives), [Spanish Pronouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_pronouns), [Spanish Prepositions Wikipedia](https://en.wikipedia.org/wiki/Spanish_prepositions), and [Spanish Determiners Wikipedia](https://en.wikipedia.org/wiki/Spanish_determiners)
@@ -9871,11 +9871,8 @@ Foreign Language- Spanish
 
 Public Speaking
 * [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
+* [National Speakers Association](http://www.nsaspeaker.org)
 * [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
-
-<!--
-http://www.nsaspeaker.org
--->
 
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
