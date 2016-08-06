@@ -436,6 +436,8 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+https://quip.com/blog
+
 https://slackline.io
 
 https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
@@ -682,6 +684,7 @@ https://en.wikipedia.org/wiki/Psychographic
 
 http://kit.com/jakek/the-sprint-kit
 http://www.thesprintbook.com/sprint-week
+https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
 -->
 
 #### Design
@@ -1483,6 +1486,8 @@ Apple Presentation and Design (See also Keynotopia)
 * [Keynote Kung-Fu](http://keynotekungfu.com)
 
 <!--
+https://marvelapp.com
+
 http://www.sketchappsources.com
 -->
 
@@ -2214,6 +2219,11 @@ GitLab (See also Project Management and Docker)
 * [GitLab Installation](https://about.gitlab.com/installation)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
+<!--
+http://docs.gitlab.com/ce/intro/README.html
+http://docs.gitlab.com/ce/workflow/importing/README.html
+-->
 
 GitHub Alternatives
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
@@ -4412,6 +4422,10 @@ PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
 
 <!--
+http://make.wordpress.org/core/handbook/coding-standards/css/
+http://en.support.wordpress.com/google-calendar/
+
+
 WordPress (PG4WP)
 
 WordPress Enfold
@@ -4517,6 +4531,13 @@ WordPress- Helpers
 * [WordPress Code](http://en.support.wordpress.com/code)  
 * [WordPress Shortcode](http://en.support.wordpress.com/category/shortcodes)  
 * [WordPress Appearance](http://en.support.wordpress.com/category/appearance) 
+
+<!--
+https://en.support.wordpress.com/plugins
+https://wordpress.org/plugins
+https://en.support.wordpress.com/category/shortcodes
+https://en.support.wordpress.com/widgets/category-cloud-widget
+-->
 
 WP eCommerce
 * [WooCommerce](https://www.woothemes.com) and [WooCommerce GitHub](https://github.com/woothemes/woocommerce)
@@ -6751,6 +6772,8 @@ Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 * [AppVeyor (Windows)](http://www.appveyor.com)
 
 <!--
+http://resources.codeship.com
+
 CI
 https://circleci.com
 https://drone.io
@@ -7978,6 +8001,8 @@ General Terminology
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+http://hobbymasters.com
+
 https://usesthis.com/interviews/horace.dediu
 
 https://plus.google.com/collection/EZT2b
@@ -8040,6 +8065,8 @@ Awards
 * [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
 
 <!--
+http://fourhourworkweek.com/2016/01/22/the-tao-of-seneca
+
 http://www.greatachievements.org
 -->
 
@@ -9163,6 +9190,10 @@ Shows
 * [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
 * [This Week in Startups](http://thisweekinstartups.com)
 * [This Week in Tech](https://twit.tv)
+
+<!--
+https://www.startups.co/education
+-->
 
 Unboxing
 * [Unboxing](http://unboxing.gearlive.com)
