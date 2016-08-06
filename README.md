@@ -434,8 +434,6 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
-https://quip.com/blog
-
 https://slackline.io
 
 https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
@@ -846,6 +844,12 @@ Microformats
 * [Microformats](http://microformats.org)
 
 <!--
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
+http://www.seoconsultants.com/meta-tags/dublin
+https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
+http://intertwingly.net/wiki/pie/LinkTagMeaning
+http://www.html5rocks.com/en
+
 Meta Name and others 
 https://en.wikipedia.org/wiki/Tag_(metadata)
 
@@ -854,14 +858,25 @@ https://gist.github.com/kevinSuttle/1997924
 http://www.metatags.info/all_meta_tags
 http://www.w3schools.com/tags/tag_meta.asp
 https://support.google.com/webmasters/answer/79812?hl=en
+https://en.wikipedia.org/wiki/Microformat#Specific_microformats
 
 https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Microformats
 https://en.wikipedia.org/wiki/Microformat
+
+http://www.metatags.org
+http://analyzer.metatags.org
+http://www.metatags.org/meta_tags_code_generator
+http://www.metatags.org/all_metatags
+http://www.metatags.org/google_and_meta_tags
+http://www.metatags.org/meta_name_author
 
 http://schema.org/Person
 https://en.wikipedia.org/wiki/HCard
 http://microformats.org/wiki/hcard
 http://microformats.org/code/hcard/creator
+http://microformats.org/wiki/hcard-examples
+
+https://en.wikipedia.org/wiki/Resource_Description_Framework
 -->
 
 Web Analytics
@@ -892,6 +907,8 @@ https://developers.facebook.com/docs/javascript
 Facebook Insights
 https://developers.facebook.com/docs/platforminsights/domains
 https://developers.facebook.com/docs/platforminsights/page
+
+https://www.facebook.com/ads/manager/pixel/facebook_pixel/?act=314539814&pid=p1
 
 https://www.facebook.com/business/learn/facebook-ads-measuring-results
 https://www.facebook.com/business/a/facebook-pixel
@@ -1650,6 +1667,8 @@ Google Chrome Doc Archive
 
 <!--
 https://toolbox.googleapps.com/apps/har_analyzer
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
 
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://developers.google.com/cast/docs/developers
