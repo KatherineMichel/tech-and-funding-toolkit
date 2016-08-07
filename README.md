@@ -434,7 +434,6 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
-https://slack.com/apps
 https://api.slack.com/custom-integrations
 
 https://slackline.io
@@ -980,9 +979,8 @@ Google Analytics
 * [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
 * [Google Data Studio](https://www.google.com/analytics/data-studio)
 
-<!--
-https://firebase.google.com
--->
+Google Firebase
+* [Firebase](https://firebase.google.com)
 
 Google Analytics Alternative
 * [Hubspot](http://www.hubspot.com)
@@ -1515,14 +1513,12 @@ Apple- Utilities
 
 Apple Presentation and Design (See also Keynotopia)
 * [Keynote](https://www.apple.com/mac/keynote)
-* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com)
+* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com) and [Think](http://www.fiftythree.com/think)
 * [Sketch](https://www.sketchapp.com)
 * [Keynotopia](http://keynotopia.com)
 * [Keynote Kung-Fu](http://keynotekungfu.com)
 
 <!--
-http://www.fiftythree.com/think
-
 http://www.sketchappsources.com
 -->
 
@@ -3104,11 +3100,7 @@ Flickr
 * [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
 
 Photo Enhancement
-* [Prisma](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
-
-<!--
-http://prisma-ai.com
--->
+* [Prisma](http://prisma-ai.com) and [Prisma iTunes](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
 
 Gifs
 * [Giphy](http://giphy.com) 
@@ -3492,6 +3484,7 @@ App Invites or Beta Testing
 
 Accessibility
 * [WebAIM](http://webaim.org)
+* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
 * [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
 * [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
 * [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
@@ -3499,8 +3492,6 @@ Accessibility
 
 <!--
 https://ft-interactive.github.io/accessibility
-
-http://webaim.org/resources/evalquickref/#checklist
 -->
 
 Microsoft Inclusion Approach
@@ -4228,16 +4219,14 @@ https://github.com/seleniumbase/SeleniumBase
 
 HTML5 Compatibility Check/Normalization
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
-* [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
+* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
 * [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
 * [Shim GitHub](https://github.com/marstall/shim)  
 * [Zepto GitHub](https://github.com/madrobby/zepto)  
 
 <!--
-    <rule name="HTML5 compatibility check">
       <link url="http://ie.microsoft.com/testdrive/HTML5/CompatInspector/">Compat Inspector</link>
       <link url="http://www.modern.ie/report">modern.IE</link>
-      <link url="http://modernizr.com/">Modernizr JS library</link>
 -->
 
 Meteor
@@ -7009,12 +6998,8 @@ Internet of Things- Geo-fencing
 
 Miscellaneous
 * [Facebook Start](https://developers.facebook.com/products/fb-start) 
-* [Launchkit](https://launchkit.io)
+* [Launchkit](https://launchkit.io) and [Launchkit Screenshots](https://launchkit.io/screenshots)
 * [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
-
-<!--
-https://launchkit.io/screenshots
--->
 
 #### Swift
 
@@ -9242,12 +9227,9 @@ Shows
 * [Princeton Entrepreneurs by School of Engineering](https://itunes.apple.com/us/podcast/brian-okelley-appnexus/id955346373?i=329712914&mt=2)
 * [Product Hunt Live](http://www.producthunt.com/live)
 * [Stanford ecorner Speakers](http://ecorner.stanford.edu/speakersAuthors.html)
+* [Startup Education](https://www.startups.co/education)
 * [This Week in Startups](http://thisweekinstartups.com)
 * [This Week in Tech](https://twit.tv)
-
-<!--
-https://www.startups.co/education
--->
 
 Unboxing
 * [Unboxing](http://unboxing.gearlive.com)
@@ -9637,9 +9619,6 @@ Alerts
 * [Google Alerts](https://www.google.com/alerts)
 * [New York Times Alerts](http://www.nytimes.com/content/help/account/myalerts/myalerts.html)
 
-API
-* [Blockspring](https://www.blockspring.com)
-
 Email
 * [MailChimp](http://mailchimp.com) and [MailChimp Email Blueprints](https://github.com/mailchimp/email-blueprints)
 * [Mailgun](http://www.mailgun.com)  
@@ -9660,6 +9639,8 @@ Livestreaming, Video, Audio
 * [SoundCloud](https://soundcloud.com)  
 * [Vimeo](https://vimeo.com)  
 * [YouTube](https://www.youtube.com) 
+* [Meerkat](http://meerkatapp.co)
+* [Periscope](https://www.periscope.tv)
 
 Voice
 * [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
@@ -9673,11 +9654,10 @@ Photo Hosting
 * [Google Photos](https://photos.google.com)
 * [Picasa](https://picasa.google.com)
 
-<!--
-https://www.jukedeck.com
-
-https://pablo.buffer.com
--->
+Photo Editing, Video, Music
+* [Buffer Pablo](https://pablo.buffer.com)
+* [Instagram Hyperlapse](http://hyperlapse.instagram.com)
+* [Jukedeck](https://www.jukedeck.com)
 
 Presentations (See also JavaScript Presentations Frameworks)
 * [Slides.com (reveal.js)](https://slides.com)
@@ -9690,23 +9670,21 @@ Document Hosting
 Links
 * [Bitly](https://bitly.com)
 
+API
+* [Blockspring](https://www.blockspring.com)
+
 Calendar 
 * [Sunrise (Going away)](https://calendar.sunrise.am)
 
 Social Media
 * [Facebook](https://www.facebook.com)
 * [Twitter](https://twitter.com)
+* [Instagram](https://www.instagram.com)
+* [Snapchat](https://www.snapchat.com)
+
+Twitter Tools
 * [Noah Liebman Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
 * [Twime Machine](http://www.twimemachine.com)
-
-<!--
-https://www.instagram.com
-http://hyperlapse.instagram.com
-https://www.snapchat.com
-
-http://meerkatapp.co
-https://www.periscope.tv
--->
 
 Social Media Distribution 
 * [Buffer](https://bufferapp.com)
@@ -9782,10 +9760,6 @@ Admin, Hiring, Payroll, Expenses
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
 
-<!--
-http://www.zillow.com
--->
-
 Logistics
 * [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
 * [Gumtree](http://www.gumtree.co)
@@ -9794,6 +9768,7 @@ Logistics
 * [Nomad List](https://nomadlist.com)
 * [Statewide List](http://www.statewidelist.com)
 * [Teleport](http://teleport.org)
+* [Zillow](http://www.zillow.com)
 
 Remote
 * [remoteok](https://remoteok.io)
@@ -10002,6 +9977,7 @@ The Happiness Project
 
 Bullet Journal
 * [Bullet Journal](http://bulletjournal.com)
+* [The Pomodoro Technique](http://pomodorotechnique.com)
 
 #### Journalism Handbooks and Grammatical Style Guides
 
