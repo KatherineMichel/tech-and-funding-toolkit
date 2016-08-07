@@ -434,6 +434,9 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+https://slack.com/apps
+https://api.slack.com/custom-integrations
+
 https://slackline.io
 
 https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
@@ -799,10 +802,12 @@ DevCenter (Developer Center/API)
 #### Facebook and Google Design and Development Approaches
 
 Facebook
-* [Facebook Design](http://facebook.github.io/design) 
+* [Facebook Design](http://facebook.design) and [Facebook Design](http://facebook.github.io/design) 
 
 <!--
-http://facebook.design
+http://facebook.design/devices
+http://facebook.design/handskit
+http://facebook.design/ios9
 -->
 
 Google
@@ -972,6 +977,10 @@ Google Analytics
 * [Google U.K. Analytics](http://www.google.co.uk/analytics)
 * [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
 * [Google Data Studio](https://www.google.com/analytics/data-studio)
+
+<!--
+https://firebase.google.com
+-->
 
 Google Analytics Alternative
 * [Hubspot](http://www.hubspot.com)
@@ -3064,7 +3073,9 @@ Photoshop and Similar
 * [Serif](http://www.serif.com)
 
 <!--
-https://blogs.adobe.com/creativecloud/
+https://spark.adobe.com
+
+https://blogs.adobe.com/creativecloud
 
 https://docs.gimp.org/en/script-fu-addborder.html
 -->
@@ -3447,6 +3458,8 @@ Speed and Performance
 * [Yahoo YSlow score of 85+](http://yslow.org)
 
 <!--
+https://website.grader.com
+
 http://www.dslreports.com/speedtest
 -->
 
@@ -4438,8 +4451,11 @@ PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
 
 <!--
-http://make.wordpress.org/core/handbook/coding-standards/css/
-http://en.support.wordpress.com/google-calendar/
+https://www.layerswp.com
+http://docs.layerswp.com
+
+http://make.wordpress.org/core/handbook/coding-standards/css
+http://en.support.wordpress.com/google-calendar
 
 
 WordPress (PG4WP)
@@ -5933,6 +5949,14 @@ Consoles
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
 * [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
+
+<!--
+https://www.slideshare.net/login?from_source=%2Finsight%3Futm_source%3Danalytics_launch%26utm_medium%3Demail%26utm_campaign%3DMarketing
+
+https://play.google.com/apps/publish
+
+https://www.linkedin.com/help/linkedin?lang=en
+-->
 
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
@@ -9585,6 +9609,12 @@ Google Account
 * [Google Images](https://images.google.com) 
 * [Google Calendar](https://www.google.com/calendar) 
 
+<!--
+https://www.google.com/inbox
+
+https://get.google.com/spaces
+-->
+
 Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
 * [Google Docs Do quick research in a document or presentation](https://support.google.com/docs/answer/2481802)
@@ -9634,6 +9664,12 @@ Photo Hosting
 * [Flickr](https://www.flickr.com) 
 * [Google Photos](https://photos.google.com)
 * [Picasa](https://picasa.google.com)
+
+<!--
+https://www.jukedeck.com
+
+https://pablo.buffer.com
+-->
 
 Presentations (See also JavaScript Presentations Frameworks)
 * [Slides.com (reveal.js)](https://slides.com)
