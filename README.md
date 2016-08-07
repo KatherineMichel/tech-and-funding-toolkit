@@ -428,14 +428,12 @@ Project Management- Less Obvious Software
 * [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
 * [GitLab](https://about.gitlab.com)
 * [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
-* [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), and [Slack API](https://slackhq.typeform.com/to/kOHQvo)
+* [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), [Slack API](https://api.slack.com/custom-integrations), and [Slack API Submission](https://slackhq.typeform.com/to/kOHQvo)
 * [Slack Keyboard Shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
 * [Hamsterpad](https://hamsterpad.com)
 * [Trello](https://trello.com)
 
 <!--
-https://api.slack.com/custom-integrations
-
 https://slackline.io
 
 https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
@@ -803,13 +801,7 @@ DevCenter (Developer Center/API)
 #### Facebook and Google Design and Development Approaches
 
 Facebook
-* [Facebook Design](http://facebook.design) and [Facebook Design](http://facebook.github.io/design) 
-
-<!--
-http://facebook.design/devices
-http://facebook.design/handskit
-http://facebook.design/ios9
--->
+* [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
 
 Google
 * [Google Fonts](https://fonts.google.com), [Google Fonts (Old)](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
@@ -2944,6 +2936,12 @@ Device Mockups
 * [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
 * [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
 
+<!--
+http://facebook.design/devices
+http://facebook.design/handskit
+http://facebook.design/ios9
+-->
+
 Device Popularity Stats
 * [Top 14 Screen Resolutions](http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604)
 
@@ -3012,11 +3010,14 @@ Prototyping Software- Others
 * [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
 * [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
 * [Balsamiq](https://balsamiq.com) and [Balsamiq Mockups](https://balsamiq.com/products/mockups)
+* [Wirify](https://www.wirify.com)
 * [Axure](http://www.axure.com)
 * See also Apple
 
-Prototyping Software- Wirify
-* [Wirify](https://www.wirify.com)
+<!--
+https://facebook.github.io/origami/examples
+http://facebook.github.io/origami/download
+-->
 
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
@@ -6058,13 +6059,9 @@ AWS- Elastic Beanstalk and S3
 * [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
 * [AWS S3](http://aws.amazon.com/documentation/s3)
 
-AWS- SES and SNS
+AWS- SES and SNS (Including Worldwide SMS)
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
-
-<!--
-https://mobile.awsblog.com/post/TxSP0HUNM8FQ1Y/Introducing-Worldwide-SMS-Messaging
--->
 
 AWS- Lambda (See also Google Cloud Functions)
 * [AWS Lambda](http://aws.amazon.com/lambda)  
@@ -6257,6 +6254,7 @@ Cross Platform Dev Environment
 * [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
 
 Content Delivery Network
+* [Amazon Cloudfront CDN](http://aws.amazon.com/cloudfront)
 * [Google Cloud CDN](https://cloud.google.com/compute/docs/load-balancing/http/cdn)
 * [MAXCDN](https://www.maxcdn.com) 
 * [Akamai CDN](http://www.akamai.com)
@@ -6264,12 +6262,9 @@ Content Delivery Network
 Optimization
 * [Cloudflare (CDN + Security Layer)](https://www.cloudflare.com) 
 
-<!--
-      <link url="http://aws.amazon.com/cloudfront/">Amazon Cloudfront CDN</link>
-
-https://zapier.com/
- Like yahoo pipes: https://zapier.com/blog/workflow-automation     
--->
+Workflow Automation
+* [Zapier](https://zapier.com)
+* [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
 
 #### Deployment and Git Integration
 
@@ -8000,7 +7995,7 @@ General Terminology
 * [John Resig](http://ejohn.org/blog) 
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
 * [Justin Kan](http://justinkan.com)
-* [Kevin Kelly](http://kk.org/kk), [Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
+* [Kevin Kelly](http://kk.org/kk)
 * [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
 * [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 * [Loic Le Meur](http://loiclemeur.com/english) and [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)
@@ -8036,7 +8031,8 @@ General Terminology
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
-http://hobbymasters.com
+* [Hobby Masters](http://hobbymasters.com)
+* [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
 
 https://usesthis.com/interviews/horace.dediu
 
@@ -8568,12 +8564,11 @@ VC Firm Alpha and Beta
 
 Crowdfunding
 * [Kickstarter](https://www.kickstarter.com)
+* [Patreon](https://www.patreon.com)
 * [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
 * [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
 
 <!--
-https://www.patreon.com
-
 https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
 -->
 
@@ -9286,20 +9281,12 @@ STEM and STEAM
 #### Business and Tech News Sources
 
 <!--
-Check Often
-* [GitHub Trending](https://github.com/trending)
-* [Product Hunt Today](https://www.producthunt.com)
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-
-https://www.producthunt.com/e/the-1000-club
-
 More News
 * [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
 * Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
 
-* [Makerbase Explore](https://makerba.se/explore)
-* [StackShare Trending](http://stackshare.io/trending/tools) 
+* [GitHub Trending](https://github.com/trending)
 * [Product Hunt Today](http://ph.needles.me)
 -->
 
@@ -9814,6 +9801,19 @@ https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
 * [Stacklist](http://stacklist.com)
 * [Startup Resources](http://startupresources.io)
 * [Startup Stash](http://startupstash.com)
+
+<!--
+https://productmap.co
+http://www.communitybuildingguide.com
+http://growth.supply/free
+http://makerbook.net
+https://startuplaunchlist.com
+http://www.bookicious.com/collections
+https://entrepreneur-tools.zeef.com/keyhanimo
+https://balapastudio.co/frontendlist
+http://designforstartup.net
+http://bookstck.tumblr.com
+-->
 
 Awesome
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
