@@ -1666,9 +1666,18 @@ Google Chrome Doc Archive
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
+https://en.wikipedia.org/wiki/.har
 https://toolbox.googleapps.com/apps/har_analyzer
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
 https://www.maxcdn.com/one/visual-glossary/har-file
 https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
 
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://developers.google.com/cast/docs/developers
