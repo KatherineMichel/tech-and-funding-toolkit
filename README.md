@@ -684,6 +684,8 @@ https://en.wikipedia.org/wiki/Psychographic
 http://kit.com/jakek/the-sprint-kit
 http://www.thesprintbook.com/sprint-week
 https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
+
+http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
 -->
 
 #### Design
@@ -1788,6 +1790,8 @@ Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 <!--
+https://testpilot.firefox.com
+
 Browser Statistics
 
 http://www.gnu.org/software/coreutils/manual/coreutils.html
@@ -7514,6 +7518,8 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
+http://www.ibm.com/watson
+
 https://github.com/facebookresearch/darkforestGo
 https://github.com/tensorflow/playground
 https://github.com/tensorflow/magenta
@@ -9105,6 +9111,8 @@ Company Milestones
 * [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) and [Tesla Master Plan Deux](https://www.tesla.com/blog/master-plan-part-deux)
 
 <!--
+https://groups.google.com/forum/m/#!msg/alt.hypertext/eCTkkOoWTAY/bJGhZyooXzkJ
+
 http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
 -->
 
@@ -9773,6 +9781,10 @@ Admin, Hiring, Payroll, Expenses
 * [Teespring](http://teespring.com)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
+
+<!--
+http://www.zillow.com
+-->
 
 Logistics
 * [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
