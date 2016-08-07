@@ -6984,6 +6984,10 @@ Miscellaneous
 * [Launchkit](https://launchkit.io)
 * [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
 
+<!--
+https://launchkit.io/screenshots
+-->
+
 #### Swift
 
 <!--
