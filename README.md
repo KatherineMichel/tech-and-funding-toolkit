@@ -801,6 +801,10 @@ DevCenter (Developer Center/API)
 Facebook
 * [Facebook Design](http://facebook.github.io/design) 
 
+<!--
+http://facebook.design
+-->
+
 Google
 * [Google Fonts](https://fonts.google.com), [Google Fonts (Old)](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
 * [Google Roboto GitHub](https://github.com/google/roboto) 
@@ -844,6 +848,8 @@ Microformats
 * [Microformats](http://microformats.org)
 
 <!--
+Referral URL
+
 https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
 http://www.seoconsultants.com/meta-tags/dublin
 https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
@@ -877,6 +883,19 @@ http://microformats.org/code/hcard/creator
 http://microformats.org/wiki/hcard-examples
 
 https://en.wikipedia.org/wiki/Resource_Description_Framework
+
+https://en.wikipedia.org/wiki/.har
+https://toolbox.googleapps.com/apps/har_analyzer
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
 -->
 
 Web Analytics
@@ -1491,6 +1510,8 @@ Apple Presentation and Design (See also Keynotopia)
 * [Keynote Kung-Fu](http://keynotekungfu.com)
 
 <!--
+http://www.fiftythree.com/think
+
 http://www.sketchappsources.com
 -->
 
@@ -1666,19 +1687,6 @@ Google Chrome Doc Archive
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
-
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://developers.google.com/cast/docs/developers
 
@@ -3082,6 +3090,10 @@ Flickr
 
 Photo Enhancement
 * [Prisma](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
+
+<!--
+http://prisma-ai.com
+-->
 
 Gifs
 * [Giphy](http://giphy.com) 
@@ -4890,7 +4902,6 @@ http://pythonhosted.org/
 
 https://code.google.com/p/browsersec/wiki/Main
 
-https://zapier.com/
 https://cloudfare.com
 https://devcenter.heroku.com/articles/ssl-endpoint
 https://devcenter.heroku.com/articles/confg-vars
@@ -6239,6 +6250,7 @@ Optimization
 <!--
       <link url="http://aws.amazon.com/cloudfront/">Amazon Cloudfront CDN</link>
 
+https://zapier.com/
  Like yahoo pipes: https://zapier.com/blog/workflow-automation     
 -->
 
@@ -9633,11 +9645,20 @@ Links
 Calendar 
 * [Sunrise (Going away)](https://calendar.sunrise.am)
 
-Social Media Distribution 
+Social Media
 * [Facebook](https://www.facebook.com)
 * [Twitter](https://twitter.com)
 * [Noah Liebman Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
 * [Twime Machine](http://www.twimemachine.com)
+
+<!--
+https://www.instagram.com
+http://hyperlapse.instagram.com
+https://www.snapchat.com
+
+http://meerkatapp.co
+https://www.periscope.tv
+-->
 
 Social Media Distribution 
 * [Buffer](https://bufferapp.com)
@@ -9679,6 +9700,11 @@ https://stripe.com/docs/examples
 File Storage
 * [Box](https://www.box.com) 
 * [Dropbox](https://www.dropbox.com)
+
+<!--
+https://www.dropbox.com/paper
+https://blogs.dropbox.com/business/2016/04/announcing-project-infinite
+-->
 
 Docs
 * [Adobe Sign](https://acrobat.adobe.com/us/en/documents/esignatures.html)
