@@ -944,31 +944,30 @@ https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/se
 https://support.google.com/webmasters/answer/35291?hl=en
 https://support.google.com/webmasters/answer/40349?hl=en
 http://searchengineland.com/library/google/google-seo
--->
-
-<!--
-Authorship in web-search
-https://plus.google.com/authorship
-
-Google+ Publisher
-https://support.google.com/webmasters/answer/1708844?hl=en
 
 https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
 -->
 
-Google Webmaster
-* [Google Webmaster Tools](http://www.google.com/webmasters)
+Google Webmaster and Analytics Dashboards
 * [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
-
-Google Analytics
 * [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
-* [Google Analytics](http://www.google.com/analytics) and [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+
+Google Webmaster and Analytics (Web)
+* [Google Webmaster](http://www.google.com/webmasters)
+* [Google Analytics](http://www.google.com/analytics)
 * [Google U.K. Analytics](http://www.google.co.uk/analytics)
 * [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
 * [Google Data Studio](https://www.google.com/analytics/data-studio)
 
-Google Firebase
+Google Rich Snippets
+* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+Google Mobile Analytics and Firebase
+* [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 * [Firebase](https://firebase.google.com)
+
+Google Tag Manager
+* [Google Tag Manager](http://www.google.com/tagmanager)
 
 Google Analytics Alternative
 * [Hubspot](http://www.hubspot.com)
@@ -987,41 +986,20 @@ Google Ads
 Google Monetization
 * [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
 
-Google Rich Snippets
-* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-Google Tag Manager
-* [Google Tag Manager](http://www.google.com/tagmanager)
-
 Google Custom Search Engine
 * [Google Custom Search Engine](https://cse.google.com/cse)
 
 Google News Publisher
 * [Google News Publisher Help](https://support.google.com/news/publisher)
 
-Firefox SEO (See also Mozilla)
-* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
-
-LinkedIn
-* [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
-* [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
-
 Pinterest
 * [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
-* [Pinterest for Developers](https://developers.pinterest.com) 
-* [Pinterest Blog](http://blog.pinterest.com)
-* [Pinterest for Business](https://business.pinterest.com)
-
-Slideshare
-* [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
-* [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
 
 Twitter
 * [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
 * [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
-* [Twitter Business](https://biz.twitter.com)
+* [Twitter Marketing](https://marketing.twitter.com)
 * [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-* [Twitter Curator](https://curator.twitter.com)
 * [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
 
 Twitter Data
@@ -1044,6 +1022,9 @@ YouTube (Google)
 * [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
 * [YouTube Creators](http://www.youtube.com/yt/creators)  
 * [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Firefox SEO (See also Mozilla)
+* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
 
 Reddit Advertising
 * [Reddit Advertising](https://www.reddit.com/advertising)
@@ -9589,12 +9570,22 @@ Social Media
 * [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
 * [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
 * [Instagram](https://www.instagram.com)
+* [Pinterest](https://www.pinterest.com)
 * [Snapchat](https://www.snapchat.com) and [Snapchat Blog](http://blog.snapchat.com)
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
 Twitter Tools
 * [Noah Liebman Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
 * [Twime Machine](http://www.twimemachine.com)
+
+Pinterest
+* [Pinterest for Developers](https://developers.pinterest.com) 
+* [Pinterest Blog](http://blog.pinterest.com)
+* [Pinterest for Business](https://business.pinterest.com)
+
+LinkedIn
+* [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
+* [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
 
 Social Media Distribution 
 * [Buffer](https://bufferapp.com)
@@ -9648,6 +9639,8 @@ Photo Editing, Video, Music
 Presentations (See also JavaScript Presentations Frameworks)
 * [Slides.com (reveal.js)](https://slides.com)
 * [SlideShare](www.slideshare.net)
+* [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
+* [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
 * [Speaker Deck](https://speakerdeck.com)
 
 Docs
