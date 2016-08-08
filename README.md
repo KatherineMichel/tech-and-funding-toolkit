@@ -1046,12 +1046,9 @@ Individual Engineering Blogs
 * [Buffer Engineering](https://overflow.bufferapp.com)
 * [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
 * [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-* [LinkedIn Engineering](http://engineering.linkedin.com)  
-* [Pinterest Engineering](http://engineering.pinterest.com)  
 * [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-* [Uber Developers](https://devblog.uber.com)  
-* [Yelp Engineering](http://engineeringblog.yelp.com) 
-
+* [Uber Developers](https://medium.com/uber-developers)  
+ 
 Company Design
 * [Airbnb Samara](http://samara.airbnb.com)
 * [Medium Design](https://medium.com/designing-medium)  
