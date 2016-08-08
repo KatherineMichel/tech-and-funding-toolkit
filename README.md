@@ -1425,10 +1425,6 @@ Linux
 * [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
 * [Linux Journal](http://www.linuxjournal.com) 
 
-The Linux Documentation Project
-* [The Linux Documentation Project](http://www.tldp.org)
-* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
-
 Linux- Ubuntu (Debian)
 * [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
 * [Ubuntu](http://www.ubuntu.com)  
