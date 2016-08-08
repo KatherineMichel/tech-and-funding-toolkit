@@ -290,7 +290,7 @@ Databases and Benchmarking- Freemium
 * [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
 * [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
 * [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
+* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters), and [Product Hunt Today](http://ph.needles.me)
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
 
 <!--
@@ -737,6 +737,10 @@ Tim Ferris Inspired- Ideas
 <!--
 https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
 -->
+
+Hobbies and Cool Tools
+* [Hobby Masters](http://hobbymasters.com)
+* [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
 
 #### Site and App Research
 
@@ -2201,6 +2205,7 @@ GitHub- More
 * [Education Pack](https://education.github.com/pack)
 
 GitHub- Trending
+* [GitHub Trending](https://github.com/trending)
 * [GitHub Trending](https://github.com/josephyzhou/github-trending)
 * [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
 
@@ -7200,8 +7205,6 @@ http://store.steampowered.com/app/327140
 http://www.industrialthemes.com/steam/support/credits
 https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source
 
-https://github.com/launchkit/launchkit
-
 https://3dr.com
 
 http://graphics.pixar.com/usd/docs/index.html
@@ -8018,9 +8021,6 @@ General Terminology
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
-* [Hobby Masters](http://hobbymasters.com)
-* [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
-
 https://usesthis.com/interviews/horace.dediu
 
 https://plus.google.com/collection/EZT2b
@@ -9271,10 +9271,6 @@ STEM and STEAM
 More News
 * [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
 * Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-
-* [GitHub Trending](https://github.com/trending)
-* [Product Hunt Today](http://ph.needles.me)
 -->
 
 Business News
@@ -9339,7 +9335,7 @@ Tech Aggregated, Question and Answer Forums
 * [Launch Ticker](https://www.launchticker.com)
 * [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
 * [Quora Technology](https://www.quora.com/Technology)
-* [Reddit Technology](https://www.reddit.com/r/technology)
+* [Reddit Technology](https://www.reddit.com/r/technology) and [Reddit Technology Top](https://www.reddit.com/r/technology/top)
 * [Stack Exchange Sites Technology](http://stackexchange.com/sites#technology)
 * [Programmers Stack Exchange](http://programmers.stackexchange.com)
 * [Stack Overflow](http://stackoverflow.com)
@@ -9377,10 +9373,6 @@ The Wirecutter, Consumer Reports, Popular Mechanics, Tom's Hardware
 Leaderboard
 * [REDEF Charts](http://redef.com/charts)
 * [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
-
-<!--
-http://redef.com/charts/popular/total
--->
 
 General News Sources- High Brow
 * [BBC](http://www.bbc.com)
@@ -9593,64 +9585,6 @@ Alerts
 * [Google Alerts](https://www.google.com/alerts)
 * [New York Times Alerts](http://www.nytimes.com/content/help/account/myalerts/myalerts.html)
 
-Email
-* [MailChimp](http://mailchimp.com) and [MailChimp Email Blueprints](https://github.com/mailchimp/email-blueprints)
-* [Mailgun](http://www.mailgun.com)  
-* [Mandrill](http://mandrill.com)  
-* [SendGrid](http://sendgrid.com)  
-* [Tiny Letter](https://www.tinyletter.com)
-
-Group Communication/Chat
-* [Glitter (Chat for GitHub](https://gitter.im)
-* [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
-* [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
-* [Skype](http://www.skype.com/en) 
-* [Meetup](http://www.meetup.com)
-* [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
- 
-Livestreaming, Video, Audio 
-* [Livestream](http://new.livestream.com) 
-* [SoundCloud](https://soundcloud.com)  
-* [Vimeo](https://vimeo.com)  
-* [YouTube](https://www.youtube.com) 
-* [Facebook Live](https://live.fb.com)
-* [Meerkat](http://meerkatapp.co)
-* [Periscope](https://www.periscope.tv)
-
-Voice
-* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
-* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
-* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
-* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
-* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
-
-Photo Hosting
-* [Flickr](https://www.flickr.com) 
-* [Google Photos](https://photos.google.com)
-* [Picasa](https://picasa.google.com)
-
-Photo Editing, Video, Music
-* [Buffer Pablo](https://pablo.buffer.com)
-* [Instagram Hyperlapse](http://hyperlapse.instagram.com)
-* [Jukedeck](https://www.jukedeck.com)
-
-Presentations (See also JavaScript Presentations Frameworks)
-* [Slides.com (reveal.js)](https://slides.com)
-* [SlideShare](www.slideshare.net)
-* [Speaker Deck](https://speakerdeck.com)
-
-Document Hosting
-* [Scribd](https://www.scribd.com)
-
-Links
-* [Bitly](https://bitly.com)
-
-API
-* [Blockspring](https://www.blockspring.com)
-
-Calendar 
-* [Sunrise (Going away)](https://calendar.sunrise.am)
-
 Social Media
 * [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
 * [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
@@ -9670,6 +9604,76 @@ Social Media Distribution
 * [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
 * [Tweetbot](http://tapbots.com/tweetbot)
 
+Email
+* [MailChimp](http://mailchimp.com) and [MailChimp Email Blueprints](https://github.com/mailchimp/email-blueprints)
+* [Mailgun](http://www.mailgun.com)  
+* [Mandrill](http://mandrill.com)  
+* [SendGrid](http://sendgrid.com)  
+* [Tiny Letter](https://www.tinyletter.com)
+
+Voice
+* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
+* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
+* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
+* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
+* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
+
+Group Communication/Chat
+* [Glitter (Chat for GitHub](https://gitter.im)
+* [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
+* [Google Hangouts](https://www.google.com/+/learnmore/hangouts) 
+* [Skype](http://www.skype.com/en) 
+* [Meetup](http://www.meetup.com)
+* [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+ 
+Livestreaming, Video, Audio 
+* [Livestream](http://new.livestream.com) 
+* [SoundCloud](https://soundcloud.com)  
+* [Vimeo](https://vimeo.com)  
+* [YouTube](https://www.youtube.com) 
+* [Facebook Live](https://live.fb.com)
+* [Meerkat](http://meerkatapp.co)
+* [Periscope](https://www.periscope.tv)
+
+Photo Hosting
+* [Flickr](https://www.flickr.com) 
+* [Google Photos](https://photos.google.com)
+* [Picasa](https://picasa.google.com)
+
+Photo Editing, Video, Music
+* [Buffer Pablo](https://pablo.buffer.com)
+* [Instagram Hyperlapse](http://hyperlapse.instagram.com)
+* [Jukedeck](https://www.jukedeck.com)
+
+Presentations (See also JavaScript Presentations Frameworks)
+* [Slides.com (reveal.js)](https://slides.com)
+* [SlideShare](www.slideshare.net)
+* [Speaker Deck](https://speakerdeck.com)
+
+Docs
+* [Adobe Sign](https://acrobat.adobe.com/us/en/documents/esignatures.html)
+* [DocSend](https://docsend.com)
+* [DocuSign](https://www.docusign.com)
+* [FullContact](http://www.fullcontact.com)
+* [HelloSign](https://www.hellosign.com)
+* [Streak](https://www.streak.com)
+* [Scribd](https://www.scribd.com)
+
+File Storage
+* [Box](https://www.box.com) 
+* [Dropbox](https://www.dropbox.com)
+
+<!--
+https://www.dropbox.com/paper
+https://blogs.dropbox.com/business/2016/04/announcing-project-infinite
+-->
+
+Links
+* [Bitly](https://bitly.com)
+
+API
+* [Blockspring](https://www.blockspring.com)
+
 Customer Relationship Management
 * [Salesforce](https://www.salesforce.com)
 * [RelateIQ](https://www.relateiq.com) 
@@ -9679,9 +9683,6 @@ Customer Relationship Management
 https://admin.salesforce.com
 https://developer.salesforce.com
 -->
-
-Task Automation
-* [IFTTT](https://ifttt.com) 
 
 Payments
 * [Apple Pay](https://www.apple.com/apple-pay) 
@@ -9699,30 +9700,16 @@ https://stripe.com/docs/webhooks
 https://stripe.com/docs/examples
 -->
 
-File Storage
-* [Box](https://www.box.com) 
-* [Dropbox](https://www.dropbox.com)
-
-<!--
-https://www.dropbox.com/paper
-https://blogs.dropbox.com/business/2016/04/announcing-project-infinite
--->
-
-Docs
-* [Adobe Sign](https://acrobat.adobe.com/us/en/documents/esignatures.html)
-* [DocSend](https://docsend.com)
-* [DocuSign](https://www.docusign.com)
-* [FullContact](http://www.fullcontact.com)
-* [HelloSign](https://www.hellosign.com)
-* [Streak](https://www.streak.com)
-
-Kits
-* [Kits](http://kit.com)
-
 Crowd Sourced Internet Marketplace
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
 * [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
 * [Crowdflower](http://www.crowdflower.com)  
+
+Task Automation
+* [IFTTT](https://ifttt.com) 
+
+Kits
+* [Kits](http://kit.com)
 
 Admin, Hiring, Payroll, Expenses
 * [Clara Labs](https://claralabs.com) 
@@ -9732,6 +9719,7 @@ Admin, Hiring, Payroll, Expenses
 * [Lever](http://lever.co)  
 * [Jobvite](http://www.jobvite.com)
 * [QuickBooks](http://quickbooks.intuit.com)
+* [Sunrise Calendar (Going away)](https://calendar.sunrise.am)
 * [Teespring](http://teespring.com)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
