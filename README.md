@@ -2229,9 +2229,6 @@ Types of Licenses
 * [Creative Commons](https://creativecommons.org/licenses)
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
-GitHub Speaker Deck
-* [GitHub Speaker Deck](https://speakerdeck.com)
-
 #### Startup Engineering MOOC
 
 <!--
@@ -9638,7 +9635,7 @@ Presentations (See also JavaScript Presentations Frameworks)
 * [SlideShare](www.slideshare.net)
 * [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
 * [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
-* [Speaker Deck](https://speakerdeck.com)
+* [GitHub Speaker Deck](https://speakerdeck.com)
 
 Docs
 * [Adobe Sign](https://acrobat.adobe.com/us/en/documents/esignatures.html)
