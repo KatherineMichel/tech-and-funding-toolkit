@@ -783,7 +783,6 @@ Built With (Exluding Django; See also Squarespace)
 * [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
 * [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Squarespace (Website Examples)](http://www.squarespace.com) 
 
 Code Search
 * [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
@@ -899,10 +898,6 @@ https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
 Web Analytics
 * [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
-Facebook
-* [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
-* [Facebook Live](https://live.fb.com)
-
 Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 
@@ -946,9 +941,6 @@ https://support.google.com/webmasters/answer/35291?hl=en
 https://support.google.com/webmasters/answer/40349?hl=en
 http://searchengineland.com/library/google/google-seo
 -->
-
-Google
-* [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
 <!--
 Authorship in web-search
@@ -1020,11 +1012,7 @@ Slideshare
 * [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
 * [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
 
-Snapchat
-* [Snapchat Blog](http://blog.snapchat.com)
-
 Twitter
-* [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
 * [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
 * [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 * [Twitter Business](https://biz.twitter.com)
@@ -1047,6 +1035,7 @@ Yahoo and Bing- Developer, Webmaster, and Ads
 * [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
 * [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
 * [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+
 YouTube (Google)
 * [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
 * [YouTube Creators](http://www.youtube.com/yt/creators)  
@@ -1099,7 +1088,7 @@ Salesforce Lightning Design System
 * [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
 
 HubSpot
-* [HubSpot](http://github.hubspot.com) and [HubSpot GitHub](https://github.com/HubSpot)
+* [HubSpot GitHub](https://github.com/HubSpot)
 
 Microsoft 
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
@@ -2277,19 +2266,6 @@ Startup Mooc Staging Example: GitHub, AWS, Heroku
 <!--
 http://web.stanford.edu/class/cs106b/
 
-Startup Engineering Video Lectures
-https://class.coursera.org/startup-001/lecture 
-
-Homework
-https://class.coursera.org/startup-001/wiki/homework
-
-Deployment Assignments
-https://class.coursera.org/startup-001/assignment
-https://class.coursera.org/startup-001/assignment/view?assignment_id=5
-https://class.coursera.org/startup-001/assignment/view?assignment_id=8
-https://class.coursera.org/startup-001/assignment/view?assignment_id=10
-https://class.coursera.org/startup-001/assignment/view?assignment_id=12
-
 https://github.com/heroku/node-js-sample
 
 Startup Class Dotfiles and AWS EC2 Setup
@@ -2411,6 +2387,23 @@ Lecture 1: Figure 1: Signoidal curve for the development of an industry
 Lecture 1: Table 1: Future and current/ongoing technological trends
 Lecture 1: Table 2: An overview of technologies used in the course                                
 Lecture 1: Figure 5: The Rise and Fall of Personal Computing
+-->
+
+<!--
+No longer in existence
+
+Startup Engineering Video Lectures
+https://class.coursera.org/startup-001/lecture 
+
+Homework
+https://class.coursera.org/startup-001/wiki/homework
+
+Deployment Assignments
+https://class.coursera.org/startup-001/assignment
+https://class.coursera.org/startup-001/assignment/view?assignment_id=5
+https://class.coursera.org/startup-001/assignment/view?assignment_id=8
+https://class.coursera.org/startup-001/assignment/view?assignment_id=10
+https://class.coursera.org/startup-001/assignment/view?assignment_id=12
 -->
 
 #### Digital Agencies and Code Philosophies
@@ -3021,16 +3014,14 @@ http://facebook.github.io/origami/download
 
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
-* [Squarespace Templates](https://www.squarespace.com/websites)
+* [Squarespace Templates](https://www.squarespace.com/websites), [Squarespace Customers](https://www.squarespace.com/customers), and [Squarespace Local Development](http://developers.squarespace.com/local-development) 
 * [Weebly Themes](http://www.weebly.com/themes)
 * [Wix Templates](http://www.wix.com/website/templates)
 
 <!--
 http://www.wix.com/upgrade/premium-plans
 
-http://developers.squarespace.com/local-development
-
-https://www.squarespace.com/customers
+Squarespace Local Development
 -->
 
 Domain Names
@@ -9626,6 +9617,7 @@ Livestreaming, Video, Audio
 * [SoundCloud](https://soundcloud.com)  
 * [Vimeo](https://vimeo.com)  
 * [YouTube](https://www.youtube.com) 
+* [Facebook Live](https://live.fb.com)
 * [Meerkat](http://meerkatapp.co)
 * [Periscope](https://www.periscope.tv)
 
@@ -9664,10 +9656,11 @@ Calendar
 * [Sunrise (Going away)](https://calendar.sunrise.am)
 
 Social Media
-* [Facebook](https://www.facebook.com)
-* [Twitter](https://twitter.com)
+* [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
+* [Twitter](https://twitter.com) and [Twitter Support](https://support.twitter.com)
 * [Instagram](https://www.instagram.com)
-* [Snapchat](https://www.snapchat.com)
+* [Snapchat](https://www.snapchat.com) and [Snapchat Blog](http://blog.snapchat.com)
+* [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
 Twitter Tools
 * [Noah Liebman Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
