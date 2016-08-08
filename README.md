@@ -795,9 +795,6 @@ Code Search
 Whois Wikipedia
 * [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
 
-StackShare
-* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
-
 DevCenter (Developer Center/API)
 * [DevCenter Website](DevCenter.me)  
 
@@ -1049,6 +1046,9 @@ Individual Engineering Blogs
 * [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
 * [Uber Developers](https://medium.com/uber-developers)  
  
+StackShare
+* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
+
 Company Design
 * [Airbnb Samara](http://samara.airbnb.com)
 * [Medium Design](https://medium.com/designing-medium)  
