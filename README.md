@@ -282,6 +282,19 @@ Database List
 * [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
+<!--
+https://www.producthunt.com/tech/product-hunt-3-0
+https://www.producthunt.com/tech/product-hunt-2-0
+https://www.producthunt.com/live
+https://www.producthunt.com/collections
+https://www.producthunt.com/topics
+https://www.producthunt.com/topics/developer-tools
+https://www.producthunt.com/shop
+https://www.producthunt.com/podcasts
+https://www.producthunt.com/apps/mac
+https://www.producthunt.com/apps/chrome
+-->
+
 Databases and Benchmarking- Freemium
 * [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
 * [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
@@ -4636,6 +4649,14 @@ https://www.visualstudio.com/en-us/visual-studio-2015-system-requirements-vs#1
 http://www.developersfeed.com/10-best-c-books-to-learn-programming/
 https://forums.asp.net
 http://exercism.io/languages/csharp
+
+https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
+https://github.com/xamarin/mini-hacks/tree/master/azure-app-service
+https://developer.xamarin.com/guides/mac/platform-features/
+http://go.microsoft.com/fwlink/?LinkID=626924&clcid=0x409
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+https://docs.asp.net/en/latest/client-side/angular.html
+http://kb.parallels.com/en/122884
 -->
 
 <!--
