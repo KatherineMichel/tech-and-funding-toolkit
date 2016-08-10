@@ -4618,9 +4618,6 @@ Microsoft Special Deals
 * [Microsoft DreamSpark](https://www.dreamspark.com)
 * [Microsoft BizSpark](https://www.microsoft.com/bizspark)
 
-.NET Fiddle
-* [.NET Fiddle](https://dotnetfiddle.net)
-
 Microsoft Virtual Academy
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 
@@ -4628,12 +4625,57 @@ Microsoft Library
 * [Microsoft Library](https://msdn.microsoft.com/library)
 * [Microsoft Library Table of Contents](https://msdn.microsoft.com/library/ms310241)
 
+Visual Studio
+* [Microsoft Visual Studio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
+* [Visual Studio](http://www.visualstudio.com)  
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+* [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
+* [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
+
+<!--
+https://www.visualstudio.com/downloads/download-visual-studio-vs
+https://www.visualstudio.com/en-us/visual-studio-2015-system-requirements-vs#1
+
+https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
+http://kb.parallels.com/en/122884
+
+https://code.visualstudio.com/Docs
+https://code.visualstudio.com/Docs/setup/setup-overview
+
+https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
+
+Visual Studio 2015 Getting Started with Python
+https://msdn.microsoft.com/en-us/library/dn705848.aspx
+https://github.com/Microsoft/PTVS/releases/v2.2
+https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
+Python Web Projects
+https://github.com/Microsoft/PTVS/wiki/Web-Project
+-->
+
+Xamarin (Visual Studio Community Mobile Development Partner)
+* [Xamarin](https://xamarin.com) and [Xamarin Platform](https://xamarin.com/platform)
+* [Xamarin Store](https://store.xamarin.com)
+* [Xamarin Developer](https://developer.xamarin.com) and [Xamarin Developer Guides](https://developer.xamarin.com/guides)
+
+<!--
+https://testcloud.xamarin.com/devices
+-->
+
+Mono
+* [MonoDevelop](http://www.monodevelop.com)
+* [Mono Project](http://www.mono-project.com), [Mono Project Download](http://www.mono-project.com/download), [Mono GitHub](https://github.com/mono), and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
+* [Introduction to Mono on MacOS X](http://www.mono-project.com/docs/about-mono/supported-platforms/osx)
+
 C#
 * [C# Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 * [C# Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [Learn X in Y Minutes C#](https://learnxinyminutes.com/docs/csharp)
 
 <!--
+http://exercism.io/languages/csharp
+http://www.developersfeed.com/10-best-c-books-to-learn-programming/
+
 https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 -->
@@ -4649,59 +4691,45 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 * [Installing .NET Core on OS X](http://dotnet.github.io/docs/getting-started/installing/installing-core-osx.html)
 * [Dotnet Corefx GitHub](https://github.com/dotnet/corefx)  
 
-<!--
-https://www.codeschool.com/courses/try-net-mvc
-https://github.com/codeschool/TryDotNetMvc-CourseSampleCode/tree/master/CharacterSheetApp
--->
+.NET Fiddle
+* [.NET Fiddle](https://dotnetfiddle.net)
 
 ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
 <!--
-http://www.monodevelop.com
-http://www.mono-project.com/download
+https://www.nuget.org/packages/microsoft.aspnet.razor
 
-https://en.wikipedia.org/wiki/ASP.NET_Razor
+http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
 http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c
-http://www.w3schools.com/aspnet/razor_intro.asp
-http://www.w3schools.com/aspnet/razor_syntax.asp
-https://github.com/aspnet/Razor
 http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx/
 
-https://www.nuget.org
-https://www.nuget.org/packages/microsoft.aspnet.razor/
+https://github.com/xamarin/mini-hacks/tree/master/azure-app-service
+https://developer.xamarin.com/guides/mac/platform-features/
 
 https://azure.microsoft.com/en-us/documentation/articles/web-sites-deploy/
 https://azure.microsoft.com/en-us/documentation/articles/app-service-deploy-local-git/
 
-http://www.aspnetboilerplate.com/Samples
-
+https://docs.asp.net/en/latest/mvc/
+https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
+https://docs.asp.net/en/latest/client-side/angular.html
 https://docs.asp.net/en/latest/mvc/views/tag-helpers/intro.html
 
 https://channel9.msdn.com/VisualStudio
 https://msdn.microsoft.com/en-us/library/dn320181.aspx
 https://msdn.microsoft.com/en-us/default.aspx
 https://blogs.msdn.microsoft.com/visualstudio/2016/07/29/visual-studio-hidden-gems
-https://www.visualstudio.com/downloads/download-visual-studio-vs
-https://www.visualstudio.com/en-us/visual-studio-2015-system-requirements-vs#1
-http://www.developersfeed.com/10-best-c-books-to-learn-programming/
-https://forums.asp.net
-http://exercism.io/languages/csharp
 
-https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
-https://github.com/xamarin/mini-hacks/tree/master/azure-app-service
-https://developer.xamarin.com/guides/mac/platform-features/
 http://go.microsoft.com/fwlink/?LinkID=626924&clcid=0x409
-https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
-https://docs.asp.net/en/latest/client-side/angular.html
-http://kb.parallels.com/en/122884
 
-http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
-http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c
 https://msdn.microsoft.com/en-us/library/gg606533(v=vs.100).aspx
 https://msdn.microsoft.com/en-us/library/gg416515(v=vs.108).aspx
 https://media.readthedocs.org/pdf/mvc/latest/mvc.pdf
-https://docs.asp.net/en/latest/mvc/
+https://msdn.microsoft.com/en-us/library/kx37x362.aspx
+http://www.asp.net/web-pages/overview/api-reference
+
+https://gist.github.com/jonlabelle/8738373
+http://razorcheatsheet.com/#csharp
 -->
 
 <!--
@@ -4714,8 +4742,9 @@ https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
 https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
 -->
 
-ASP.NET- Home
+ASP.NET- General
 * [ASP.NET](http://www.asp.net) and [ASP.NET Downloads](http://www.asp.net/downloads)
+* [ASP.NET Forum](https://forums.asp.net)
 
 <!--
 http://www.asp.net/mvc
@@ -4766,27 +4795,15 @@ W3Schools ASP.NET
 * [W3Schools ASP.NET Web Pages Helpers- Objects References](http://www.w3schools.com/aspnet/webpages_ref_helpers.asp)
 * [W3Schools ASP.NET Web Pages Helpers- Classes References](http://www.w3schools.com/aspnet/webpages_ref_classes.asp)
 
-Visual Studio
-* [Microsoft Visual Studio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
-* [Visual Studio](http://www.visualstudio.com)  
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-* [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
-* [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
-
 <!--
-https://code.visualstudio.com/Docs
-https://code.visualstudio.com/Docs/setup/setup-overview
-
-https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
-
-Visual Studio 2015 Getting Started with Python
-https://msdn.microsoft.com/en-us/library/dn705848.aspx
-https://github.com/Microsoft/PTVS/releases/v2.2
-https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
-Python Web Projects
-https://github.com/Microsoft/PTVS/wiki/Web-Project
+https://en.wikipedia.org/wiki/ASP.NET_Razor
+http://www.w3schools.com/aspnet/razor_intro.asp
+http://www.w3schools.com/aspnet/razor_syntax.asp
+http://www.w3schools.com/aspnet/razor_cs_logic.asp
 -->
+
+ASP.NET Tutorials
+* [Code School Try ASP.NET MVC](https://www.codeschool.com/courses/try-net-mvc) and [Code School Try ASP.NET MVC GitHub](https://github.com/codeschool/TryDotNetMvc-CourseSampleCode)
 
 ASP.NET- Yeoman Generator
 * [ASP.NET 5 Yeoman Generator](https://www.npmjs.com/package/generator-aspnet)
@@ -4794,6 +4811,7 @@ ASP.NET- Yeoman Generator
 ASP.NET- Boilerplate
 * [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
+* [ASP.NET Boilerplate Samples](http://www.aspnetboilerplate.com/Samples)
 
 .NET and ASP.NET- Docker
 * [ASP.NET Docker GitHub](https://github.com/aspnet/aspnet-docker)
@@ -4820,7 +4838,6 @@ https://www.microsoft.com/net/core#docker
 
 https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker
 
-http://www.mono-project.com/download
 https://github.com/friism/mono-builder/releases
 
 https://code.visualstudio.com/docs/languages/dockerfile
@@ -4840,22 +4857,6 @@ https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
 https://github.com/heroku?utf8=%E2%9C%93&query=docker
 -->
 
-Nuget
-* [NuGet](https://www.nuget.org) and [Nuget Packages](https://www.nuget.org/packages)
-
-Mono
-* [Mono Project](http://www.mono-project.com), [Mono GitHub](https://github.com/mono), and [Mono Wikipedia](https://en.wikipedia.org/wiki/Mono_(software))
-* [Introduction to Mono on MacOS X](http://www.mono-project.com/docs/about-mono/supported-platforms/osx)
-
-Xamarin (Visual Studio Community Mobile Development Partner)
-* [Xamarin](https://xamarin.com) and [Xamarin Platform](https://xamarin.com/platform)
-* [Xamarin Store](https://store.xamarin.com)
-* [Xamarin Developer](https://developer.xamarin.com) and [Xamarin Developer Guides](https://developer.xamarin.com/guides)
-
-<!--
-https://testcloud.xamarin.com/devices
--->
-
 Azure (See also Apache and SQL)
 * [Azure](https://azure.microsoft.com) and [Azure Pricing](https://azure.microsoft.com/en-us/pricing)
 
@@ -4873,6 +4874,9 @@ https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-st
 https://developer.xamarin.com/guides/cross-platform/azure
 https://developer.xamarin.com/guides/cross-platform/getting_started
 -->
+
+Nuget
+* [NuGet](https://www.nuget.org) and [Nuget Packages](https://www.nuget.org/packages)
 
 Transact-SQL
 * [Transact-SQL Wikipedia](https://en.wikipedia.org/wiki/Transact-SQL)
