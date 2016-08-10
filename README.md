@@ -3028,6 +3028,14 @@ CSS Zen Garden
 * [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
 
+<!--
+https://websitedownloader.io
+https://webpreserver.com
+https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
+http://www.httrack.com/page/2
+http://www.httrack.com
+-->
+
 Miscellaneous
 * [Namium (Name Generator)](http://www.naminum.com)
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
