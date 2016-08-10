@@ -688,6 +688,12 @@ Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nes
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+
+https://code.gov
+https://www.whitehouse.gov/blog/2016/08/08/peoples-code
+https://sourcecode.cio.gov
+
 https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
 https://en.wikipedia.org/wiki/Psychographic
 
@@ -3029,6 +3035,8 @@ CSS Zen Garden
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
 
 <!--
+https://www.staticgen.com
+
 https://websitedownloader.io
 https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
@@ -3445,6 +3453,7 @@ Speed and Performance
 <!--
 https://website.grader.com
 
+http://www.speedtest.net
 http://www.dslreports.com/speedtest
 -->
 
@@ -6762,6 +6771,9 @@ Docker
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
 
 <!--
+Kubernetes Competitor
+https://docs.docker.com/swarm
+
 https://bitnami.com/webinar/stacksmith
 -->
 
