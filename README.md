@@ -2669,7 +2669,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
-* [Code School GitHub](https://github.com/codeschool)
+* [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com)  
 * [CodePath GitHub](https://github.com/codepath)
 * [Code.org](https://code.org)
@@ -4634,12 +4634,33 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 
 <!--
 https://www.codeschool.com/courses/try-net-mvc
+https://github.com/codeschool/TryDotNetMvc-CourseSampleCode/tree/master/CharacterSheetApp
 -->
 
 ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
 <!--
+http://www.monodevelop.com
+http://www.mono-project.com/download
+
+https://en.wikipedia.org/wiki/ASP.NET_Razor
+http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c
+http://www.w3schools.com/aspnet/razor_intro.asp
+http://www.w3schools.com/aspnet/razor_syntax.asp
+https://github.com/aspnet/Razor
+http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx/
+
+https://www.nuget.org
+https://www.nuget.org/packages/microsoft.aspnet.razor/
+
+https://azure.microsoft.com/en-us/documentation/articles/web-sites-deploy/
+https://azure.microsoft.com/en-us/documentation/articles/app-service-deploy-local-git/
+
+http://www.aspnetboilerplate.com/Samples
+
+https://docs.asp.net/en/latest/mvc/views/tag-helpers/intro.html
+
 https://channel9.msdn.com/VisualStudio
 https://msdn.microsoft.com/en-us/library/dn320181.aspx
 https://msdn.microsoft.com/en-us/default.aspx
