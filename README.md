@@ -6295,6 +6295,10 @@ Content Delivery Network
 * [MAXCDN](https://www.maxcdn.com) 
 * [Akamai CDN](http://www.akamai.com)
 
+<!--
+https://cloudinary.com
+-->
+
 Optimization
 * [Cloudflare (CDN + Security Layer)](https://www.cloudflare.com) 
 
