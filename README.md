@@ -4657,6 +4657,13 @@ http://go.microsoft.com/fwlink/?LinkID=626924&clcid=0x409
 https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
 https://docs.asp.net/en/latest/client-side/angular.html
 http://kb.parallels.com/en/122884
+
+http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
+http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c
+https://msdn.microsoft.com/en-us/library/gg606533(v=vs.100).aspx
+https://msdn.microsoft.com/en-us/library/gg416515(v=vs.108).aspx
+https://media.readthedocs.org/pdf/mvc/latest/mvc.pdf
+https://docs.asp.net/en/latest/mvc/
 -->
 
 <!--
