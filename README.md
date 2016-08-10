@@ -4698,6 +4698,19 @@ ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
 <!--
+https://msdn.microsoft.com/library
+https://msdn.microsoft.com/en-us/library/aa155073.aspx
+https://msdn.microsoft.com/en-us/library/dd566231.aspx
+https://msdn.microsoft.com/en-us/library/hh420390.aspx
+
+https://docs.asp.net/en/latest/intro.html
+https://msdn.microsoft.com/en-us/library/gg699724(v=vs.88).aspx
+
+https://msdn.microsoft.com/en-us/library/gg549171(v=vs.111).aspx
+https://msdn.microsoft.com/developer-centers-msdn
+
+
+
 https://www.nuget.org/packages/microsoft.aspnet.razor
 
 http://www.asp.net/web-pages/overview/api-reference/asp-net-web-pages-api-reference
@@ -4706,9 +4719,6 @@ http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx/
 
 https://github.com/xamarin/mini-hacks/tree/master/azure-app-service
 https://developer.xamarin.com/guides/mac/platform-features/
-
-https://azure.microsoft.com/en-us/documentation/articles/web-sites-deploy/
-https://azure.microsoft.com/en-us/documentation/articles/app-service-deploy-local-git/
 
 https://docs.asp.net/en/latest/mvc/
 https://docs.asp.net/en/latest/tutorials/your-first-mac-aspnet.html
@@ -4724,7 +4734,6 @@ http://go.microsoft.com/fwlink/?LinkID=626924&clcid=0x409
 
 https://msdn.microsoft.com/en-us/library/gg606533(v=vs.100).aspx
 https://msdn.microsoft.com/en-us/library/gg416515(v=vs.108).aspx
-https://media.readthedocs.org/pdf/mvc/latest/mvc.pdf
 https://msdn.microsoft.com/en-us/library/kx37x362.aspx
 http://www.asp.net/web-pages/overview/api-reference
 
@@ -4737,6 +4746,7 @@ Learn ASP
 -->
 
 <!--
+https://media.readthedocs.org/pdf/mvc/latest/mvc.pdf
 https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
 
 https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
@@ -4861,6 +4871,9 @@ Azure (See also Apache and SQL)
 * [Azure](https://azure.microsoft.com) and [Azure Pricing](https://azure.microsoft.com/en-us/pricing)
 
 <!--
+https://azure.microsoft.com/en-us/documentation/articles/web-sites-deploy
+https://azure.microsoft.com/en-us/documentation/articles/app-service-deploy-local-git
+
 https://tryappservice.azure.com
 https://en.wikipedia.org/wiki/Microsoft_Azure_Web_Sites
 https://azure.microsoft.com/en-us/pricing/details/app-service
