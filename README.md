@@ -4673,11 +4673,14 @@ C#
 * [Learn X in Y Minutes C#](https://learnxinyminutes.com/docs/csharp)
 
 <!--
+Learn ASP
+
 http://exercism.io/languages/csharp
 http://www.developersfeed.com/10-best-c-books-to-learn-programming/
 
 https://docs.microsoft.com/en-us/dotnet/articles/csharp/index
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+http://razorcheatsheet.com/#csharp
 -->
 
 .NET
@@ -4698,6 +4701,9 @@ ASP
 * [Active Server Pages Wikipedia (Predecessor to ASP.NET)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 
 <!--
+https://msdn.microsoft.com/en-us/library/dd492171(v=vs.120)
+https://msdn.microsoft.com/en-us/library/ff361664(v=vs.110).aspx
+
 https://msdn.microsoft.com/library
 https://msdn.microsoft.com/en-us/library/aa155073.aspx
 https://msdn.microsoft.com/en-us/library/dd566231.aspx
@@ -4716,19 +4722,27 @@ https://msdn.microsoft.com/en-us/library/dn879698.aspx
 https://msdn.microsoft.com/en-us/library/618ayhy6.aspx
 https://msdn.microsoft.com/en-us/library/w0x726c2(v=vs.110).aspx
 
-http://www.asp.net/
 https://msdn.microsoft.com/web-app-development-msdn
 https://msdn.microsoft.com/web-app-development-msdn#node
-https://msdn.microsoft.com/en-us/library/ywdtth2f(v=vs.71).aspx
-https://msdn.microsoft.com/en-us/library/bf9xhdz4(v=vs.71).aspx
-https://msdn.microsoft.com/en-us/library/a0d60xcx(v=vs.71).aspx
 https://docs.asp.net/en/latest/fundamentals/index.html
 https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-started/
-https://tryappservice.azure.com/
 https://msdn.microsoft.com/web-app-development-msdn#aspnet
 
 https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
 
+https://msdn.microsoft.com/en-us/library/ms310241
+
+https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/dev/
+
+https://msdn.microsoft.com/en-us/library/f735abw9(v=vs.140).aspx
+https://msdn.microsoft.com/en-us/library/ywdtth2f(v=vs.140).aspx
+
+https://msdn.microsoft.com/en-us/library/ff361664(v=vs.110).aspx
+
+Old
+https://msdn.microsoft.com/en-us/library/bf9xhdz4(v=vs.140).aspx
+https://msdn.microsoft.com/en-us/library/a0d60xcx(v=vs.71).aspx
+https://msdn.microsoft.com/en-us/library/f735abw9(v=vs.71).aspx
 
 
 https://www.nuget.org/packages/microsoft.aspnet.razor
@@ -4758,18 +4772,6 @@ https://msdn.microsoft.com/en-us/library/kx37x362.aspx
 http://www.asp.net/web-pages/overview/api-reference
 
 https://gist.github.com/jonlabelle/8738373
-http://razorcheatsheet.com/#csharp
--->
-
-<!--
-Learn ASP
--->
-
-<!--
-https://media.readthedocs.org/pdf/mvc/latest/mvc.pdf
-https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
-
-https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
 -->
 
 ASP.NET- General
@@ -4807,7 +4809,10 @@ https://docs.asp.net/projects/mvc/en/latest/getting-started/first-mvc-app/start-
 
 https://github.com/aspnet/Mvc/tree/dev/samples
 https://github.com/aspnet/Docs/blob/master/aspnet/tutorials/your-first-mac-aspnet.rst
+https://github.com/aspnet/Home/tree/dev/samples/latest/HelloMvc
 
+https://media.readthedocs.org/pdf/mvc/latest/mvc.pdf
+https://media.readthedocs.org/pdf/mvc/beta5/mvc.pdf
 https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/
 https://readthedocs.com/projects/aspnet-mvc/downloads/pdf/latest
 -->
