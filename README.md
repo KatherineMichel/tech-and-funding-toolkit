@@ -4709,6 +4709,26 @@ https://msdn.microsoft.com/en-us/library/gg699724(v=vs.88).aspx
 https://msdn.microsoft.com/en-us/library/gg549171(v=vs.111).aspx
 https://msdn.microsoft.com/developer-centers-msdn
 
+https://msdn.microsoft.com/en-us/library/gg416515(v=vs.108)
+https://msdn.microsoft.com/en-us/library/gg145018.aspx
+https://msdn.microsoft.com/library/dd831853(v=vs.140).aspx
+https://msdn.microsoft.com/en-us/library/dn879698.aspx
+https://msdn.microsoft.com/en-us/library/618ayhy6.aspx
+https://msdn.microsoft.com/en-us/library/w0x726c2(v=vs.110).aspx
+
+http://www.asp.net/
+https://msdn.microsoft.com/web-app-development-msdn
+https://msdn.microsoft.com/web-app-development-msdn#node
+https://msdn.microsoft.com/en-us/library/ywdtth2f(v=vs.71).aspx
+https://msdn.microsoft.com/en-us/library/bf9xhdz4(v=vs.71).aspx
+https://msdn.microsoft.com/en-us/library/a0d60xcx(v=vs.71).aspx
+https://docs.asp.net/en/latest/fundamentals/index.html
+https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-started/
+https://tryappservice.azure.com/
+https://msdn.microsoft.com/web-app-development-msdn#aspnet
+
+https://msdn.microsoft.com/en-us/library/6sh2ey19(v=vs.110).aspx
+
 
 
 https://www.nuget.org/packages/microsoft.aspnet.razor
