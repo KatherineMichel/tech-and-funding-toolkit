@@ -4484,6 +4484,12 @@ PHP- WordPress Installation and Migration
 * [WordPress Hosting](https://wordpress.org/hosting)
 * [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
 
+<!--
+https://wordpress.org/download
+
+https://wordpress.com/themes/filter/business
+-->
+
 PHP/node.js- WordPress- Org
 * [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
 
@@ -5034,6 +5040,10 @@ Pip
 * [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
 * [Pip Installer](http://pip-installer.org)
 
+<!--
+https://github.com/pypa/get-pip
+-->
+
 Virtual Environment
 * [Virtualenv](http://virtualenv.org), [Virtualenv GitHub](https://github.com/pypa/virtualenv), and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
 * [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
@@ -5045,6 +5055,11 @@ Pyenv
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
  
+<!--
+https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
+https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
+-->
+
 #### Python and Django Users, Jobs, News
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
@@ -5137,6 +5152,11 @@ Python- Playbooks
 * [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
 * [Full Stack Python](https://www.fullstackpython.com)
+
+<!--
+http://docs.python-guide.org/en/latest/starting/install/osx/
+http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
+-->
 
 Python- Playbooks
 * [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
@@ -6762,6 +6782,11 @@ MAMP and WampServer (See also PHP)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
 <!--
+https://www.mamp.info/en/downloads
+https://www.mamp.info/de/pre-release.html
+-->
+
+<!--
 https://madmimi.com/service_agreements/choose_plan
 
 https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
@@ -6787,7 +6812,6 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
 https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
-https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
 
 https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
 https://www.digitalocean.com/community/questions/how-can-i-host-multiple-domains-in-one-droplet
@@ -6844,6 +6868,12 @@ VMware, Vagrant, VirtualBox
 * [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
 * [VirtualBox Documentation](https://www.virtualbox.org/wiki/Documentation)
 * [VirtualBox Ruby Gem](http://mitchellh.github.io/virtualbox) 
+
+<!--
+https://www.vagrantup.com/downloads.html
+
+https://www.virtualbox.org/wiki/Downloads
+-->
 
 Ansible (Automation and Configuration Management)
 * [Ansible Deployment](http://www.ansible.com)  
@@ -9827,6 +9857,11 @@ Crowd Sourced Internet Marketplace
 
 Task Automation
 * [IFTTT](https://ifttt.com) 
+
+<!--
+https://ifttt.com/channels
+https://ifttt.com/developers
+-->
 
 Kits
 * [Kits](http://kit.com)
