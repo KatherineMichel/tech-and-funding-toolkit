@@ -1532,6 +1532,12 @@ Mac Keyboard Shortcuts
 * [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
 
 <!--
+How to Reinstall OS X
+https://support.apple.com/en-us/HT204904
+
+Use Activity Monitor on Your Mac
+https://support.apple.com/en-us/HT201464
+
 https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
 
 https://support.apple.com/en-us/HT201541
@@ -1735,6 +1741,10 @@ Windows
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 * [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
 * [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+<!--
+https://www.microsoft.com/en-us/software-download/windows10ISO
+-->
 
 Internet Explorer and Trident (Browser, Layout Engine)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
@@ -2024,10 +2034,6 @@ Learn X in Y Minutes Git and Markdown
 * [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 <!--
-https://github.myshopify.com
-
-https://ifttt.com/github/recipes
-
 https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
 http://git-scm.com/book/en/Git-Basics-Tagging
 https://git-scm.com/docs/git-tag
@@ -2040,8 +2046,6 @@ http://gitref.org/branching
 
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
-
-https://www.atlassian.com/software-trends
 -->
 
 Git- Official Learning Resources
@@ -2079,6 +2083,8 @@ Recommended
 https://www.git-tower.com
 
 https://git-for-windows.github.io
+
+https://try.github.io/levels/1/challenges/1
 
 https://help.github.com/articles/github-terms-of-service
 
@@ -2163,6 +2169,8 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 http://www.learnenough.com/git-tutorial#sec-getting_started
 
 https://github.com/ajaxorg/ace
+
+https://ifttt.com/github/recipes
 -->
 
 Git Ignore and Licenses
@@ -2182,6 +2190,18 @@ GitHub Services Integration
 * [GitHub Integrations](https://github.com/integrations)  
 * [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
 
+<!--
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v3/repos/hooks/
+https://developer.github.com/webhooks/
+http://githooks.com/
+
+https://github.com/integrations
+https://bitbucket.org/integrations
+https://bitbucket.org/integrations/cloud
+https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server
+-->
+
 GitHub Business
 * [GitHub Business](https://github.com/business)
 
@@ -2200,6 +2220,11 @@ GitHub- More
 * [GitHub DCMA](https://github.com/github/dmca)
 * [Octokit](https://github.com/octokit) 
 * [Education Pack](https://education.github.com/pack)
+
+<!--
+GitHub Shop
+https://github.myshopify.com
+-->
 
 GitHub- Trending
 * [GitHub Trending](https://github.com/trending)
@@ -2236,6 +2261,10 @@ GitHub Alternatives
 * [Google Code](https://code.google.com)  
 * [Sourceforge](http://sourceforge.net)  
 * [Codebase](https://www.codebasehq.com)  
+
+<!--
+https://www.atlassian.com/software-trends
+-->
 
 Types of Licenses
 * [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
