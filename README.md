@@ -2196,6 +2196,9 @@ https://developer.github.com/v3/repos/hooks/
 https://developer.github.com/webhooks/
 http://githooks.com/
 
+https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
+https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
+
 https://github.com/integrations
 https://bitbucket.org/integrations
 https://bitbucket.org/integrations/cloud
