@@ -3035,6 +3035,10 @@ Prototyping Software- Others
 * See also Apple
 
 <!--
+* https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US
+
+* https://www.wirify.com
+
 https://facebook.github.io/origami/examples
 http://facebook.github.io/origami/download
 -->
