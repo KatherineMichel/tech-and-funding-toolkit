@@ -4608,6 +4608,13 @@ WP eCommerce
 * [WooCommerce](https://www.woothemes.com) and [WooCommerce GitHub](https://github.com/woothemes/woocommerce)
 * [WooCommerce Hosting Solutions](https://www.woothemes.com/hosting-solutions)
 
+<!--
+https://docs.woocommerce.com/document/installing-uninstalling-woocommerce
+https://wordpress.org/plugins/woocommerce/installation
+
+https://yoast.com/wordpress/plugins/seo
+-->
+
 WP Engine
 * [WP Engine](https://wpengine.com) 
 * [WP Engine Staging](http://wpengine.com/support/staging) 
@@ -6364,6 +6371,58 @@ Digital Ocean (VPS)
 * [Digital Ocean Community](https://www.digitalocean.com/community)  
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
+<!--
+https://madmimi.com/service_agreements/choose_plan
+
+https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
+https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
+https://www.godaddy.com/help/what-is-a-subdomain-296
+
+https://manage.serverpilot.io
+
+https://serverpilot.io/community/articles/how-to-connect-a-server-to-serverpilot.html
+https://serverpilot.io/community/articles/how-to-install-wordpress-on-digitalocean.html
+https://serverpilot.io/community/articles/how-to-create-a-server-on-digitalocean.html
+
+https://www.digitalocean.com/help/getting-started
+https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
+https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
+https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
+https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
+https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
+https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
+
+https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+
+https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+
+https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
+https://www.digitalocean.com/community/questions/how-can-i-host-multiple-domains-in-one-droplet
+-->
+
+<!--
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh
+https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-ubuntu-12-04
+https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server
+https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+
+https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/how-to-install-and-update-wordpress-with-version-control-on-centos-7
+https://www.digitalocean.com/community/tutorials/how-to-use-puppet-to-manage-wordpress-themes-and-plugins-on-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/why-how-to-set-up-a-wordpress-local-development-environment-with-vagrant
+https://www.digitalocean.com/community/questions/unable-to-install-wordpress-plugins
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
+-->
+
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
 * [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
@@ -6820,37 +6879,6 @@ MAMP and WampServer (See also PHP)
 <!--
 https://www.mamp.info/en/downloads
 https://www.mamp.info/de/pre-release.html
--->
-
-<!--
-https://madmimi.com/service_agreements/choose_plan
-
-https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
-https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
-https://www.godaddy.com/help/what-is-a-subdomain-296
-
-https://www.digitalocean.com/help/getting-started
-https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
-https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
-https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
-https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
-https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
-https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
-https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
-
-https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
-
-https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
-
-https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
-https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
-
-https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
-https://www.digitalocean.com/community/questions/how-can-i-host-multiple-domains-in-one-droplet
 -->
 
 Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
