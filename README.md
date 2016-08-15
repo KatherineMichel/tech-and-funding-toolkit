@@ -4567,6 +4567,12 @@ https://developer.wordpress.org/themes/basics/conditional-tags/#function-referen
 https://developer.wordpress.org/themes/basics/template-files
 https://developer.wordpress.org/themes/basics/linking-theme-files-directories
 
+https://codex.wordpress.org/Creating_Admin_Themes
+https://codex.wordpress.org/Administration_Menus
+https://codex.wordpress.org/Dashboard_Widgets_API
+
+https://yoast.com/wordpress-theme-anatomy
+
 https://make.wordpress.org
 -->
 
@@ -6946,6 +6952,8 @@ VMware, Vagrant, VirtualBox
 
 <!--
 https://www.vagrantup.com/downloads.html
+
+https://www.virtualbox.org/manual/ch01.html#virtintro
 
 https://www.virtualbox.org/wiki/Downloads
 -->
