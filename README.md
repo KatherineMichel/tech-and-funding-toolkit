@@ -2200,6 +2200,10 @@ https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook
 https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
 
 https://github.com/integrations
+
+https://www.sourcetreeapp.com/
+
+One Click Deploy
 https://bitbucket.org/integrations
 https://bitbucket.org/integrations/cloud
 https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server
@@ -4524,6 +4528,10 @@ PHP- WordPress Installation and Migration
 https://wordpress.org/download
 
 https://wordpress.com/themes/filter/business
+
+https://codex.wordpress.org/Installing_WordPress
+https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_at_DigitalOcean
+https://codex.wordpress.org/Plugins_Add_New_Screen
 -->
 
 PHP/node.js- WordPress- Org
