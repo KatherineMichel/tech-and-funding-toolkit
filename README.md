@@ -4526,12 +4526,6 @@ PHP- WordPress Installation and Migration
 
 <!--
 https://wordpress.org/download
-
-https://wordpress.com/themes/filter/business
-
-https://codex.wordpress.org/Installing_WordPress
-https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_at_DigitalOcean
-https://codex.wordpress.org/Plugins_Add_New_Screen
 -->
 
 PHP/node.js- WordPress- Org
@@ -4547,6 +4541,10 @@ WordPress Theme Development (not "Using Themes")
 * [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
 
 <!--
+https://codex.wordpress.org/Installing_WordPress
+https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_at_DigitalOcean
+https://codex.wordpress.org/Plugins_Add_New_Screen
+
 New
 https://developer.wordpress.org/reference
 
@@ -4593,6 +4591,8 @@ WordPress Themes
 * [WooCommerce Free Themes](https://www.woothemes.com/product-category/themes/free-themes)
 
 <!--
+https://wordpress.com/themes/filter/business
+
 https://wordpress.org/themes/search/bootstrap
 https://wordpress.org/themes/author/automattic
 https://theme.wordpress.com/?theme_shop=automattic
@@ -5090,10 +5090,7 @@ Pip
 * [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
 * [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
 * [Pip Installer](http://pip-installer.org)
-
-<!--
-https://github.com/pypa/get-pip
--->
+* [Pypa Get pip GitHub](https://github.com/pypa/get-pip)
 
 Virtual Environment
 * [Virtualenv](http://virtualenv.org), [Virtualenv GitHub](https://github.com/pypa/virtualenv), and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
@@ -5123,9 +5120,6 @@ Consulting Forms
 * [Caktus Group](https://www.caktusgroup.com) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
 
 <!--
-http://eldarion.cloud/
-https://github.com/pinax/cloudspotting
-
 http://www.frankwiles.com
 
 http://www.frankwiles.com/posts/django-template-variable-or-else
@@ -5542,10 +5536,14 @@ Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 
 Dedicated Python Hosting
 * [Gondor (on Kubernetes)](https://gondor.io)
-* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
 * [pykube GitHub](https://github.com/eldarion-gondor/pykube)
 * [Python Anywhere](https://www.pythonanywhere.com) 
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
+
+<!--
+http://eldarion.cloud
+https://github.com/pinax/cloudspotting
+-->
 
 #### Lincoln Loop Stack
 
@@ -6160,6 +6158,14 @@ PaaS- General and Alternatives to Heroku (including Google App Engine)
 SaaS- General and Alternatives to GoogleApps
 * [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
+<!--
+https://madmimi.com/service_agreements/choose_plan
+
+https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
+https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
+https://www.godaddy.com/help/what-is-a-subdomain-296
+-->
+
 Amazon
 * [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 
@@ -6380,46 +6386,39 @@ Digital Ocean (VPS)
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
 <!--
-https://madmimi.com/service_agreements/choose_plan
-
-https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
-https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
-https://www.godaddy.com/help/what-is-a-subdomain-296
-
 https://manage.serverpilot.io
 
 https://serverpilot.io/community/articles/how-to-connect-a-server-to-serverpilot.html
 https://serverpilot.io/community/articles/how-to-install-wordpress-on-digitalocean.html
 https://serverpilot.io/community/articles/how-to-create-a-server-on-digitalocean.html
 
-https://www.digitalocean.com/help/getting-started
-https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
-https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
-https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
-https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
-https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
-https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
-https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
-
-https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
-
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
 
-https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
-
-https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
-
-https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
-https://www.digitalocean.com/community/questions/how-can-i-host-multiple-domains-in-one-droplet
--->
-
-<!--
+https://www.digitalocean.com/help/getting-started
 https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
 https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh
 https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-ubuntu-12-04
 https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server
 https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
 
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
+https://www.digitalocean.com/community/questions/how-can-i-host-multiple-domains-in-one-droplet
+https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
+https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
+
+https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
+https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
+
+https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
+
+https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+
+https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
+https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
+
+Digital Ocean- WordPress
 https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-14-04
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
@@ -6707,11 +6706,12 @@ Go- Heroku Buildpacks and Getting Started
 * [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
 <!--
+http://www.docker.com/aws
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/docker-singlecontainer-deploy.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html
 http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/docker-singlecontainer-deploy.html
-http://www.docker.com/aws
 
+https://cloud.google.com/dotnet/getting-started/hello-world
 https://github.com/GoogleCloudPlatform/getting-started-dotnet
 
 Tutorial: How to Deploy a .NET Sample Application Using AWS Elastic Beanstalk
@@ -6723,7 +6723,7 @@ http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-create-as.h
 http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
 
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.container.html
-https://zapier.com/zapbook/amazon-s3/visual-studio-online/
+https://zapier.com/zapbook/amazon-s3/visual-studio-online
 
 http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv-deployment.html
 
@@ -6899,19 +6899,20 @@ Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versu
 
 See also Django
  
-Docker
+Container Intro
+* [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s) 
+ 
+Docker (See also Kubernetes)
 * [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 * [Docker GitHub](https://github.com/docker/docker)  
 * ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
 * [Installing Docker on Mac](https://docs.docker.com/engine/installation/mac)
 * [Dockerfile Reference](https://docs.docker.com/engine/reference/builder)
 * [Docker Hub](https://hub.docker.com)
-* [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)  
+* [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
+* [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
 
 <!--
-Kubernetes Competitor
-https://docs.docker.com/swarm
-
 https://bitnami.com/webinar/stacksmith
 -->
 
@@ -6929,7 +6930,9 @@ https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
 https://hub.docker.com/r/heroku/cedar
 -->
 
-* [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s)
+Kubernetes
+* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
+* [Kel](http://www.kelproject.com)
 
 VMware, Vagrant, VirtualBox
 * [VMware](http://www.vmware.com)  
@@ -8670,12 +8673,8 @@ Startup Studios
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
 
-<!--
-http://livestream.com/500SAcc
--->
-
 Accelerator, Angel, VC Firm Blogs and Learning Resources
-* [500 Startups Activity](http://500.co/activity), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
+* [500 Startups Activity](http://500.co/activity), [500 Startups Video Archive](http://livestream.com/500SAcc), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
 * [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 * [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 * [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
@@ -9767,6 +9766,7 @@ Google Products
 
 Google Account
 * [Google Gmail](http://gmail.com) 
+* [Google Inbox](https://www.google.com/inbox) and [Google Inbox Dashboard](https://inbox.google.com)
 * [Google My Activity](https://myactivity.google.com/myactivity)
 * [Google Drive](https://www.google.com/drive) 
 * [Google Slides](https://support.google.com/docs#topic=2811776)
@@ -9775,9 +9775,6 @@ Google Account
 * [Google Calendar](https://www.google.com/calendar) 
 
 <!--
-https://inbox.google.com
-https://www.google.com/inbox
-
 https://get.google.com/spaces
 -->
 
@@ -9928,12 +9925,7 @@ Crowd Sourced Internet Marketplace
 * [Crowdflower](http://www.crowdflower.com)  
 
 Task Automation
-* [IFTTT](https://ifttt.com) 
-
-<!--
-https://ifttt.com/channels
-https://ifttt.com/developers
--->
+* [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
 
 Kits
 * [Kits](http://kit.com)
