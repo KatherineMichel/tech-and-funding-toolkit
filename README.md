@@ -3039,13 +3039,13 @@ Prototyping Software- Others
 * See also Apple
 
 <!--
-* https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US
-
-* https://www.wirify.com
-
 https://facebook.github.io/origami/examples
 http://facebook.github.io/origami/download
 -->
+
+Full Page Screen Shots
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
+* [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
 
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
