@@ -9592,6 +9592,10 @@ Leaderboard
 * [REDEF Charts](http://redef.com/charts)
 * [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
 
+<!--
+http://redef.com/charts/sources/total
+-->
+
 General News Sources- High Brow
 * [BBC](http://www.bbc.com)
 * [New York Times](http://www.nytimes.com)
