@@ -8363,6 +8363,8 @@ Charlie Munger Mental Models (A partial list of some Mental Models used by Charl
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
 <!--
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1040753371&serialid=MXXRZ1vWj8sHZdnmFIZdmSY22un2Jqxx3S%2f8sq7KdYk%3d
+
 https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
 
