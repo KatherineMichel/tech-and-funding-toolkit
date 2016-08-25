@@ -2203,6 +2203,8 @@ http://githooks.com/
 https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
 https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
 
+https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more/
+
 https://github.com/integrations
 
 https://www.sourcetreeapp.com/
@@ -4523,13 +4525,6 @@ http://themedemos.webmandesign.eu/modern/about/
 
 http://www.sktthemes.net/themes
 https://wordpress.org/themes/skt-charity
-
-https://developers.google.com/speed/public-dns
-https://wordpress.org/plugins/all-in-one-wp-migration
-https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
-https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
-https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more/
-https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars
 -->
 
 PHP/node.js- WordPress- Com, Calypso
@@ -4633,8 +4628,6 @@ WordPress- Helpers
 
 <!--
 https://en.support.wordpress.com/plugins
-https://wordpress.org/plugins
-https://en.support.wordpress.com/category/shortcodes
 https://en.support.wordpress.com/widgets/category-cloud-widget
 -->
 
@@ -4645,6 +4638,8 @@ WP eCommerce
 <!--
 https://docs.woocommerce.com/document/installing-uninstalling-woocommerce
 https://wordpress.org/plugins/woocommerce/installation
+
+https://wordpress.org/plugins/all-in-one-wp-migration
 
 https://yoast.com/wordpress/plugins/seo
 -->
@@ -6150,6 +6145,8 @@ IANA, Domize, DNSimple, Heroku
 * [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
 
 <!--
+https://developers.google.com/speed/public-dns
+
 See also Domains
 -->
 
@@ -6419,10 +6416,12 @@ https://manage.serverpilot.io
 https://serverpilot.io/community/articles/how-to-connect-a-server-to-serverpilot.html
 https://serverpilot.io/community/articles/how-to-install-wordpress-on-digitalocean.html
 https://serverpilot.io/community/articles/how-to-create-a-server-on-digitalocean.html
+https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
 
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
 
 https://www.digitalocean.com/help/getting-started
+https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars
 https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
 https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh
 https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-ubuntu-12-04
@@ -6514,6 +6513,7 @@ Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 
 <!--
+http://docs.aws.amazon.com/AmazonS3/latest/dev/BucketBilling.html
 https://devcenter.heroku.com/articles/s3
 
 https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-local-branches-to-remote-apps
@@ -6615,9 +6615,6 @@ Python- Heroku
 * [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
 
 <!--
-https://github.com/heroku/heroku-buildpack-python#heroku-buildpack-python
-
-http://docs.aws.amazon.com/AmazonS3/latest/dev/BucketBilling.html
 https://devcenter.heroku.com/articles/s3-upload-python
 
 https://devcenter.heroku.com/articles/django-app-configuration
@@ -6968,7 +6965,7 @@ VMware, Vagrant, VirtualBox
 * [VMware Fusion 8](http://store.vmware.com/store/vmware/en_US/pd/productID.32368910)
 * [Vagrant GitHub](https://github.com/mitchellh/vagrant)  
 * [VagrantCloud](https://vagrantcloud.com)  
-* [Vagrant Boxes Docs](hhttps://docs.vagrantup.com/v2/getting-started/boxes.html)  
+* [Vagrant Boxes Docs](https://docs.vagrantup.com/v2/getting-started/boxes.html)  
 * [VirtualBox Documentation](https://www.virtualbox.org/wiki/Documentation)
 * [VirtualBox Ruby Gem](http://mitchellh.github.io/virtualbox) 
 
@@ -7437,8 +7434,6 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
-https://www.vaultproject.io
-
 https://www.tiltbrush.com
 http://store.steampowered.com/app/327140
 
@@ -7458,6 +7453,8 @@ https://wiki.unrealengine.com/GitHub_Setup
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
 https://www.unrealengine.com/blog/blueprint-basics
+
+https://www.vaultproject.io
 -->
 
 #### Data Science
