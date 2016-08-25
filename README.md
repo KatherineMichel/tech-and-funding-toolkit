@@ -1757,6 +1757,10 @@ Edge and EdgeHTML (Browser, Layout Engine)
 Windows SSH and Telnet Client
 * [PuTTY](http://www.putty.org)
 
+<!--
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+-->
+
 Linux Feeling- on Windows
 * [Cygwin](http://cygwin.com)
 
@@ -3491,6 +3495,11 @@ Speed and Performance
 * [Yahoo YSlow score of 85+](http://yslow.org)
 
 <!--
+https://search.google.com/search-console/mobile-friendly
+https://testmysite.thinkwithgoogle.com/
+https://www.bing.com/webmaster/tools/mobile-friendliness
+https://www.google.com/webmasters/tools/mobile-friendly
+
 https://website.grader.com
 
 http://www.speedtest.net
@@ -4453,6 +4462,8 @@ http://the-development.github.io/flex
 
 http://jekyllthemes.org/themes/so-simple
 https://mmistakes.github.io/so-simple-theme
+
+http://cloudcannon.com/pricing
 -->
 
 #### PHP
@@ -4510,7 +4521,15 @@ http://themedemos.webmandesign.eu/modern/portfolio/yosemite-short-movie-2/
 http://themedemos.webmandesign.eu/modern/blog/
 http://themedemos.webmandesign.eu/modern/about/
 
-https://wordpress.org/themes/skt-charity/
+http://www.sktthemes.net/themes
+https://wordpress.org/themes/skt-charity
+
+https://developers.google.com/speed/public-dns
+https://wordpress.org/plugins/all-in-one-wp-migration
+https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
+https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
+https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more/
+https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars
 -->
 
 PHP/node.js- WordPress- Com, Calypso
@@ -7418,6 +7437,8 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://www.vaultproject.io
+
 https://www.tiltbrush.com
 http://store.steampowered.com/app/327140
 
