@@ -3121,6 +3121,9 @@ https://spark.adobe.com
 https://blogs.adobe.com/creativecloud
 
 https://docs.gimp.org/en/script-fu-addborder.html
+https://docs.gimp.org/en/gimp-using-web-transparency.html
+https://www.gimp.org/tutorials/ContrastMask/
+https://docs.gimp.org/en/gimp-tool-brightness-contrast.html
 -->
 
 Photo Placeholders
@@ -6415,6 +6418,7 @@ https://manage.serverpilot.io
 
 https://serverpilot.io/community/articles/how-to-connect-a-server-to-serverpilot.html
 https://serverpilot.io/community/articles/how-to-install-wordpress-on-digitalocean.html
+https://serverpilot.io/community/articles/how-to-manually-install-wordpress-on-digitalocean.html
 https://serverpilot.io/community/articles/how-to-create-a-server-on-digitalocean.html
 https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
 
@@ -6428,12 +6432,19 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-ubuntu-
 https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server
 https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
 
+https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
+https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh
+https://www.digitalocean.com/community/tutorials/how-to-log-into-your-droplet-with-putty-for-windows-users
+https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users
+
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
 https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
 https://www.digitalocean.com/community/questions/how-can-i-host-multiple-domains-in-one-droplet
 https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
 https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
 https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
+
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04
 
 https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
 https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
