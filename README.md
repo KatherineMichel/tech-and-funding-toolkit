@@ -1528,7 +1528,7 @@ Mac Update
 * [Mac Update](http://www.macupdate.com)
 
 Mac Keyboard Shortcuts
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-gu/HT201236)
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
 * [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
 
 <!--
@@ -3056,6 +3056,10 @@ Full Page Screen Shots
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
 * [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
 
+<!--
+https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related
+-->
+
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
 * [Squarespace Templates](https://www.squarespace.com/websites), [Squarespace Customers](https://www.squarespace.com/customers), and [Squarespace Local Development](http://developers.squarespace.com/local-development) 
@@ -4419,6 +4423,7 @@ Rails, Jekyll- Preferred Templates and Documents
 https://github.com/blog/2228-simpler-github-pages-publishing
 https://github.com/jekyll/jekyll-admin
 
+http://prose.io
 http://cloudcannon.com/pricing
 
 https://jekyllrb.com/docs/collections
@@ -4600,6 +4605,8 @@ https://codex.wordpress.org/Dashboard_Widgets_API
 https://yoast.com/wordpress-theme-anatomy
 
 https://make.wordpress.org
+
+https://filezilla-project.org/download.php?platform=osx
 -->
 
 WordPress Template Hierarchy
@@ -8886,6 +8893,10 @@ Standard Docs- International
 * [Full Stack Foundry Blog Post](http://fullstack.ca/tools/canadian-term-sheets) and [Full Stack Foundry GitHub](https://github.com/FullStackFoundry/common-seed-termsheets)
 * [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
 * [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
+
+<!--
+https://library.gv.com/pitch-perfect-92a9ab5b5baa#.7ivbbvi0j
+-->
 
 VC Firm Pitch Deck and Operational Report Templates
 * [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
