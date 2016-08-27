@@ -3031,6 +3031,9 @@ http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-
 
 https://support.apple.com/en-us/HT202220
 
+https://help.apple.com/keynote/mac
+https://support.apple.com/kb/PH24334?locale=en_US&viewlocale=en_US
+
 https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
 -->
 
@@ -4413,6 +4416,11 @@ Rails, Jekyll- Preferred Templates and Documents
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
+https://github.com/blog/2228-simpler-github-pages-publishing
+https://github.com/jekyll/jekyll-admin
+
+http://cloudcannon.com/pricing
+
 https://jekyllrb.com/docs/collections
 https://talk.jekyllrb.com
 http://www.jekyll-plugins.com
@@ -4467,8 +4475,6 @@ http://the-development.github.io/flex
 
 http://jekyllthemes.org/themes/so-simple
 https://mmistakes.github.io/so-simple-theme
-
-http://cloudcannon.com/pricing
 -->
 
 #### PHP
@@ -4561,6 +4567,9 @@ WordPress Theme Development (not "Using Themes")
 <!--
 https://codex.wordpress.org/Installing_WordPress
 https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_at_DigitalOcean
+https://codex.wordpress.org/Moving_WordPress
+https://codex.wordpress.org/Migrating_Plugins_and_Themes
+
 https://codex.wordpress.org/Plugins_Add_New_Screen
 
 New
@@ -4568,7 +4577,6 @@ https://developer.wordpress.org/reference
 
 https://codex.wordpress.org/Using_Themes
 https://codex.wordpress.org/Plugins
-https://codex.wordpress.org/Migrating_Plugins_and_Themes
 https://codex.wordpress.org/Advanced_Topics#WordPress_Plugins_and_Customization
 https://codex.wordpress.org/WordPress_Lessons#Template_Files
 https://codex.wordpress.org/Templates
@@ -4643,6 +4651,9 @@ https://docs.woocommerce.com/document/installing-uninstalling-woocommerce
 https://wordpress.org/plugins/woocommerce/installation
 
 https://wordpress.org/plugins/all-in-one-wp-migration
+
+https://wpbakery.atlassian.net/wiki/display/VC/Content+Type
+https://vc.wpbakery.com
 
 https://yoast.com/wordpress/plugins/seo
 -->
