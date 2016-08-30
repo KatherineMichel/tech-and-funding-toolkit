@@ -6439,7 +6439,13 @@ https://manage.serverpilot.io
 https://serverpilot.io/community/articles/how-to-connect-a-server-to-serverpilot.html
 https://serverpilot.io/community/articles/how-to-install-wordpress-on-digitalocean.html
 https://serverpilot.io/community/articles/how-to-manually-install-wordpress-on-digitalocean.html
+https://serverpilot.io/community/articles/install-wordpress-on-ubuntu.html
 https://serverpilot.io/community/articles/how-to-create-a-server-on-digitalocean.html
+https://serverpilot.io/community/articles/what-is-ssh.html
+https://serverpilot.io/community/articles/connect-to-mysql-remotely.html
+https://serverpilot.io/community/articles/how-to-install-the-cyberduck-sftp-client.html
+https://serverpilot.io/community/articles/how-to-upload-files-over-sftp-with-cyberduck.html
+https://serverpilot.io/community/articles/how-to-manage-your-database-with-adminer.html
 https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
 
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
