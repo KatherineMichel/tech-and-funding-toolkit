@@ -4604,11 +4604,20 @@ https://codex.wordpress.org/Creating_Admin_Themes
 https://codex.wordpress.org/Administration_Menus
 https://codex.wordpress.org/Dashboard_Widgets_API
 
+https://codex.wordpress.org/Editing_wp-config.php#Increasing_memory_allocated_to_PHP
+https://codex.wordpress.org/Changing_The_Site_URL
+https://codex.wordpress.org/Search_Engine_Optimization_for_Wordpress
+
 https://yoast.com/wordpress-theme-anatomy
 
 https://make.wordpress.org
 
 https://filezilla-project.org/download.php?platform=osx
+
+https://sourceforge.net/projects/peazip/files/latest/download
+http://download.cnet.com/PeaZip/3000-2250_4-10602256.html
+
+https://www.adminer.org
 -->
 
 WordPress Template Hierarchy
@@ -4632,6 +4641,8 @@ WordPress Themes
 * [WooCommerce Free Themes](https://www.woothemes.com/product-category/themes/free-themes)
 
 <!--
+https://woocommerce.com/product-category/themes
+
 https://wordpress.com/themes/filter/business
 
 https://wordpress.org/themes/search/bootstrap
