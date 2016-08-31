@@ -307,6 +307,8 @@ Databases and Benchmarking- Freemium
 * [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
 
 <!--
+https://www.amazon.com/b/ref=s9_acss_bw_cg_alcolsu2_2c1?node=14865665011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=KVXE9BWJ4FTAGQ6G16KF&pf_rd_t=101&pf_rd_p=2578969862&pf_rd_i=12034488011
+
 http://beondeck.co
 -->
 
@@ -2743,6 +2745,8 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://learn.pluralsight.com/resource/free-course/free-weekly-course
+
 https://fiddles.io
 
 https://www.codecademy.com/courses/learn-the-command-line
@@ -3071,7 +3075,7 @@ Quickie Websites
 <!--
 http://www.wix.com/upgrade/premium-plans
 
-Squarespace Local Development
+https://engineering.squarespace.com/blog/2016/the-developer-platform-gets-local
 -->
 
 Domain Names
@@ -4611,6 +4615,8 @@ https://codex.wordpress.org/Search_Engine_Optimization_for_Wordpress
 https://yoast.com/wordpress-theme-anatomy
 
 https://make.wordpress.org
+
+http://cpanel.com
 
 https://filezilla-project.org/download.php?platform=osx
 
