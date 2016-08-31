@@ -9387,6 +9387,11 @@ Good Infographics
 * [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
+<!--
+https://twitter.com/ValaAfshar/status/602832772143525888
+http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
+-->
+
 Miscellaneous
 * [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
 * [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
@@ -10073,6 +10078,16 @@ https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
 -->
 
 #### Other Enormous Tool Lists
+
+<!--
+https://www.producthunt.com/e/most-upvoted-in-tech
+http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
+http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
+https://www.producthunt.com/tech/freelancer-stack
+https://www.hellobonsai.com/best-freelance-tools
+https://www.producthunt.com/tech/makerbook-2
+-->
+
 * [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
 * [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
 * [Content Marketing Stack](http://www.contentmarketingstack.co)
