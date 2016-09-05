@@ -5490,6 +5490,10 @@ Python- Condensed Learning Resources
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
+<!--
+https://github.com/zedshaw/lpthw-study-projects
+-->
+
 Python- Books and Tutorials
 * [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
