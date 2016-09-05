@@ -243,7 +243,7 @@ https://github.com/BuzzFeedNews/everything
 * [Hulu](https://github.com/hulu)  
 * [IFTTT](https://github.com/IFTTT)  
 * [Imgur](https://github.com/imgur)  
-* [Instragram](https://github.com/Instragram)  
+* [Instagram](https://github.com/Instragram)  
 * [Justin.tv](https://github.com/justintv)  
 * [Kickstarter](https://github.com/kickstarter)  
 * [KISSmetrics](https://github.com/kissmetrics)  
