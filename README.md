@@ -4648,6 +4648,9 @@ WordPress Themes
 * [WooCommerce Free Themes](https://www.woothemes.com/product-category/themes/free-themes)
 
 <!--
+http://www.woothemes.com/woocommerce
+https://github.com/woothemes/woocommerce
+
 https://woocommerce.com/product-category/themes
 
 https://wordpress.com/themes/filter/business
