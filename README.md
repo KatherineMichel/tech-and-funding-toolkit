@@ -8328,10 +8328,11 @@ https://plus.google.com/collection/gbVpb
 
 #### High Profile Developers
 
-* [Dan Sinker](https://github.com/sinker)
+* [Dan Sinker GitHub](https://github.com/sinker)
 * [Harper Reed GitHub](https://github.com/harperreed)
 * [Joel Spolsky](http://www.joelonsoftware.com)
 * [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
+* [Marco Arment GitHub](https://github.com/marcoarment)
 * [Mark Otto GitHub](https://github.com/mdo)
 * [Zac Holman](http://zachholman.com)
 * [Zed Shaw GitHub](https://github.com/zedshaw)
