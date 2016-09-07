@@ -8328,6 +8328,7 @@ https://plus.google.com/collection/gbVpb
 
 #### High Profile Developers
 
+* [Dan Sinker](https://github.com/sinker)
 * [Harper Reed GitHub](https://github.com/harperreed)
 * [Joel Spolsky](http://www.joelonsoftware.com)
 * [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
