@@ -3134,9 +3134,12 @@ https://spark.adobe.com
 
 https://blogs.adobe.com/creativecloud
 
+https://docs.gimp.org/en/gimp-tutorial-quickie-separate.html
+https://docs.gimp.org/en/gimp-layer-alpha-selection-add.html
+https://www.gimp.org/tutorials/Straight_Line
 https://docs.gimp.org/en/script-fu-addborder.html
 https://docs.gimp.org/en/gimp-using-web-transparency.html
-https://www.gimp.org/tutorials/ContrastMask/
+https://www.gimp.org/tutorials/ContrastMask
 https://docs.gimp.org/en/gimp-tool-brightness-contrast.html
 -->
 
@@ -6552,6 +6555,11 @@ Developer Playground/IDE
 Cross Platform Dev Environment
 * [Bowery](http://bowery.io)  
 * [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
+
+<!--
+https://www.firebase.com/docs/hosting/
+https://cloudplatform.googleblog.com/2016/08/why-Google-Cloud-Platform-is-ready-for-your-enterprise-database-workloads.html
+-->
 
 Content Delivery Network
 * [Amazon Cloudfront CDN](http://aws.amazon.com/cloudfront)
