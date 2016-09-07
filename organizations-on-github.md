@@ -114,6 +114,7 @@ Not-for-Profit
 * [thoughtbot](https://github.com/thoughtbot)
 
 ## Design 
+* [Codrops](https://github.com/codrops)
 * [NETTUTS](https://github.com/NETTUTS)
 * [TUTS+](https://github.com/tutsplus)
 
