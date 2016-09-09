@@ -3517,6 +3517,13 @@ Speed and Performance
 * [Yahoo YSlow score of 85+](http://yslow.org)
 
 <!--
+http://ready.mobi
+http://optimizilla.com
+https://tinypng.com
+http://yslow.org/faq
+http://www.imgopt.com
+https://en.wikipedia.org/wiki/Lossy_compression
+
 https://search.google.com/search-console/mobile-friendly
 https://testmysite.thinkwithgoogle.com/
 https://www.bing.com/webmaster/tools/mobile-friendliness
