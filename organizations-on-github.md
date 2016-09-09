@@ -200,6 +200,7 @@ https://github.com/BuzzFeedNews/everything
 * [Blackrock Digital](https://github.com/BlackrockDigital)
 * [Bloomberg Finance L.P.](https://github.com/bloomberg)
 * [Box](https://github.com/box)  
+* [Braintree](https://github.com/braintree)
 * [Buffer](https://github.com/bufferapp)  
 * [C2FO](https://github.com/C2FO)  
 * [Canva](https://github.com/canva)
