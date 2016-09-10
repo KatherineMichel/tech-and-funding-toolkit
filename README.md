@@ -1473,6 +1473,18 @@ Chromebook Ubuntu Installation
 * [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
 * [Crouton GitHub](https://github.com/dnschneid/crouton)  
 
+<!--
+How to get Chrome Goodies for your Chromebook
+https://support.google.com/chromebook/answer/2703646?p=driveoffer&rd=1
+http://acer.custhelp.com/app/answers/detail/a_id/10755/~/how-do-i-download-and-manage-files-on-my-acer-chromebook%3F
+Welcome to the Chromebook Help Center
+https://support.google.com/chromebook
+Open, save, or delete files with the Files app
+https://support.google.com/chromebook/answer/1700055?hl=en&rd=1
+Supported file types and external devices
+https://support.google.com/chromebook/answer/183093
+-->
+
 #### Apple General
 
 Apple Posters of Ago
@@ -1708,7 +1720,7 @@ http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-clien
 https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
 http://developer.samsung.com/technical-doc/view.do?v=T000000203
 https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
-https://dev.twitter.com/web/embedded-timelines
+https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
 
 https://developer.mozilla.org/en-US/docs/Chrome_Registration
 
