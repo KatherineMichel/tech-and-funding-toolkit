@@ -171,6 +171,10 @@ Table of Content
 * [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) and [HBS: Clay Christensen’s Milkshake Marketing](http://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing)
 * [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
 
+<!--
+https://www.amazon.com/Disruption-Dilemma-MIT-Press-ebook/dp/B01BPYKF9K/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=td_readinglist-20&linkId=9586e947438869df987e7fe050eb4f2d#nav-subnav
+-->
+
 #### Lean Startup and Launchpad
 
 Scientific Method
@@ -2758,6 +2762,8 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://www.skillshare.com/classes/?enrollmentType=free
+
 https://learn.pluralsight.com/resource/free-course/free-weekly-course
 
 https://fiddles.io
@@ -8368,6 +8374,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+https://medium.com/@kellan
+
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
@@ -9436,6 +9444,9 @@ Good Infographics
 <!--
 https://twitter.com/ValaAfshar/status/602832772143525888
 http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
+
+https://hbr.org/2016/09/the-elements-of-value
+https://hbr.org/2015/01/what-is-a-business-model
 -->
 
 Miscellaneous
@@ -9577,6 +9588,8 @@ Books
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
+https://www.gatesnotes.com/Books/Business-Adventures
+
 http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
 
 Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
@@ -10063,6 +10076,10 @@ Crowd Sourced Internet Marketplace
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
 * [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
 * [Crowdflower](http://www.crowdflower.com)  
+
+<!--
+https://requester.mturk.com/case_studies
+-->
 
 Task Automation
 * [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
