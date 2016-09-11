@@ -9499,6 +9499,9 @@ Good Infographics
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
 <!--
+http://marketingland.com/infographic-2015-marketing-technology-landscape-113956
+http://cdn.chiefmartec.com/wp-content/uploads/2016/03/marketing_technology_landscape_2016_3000px.jpg
+
 https://twitter.com/ValaAfshar/status/602832772143525888
 http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
 
