@@ -9447,6 +9447,8 @@ http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.ht
 
 https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
+
+https://twitter.com/sean_a_rose/status/593260107066048512
 -->
 
 Miscellaneous
