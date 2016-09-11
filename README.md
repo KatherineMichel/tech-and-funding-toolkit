@@ -1551,6 +1551,12 @@ Apple- Windows (See also: VMware, Vagrant, VirtualBox)
 * [Winclone](http://twocanoes.com/products/mac/winclone)
 * External Hard Drive, USB SSD, Western Digital Terabyte
 
+<!--
+http://kb.parallels.com/123553
+http://kb.parallels.com/en/118158
+http://kb.parallels.com/en/113972
+-->
+
 Apple- Support
 * [Apple Support](http://www.apple.com/support) 
 
@@ -7562,6 +7568,10 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://gopro.com
+
+https://media.fb.com/2016/08/10/new-publisher-tools-for-360-video
+
 https://www.tiltbrush.com
 http://store.steampowered.com/app/327140
 
@@ -10181,6 +10191,8 @@ Salary
 * [salary.com](http://salary.com)
 
 <!--
+http://howmuchtomakeanapp.com/
+
 Compensation
 * [CompStudy](https://www.compstudy.com)
 
