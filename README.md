@@ -287,6 +287,10 @@ Database List
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 <!--
+https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
+
+https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
+
 https://www.producthunt.com/tech/product-hunt-3-0
 https://www.producthunt.com/tech/product-hunt-2-0
 https://www.producthunt.com/live
@@ -9101,6 +9105,12 @@ Kansas
 * [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
 * [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
 * [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
+
+<!00
+https://www.martinpringle.com/attorneys/richard-c-stevens
+
+https://www.kansas.gov/bess/flow/main?execution=e1s2
+-->
 
 Associations
 * [Angel Capital Association](http://www.angelcapitalassociation.org) and [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
