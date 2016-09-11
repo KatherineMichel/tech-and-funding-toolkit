@@ -942,7 +942,10 @@ Facebook Tools
 * [Fb Start for Mobile Startups](http://fbstart.com)
 
 <!--
+https://messengerplatform.fb.com/
 https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
 
 Facebook's Advertisers Tool
 https://developers.facebook.com/docs/javascript
@@ -7576,6 +7579,14 @@ https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
 https://www.unrealengine.com/blog/blueprint-basics
 
 https://www.vaultproject.io
+
+Gfx
+https://www.amazon.com/Graphics-Cards-Computer-Add-Ons-Computers/b?ie=UTF8&node=284822
+external graphics card holder for your macbook
+
+CAD
+http://www.biglever.com/solution/product.html
+https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 -->
 
 #### Data Science
