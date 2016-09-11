@@ -4660,6 +4660,9 @@ https://sourceforge.net/projects/peazip/files/latest/download
 http://download.cnet.com/PeaZip/3000-2250_4-10602256.html
 
 https://www.adminer.org
+
+https://serverpress.com/
+https://codex.wordpress.org/Creating_a_Static_Front_Page
 -->
 
 WordPress Template Hierarchy
@@ -4683,9 +4686,6 @@ WordPress Themes
 * [WooCommerce Free Themes](https://www.woothemes.com/product-category/themes/free-themes)
 
 <!--
-http://www.woothemes.com/woocommerce
-https://github.com/woothemes/woocommerce
-
 https://woocommerce.com/product-category/themes
 
 https://wordpress.com/themes/filter/business
@@ -4712,6 +4712,8 @@ WP eCommerce
 * [WooCommerce Hosting Solutions](https://www.woothemes.com/hosting-solutions)
 
 <!--
+http://www.woothemes.com/woocommerce
+https://github.com/woothemes/woocommerce
 https://docs.woocommerce.com/document/installing-uninstalling-woocommerce
 https://wordpress.org/plugins/woocommerce/installation
 
@@ -4719,6 +4721,11 @@ https://wordpress.org/plugins/all-in-one-wp-migration
 
 https://wpbakery.atlassian.net/wiki/display/VC/Content+Type
 https://vc.wpbakery.com
+https://vc.wpbakery.com/video-tutorials
+
+http://essential.themepunch.com/
+https://revolution.themepunch.com/
+https://www.themepunch.com/
 
 https://yoast.com/wordpress/plugins/seo
 -->
