@@ -200,6 +200,10 @@ Alex Osterwalder
 * [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/books/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
 * [Alex Osterwalder: Strategyzer Resources](https://strategyzer.com/platform/resources)
 
+<!--
+http://blog.strategyzer.com
+-->
+
 Spinoffs
 * [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
 * [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
