@@ -6208,6 +6208,18 @@ Consoles
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
 
 <!--
+http://status.gitbook.com/
+https://www.google.com/webmasters/tools/dashboard
+
+Digital Ocean
+http://ipaddress/info.php
+
+http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
+https://dcc.godaddy.com/manage/domainname/dns
+
+https://www.google.com/webmasters/verification/verification
+https://www.digitalocean.com/community/questions/how-to-verify-google-webmaster-tools
+
 https://www.slideshare.net/login?from_source=%2Finsight%3Futm_source%3Danalytics_launch%26utm_medium%3Demail%26utm_campaign%3DMarketing
 
 https://play.google.com/apps/publish
