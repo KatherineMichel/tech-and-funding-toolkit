@@ -2926,6 +2926,10 @@ KDE
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 
+<!--
+https://en.wikipedia.org/wiki/KHTML
+-->
+
 Developer Surveys
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
 * [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
@@ -3186,16 +3190,6 @@ Photo Placeholders
 
 Free Photos
 * [MorgueFile](http://www.morguefile.com)  
-
-<!--
-    <rule name="Use CSS Sprites">
-      <link url="http://spriteme.org/">Sprite Me</link>
-    <rule name="Optimize images">
-      <link url="http://www.smushit.com/ysmush.it/">SmushIt.com</link> http://www.imgopt.com/
-      <link url="http://punypng.com/">PunyPNG.com</link>
-      <link url="http://pnggauntlet.com/">PNGGauntlet for Windows</link>
-      <link url="http://imageoptim.com/">Image Optim for Mac</link>
- -->
 
 Flickr
 * [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
@@ -3555,6 +3549,29 @@ Speed and Performance
 * [Yahoo YSlow score of 85+](http://yslow.org)
 
 <!--
+http://wave.webaim.org/report
+https://www.w3.org/WAI/ER/tools
+https://www.w3.org/WAI/perspectives
+
+CSS Sprites
+Sprite Me
+http://spriteme.org
+
+Optimize images
+SmushIt.com
+http://www.smushit.com/ysmush.it
+http://www.imgopt.com
+PunyPNG.com
+http://punypng.com
+PNGGauntlet for Windows
+http://pnggauntlet.com
+Image Optim for Mac
+http://imageoptim.com
+
+http://www.responsimulator.com
+http://cssminifier.com
+CSS minification
+
 https://testmysite.thinkwithgoogle.com
 http://ready.mobi
 http://optimizilla.com
@@ -4482,6 +4499,7 @@ https://github.com/blog/2228-simpler-github-pages-publishing
 https://github.com/jekyll/jekyll-admin
 
 http://prose.io
+http://cloudcannon.com
 http://cloudcannon.com/pricing
 
 https://jekyllrb.com/docs/collections
@@ -9499,6 +9517,8 @@ Good Infographics
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
 <!--
+https://451research.com/state-of-the-database-landscape
+
 http://marketingland.com/infographic-2015-marketing-technology-landscape-113956
 http://cdn.chiefmartec.com/wp-content/uploads/2016/03/marketing_technology_landscape_2016_3000px.jpg
 
@@ -10181,6 +10201,8 @@ https://weworkremotely.com
 https://teleport.org/remote
 
 https://news.ycombinator.com/item?id=12016568
+
+https://www.linkedin.com/profinder
 -->
 
 Freelance
