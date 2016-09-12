@@ -3559,6 +3559,8 @@ Speed and Performance
 https://developers.google.com/speed/docs/insights/about
 https://developers.google.com/speed/docs/insights/OptimizeImages
 
+http://mobiforge.com/design-development/fixit-image-crunch
+
 http://wave.webaim.org/report
 https://www.w3.org/WAI/ER/tools
 https://www.w3.org/WAI/perspectives
@@ -9549,6 +9551,7 @@ http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.ht
 
 https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
+https://hbr.org/2013/05/what-makes-a-good-corporate-st
 
 https://twitter.com/sean_a_rose/status/593260107066048512
 -->
