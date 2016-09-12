@@ -8552,6 +8552,8 @@ Charlie Munger Mental Models (A partial list of some Mental Models used by Charl
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
 <!--
+https://www.25iqbooks.com
+
 https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1040753371&serialid=MXXRZ1vWj8sHZdnmFIZdmSY22un2Jqxx3S%2f8sq7KdYk%3d
 
 https://25iq.com/2013/02/17/mauboussin
@@ -9808,12 +9810,8 @@ The Wirecutter, Consumer Reports, Popular Mechanics, Tom's Hardware
 * [Tom's Hardware](http://www.tomshardware.com)
 
 Leaderboard
-* [REDEF Charts](http://redef.com/charts)
+* [REDEF Charts Popular Items](http://redef.com/charts/popular/total) and [REDEF Charts Popular Sources](http://redef.com/charts/sources/total)
 * [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
-
-<!--
-http://redef.com/charts/sources/total
--->
 
 General News Sources- High Brow
 * [BBC](http://www.bbc.com)
@@ -10006,10 +10004,7 @@ Google Account
 * [Google Drawings](https://docs.google.com/drawings)  
 * [Google Images](https://images.google.com) 
 * [Google Calendar](https://www.google.com/calendar) 
-
-<!--
-https://get.google.com/spaces
--->
+* [Google Spaces](https://get.google.com/spaces)
 
 Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
@@ -10142,11 +10137,10 @@ Payments
 * [Paypal](https://www.paypal.com)
 * [Square](https://squareup.com)
 * [Stripe](https://stripe.com), [Stripe Docs](https://stripe.com/docs), and [Stripe Atlas](https://stripe.com/atlas)
+* [Dwolla](https://www.dwolla.com) 
 
 <!--
-[Dwolla](https://www.dwolla.com)  
-
-https://www.paypal.com/webapps/mpp/get-started/donate-button
+ https://www.paypal.com/webapps/mpp/get-started/donate-button
 https://developer.paypal.com/docs/classic/payflow/gs_ppa_hosted_pages
 
 https://stripe.com/docs/checkout/tutorial
@@ -10158,10 +10152,6 @@ Crowd Sourced Internet Marketplace
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
 * [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
 * [Crowdflower](http://www.crowdflower.com)  
-
-<!--
-https://requester.mturk.com/case_studies
--->
 
 Task Automation
 * [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
@@ -10201,26 +10191,23 @@ https://weworkremotely.com
 https://teleport.org/remote
 
 https://news.ycombinator.com/item?id=12016568
-
-https://www.linkedin.com/profinder
 -->
 
 Freelance
 * [Craigslist](https://craigslist.org)
 * [eLance](https://www.elance.com)
-* [LinkedIn](https://www.linkedin.com)
+* [LinkedIn](https://www.linkedin.com) and [ProFinder](https://www.linkedin.com/profinder)
 * [Upwork](https://www.upwork.com)
 * [Your Rate](http://www.yourrate.co)
 
-Salary
+Salary and Compensation
 * [Kansas Labor Information Center](https://klic.dol.ks.gov/vosnet/Default.aspx)
 * [Bureau of Labor Statistics](http://www.bls.gov) and [Bureau of Labor Statistics Wikipedia](https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics)
 * [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [salary.com](http://salary.com)
+* [How Much to Make an App](http://howmuchtomakeanapp.com)
 
 <!--
-http://howmuchtomakeanapp.com/
-
 Compensation
 * [CompStudy](https://www.compstudy.com)
 
