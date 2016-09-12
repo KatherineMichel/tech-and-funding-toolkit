@@ -8507,6 +8507,24 @@ http://www.greatachievements.org
 * [Nick Szabo (Unenumerated)](http://unenumerated.blogspot.com) and [Nick Szabo (Best)](http://szabo.best.vwh.net)
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
+<!--
+http://abnormalreturns.com
+https://twitter.com/EmanuelDerman
+https://twitter.com/EdBorgato
+https://twitter.com/BasonAsset
+https://twitter.com/michaelbatnick
+https://twitter.com/abnormalreturns
+https://twitter.com/TMFHousel
+https://twitter.com/delong
+https://twitter.com/modestproposal1
+https://twitter.com/R_Thaler
+https://twitter.com/cullenroche
+https://twitter.com/dandolfa
+https://twitter.com/patrick_oshag
+https://twitter.com/awealthofcs
+https://twitter.com/jasonzweigwsj
+-->
+
 #### Warren Buffet, Charlie Munger, Alphabet
   
 Google and Alphabet
@@ -8552,12 +8570,8 @@ Charlie Munger Mental Models (A partial list of some Mental Models used by Charl
 * [25iq Books](https://www.25iqbooks.com)
 
 <!--
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1040753371&serialid=MXXRZ1vWj8sHZdnmFIZdmSY22un2Jqxx3S%2f8sq7KdYk%3d
-
 https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
-
-http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf
 -->
 
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
@@ -8572,10 +8586,10 @@ Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
 * [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
 * [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
 * [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
-* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1040753371&serialid=MXXRZ1vWj8sHZdnmFIZdmSY22un2Jqxx3S%2f8sq7KdYk%3d)
 * [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
 * [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
-* [Measuring a Moat](http://analystreports.som.yale.edu/internal/F2013/MJ/Measuring%20the%20Moat.pdf)
+* [Measuring the Moat](http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf)
 * [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
 * [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
 * [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
