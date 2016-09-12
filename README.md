@@ -172,7 +172,9 @@ Table of Content
 * [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
 
 <!--
-https://www.amazon.com/Disruption-Dilemma-MIT-Press-ebook/dp/B01BPYKF9K/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=td_readinglist-20&linkId=9586e947438869df987e7fe050eb4f2d#nav-subnav
+Joshua Gans
+The Disruption Dilemma
+https://www.amazon.com/dp/B01BPYKF9K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 -->
 
 #### Lean Startup and Launchpad
@@ -711,6 +713,7 @@ https://sourcecode.cio.gov
 https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
 https://en.wikipedia.org/wiki/Psychographic
 
+https://sprintstories.com
 http://kit.com/jakek/the-sprint-kit
 http://www.thesprintbook.com/sprint-week
 https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
@@ -3412,6 +3415,10 @@ Responsiveness- and Media Queries
 * [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
 * [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
+
+<!--
+https://responsivedesign.is/examples
+-->
 
 Bootstrap, Font Awesome
 * [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
@@ -8980,6 +8987,8 @@ Crowdfunding
 * [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
 
 <!--
+https://republic.co
+
 https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
 -->
 
@@ -10026,6 +10035,10 @@ Google World
 Alerts
 * [Google Alerts](https://www.google.com/alerts)
 * [New York Times Alerts](http://www.nytimes.com/content/help/account/myalerts/myalerts.html)
+
+<!--
+https://blogs.office.com
+-->
 
 Social Media
 * [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
