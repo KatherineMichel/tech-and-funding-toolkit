@@ -204,6 +204,8 @@ Alex Osterwalder
 
 <!--
 http://blog.strategyzer.com
+http://blog.strategyzer.com/posts/2016/6/20/why-companies-fail-how-to-prevent-it?
+http://blog.strategyzer.com/posts/2016/7/18/5-characteristics-of-a-great-strategy-workshop-facilitator
 -->
 
 Spinoffs
@@ -3029,7 +3031,10 @@ Device Popularity Stats
 
 <!--
 https://layer.com/messaging-design-kit
-http://blog.invisionapp.com/chat-minimal-ui-kit/
+
+http://blog.invisionapp.com
+http://blog.invisionapp.com/chat-minimal-ui-kit
+http://blog.invisionapp.com/design-for-the-human-brain
 
 http://blog.invisionapp.com/large-desktop-experience-responsive-design/
 https://support.invisionapp.com/hc/en-us/articles/203009779-What-size-should-my-screens-be-
@@ -4511,6 +4516,8 @@ https://github.com/blog/2228-simpler-github-pages-publishing
 https://github.com/jekyll/jekyll-admin
 
 http://prose.io
+https://getgrav.org
+https://hexo.io
 http://cloudcannon.com
 http://cloudcannon.com/pricing
 
@@ -7603,6 +7610,8 @@ Equipment
 <!--
 https://gopro.com
 
+https://github.com/NVIDIA/nvidia-docker/wiki/Why%20NVIDIA%20Docker
+
 https://media.fb.com/2016/08/10/new-publisher-tools-for-360-video
 
 https://www.tiltbrush.com
@@ -8522,6 +8531,9 @@ http://www.greatachievements.org
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
 <!--
+Deirdre McCloskey
+http://www.deirdremccloskey.com
+
 http://abnormalreturns.com
 https://twitter.com/EmanuelDerman
 https://twitter.com/EdBorgato
