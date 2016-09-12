@@ -7802,7 +7802,6 @@ Algorithms
 * [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
 * [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
 * [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
-
 Online- Machine Learning, Analysis
 * [Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
 * [Online (and Off-Line) Wikipedia](http://en.wikipedia.org/wiki/Online_algorithm)  
@@ -8436,6 +8435,7 @@ https://plus.google.com/collection/gbVpb
 * [Dan Sinker GitHub](https://github.com/sinker)
 * [Harper Reed GitHub](https://github.com/harperreed)
 * [Joel Spolsky](http://www.joelonsoftware.com)
+* [Kellan Elliot-McCrea Medium](https://medium.com/@kellan)
 * [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
 * [Marco Arment GitHub](https://github.com/marcoarment)
 * [Mark Otto GitHub](https://github.com/mdo)
@@ -8443,8 +8443,6 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
-https://medium.com/@kellan
-
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
@@ -8547,13 +8545,13 @@ Mental Models
 Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
 
 #### Chance
+
 * [Michael Mauboussin](http://michaelmauboussin.com)
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+* [25iq Books](https://www.25iqbooks.com)
 
 <!--
-https://www.25iqbooks.com
-
 https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1040753371&serialid=MXXRZ1vWj8sHZdnmFIZdmSY22un2Jqxx3S%2f8sq7KdYk%3d
 
 https://25iq.com/2013/02/17/mauboussin
@@ -9125,7 +9123,6 @@ Leveraged Buyout Firms
 * [Carlyle](http://www.carlyle.com/our-business/corporate-private-equity/us-buyout)
 * [Kohlberg Kravis Roberts Wikipedia](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
 
-
 #### Regulation, Business Entity
 
 U.S. Law
@@ -9174,9 +9171,8 @@ Kansas
 * [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
 * [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
 
-<!--
-https://www.martinpringle.com/attorneys/richard-c-stevens
--->
+Kansas Attorney
+* [Richard C. Stevens, Martin Pringle](https://www.martinpringle.com/attorneys/richard-c-stevens)
 
 Associations
 * [Angel Capital Association](http://www.angelcapitalassociation.org) and [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
