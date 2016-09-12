@@ -9169,14 +9169,13 @@ California
 
 Kansas
 * [State of Kansas Business](http://www.kansas.gov/business) 
+* [Business Entity Search Station](https://www.kansas.gov/bess/flow/main)
 * [State of Kansas Business Planning](http://www.kansas.gov/business/planning.html) 
 * [State of Kansas Business Planning Forms](http://www.kansas.gov/business/forms.html) 
 * [State of Kansas Procurement and Contracts](http://admin.ks.gov/offices/procurement-and-contracts)
 
-<!00
+<!--
 https://www.martinpringle.com/attorneys/richard-c-stevens
-
-https://www.kansas.gov/bess/flow/main?execution=e1s2
 -->
 
 Associations
@@ -9498,10 +9497,9 @@ Company Milestones
 * [Amazon: 2004 Shareholder Letter](http://library.corporate-ir.net/library/97/976/97664/items/144852/2004_shareholderLetter.pdf)
 * [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
 * [Tesla Master Plan](http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) and [Tesla Master Plan Deux](https://www.tesla.com/blog/master-plan-part-deux)
+* [WorldWideWeb- Executive Summary](https://groups.google.com/forum/m/#!msg/alt.hypertext/eCTkkOoWTAY/bJGhZyooXzkJ)
 
 <!--
-https://groups.google.com/forum/m/#!msg/alt.hypertext/eCTkkOoWTAY/bJGhZyooXzkJ
-
 http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
 -->
 
@@ -9514,6 +9512,7 @@ Google
 
 Good Infographics
 * [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
+* [MarTech 2016 Marketing Technology Landscape](http://cdn.chiefmartec.com/wp-content/uploads/2016/03/marketing_technology_landscape_2016_3000px.jpg)
 * [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
 * [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
@@ -9522,7 +9521,6 @@ Good Infographics
 https://451research.com/state-of-the-database-landscape
 
 http://marketingland.com/infographic-2015-marketing-technology-landscape-113956
-http://cdn.chiefmartec.com/wp-content/uploads/2016/03/marketing_technology_landscape_2016_3000px.jpg
 
 https://twitter.com/ValaAfshar/status/602832772143525888
 http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
@@ -9665,6 +9663,7 @@ Books
 * [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
 * [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
 * [Howard Marks](http://www.amazon.com/Howard-Marks/e/B004LE5B00/ref=dp_byline_cont_book_1)
+* [John Brooks: Business Adventures, via Bill Gates](https://www.gatesnotes.com/Books/Business-Adventures)
 * [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
 * [Nir Eyal: Hooked: How to Build Habit-Forming Products](http://www.amazon.com/dp/1591847788/?tag=hooked-us-20)
 * [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
@@ -9672,8 +9671,6 @@ Books
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
-https://www.gatesnotes.com/Books/Business-Adventures
-
 http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
 
 Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
