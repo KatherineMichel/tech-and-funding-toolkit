@@ -8436,6 +8436,8 @@ General Terminology
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+http://beyondthetechrevolution.com
+
 https://usesthis.com/interviews/horace.dediu
 
 https://plus.google.com/collection/EZT2b
