@@ -3556,6 +3556,9 @@ Speed and Performance
 * [Yahoo YSlow score of 85+](http://yslow.org)
 
 <!--
+https://developers.google.com/speed/docs/insights/about
+https://developers.google.com/speed/docs/insights/OptimizeImages
+
 http://wave.webaim.org/report
 https://www.w3.org/WAI/ER/tools
 https://www.w3.org/WAI/perspectives
