@@ -205,6 +205,7 @@ Alex Osterwalder
 <!--
 http://blog.strategyzer.com
 http://blog.strategyzer.com/posts/2016/6/20/why-companies-fail-how-to-prevent-it?
+http://blog.strategyzer.com/posts/2015/2/03/implementing-your-business-model-with-the-galbraith-star-model
 http://blog.strategyzer.com/posts/2016/7/18/5-characteristics-of-a-great-strategy-workshop-facilitator
 -->
 
@@ -465,6 +466,8 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+https://quip.com/blog/slack-integration-slash-commands
+
 https://slackline.io
 
 https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
@@ -779,6 +782,10 @@ https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end
 Hobbies and Cool Tools
 * [Hobby Masters](http://hobbymasters.com)
 * [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
+
+<!--
+http://makerfaire.com
+-->
 
 #### Site and App Research
 
@@ -2180,6 +2187,7 @@ https://help.github.com/articles/removing-a-remote
 https://help.github.com/articles/syncing-a-fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork
 https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
+https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
 
 https://help.github.com/articles/about-github-mirrors/
 https://help.github.com/articles/duplicating-a-repository/
@@ -2191,7 +2199,7 @@ https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
 
 https://www.atlassian.com/git/tutorials/syncing/git-pull
 https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
-https://www.atlassian.com/git/tutorials/using-branches/git-branch/
+https://www.atlassian.com/git/tutorials/using-branches/git-branch
 
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
@@ -6579,6 +6587,8 @@ https://serverpilot.io/community/articles/how-to-install-the-cyberduck-sftp-clie
 https://serverpilot.io/community/articles/how-to-upload-files-over-sftp-with-cyberduck.html
 https://serverpilot.io/community/articles/how-to-manage-your-database-with-adminer.html
 https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
+
+https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/
 
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
 
