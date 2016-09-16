@@ -991,6 +991,8 @@ https://support.google.com/webmasters/answer/35291?hl=en
 https://support.google.com/webmasters/answer/40349?hl=en
 http://searchengineland.com/library/google/google-seo
 
+https://webmasters.googleblog.com
+
 https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
 -->
 
@@ -9802,6 +9804,10 @@ Ivy League Business and Tech
 * [Stanford News](http://news.stanford.edu)
 * [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
 
+<!--
+http://www.gsb.stanford.edu
+-->
+
 STEM Journals 
 * [ACM Publications](https://www.acm.org/publications), [ACM Digital Library](http://dl.acm.org), [Journal of the ACM](http://jacm.acm.org), and [ACM Queue](http://queue.acm.org)
 * [Computing Research Repository](http://arxiv.org/corr/home)
@@ -9827,6 +9833,8 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
+http://www.fastcompany.com
+
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
@@ -10000,6 +10008,13 @@ Hiten Shah and Neil Patel
 * [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
 * [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
 * [Quicksprout](http://www.quicksprout.com) 
+
+<!--
+https://mixpanel.com
+https://blog.bufferapp.com
+http://blog.trello.com
+https://blog.optimizely.com
+-->
 
 Popular Tools
 * [Buffer](https://bufferapp.com)
