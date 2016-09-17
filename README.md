@@ -713,6 +713,9 @@ Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nes
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
+https://toolkit.mozilla.org
+https://medium.com/mozilla-open-innovation/introducing-the-open-innovation-toolkit-7a155b110255#.vqjdg4pwz
+
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 
 https://code.gov
@@ -2140,6 +2143,9 @@ GitHub- Main
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+http://githubuniverse.com/watch
+https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
+
 Recommended
 https://www.git-tower.com
 
@@ -2762,6 +2768,11 @@ Software Testing
 
 #### Programming Learning Tools
 
+<!--
+http://www.archiveteam.org/index.php?title=Main_Page
+https://twitter.com/archiveteam
+-->
+
 Programming Groups
 * [Django Girls](https://djangogirls.org)
 * [Golang Bridge](http://golangbridge.org)
@@ -2914,6 +2925,11 @@ Documentation- General
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Packt](https://www.packtpub.com) [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+
+<!--
+http://www.oreilly.com/data/free/archive.html
+http://www.oreilly.com/design/free/design-in-venture-capital.csp
+-->
 
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
@@ -7373,6 +7389,10 @@ Android Learning Materials
 * [Programming Mobile Apps for Android Handheld Systems (Coursera)](https://class.coursera.org/android-001/lecture) and [Course Examples GitHub](https://github.com/aporter/coursera-android)  
 * [Yelp Android School GitHub](https://github.com/Yelp/android-school)
 
+<!--
+http://codepath.com/courses/airbnb
+-->
+
 CyanogenMod
 * [CyanogenMod Wikipedia](https://en.wikipedia.org/wiki/CyanogenMod)
 
@@ -7633,6 +7653,10 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://developer.apple.com/reference/scenekit
+
+https://www.udacity.com/drive
+
 https://gopro.com
 
 https://github.com/NVIDIA/nvidia-docker/wiki/Why%20NVIDIA%20Docker
@@ -9957,6 +9981,10 @@ Analyst Groups
 * [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
 * [RedMonk Twitter](https://twitter.com/redmonk)  
 * [State of the Internet](http://www.stateoftheinternet.com)
+
+<!--
+http://www.gartner.com/smarterwithgartner/innovation-center-get-started
+-->
 
 Management Consulting Firms
 * [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
