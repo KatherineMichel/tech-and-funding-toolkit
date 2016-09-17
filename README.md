@@ -296,6 +296,10 @@ Database List
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 <!--
+https://alist.co
+
+https://www.crunchbase.com/app/info/pro
+
 https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
 
 https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
@@ -2766,6 +2770,10 @@ Programming Groups
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
 
+<!--
+http://www.codettes.net
+-->
+
 Programming and Math Learning Tools (See also MOOCs)
 * [Arduino](https://www.arduino.cc)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
@@ -2909,6 +2917,11 @@ Documentation- General
 
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+<!--
+https://wiki.mozilla.org/MOSS
+https://wiki.mozilla.org/MOSS/Mission_Partners
+-->
 
 Standards
 * [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
@@ -10226,6 +10239,10 @@ Task Automation
 Kits
 * [Kits](http://kit.com)
 
+Swag
+* [Teespring](http://teespring.com)
+* [Sticker Mule](https://www.stickermule.com)
+
 Admin, Hiring, Payroll, Expenses
 * [Clara Labs](https://claralabs.com) 
 * [Expensify](https://www.expensify.com)
@@ -10235,7 +10252,6 @@ Admin, Hiring, Payroll, Expenses
 * [Jobvite](http://www.jobvite.com)
 * [QuickBooks](http://quickbooks.intuit.com)
 * [Sunrise Calendar (Going away)](https://calendar.sunrise.am)
-* [Teespring](http://teespring.com)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
 
