@@ -720,6 +720,9 @@ http://www.ideou.com
 https://toolkit.mozilla.org
 https://medium.com/mozilla-open-innovation/introducing-the-open-innovation-toolkit-7a155b110255#.vqjdg4pwz
 
+https://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf
+https://medium.com/@Hanna.Thomas/a-progressives-style-guide-2e870f58ecaa#.4e6n2hn1z
+
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 
 https://code.gov
@@ -951,6 +954,12 @@ https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
 https://www.maxcdn.com/one/visual-glossary/har-file
 https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
 https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+
+https://affiliate-program.amazon.com/welcome
+
+https://www.youtube.com/watch?v=JASn8EsO174
+
+https://support.twitter.com
 -->
 
 Web Analytics
@@ -7659,6 +7668,10 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://github.com/mamedev/mame
+http://mamedev.org/?p=422
+https://archive.org/details/softwarelibrary_msdos_games
+
 https://developer.apple.com/reference/scenekit
 
 https://www.udacity.com/drive
@@ -10290,6 +10303,12 @@ Admin, Hiring, Payroll, Expenses
 * [Sunrise Calendar (Going away)](https://calendar.sunrise.am)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
+
+<!--
+https://www.etsy.com/pattern
+
+https://www.twilio.com/marketplace/add-ons
+-->
 
 Logistics
 * [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
