@@ -470,6 +470,8 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+https://www.lucidchart.com
+
 https://quip.com/blog/slack-integration-slash-commands
 
 https://slackline.io
@@ -713,6 +715,8 @@ Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nes
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
+http://www.ideou.com
+
 https://toolkit.mozilla.org
 https://medium.com/mozilla-open-innovation/introducing-the-open-innovation-toolkit-7a155b110255#.vqjdg4pwz
 
@@ -3219,6 +3223,8 @@ Photoshop and Similar
 * [Serif](http://www.serif.com)
 
 <!--
+https://en.wikipedia.org/wiki/Bokeh
+
 https://spark.adobe.com
 
 https://blogs.adobe.com/creativecloud
@@ -9759,6 +9765,8 @@ Books
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
+https://www.amazon.com/Venture-Capital-Private-Financing-Entrepreneurship/dp/0470591439
+
 http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
 
 Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
