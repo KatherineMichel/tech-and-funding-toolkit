@@ -297,6 +297,8 @@ Database List
 
 <!--
 https://alist.co
+https://angel.co/spv
+http://blog.angel.co/post/131017147560/csc-upshot
 
 https://www.crunchbase.com/app/info/pro
 
@@ -8599,6 +8601,8 @@ http://www.greatachievements.org
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
 <!--
+https://paulromer.net
+
 Deirdre McCloskey
 http://www.deirdremccloskey.com
 
@@ -8654,7 +8658,7 @@ Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
 Mental Models
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 
-Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin))
+Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 
 #### Chance
 
@@ -9624,6 +9628,9 @@ Good Infographics
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
 <!--
+Digital Marketing Transit Map
+https://twitter.com/ValaAfshar/status/602832772143525888
+
 https://451research.com/state-of-the-database-landscape
 
 http://marketingland.com/infographic-2015-marketing-technology-landscape-113956
