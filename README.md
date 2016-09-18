@@ -8381,6 +8381,7 @@ General Terminology
 #### Venture Capitalists and Angel Investors
 
 * [Albert Wenger (Continuations)](http://continuations.com), [Albert Wenger Archive](http://continuations.com/archive), and [Albert Wenger Tech Tuesday](http://continuations.com/tagged/tech-tuesday)
+* [Alex Iskold](http://alexiskold.net)
 * [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent), [Andrew Chen Lecture Description](http://us5.campaign-archive2.com/?u=96c185f15d9646d8014b765b7&id=9707a51462&e=d7ca30ca7d)
 * [Andy Weissman](http://blog.aweissman.com)
 * [Balaji Srinivasan A16Z](http://a16z.com/tag/balaji-s-srinivasan) and [Balaji Srinivasan Twitter](https://twitter.com/balajis) 
@@ -8388,6 +8389,7 @@ General Terminology
 * [Bijan Sabet Archive](http://bijansabet.com/archive) and [Bijan Sabet SoundCloud](https://soundcloud.com/bijan)
 * [Bill Gurley Archives (Above the Crowd)](http://abovethecrowd.com/archives)
 * [Bill Janeway (Doing Capitalism)](http://www.doingcapitalism.com)
+* [John Borthwick Medium](https://medium.com/@Borthwick)
 * [Brad Feld](http://www.feld.com) and [Brad Feld Archive](http://www.feld.com/archive)
 * [Bubba Murarka](http://bubba.vc)
 * [Caterina Fake](http://caterina.net)
@@ -8431,6 +8433,7 @@ General Terminology
 * [Scott Weiss Archive](http://scott.a16z.com/archive)
 * [Semil Shah Archive](http://blog.semilshah.com/archive)
 * [Seth Levine Archive](http://www.sethlevine.com/archive)
+* [Shai Goldman](https://shaigoldman.com)
 * [Steven Sinofsky (Learning by Shipping)](http://blog.learningbyshipping.com), [Steven Sinofsky Medium](https://medium.learningbyshipping.com), and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
 * [Ted Rheingold Twitter](https://twitter.com/tedr)
 * [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
@@ -8443,16 +8446,11 @@ https://angel.co/davidle
 https://medium.com/@davidlee
 
 http://www.minarad.com/blog
-http://ryangraves.tumblr.com
 https://medium.com/@ericfriedman
 http://christophjanz.blogspot.de
 http://www.slideshare.net/mikemaplesjr
 https://medium.com/@jeremyliew
-https://medium.com/@Borthwick
-http://alexiskold.net
 https://medium.com/the-biz-stone-collection
-
-https://shaigoldman.com
 -->
 
 #### Tech Analysts, Thought Leaders
@@ -8500,7 +8498,7 @@ https://shaigoldman.com
 * [John Maeda (Creative Leadership)](http://creativeleadership.com)
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
 * [Justin Kan](http://justinkan.com)
-* [Ken Norton](https://www.kennorton.com)
+* [Ken Norton](https://www.kennorton.com) and [Ken Norton Newsletter](https://www.kennorton.com/newsletter)
 * [Kevin Kelly](http://kk.org/kk)
 * [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
 * [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
@@ -8517,8 +8515,8 @@ https://shaigoldman.com
 * [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 * [Rick Klau Medium](https://medium.com/@rklau)
 * [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
-* [Tony Robbins](https://www.tonyrobbins.com) and [Tony Robbins (Money: Master the Game)](http://moneymasterthegame.com)
 * [Rosabeth Moss Kanter](http://blogs.hbr.org/rosabeth-moss-kanter)
+* [Ryan Graves](http://ryangraves.tumblr.com)
 * [Sean Ellis Slideshare](http://www.slideshare.net/seanellis) and [Sean Ellis Wikipedia](http://en.wikipedia.org/wiki/Sean_Ellis_(entrepreneur)) 
 * [Sean Rose](https://medium.com/@sean_a_rose)
 * [Seth Godin](http://www.sethgodin.com) and [Seth Godin Typepad](http://sethgodin.typepad.com)
@@ -8531,6 +8529,7 @@ https://shaigoldman.com
 * [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 * [Tom Peters](http://tompeters.com), [Tom Peters Slides](http://tompeters.com/slides), and [Tom Peters Excellence Now](http://excellencenow.com) 
+* [Tony Robbins](https://www.tonyrobbins.com) and [Tony Robbins (Money: Master the Game)](http://moneymasterthegame.com)
 * [Vala Afshar Twitter](https://twitter.com/ValaAfshar) and [Vala Afshar Slideshare](http://www.slideshare.net/ValaAfshar)
 * [Venkatesh Rao Ribbonfarm](http://www.ribbonfarm.com) and [Venkatesh Rao Breaking Smart](http://breakingsmart.com)
 * [William Mougayar Twitter](https://twitter.com/wmougayar), [Startup Management](http://startupmanagement.org), and [Startup Management Venture Capital Library](http://startupmanagement.org/venture-capital)
@@ -8690,6 +8689,10 @@ Mental Models
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 
 Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
+
+<!--
+https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
+-->
 
 #### Chance
 
