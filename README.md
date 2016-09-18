@@ -203,6 +203,8 @@ Alex Osterwalder
 * [Alex Osterwalder: Strategyzer Resources](https://strategyzer.com/platform/resources)
 
 <!--
+http://leanstartup.co
+
 http://blog.strategyzer.com
 http://blog.strategyzer.com/posts/2016/6/20/why-companies-fail-how-to-prevent-it?
 http://blog.strategyzer.com/posts/2015/2/03/implementing-your-business-model-with-the-galbraith-star-model
@@ -8432,6 +8434,43 @@ General Terminology
 * [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
+<!--
+https://medium.com/software-is-eating-the-world
+
+http://susandanziger.com
+
+https://medium.com/@twang
+
+https://medium.com/@henrysward
+https://esharesinc.com
+https://blog.esharesinc.com
+https://tour.esharesinc.com/corporations/7/#start_demo
+
+https://blog.captable.io
+
+https://www.kennorton.com
+
+https://medium.com/@bhorowitz
+
+https://angel.co/davidle
+https://medium.com/@davidlee
+
+http://www.minarad.com/blog
+http://ryangraves.tumblr.com
+http://blog.eladgil.com
+http://davidgcohen.com
+https://medium.com/@ericfriedman
+http://christophjanz.blogspot.de
+https://medium.com/@roybahat
+http://www.slideshare.net/mikemaplesjr
+https://medium.com/@jeremyliew
+https://medium.com/@Borthwick
+http://alexiskold.net
+https://medium.com/the-biz-stone-collection
+
+https://shaigoldman.com
+-->
+
 #### Tech Analysts, Thought Leaders
 
 * [Aaron Swartz](http://www.aaronsw.com)
@@ -8472,7 +8511,6 @@ General Terminology
 * [Jeff Atwood](http://blog.codinghorror.com) and [Jeff Atwood GitHub](https://github.com/coding-horror)
 * [Jeff Jarvis](http://buzzmachine.com) 
 * [Jeremiah Owyang](http://www.web-strategist.com/blog) and [Jeremiah Owyang Slideshare](http://www.slideshare.net/jeremiah_owyang) 
-* [Joel Spolsky](http://www.joelonsoftware.com)
 * [John Battelle](http://battellemedia.com)   
 * [John Gruber](http://daringfireball.net)   
 * [John Maeda (Creative Leadership)](http://creativeleadership.com)
@@ -8515,12 +8553,20 @@ General Terminology
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+http://www.forentrepreneurs.com
+
+www.artypapers.com
+
+https://overcast.fm/itunes863897795/the-tim-ferriss-show
+
 http://beyondthetechrevolution.com
 
 https://usesthis.com/interviews/horace.dediu
 
 https://plus.google.com/collection/EZT2b
 https://plus.google.com/collection/gbVpb
+
+http://sethgodin.typepad.com
 -->
 
 #### High Profile Developers
@@ -8536,6 +8582,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+Move othere software developers to here
+
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
@@ -8968,6 +9016,10 @@ Lists of VC Firms and Accelerators
 Angel Investors
 * [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 
+<!--
+http://www.jasonssyndicate.com
+-->
+
 Accelerators
 * [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
 * [Techstars](http://www.techstars.com)
@@ -9009,6 +9061,29 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Upfront Insights](http://insights.upfront.com)
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+
+<!--
+https://library.gv.com
+
+https://medium.com/greylock-perspectives
+http://www.slideshare.net/greylockpartners
+
+https://medium.com/@firstround
+
+blog.ycombinator.com
+https://old.ycombinator.com
+
+http://homebrewvc.tumblr.com
+
+http://versionone.vc
+http://www.k9ventures.com
+http://www.collaborativefund.com/blog
+http://foundersfund.com
+http://www.switch.vc/big-ideas
+http://indexventures.com
+https://medium.com/@DFJvc
+https://medium.com/lightspeed-venture-partners
+-->
 
 Blogs and Whatnot
 * [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
@@ -9090,6 +9165,15 @@ Federal Opportunities and Funding
 * [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
 
 #### Documents and Advice
+
+<!--
+https://www.cooleygo.com
+http://www.fenwick.com
+http://www.shakelaw.com
+http://www.shakelaw.com/blog
+https://www.wsgr.com
+https://www.wsgr.com/publications
+-->
 
 Investors on GitHub
 * [Agile Ventures](https://github.com/AgileVentures)
