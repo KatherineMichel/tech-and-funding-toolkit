@@ -8380,23 +8380,25 @@ General Terminology
 
 #### Venture Capitalists and Angel Investors
 
-* [Albert Wenger](http://continuations.com), [Albert Wenger Archive](http://continuations.com/archive), and [Albert Wenger Tech Tuesday](http://continuations.com/tagged/tech-tuesday)
+* [Albert Wenger (Continuations)](http://continuations.com), [Albert Wenger Archive](http://continuations.com/archive), and [Albert Wenger Tech Tuesday](http://continuations.com/tagged/tech-tuesday)
 * [Andrew Chen](http://andrewchen.co), [Andrew Chen List of Essay](http://andrewchen.co/list-of-essays), and [Andrew Chen Recent](http://andrewchen.co/recent), [Andrew Chen Lecture Description](http://us5.campaign-archive2.com/?u=96c185f15d9646d8014b765b7&id=9707a51462&e=d7ca30ca7d)
 * [Andy Weissman](http://blog.aweissman.com)
 * [Balaji Srinivasan A16Z](http://a16z.com/tag/balaji-s-srinivasan) and [Balaji Srinivasan Twitter](https://twitter.com/balajis) 
-* [Ben Horowitz](http://www.bhorowitz.com)  
+* [Ben Horowitz](http://www.bhorowitz.com) and [Ben Horowitz Medium](https://medium.com/@bhorowitz)
 * [Bijan Sabet Archive](http://bijansabet.com/archive) and [Bijan Sabet SoundCloud](https://soundcloud.com/bijan)
-* [Bill Gurley Archives](http://abovethecrowd.com/archives)
-* [Bill Janeway](http://www.doingcapitalism.com)
+* [Bill Gurley Archives (Above the Crowd)](http://abovethecrowd.com/archives)
+* [Bill Janeway (Doing Capitalism)](http://www.doingcapitalism.com)
 * [Brad Feld](http://www.feld.com) and [Brad Feld Archive](http://www.feld.com/archive)
 * [Bubba Murarka](http://bubba.vc)
 * [Caterina Fake](http://caterina.net)
 * [Charles Hudson](http://www.charleshudson.net) 
-* [Charlie O'Donnell](http://www.thisisgoingtobebig.com) and [Charlie O'Donnell Meet with Me](http://www.thisisgoingtobebig.com/meet-with-me) 
+* [Charlie O'Donnell (This is Going to Be Big)](http://www.thisisgoingtobebig.com) and [Charlie O'Donnell Meet with Me](http://www.thisisgoingtobebig.com/meet-with-me) 
 * [Chris Dixon](http://cdixon.org), [Chris Dixon Old Blog (Nonchalantrepreneur)](http://nonchalantrepreneur.com), and [Chris Dixon Medium](https://medium.com/@cdixon)
 * [Chris Sacca via Lowercase Capital](http://lowercasecapital.com/cables), [Lowercase Creed](http://lowercasecapital.com/creed), [Lowercase Prospecting](http://lowercasecapital.com/prospecting), and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
 * [Christine Herron](http://www.christine.net)
 * [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
+* [David G. Cohen](http://davidgcohen.com)
+* [David Skok (For Entrepreneurs)](http://www.forentrepreneurs.com)
 * [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
 * [Heidi Roizen](http://heidiroizen.tumblr.com)  
 * [Hunter Walk](http://hunterwalk.com)  
@@ -8404,16 +8406,16 @@ General Terminology
 * [Jason M. Lemkin (SaaStr](http://www.saastr.com) and [Jason M. Lemkin Medium](https://medium.com/@jasonlk)
 * [Jeff Jordan Archives](http://jeff.a16z.com/archives)  
 * [Jerry Neumann (Reaction Wheel)](http://reactionwheel.net)
-* [Jessica Livingston](http://foundersatwork.posthaven.com) and [Jessica Livingston Old Blog](http://www.foundersatwork.com/blog.html)
+* [Jessica Livingston (Founders at Work)](http://foundersatwork.posthaven.com) and [Jessica Livingston Old Blog](http://www.foundersatwork.com/blog.html)
 * [Joanne Wilson (Gotham Gal)](http://gothamgal.com/archive)
 * [John Lilly Tumblr](http://lilly.tumblr.com) and [John Lilly Slideshare](http://www.slideshare.net/johnolilly)
 * [Kanyi Maqubela](http://blog.kanyi.me)
-* [Leo Polovets](http://codingvc.com)
+* [Leo Polovets (Coding VC)](http://codingvc.com)
 * [Marc Andreessen Archive](http://blog.pmarca.com/archive), [Marc Andreessen Old Blog](http://web.archive.org/web/20070701163748/http://blog.pmarca.com), [Marc Andreessen Another Old Blog](http://pmarchive.com), and [Marc Andreessen Old Blog E-Book](http://a16z.com/2015/01/09/pmarca-blog-ebook) 
-* [Mark Suster](http://www.bothsidesofthetable.com), [Mark Suster: Both Sides of the Ghost](https://bothsidesoftheghost.wordpress.com), [Mark Suster Archive](http://www.bothsidesofthetable.com/archive), and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
+* [Mark Suster (Both Sides of the Table)](http://www.bothsidesofthetable.com), [Mark Suster (Both Sides of the Ghost)](https://bothsidesoftheghost.wordpress.com), [Mark Suster Archive](http://www.bothsidesofthetable.com/archive), and [Mark Suster Slideshare](http://www.slideshare.net/msuster)
 * [Matt Turck](http://mattturck.com)
 * [Megan Quinn Twitter](https://twitter.com/msquinn)
-* [M.G. Siegler 500ish](https://500ish.com) and [M.G. Siegler Archive](http://parislemon.com/archive) 
+* [M.G. Siegler 500ish](https://500ish.com) and [M.G. Siegler Archive (Paris Lemon)](http://parislemon.com/archive) 
 * [Naveen Selvadurai the Artist](http://x.naveen.com)
 * [Om Malik](http://om.co)
 * [Paul Graham](http://paulgraham.com/articles.html)
@@ -8421,23 +8423,21 @@ General Terminology
 * [Peter Levine Archives](http://peter.a16z.com/archives)
 * [Reid Hoffman Slideshare](http://www.slideshare.net/reidhoffman/presentations)
 * [Richard Branson](http://www.virgin.com/richard-branson)
-* [Roger Ehrenberg](http://informationarbitrage.com) and [Roger Ehrenberg Slideshare](http://www.slideshare.net/RogerEhrenberg)
+* [Roger Ehrenberg (Information Arbitrage)](http://informationarbitrage.com) and [Roger Ehrenberg Slideshare](http://www.slideshare.net/RogerEhrenberg)
+* [Roy Bahat Medium](https://medium.com/@roybahat)
 * [Sam Altman Archive](http://blog.samaltman.com/archive)
 * [Sam Lessin](http://blog.wlessin.com)
-* [Satya Patel](http://venturegeneratedcontent.com)
+* [Satya Patel (Venture Generated Content)](http://venturegeneratedcontent.com)
 * [Scott Weiss Archive](http://scott.a16z.com/archive)
 * [Semil Shah Archive](http://blog.semilshah.com/archive)
 * [Seth Levine Archive](http://www.sethlevine.com/archive)
-* [Steven Sinofsky](http://blog.learningbyshipping.com), [Steven Sinofsky Medium](https://medium.learningbyshipping.com), and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
+* [Steven Sinofsky (Learning by Shipping)](http://blog.learningbyshipping.com), [Steven Sinofsky Medium](https://medium.learningbyshipping.com), and [Steven Sinofsky Old Blog](http://blogs.msdn.com/b/techtalk)
 * [Ted Rheingold Twitter](https://twitter.com/tedr)
 * [Tomasz Tunguz](http://www.tomtunguz.com), [Tomasz Tunguz Feed](http://tomtunguz.com/feed), [Tomasz Tunguz Old Blog (Ex Post Facto)](https://ttunguz.wordpress.com), and [Tomasz Tunguz Slideshare](http://www.slideshare.net/ttunguz)
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
 <!--
-https://medium.com/@bhorowitz
 https://medium.com/software-is-eating-the-world
-
-https://medium.com/@twang
 
 https://medium.com/@henrysward
 https://esharesinc.com
@@ -8446,16 +8446,15 @@ https://tour.esharesinc.com/corporations/7/#start_demo
 
 https://blog.captable.io
 
+https://medium.com/@twang
+
 https://angel.co/davidle
 https://medium.com/@davidlee
 
 http://www.minarad.com/blog
 http://ryangraves.tumblr.com
-http://blog.eladgil.com
-http://davidgcohen.com
 https://medium.com/@ericfriedman
 http://christophjanz.blogspot.de
-https://medium.com/@roybahat
 http://www.slideshare.net/mikemaplesjr
 https://medium.com/@jeremyliew
 https://medium.com/@Borthwick
@@ -8484,7 +8483,7 @@ https://shaigoldman.com
 * [Bob Lefsetz](http://lefsetz.com)
 * [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
 * [C. Todd Lombardo Speaker Deck](https://speakerdeck.com/iamctodd)
-* [Carlota Perez](http://www.carlotaperez.org) 
+* [Carlota Perez](http://www.carlotaperez.org) and [Carlota Perez (Beyond the Tech Revolution](http://beyondthetechrevolution.com)
 * [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 * [Clay Christensen](http://www.claytonchristensen.com) 
 * [Dan Olsen Presentations Page 1](http://olsensolutions.com/speaking), [Dan Olsen Presentations Page 2](http://product-jobs.com/speaking2), [Dan Olsen Presentations Page 3](http://product-jobs.com/speaking3), and [Dan Olsen Slideshare](http://www.slideshare.net/dan_o)
@@ -8492,6 +8491,7 @@ https://shaigoldman.com
 * [Dao Nguyen](http://www.buzzfeed.com/daozers)
 * [Dave Winer](http://scripting.com) and [Dave Winer GitHub](https://github.com/scripting)
 * [Doc Searls](http://blogs.law.harvard.edu/doc) 
+* [Elad Gil](http://blog.eladgil.com)
 * [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
 * [Eric Schmidt](http://www.slideshare.net/ericschmidt)
 * [Ev Williams Medium](https://medium.com/@ev) 
@@ -8509,6 +8509,7 @@ https://shaigoldman.com
 * [John Maeda (Creative Leadership)](http://creativeleadership.com)
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
 * [Justin Kan](http://justinkan.com)
+* [Ken Norton](https://www.kennorton.com)
 * [Kevin Kelly](http://kk.org/kk)
 * [Kevin Marks](http://www.kevinmarks.com) and [Kevin Marks GitHub](https://github.com/kevinmarks)
 * [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
@@ -8521,6 +8522,7 @@ https://shaigoldman.com
 * [Michael Dearing (Harrison Metal)](https://www.harrisonmetal.com)
 * [Naval Ravikant](http://startupboy.com)
 * [Peter Rojas](http://roj.as/contact)
+* [Rebekah Cox (Arty Papers)](www.artypapers.com)
 * [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
 * [Rick Klau Medium](https://medium.com/@rklau)
 * [Robert Scoble Facebook](https://www.facebook.com/RobertScoble)
@@ -8534,6 +8536,7 @@ https://shaigoldman.com
 * [Startup L. Jackson Archive](http://startupljackson.com/archive)  
 * [Steve Blank](http://steveblank.com), [Steve Blank Slides](http://steveblank.com/slides), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 * [Stowe Boyd](http://stoweboyd.com)
+* [Susan Danzinger](http://susandanziger.com)
 * [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 * [Tom Peters](http://tompeters.com), [Tom Peters Slides](http://tompeters.com/slides), and [Tom Peters Excellence Now](http://excellencenow.com) 
@@ -8543,23 +8546,12 @@ https://shaigoldman.com
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
-http://susandanziger.com
-https://www.kennorton.com
-
-http://www.forentrepreneurs.com
-
-www.artypapers.com
-
 https://overcast.fm/itunes863897795/the-tim-ferriss-show
-
-http://beyondthetechrevolution.com
 
 https://usesthis.com/interviews/horace.dediu
 
 https://plus.google.com/collection/EZT2b
 https://plus.google.com/collection/gbVpb
-
-http://sethgodin.typepad.com
 -->
 
 #### High Profile Developers
@@ -8578,8 +8570,6 @@ http://sethgodin.typepad.com
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
-Move othere software developers to here
-
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
@@ -8605,12 +8595,19 @@ Awards
 
 #### Inventors, Economists, Philosophers
 
-* [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
-* [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
-* [List of Philosphers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+Philosophers and Psychologists
+* [List of Philosophers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
 * [Abraham Maslow Wikipedia](https://en.wikipedia.org/wiki/Abraham_Maslow)
-* [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 * [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
+* [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
+
+Inventors
+* [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
+
+Economists
+* [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
+* [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+* [Deirdre McCloskey](http://www.deirdremccloskey.com)
 * [George Soros Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
 * [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
 * [Joseph Stiglitz Wikipedia](https://en.wikipedia.org/wiki/Joseph_Stiglitz)
@@ -8622,7 +8619,6 @@ Awards
 * [René Girard (Influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
 * [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 * [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
-* [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 * [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
 
 <!--
@@ -8647,10 +8643,6 @@ http://www.greatachievements.org
 <!--
 https://paulromer.net
 
-Deirdre McCloskey
-http://www.deirdremccloskey.com
-
-http://abnormalreturns.com
 https://twitter.com/EmanuelDerman
 https://twitter.com/EdBorgato
 https://twitter.com/BasonAsset
@@ -9037,7 +9029,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 * [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
 * [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
-* [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
+* [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Medium](https://medium.com/@firstround), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
 * [Founders Club Learn](https://fundersclub.com/learn)  
 * [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 * [KPCB Articles](http://www.kpcb.com/articles), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
@@ -9059,8 +9051,6 @@ https://library.gv.com
 
 https://medium.com/greylock-perspectives
 http://www.slideshare.net/greylockpartners
-
-https://medium.com/@firstround
 
 blog.ycombinator.com
 https://old.ycombinator.com
@@ -9914,6 +9904,10 @@ Business News
 * [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
 * [Wealthfront Blog](https://blog.wealthfront.com) 
 
+<!--
+http://www.fastcompany.com
+-->
+
 Venture Analysis
 * [Fortune Venture](http://fortune.com/venture) and [Fortune Termsheet](http://fortune.com/newsletter/termsheet)
 * [Graham and Doddsville](http://www.grahamanddoddsville.net)
@@ -9974,8 +9968,6 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
-http://www.fastcompany.com
-
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
@@ -10071,7 +10063,8 @@ Analyst Groups
 * [CreditSuisse Plus](https://plus.credit-suisse.com/researchplus)
 * [Deloitte](http://www2.deloitte.com/us/en.html) and [Deloitte University Press](http://dupress.com)
 * [Forrester](http://www.forrester.com/home) and [Forrester Blog](http://blogs.forrester.com)
-* [Gartner](http://www.gartner.com), [Gartner: Twitter](https://twitter.com/Gartner_inc), [Gartner Technology](http://www.gartner.com/technology/home.jsp), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+* [Gartner](http://www.gartner.com), [Gartner Twitter](https://twitter.com/Gartner_inc), [Gartner Technology](http://www.gartner.com/technology/home.jsp), [Gartner Methodology](http://www.gartner.com/technology/research/methodologies/methodology.jsp), [Gartner Hype Cycles](http://www.gartner.com/technology/research/methodologies/hype-cycles.jsp), [Gartner Hype Cycle for Emerging Technologies, 2014](http://www.gartner.com/newsroom/id/2819918?_ga=1.51071721.1904172021.1401730474), and [Gartner Magic Quadrants](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp)
+* [Gartner Innovation Center](http://www.gartner.com/smarterwithgartner/innovation-center-get-started)
 * [GMO (Jeremy Grantham)](https://www.gmo.com)
 * [Goldman Sachs Our Thinking](http://www.goldmansachs.com/our-thinking)
 * [IDC](http://www.idc.com)
@@ -10085,10 +10078,6 @@ Analyst Groups
 * [PricewaterhouseCoopers MoneyTree](http://www.pwcmoneytree.com)
 * [RedMonk Twitter](https://twitter.com/redmonk)  
 * [State of the Internet](http://www.stateoftheinternet.com)
-
-<!--
-http://www.gartner.com/smarterwithgartner/innovation-center-get-started
--->
 
 Management Consulting Firms
 * [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
