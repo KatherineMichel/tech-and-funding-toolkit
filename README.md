@@ -465,7 +465,6 @@ Project Management- Obvious Software
 * [Asana](https://asana.com), [Instagantt](http://instagantt.com), and [Asana Instagantt Guide](https://asana.com/guide/help/api/instagantt)
 
 Project Management- Less Obvious Software
-* [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx) and [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e) 
 * [GitLab](https://about.gitlab.com)
 * [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 * [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), [Slack API](https://api.slack.com/custom-integrations), and [Slack API Submission](https://slackhq.typeform.com/to/kOHQvo)
@@ -8435,9 +8434,8 @@ General Terminology
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
 <!--
+https://medium.com/@bhorowitz
 https://medium.com/software-is-eating-the-world
-
-http://susandanziger.com
 
 https://medium.com/@twang
 
@@ -8447,10 +8445,6 @@ https://blog.esharesinc.com
 https://tour.esharesinc.com/corporations/7/#start_demo
 
 https://blog.captable.io
-
-https://www.kennorton.com
-
-https://medium.com/@bhorowitz
 
 https://angel.co/davidle
 https://medium.com/@davidlee
@@ -8478,7 +8472,6 @@ https://shaigoldman.com
 * [Alan Kay Wikipedia](https://en.wikipedia.org/wiki/Alan_Kay)
 * [Alex Howard Slideshare](http://www.slideshare.net/digiphile)
 * [Alex Osterwalder](http://www.alexosterwalder.com), [Alex Osterwalder Twitter](https://twitter.com/alexosterwalder), and [Alex Osterwalder Slideshare](http://www.slideshare.net/Alex.Osterwalder)
-* [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
 * [Andrew Sullivan](http://dish.andrewsullivan.com)  
 * [Andy Grove Wikipedia](https://en.wikipedia.org/wiki/Andrew_Grove)
 * [Anil Dash](http://dashes.com/anil)
@@ -8514,7 +8507,6 @@ https://shaigoldman.com
 * [John Battelle](http://battellemedia.com)   
 * [John Gruber](http://daringfireball.net)   
 * [John Maeda (Creative Leadership)](http://creativeleadership.com)
-* [John Resig](http://ejohn.org/blog) 
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass)
 * [Justin Kan](http://justinkan.com)
 * [Kevin Kelly](http://kk.org/kk)
@@ -8522,8 +8514,6 @@ https://shaigoldman.com
 * [Kevin Weil Slideshare](http://www.slideshare.net/kevinweil) 
 * [Loic Le Meur](http://loiclemeur.com/english) and [Loic Le Meur Slideshare](http://www.slideshare.net/loiclemeur)
 * [Louis Gray](http://blog.louisgray.com)
-* [Luke Wroblewski](http://www.lukew.com)
-* [Marco Arment](http://www.marco.org)
 * [Marshall Kirkpatrick](http://marshallk.com)
 * [Matt Cutts](http://www.mattcutts.com/blog)   
 * [Matt Mullenweg](http://ma.tt)
@@ -8553,6 +8543,9 @@ https://shaigoldman.com
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+http://susandanziger.com
+https://www.kennorton.com
+
 http://www.forentrepreneurs.com
 
 www.artypapers.com
@@ -8571,12 +8564,15 @@ http://sethgodin.typepad.com
 
 #### High Profile Developers
 
+* [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
 * [Dan Sinker GitHub](https://github.com/sinker)
 * [Harper Reed GitHub](https://github.com/harperreed)
+* [John Resig](http://ejohn.org/blog) 
 * [Joel Spolsky](http://www.joelonsoftware.com)
 * [Kellan Elliot-McCrea Medium](https://medium.com/@kellan)
 * [Kenneth Reitz (Heroku/Python)](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz-archive/.com)
-* [Marco Arment GitHub](https://github.com/marcoarment)
+* [Luke Wroblewski](http://www.lukew.com)
+* [Marco Arment](http://www.marco.org) and [Marco Arment GitHub](https://github.com/marcoarment)
 * [Mark Otto GitHub](https://github.com/mdo)
 * [Zac Holman](http://zachholman.com)
 * [Zed Shaw GitHub](https://github.com/zedshaw)
@@ -9014,11 +9010,7 @@ Lists of VC Firms and Accelerators
 * [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
 
 Angel Investors
-* [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
-
-<!--
-http://www.jasonssyndicate.com
--->
+* [Jason Calcanis Syndicate](http://www.jasonssyndicate.com), [Jason Calcanis Syndicate AngelList](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 
 Accelerators
 * [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
@@ -9166,15 +9158,6 @@ Federal Opportunities and Funding
 
 #### Documents and Advice
 
-<!--
-https://www.cooleygo.com
-http://www.fenwick.com
-http://www.shakelaw.com
-http://www.shakelaw.com/blog
-https://www.wsgr.com
-https://www.wsgr.com/publications
--->
-
 Investors on GitHub
 * [Agile Ventures](https://github.com/AgileVentures)
 * [Indie.vc](https://github.com/indievc)
@@ -9194,6 +9177,15 @@ Law and Transaction Services
 * [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx) and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
 * [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 * [Fortis](http://fortisrep.com) 
+
+<!--
+https://www.cooleygo.com
+http://www.fenwick.com
+http://www.shakelaw.com
+http://www.shakelaw.com/blog
+https://www.wsgr.com
+https://www.wsgr.com/publications
+-->
 
 VCs on Standard Docs and Terms
 * [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
@@ -10164,13 +10156,12 @@ Hiten Shah and Neil Patel
 
 <!--
 https://mixpanel.com
-https://blog.bufferapp.com
 http://blog.trello.com
 https://blog.optimizely.com
 -->
 
 Popular Tools
-* [Buffer](https://bufferapp.com)
+* [Buffer](https://bufferapp.com) and [Buffer Blog](https://blog.bufferapp.com)
 * [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
 * [Detour Blog](http://blog.detour.com)
 * [Help Scout](http://www.helpscout.net)
@@ -10204,6 +10195,12 @@ Mobile Two Factor Authentication
 * [Time-Based One-time Password Algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) and [HMAC-Based One-time Password Algorithm](https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm)
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
+Microsoft Office
+* [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx), [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e), and [Office Blog](https://blogs.office.com)
+
+Browser
+* [OneTab](https://www.one-tab.com)
+
 Google Products
 * [Google Products](http://www.google.com/intl/en/about/products) 
 * [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
@@ -10233,12 +10230,6 @@ Google World
 Alerts
 * [Google Alerts](https://www.google.com/alerts)
 * [New York Times Alerts](http://www.nytimes.com/content/help/account/myalerts/myalerts.html)
-
-<!--
-https://www.one-tab.com
-
-https://blogs.office.com
--->
 
 Social Media
 * [Facebook](https://www.facebook.com) and [Facebook Support](https://www.facebook.com/help)
