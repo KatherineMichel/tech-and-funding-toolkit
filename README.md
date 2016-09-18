@@ -8439,15 +8439,6 @@ General Terminology
 <!--
 https://medium.com/software-is-eating-the-world
 
-https://medium.com/@henrysward
-https://esharesinc.com
-https://blog.esharesinc.com
-https://tour.esharesinc.com/corporations/7/#start_demo
-
-https://blog.captable.io
-
-https://medium.com/@twang
-
 https://angel.co/davidle
 https://medium.com/@davidlee
 
@@ -8546,6 +8537,10 @@ https://shaigoldman.com
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+https://medium.com/@henrysward
+
+https://medium.com/@twang
+
 https://overcast.fm/itunes863897795/the-tim-ferriss-show
 
 https://usesthis.com/interviews/horace.dediu
@@ -8598,7 +8593,11 @@ Awards
 Philosophers and Psychologists
 * [List of Philosophers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
 * [Abraham Maslow Wikipedia](https://en.wikipedia.org/wiki/Abraham_Maslow)
+* [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 * [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
+* [Karl Popper Wikipedia](https://en.wikipedia.org/wiki/Karl_Popper)
+* [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+* [René Girard (Influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard) 
 * [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 
 Inventors
@@ -8606,17 +8605,15 @@ Inventors
 
 Economists
 * [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
-* [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 * [Deirdre McCloskey](http://www.deirdremccloskey.com)
 * [George Soros Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
 * [Jean Tirole Wikipedia](http://en.wikipedia.org/wiki/Jean_Tirole)  
 * [Joseph Stiglitz Wikipedia](https://en.wikipedia.org/wiki/Joseph_Stiglitz)
-* [Karl Popper Wikipedia](https://en.wikipedia.org/wiki/Karl_Popper)
-* [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+* [Justin Wolfers Twitter](https://twitter.com/JustinWolfers)
 * [Milton Friedman Wikipedia](http://en.wikipedia.org/wiki/Milton_Friedman)  
 * [Noah Smith](http://noahpinionblog.blogspot.com)
+* [Paul Romer](https://paulromer.net)
 * [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
-* [René Girard (Influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard)  
 * [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 * [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
 * [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
@@ -8641,8 +8638,6 @@ http://www.greatachievements.org
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
 <!--
-https://paulromer.net
-
 https://twitter.com/EmanuelDerman
 https://twitter.com/EdBorgato
 https://twitter.com/BasonAsset
@@ -8726,6 +8721,7 @@ Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
 * [Measuring the Moat](http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf)
 * [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
 * [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+
 * [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
 
 Nassim Nicholas Taleb: Antifragile and The Black Swan
@@ -9169,6 +9165,8 @@ Law and Transaction Services
 * [Fortis](http://fortisrep.com) 
 
 <!--
+https://medium.com/@twang
+
 https://www.cooleygo.com
 http://www.fenwick.com
 http://www.shakelaw.com
@@ -9239,7 +9237,13 @@ Document Web Services
 * [Visible](https://visible.vc) 
 
 <!--
+https://medium.com/@henrysward
+https://esharesinc.com
 https://esharesinc.com/investor-services
+https://blog.esharesinc.com
+https://tour.esharesinc.com/corporations/7/#start_demo
+
+https://blog.captable.io
 -->
 
 Cap Table
@@ -9904,10 +9908,6 @@ Business News
 * [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
 * [Wealthfront Blog](https://blog.wealthfront.com) 
 
-<!--
-http://www.fastcompany.com
--->
-
 Venture Analysis
 * [Fortune Venture](http://fortune.com/venture) and [Fortune Termsheet](http://fortune.com/newsletter/termsheet)
 * [Graham and Doddsville](http://www.grahamanddoddsville.net)
@@ -9936,12 +9936,8 @@ Ivy League Business and Tech
 * [Harvard Business School Working Knowledge](http://hbswk.hbs.edu)
 * [MIT Sloan Review](http://sloanreview.mit.edu)
 * [MIT Technology Review](http://www.technologyreview.com)
-* [Stanford News](http://news.stanford.edu)
+* [Stanford News](http://news.stanford.edu) and [Stanford Graduate School of Business Insights](http://www.gsb.stanford.edu/insights)
 * [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
-
-<!--
-http://www.gsb.stanford.edu
--->
 
 STEM Journals 
 * [ACM Publications](https://www.acm.org/publications), [ACM Digital Library](http://dl.acm.org), [Journal of the ACM](http://jacm.acm.org), and [ACM Queue](http://queue.acm.org)
@@ -9976,6 +9972,7 @@ Nuzzel Custom Feeds
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
 
 Tech Periodical
+* [Fast Company Technology](https://www.fastcompany.com/technology)
 * [Mashable Tech](http://mashable.com/category/tech)
 * [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
 * [Recode](http://recode.net)
