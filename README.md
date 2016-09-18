@@ -6098,6 +6098,10 @@ Python- Django- Wagtail (Recommended)
 * [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template) 
 * [Wagtail Docs](https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf)
 
+<!--
+http://docs.wagtail.io
+-->
+
 Python- Django- Other CMS and E-Commerce Options
 * [Django Fluent CMS](http://django-fluent.org), [Django Fluent CMS GitHub](https://github.com/edoburu), and [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
 * [Django Shop GitHub](https://github.com/divio/django-shop)  
@@ -9701,6 +9705,8 @@ Good Infographics
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
 <!--
+https://twitter.com/ValaAfshar/status/747983462892711938
+
 Digital Marketing Transit Map
 https://twitter.com/ValaAfshar/status/602832772143525888
 
