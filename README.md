@@ -290,7 +290,7 @@ Product Tiers
 Database List
 * [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
 * [CB Insights](https://www.cbinsights.com)
-* [CrunchBase](http://www.crunchbase.com)
+* [CrunchBase](http://www.crunchbase.com) and [Crunchbase Pro](https://www.crunchbase.com/app/info/pro)
 * [Datafox](http://www.datafox.co)
 * [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
 * [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
@@ -301,8 +301,6 @@ Database List
 https://alist.co
 https://angel.co/spv
 http://blog.angel.co/post/131017147560/csc-upshot
-
-https://www.crunchbase.com/app/info/pro
 
 https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
 
@@ -8404,6 +8402,7 @@ General Terminology
 * [Christine Herron](http://www.christine.net)
 * [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
 * [David G. Cohen](http://davidgcohen.com)
+* [David Lee Medium](https://medium.com/@davidlee)
 * [David Skok (For Entrepreneurs)](http://www.forentrepreneurs.com)
 * [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
 * [Heidi Roizen](http://heidiroizen.tumblr.com)  
@@ -8444,10 +8443,7 @@ General Terminology
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
 <!--
-https://medium.com/software-is-eating-the-world
-
 https://angel.co/davidle
-https://medium.com/@davidlee
 
 http://www.minarad.com/blog
 https://medium.com/@ericfriedman
@@ -9050,6 +9046,22 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
 <!--
+https://www.linkedin.com/pulse/unit-value-framework-scaling-jerry-chen
+
+https://mattermark.com/want-learn-venture-capital
+https://mattermark.com/how-to-not-die
+
+http://heidiroizen.tumblr.com/post/139377970205/dear-startups-heres-how-to-stay-alive
+
+http://www.wsj.com/articles/andreessen-horowitzs-returns-trail-venture-capital-elite-1472722381
+https://bothsidesofthetable.com/what-to-make-of-andreessen-horowitzs-returns-cfbd562eeab9#.qlgull9yk
+https://medium.com/@adammarx13/responses-to-the-wall-street-journals-andreessen-horowitz-piece-16615e6e1c0c#.16ft9bgpt
+
+https://medium.com/software-is-eating-the-world
+
+http://susandanziger.com/post/136747360647/the-quick-and-dirty-on-launching-a-startup
+http://susandanziger.com/post/141430639837/the-big-secret-to-starting-a-company-hint-its
+
 https://library.gv.com
 
 https://medium.com/greylock-perspectives
@@ -10368,6 +10380,11 @@ Kits
 Swag
 * [Teespring](http://teespring.com)
 * [Sticker Mule](https://www.stickermule.com)
+
+<!--
+Business Cards
+https://www.moo.com/us
+-->
 
 Admin, Hiring, Payroll, Expenses
 * [Clara Labs](https://claralabs.com) 
