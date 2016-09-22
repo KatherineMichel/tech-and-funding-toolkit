@@ -7410,7 +7410,7 @@ Android Learning Materials
 * [Yelp Android School GitHub](https://github.com/Yelp/android-school)
 
 <!--
-http://codepath.com/courses/airbnb
+* [Codepath Airbnb Android and iOS Bootcamp](http://codepath.com/courses/airbnb)
 -->
 
 CyanogenMod
@@ -8445,7 +8445,6 @@ General Terminology
 <!--
 https://angel.co/davidle
 
-http://www.minarad.com/blog
 https://medium.com/@ericfriedman
 http://christophjanz.blogspot.de
 http://www.slideshare.net/mikemaplesjr
@@ -8486,6 +8485,7 @@ https://medium.com/the-biz-stone-collection
 * [Ev Williams Medium](https://medium.com/@ev) 
 * [Felix Dennis Wikipedia](https://en.wikipedia.org/wiki/Felix_Dennis)
 * [Guy Kawasaki](http://guykawasaki.com) and [Guy Kawasaki Slideshare](http://www.slideshare.net/GuyKawasaki)
+* [Henry S. Ward Medium](https://medium.com/@henrysward)
 * [Hiten Shah](http://hitenism.com) 
 * [Horace Dediu](http://www.asymco.com) 
 * [Jake Knapp](https://medium.com/@jakek)
@@ -8509,6 +8509,7 @@ https://medium.com/the-biz-stone-collection
 * [Matt Mullenweg](http://ma.tt)
 * [Michael Arrington](http://uncrunched.com) 
 * [Michael Dearing (Harrison Metal)](https://www.harrisonmetal.com)
+* [Mina Rad](http://www.minarad.com/blog)
 * [Naval Ravikant](http://startupboy.com)
 * [Peter Rojas](http://roj.as/contact)
 * [Rebekah Cox (Arty Papers)](www.artypapers.com)
@@ -8526,6 +8527,7 @@ https://medium.com/the-biz-stone-collection
 * [Steve Blank](http://steveblank.com), [Steve Blank Slides](http://steveblank.com/slides), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 * [Stowe Boyd](http://stoweboyd.com)
 * [Susan Danzinger](http://susandanziger.com)
+* [Ted Wang Medium](https://medium.com/@twang)
 * [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Tom Eisenmann](http://platformsandnetworks.blogspot.com)
 * [Tom Peters](http://tompeters.com), [Tom Peters Slides](http://tompeters.com/slides), and [Tom Peters Excellence Now](http://excellencenow.com) 
@@ -8536,10 +8538,6 @@ https://medium.com/the-biz-stone-collection
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
-https://medium.com/@henrysward
-
-https://medium.com/@twang
-
 https://overcast.fm/itunes863897795/the-tim-ferriss-show
 
 https://usesthis.com/interviews/horace.dediu
@@ -8582,6 +8580,7 @@ https://m.signalvnoise.com/@jasonfried
 * [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
 
 Awards
+* [MacArthur Foundation Fellows](https://www.macfound.org/programs/fellows)
 * [Nobel Prizes](http://www.nobelprize.org/nobel_prizes)
 * [Pulitzer Prizes](http://www.pulitzer.org)
 * [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
@@ -9177,15 +9176,13 @@ Law and Transaction Services
 * [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
 * [Gunderson Dettmer](http://www.gunder.com)
 * [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
-* [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
+* [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx) and [Ted Wang Medium](https://medium.com/@twang)
 * [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
 * [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx) and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
 * [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 * [Fortis](http://fortisrep.com) 
 
 <!--
-https://medium.com/@twang
-
 https://www.cooleygo.com
 http://www.fenwick.com
 http://www.shakelaw.com
@@ -9250,19 +9247,15 @@ Carried Interest 101
 * [Wilson Sonsini Goodrich & Rosati: Venture Capital Fund Carried Interests](http://www.slideshare.net/Freddy56/venture-capital-fund-carried-interests)
 
 Document Web Services
-* [Captable.io](https://captable.io)  
+* [Captable.io](https://captable.io) and [Captable.io Blog](https://blog.captable.io)
 * [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
-* [Eshares Inc](https://www.esharesinc.com)
+* [Eshares Inc](https://www.esharesinc.com) and [Eshares Inc Blog](https://blog.esharesinc.com)
 * [Visible](https://visible.vc) 
 
 <!--
 https://medium.com/@henrysward
-https://esharesinc.com
 https://esharesinc.com/investor-services
-https://blog.esharesinc.com
 https://tour.esharesinc.com/corporations/7/#start_demo
-
-https://blog.captable.io
 -->
 
 Cap Table
@@ -9761,6 +9754,7 @@ http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=U
 https://en.m.wikipedia.org/wiki/Anthropomorphism
 
 https://en.wikipedia.org/wiki/360-degree_feedback
+
 https://en.wikipedia.org/wiki/Institutional_memory
 https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
 -->
@@ -10471,8 +10465,6 @@ https://www.producthunt.com/tech/makerbook-2
 <!--
 https://productmap.co
 http://www.communitybuildingguide.com
-http://growth.supply/free
-http://makerbook.net
 https://startuplaunchlist.com
 http://www.bookicious.com/collections
 https://entrepreneur-tools.zeef.com/keyhanimo
