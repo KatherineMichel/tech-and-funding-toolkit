@@ -9174,20 +9174,17 @@ A16Z Funding and Valuation Advice
 Law and Transaction Services
 * [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 * [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
+* [Cooley Go](https://www.cooleygo.com)
 * [Gunderson Dettmer](http://www.gunder.com)
-* [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
+* [Fenwick & West LLP](https://www.fenwick.com) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
 * [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx) and [Ted Wang Medium](https://medium.com/@twang)
 * [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
-* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx) and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
+* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com) and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
 * [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 * [Fortis](http://fortisrep.com) 
 
 <!--
-https://www.cooleygo.com
-http://www.fenwick.com
-http://www.shakelaw.com
 http://www.shakelaw.com/blog
-https://www.wsgr.com
 https://www.wsgr.com/publications
 -->
 
@@ -9230,11 +9227,8 @@ Standard Docs- International
 * [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
 * [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
 
-<!--
-https://library.gv.com/pitch-perfect-92a9ab5b5baa#.7ivbbvi0j
--->
-
 VC Firm Pitch Deck and Operational Report Templates
+* [Rick Klau/Google Ventures: "Pitch perfect: Five elements of a great pitch"](https://library.gv.com/pitch-perfect-92a9ab5b5baa#.7ivbbvi0j)
 * [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
 * [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
 * [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
@@ -9704,27 +9698,23 @@ Google
 
 Good Infographics
 * [Andy Carvell: The Mobile Growth Stack Revised](https://medium.com/mobile-growth/2015-the-mobile-growth-stack-revised-58f5d11d43f3)
-* [MarTech 2016 Marketing Technology Landscape](http://cdn.chiefmartec.com/wp-content/uploads/2016/03/marketing_technology_landscape_2016_3000px.jpg)
+* [Chief MarTech 2016 Marketing Technology Landscape](http://cdn.chiefmartec.com/wp-content/uploads/2016/03/marketing_technology_landscape_2016_3000px.jpg)
+* [Gartner Digital Marketing Transit Map](https://www.gartner.com/technology/research/digital-marketing/transit-map.jsp)
 * [IDC 2015 Marketing Technology Map](http://blogs-images.forbes.com/louiscolumbus/files/2015/01/market-map-taxonomy1.jpg) and [Forbe's IDC 2015 Marketing Technology Map](http://www.forbes.com/sites/louiscolumbus/2015/01/17/idc-predicts-cmos-will-drive-32-3b-in-marketing-technology-spending-by-2018) 
 * [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
 <!--
-https://twitter.com/ValaAfshar/status/747983462892711938
-
-Digital Marketing Transit Map
-https://twitter.com/ValaAfshar/status/602832772143525888
-
-https://451research.com/state-of-the-database-landscape
-
-http://marketingland.com/infographic-2015-marketing-technology-landscape-113956
-
-https://twitter.com/ValaAfshar/status/602832772143525888
-http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
+https://twitter.com/dhinchcliffe
 
 https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
 https://hbr.org/2013/05/what-makes-a-good-corporate-st
+
+https://451research.com/state-of-the-database-landscape
+
+https://twitter.com/ValaAfshar/status/747983462892711938
+http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.html
 
 https://twitter.com/sean_a_rose/status/593260107066048512
 -->
@@ -10239,6 +10229,11 @@ Social Media
 * [Pinterest](https://www.pinterest.com)
 * [Snapchat](https://www.snapchat.com) and [Snapchat Blog](http://blog.snapchat.com)
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
+
+<!--
+https://mobile.twitter.com/home
+https://m.facebook.com
+-->
 
 Twitter Tools
 * [Noah Liebman Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
