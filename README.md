@@ -2788,16 +2788,13 @@ https://twitter.com/archiveteam
 -->
 
 Programming Groups
+* [Codettes](http://www.codettes.net)
 * [Django Girls](https://djangogirls.org)
 * [Golang Bridge](http://golangbridge.org)
 * [Women Who Go](http://www.womenwhogo.org)
 * [Node Together](http://www.nodetogether.org)
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
-
-<!--
-http://www.codettes.net
--->
 
 Programming and Math Learning Tools (See also MOOCs)
 * [Arduino](https://www.arduino.cc)
@@ -2980,13 +2977,10 @@ GNU Software and Manuals
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 * [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
 
-KDE
+KDE and KHTML
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
-
-<!--
-https://en.wikipedia.org/wiki/KHTML
--->
+* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
 
 Developer Surveys
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
@@ -3174,11 +3168,9 @@ Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
 * [Squarespace Templates](https://www.squarespace.com/websites), [Squarespace Customers](https://www.squarespace.com/customers), and [Squarespace Local Development](http://developers.squarespace.com/local-development) 
 * [Weebly Themes](http://www.weebly.com/themes)
-* [Wix Templates](http://www.wix.com/website/templates)
+* [Wix Templates](http://www.wix.com/website/templates) and [Wix Premium Plans](http://www.wix.com/upgrade/premium-plans)
 
 <!--
-http://www.wix.com/upgrade/premium-plans
-
 https://engineering.squarespace.com/blog/2016/the-developer-platform-gets-local
 -->
 
@@ -3467,7 +3459,6 @@ https://responsivedesign.is/develop/browser-feature-support/media-queries-for-co
 -->
 
 Responsiveness- and Media Queries
-* [Media Queries Examples](http://mediaqueri.es)
 * [Bootstrap CSS](http://getbootstrap.com/css)
 * [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
@@ -3476,9 +3467,9 @@ Responsiveness- and Media Queries
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
 * [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
 
-<!--
-https://responsivedesign.is/examples
--->
+Responsive Design Examples
+* [Media Queries Examples](http://mediaqueri.es)
+* [Responsive Design Examples](https://responsivedesign.is/examples)
 
 Bootstrap, Font Awesome
 * [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
@@ -3942,9 +3933,6 @@ Golang, otherwise known as "Go"
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 
 <!--
-http://gohugo.io
-https://github.com/spf13/hugo
-
 https://gobyexample.com
 https://tour.golang.org/welcome/1
 
@@ -3963,6 +3951,11 @@ Golang- Frameworks
 * [Gin GitHub](https://github.com/gin-gonic/gin) 
 * [Martini GitHub](https://github.com/go-martini/martini)
 * [Revel GitHub](https://github.com/revel/revel)
+
+<!--
+http://gohugo.io
+https://github.com/spf13/hugo
+-->
 
 Java- General
 * [Java Website](http://www.java.com/en)  
@@ -6298,6 +6291,7 @@ http://il.pycon.org/2016/about/speakers.html
 #### Deployment and Cloud
 
 Status
+* [GitBook Status](http://status.gitbook.com)
 * [GitHub Status](https://status.github.com/messages) and [GitHub Status Twitter](https://twitter.com/githubstatus)
 * [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
@@ -6318,7 +6312,7 @@ https://console.cloud.google.com/code/develop/repo
 -->
 
 Consoles
-* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
+* [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
 * [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 * [GitHub Settings](https://github.com/settings)
 * [Heroku Dashboard](https://dashboard.heroku.com)
@@ -6327,9 +6321,6 @@ Consoles
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
 
 <!--
-http://status.gitbook.com/
-https://www.google.com/webmasters/tools/dashboard
-
 Digital Ocean
 http://ipaddress/info.php
 
@@ -8189,7 +8180,6 @@ Python- Statistics Stack- iPython Reference
 * [iPython Docs](http://ipython.org/ipython-doc/stable/index.html)  
 * [iPython Notebook Docs](http://ipython.org/ipython-doc/2/notebook/index.html)  
 * [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)  
-
 <!--
 http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
 -->
@@ -9179,13 +9169,12 @@ Law and Transaction Services
 * [Fenwick & West LLP](https://www.fenwick.com) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
 * [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx) and [Ted Wang Medium](https://medium.com/@twang)
 * [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
-* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com) and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
+* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com), [Wilson Sonsini Goodrich & Rosati Publications](https://www.wsgr.com/publications), and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
 * [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 * [Fortis](http://fortisrep.com) 
 
 <!--
 http://www.shakelaw.com/blog
-https://www.wsgr.com/publications
 -->
 
 VCs on Standard Docs and Terms
@@ -10244,6 +10233,12 @@ Pinterest
 * [Pinterest Blog](http://blog.pinterest.com)
 * [Pinterest for Business](https://business.pinterest.com)
 
+<!--
+https://www.etsy.com/pattern
+
+https://www.twilio.com/marketplace/add-ons
+-->
+
 LinkedIn
 * [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
 * [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
@@ -10384,12 +10379,6 @@ Admin, Hiring, Payroll, Expenses
 * [Sunrise Calendar (Going away)](https://calendar.sunrise.am)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
-
-<!--
-https://www.etsy.com/pattern
-
-https://www.twilio.com/marketplace/add-ons
--->
 
 Logistics
 * [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
