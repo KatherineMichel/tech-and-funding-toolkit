@@ -8468,6 +8468,7 @@ https://medium.com/the-biz-stone-collection
 * [Danielle Morrill](http://www.daniellemorrill.com), [Danielle Morrill Medium](https://medium.com/@DanielleMorrill) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
 * [Dao Nguyen](http://www.buzzfeed.com/daozers)
 * [Dave Winer](http://scripting.com) and [Dave Winer GitHub](https://github.com/scripting)
+* [Dion Hinchcliffe Twitter](https://twitter.com/dhinchcliffe)
 * [Doc Searls](http://blogs.law.harvard.edu/doc) 
 * [Elad Gil](http://blog.eladgil.com)
 * [Eric Ries](http://www.startuplessonslearned.com) and [Eric Ries (Startup Lessons Learned) Slideshare](http://www.slideshare.net/startuplessonslearned) 
@@ -9694,8 +9695,6 @@ Good Infographics
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
 <!--
-https://twitter.com/dhinchcliffe
-
 https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
 https://hbr.org/2013/05/what-makes-a-good-corporate-st
@@ -10219,10 +10218,9 @@ Social Media
 * [Snapchat](https://www.snapchat.com) and [Snapchat Blog](http://blog.snapchat.com)
 * [Google+](https://plus.google.com) and [Google Support](https://support.google.com)
 
-<!--
-https://mobile.twitter.com/home
-https://m.facebook.com
--->
+Social Media- Mobile
+* [Facebook Mobile](https://m.facebook.com)
+* [Twitter Mobile](https://mobile.twitter.com)
 
 Twitter Tools
 * [Noah Liebman Twitter List Copy](http://noahliebman.com/listcopy/connect.php) 
