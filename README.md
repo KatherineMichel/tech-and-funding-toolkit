@@ -7650,55 +7650,54 @@ Platforms
 * [Steam](http://store.steampowered.com) and [Steam Community](http://steamcommunity.com)
 * [Twitch TV](http://www.twitch.tv)
 
+Tilt Brush
+* [Tilt Brush](https://www.tiltbrush.com)
+
 Software
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com) 
 * [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
 Hardware
+* [GoPro](https://gopro.com)
 * [Google VR Cardboard iOS](https://developers.google.com/cardboard/ios/get-started) and [Google VR Cardboard Jump](https://www.google.com/get/cardboard/jump)
 * [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
 Equipment
 * [NVIDIA Developer](https://developer.nvidia.com)
+* ["Why NVIDIA Docker"](https://github.com/NVIDIA/nvidia-docker/wiki/Why%20NVIDIA%20Docker)
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
-https://github.com/mamedev/mame
-http://mamedev.org/?p=422
-https://archive.org/details/softwarelibrary_msdos_games
-
-https://developer.apple.com/reference/scenekit
-
-https://www.udacity.com/drive
-
-https://gopro.com
-
-https://github.com/NVIDIA/nvidia-docker/wiki/Why%20NVIDIA%20Docker
-
-https://media.fb.com/2016/08/10/new-publisher-tools-for-360-video
-
-https://www.tiltbrush.com
-http://store.steampowered.com/app/327140
-
-http://www.industrialthemes.com/steam/support/credits
-https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source
-
-https://3dr.com
-
-http://graphics.pixar.com/usd/docs/index.html
-https://github.com/PixarAnimationStudios/USD
-
 https://www.udemy.com/unrealcourse
 https://www.unrealengine.com/ue4-on-github
 https://github.com/EpicGames
 https://wiki.unrealengine.com/GitHub_Setup
 
+https://developer.apple.com/reference/scenekit
+
+http://graphics.pixar.com/usd/docs/index.html
+https://github.com/PixarAnimationStudios/USD
+
+http://store.steampowered.com/app/327140
+
+http://www.industrialthemes.com/steam/support/credits
+https://media.fb.com/2016/08/10/new-publisher-tools-for-360-video
+https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source
+
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints
 https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
 https://www.unrealengine.com/blog/blueprint-basics
 
+https://3dr.com
+
 https://www.vaultproject.io
+
+https://www.udacity.com/drive
+
+https://github.com/mamedev/mame
+http://mamedev.org/?p=422
+https://archive.org/details/softwarelibrary_msdos_games
 
 Gfx
 https://www.amazon.com/Graphics-Cards-Computer-Add-Ons-Computers/b?ie=UTF8&node=284822
@@ -9014,13 +9013,13 @@ Other
 
 Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [500 Startups Activity](http://500.co/activity), [500 Startups Video Archive](http://livestream.com/500SAcc), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
-* [A16Z Blog](http://a16z.com), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
+* [A16Z Blog](http://a16z.com), [A16Z Medium](https://medium.com/software-is-eating-the-world) [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
 * [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 * [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
 * [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 * [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Medium](https://medium.com/@firstround), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
 * [Founders Club Learn](https://fundersclub.com/learn)  
-* [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+* [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), [Google Ventures Library](https://library.gv.com), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
 * [KPCB Articles](http://www.kpcb.com/articles), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
 * [Nasdaq Entrepreneurial Center](http://thecenter.nasdaq.org)
 * [NEA](http://www.nea.com)
@@ -9047,12 +9046,8 @@ http://www.wsj.com/articles/andreessen-horowitzs-returns-trail-venture-capital-e
 https://bothsidesofthetable.com/what-to-make-of-andreessen-horowitzs-returns-cfbd562eeab9#.qlgull9yk
 https://medium.com/@adammarx13/responses-to-the-wall-street-journals-andreessen-horowitz-piece-16615e6e1c0c#.16ft9bgpt
 
-https://medium.com/software-is-eating-the-world
-
 http://susandanziger.com/post/136747360647/the-quick-and-dirty-on-launching-a-startup
 http://susandanziger.com/post/141430639837/the-big-secret-to-starting-a-company-hint-its
-
-https://library.gv.com
 
 https://medium.com/greylock-perspectives
 http://www.slideshare.net/greylockpartners
@@ -9174,10 +9169,6 @@ Law and Transaction Services
 * [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 * [Fortis](http://fortisrep.com) 
 
-<!--
-http://www.shakelaw.com/blog
--->
-
 VCs on Standard Docs and Terms
 * [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
 * [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
@@ -9203,7 +9194,7 @@ Standard Docs and Terms
 Document Libraries- Free/Freemium
 * [Docracy Documents](http://www.docracy.com/application/dochome) 
 * [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
-* [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
+* [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Blog](http://www.shakelaw.com/blog), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
 * [Venture Docs](https://venturedocs.com/documents)  
 * [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
 
@@ -10231,11 +10222,8 @@ Pinterest
 * [Pinterest Blog](http://blog.pinterest.com)
 * [Pinterest for Business](https://business.pinterest.com)
 
-<!--
-https://www.etsy.com/pattern
-
-https://www.twilio.com/marketplace/add-ons
--->
+Etsy
+* [Etsy Pattern](https://www.etsy.com/pattern)
 
 LinkedIn
 * [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
@@ -10377,6 +10365,10 @@ Admin, Hiring, Payroll, Expenses
 * [Sunrise Calendar (Going away)](https://calendar.sunrise.am)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
+
+<!--
+https://www.twilio.com/marketplace/add-ons
+-->
 
 Logistics
 * [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
