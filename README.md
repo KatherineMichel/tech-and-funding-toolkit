@@ -4652,12 +4652,8 @@ PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
 
 <!--
-https://www.layerswp.com
-http://docs.layerswp.com
-
 http://make.wordpress.org/core/handbook/coding-standards/css
 http://en.support.wordpress.com/google-calendar
-
 
 WordPress (PG4WP)
 
@@ -4709,6 +4705,21 @@ PHP- WordPress- Developer Resource
 * [WordPress Codex Developer Documentation](http://codex.wordpress.org/Developer_Documentation)
 * [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
 
+<!--
+http://cpanel.com
+
+https://www.adminer.org
+
+https://serverpress.com
+https://www.layerswp.com
+http://docs.layerswp.com
+
+Utilities
+https://filezilla-project.org/download.php?platform=osx
+https://sourceforge.net/projects/peazip/files/latest/download
+http://download.cnet.com/PeaZip/3000-2250_4-10602256.html
+-->
+
 WordPress Theme Development (not "Using Themes")
 * [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
 
@@ -4753,16 +4764,6 @@ https://yoast.com/wordpress-theme-anatomy
 
 https://make.wordpress.org
 
-http://cpanel.com
-
-https://filezilla-project.org/download.php?platform=osx
-
-https://sourceforge.net/projects/peazip/files/latest/download
-http://download.cnet.com/PeaZip/3000-2250_4-10602256.html
-
-https://www.adminer.org
-
-https://serverpress.com/
 https://codex.wordpress.org/Creating_a_Static_Front_Page
 -->
 
@@ -4784,7 +4785,7 @@ WordPress Themes
 * [WordPress Official Themes](https://wordpress.org/themes) 
 * [WordPress New Official Themes](https://wordpress.org/themes/browse/new)
 * [WordPress Official Bootstrap Themes](https://wordpress.org/themes/search/bootstrap)
-* [WooCommerce Free Themes](https://www.woothemes.com/product-category/themes/free-themes)
+* [WooCommerce Free Themes](https://woocommerce.com/product-category/themes/free-themes)
 
 <!--
 https://woocommerce.com/product-category/themes
@@ -4809,27 +4810,21 @@ https://en.support.wordpress.com/widgets/category-cloud-widget
 -->
 
 WP eCommerce
-* [WooCommerce](https://www.woothemes.com) and [WooCommerce GitHub](https://github.com/woothemes/woocommerce)
-* [WooCommerce Hosting Solutions](https://www.woothemes.com/hosting-solutions)
+* [WooThemes](https://woocommerce.com/woothemes)
+* [WooCommerce](https://woocommerce.com) and [WooCommerce GitHub](https://github.com/woothemes/woocommerce)
+* [WooCommerce Hosting Solutions](https://woocommerce.com/hosting-solutions)
 
 <!--
-http://www.woothemes.com/woocommerce
-https://github.com/woothemes/woocommerce
+https://github.com/woothemes
 https://docs.woocommerce.com/document/installing-uninstalling-woocommerce
 https://wordpress.org/plugins/woocommerce/installation
-
-https://wordpress.org/plugins/all-in-one-wp-migration
-
-https://wpbakery.atlassian.net/wiki/display/VC/Content+Type
-https://vc.wpbakery.com
-https://vc.wpbakery.com/video-tutorials
-
-http://essential.themepunch.com/
-https://revolution.themepunch.com/
-https://www.themepunch.com/
-
-https://yoast.com/wordpress/plugins/seo
 -->
+
+WP Special Plugins
+* [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration)
+* [Theme Punch](https://www.themepunch.com), [Essential Grid](http://essential.themepunch.com), and [Revolution Slider](https://revolution.themepunch.com)
+* [Visual Composer](https://vc.wpbakery.com), [Visual Composer Wiki](https://wpbakery.atlassian.net/wiki/display/VC/Visual+Composer+Pagebuilder+for+WordPress), [Visual Composer Video Tutorials](https://vc.wpbakery.com/video-tutorials)
+* [Yoast SEO](https://yoast.com/wordpress/plugins/seo)
 
 WP Engine
 * [WP Engine](https://wpengine.com) 
@@ -5329,7 +5324,6 @@ Consulting Forms
 
 <!--
 http://www.frankwiles.com
-
 http://www.frankwiles.com/posts/django-template-variable-or-else
 
 http://www.ellingtoncms.com
