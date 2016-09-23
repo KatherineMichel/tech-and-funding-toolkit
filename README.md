@@ -2186,6 +2186,8 @@ https://help.github.com/articles/set-up-git
 https://help.github.com/articles/caching-your-github-password-in-git/
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
 
+https://github.com/blog/2228-simpler-github-pages-publishing
+
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2046-github-desktop-is-now-available
 https://github.com/blog/2097-improved-commenting-with-markdown
@@ -3265,8 +3267,10 @@ Favicon, Sitemap, robots.txt, humans.txt
 Google’s Web Performance Best Practices
 https://developers.google.com/speed/docs/best-practices/rules_intro
 
-      <link url="http://tools.seobook.com/robots-txt/">robots.txt tutorial</link>
-      <link url="http://realfavicongenerator.net">Real Favicon Generator</link>
+robots.txt tutorial
+http://tools.seobook.com/robots-txt
+Real Favicon Generator
+http://realfavicongenerator.net
 -->
 
 Gravatar
@@ -3280,8 +3284,8 @@ https://twitter.com/siteinspire
 -->
 
 <!--
-http://www.colourlovers.com/
-http://www.themeleon.com/
+http://www.colourlovers.com
+http://www.themeleon.com
 
 https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits
 
@@ -3495,6 +3499,9 @@ Foundation
 * [Foundation for Emails](http://foundation.zurb.com/emails.html)
 * [Zurb Library](http://zurb.com/library)
 
+Theme Marketplace
+* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
+
 Good, Basic Templates, Themes
 * [Template Stash](http://www.templatestash.com)
 * [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
@@ -3574,10 +3581,13 @@ http://shop.oreilly.com/product/0636920041528.do
 Responsive Design Tester
 http://responsivetest.net
 
-    <rule name="Manual check using emulators">
-      <link url="http://screenqueri.es/">Online media query tester</link>
-      <link url="http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site/">6 free mobile emulators</link>
-      <link url="http://www.opera.com/developer/tools/mobile/">Opera Mobile Emulator</link>
+Manual check using emulators
+Online media query tester
+http://screenqueri.es
+6 free mobile emulators
+http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site
+Opera Mobile Emulator
+http://www.opera.com/developer/tools/mobile
 -->
 
 W3 Validators
@@ -3590,7 +3600,8 @@ W3 Validators
 * [W3C i18n Checker](http://validator.w3.org/i18n-checker)
 
 <!--
-      <link url="http://csslint.net/">Run CSS Lint online</link>
+Run CSS Lint online
+http://csslint.net
 
 <rule name="MobileOK score of 75+">
 -->
@@ -3717,137 +3728,205 @@ https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
 -->
 
 <!--
-      <link url="https://github.com/kaiinkinen/pvm">Play Version Manager</link>
+Play Version Manager
+https://github.com/kaiinkinen/pvm
 
-      <link url="http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development">What you should know</link>
+What you should know
+http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
 
-      <link url="http://www.jetbrains.com/idea/webhelp/spellchecking.html">IntelliJ IDEA Spell Checker</link>
+IntelliJ IDEA Spell Checker
+http://www.jetbrains.com/idea/webhelp/spellchecking.html
 
-    <rule name="Check website in all browsers">
-      <link url="http://browsershots.org/">BrowserShots.org</link>
-      <link url="https://browserling.com/">Browserling.com</link>
-      <link url="http://spoon.net/browsers">Spoon.net</link>
+Check website in all browsers
+BrowserShots.org
+http://browsershots.org
+Browserling.com
+https://browserling.com
+Spoon.net
+http://spoon.net/browsers
 
-    <rule name="Decide on www-subdomain">
-      <link url="http://no-www.org/">no-www.org score of 'B'</link>
-      <link url="http://www.yes-www.org/">...or www.yes-www.org</link>
-      <link url="http://madskristensen.net/post/url-rewrite-and-the-www-subdomain">Handle 'www' in web.config</link>
+Decide on www-subdomain
+no-www.org score of 'B'
+http://no-www.org
+...or www.yes-www.org
+http://www.yes-www.org
+Handle 'www' in web.config
+http://madskristensen.net/post/url-rewrite-and-the-www-subdomain
 
-    <rule name="Remove 'www' subdomain" />
-    <rule name="Add the attribute rel='nofollow' to user-generated links to avoid spam" />
-    <rule name="Redirect after a POST to prevent a refresh from submitting again" />
+Remove 'www' subdomain
+Add the attribute rel='nofollow' to user-generated links to avoid spam
+Redirect after a POST to prevent a refresh from submitting again
 
-    <rule name="Use 'viewport' meta-tag">
-      <link url="http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag/">Don’t Forget the Viewport Meta Tag</link>
-      <link url="http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx">Make your website mobile friendly</link>
+Use 'viewport' meta-tag
+Don’t Forget the Viewport Meta Tag
+http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag
+Make your website mobile friendly
+http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx
 
-    <rule name="Use correct input types">
-      <link url="http://html5tutorial.info/html5-contact.php">Input type: Email, Url, Phone</link>
-      <link url="http://diveintohtml5.info/forms.html">Diving in to HTML5 forms</link>
+Use correct input types
+Input type: Email, Url, Phone
+http://html5tutorial.info/html5-contact.php
+Diving in to HTML5 forms
+http://diveintohtml5.info/forms.html
 
-  <category name="Analytics">
-    <rule name="Uptime monitoring">
-      <link url="http://www.uptimerobot.com/">Uptime robot</link>
-       <link url="https://www.pingdom.com/">Pingdom Website Monitor</link>
-      <link url="http://www.gotsitemonitor.com/">GotSiteMonitor.com</link>
+Analytics
+Uptime monitoring
+Uptime robot
+http://www.uptimerobot.com
+Pingdom Website Monitor
+https://www.pingdom.com
+GotSiteMonitor.com
+http://www.gotsitemonitor.com
 
 http://tools.pingdom.com/fpt
 
-    <rule name="Traffic analysis"> (Google Analytics)
-      <link url="http://statcounter.com/">StatCounter</link>
-      <link url="http://clicky.com/">Clicky</link>
-      <link url="http://piwik.org/">Piwik</link>
+Traffic analysis"> (Google Analytics)
+StatCounter
+http://statcounter.com
+Clicky
+http://clicky.com
+Piwik
+http://piwik.org
 
-    <rule name="Optimize HTTP headers">
-      <link url="http://redbot.org">redbot.org</link>
+Optimize HTTP headers
+redbot.org
+http://redbot.org
 
-    <rule name="Cloud optimizations">
-      <link url="http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2">Reduce I/O to disk</link>
+Cloud optimizations
+Reduce I/O to disk
+http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2
 
-    <rule name="Static resources">
-      <link url="http://www.playframework.org/documentation/2.0.4/Assets">Add long TTL with Cache-Control</link>
-      <link url="http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler">Minify Javascript</link>
-      <link url="http://www.cssminifier.com/">Minify CSS</link>
-      <link url="http://diveintohtml5.info/offline.html">Use HTML 5 Manifest</link>
+Static resources
+Add long TTL with Cache-Control
+http://www.playframework.org/documentation/2.0.4/Assets
+Minify Javascript
+http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler
+Minify CSS
+http://www.cssminifier.com
+Use HTML 5 Manifest
+http://diveintohtml5.info/offline.html
 
-      <link url="http://www.alistapart.com/articles/amoreuseful404/">A more useful 404</link>
+A more useful 404
+http://www.alistapart.com/articles/amoreuseful404
 
-      <link url="http://github.com/audreyr/favicon-cheat-sheet">Favicon Cheat Sheet</link>
+Favicon Cheat Sheet
+http://github.com/audreyr/favicon-cheat-sheet
 
-    <rule name="Use friendly URLs">
-      <link url="http://www.seomoz.org/blog/11-best-practices-for-urls">11 best practices for URLs</link>
-      <link url="http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference">URL rewriting in IIS</link>
-      <link url="http://httpd.apache.org/docs/current/mod/mod_rewrite.html">URL rewrite in Apache</link>
+Use friendly URLs
+11 best practices for URLs
+http://www.seomoz.org/blog/11-best-practices-for-urls
+URL rewriting in IIS
+http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference
+URL rewrite in Apache
+http://httpd.apache.org/docs/current/mod/mod_rewrite.html
 
-    <rule name="Print-friendly CSS">
-      <link url="http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/">Set up a print stylesheet</link>
-    <rule name="Have a unified notification system across app" />
-    <rule name="Don't display unfriendly errors directly to the user" />
+Print-friendly CSS
+Set up a print stylesheet
+http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet
+Have a unified notification system across app
+Don't display unfriendly errors directly to the user
+Environment Integration
+Safari on iOS
+http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
 
-    <rule name="Environment Integration" optional="true">
-      <link url="http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html">Safari on iOS</link>
-      <link url="http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx">Internet Explorer on Windows</link>
-      <link url="http://www.buildmypinnedsite.com/">Windows 8 Tiles</link>
+Internet Explorer on Windows
+http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx
+Windows 8 Tiles
+http://www.buildmypinnedsite.com
 
-    <rule name="A/B Testing">
-      <link url="https://github.com/danmaz74/ABalytics">ABalytics</link>
+A/B Testing
+ABalytics
+https://github.com/danmaz74/ABalytics
 
-    <rule name="HTML validation">
-      <link url="http://watson.addy.com/">Dr. Watson</link>
+HTML validation
+Dr. Watson
+http://watson.addy.com
 
-    <rule name="Verify source code (Scala)">
-      <link url="http://www.scalastyle.org/">Scala Style</link>
-      <link url="http://mtkopone.github.com/scct/">SCCT</link>
+Verify source code (Scala)
+Scala Style
+http://www.scalastyle.org
+SCCT
+http://mtkopone.github.com/scct
 
-    <rule name="Automated testing">
-      <link url="http://www.testomato.com/">Testomato</link>
+Automated testing
+Testomato
+http://www.testomato.com
 
-  <category name="Accessibility">
-    <rule name="Accessibility validation">
-      <link url="http://accessibility.oit.ncsu.edu/accessibleu/problems.html">Common problems and solutions</link>
+Accessibility
+Accessibility validation
+Common problems and solutions
+http://accessibility.oit.ncsu.edu/accessibleu/problems.html
  
-    <rule name="WAI-ARIA Landmarks">
-      <link url="http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration/">Using WAI-ARIA Landmarks</link>
-      <link url="http://www.alistapart.com/articles/the-accessibility-of-wai-aria/">Guide to WAI-ARIA</link>
-      <link url="http://www.punkchip.com/2010/11/aria-basic-findings/">Practical examples</link>
+WAI-ARIA Landmarks">
+Using WAI-ARIA Landmarks
+http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration
+Guide to WAI-ARIA
+http://www.alistapart.com/articles/the-accessibility-of-wai-aria
+Practical examples
+http://www.punkchip.com/2010/11/aria-basic-findings
 
-   <category name="Security">
-    <rule name="Follow best practices">
-      <link url="https://asafaweb.com/">ASafaaWeb security analyzer</link>
-      <link url="https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top 10 project</link>
-      <link url="https://www.owasp.org/index.php/Cheat_Sheets">OWASP Cheat Sheets</link>
-      <link url="http://cwe.mitre.org/top25/">CWE/SANS Top 25</link>
+Security
+Follow best practices
+https://asafaweb.com/">ASafaaWeb security analyzer
+OWASP Top 10 project
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+OWASP Cheat Sheets
+https://www.owasp.org/index.php/Cheat_Sheets
+CWE/SANS Top 25
+http://cwe.mitre.org/top25
 
-    <rule name="Cross-site scripting">
-      <link url="https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet">XSS cheat sheet</link>
-      <link url="https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet">DOM based XSS cheat sheet</link>
-      <link url="http://www.acunetix.com/cross-site-scripting/scanner/">Free XSS scanner</link>
+Cross-site scripting
+XSS cheat sheet
+https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
+DOM based XSS cheat sheet
+https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
+Free XSS scanner
+http://www.acunetix.com/cross-site-scripting/scanner
 
-    <rule name="Cross-site request forgery">
-      <link url="http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html">Explanation and walkthrough</link>
-      <link url="https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet">CSRF cheat sheet</link>
+Cross-site request forgery
+Explanation and walkthrough
+http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html
+CSRF cheat sheet
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
 
-    <rule name="Secure Passwords" >
-   <link url="http://www.mindrot.org/projects/jBCrypt/">BCrypt</link>
-   <link url="https://github.com/wg/scrypt">SCrypt</link>
-   <link url="#">Hash passwords using salt to prevent rainbow attacks</link>
-     <rule name="Secure connection (SSL)" optional="true">
-      <link url="http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl">Setup SSL on Play 2</link>
-      <link url="http://www.digicert.com/ssl-certificate-installation-apache.htm">Setup SSL on Apache</link>
-      <link url="https://www.ssllabs.com/ssltest/">SSL Server Test</link>
-      <link url="https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options">Set X-Frame-Options</link>
-      <link url="https://developer.mozilla.org/en-US/docs/Security/CSP/Introducing_Content_Security_Policy">Set Content Security Policy</link>
-    <rule name="HTTP Strict Transport Security" optional="true">
-      <link url="https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security">MDN Overview</link>
-      <link url="https://www.owasp.org/index.php/HTTP_Strict_Transport_Security">OWASP Overview</link>
+Secure Passwords
+BCrypt
+http://www.mindrot.org/projects/jBCrypt
+SCrypt
+https://github.com/wg/scrypt
+
+Hash passwords using salt to prevent rainbow attacks
+Secure connection (SSL)
+Setup SSL on Play 2
+http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl
+Setup SSL on Apache
+http://www.digicert.com/ssl-certificate-installation-apache.htm
+SSL Server Test
+https://www.ssllabs.com/ssltest
+Set X-Frame-Options
+https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
+Set Content Security Policy
+https://developer.mozilla.org/en-US/docs/Security/CSP/Introducing_Content_Security_Policy
+
+HTTP Strict Transport Security
+MDN Overview
+https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
+OWASP Overview
+https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
  
-     <rule name="Enable Content Security Policy" optional="true">
-      <link url="http://www.html5rocks.com/en/tutorials/security/content-security-policy/">Content Security Policy</link>
-      <link url="https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy">MDN Guide</link>
-      <link url="https://www.owasp.org/index.php/Content_Security_Policy">OWASP Overview</link>
-      <link url="https://github.com/oxdef/csp-tester">CSP Tester</link>
+Enable Content Security Policy
+Content Security Policy
+http://www.html5rocks.com/en/tutorials/security/content-security-policy
 
-      <link url="http://ppcblog.com/how-google-works/">How Google works</link>
+MDN Guide
+https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
+OWASP Overview
+https://www.owasp.org/index.php/Content_Security_Policy
+CSP Tester
+https://github.com/oxdef/csp-tester
+
+How Google works
+http://ppcblog.com/how-google-works
 -->
 
 #### Back-End Programming Languages, MVCs
@@ -4393,15 +4472,10 @@ Other JavaScript Helpers
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
 
-<!--
-eslint
-jshint
-jslint
-
-    <rule name="Run JSLint/JSHint">
-      <link url="http://jslint.org/">Run JSLint online</link>
-      <link url="http://jshint.com/">Run JSHint online</link>
--->
+ESLint, JSHint, JSLint
+* [ESLint](http://eslint.org)
+* [JSHint](http://jshint.com)
+* [JSLint](http://jslint.org)
 
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
@@ -4424,8 +4498,14 @@ HTML5 Compatibility Check/Normalization
 * [Zepto GitHub](https://github.com/madrobby/zepto)  
 
 <!--
-      <link url="http://ie.microsoft.com/testdrive/HTML5/CompatInspector/">Compat Inspector</link>
-      <link url="http://www.modern.ie/report">modern.IE</link>
+Compat Inspector
+http://ie.microsoft.com/testdrive/HTML5
+modern.IE
+http://www.modern.ie/report
+
+https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
+https://developer.microsoft.com/en-us/microsoft-edge
+https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
 -->
 
 Meteor
@@ -4547,22 +4627,22 @@ Ruby- Executable Specification
 * [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
 * [Ruby Testing Tool](http://rspec.info)  
 
-Rails, Jekyll- Preferred Templates and Documents
+Rails- Preferred Templates and Documents
 * [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
 * [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
 * [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
 * [Ruby Guides](http://guides.rubyonrails.org) 
 * [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
+
+Jekyll
 * [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
 * [Jekyll Templates](https://jekyllrb.com/docs/templates)
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
+* [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
-https://github.com/blog/2228-simpler-github-pages-publishing
-https://github.com/jekyll/jekyll-admin
-
 http://prose.io
 https://getgrav.org
 https://hexo.io
@@ -4651,35 +4731,6 @@ PHP- Laravel- Preferred Templates and Documents
 PHP- Twitter OAuth
 * [Twitter OAuth](https://github.com/abraham/twitteroauth)
 
-<!--
-http://make.wordpress.org/core/handbook/coding-standards/css
-http://en.support.wordpress.com/google-calendar
-
-WordPress (PG4WP)
-
-WordPress Enfold
-http://www.kriesi.at/themes
-
-https://twitter.com/nimbusthemes/following
-http://www.sheamediaco.com/#about-scroll
-http://www.nimbusthemes.com/wordpress-themes/
-
-http://themeforest.net
-https://envato.com
-
-http://justfreethemes.com/modern/
-http://justfreethemes.com/demo?theme=Modern
-https://www.webmandesign.eu/modern-wordpress-theme/
-https://www.webmandesign.eu/manual/modern/
-http://themedemos.webmandesign.eu/modern/
-http://themedemos.webmandesign.eu/modern/portfolio/yosemite-short-movie-2/
-http://themedemos.webmandesign.eu/modern/blog/
-http://themedemos.webmandesign.eu/modern/about/
-
-http://www.sktthemes.net/themes
-https://wordpress.org/themes/skt-charity
--->
-
 PHP/node.js- WordPress- Com, Calypso
 * [WordPress Com](https://wordpress.com) and [WordPress Com Support](https://en.support.wordpress.com)
 * [WordPress Calypso](https://developer.wordpress.com/calypso) and [WordPress Calypso GitHub](https://github.com/Automattic/wp-calypso) 
@@ -4706,18 +4757,9 @@ PHP- WordPress- Developer Resource
 * [WordPress Developer](https://developer.wordpress.org) and [WordPress Developer Reference](https://developer.wordpress.org/reference) 
 
 <!--
-http://cpanel.com
-
-https://www.adminer.org
-
 https://serverpress.com
 https://www.layerswp.com
 http://docs.layerswp.com
-
-Utilities
-https://filezilla-project.org/download.php?platform=osx
-https://sourceforge.net/projects/peazip/files/latest/download
-http://download.cnet.com/PeaZip/3000-2250_4-10602256.html
 -->
 
 WordPress Theme Development (not "Using Themes")
@@ -4763,6 +4805,7 @@ https://codex.wordpress.org/Search_Engine_Optimization_for_Wordpress
 https://yoast.com/wordpress-theme-anatomy
 
 https://make.wordpress.org
+http://make.wordpress.org/core/handbook/coding-standards/css
 
 https://codex.wordpress.org/Creating_a_Static_Front_Page
 -->
@@ -4776,6 +4819,30 @@ WordPress Template Hierarchy
 
 WordPress Page Templates
 * [WordPress Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/page-templates)
+
+WordPress Themes
+* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
+* [Shea Media Co.](http://www.sheamediaco.com), [Nimbus Themes](http://www.nimbusthemes.com), and [Nimbus Themes Twitter](https://twitter.com/nimbusthemes)
+* [SKT Themes](http://www.sktthemes.net/themes)
+
+<!--
+https://twitter.com/nimbusthemes/following
+https://wordpress.org/themes/skt-charity
+
+WordPress (PG4WP)
+
+WordPress Enfold
+http://www.kriesi.at/themes
+
+http://justfreethemes.com/modern
+http://justfreethemes.com/demo?theme=Modern
+https://www.webmandesign.eu/modern-wordpress-theme
+https://www.webmandesign.eu/manual/modern
+http://themedemos.webmandesign.eu/modern
+http://themedemos.webmandesign.eu/modern/portfolio/yosemite-short-movie-2
+http://themedemos.webmandesign.eu/modern/blog
+http://themedemos.webmandesign.eu/modern/about
+-->
 
 WordPress Theme Helpers
 * [WordPress Template Tags](https://codex.wordpress.org/Template_Tags)
@@ -4807,15 +4874,16 @@ WordPress- Helpers
 <!--
 https://en.support.wordpress.com/plugins
 https://en.support.wordpress.com/widgets/category-cloud-widget
+
+http://en.support.wordpress.com/google-calendar
 -->
 
 WP eCommerce
-* [WooThemes](https://woocommerce.com/woothemes)
+* [WooThemes](https://woocommerce.com/woothemes) and [WooThemes GitHub](https://github.com/woothemes)
 * [WooCommerce](https://woocommerce.com) and [WooCommerce GitHub](https://github.com/woothemes/woocommerce)
 * [WooCommerce Hosting Solutions](https://woocommerce.com/hosting-solutions)
 
 <!--
-https://github.com/woothemes
 https://docs.woocommerce.com/document/installing-uninstalling-woocommerce
 https://wordpress.org/plugins/woocommerce/installation
 -->
@@ -5305,7 +5373,7 @@ Pyenv
 * [Pyenv GitHub](https://github.com/yyuu/pyenv)
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
- 
+
 <!--
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
@@ -7055,6 +7123,13 @@ Distributed and Parallel Computing
 
 See also Azure
 
+<!--
+Utilities
+https://filezilla-project.org/download.php?platform=osx
+https://sourceforge.net/projects/peazip/files/latest/download
+http://download.cnet.com/PeaZip/3000-2250_4-10602256.html
+-->
+
 Apache (See also mod_wsgi)
 * [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
 * [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
@@ -7115,8 +7190,11 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 Sequel Pro (Recommended and MAMP bundled)
 * [Sequel Pro](http://www.sequelpro.com)
  
-phpMyAdmin
+MySQL, PHP, and WordPress Admin
+* [Adminer](https://www.adminer.org)
 * [phpMyAdmin](https://www.phpmyadmin.net)
+* [cPanel](http://cpanel.com)
+* [ServerPilot](https://serverpilot.io)
 
 MAMP and WampServer (See also PHP)
 * [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
