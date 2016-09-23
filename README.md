@@ -298,10 +298,6 @@ Database List
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 <!--
-https://alist.co
-https://angel.co/spv
-http://blog.angel.co/post/131017147560/csc-upshot
-
 https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
 
 https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
@@ -316,6 +312,10 @@ https://www.producthunt.com/shop
 https://www.producthunt.com/podcasts
 https://www.producthunt.com/apps/mac
 https://www.producthunt.com/apps/chrome
+
+https://alist.co
+https://angel.co/spv
+http://blog.angel.co/post/131017147560/csc-upshot
 -->
 
 Databases and Benchmarking- Freemium
@@ -797,10 +797,7 @@ https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end
 Hobbies and Cool Tools
 * [Hobby Masters](http://hobbymasters.com)
 * [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
-
-<!--
-http://makerfaire.com
--->
+* [Maker Faire Meet the Makers](http://makerfaire.com/new-york-2016/meet-the-makers/)
 
 #### Site and App Research
 
@@ -2784,11 +2781,6 @@ Software Testing
 
 #### Programming Learning Tools
 
-<!--
-http://www.archiveteam.org/index.php?title=Main_Page
-https://twitter.com/archiveteam
--->
-
 Programming Groups
 * [Codettes](http://www.codettes.net)
 * [Django Girls](https://djangogirls.org)
@@ -2983,6 +2975,9 @@ KDE and KHTML
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 * [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
+
+Archive Team
+* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
 
 Developer Surveys
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
