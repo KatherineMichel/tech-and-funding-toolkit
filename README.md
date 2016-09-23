@@ -6081,11 +6081,7 @@ Python- Django- CMS, E-Commerce
 
 Python- Django- Wagtail (Recommended)
 * [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template) 
-* [Wagtail Docs](https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf)
-
-<!--
-http://docs.wagtail.io
--->
+* [Wagtail Docs](http://docs.wagtail.io) and [Wagtail Read the Docs](https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf)
 
 Python- Django- Other CMS and E-Commerce Options
 * [Django Fluent CMS](http://django-fluent.org), [Django Fluent CMS GitHub](https://github.com/edoburu), and [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
@@ -6303,6 +6299,12 @@ https://cloud.google.com/source-repositories
 https://console.cloud.google.com/code/tools
 
 https://console.cloud.google.com/code/develop/repo
+
+Digital Ocean
+http://ipaddress/info.php
+
+http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
+https://dcc.godaddy.com/manage/domainname/dns
 -->
 
 Consoles
@@ -6315,12 +6317,6 @@ Consoles
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
 
 <!--
-Digital Ocean
-http://ipaddress/info.php
-
-http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
-https://dcc.godaddy.com/manage/domainname/dns
-
 https://www.google.com/webmasters/verification/verification
 https://www.digitalocean.com/community/questions/how-to-verify-google-webmaster-tools
 
@@ -6546,7 +6542,7 @@ Heroku- General
 * [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 * [Getting Started on Heroku](https://devcenter.heroku.com/start)
- 
+
 <!--
 All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
 
@@ -8172,7 +8168,8 @@ Python- Statistics Stack- iPython Reference
 * [iPython Docs Contents](http://ipython.org/ipython-doc/2/index.html)  
 * [iPython Docs](http://ipython.org/ipython-doc/stable/index.html)  
 * [iPython Notebook Docs](http://ipython.org/ipython-doc/2/notebook/index.html)  
-* [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)  
+* [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis) 
+
 <!--
 http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
 -->
@@ -8431,8 +8428,6 @@ https://angel.co/davidle
 https://medium.com/@ericfriedman
 http://christophjanz.blogspot.de
 http://www.slideshare.net/mikemaplesjr
-https://medium.com/@jeremyliew
-https://medium.com/the-biz-stone-collection
 -->
 
 #### Tech Analysts, Thought Leaders
@@ -8522,6 +8517,9 @@ https://medium.com/the-biz-stone-collection
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+https://medium.com/@jeremyliew
+https://medium.com/the-biz-stone-collection
+
 https://overcast.fm/itunes863897795/the-tim-ferriss-show
 
 https://usesthis.com/interviews/horace.dediu
