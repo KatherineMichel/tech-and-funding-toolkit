@@ -3569,6 +3569,10 @@ http://whatwg.github.io/loader
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 -->
 
+Utilites
+* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
+* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
+
 #### Testing and Performance
 
 <!--
@@ -3903,27 +3907,37 @@ Setup SSL on Apache
 http://www.digicert.com/ssl-certificate-installation-apache.htm
 SSL Server Test
 https://www.ssllabs.com/ssltest
-Set X-Frame-Options
+
+X-Frame-Options
 https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
-Set Content Security Policy
-https://developer.mozilla.org/en-US/docs/Security/CSP/Introducing_Content_Security_Policy
 
 HTTP Strict Transport Security
-MDN Overview
 https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
+
+Content Security Policy
+https://developer.chrome.com/extensions/contentSecurityPolicy
+https://developer.mozilla.org/en-US/docs/Web/Security/CSP
+https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
+https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy
+
+Content Security Policy
+https://en.wikipedia.org/wiki/Content_Security_Policy
+
+https://github.com/yandex
+
+CSP Tester
+https://github.com/yandex/csp-tester
+
+The Open Web Application Security Project
+https://en.wikipedia.org/wiki/OWASP
+
 OWASP Overview
 https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
- 
+https://www.owasp.org/index.php/Content_Security_Policy
+
 Enable Content Security Policy
 Content Security Policy
 http://www.html5rocks.com/en/tutorials/security/content-security-policy
-
-MDN Guide
-https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
-OWASP Overview
-https://www.owasp.org/index.php/Content_Security_Policy
-CSP Tester
-https://github.com/oxdef/csp-tester
 
 How Google works
 http://ppcblog.com/how-google-works
@@ -7123,13 +7137,6 @@ Distributed and Parallel Computing
 
 See also Azure
 
-<!--
-Utilities
-https://filezilla-project.org/download.php?platform=osx
-https://sourceforge.net/projects/peazip/files/latest/download
-http://download.cnet.com/PeaZip/3000-2250_4-10602256.html
--->
-
 Apache (See also mod_wsgi)
 * [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
 * [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
@@ -8462,6 +8469,7 @@ General Terminology
 * [David G. Cohen](http://davidgcohen.com)
 * [David Lee Medium](https://medium.com/@davidlee)
 * [David Skok (For Entrepreneurs)](http://www.forentrepreneurs.com)
+* [Eric Friedman Medium](https://medium.com/@ericfriedman)
 * [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
 * [Heidi Roizen](http://heidiroizen.tumblr.com)  
 * [Hunter Walk](http://hunterwalk.com)  
@@ -8503,7 +8511,6 @@ General Terminology
 <!--
 https://angel.co/davidle
 
-https://medium.com/@ericfriedman
 http://christophjanz.blogspot.de
 http://www.slideshare.net/mikemaplesjr
 -->
