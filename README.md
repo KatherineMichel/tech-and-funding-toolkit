@@ -306,7 +306,6 @@ https://www.producthunt.com/podcasts
 https://www.producthunt.com/apps/mac
 https://www.producthunt.com/apps/chrome
 
-https://alist.co
 https://angel.co/spv
 http://blog.angel.co/post/131017147560/csc-upshot
 
@@ -317,7 +316,7 @@ https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmb
 
 Databases and Benchmarking- Freemium
 * [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
+* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [A-List](https://alist.co), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
 * [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
 * [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
 * [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
@@ -461,6 +460,7 @@ Project Management- Obvious Software
 
 Project Management- Less Obvious Software
 * [GitLab](https://about.gitlab.com)
+* [Lucidchart](https://www.lucidchart.com)
 * [Quip](https://quip.com) and [Quip Blog: Integrations](https://quip.com/blog/integrations)
 * [Slack](https://slack.com), [Slack App Directory](https://slack.com/apps), [Slack API](https://api.slack.com/custom-integrations), and [Slack API Submission](https://slackhq.typeform.com/to/kOHQvo)
 * [Slack Keyboard Shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
@@ -468,8 +468,6 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
-https://www.lucidchart.com
-
 https://quip.com/blog/slack-integration-slash-commands
 
 https://slackline.io
