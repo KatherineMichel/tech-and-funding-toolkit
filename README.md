@@ -953,8 +953,6 @@ https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
 https://affiliate-program.amazon.com/welcome
 
 https://www.youtube.com/watch?v=JASn8EsO174
-
-https://support.twitter.com
 -->
 
 Web Analytics
@@ -2306,11 +2304,6 @@ GitHub- More
 * [Octokit](https://github.com/octokit) 
 * [Education Pack](https://education.github.com/pack)
 
-<!--
-GitHub Shop
-https://github.myshopify.com
--->
-
 GitHub- Trending
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending](https://github.com/josephyzhou/github-trending)
@@ -2322,6 +2315,11 @@ GitHub- How To
 Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
 * [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
+<!--
+GitHub Shop
+https://github.myshopify.com
+-->
 
 Markdown
 * [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
@@ -2803,32 +2801,22 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Math Overflow](http://mathoverflow.net)
 * [Minecraft](https://minecraft.net)
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Pluralsight](https://www.pluralsight.com)
+* [Pluralsight](https://www.pluralsight.com) and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 * [Project Euler](http://www.projecteuler.net)  
 * [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
 * [Project Euler Problems](http://projecteuler.net/problems)  
 * [Raspberry PI](http://www.raspberrypi.org)
 * [Rosetta Code](http://rosettacode.org)
 * [Scratch (MIT)](https://scratch.mit.edu)
-* [Skillshare](http://www.skillshare.com/classes)
+* [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
+* [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
-https://www.skillshare.com/classes/?enrollmentType=free
-
-https://learn.pluralsight.com/resource/free-course/free-weekly-course
-
-https://fiddles.io
-
 https://www.codecademy.com/courses/learn-the-command-line
-
-https://teamtreehouse.com
 https://www.codecademy.com/tracks/web
--->
-<!--
-https://github.com/jshomes/learning-resources
 
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
@@ -2845,6 +2833,8 @@ Comparison of programming paradigms
 Comparison of multi-paradigm programming languages
 Comparison of type systems
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+
+https://github.com/jshomes/learning-resources
 -->
 
 Free Code Camp
@@ -2915,6 +2905,7 @@ https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/f
 -->
 
 Text Editor and Code Demonstration
+* [Fiddle](https://fiddles.io)
 * [JSFiddle](http://jsfiddle.net)
 * [Cloud9](https://c9.io/katherinemichel)
 * [Codepen](http://codepen.io)
@@ -3069,18 +3060,6 @@ Device Popularity Stats
 * [Top 14 Screen Resolutions](http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604)
 
 <!--
-https://layer.com/messaging-design-kit
-
-http://blog.invisionapp.com
-http://blog.invisionapp.com/chat-minimal-ui-kit
-http://blog.invisionapp.com/design-for-the-human-brain
-
-http://blog.invisionapp.com/large-desktop-experience-responsive-design/
-https://support.invisionapp.com/hc/en-us/articles/203009779-What-size-should-my-screens-be-
-http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
-https://www.google.com/design/spec/layout/structure.html#structure-system-bars
-http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/12/desktopchart.jpeg
-
 http://screensiz.es
 
 http://www.productchart.com/laptops
@@ -3110,8 +3089,6 @@ Prototyping Software- Keynote- Docs
 * [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
 
 <!--
-https://marvelapp.com
-
 http://keynotopia.com/#how
 http://keynotopia.com/guides
 http://keynotopia.com/bootstrap
@@ -3146,15 +3123,26 @@ Prototyping Software- Others
 <!--
 https://facebook.github.io/origami/examples
 http://facebook.github.io/origami/download
+
+http://blog.invisionapp.com
+http://blog.invisionapp.com/chat-minimal-ui-kit
+http://blog.invisionapp.com/design-for-the-human-brain
+
+http://blog.invisionapp.com/large-desktop-experience-responsive-design/
+https://support.invisionapp.com/hc/en-us/articles/203009779-What-size-should-my-screens-be-
+http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+https://www.google.com/design/spec/layout/structure.html#structure-system-bars
+http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/12/desktopchart.jpeg
+
+https://layer.com/messaging-design-kit
+
+https://marvelapp.com
 -->
 
 Full Page Screen Shots
+* [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
 * [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
-
-<!--
-https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related
--->
 
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
@@ -3199,6 +3187,7 @@ Color
 
 Photoshop and Similar
 * [Nik Collection](https://www.google.com/nikcollection)
+* [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
 * [Adobe Lightroom](https://lightroom.adobe.com)
 * [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
 * [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
@@ -3210,8 +3199,6 @@ Photoshop and Similar
 https://en.wikipedia.org/wiki/Bokeh
 
 https://spark.adobe.com
-
-https://blogs.adobe.com/creativecloud
 
 https://docs.gimp.org/en/gimp-tutorial-quickie-separate.html
 https://docs.gimp.org/en/gimp-layer-alpha-selection-add.html
@@ -3244,9 +3231,6 @@ Favicon, Sitemap, robots.txt, humans.txt
 * [robots.txt](http://www.robotsgenerator.com)
 
 <!--
-Google’s Web Performance Best Practices
-https://developers.google.com/speed/docs/best-practices/rules_intro
-
 robots.txt tutorial
 http://tools.seobook.com/robots-txt
 Real Favicon Generator
@@ -3618,6 +3602,9 @@ Speed and Performance
 * [Yahoo YSlow score of 85+](http://yslow.org)
 
 <!--
+Google’s Web Performance Best Practices
+https://developers.google.com/speed/docs/best-practices/rules_intro
+
 https://developers.google.com/speed/docs/insights/about
 https://developers.google.com/speed/docs/insights/OptimizeImages
 
@@ -3852,7 +3839,6 @@ Automated testing
 Testomato
 http://www.testomato.com
 
-Accessibility
 Accessibility validation
 Common problems and solutions
 http://accessibility.oit.ncsu.edu/accessibleu/problems.html
@@ -3916,24 +3902,18 @@ https://developer.mozilla.org/en-US/docs/Web/Security/CSP
 https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
 https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy
 
+The Open Web Application Security Project
+https://en.wikipedia.org/wiki/OWASP
 Content Security Policy
 https://en.wikipedia.org/wiki/Content_Security_Policy
 
-https://github.com/yandex
-
-CSP Tester
+CSP (Content Security Policy)
 https://github.com/yandex/csp-tester
-
-The Open Web Application Security Project
-https://en.wikipedia.org/wiki/OWASP
-
-OWASP Overview
-https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
+http://www.html5rocks.com/en/tutorials/security/content-security-policy
 https://www.owasp.org/index.php/Content_Security_Policy
 
-Enable Content Security Policy
-Content Security Policy
-http://www.html5rocks.com/en/tutorials/security/content-security-policy
+OWASP (The Open Web Application Security Project) Overview
+https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
 
 How Google works
 http://ppcblog.com/how-google-works
@@ -4513,8 +4493,8 @@ http://ie.microsoft.com/testdrive/HTML5
 modern.IE
 http://www.modern.ie/report
 
-https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
 https://developer.microsoft.com/en-us/microsoft-edge
+https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
 https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
 -->
 
@@ -4691,8 +4671,7 @@ https://github.com/smartergiving
 http://smartergiving.org/free-nonprofit-starter-website
 https://github.com/smartergiving/free-nonprofit-starter-website
 
-http://themes.3rdwavemedia.com/demo/devaid/
-https://github.com/poole/hyde
+http://themes.3rdwavemedia.com/demo/devaid
 
 https://jekyllcms.grep.ro
 https://github.com/mgax/jekyllcms
