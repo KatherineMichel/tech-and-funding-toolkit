@@ -912,7 +912,6 @@ https://en.wikipedia.org/wiki/Tag_(metadata)
 
 http://stackoverflow.com/questions/16171686/list-of-standard-w3c-meta-tags
 https://gist.github.com/kevinSuttle/1997924
-http://www.metatags.info/all_meta_tags
 http://www.w3schools.com/tags/tag_meta.asp
 https://support.google.com/webmasters/answer/79812?hl=en
 https://en.wikipedia.org/wiki/Microformat#Specific_microformats
@@ -2271,16 +2270,7 @@ http://githooks.com/
 https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
 https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
 
-https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more/
-
-https://github.com/integrations
-
-https://www.sourcetreeapp.com/
-
-One Click Deploy
-https://bitbucket.org/integrations
-https://bitbucket.org/integrations/cloud
-https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server
+https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
 -->
 
 GitHub Business
@@ -2316,7 +2306,7 @@ Dear GitHub and Thank You GitHub
 
 <!--
 GitHub Shop
-https://github.myshopify.com
+* [GitHub Shop](https://github.myshopify.com)
 -->
 
 Markdown
@@ -2336,14 +2326,21 @@ GitLab (See also Project Management and Docker)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
-GitHub Alternatives
+Atlassian: Bitbucket and SourceTree
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
 * [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
+* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
+* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
+* [Atlassian SourceTree](https://www.sourcetreeapp.com)
+
+More GitHub Alternatives
 * [Google Code](https://code.google.com)  
 * [Sourceforge](http://sourceforge.net)  
 * [Codebase](https://www.codebasehq.com)  
 
 <!--
+One Click Deploy
+
 https://www.atlassian.com/software-trends
 -->
 
@@ -2922,11 +2919,7 @@ http://www.oreilly.com/design/free/design-in-venture-capital.csp
 
 Documentation- Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-
-<!--
-https://wiki.mozilla.org/MOSS
-https://wiki.mozilla.org/MOSS/Mission_Partners
--->
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
 
 Standards
 * [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
