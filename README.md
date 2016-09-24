@@ -183,7 +183,7 @@ Scientific Method
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 
 Eric Ries
-* [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
+* [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [The Lean Startup Company](http://leanstartup.co), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
 * [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries) and [Eric Ries: The Leader's Guide Kickstarter](https://theleadersguide.org)
 * [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
 * [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
@@ -200,12 +200,9 @@ Alex Osterwalder
 * [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
 * [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
 * [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/books/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
-* [Alex Osterwalder: Strategyzer Resources](https://strategyzer.com/platform/resources)
+* [Alex Osterwalder: Strategyzer Resources](https://strategyzer.com/platform/resources) and [Strategyzer Blog](http://blog.strategyzer.com)
 
 <!--
-http://leanstartup.co
-
-http://blog.strategyzer.com
 http://blog.strategyzer.com/posts/2016/6/20/why-companies-fail-how-to-prevent-it?
 http://blog.strategyzer.com/posts/2015/2/03/implementing-your-business-model-with-the-galbraith-star-model
 http://blog.strategyzer.com/posts/2016/7/18/5-characteristics-of-a-great-strategy-workshop-facilitator
@@ -298,10 +295,6 @@ Database List
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 <!--
-https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
-
-https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
-
 https://www.producthunt.com/tech/product-hunt-3-0
 https://www.producthunt.com/tech/product-hunt-2-0
 https://www.producthunt.com/live
@@ -316,6 +309,10 @@ https://www.producthunt.com/apps/chrome
 https://alist.co
 https://angel.co/spv
 http://blog.angel.co/post/131017147560/csc-upshot
+
+https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
+
+https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
 -->
 
 Databases and Benchmarking- Freemium
@@ -1166,7 +1163,7 @@ Ergonomics
 * [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
 
 <!--
-Split keyboard
+https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard
 Mechanical keyboard
 Vertical mouse
 Natural ergonomic keyboard
@@ -1603,9 +1600,6 @@ Mac Keyboard Shortcuts
 * [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
 
 <!--
-How to Reinstall OS X
-https://support.apple.com/en-us/HT204904
-
 Use Activity Monitor on Your Mac
 https://support.apple.com/en-us/HT201464
 
@@ -1622,6 +1616,7 @@ https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 Mac OS X 
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
 * [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
+* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
 
 Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
 * [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
@@ -3186,16 +3181,6 @@ CSS Zen Garden
 * [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
 
-<!--
-https://www.staticgen.com
-
-https://websitedownloader.io
-https://webpreserver.com
-https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
-http://www.httrack.com/page/2
-http://www.httrack.com
--->
-
 Miscellaneous
 * [Namium (Name Generator)](http://www.naminum.com)
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
@@ -3529,6 +3514,26 @@ Kickstarters
 * [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
 * [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
 
+Static Site Generators and CMS (See also Jekyll)
+* [StaticGen](https://www.staticgen.com)
+
+<!--
+http://prose.io
+https://getgrav.org
+https://hexo.io
+-->
+
+Utilites
+* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
+* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
+* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
+
+<!--
+https://websitedownloader.io
+https://webpreserver.com
+https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
+-->
+
 <!--
 https://developer.mozilla.org/en-US/Apps
 https://developer.mozilla.org/en-US/docs/Web/Reference
@@ -3563,10 +3568,6 @@ http://whatwg.github.io/loader
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 -->
-
-Utilites
-* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
-* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
 
 #### Testing and Performance
 
@@ -4647,17 +4648,14 @@ Jekyll
 * [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
 * [Jekyll Templates](https://jekyllrb.com/docs/templates)
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
-* [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
-<!--
-http://prose.io
-https://getgrav.org
-https://hexo.io
-http://cloudcannon.com
-http://cloudcannon.com/pricing
+Jekyll Admin/CMS
+* [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
+* [CloudCannon](http://cloudcannon.com)
 
+<!--
 https://jekyllrb.com/docs/collections
 https://talk.jekyllrb.com
 http://www.jekyll-plugins.com
