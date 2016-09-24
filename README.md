@@ -8733,6 +8733,8 @@ https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crk
 <!--
 https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
+
+https://25iq.com/2016/09/24/a-dozen-ways-you-can-use-seth-klarmans-margin-of-safety-approach-when-voting/
 -->
 
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
@@ -9078,6 +9080,44 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 https://www.linkedin.com/pulse/unit-value-framework-scaling-jerry-chen
 
 https://mattermark.com/want-learn-venture-capital
+
+https://mattermark.com/venture-capital-dictionary
+
+https://en.wikipedia.org/wiki/Accredited_investor
+https://www.mycapital.com/companies/venturecapitalassociation_national.php
+https://bothsidesofthetable.com/what-is-the-definition-of-a-seed-round-or-an-a-round-2cf20264297c#.ht5hk4jec
+http://nvca.org/research/corporate-venture
+https://www.cbinsights.com/blog/corporate-venture-capital-active-2014
+https://www.willistowerswatson.com/en/insights/2016/02/global-pensions-asset-study-2016
+http://markovprocesses.com/blog/2015/11/mpi-dsa-unlocks-top-endowment-performance-1
+https://www.commonfund.org
+http://www.askivy.net/articles/venture-capital/venture-capital-explained/role-descriptions-in-venture-capital
+http://avc.com/2010/08/what-is-a-venture-partner-and-does-it-matter-to-you
+https://www.youtube.com/watch?v=7w-UWuDi0fY
+http://www.capdyn.com/media/1306/the-private-equity-j-curve_private-equity-mathematics_apr-09.pdf
+http://macabacus.com/venture-capital/returns
+https://en.wikipedia.org/wiki/Distribution_waterfall
+https://www.calpers.ca.gov/docs/board-agendas/201508/invest/item09a-01.pdf
+http://www.duanemorris.com/site/static/private_equity_fund_distribution_waterfalls.pdf
+http://www.valuewalk.com/wp-content/uploads/2015/08/SSRN-id2640498.pdf
+http://avc.com/2011/11/what-exactly-is-a-lead-investor
+https://www.angelcapitalassociation.org/blog/methods-for-valuation-of-seed-stage-startup-companies
+https://www.asme.org/getmedia/86b994d9-2faf-43b5-9b57-4cb6e727a3a2/Due_diligence_checklist.aspx
+http://www.startupcompanylawyer.com/2007/08/04/what-is-full-ratchet-anti-dilution-protection
+http://www.learnvc.com/2008/07/liquidation-preference
+http://startuplawyer.com/seed-rounds/how-convertible-debt-works
+https://www.seedinvest.com/blog/startup-investing/how-convertible-notes-work
+https://techcrunch.com/2012/04/21/convertible-note-seed-financings-econ-101
+http://www.k9ventures.com/blog/2011/03/22/thoughts-on-convertible-notes
+https://equity.gust.com/convertible-notes
+https://www.ycombinator.com/documents
+
+Books
+Venture Deals: Be Smarter than Your Lawyer and Venture Capitalist
+Inside Private Equity: The Professional Investor’s Handbook
+Venture Capital, Private Equity, and the Financing of Entrepreneurship: The Power of Active Investing
+The Business of Venture Capital: Insights from Leading Practitioners on the Art of Raising a Fund, Deal Structuring, Value Creation, and Exit Strategies
+
 https://mattermark.com/how-to-not-die
 
 http://heidiroizen.tumblr.com/post/139377970205/dear-startups-heres-how-to-stay-alive
@@ -9268,7 +9308,9 @@ Document Web Services
 * [Visible](https://visible.vc) 
 
 <!--
+https://blog.captable.io
 https://medium.com/@henrysward
+https://blog.esharesinc.com/latest
 https://esharesinc.com/investor-services
 https://tour.esharesinc.com/corporations/7/#start_demo
 -->
@@ -9650,6 +9692,8 @@ Notable Proposals and Pitch Decks
 
 <!--
 https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.tvtsh6on1
+
+https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.uz4h61j9c
 -->
 
 Templates
