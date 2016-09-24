@@ -51,6 +51,7 @@
 * [Ubuntu](https://github.com/ubuntu)
 * [WordPress](https://github.com/WordPress)  
 * [WordPress Plugins](https://github.com/wp-plugins) 
+* [Yandex](https://github.com/yandex)
 
 ## Government and Not-for-Profit
 
