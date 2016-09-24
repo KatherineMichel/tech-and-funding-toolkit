@@ -9081,6 +9081,79 @@ https://www.linkedin.com/pulse/unit-value-framework-scaling-jerry-chen
 
 https://mattermark.com/want-learn-venture-capital
 
+https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model?oldformat=true
+http://guykawasaki.com/the_venture_cap
+http://nvca.org/pressreleases/venture-capitalists-raise-12-billion-first-quarter-invest-startup-economy
+https://johngannonblog.com/2012/08/16/when-to-quit-your-venture-capital-job-hunt
+http://www.slideshare.net/jgannonslideshare/venture-capital-job-hunting-hacks?ref=https://johngannonblog.com/tag/vc-careers
+https://johngannonblog.com/tag/vc-careers
+http://www.thisisgoingtobebig.com/blog/2013/7/8/why-being-a-vc-sucks-advice-to-anyone-who-wants-to-get-into.html
+https://www.quora.com/What-are-the-downsides-of-being-a-venture-capitalist
+https://www.cbinsights.com/blog/biggest-startup-failures
+https://www.cbinsights.com/blog/startup-failure-post-mortem
+https://techcrunch.com/2013/08/31/the-decline-and-fall-of-flowtab-a-startup-story
+https://hackernoon.com/on-the-rebound-from-epic-failure-88e77d2b39af#.gavyhuili
+http://welcometobusinesstown.tumblr.com/post/109880943066/businesstown-sad-reality-the-venture-capital
+https://techcrunch.com/2015/10/06/s23p-racial-gender-diversity-venture
+https://www.theinformation.com/introducing-the-informations-future-list
+https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
+https://techcrunch.com/2015/12/13/dear-white-people-you-suck-at-diversity
+http://fr.slideshare.net/BorisGolden/understanding-vcs-59722764
+https://www.theventurealley.com/2011/02/how-vc-funds-work-typical-fund-structure
+http://www.angelblog.net/Fund_Structures.html
+https://microventures.com/accelerators-vs-incubators
+http://www.forbes.com/forbes/welcome/?/sites/allbusiness/2015/02/05/20-things-all-entrepreneurs-should-know-about-angel-investors
+http://www.askivy.net/articles/venture-capital/venture-capital-explained/role-descriptions-in-venture-capital
+http://avc.com/2010/08/what-is-a-venture-partner-and-does-it-matter-to-you
+https://bothsidesofthetable.com/the-importance-of-proprietary-deal-flow-in-early-stage-vc-f1858278a#.k3reirtsn
+http://www.wsj.com/articles/secretive-sprawling-network-of-scouts-spreads-money-through-silicon-valley-1447381377
+https://medium.com/point-nine-news/top-blog-posts-on-why-vcs-do-not-sign-ndas-40a825268bb7#.qua5sptdn
+http://www.kauffman.org/what-we-do/research
+http://nvca.org/research/stats-studies
+http://michiganvca.org
+http://www.illinoisvc.org
+https://mattermark.com/data-crush-producthunt-is-quickly-becoming-the-hot-new-destination-for-sourcing-startup-investment-opportunities
+http://www.seed-db.com
+http://boogar.com
+http://info.mattermark.com/reports/the-37-fastest-growing-startups
+http://www.kpcb.com/internet-trends
+http://www.ackrell.com/cannabis
+https://mattermark.com/vc-investment-sparks-high-times-american-cannabis-industry
+http://www.hbs.edu/faculty/Pages/profile.aspx?facId=6463
+http://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961
+http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/VC_networks.pdf
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1680198
+http://www.jstor.org/stable/3665619
+https://www.slideshare.net/Mattermark/2015-venture-capital-startup-traction-report
+
+Something Ventured” documentary
+
+Books
+Venture Capital, Private Equity, and The Financing of Entrepreneurship: The Power of Active Investing
+Brad Feld’s Startup Revolution series, Startup CEO, Startup Communities, and Venture Deals, with special emphasis on Venture Deals
+Venture Capital Due Diligence by Justin J. Camp and Deal Terms by Alex Wilmerding.
+Mahendra Ramsinghani’s The Business of Venture Capital or Paul Gompers and Josh Lerner’s The Money of Invention.
+John L. Nesheim’s High Tech Start Up
+
+http://www.themacro.com
+http://firstround.com/review
+http://a16z.com
+https://medium.com/point-nine-news
+http://nextviewventures.com/blog
+http://labs.openviewpartners.com
+http://feld.com
+http://reactionwheel.net
+https://www.saastr.com
+https://500ish.com
+http://ben-evans.com/archive
+http://snapstorms.com
+https://vcwithme.co
+http://pmarchive.com
+https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table
+https://docs.google.com/spreadsheets/d/1HBeAJAKXGAsQC6cfYEyIDHrX7of7Rwjo14AcOeKfk30/edit#gid=0
+https://twitter.com/marcinszelag
+
+
 https://mattermark.com/venture-capital-dictionary
 
 https://en.wikipedia.org/wiki/Accredited_investor
