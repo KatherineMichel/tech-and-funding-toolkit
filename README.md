@@ -9152,7 +9152,23 @@ http://pmarchive.com
 https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table
 https://docs.google.com/spreadsheets/d/1HBeAJAKXGAsQC6cfYEyIDHrX7of7Rwjo14AcOeKfk30/edit#gid=0
 https://twitter.com/marcinszelag
-
+http://exponent.fm
+Harvard Business Review contributor James Allworth (@jamesallworth)
+http://thepitch.fm
+https://twitter.com/joshmuccio
+http://www.thetwentyminutevc.com
+https://twitter.com/HarryStebbings
+http://fullratchet.net
+https://twitter.com/thefullratchet
+http://a16z.com/podcasts
+https://twitter.com/ganeumann
+https://twitter.com/jasonlk
+https://twitter.com/guyhturner
+https://twitter.com/boris_golden
+https://twitter.com/betashop
+https://twitter.com/alex
+https://twitter.com/johnmgannon
+https://twitter.com/ceonyc
 
 https://mattermark.com/venture-capital-dictionary
 
