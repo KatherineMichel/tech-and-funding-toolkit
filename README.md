@@ -9429,8 +9429,27 @@ https://github.com/jlevy/og-equity-compensation
 https://github.com/holman/extended-exercise-windows
 
 https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
+https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md
+http://also.roybahat.com/post/91847335194/the-trust-thing
+
 http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
+https://medium.com/@roybahat/predicting-who-will-start-a-company-5dab8efc7dd4#.3zrb3esh1
+https://angel.co/max-simkoff/syndicate
+https://angel.co/shruti_gandhi/syndicate
+https://angel.co/pt/syndicate
+http://also.roybahat.com/post/82904179747/why-most-demos-confuse
+http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of
+http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur
+http://also.roybahat.com/post/102969262108/boreds
+http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway
+https://www.ycombinator.com/handshake
 https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
+https://www.highly.co/hl/56e6f2323533356aeb5a0000
+
+http://www.gsbeclub.org/startup-resources
+https://docs.google.com/presentation/d/1JpoceH_UPB2F42C6OEGQjfGSgKS7IBUyK_LAV9ZtJB4/present?slide=id.i0
+http://www.seriesseed.com
+https://www.harrisonmetal.com
 
 https://www.rocketlawyer.com/document/web-hosting-agreement.rl
 -->
@@ -10469,10 +10488,9 @@ Docs
 
 File Storage
 * [Box](https://www.box.com) 
-* [Dropbox](https://www.dropbox.com)
+* [Dropbox](https://www.dropbox.com) and [Dropbox Paper](https://www.dropbox.com/paper)
 
 <!--
-https://www.dropbox.com/paper
 https://blogs.dropbox.com/business/2016/04/announcing-project-infinite
 -->
 
