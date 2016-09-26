@@ -104,7 +104,7 @@ Table of Content
 * [More Back-End](#more-back-end)
 * [Mobile](#mobile)
 * [Swift](#swift)
-* [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
+* [Video Gaming and Virtal Reality](#video-gaming-and-virtual-reality)
 * [Data Science](#data-science)
 
 * [Appendix](#appendix)
@@ -2810,6 +2810,8 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
+https://github.com/MakeSchool
+
 https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/tracks/web
 
@@ -7707,6 +7709,8 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://www.pluralsight.com/authors/justin-marshall
+
 https://www.udemy.com/unrealcourse
 https://www.unrealengine.com/ue4-on-github
 https://github.com/EpicGames
@@ -8013,6 +8017,8 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
+http://www.paddlepaddle.org
+
 http://www.ibm.com/watson
 
 https://github.com/facebookresearch/darkforestGo
@@ -10388,6 +10394,10 @@ Google World
 * [Google Flights](https://www.google.com/flights)  
 * [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
 * [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
+
+<!--
+https://get.google.com/trips
+-->
 
 Alerts
 * [Google Alerts](https://www.google.com/alerts)
