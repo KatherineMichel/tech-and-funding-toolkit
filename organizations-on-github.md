@@ -128,6 +128,7 @@ Not-for-Profit
 * [Coursera](https://github.com/coursera)  
 * [edX](https://github.com/edx)  
 * [Khan Academy](https://github.com/Khan)
+* [Make School](https://github.com/MakeSchool)
 * [O'Reilly Media](https://github.com/oreillymedia)
 * [Pluralsight](https://github.com/pluralsight)
 * [Udacity](https://github.com/udacity)  
