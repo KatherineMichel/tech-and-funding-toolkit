@@ -313,6 +313,7 @@ https://github.com/Medium/medium-policy
 * [Taobao](https://github.com/taobao)  
 * [Target](https://github.com/target)  
 * [TaskRabbit](https://github.com/taskrabbit)
+* [Tencent](https://github.com/Tencent)
 * [Tencent Open](https://github.com/TencentOpen)
 * [Tesla](https://github.com/tesla)  
 * [Gina Trapani/ThinkUp](https://github.com/ginatrapani/ThinkUp)  
