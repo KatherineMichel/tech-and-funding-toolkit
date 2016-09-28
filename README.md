@@ -7493,6 +7493,10 @@ Miscellaneous
 * [Launchkit](https://launchkit.io) and [Launchkit Screenshots](https://launchkit.io/screenshots)
 * [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
 
+<!--
+https://realm.io/products/realm-mobile-platform
+-->
+
 #### Swift
 
 <!--
