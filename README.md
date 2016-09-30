@@ -3572,7 +3572,7 @@ W3 Validators
 * [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
 * [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
 * [W3C Link Checker](https://validator.w3.org/checklink)
-* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)
+<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
 * [W3C Mobile Validator](http://validator.w3.org/mobile)
 * [W3C i18n Checker](http://validator.w3.org/i18n-checker)
 
