@@ -9145,14 +9145,11 @@ Venture Capital Due Diligence by Justin J. Camp and Deal Terms by Alex Wilmerdin
 Mahendra Ramsinghani’s The Business of Venture Capital or Paul Gompers and Josh Lerner’s The Money of Invention.
 John L. Nesheim’s High Tech Start Up
 
-http://www.themacro.com
 http://firstround.com/review
 http://a16z.com
 https://medium.com/point-nine-news
 http://nextviewventures.com/blog
 http://labs.openviewpartners.com
-http://feld.com
-http://reactionwheel.net
 https://www.saastr.com
 https://500ish.com
 http://ben-evans.com/archive
