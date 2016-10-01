@@ -10761,7 +10761,7 @@ MOOCs
 * [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
 * [Udemy](https://www.udemy.com)
 * [NovoEd (Social Entrepreneurship)](https://novoed.com)  
-* [University of Reddit](http://universityofreddit.com) 
+<!--* [University of Reddit](http://universityofreddit.com)--> 
 
 Coursera Materials Downloader
 * [Coursera Materials Downloader](https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en)
