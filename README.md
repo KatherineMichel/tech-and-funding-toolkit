@@ -96,8 +96,6 @@ Table of Content
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple General](#apple-general)
 
-
-
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
 
