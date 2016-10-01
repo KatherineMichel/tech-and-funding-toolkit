@@ -13,30 +13,32 @@ A :star::star::star::star::star: curated list of high quality resources (mostly 
 Table of Content
 -----------------
 
-* [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
-* [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
-* [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 * [Venture Analysis](#venture-analysis)
+* [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
+* [Documents and Advice](#documents-and-advice)
+* [Metrics](#metrics)
 * [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
 * [Company and Product Databases](#company-and-product-databases)
 * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-* [Open Companies](#open-companies) 
-* [Labs, Kitchens, Garages](#labs-kitchens-garages)
+* [Surveys, Trends, Stats](#surveys-trends-stats)
+* [Site and App Research](#site-and-app-research)
+
 * [Project Management](#project-management)
   * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
   * [Software Testing](#software-testing)
   * [Documents and Improvement](#documents-and-improvement)
+
 * [Research and Design Sprints](#research-and-design-sprints)
   * [Basics](#basics)
-  * [Government Digital](#government-digital)
   * [Agile Sprints](#agile-sprints)
-* [Design](#design)
-  * [Design Thinking](#design-thinking)
-  * [Surveys, Trends, Stats](#surveys-trends-stats)
-  * [Site and App Research](#site-and-app-research)
-  * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
-  * [Social Media and Social Graph](#social-media-and-social-graph) 
-  * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
+
+* [Design Thinking](#design-thinking)
+* [Pretotyping and Prototyping](#pretotyping-and-prototyping)
+* [Front-End Development](#front-end-development) 
+
+* [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
+* [Social Media and Social Graph](#social-media-and-social-graph) 
+* [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
 
 * [Computer Basics](#computer-basics)
   * [Encoding](#encoding)
@@ -45,6 +47,7 @@ Table of Content
   * [Unix and Linux General](#unix-and-linux-general)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple General](#apple-general)
+
 * [Development Environment and Programming](#development-environment-and-programming)
   * [Apple Developer Tools](#apple-developer-tools)
   * [Google Developer Tools](#google-developer-tools)
@@ -64,10 +67,9 @@ Table of Content
 * [Programming](#programming)
   * [Programming Learning Tools](#programming-learning-tools) 
   * [Programming Language Style Guides](#programming-language-style-guides) 
-  * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
-  * [Front-End Development](#front-end-development) 
   * [Testing and Performance](#testing-and-performance)
   * [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
+
 * [JavaScript](#javascript)
   * [JavaScript Ecosystem](#javascript-ecosystem)
   * [JavaScript Framework](#javascript-framework)
@@ -94,6 +96,7 @@ Table of Content
   * [Python and Django Unique](#python-and-django-unique)
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
+
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
@@ -124,13 +127,15 @@ Table of Content
   * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
-  * [Documents and Advice](#documents-and-advice)
+  * [Finance Extra](#finance-extra)
+ 
   * [Regulation, Business Entity](#regulation-business-entity)
+  * [Government Digital](#government-digital)
   * [Government and International Data](#government-and-international-data)
-  * [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 
-* [Metrics](#metrics)
-
+* [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
+* [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
+* [Lean Startup and Launchpad](#lean-startup-and-launchpad)
 * [Philosophies, Milestones](#philosophies-milestones)
 * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
 * [Notable Quotes](#notable-quotes)
@@ -139,6 +144,9 @@ Table of Content
 * [Books and Courses](#books-and-courses)
 * [Business and Tech News Sources](#business-and-tech-news-sources)
 * [Analyst Groups](#analyst-groups)
+
+* [Labs, Kitchens, Garages](#labs-kitchens-garages)
+* [Open Companies](#open-companies) 
 
 * [Launch Strategies](#launch-strategies)
 * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
@@ -152,72 +160,10 @@ Table of Content
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
 
-#### Software and Mobile are Eating the World, Software is Reorganizing the World
 
-* [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
-* [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
-* [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
-* [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
 
-#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
 
-* [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
-* [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
-* [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
-* [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-* [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
-* [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
-* [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
-* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) and [HBS: Clay Christensen’s Milkshake Marketing](http://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing)
-* [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
 
-<!--
-Joshua Gans
-The Disruption Dilemma
-https://www.amazon.com/dp/B01BPYKF9K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
--->
-
-#### Lean Startup and Launchpad
-
-Scientific Method
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-
-Eric Ries
-* [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [The Lean Startup Company](http://leanstartup.co), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
-* [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries) and [Eric Ries: The Leader's Guide Kickstarter](https://theleadersguide.org)
-* [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
-* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-* [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
-
-Steve Blank
-* [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
-* [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
-* [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-* [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
-* [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
-
-Alex Osterwalder
-* [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
-* [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
-* [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/books/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
-* [Alex Osterwalder: Strategyzer Resources](https://strategyzer.com/platform/resources) and [Strategyzer Blog](http://blog.strategyzer.com)
-
-<!--
-http://blog.strategyzer.com/posts/2016/6/20/why-companies-fail-how-to-prevent-it?
-http://blog.strategyzer.com/posts/2015/2/03/implementing-your-business-model-with-the-galbraith-star-model
-http://blog.strategyzer.com/posts/2016/7/18/5-characteristics-of-a-great-strategy-workshop-facilitator
--->
-
-Spinoffs
-* [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
-* [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
-* [Lean Stack](http://leanstack.com/the-lean-stack) and [Lean Stack Diagram](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/leancanvas.png)  
-* [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
-* [Minimum Viable Canvas Resources](https://medium.com/minimum-viable-canvas), [Minimum Viable Canvas Intro](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65), [Using the Minimum Viable Canvas](https://medium.com/minimum-viable-canvas/using-the-minimum-viable-canvas-fae7e027cafc), [Minimum Viable Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*PlhNZAMQxiuwPN7TsRV20g.png), and [Minimum Viable Canvas Example](https://d262ilb51hltx0.cloudfront.net/max/800/1*gk40wStd6F-3GkGKO8M_wA.png) 
-* [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
-* [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
-* [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
-* [Business Model Fiddle](http://bmfiddle.com)
 
 #### Venture Analysis
 
@@ -247,6 +193,219 @@ Idea State Machine and Idea Maze
 List
 * [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
  
+#### Notable Proposals and Pitch Decks
+
+* [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
+
+Pitch Deck Search
+* [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
+* [Pitch Envy](http://www.pitchenvy.com)
+* [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
+
+Notable Proposals and Pitch Decks
+* [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
+* [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
+* [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
+* [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
+* [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
+* [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
+* [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
+* [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
+* [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
+* [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
+* [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
+* [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
+* [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
+* [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
+* [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
+* [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
+* [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
+* [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
+* [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
+* [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
+* [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
+* [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
+* [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+* [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
+
+<!--
+https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.tvtsh6on1
+
+https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.uz4h61j9c
+-->
+
+Templates
+* [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
+* [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
+* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
+* [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
+* [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
+* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+* [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
+* [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
+
+The Prince's Trust
+* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
+* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
+* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
+* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
+
+#### Documents and Advice
+
+Investors on GitHub
+* [Agile Ventures](https://github.com/AgileVentures)
+* [Indie.vc](https://github.com/indievc)
+* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
+
+A16Z Funding and Valuation Advice
+* [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
+* [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+
+Law and Transaction Services
+* [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+* [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
+* [Cooley Go](https://www.cooleygo.com)
+* [Gunderson Dettmer](http://www.gunder.com)
+* [Fenwick & West LLP](https://www.fenwick.com) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
+* [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx) and [Ted Wang Medium](https://medium.com/@twang)
+* [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
+* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com), [Wilson Sonsini Goodrich & Rosati Publications](https://www.wsgr.com/publications), and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
+* [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+* [Fortis](http://fortisrep.com) 
+
+VCs on Standard Docs and Terms
+* [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
+* [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
+* [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
+* [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
+* [Walker Corporate Law Group, PLLC: VC Term Sheets – Protective Provisions](http://walkercorporatelaw.com/vc-issues/vc-term-sheets-%E2%80%93-protective-provisions)
+
+Standard Docs and Terms
+* [500 Startups Keep It Simple Security](http://500.co/kiss)
+* [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
+* [Foundry Group Docs via Ask the VC (Series A Term Sheet, Series A Restated Certificate of Incorporation, Series A Preferred Stock Purchase Agreement, Investor Rights Agreement, Co-Sale Agreement, Voting Agreement, Bylaws)](http://www.askthevc.com/wp/resources)
+* [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF) and [Other Gunderson Dettmer](http://www.docracy.com/doc/showalluserdocs?page=1&userId=80)
+* [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github) (in Conjunction with Cooley Go)
+* [Marc Andreessen on “Series Seed Documents,” and Why VCs Should Start Using Them](http://www.pehub.com/64825/marc-andreessen-on-series-seed-documents-and-why-vcs-should-start-using-them), [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Restated Certificate of Incorporation, Preferred Stock Investment Agreement)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+* [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Term Sheet, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
+* [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
+* [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Convertible Promissory Note Purchase Agreement, Note, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+* [TheFunded Founder Institute Document List (Certificate of Incorporation, Plain Preferred Term Sheet, Bylaws, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
+* [Founder Institute Agreements (The Founder Agreement, Form of the Warrant, Form of Board Consent)](http://fi.co/agreements)
+* [Wilson Sonsini Goodrich & Rosati Incorporation Questionnaire](https://www.wsgr.com/WSGR/Display.aspx?SectionName=start/incorporation.htm), [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm), and [Wilson Sonsini Goodrich & Rosati Term Sheet Generator (Convertible Notes)](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm)
+* [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
+
+Document Libraries- Free/Freemium
+* [Docracy Documents](http://www.docracy.com/application/dochome) 
+* [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
+* [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Blog](http://www.shakelaw.com/blog), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
+* [Venture Docs](https://venturedocs.com/documents)  
+* [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
+
+Document Libraries- Not Free/Freemium
+* [LegalZoom](http://www.legalzoom.com)
+* [Rocket Lawyer (Starts at $7/month)](https://www.rocketlawyer.com) 
+
+Standard Docs- International
+* [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
+* [Full Stack Foundry Blog Post](http://fullstack.ca/tools/canadian-term-sheets) and [Full Stack Foundry GitHub](https://github.com/FullStackFoundry/common-seed-termsheets)
+* [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
+* [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
+
+VC Firm Pitch Deck and Operational Report Templates
+* [Rick Klau/Google Ventures: "Pitch perfect: Five elements of a great pitch"](https://library.gv.com/pitch-perfect-92a9ab5b5baa#.7ivbbvi0j)
+* [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
+* [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
+* [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
+
+Term Sheets 101
+* [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
+* [Venture Hacks Top 10 Term Sheet Hacks](http://www.slideshare.net/venturehacks/top-10-term-sheet-hacks-presentation-725011)
+
+Carried Interest 101
+* [Wilson Sonsini Goodrich & Rosati: Venture Capital Fund Carried Interests](http://www.slideshare.net/Freddy56/venture-capital-fund-carried-interests)
+
+Document Web Services
+* [Captable.io](https://captable.io) and [Captable.io Blog](https://blog.captable.io)
+* [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
+* [Eshares Inc](https://www.esharesinc.com) and [Eshares Inc Blog](https://blog.esharesinc.com)
+* [Visible](https://visible.vc) 
+
+<!--
+https://blog.captable.io
+https://medium.com/@henrysward
+https://blog.esharesinc.com/latest
+https://esharesinc.com/investor-services
+https://tour.esharesinc.com/corporations/7/#start_demo
+-->
+
+Cap Table
+* [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
+* [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
+
+Raising a Seed Round- The Spreadsheet
+* [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
+
+Equity Investment Simulation
+* [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
+
+<!--
+https://github.com/leonar15/startup-checklist
+https://github.com/jlevy/og-equity-compensation
+https://github.com/holman/extended-exercise-windows
+
+https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
+https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md
+http://also.roybahat.com/post/91847335194/the-trust-thing
+
+http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
+https://medium.com/@roybahat/predicting-who-will-start-a-company-5dab8efc7dd4#.3zrb3esh1
+https://angel.co/max-simkoff/syndicate
+https://angel.co/shruti_gandhi/syndicate
+https://angel.co/pt/syndicate
+http://also.roybahat.com/post/82904179747/why-most-demos-confuse
+http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of
+http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur
+http://also.roybahat.com/post/102969262108/boreds
+http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway
+https://www.ycombinator.com/handshake
+https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
+https://www.highly.co/hl/56e6f2323533356aeb5a0000
+
+http://www.gsbeclub.org/startup-resources
+https://docs.google.com/presentation/d/1JpoceH_UPB2F42C6OEGQjfGSgKS7IBUyK_LAV9ZtJB4/present?slide=id.i0
+http://www.seriesseed.com
+https://www.harrisonmetal.com
+
+https://www.rocketlawyer.com/document/web-hosting-agreement.rl
+-->
+
+#### Metrics
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+Bill Gurley on Conversion and LTV
+* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
+* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
+* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+
+Objectives and key Results (OKRs)
+* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
+* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+KPIs
+* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+
+Pirate Metrics
+* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+  
 #### Market, Business Models, Pricing, Product Tiers
   
 Market
@@ -386,38 +545,89 @@ Industry and Product Classifications
 Associations
 * [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
-#### Open Companies
+#### Surveys, Trends, Stats
 
-Buffer
-* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+Surveys
+* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
+* [SurveyMonkey](https://www.surveymonkey.com)
+* [Typeform](https://subtraction.typeform.com)
 
-Clef
-* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+Google Insights and Trends
+* [Google Insights](http://www.google.com/insights)
+* [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
+* [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
 
-Mattermark
-* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+Tim Ferris Inspired- Ideas
+* [Amazon Best Sellers](http://www.amazon.com/gp/bestsellers) and [Amazon Interesting Finds](https://www.amazon.com/stream/hotpicks)
+* [eBay All Categories](http://www.ebay.com/sch/allcategories/all-categories) and [eBay Collections](http://www.ebay.com/cln)
+* [Craigslist Gigs](http://sfbay.craigslist.org/search/ggg)
+* [Kickstarter Discover](https://www.kickstarter.com/discover), [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced), and [Kickstarter Recommendations](https://www.kickstarter.com/recommendations)
 
 <!--
-https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
-https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
 -->
 
-#### Labs, Kitchens, Garages
+Hobbies and Cool Tools
+* [Hobby Masters](http://hobbymasters.com)
+* [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
+* [Maker Faire Meet the Makers](http://makerfaire.com/new-york-2016/meet-the-makers/)
 
-Labs, Kitchens, Garages
-* [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
-* [Microsoft Garage](http://www.microsoft.com/en-us/garage)
-* [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
-* [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
-* [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
+#### Site and App Research
+
+Apple and Google Statistics
+* [Apple Store Charts](https://www.apple.com/itunes/charts)
+* [Google Play Top Apps](https://play.google.com/store/apps/top)  
+
+App and Website Statistics- General
+* [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+* [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+* [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+* [Gallup](http://www.gallup.com/home.aspx)
+* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites)
+* [ComScore](http://www.comscore.com/Insights/Market-Rankings)
+
+Mobile and Browser
+* [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
+* [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
+* [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
+* [Apple Store](http://store.apple.com/us)
+* [Chrome Web Store](https://chrome.google.com/webstore)
+* [Google Play](https://play.google.com)
+* [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
+* [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
+* [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+* [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
+* [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
+
+Browser Stats
+* [W3Counter](https://www.w3counter.com)
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+Wayback Machine
+* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
+
+Built With (Exluding Django; See also Squarespace)
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+* [Built With](http://builtwith.com)  
+* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+* [Built with Bootstrap](http://expo.getbootstrap.com)  
+* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+Code Search
+* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
+* [Nerdy Data](http://nerdydata.com)  
+
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me)  
+
 
 #### Project Management
 
@@ -637,74 +847,6 @@ Methods
 Persuasive Technology
 * [Persuasive Technology Wikipedia](https://en.wikipedia.org/wiki/Persuasive_technology)
 
-#### Government Digital
-
-<!--
-See
-* [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
--->
-
-GitHub Government 
-* [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
-
-<!--
-Australia, Canada, New Zealand, U.K., U.S.
-Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, Venezuela
-
-European Union
-International
-South Africa
-
-U.S. Gov.
-* [U.S. Aid](https://github.com/USAID)
-* [U.S.A. Gov](https://github.com/usagov)
-* [Open Gov](https://github.com/opengov)  
-
-U.S. Government- Agencies
-* [Department of Labor](https://github.com/USDepartmentofLabor) 
-* [Food and Drug Administration (FDA)](https://github.com/FDA) 
- 
-U.K. Government
-* [Data Gov U.K.](https://github.com/datagovuk) 
--->
-
-U.S. Gov., Consumer Financial Protection Bureau, Department of Veterans Affairs, Presidential Innovation Fellows, Usability Gov., 18F, Code for America, U.K. Gov., Australian Gov., - GitHub: See
-* [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
-
-U.S. Gov., U.K. Gov., Usability Gov., Australian Gov.: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
-* [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
- 
-U.S. Gov.- General Services Administration- GitHub
-* [G.S.A. Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
-* [G.S.A. U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
-
-U.S. Gov- Consumer Financial Protection Bureau- GitHub
-* [Consumer Financial Protection Bureau](http://cfpb.github.io)
-* [Consumer Financial Protection Bureau Source Code Policy GitHub](https://github.com/cfpb/source-code-policy)
-
-U.S. Gov- Department of Veterans Affairs- GitHub
-* [Department of Veterans Affairs Data GitHub](https://github.com/va-data)
-* [Department of Veterans Affairs Developer Area GitHub](https://github.com/va-data/va-developer)
-
-U.S. Gov- 18F- GitHub
-* [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
-* [18F Analytics Standards GitHub](https://github.com/18F/analytics-standards), and [18F API Standards GitHub](https://github.com/18f/api-standards)
-* [18F Web Design Standards](https://standards.usa.gov) and [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
-* [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
-* [18F HTTPS](https://github.com/18F/https) 
-
-BBC
-* [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
-
-Estonian E-Residence
-* [Estonian E-Residence](https://e-estonia.com/e-residents/about)
-
-U.S. Gov.: Code for America
-* [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
-
 #### Agile Sprints
 
 Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nesta DIY, Nielson Norman and Various: See
@@ -736,7 +878,7 @@ https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
 http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
 -->
 
-#### Design
+
 
 #### Design Thinking
 
@@ -767,88 +909,525 @@ KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
-#### Surveys, Trends, Stats
+#### Pretotyping and Prototyping
 
-Surveys
-* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
-* [SurveyMonkey](https://www.surveymonkey.com)
-* [Typeform](https://subtraction.typeform.com)
+Pretotyping
+* [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
 
-Google Insights and Trends
-* [Google Insights](http://www.google.com/insights)
-* [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
-* [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+Prototyping
+* [Prototype Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
+* [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
+* [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
+* [Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration) 
 
-Tim Ferris Inspired- Ideas
-* [Amazon Best Sellers](http://www.amazon.com/gp/bestsellers) and [Amazon Interesting Finds](https://www.amazon.com/stream/hotpicks)
-* [eBay All Categories](http://www.ebay.com/sch/allcategories/all-categories) and [eBay Collections](http://www.ebay.com/cln)
-* [Craigslist Gigs](http://sfbay.craigslist.org/search/ggg)
-* [Kickstarter Discover](https://www.kickstarter.com/discover), [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced), and [Kickstarter Recommendations](https://www.kickstarter.com/recommendations)
+Device Mockups
+* [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
+* [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
 
 <!--
-https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
+http://facebook.design/devices
+http://facebook.design/handskit
+http://facebook.design/ios9
 -->
 
-Hobbies and Cool Tools
-* [Hobby Masters](http://hobbymasters.com)
-* [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
-* [Maker Faire Meet the Makers](http://makerfaire.com/new-york-2016/meet-the-makers/)
+Device Popularity Stats
+* [Top 14 Screen Resolutions](http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604)
 
-#### Site and App Research
+<!--
+http://screensiz.es
 
-Apple and Google Statistics
-* [Apple Store Charts](https://www.apple.com/itunes/charts)
-* [Google Play Top Apps](https://play.google.com/store/apps/top)  
+http://www.productchart.com/laptops
+http://www.devicespecifications.com/en
 
-App and Website Statistics- General
-* [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
-* [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
-* [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-* [Gallup](http://www.gallup.com/home.aspx)
-* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites)
-* [ComScore](http://www.comscore.com/Insights/Market-Rankings)
+https://en.wikipedia.org/wiki/List_of_common_resolutions
+https://en.wikipedia.org/wiki/Display_resolution
 
-Mobile and Browser
-* [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
-* [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
-* [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
-* [Apple Store](http://store.apple.com/us)
-* [Chrome Web Store](https://chrome.google.com/webstore)
-* [Google Play](https://play.google.com)
-* [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
-* [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
-* [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
-* [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
-* [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
+http://www.mobilusdesign.com/responsive-web-designed-websites-for-wordpress
 
-Browser Stats
-* [W3Counter](https://www.w3counter.com)
+http://wiki.mobileread.com/wiki/Screen_sizes
+https://www.quora.com/Whats-the-average-desktop-screen-resolution-as-of-2015
+-->
 
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+Prototyping Software- Keynotopia
+* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
+* [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
+* [Keynote Theme File Extension](http://fileinfo.com/extension/kth)
 
-Wayback Machine
-* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
+Prototyping Software- Keynotopia- Tutorials
+* [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
 
-Built With (Exluding Django; See also Squarespace)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-* [Built With](http://builtwith.com)  
-* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-* [Built with Bootstrap](http://expo.getbootstrap.com)  
-* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+Prototyping Software- Keynote- Docs
+* [Keynote for Mac: Keynote for Mac keyboard shortcuts](https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US)
+* [Keynote for Mac: Add and edit master slides](https://support.apple.com/kb/PH16978?locale=en_US)
+* [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
 
-Code Search
-* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
-* [Nerdy Data](http://nerdydata.com)  
+<!--
+http://keynotopia.com/#how
+http://keynotopia.com/guides
+http://keynotopia.com/bootstrap
+http://keynotopia.com/keynotopia-super-bundle
+http://keynotopia.com/keynote-mockups-templates
+http://keynotopia.com/web-prototyping
 
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+http://keynotopia.com/tutorials
+http://keynotopia.com/keynote-and-powerpoint-mockup-templates
+http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps
+http://keynotopia.com/how-to-create-ui-animations-with-keynote
+http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com
 
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me)  
+https://support.apple.com/en-us/HT202220
+
+https://help.apple.com/keynote/mac
+https://support.apple.com/kb/PH24334?locale=en_US&viewlocale=en_US
+
+https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
+-->
+
+Prototyping Software- Others
+* [Keynote Kung-Fu](http://keynotekungfu.com)
+* [Facebook Origami GitHub](https://github.com/facebook/origami)
+* [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
+* [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
+* [Balsamiq](https://balsamiq.com) and [Balsamiq Mockups](https://balsamiq.com/products/mockups)
+* [Wirify](https://www.wirify.com)
+* [Axure](http://www.axure.com)
+* See also Apple
+
+<!--
+https://facebook.github.io/origami/examples
+http://facebook.github.io/origami/download
+
+http://blog.invisionapp.com
+http://blog.invisionapp.com/chat-minimal-ui-kit
+http://blog.invisionapp.com/design-for-the-human-brain
+
+http://blog.invisionapp.com/large-desktop-experience-responsive-design/
+https://support.invisionapp.com/hc/en-us/articles/203009779-What-size-should-my-screens-be-
+http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+https://www.google.com/design/spec/layout/structure.html#structure-system-bars
+http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/12/desktopchart.jpeg
+
+https://layer.com/messaging-design-kit
+
+https://marvelapp.com
+-->
+
+Full Page Screen Shots
+* [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
+* [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
+
+Quickie Websites
+* [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
+* [Squarespace Templates](https://www.squarespace.com/websites), [Squarespace Customers](https://www.squarespace.com/customers), and [Squarespace Local Development](http://developers.squarespace.com/local-development) 
+* [Weebly Themes](http://www.weebly.com/themes)
+* [Wix Templates](http://www.wix.com/website/templates) and [Wix Premium Plans](http://www.wix.com/upgrade/premium-plans)
+
+<!--
+https://engineering.squarespace.com/blog/2016/the-developer-platform-gets-local
+-->
+
+Domain Names
+* [Google Domains](https://domains.google.com)
+* [Namecheap](https://www.namecheap.com)
+* [iwantmyname](https://iwantmyname.com)
+
+Quickie Mobile Apps
+* [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
+
+Turn Key Websites
+* [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
+
+Miscellaneous
+* [Namium (Name Generator)](http://www.naminum.com)
+* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+
+Fonts (See also Google Apps)
+* [Font Famous](http://fontfamous.com)
+* [Fontscape](http://www.fontscape.com)
+
+Lipsum
+* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
+
+Color
+* [Color Wikipedia](https://en.wikipedia.org/wiki/Color)
+* [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
+* [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
+
+Photoshop and Similar
+* [Nik Collection](https://www.google.com/nikcollection)
+* [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
+* [Adobe Lightroom](https://lightroom.adobe.com)
+* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
+* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
+* [Gimp](http://www.gimp.org), [Gimp Docs](http://docs.gimp.org), and [Gimp Plugin Registry](http://registry.gimp.org/glossary/a)
+* [Inkscape](http://www.inkscape.org/en)  
+* [Serif](http://www.serif.com)
+
+<!--
+https://en.wikipedia.org/wiki/Bokeh
+
+https://spark.adobe.com
+
+https://docs.gimp.org/en/gimp-tutorial-quickie-separate.html
+https://docs.gimp.org/en/gimp-layer-alpha-selection-add.html
+https://www.gimp.org/tutorials/Straight_Line
+https://docs.gimp.org/en/script-fu-addborder.html
+https://docs.gimp.org/en/gimp-using-web-transparency.html
+https://www.gimp.org/tutorials/ContrastMask
+https://docs.gimp.org/en/gimp-tool-brightness-contrast.html
+-->
+
+Photo Placeholders
+* [Placeholder It](http://placehold.it)
+
+Free Photos
+* [MorgueFile](http://www.morguefile.com)  
+
+Flickr
+* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+Photo Enhancement
+* [Prisma](http://prisma-ai.com) and [Prisma iTunes](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
+
+Gifs
+* [Giphy](http://giphy.com) 
+
+<!--
+https://twitter.com/smashdlabs
+http://www.cssmania.com
+https://www.siteinspire.com
+https://twitter.com/siteinspire
+-->
+
+<!--
+http://www.colourlovers.com
+http://www.themeleon.com
+
+https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits
+
+[Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
+
+Design Resources- General
+[IMCreator](http://www.imcreator.com/free)  
+http://www.imcreator.com/free/website-templates
+
+Color Palettes
+[Adaptive Backgrounds GitHub](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)  
+[Bootflat (Example Website) GitHub](https://github.com/bootflat/bootflat.github.io)   
+[Bootstrap UI Kits GitHub](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits)  
+[CSS3 Patterns](http://lea.verou.me/css3patterns)  
+[Color Combos](http://www.colorcombos.com/combolibrary.html)  
+[Color Scheme Designer](http://colorschemedesigner.com)  
+[Color Thief Designer](https://github.com/lokesh/color-thief)  
+[Colors Palette](http://clrs.cc)  
+[Flat UI (Design Modo) GitHub](https://github.com/designmodo/Flat-UI)  
+[Flat UI Colors](http://flatuicolors.com)  
+[Flat UI Kit GitHub](https://github.com/Grouper/FlatUIKit)  
+[Geopattern GitHub](https://github.com/btmills/geopattern)  
+[HSL Color Picker](http://hslpicker.com)  
+[Solarized](http://ethanschoonover.com/solarized)  
+[Random Color GitHub](https://github.com/davidmerfield/randomColor)  
+[Solarized Lab Color Space Theory Wikipedia](http://en.wikipedia.org/wiki/Lab_color_space)  
+[Subtle Patterns GitHub](https://github.com/subtlepatterns/SubtlePatterns)  
+[The Pattern Library](http://thepatternlibrary.com)  
+[Trianglify GitHub](https://github.com/qrohlf/trianglify) 
+
+[Paintstrap (Adobe Kuler/Colorlover)](http://paintstrap.com) 
+https://color.adobe.com
+
+https://en.wikipedia.org/wiki/Category:Paint_manufacturers
+http://www.benjaminmoore.com/en-us/for-your-home/paint-color-combinations-room-design-ideas
+http://media.benjaminmoore.com/WebServices/prod/ColorCardUpdate/USFreshPales/index.html
+http://paletton.com
+http://www.pantone-colours.com/
+http://www.pantone.com/fashion-home-color-guide
+
+http://coolors.co/intro
+https://github.com/Ghosh/uiGradients
+http://uigradients.com
+
+Color Theory Reference Sheet
+http://www.pinterest.com/pin/263601384413811357
+https://www.linkedin.com/pulse/article/20141011060854-71962-how-colors-matter-more-than-size-and-visuals
+
+https://designschool.canva.com/blog/branding-templates
+
+https://en.wikipedia.org/wiki/Aspect_ratio_(image)
+[Raster Graphics (pixels) Wikipedia](http://en.wikipedia.org/wiki/Raster_graphics)  
+[Vector Graphics (paths) Wikipedia](http://en.wikipedia.org/wiki/Vector_graphics)
+
+Photos
+[Death to the Stock Photo](http://deathtothestockphoto.com)  
+[Get Refe](http://getrefe.tumblr.com/)  
+[Gratisography](http://www.gratisography.com)  
+[Image Placeholders GitHub](https://github.com/imsky/holder)  
+[iStockPhoto](http://www.istockphoto.com)  
+[Little Visuals](http://littlevisuals.co)  
+[New Old Stock](http://nos.twnsnd.co)  
+[PicJumbo](http://picjumbo.com)  
+[Super Famous](http://superfamous.com)  
+[Unsplash](http://unsplash.com) and [Unsplash Collections](https://unsplash.com/collections)
+
+Email
+[MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
+[Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
+
+http://www.goodemailcopy.com
+
+[Really Good Email](http://reallygoodemails.com)  
+[Voice and Tone](http://voiceandtone.com) 
+-->
+
+#### Front-End Development
+
+Web General (See also JavaScript) 
+* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
+* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
+* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+
+W3C HTML Standards
+* [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
+* [W3C HTML5](https://www.w3.org/TR/html5)
+
+<!--
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
+-->
+
+HTML and CSS Tutorials- General
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+
+HTML and CSS Tutorials- Mozilla
+* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+HTML5 and CSS3 Tutorials- Mozilla
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+Can I Use and Vendor-prefixed CSS Property Overview
+* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
+* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
+
+Bootstrap Tutorials
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+
+HTML
+* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+
+<!--
+W3Schools
+Learn XML
+http://www.w3schools.com/xml/default.asp
+Learn XSLT
+http://www.w3schools.com/xsl/default.asp
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+-->
+
+CSS
+* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
+* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+<!--
+https://www.w3.org/DesignIssues/Uses.html
+
+https://www.w3.org/community/webed/wiki/Main_Page
+
+https://www.w3.org/standards/webdesign
+https://www.w3.org/standards/webdesign/htmlcss
+https://www.w3.org/standards/webdesign/script.html
+
+https://www.w3.org/standards/webofdevices
+https://www.w3.org/standards/webarch
+https://www.w3.org/standards/agents
+
+http://validator.w3.org/unicorn
+https://www.w3.org/2009/cheatsheet
+https://www.w3.org/Mobile
+https://www.w3.org/2002/03/tutorials.html
+
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
+
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+-->
+
+Responsiveness- and Media Queries
+* [Bootstrap CSS](http://getbootstrap.com/css)
+* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
+* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
+* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
+
+Responsive Design Examples
+* [Media Queries Examples](http://mediaqueri.es)
+* [Responsive Design Examples](https://responsivedesign.is/examples)
+
+Bootstrap, Font Awesome
+* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
+* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
+* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+
+<!--
+https://github.com/silverbux/bootflat-admin
+https://github.com/almasaeed2010/AdminLTE
+https://github.com/VinceG/Bootstrap-Admin-Theme 
+https://github.com/onokumus/Bootstrap-Admin-Template
+https://github.com/akveo/blur-admin
+https://github.com/puikinsh/gentelella
+-->
+
+Foundation
+* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
+* [Foundation for Emails](http://foundation.zurb.com/emails.html)
+* [Zurb Library](http://zurb.com/library)
+
+Theme Marketplace
+* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
+
+Good, Basic Templates, Themes
+* [Template Stash](http://www.templatestash.com)
+* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
+* [BootstrapTaste](http://bootstraptaste.com)
+* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
+* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
+* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
+* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
+
+<!--
+http://www.bootstrapzero.com/c/one-page-themes
+http://bootstrap.theme.cards/l
+
+http://www.bootply.com
+
+Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
+Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
+href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
+-->
+
+Good, Basic Templates, Themes- Skel
+* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
+* [Templated](http://templated.co)
+* [HTML5 UP](http://html5up.net)
+
+Kickstarters
+* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
+* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
+* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
+
+Static Site Generators and CMS (See also Jekyll)
+* [StaticGen](https://www.staticgen.com)
+
+<!--
+http://prose.io
+https://getgrav.org
+https://hexo.io
+-->
+
+Utilites
+* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
+* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
+* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
+
+<!--
+https://websitedownloader.io
+https://webpreserver.com
+https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
+-->
+
+<!--
+https://developer.mozilla.org/en-US/Apps
+https://developer.mozilla.org/en-US/docs/Web/Reference
+https://developer.mozilla.org/en-US/docs/Web/Guide
+https://developer.mozilla.org/en-US/docs/Web/Tutorials
+https://developer.mozilla.org/en-US/docs/Web/Accessibility
+https://developer.mozilla.org/en-US/docs/Web/Security
+
+https://developer.mozilla.org/en-US/Learn
+
+https://developer.mozilla.org/en-US/docs/Web/API
+https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
+https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
+https://developer.mozilla.org/en-US/docs/Web/Guide/Events
+https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
+https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
+https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
+https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
+
+https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+https://developer.mozilla.org/en-US/docs/Web/MathML
+https://developer.mozilla.org/en-US/docs/Glossary
+-->
+<!--
+http://whatwg.github.io/loader
+
+https://developer.mozilla.org/en-US/docs/Web/API/Console/table
+-->
+
+
+CSS Zen Garden 
+* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
+* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
+
+Favicon, Sitemap, robots.txt, humans.txt
+* [XML Sitemaps](http://www.xml-sitemaps.com)
+* [sitemaps.org](http://www.sitemaps.org)
+* [humans.txt](http://humanstxt.org)
+* [robots.txt](http://www.robotsgenerator.com)
+
+<!--
+robots.txt tutorial
+http://tools.seobook.com/robots-txt
+Real Favicon Generator
+http://realfavicongenerator.net
+-->
+
+Gravatar
+* [Gravatar](http://en.gravatar.com)
+
 
 #### Facebook and Google Design and Development Approaches
 
@@ -1145,6 +1724,9 @@ https://console.ng.bluemix.net
 
 Watson Design Guide
 * [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
+
+
+
 
 #### Computer Basics
 
@@ -3028,523 +3610,9 @@ Objective C Styleguide
 Swift Styleguide
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
-#### Pretotyping and Prototyping
 
-Prototyping
-* [Pretotyping Resources](http://www.pretotyping.org/resources.html), [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf), and [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
 
-Prototyping
-* [Prototype Wikipedia](http://en.wikipedia.org/wiki/Prototype) and [Rapid Prototyping Wikipedia](http://en.wikipedia.org/wiki/Rapid_prototyping)
-* [Mockup Wikipedia](http://en.wikipedia.org/wiki/Mockup) and [Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)
-* [Paper Prototyping Wikipedia](http://en.wikipedia.org/wiki/Paper_prototyping)
-* [Technology Demo Wikipedia](http://en.wikipedia.org/wiki/Technology_demonstration) 
 
-Device Mockups
-* [HTML5 Device Mockups GitHub](https://github.com/pixelsign/html5-device-mockups)  
-* [Smart Phone Mockups](http://gadgetsguy.deviantart.com/gallery) 
-
-<!--
-http://facebook.design/devices
-http://facebook.design/handskit
-http://facebook.design/ios9
--->
-
-Device Popularity Stats
-* [Top 14 Screen Resolutions](http://gs.statcounter.com/#all-resolution-ww-monthly-201504-201604)
-
-<!--
-http://screensiz.es
-
-http://www.productchart.com/laptops
-http://www.devicespecifications.com/en
-
-https://en.wikipedia.org/wiki/List_of_common_resolutions
-https://en.wikipedia.org/wiki/Display_resolution
-
-http://www.mobilusdesign.com/responsive-web-designed-websites-for-wordpress
-
-http://wiki.mobileread.com/wiki/Screen_sizes
-https://www.quora.com/Whats-the-average-desktop-screen-resolution-as-of-2015
--->
-
-Prototyping Software- Keynotopia
-* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
-* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
-* [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
-* [Keynote Theme File Extension](http://fileinfo.com/extension/kth)
-
-Prototyping Software- Keynotopia- Tutorials
-* [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
-
-Prototyping Software- Keynote- Docs
-* [Keynote for Mac: Keynote for Mac keyboard shortcuts](https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US)
-* [Keynote for Mac: Add and edit master slides](https://support.apple.com/kb/PH16978?locale=en_US)
-* [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
-
-<!--
-http://keynotopia.com/#how
-http://keynotopia.com/guides
-http://keynotopia.com/bootstrap
-http://keynotopia.com/keynotopia-super-bundle
-http://keynotopia.com/keynote-mockups-templates
-http://keynotopia.com/web-prototyping
-
-http://keynotopia.com/tutorials
-http://keynotopia.com/keynote-and-powerpoint-mockup-templates
-http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps
-http://keynotopia.com/how-to-create-ui-animations-with-keynote
-http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com
-
-https://support.apple.com/en-us/HT202220
-
-https://help.apple.com/keynote/mac
-https://support.apple.com/kb/PH24334?locale=en_US&viewlocale=en_US
-
-https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
--->
-
-Prototyping Software- Others
-* [Keynote Kung-Fu](http://keynotekungfu.com)
-* [Facebook Origami GitHub](https://github.com/facebook/origami)
-* [Invision](http://www.invisionapp.com), [Invision App Do](http://www.invisionapp.com/do), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
-* [Google Pixate](http://www.pixate.com) and [Google Pixate GitHub](https://github.com/Pixate)
-* [Balsamiq](https://balsamiq.com) and [Balsamiq Mockups](https://balsamiq.com/products/mockups)
-* [Wirify](https://www.wirify.com)
-* [Axure](http://www.axure.com)
-* See also Apple
-
-<!--
-https://facebook.github.io/origami/examples
-http://facebook.github.io/origami/download
-
-http://blog.invisionapp.com
-http://blog.invisionapp.com/chat-minimal-ui-kit
-http://blog.invisionapp.com/design-for-the-human-brain
-
-http://blog.invisionapp.com/large-desktop-experience-responsive-design/
-https://support.invisionapp.com/hc/en-us/articles/203009779-What-size-should-my-screens-be-
-http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
-https://www.google.com/design/spec/layout/structure.html#structure-system-bars
-http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/12/desktopchart.jpeg
-
-https://layer.com/messaging-design-kit
-
-https://marvelapp.com
--->
-
-Full Page Screen Shots
-* [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
-* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
-* [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
-
-Quickie Websites
-* [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
-* [Squarespace Templates](https://www.squarespace.com/websites), [Squarespace Customers](https://www.squarespace.com/customers), and [Squarespace Local Development](http://developers.squarespace.com/local-development) 
-* [Weebly Themes](http://www.weebly.com/themes)
-* [Wix Templates](http://www.wix.com/website/templates) and [Wix Premium Plans](http://www.wix.com/upgrade/premium-plans)
-
-<!--
-https://engineering.squarespace.com/blog/2016/the-developer-platform-gets-local
--->
-
-Domain Names
-* [Google Domains](https://domains.google.com)
-* [Namecheap](https://www.namecheap.com)
-* [iwantmyname](https://iwantmyname.com)
-
-Quickie Mobile Apps
-* [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
-
-Turn Key Websites
-* [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
-
-CSS Zen Garden 
-* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
-* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
-
-Miscellaneous
-* [Namium (Name Generator)](http://www.naminum.com)
-* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-Fonts (See also Google Apps)
-* [Font Famous](http://fontfamous.com)
-* [Fontscape](http://www.fontscape.com)
-
-Lipsum
-* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
-
-Color
-* [Color Wikipedia](https://en.wikipedia.org/wiki/Color)
-* [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
-* [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
-
-Photoshop and Similar
-* [Nik Collection](https://www.google.com/nikcollection)
-* [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
-* [Adobe Lightroom](https://lightroom.adobe.com)
-* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
-* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
-* [Gimp](http://www.gimp.org), [Gimp Docs](http://docs.gimp.org), and [Gimp Plugin Registry](http://registry.gimp.org/glossary/a)
-* [Inkscape](http://www.inkscape.org/en)  
-* [Serif](http://www.serif.com)
-
-<!--
-https://en.wikipedia.org/wiki/Bokeh
-
-https://spark.adobe.com
-
-https://docs.gimp.org/en/gimp-tutorial-quickie-separate.html
-https://docs.gimp.org/en/gimp-layer-alpha-selection-add.html
-https://www.gimp.org/tutorials/Straight_Line
-https://docs.gimp.org/en/script-fu-addborder.html
-https://docs.gimp.org/en/gimp-using-web-transparency.html
-https://www.gimp.org/tutorials/ContrastMask
-https://docs.gimp.org/en/gimp-tool-brightness-contrast.html
--->
-
-Photo Placeholders
-* [Placeholder It](http://placehold.it)
-
-Free Photos
-* [MorgueFile](http://www.morguefile.com)  
-
-Flickr
-* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-Photo Enhancement
-* [Prisma](http://prisma-ai.com) and [Prisma iTunes](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
-
-Gifs
-* [Giphy](http://giphy.com) 
-
-Favicon, Sitemap, robots.txt, humans.txt
-* [XML Sitemaps](http://www.xml-sitemaps.com)
-* [sitemaps.org](http://www.sitemaps.org)
-* [humans.txt](http://humanstxt.org)
-* [robots.txt](http://www.robotsgenerator.com)
-
-<!--
-robots.txt tutorial
-http://tools.seobook.com/robots-txt
-Real Favicon Generator
-http://realfavicongenerator.net
--->
-
-Gravatar
-* [Gravatar](http://en.gravatar.com)
-
-<!--
-https://twitter.com/smashdlabs
-http://www.cssmania.com
-https://www.siteinspire.com
-https://twitter.com/siteinspire
--->
-
-<!--
-http://www.colourlovers.com
-http://www.themeleon.com
-
-https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits
-
-[Website Wireframe Wikipedia](http://en.wikipedia.org/wiki/Website_wireframe)  
-
-Design Resources- General
-[IMCreator](http://www.imcreator.com/free)  
-http://www.imcreator.com/free/website-templates
-
-Color Palettes
-[Adaptive Backgrounds GitHub](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)  
-[Bootflat (Example Website) GitHub](https://github.com/bootflat/bootflat.github.io)   
-[Bootstrap UI Kits GitHub](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits)  
-[CSS3 Patterns](http://lea.verou.me/css3patterns)  
-[Color Combos](http://www.colorcombos.com/combolibrary.html)  
-[Color Scheme Designer](http://colorschemedesigner.com)  
-[Color Thief Designer](https://github.com/lokesh/color-thief)  
-[Colors Palette](http://clrs.cc)  
-[Flat UI (Design Modo) GitHub](https://github.com/designmodo/Flat-UI)  
-[Flat UI Colors](http://flatuicolors.com)  
-[Flat UI Kit GitHub](https://github.com/Grouper/FlatUIKit)  
-[Geopattern GitHub](https://github.com/btmills/geopattern)  
-[HSL Color Picker](http://hslpicker.com)  
-[Solarized](http://ethanschoonover.com/solarized)  
-[Random Color GitHub](https://github.com/davidmerfield/randomColor)  
-[Solarized Lab Color Space Theory Wikipedia](http://en.wikipedia.org/wiki/Lab_color_space)  
-[Subtle Patterns GitHub](https://github.com/subtlepatterns/SubtlePatterns)  
-[The Pattern Library](http://thepatternlibrary.com)  
-[Trianglify GitHub](https://github.com/qrohlf/trianglify) 
-
-[Paintstrap (Adobe Kuler/Colorlover)](http://paintstrap.com) 
-https://color.adobe.com
-
-https://en.wikipedia.org/wiki/Category:Paint_manufacturers
-http://www.benjaminmoore.com/en-us/for-your-home/paint-color-combinations-room-design-ideas
-http://media.benjaminmoore.com/WebServices/prod/ColorCardUpdate/USFreshPales/index.html
-http://paletton.com
-http://www.pantone-colours.com/
-http://www.pantone.com/fashion-home-color-guide
-
-http://coolors.co/intro
-https://github.com/Ghosh/uiGradients
-http://uigradients.com
-
-Color Theory Reference Sheet
-http://www.pinterest.com/pin/263601384413811357
-https://www.linkedin.com/pulse/article/20141011060854-71962-how-colors-matter-more-than-size-and-visuals
-
-https://designschool.canva.com/blog/branding-templates
-
-https://en.wikipedia.org/wiki/Aspect_ratio_(image)
-[Raster Graphics (pixels) Wikipedia](http://en.wikipedia.org/wiki/Raster_graphics)  
-[Vector Graphics (paths) Wikipedia](http://en.wikipedia.org/wiki/Vector_graphics)
-
-Photos
-[Death to the Stock Photo](http://deathtothestockphoto.com)  
-[Get Refe](http://getrefe.tumblr.com/)  
-[Gratisography](http://www.gratisography.com)  
-[Image Placeholders GitHub](https://github.com/imsky/holder)  
-[iStockPhoto](http://www.istockphoto.com)  
-[Little Visuals](http://littlevisuals.co)  
-[New Old Stock](http://nos.twnsnd.co)  
-[PicJumbo](http://picjumbo.com)  
-[Super Famous](http://superfamous.com)  
-[Unsplash](http://unsplash.com) and [Unsplash Collections](https://unsplash.com/collections)
-
-Email
-[MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
-[Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
-
-http://www.goodemailcopy.com
-
-[Really Good Email](http://reallygoodemails.com)  
-[Voice and Tone](http://voiceandtone.com) 
--->
-
-#### Front-End Development
-
-Web General (See also JavaScript) 
-* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
-* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
-* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
-* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
-* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
-* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
-* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
-* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
-* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
-* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
-* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
-
-W3C HTML Standards
-* [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
-* [W3C HTML5](https://www.w3.org/TR/html5)
-
-<!--
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
--->
-
-HTML and CSS Tutorials- General
-* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
-* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
-* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-
-HTML and CSS Tutorials- Mozilla
-* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
-* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-
-HTML5 and CSS3 Tutorials- Mozilla
-* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
-Can I Use and Vendor-prefixed CSS Property Overview
-* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
-* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
-
-Bootstrap Tutorials
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-
-HTML
-* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-
-<!--
-W3Schools
-Learn XML
-http://www.w3schools.com/xml/default.asp
-Learn XSLT
-http://www.w3schools.com/xsl/default.asp
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
--->
-
-CSS
-* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
-* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
-
-<!--
-https://www.w3.org/DesignIssues/Uses.html
-
-https://www.w3.org/community/webed/wiki/Main_Page
-
-https://www.w3.org/standards/webdesign
-https://www.w3.org/standards/webdesign/htmlcss
-https://www.w3.org/standards/webdesign/script.html
-
-https://www.w3.org/standards/webofdevices
-https://www.w3.org/standards/webarch
-https://www.w3.org/standards/agents
-
-http://validator.w3.org/unicorn
-https://www.w3.org/2009/cheatsheet
-https://www.w3.org/Mobile
-https://www.w3.org/2002/03/tutorials.html
-
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
-
-https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
--->
-
-Responsiveness- and Media Queries
-* [Bootstrap CSS](http://getbootstrap.com/css)
-* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
-* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
-* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
-
-Responsive Design Examples
-* [Media Queries Examples](http://mediaqueri.es)
-* [Responsive Design Examples](https://responsivedesign.is/examples)
-
-Bootstrap, Font Awesome
-* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
-* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
-* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
-* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-
-<!--
-https://github.com/silverbux/bootflat-admin
-https://github.com/almasaeed2010/AdminLTE
-https://github.com/VinceG/Bootstrap-Admin-Theme 
-https://github.com/onokumus/Bootstrap-Admin-Template
-https://github.com/akveo/blur-admin
-https://github.com/puikinsh/gentelella
--->
-
-Foundation
-* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
-* [Foundation for Emails](http://foundation.zurb.com/emails.html)
-* [Zurb Library](http://zurb.com/library)
-
-Theme Marketplace
-* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
-
-Good, Basic Templates, Themes
-* [Template Stash](http://www.templatestash.com)
-* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
-* [BootstrapTaste](http://bootstraptaste.com)
-* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
-* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
-* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
-* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
-
-<!--
-http://www.bootstrapzero.com/c/one-page-themes
-http://bootstrap.theme.cards/l
-
-http://www.bootply.com
-
-Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
-Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
-href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
--->
-
-Good, Basic Templates, Themes- Skel
-* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
-* [Templated](http://templated.co)
-* [HTML5 UP](http://html5up.net)
-
-Kickstarters
-* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
-* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
-* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
-* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
-
-Static Site Generators and CMS (See also Jekyll)
-* [StaticGen](https://www.staticgen.com)
-
-<!--
-http://prose.io
-https://getgrav.org
-https://hexo.io
--->
-
-Utilites
-* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
-* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
-* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
-
-<!--
-https://websitedownloader.io
-https://webpreserver.com
-https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
--->
-
-<!--
-https://developer.mozilla.org/en-US/Apps
-https://developer.mozilla.org/en-US/docs/Web/Reference
-https://developer.mozilla.org/en-US/docs/Web/Guide
-https://developer.mozilla.org/en-US/docs/Web/Tutorials
-https://developer.mozilla.org/en-US/docs/Web/Accessibility
-https://developer.mozilla.org/en-US/docs/Web/Security
-
-https://developer.mozilla.org/en-US/Learn
-
-https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.mozilla.org/en-US/docs/Web/Reference/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
-https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
-https://developer.mozilla.org/en-US/docs/Web/Guide/Events
-https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
-https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
-https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
-https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
-
-https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
-https://developer.mozilla.org/en-US/docs/Web/SVG
-https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
-https://developer.mozilla.org/en-US/docs/Web/MathML
-https://developer.mozilla.org/en-US/docs/Glossary
--->
-<!--
-http://whatwg.github.io/loader
-
-https://developer.mozilla.org/en-US/docs/Web/API/Console/table
--->
 
 #### Testing and Performance
 
@@ -3912,6 +3980,8 @@ How Google works
 http://ppcblog.com/how-google-works
 -->
 
+
+
 #### Back-End Programming Languages, MVCs
 
 Chomsky Hierarchy and Automata
@@ -4002,7 +4072,7 @@ https://golang.org/dl
 https://gist.github.com/jcbwlkr/2cbe72427f9cbc41bfbb7972d62429d8
 -->
 
-Golang, Uers
+Golang, Users
 * [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
 
 Golang Installation
@@ -8692,221 +8762,6 @@ https://twitter.com/awealthofcs
 https://twitter.com/jasonzweigwsj
 -->
 
-#### Warren Buffet, Charlie Munger, Alphabet
-  
-Google and Alphabet
-* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
-* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
-* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
-* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
-
-Berkshire Hathaway
-* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
-* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
-* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
-* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
-* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
-* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
-
-Long Bets
-* [Long Bets](https://longbets.org)
-
-Poor Charlie's Almanack
-* [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
-
-Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
-* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
-
-Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
-* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
-* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
-
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-
-Mental Models
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-
-Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-
-<!--
-https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
--->
-
-#### Chance
-
-* [Michael Mauboussin](http://michaelmauboussin.com)
-* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
-* [25iq Books](https://www.25iqbooks.com)
-
-<!--
-https://25iq.com/2013/02/17/mauboussin
-https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
-
-https://25iq.com/2016/09/24/a-dozen-ways-you-can-use-seth-klarmans-margin-of-safety-approach-when-voting/
--->
-
-Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
-* [Thirty Years, Reflections on the Ten Attributes of Great Investors](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1063945621&serialid=1wRGyN6EnJdsEAzicRfCQyDmuExS84d2HcYRBRMNZJ8%3d)
-* [Operating Leverage: A Framework for Anticipating Changes in Earnings](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d)
-* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
-* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
-* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
-* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
-* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
-* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
-* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
-* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
-* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
-* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1040753371&serialid=MXXRZ1vWj8sHZdnmFIZdmSY22un2Jqxx3S%2f8sq7KdYk%3d)
-* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
-* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
-* [Measuring the Moat](http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf)
-* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
-* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
-
-* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
-
-Nassim Nicholas Taleb: Antifragile and The Black Swan
-* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
-* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
-* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
-* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
-* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
-* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
-* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
-* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
-
-Nassim Nicholas Taleb's Teachings
-* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
-* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
-* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
-* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
-* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
-* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
-* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
-* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
-* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
-* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
-
-#### Economics, Models
-
-Finance
-* [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
-
-Corporate Finance
-* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
-* [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
-* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
-* [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
-
-Valuation
-* [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
-* [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
-* [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
-* [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
-* [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
-* [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
-* [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
-* [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
-* [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
-* [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
-
-Opolies
-* [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
-
-Excel and Financial Modeling
-* [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
-* [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
-* [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
-* [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
-* [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
-* [Spreadsheet Standards Review Board](http://www.ssrb.org)  
-* [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
-
-Free Market and Capitalism
-* [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
-* [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
-
-Economics
-* [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
-* [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
-* [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
-* [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
-* [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
-* [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-* [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
-* [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
-* [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
-* [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
-  
-Economic Models
-* [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
-* [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
-* [Roll's Critique Wikipedia](https://en.wikipedia.org/wiki/Roll%27s_critique)
-* [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
-* [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
-* [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
-* [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
-* [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
-* [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
-* [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
-* [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
-* [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
-* [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
-
-Volatility and Stochastic Calculus
-* [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
-* [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
-* [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
-
-Technical and Fundamental Analysis
-* [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
-* [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
-* [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
-
-Options Models
-* [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
-* [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
-* [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
-* [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
-* [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
-* [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
-
-Financial Market and Instruments
-* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
-* [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
-* [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
-* [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
-
-Rational Decisions 
-* [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
-* [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
- 
-Public Market
-* [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
-* [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
-* [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
-* [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
-* [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
-* [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
-* [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
-* [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
-* [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
-* [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
-
-Demand-Side and Supply Side Economics
-* [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
-* [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
-
-General
-* [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
-* [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
-* [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
-
-#### Venture
-
 #### Venture Frameworks and Theses
 
 Investor Frameworks
@@ -9316,104 +9171,221 @@ Federal Opportunities and Funding
 * [National Science Foundation Funding](https://www.nsf.gov/funding)
 * [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
 
-#### Documents and Advice
 
-Investors on GitHub
-* [Agile Ventures](https://github.com/AgileVentures)
-* [Indie.vc](https://github.com/indievc)
-* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
+#### Economics, Models
 
-A16Z Funding and Valuation Advice
-* [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
-* [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+Finance
+* [Outline of Finance Wikipedia](https://en.wikipedia.org/wiki/Outline_of_finance)
 
-Law and Transaction Services
-* [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-* [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
-* [Cooley Go](https://www.cooleygo.com)
-* [Gunderson Dettmer](http://www.gunder.com)
-* [Fenwick & West LLP](https://www.fenwick.com) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
-* [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx) and [Ted Wang Medium](https://medium.com/@twang)
-* [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
-* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com), [Wilson Sonsini Goodrich & Rosati Publications](https://www.wsgr.com/publications), and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
-* [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-* [Fortis](http://fortisrep.com) 
+Corporate Finance
+* [Corporate Finance Wikipedia](https://en.wikipedia.org/wiki/Corporate_finance)
+* [Capital Structure Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+* [Investment Banking Wikipedia](https://en.wikipedia.org/wiki/Investment_banking)
+* [Investment Management Wikipedia](https://en.wikipedia.org/wiki/Investment_management)
 
-VCs on Standard Docs and Terms
-* [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
-* [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
-* [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
-* [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
-* [Walker Corporate Law Group, PLLC: VC Term Sheets – Protective Provisions](http://walkercorporatelaw.com/vc-issues/vc-term-sheets-%E2%80%93-protective-provisions)
+Valuation
+* [Valuation Wikipedia](https://en.wikipedia.org/wiki/Valuation_(finance))
+* [Business Valuation Wikipedia](https://en.wikipedia.org/wiki/Business_valuation)
+* [Business Valuation Standard Wikipedia](https://en.wikipedia.org/wiki/Business_valuation_standard)
+* [Enterprise Value Wikipedia](https://en.wikipedia.org/wiki/Enterprise_value)
+* [Relative Valuation Wikipedia](https://en.wikipedia.org/wiki/Relative_valuation) or [Valuation Using Multiples Wikipedia](https://en.wikipedia.org/wiki/Valuation_using_multiples)
+* [Fair Value Wikipedia](https://en.wikipedia.org/wiki/Fair_value)
+* [Fair Market Value Wikipedia](https://en.wikipedia.org/wiki/Fair_market_value)
+* [Market Value Wikipedia](https://en.wikipedia.org/wiki/Market_value)
+* [Market-Based Valuation Wikipedia](https://en.wikipedia.org/wiki/Market-based_valuation)
+* [Price Discovery Wikipedia](https://en.wikipedia.org/wiki/Price_discovery)
 
-Standard Docs and Terms
-* [500 Startups Keep It Simple Security](http://500.co/kiss)
-* [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
-* [Foundry Group Docs via Ask the VC (Series A Term Sheet, Series A Restated Certificate of Incorporation, Series A Preferred Stock Purchase Agreement, Investor Rights Agreement, Co-Sale Agreement, Voting Agreement, Bylaws)](http://www.askthevc.com/wp/resources)
-* [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF) and [Other Gunderson Dettmer](http://www.docracy.com/doc/showalluserdocs?page=1&userId=80)
-* [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github) (in Conjunction with Cooley Go)
-* [Marc Andreessen on “Series Seed Documents,” and Why VCs Should Start Using Them](http://www.pehub.com/64825/marc-andreessen-on-series-seed-documents-and-why-vcs-should-start-using-them), [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Restated Certificate of Incorporation, Preferred Stock Investment Agreement)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
-* [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Term Sheet, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
-* [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
-* [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Convertible Promissory Note Purchase Agreement, Note, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
-* [TheFunded Founder Institute Document List (Certificate of Incorporation, Plain Preferred Term Sheet, Bylaws, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
-* [Founder Institute Agreements (The Founder Agreement, Form of the Warrant, Form of Board Consent)](http://fi.co/agreements)
-* [Wilson Sonsini Goodrich & Rosati Incorporation Questionnaire](https://www.wsgr.com/WSGR/Display.aspx?SectionName=start/incorporation.htm), [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm), and [Wilson Sonsini Goodrich & Rosati Term Sheet Generator (Convertible Notes)](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm)
-* [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
+Opolies
+* [Monopoly Wikipedia](https://en.wikipedia.org/wiki/Monopoly)
 
-Document Libraries- Free/Freemium
-* [Docracy Documents](http://www.docracy.com/application/dochome) 
-* [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
-* [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Blog](http://www.shakelaw.com/blog), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
-* [Venture Docs](https://venturedocs.com/documents)  
-* [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
+Excel and Financial Modeling
+* [Microsoft Excel Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Excel)
+* [Excel Function (by Category)](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb#__toc309306711)
+* [Financial Modeling Wikipedia](https://en.wikipedia.org/wiki/Financial_modeling)
+* [Best Practice Modelling Standards Download](http://www.bestpracticemodelling.com), [Best Practice Modelling Downloads](https://www.bpmglobal.com/downloads), and [Best Practice Modelling Fundamentals](hhttps://www.bpmglobal.com/tv/bpmToolbox/best_practice_fundamentals)  
+* [European Spreadsheet Risks Interest Group](http://www.eusprig.org/best-practice.htm)  
+* [Spreadsheet Standards Review Board](http://www.ssrb.org)  
+* [IBM Best Practice Modelling Standards](http://www.eusprig.org/smbp.pdf)
 
-Document Libraries- Not Free/Freemium
-* [LegalZoom](http://www.legalzoom.com)
-* [Rocket Lawyer (Starts at $7/month)](https://www.rocketlawyer.com) 
+Free Market and Capitalism
+* [Free Market Wikipedia](https://en.wikipedia.org/wiki/Free_market)
+* [Capitalism Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
 
-Standard Docs- International
-* [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
-* [Full Stack Foundry Blog Post](http://fullstack.ca/tools/canadian-term-sheets) and [Full Stack Foundry GitHub](https://github.com/FullStackFoundry/common-seed-termsheets)
-* [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
-* [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
+Economics
+* [Economics Wikipedia](https://en.wikipedia.org/wiki/Economics)
+* [Behavioral Economics Wikipedia](https://en.wikipedia.org/wiki/Behavioral_economics)
+* [Computational Finance Wikipedia](https://en.wikipedia.org/wiki/Computational_finance)
+* [Quantitative Behavioral Finance Wikipedia](https://en.wikipedia.org/wiki/Quantitative_behavioral_finance)
+* [Financial Engineering Wikipedia](https://en.wikipedia.org/wiki/Financial_engineering)
+* [Keynesian Beauty Contest Wikipedia](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+* [Keynesian Economics Wikipedia](https://en.wikipedia.org/wiki/Keynesian_economics)  
+* [Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory) and [Post-Modern Portfolio Theory Wikipedia](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
+* [Efficient Market Hypothesis Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+* [Arbitrage Pricing Theory Wikipedia](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory) and [Fundamental Theorem of Asset (Arbitrage-Free) Pricing Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing)
+  
+Economic Models
+* [Economic Model Wikipedia](https://en.wikipedia.org/wiki/Economic_model)
+* [Capital Asset Pricing Model Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
+* [Roll's Critique Wikipedia](https://en.wikipedia.org/wiki/Roll%27s_critique)
+* [Fama–French Three-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
+* [Carhart Four-Factor Model Wikipedia](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+* [Fed Model Wikipedia](https://en.wikipedia.org/wiki/Fed_model)
+* [Dow Theory Wikipedia](https://en.wikipedia.org/wiki/Dow_theory)
+* [Single-Index Model Wikipedia](https://en.wikipedia.org/wiki/Single-index_model)
+* [Hamada's Equation Wikipedia](https://en.wikipedia.org/wiki/Hamada%27s_equation)
+* [T-Model Wikipedia](https://en.wikipedia.org/wiki/T-model)
+* [Dividend Discount Model (Gordon's Model) Wikipedia](https://en.wikipedia.org/wiki/Dividend_discount_model)
+* [Alpha Wikipedia](https://en.wikipedia.org/wiki/Alpha_(finance)), [Beta Wikipedia](https://en.wikipedia.org/wiki/Beta_(finance)), and [Delta (Method) Wikipedia](https://en.wikipedia.org/wiki/Delta_method)
+* [Monte Carlo Method Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [Monte Carlo Methods in Finance Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
 
-VC Firm Pitch Deck and Operational Report Templates
-* [Rick Klau/Google Ventures: "Pitch perfect: Five elements of a great pitch"](https://library.gv.com/pitch-perfect-92a9ab5b5baa#.7ivbbvi0j)
-* [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
-* [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
-* [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
+Volatility and Stochastic Calculus
+* [Volatility Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
+* [Stochastic Volatility Wikipedia](https://en.wikipedia.org/wiki/Stochastic_volatility)
+* [Stochastic Calculus Wikipedia](https://en.wikipedia.org/wiki/Stochastic_calculus) and [Stochastic Differential Equation Wikipedia](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
 
-Term Sheets 101
-* [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
-* [Venture Hacks Top 10 Term Sheet Hacks](http://www.slideshare.net/venturehacks/top-10-term-sheet-hacks-presentation-725011)
+Technical and Fundamental Analysis
+* [Technical Analysis Wikipedia](https://en.wikipedia.org/wiki/Technical_analysis) and [Fundamental Analysis Wikipedia](https://en.wikipedia.org/wiki/Fundamental_analysis)
+* [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
+* [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
 
-Carried Interest 101
-* [Wilson Sonsini Goodrich & Rosati: Venture Capital Fund Carried Interests](http://www.slideshare.net/Freddy56/venture-capital-fund-carried-interests)
+Options Models
+* [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
+* [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
+* [Black–Scholes Model Wikipedia](https://en.wikipedia.org/wiki/Black–Scholes_model)  
+* [Black Model Wikipedia](https://en.wikipedia.org/wiki/Black_model)
+* [Monte Carlo Methods Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+* [Vanna-Volga Pricing Wikipedia](https://en.wikipedia.org/wiki/Vanna%E2%80%93Volga_pricing)
 
-Document Web Services
-* [Captable.io](https://captable.io) and [Captable.io Blog](https://blog.captable.io)
-* [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
-* [Eshares Inc](https://www.esharesinc.com) and [Eshares Inc Blog](https://blog.esharesinc.com)
-* [Visible](https://visible.vc) 
+Financial Market and Instruments
+* [Financial Market Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+* [Stock Wikipedia](https://en.wikipedia.org/wiki/Stock)
+* [Bond Wikipedia](https://en.wikipedia.org/wiki/Bond_(finance))
+* [Exchange-Traded Fund Wikipedia](https://en.wikipedia.org/wiki/Exchange-traded_fund)
+
+Rational Decisions 
+* [Irrationality Wikipedia](https://en.wikipedia.org/wiki/Irrationality)
+* [Rationality Wikipedia](https://en.wikipedia.org/wiki/Rationality)
+ 
+Public Market
+* [Primary Market Wikipedia](https://en.wikipedia.org/wiki/Primary_market) and [Secondary Market Wikipedia](https://en.wikipedia.org/wiki/Secondary_market)
+* [Initial Public Offering Wikipedia](https://en.wikipedia.org/wiki/Initial_public_offering)
+* [Follow-On Offering Wikipedia](https://en.wikipedia.org/wiki/Follow-on_offering)
+* [Secondary Offering](http://www.investopedia.com/terms/s/secondaryoffering.asp)
+* [Secondary Market Offering Wikipedia](https://en.wikipedia.org/wiki/Secondary_market_offering)
+* [Earnings Call Wikipedia](http://en.wikipedia.org/wiki/Earnings_call)
+* [Market Capitalization Wikipedia](http://en.wikipedia.org/wiki/Market_capitalization) 
+* [Shares Outstanding Wikipedia](https://en.wikipedia.org/wiki/Shares_outstanding)
+* [Share Repurchase Wikipedia](https://en.wikipedia.org/wiki/Share_repurchase)
+* [Lock-up Period Wikipedia](https://en.wikipedia.org/wiki/Lock-up_period)
+
+Demand-Side and Supply Side Economics
+* [Demand-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Demand-side)  
+* [Supply-Side Economics Wikipedia](http://en.wikipedia.org/wiki/Supply-side_economics) 
+
+General
+* [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
+* [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
+* [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
+
+#### Warren Buffet, Charlie Munger, Alphabet
+  
+Google and Alphabet
+* ["Ten things we know to be true"](http://www.google.com/intl/en/about/company/philosophy)
+* [Google Investor Relations Corporate Governance](http://investor.google.com/corporate/message.html)
+* [Amended and Restated Certificate of Incorporation of Google Inc.](http://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/dex301.htm)
+* [Google Announces Plans for New Operating Structure](http://investor.google.com/releases/2015/0810.html), [Amended and Restated Certificate of Incorporation of Alphabet Inc.](https://investor.google.com/corporate/certificate-of-incorporation.html), [Form 8-K](http://www.sec.gov/Archives/edgar/data/1288776/000128877615000039/a20150810form8-k.htm), and [Alphabet](https://abc.xyz)
+
+Berkshire Hathaway
+* [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
+* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
+* [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
+* [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
+* [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
+* [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
+
+Long Bets
+* [Long Bets](https://longbets.org)
+
+Poor Charlie's Almanack
+* [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
+
+Charlie Munger: The Complete Investor by [Tren Griffin](https://twitter.com/trengriffin)
+* [Charlie Munger: The Complete Investor](http://25iq.com/charlie-munger-the-complete-investor) and [Charlie Munger: The Complete Investor](http://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing/dp/023117098X)
+
+Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengriffin)
+* [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
+* [Munger Quotations](http://25iq.com/quotations/charlie-munger)
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+
+Mental Models
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+
+Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 
 <!--
-https://blog.captable.io
-https://medium.com/@henrysward
-https://blog.esharesinc.com/latest
-https://esharesinc.com/investor-services
-https://tour.esharesinc.com/corporations/7/#start_demo
+https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
 -->
 
-Cap Table
-* [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
-* [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
+#### Chance
 
-Raising a Seed Round- The Spreadsheet
-* [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
+* [Michael Mauboussin](http://michaelmauboussin.com)
+* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+* [25iq Books](https://www.25iqbooks.com)
 
-Equity Investment Simulation
-* [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
+<!--
+https://25iq.com/2013/02/17/mauboussin
+https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
+
+https://25iq.com/2016/09/24/a-dozen-ways-you-can-use-seth-klarmans-margin-of-safety-approach-when-voting/
+-->
+
+Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
+* [Thirty Years, Reflections on the Ten Attributes of Great Investors](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1063945621&serialid=1wRGyN6EnJdsEAzicRfCQyDmuExS84d2HcYRBRMNZJ8%3d)
+* [Operating Leverage: A Framework for Anticipating Changes in Earnings](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d)
+* [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
+* [Calculating Return on Invested Capital](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=806230540&serialid=C0owv4XbV7zL%2BTQLggWqjPthH7IUpSwUZpiIwdvDgtA%3D)
+* [Total Addressable Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806752570&serialid=JUPHM5nEr95X%2bC%2bKT5wIV3%2fYguW4I7XTgVAs7swr6nc%3d)
+* [Capital Allocation – Updated](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1049185381&serialid=B6tqGAzm%2bYzSX1LTbQ8ua0rZuctWKDnYLOjIFhHBbHM%3d#view=FitH&toolbar=1)
+* [IQ versus RQ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1048541371&serialid=mofPYk1Y4WanTeErbeMtPx6ur0SCIcSlaZ7sKGPdQQU%3d)
+* [Min(d)ing the Opportunity](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1045671401&serialid=Q3DXhbP6T%2f%2fYYHq2LFa4TMP2beB62lVHBa2nSM3YzhA%3d)
+* [Animating Mr. Market](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806553770&serialid=gKFZkitZvbzsLDj6TpgBXjc%2fgN3nhE%2bNfm7%2f4i3xGfw%3d)
+* [Managing the Man Overboard Moment](https://doc.research-and-analytics.csfb.com/docView?language=ENG&source=ulg&format=PDF&document_id=1043195371&serialid=EG%2B%2B1j2BkWEvUN9KViYq5aPtZr%2BXVuTuiyw8mq3JLts%3D)
+* [Methods to Improve Decisions](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=806005350&serialid=wa/jsdAV8YbvqAcuYbmEQSVKGUZwJF0pezqIKyi1lTQ=)
+* [A Long Look at Short-Termism](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1040753371&serialid=MXXRZ1vWj8sHZdnmFIZdmSY22un2Jqxx3S%2f8sq7KdYk%3d)
+* [Capital Allocation](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1036635381&serialid=dS5DGgP0K8DZZDJ4Obe7o2c3tj9TdQfSLapezyCWcwg%3d)
+* [Outcome Bias and the Interpreter](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1023873441&serialid=npwOAXNtWXI%2bG%2f7r3HFkxjxd4QEfPw4X%2btCNWNVFGjU%3d)
+* [Measuring the Moat](http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf)
+* [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
+* [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+
+* [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
+
+Nassim Nicholas Taleb: Antifragile and The Black Swan
+* [Antifragile: Things That Gain from Disorder (Incerto)](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) and [Antifragile Wikipedia](https://en.wikipedia.org/wiki/Antifragile)
+* [The Black Swan Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book))
+* [Black Swan Theory Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
+* [Black Swan (Fallacy) Wikipedia](https://en.wikipedia.org/wiki/Falsifiability)
+* [Extremistan (The Black Swan via Tren Griffin) Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)#Part_one:_Umberto_Eco.27s_anti-library.2C_or_how_we_seek_validation)
+* [Tren Griffin: The Best Venture Capitalists Harvest Optionality (Dealing with Risk, Uncertainty and Ignorance)](http://25iq.com/2014/04/05/the-best-venture-capitalists-harvest-optionality-dealing-with-risk-uncertainty-and-ignorance)
+* [Flâneur Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
+* [Code of Hammurabi (Skin in the Game) Wikipedia](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+
+Nassim Nicholas Taleb's Teachings
+* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
+* [Statistical Estimation Under Fat Tails, The Program](https://dl.dropboxusercontent.com/u/50282823/FatTailedpapers2015.pdf)
+* [Antifragility’ as a mathematical idea](http://www.fooledbyrandomness.com/nature-definition.pdf)
+* [How to Legally Own Another Person](https://dl.dropboxusercontent.com/u/50282823/employee.pdf) and [Coase: The Nature of the Firm](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.1937.tb00002.x/full)
+* [Silent Risk: Technical Incerto, Lecture Notes on Probability, Vol 1](https://drive.google.com/file/d/0B8nhAlfIk3QIR1o1dnk5ZmRaaGs/view)
+* [Extreme Risk Analytics and Management](https://dl.dropboxusercontent.com/u/50282823/Lecture%20Syllabus.pdf)
+* [How to (Not) Estimate Gini Coefficients for Fat Tailed Variables](https://dl.dropboxusercontent.com/u/50282823/GINI-1.pdf)
+* [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
+* [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
+* [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
+
+#### Finance Extra
 
 Contracts
 * [Freelance/Contractor Contract GitHub](https://github.com/ashedryden/freelance-contract)
@@ -9423,37 +9395,6 @@ Aquihire
 
 How to Read A Financial Report
 * [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
-
-<!--
-https://github.com/leonar15/startup-checklist
-https://github.com/jlevy/og-equity-compensation
-https://github.com/holman/extended-exercise-windows
-
-https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
-https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md
-http://also.roybahat.com/post/91847335194/the-trust-thing
-
-http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
-https://medium.com/@roybahat/predicting-who-will-start-a-company-5dab8efc7dd4#.3zrb3esh1
-https://angel.co/max-simkoff/syndicate
-https://angel.co/shruti_gandhi/syndicate
-https://angel.co/pt/syndicate
-http://also.roybahat.com/post/82904179747/why-most-demos-confuse
-http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of
-http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur
-http://also.roybahat.com/post/102969262108/boreds
-http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway
-https://www.ycombinator.com/handshake
-https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
-https://www.highly.co/hl/56e6f2323533356aeb5a0000
-
-http://www.gsbeclub.org/startup-resources
-https://docs.google.com/presentation/d/1JpoceH_UPB2F42C6OEGQjfGSgKS7IBUyK_LAV9ZtJB4/present?slide=id.i0
-http://www.seriesseed.com
-https://www.harrisonmetal.com
-
-https://www.rocketlawyer.com/document/web-hosting-agreement.rl
--->
 
 Income Reports
 * [Income Reports](http://www.incomereports.co)
@@ -9677,6 +9618,74 @@ Digital Millennium Copyright Act
 * [Buzzfeed DMCA Policy](http://www.buzzfeed.com/about/dmca)  
 * [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
 
+#### Government Digital
+
+<!--
+See
+* [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
+-->
+
+GitHub Government 
+* [GitHub Government Showcases](https://github.com/showcases/government), [GitHub Government](https://government.github.com) and [GitHub Government Website Code GitHub](https://github.com/github/government.github.com)
+
+<!--
+Australia, Canada, New Zealand, U.K., U.S.
+Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, Venezuela
+
+European Union
+International
+South Africa
+
+U.S. Gov.
+* [U.S. Aid](https://github.com/USAID)
+* [U.S.A. Gov](https://github.com/usagov)
+* [Open Gov](https://github.com/opengov)  
+
+U.S. Government- Agencies
+* [Department of Labor](https://github.com/USDepartmentofLabor) 
+* [Food and Drug Administration (FDA)](https://github.com/FDA) 
+ 
+U.K. Government
+* [Data Gov U.K.](https://github.com/datagovuk) 
+-->
+
+U.S. Gov., Consumer Financial Protection Bureau, Department of Veterans Affairs, Presidential Innovation Fellows, Usability Gov., 18F, Code for America, U.K. Gov., Australian Gov., - GitHub: See
+* [Templates and Example Website Code](https://github.com/KatherineMichel/templates-and-example-website-code)
+
+U.S. Gov., U.K. Gov., Usability Gov., Australian Gov.: See
+* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
+
+U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.- GitHub
+* [U.S. Digital Service Website Code GitHub](https://github.com/WhiteHouse/usds-website)
+ 
+U.S. Gov.- General Services Administration- GitHub
+* [G.S.A. Open Source Framework GitHub](https://github.com/GSA/opensource-framework)
+* [G.S.A. U.S. Public Participation Playbook Open Beta CSS and MD GitHub](https://github.com/GSA/participation-playbook)
+
+U.S. Gov- Consumer Financial Protection Bureau- GitHub
+* [Consumer Financial Protection Bureau](http://cfpb.github.io)
+* [Consumer Financial Protection Bureau Source Code Policy GitHub](https://github.com/cfpb/source-code-policy)
+
+U.S. Gov- Department of Veterans Affairs- GitHub
+* [Department of Veterans Affairs Data GitHub](https://github.com/va-data)
+* [Department of Veterans Affairs Developer Area GitHub](https://github.com/va-data/va-developer)
+
+U.S. Gov- 18F- GitHub
+* [18F Open Source Guide GitHub](https://github.com/18f/open-source-guide) and [18F Open Source Policy GitHub](https://github.com/18F/open-source-policy)
+* [18F Analytics Standards GitHub](https://github.com/18F/analytics-standards), and [18F API Standards GitHub](https://github.com/18f/api-standards)
+* [18F Web Design Standards](https://standards.usa.gov) and [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
+* [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
+* [18F HTTPS](https://github.com/18F/https) 
+
+BBC
+* [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
+
+Estonian E-Residence
+* [Estonian E-Residence](https://e-estonia.com/e-residents/about)
+
+U.S. Gov.: Code for America
+* [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
+
 #### Government and International Data
 
 Australian Gov
@@ -9764,88 +9773,72 @@ International Info
 * [Currencies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 * [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
-#### Notable Proposals and Pitch Decks
+#### Software and Mobile are Eating the World, Software is Reorganizing the World
 
-* [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
+* [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
+* [Benedict Evans: Mobile is Eating the World Slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world)
+* [Fred Wilson: Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html) 
+* [Balaji Srinivasan: Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) 
 
-Pitch Deck Search
-* [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
-* [Pitch Envy](http://www.pitchenvy.com)
-* [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
+#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
 
-Notable Proposals and Pitch Decks
-* [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
-* [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
-* [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
-* [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
-* [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
-* [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
-* [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
-* [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
-* [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
-* [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
-* [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
-* [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
-* [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
-* [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
-* [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
-* [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
-* [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
-* [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
-* [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
-* [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
-* [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
-* [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
-* [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
-* [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
+* [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
+* [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
+* [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
+* [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
+* [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
+* [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
+* [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
+* [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) and [HBS: Clay Christensen’s Milkshake Marketing](http://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing)
+* [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
 
 <!--
-https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.tvtsh6on1
-
-https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.uz4h61j9c
+Joshua Gans
+The Disruption Dilemma
+https://www.amazon.com/dp/B01BPYKF9K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 -->
 
-Templates
-* [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
-* [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
-* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
-* [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
-* [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
-* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
-* [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
-* [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
+#### Lean Startup and Launchpad
 
-The Prince's Trust
-* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
-* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
-* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
-* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
+Scientific Method
+* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 
-#### Metrics
+Eric Ries
+* [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [The Lean Startup Company](http://leanstartup.co), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
+* [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries) and [Eric Ries: The Leader's Guide Kickstarter](https://theleadersguide.org)
+* [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
+* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+* [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
 
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+Steve Blank
+* [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
+* [Steve Blank: Startup Owner's Manual](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302)
+* [Steve Blank: Lean Launchpad Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+* [Steve Blank: Customer Development Check List](https://docs.google.com/document/d/1rTzXvz8iz1IgiwCipuLaWFXt7yvoTc73blHMpD2Hp50/edit#heading=h.v628ypevulas)
+* [Steve Blank: Competitive Analysis Petal Diagram](http://steveblank.com/2013/11/08/a-new-way-to-look-at-competitors), [Steve Blank: Competitive Analysis Petal Diagram Slideshare](http://www.slideshare.net/sblank/competitive-analysis-petal-diagram), and [Tomasz Tunguz: Why The Petal Diagram Isn't The Best Competition Diagram For Startup's Pitch](http://tomtunguz.com/ecosystem-vs-competition)
 
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+Alex Osterwalder
+* [Alex Osterwalder: Business Model Generation](http://businessmodelgeneration.com), [Strategyzer](https://strategyzer.com), and [Strategyzer Slideshare](http://www.slideshare.net/Strategyzer/presentations)
+* [Alex Osterwalder: Business Model Generation Book](http://businessmodelgeneration.com/book), [Business Model Generation Canvas](http://www.businessmodelgeneration.com/canvas/bmc), [Business Model Generation Canvas Poster](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [Business Model Canvas Wikipedia](http://en.wikipedia.org/wiki/Business_Model_Canvas) 
+* [Alex Osterwalder: Value Proposition Design Book](https://strategyzer.com/books/value-proposition-design), [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) and [Value Proposition Canvas Poster](http://businessmodelgeneration.com/downloads/value_proposition_canvas.pdf)
+* [Alex Osterwalder: Strategyzer Resources](https://strategyzer.com/platform/resources) and [Strategyzer Blog](http://blog.strategyzer.com)
 
-Bill Gurley on Conversion and LTV
-* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
-* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
-* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
-* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+<!--
+http://blog.strategyzer.com/posts/2016/6/20/why-companies-fail-how-to-prevent-it?
+http://blog.strategyzer.com/posts/2015/2/03/implementing-your-business-model-with-the-galbraith-star-model
+http://blog.strategyzer.com/posts/2016/7/18/5-characteristics-of-a-great-strategy-workshop-facilitator
+-->
 
-Objectives and key Results (OKRs)
-* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
-* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
-* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-
-KPIs
-* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
-
-Pirate Metrics
-* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+Spinoffs
+* [Elevator Canvas Intro](https://medium.com/minimum-viable-canvas/the-elevator-canvas-658a4c74b08d) and [Elevator Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*Xb0NFBKokCd5DQHKub0SIg.png)  
+* [Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png) 
+* [Lean Stack](http://leanstack.com/the-lean-stack) and [Lean Stack Diagram](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/leancanvas.png)  
+* [Minimum Viable Brand Canvas](http://media.leanbrandbook.com/sz-1060x-mvb_canvas_post_graphic.jpg) 
+* [Minimum Viable Canvas Resources](https://medium.com/minimum-viable-canvas), [Minimum Viable Canvas Intro](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65), [Using the Minimum Viable Canvas](https://medium.com/minimum-viable-canvas/using-the-minimum-viable-canvas-fae7e027cafc), [Minimum Viable Canvas Template](https://d262ilb51hltx0.cloudfront.net/max/800/1*PlhNZAMQxiuwPN7TsRV20g.png), and [Minimum Viable Canvas Example](https://d262ilb51hltx0.cloudfront.net/max/800/1*gk40wStd6F-3GkGKO8M_wA.png) 
+* [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
+* [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
+* [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
+* [Business Model Fiddle](http://bmfiddle.com)
 
 #### Philosophies, Milestones
 
@@ -10277,6 +10270,41 @@ Investment Firms
 http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 -->
 
+
+
+#### Labs, Kitchens, Garages
+
+Labs, Kitchens, Garages
+* [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
+* [Microsoft Garage](http://www.microsoft.com/en-us/garage)
+* [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
+* [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
+* [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
+
+#### Open Companies
+
+Buffer
+* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+<!--
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+-->
+
 #### Launch Strategies
 
 General
@@ -10346,6 +10374,7 @@ Digital Stats
 #### Internationalization
 
 * [Eduardo Shiota Yasuda: 2200 Different Ways to View Website](http://www.slideshare.net/eshiota/internationalisation-2200-different-ways-to-view-a-website)
+
 
 #### Popular Tools
 
