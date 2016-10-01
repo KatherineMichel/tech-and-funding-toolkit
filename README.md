@@ -33,7 +33,12 @@ Table of Content
 * [Design Thinking](#design-thinking)
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
 * [Front-End Development](#front-end-development) 
-  
+
+* [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
+* [Social Media and Social Graph](#social-media-and-social-graph) 
+* [Testing and Performance](#testing-and-performance)
+
+* [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
 * [JavaScript](#javascript)
   * [JavaScript Ecosystem](#javascript-ecosystem)
   * [JavaScript Framework](#javascript-framework)
@@ -60,8 +65,6 @@ Table of Content
   * [Python and Django Unique](#python-and-django-unique)
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
-
-* [Testing and Performance](#testing-and-performance)
 
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
@@ -92,13 +95,10 @@ Table of Content
   * [Keyboard Shortcuts](#keyboard-shortcuts)
   * [Dot Files](#dot-files)
   * [Git and Markdown](#git-and-markdown)
+
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
 
-* [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
-
-* [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
-* [Social Media and Social Graph](#social-media-and-social-graph) 
 * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
 
 * [Programming Learning Tools](#programming-learning-tools) 
@@ -1460,6 +1460,715 @@ http://realfavicongenerator.net
 
 Gravatar
 * [Gravatar](http://en.gravatar.com)
+
+
+
+#### Facebook and Google Design and Development Approaches
+
+Facebook
+* [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
+
+Google
+* [Google Fonts](https://fonts.google.com), [Google Fonts (Old)](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
+* [Google Roboto GitHub](https://github.com/google/roboto) 
+* [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google Material Design (See also Facebook React)
+* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
+
+Accelerated Mobile Pages (AMP HTML)
+* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
+* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
+
+#### Social Media and Social Graph
+
+Graph and Schema- General (See also Facebook Open Graph)
+* [Open Graph Protocol Schema](http://ogp.me) 
+* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Schema Creator](http://schema-creator.org)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+
+Open Search
+* [Open Search](http://www.opensearch.org/Home)
+
+Facebook Crawler
+* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
+* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
+
+Microformats
+* [Microformats](http://microformats.org)
+
+<!--
+Referral URL
+
+https://github.com/h5bp
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
+http://www.seoconsultants.com/meta-tags/dublin
+https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
+http://intertwingly.net/wiki/pie/LinkTagMeaning
+http://www.html5rocks.com/en
+
+Meta Name and others 
+https://en.wikipedia.org/wiki/Tag_(metadata)
+
+http://stackoverflow.com/questions/16171686/list-of-standard-w3c-meta-tags
+https://gist.github.com/kevinSuttle/1997924
+http://www.w3schools.com/tags/tag_meta.asp
+https://support.google.com/webmasters/answer/79812?hl=en
+https://en.wikipedia.org/wiki/Microformat#Specific_microformats
+
+https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Microformats
+https://en.wikipedia.org/wiki/Microformat
+
+http://www.metatags.org
+http://analyzer.metatags.org
+http://www.metatags.org/meta_tags_code_generator
+http://www.metatags.org/all_metatags
+http://www.metatags.org/google_and_meta_tags
+http://www.metatags.org/meta_name_author
+
+http://schema.org/Person
+https://en.wikipedia.org/wiki/HCard
+http://microformats.org/wiki/hcard
+http://microformats.org/code/hcard/creator
+http://microformats.org/wiki/hcard-examples
+
+https://en.wikipedia.org/wiki/Resource_Description_Framework
+
+https://en.wikipedia.org/wiki/.har
+https://toolbox.googleapps.com/apps/har_analyzer
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+
+https://affiliate-program.amazon.com/welcome
+
+https://www.youtube.com/watch?v=JASn8EsO174
+-->
+
+Web Analytics
+* [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
+
+Facebook Developers
+* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+
+Facebook Tools
+* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+* [Facebook Business](https://www.facebook.com/business)
+* [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
+* [Facebook Platform Insights](https://developers.facebook.com/docs/platforminsights)
+* [Facebook Ad Creation Manager](https://www.facebook.com/ads/manager/creation)
+* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+* [Fb Start for Mobile Startups](http://fbstart.com)
+
+<!--
+https://messengerplatform.fb.com/
+https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
+
+Facebook's Advertisers Tool
+https://developers.facebook.com/docs/javascript
+
+Facebook Insights
+https://developers.facebook.com/docs/platforminsights/domains
+https://developers.facebook.com/docs/platforminsights/page
+
+https://www.facebook.com/ads/manager/pixel/facebook_pixel/?act=314539814&pid=p1
+
+https://www.facebook.com/business/learn/facebook-ads-measuring-results
+https://www.facebook.com/business/a/facebook-pixel
+https://www.facebook.com/business/help/952192354843755
+https://www.facebook.com/business/help/651294705016616
+https://www.facebook.com/business/a/online-sales/conversion-tracking
+https://www.facebook.com/business/help/1686199411616919
+https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
+https://www.facebook.com/business/help/460491677335370
+https://www.facebook.com/business/help/373979379354234
+
+Webmaster Guidelines
+https://support.google.com/webmasters/answer/35769
+
+https://en.wikipedia.org/wiki/Search_engine_optimization
+https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
+https://support.google.com/webmasters/answer/35291?hl=en
+https://support.google.com/webmasters/answer/40349?hl=en
+http://searchengineland.com/library/google/google-seo
+
+https://webmasters.googleblog.com
+
+https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
+-->
+
+Google Webmaster and Analytics Dashboards
+* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
+* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
+
+Google Webmaster and Analytics (Web)
+* [Google Webmaster](http://www.google.com/webmasters)
+* [Google Analytics](http://www.google.com/analytics)
+* [Google U.K. Analytics](http://www.google.co.uk/analytics)
+* [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
+* [Google Data Studio](https://www.google.com/analytics/data-studio)
+
+Google Rich Snippets
+* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+Google Mobile Analytics and Firebase
+* [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+* [Firebase](https://firebase.google.com)
+
+Google Tag Manager
+* [Google Tag Manager](http://www.google.com/tagmanager)
+
+Google Analytics Alternative
+* [Hubspot](http://www.hubspot.com)
+
+Google Ads
+* [Google Ads](http://www.google.com/ads) 
+* [Google AdMob (Apps)](http://www.google.com/admob)  
+* [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
+* [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+* [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
+* [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
+* [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+* [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
+* [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
+
+Google Monetization
+* [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
+
+Google Custom Search Engine
+* [Google Custom Search Engine](https://cse.google.com/cse)
+
+Google News Publisher
+* [Google News Publisher Help](https://support.google.com/news/publisher)
+
+Pinterest
+* [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
+
+Twitter
+* [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
+* [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+* [Twitter Marketing](https://marketing.twitter.com)
+* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+* [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
+
+Twitter Data
+* [Twitter Data](https://twitter.com/TwitterData)
+
+Twitter Media and News
+* [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+* [Twitter News](https://twitter.com/TwitterForNews) 
+
+Twitter Advanced Search
+* [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+
+Yahoo and Bing- Developer, Webmaster, and Ads
+* [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+* [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
+* [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
+* [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+
+YouTube (Google)
+* [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
+* [YouTube Creators](http://www.youtube.com/yt/creators)  
+* [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Firefox SEO (See also Mozilla)
+* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
+
+Reddit Advertising
+* [Reddit Advertising](https://www.reddit.com/advertising)
+
+Sharing Buttons
+* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
+* [AddToAny](https://www.addtoany.com) 
+* [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
+
+Net Promoter
+* [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
+
+#### Testing and Performance
+
+<!--
+https://hpbn.co
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
+http://shop.oreilly.com/product/0636920041528.do
+-->
+
+<!--
+Responsive Design Tester
+http://responsivetest.net
+
+Manual check using emulators
+Online media query tester
+http://screenqueri.es
+6 free mobile emulators
+http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site
+Opera Mobile Emulator
+http://www.opera.com/developer/tools/mobile
+-->
+
+W3 Validators
+* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+* [W3C Link Checker](https://validator.w3.org/checklink)
+<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
+* [W3C Mobile Validator](http://validator.w3.org/mobile)
+* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
+
+<!--
+Run CSS Lint online
+http://csslint.net
+
+<rule name="MobileOK score of 75+">
+-->
+
+Device Testing
+* [AWS Device Farm](https://aws.amazon.com/device-farm)
+* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
+* [Open Device Labs](http://OpenDeviceLab.com)
+
+Speed and Performance
+* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
+* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
+* [Netflix Fast](https://fast.com)
+* [Yahoo YSlow score of 85+](http://yslow.org)
+
+<!--
+Google’s Web Performance Best Practices
+https://developers.google.com/speed/docs/best-practices/rules_intro
+
+https://developers.google.com/speed/docs/insights/about
+https://developers.google.com/speed/docs/insights/OptimizeImages
+
+http://mobiforge.com/design-development/fixit-image-crunch
+
+http://wave.webaim.org/report
+https://www.w3.org/WAI/ER/tools
+https://www.w3.org/WAI/perspectives
+
+CSS Sprites
+Sprite Me
+http://spriteme.org
+
+Optimize images
+SmushIt.com
+http://www.smushit.com/ysmush.it
+http://www.imgopt.com
+PunyPNG.com
+http://punypng.com
+PNGGauntlet for Windows
+http://pnggauntlet.com
+Image Optim for Mac
+http://imageoptim.com
+
+http://www.responsimulator.com
+http://cssminifier.com
+CSS minification
+
+https://testmysite.thinkwithgoogle.com
+http://ready.mobi
+http://optimizilla.com
+https://tinypng.com
+http://yslow.org/faq
+http://www.imgopt.com
+https://en.wikipedia.org/wiki/Lossy_compression
+http://mobiletest.me
+
+https://search.google.com/search-console/mobile-friendly
+https://testmysite.thinkwithgoogle.com/
+https://www.bing.com/webmaster/tools/mobile-friendliness
+https://www.google.com/webmasters/tools/mobile-friendly
+
+https://website.grader.com
+
+http://www.speedtest.net
+http://www.dslreports.com/speedtest
+-->
+
+Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
+* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [New Relic](http://newrelic.com)
+* [Sentry](http://getsentry.com)
+
+<!--
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+-->
+
+A/B Testing
+* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
+* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+
+App Invites or Beta Testing
+* [Google App Invites](https://developers.google.com/app-invites)
+* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+Accessibility
+* [WebAIM](http://webaim.org)
+* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
+* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
+* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
+* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
+
+<!--
+https://ft-interactive.github.io/accessibility
+-->
+
+Microsoft Inclusion Approach
+* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
+
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
+<!--
+https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
+[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
+[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
+
+[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
+[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
+[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
+[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
+
+[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
+[Blame Stella](https://www.blamestella.com/)
+[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
+[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
+[Basecamp](http://basecamp.com/)
+-->
+
+<!--
+Play Version Manager
+https://github.com/kaiinkinen/pvm
+
+What you should know
+http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
+
+IntelliJ IDEA Spell Checker
+http://www.jetbrains.com/idea/webhelp/spellchecking.html
+
+Check website in all browsers
+BrowserShots.org
+http://browsershots.org
+Browserling.com
+https://browserling.com
+Spoon.net
+http://spoon.net/browsers
+
+Decide on www-subdomain
+no-www.org score of 'B'
+http://no-www.org
+...or www.yes-www.org
+http://www.yes-www.org
+Handle 'www' in web.config
+http://madskristensen.net/post/url-rewrite-and-the-www-subdomain
+
+Remove 'www' subdomain
+Add the attribute rel='nofollow' to user-generated links to avoid spam
+Redirect after a POST to prevent a refresh from submitting again
+
+Use 'viewport' meta-tag
+Don’t Forget the Viewport Meta Tag
+http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag
+Make your website mobile friendly
+http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx
+
+Use correct input types
+Input type: Email, Url, Phone
+http://html5tutorial.info/html5-contact.php
+Diving in to HTML5 forms
+http://diveintohtml5.info/forms.html
+
+Analytics
+Uptime monitoring
+Uptime robot
+http://www.uptimerobot.com
+Pingdom Website Monitor
+https://www.pingdom.com
+GotSiteMonitor.com
+http://www.gotsitemonitor.com
+
+http://tools.pingdom.com/fpt
+
+Traffic analysis"> (Google Analytics)
+StatCounter
+http://statcounter.com
+Clicky
+http://clicky.com
+Piwik
+http://piwik.org
+
+Optimize HTTP headers
+redbot.org
+http://redbot.org
+
+Cloud optimizations
+Reduce I/O to disk
+http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2
+
+Static resources
+Add long TTL with Cache-Control
+http://www.playframework.org/documentation/2.0.4/Assets
+Minify Javascript
+http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler
+Minify CSS
+http://www.cssminifier.com
+Use HTML 5 Manifest
+http://diveintohtml5.info/offline.html
+
+A more useful 404
+http://www.alistapart.com/articles/amoreuseful404
+
+Favicon Cheat Sheet
+http://github.com/audreyr/favicon-cheat-sheet
+
+Use friendly URLs
+11 best practices for URLs
+http://www.seomoz.org/blog/11-best-practices-for-urls
+URL rewriting in IIS
+http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference
+URL rewrite in Apache
+http://httpd.apache.org/docs/current/mod/mod_rewrite.html
+
+Print-friendly CSS
+Set up a print stylesheet
+http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet
+Have a unified notification system across app
+Don't display unfriendly errors directly to the user
+Environment Integration
+Safari on iOS
+http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
+
+Internet Explorer on Windows
+http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx
+Windows 8 Tiles
+http://www.buildmypinnedsite.com
+
+A/B Testing
+ABalytics
+https://github.com/danmaz74/ABalytics
+
+HTML validation
+Dr. Watson
+http://watson.addy.com
+
+Verify source code (Scala)
+Scala Style
+http://www.scalastyle.org
+SCCT
+http://mtkopone.github.com/scct
+
+Automated testing
+Testomato
+http://www.testomato.com
+
+Accessibility validation
+Common problems and solutions
+http://accessibility.oit.ncsu.edu/accessibleu/problems.html
+ 
+WAI-ARIA Landmarks">
+Using WAI-ARIA Landmarks
+http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration
+Guide to WAI-ARIA
+http://www.alistapart.com/articles/the-accessibility-of-wai-aria
+Practical examples
+http://www.punkchip.com/2010/11/aria-basic-findings
+
+Security
+Follow best practices
+https://asafaweb.com/">ASafaaWeb security analyzer
+OWASP Top 10 project
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+OWASP Cheat Sheets
+https://www.owasp.org/index.php/Cheat_Sheets
+CWE/SANS Top 25
+http://cwe.mitre.org/top25
+
+Cross-site scripting
+XSS cheat sheet
+https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
+DOM based XSS cheat sheet
+https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
+Free XSS scanner
+http://www.acunetix.com/cross-site-scripting/scanner
+
+Cross-site request forgery
+Explanation and walkthrough
+http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html
+CSRF cheat sheet
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
+
+Secure Passwords
+BCrypt
+http://www.mindrot.org/projects/jBCrypt
+SCrypt
+https://github.com/wg/scrypt
+
+Hash passwords using salt to prevent rainbow attacks
+Secure connection (SSL)
+Setup SSL on Play 2
+http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl
+Setup SSL on Apache
+http://www.digicert.com/ssl-certificate-installation-apache.htm
+SSL Server Test
+https://www.ssllabs.com/ssltest
+
+X-Frame-Options
+https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
+
+HTTP Strict Transport Security
+https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
+
+Content Security Policy
+https://developer.chrome.com/extensions/contentSecurityPolicy
+https://developer.mozilla.org/en-US/docs/Web/Security/CSP
+https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
+https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy
+
+The Open Web Application Security Project
+https://en.wikipedia.org/wiki/OWASP
+Content Security Policy
+https://en.wikipedia.org/wiki/Content_Security_Policy
+
+CSP (Content Security Policy)
+https://github.com/yandex/csp-tester
+http://www.html5rocks.com/en/tutorials/security/content-security-policy
+https://www.owasp.org/index.php/Content_Security_Policy
+
+OWASP (The Open Web Application Security Project) Overview
+https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
+
+How Google works
+http://ppcblog.com/how-google-works
+-->
+
+#### Back-End Programming Languages, MVCs
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+
+Miscellaneous Programming Languages
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
+* [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
+* [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
+* [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
+* [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
+* [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
+* [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
+* [Angular Dart GitHub](https://github.com/angular/angular.dart)  
+* [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
+* [Julia GitHub](https://github.com/JuliaLang/julia)  
+* [Hack](http://hacklang.org) and [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
+* [Haskell](http://www.haskell.org/haskellwiki/Haskell), [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language)), and [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
+* [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
+* [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
+* [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
+* [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
+* Apple- Swift
+
+Golang, otherwise known as "Go"
+* [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
+* [Golang](http://golang.org)  
+* [Learn X in Y Minutes Golang](https://learnxinyminutes.com/docs/go)
+* [Golang Documentation](http://golang.org/doc)  
+* [Golang Packages](http://golang.org/pkg)  
+* [Golang Search](http://go-search.org)  
+* [Golang Play](http://play.golang.org)  
+* [Golang Talks](https://talks.golang.org)
+* [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
+* [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
+
+<!--
+https://gobyexample.com
+https://tour.golang.org/welcome/1
+
+https://golang.org/dl
+https://gist.github.com/jcbwlkr/2cbe72427f9cbc41bfbb7972d62429d8
+-->
+
+Golang, Users
+* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
+
+Golang Installation
+* [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
+
+Golang- Frameworks
+* [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
+* [Gin GitHub](https://github.com/gin-gonic/gin) 
+* [Martini GitHub](https://github.com/go-martini/martini)
+* [Revel GitHub](https://github.com/revel/revel)
+
+<!--
+http://gohugo.io
+https://github.com/spf13/hugo
+-->
+
+Java- General
+* [Java Website](http://www.java.com/en)  
+* [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
+* [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
+* [Java](http://www.oracle.com/technetwork/java/index-jsp-135888.html)  
+* [Java Documentation](http://www.oracle.com/technetwork/documentation/index.html#java)  
+* [Java Programming Language Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
+* [Java Programming Language Tutorials](http://docs.oracle.com/javase/tutorial)  
+* [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)  
+* [Java Core Libraries](http://openjdk.java.net/groups/core-libs)  
+* [Java ME Reference](http://www.oracle.com/technetwork/java/javame/documentation/index.html)  
+* [NetBeans Docs](https://netbeans.org/kb/index.html)  
+* [NetBeans Plugins](http://plugins.netbeans.org/)  
+* [Eclipse Docs](http://help.eclipse.org/kepler/index.jsp)  
+* [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
+* [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet) 
 
 #### JavaScript
 
@@ -3748,374 +4457,6 @@ https://us.pycon.org/2016/schedule/talks/
 https://2016.djangocon.us/reviewerguidelines/
 https://djangogirls.org/pyconuk2016/
 http://il.pycon.org/2016/about/speakers.html
--->
-
-
-
-#### Testing and Performance
-
-<!--
-https://hpbn.co
-http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
-http://shop.oreilly.com/product/0636920041528.do
--->
-
-<!--
-Responsive Design Tester
-http://responsivetest.net
-
-Manual check using emulators
-Online media query tester
-http://screenqueri.es
-6 free mobile emulators
-http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site
-Opera Mobile Emulator
-http://www.opera.com/developer/tools/mobile
--->
-
-W3 Validators
-* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
-* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
-* [W3C Link Checker](https://validator.w3.org/checklink)
-<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
-* [W3C Mobile Validator](http://validator.w3.org/mobile)
-* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
-
-<!--
-Run CSS Lint online
-http://csslint.net
-
-<rule name="MobileOK score of 75+">
--->
-
-Device Testing
-* [AWS Device Farm](https://aws.amazon.com/device-farm)
-* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
-* [Open Device Labs](http://OpenDeviceLab.com)
-
-Speed and Performance
-* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
-* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
-* [Netflix Fast](https://fast.com)
-* [Yahoo YSlow score of 85+](http://yslow.org)
-
-<!--
-Google’s Web Performance Best Practices
-https://developers.google.com/speed/docs/best-practices/rules_intro
-
-https://developers.google.com/speed/docs/insights/about
-https://developers.google.com/speed/docs/insights/OptimizeImages
-
-http://mobiforge.com/design-development/fixit-image-crunch
-
-http://wave.webaim.org/report
-https://www.w3.org/WAI/ER/tools
-https://www.w3.org/WAI/perspectives
-
-CSS Sprites
-Sprite Me
-http://spriteme.org
-
-Optimize images
-SmushIt.com
-http://www.smushit.com/ysmush.it
-http://www.imgopt.com
-PunyPNG.com
-http://punypng.com
-PNGGauntlet for Windows
-http://pnggauntlet.com
-Image Optim for Mac
-http://imageoptim.com
-
-http://www.responsimulator.com
-http://cssminifier.com
-CSS minification
-
-https://testmysite.thinkwithgoogle.com
-http://ready.mobi
-http://optimizilla.com
-https://tinypng.com
-http://yslow.org/faq
-http://www.imgopt.com
-https://en.wikipedia.org/wiki/Lossy_compression
-http://mobiletest.me
-
-https://search.google.com/search-console/mobile-friendly
-https://testmysite.thinkwithgoogle.com/
-https://www.bing.com/webmaster/tools/mobile-friendliness
-https://www.google.com/webmasters/tools/mobile-friendly
-
-https://website.grader.com
-
-http://www.speedtest.net
-http://www.dslreports.com/speedtest
--->
-
-Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
-* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [New Relic](http://newrelic.com)
-* [Sentry](http://getsentry.com)
-
-<!--
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
--->
-
-A/B Testing
-* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-
-App Invites or Beta Testing
-* [Google App Invites](https://developers.google.com/app-invites)
-* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-Accessibility
-* [WebAIM](http://webaim.org)
-* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
-* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
-* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
-* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
-* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
-
-<!--
-https://ft-interactive.github.io/accessibility
--->
-
-Microsoft Inclusion Approach
-* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
-
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
-
-<!--
-https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
-[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
-[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
-
-[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
-[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
-[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
-[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
-
-[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
-[Blame Stella](https://www.blamestella.com/)
-[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
-[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
-[Basecamp](http://basecamp.com/)
--->
-
-<!--
-Play Version Manager
-https://github.com/kaiinkinen/pvm
-
-What you should know
-http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
-
-IntelliJ IDEA Spell Checker
-http://www.jetbrains.com/idea/webhelp/spellchecking.html
-
-Check website in all browsers
-BrowserShots.org
-http://browsershots.org
-Browserling.com
-https://browserling.com
-Spoon.net
-http://spoon.net/browsers
-
-Decide on www-subdomain
-no-www.org score of 'B'
-http://no-www.org
-...or www.yes-www.org
-http://www.yes-www.org
-Handle 'www' in web.config
-http://madskristensen.net/post/url-rewrite-and-the-www-subdomain
-
-Remove 'www' subdomain
-Add the attribute rel='nofollow' to user-generated links to avoid spam
-Redirect after a POST to prevent a refresh from submitting again
-
-Use 'viewport' meta-tag
-Don’t Forget the Viewport Meta Tag
-http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag
-Make your website mobile friendly
-http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx
-
-Use correct input types
-Input type: Email, Url, Phone
-http://html5tutorial.info/html5-contact.php
-Diving in to HTML5 forms
-http://diveintohtml5.info/forms.html
-
-Analytics
-Uptime monitoring
-Uptime robot
-http://www.uptimerobot.com
-Pingdom Website Monitor
-https://www.pingdom.com
-GotSiteMonitor.com
-http://www.gotsitemonitor.com
-
-http://tools.pingdom.com/fpt
-
-Traffic analysis"> (Google Analytics)
-StatCounter
-http://statcounter.com
-Clicky
-http://clicky.com
-Piwik
-http://piwik.org
-
-Optimize HTTP headers
-redbot.org
-http://redbot.org
-
-Cloud optimizations
-Reduce I/O to disk
-http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2
-
-Static resources
-Add long TTL with Cache-Control
-http://www.playframework.org/documentation/2.0.4/Assets
-Minify Javascript
-http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler
-Minify CSS
-http://www.cssminifier.com
-Use HTML 5 Manifest
-http://diveintohtml5.info/offline.html
-
-A more useful 404
-http://www.alistapart.com/articles/amoreuseful404
-
-Favicon Cheat Sheet
-http://github.com/audreyr/favicon-cheat-sheet
-
-Use friendly URLs
-11 best practices for URLs
-http://www.seomoz.org/blog/11-best-practices-for-urls
-URL rewriting in IIS
-http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference
-URL rewrite in Apache
-http://httpd.apache.org/docs/current/mod/mod_rewrite.html
-
-Print-friendly CSS
-Set up a print stylesheet
-http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet
-Have a unified notification system across app
-Don't display unfriendly errors directly to the user
-Environment Integration
-Safari on iOS
-http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
-
-Internet Explorer on Windows
-http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx
-Windows 8 Tiles
-http://www.buildmypinnedsite.com
-
-A/B Testing
-ABalytics
-https://github.com/danmaz74/ABalytics
-
-HTML validation
-Dr. Watson
-http://watson.addy.com
-
-Verify source code (Scala)
-Scala Style
-http://www.scalastyle.org
-SCCT
-http://mtkopone.github.com/scct
-
-Automated testing
-Testomato
-http://www.testomato.com
-
-Accessibility validation
-Common problems and solutions
-http://accessibility.oit.ncsu.edu/accessibleu/problems.html
- 
-WAI-ARIA Landmarks">
-Using WAI-ARIA Landmarks
-http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration
-Guide to WAI-ARIA
-http://www.alistapart.com/articles/the-accessibility-of-wai-aria
-Practical examples
-http://www.punkchip.com/2010/11/aria-basic-findings
-
-Security
-Follow best practices
-https://asafaweb.com/">ASafaaWeb security analyzer
-OWASP Top 10 project
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
-OWASP Cheat Sheets
-https://www.owasp.org/index.php/Cheat_Sheets
-CWE/SANS Top 25
-http://cwe.mitre.org/top25
-
-Cross-site scripting
-XSS cheat sheet
-https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
-DOM based XSS cheat sheet
-https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
-Free XSS scanner
-http://www.acunetix.com/cross-site-scripting/scanner
-
-Cross-site request forgery
-Explanation and walkthrough
-http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html
-CSRF cheat sheet
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
-
-Secure Passwords
-BCrypt
-http://www.mindrot.org/projects/jBCrypt
-SCrypt
-https://github.com/wg/scrypt
-
-Hash passwords using salt to prevent rainbow attacks
-Secure connection (SSL)
-Setup SSL on Play 2
-http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl
-Setup SSL on Apache
-http://www.digicert.com/ssl-certificate-installation-apache.htm
-SSL Server Test
-https://www.ssllabs.com/ssltest
-
-X-Frame-Options
-https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
-
-HTTP Strict Transport Security
-https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
-
-Content Security Policy
-https://developer.chrome.com/extensions/contentSecurityPolicy
-https://developer.mozilla.org/en-US/docs/Web/Security/CSP
-https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
-https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy
-
-The Open Web Application Security Project
-https://en.wikipedia.org/wiki/OWASP
-Content Security Policy
-https://en.wikipedia.org/wiki/Content_Security_Policy
-
-CSP (Content Security Policy)
-https://github.com/yandex/csp-tester
-http://www.html5rocks.com/en/tutorials/security/content-security-policy
-https://www.owasp.org/index.php/Content_Security_Policy
-
-OWASP (The Open Web Application Security Project) Overview
-https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
-
-How Google works
-http://ppcblog.com/how-google-works
 -->
 
 
@@ -6624,378 +6965,6 @@ https://github.com/heroku/12factor
 [Semver Org GitHub](https://github.com/mojombo/semver.org)
 -->
 
-
-
-
-#### Back-End Programming Languages, MVCs
-
-Chomsky Hierarchy and Automata
-* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
-* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
-* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
-
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-
-Bracket Notation and Zero-Based Numbering
-* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
-* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-
-<!--
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-
-https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
--->
-
-Programming Languages
-* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-
-Miscellaneous Programming Languages
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
-* [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
-* [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
-* [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
-* [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
-* [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
-* [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
-* [Angular Dart GitHub](https://github.com/angular/angular.dart)  
-* [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
-* [Julia GitHub](https://github.com/JuliaLang/julia)  
-* [Hack](http://hacklang.org) and [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
-* [Haskell](http://www.haskell.org/haskellwiki/Haskell), [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language)), and [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
-* [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
-* [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
-* [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
-* [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
-* Apple- Swift
-
-Golang, otherwise known as "Go"
-* [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
-* [Golang](http://golang.org)  
-* [Learn X in Y Minutes Golang](https://learnxinyminutes.com/docs/go)
-* [Golang Documentation](http://golang.org/doc)  
-* [Golang Packages](http://golang.org/pkg)  
-* [Golang Search](http://go-search.org)  
-* [Golang Play](http://play.golang.org)  
-* [Golang Talks](https://talks.golang.org)
-* [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
-* [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
-
-<!--
-https://gobyexample.com
-https://tour.golang.org/welcome/1
-
-https://golang.org/dl
-https://gist.github.com/jcbwlkr/2cbe72427f9cbc41bfbb7972d62429d8
--->
-
-Golang, Users
-* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
-
-Golang Installation
-* [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
-
-Golang- Frameworks
-* [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
-* [Gin GitHub](https://github.com/gin-gonic/gin) 
-* [Martini GitHub](https://github.com/go-martini/martini)
-* [Revel GitHub](https://github.com/revel/revel)
-
-<!--
-http://gohugo.io
-https://github.com/spf13/hugo
--->
-
-Java- General
-* [Java Website](http://www.java.com/en)  
-* [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
-* [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
-* [Java](http://www.oracle.com/technetwork/java/index-jsp-135888.html)  
-* [Java Documentation](http://www.oracle.com/technetwork/documentation/index.html#java)  
-* [Java Programming Language Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
-* [Java Programming Language Tutorials](http://docs.oracle.com/javase/tutorial)  
-* [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)  
-* [Java Core Libraries](http://openjdk.java.net/groups/core-libs)  
-* [Java ME Reference](http://www.oracle.com/technetwork/java/javame/documentation/index.html)  
-* [NetBeans Docs](https://netbeans.org/kb/index.html)  
-* [NetBeans Plugins](http://plugins.netbeans.org/)  
-* [Eclipse Docs](http://help.eclipse.org/kepler/index.jsp)  
-* [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
-* [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet)  
-
-#### Facebook and Google Design and Development Approaches
-
-Facebook
-* [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
-
-Google
-* [Google Fonts](https://fonts.google.com), [Google Fonts (Old)](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
-* [Google Roboto GitHub](https://github.com/google/roboto) 
-* [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-Google Material Design (See also Facebook React)
-* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
-
-Accelerated Mobile Pages (AMP HTML)
-* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
-* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
-
-#### Social Media and Social Graph
-
-Graph and Schema- General (See also Facebook Open Graph)
-* [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-* [Schema Creator](http://schema-creator.org)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
-
-Open Search
-* [Open Search](http://www.opensearch.org/Home)
-
-Facebook Crawler
-* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
-* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
-
-Microformats
-* [Microformats](http://microformats.org)
-
-<!--
-Referral URL
-
-https://github.com/h5bp
-https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
-http://www.seoconsultants.com/meta-tags/dublin
-https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
-http://intertwingly.net/wiki/pie/LinkTagMeaning
-http://www.html5rocks.com/en
-
-Meta Name and others 
-https://en.wikipedia.org/wiki/Tag_(metadata)
-
-http://stackoverflow.com/questions/16171686/list-of-standard-w3c-meta-tags
-https://gist.github.com/kevinSuttle/1997924
-http://www.w3schools.com/tags/tag_meta.asp
-https://support.google.com/webmasters/answer/79812?hl=en
-https://en.wikipedia.org/wiki/Microformat#Specific_microformats
-
-https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Microformats
-https://en.wikipedia.org/wiki/Microformat
-
-http://www.metatags.org
-http://analyzer.metatags.org
-http://www.metatags.org/meta_tags_code_generator
-http://www.metatags.org/all_metatags
-http://www.metatags.org/google_and_meta_tags
-http://www.metatags.org/meta_name_author
-
-http://schema.org/Person
-https://en.wikipedia.org/wiki/HCard
-http://microformats.org/wiki/hcard
-http://microformats.org/code/hcard/creator
-http://microformats.org/wiki/hcard-examples
-
-https://en.wikipedia.org/wiki/Resource_Description_Framework
-
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
-
-https://affiliate-program.amazon.com/welcome
-
-https://www.youtube.com/watch?v=JASn8EsO174
--->
-
-Web Analytics
-* [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
-
-Facebook Developers
-* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-
-Facebook Tools
-* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-* [Facebook Business](https://www.facebook.com/business)
-* [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
-* [Facebook Platform Insights](https://developers.facebook.com/docs/platforminsights)
-* [Facebook Ad Creation Manager](https://www.facebook.com/ads/manager/creation)
-* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
-* [Fb Start for Mobile Startups](http://fbstart.com)
-
-<!--
-https://messengerplatform.fb.com/
-https://developers.facebook.com/docs/messenger-platform
-https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
-https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
-
-Facebook's Advertisers Tool
-https://developers.facebook.com/docs/javascript
-
-Facebook Insights
-https://developers.facebook.com/docs/platforminsights/domains
-https://developers.facebook.com/docs/platforminsights/page
-
-https://www.facebook.com/ads/manager/pixel/facebook_pixel/?act=314539814&pid=p1
-
-https://www.facebook.com/business/learn/facebook-ads-measuring-results
-https://www.facebook.com/business/a/facebook-pixel
-https://www.facebook.com/business/help/952192354843755
-https://www.facebook.com/business/help/651294705016616
-https://www.facebook.com/business/a/online-sales/conversion-tracking
-https://www.facebook.com/business/help/1686199411616919
-https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
-https://www.facebook.com/business/help/460491677335370
-https://www.facebook.com/business/help/373979379354234
-
-Webmaster Guidelines
-https://support.google.com/webmasters/answer/35769
-
-https://en.wikipedia.org/wiki/Search_engine_optimization
-https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
-https://support.google.com/webmasters/answer/35291?hl=en
-https://support.google.com/webmasters/answer/40349?hl=en
-http://searchengineland.com/library/google/google-seo
-
-https://webmasters.googleblog.com
-
-https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
--->
-
-Google Webmaster and Analytics Dashboards
-* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
-* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
-
-Google Webmaster and Analytics (Web)
-* [Google Webmaster](http://www.google.com/webmasters)
-* [Google Analytics](http://www.google.com/analytics)
-* [Google U.K. Analytics](http://www.google.co.uk/analytics)
-* [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
-* [Google Data Studio](https://www.google.com/analytics/data-studio)
-
-Google Rich Snippets
-* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-Google Mobile Analytics and Firebase
-* [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
-* [Firebase](https://firebase.google.com)
-
-Google Tag Manager
-* [Google Tag Manager](http://www.google.com/tagmanager)
-
-Google Analytics Alternative
-* [Hubspot](http://www.hubspot.com)
-
-Google Ads
-* [Google Ads](http://www.google.com/ads) 
-* [Google AdMob (Apps)](http://www.google.com/admob)  
-* [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-* [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
-* [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
-* [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
-* [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
-* [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
-* [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
-
-Google Monetization
-* [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
-
-Google Custom Search Engine
-* [Google Custom Search Engine](https://cse.google.com/cse)
-
-Google News Publisher
-* [Google News Publisher Help](https://support.google.com/news/publisher)
-
-Pinterest
-* [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
-
-Twitter
-* [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
-* [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
-* [Twitter Marketing](https://marketing.twitter.com)
-* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-* [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
-
-Twitter Data
-* [Twitter Data](https://twitter.com/TwitterData)
-
-Twitter Media and News
-* [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-* [Twitter News](https://twitter.com/TwitterForNews) 
-
-Twitter Advanced Search
-* [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
-
-Yahoo and Bing- Developer, Webmaster, and Ads
-* [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
-* [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
-* [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
-* [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
-
-YouTube (Google)
-* [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
-* [YouTube Creators](http://www.youtube.com/yt/creators)  
-* [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
-
-Firefox SEO (See also Mozilla)
-* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
-
-Reddit Advertising
-* [Reddit Advertising](https://www.reddit.com/advertising)
-
-Sharing Buttons
-* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
-* [AddToAny](https://www.addtoany.com) 
-* [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
-
-Net Promoter
-* [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
-
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
 List of Engineering Blogs
@@ -7047,9 +7016,35 @@ https://console.ng.bluemix.net
 Watson Design Guide
 * [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
 
-
-
 #### Programming Learning Tools
+
+Chomsky Hierarchy and Automata
+* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
+* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
+* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
+
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+
+Singly Linked Linear Lists vs. Other Lists
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+
+Bracket Notation and Zero-Based Numbering
+* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
+* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+
+<!--
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+-->
 
 Programming Groups
 * [Codettes](http://www.codettes.net)
