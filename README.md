@@ -119,19 +119,20 @@ Table of Content
   * [Schools of Thought](#schools-of-thought)
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
-  * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
-  * [Chance](#chance)
 
-* [Economics, Models](#economics-models)
 * [Venture](#venture)
   * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
-  * [Finance Extra](#finance-extra)
+
+* [Economics, Models](#economics-models)
+* [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
+* [Chance](#chance)
+* [Finance Extra](#finance-extra)
  
-  * [Regulation, Business Entity](#regulation-business-entity)
-  * [Government Digital](#government-digital)
-  * [Government and International Data](#government-and-international-data)
+* [Regulation, Business Entity](#regulation-business-entity)
+* [Government Digital](#government-digital)
+* [Government and International Data](#government-and-international-data)
 
 * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 * [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
