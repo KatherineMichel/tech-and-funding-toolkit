@@ -38,6 +38,17 @@ Table of Content
 * [Social Media and Social Graph](#social-media-and-social-graph) 
 * [Testing and Performance](#testing-and-performance)
 
+* [Development Environment and Programming](#development-environment-and-programming)
+  * [Apple Developer Tools](#apple-developer-tools)
+  * [Google Developer Tools](#google-developer-tools)
+  * [Microsoft Developer Tools](#microsoft-developer-tools)
+  * [Mozilla Developer Tools](#mozilla-developer-tools)
+
+  * [Command Line and Shell](#command-line-and-shell)
+  * [Keyboard Shortcuts](#keyboard-shortcuts)
+  * [Dot Files](#dot-files)
+  * [Git and Markdown](#git-and-markdown)
+
 * [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
 * [JavaScript](#javascript)
   * [JavaScript Ecosystem](#javascript-ecosystem)
@@ -85,16 +96,7 @@ Table of Content
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple General](#apple-general)
 
-* [Development Environment and Programming](#development-environment-and-programming)
-  * [Apple Developer Tools](#apple-developer-tools)
-  * [Google Developer Tools](#google-developer-tools)
-  * [Microsoft Developer Tools](#microsoft-developer-tools)
-  * [Mozilla Developer Tools](#mozilla-developer-tools)
 
-  * [Command Line and Shell](#command-line-and-shell)
-  * [Keyboard Shortcuts](#keyboard-shortcuts)
-  * [Dot Files](#dot-files)
-  * [Git and Markdown](#git-and-markdown)
 
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
@@ -2073,6 +2075,757 @@ https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
 How Google works
 http://ppcblog.com/how-google-works
 -->
+
+#### Development Environment and Programming
+
+#### Apple Developer Tools
+
+Mac OS X 
+* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
+* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
+
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Apple iOS
+* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+MacPorts
+* [MacPorts](https://guide.macports.org)
+
+Mac OS X Directory Strucure and Listing Applications
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+
+Apple Developer Program Membership
+* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
+* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
+* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
+
+Apple Developer and Open Source
+* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
+* [Apple Developer Forum](https://forums.developer.apple.com)
+* [Apple Open Source](https://developer.apple.com/opensource)
+* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
+
+Apple Developer Tools
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
+* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
+* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+App Store Submission
+* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
+* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
+* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
+
+Apple- More
+* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+
+Apple- Kits
+* [ResearchKit and Carekit](http://www.apple.com/researchkit)
+* [Watchkit](https://developer.apple.com/watchkit) 
+
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+<!--
+https://developer.apple.com/reference/applepayjs
+https://developer.apple.com/reference/accelerate/1912851-bnns
+https://developer.apple.com/sirikit
+https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
+-->
+
+#### Google Developer Tools
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Developers- Web
+* [Google Developer Web](https://developers.google.com/web)
+
+Google Developers- Google Chrome Doc
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
+* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
+* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
+* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
+* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
+* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
+
+<!--
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+https://developers.google.com/web/tools/setup/setup-workflow
+https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
+https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
+-->
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Developers- Google Chrome Tools
+* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+<!--
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://developers.google.com/cast/docs/developers
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools
+https://developer.chrome.com/devtools/docs
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+Miscellaneous
+https://bugs.chromium.org/p/v8/issues/list
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+
+Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript
+-->
+
+Chrome Extensions
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
+* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
+* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+
+<!--
+chrome://apps
+
+https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+
+http://docs.ionic.io/docs/chrome-inspector
+-->
+
+#### Microsoft Developer Tools
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+<!--
+https://www.microsoft.com/en-us/software-download/windows10ISO
+-->
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
+
+Windows SSH and Telnet Client
+* [PuTTY](http://www.putty.org)
+
+<!--
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+-->
+
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
+
+#### Mozilla Developer Tools
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
+
+<!--
+https://testpilot.firefox.com
+
+Browser Statistics
+
+http://www.gnu.org/software/coreutils/manual/coreutils.html
+
+http://ftp.gnu.org
+http://gcc.gnu.org
+
+http://en.wikipedia.org/wiki/GNU_readline
+https://en.wikipedia.org/wiki/GNU_Hurd
+-->
+
+#### Command Line and Shell
+
+See also Bash and PowerShell<br>
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
+
+Unix
+* [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
+* [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix Shell and File system
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+* [Guide to Unix/Commands Wikibook](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands) and [Guide to Unix/Commands/File System Utilities Wikibook](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+POSIX (Compatible with Unix)
+* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+The Linux Documentation Project
+* [The Linux Documentation Project](http://www.tldp.org)
+* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
+
+Linux- More Resources
+* [Linux Command](http://linuxcommand.org) 
+* [Linux in a Nutshell](http://it-ebooks.info/book/403)
+
+Linux- Ubuntu (Debian)
+* [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
+
+Ubuntu Terminal, Command Line, and Aptget
+* [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
+* [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
+* [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
+
+Command Line
+* [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
+* [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
+* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
+* [Learn the Command Line the Hard Way Commands List](http://cli.learncodethehardway.org/book/ex1.html) 
+
+<!--
+Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists]
+(Command, then relevant variable)
+-->
+
+Shell
+* [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
+* [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
+* [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
+
+Comparison of Command Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+
+SS64 (Command Line Reference (CMD, PowerShell, Bash, OS X, Access, VB Script, Oracle, SQL Server, CSS, Convert MB/GB))
+* [SS64](http://ss64.com)
+
+Mac OS X- Terminal, Bash (Unix)
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [SS64 OS X Reference](http://ss64.com/osx) and [SS64 Bash Reference](http://ss64.com/bash)
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Bash Homepage](https://www.gnu.org/software/bash), [Bash Manual](http://www.gnu.org/software/bash/manual), and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
+* [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
+* [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
+* [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+* [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
+
+Shell and Bash Builtins
+* [Shell Builtins Wikipedia](https://en.wikipedia.org/wiki/Shell_builtin)
+* [Bash Reference Manual- Shell Builtin Commands](http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html)
+* [Bash Reference Manual- Builtins](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html)
+
+Sha-Bang/Shebang
+* [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+
+Notable Terminology
+* [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
+* [chmod Wikipedia](https://en.wikipedia.org/wiki/Chmod)
+* [chown Wikipedia](https://en.wikipedia.org/wiki/Chown)
+* [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
+
+cURL and Wget
+* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+* [WGet](https://www.gnu.org/software/wget)
+
+Nano
+* [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
+* [Nano Basics Guide](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
+
+Windows- PowerShell
+* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
+* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
+* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
+* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
+* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
+
+Emacs and Vim (Text Editors)
+* [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
+* [Emacs Manual](http://www.gnu.org/software/emacs/manual) and [Emacs Manual Intro](http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro)
+* [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
+* [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
+* [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
+* [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
+* [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+* [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
+
+Emacs for Mac or Linux
+* [Emacs for Mac OS X](https://emacsformacosx.com)
+* [Installing Emacs on GNU/Linux](http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux)
+
+<!--
+https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
+https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
+-->
+
+Zsh (Bash Alternative)
+* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
+* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh) 
+
+More Shell/Text Editors (See also Visual Studio and XCode)
+* [Sublime Text Editor](http://www.sublimetext.com)
+* [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
+* [Textmate](http://macromates.com)  
+* [Orgmode.org](http://orgmode.org)  
+* [Orgmode.org/features](http://orgmode.org/features.html)  
+* [.emacs.d](https://github.com/seshness/.emacs.d)  
+* [Lighttable](http://www.lighttable.com)  
+
+TextWrangler (Recommended for Hard to Edit Files)
+* [TextWrangler](http://www.barebones.com/products/textwrangler)
+
+Unix Shell (See also Unix)
+* [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
+* [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
+* [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
+
+Integrated Development Environment
+* [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
+* [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_Unix_daemons
+
+https://en.wikipedia.org/wiki/Tilde
+
+https://en.wikipedia.org/wiki/Option_key
+https://en.wikipedia.org/wiki/Meta_key
+
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
+
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
+
+https://en.wikibooks.org/wiki/Grep
+https://en.wikibooks.org/wiki/AWK
+https://en.wikibooks.org/wiki/Sed
+
+http://pubs.opengroup.org/onlinepubs/9699919799/
+http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
+
+Using Make
+http://www.tldp.org/HOWTO/Software-Building-HOWTO-3.html
+
+Bash Tutorials
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/LDP/abs/html/sample-bashrc.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html
+http://www.tldp.org/LDP/abs/html
+http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+
+http://linux.die.net/man/1/bash
+
+https://help.ubuntu.com/community/UsingTheTerminal
+http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
+
+https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
+
+http://www.unix.com/man-page/posix/1posix/eval
+
+https://en.wikipedia.org/wiki/Batch_file
+-->
+
+#### Keyboard Shortcuts
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+Emoji and Other Funny Keyboard Shortcode 
+* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
+* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
+
+#### Dot Files
+
+See also Startup Engineering MOOC<br>
+
+Hidden File and Hidden Directory Wikipedia
+* [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
+
+Dot Files
+* [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
+* [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
+* [Dotfiles](http://dotfiles.github.io)  
+* [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
+* [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
+* [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
+* [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
+* [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
+* [Jessica Lord GitHub](https://github.com/jlord/dotfiles)
+* [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
+* [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
+* [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
+* [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [YADR GitHub](https://github.com/skwp/dotfiles)
+
+#### Git and Markdown
+
+Concurrent Version System
+* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
+* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
+
+Git Origin
+* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+* [Git GitHub](https://github.com/git/git)  
+* [Git Mojombo GitHub](https://github.com/mojombo/git)  
+* [Git GitHub](https://github.com/xlymian/git) 
+
+Git
+* [Git Homepage](https://git-scm.com)
+* [Git Book](http://git-scm.com/book)
+* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
+* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
+ 
+Learn X in Y Minutes Git and Markdown
+* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
+* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
+
+<!--
+https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
+http://git-scm.com/book/en/Git-Basics-Tagging
+https://git-scm.com/docs/git-tag
+https://git-scm.com/docs/git-merge
+
+http://git-scm.com/book/ch3-2.html
+http://git-scm.com/book/ch9-5.html
+
+http://gitref.org/branching
+
+Git Branching
+http://www.atlassian.com/git/tutorial/git-branches#!branch
+-->
+
+Git- Official Learning Resources
+* [Try Git](https://try.github.io)
+* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+* [Git Book](http://www.git-scm.com/book/en)  
+* [Git Docs](https://git-scm.com/docs) 
+* [Git Documentation](https://git-scm.com/documentation)
+* [Git Videos](http://www.git-scm.com/videos)  
+* [Git Downloads](http://git-scm.com/downloads) 
+
+Git Cheat Sheets and Tutorials
+* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
+* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
+* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
+* [Git Index](http://gitref.org)  
+* [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
+
+GitHub- Main
+* [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+* [GitHub Features (Code Review, ect.)](https://github.com/features)
+* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
+* [GitHub Help](https://help.github.com)  
+* [GitHub Training](http://training.github.com)  
+* [GitHub Bootcamp](https://help.github.com/categories/bootcamp) 
+* [GitHub Blog](https://github.com/blog)  
+* [GitHub Guides](https://guides.github.com) 
+* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+<!--
+http://githubuniverse.com/watch
+https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
+
+Recommended
+https://www.git-tower.com
+
+https://git-for-windows.github.io
+
+https://try.github.io/levels/1/challenges/1
+
+https://help.github.com/articles/github-terms-of-service
+
+https://github.com/github/training-kit
+https://github.com/github-archive
+https://github.com/github-archive/training.github.com
+https://github.com/github/teach.github.com
+https://github.com/jlord/git-it
+
+https://guides.github.com/introduction/flow
+https://help.github.com/articles/about-repository-graphs#traffic
+
+https://github.com/github/hub
+
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
+https://help.github.com/articles/set-up-git
+https://help.github.com/articles/caching-your-github-password-in-git/
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
+
+https://github.com/blog/2228-simpler-github-pages-publishing
+
+https://guides.github.com/features/mastering-markdown
+https://github.com/blog/2046-github-desktop-is-now-available
+https://github.com/blog/2097-improved-commenting-with-markdown
+https://help.github.com/articles/creating-a-pull-request
+https://help.github.com/articles/adding-a-file-to-a-repository
+
+https://help.github.com/articles/fork-a-repo
+https://github.com/blog/1256-new-user-profile-pages
+
+https://guides.github.com/features/issues
+https://github.com/blog/957-introducing-issue-mentions
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
+https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
+
+https://github.com/blog/2111-issue-and-pull-request-templates
+https://help.github.com/articles/helping-people-contribute-to-your-project/
+https://help.github.com/articles/creating-an-issue-template-for-your-repository
+https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
+https://help.github.com/articles/setting-guidelines-for-repository-contributors/
+
+https://help.github.com/articles/adding-a-remote
+https://help.github.com/articles/removing-a-remote
+
+https://help.github.com/articles/syncing-a-fork
+https://help.github.com/articles/configuring-a-remote-for-a-fork
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
+https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
+
+https://help.github.com/articles/about-github-mirrors/
+https://help.github.com/articles/duplicating-a-repository/
+
+https://help.github.com/articles/remove-sensitive-data/
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
+
+https://www.atlassian.com/git/tutorials/syncing/git-pull
+https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
+https://www.atlassian.com/git/tutorials/using-branches/git-branch
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+
+https://help.github.com/articles/using-a-custom-domain-with-github-pages
+
+https://github.com/blog/1986-announcing-git-large-file-storage-lfs
+https://github.com/blog/2104-working-with-submodules
+https://github.com/blog/2041-improving-map-data-on-github
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+
+https://github.com/git-ftp
+https://github.com/github/git-lfs
+https://git-lfs.github.com
+
+http://ndpsoftware.com/git-cheatsheet.html
+
+https://www.producthunt.com/@jordan_gonen/collections/everything-github
+
+http://www.learnenough.com/git-tutorial#sec-getting_started
+
+https://github.com/ajaxorg/ace
+
+https://ifttt.com/github/recipes
+-->
+
+Git Ignore and Licenses
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+
+Ribbons, Buttons, Octicons, Shields
+* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
+* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
+* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
+* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
+* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
+
+GitHub Services Integration
+* [Service Hooks GitHub](https://github.com/github/github-services)  
+* [GitHub Integrations](https://github.com/integrations)  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+<!--
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v3/repos/hooks/
+https://developer.github.com/webhooks/
+http://githooks.com/
+
+https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
+https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
+
+https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
+-->
+
+GitHub Business
+* [GitHub Business](https://github.com/business)
+
+GitHub Organizations
+* [GitHub Organizations](https://github.com/account/organizations/new)
+
+<!--
+https://help.github.com/articles/about-organizations
+https://help.github.com/articles/publicizing-or-hiding-organization-membership
+-->
+
+Gist
+* [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
+
+GitHub- More
+* [GitHub DCMA](https://github.com/github/dmca)
+* [Octokit](https://github.com/octokit) 
+* [Education Pack](https://education.github.com/pack)
+
+GitHub- Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending](https://github.com/josephyzhou/github-trending)
+* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
+
+GitHub- How To
+* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
+
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
+<!--
+GitHub Shop
+* [GitHub Shop](https://github.myshopify.com)
+-->
+
+Markdown
+* [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+* [Markdown](http://daringfireball.net/projects/markdown)  
+* [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
+* [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+* [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+
+GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
+* [GitLab Installation](https://about.gitlab.com/installation)
+* [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
+Atlassian: Bitbucket and SourceTree
+* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
+* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
+* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
+* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
+* [Atlassian SourceTree](https://www.sourcetreeapp.com)
+
+More GitHub Alternatives
+* [Google Code](https://code.google.com)  
+* [Sourceforge](http://sourceforge.net)  
+* [Codebase](https://www.codebasehq.com)  
+
+<!--
+One Click Deploy
+
+https://www.atlassian.com/software-trends
+-->
+
+Types of Licenses
+* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+* [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+* [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+* [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+* [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+* [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+* [Creative Commons](https://creativecommons.org/licenses)
+* [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 #### Back-End Programming Languages, MVCs
 
@@ -6003,756 +6756,6 @@ https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
 
-#### Development Environment and Programming
-
-#### Apple Developer Tools
-
-Mac OS X 
-* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
-* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
-* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
-
-Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
-* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-
-Mac OS X- Architecture
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
-
-Apple iOS
-* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
-* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
-MacPorts
-* [MacPorts](https://guide.macports.org)
-
-Mac OS X Directory Strucure and Listing Applications
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-
-Apple Developer Program Membership
-* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
-* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
-* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
-
-Apple Developer and Open Source
-* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
-* [Apple Developer Forum](https://forums.developer.apple.com)
-* [Apple Open Source](https://developer.apple.com/opensource)
-* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
-
-Apple Developer Tools
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
-* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
-* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-App Store Submission
-* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
-* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
-* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
-
-Apple- More
-* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-
-Apple- Kits
-* [ResearchKit and Carekit](http://www.apple.com/researchkit)
-* [Watchkit](https://developer.apple.com/watchkit) 
-
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
-
-<!--
-https://developer.apple.com/reference/applepayjs
-https://developer.apple.com/reference/accelerate/1912851-bnns
-https://developer.apple.com/sirikit
-https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
--->
-
-#### Google Developer Tools
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Opera (Also Blink)
-* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
-
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-Google Developers- Web
-* [Google Developer Web](https://developers.google.com/web)
-
-Google Developers- Google Chrome Doc
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
-* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
-* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
-* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
-* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
-* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
-
-<!--
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://developers.google.com/web/tools/setup/setup-workflow
-https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
-https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
--->
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Developers- Google Chrome Tools
-* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-<!--
-https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-https://developers.google.com/cast/docs/developers
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools
-https://developer.chrome.com/devtools/docs
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/getstarted
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-Miscellaneous
-https://bugs.chromium.org/p/v8/issues/list
-
-http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
-http://www.ibm.com/developerworks/library/os-extendchrome/
-https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
-http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-http://developer.samsung.com/technical-doc/view.do?v=T000000203
-https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
-https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
-
-https://developer.mozilla.org/en-US/docs/Chrome_Registration
-
-Google Maps JavaScript API
-https://developers.google.com/maps/documentation/javascript
--->
-
-Chrome Extensions
-* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
-* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
-* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
-* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
-
-<!--
-chrome://apps
-
-https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
-
-http://docs.ionic.io/docs/chrome-inspector
--->
-
-#### Microsoft Developer Tools
-
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
-
-<!--
-https://www.microsoft.com/en-us/software-download/windows10ISO
--->
-
-Internet Explorer and Trident (Browser, Layout Engine)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
-
-Edge and EdgeHTML (Browser, Layout Engine)
-* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
-* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
-
-Windows SSH and Telnet Client
-* [PuTTY](http://www.putty.org)
-
-<!--
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
--->
-
-Linux Feeling- on Windows
-* [Cygwin](http://cygwin.com)
-
-#### Mozilla Developer Tools
-
-Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
-
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
-
-Firefox Add-Ons
-* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
-
-<!--
-https://testpilot.firefox.com
-
-Browser Statistics
-
-http://www.gnu.org/software/coreutils/manual/coreutils.html
-
-http://ftp.gnu.org
-http://gcc.gnu.org
-
-http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Hurd
--->
-
-#### Command Line and Shell
-
-See also Bash and PowerShell<br>
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
-
-Unix
-* [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
-* [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Unix Shell and File system
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
-* [Guide to Unix/Commands Wikibook](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands) and [Guide to Unix/Commands/File System Utilities Wikibook](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-The Linux Documentation Project
-* [The Linux Documentation Project](http://www.tldp.org)
-* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
-
-Linux- More Resources
-* [Linux Command](http://linuxcommand.org) 
-* [Linux in a Nutshell](http://it-ebooks.info/book/403)
-
-Linux- Ubuntu (Debian)
-* [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
-
-Ubuntu Terminal, Command Line, and Aptget
-* [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
-* [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
-* [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
-
-Command Line
-* [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
-* [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
-* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
-* [Learn the Command Line the Hard Way Commands List](http://cli.learncodethehardway.org/book/ex1.html) 
-
-<!--
-Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists]
-(Command, then relevant variable)
--->
-
-Shell
-* [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
-* [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
-* [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
-
-Comparison of Command Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-
-SS64 (Command Line Reference (CMD, PowerShell, Bash, OS X, Access, VB Script, Oracle, SQL Server, CSS, Convert MB/GB))
-* [SS64](http://ss64.com)
-
-Mac OS X- Terminal, Bash (Unix)
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [SS64 OS X Reference](http://ss64.com/osx) and [SS64 Bash Reference](http://ss64.com/bash)
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Bash Homepage](https://www.gnu.org/software/bash), [Bash Manual](http://www.gnu.org/software/bash/manual), and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
-* [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
-* [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
-* [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-* [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
-
-Shell and Bash Builtins
-* [Shell Builtins Wikipedia](https://en.wikipedia.org/wiki/Shell_builtin)
-* [Bash Reference Manual- Shell Builtin Commands](http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html)
-* [Bash Reference Manual- Builtins](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html)
-
-Sha-Bang/Shebang
-* [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
-
-Notable Terminology
-* [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
-* [chmod Wikipedia](https://en.wikipedia.org/wiki/Chmod)
-* [chown Wikipedia](https://en.wikipedia.org/wiki/Chown)
-* [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
-
-cURL and Wget
-* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
-* [WGet](https://www.gnu.org/software/wget)
-
-Nano
-* [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
-* [Nano Basics Guide](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
-
-Windows- PowerShell
-* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
-* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
-* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
-* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
-* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
-
-Emacs and Vim (Text Editors)
-* [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
-* [Emacs Manual](http://www.gnu.org/software/emacs/manual) and [Emacs Manual Intro](http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro)
-* [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
-* [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
-* [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
-* [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
-* [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
-* [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
-
-Emacs for Mac or Linux
-* [Emacs for Mac OS X](https://emacsformacosx.com)
-* [Installing Emacs on GNU/Linux](http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux)
-
-<!--
-https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
-https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
--->
-
-Zsh (Bash Alternative)
-* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
-* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh) 
-
-More Shell/Text Editors (See also Visual Studio and XCode)
-* [Sublime Text Editor](http://www.sublimetext.com)
-* [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
-* [Textmate](http://macromates.com)  
-* [Orgmode.org](http://orgmode.org)  
-* [Orgmode.org/features](http://orgmode.org/features.html)  
-* [.emacs.d](https://github.com/seshness/.emacs.d)  
-* [Lighttable](http://www.lighttable.com)  
-
-TextWrangler (Recommended for Hard to Edit Files)
-* [TextWrangler](http://www.barebones.com/products/textwrangler)
-
-Unix Shell (See also Unix)
-* [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
-* [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
-* [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
-
-Integrated Development Environment
-* [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
-* [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
-
-<!--
-https://en.wikipedia.org/wiki/List_of_Unix_daemons
-
-https://en.wikipedia.org/wiki/Tilde
-
-https://en.wikipedia.org/wiki/Option_key
-https://en.wikipedia.org/wiki/Meta_key
-
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
-
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
-
-https://en.wikibooks.org/wiki/Grep
-https://en.wikibooks.org/wiki/AWK
-https://en.wikibooks.org/wiki/Sed
-
-http://pubs.opengroup.org/onlinepubs/9699919799/
-http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
-
-Using Make
-http://www.tldp.org/HOWTO/Software-Building-HOWTO-3.html
-
-Bash Tutorials
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/LDP/abs/html/sample-bashrc.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html
-http://www.tldp.org/LDP/abs/html
-http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
-
-http://linux.die.net/man/1/bash
-
-https://help.ubuntu.com/community/UsingTheTerminal
-http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
-
-https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
-
-http://www.unix.com/man-page/posix/1posix/eval
-
-https://en.wikipedia.org/wiki/Batch_file
--->
-
-#### Keyboard Shortcuts
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-Emoji and Other Funny Keyboard Shortcode 
-* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
-* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
-* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
-
-#### Dot Files
-
-See also Startup Engineering MOOC<br>
-
-Hidden File and Hidden Directory Wikipedia
-* [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
-
-Dot Files
-* [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
-* [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
-* [Dotfiles](http://dotfiles.github.io)  
-* [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
-* [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
-* [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
-* [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
-* [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
-* [Jessica Lord GitHub](https://github.com/jlord/dotfiles)
-* [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
-* [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
-* [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
-* [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [YADR GitHub](https://github.com/skwp/dotfiles)
-
-#### Git and Markdown
-
-Concurrent Version System
-* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
-* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
-
-Git Origin
-* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-* [Git GitHub](https://github.com/git/git)  
-* [Git Mojombo GitHub](https://github.com/mojombo/git)  
-* [Git GitHub](https://github.com/xlymian/git) 
-
-Git
-* [Git Homepage](https://git-scm.com)
-* [Git Book](http://git-scm.com/book)
-* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
-* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
- 
-Learn X in Y Minutes Git and Markdown
-* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
-* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
-
-<!--
-https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
-http://git-scm.com/book/en/Git-Basics-Tagging
-https://git-scm.com/docs/git-tag
-https://git-scm.com/docs/git-merge
-
-http://git-scm.com/book/ch3-2.html
-http://git-scm.com/book/ch9-5.html
-
-http://gitref.org/branching
-
-Git Branching
-http://www.atlassian.com/git/tutorial/git-branches#!branch
--->
-
-Git- Official Learning Resources
-* [Try Git](https://try.github.io)
-* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-* [Git Book](http://www.git-scm.com/book/en)  
-* [Git Docs](https://git-scm.com/docs) 
-* [Git Documentation](https://git-scm.com/documentation)
-* [Git Videos](http://www.git-scm.com/videos)  
-* [Git Downloads](http://git-scm.com/downloads) 
-
-Git Cheat Sheets and Tutorials
-* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
-* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
-* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
-* [Git Index](http://gitref.org)  
-* [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
-
-GitHub- Main
-* [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
-* [GitHub Features (Code Review, ect.)](https://github.com/features)
-* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
-* [GitHub Help](https://help.github.com)  
-* [GitHub Training](http://training.github.com)  
-* [GitHub Bootcamp](https://help.github.com/categories/bootcamp) 
-* [GitHub Blog](https://github.com/blog)  
-* [GitHub Guides](https://guides.github.com) 
-* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-<!--
-http://githubuniverse.com/watch
-https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
-
-Recommended
-https://www.git-tower.com
-
-https://git-for-windows.github.io
-
-https://try.github.io/levels/1/challenges/1
-
-https://help.github.com/articles/github-terms-of-service
-
-https://github.com/github/training-kit
-https://github.com/github-archive
-https://github.com/github-archive/training.github.com
-https://github.com/github/teach.github.com
-https://github.com/jlord/git-it
-
-https://guides.github.com/introduction/flow
-https://help.github.com/articles/about-repository-graphs#traffic
-
-https://github.com/github/hub
-
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
-https://help.github.com/articles/set-up-git
-https://help.github.com/articles/caching-your-github-password-in-git/
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
-
-https://github.com/blog/2228-simpler-github-pages-publishing
-
-https://guides.github.com/features/mastering-markdown
-https://github.com/blog/2046-github-desktop-is-now-available
-https://github.com/blog/2097-improved-commenting-with-markdown
-https://help.github.com/articles/creating-a-pull-request
-https://help.github.com/articles/adding-a-file-to-a-repository
-
-https://help.github.com/articles/fork-a-repo
-https://github.com/blog/1256-new-user-profile-pages
-
-https://guides.github.com/features/issues
-https://github.com/blog/957-introducing-issue-mentions
-https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
-https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
-https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
-
-https://github.com/blog/2111-issue-and-pull-request-templates
-https://help.github.com/articles/helping-people-contribute-to-your-project/
-https://help.github.com/articles/creating-an-issue-template-for-your-repository
-https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
-https://help.github.com/articles/setting-guidelines-for-repository-contributors/
-
-https://help.github.com/articles/adding-a-remote
-https://help.github.com/articles/removing-a-remote
-
-https://help.github.com/articles/syncing-a-fork
-https://help.github.com/articles/configuring-a-remote-for-a-fork
-https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
-https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
-
-https://help.github.com/articles/about-github-mirrors/
-https://help.github.com/articles/duplicating-a-repository/
-
-https://help.github.com/articles/remove-sensitive-data/
-
-https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
-
-https://www.atlassian.com/git/tutorials/syncing/git-pull
-https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
-https://www.atlassian.com/git/tutorials/using-branches/git-branch
-
-https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-
-https://help.github.com/articles/using-a-custom-domain-with-github-pages
-
-https://github.com/blog/1986-announcing-git-large-file-storage-lfs
-https://github.com/blog/2104-working-with-submodules
-https://github.com/blog/2041-improving-map-data-on-github
-
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
-
-https://github.com/git-ftp
-https://github.com/github/git-lfs
-https://git-lfs.github.com
-
-http://ndpsoftware.com/git-cheatsheet.html
-
-https://www.producthunt.com/@jordan_gonen/collections/everything-github
-
-http://www.learnenough.com/git-tutorial#sec-getting_started
-
-https://github.com/ajaxorg/ace
-
-https://ifttt.com/github/recipes
--->
-
-Git Ignore and Licenses
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
-
-Ribbons, Buttons, Octicons, Shields
-* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
-* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
-* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
-* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
-* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
-
-GitHub Services Integration
-* [Service Hooks GitHub](https://github.com/github/github-services)  
-* [GitHub Integrations](https://github.com/integrations)  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
-
-<!--
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v3/repos/hooks/
-https://developer.github.com/webhooks/
-http://githooks.com/
-
-https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
-https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
-
-https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
--->
-
-GitHub Business
-* [GitHub Business](https://github.com/business)
-
-GitHub Organizations
-* [GitHub Organizations](https://github.com/account/organizations/new)
-
-<!--
-https://help.github.com/articles/about-organizations
-https://help.github.com/articles/publicizing-or-hiding-organization-membership
--->
-
-Gist
-* [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
-
-GitHub- More
-* [GitHub DCMA](https://github.com/github/dmca)
-* [Octokit](https://github.com/octokit) 
-* [Education Pack](https://education.github.com/pack)
-
-GitHub- Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending](https://github.com/josephyzhou/github-trending)
-* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
-
-GitHub- How To
-* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
-
-Dear GitHub and Thank You GitHub
-* [Dear GitHub](https://github.com/dear-github/dear-github)
-* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-<!--
-GitHub Shop
-* [GitHub Shop](https://github.myshopify.com)
--->
-
-Markdown
-* [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
-* [Markdown](http://daringfireball.net/projects/markdown)  
-* [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
-* [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
-* [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
-
-GitLab (See also Project Management and Docker)
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
-* [GitLab Installation](https://about.gitlab.com/installation)
-* [GitLab Features](https://about.gitlab.com/features)
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
-Atlassian: Bitbucket and SourceTree
-* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
-* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
-* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
-* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
-* [Atlassian SourceTree](https://www.sourcetreeapp.com)
-
-More GitHub Alternatives
-* [Google Code](https://code.google.com)  
-* [Sourceforge](http://sourceforge.net)  
-* [Codebase](https://www.codebasehq.com)  
-
-<!--
-One Click Deploy
-
-https://www.atlassian.com/software-trends
--->
-
-Types of Licenses
-* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-* [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-* [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-* [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-* [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-* [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-* [Creative Commons](https://creativecommons.org/licenses)
-* [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 #### Startup Engineering MOOC
 
