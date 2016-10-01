@@ -23,53 +23,17 @@ Table of Content
 * [Surveys, Trends, Stats](#surveys-trends-stats)
 * [Site and App Research](#site-and-app-research)
 
-* [Project Management](#project-management)
-  * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
-  * [Software Testing](#software-testing)
-  * [Documents and Improvement](#documents-and-improvement)
+* [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
+* [Documents and Improvement](#documents-and-improvement)
+* [Software Engineering and Testing](#software-engineering-and-testing)
 
-* [Research and Design Sprints](#research-and-design-sprints)
-  * [Basics](#basics)
-  * [Agile Sprints](#agile-sprints)
+* [Research and Design Sprint Basics](#research-and-design-sprint-basics)
+* [Agile Sprints](#agile-sprints)
 
 * [Design Thinking](#design-thinking)
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
 * [Front-End Development](#front-end-development) 
-
-* [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
-* [Social Media and Social Graph](#social-media-and-social-graph) 
-* [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
-
-* [Computer Basics](#computer-basics)
-  * [Encoding](#encoding)
-
-* [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
-  * [Unix and Linux General](#unix-and-linux-general)
-  * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
-  * [Apple General](#apple-general)
-
-* [Development Environment and Programming](#development-environment-and-programming)
-  * [Apple Developer Tools](#apple-developer-tools)
-  * [Google Developer Tools](#google-developer-tools)
-  * [Microsoft Developer Tools](#microsoft-developer-tools)
-  * [Mozilla Developer Tools](#mozilla-developer-tools)
-
-  * [Command Line and Shell](#command-line-and-shell)
-  * [Keyboard Shortcuts](#keyboard-shortcuts)
-  * [Dot Files](#dot-files)
-  * [Git and Markdown](#git-and-markdown)
-  * [Startup Engineering MOOC](#startup-engineering-mooc)
-  * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
-
-  * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
-  * [Software Manuals and Documentation](#software-manuals-and-documentation)
-  * [Software Engineering and Testing](#software-engineering-and-testing)
-* [Programming](#programming)
-  * [Programming Learning Tools](#programming-learning-tools) 
-  * [Programming Language Style Guides](#programming-language-style-guides) 
-  * [Testing and Performance](#testing-and-performance)
-  * [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
-
+  
 * [JavaScript](#javascript)
   * [JavaScript Ecosystem](#javascript-ecosystem)
   * [JavaScript Framework](#javascript-framework)
@@ -97,6 +61,8 @@ Table of Content
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
 
+* [Testing and Performance](#testing-and-performance)
+
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
@@ -104,7 +70,42 @@ Table of Content
 * [Servers and Databases](#servers-and-databases)
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Dev Ops Tools](#dev-ops-tools)
+
 * [More Back-End](#more-back-end)
+
+
+* [Computer Basics](#computer-basics)
+  * [Encoding](#encoding)
+
+* [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
+  * [Unix and Linux General](#unix-and-linux-general)
+  * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
+  * [Apple General](#apple-general)
+
+* [Development Environment and Programming](#development-environment-and-programming)
+  * [Apple Developer Tools](#apple-developer-tools)
+  * [Google Developer Tools](#google-developer-tools)
+  * [Microsoft Developer Tools](#microsoft-developer-tools)
+  * [Mozilla Developer Tools](#mozilla-developer-tools)
+
+  * [Command Line and Shell](#command-line-and-shell)
+  * [Keyboard Shortcuts](#keyboard-shortcuts)
+  * [Dot Files](#dot-files)
+  * [Git and Markdown](#git-and-markdown)
+  * [Startup Engineering MOOC](#startup-engineering-mooc)
+  * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
+
+* [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
+
+* [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
+* [Social Media and Social Graph](#social-media-and-social-graph) 
+* [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
+
+* [Programming Learning Tools](#programming-learning-tools) 
+* [Programming Language Style Guides](#programming-language-style-guides) 
+* [Software Manuals and Documentation](#software-manuals-and-documentation)
+* [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
+
 * [Mobile](#mobile)
 * [Swift](#swift)
 * [Video Gaming and Virtal Reality](#video-gaming-and-virtual-reality)
@@ -629,9 +630,6 @@ Whois Wikipedia
 DevCenter (Developer Center/API)
 * [DevCenter Website](DevCenter.me)  
 
-
-#### Project Management
-
 #### Project Management Tools and Software Engineering
 
 Operations, Changement Management, Program Management. Project Management
@@ -825,9 +823,45 @@ Improvement Schools of Thought
 * [Balanced Scorecard Wikipedia](https://en.wikipedia.org/wiki/Balanced_scorecard)
 * [Quality Function Deployment Wikipedia](http://en.wikipedia.org/wiki/Quality_function_deployment)
 
-#### Research and Design Sprints
+#### Software Engineering and Testing
 
-#### Basics
+Software Engineering/Development 
+* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
+* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
+* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+* [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
+
+Programming and Paradigm
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+Software Release Life Cycle
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
+Software Testing
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
+
+#### Research and Design Sprint Basics
 
 Heuristic
 * [Heuristic Wikipedia](http://en.wikipedia.org/wiki/Heuristic) and [Heuristic (Computer Science) Wikipedia](http://en.wikipedia.org/wiki/Heuristic_(computer_science)) 
@@ -878,8 +912,6 @@ https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
 
 http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
 -->
-
-
 
 #### Design Thinking
 
@@ -1428,2684 +1460,6 @@ http://realfavicongenerator.net
 
 Gravatar
 * [Gravatar](http://en.gravatar.com)
-
-
-#### Facebook and Google Design and Development Approaches
-
-Facebook
-* [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
-
-Google
-* [Google Fonts](https://fonts.google.com), [Google Fonts (Old)](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
-* [Google Roboto GitHub](https://github.com/google/roboto) 
-* [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-Google Material Design (See also Facebook React)
-* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
-
-Accelerated Mobile Pages (AMP HTML)
-* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
-* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
-
-#### Social Media and Social Graph
-
-Graph and Schema- General (See also Facebook Open Graph)
-* [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-* [Schema Creator](http://schema-creator.org)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
-
-Open Search
-* [Open Search](http://www.opensearch.org/Home)
-
-Facebook Crawler
-* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
-* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
-
-Microformats
-* [Microformats](http://microformats.org)
-
-<!--
-Referral URL
-
-https://github.com/h5bp
-https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
-http://www.seoconsultants.com/meta-tags/dublin
-https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
-http://intertwingly.net/wiki/pie/LinkTagMeaning
-http://www.html5rocks.com/en
-
-Meta Name and others 
-https://en.wikipedia.org/wiki/Tag_(metadata)
-
-http://stackoverflow.com/questions/16171686/list-of-standard-w3c-meta-tags
-https://gist.github.com/kevinSuttle/1997924
-http://www.w3schools.com/tags/tag_meta.asp
-https://support.google.com/webmasters/answer/79812?hl=en
-https://en.wikipedia.org/wiki/Microformat#Specific_microformats
-
-https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Microformats
-https://en.wikipedia.org/wiki/Microformat
-
-http://www.metatags.org
-http://analyzer.metatags.org
-http://www.metatags.org/meta_tags_code_generator
-http://www.metatags.org/all_metatags
-http://www.metatags.org/google_and_meta_tags
-http://www.metatags.org/meta_name_author
-
-http://schema.org/Person
-https://en.wikipedia.org/wiki/HCard
-http://microformats.org/wiki/hcard
-http://microformats.org/code/hcard/creator
-http://microformats.org/wiki/hcard-examples
-
-https://en.wikipedia.org/wiki/Resource_Description_Framework
-
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
-
-https://affiliate-program.amazon.com/welcome
-
-https://www.youtube.com/watch?v=JASn8EsO174
--->
-
-Web Analytics
-* [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
-
-Facebook Developers
-* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-
-Facebook Tools
-* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-* [Facebook Business](https://www.facebook.com/business)
-* [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
-* [Facebook Platform Insights](https://developers.facebook.com/docs/platforminsights)
-* [Facebook Ad Creation Manager](https://www.facebook.com/ads/manager/creation)
-* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
-* [Fb Start for Mobile Startups](http://fbstart.com)
-
-<!--
-https://messengerplatform.fb.com/
-https://developers.facebook.com/docs/messenger-platform
-https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
-https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
-
-Facebook's Advertisers Tool
-https://developers.facebook.com/docs/javascript
-
-Facebook Insights
-https://developers.facebook.com/docs/platforminsights/domains
-https://developers.facebook.com/docs/platforminsights/page
-
-https://www.facebook.com/ads/manager/pixel/facebook_pixel/?act=314539814&pid=p1
-
-https://www.facebook.com/business/learn/facebook-ads-measuring-results
-https://www.facebook.com/business/a/facebook-pixel
-https://www.facebook.com/business/help/952192354843755
-https://www.facebook.com/business/help/651294705016616
-https://www.facebook.com/business/a/online-sales/conversion-tracking
-https://www.facebook.com/business/help/1686199411616919
-https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
-https://www.facebook.com/business/help/460491677335370
-https://www.facebook.com/business/help/373979379354234
-
-Webmaster Guidelines
-https://support.google.com/webmasters/answer/35769
-
-https://en.wikipedia.org/wiki/Search_engine_optimization
-https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
-https://support.google.com/webmasters/answer/35291?hl=en
-https://support.google.com/webmasters/answer/40349?hl=en
-http://searchengineland.com/library/google/google-seo
-
-https://webmasters.googleblog.com
-
-https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
--->
-
-Google Webmaster and Analytics Dashboards
-* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
-* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
-
-Google Webmaster and Analytics (Web)
-* [Google Webmaster](http://www.google.com/webmasters)
-* [Google Analytics](http://www.google.com/analytics)
-* [Google U.K. Analytics](http://www.google.co.uk/analytics)
-* [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
-* [Google Data Studio](https://www.google.com/analytics/data-studio)
-
-Google Rich Snippets
-* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-Google Mobile Analytics and Firebase
-* [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
-* [Firebase](https://firebase.google.com)
-
-Google Tag Manager
-* [Google Tag Manager](http://www.google.com/tagmanager)
-
-Google Analytics Alternative
-* [Hubspot](http://www.hubspot.com)
-
-Google Ads
-* [Google Ads](http://www.google.com/ads) 
-* [Google AdMob (Apps)](http://www.google.com/admob)  
-* [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
-* [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
-* [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
-* [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
-* [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
-* [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
-* [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
-
-Google Monetization
-* [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
-
-Google Custom Search Engine
-* [Google Custom Search Engine](https://cse.google.com/cse)
-
-Google News Publisher
-* [Google News Publisher Help](https://support.google.com/news/publisher)
-
-Pinterest
-* [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
-
-Twitter
-* [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
-* [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
-* [Twitter Marketing](https://marketing.twitter.com)
-* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-* [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
-
-Twitter Data
-* [Twitter Data](https://twitter.com/TwitterData)
-
-Twitter Media and News
-* [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-* [Twitter News](https://twitter.com/TwitterForNews) 
-
-Twitter Advanced Search
-* [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
-
-Yahoo and Bing- Developer, Webmaster, and Ads
-* [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
-* [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
-* [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
-* [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
-
-YouTube (Google)
-* [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
-* [YouTube Creators](http://www.youtube.com/yt/creators)  
-* [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
-
-Firefox SEO (See also Mozilla)
-* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
-
-Reddit Advertising
-* [Reddit Advertising](https://www.reddit.com/advertising)
-
-Sharing Buttons
-* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
-* [AddToAny](https://www.addtoany.com) 
-* [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
-
-Net Promoter
-* [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
-
-#### Engineering Blogs and Designer, Developer Conferences, Design Systems
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-
-Individual Engineering Blogs
-* [Buffer Engineering](https://overflow.bufferapp.com)
-* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-* [Uber Developers](https://medium.com/uber-developers)  
- 
-StackShare
-* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
-
-Company Design
-* [Airbnb Samara](http://samara.airbnb.com)
-* [Medium Design](https://medium.com/designing-medium)  
-* [IBM Design](https://www.ibm.com/design) 
-* [eBay/PayPal](http://ebay.com/design)  
-* [Twitter Design](https://twitter.com/design)  
-* [Uber Design](https://www.uber.com/design) 
-
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
-Salesforce Lightning Design System
-* [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
-
-HubSpot
-* [HubSpot GitHub](https://github.com/HubSpot)
-
-Microsoft 
-* [Microsoft Design](https://www.microsoft.com/en-us/design)
-
-IBM Design Language
-* [IBM Design Language](http://www.ibm.com/design/language)
-
-<!--
-https://console.ng.bluemix.net
--->
-
-Watson Design Guide
-* [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
-
-
-
-
-#### Computer Basics
-
-Ergonomics 
-* [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
-* [f.lux](https://justgetflux.com)
-* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
-* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
-* [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
-* [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
-* [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
-
-<!--
-https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard
-Mechanical keyboard
-Vertical mouse
-Natural ergonomic keyboard
-
-http://www.mindbodygreen.com/0-3972/How-Yoga-Healed-My-Carpal-Tunnel-Syndrome.html
-
-http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow
--->
-
-Wikipedia Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
-
-History of Technology and Computer Science
-* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
-* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
-* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
-* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
-* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
-* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
-* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
-* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
-
-<!--
-https://en.wikibooks.org/wiki/Open_Metadata_Handbook
--->
-
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
-Famous Literature
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar)
-
-<!--
-http://www.catb.org/~esr/faqs/hacker-howto.html
--->
-
-Great Unsolved Problems in Computer Science
-* [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
-
-Computer Classes and Sizes
-* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
-
-Smartphones (See also Mobile)
-* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
-* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-
-Microprocessor, CPU and Instruction Set
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-Client Server
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-
-Internet Service Provider
-* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
-
-Port and Host
-* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
-* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
-* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
-* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
-* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
-
-IP
-* [IP Address Wikipedia](https://en.wikipedia.org/wiki/IP_address)
-* [IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
-* [Virtual IP Address Wikipedia](https://en.wikipedia.org/wiki/Virtual_IP_address)
-
-Domain Name
-* [Domain Name Wikipedia](https://en.wikipedia.org/wiki/Domain_name)
-* [Domain Name System Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
-* [Top Level Domain Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
-* [CNAME Record Wikipedia](https://en.wikipedia.org/wiki/CNAME_record)
-* [Root Name Server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
-
-<!--
-http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
-http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
-http://en.wikipedia.org/wiki/Domain_registration#History
-
-https://en.wikipedia.org/wiki/Round-robin_DNS
-Least Connections
--->
-
-URL and IRI
-* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
-* [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
-* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
-
-<!--
-https://en.wikipedia.org/wiki/UUID
--->
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-<!--
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-https://en.wikipedia.org/wiki/Parsing
-
-https://en.wikipedia.org/wiki/HTTP_cookie
-
-HTTP protocol defaults to port 80 and HTTPS defaults to port 443
-https://technet.microsoft.com/en-us/library/bb962069.aspx
--->
-
-More
-* [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
-* [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network) 
-* [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
-* [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
-* [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
-
-File Types and Extensions
-* [File Types and Extensions](http://fileinfo.com)
-
-32 Bit vs. 64 Bit
-* [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
-
-Malware and Encryption
-* [hackerone](https://hackerone.com)
-* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
-* [Malware Museum](https://archive.org/details/malwaremuseum)
-
-Naming Conventions
-* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
-* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
-
-Local Terms
-* [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
-* [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
-* [Environmental Variable Wikipedia](hhttps://en.wikipedia.org/wiki/Environment_variable) 
-* [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
-* [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
-* [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
-* [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Utilities
-* [Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
-* [Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
-* [Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
-* [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
-* [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering) 
-
-Important Concepts
-* [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-
-Miscellaneous Vocab
-* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
-* [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
-* [Cross Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
-* [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
-
-<!--
-https://en.wikipedia.org/wiki/Code_refactoring
--->
-
-Line Endings
-* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
-* [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
-
-Anywhere on Earth
-* [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
-
-<!--
-http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
-
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
--->
-
-<!--
-http://docs.openstack.org/developer/nova/
-https://wiki.openstack.org/wiki/Horizon
-http://docs.openstack.org/developer/horizon/
--->
-
-#### Encoding
-
-Encoding
-* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-
-ASCII
-* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
-* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
-
-Bytcote versus Unicode
-* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
-* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-
-HTML5 Charactersets
-* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
-* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
-* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
-
-Char Sets
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
-
-Alt Codes- PC
-* [Alt Codes](http://usefulshortcuts.com/alt-codes) and [Alt Codes Cheat Sheet](http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf)
-
-<!--
-https://www.w3.org/International/getting-started/characters
-https://www.w3.org/International/articles/definitions-characters
--->
-
-#### Operating System, Browser, Layout Engine
-
-Operating Systems
-* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
-* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
-
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-#### Unix and Linux General
-
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
-
-Linux
-* [Linux](http://www.linux.org)  
-* [Canonical](http://www.canonical.com)  
-* [Linux Foundation](http://www.linuxfoundation.org)  
-* [Linux.com](http://www.linux.com)  
-* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
-* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
-* [Linux GitHub](https://github.com/torvalds/linux)  
-* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
-* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
-* [Linux Journal](http://www.linuxjournal.com) 
-
-Linux- Ubuntu (Debian)
-* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
-* [Ubuntu](http://www.ubuntu.com)  
-* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
-
-Linux- Ubuntu Dual Boot
-* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
-* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
-* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
-
-Ubuntu- + Programs
-* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
-* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
-* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
-* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
-
-Linux- Other Popular Distributions
-* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
-* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
-* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
-* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
-* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
-* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
-* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
-* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports) 
-
-#### Mojombo Chromebook Recommendation
-
-* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
-* [Google Chromebook](http://www.google.com/chromebook)
-* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
-* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
-* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
-* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
-* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
-* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
-
-Chromebook Ubuntu Installation
-* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
-* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
-* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
-* [Crouton GitHub](https://github.com/dnschneid/crouton)  
-
-<!--
-How to get Chrome Goodies for your Chromebook
-https://support.google.com/chromebook/answer/2703646?p=driveoffer&rd=1
-http://acer.custhelp.com/app/answers/detail/a_id/10755/~/how-do-i-download-and-manage-files-on-my-acer-chromebook%3F
-Welcome to the Chromebook Help Center
-https://support.google.com/chromebook
-Open, save, or delete files with the Files app
-https://support.google.com/chromebook/answer/1700055?hl=en&rd=1
-Supported file types and external devices
-https://support.google.com/chromebook/answer/183093
--->
-
-#### Apple General
-
-Apple Posters of Ago
-* [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
-
-Apple El Capitan
-* [El Capitan](https://help.apple.com/osx-elcapitan)
-* [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
-* [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
-
-<!--
-http://www.gmyle.com/collections/year-end-clearance-sale?page=1
-http://www.amazon.com/gp/product/B00G9DQJXO/ref=s9_top_hd_bw_b3NTTT1_g147_i3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=1M4E6M9T5DTCSF3G8PBY&pf_rd_t=101&pf_rd_p=f47208ae-f563-54fe-900f-bc055dbb8823&pf_rd_i=3095279011
-http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air+accessories&page=2&keywords=macbook+air+accessories&ie=UTF8&qid=1457656850&spIA=B00G9DQJXO,B010UFRNP4,B00LSJV5B0
--->
-
-Apple- Utilities
-* [iTunes](https://www.apple.com/itunes)
-
-Apple Presentation and Design (See also Keynotopia)
-* [Keynote](https://www.apple.com/mac/keynote)
-* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com) and [Think](http://www.fiftythree.com/think)
-* [Sketch](https://www.sketchapp.com)
-* [Keynotopia](http://keynotopia.com)
-* [Keynote Kung-Fu](http://keynotekungfu.com)
-
-<!--
-http://www.sketchappsources.com
--->
-
-Apple MacBook Air
-* [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
-
-Apple- Refurbished, Clearance, Reuse, Recycling
-* [Apple Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
-* [Apple Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
-* [Apple Recycling](http://www.apple.com/recycling)
-
-Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
-* [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
-
-Apple- Windows (See also: VMware, Vagrant, VirtualBox)
-* [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
-* ["How to install Windows using Boot Camp"](https://support.apple.com/en-us/HT201468)  
-* ["Use Windows 10 on your Mac with Boot Camp"](https://support.apple.com/en-us/HT204990)
-* [Parallels](http://www.parallels.com)
-* [VMware Fusion](http://www.vmware.com/products/fusion)
-* [Wine](https://www.winehq.org)
-* [Winclone](http://twocanoes.com/products/mac/winclone)
-* External Hard Drive, USB SSD, Western Digital Terabyte
-
-<!--
-http://kb.parallels.com/123553
-http://kb.parallels.com/en/118158
-http://kb.parallels.com/en/113972
--->
-
-Apple- Support
-* [Apple Support](http://www.apple.com/support) 
-
-Mac Update
-* [Mac Update](http://www.macupdate.com)
-
-Mac Keyboard Shortcuts
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
-* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
-
-<!--
-Use Activity Monitor on Your Mac
-https://support.apple.com/en-us/HT201464
-
-https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
-
-https://support.apple.com/en-us/HT201541
-https://www.apple.com/business/docs/iOS_Security_Guide.pdf
--->
-
-#### Development Environment and Programming
-
-#### Apple Developer Tools
-
-Mac OS X 
-* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
-* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
-* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
-
-Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
-* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-
-Mac OS X- Architecture
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
-
-Apple iOS
-* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
-* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
-MacPorts
-* [MacPorts](https://guide.macports.org)
-
-Mac OS X Directory Strucure and Listing Applications
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-
-Apple Developer Program Membership
-* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
-* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
-* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
-
-Apple Developer and Open Source
-* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
-* [Apple Developer Forum](https://forums.developer.apple.com)
-* [Apple Open Source](https://developer.apple.com/opensource)
-* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
-
-Apple Developer Tools
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
-* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
-* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-App Store Submission
-* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
-* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
-* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
-
-Apple- More
-* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-
-Apple- Kits
-* [ResearchKit and Carekit](http://www.apple.com/researchkit)
-* [Watchkit](https://developer.apple.com/watchkit) 
-
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
-
-<!--
-https://developer.apple.com/reference/applepayjs
-https://developer.apple.com/reference/accelerate/1912851-bnns
-https://developer.apple.com/sirikit
-https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
--->
-
-#### Google Developer Tools
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Opera (Also Blink)
-* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
-
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-Google Developers- Web
-* [Google Developer Web](https://developers.google.com/web)
-
-Google Developers- Google Chrome Doc
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
-* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
-* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
-* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
-* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
-* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
-
-<!--
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://developers.google.com/web/tools/setup/setup-workflow
-https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
-https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
--->
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Developers- Google Chrome Tools
-* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-<!--
-https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-https://developers.google.com/cast/docs/developers
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools
-https://developer.chrome.com/devtools/docs
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/getstarted
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-Miscellaneous
-https://bugs.chromium.org/p/v8/issues/list
-
-http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
-http://www.ibm.com/developerworks/library/os-extendchrome/
-https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
-http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-http://developer.samsung.com/technical-doc/view.do?v=T000000203
-https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
-https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
-
-https://developer.mozilla.org/en-US/docs/Chrome_Registration
-
-Google Maps JavaScript API
-https://developers.google.com/maps/documentation/javascript
--->
-
-Chrome Extensions
-* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
-* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
-* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
-* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
-
-<!--
-chrome://apps
-
-https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
-
-http://docs.ionic.io/docs/chrome-inspector
--->
-
-#### Microsoft Developer Tools
-
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
-
-<!--
-https://www.microsoft.com/en-us/software-download/windows10ISO
--->
-
-Internet Explorer and Trident (Browser, Layout Engine)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
-
-Edge and EdgeHTML (Browser, Layout Engine)
-* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
-* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
-
-Windows SSH and Telnet Client
-* [PuTTY](http://www.putty.org)
-
-<!--
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
--->
-
-Linux Feeling- on Windows
-* [Cygwin](http://cygwin.com)
-
-#### Mozilla Developer Tools
-
-Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
-
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
-
-Firefox Add-Ons
-* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
-
-<!--
-https://testpilot.firefox.com
-
-Browser Statistics
-
-http://www.gnu.org/software/coreutils/manual/coreutils.html
-
-http://ftp.gnu.org
-http://gcc.gnu.org
-
-http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Hurd
--->
-
-#### Command Line and Shell
-
-See also Bash and PowerShell<br>
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
-
-Unix
-* [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
-* [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Unix Shell and File system
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
-* [Guide to Unix/Commands Wikibook](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands) and [Guide to Unix/Commands/File System Utilities Wikibook](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-The Linux Documentation Project
-* [The Linux Documentation Project](http://www.tldp.org)
-* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
-
-Linux- More Resources
-* [Linux Command](http://linuxcommand.org) 
-* [Linux in a Nutshell](http://it-ebooks.info/book/403)
-
-Linux- Ubuntu (Debian)
-* [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
-
-Ubuntu Terminal, Command Line, and Aptget
-* [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
-* [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
-* [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
-
-Command Line
-* [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
-* [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
-* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
-* [Learn the Command Line the Hard Way Commands List](http://cli.learncodethehardway.org/book/ex1.html) 
-
-<!--
-Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists]
-(Command, then relevant variable)
--->
-
-Shell
-* [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
-* [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
-* [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
-
-Comparison of Command Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-
-SS64 (Command Line Reference (CMD, PowerShell, Bash, OS X, Access, VB Script, Oracle, SQL Server, CSS, Convert MB/GB))
-* [SS64](http://ss64.com)
-
-Mac OS X- Terminal, Bash (Unix)
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [SS64 OS X Reference](http://ss64.com/osx) and [SS64 Bash Reference](http://ss64.com/bash)
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Bash Homepage](https://www.gnu.org/software/bash), [Bash Manual](http://www.gnu.org/software/bash/manual), and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
-* [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
-* [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
-* [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-* [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
-
-Shell and Bash Builtins
-* [Shell Builtins Wikipedia](https://en.wikipedia.org/wiki/Shell_builtin)
-* [Bash Reference Manual- Shell Builtin Commands](http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html)
-* [Bash Reference Manual- Builtins](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html)
-
-Sha-Bang/Shebang
-* [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
-
-Notable Terminology
-* [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
-* [chmod Wikipedia](https://en.wikipedia.org/wiki/Chmod)
-* [chown Wikipedia](https://en.wikipedia.org/wiki/Chown)
-* [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
-
-cURL and Wget
-* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
-* [WGet](https://www.gnu.org/software/wget)
-
-Nano
-* [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
-* [Nano Basics Guide](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
-
-Windows- PowerShell
-* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
-* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
-* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
-* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
-* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
-
-Emacs and Vim (Text Editors)
-* [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
-* [Emacs Manual](http://www.gnu.org/software/emacs/manual) and [Emacs Manual Intro](http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro)
-* [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
-* [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
-* [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
-* [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
-* [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
-* [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
-
-Emacs for Mac or Linux
-* [Emacs for Mac OS X](https://emacsformacosx.com)
-* [Installing Emacs on GNU/Linux](http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux)
-
-<!--
-https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
-https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
--->
-
-Zsh (Bash Alternative)
-* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
-* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh) 
-
-More Shell/Text Editors (See also Visual Studio and XCode)
-* [Sublime Text Editor](http://www.sublimetext.com)
-* [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
-* [Textmate](http://macromates.com)  
-* [Orgmode.org](http://orgmode.org)  
-* [Orgmode.org/features](http://orgmode.org/features.html)  
-* [.emacs.d](https://github.com/seshness/.emacs.d)  
-* [Lighttable](http://www.lighttable.com)  
-
-TextWrangler (Recommended for Hard to Edit Files)
-* [TextWrangler](http://www.barebones.com/products/textwrangler)
-
-Unix Shell (See also Unix)
-* [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
-* [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
-* [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
-* [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
-
-Integrated Development Environment
-* [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
-* [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
-
-<!--
-https://en.wikipedia.org/wiki/List_of_Unix_daemons
-
-https://en.wikipedia.org/wiki/Tilde
-
-https://en.wikipedia.org/wiki/Option_key
-https://en.wikipedia.org/wiki/Meta_key
-
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
-
-https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
-
-https://en.wikibooks.org/wiki/Grep
-https://en.wikibooks.org/wiki/AWK
-https://en.wikibooks.org/wiki/Sed
-
-http://pubs.opengroup.org/onlinepubs/9699919799/
-http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
-
-Using Make
-http://www.tldp.org/HOWTO/Software-Building-HOWTO-3.html
-
-Bash Tutorials
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/LDP/abs/html/sample-bashrc.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html
-http://www.tldp.org/LDP/abs/html
-http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
-
-http://linux.die.net/man/1/bash
-
-https://help.ubuntu.com/community/UsingTheTerminal
-http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
-
-https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
-
-http://www.unix.com/man-page/posix/1posix/eval
-
-https://en.wikipedia.org/wiki/Batch_file
--->
-
-#### Keyboard Shortcuts
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-Emoji and Other Funny Keyboard Shortcode 
-* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
-* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
-* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
-
-#### Dot Files
-
-See also Startup Engineering MOOC<br>
-
-Hidden File and Hidden Directory Wikipedia
-* [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
-
-Dot Files
-* [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
-* [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
-* [Dotfiles](http://dotfiles.github.io)  
-* [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
-* [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
-* [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
-* [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
-* [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
-* [Jessica Lord GitHub](https://github.com/jlord/dotfiles)
-* [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
-* [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
-* [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
-* [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [YADR GitHub](https://github.com/skwp/dotfiles)
-
-#### Git and Markdown
-
-Concurrent Version System
-* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
-* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
-
-Git Origin
-* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-* [Git GitHub](https://github.com/git/git)  
-* [Git Mojombo GitHub](https://github.com/mojombo/git)  
-* [Git GitHub](https://github.com/xlymian/git) 
-
-Git
-* [Git Homepage](https://git-scm.com)
-* [Git Book](http://git-scm.com/book)
-* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
-* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
- 
-Learn X in Y Minutes Git and Markdown
-* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
-* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
-
-<!--
-https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
-http://git-scm.com/book/en/Git-Basics-Tagging
-https://git-scm.com/docs/git-tag
-https://git-scm.com/docs/git-merge
-
-http://git-scm.com/book/ch3-2.html
-http://git-scm.com/book/ch9-5.html
-
-http://gitref.org/branching
-
-Git Branching
-http://www.atlassian.com/git/tutorial/git-branches#!branch
--->
-
-Git- Official Learning Resources
-* [Try Git](https://try.github.io)
-* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-* [Git Book](http://www.git-scm.com/book/en)  
-* [Git Docs](https://git-scm.com/docs) 
-* [Git Documentation](https://git-scm.com/documentation)
-* [Git Videos](http://www.git-scm.com/videos)  
-* [Git Downloads](http://git-scm.com/downloads) 
-
-Git Cheat Sheets and Tutorials
-* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
-* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
-* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
-* [Git Index](http://gitref.org)  
-* [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
-
-GitHub- Main
-* [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
-* [GitHub Features (Code Review, ect.)](https://github.com/features)
-* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
-* [GitHub Help](https://help.github.com)  
-* [GitHub Training](http://training.github.com)  
-* [GitHub Bootcamp](https://help.github.com/categories/bootcamp) 
-* [GitHub Blog](https://github.com/blog)  
-* [GitHub Guides](https://guides.github.com) 
-* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-<!--
-http://githubuniverse.com/watch
-https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
-
-Recommended
-https://www.git-tower.com
-
-https://git-for-windows.github.io
-
-https://try.github.io/levels/1/challenges/1
-
-https://help.github.com/articles/github-terms-of-service
-
-https://github.com/github/training-kit
-https://github.com/github-archive
-https://github.com/github-archive/training.github.com
-https://github.com/github/teach.github.com
-https://github.com/jlord/git-it
-
-https://guides.github.com/introduction/flow
-https://help.github.com/articles/about-repository-graphs#traffic
-
-https://github.com/github/hub
-
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
-https://help.github.com/articles/set-up-git
-https://help.github.com/articles/caching-your-github-password-in-git/
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
-
-https://github.com/blog/2228-simpler-github-pages-publishing
-
-https://guides.github.com/features/mastering-markdown
-https://github.com/blog/2046-github-desktop-is-now-available
-https://github.com/blog/2097-improved-commenting-with-markdown
-https://help.github.com/articles/creating-a-pull-request
-https://help.github.com/articles/adding-a-file-to-a-repository
-
-https://help.github.com/articles/fork-a-repo
-https://github.com/blog/1256-new-user-profile-pages
-
-https://guides.github.com/features/issues
-https://github.com/blog/957-introducing-issue-mentions
-https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
-https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
-https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
-
-https://github.com/blog/2111-issue-and-pull-request-templates
-https://help.github.com/articles/helping-people-contribute-to-your-project/
-https://help.github.com/articles/creating-an-issue-template-for-your-repository
-https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
-https://help.github.com/articles/setting-guidelines-for-repository-contributors/
-
-https://help.github.com/articles/adding-a-remote
-https://help.github.com/articles/removing-a-remote
-
-https://help.github.com/articles/syncing-a-fork
-https://help.github.com/articles/configuring-a-remote-for-a-fork
-https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
-https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
-
-https://help.github.com/articles/about-github-mirrors/
-https://help.github.com/articles/duplicating-a-repository/
-
-https://help.github.com/articles/remove-sensitive-data/
-
-https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
-
-https://www.atlassian.com/git/tutorials/syncing/git-pull
-https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
-https://www.atlassian.com/git/tutorials/using-branches/git-branch
-
-https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-
-https://help.github.com/articles/using-a-custom-domain-with-github-pages
-
-https://github.com/blog/1986-announcing-git-large-file-storage-lfs
-https://github.com/blog/2104-working-with-submodules
-https://github.com/blog/2041-improving-map-data-on-github
-
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
-
-https://github.com/git-ftp
-https://github.com/github/git-lfs
-https://git-lfs.github.com
-
-http://ndpsoftware.com/git-cheatsheet.html
-
-https://www.producthunt.com/@jordan_gonen/collections/everything-github
-
-http://www.learnenough.com/git-tutorial#sec-getting_started
-
-https://github.com/ajaxorg/ace
-
-https://ifttt.com/github/recipes
--->
-
-Git Ignore and Licenses
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
-
-Ribbons, Buttons, Octicons, Shields
-* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
-* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
-* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
-* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
-* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
-
-GitHub Services Integration
-* [Service Hooks GitHub](https://github.com/github/github-services)  
-* [GitHub Integrations](https://github.com/integrations)  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
-
-<!--
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v3/repos/hooks/
-https://developer.github.com/webhooks/
-http://githooks.com/
-
-https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
-https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
-
-https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
--->
-
-GitHub Business
-* [GitHub Business](https://github.com/business)
-
-GitHub Organizations
-* [GitHub Organizations](https://github.com/account/organizations/new)
-
-<!--
-https://help.github.com/articles/about-organizations
-https://help.github.com/articles/publicizing-or-hiding-organization-membership
--->
-
-Gist
-* [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
-
-GitHub- More
-* [GitHub DCMA](https://github.com/github/dmca)
-* [Octokit](https://github.com/octokit) 
-* [Education Pack](https://education.github.com/pack)
-
-GitHub- Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending](https://github.com/josephyzhou/github-trending)
-* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
-
-GitHub- How To
-* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
-
-Dear GitHub and Thank You GitHub
-* [Dear GitHub](https://github.com/dear-github/dear-github)
-* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-<!--
-GitHub Shop
-* [GitHub Shop](https://github.myshopify.com)
--->
-
-Markdown
-* [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
-* [Markdown](http://daringfireball.net/projects/markdown)  
-* [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
-* [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
-* [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
-
-GitLab (See also Project Management and Docker)
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
-* [GitLab Installation](https://about.gitlab.com/installation)
-* [GitLab Features](https://about.gitlab.com/features)
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
-Atlassian: Bitbucket and SourceTree
-* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
-* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
-* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
-* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
-* [Atlassian SourceTree](https://www.sourcetreeapp.com)
-
-More GitHub Alternatives
-* [Google Code](https://code.google.com)  
-* [Sourceforge](http://sourceforge.net)  
-* [Codebase](https://www.codebasehq.com)  
-
-<!--
-One Click Deploy
-
-https://www.atlassian.com/software-trends
--->
-
-Types of Licenses
-* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-* [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-* [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-* [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-* [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-* [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-* [Creative Commons](https://creativecommons.org/licenses)
-* [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
-
-#### Startup Engineering MOOC
-
-<!--
-Startup Mooc Staging Example: GitHub, AWS, Heroku
-* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-* Illustration: Startup Engineering Dev, Staging, Production
--->
-
-<!--
-http://web.stanford.edu/class/cs106b/
-
-https://github.com/heroku/node-js-sample
-
-Startup Class Dotfiles and AWS EC2 Setup
-* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-* [Course EC2 Setup](https://github.com/startup-class/setup)  
-* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
-
-https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
-
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-
-Lecture 2: Interactive Start 
-http://class.coursera.org/startup-001/lecture/75
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf
-
-Lecture 3: Linux and Server Side Javascript 
-https://class.coursera.org/startup-001/lecture/99
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf
-https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf
-
-Lecture 4A: Linux Command Line 
-https://class.coursera.org/startup-001/lecture/131
-https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf
-
-Lecture 4B: Development Environment 
-https://class.coursera.org/startup-001/lecture/155 https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf
-
-Lecture 7: Deployment, DNS, and Custom Domains 
-https://class.coursera.org/startup-001/lecture/197
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf
-
-Lecture 12: Node JS: Async, Flow Control, Node Debugging 
-https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf
-
-Lecture 6: Introduction to HTML/CSS/JS
-https://class.coursera.org/startup-001/lecture/193
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf
-
-Lecture 10: Intermediate and Frontend JS
-https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf
-
-Lecture 8: Mobile: HTTP, User Agents, and Responsive Design 
-https://class.coursera.org/startup-001/lecture/199
-https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf
-
-Lecture 5: Market Research, Wireframing, Design
-https://class.coursera.org/startup-001/lecture/189
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf
-
-
-Lecture 0: Course Overview 
-https://class.coursera.org/startup-001/lecture/57
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf
-
-Lecture 1: Introduction 
-https://class.coursera.org/startup-001/lecture/33
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf
-
-Lecture 9: Why do VCs love mobile, local, and social? And what they love next? https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf
-
-Lecture 11: Regulation, Disruption, and the Technologies of 2013. https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf
-
-http://www.html5rocks.com/en/mobile/
-
-AWS, Heroku, Git
-Lecture 2: Figure 2: Startup Engineering Dev and Deployment
-Lecture 2: Figure 84:
-Lecture 7: Figure 1-3: Dev, Staging, Production
-Lecture 7: Figure 20: Dev, Staging, Production
-
-Setup
-Lecture 2: Figure 1: Goal
-Lecture 2: Figure 4: Chrome User Agent Switcher
-Lecture 2: Figure 5: Closing using GUI
-Lecture 2: Figure 6: Closing using CLI
-Lecture 2: Figure 7-12: Apple Terminal
-Lecture 2: Figure 13-24: Cygwin
-Lecture 2: Figure 25: Ping
-Lecture 2: Figure 26-40: AWS
-Lecture 2: Figure 40-42: Gravatar
-Lecture 2: Figure 43-45: GitHub
-Lecture 2: Figure 46-51: Heroku
-Lecture 2: Figure 52-65: AWS
-Lecture 2: Figure 66: Apple
-Lecture 2: Figure 67-70: Cygwin
-Lecture 2: Figure 71-72: AWS
-Lecture 2: Figure 73: SSH
-Lecture 2: Figure 74: AWS Ubuntu
-Lecture 2: Figure 75: Local Versus Remote Commands
-Lecture 2: Figure 76-83: SSH
-Lecture 2: Figure 84: Goal
-
-Setup
-Lecture 3: Figure 1: Virtualization
-Lecture 3: Figure 2-6: SSH
-
-Setup
-Lecture 4a: Figures: All Technical
-Lecture 4b: Figures: All Technical
-
-Setup
-Lecture 7: Figure 4-19: SSH, including Bitstarter
-Lecture 7: Figure 20-34: SSH
-Lecture 7: Figure 35-43: Domize and DNSimple
-Lecture 7: Figure 44-46: SSH
-
-Lecture 5: Table 5: The Idea State Machine
-Lecture 5: Figure 1: Visualizing the Idea Maze
-Lecture 5: Figure 2-3: Implement the 'One-Thing’
-Lecture 5: Table 2: A Product that Exhibits an Economy of Scale
-Lecture 5: Figures 4 and 5: A Product with an Economy of Scale                              
-Lecture 5: Figure 6: Qualitative Graph of Market Size
-Lecture 5: Figure 7: Facebook Census Tool
-Lecture 5: Figure 8: Google Keyword Planner
-Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
-Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
-
-Lecture 1: Figure 1: Signoidal curve for the development of an industry
-Lecture 1: Table 1: Future and current/ongoing technological trends
-Lecture 1: Table 2: An overview of technologies used in the course                                
-Lecture 1: Figure 5: The Rise and Fall of Personal Computing
--->
-
-<!--
-No longer in existence
-
-Startup Engineering Video Lectures
-https://class.coursera.org/startup-001/lecture 
-
-Homework
-https://class.coursera.org/startup-001/wiki/homework
-
-Deployment Assignments
-https://class.coursera.org/startup-001/assignment
-https://class.coursera.org/startup-001/assignment/view?assignment_id=5
-https://class.coursera.org/startup-001/assignment/view?assignment_id=8
-https://class.coursera.org/startup-001/assignment/view?assignment_id=10
-https://class.coursera.org/startup-001/assignment/view?assignment_id=12
--->
-
-#### Digital Agencies and Code Philosophies
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-
-<!--
-Trello
-https://upcase.com/design-for-developers-resources/principles
-https://github.com/thoughtbot/guides
-https://github.com/thoughtbot/guides/tree/master/protocol
-
-https://github.com/hypenotic/hypelabs
-
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
-
-https://devopsbootcamp.osuosl.org/slides.html
-https://github.com/devopsbootcamp
-https://github.com/DevOpsBootcamp/website
-https://docs.google.com/forms/d/12Mwr2D5jokWJh8hZm7bfk1uaXQQtyG0_cTdMASPjU10/viewform?edit_requested=true
--->
-
-A Successful Git Branching Model
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
-
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-
-<!--
-https://kite.com
--->
-
-12 Factor App
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-
-Semver
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-
-The Distributed Developer Stack Field Guide
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-
-Trac Project Management and DB (Used with www.djangoproject.com)
-* [Trac](http://trac.edgewall.org)  
-* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
-* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
-
-<!--
-https://github.com/heroku/12factor
-[Semver Org GitHub](https://github.com/mojombo/semver.org)
--->
-
-#### Open Source Management and Programming Tiers
-
-Open Source Management, Codes of Conduct, Roadmaps
-* [Open Source Management at Docker](https://github.com/docker/opensource)
-* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
-* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
-
-Bus Factor
-* [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
-
-Open Source Hosting
-* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
-
-Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
-
-Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
-* [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
-
-Learn Git/GitHub
-* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
-
-Make Something Static/Client-Side- HTML (Can Use GitHub Browser)
-* [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
-
-Make Something Static- Jekyll (Can Use Git Bash)
-* [Jekyll via GitHub Pages](https://jekyllrb.com)
-
-Make Something Dynamic/Server-Side- Can Store Code on GitHub, but Host Elsewhere (Heroku, AWS, Digital Ocean)
-* Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
-
-Start contributing to open source
-* Seek out mentor(s) (some frameworks such as Django have mentor lists) 
-* Follow community members and projects (for instance, on Twitter) and look for opportunities
-* Look for guides in repos that explain how to contribute
-* Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
-
-Look for First-Timers Info
-* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
-
-Example First-Timers Info
-* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
-* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
-* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
-* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
-
-<!--
-https://github.com/search?utf8=%E2%9C%93&q=help+wanted
-https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
-https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
-https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
-
-https://opensource.com
-https://opensource.com/how-submit-article
-
-http://williln.github.io/
-https://github.com/williln/williln.github.io
-
-https://github.com/HackathonHackers/code-of-conduct
-http://hackforchange.org/tips-for-better-open-source-documentation
-https://github.com/zalando/zalando-howto-open-source
-https://github.com/ddbeck/readme-checklist
-
-CODE_OF_CONDUCT
-https://github.com/stevemao/github-issue-templates
-
-https://github.com/devspace/awesome-github-templates
-https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
-https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
-
-https://github.com/jdorfman/awesome-help-wanted
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
-
-http://pyfound.blogspot.com
-http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
-
-http://blog.djangogirls.org
-http://blog.djangogirls.org/submit
-http://blog.djangogirls.org/post/137825610883/about-your-django-story
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
-
-https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
-
-http://pinaxproject.com/pinax/how_to_contribute
-https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
-http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
-https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
-
-https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
-https://github.com/pybee/pybee.github.io
-http://pybee.org
-
-http://slides.com/kentcdodds/1st-pr#/
-https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-https://github.com/kentcdodds/all-contributors
-https://github.com/jfmengels/all-contributors-cli
-https://github.com/kentcdodds/ama/issues/93
-http://javascriptair.com
--->
-
-Example Help Tweets
-* [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
-
-#### Software Manuals and Documentation 
-
-Write the Docs (Conference and Community)
-* [Write the Docs](http://www.writethedocs.org)
-
-MkDocs
-* [MkDocs](http://www.mkdocs.org)
-
-Pandoc
-* [Pandoc](http://johnmacfarlane.net/pandoc)  
-
-Dexy
-* [Dexy](http://www.dexy.it)  
-
-GitBook
-* [GitBook](https://www.gitbook.com)  
-* [GitBook GitHub](https://github.com/GitbookIO)  
-* ["How can I use Git to update my book?"](https://help.gitbook.com/books/how-can-i-use-git.html)
-* [GitBook Documentation](http://help.gitbook.io)  
-* [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
-* [GitBook Design Styleguide](http://styleguide.gitbook.com)
-* [GitBook Themes](http://help.gitbook.io/book/themes.html)  
-* [GitBook Official Theme GitHub](https://github.com/GitbookIO/theme-official)  
-
-<!--
-GitBook Styling
--->
-
-GitHub Wiki
-* [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
-
-iPython
-* [iPython](http://ipython.org)  
-
-LaTeX
-* [LaTeX](http://latex-project.org)  
-* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
-* [Share LaTeX](https://github.com/sharelatex/sharelatex)  
-
-Read the Docs
-* [Read the Docs](https://readthedocs.org) and [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
-* [A Beginner's Guide to Docs](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs)
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
-
-Python- Django-Sphinxdoc
-* [Sphinxdoc](http://sphinx-doc.org)  
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
-
-API Docs (see also Python- Django- Rest Framework Swagger)
-* [Swagger API Docs](http://swagger.io)  
-* [Slate API Docs GitHub](https://github.com/tripit/slate)  
-* [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
-
-#### Software Engineering and Testing
-
-Software Engineering/Development 
-* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
-* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
-* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
-* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
-* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
-* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
-* [Software Design Pattern Wikipedia](http://en.wikipedia.org/wiki/Software_design_pattern)
-
-Programming and Paradigm
-* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-Software Release Life Cycle
-* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
-
-Software Testing
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-
-#### Programming
-
-#### Programming Learning Tools
-
-Programming Groups
-* [Codettes](http://www.codettes.net)
-* [Django Girls](https://djangogirls.org)
-* [Golang Bridge](http://golangbridge.org)
-* [Women Who Go](http://www.womenwhogo.org)
-* [Node Together](http://www.nodetogether.org)
-* [Rails Bridge](http://www.railsbridge.org)
-* [PHP Women](https://phpwomen.org)
-
-Programming and Math Learning Tools (See also MOOCs)
-* [Arduino](https://www.arduino.cc)
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
-* [Learn to Code the Hard Way](http://learncodethehardway.org)  
-* [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
-* [Codecademy](http://www.codecademy.com)  
-* [CodePath GitHub](https://github.com/codepath)
-* [Code.org](https://code.org)
-* [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
-* [Jam](https://jam.com)
-* [Kano Playground](http://art.kano.me/playground)
-* [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Math Overflow](http://mathoverflow.net)
-* [Minecraft](https://minecraft.net)
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Pluralsight](https://www.pluralsight.com) and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
-* [Project Euler](http://www.projecteuler.net)  
-* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
-* [Project Euler Problems](http://projecteuler.net/problems)  
-* [Raspberry PI](http://www.raspberrypi.org)
-* [Rosetta Code](http://rosettacode.org)
-* [Scratch (MIT)](https://scratch.mit.edu)
-* [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
-* [Treehouse](https://teamtreehouse.com)
-* [W3Schools Web Development Tutorials](http://www.w3schools.com) 
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-* [Wolfram MathWorld](http://mathworld.wolfram.com)
-
-<!--
-https://github.com/MakeSchool
-
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
-
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
-
-https://github.com/jshomes/learning-resources
--->
-
-Free Code Camp
-* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
-* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
-* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
-* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
-* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
-* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-
-<!--
-http://www.theodinproject.com
-
-https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
-
-https://egghead.io/tags/free
-https://egghead.io/series/learn-to-use-vim
-https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
-https://egghead.io/lessons/javascript-intro-to-webpack
-https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
-
-HTML Graphics
-http://www.w3schools.com/canvas/default.asp
-Learn Canvas
-http://www.w3schools.com/canvas/default.asp
-Learn SVG
-http://www.w3schools.com/svg/default.asp
-Learn Icons
-http://www.w3schools.com/icons/default.asp
-Learn Google Maps
-http://www.w3schools.com/googleapi/default.asp
-Learn HTML Games
-http://www.w3schools.com/games/default.asp
-
-http://www.w3schools.com/appml/default.asp
-
-http://www.w3schools.com/website/default.asp
-http://www.w3schools.com/browsers/default.asp
-
-http://www.gnu.org/doc/other-free-books.html
--->
-
-Free Programming Books
-* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
-
-Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
-
-Twitch Creative- Accounts
-* [Twilio Twitch](http://www.twitch.tv/team/twilio)
-* [Brent Schooley](https://www.twitch.tv/brentschooley)
-* [Levelsio](http://www.twitch.tv/levelsio)
-
-<!--
-https://www.twitch.tv/team/twilio
-https://github.com/TwilioDevEd
-https://github.com/TwilioDevEd/appointment-reminders-django
-https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
-https://www.twilio.com/docs/api/video
-https://www.twilio.com/docs/tutorials
-https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/flask#0
--->
-
-Text Editor and Code Demonstration
-* [Fiddle](https://fiddles.io)
-* [JSFiddle](http://jsfiddle.net)
-* [Cloud9](https://c9.io/katherinemichel)
-* [Codepen](http://codepen.io)
-
-Documentation- General
-* [IT eBooks](http://it-ebooks.info)
-* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Packt](https://www.packtpub.com) [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-
-<!--
-http://www.oreilly.com/data/free/archive.html
-http://www.oreilly.com/design/free/design-in-venture-capital.csp
--->
-
-Documentation- Mozilla
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C (The World Wide Web Consortium) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org) and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-* [WICG (Web Incubator CG)](https://github.com/WICG)
-
-<!--
-Standards
-https://wicg.github.io/admin/charter.html
-https://github.com/WICG/incubation-template/blob/gh-pages/index.html
-https://github.com/whatwg/dom
-
-https://github.com/tabatkins/bikeshed
-https://github.com/tabatkins?tab=repositories
--->
-
-Free Software Foundation
-* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-GNU Software and Manuals
-* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
-* [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
-* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
-
-KDE and KHTML
-* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
-* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
-* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
-
-Archive Team
-* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
-
-Developer Surveys
-* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
-* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-* [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
-* ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
-
-#### Programming Language Style Guides
-
-GitHub StyleGuides
-* [GitHub StyleGuides](https://github.com/styleguide) 
-
-Styleguides- Various
-* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
-* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
-* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
-* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
-* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
-* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
-* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
-* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
-* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
-* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
-
-GitHub HTML and CSS Styleguides
-* [GitHub CSS Styleguide](http://primercss.io) 
-* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
-
-Google Styleguides
-* [Google Styleguides GitHub](https://github.com/google/styleguide)
-* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
-
-JavaScript Styleguide
-* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
-
-PHP Styleguides
-* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
-* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
-* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
-* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
-* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
-* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
-
-<!--
-PSR-0: Autoloader Standard
-PSR-1: Basic Coding Standard
-PSR-2: Coding Style Guide
-PSR-3: Logger Interface
-
-https://github.com/kciter/awesome-style-guide
--->
-
-Ruby Styleguide
-* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
-* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
-* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
-
-Objective C Styleguide
-* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
-* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
-
-Swift Styleguide
-* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
-
-
-
-
-
-#### Testing and Performance
-
-<!--
-https://hpbn.co
-http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
-http://shop.oreilly.com/product/0636920041528.do
--->
-
-<!--
-Responsive Design Tester
-http://responsivetest.net
-
-Manual check using emulators
-Online media query tester
-http://screenqueri.es
-6 free mobile emulators
-http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site
-Opera Mobile Emulator
-http://www.opera.com/developer/tools/mobile
--->
-
-W3 Validators
-* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
-* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
-* [W3C Link Checker](https://validator.w3.org/checklink)
-<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
-* [W3C Mobile Validator](http://validator.w3.org/mobile)
-* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
-
-<!--
-Run CSS Lint online
-http://csslint.net
-
-<rule name="MobileOK score of 75+">
--->
-
-Device Testing
-* [AWS Device Farm](https://aws.amazon.com/device-farm)
-* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
-* [Open Device Labs](http://OpenDeviceLab.com)
-
-Speed and Performance
-* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
-* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
-* [Netflix Fast](https://fast.com)
-* [Yahoo YSlow score of 85+](http://yslow.org)
-
-<!--
-Google’s Web Performance Best Practices
-https://developers.google.com/speed/docs/best-practices/rules_intro
-
-https://developers.google.com/speed/docs/insights/about
-https://developers.google.com/speed/docs/insights/OptimizeImages
-
-http://mobiforge.com/design-development/fixit-image-crunch
-
-http://wave.webaim.org/report
-https://www.w3.org/WAI/ER/tools
-https://www.w3.org/WAI/perspectives
-
-CSS Sprites
-Sprite Me
-http://spriteme.org
-
-Optimize images
-SmushIt.com
-http://www.smushit.com/ysmush.it
-http://www.imgopt.com
-PunyPNG.com
-http://punypng.com
-PNGGauntlet for Windows
-http://pnggauntlet.com
-Image Optim for Mac
-http://imageoptim.com
-
-http://www.responsimulator.com
-http://cssminifier.com
-CSS minification
-
-https://testmysite.thinkwithgoogle.com
-http://ready.mobi
-http://optimizilla.com
-https://tinypng.com
-http://yslow.org/faq
-http://www.imgopt.com
-https://en.wikipedia.org/wiki/Lossy_compression
-http://mobiletest.me
-
-https://search.google.com/search-console/mobile-friendly
-https://testmysite.thinkwithgoogle.com/
-https://www.bing.com/webmaster/tools/mobile-friendliness
-https://www.google.com/webmasters/tools/mobile-friendly
-
-https://website.grader.com
-
-http://www.speedtest.net
-http://www.dslreports.com/speedtest
--->
-
-Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
-* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [New Relic](http://newrelic.com)
-* [Sentry](http://getsentry.com)
-
-<!--
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
--->
-
-A/B Testing
-* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-
-App Invites or Beta Testing
-* [Google App Invites](https://developers.google.com/app-invites)
-* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-Accessibility
-* [WebAIM](http://webaim.org)
-* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
-* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
-* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
-* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
-* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
-
-<!--
-https://ft-interactive.github.io/accessibility
--->
-
-Microsoft Inclusion Approach
-* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
-
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
-
-<!--
-https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
-[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
-[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
-
-[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
-[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
-[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
-[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
-
-[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
-[Blame Stella](https://www.blamestella.com/)
-[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
-[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
-[Basecamp](http://basecamp.com/)
--->
-
-<!--
-Play Version Manager
-https://github.com/kaiinkinen/pvm
-
-What you should know
-http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
-
-IntelliJ IDEA Spell Checker
-http://www.jetbrains.com/idea/webhelp/spellchecking.html
-
-Check website in all browsers
-BrowserShots.org
-http://browsershots.org
-Browserling.com
-https://browserling.com
-Spoon.net
-http://spoon.net/browsers
-
-Decide on www-subdomain
-no-www.org score of 'B'
-http://no-www.org
-...or www.yes-www.org
-http://www.yes-www.org
-Handle 'www' in web.config
-http://madskristensen.net/post/url-rewrite-and-the-www-subdomain
-
-Remove 'www' subdomain
-Add the attribute rel='nofollow' to user-generated links to avoid spam
-Redirect after a POST to prevent a refresh from submitting again
-
-Use 'viewport' meta-tag
-Don’t Forget the Viewport Meta Tag
-http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag
-Make your website mobile friendly
-http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx
-
-Use correct input types
-Input type: Email, Url, Phone
-http://html5tutorial.info/html5-contact.php
-Diving in to HTML5 forms
-http://diveintohtml5.info/forms.html
-
-Analytics
-Uptime monitoring
-Uptime robot
-http://www.uptimerobot.com
-Pingdom Website Monitor
-https://www.pingdom.com
-GotSiteMonitor.com
-http://www.gotsitemonitor.com
-
-http://tools.pingdom.com/fpt
-
-Traffic analysis"> (Google Analytics)
-StatCounter
-http://statcounter.com
-Clicky
-http://clicky.com
-Piwik
-http://piwik.org
-
-Optimize HTTP headers
-redbot.org
-http://redbot.org
-
-Cloud optimizations
-Reduce I/O to disk
-http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2
-
-Static resources
-Add long TTL with Cache-Control
-http://www.playframework.org/documentation/2.0.4/Assets
-Minify Javascript
-http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler
-Minify CSS
-http://www.cssminifier.com
-Use HTML 5 Manifest
-http://diveintohtml5.info/offline.html
-
-A more useful 404
-http://www.alistapart.com/articles/amoreuseful404
-
-Favicon Cheat Sheet
-http://github.com/audreyr/favicon-cheat-sheet
-
-Use friendly URLs
-11 best practices for URLs
-http://www.seomoz.org/blog/11-best-practices-for-urls
-URL rewriting in IIS
-http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference
-URL rewrite in Apache
-http://httpd.apache.org/docs/current/mod/mod_rewrite.html
-
-Print-friendly CSS
-Set up a print stylesheet
-http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet
-Have a unified notification system across app
-Don't display unfriendly errors directly to the user
-Environment Integration
-Safari on iOS
-http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
-
-Internet Explorer on Windows
-http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx
-Windows 8 Tiles
-http://www.buildmypinnedsite.com
-
-A/B Testing
-ABalytics
-https://github.com/danmaz74/ABalytics
-
-HTML validation
-Dr. Watson
-http://watson.addy.com
-
-Verify source code (Scala)
-Scala Style
-http://www.scalastyle.org
-SCCT
-http://mtkopone.github.com/scct
-
-Automated testing
-Testomato
-http://www.testomato.com
-
-Accessibility validation
-Common problems and solutions
-http://accessibility.oit.ncsu.edu/accessibleu/problems.html
- 
-WAI-ARIA Landmarks">
-Using WAI-ARIA Landmarks
-http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration
-Guide to WAI-ARIA
-http://www.alistapart.com/articles/the-accessibility-of-wai-aria
-Practical examples
-http://www.punkchip.com/2010/11/aria-basic-findings
-
-Security
-Follow best practices
-https://asafaweb.com/">ASafaaWeb security analyzer
-OWASP Top 10 project
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
-OWASP Cheat Sheets
-https://www.owasp.org/index.php/Cheat_Sheets
-CWE/SANS Top 25
-http://cwe.mitre.org/top25
-
-Cross-site scripting
-XSS cheat sheet
-https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
-DOM based XSS cheat sheet
-https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
-Free XSS scanner
-http://www.acunetix.com/cross-site-scripting/scanner
-
-Cross-site request forgery
-Explanation and walkthrough
-http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html
-CSRF cheat sheet
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
-
-Secure Passwords
-BCrypt
-http://www.mindrot.org/projects/jBCrypt
-SCrypt
-https://github.com/wg/scrypt
-
-Hash passwords using salt to prevent rainbow attacks
-Secure connection (SSL)
-Setup SSL on Play 2
-http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl
-Setup SSL on Apache
-http://www.digicert.com/ssl-certificate-installation-apache.htm
-SSL Server Test
-https://www.ssllabs.com/ssltest
-
-X-Frame-Options
-https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
-
-HTTP Strict Transport Security
-https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
-
-Content Security Policy
-https://developer.chrome.com/extensions/contentSecurityPolicy
-https://developer.mozilla.org/en-US/docs/Web/Security/CSP
-https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
-https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy
-
-The Open Web Application Security Project
-https://en.wikipedia.org/wiki/OWASP
-Content Security Policy
-https://en.wikipedia.org/wiki/Content_Security_Policy
-
-CSP (Content Security Policy)
-https://github.com/yandex/csp-tester
-http://www.html5rocks.com/en/tutorials/security/content-security-policy
-https://www.owasp.org/index.php/Content_Security_Policy
-
-OWASP (The Open Web Application Security Project) Overview
-https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
-
-How Google works
-http://ppcblog.com/how-google-works
--->
-
-
-
-#### Back-End Programming Languages, MVCs
-
-Chomsky Hierarchy and Automata
-* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
-* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
-* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
-
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-
-Bracket Notation and Zero-Based Numbering
-* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
-* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-
-<!--
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-
-https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
--->
-
-Programming Languages
-* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-
-Miscellaneous Programming Languages
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
-* [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
-* [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
-* [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
-* [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
-* [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
-* [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
-* [Angular Dart GitHub](https://github.com/angular/angular.dart)  
-* [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
-* [Julia GitHub](https://github.com/JuliaLang/julia)  
-* [Hack](http://hacklang.org) and [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
-* [Haskell](http://www.haskell.org/haskellwiki/Haskell), [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language)), and [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
-* [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
-* [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
-* [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
-* [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
-* Apple- Swift
-
-Golang, otherwise known as "Go"
-* [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
-* [Golang](http://golang.org)  
-* [Learn X in Y Minutes Golang](https://learnxinyminutes.com/docs/go)
-* [Golang Documentation](http://golang.org/doc)  
-* [Golang Packages](http://golang.org/pkg)  
-* [Golang Search](http://go-search.org)  
-* [Golang Play](http://play.golang.org)  
-* [Golang Talks](https://talks.golang.org)
-* [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
-* [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
-
-<!--
-https://gobyexample.com
-https://tour.golang.org/welcome/1
-
-https://golang.org/dl
-https://gist.github.com/jcbwlkr/2cbe72427f9cbc41bfbb7972d62429d8
--->
-
-Golang, Users
-* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
-
-Golang Installation
-* [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
-
-Golang- Frameworks
-* [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
-* [Gin GitHub](https://github.com/gin-gonic/gin) 
-* [Martini GitHub](https://github.com/go-martini/martini)
-* [Revel GitHub](https://github.com/revel/revel)
-
-<!--
-http://gohugo.io
-https://github.com/spf13/hugo
--->
-
-Java- General
-* [Java Website](http://www.java.com/en)  
-* [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
-* [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
-* [Java](http://www.oracle.com/technetwork/java/index-jsp-135888.html)  
-* [Java Documentation](http://www.oracle.com/technetwork/documentation/index.html#java)  
-* [Java Programming Language Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
-* [Java Programming Language Tutorials](http://docs.oracle.com/javase/tutorial)  
-* [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)  
-* [Java Core Libraries](http://openjdk.java.net/groups/core-libs)  
-* [Java ME Reference](http://www.oracle.com/technetwork/java/javame/documentation/index.html)  
-* [NetBeans Docs](https://netbeans.org/kb/index.html)  
-* [NetBeans Plugins](http://plugins.netbeans.org/)  
-* [Eclipse Docs](http://help.eclipse.org/kepler/index.jsp)  
-* [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
-* [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet)  
 
 #### JavaScript
 
@@ -6396,6 +3750,377 @@ https://djangogirls.org/pyconuk2016/
 http://il.pycon.org/2016/about/speakers.html
 -->
 
+
+
+#### Testing and Performance
+
+<!--
+https://hpbn.co
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
+http://shop.oreilly.com/product/0636920041528.do
+-->
+
+<!--
+Responsive Design Tester
+http://responsivetest.net
+
+Manual check using emulators
+Online media query tester
+http://screenqueri.es
+6 free mobile emulators
+http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site
+Opera Mobile Emulator
+http://www.opera.com/developer/tools/mobile
+-->
+
+W3 Validators
+* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+* [W3C Link Checker](https://validator.w3.org/checklink)
+<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
+* [W3C Mobile Validator](http://validator.w3.org/mobile)
+* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
+
+<!--
+Run CSS Lint online
+http://csslint.net
+
+<rule name="MobileOK score of 75+">
+-->
+
+Device Testing
+* [AWS Device Farm](https://aws.amazon.com/device-farm)
+* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
+* [Open Device Labs](http://OpenDeviceLab.com)
+
+Speed and Performance
+* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
+* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
+* [Netflix Fast](https://fast.com)
+* [Yahoo YSlow score of 85+](http://yslow.org)
+
+<!--
+Google’s Web Performance Best Practices
+https://developers.google.com/speed/docs/best-practices/rules_intro
+
+https://developers.google.com/speed/docs/insights/about
+https://developers.google.com/speed/docs/insights/OptimizeImages
+
+http://mobiforge.com/design-development/fixit-image-crunch
+
+http://wave.webaim.org/report
+https://www.w3.org/WAI/ER/tools
+https://www.w3.org/WAI/perspectives
+
+CSS Sprites
+Sprite Me
+http://spriteme.org
+
+Optimize images
+SmushIt.com
+http://www.smushit.com/ysmush.it
+http://www.imgopt.com
+PunyPNG.com
+http://punypng.com
+PNGGauntlet for Windows
+http://pnggauntlet.com
+Image Optim for Mac
+http://imageoptim.com
+
+http://www.responsimulator.com
+http://cssminifier.com
+CSS minification
+
+https://testmysite.thinkwithgoogle.com
+http://ready.mobi
+http://optimizilla.com
+https://tinypng.com
+http://yslow.org/faq
+http://www.imgopt.com
+https://en.wikipedia.org/wiki/Lossy_compression
+http://mobiletest.me
+
+https://search.google.com/search-console/mobile-friendly
+https://testmysite.thinkwithgoogle.com/
+https://www.bing.com/webmaster/tools/mobile-friendliness
+https://www.google.com/webmasters/tools/mobile-friendly
+
+https://website.grader.com
+
+http://www.speedtest.net
+http://www.dslreports.com/speedtest
+-->
+
+Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
+* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [New Relic](http://newrelic.com)
+* [Sentry](http://getsentry.com)
+
+<!--
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+-->
+
+A/B Testing
+* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
+* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+
+App Invites or Beta Testing
+* [Google App Invites](https://developers.google.com/app-invites)
+* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+Accessibility
+* [WebAIM](http://webaim.org)
+* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
+* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
+* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
+* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
+
+<!--
+https://ft-interactive.github.io/accessibility
+-->
+
+Microsoft Inclusion Approach
+* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
+
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
+<!--
+https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
+[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
+[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
+
+[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
+[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
+[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
+[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
+
+[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
+[Blame Stella](https://www.blamestella.com/)
+[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
+[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
+[Basecamp](http://basecamp.com/)
+-->
+
+<!--
+Play Version Manager
+https://github.com/kaiinkinen/pvm
+
+What you should know
+http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
+
+IntelliJ IDEA Spell Checker
+http://www.jetbrains.com/idea/webhelp/spellchecking.html
+
+Check website in all browsers
+BrowserShots.org
+http://browsershots.org
+Browserling.com
+https://browserling.com
+Spoon.net
+http://spoon.net/browsers
+
+Decide on www-subdomain
+no-www.org score of 'B'
+http://no-www.org
+...or www.yes-www.org
+http://www.yes-www.org
+Handle 'www' in web.config
+http://madskristensen.net/post/url-rewrite-and-the-www-subdomain
+
+Remove 'www' subdomain
+Add the attribute rel='nofollow' to user-generated links to avoid spam
+Redirect after a POST to prevent a refresh from submitting again
+
+Use 'viewport' meta-tag
+Don’t Forget the Viewport Meta Tag
+http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag
+Make your website mobile friendly
+http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx
+
+Use correct input types
+Input type: Email, Url, Phone
+http://html5tutorial.info/html5-contact.php
+Diving in to HTML5 forms
+http://diveintohtml5.info/forms.html
+
+Analytics
+Uptime monitoring
+Uptime robot
+http://www.uptimerobot.com
+Pingdom Website Monitor
+https://www.pingdom.com
+GotSiteMonitor.com
+http://www.gotsitemonitor.com
+
+http://tools.pingdom.com/fpt
+
+Traffic analysis"> (Google Analytics)
+StatCounter
+http://statcounter.com
+Clicky
+http://clicky.com
+Piwik
+http://piwik.org
+
+Optimize HTTP headers
+redbot.org
+http://redbot.org
+
+Cloud optimizations
+Reduce I/O to disk
+http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2
+
+Static resources
+Add long TTL with Cache-Control
+http://www.playframework.org/documentation/2.0.4/Assets
+Minify Javascript
+http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler
+Minify CSS
+http://www.cssminifier.com
+Use HTML 5 Manifest
+http://diveintohtml5.info/offline.html
+
+A more useful 404
+http://www.alistapart.com/articles/amoreuseful404
+
+Favicon Cheat Sheet
+http://github.com/audreyr/favicon-cheat-sheet
+
+Use friendly URLs
+11 best practices for URLs
+http://www.seomoz.org/blog/11-best-practices-for-urls
+URL rewriting in IIS
+http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference
+URL rewrite in Apache
+http://httpd.apache.org/docs/current/mod/mod_rewrite.html
+
+Print-friendly CSS
+Set up a print stylesheet
+http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet
+Have a unified notification system across app
+Don't display unfriendly errors directly to the user
+Environment Integration
+Safari on iOS
+http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
+
+Internet Explorer on Windows
+http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx
+Windows 8 Tiles
+http://www.buildmypinnedsite.com
+
+A/B Testing
+ABalytics
+https://github.com/danmaz74/ABalytics
+
+HTML validation
+Dr. Watson
+http://watson.addy.com
+
+Verify source code (Scala)
+Scala Style
+http://www.scalastyle.org
+SCCT
+http://mtkopone.github.com/scct
+
+Automated testing
+Testomato
+http://www.testomato.com
+
+Accessibility validation
+Common problems and solutions
+http://accessibility.oit.ncsu.edu/accessibleu/problems.html
+ 
+WAI-ARIA Landmarks">
+Using WAI-ARIA Landmarks
+http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration
+Guide to WAI-ARIA
+http://www.alistapart.com/articles/the-accessibility-of-wai-aria
+Practical examples
+http://www.punkchip.com/2010/11/aria-basic-findings
+
+Security
+Follow best practices
+https://asafaweb.com/">ASafaaWeb security analyzer
+OWASP Top 10 project
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+OWASP Cheat Sheets
+https://www.owasp.org/index.php/Cheat_Sheets
+CWE/SANS Top 25
+http://cwe.mitre.org/top25
+
+Cross-site scripting
+XSS cheat sheet
+https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
+DOM based XSS cheat sheet
+https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
+Free XSS scanner
+http://www.acunetix.com/cross-site-scripting/scanner
+
+Cross-site request forgery
+Explanation and walkthrough
+http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html
+CSRF cheat sheet
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
+
+Secure Passwords
+BCrypt
+http://www.mindrot.org/projects/jBCrypt
+SCrypt
+https://github.com/wg/scrypt
+
+Hash passwords using salt to prevent rainbow attacks
+Secure connection (SSL)
+Setup SSL on Play 2
+http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl
+Setup SSL on Apache
+http://www.digicert.com/ssl-certificate-installation-apache.htm
+SSL Server Test
+https://www.ssllabs.com/ssltest
+
+X-Frame-Options
+https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
+
+HTTP Strict Transport Security
+https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
+
+Content Security Policy
+https://developer.chrome.com/extensions/contentSecurityPolicy
+https://developer.mozilla.org/en-US/docs/Web/Security/CSP
+https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
+https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy
+
+The Open Web Application Security Project
+https://en.wikipedia.org/wiki/OWASP
+Content Security Policy
+https://en.wikipedia.org/wiki/Content_Security_Policy
+
+CSP (Content Security Policy)
+https://github.com/yandex/csp-tester
+http://www.html5rocks.com/en/tutorials/security/content-security-policy
+https://www.owasp.org/index.php/Content_Security_Policy
+
+OWASP (The Open Web Application Security Project) Overview
+https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
+
+How Google works
+http://ppcblog.com/how-google-works
+-->
+
+
+
+
 #### Deployment and Cloud
 
 Status
@@ -7474,6 +5199,2279 @@ Cookies
 SAP
 * [SAP](http://go.sap.com/index.html)
 
+
+
+
+
+
+#### Computer Basics
+
+Ergonomics 
+* [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
+* [f.lux](https://justgetflux.com)
+* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
+* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
+* [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
+* [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
+* [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
+
+<!--
+https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard
+Mechanical keyboard
+Vertical mouse
+Natural ergonomic keyboard
+
+http://www.mindbodygreen.com/0-3972/How-Yoga-Healed-My-Carpal-Tunnel-Syndrome.html
+
+http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow
+-->
+
+Wikipedia Portals
+* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+History of Technology and Computer Science
+* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
+* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
+* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+
+<!--
+https://en.wikibooks.org/wiki/Open_Metadata_Handbook
+-->
+
+Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+
+Famous Literature
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar)
+
+<!--
+http://www.catb.org/~esr/faqs/hacker-howto.html
+-->
+
+Great Unsolved Problems in Computer Science
+* [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
+
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+Computer Classes and Sizes
+* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
+
+Smartphones (See also Mobile)
+* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
+* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+
+Microprocessor, CPU and Instruction Set
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+Client Server
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+
+Internet Service Provider
+* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
+
+Port and Host
+* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
+* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
+* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+
+IP
+* [IP Address Wikipedia](https://en.wikipedia.org/wiki/IP_address)
+* [IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
+* [Virtual IP Address Wikipedia](https://en.wikipedia.org/wiki/Virtual_IP_address)
+
+Domain Name
+* [Domain Name Wikipedia](https://en.wikipedia.org/wiki/Domain_name)
+* [Domain Name System Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
+* [Top Level Domain Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
+* [CNAME Record Wikipedia](https://en.wikipedia.org/wiki/CNAME_record)
+* [Root Name Server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
+
+<!--
+http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
+http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
+http://en.wikipedia.org/wiki/Domain_registration#History
+
+https://en.wikipedia.org/wiki/Round-robin_DNS
+Least Connections
+-->
+
+URL and IRI
+* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
+* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
+
+<!--
+https://en.wikipedia.org/wiki/UUID
+-->
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+<!--
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+https://en.wikipedia.org/wiki/Parsing
+
+https://en.wikipedia.org/wiki/HTTP_cookie
+
+HTTP protocol defaults to port 80 and HTTPS defaults to port 443
+https://technet.microsoft.com/en-us/library/bb962069.aspx
+-->
+
+More
+* [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
+* [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network) 
+* [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
+* [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
+* [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
+
+File Types and Extensions
+* [File Types and Extensions](http://fileinfo.com)
+
+32 Bit vs. 64 Bit
+* [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
+
+Malware and Encryption
+* [hackerone](https://hackerone.com)
+* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
+* [Malware Museum](https://archive.org/details/malwaremuseum)
+
+Naming Conventions
+* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
+* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
+* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
+
+Local Terms
+* [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
+* [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
+* [Environmental Variable Wikipedia](hhttps://en.wikipedia.org/wiki/Environment_variable) 
+* [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
+* [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
+* [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
+* [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Utilities
+* [Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
+* [Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
+* [Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
+* [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
+* [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering) 
+
+Important Concepts
+* [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+
+Miscellaneous Vocab
+* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
+* [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
+* [Cross Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
+* [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
+
+<!--
+https://en.wikipedia.org/wiki/Code_refactoring
+-->
+
+Line Endings
+* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
+* [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
+
+Anywhere on Earth
+* [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
+
+<!--
+http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
+
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+-->
+
+<!--
+http://docs.openstack.org/developer/nova/
+https://wiki.openstack.org/wiki/Horizon
+http://docs.openstack.org/developer/horizon/
+-->
+
+#### Encoding
+
+Encoding
+* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+
+ASCII
+* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
+* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
+Bytcote versus Unicode
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+
+HTML5 Charactersets
+* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+
+Alt Codes- PC
+* [Alt Codes](http://usefulshortcuts.com/alt-codes) and [Alt Codes Cheat Sheet](http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf)
+
+<!--
+https://www.w3.org/International/getting-started/characters
+https://www.w3.org/International/articles/definitions-characters
+-->
+
+#### Operating System, Browser, Layout Engine
+
+Operating Systems
+* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+
+Web Browser
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
+
+Web Browser and JavaScript Engines (See also JavaScript)- General
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
+* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
+* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
+
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+#### Unix and Linux General
+
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
+
+Linux
+* [Linux](http://www.linux.org)  
+* [Canonical](http://www.canonical.com)  
+* [Linux Foundation](http://www.linuxfoundation.org)  
+* [Linux.com](http://www.linux.com)  
+* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
+* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
+* [Linux GitHub](https://github.com/torvalds/linux)  
+* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
+* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
+* [Linux Journal](http://www.linuxjournal.com) 
+
+Linux- Ubuntu (Debian)
+* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
+* [Ubuntu](http://www.ubuntu.com)  
+* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
+
+Linux- Ubuntu Dual Boot
+* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
+* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
+* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
+
+Ubuntu- + Programs
+* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
+* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
+* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
+* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
+
+Linux- Other Popular Distributions
+* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
+* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
+* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
+* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
+* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
+* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
+* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
+* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports) 
+
+#### Mojombo Chromebook Recommendation
+
+* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
+* [Google Chromebook](http://www.google.com/chromebook)
+* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
+* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
+* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
+* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
+* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+
+Chromebook Ubuntu Installation
+* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
+* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
+* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
+* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
+* [Crouton GitHub](https://github.com/dnschneid/crouton)  
+
+<!--
+How to get Chrome Goodies for your Chromebook
+https://support.google.com/chromebook/answer/2703646?p=driveoffer&rd=1
+http://acer.custhelp.com/app/answers/detail/a_id/10755/~/how-do-i-download-and-manage-files-on-my-acer-chromebook%3F
+Welcome to the Chromebook Help Center
+https://support.google.com/chromebook
+Open, save, or delete files with the Files app
+https://support.google.com/chromebook/answer/1700055?hl=en&rd=1
+Supported file types and external devices
+https://support.google.com/chromebook/answer/183093
+-->
+
+#### Apple General
+
+Apple Posters of Ago
+* [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
+
+Apple El Capitan
+* [El Capitan](https://help.apple.com/osx-elcapitan)
+* [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
+* [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
+
+<!--
+http://www.gmyle.com/collections/year-end-clearance-sale?page=1
+http://www.amazon.com/gp/product/B00G9DQJXO/ref=s9_top_hd_bw_b3NTTT1_g147_i3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=1M4E6M9T5DTCSF3G8PBY&pf_rd_t=101&pf_rd_p=f47208ae-f563-54fe-900f-bc055dbb8823&pf_rd_i=3095279011
+http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air+accessories&page=2&keywords=macbook+air+accessories&ie=UTF8&qid=1457656850&spIA=B00G9DQJXO,B010UFRNP4,B00LSJV5B0
+-->
+
+Apple- Utilities
+* [iTunes](https://www.apple.com/itunes)
+
+Apple Presentation and Design (See also Keynotopia)
+* [Keynote](https://www.apple.com/mac/keynote)
+* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com) and [Think](http://www.fiftythree.com/think)
+* [Sketch](https://www.sketchapp.com)
+* [Keynotopia](http://keynotopia.com)
+* [Keynote Kung-Fu](http://keynotekungfu.com)
+
+<!--
+http://www.sketchappsources.com
+-->
+
+Apple MacBook Air
+* [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
+
+Apple- Refurbished, Clearance, Reuse, Recycling
+* [Apple Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
+* [Apple Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
+* [Apple Recycling](http://www.apple.com/recycling)
+
+Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
+* [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
+
+Apple- Windows (See also: VMware, Vagrant, VirtualBox)
+* [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
+* ["How to install Windows using Boot Camp"](https://support.apple.com/en-us/HT201468)  
+* ["Use Windows 10 on your Mac with Boot Camp"](https://support.apple.com/en-us/HT204990)
+* [Parallels](http://www.parallels.com)
+* [VMware Fusion](http://www.vmware.com/products/fusion)
+* [Wine](https://www.winehq.org)
+* [Winclone](http://twocanoes.com/products/mac/winclone)
+* External Hard Drive, USB SSD, Western Digital Terabyte
+
+<!--
+http://kb.parallels.com/123553
+http://kb.parallels.com/en/118158
+http://kb.parallels.com/en/113972
+-->
+
+Apple- Support
+* [Apple Support](http://www.apple.com/support) 
+
+Mac Update
+* [Mac Update](http://www.macupdate.com)
+
+Mac Keyboard Shortcuts
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
+* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
+
+<!--
+Use Activity Monitor on Your Mac
+https://support.apple.com/en-us/HT201464
+
+https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
+
+https://support.apple.com/en-us/HT201541
+https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+-->
+
+#### Development Environment and Programming
+
+#### Apple Developer Tools
+
+Mac OS X 
+* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
+* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
+
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Apple iOS
+* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+MacPorts
+* [MacPorts](https://guide.macports.org)
+
+Mac OS X Directory Strucure and Listing Applications
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+
+Apple Developer Program Membership
+* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
+* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
+* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
+
+Apple Developer and Open Source
+* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
+* [Apple Developer Forum](https://forums.developer.apple.com)
+* [Apple Open Source](https://developer.apple.com/opensource)
+* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
+
+Apple Developer Tools
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
+* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
+* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+App Store Submission
+* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
+* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
+* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
+
+Apple- More
+* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+
+Apple- Kits
+* [ResearchKit and Carekit](http://www.apple.com/researchkit)
+* [Watchkit](https://developer.apple.com/watchkit) 
+
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+<!--
+https://developer.apple.com/reference/applepayjs
+https://developer.apple.com/reference/accelerate/1912851-bnns
+https://developer.apple.com/sirikit
+https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
+-->
+
+#### Google Developer Tools
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Developers- Web
+* [Google Developer Web](https://developers.google.com/web)
+
+Google Developers- Google Chrome Doc
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
+* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
+* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
+* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
+* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
+* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
+
+<!--
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+https://developers.google.com/web/tools/setup/setup-workflow
+https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
+https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
+-->
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Developers- Google Chrome Tools
+* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+<!--
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://developers.google.com/cast/docs/developers
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools
+https://developer.chrome.com/devtools/docs
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+Miscellaneous
+https://bugs.chromium.org/p/v8/issues/list
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+
+Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript
+-->
+
+Chrome Extensions
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
+* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
+* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+
+<!--
+chrome://apps
+
+https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+
+http://docs.ionic.io/docs/chrome-inspector
+-->
+
+#### Microsoft Developer Tools
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+<!--
+https://www.microsoft.com/en-us/software-download/windows10ISO
+-->
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
+
+Windows SSH and Telnet Client
+* [PuTTY](http://www.putty.org)
+
+<!--
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+-->
+
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
+
+#### Mozilla Developer Tools
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
+
+<!--
+https://testpilot.firefox.com
+
+Browser Statistics
+
+http://www.gnu.org/software/coreutils/manual/coreutils.html
+
+http://ftp.gnu.org
+http://gcc.gnu.org
+
+http://en.wikipedia.org/wiki/GNU_readline
+https://en.wikipedia.org/wiki/GNU_Hurd
+-->
+
+#### Command Line and Shell
+
+See also Bash and PowerShell<br>
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile<br>
+
+Unix
+* [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
+* [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix Shell and File system
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+* [Guide to Unix/Commands Wikibook](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands) and [Guide to Unix/Commands/File System Utilities Wikibook](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+POSIX (Compatible with Unix)
+* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+The Linux Documentation Project
+* [The Linux Documentation Project](http://www.tldp.org)
+* [Linux Documentation Project Guides](http://www.tldp.org/LDP)
+
+Linux- More Resources
+* [Linux Command](http://linuxcommand.org) 
+* [Linux in a Nutshell](http://it-ebooks.info/book/403)
+
+Linux- Ubuntu (Debian)
+* [Ubuntu Manpage Repository](http://manpages.ubuntu.com) and [Ubuntu Community Help Wiki](https://help.ubuntu.com/community )
+
+Ubuntu Terminal, Command Line, and Aptget
+* [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
+* [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
+* [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
+
+Command Line
+* [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
+* [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
+* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book)  
+* [Learn the Command Line the Hard Way Commands List](http://cli.learncodethehardway.org/book/ex1.html) 
+
+<!--
+Terminal Commands, Inspired by [Zed A. Shaw: The Command Line Crash Course Commands Lists]
+(Command, then relevant variable)
+-->
+
+Shell
+* [Shell Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
+* [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
+* [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
+
+Comparison of Command Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+
+SS64 (Command Line Reference (CMD, PowerShell, Bash, OS X, Access, VB Script, Oracle, SQL Server, CSS, Convert MB/GB))
+* [SS64](http://ss64.com)
+
+Mac OS X- Terminal, Bash (Unix)
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [SS64 OS X Reference](http://ss64.com/osx) and [SS64 Bash Reference](http://ss64.com/bash)
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Bash Homepage](https://www.gnu.org/software/bash), [Bash Manual](http://www.gnu.org/software/bash/manual), and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
+* [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
+* [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
+* [Bash Shell Scripting Wikibook](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+* [Learn to Code the Hard Way- Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) 
+
+Shell and Bash Builtins
+* [Shell Builtins Wikipedia](https://en.wikipedia.org/wiki/Shell_builtin)
+* [Bash Reference Manual- Shell Builtin Commands](http://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html)
+* [Bash Reference Manual- Builtins](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html)
+
+Sha-Bang/Shebang
+* [Sha-Bang](http://tldp.org/LDP/abs/html/sha-bang.html) and [Shebang (Unix) Wikipedia](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+
+Notable Terminology
+* [sudo (superuser do) Wikipedia](https://en.wikipedia.org/wiki/Sudo)
+* [chmod Wikipedia](https://en.wikipedia.org/wiki/Chmod)
+* [chown Wikipedia](https://en.wikipedia.org/wiki/Chown)
+* [chroot Wikipedia](https://en.wikipedia.org/wiki/Chroot)
+
+cURL and Wget
+* [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
+* [WGet](https://www.gnu.org/software/wget)
+
+Nano
+* [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
+* [Nano Basics Guide](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
+
+Windows- PowerShell
+* [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
+* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
+* [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
+* [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
+* [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
+
+Emacs and Vim (Text Editors)
+* [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
+* [Emacs Manual](http://www.gnu.org/software/emacs/manual) and [Emacs Manual Intro](http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro)
+* [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
+* [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
+* [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
+* [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
+* [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+* [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
+
+Emacs for Mac or Linux
+* [Emacs for Mac OS X](https://emacsformacosx.com)
+* [Installing Emacs on GNU/Linux](http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux)
+
+<!--
+https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
+https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
+-->
+
+Zsh (Bash Alternative)
+* [Zsh (Bash (Shell) Alternative)](http://www.zsh.org)  
+* [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh) 
+
+More Shell/Text Editors (See also Visual Studio and XCode)
+* [Sublime Text Editor](http://www.sublimetext.com)
+* [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
+* [Textmate](http://macromates.com)  
+* [Orgmode.org](http://orgmode.org)  
+* [Orgmode.org/features](http://orgmode.org/features.html)  
+* [.emacs.d](https://github.com/seshness/.emacs.d)  
+* [Lighttable](http://www.lighttable.com)  
+
+TextWrangler (Recommended for Hard to Edit Files)
+* [TextWrangler](http://www.barebones.com/products/textwrangler)
+
+Unix Shell (See also Unix)
+* [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
+* [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
+* [Z Shell Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
+* [Rsync Wikipedia](http://en.wikipedia.org/wiki/Rsync) 
+
+Integrated Development Environment
+* [Integrated Development Environment Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
+* [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_Unix_daemons
+
+https://en.wikipedia.org/wiki/Tilde
+
+https://en.wikipedia.org/wiki/Option_key
+https://en.wikipedia.org/wiki/Meta_key
+
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/bash.1.html#//apple_ref/doc/man/1/bash
+
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/grep.1.html
+
+https://en.wikibooks.org/wiki/Grep
+https://en.wikibooks.org/wiki/AWK
+https://en.wikibooks.org/wiki/Sed
+
+http://pubs.opengroup.org/onlinepubs/9699919799/
+http://pubs.opengroup.org/onlinepubs/009696699/utilities/contents.html
+
+Using Make
+http://www.tldp.org/HOWTO/Software-Building-HOWTO-3.html
+
+Bash Tutorials
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/LDP/abs/html/sample-bashrc.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html
+http://www.tldp.org/LDP/abs/html
+http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+
+http://linux.die.net/man/1/bash
+
+https://help.ubuntu.com/community/UsingTheTerminal
+http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
+
+https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
+
+http://www.unix.com/man-page/posix/1posix/eval
+
+https://en.wikipedia.org/wiki/Batch_file
+-->
+
+#### Keyboard Shortcuts
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+Emoji and Other Funny Keyboard Shortcode 
+* [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
+* [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
+* [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
+
+#### Dot Files
+
+See also Startup Engineering MOOC<br>
+
+Hidden File and Hidden Directory Wikipedia
+* [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
+
+Dot Files
+* [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
+* [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
+* [Dotfiles](http://dotfiles.github.io)  
+* [Ashe Dryden Dotfiles GitHub](https://github.com/ashedryden/dotfiles)
+* [Cătălin’s Dotfiles GitHub](https://github.com/alrra/dotfiles)
+* [Holman Dotfiles GitHub](https://github.com/holman/dotfiles)  
+* [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
+* [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
+* [Jessica Lord GitHub](https://github.com/jlord/dotfiles)
+* [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
+* [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
+* [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
+* [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [YADR GitHub](https://github.com/skwp/dotfiles)
+
+#### Git and Markdown
+
+Concurrent Version System
+* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
+* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
+
+Git Origin
+* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+* [Git GitHub](https://github.com/git/git)  
+* [Git Mojombo GitHub](https://github.com/mojombo/git)  
+* [Git GitHub](https://github.com/xlymian/git) 
+
+Git
+* [Git Homepage](https://git-scm.com)
+* [Git Book](http://git-scm.com/book)
+* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
+* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
+ 
+Learn X in Y Minutes Git and Markdown
+* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
+* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
+
+<!--
+https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
+http://git-scm.com/book/en/Git-Basics-Tagging
+https://git-scm.com/docs/git-tag
+https://git-scm.com/docs/git-merge
+
+http://git-scm.com/book/ch3-2.html
+http://git-scm.com/book/ch9-5.html
+
+http://gitref.org/branching
+
+Git Branching
+http://www.atlassian.com/git/tutorial/git-branches#!branch
+-->
+
+Git- Official Learning Resources
+* [Try Git](https://try.github.io)
+* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+* [Git Book](http://www.git-scm.com/book/en)  
+* [Git Docs](https://git-scm.com/docs) 
+* [Git Documentation](https://git-scm.com/documentation)
+* [Git Videos](http://www.git-scm.com/videos)  
+* [Git Downloads](http://git-scm.com/downloads) 
+
+Git Cheat Sheets and Tutorials
+* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
+* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
+* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
+* [Git Index](http://gitref.org)  
+* [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
+
+GitHub- Main
+* [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+* [GitHub Features (Code Review, ect.)](https://github.com/features)
+* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
+* [GitHub Help](https://help.github.com)  
+* [GitHub Training](http://training.github.com)  
+* [GitHub Bootcamp](https://help.github.com/categories/bootcamp) 
+* [GitHub Blog](https://github.com/blog)  
+* [GitHub Guides](https://guides.github.com) 
+* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+<!--
+http://githubuniverse.com/watch
+https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
+
+Recommended
+https://www.git-tower.com
+
+https://git-for-windows.github.io
+
+https://try.github.io/levels/1/challenges/1
+
+https://help.github.com/articles/github-terms-of-service
+
+https://github.com/github/training-kit
+https://github.com/github-archive
+https://github.com/github-archive/training.github.com
+https://github.com/github/teach.github.com
+https://github.com/jlord/git-it
+
+https://guides.github.com/introduction/flow
+https://help.github.com/articles/about-repository-graphs#traffic
+
+https://github.com/github/hub
+
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
+https://help.github.com/articles/set-up-git
+https://help.github.com/articles/caching-your-github-password-in-git/
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
+
+https://github.com/blog/2228-simpler-github-pages-publishing
+
+https://guides.github.com/features/mastering-markdown
+https://github.com/blog/2046-github-desktop-is-now-available
+https://github.com/blog/2097-improved-commenting-with-markdown
+https://help.github.com/articles/creating-a-pull-request
+https://help.github.com/articles/adding-a-file-to-a-repository
+
+https://help.github.com/articles/fork-a-repo
+https://github.com/blog/1256-new-user-profile-pages
+
+https://guides.github.com/features/issues
+https://github.com/blog/957-introducing-issue-mentions
+https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
+https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
+https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
+
+https://github.com/blog/2111-issue-and-pull-request-templates
+https://help.github.com/articles/helping-people-contribute-to-your-project/
+https://help.github.com/articles/creating-an-issue-template-for-your-repository
+https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
+https://help.github.com/articles/setting-guidelines-for-repository-contributors/
+
+https://help.github.com/articles/adding-a-remote
+https://help.github.com/articles/removing-a-remote
+
+https://help.github.com/articles/syncing-a-fork
+https://help.github.com/articles/configuring-a-remote-for-a-fork
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
+https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
+
+https://help.github.com/articles/about-github-mirrors/
+https://help.github.com/articles/duplicating-a-repository/
+
+https://help.github.com/articles/remove-sensitive-data/
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
+
+https://www.atlassian.com/git/tutorials/syncing/git-pull
+https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
+https://www.atlassian.com/git/tutorials/using-branches/git-branch
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+
+https://help.github.com/articles/using-a-custom-domain-with-github-pages
+
+https://github.com/blog/1986-announcing-git-large-file-storage-lfs
+https://github.com/blog/2104-working-with-submodules
+https://github.com/blog/2041-improving-map-data-on-github
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+
+https://github.com/git-ftp
+https://github.com/github/git-lfs
+https://git-lfs.github.com
+
+http://ndpsoftware.com/git-cheatsheet.html
+
+https://www.producthunt.com/@jordan_gonen/collections/everything-github
+
+http://www.learnenough.com/git-tutorial#sec-getting_started
+
+https://github.com/ajaxorg/ace
+
+https://ifttt.com/github/recipes
+-->
+
+Git Ignore and Licenses
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+
+Ribbons, Buttons, Octicons, Shields
+* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
+* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
+* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
+* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
+* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
+
+GitHub Services Integration
+* [Service Hooks GitHub](https://github.com/github/github-services)  
+* [GitHub Integrations](https://github.com/integrations)  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+<!--
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v3/repos/hooks/
+https://developer.github.com/webhooks/
+http://githooks.com/
+
+https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
+https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
+
+https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
+-->
+
+GitHub Business
+* [GitHub Business](https://github.com/business)
+
+GitHub Organizations
+* [GitHub Organizations](https://github.com/account/organizations/new)
+
+<!--
+https://help.github.com/articles/about-organizations
+https://help.github.com/articles/publicizing-or-hiding-organization-membership
+-->
+
+Gist
+* [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
+
+GitHub- More
+* [GitHub DCMA](https://github.com/github/dmca)
+* [Octokit](https://github.com/octokit) 
+* [Education Pack](https://education.github.com/pack)
+
+GitHub- Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending](https://github.com/josephyzhou/github-trending)
+* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
+
+GitHub- How To
+* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
+
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
+<!--
+GitHub Shop
+* [GitHub Shop](https://github.myshopify.com)
+-->
+
+Markdown
+* [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+* [Markdown](http://daringfireball.net/projects/markdown)  
+* [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
+* [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+* [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+
+GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
+* [GitLab Installation](https://about.gitlab.com/installation)
+* [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
+Atlassian: Bitbucket and SourceTree
+* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
+* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
+* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
+* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
+* [Atlassian SourceTree](https://www.sourcetreeapp.com)
+
+More GitHub Alternatives
+* [Google Code](https://code.google.com)  
+* [Sourceforge](http://sourceforge.net)  
+* [Codebase](https://www.codebasehq.com)  
+
+<!--
+One Click Deploy
+
+https://www.atlassian.com/software-trends
+-->
+
+Types of Licenses
+* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+* [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+* [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+* [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+* [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+* [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+* [Creative Commons](https://creativecommons.org/licenses)
+* [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+#### Startup Engineering MOOC
+
+<!--
+Startup Mooc Staging Example: GitHub, AWS, Heroku
+* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
+* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
+* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+* Illustration: Startup Engineering Dev, Staging, Production
+-->
+
+<!--
+http://web.stanford.edu/class/cs106b/
+
+https://github.com/heroku/node-js-sample
+
+Startup Class Dotfiles and AWS EC2 Setup
+* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
+* [Course EC2 Setup](https://github.com/startup-class/setup)  
+* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
+
+https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
+
+* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+
+Lecture 2: Interactive Start 
+http://class.coursera.org/startup-001/lecture/75
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf
+
+Lecture 3: Linux and Server Side Javascript 
+https://class.coursera.org/startup-001/lecture/99
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf
+https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf
+
+Lecture 4A: Linux Command Line 
+https://class.coursera.org/startup-001/lecture/131
+https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf
+
+Lecture 4B: Development Environment 
+https://class.coursera.org/startup-001/lecture/155 https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf
+
+Lecture 7: Deployment, DNS, and Custom Domains 
+https://class.coursera.org/startup-001/lecture/197
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf
+
+Lecture 12: Node JS: Async, Flow Control, Node Debugging 
+https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf
+
+Lecture 6: Introduction to HTML/CSS/JS
+https://class.coursera.org/startup-001/lecture/193
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf
+
+Lecture 10: Intermediate and Frontend JS
+https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf
+
+Lecture 8: Mobile: HTTP, User Agents, and Responsive Design 
+https://class.coursera.org/startup-001/lecture/199
+https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf
+
+Lecture 5: Market Research, Wireframing, Design
+https://class.coursera.org/startup-001/lecture/189
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf
+
+
+Lecture 0: Course Overview 
+https://class.coursera.org/startup-001/lecture/57
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf
+
+Lecture 1: Introduction 
+https://class.coursera.org/startup-001/lecture/33
+https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf
+
+Lecture 9: Why do VCs love mobile, local, and social? And what they love next? https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf
+
+Lecture 11: Regulation, Disruption, and the Technologies of 2013. https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf
+
+http://www.html5rocks.com/en/mobile/
+
+AWS, Heroku, Git
+Lecture 2: Figure 2: Startup Engineering Dev and Deployment
+Lecture 2: Figure 84:
+Lecture 7: Figure 1-3: Dev, Staging, Production
+Lecture 7: Figure 20: Dev, Staging, Production
+
+Setup
+Lecture 2: Figure 1: Goal
+Lecture 2: Figure 4: Chrome User Agent Switcher
+Lecture 2: Figure 5: Closing using GUI
+Lecture 2: Figure 6: Closing using CLI
+Lecture 2: Figure 7-12: Apple Terminal
+Lecture 2: Figure 13-24: Cygwin
+Lecture 2: Figure 25: Ping
+Lecture 2: Figure 26-40: AWS
+Lecture 2: Figure 40-42: Gravatar
+Lecture 2: Figure 43-45: GitHub
+Lecture 2: Figure 46-51: Heroku
+Lecture 2: Figure 52-65: AWS
+Lecture 2: Figure 66: Apple
+Lecture 2: Figure 67-70: Cygwin
+Lecture 2: Figure 71-72: AWS
+Lecture 2: Figure 73: SSH
+Lecture 2: Figure 74: AWS Ubuntu
+Lecture 2: Figure 75: Local Versus Remote Commands
+Lecture 2: Figure 76-83: SSH
+Lecture 2: Figure 84: Goal
+
+Setup
+Lecture 3: Figure 1: Virtualization
+Lecture 3: Figure 2-6: SSH
+
+Setup
+Lecture 4a: Figures: All Technical
+Lecture 4b: Figures: All Technical
+
+Setup
+Lecture 7: Figure 4-19: SSH, including Bitstarter
+Lecture 7: Figure 20-34: SSH
+Lecture 7: Figure 35-43: Domize and DNSimple
+Lecture 7: Figure 44-46: SSH
+
+Lecture 5: Table 5: The Idea State Machine
+Lecture 5: Figure 1: Visualizing the Idea Maze
+Lecture 5: Figure 2-3: Implement the 'One-Thing’
+Lecture 5: Table 2: A Product that Exhibits an Economy of Scale
+Lecture 5: Figures 4 and 5: A Product with an Economy of Scale                              
+Lecture 5: Figure 6: Qualitative Graph of Market Size
+Lecture 5: Figure 7: Facebook Census Tool
+Lecture 5: Figure 8: Google Keyword Planner
+Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
+Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
+
+Lecture 1: Figure 1: Signoidal curve for the development of an industry
+Lecture 1: Table 1: Future and current/ongoing technological trends
+Lecture 1: Table 2: An overview of technologies used in the course                                
+Lecture 1: Figure 5: The Rise and Fall of Personal Computing
+-->
+
+<!--
+No longer in existence
+
+Startup Engineering Video Lectures
+https://class.coursera.org/startup-001/lecture 
+
+Homework
+https://class.coursera.org/startup-001/wiki/homework
+
+Deployment Assignments
+https://class.coursera.org/startup-001/assignment
+https://class.coursera.org/startup-001/assignment/view?assignment_id=5
+https://class.coursera.org/startup-001/assignment/view?assignment_id=8
+https://class.coursera.org/startup-001/assignment/view?assignment_id=10
+https://class.coursera.org/startup-001/assignment/view?assignment_id=12
+-->
+
+#### Digital Agencies and Code Philosophies
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+
+<!--
+Trello
+https://upcase.com/design-for-developers-resources/principles
+https://github.com/thoughtbot/guides
+https://github.com/thoughtbot/guides/tree/master/protocol
+
+https://github.com/hypenotic/hypelabs
+
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://devopsbootcamp.osuosl.org/slides.html
+https://github.com/devopsbootcamp
+https://github.com/DevOpsBootcamp/website
+https://docs.google.com/forms/d/12Mwr2D5jokWJh8hZm7bfk1uaXQQtyG0_cTdMASPjU10/viewform?edit_requested=true
+-->
+
+A Successful Git Branching Model
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+<!--
+https://kite.com
+-->
+
+12 Factor App
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+
+Semver
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+The Distributed Developer Stack Field Guide
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+
+Trac Project Management and DB (Used with www.djangoproject.com)
+* [Trac](http://trac.edgewall.org)  
+* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
+* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+
+<!--
+https://github.com/heroku/12factor
+[Semver Org GitHub](https://github.com/mojombo/semver.org)
+-->
+
+
+
+
+#### Back-End Programming Languages, MVCs
+
+Chomsky Hierarchy and Automata
+* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
+* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
+* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
+
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+
+Singly Linked Linear Lists vs. Other Lists
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+
+Bracket Notation and Zero-Based Numbering
+* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
+* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+
+<!--
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+-->
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+
+Miscellaneous Programming Languages
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
+* [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
+* [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
+* [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
+* [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
+* [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
+* [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
+* [Angular Dart GitHub](https://github.com/angular/angular.dart)  
+* [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
+* [Julia GitHub](https://github.com/JuliaLang/julia)  
+* [Hack](http://hacklang.org) and [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
+* [Haskell](http://www.haskell.org/haskellwiki/Haskell), [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language)), and [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
+* [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
+* [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
+* [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
+* [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
+* Apple- Swift
+
+Golang, otherwise known as "Go"
+* [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
+* [Golang](http://golang.org)  
+* [Learn X in Y Minutes Golang](https://learnxinyminutes.com/docs/go)
+* [Golang Documentation](http://golang.org/doc)  
+* [Golang Packages](http://golang.org/pkg)  
+* [Golang Search](http://go-search.org)  
+* [Golang Play](http://play.golang.org)  
+* [Golang Talks](https://talks.golang.org)
+* [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
+* [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
+
+<!--
+https://gobyexample.com
+https://tour.golang.org/welcome/1
+
+https://golang.org/dl
+https://gist.github.com/jcbwlkr/2cbe72427f9cbc41bfbb7972d62429d8
+-->
+
+Golang, Users
+* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
+
+Golang Installation
+* [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
+
+Golang- Frameworks
+* [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
+* [Gin GitHub](https://github.com/gin-gonic/gin) 
+* [Martini GitHub](https://github.com/go-martini/martini)
+* [Revel GitHub](https://github.com/revel/revel)
+
+<!--
+http://gohugo.io
+https://github.com/spf13/hugo
+-->
+
+Java- General
+* [Java Website](http://www.java.com/en)  
+* [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
+* [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
+* [Java](http://www.oracle.com/technetwork/java/index-jsp-135888.html)  
+* [Java Documentation](http://www.oracle.com/technetwork/documentation/index.html#java)  
+* [Java Programming Language Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
+* [Java Programming Language Tutorials](http://docs.oracle.com/javase/tutorial)  
+* [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)  
+* [Java Core Libraries](http://openjdk.java.net/groups/core-libs)  
+* [Java ME Reference](http://www.oracle.com/technetwork/java/javame/documentation/index.html)  
+* [NetBeans Docs](https://netbeans.org/kb/index.html)  
+* [NetBeans Plugins](http://plugins.netbeans.org/)  
+* [Eclipse Docs](http://help.eclipse.org/kepler/index.jsp)  
+* [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
+* [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet)  
+
+#### Facebook and Google Design and Development Approaches
+
+Facebook
+* [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
+
+Google
+* [Google Fonts](https://fonts.google.com), [Google Fonts (Old)](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
+* [Google Roboto GitHub](https://github.com/google/roboto) 
+* [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google Material Design (See also Facebook React)
+* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
+
+Accelerated Mobile Pages (AMP HTML)
+* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
+* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
+
+#### Social Media and Social Graph
+
+Graph and Schema- General (See also Facebook Open Graph)
+* [Open Graph Protocol Schema](http://ogp.me) 
+* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Schema Creator](http://schema-creator.org)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+
+Open Search
+* [Open Search](http://www.opensearch.org/Home)
+
+Facebook Crawler
+* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
+* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
+
+Microformats
+* [Microformats](http://microformats.org)
+
+<!--
+Referral URL
+
+https://github.com/h5bp
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
+http://www.seoconsultants.com/meta-tags/dublin
+https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
+http://intertwingly.net/wiki/pie/LinkTagMeaning
+http://www.html5rocks.com/en
+
+Meta Name and others 
+https://en.wikipedia.org/wiki/Tag_(metadata)
+
+http://stackoverflow.com/questions/16171686/list-of-standard-w3c-meta-tags
+https://gist.github.com/kevinSuttle/1997924
+http://www.w3schools.com/tags/tag_meta.asp
+https://support.google.com/webmasters/answer/79812?hl=en
+https://en.wikipedia.org/wiki/Microformat#Specific_microformats
+
+https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Microformats
+https://en.wikipedia.org/wiki/Microformat
+
+http://www.metatags.org
+http://analyzer.metatags.org
+http://www.metatags.org/meta_tags_code_generator
+http://www.metatags.org/all_metatags
+http://www.metatags.org/google_and_meta_tags
+http://www.metatags.org/meta_name_author
+
+http://schema.org/Person
+https://en.wikipedia.org/wiki/HCard
+http://microformats.org/wiki/hcard
+http://microformats.org/code/hcard/creator
+http://microformats.org/wiki/hcard-examples
+
+https://en.wikipedia.org/wiki/Resource_Description_Framework
+
+https://en.wikipedia.org/wiki/.har
+https://toolbox.googleapps.com/apps/har_analyzer
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+
+https://affiliate-program.amazon.com/welcome
+
+https://www.youtube.com/watch?v=JASn8EsO174
+-->
+
+Web Analytics
+* [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
+
+Facebook Developers
+* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+
+Facebook Tools
+* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+* [Facebook Business](https://www.facebook.com/business)
+* [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
+* [Facebook Platform Insights](https://developers.facebook.com/docs/platforminsights)
+* [Facebook Ad Creation Manager](https://www.facebook.com/ads/manager/creation)
+* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+* [Fb Start for Mobile Startups](http://fbstart.com)
+
+<!--
+https://messengerplatform.fb.com/
+https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
+
+Facebook's Advertisers Tool
+https://developers.facebook.com/docs/javascript
+
+Facebook Insights
+https://developers.facebook.com/docs/platforminsights/domains
+https://developers.facebook.com/docs/platforminsights/page
+
+https://www.facebook.com/ads/manager/pixel/facebook_pixel/?act=314539814&pid=p1
+
+https://www.facebook.com/business/learn/facebook-ads-measuring-results
+https://www.facebook.com/business/a/facebook-pixel
+https://www.facebook.com/business/help/952192354843755
+https://www.facebook.com/business/help/651294705016616
+https://www.facebook.com/business/a/online-sales/conversion-tracking
+https://www.facebook.com/business/help/1686199411616919
+https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
+https://www.facebook.com/business/help/460491677335370
+https://www.facebook.com/business/help/373979379354234
+
+Webmaster Guidelines
+https://support.google.com/webmasters/answer/35769
+
+https://en.wikipedia.org/wiki/Search_engine_optimization
+https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
+https://support.google.com/webmasters/answer/35291?hl=en
+https://support.google.com/webmasters/answer/40349?hl=en
+http://searchengineland.com/library/google/google-seo
+
+https://webmasters.googleblog.com
+
+https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
+-->
+
+Google Webmaster and Analytics Dashboards
+* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
+* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
+
+Google Webmaster and Analytics (Web)
+* [Google Webmaster](http://www.google.com/webmasters)
+* [Google Analytics](http://www.google.com/analytics)
+* [Google U.K. Analytics](http://www.google.co.uk/analytics)
+* [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
+* [Google Data Studio](https://www.google.com/analytics/data-studio)
+
+Google Rich Snippets
+* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+Google Mobile Analytics and Firebase
+* [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+* [Firebase](https://firebase.google.com)
+
+Google Tag Manager
+* [Google Tag Manager](http://www.google.com/tagmanager)
+
+Google Analytics Alternative
+* [Hubspot](http://www.hubspot.com)
+
+Google Ads
+* [Google Ads](http://www.google.com/ads) 
+* [Google AdMob (Apps)](http://www.google.com/admob)  
+* [Google AdSense](http://www.google.com/adsense) and [Google AdSense Help Center](https://support.google.com/adsense) 
+* [Google AdWords Keyword Planner](http://adwords.google.com/KeywordPlanner), [Google AdWords Keyword Tool](https://adwords.google.com/KeywordTool), [Google AdWords](http://www.google.com/adwords), [Google AdWords Get Started](https://adwords.google.com/um/GetStarted/Home), [Google AdWords Help Center](https://support.google.com/adwords), [Google AdWords Editor](http://www.google.com/intl/en/adwordseditor), and [AdWords Wikipedia](http://en.wikipedia.org/wiki/AdWords)  
+* [Google Global Market Finder (AdWords)](http://translate.google.com/globalmarketfinder)
+* [Google Display Network (Ads)](http://www.google.com/ads/displaynetwork)  
+* [Google DoubleClick (Ads)](http://doubleclick.com) and [Google DoubleClick (Ads) Wikipedia](http://en.wikipedia.org/wiki/DoubleClick) 
+* [Google DoubleClick Campaign Manager](https://support.google.com/ds/answer/3437333?hl=en)
+* [Google DoubleClick for Publishers Help Center](https://support.google.com/dfp_premium)
+
+Google Monetization
+* [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
+
+Google Custom Search Engine
+* [Google Custom Search Engine](https://cse.google.com/cse)
+
+Google News Publisher
+* [Google News Publisher Help](https://support.google.com/news/publisher)
+
+Pinterest
+* [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
+
+Twitter
+* [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
+* [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+* [Twitter Marketing](https://marketing.twitter.com)
+* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+* [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
+
+Twitter Data
+* [Twitter Data](https://twitter.com/TwitterData)
+
+Twitter Media and News
+* [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+* [Twitter News](https://twitter.com/TwitterForNews) 
+
+Twitter Advanced Search
+* [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+
+Yahoo and Bing- Developer, Webmaster, and Ads
+* [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+* [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
+* [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
+* [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
+
+YouTube (Google)
+* [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
+* [YouTube Creators](http://www.youtube.com/yt/creators)  
+* [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
+
+Firefox SEO (See also Mozilla)
+* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
+
+Reddit Advertising
+* [Reddit Advertising](https://www.reddit.com/advertising)
+
+Sharing Buttons
+* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
+* [AddToAny](https://www.addtoany.com) 
+* [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
+
+Net Promoter
+* [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
+
+#### Engineering Blogs and Designer, Developer Conferences, Design Systems
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+
+Individual Engineering Blogs
+* [Buffer Engineering](https://overflow.bufferapp.com)
+* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+* [Uber Developers](https://medium.com/uber-developers)  
+ 
+StackShare
+* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
+
+Company Design
+* [Airbnb Samara](http://samara.airbnb.com)
+* [Medium Design](https://medium.com/designing-medium)  
+* [IBM Design](https://www.ibm.com/design) 
+* [eBay/PayPal](http://ebay.com/design)  
+* [Twitter Design](https://twitter.com/design)  
+* [Uber Design](https://www.uber.com/design) 
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+Salesforce Lightning Design System
+* [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
+
+HubSpot
+* [HubSpot GitHub](https://github.com/HubSpot)
+
+Microsoft 
+* [Microsoft Design](https://www.microsoft.com/en-us/design)
+
+IBM Design Language
+* [IBM Design Language](http://www.ibm.com/design/language)
+
+<!--
+https://console.ng.bluemix.net
+-->
+
+Watson Design Guide
+* [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
+
+
+
+#### Programming Learning Tools
+
+Programming Groups
+* [Codettes](http://www.codettes.net)
+* [Django Girls](https://djangogirls.org)
+* [Golang Bridge](http://golangbridge.org)
+* [Women Who Go](http://www.womenwhogo.org)
+* [Node Together](http://www.nodetogether.org)
+* [Rails Bridge](http://www.railsbridge.org)
+* [PHP Women](https://phpwomen.org)
+
+Programming and Math Learning Tools (See also MOOCs)
+* [Arduino](https://www.arduino.cc)
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
+* [Learn to Code the Hard Way](http://learncodethehardway.org)  
+* [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
+* [Codecademy](http://www.codecademy.com)  
+* [CodePath GitHub](https://github.com/codepath)
+* [Code.org](https://code.org)
+* [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
+* [Jam](https://jam.com)
+* [Kano Playground](http://art.kano.me/playground)
+* [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Math Overflow](http://mathoverflow.net)
+* [Minecraft](https://minecraft.net)
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Pluralsight](https://www.pluralsight.com) and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
+* [Project Euler](http://www.projecteuler.net)  
+* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
+* [Project Euler Problems](http://projecteuler.net/problems)  
+* [Raspberry PI](http://www.raspberrypi.org)
+* [Rosetta Code](http://rosettacode.org)
+* [Scratch (MIT)](https://scratch.mit.edu)
+* [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
+* [Treehouse](https://teamtreehouse.com)
+* [W3Schools Web Development Tutorials](http://www.w3schools.com) 
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Wolfram MathWorld](http://mathworld.wolfram.com)
+
+<!--
+https://github.com/MakeSchool
+
+https://www.codecademy.com/courses/learn-the-command-line
+https://www.codecademy.com/tracks/web
+
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (syntax)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+
+https://github.com/jshomes/learning-resources
+-->
+
+Free Code Camp
+* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
+* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
+* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
+* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+
+<!--
+http://www.theodinproject.com
+
+https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
+
+https://egghead.io/tags/free
+https://egghead.io/series/learn-to-use-vim
+https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
+https://egghead.io/lessons/javascript-intro-to-webpack
+https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
+
+HTML Graphics
+http://www.w3schools.com/canvas/default.asp
+Learn Canvas
+http://www.w3schools.com/canvas/default.asp
+Learn SVG
+http://www.w3schools.com/svg/default.asp
+Learn Icons
+http://www.w3schools.com/icons/default.asp
+Learn Google Maps
+http://www.w3schools.com/googleapi/default.asp
+Learn HTML Games
+http://www.w3schools.com/games/default.asp
+
+http://www.w3schools.com/appml/default.asp
+
+http://www.w3schools.com/website/default.asp
+http://www.w3schools.com/browsers/default.asp
+
+http://www.gnu.org/doc/other-free-books.html
+-->
+
+Free Programming Books
+* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
+
+Guides for Development
+* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
+
+Twitch Creative- Accounts
+* [Twilio Twitch](http://www.twitch.tv/team/twilio)
+* [Brent Schooley](https://www.twitch.tv/brentschooley)
+* [Levelsio](http://www.twitch.tv/levelsio)
+
+<!--
+https://www.twitch.tv/team/twilio
+https://github.com/TwilioDevEd
+https://github.com/TwilioDevEd/appointment-reminders-django
+https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
+https://www.twilio.com/docs/api/video
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/flask#0
+-->
+
+Text Editor and Code Demonstration
+* [Fiddle](https://fiddles.io)
+* [JSFiddle](http://jsfiddle.net)
+* [Cloud9](https://c9.io/katherinemichel)
+* [Codepen](http://codepen.io)
+
+Documentation- General
+* [IT eBooks](http://it-ebooks.info)
+* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Packt](https://www.packtpub.com) [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+
+<!--
+http://www.oreilly.com/data/free/archive.html
+http://www.oreilly.com/design/free/design-in-venture-capital.csp
+-->
+
+Documentation- Mozilla
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C (The World Wide Web Consortium) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org) and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+* [WICG (Web Incubator CG)](https://github.com/WICG)
+
+<!--
+Standards
+https://wicg.github.io/admin/charter.html
+https://github.com/WICG/incubation-template/blob/gh-pages/index.html
+https://github.com/whatwg/dom
+
+https://github.com/tabatkins/bikeshed
+https://github.com/tabatkins?tab=repositories
+-->
+
+Free Software Foundation
+* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+GNU Software and Manuals
+* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
+* [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
+
+KDE and KHTML
+* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
+* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
+* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
+
+Archive Team
+* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
+
+Developer Surveys
+* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
+* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+* [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
+* ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
+
+#### Programming Language Style Guides
+
+GitHub StyleGuides
+* [GitHub StyleGuides](https://github.com/styleguide) 
+
+Styleguides- Various
+* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
+* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
+* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
+* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
+* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
+* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
+* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
+* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
+* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
+
+GitHub HTML and CSS Styleguides
+* [GitHub CSS Styleguide](http://primercss.io) 
+* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
+
+Google Styleguides
+* [Google Styleguides GitHub](https://github.com/google/styleguide)
+* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
+
+JavaScript Styleguide
+* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
+PHP Styleguides
+* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
+* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
+* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
+* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
+* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
+* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
+
+<!--
+PSR-0: Autoloader Standard
+PSR-1: Basic Coding Standard
+PSR-2: Coding Style Guide
+PSR-3: Logger Interface
+
+https://github.com/kciter/awesome-style-guide
+-->
+
+Ruby Styleguide
+* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
+* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
+
+Objective C Styleguide
+* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
+* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
+
+Swift Styleguide
+* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
+
+#### Software Manuals and Documentation 
+
+Write the Docs (Conference and Community)
+* [Write the Docs](http://www.writethedocs.org)
+
+MkDocs
+* [MkDocs](http://www.mkdocs.org)
+
+Pandoc
+* [Pandoc](http://johnmacfarlane.net/pandoc)  
+
+Dexy
+* [Dexy](http://www.dexy.it)  
+
+GitBook
+* [GitBook](https://www.gitbook.com)  
+* [GitBook GitHub](https://github.com/GitbookIO)  
+* ["How can I use Git to update my book?"](https://help.gitbook.com/books/how-can-i-use-git.html)
+* [GitBook Documentation](http://help.gitbook.io)  
+* [GitBook Documentation GitHub](https://github.com/GitbookIO/documentation)  
+* [GitBook Design Styleguide](http://styleguide.gitbook.com)
+* [GitBook Themes](http://help.gitbook.io/book/themes.html)  
+* [GitBook Official Theme GitHub](https://github.com/GitbookIO/theme-official)  
+
+<!--
+GitBook Styling
+-->
+
+GitHub Wiki
+* [Project with Great Wikis](https://github.com/showcases/projects-with-great-wikis)  
+
+iPython
+* [iPython](http://ipython.org)  
+
+LaTeX
+* [LaTeX](http://latex-project.org)  
+* [LaTeX Wikipedia](http://en.wikipedia.org/wiki/LaTeX)  
+* [Share LaTeX](https://github.com/sharelatex/sharelatex)  
+
+Read the Docs
+* [Read the Docs](https://readthedocs.org) and [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
+* [A Beginner's Guide to Docs](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs)
+* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
+
+Python- Django-Sphinxdoc
+* [Sphinxdoc](http://sphinx-doc.org)  
+* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
+
+API Docs (see also Python- Django- Rest Framework Swagger)
+* [Swagger API Docs](http://swagger.io)  
+* [Slate API Docs GitHub](https://github.com/tripit/slate)  
+* [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
+
+#### Open Source Management and Programming Tiers
+
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
+* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
+* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
+
+Bus Factor
+* [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
+
+Open Source Hosting
+* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
+Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
+
+Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
+* [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
+
+Learn Git/GitHub
+* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
+
+Make Something Static/Client-Side- HTML (Can Use GitHub Browser)
+* [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
+
+Make Something Static- Jekyll (Can Use Git Bash)
+* [Jekyll via GitHub Pages](https://jekyllrb.com)
+
+Make Something Dynamic/Server-Side- Can Store Code on GitHub, but Host Elsewhere (Heroku, AWS, Digital Ocean)
+* Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
+
+Start contributing to open source
+* Seek out mentor(s) (some frameworks such as Django have mentor lists) 
+* Follow community members and projects (for instance, on Twitter) and look for opportunities
+* Look for guides in repos that explain how to contribute
+* Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
+
+Look for First-Timers Info
+* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
+
+Example First-Timers Info
+* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
+* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
+* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
+
+<!--
+https://github.com/search?utf8=%E2%9C%93&q=help+wanted
+https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
+https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
+https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
+
+https://opensource.com
+https://opensource.com/how-submit-article
+
+http://williln.github.io/
+https://github.com/williln/williln.github.io
+
+https://github.com/HackathonHackers/code-of-conduct
+http://hackforchange.org/tips-for-better-open-source-documentation
+https://github.com/zalando/zalando-howto-open-source
+https://github.com/ddbeck/readme-checklist
+
+CODE_OF_CONDUCT
+https://github.com/stevemao/github-issue-templates
+
+https://github.com/devspace/awesome-github-templates
+https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
+https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
+
+https://github.com/jdorfman/awesome-help-wanted
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
+
+http://pyfound.blogspot.com
+http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
+
+http://blog.djangogirls.org
+http://blog.djangogirls.org/submit
+http://blog.djangogirls.org/post/137825610883/about-your-django-story
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
+
+https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
+
+http://pinaxproject.com/pinax/how_to_contribute
+https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
+https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
+
+https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
+https://github.com/pybee/pybee.github.io
+http://pybee.org
+
+http://slides.com/kentcdodds/1st-pr#/
+https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
+https://github.com/kentcdodds/all-contributors
+https://github.com/jfmengels/all-contributors-cli
+https://github.com/kentcdodds/ama/issues/93
+http://javascriptair.com
+-->
+
+Example Help Tweets
+* [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
+
+
 #### Mobile
 
 See also: React-Native and Ionic
@@ -8481,7 +8479,6 @@ General Terminology
 * [Fizz Buzz Wikipedia](http://en.wikipedia.org/wiki/Fizz_buzz)  
 * [Dutch Auction Wikipedia](https://en.wikipedia.org/wiki/Dutch_auction)
 * [Vickrey Auction Wikipedia](https://en.wikipedia.org/wiki/Vickrey_auction)
-
 
 
 
