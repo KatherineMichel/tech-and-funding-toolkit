@@ -254,11 +254,6 @@ The Prince's Trust
 
 #### Documents and Advice
 
-Investors on GitHub
-* [Agile Ventures](https://github.com/AgileVentures)
-* [Indie.vc](https://github.com/indievc)
-* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
-
 A16Z Funding and Valuation Advice
 * [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
 * [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
@@ -1202,15 +1197,6 @@ Photos
 [PicJumbo](http://picjumbo.com)  
 [Super Famous](http://superfamous.com)  
 [Unsplash](http://unsplash.com) and [Unsplash Collections](https://unsplash.com/collections)
-
-Email
-[MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
-[Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
-
-http://www.goodemailcopy.com
-
-[Really Good Email](http://reallygoodemails.com)  
-[Voice and Tone](http://voiceandtone.com) 
 -->
 
 #### Front-End Development
@@ -9147,6 +9133,11 @@ VC Firm Alpha and Beta
 * [Betaworks Openbeta](https://betaworks.com/openbeta)
 * [Lowercase Alpha](http://lowercasealpha.com)
 
+Investors on GitHub
+* [Agile Ventures](https://github.com/AgileVentures)
+* [Indie.vc](https://github.com/indievc)
+* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
+
 Crowdfunding
 * [Kickstarter](https://www.kickstarter.com)
 * [Patreon](https://www.patreon.com)
@@ -10463,6 +10454,17 @@ Email
 * [Mandrill](http://mandrill.com)  
 * [SendGrid](http://sendgrid.com)  
 * [Tiny Letter](https://www.tinyletter.com)
+
+<!--
+Email
+[MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
+[Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
+
+http://www.goodemailcopy.com
+
+[Really Good Email](http://reallygoodemails.com)  
+[Voice and Tone](http://voiceandtone.com) 
+-->
 
 Voice
 * [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
