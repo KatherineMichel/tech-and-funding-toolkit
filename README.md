@@ -53,7 +53,7 @@ Table of Content
   * [Git and Markdown](#git-and-markdown)
 
 * [Front-End Development](#front-end-development) 
-
+* [Programming Language Style Guides](#programming-language-style-guides) 
 * [Testing and Performance](#testing-and-performance)
 
 * [Standards](#standards)
@@ -109,7 +109,6 @@ Table of Content
 * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
 
 * [Programming Learning Tools](#programming-learning-tools) 
-* [Programming Language Style Guides](#programming-language-style-guides) 
 * [Software Manuals and Documentation](#software-manuals-and-documentation)
 * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
 
@@ -2490,7 +2489,69 @@ https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
+#### Programming Language Style Guides
 
+GitHub StyleGuides
+* [GitHub StyleGuides](https://github.com/styleguide) 
+
+Styleguides- Various
+* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
+* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
+* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
+* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
+* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
+* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
+* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
+* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
+* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
+* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
+
+GitHub HTML and CSS Styleguides
+* [GitHub CSS Styleguide](http://primercss.io) 
+* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
+
+Google Styleguides
+* [Google Styleguides GitHub](https://github.com/google/styleguide)
+* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
+
+JavaScript Styleguide
+* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
+PHP Styleguides
+* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
+* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
+* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
+* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
+* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
+* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
+
+<!--
+PSR-0: Autoloader Standard
+PSR-1: Basic Coding Standard
+PSR-2: Coding Style Guide
+PSR-3: Logger Interface
+
+https://github.com/kciter/awesome-style-guide
+-->
+
+Ruby Styleguide
+* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
+* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
+
+Objective C Styleguide
+* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
+* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
+
+Swift Styleguide
+* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
 #### Testing and Performance
 
@@ -2859,6 +2920,9 @@ http://ppcblog.com/how-google-works
 -->
 
 #### Standards
+
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
 * [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
 
@@ -7198,8 +7262,6 @@ Documentation- Mozilla
 Standards
 * [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org) and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 * [WICG (Web Incubator CG)](https://github.com/WICG)
@@ -7232,70 +7294,6 @@ Developer Surveys
 * [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 * [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
-
-#### Programming Language Style Guides
-
-GitHub StyleGuides
-* [GitHub StyleGuides](https://github.com/styleguide) 
-
-Styleguides- Various
-* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
-* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
-* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
-* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
-* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
-* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
-* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
-* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
-* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
-* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
-
-GitHub HTML and CSS Styleguides
-* [GitHub CSS Styleguide](http://primercss.io) 
-* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
-
-Google Styleguides
-* [Google Styleguides GitHub](https://github.com/google/styleguide)
-* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
-
-JavaScript Styleguide
-* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
-
-PHP Styleguides
-* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
-* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
-* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
-* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
-* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
-* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
-
-<!--
-PSR-0: Autoloader Standard
-PSR-1: Basic Coding Standard
-PSR-2: Coding Style Guide
-PSR-3: Logger Interface
-
-https://github.com/kciter/awesome-style-guide
--->
-
-Ruby Styleguide
-* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
-* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
-* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
-
-Objective C Styleguide
-* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
-* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
-
-Swift Styleguide
-* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
 #### Software Manuals and Documentation 
 
