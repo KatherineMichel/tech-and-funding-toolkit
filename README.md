@@ -6490,6 +6490,29 @@ Line Endings
 * [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
 * [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
 
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+
+Singly Linked Linear Lists vs. Other Lists
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+
+Bracket Notation and Zero-Based Numbering
+* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
+* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+
+<!--
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+-->
+
+Chomsky Hierarchy and Automata
+* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
+* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
+* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
+
 Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
@@ -6993,32 +7016,11 @@ Watson Design Guide
 
 #### Programming Learning Tools
 
-Chomsky Hierarchy and Automata
-* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
-* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
-* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
-
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-
-Bracket Notation and Zero-Based Numbering
-* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
-* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-
 <!--
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-
-https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 -->
 
 Programming Groups
