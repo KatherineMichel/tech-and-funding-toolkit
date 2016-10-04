@@ -1056,11 +1056,6 @@ Quickie Websites
 https://engineering.squarespace.com/blog/2016/the-developer-platform-gets-local
 -->
 
-Domain Names
-* [Google Domains](https://domains.google.com)
-* [Namecheap](https://www.namecheap.com)
-* [iwantmyname](https://iwantmyname.com)
-
 Quickie Mobile Apps
 * [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
 
@@ -1646,9 +1641,6 @@ Google Monetization
 Google Custom Search Engine
 * [Google Custom Search Engine](https://cse.google.com/cse)
 
-Google News Publisher
-* [Google News Publisher Help](https://support.google.com/news/publisher)
-
 Pinterest
 * [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
 
@@ -1658,16 +1650,6 @@ Twitter
 * [Twitter Marketing](https://marketing.twitter.com)
 * [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
 * [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
-
-Twitter Data
-* [Twitter Data](https://twitter.com/TwitterData)
-
-Twitter Media and News
-* [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
-* [Twitter News](https://twitter.com/TwitterForNews) 
-
-Twitter Advanced Search
-* [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
 
 Yahoo and Bing- Developer, Webmaster, and Ads
 * [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
@@ -1682,9 +1664,6 @@ YouTube (Google)
 
 Firefox SEO (See also Mozilla)
 * [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
-
-Reddit Advertising
-* [Reddit Advertising](https://www.reddit.com/advertising)
 
 Sharing Buttons
 * [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
@@ -5264,6 +5243,11 @@ IANA, Domize, DNSimple, Heroku
 https://developers.google.com/speed/public-dns
 
 See also Domains
+
+Domain Names
+* [Google Domains](https://domains.google.com)
+* [Namecheap](https://www.namecheap.com)
+* [iwantmyname](https://iwantmyname.com)
 -->
 
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
@@ -10397,6 +10381,24 @@ Google Account
 Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
 * [Google Docs Do quick research in a document or presentation](https://support.google.com/docs/answer/2481802)
+
+<!--
+Twitter Data
+* [Twitter Data](https://twitter.com/TwitterData)
+
+Twitter Media and News
+* [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
+* [Twitter News](https://twitter.com/TwitterForNews) 
+
+Google News Publisher
+* [Google News Publisher Help](https://support.google.com/news/publisher)
+
+Twitter Advanced Search
+* [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
+
+Reddit Advertising
+* [Reddit Advertising](https://www.reddit.com/advertising)
+-->
 
 Google World
 * [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
