@@ -32,11 +32,15 @@ Table of Content
 
 * [Design Thinking](#design-thinking)
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
-* [Front-End Development](#front-end-development) 
 
 * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
 * [Social Media and Social Graph](#social-media-and-social-graph) 
 * [Testing and Performance](#testing-and-performance)
+
+* [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
+  * [Unix and Linux General](#unix-and-linux-general)
+  * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
+  * [Apple General](#apple-general)
 
 * [Development Environment and Programming](#development-environment-and-programming)
   * [Apple Developer Tools](#apple-developer-tools)
@@ -48,6 +52,8 @@ Table of Content
   * [Keyboard Shortcuts](#keyboard-shortcuts)
   * [Dot Files](#dot-files)
   * [Git and Markdown](#git-and-markdown)
+
+* [Front-End Development](#front-end-development) 
 
 * [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
 * [JavaScript](#javascript)
@@ -90,11 +96,6 @@ Table of Content
 
 * [Computer Basics](#computer-basics)
   * [Encoding](#encoding)
-
-* [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
-  * [Unix and Linux General](#unix-and-linux-general)
-  * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
-  * [Apple General](#apple-general)
 
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
@@ -1194,258 +1195,6 @@ Photos
 [Unsplash](http://unsplash.com) and [Unsplash Collections](https://unsplash.com/collections)
 -->
 
-#### Front-End Development
-
-Web General (See also JavaScript) 
-* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
-* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
-* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
-* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
-* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
-* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
-* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
-* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
-* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
-* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
-* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
-
-HTML
-* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
-
-CSS
-* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
-* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
-
-
-W3C HTML Standards
-* [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
-* [W3C HTML5](https://www.w3.org/TR/html5)
-
-<!--
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
--->
-
-HTML and CSS Tutorials- General
-* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
-* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
-* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-
-HTML and CSS Tutorials- Mozilla
-* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
-* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-
-HTML5 and CSS3 Tutorials- Mozilla
-* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
-Can I Use and Vendor-prefixed CSS Property Overview
-* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
-* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
-
-Bootstrap Tutorials
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-
-
-
-<!--
-W3Schools
-Learn XML
-http://www.w3schools.com/xml/default.asp
-Learn XSLT
-http://www.w3schools.com/xsl/default.asp
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
--->
-
-
-<!--
-https://www.w3.org/DesignIssues/Uses.html
-
-https://www.w3.org/community/webed/wiki/Main_Page
-
-https://www.w3.org/standards/webdesign
-https://www.w3.org/standards/webdesign/htmlcss
-https://www.w3.org/standards/webdesign/script.html
-
-https://www.w3.org/standards/webofdevices
-https://www.w3.org/standards/webarch
-https://www.w3.org/standards/agents
-
-http://validator.w3.org/unicorn
-https://www.w3.org/2009/cheatsheet
-https://www.w3.org/Mobile
-https://www.w3.org/2002/03/tutorials.html
-
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-http://www.w3.org/TR/CSS21/cover.html#minitoc
-
-https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
--->
-
-Responsiveness- and Media Queries
-* [Bootstrap CSS](http://getbootstrap.com/css)
-* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
-* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
-* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
-
-Responsive Design Examples
-* [Media Queries Examples](http://mediaqueri.es)
-* [Responsive Design Examples](https://responsivedesign.is/examples)
-
-Bootstrap, Font Awesome
-* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
-* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
-* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
-* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-
-<!--
-https://github.com/silverbux/bootflat-admin
-https://github.com/almasaeed2010/AdminLTE
-https://github.com/VinceG/Bootstrap-Admin-Theme 
-https://github.com/onokumus/Bootstrap-Admin-Template
-https://github.com/akveo/blur-admin
-https://github.com/puikinsh/gentelella
--->
-
-Foundation
-* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
-* [Foundation for Emails](http://foundation.zurb.com/emails.html)
-* [Zurb Library](http://zurb.com/library)
-
-Theme Marketplace
-* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
-
-Good, Basic Templates, Themes
-* [Template Stash](http://www.templatestash.com)
-* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
-* [BootstrapTaste](http://bootstraptaste.com)
-* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
-* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
-* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
-* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
-
-<!--
-http://www.bootstrapzero.com/c/one-page-themes
-http://bootstrap.theme.cards/l
-
-http://www.bootply.com
-
-Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
-Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
-href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
--->
-
-Good, Basic Templates, Themes- Skel
-* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
-* [Templated](http://templated.co)
-* [HTML5 UP](http://html5up.net)
-
-Kickstarters
-* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
-* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
-* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
-* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
-
-Static Site Generators and CMS (See also Jekyll)
-* [StaticGen](https://www.staticgen.com)
-
-<!--
-http://prose.io
-https://getgrav.org
-https://hexo.io
--->
-
-Utilites
-* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
-* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
-* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
-
-<!--
-https://websitedownloader.io
-https://webpreserver.com
-https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
--->
-
-<!--
-https://developer.mozilla.org/en-US/Apps
-https://developer.mozilla.org/en-US/docs/Web/Reference
-https://developer.mozilla.org/en-US/docs/Web/Guide
-https://developer.mozilla.org/en-US/docs/Web/Tutorials
-https://developer.mozilla.org/en-US/docs/Web/Accessibility
-https://developer.mozilla.org/en-US/docs/Web/Security
-
-https://developer.mozilla.org/en-US/Learn
-
-https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.mozilla.org/en-US/docs/Web/Reference/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
-https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
-https://developer.mozilla.org/en-US/docs/Web/Guide/Events
-https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
-https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
-https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
-https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
-
-https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
-https://developer.mozilla.org/en-US/docs/Web/SVG
-https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
-https://developer.mozilla.org/en-US/docs/Web/MathML
-https://developer.mozilla.org/en-US/docs/Glossary
--->
-<!--
-http://whatwg.github.io/loader
-
-https://developer.mozilla.org/en-US/docs/Web/API/Console/table
--->
-
-
-CSS Zen Garden 
-* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
-* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
-
-Favicon, Sitemap, robots.txt, humans.txt
-* [XML Sitemaps](http://www.xml-sitemaps.com)
-* [sitemaps.org](http://www.sitemaps.org)
-* [humans.txt](http://humanstxt.org)
-* [robots.txt](http://www.robotsgenerator.com)
-
-<!--
-robots.txt tutorial
-http://tools.seobook.com/robots-txt
-Real Favicon Generator
-http://realfavicongenerator.net
--->
-
-Gravatar
-* [Gravatar](http://en.gravatar.com)
-
 
 
 #### Facebook and Google Design and Development Approaches
@@ -2041,6 +1790,191 @@ https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
 
 How Google works
 http://ppcblog.com/how-google-works
+-->
+
+#### Operating System, Browser, Layout Engine
+
+Operating Systems
+* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+
+Web Browser
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
+
+Web Browser and JavaScript Engines (See also JavaScript)- General
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
+* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
+* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
+
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+#### Unix and Linux General
+
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
+
+Linux
+* [Linux](http://www.linux.org)  
+* [Canonical](http://www.canonical.com)  
+* [Linux Foundation](http://www.linuxfoundation.org)  
+* [Linux.com](http://www.linux.com)  
+* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
+* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
+* [Linux GitHub](https://github.com/torvalds/linux)  
+* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
+* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
+* [Linux Journal](http://www.linuxjournal.com) 
+
+Linux- Ubuntu (Debian)
+* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
+* [Ubuntu](http://www.ubuntu.com)  
+* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
+
+Linux- Ubuntu Dual Boot
+* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
+* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
+* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
+
+Ubuntu- + Programs
+* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
+* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
+* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
+* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
+
+Linux- Other Popular Distributions
+* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
+* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
+* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
+* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
+* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
+* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
+* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
+* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports) 
+
+#### Mojombo Chromebook Recommendation
+
+* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
+* [Google Chromebook](http://www.google.com/chromebook)
+* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
+* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
+* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
+* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
+* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+
+Chromebook Ubuntu Installation
+* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
+* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
+* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
+* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
+* [Crouton GitHub](https://github.com/dnschneid/crouton)  
+
+<!--
+How to get Chrome Goodies for your Chromebook
+https://support.google.com/chromebook/answer/2703646?p=driveoffer&rd=1
+http://acer.custhelp.com/app/answers/detail/a_id/10755/~/how-do-i-download-and-manage-files-on-my-acer-chromebook%3F
+Welcome to the Chromebook Help Center
+https://support.google.com/chromebook
+Open, save, or delete files with the Files app
+https://support.google.com/chromebook/answer/1700055?hl=en&rd=1
+Supported file types and external devices
+https://support.google.com/chromebook/answer/183093
+-->
+
+#### Apple General
+
+Apple Posters of Ago
+* [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
+
+Apple El Capitan
+* [El Capitan](https://help.apple.com/osx-elcapitan)
+* [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
+* [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
+
+<!--
+http://www.gmyle.com/collections/year-end-clearance-sale?page=1
+http://www.amazon.com/gp/product/B00G9DQJXO/ref=s9_top_hd_bw_b3NTTT1_g147_i3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=1M4E6M9T5DTCSF3G8PBY&pf_rd_t=101&pf_rd_p=f47208ae-f563-54fe-900f-bc055dbb8823&pf_rd_i=3095279011
+http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air+accessories&page=2&keywords=macbook+air+accessories&ie=UTF8&qid=1457656850&spIA=B00G9DQJXO,B010UFRNP4,B00LSJV5B0
+-->
+
+Apple- Utilities
+* [iTunes](https://www.apple.com/itunes)
+
+Apple Presentation and Design (See also Keynotopia)
+* [Keynote](https://www.apple.com/mac/keynote)
+* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com) and [Think](http://www.fiftythree.com/think)
+* [Sketch](https://www.sketchapp.com)
+* [Keynotopia](http://keynotopia.com)
+* [Keynote Kung-Fu](http://keynotekungfu.com)
+
+<!--
+http://www.sketchappsources.com
+-->
+
+Apple MacBook Air
+* [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
+
+Apple- Refurbished, Clearance, Reuse, Recycling
+* [Apple Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
+* [Apple Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
+* [Apple Recycling](http://www.apple.com/recycling)
+
+Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
+* [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
+
+Apple- Windows (See also: VMware, Vagrant, VirtualBox)
+* [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
+* ["How to install Windows using Boot Camp"](https://support.apple.com/en-us/HT201468)  
+* ["Use Windows 10 on your Mac with Boot Camp"](https://support.apple.com/en-us/HT204990)
+* [Parallels](http://www.parallels.com)
+* [VMware Fusion](http://www.vmware.com/products/fusion)
+* [Wine](https://www.winehq.org)
+* [Winclone](http://twocanoes.com/products/mac/winclone)
+* External Hard Drive, USB SSD, Western Digital Terabyte
+
+<!--
+http://kb.parallels.com/123553
+http://kb.parallels.com/en/118158
+http://kb.parallels.com/en/113972
+-->
+
+Apple- Support
+* [Apple Support](http://www.apple.com/support) 
+
+Mac Update
+* [Mac Update](http://www.macupdate.com)
+
+Mac Keyboard Shortcuts
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
+* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
+
+<!--
+Use Activity Monitor on Your Mac
+https://support.apple.com/en-us/HT201464
+
+https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
+
+https://support.apple.com/en-us/HT201541
+https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
 
 #### Development Environment and Programming
@@ -2793,6 +2727,258 @@ Types of Licenses
 * [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
 * [Creative Commons](https://creativecommons.org/licenses)
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+#### Front-End Development
+
+Web General (See also JavaScript) 
+* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
+* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
+* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+
+HTML
+* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+
+CSS
+* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
+* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+
+W3C HTML Standards
+* [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
+* [W3C HTML5](https://www.w3.org/TR/html5)
+
+<!--
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
+-->
+
+HTML and CSS Tutorials- General
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+
+HTML and CSS Tutorials- Mozilla
+* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+HTML5 and CSS3 Tutorials- Mozilla
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+Can I Use and Vendor-prefixed CSS Property Overview
+* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
+* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
+
+Bootstrap Tutorials
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+
+
+
+<!--
+W3Schools
+Learn XML
+http://www.w3schools.com/xml/default.asp
+Learn XSLT
+http://www.w3schools.com/xsl/default.asp
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+-->
+
+
+<!--
+https://www.w3.org/DesignIssues/Uses.html
+
+https://www.w3.org/community/webed/wiki/Main_Page
+
+https://www.w3.org/standards/webdesign
+https://www.w3.org/standards/webdesign/htmlcss
+https://www.w3.org/standards/webdesign/script.html
+
+https://www.w3.org/standards/webofdevices
+https://www.w3.org/standards/webarch
+https://www.w3.org/standards/agents
+
+http://validator.w3.org/unicorn
+https://www.w3.org/2009/cheatsheet
+https://www.w3.org/Mobile
+https://www.w3.org/2002/03/tutorials.html
+
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
+
+http://www.w3.org/TR/CSS21/cover.html#minitoc
+
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+-->
+
+Responsiveness- and Media Queries
+* [Bootstrap CSS](http://getbootstrap.com/css)
+* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
+* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
+* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
+
+Responsive Design Examples
+* [Media Queries Examples](http://mediaqueri.es)
+* [Responsive Design Examples](https://responsivedesign.is/examples)
+
+Bootstrap, Font Awesome
+* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
+* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
+* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+
+<!--
+https://github.com/silverbux/bootflat-admin
+https://github.com/almasaeed2010/AdminLTE
+https://github.com/VinceG/Bootstrap-Admin-Theme 
+https://github.com/onokumus/Bootstrap-Admin-Template
+https://github.com/akveo/blur-admin
+https://github.com/puikinsh/gentelella
+-->
+
+Foundation
+* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
+* [Foundation for Emails](http://foundation.zurb.com/emails.html)
+* [Zurb Library](http://zurb.com/library)
+
+Theme Marketplace
+* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
+
+Good, Basic Templates, Themes
+* [Template Stash](http://www.templatestash.com)
+* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
+* [BootstrapTaste](http://bootstraptaste.com)
+* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
+* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
+* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
+* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
+
+<!--
+http://www.bootstrapzero.com/c/one-page-themes
+http://bootstrap.theme.cards/l
+
+http://www.bootply.com
+
+Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
+Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
+href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
+-->
+
+Good, Basic Templates, Themes- Skel
+* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
+* [Templated](http://templated.co)
+* [HTML5 UP](http://html5up.net)
+
+Kickstarters
+* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
+* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
+* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
+
+Static Site Generators and CMS (See also Jekyll)
+* [StaticGen](https://www.staticgen.com)
+
+<!--
+http://prose.io
+https://getgrav.org
+https://hexo.io
+-->
+
+Utilites
+* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
+* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
+* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
+
+<!--
+https://websitedownloader.io
+https://webpreserver.com
+https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
+-->
+
+<!--
+https://developer.mozilla.org/en-US/Apps
+https://developer.mozilla.org/en-US/docs/Web/Reference
+https://developer.mozilla.org/en-US/docs/Web/Guide
+https://developer.mozilla.org/en-US/docs/Web/Tutorials
+https://developer.mozilla.org/en-US/docs/Web/Accessibility
+https://developer.mozilla.org/en-US/docs/Web/Security
+
+https://developer.mozilla.org/en-US/Learn
+
+https://developer.mozilla.org/en-US/docs/Web/API
+https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
+https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
+https://developer.mozilla.org/en-US/docs/Web/Guide/Events
+https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
+https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
+https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
+https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
+
+https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+https://developer.mozilla.org/en-US/docs/Web/MathML
+https://developer.mozilla.org/en-US/docs/Glossary
+-->
+<!--
+http://whatwg.github.io/loader
+
+https://developer.mozilla.org/en-US/docs/Web/API/Console/table
+-->
+
+
+CSS Zen Garden 
+* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
+* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
+
+Favicon, Sitemap, robots.txt, humans.txt
+* [XML Sitemaps](http://www.xml-sitemaps.com)
+* [sitemaps.org](http://www.sitemaps.org)
+* [humans.txt](http://humanstxt.org)
+* [robots.txt](http://www.robotsgenerator.com)
+
+<!--
+robots.txt tutorial
+http://tools.seobook.com/robots-txt
+Real Favicon Generator
+http://realfavicongenerator.net
+-->
+
+Gravatar
+* [Gravatar](http://en.gravatar.com)
 
 #### Back-End Programming Languages, MVCs
 
@@ -6564,191 +6750,6 @@ Alt Codes- PC
 <!--
 https://www.w3.org/International/getting-started/characters
 https://www.w3.org/International/articles/definitions-characters
--->
-
-#### Operating System, Browser, Layout Engine
-
-Operating Systems
-* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
-* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
-
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-#### Unix and Linux General
-
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
-
-Linux
-* [Linux](http://www.linux.org)  
-* [Canonical](http://www.canonical.com)  
-* [Linux Foundation](http://www.linuxfoundation.org)  
-* [Linux.com](http://www.linux.com)  
-* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
-* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
-* [Linux GitHub](https://github.com/torvalds/linux)  
-* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
-* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
-* [Linux Journal](http://www.linuxjournal.com) 
-
-Linux- Ubuntu (Debian)
-* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
-* [Ubuntu](http://www.ubuntu.com)  
-* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
-
-Linux- Ubuntu Dual Boot
-* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
-* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
-* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
-
-Ubuntu- + Programs
-* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
-* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
-* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
-* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
-
-Linux- Other Popular Distributions
-* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
-* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
-* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
-* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
-* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
-* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
-* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
-* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports) 
-
-#### Mojombo Chromebook Recommendation
-
-* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
-* [Google Chromebook](http://www.google.com/chromebook)
-* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
-* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
-* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
-* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
-* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
-* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
-
-Chromebook Ubuntu Installation
-* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
-* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
-* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
-* [Crouton GitHub](https://github.com/dnschneid/crouton)  
-
-<!--
-How to get Chrome Goodies for your Chromebook
-https://support.google.com/chromebook/answer/2703646?p=driveoffer&rd=1
-http://acer.custhelp.com/app/answers/detail/a_id/10755/~/how-do-i-download-and-manage-files-on-my-acer-chromebook%3F
-Welcome to the Chromebook Help Center
-https://support.google.com/chromebook
-Open, save, or delete files with the Files app
-https://support.google.com/chromebook/answer/1700055?hl=en&rd=1
-Supported file types and external devices
-https://support.google.com/chromebook/answer/183093
--->
-
-#### Apple General
-
-Apple Posters of Ago
-* [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
-
-Apple El Capitan
-* [El Capitan](https://help.apple.com/osx-elcapitan)
-* [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
-* [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
-
-<!--
-http://www.gmyle.com/collections/year-end-clearance-sale?page=1
-http://www.amazon.com/gp/product/B00G9DQJXO/ref=s9_top_hd_bw_b3NTTT1_g147_i3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=1M4E6M9T5DTCSF3G8PBY&pf_rd_t=101&pf_rd_p=f47208ae-f563-54fe-900f-bc055dbb8823&pf_rd_i=3095279011
-http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air+accessories&page=2&keywords=macbook+air+accessories&ie=UTF8&qid=1457656850&spIA=B00G9DQJXO,B010UFRNP4,B00LSJV5B0
--->
-
-Apple- Utilities
-* [iTunes](https://www.apple.com/itunes)
-
-Apple Presentation and Design (See also Keynotopia)
-* [Keynote](https://www.apple.com/mac/keynote)
-* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com) and [Think](http://www.fiftythree.com/think)
-* [Sketch](https://www.sketchapp.com)
-* [Keynotopia](http://keynotopia.com)
-* [Keynote Kung-Fu](http://keynotekungfu.com)
-
-<!--
-http://www.sketchappsources.com
--->
-
-Apple MacBook Air
-* [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
-
-Apple- Refurbished, Clearance, Reuse, Recycling
-* [Apple Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
-* [Apple Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
-* [Apple Recycling](http://www.apple.com/recycling)
-
-Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
-* [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
-
-Apple- Windows (See also: VMware, Vagrant, VirtualBox)
-* [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
-* ["How to install Windows using Boot Camp"](https://support.apple.com/en-us/HT201468)  
-* ["Use Windows 10 on your Mac with Boot Camp"](https://support.apple.com/en-us/HT204990)
-* [Parallels](http://www.parallels.com)
-* [VMware Fusion](http://www.vmware.com/products/fusion)
-* [Wine](https://www.winehq.org)
-* [Winclone](http://twocanoes.com/products/mac/winclone)
-* External Hard Drive, USB SSD, Western Digital Terabyte
-
-<!--
-http://kb.parallels.com/123553
-http://kb.parallels.com/en/118158
-http://kb.parallels.com/en/113972
--->
-
-Apple- Support
-* [Apple Support](http://www.apple.com/support) 
-
-Mac Update
-* [Mac Update](http://www.macupdate.com)
-
-Mac Keyboard Shortcuts
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
-* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
-
-<!--
-Use Activity Monitor on Your Mac
-https://support.apple.com/en-us/HT201464
-
-https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
-
-https://support.apple.com/en-us/HT201541
-https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 -->
 
 
