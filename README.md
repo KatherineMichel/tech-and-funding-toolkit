@@ -35,7 +35,6 @@ Table of Content
 
 * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
 * [Social Media and Social Graph](#social-media-and-social-graph) 
-* [Testing and Performance](#testing-and-performance)
 
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Unix and Linux General](#unix-and-linux-general)
@@ -54,6 +53,8 @@ Table of Content
   * [Git and Markdown](#git-and-markdown)
 
 * [Front-End Development](#front-end-development) 
+
+* [Testing and Performance](#testing-and-performance)
 
 * [Standards](#standards)
 * [JavaScript](#javascript)
@@ -1436,371 +1437,6 @@ Net Promoter
 * [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
 
 
-#### Testing and Performance
-
-<!--
-https://hpbn.co
-http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
-http://shop.oreilly.com/product/0636920041528.do
--->
-
-<!--
-Responsive Design Tester
-http://responsivetest.net
-
-Manual check using emulators
-Online media query tester
-http://screenqueri.es
-6 free mobile emulators
-http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site
-Opera Mobile Emulator
-http://www.opera.com/developer/tools/mobile
--->
-
-W3 Validators
-* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
-* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
-* [W3C Link Checker](https://validator.w3.org/checklink)
-<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
-* [W3C Mobile Validator](http://validator.w3.org/mobile)
-* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
-
-<!--
-Run CSS Lint online
-http://csslint.net
-
-<rule name="MobileOK score of 75+">
--->
-
-Device Testing
-* [AWS Device Farm](https://aws.amazon.com/device-farm)
-* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
-* [Open Device Labs](http://OpenDeviceLab.com)
-
-Speed and Performance
-* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
-* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
-* [Netflix Fast](https://fast.com)
-* [Yahoo YSlow score of 85+](http://yslow.org)
-
-<!--
-Google’s Web Performance Best Practices
-https://developers.google.com/speed/docs/best-practices/rules_intro
-
-https://developers.google.com/speed/docs/insights/about
-https://developers.google.com/speed/docs/insights/OptimizeImages
-
-http://mobiforge.com/design-development/fixit-image-crunch
-
-http://wave.webaim.org/report
-https://www.w3.org/WAI/ER/tools
-https://www.w3.org/WAI/perspectives
-
-CSS Sprites
-Sprite Me
-http://spriteme.org
-
-Optimize images
-SmushIt.com
-http://www.smushit.com/ysmush.it
-http://www.imgopt.com
-PunyPNG.com
-http://punypng.com
-PNGGauntlet for Windows
-http://pnggauntlet.com
-Image Optim for Mac
-http://imageoptim.com
-
-http://www.responsimulator.com
-http://cssminifier.com
-CSS minification
-
-https://testmysite.thinkwithgoogle.com
-http://ready.mobi
-http://optimizilla.com
-https://tinypng.com
-http://yslow.org/faq
-http://www.imgopt.com
-https://en.wikipedia.org/wiki/Lossy_compression
-http://mobiletest.me
-
-https://search.google.com/search-console/mobile-friendly
-https://testmysite.thinkwithgoogle.com/
-https://www.bing.com/webmaster/tools/mobile-friendliness
-https://www.google.com/webmasters/tools/mobile-friendly
-
-https://website.grader.com
-
-http://www.speedtest.net
-http://www.dslreports.com/speedtest
--->
-
-Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
-* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [New Relic](http://newrelic.com)
-* [Sentry](http://getsentry.com)
-
-<!--
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
--->
-
-A/B Testing
-* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-
-App Invites or Beta Testing
-* [Google App Invites](https://developers.google.com/app-invites)
-* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-Accessibility
-* [WebAIM](http://webaim.org)
-* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
-* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
-* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
-* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
-* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
-
-<!--
-https://ft-interactive.github.io/accessibility
--->
-
-Microsoft Inclusion Approach
-* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
-
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
-
-<!--
-https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
-[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
-[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
-
-[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
-[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
-[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
-[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
-
-[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
-[Blame Stella](https://www.blamestella.com/)
-[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
-[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
-[Basecamp](http://basecamp.com/)
--->
-
-<!--
-Play Version Manager
-https://github.com/kaiinkinen/pvm
-
-What you should know
-http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
-
-IntelliJ IDEA Spell Checker
-http://www.jetbrains.com/idea/webhelp/spellchecking.html
-
-Check website in all browsers
-BrowserShots.org
-http://browsershots.org
-Browserling.com
-https://browserling.com
-Spoon.net
-http://spoon.net/browsers
-
-Decide on www-subdomain
-no-www.org score of 'B'
-http://no-www.org
-...or www.yes-www.org
-http://www.yes-www.org
-Handle 'www' in web.config
-http://madskristensen.net/post/url-rewrite-and-the-www-subdomain
-
-Remove 'www' subdomain
-Add the attribute rel='nofollow' to user-generated links to avoid spam
-Redirect after a POST to prevent a refresh from submitting again
-
-Use 'viewport' meta-tag
-Don’t Forget the Viewport Meta Tag
-http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag
-Make your website mobile friendly
-http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx
-
-Use correct input types
-Input type: Email, Url, Phone
-http://html5tutorial.info/html5-contact.php
-Diving in to HTML5 forms
-http://diveintohtml5.info/forms.html
-
-Analytics
-Uptime monitoring
-Uptime robot
-http://www.uptimerobot.com
-Pingdom Website Monitor
-https://www.pingdom.com
-GotSiteMonitor.com
-http://www.gotsitemonitor.com
-
-http://tools.pingdom.com/fpt
-
-Traffic analysis"> (Google Analytics)
-StatCounter
-http://statcounter.com
-Clicky
-http://clicky.com
-Piwik
-http://piwik.org
-
-Optimize HTTP headers
-redbot.org
-http://redbot.org
-
-Cloud optimizations
-Reduce I/O to disk
-http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2
-
-Static resources
-Add long TTL with Cache-Control
-http://www.playframework.org/documentation/2.0.4/Assets
-Minify Javascript
-http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler
-Minify CSS
-http://www.cssminifier.com
-Use HTML 5 Manifest
-http://diveintohtml5.info/offline.html
-
-A more useful 404
-http://www.alistapart.com/articles/amoreuseful404
-
-Favicon Cheat Sheet
-http://github.com/audreyr/favicon-cheat-sheet
-
-Use friendly URLs
-11 best practices for URLs
-http://www.seomoz.org/blog/11-best-practices-for-urls
-URL rewriting in IIS
-http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference
-URL rewrite in Apache
-http://httpd.apache.org/docs/current/mod/mod_rewrite.html
-
-Print-friendly CSS
-Set up a print stylesheet
-http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet
-Have a unified notification system across app
-Don't display unfriendly errors directly to the user
-Environment Integration
-Safari on iOS
-http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
-
-Internet Explorer on Windows
-http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx
-Windows 8 Tiles
-http://www.buildmypinnedsite.com
-
-A/B Testing
-ABalytics
-https://github.com/danmaz74/ABalytics
-
-HTML validation
-Dr. Watson
-http://watson.addy.com
-
-Verify source code (Scala)
-Scala Style
-http://www.scalastyle.org
-SCCT
-http://mtkopone.github.com/scct
-
-Automated testing
-Testomato
-http://www.testomato.com
-
-Accessibility validation
-Common problems and solutions
-http://accessibility.oit.ncsu.edu/accessibleu/problems.html
- 
-WAI-ARIA Landmarks">
-Using WAI-ARIA Landmarks
-http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration
-Guide to WAI-ARIA
-http://www.alistapart.com/articles/the-accessibility-of-wai-aria
-Practical examples
-http://www.punkchip.com/2010/11/aria-basic-findings
-
-Security
-Follow best practices
-https://asafaweb.com/">ASafaaWeb security analyzer
-OWASP Top 10 project
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
-OWASP Cheat Sheets
-https://www.owasp.org/index.php/Cheat_Sheets
-CWE/SANS Top 25
-http://cwe.mitre.org/top25
-
-Cross-site scripting
-XSS cheat sheet
-https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
-DOM based XSS cheat sheet
-https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
-Free XSS scanner
-http://www.acunetix.com/cross-site-scripting/scanner
-
-Cross-site request forgery
-Explanation and walkthrough
-http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html
-CSRF cheat sheet
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
-
-Secure Passwords
-BCrypt
-http://www.mindrot.org/projects/jBCrypt
-SCrypt
-https://github.com/wg/scrypt
-
-Hash passwords using salt to prevent rainbow attacks
-Secure connection (SSL)
-Setup SSL on Play 2
-http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl
-Setup SSL on Apache
-http://www.digicert.com/ssl-certificate-installation-apache.htm
-SSL Server Test
-https://www.ssllabs.com/ssltest
-
-X-Frame-Options
-https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
-
-HTTP Strict Transport Security
-https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
-
-Content Security Policy
-https://developer.chrome.com/extensions/contentSecurityPolicy
-https://developer.mozilla.org/en-US/docs/Web/Security/CSP
-https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
-https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy
-
-The Open Web Application Security Project
-https://en.wikipedia.org/wiki/OWASP
-Content Security Policy
-https://en.wikipedia.org/wiki/Content_Security_Policy
-
-CSP (Content Security Policy)
-https://github.com/yandex/csp-tester
-http://www.html5rocks.com/en/tutorials/security/content-security-policy
-https://www.owasp.org/index.php/Content_Security_Policy
-
-OWASP (The Open Web Application Security Project) Overview
-https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
-
-How Google works
-http://ppcblog.com/how-google-works
--->
 
 #### Operating System, Browser, Layout Engine
 
@@ -2854,6 +2490,373 @@ https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
+
+
+#### Testing and Performance
+
+<!--
+https://hpbn.co
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
+http://shop.oreilly.com/product/0636920041528.do
+-->
+
+<!--
+Responsive Design Tester
+http://responsivetest.net
+
+Manual check using emulators
+Online media query tester
+http://screenqueri.es
+6 free mobile emulators
+http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site
+Opera Mobile Emulator
+http://www.opera.com/developer/tools/mobile
+-->
+
+W3 Validators
+* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+* [W3C Link Checker](https://validator.w3.org/checklink)
+<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
+* [W3C Mobile Validator](http://validator.w3.org/mobile)
+* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
+
+<!--
+Run CSS Lint online
+http://csslint.net
+
+<rule name="MobileOK score of 75+">
+-->
+
+Device Testing
+* [AWS Device Farm](https://aws.amazon.com/device-farm)
+* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
+* [Open Device Labs](http://OpenDeviceLab.com)
+
+Speed and Performance
+* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
+* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
+* [Netflix Fast](https://fast.com)
+* [Yahoo YSlow score of 85+](http://yslow.org)
+
+<!--
+Google’s Web Performance Best Practices
+https://developers.google.com/speed/docs/best-practices/rules_intro
+
+https://developers.google.com/speed/docs/insights/about
+https://developers.google.com/speed/docs/insights/OptimizeImages
+
+http://mobiforge.com/design-development/fixit-image-crunch
+
+http://wave.webaim.org/report
+https://www.w3.org/WAI/ER/tools
+https://www.w3.org/WAI/perspectives
+
+CSS Sprites
+Sprite Me
+http://spriteme.org
+
+Optimize images
+SmushIt.com
+http://www.smushit.com/ysmush.it
+http://www.imgopt.com
+PunyPNG.com
+http://punypng.com
+PNGGauntlet for Windows
+http://pnggauntlet.com
+Image Optim for Mac
+http://imageoptim.com
+
+http://www.responsimulator.com
+http://cssminifier.com
+CSS minification
+
+https://testmysite.thinkwithgoogle.com
+http://ready.mobi
+http://optimizilla.com
+https://tinypng.com
+http://yslow.org/faq
+http://www.imgopt.com
+https://en.wikipedia.org/wiki/Lossy_compression
+http://mobiletest.me
+
+https://search.google.com/search-console/mobile-friendly
+https://testmysite.thinkwithgoogle.com/
+https://www.bing.com/webmaster/tools/mobile-friendliness
+https://www.google.com/webmasters/tools/mobile-friendly
+
+https://website.grader.com
+
+http://www.speedtest.net
+http://www.dslreports.com/speedtest
+-->
+
+Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
+* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [New Relic](http://newrelic.com)
+* [Sentry](http://getsentry.com)
+
+<!--
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+-->
+
+A/B Testing
+* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
+* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+
+App Invites or Beta Testing
+* [Google App Invites](https://developers.google.com/app-invites)
+* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+Accessibility
+* [WebAIM](http://webaim.org)
+* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
+* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
+* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
+* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
+
+<!--
+https://ft-interactive.github.io/accessibility
+-->
+
+Microsoft Inclusion Approach
+* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
+
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
+<!--
+https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
+[A Web Designer’s SEO Checklist](http://webdesign.tutsplus.com/articles/general/seo-checklist/?search_index=3)
+[Search Engine Optimization FAQ](http://webdesign.tutsplus.com/articles/general/search-engine-optimization-faq/)
+
+[quick tips](http://webdesign.tutsplus.com/articles/general/quick-tip-choose-a-hosting-provider-based-on-your-needs/?search_index=1).
+[such as screenreaders](http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/)
+[XML Sitemap](http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/)
+[Easy Version Control with Git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/).
+
+[Responsivator](http://dfcb.github.com/Responsivator/) and [BrowserStack](http://www.browserstack.com/)
+[Blame Stella](https://www.blamestella.com/)
+[GoSquared](https://www.gosquared.com/) or [KISSmetrics](https://www.kissmetrics.com/)
+[SSL encryption](http://www.thawte.com/) [TRUSTe](http://www.truste.com/products-and-services/enterprise-privacy/TRUSTed-websites)
+[Basecamp](http://basecamp.com/)
+-->
+
+<!--
+Play Version Manager
+https://github.com/kaiinkinen/pvm
+
+What you should know
+http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
+
+IntelliJ IDEA Spell Checker
+http://www.jetbrains.com/idea/webhelp/spellchecking.html
+
+Check website in all browsers
+BrowserShots.org
+http://browsershots.org
+Browserling.com
+https://browserling.com
+Spoon.net
+http://spoon.net/browsers
+
+Decide on www-subdomain
+no-www.org score of 'B'
+http://no-www.org
+...or www.yes-www.org
+http://www.yes-www.org
+Handle 'www' in web.config
+http://madskristensen.net/post/url-rewrite-and-the-www-subdomain
+
+Remove 'www' subdomain
+Add the attribute rel='nofollow' to user-generated links to avoid spam
+Redirect after a POST to prevent a refresh from submitting again
+
+Use 'viewport' meta-tag
+Don’t Forget the Viewport Meta Tag
+http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag
+Make your website mobile friendly
+http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx
+
+Use correct input types
+Input type: Email, Url, Phone
+http://html5tutorial.info/html5-contact.php
+Diving in to HTML5 forms
+http://diveintohtml5.info/forms.html
+
+Analytics
+Uptime monitoring
+Uptime robot
+http://www.uptimerobot.com
+Pingdom Website Monitor
+https://www.pingdom.com
+GotSiteMonitor.com
+http://www.gotsitemonitor.com
+
+http://tools.pingdom.com/fpt
+
+Traffic analysis"> (Google Analytics)
+StatCounter
+http://statcounter.com
+Clicky
+http://clicky.com
+Piwik
+http://piwik.org
+
+Optimize HTTP headers
+redbot.org
+http://redbot.org
+
+Cloud optimizations
+Reduce I/O to disk
+http://stackoverflow.com/questions/11350800/play-constantly-writes-to-disc-causing-higher-bill-on-amazon-ec2
+
+Static resources
+Add long TTL with Cache-Control
+http://www.playframework.org/documentation/2.0.4/Assets
+Minify Javascript
+http://www.playframework.org/documentation/2.0.4/AssetsGoogleClosureCompiler
+Minify CSS
+http://www.cssminifier.com
+Use HTML 5 Manifest
+http://diveintohtml5.info/offline.html
+
+A more useful 404
+http://www.alistapart.com/articles/amoreuseful404
+
+Favicon Cheat Sheet
+http://github.com/audreyr/favicon-cheat-sheet
+
+Use friendly URLs
+11 best practices for URLs
+http://www.seomoz.org/blog/11-best-practices-for-urls
+URL rewriting in IIS
+http://www.iis.net/learn/extensions/url-rewrite-module/url-rewrite-module-configuration-reference
+URL rewrite in Apache
+http://httpd.apache.org/docs/current/mod/mod_rewrite.html
+
+Print-friendly CSS
+Set up a print stylesheet
+http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet
+Have a unified notification system across app
+Don't display unfriendly errors directly to the user
+Environment Integration
+Safari on iOS
+http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
+
+Internet Explorer on Windows
+http://msdn.microsoft.com/en-us/library/ie/hh781490%28v=vs.85%29.aspx
+Windows 8 Tiles
+http://www.buildmypinnedsite.com
+
+A/B Testing
+ABalytics
+https://github.com/danmaz74/ABalytics
+
+HTML validation
+Dr. Watson
+http://watson.addy.com
+
+Verify source code (Scala)
+Scala Style
+http://www.scalastyle.org
+SCCT
+http://mtkopone.github.com/scct
+
+Automated testing
+Testomato
+http://www.testomato.com
+
+Accessibility validation
+Common problems and solutions
+http://accessibility.oit.ncsu.edu/accessibleu/problems.html
+ 
+WAI-ARIA Landmarks">
+Using WAI-ARIA Landmarks
+http://accessibility.oit.ncsu.edu/blog/2011/06/30/using-aria-landmarks-a-demonstration
+Guide to WAI-ARIA
+http://www.alistapart.com/articles/the-accessibility-of-wai-aria
+Practical examples
+http://www.punkchip.com/2010/11/aria-basic-findings
+
+Security
+Follow best practices
+https://asafaweb.com/">ASafaaWeb security analyzer
+OWASP Top 10 project
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+OWASP Cheat Sheets
+https://www.owasp.org/index.php/Cheat_Sheets
+CWE/SANS Top 25
+http://cwe.mitre.org/top25
+
+Cross-site scripting
+XSS cheat sheet
+https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
+DOM based XSS cheat sheet
+https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
+Free XSS scanner
+http://www.acunetix.com/cross-site-scripting/scanner
+
+Cross-site request forgery
+Explanation and walkthrough
+http://www.codinghorror.com/blog/2008/09/cross-site-request-forgeries-and-you.html
+CSRF cheat sheet
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
+
+Secure Passwords
+BCrypt
+http://www.mindrot.org/projects/jBCrypt
+SCrypt
+https://github.com/wg/scrypt
+
+Hash passwords using salt to prevent rainbow attacks
+Secure connection (SSL)
+Setup SSL on Play 2
+http://stackoverflow.com/questions/10748305/how-to-config-playframework2-to-support-ssl
+Setup SSL on Apache
+http://www.digicert.com/ssl-certificate-installation-apache.htm
+SSL Server Test
+https://www.ssllabs.com/ssltest
+
+X-Frame-Options
+https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options
+
+HTTP Strict Transport Security
+https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security
+
+Content Security Policy
+https://developer.chrome.com/extensions/contentSecurityPolicy
+https://developer.mozilla.org/en-US/docs/Web/Security/CSP
+https://developer.mozilla.org/en-US/docs/Security/CSP/Using_Content_Security_Policy
+https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy
+
+The Open Web Application Security Project
+https://en.wikipedia.org/wiki/OWASP
+Content Security Policy
+https://en.wikipedia.org/wiki/Content_Security_Policy
+
+CSP (Content Security Policy)
+https://github.com/yandex/csp-tester
+http://www.html5rocks.com/en/tutorials/security/content-security-policy
+https://www.owasp.org/index.php/Content_Security_Policy
+
+OWASP (The Open Web Application Security Project) Overview
+https://www.owasp.org/index.php/HTTP_Strict_Transport_Security
+
+How Google works
+http://ppcblog.com/how-google-works
+-->
 
 #### Standards
 
