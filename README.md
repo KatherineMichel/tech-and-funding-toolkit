@@ -1210,6 +1210,20 @@ Web General (See also JavaScript)
 * [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
+HTML
+* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+
+CSS
+* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
+* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+
 W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
@@ -1242,12 +1256,7 @@ Can I Use and Vendor-prefixed CSS Property Overview
 Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
-HTML
-* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+
 
 <!--
 W3Schools
@@ -1263,11 +1272,6 @@ XML, XHTML
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 -->
 
-CSS
-* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
-* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
 <!--
 https://www.w3.org/DesignIssues/Uses.html
