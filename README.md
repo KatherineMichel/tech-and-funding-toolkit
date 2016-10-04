@@ -604,9 +604,6 @@ Product/Service Directories
 * [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
 * [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
 
-Wayback Machine
-* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
-
 Built With (Exluding Django; See also Squarespace)
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
 * [Built With](http://builtwith.com)  
@@ -619,6 +616,12 @@ Built With (Exluding Django; See also Squarespace)
 Code Search
 * [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
 * [Nerdy Data](http://nerdydata.com)  
+
+Wayback Machine
+* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
+
+Archive Team
+* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
 
 Whois Wikipedia
 * [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
@@ -7209,9 +7212,6 @@ KDE and KHTML
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 * [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
-
-Archive Team
-* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
 
 Developer Surveys
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
