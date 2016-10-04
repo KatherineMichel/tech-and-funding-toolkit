@@ -55,12 +55,16 @@ Table of Content
 
 * [Front-End Development](#front-end-development) 
 
-* [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
+* [Standards](#standards)
 * [JavaScript](#javascript)
-  * [AJAX and jQuery](#ajax-and-jquery)
+* [AJAX and jQuery](#ajax-and-jquery)
+
   * [JavaScript Ecosystem](#javascript-ecosystem)
   * [JavaScript Framework](#javascript-framework)
   * [JavaScript Tools](#javascript-tools)
+
+* [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
+
 * [Ruby and Jekyll](#ruby-and-jekyll)
 * [PHP](#php)
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
@@ -1427,8 +1431,10 @@ Sharing Buttons
 * [AddToAny](https://www.addtoany.com) 
 * [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
+
 Net Promoter
 * [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
+
 
 #### Testing and Performance
 
@@ -1816,13 +1822,6 @@ Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 * [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
-* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
 
 Compilers
 * [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
@@ -2761,6 +2760,110 @@ CSS
 * [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
+CSS Zen Garden 
+* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
+* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
+
+Responsive Design Examples
+* [Media Queries Examples](http://mediaqueri.es)
+* [Responsive Design Examples](https://responsivedesign.is/examples)
+
+<!--
+https://github.com/silverbux/bootflat-admin
+https://github.com/almasaeed2010/AdminLTE
+https://github.com/VinceG/Bootstrap-Admin-Theme 
+https://github.com/onokumus/Bootstrap-Admin-Template
+https://github.com/akveo/blur-admin
+https://github.com/puikinsh/gentelella
+-->
+
+Foundation
+* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
+* [Foundation for Emails](http://foundation.zurb.com/emails.html)
+* [Zurb Library](http://zurb.com/library)
+
+Theme Marketplace
+* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
+
+Good, Basic Templates, Themes
+* [Template Stash](http://www.templatestash.com)
+* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
+* [BootstrapTaste](http://bootstraptaste.com)
+* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
+* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
+* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
+* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
+
+<!--
+http://www.bootstrapzero.com/c/one-page-themes
+http://bootstrap.theme.cards/l
+
+http://www.bootply.com
+
+Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
+Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
+href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
+-->
+
+Good, Basic Templates, Themes- Skel
+* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
+* [Templated](http://templated.co)
+* [HTML5 UP](http://html5up.net)
+
+Kickstarters
+* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
+* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
+* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
+
+Static Site Generators and CMS (See also Jekyll)
+* [StaticGen](https://www.staticgen.com)
+
+<!--
+http://prose.io
+https://getgrav.org
+https://hexo.io
+-->
+
+Favicon, Sitemap, robots.txt, humans.txt
+* [XML Sitemaps](http://www.xml-sitemaps.com)
+* [sitemaps.org](http://www.sitemaps.org)
+* [humans.txt](http://humanstxt.org)
+* [robots.txt](http://www.robotsgenerator.com)
+
+<!--
+robots.txt tutorial
+http://tools.seobook.com/robots-txt
+Real Favicon Generator
+http://realfavicongenerator.net
+-->
+
+Gravatar
+* [Gravatar](http://en.gravatar.com)
+
+Utilites
+* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
+* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
+* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
+
+<!--
+https://websitedownloader.io
+https://webpreserver.com
+https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
+-->
+
+
+#### Standards
+
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
+* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
 
 W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
@@ -2845,10 +2948,6 @@ Responsiveness- and Media Queries
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
 * [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
 
-Responsive Design Examples
-* [Media Queries Examples](http://mediaqueri.es)
-* [Responsive Design Examples](https://responsivedesign.is/examples)
-
 Bootstrap, Font Awesome
 * [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
 * [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
@@ -2857,76 +2956,6 @@ Bootstrap, Font Awesome
 * [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
 * [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 * [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-
-<!--
-https://github.com/silverbux/bootflat-admin
-https://github.com/almasaeed2010/AdminLTE
-https://github.com/VinceG/Bootstrap-Admin-Theme 
-https://github.com/onokumus/Bootstrap-Admin-Template
-https://github.com/akveo/blur-admin
-https://github.com/puikinsh/gentelella
--->
-
-Foundation
-* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
-* [Foundation for Emails](http://foundation.zurb.com/emails.html)
-* [Zurb Library](http://zurb.com/library)
-
-Theme Marketplace
-* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
-
-Good, Basic Templates, Themes
-* [Template Stash](http://www.templatestash.com)
-* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
-* [BootstrapTaste](http://bootstraptaste.com)
-* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
-* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
-* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
-* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
-
-<!--
-http://www.bootstrapzero.com/c/one-page-themes
-http://bootstrap.theme.cards/l
-
-http://www.bootply.com
-
-Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
-Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
-href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
--->
-
-Good, Basic Templates, Themes- Skel
-* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
-* [Templated](http://templated.co)
-* [HTML5 UP](http://html5up.net)
-
-Kickstarters
-* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
-* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
-* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
-* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
-
-Static Site Generators and CMS (See also Jekyll)
-* [StaticGen](https://www.staticgen.com)
-
-<!--
-http://prose.io
-https://getgrav.org
-https://hexo.io
--->
-
-Utilites
-* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
-* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
-* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
-
-<!--
-https://websitedownloader.io
-https://webpreserver.com
-https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
--->
 
 <!--
 https://developer.mozilla.org/en-US/Apps
@@ -2961,159 +2990,6 @@ https://developer.mozilla.org/en-US/docs/Glossary
 http://whatwg.github.io/loader
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
--->
-
-
-CSS Zen Garden 
-* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
-* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
-
-Favicon, Sitemap, robots.txt, humans.txt
-* [XML Sitemaps](http://www.xml-sitemaps.com)
-* [sitemaps.org](http://www.sitemaps.org)
-* [humans.txt](http://humanstxt.org)
-* [robots.txt](http://www.robotsgenerator.com)
-
-<!--
-robots.txt tutorial
-http://tools.seobook.com/robots-txt
-Real Favicon Generator
-http://realfavicongenerator.net
--->
-
-Gravatar
-* [Gravatar](http://en.gravatar.com)
-
-#### Back-End Programming Languages, MVCs
-
-Programming Languages
-* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-
-Miscellaneous Programming Languages
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
-* [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
-* [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
-* [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
-* [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
-* [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
-* [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
-* [Angular Dart GitHub](https://github.com/angular/angular.dart)  
-* [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
-* [Julia GitHub](https://github.com/JuliaLang/julia)  
-* [Hack](http://hacklang.org) and [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
-* [Haskell](http://www.haskell.org/haskellwiki/Haskell), [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language)), and [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
-* [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
-* [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
-* [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
-* [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
-* Apple- Swift
-
-Golang, otherwise known as "Go"
-* [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
-* [Golang](http://golang.org)  
-* [Learn X in Y Minutes Golang](https://learnxinyminutes.com/docs/go)
-* [Golang Documentation](http://golang.org/doc)  
-* [Golang Packages](http://golang.org/pkg)  
-* [Golang Search](http://go-search.org)  
-* [Golang Play](http://play.golang.org)  
-* [Golang Talks](https://talks.golang.org)
-* [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
-* [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
-
-<!--
-https://gobyexample.com
-https://tour.golang.org/welcome/1
-
-https://golang.org/dl
-https://gist.github.com/jcbwlkr/2cbe72427f9cbc41bfbb7972d62429d8
--->
-
-Golang, Users
-* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
-
-Golang Installation
-* [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
-
-Golang- Frameworks
-* [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
-* [Gin GitHub](https://github.com/gin-gonic/gin) 
-* [Martini GitHub](https://github.com/go-martini/martini)
-* [Revel GitHub](https://github.com/revel/revel)
-
-<!--
-http://gohugo.io
-https://github.com/spf13/hugo
--->
-
-Java- General
-* [Java Website](http://www.java.com/en)  
-* [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
-* [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
-* [Java](http://www.oracle.com/technetwork/java/index-jsp-135888.html)  
-* [Java Documentation](http://www.oracle.com/technetwork/documentation/index.html#java)  
-* [Java Programming Language Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
-* [Java Programming Language Tutorials](http://docs.oracle.com/javase/tutorial)  
-* [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)  
-* [Java Core Libraries](http://openjdk.java.net/groups/core-libs)  
-* [Java ME Reference](http://www.oracle.com/technetwork/java/javame/documentation/index.html)  
-* [NetBeans Docs](https://netbeans.org/kb/index.html)  
-* [NetBeans Plugins](http://plugins.netbeans.org/)  
-* [Eclipse Docs](http://help.eclipse.org/kepler/index.jsp)  
-* [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
-* [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet) 
-
-#### JavaScript
-
-JavaScript
-* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
-* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
-* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
-
-JavaScript Tutorials
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-
-JavaScript Tutorials- Mozilla
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
-
-CommonJS
-* [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-* [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
-* [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
-
-JSON
-* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
-* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
-
-<!--
-http://www.json.org/xml.html
 -->
 
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
@@ -3186,6 +3062,42 @@ https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=
 ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+#### JavaScript
+
+JavaScript
+* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
+* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
+* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+
+JavaScript Tutorials
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+
+JavaScript Tutorials- Mozilla
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+JavaScript Event Keycodes
+* [JavaScript Event Keycodes](http://keycode.info)
+
+CommonJS
+* [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+* [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
+* [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
+
+JSON
+* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
+* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
+
+<!--
+http://www.json.org/xml.html
+-->
 
 #### AJAX and jQuery
 
@@ -3558,6 +3470,102 @@ https://django-pipeline.readthedocs.org/en/latest
 http://django-compressor.readthedocs.org/en/latest
 http://webassets.readthedocs.org/en/latest
 -->
+
+#### Back-End Programming Languages, MVCs
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+
+Miscellaneous Programming Languages
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
+* [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
+* [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
+* [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
+* [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
+* [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
+* [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
+* [Angular Dart GitHub](https://github.com/angular/angular.dart)  
+* [Erlang Wikipedia](http://en.wikipedia.org/wiki/Erlang_(programming_language))  
+* [Julia GitHub](https://github.com/JuliaLang/julia)  
+* [Hack](http://hacklang.org) and [Hack Wikipedia](http://en.wikipedia.org/wiki/Hack_(programming_language))  
+* [Haskell](http://www.haskell.org/haskellwiki/Haskell), [Haskell Wikipedia](http://en.wikipedia.org/wiki/Haskell_(programming_language)), and [Haskell Lambda Calculus](http://www.haskell.org/haskellwiki/Lambda_calculus)  
+* [Lisp Programming Language Wikipedia](http://en.wikipedia.org/wiki/Lisp_(programming_language))  
+* [OCaml](http://ocaml.org) and [OCaml Wikipedia](http://en.wikipedia.org/wiki/Ocaml)  
+* [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
+* [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
+* Apple- Swift
+
+Golang, otherwise known as "Go"
+* [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
+* [Golang](http://golang.org)  
+* [Learn X in Y Minutes Golang](https://learnxinyminutes.com/docs/go)
+* [Golang Documentation](http://golang.org/doc)  
+* [Golang Packages](http://golang.org/pkg)  
+* [Golang Search](http://go-search.org)  
+* [Golang Play](http://play.golang.org)  
+* [Golang Talks](https://talks.golang.org)
+* [Golang Blog](http://blog.golang.org/gos-declaration-syntax)  
+* [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
+
+<!--
+https://gobyexample.com
+https://tour.golang.org/welcome/1
+
+https://golang.org/dl
+https://gist.github.com/jcbwlkr/2cbe72427f9cbc41bfbb7972d62429d8
+-->
+
+Golang, Users
+* [Golang Users GitHub](https://github.com/golang/go/wiki/GoUsers)
+
+Golang Installation
+* [Golang Installation Ubuntu GitHub](https://github.com/golang/go/wiki/Ubuntu)
+
+Golang- Frameworks
+* [Go Dropbox GitHub](https://github.com/dropbox/godropbox)
+* [Gin GitHub](https://github.com/gin-gonic/gin) 
+* [Martini GitHub](https://github.com/go-martini/martini)
+* [Revel GitHub](https://github.com/revel/revel)
+
+<!--
+http://gohugo.io
+https://github.com/spf13/hugo
+-->
+
+Java- General
+* [Java Website](http://www.java.com/en)  
+* [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
+* [Java Syntax Wikipedia](http://en.wikipedia.org/wiki/Java_syntax)  
+* [Java](http://www.oracle.com/technetwork/java/index-jsp-135888.html)  
+* [Java Documentation](http://www.oracle.com/technetwork/documentation/index.html#java)  
+* [Java Programming Language Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
+* [Java Programming Language Tutorials](http://docs.oracle.com/javase/tutorial)  
+* [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)  
+* [Java Core Libraries](http://openjdk.java.net/groups/core-libs)  
+* [Java ME Reference](http://www.oracle.com/technetwork/java/javame/documentation/index.html)  
+* [NetBeans Docs](https://netbeans.org/kb/index.html)  
+* [NetBeans Plugins](http://plugins.netbeans.org/)  
+* [Eclipse Docs](http://help.eclipse.org/kepler/index.jsp)  
+* [Eclipse Dynamic Languages Toolkit Wikipedia](http://en.wikipedia.org/wiki/Dynamic_languages_toolkit)  
+* [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet) 
 
 #### Ruby and Jekyll
 
