@@ -7129,7 +7129,6 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Math Overflow](http://mathoverflow.net)
 * [Minecraft](https://minecraft.net)
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Pluralsight](https://www.pluralsight.com) and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
@@ -7143,6 +7142,9 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+
+Math
+* [Math Overflow](http://mathoverflow.net)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 
 <!--
