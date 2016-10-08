@@ -1626,6 +1626,7 @@ Mac OS X
 
 Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
 * [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
 * [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
@@ -7299,10 +7300,9 @@ GNU Software and Manuals
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 * [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
 
-KDE and KHTML
+KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
-* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
 
 Developer Surveys
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
