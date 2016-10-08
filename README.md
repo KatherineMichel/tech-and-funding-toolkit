@@ -5458,6 +5458,14 @@ Status
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 
 <!--
+Repeat? 
+
+* [Cloud9](https://c9.io/katherinemichel)
+
+chrome://apps
+-->
+
+<!--
 https://help.github.com/articles/about-github-mirrors
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 
