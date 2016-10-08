@@ -7120,7 +7120,6 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com)  
-* [Code.org](https://code.org)
 * [Khan Academy GitHub](https://github.com/Khan) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
@@ -7146,6 +7145,7 @@ Math and General Knowledge
 
 Robotics and/or Geared toward Kids
 * [Arduino](https://www.arduino.cc)
+* [Code.org](https://code.org)
 * [Jam](https://jam.com)
 * [Raspberry PI](http://www.raspberrypi.org)
 * [Kano Playground](http://art.kano.me/playground)
