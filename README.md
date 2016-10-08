@@ -7115,37 +7115,42 @@ Programming Groups
 * [PHP Women](https://phpwomen.org)
 
 Programming and Math Learning Tools (See also MOOCs)
-* [Arduino](https://www.arduino.cc)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com)  
-* [CodePath GitHub](https://github.com/codepath)
 * [Code.org](https://code.org)
-* [Feynman Lectures](http://www.feynmanlectures.caltech.edu)
-* [Jam](https://jam.com)
-* [Kano Playground](http://art.kano.me/playground)
-* [Khan Academy](https://www.khanacademy.org) and [Khan Academy GitHub](https://github.com/Khan)  
+* [Khan Academy GitHub](https://github.com/Khan) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Minecraft](https://minecraft.net)
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Pluralsight](https://www.pluralsight.com) and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
-* [Project Euler](http://www.projecteuler.net)  
-* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
-* [Project Euler Problems](http://projecteuler.net/problems)  
-* [Raspberry PI](http://www.raspberrypi.org)
 * [Rosetta Code](http://rosettacode.org)
-* [Scratch (MIT)](https://scratch.mit.edu)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 
-Math
+Mobile
+* [CodePath GitHub](https://github.com/codepath)
+
+Math and General Knowledge
+* [Project Euler](http://www.projecteuler.net)  
+* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
+* [Project Euler Problems](http://projecteuler.net/problems)  
+* [Khan Academy](https://www.khanacademy.org)
 * [Math Overflow](http://mathoverflow.net)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
+
+Robotics and/or Geared toward Kids
+* [Arduino](https://www.arduino.cc)
+* [Jam](https://jam.com)
+* [Raspberry PI](http://www.raspberrypi.org)
+* [Kano Playground](http://art.kano.me/playground)
+* [Minecraft](https://minecraft.net)
+* [Scratch (MIT)](https://scratch.mit.edu)
 
 <!--
 https://github.com/MakeSchool
