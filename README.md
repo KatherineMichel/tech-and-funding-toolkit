@@ -10047,7 +10047,6 @@ Books- Historical
 * [Sun Tzu: The Art of War](http://www.au.af.mil/au/awc/awcgate/artofwar.htm) 
 
 Courses
-* [Balaji S. Srinivasan and Vijay S. Pande: Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
 * [Marissa Mayer: Ideas Come from Everywhere (New Product Development Process)](https://www.udemy.com/ideas-come-from-everywhere)
 * [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Reid Hoffman: CS183C Blitzscaling Introductory Post](https://www.linkedin.com/pulse/cs183c-technology-enabled-blitzscaling-visible-secret-reid-hoffman), [Eric Schmidt](https://www.youtube.com/watch?v=hcRxFRgNpns) and [Student Collection](https://medium.com/cs183c-blitzscaling-student-collection)
