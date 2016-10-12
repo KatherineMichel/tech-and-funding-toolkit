@@ -2639,7 +2639,6 @@ http://ready.mobi
 http://optimizilla.com
 https://tinypng.com
 http://yslow.org/faq
-http://www.imgopt.com
 https://en.wikipedia.org/wiki/Lossy_compression
 http://mobiletest.me
 
