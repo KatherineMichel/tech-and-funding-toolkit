@@ -1211,7 +1211,7 @@ Facebook
 * [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
 
 Google
-* [Google Fonts](https://fonts.google.com), [Google Fonts (Old)](http://www.google.com/fonts) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
+* [Google Fonts](https://fonts.google.com) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
 * [Google Roboto GitHub](https://github.com/google/roboto) 
 * [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
