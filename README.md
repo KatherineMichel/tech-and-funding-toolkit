@@ -2111,6 +2111,8 @@ http://gitref.org/branching
 
 Git Branching
 http://www.atlassian.com/git/tutorial/git-branches#!branch
+
+* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 -->
 
 Git- Official Learning Resources
