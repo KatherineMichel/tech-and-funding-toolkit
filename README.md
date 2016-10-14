@@ -89,6 +89,7 @@ Table of Content
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
 
+* [Dashboards](#dashboards)
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
@@ -921,10 +922,13 @@ http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
 
 Design- General
 * [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
-* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
 * [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
 * [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
 * [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
+
+<!--
+* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+-->
 
 Responsive Design (See also Media Queries Examples)
 * [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
@@ -1072,15 +1076,14 @@ Turn Key Websites
 * [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
 
 Miscellaneous
-* [Namium (Name Generator)](http://www.naminum.com)
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+
+Lipsum
+* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
 Fonts (See also Google Apps)
 * [Font Famous](http://fontfamous.com)
 * [Fontscape](http://www.fontscape.com)
-
-Lipsum
-* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
 Color
 * [Color Wikipedia](https://en.wikipedia.org/wiki/Color)
@@ -1236,11 +1239,10 @@ Accelerated Mobile Pages (AMP HTML)
 
 #### Social Media and Social Graph
 
-Graph and Schema- General (See also Facebook Open Graph)
+Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
 * [Open Graph Protocol Schema](http://ogp.me) 
 * [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
 * [Schema Creator](http://schema-creator.org)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
 
 Open Search
 * [Open Search](http://www.opensearch.org/Home)
@@ -1360,10 +1362,6 @@ https://webmasters.googleblog.com
 
 https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
 -->
-
-Google Webmaster and Analytics Dashboards
-* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
-* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
 Google Webmaster and Analytics (Web)
 * [Google Webmaster](http://www.google.com/webmasters)
@@ -1852,16 +1850,6 @@ Firefox Add-Ons
 
 <!--
 https://testpilot.firefox.com
-
-Browser Statistics
-
-http://www.gnu.org/software/coreutils/manual/coreutils.html
-
-http://ftp.gnu.org
-http://gcc.gnu.org
-
-http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Hurd
 -->
 
 #### Command Line and Shell
@@ -2489,6 +2477,7 @@ https://websitedownloader.io
 https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
+
 
 #### Programming Language Style Guides
 
@@ -3349,6 +3338,7 @@ Facebook- React Native (React Stack)
 https://facebook.github.io/react-native/docs/embedded-app-ios.html
 -->
 
+
 JSX
 * [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
 * [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
@@ -3359,6 +3349,7 @@ http://buildwithreact.com/tutorial/jsx
 https://babeljs.io/docs/plugins/transform-react-jsx/
 http://www.sitepoint.com/getting-started-react-jsx
 -->
+
 
 Ionic Framework (React Stack)
 * [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
@@ -3384,13 +3375,14 @@ Build Tools (grunt, gulp, bower, browserify, webpack)
 
 Other React Stack Helpers
 * Polymer
-* [ESLint](http://eslint.org)
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
 * [Hapi](http://hapijs.com)
 * [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
-* [JSX](https://jsx.github.io)
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
 * [Relax (CMS) GitHub](https://github.com/relax/relax)
+
+* [ESLint](http://eslint.org)
+* [JSX](https://jsx.github.io)
 
 <!--
 https://github.com/airbnb/enzyme
@@ -5449,7 +5441,15 @@ http://il.pycon.org/2016/about/speakers.html
 
 
 
-#### Deployment and Cloud
+#### Dashboards
+
+<!--
+Browser Statistics
+
+Google Webmaster and Analytics Dashboards
+* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
+* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
+-->
 
 Status
 * [GitBook Status](http://status.gitbook.com)
@@ -5505,6 +5505,8 @@ https://play.google.com/apps/publish
 
 https://www.linkedin.com/help/linkedin?lang=en
 -->
+
+#### Deployment and Cloud
 
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
@@ -7298,6 +7300,17 @@ GNU Software and Manuals
 * [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 * [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
+
+<!--
+http://www.gnu.org/software/coreutils/manual/coreutils.html
+
+http://ftp.gnu.org
+http://gcc.gnu.org
+
+http://en.wikipedia.org/wiki/GNU_readline
+https://en.wikipedia.org/wiki/GNU_Hurd
+-->
+-->
 
 KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
@@ -9611,7 +9624,8 @@ Patent Search and FOIA
 * [Stack Exchange Patents](http://patents.stackexchange.com)
 * [Twitter Innovator's Patent Agreement](https://github.com/twitter/innovators-patent-agreement)
 
-Trademarkia
+Name and Trademark
+* [Namium (Name Generator)](http://www.naminum.com)
 * [Trademarkia](http://www.trademarkia.com)
 
 Digital Millennium Copyright Act
