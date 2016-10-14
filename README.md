@@ -1007,7 +1007,6 @@ Prototyping Software- Keynote- Docs
 http://keynotopia.com/#how
 http://keynotopia.com/guides
 http://keynotopia.com/bootstrap
-http://keynotopia.com/keynotopia-super-bundle
 http://keynotopia.com/keynote-mockups-templates
 http://keynotopia.com/web-prototyping
 
