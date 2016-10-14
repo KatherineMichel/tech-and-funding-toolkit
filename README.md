@@ -3373,16 +3373,13 @@ Build Tools (grunt, gulp, bower, browserify, webpack)
 * [webpack GitHub](https://github.com/webpack/webpack) and [webpack docs](https://webpack.github.io/docs)
 * [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 
-Other React Stack Helpers
+Other React Stack Helpers (See also ESLint and JSX)
 * Polymer
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
 * [Hapi](http://hapijs.com)
 * [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
 * [Relax (CMS) GitHub](https://github.com/relax/relax)
-
-* [ESLint](http://eslint.org)
-* [JSX](https://jsx.github.io)
 
 <!--
 https://github.com/airbnb/enzyme
@@ -3467,13 +3464,12 @@ Extension Languages
 * [Underscore GitHub](https://github.com/jashkenas/underscore)  
 
 Other JavaScript Helpers
-* [JSHint GitHub](https://github.com/jshint/jshint) and [JSHint Docs](http://jshint.com/docs)
 * [Lodash GitHub](https://github.com/lodash/lodash)
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
 
 ESLint, JSHint, JSLint
-* [ESLint](http://eslint.org)
+* [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
 * [JSHint](http://jshint.com)
 * [JSLint](http://jslint.org)
 
