@@ -1710,7 +1710,11 @@ Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
 Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products), [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+
+<!--
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+-->
 
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
