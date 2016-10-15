@@ -2628,7 +2628,6 @@ http://www.responsimulator.com
 http://cssminifier.com
 CSS minification
 
-https://testmysite.thinkwithgoogle.com
 http://ready.mobi
 http://optimizilla.com
 https://tinypng.com
