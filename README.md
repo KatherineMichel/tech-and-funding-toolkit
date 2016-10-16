@@ -3402,9 +3402,7 @@ Node.js Debugger
 http://nodejs.org/api/debugger.html#debugger_breakpoints
 http://nodejs.org/api/debugger.html
 
-http://nodejs.org/api
 https://nodejs.org/metrics/#versions
-https://nodejsmodules.org/
 https://github.com/sequelize/sequelize
 https://github.com/caolan/async
 -->
