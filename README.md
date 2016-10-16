@@ -5508,6 +5508,11 @@ https://www.linkedin.com/help/linkedin?lang=en
 
 #### Deployment and Cloud
 
+Domain Names
+* [Google Domains](https://domains.google.com)
+* [Namecheap](https://www.namecheap.com)
+* [iwantmyname](https://iwantmyname.com)
+
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
 * [Domize](http://domize.com)  
@@ -5522,13 +5527,6 @@ IANA, Domize, DNSimple, Heroku
 
 <!--
 https://developers.google.com/speed/public-dns
-
-See also Domains
-
-Domain Names
-* [Google Domains](https://domains.google.com)
-* [Namecheap](https://www.namecheap.com)
-* [iwantmyname](https://iwantmyname.com)
 -->
 
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
@@ -5573,7 +5571,11 @@ https://www.godaddy.com/help/what-is-a-subdomain-296
 -->
 
 Amazon
-* [Amazon Profiles](http://www.amazon.com/gp/profile), [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+* [Amazon Profiles](http://www.amazon.com/gp/profile)
+
+<!--
+* [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+-->
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
@@ -5618,6 +5620,15 @@ AWS- Pricing
 * [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
 * [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
 
+<!--
+http://aws.amazon.com/pricing
+https://aws.amazon.com/ec2/purchasing-options
+https://aws.amazon.com/ec2/pricing
+https://aws.amazon.com/ec2/spot/pricing
+https://aws.amazon.com/s3/pricing
+http://aws.amazon.com/pricing/rds
+-->
+
 AWS- Websites, Mobile, Social
 * [AWS Websites](https://aws.amazon.com/websites)
 * [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
@@ -5655,20 +5666,9 @@ http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds
 
 http://aws.amazon.com/documentation/sdk-for-ios/
 
-https://www.amazon.com/gp/drive/landing/everything
-https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
-https://support.google.com/drive/answer/2375123
-
 https://live.awsevents.com
 
 http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
-
-http://aws.amazon.com/pricing
-https://aws.amazon.com/ec2/purchasing-options
-https://aws.amazon.com/ec2/pricing
-https://aws.amazon.com/ec2/spot/pricing
-https://aws.amazon.com/s3/pricing
-http://aws.amazon.com/pricing/rds
 
 http://aws.amazon.com/security
 https://developer.amazon.com/public/apis
@@ -10421,6 +10421,12 @@ Google Account
 * [Google Images](https://images.google.com) 
 * [Google Calendar](https://www.google.com/calendar) 
 * [Google Spaces](https://get.google.com/spaces)
+
+<!--
+https://www.amazon.com/gp/drive/landing/everything
+https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
+https://support.google.com/drive/answer/2375123
+-->
 
 Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
