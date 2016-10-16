@@ -3858,9 +3858,7 @@ WordPress Theme Development (not "Using Themes")
 * [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
 
 <!--
-https://codex.wordpress.org/Installing_WordPress
 https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_at_DigitalOcean
-https://codex.wordpress.org/Moving_WordPress
 https://codex.wordpress.org/Migrating_Plugins_and_Themes
 
 https://codex.wordpress.org/Plugins_Add_New_Screen
