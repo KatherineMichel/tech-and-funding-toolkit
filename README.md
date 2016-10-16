@@ -5603,7 +5603,6 @@ http://docs.aws.amazon.com/gettingstarted/latest/wah/awsgsg-wah.pdf
 
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
 http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
 
@@ -5659,7 +5658,6 @@ http://aws.amazon.com/documentation/sdk-for-ios/
 https://www.amazon.com/gp/drive/landing/everything
 https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
 https://support.google.com/drive/answer/2375123
-https://affiliate-program.amazon.com
 
 https://live.awsevents.com
 
