@@ -5864,9 +5864,12 @@ Google Cloud, App Engine
 * [Google Cloud Developers](https://cloud.google.com/developers)  
 * [Google App Engine](https://developers.google.com/appengine) and [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
 * [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
-* [Google App Engine Code](http://code.google.com/p/googleappengine)  
 * [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
+
+<!--
+* [Google App Engine Code](http://code.google.com/p/googleappengine)  
 * [Google Apps for Work](https://www.google.com/a/signup)  
+-->
 
 Google Cloud Functions (See also Amazon Web Services- Lambda)
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
