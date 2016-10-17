@@ -5462,24 +5462,31 @@ chrome://apps
 -->
 
 <!--
+https://www.google.com/webmasters/verification/verification
+https://www.digitalocean.com/community/questions/how-to-verify-google-webmaster-tools
+
+https://www.slideshare.net/login?from_source=%2Finsight%3Futm_source%3Danalytics_launch%26utm_medium%3Demail%26utm_campaign%3DMarketing
+
+https://play.google.com/apps/publish
+
+https://www.linkedin.com/help/linkedin?lang=en
+
 https://help.github.com/articles/about-github-mirrors
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 
 https://help.gitbook.com/github/how-can-i-export-to-repo.html
 
-https://console.cloud.google.com/code/develop/repo?project=orbital-nova-139906&authuser=0
-https://cloud.google.com/source-repositories/docs/connecting-hosted-repositories#connecting_a_repository
-https://cloud.google.com/source-repositories/docs/connecting-hosted-repositories
-https://cloud.google.com/source-repositories
 https://console.cloud.google.com/code/tools
-
+https://cloud.google.com/source-repositories
 https://console.cloud.google.com/code/develop/repo
+
+https://cloud.google.com/source-repositories/docs/connecting-hosted-repositories
 
 Digital Ocean
 http://ipaddress/info.php
+https://dcc.godaddy.com/manage/domainname/dns
 
 http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
-https://dcc.godaddy.com/manage/domainname/dns
 -->
 
 Consoles
@@ -5490,17 +5497,6 @@ Consoles
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
 * [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
-
-<!--
-https://www.google.com/webmasters/verification/verification
-https://www.digitalocean.com/community/questions/how-to-verify-google-webmaster-tools
-
-https://www.slideshare.net/login?from_source=%2Finsight%3Futm_source%3Danalytics_launch%26utm_medium%3Demail%26utm_campaign%3DMarketing
-
-https://play.google.com/apps/publish
-
-https://www.linkedin.com/help/linkedin?lang=en
--->
 
 #### Deployment and Cloud
 
