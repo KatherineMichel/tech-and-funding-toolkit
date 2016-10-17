@@ -221,6 +221,7 @@ https://github.com/BuzzFeedNews/everything
 * [Craigslist](https://github.com/craigslist)  
 * [Crowdtilt](https://github.com/Crowdtilt)  
 * [Digg](https://github.com/digg)  
+* [Disney](https://github.com/disney)
 * [Disqus](https://github.com/disqus)  
 * [DWNLD](https://github.com/dwnld) 
 * [Dropbox](https://github.com/dropbox)  
