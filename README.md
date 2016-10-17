@@ -5517,7 +5517,7 @@ IANA, Domize, DNSimple, Heroku
 * [DNSimple Heroku](https://dnsimple.com/services-heroku)  
 * [Heroku SSL Certificate DNSimple](https://devcenter.heroku.com/articles/ssl-certificate-dnsimple)  
 * [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)  
-* [DNSimple SSL Certificate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)  
+<!--* [DNSimple SSL Certificate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)-->  
 * [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
 
 <!--
