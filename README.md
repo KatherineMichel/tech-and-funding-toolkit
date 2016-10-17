@@ -2297,6 +2297,19 @@ GitHub- More
 * [Octokit](https://github.com/octokit) 
 * [Education Pack](https://education.github.com/pack)
 
+<!--
+Student Developer Pack
+Atom
+AWS Educate
+Bitnami
+CrowdFlower
+DataDog
+Hack Hands
+Taplytics
+Thinkful
+Transifex
+-->
+
 GitHub- Trending
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending](https://github.com/josephyzhou/github-trending)
@@ -3970,6 +3983,12 @@ WP eCommerce
 * [WooThemes](https://woocommerce.com/woothemes) and [WooThemes GitHub](https://github.com/woothemes)
 * [WooCommerce](https://woocommerce.com) and [WooCommerce GitHub](https://github.com/woothemes/woocommerce)
 * [WooCommerce Hosting Solutions](https://woocommerce.com/hosting-solutions)
+
+<!--
+Bluehost
+Pressable
+WordPress.com VIP
+-->
 
 <!--
 https://docs.woocommerce.com/document/installing-uninstalling-woocommerce
