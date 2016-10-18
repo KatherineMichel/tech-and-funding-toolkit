@@ -257,6 +257,7 @@ https://github.com/BuzzFeedNews/everything
 * [Imgur](https://github.com/imgur)  
 * [Instagram](https://github.com/Instragram)  
 * [Justin.tv](https://github.com/justintv)  
+* [Keen](https://github.com/keen)
 * [Kickstarter](https://github.com/kickstarter)  
 * [KISSmetrics](https://github.com/kissmetrics)  
 * [Klout](https://github.com/klout)
