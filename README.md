@@ -2268,7 +2268,6 @@ GitHub Services Integration
 <!--
 https://help.github.com/articles/about-webhooks/
 https://developer.github.com/v3/repos/hooks/
-https://developer.github.com/webhooks/
 http://githooks.com/
 
 https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
