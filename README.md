@@ -6054,10 +6054,9 @@ Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
 Python- Django- AWS Elastic Beanstalk Deployment
 * [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
 
-Python- Django- Digital Ocean Deployment
+Python- Django- Digital Ocean Deployment (See also Docker)
 * [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
 * [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
-* [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
 
 Python- Django- OpenShift Deployment
 * [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
@@ -6353,6 +6352,8 @@ Docker (See also Kubernetes)
 * [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
 
 <!--
+* [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
+
 https://bitnami.com/webinar/stacksmith
 -->
 
