@@ -5826,7 +5826,7 @@ https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digita
 https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
-https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh
+
 https://www.digitalocean.com/community/tutorials/how-to-log-into-your-droplet-with-putty-for-windows-users
 https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users
 
