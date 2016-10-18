@@ -1758,7 +1758,6 @@ https://developers.google.com/cast/docs/developers
 Old Docs
 * [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
 
-https://developer.chrome.com/devtools
 https://developer.chrome.com/devtools/docs
 https://developer.chrome.com/devtools/docs/network
 https://developer.chrome.com/devtools/docs/console
