@@ -5761,7 +5761,7 @@ Heroku- Dynos
 * [Heroku Scaling](https://devcenter.heroku.com/articles/scaling)
 
 Heroku- Deployment
-* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)  
+<!--* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)-->  
 * [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
 * [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command)
 * [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
