@@ -90,7 +90,14 @@ Table of Content
   * [Python and Django Girls](#python-and-django-girls)
 
 * [Dashboards](#dashboards)
+* [Domains, DNS, SSL](#domains-dns-ssl)
 * [Deployment and Cloud](#deployment-and-cloud)
+* [AWS](#aws)
+* [Heroku](#heroku)
+* [Digital Ocean](#digital-ocean)
+* [Google Cloud](#google-cloud)
+
+
 * [Deployment and Git Integration](#deployment-and-git-integration)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
 * [Servers, Databases, Architectures](#servers-databases-architectures)
@@ -5516,7 +5523,7 @@ Consoles
 * [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
 
-#### Deployment and Cloud
+#### Domains, DNS, SSL
 
 Domain Names
 * [Google Domains](https://domains.google.com)
@@ -5549,6 +5556,16 @@ Namecheap
 DNS
 * [Amazon Route 53](http://aws.amazon.com/route53)  
 
+<!--
+https://madmimi.com/service_agreements/choose_plan
+
+https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
+https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
+https://www.godaddy.com/help/what-is-a-subdomain-296
+-->
+
+#### Deployment and Cloud
+
 Cloud Computing- General
 * [Cloud Computing Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing)  
 
@@ -5571,18 +5588,12 @@ PaaS- General and Alternatives to Heroku (including Google App Engine)
 SaaS- General and Alternatives to GoogleApps
 * [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
+#### AWS
+
 <!--
-https://madmimi.com/service_agreements/choose_plan
-
-https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
-https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
-https://www.godaddy.com/help/what-is-a-subdomain-296
--->
-
 Amazon
 * [Amazon Profiles](http://www.amazon.com/gp/profile)
 
-<!--
 * [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 -->
 
@@ -5592,6 +5603,10 @@ Amazon Web Services
 * [AWS Forum](https://forums.aws.amazon.com)
 * [AWS Articles](https://aws.amazon.com/articles)
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+
+<!--
+https://live.awsevents.com
+-->
 
 AWS- Developer and Documentation
 * [AWS Products](http://aws.amazon.com/products)
@@ -5607,23 +5622,6 @@ AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
 * [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
 * [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
-
-<!--
-Getting Started with AWS Hosting a .NET Web App
-http://docs.aws.amazon.com/gettingstarted/latest/wah/awsgsg-wah.pdf
-
-http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
-
-http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
-http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
-
-http://docs.aws.amazon.com/general/latest/gr/rande.html
-http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
-http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
--->
-
-* [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
-* [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
 
 AWS- Pricing
 * [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
@@ -5649,33 +5647,25 @@ AWS- Elastic Beanstalk and S3
 * [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
 * [AWS S3](http://aws.amazon.com/documentation/s3)
 
-AWS- SES and SNS (Including Worldwide SMS)
-* [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
-* [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
-
-AWS- Lambda (See also Google Cloud Functions)
-* [AWS Lambda](http://aws.amazon.com/lambda)  
-* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
-* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
-* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-
 <!--
-https://github.com/awslabs/chalice
+* [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
+* [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
 
-https://aws.amazon.com/cloudformation/aws-cloudformation-templates
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-cloudformer.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/gettingstarted.templatebasics.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/mappings-section-structure.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-iam-role.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-1.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html
+Getting Started with AWS Hosting a .NET Web App
+http://docs.aws.amazon.com/gettingstarted/latest/wah/awsgsg-wah.pdf
+
+http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
+
+http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
+http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
+
+http://docs.aws.amazon.com/general/latest/gr/rande.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
+http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
+
+
 
 http://aws.amazon.com/documentation/sdk-for-ios/
-
-https://live.awsevents.com
 
 http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
 
@@ -5726,8 +5716,34 @@ http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 
 
-https://aws.amazon.com/machine-learning/
+https://aws.amazon.com/cloudformation/aws-cloudformation-templates
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-cloudformer.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/gettingstarted.templatebasics.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/mappings-section-structure.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-iam-role.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-1.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html
 -->
+
+AWS- SES and SNS (Including Worldwide SMS)
+* [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
+* [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
+
+AWS- Lambda (See also Google Cloud Functions)
+* [AWS Lambda](http://aws.amazon.com/lambda)  
+* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
+* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+
+<!--
+https://github.com/awslabs/chalice
+https://aws.amazon.com/machine-learning
+-->
+
+#### Heroku
 
 Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku/heroku)  
@@ -5787,6 +5803,8 @@ Heroku- Addons
 Heroku- App Architecture
 * [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
 * [Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+#### Digital Ocean
 
 Digital Ocean (VPS)
 * [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
@@ -5869,6 +5887,8 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Deis](http://deis.io)  
 * [Deis GitHub](https://github.com/deis/deis)  
 
+#### Google Cloud
+
 Google Cloud, App Engine
 * [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
 * [Google Cloud Products](https://cloud.google.com/products)  
@@ -5887,6 +5907,10 @@ Google Cloud, App Engine
 
 Google Cloud Functions (See also Amazon Web Services- Lambda)
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
+
+
+
+
 
 Developer Playground/IDE
 * [HyperDev (Beta)](https://hyperdev.com)
