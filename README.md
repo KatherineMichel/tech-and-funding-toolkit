@@ -2124,6 +2124,11 @@ http://www.atlassian.com/git/tutorial/git-branches#!branch
 * [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 -->
 
+<!--
+https://help.github.com/articles/about-github-mirrors
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
+-->
+
 Git- Official Learning Resources
 * [Try Git](https://try.github.io)
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
@@ -5468,41 +5473,26 @@ http://il.pycon.org/2016/about/speakers.html
 <!--
 Browser Statistics
 
-Google Webmaster and Analytics Dashboards
-* [Google Webmaster Dashboard](https://www.google.com/webmasters/tools)
-* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
--->
-
-Status
-* [GitBook Status](http://status.gitbook.com)
-* [GitHub Status](https://status.github.com/messages) and [GitHub Status Twitter](https://twitter.com/githubstatus)
-* [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
-* [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
-
-<!--
-Repeat? 
-
-* [Cloud9](https://c9.io/katherinemichel)
-
-chrome://apps
--->
-
-<!--
-https://www.google.com/webmasters/verification/verification
-https://www.digitalocean.com/community/questions/how-to-verify-google-webmaster-tools
-
 https://www.slideshare.net/login?from_source=%2Finsight%3Futm_source%3Danalytics_launch%26utm_medium%3Demail%26utm_campaign%3DMarketing
 
 https://play.google.com/apps/publish
 
 https://www.linkedin.com/help/linkedin?lang=en
 
-https://help.github.com/articles/about-github-mirrors
-https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
+https://www.google.com/webmasters/verification/verification
+https://www.digitalocean.com/community/questions/how-to-verify-google-webmaster-tools
 
 GitBook Dashboard
 https://help.gitbook.com/github/how-can-i-export-to-repo.html
 -->
+
+Status
+* [Amazon Status](http://status.aws.amazon.com)
+* [GitBook Status](http://status.gitbook.com)
+* [GitHub Status](https://status.github.com) and [GitHub Status Twitter](https://twitter.com/githubstatus)
+* [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
+* [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
+* [Slack Status](https://status.slack.com)
 
 Consoles
 * [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
@@ -5514,6 +5504,10 @@ Consoles
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
 
 <!--
+chrome://apps
+
+* [Cloud9](https://c9.io/katherinemichel)
+
 https://console.cloud.google.com/code/tools
 https://cloud.google.com/source-repositories
 https://console.cloud.google.com/code/develop/repo
