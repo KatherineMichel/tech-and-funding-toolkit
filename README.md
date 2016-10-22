@@ -1140,9 +1140,7 @@ https://twitter.com/smashdlabs
 http://www.cssmania.com
 https://www.siteinspire.com
 https://twitter.com/siteinspire
--->
 
-<!--
 http://www.colourlovers.com
 http://www.themeleon.com
 
@@ -1719,10 +1717,6 @@ Google
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
 
-<!--
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
--->
-
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
@@ -2103,31 +2097,8 @@ Git
 * [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
 * [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
  
-Learn X in Y Minutes Git and Markdown
+Learn X in Y Minutes Git
 * [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
-* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
-
-<!--
-https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
-http://git-scm.com/book/en/Git-Basics-Tagging
-https://git-scm.com/docs/git-tag
-https://git-scm.com/docs/git-merge
-
-http://git-scm.com/book/ch3-2.html
-http://git-scm.com/book/ch9-5.html
-
-http://gitref.org/branching
-
-Git Branching
-http://www.atlassian.com/git/tutorial/git-branches#!branch
-
-* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
--->
-
-<!--
-https://help.github.com/articles/about-github-mirrors
-https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
--->
 
 Git- Official Learning Resources
 * [Try Git](https://try.github.io)
@@ -2161,14 +2132,8 @@ GitHub- Main
 
 <!--
 http://githubuniverse.com/watch
-https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
-
-Recommended
-https://www.git-tower.com
 
 https://git-for-windows.github.io
-
-https://try.github.io/levels/1/challenges/1
 
 https://help.github.com/articles/github-terms-of-service
 
@@ -2178,29 +2143,18 @@ https://github.com/github-archive/training.github.com
 https://github.com/github/teach.github.com
 https://github.com/jlord/git-it
 
-https://guides.github.com/introduction/flow
-https://help.github.com/articles/about-repository-graphs#traffic
+https://try.github.io/levels/1/challenges/1
+* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
+
+https://help.github.com/articles/set-up-git
+https://help.github.com/articles/caching-your-github-password-in-git
 
 https://github.com/blog/2164-introducing-unlimited-private-repositories
 
-https://github.com/github/hub
+https://guides.github.com/introduction/flow
+https://help.github.com/articles/about-repository-graphs#traffic
 
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
-https://help.github.com/articles/set-up-git
-https://help.github.com/articles/caching-your-github-password-in-git/
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
-
-https://github.com/blog/2228-simpler-github-pages-publishing
-
-https://guides.github.com/features/mastering-markdown
-https://github.com/blog/2046-github-desktop-is-now-available
-https://github.com/blog/2097-improved-commenting-with-markdown
-https://help.github.com/articles/creating-a-pull-request
-https://help.github.com/articles/adding-a-file-to-a-repository
-
-https://help.github.com/articles/fork-a-repo
-https://github.com/blog/1256-new-user-profile-pages
+https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
 
 https://guides.github.com/features/issues
 https://github.com/blog/957-introducing-issue-mentions
@@ -2214,34 +2168,70 @@ https://help.github.com/articles/creating-an-issue-template-for-your-repository
 https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
 https://help.github.com/articles/setting-guidelines-for-repository-contributors/
 
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
 https://help.github.com/articles/adding-a-remote
 https://help.github.com/articles/removing-a-remote
 
+https://help.github.com/articles/fork-a-repo
 https://help.github.com/articles/syncing-a-fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork
 https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
+
+https://help.github.com/articles/adding-a-file-to-a-repository
+https://help.github.com/articles/creating-a-pull-request
 https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
 
 https://help.github.com/articles/about-github-mirrors/
 https://help.github.com/articles/duplicating-a-repository/
 
-https://help.github.com/articles/remove-sensitive-data/
+https://guides.github.com/features/mastering-markdown
+https://github.com/blog/2097-improved-commenting-with-markdown
+
+https://github.com/blog/2228-simpler-github-pages-publishing
+https://help.github.com/articles/using-a-custom-domain-with-github-pages
+
+https://help.github.com/articles/remove-sensitive-data
+https://github.com/blog/1986-announcing-git-large-file-storage-lfs
+https://github.com/blog/2104-working-with-submodules
+https://github.com/blog/2041-improving-map-data-on-github
+https://github.com/blog/2046-github-desktop-is-now-available
+
+https://github.com/github/hub
+
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
+
+https://github.com/blog/1256-new-user-profile-pages
+-->
+
+<!--
+Recommended
+https://www.git-tower.com
+
+https://git-scm.com/book/en/Git-Basics-Tips-and-Tricks
+http://git-scm.com/book/en/Git-Basics-Tagging
+https://git-scm.com/docs/git-tag
+https://git-scm.com/docs/git-merge
+
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
+
+http://git-scm.com/book/ch3-2.html
+http://git-scm.com/book/ch9-5.html
 
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
+
+http://gitref.org/branching
+
+Git Branching
+http://www.atlassian.com/git/tutorial/git-branches#!branch
 
 https://www.atlassian.com/git/tutorials/syncing/git-pull
 https://www.atlassian.com/git/tutorials/undoing-changes/git-revert
 https://www.atlassian.com/git/tutorials/using-branches/git-branch
 
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
-
-https://help.github.com/articles/using-a-custom-domain-with-github-pages
-
-https://github.com/blog/1986-announcing-git-large-file-storage-lfs
-https://github.com/blog/2104-working-with-submodules
-https://github.com/blog/2041-improving-map-data-on-github
 
 http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
@@ -2256,7 +2246,9 @@ http://ndpsoftware.com/git-cheatsheet.html
 https://www.producthunt.com/@jordan_gonen/collections/everything-github
 
 http://www.learnenough.com/git-tutorial#sec-getting_started
+-->
 
+<!--
 https://github.com/ajaxorg/ace
 
 https://ifttt.com/github/recipes
@@ -2338,6 +2330,9 @@ Dear GitHub and Thank You GitHub
 GitHub Shop
 * [GitHub Shop](https://github.myshopify.com)
 -->
+
+Learn X in Y Minutes Markdown
+* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 Markdown
 * [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
@@ -2575,6 +2570,68 @@ Swift Styleguide
 
 #### Testing and Performance
 
+W3 Validators
+* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+* [W3C Link Checker](https://validator.w3.org/checklink)
+<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
+* [W3C Mobile Validator](http://validator.w3.org/mobile)
+* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
+
+Device Testing
+* [AWS Device Farm](https://aws.amazon.com/device-farm)
+* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
+* [Open Device Labs](http://OpenDeviceLab.com)
+
+Speed and Performance
+* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
+* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
+* [Netflix Fast](https://fast.com)
+* [Yahoo YSlow score of 85+](http://yslow.org)
+
+Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
+* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [New Relic](http://newrelic.com)
+* [Sentry](http://getsentry.com)
+
+<!--
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+-->
+
+A/B Testing
+* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
+* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+
+App Invites or Beta Testing
+* [Google App Invites](https://developers.google.com/app-invites)
+* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+Accessibility
+* [WebAIM](http://webaim.org)
+* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
+* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
+* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
+* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
+
+<!--
+https://ft-interactive.github.io/accessibility
+-->
+
+Microsoft Inclusion Approach
+* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
+
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
 <!--
 https://hpbn.co
 http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
@@ -2594,32 +2651,12 @@ Opera Mobile Emulator
 http://www.opera.com/developer/tools/mobile
 -->
 
-W3 Validators
-* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
-* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
-* [W3C Link Checker](https://validator.w3.org/checklink)
-<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
-* [W3C Mobile Validator](http://validator.w3.org/mobile)
-* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
-
 <!--
 Run CSS Lint online
 http://csslint.net
 
 <rule name="MobileOK score of 75+">
 -->
-
-Device Testing
-* [AWS Device Farm](https://aws.amazon.com/device-farm)
-* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
-* [Open Device Labs](http://OpenDeviceLab.com)
-
-Speed and Performance
-* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
-* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
-* [Netflix Fast](https://fast.com)
-* [Yahoo YSlow score of 85+](http://yslow.org)
 
 <!--
 Google’s Web Performance Best Practices
@@ -2670,48 +2707,6 @@ https://website.grader.com
 http://www.speedtest.net
 http://www.dslreports.com/speedtest
 -->
-
-Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
-* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [New Relic](http://newrelic.com)
-* [Sentry](http://getsentry.com)
-
-<!--
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
--->
-
-A/B Testing
-* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-
-App Invites or Beta Testing
-* [Google App Invites](https://developers.google.com/app-invites)
-* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-Accessibility
-* [WebAIM](http://webaim.org)
-* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
-* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
-* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
-* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
-* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
-
-<!--
-https://ft-interactive.github.io/accessibility
--->
-
-Microsoft Inclusion Approach
-* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
-
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
 
 <!--
 https://github.com/tutsplus/shopify-checklist-things-to-do-before-the-site-goes-live
@@ -5612,6 +5607,8 @@ Amazon Web Services
 
 <!--
 https://live.awsevents.com
+
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
 -->
 
 AWS- Developer and Documentation
