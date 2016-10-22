@@ -2176,6 +2176,8 @@ https://github.com/jlord/git-it
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/about-repository-graphs#traffic
 
+https://github.com/blog/2164-introducing-unlimited-private-repositories
+
 https://github.com/github/hub
 
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
@@ -5783,9 +5785,8 @@ Heroku- General
 * [Getting Started on Heroku](https://devcenter.heroku.com/start)
 
 <!--
-All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
-
-https://www.google.com/search?client=safari&rls=en&q=heroku+ps:scale+web=1&ie=UTF-8&oe=UTF-8
+https://devcenter.heroku.com/articles/how-heroku-works
+https://devcenter.heroku.com/articles/error-codes
 -->
 
 Heroku- Pricing and App Limits
@@ -5795,15 +5796,18 @@ Heroku- Pricing and App Limits
 * [Heroku Free Dyno Hours](https://devcenter.heroku.com/articles/free-dyno-hours)
 * [New Dyno Types and Pricing Public Beta (Deprecated)](https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta)
 
-<!--
-https://github.com/blog/2164-introducing-unlimited-private-repositories
-https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
--->
-
 Heroku- Dynos
 * [Heroku Dynos](https://devcenter.heroku.com/articles/dynos)
 * [Heroku Dyno Size](https://devcenter.heroku.com/articles/dyno-size)
 * [Heroku Scaling](https://devcenter.heroku.com/articles/scaling)
+
+<!--
+All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
+
+https://www.google.com/search?client=safari&rls=en&q=heroku+ps:scale+web=1&ie=UTF-8&oe=UTF-8
+
+https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
+-->
 
 Heroku- Deployment
 <!--* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)-->  
@@ -5816,16 +5820,6 @@ Heroku- Deployment
 * [Heroku Releases](https://devcenter.heroku.com/articles/releases)
 * [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
 
-<!--
-https://github.com/heroku/heroku-apps
-
-https://devcenter.heroku.com/articles/how-heroku-works
-https://devcenter.heroku.com/articles/error-codes
-
-Heroku’s support for running multiple buildpacks against a single application now has first-class support in the Heroku Toolbelt.
-https://devcenter.heroku.com/changelog-items/653
--->
-
 Heroku- Addons
 * [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
 * [Heroku Scheduler](https://addons.heroku.com/scheduler)
@@ -5833,6 +5827,13 @@ Heroku- Addons
 Heroku- App Architecture
 * [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
 * [Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+<!--
+https://github.com/heroku/heroku-apps
+
+Heroku’s support for running multiple buildpacks against a single application now has first-class support in the Heroku Toolbelt.
+https://devcenter.heroku.com/changelog-items/653
+-->
 
 #### Digital Ocean
 
@@ -5847,22 +5848,6 @@ Digital Ocean (VPS)
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
 <!--
-https://manage.serverpilot.io
-
-https://serverpilot.io/community/articles/how-to-connect-a-server-to-serverpilot.html
-https://serverpilot.io/community/articles/how-to-install-wordpress-on-digitalocean.html
-https://serverpilot.io/community/articles/how-to-manually-install-wordpress-on-digitalocean.html
-https://serverpilot.io/community/articles/install-wordpress-on-ubuntu.html
-https://serverpilot.io/community/articles/how-to-create-a-server-on-digitalocean.html
-https://serverpilot.io/community/articles/what-is-ssh.html
-https://serverpilot.io/community/articles/connect-to-mysql-remotely.html
-https://serverpilot.io/community/articles/how-to-install-the-cyberduck-sftp-client.html
-https://serverpilot.io/community/articles/how-to-upload-files-over-sftp-with-cyberduck.html
-https://serverpilot.io/community/articles/how-to-manage-your-database-with-adminer.html
-https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
-
-https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/
-
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
 
 https://www.digitalocean.com/help/getting-started
@@ -5885,8 +5870,6 @@ https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and
 https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
 https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
 
-https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04
-
 https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
 https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
 
@@ -5896,6 +5879,13 @@ https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks
 
 https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
 https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
+
+Let's Encrypt
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04
+-->
+
+<!--
+Digital Ocean WordPress and ServerPilot
 
 Digital Ocean- WordPress
 https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
@@ -5907,6 +5897,22 @@ https://www.digitalocean.com/community/tutorials/why-how-to-set-up-a-wordpress-l
 https://www.digitalocean.com/community/questions/unable-to-install-wordpress-plugins
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
+
+https://manage.serverpilot.io
+
+https://serverpilot.io/community/articles/how-to-connect-a-server-to-serverpilot.html
+https://serverpilot.io/community/articles/how-to-install-wordpress-on-digitalocean.html
+https://serverpilot.io/community/articles/how-to-manually-install-wordpress-on-digitalocean.html
+https://serverpilot.io/community/articles/install-wordpress-on-ubuntu.html
+https://serverpilot.io/community/articles/how-to-create-a-server-on-digitalocean.html
+https://serverpilot.io/community/articles/what-is-ssh.html
+https://serverpilot.io/community/articles/connect-to-mysql-remotely.html
+https://serverpilot.io/community/articles/how-to-install-the-cyberduck-sftp-client.html
+https://serverpilot.io/community/articles/how-to-upload-files-over-sftp-with-cyberduck.html
+https://serverpilot.io/community/articles/how-to-manage-your-database-with-adminer.html
+https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
+
+https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/
 -->
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
