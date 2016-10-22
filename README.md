@@ -5502,7 +5502,18 @@ https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 
 GitBook Dashboard
 https://help.gitbook.com/github/how-can-i-export-to-repo.html
+-->
 
+Consoles
+* [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
+* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
+* [GitHub Settings](https://github.com/settings)
+* [Heroku Dashboard](https://dashboard.heroku.com)
+* [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
+* [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
+* [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
+
+<!--
 https://console.cloud.google.com/code/tools
 https://cloud.google.com/source-repositories
 https://console.cloud.google.com/code/develop/repo
@@ -5515,15 +5526,6 @@ https://dcc.godaddy.com/manage/domainname/dns
 
 http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
 -->
-
-Consoles
-* [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
-* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
-* [GitHub Settings](https://github.com/settings)
-* [Heroku Dashboard](https://dashboard.heroku.com)
-* [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
-* [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
-* [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
 
 #### Domains, DNS, SSL
 
