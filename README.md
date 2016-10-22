@@ -5641,7 +5641,6 @@ AWS- Pricing
 http://aws.amazon.com/pricing
 https://aws.amazon.com/ec2/purchasing-options
 https://aws.amazon.com/ec2/pricing
-https://aws.amazon.com/ec2/spot/pricing
 https://aws.amazon.com/s3/pricing
 http://aws.amazon.com/pricing/rds
 -->
