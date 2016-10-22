@@ -5465,12 +5465,6 @@ http://il.pycon.org/2016/about/speakers.html
 
 http://127.0.0.1:4000/admin/pages
 
-https://cloud.google.com/source-repositories/docs/
-https://console.cloud.google.com/code/develop/browse?project=orbital-nova-139906
-https://console.cloud.google.com/code/develop/browse
-https://cloud.google.com/appengine/pricing
-
-
 https://github.com/KatherineMichel/personal-goals/settings/installations
 https://github.com/github/github-services/tree/master/docs
 https://services.github.com/resources
@@ -5745,13 +5739,18 @@ G Suite
 https://github.com/google/nomulus
 https://developers.google.com/optimization
 https://developer.chrome.com/extensions/getstarted
-https://cloud.google.com/products
+
 https://code.google.com/archive
 https://code.google.com/p/googleappengine
 https://cloud.google.com/ml/docs
 https://developers.google.com/training/web
 https://github.com/jwasham/google-interview-university
 https://www.google.com/about/careers/students/guide-to-technical-development.html
+
+https://cloud.google.com/source-repositories/docs/
+https://console.cloud.google.com/code/develop/browse?project=orbital-nova-139906
+https://console.cloud.google.com/code/develop/browse
+https://cloud.google.com/appengine/pricing
 
 https://azure.microsoft.com/en-us/pricing/calculator
 
