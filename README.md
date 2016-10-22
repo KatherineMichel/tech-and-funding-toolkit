@@ -6765,6 +6765,10 @@ Puppet Labs
 * [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
 * [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
+<!--
+https://github.com/cockroachdb/cockroach
+-->
+
 #### More Back-end
 
 Cache
@@ -11257,6 +11261,10 @@ Public Speaking
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
+
+<!--
+https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-change-your-brain
+-->
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
