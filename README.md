@@ -10624,6 +10624,10 @@ Presentations (See also JavaScript Presentations Frameworks)
 * [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
 * [GitHub Speaker Deck](https://speakerdeck.com)
 
+<!--
+https://prezi.com
+-->
+
 Docs
 * [Adobe Sign](https://acrobat.adobe.com/us/en/documents/esignatures.html)
 * [DocSend](https://docsend.com)
@@ -10705,6 +10709,8 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
+https://www.casestudyninja.com
+
 https://www.twilio.com/marketplace/add-ons
 -->
 
@@ -10925,6 +10931,11 @@ Foreign Language- Spanish
 * [Medium en Español](https://medium.com/espanol)
 * [CNN en Español Radio](http://cnnespanol.cnn.com/radio/en-vivo)
 * [Iberian Romance Languages Wikipedia](https://en.wikipedia.org/wiki/Iberian_Romance_languages)
+
+<!--
+https://www.duolingo.com/words
+https://es.wikipedia.org/wiki/Wikipedia:Portada
+-->
 
 Public Speaking
 * [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
