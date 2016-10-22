@@ -3174,6 +3174,11 @@ JavaScript Tutorials
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 
+<!--
+New
+http://eloquentjavascript.net/13_dom.html
+-->
+
 JavaScript Tutorials- Mozilla
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
@@ -3278,6 +3283,12 @@ https://angular.io/docs
 Express (React Stack)
 * [Express (based on Sinatra)](http://expressjs.com)  
 * [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
+
+<!--
+New
+https://www.codecademy.com/learn/react-101
+https://github.com/facebookincubator/create-react-app
+-->
 
 Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
@@ -3842,6 +3853,56 @@ https://mmistakes.github.io/so-simple-theme
 
 #### PHP
 
+<!--
+https://github.com/kennethreitz-archive?utf8=%E2%9C%93&query=wordpress
+
+https://wordpress.org/plugins/amazon-s3-and-cloudfront/installation
+https://api.wordpress.org/secret-key/1.1/salt
+
+https://wordpress.org/hosting
+https://wordpress.org/plugins/wpro
+https://wordpress.org/plugins/tantan-s3-cloudfront
+https://wordpress.org/plugins/amazon-web-services
+https://wordpress.org/plugins/amazon-s3-and-cloudfront
+
+https://wordpress.org/plugins/theme-test-drive
+
+https://wordpress.org/themes/tyro
+https://wordpress.org/themes/besty
+https://wordpress.org/themes/athena
+https://wordpress.org/themes/relia
+https://wordpress.org/themes/zeal
+https://wordpress.org/themes/charity-review
+https://wordpress.org/themes/educa
+https://wordpress.org/themes/wpbo
+https://wordpress.org/themes/mh-urbanmag
+
+http://themble.com/bones
+http://underscores.me
+https://roots.io/sage
+https://github.com/roots/bedrock
+
+https://smartcatdesign.net/products
+http://www.mhthemes.com
+
+http://www.andrewgertig.com/2013/05/set-up-wordpress-on-heroku
+https://github.com/leonardoalcantara1/wordpress-heroku
+https://dashboard.heroku.com/apps/heroku-wordpress-test
+http://www.ianposton.com/wordpress-on-heroku
+https://github.com/mhoofman/wordpress-heroku
+http://blog.endpoint.com/2016/01/install-wordpress-on-heroku-in-os-x.html
+https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
+https://mchung.github.io/heroku-buildpack-wordpress
+https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch
+
+https://woocommerce.com/hosting-solutions
+https://github.com/woocommerce
+
+https://codex.wordpress.org/Running_a_Development_Copy_of_WordPress
+
+https://jetpack.com/support/security-features
+-->
+
 PHP
 * [PHP](http://php.net) and [PHP Wikipedia](http://en.wikipedia.org/wiki/PHP)  
 * [PHP Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/PHP_syntax_and_semantics)  
@@ -4054,6 +4115,11 @@ Wikitech Development
 * [Download Wikimedia Core GitHub](https://www.mediawiki.org/wiki/Download_from_Git) 
 
 #### .NET, ASP, Visual Studio, WebMatrix
+
+<!--
+#### New
+https://azure.microsoft.com/en-us/pricing/calculator
+-->
 
 <!--
 https://blog.xamarin.com/net-standard-library-support-for-xamarin
@@ -4838,6 +4904,8 @@ Python- Condensed Learning Resources
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://learnpythonthehardway.org/python3
+
 https://github.com/zedshaw/lpthw-study-projects
 -->
 
@@ -5485,183 +5553,6 @@ https://djangogirls.org/pyconuk2016/
 http://il.pycon.org/2016/about/speakers.html
 -->
 
-<!--
-#### New
-
-https://aws.amazon.com/documentation/gettingstarted/
-https://aws.amazon.com/marketplace/pp/B00JV9JBDS
-https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available/
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
-
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
-
-https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
-http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-create-as.html
-
-https://enterprise.github.com/aws
-
-https://aws.amazon.com/free
-https://aws.amazon.com/pricing/services
-https://aws.amazon.com/simpledb/pricing
-https://aws.amazon.com/ebs/pricing
-
-https://github.com/open-guides/og-aws
-
-https://aws.amazon.com/devops/what-is-devops
-
-https://aws.amazon.com/tools
-https://aws.amazon.com/console
-
-http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
-https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
-
-https://aws.amazon.com/ec2/instance-types
-
-https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
-https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
-
-Codepipline
-Code Commit
-
-https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
-https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
-https://aws.amazon.com/marketplace/pp/B01ETSYYBY?qid=1476905092639&sr=0-5&ref_=brs_res_product_title
-
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
-
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
-
-https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
-http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
-
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
-
-http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/white-label-name-servers.html
-
-https://aws.amazon.com/marketplace/pp/B00NN8Y43U
-
-http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
-
-http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html
-
-http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-
-https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
-https://aws.amazon.com/premiumsupport/developer-support
-https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus
-
-http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-database.html
-
-https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
-https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
-https://aws.amazon.com/marketplace/pp/B007JNJ31S
-https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title
-
-http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
-
-https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
-
-https://aws.amazon.com/business-builder/?nc1=f_dr
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
-https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-using-multisite
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
-
-https://jetpack.com/support/security-features
-
-https://jekyllrb.com/docs/continuous-integration
-
-https://badge.fury.io
-https://docs.travis-ci.com/user/status-images
-
-https://www.codecademy.com/learn/react-101
-
-https://learnpythonthehardway.org/python3
-
-http://eloquentjavascript.net/13_dom.html
-
-https://www.google.com/about/careers/students/guide-to-technical-development.html
-https://github.com/jwasham/google-interview-university
-
-https://developer.chrome.com/extensions/getstarted
-
-G Suite
-https://github.com/google/nomulus
-
-https://code.google.com/archive
-https://code.google.com/p/googleappengine
-
-https://developers.google.com/optimization
-https://developers.google.com/training/web
-
-https://cloud.google.com/source-repositories/docs/
-https://cloud.google.com/appengine/pricing
-https://cloud.google.com/products
-https://cloud.google.com/ml/docs
-
-https://azure.microsoft.com/en-us/pricing/calculator
-
-https://github.com/facebookincubator/create-react-app
-
-http://www.metabase.com/docs/v0.20.1/getting-started.html
--->
-
-<!--
-https://github.com/kennethreitz-archive?utf8=%E2%9C%93&query=wordpress
-
-https://wordpress.org/plugins/amazon-s3-and-cloudfront/installation
-https://api.wordpress.org/secret-key/1.1/salt
-
-https://wordpress.org/hosting
-https://wordpress.org/plugins/wpro
-https://wordpress.org/plugins/tantan-s3-cloudfront
-https://wordpress.org/plugins/amazon-web-services
-https://wordpress.org/plugins/amazon-s3-and-cloudfront
-
-https://wordpress.org/plugins/theme-test-drive
-
-https://wordpress.org/themes/tyro
-https://wordpress.org/themes/besty
-https://wordpress.org/themes/athena
-https://wordpress.org/themes/relia
-https://wordpress.org/themes/zeal
-https://wordpress.org/themes/charity-review
-https://wordpress.org/themes/educa
-https://wordpress.org/themes/wpbo
-https://wordpress.org/themes/mh-urbanmag
-
-http://themble.com/bones
-http://underscores.me
-https://roots.io/sage
-https://github.com/roots/bedrock
-
-https://smartcatdesign.net/products
-http://www.mhthemes.com
-
-http://www.andrewgertig.com/2013/05/set-up-wordpress-on-heroku
-https://github.com/leonardoalcantara1/wordpress-heroku
-https://dashboard.heroku.com/apps/heroku-wordpress-test
-http://www.ianposton.com/wordpress-on-heroku
-https://github.com/mhoofman/wordpress-heroku
-http://blog.endpoint.com/2016/01/install-wordpress-on-heroku-in-os-x.html
-https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
-https://mchung.github.io/heroku-buildpack-wordpress
-https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch
-
-https://woocommerce.com/hosting-solutions
-https://github.com/woocommerce
-
-https://codex.wordpress.org/Running_a_Development_Copy_of_WordPress
--->
-
 #### Dashboards
 
 <!--
@@ -5792,6 +5683,90 @@ SaaS- General and Alternatives to GoogleApps
 * [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
 #### AWS
+
+<!--
+https://aws.amazon.com/documentation/gettingstarted/
+https://aws.amazon.com/marketplace/pp/B00JV9JBDS
+https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available/
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
+
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
+
+https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
+http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-create-as.html
+
+https://enterprise.github.com/aws
+
+https://aws.amazon.com/free
+https://aws.amazon.com/pricing/services
+https://aws.amazon.com/simpledb/pricing
+https://aws.amazon.com/ebs/pricing
+
+https://github.com/open-guides/og-aws
+
+https://aws.amazon.com/devops/what-is-devops
+
+https://aws.amazon.com/tools
+https://aws.amazon.com/console
+
+http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
+https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
+
+https://aws.amazon.com/ec2/instance-types
+
+https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
+https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
+
+Codepipline
+Code Commit
+
+https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
+https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
+https://aws.amazon.com/marketplace/pp/B01ETSYYBY?qid=1476905092639&sr=0-5&ref_=brs_res_product_title
+
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
+
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+
+http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/white-label-name-servers.html
+
+https://aws.amazon.com/marketplace/pp/B00NN8Y43U
+
+http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
+
+http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html
+
+http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
+
+https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
+https://aws.amazon.com/premiumsupport/developer-support
+https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus
+
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-database.html
+
+https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
+https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
+https://aws.amazon.com/marketplace/pp/B007JNJ31S
+https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title
+
+http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
+
+https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
+
+https://aws.amazon.com/business-builder/?nc1=f_dr
+-->
 
 <!--
 Amazon
@@ -6089,6 +6064,13 @@ https://devcenter.heroku.com/changelog-items/653
 
 #### Digital Ocean
 
+<!--
+https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
+https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-using-multisite
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
+-->
+
 Digital Ocean (VPS)
 * [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
 * [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
@@ -6176,6 +6158,27 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Deis GitHub](https://github.com/deis/deis)  
 
 #### Google Cloud
+
+<!--
+https://www.google.com/about/careers/students/guide-to-technical-development.html
+https://github.com/jwasham/google-interview-university
+
+https://developer.chrome.com/extensions/getstarted
+
+G Suite
+https://github.com/google/nomulus
+
+https://code.google.com/archive
+https://code.google.com/p/googleappengine
+
+https://developers.google.com/optimization
+https://developers.google.com/training/web
+
+https://cloud.google.com/source-repositories/docs/
+https://cloud.google.com/appengine/pricing
+https://cloud.google.com/products
+https://cloud.google.com/ml/docs
+-->
 
 Google Cloud, App Engine
 * [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
@@ -6781,6 +6784,14 @@ Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 * [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
 * [Codeship](https://codeship.com)
 * [AppVeyor (Windows)](http://www.appveyor.com)
+
+<!--
+#### New
+https://jekyllrb.com/docs/continuous-integration
+
+https://badge.fury.io
+https://docs.travis-ci.com/user/status-images
+-->
 
 <!--
 https://documentation.codeship.com
@@ -8782,6 +8793,10 @@ Visualization
 Analytics and Dashboards
 * [Keen Dashboard GitHub](https://github.com/keen/dashboards)
 * [Metabase](http://www.metabase.com/start), [Metabase Blog](http://discourse.metabase.com), and [Metabase GitHub](https://github.com/metabase/metabase)
+
+<!--
+http://www.metabase.com/docs/v0.20.1/getting-started.html
+-->
 
 * [StatsD (Etsy) GitHub](https://github.com/etsy/statsd)  
 * [StatsDaemon (Bitly) GitHub](https://github.com/bitly/statsdaemon) 
