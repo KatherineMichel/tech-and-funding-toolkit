@@ -1945,9 +1945,10 @@ cURL and Wget
 * [cURL](http://curl.haxx.se/download.html), [cURL GitHub](https://github.com/bagder/curl), and [cURL Wikipedia](http://en.wikipedia.org/wiki/CURL) 
 * [WGet](https://www.gnu.org/software/wget)
 
-Nano
+Nano and Pico
 * [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
 * [Nano Basics Guide](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
+* [Pico Wjkipedia](https://en.wikipedia.org/wiki/Pico_(text_editor))
 
 Windows- PowerShell
 * [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
@@ -2343,6 +2344,11 @@ Markdown
 * [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
 
+<!--
+https://en.wikipedia.org/wiki/YAML
+http://yaml.org
+-->
+
 GitLab (See also Project Management and Docker)
 * [GitLab Docs](http://docs.gitlab.com)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
@@ -2633,6 +2639,9 @@ Example
 * [Example Org Mobile](https://m.example.com) 
 
 <!--
+http://jmeter.apache.org
+https://en.wikipedia.org/wiki/Apache_JMeter
+
 https://hpbn.co
 http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf
 http://shop.oreilly.com/product/0636920041528.do
@@ -3760,6 +3769,7 @@ Jekyll Admin/CMS
 * [CloudCannon](http://cloudcannon.com)
 
 <!--
+https://jekyllrb.com/docs/home
 https://jekyllrb.com/docs/collections
 https://talk.jekyllrb.com
 http://www.jekyll-plugins.com
@@ -5473,67 +5483,51 @@ https://git-scm.com/download/linux
 https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
 
 https://aws.amazon.com/documentation/gettingstarted/
-https://aws.amazon.com/codepipeline/
-http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
 https://aws.amazon.com/marketplace/pp/B00JV9JBDS
 https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available/
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
 
 
 
-https://www.lab126.com
-
-https://www.promptcloud.com/pricing
-
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
 
 https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
-https://aws.amazon.com/simpledb/pricing
-https://aws.amazon.com/quicksight
-https://enterprise.github.com/aws
-https://aws.amazon.com/pricing/services
-https://aws.amazon.com/s3/pricing
 http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-create-as.html
 
+https://enterprise.github.com/aws
+
+https://aws.amazon.com/free
+https://aws.amazon.com/pricing/services
+https://aws.amazon.com/simpledb/pricing
+https://aws.amazon.com/ebs/pricing
 
 https://github.com/open-guides/og-aws
 
 https://aws.amazon.com/devops/what-is-devops
 
 https://aws.amazon.com/tools
-https://aws.amazon.com/business-builder/?nc1=f_dr
-
 https://aws.amazon.com/console
+https://aws.amazon.com/marketplace
 
-https://aws.amazon.com/free
-https://aws.amazon.com/pricing/services
-https://aws.amazon.com/device-farm
-
+http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
 https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
 
-https://aws.amazon.com/elasticache/pricing
-
-https://aws.amazon.com/lambda/pricing
-https://aws.amazon.com/vmware
-
 https://aws.amazon.com/ec2/instance-types
-https://aws.amazon.com/ec2/spot/pricing
+
 https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
 
-https://aws.amazon.com/ebs/pricing
-
+https://aws.amazon.com/codepipeline/
 https://aws.amazon.com/codedeploy/product-integrations/github
 https://aws.amazon.com/blogs/devops/automatically-deploy-from-github-using-aws-codedeploy
-https://aws.amazon.com/codedeploy/pricing
 https://github.com/integrations/aws-codedeploy
 https://github.com/aws/aws-codedeploy-agent
 http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html
 http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
 
-https://aws.amazon.com/marketplace
+http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
 
 https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
 https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
@@ -5555,7 +5549,6 @@ http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-djang
 
 http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/white-label-name-servers.html
 
-http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
 
 
 https://aws.amazon.com/marketplace/pp/B00NN8Y43U
@@ -5580,6 +5573,13 @@ http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
 
 https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
 
+https://aws.amazon.com/business-builder/?nc1=f_dr
+
+https://aws.amazon.com/quicksight
+https://aws.amazon.com/vmware
+
+https://www.promptcloud.com/pricing
+
 https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
 https://github.com/Miserlou/Zappa
 https://github.com/ryansb/django-zappa-example
@@ -5587,7 +5587,6 @@ http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
 https://github.com/awslabs/aws-serverless-express
 https://aws.amazon.com/api-gateway
 http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-https://github.com/serverless/serverless
 https://github.com/serverless/site
 https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
 https://github.com/MitocGroup/deep-microservices-todomvc
@@ -5623,8 +5622,88 @@ https://github.com/heroku
 
 
 
-https://jekyllrb.com/docs/home
 
+
+https://jetpack.com/support/security-features
+
+https://jekyllrb.com/docs/continuous-integration
+
+https://badge.fury.io
+https://docs.travis-ci.com/user/status-images
+
+https://dnsimple.com/services-google-apps
+https://support.dnsimple.com
+
+http://docs.kelproject.com/installation/layer0/gce
+http://kubernetes.io/docs/getting-started-guides/aws
+http://kubernetes.io/docs/hellonode
+
+http://tldp.org/LDP/abs/html/aliases.html
+http://tldp.org/LDP/abs/html/sample-bashrc.html
+https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions
+https://www.digitalocean.com/community/tags/linux-basics?type=tutorials
+
+https://www.codecademy.com/learn/react-101
+
+https://learnpythonthehardway.org/python3
+
+http://eloquentjavascript.net/13_dom.html
+
+https://github.com/yarnpkg/yarn
+https://yarnpkg.com/en/docs/install
+https://code.facebook.com/posts/1840075619545360
+
+https://en.wikipedia.org/wiki/List_of_Apache_modules
+https://httpd.apache.org/docs/current/vhosts/name-based.html
+https://httpd.apache.org/docs/2.4
+https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-use-modules-in-the-apache-web-server
+http://askubuntu.com/questions/500933/listing-files-in-apache-server
+
+https://github.com/blog/subscribe
+https://guides.github.com/introduction/flow/index.html
+https://github.com/blog/2267-introducing-github-community-guidelines
+
+https://www.google.com/about/careers/students/guide-to-technical-development.html
+https://github.com/jwasham/google-interview-university
+
+https://developer.chrome.com/extensions/getstarted
+
+G Suite
+https://github.com/google/nomulus
+https://developers.google.com/optimization
+https://code.google.com/archive
+https://code.google.com/p/googleappengine
+https://cloud.google.com/ml/docs
+https://developers.google.com/training/web
+
+https://cloud.google.com/appengine/pricing
+https://cloud.google.com/products
+https://cloud.google.com/source-repositories/docs/
+
+https://azure.microsoft.com/en-us/pricing/calculator
+
+http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip
+https://en.wikipedia.org/wiki/Ansible_(software)
+https://www.ansible.com/aws
+https://aws.amazon.com/about-aws/whats-new/2016/04/ansible-tower-on-the-aws-cloud-quick-start-reference-deploymemt/
+http://docs.ansible.com/ansible/ec2_module.html
+http://www.slideshare.net/pas256/ansible-and-aws
+http://docs.ansible.com/ansible/guide_aws.html
+https://www.ansible.com/blog/topic/aws
+http://answersforaws.com/episodes/2-ansible-and-aws
+
+https://github.com/facebookincubator/create-react-app
+
+http://www.metabase.com/docs/v0.20.1/getting-started.html
+
+https://www.dynstatus.com
+https://www.opendns.com
+
+https://www.us-cert.gov
+https://www.digicert.com
+-->
+
+<!--
 https://github.com/kennethreitz-archive?utf8=%E2%9C%93&query=wordpress
 
 https://wordpress.org/plugins/amazon-s3-and-cloudfront/installation
@@ -5670,101 +5749,7 @@ https://woocommerce.com/hosting-solutions
 https://github.com/woocommerce
 
 https://codex.wordpress.org/Running_a_Development_Copy_of_WordPress
-
-https://jetpack.com/support/security-features
-
-https://github.com/travis-ci/travis-ci
-https://jekyllrb.com/docs/continuous-integration
-
-http://jmeter.apache.org
-https://en.wikipedia.org/wiki/Apache_JMeter
-
-https://en.wikipedia.org/wiki/Pico_(text_editor)
-
-https://en.wikipedia.org/wiki/YAML
-http://yaml.org
-
-https://badge.fury.io
-https://docs.travis-ci.com/user/status-images
-
-https://dnsimple.com/services-google-apps
-https://support.dnsimple.com
-
-https://documentation.codeship.com
-https://blog.codeship.com
-
-http://docs.kelproject.com/installation/layer0/gce
-http://kubernetes.io/docs/getting-started-guides/aws
-http://kubernetes.io/docs/hellonode
-
-http://tldp.org/LDP/abs/html/aliases.html
-http://tldp.org/LDP/abs/html/sample-bashrc.html
-https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions
-https://www.digitalocean.com/community/tags/linux-basics?type=tutorials
-
-https://www.codecademy.com/learn/react-101
-
-https://learnpythonthehardway.org/python3
-
-http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip
-https://en.wikipedia.org/wiki/Ansible_(software)
-https://www.ansible.com
-https://www.ansible.com/aws
-https://aws.amazon.com/about-aws/whats-new/2016/04/ansible-tower-on-the-aws-cloud-quick-start-reference-deploymemt/
-http://docs.ansible.com/ansible/ec2_module.html
-http://www.slideshare.net/pas256/ansible-and-aws
-http://docs.ansible.com/ansible/guide_aws.html
-https://www.ansible.com/blog/topic/aws
-http://answersforaws.com/episodes/2-ansible-and-aws
-
-https://saltstack.com
-
-http://eloquentjavascript.net/13_dom.html
-
-https://github.com/yarnpkg/yarn
-https://yarnpkg.com/en/docs/install
-https://code.facebook.com/posts/1840075619545360
-
-https://en.wikipedia.org/wiki/List_of_Apache_modules
-https://httpd.apache.org/docs/current/vhosts/name-based.html
-https://httpd.apache.org/docs/2.4
-https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-use-modules-in-the-apache-web-server
-http://askubuntu.com/questions/500933/listing-files-in-apache-server
-
-https://guides.github.com/introduction/flow/index.html
-https://github.com/blog/subscribe
-https://github.com/blog/2267-introducing-github-community-guidelines
-
-G Suite
-https://github.com/google/nomulus
-https://developers.google.com/optimization
-https://developer.chrome.com/extensions/getstarted
-
-https://code.google.com/archive
-https://code.google.com/p/googleappengine
-https://cloud.google.com/ml/docs
-https://developers.google.com/training/web
-https://github.com/jwasham/google-interview-university
-https://www.google.com/about/careers/students/guide-to-technical-development.html
-
-https://cloud.google.com/source-repositories/docs/
-https://console.cloud.google.com/code/develop/browse?project=orbital-nova-139906
-https://console.cloud.google.com/code/develop/browse
-https://cloud.google.com/appengine/pricing
-
-https://azure.microsoft.com/en-us/pricing/calculator
-
-https://github.com/facebookincubator/create-react-app
-
-http://www.metabase.com/docs/v0.20.1/getting-started.html
-
-https://www.dynstatus.com
-https://www.opendns.com
-
-https://www.us-cert.gov
-https://www.digicert.com
 -->
-
 
 #### Dashboards
 
@@ -5809,6 +5794,7 @@ chrome://apps
 https://console.cloud.google.com/code/tools
 https://cloud.google.com/source-repositories
 https://console.cloud.google.com/code/develop/repo
+https://console.cloud.google.com/code/develop/browse
 
 https://cloud.google.com/source-repositories/docs/connecting-hosted-repositories
 
@@ -5853,8 +5839,6 @@ DNS
 * [Amazon Route 53](http://aws.amazon.com/route53)  
 
 <!--
-https://madmimi.com/service_agreements/choose_plan
-
 https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
 https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
 https://www.godaddy.com/help/what-is-a-subdomain-296
@@ -5937,8 +5921,11 @@ AWS- Pricing
 http://aws.amazon.com/pricing
 https://aws.amazon.com/ec2/purchasing-options
 https://aws.amazon.com/ec2/pricing
+https://aws.amazon.com/ec2/spot/pricing
 https://aws.amazon.com/s3/pricing
 http://aws.amazon.com/pricing/rds
+https://aws.amazon.com/codedeploy/pricing
+https://aws.amazon.com/elasticache/pricing
 -->
 
 AWS- Websites, Mobile, Social
@@ -6761,7 +6748,7 @@ http://docs.ansible.com/ansible/guides.html
 -->
 
 Salt (Automation and Configuration Management)
-* [Salt GitHub](https://github.com/saltstack)
+* [Salt](https://saltstack.com) and [Salt GitHub](https://github.com/saltstack)
 * [Salt Docs](http://docs.saltstack.com/en/latest/contents.html)  
 * [Salt Formulas](http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html)  
 
@@ -6798,6 +6785,8 @@ Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 * [AppVeyor (Windows)](http://www.appveyor.com)
 
 <!--
+https://documentation.codeship.com
+https://blog.codeship.com
 http://resources.codeship.com
 
 CI
@@ -10657,6 +10646,7 @@ http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 
 Labs, Kitchens, Garages
 * [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
+* [Lab126](https://www.lab126.com)
 * [Microsoft Garage](http://www.microsoft.com/en-us/garage)
 * [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
 * [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
@@ -10877,6 +10867,9 @@ Email
 
 <!--
 https://www.drip.co
+
+Mad Mimi (GoDaddy)
+https://madmimi.com/service_agreements/choose_plan
 
 Email
 [MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
