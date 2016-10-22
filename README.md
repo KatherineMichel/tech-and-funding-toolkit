@@ -5595,6 +5595,14 @@ Amazon
 * [Amazon Profiles](http://www.amazon.com/gp/profile)
 
 * [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+
+Amazon Merch
+https://developer.amazon.com/public/apis
+
+http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
+
+https://www.amazon.com/gp/drive/landing/everything
+https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
 -->
 
 Amazon Web Services
@@ -5654,32 +5662,11 @@ S3
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
 http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
 
-Amazon Merch
-https://developer.amazon.com/public/apis
-
-https://www.amazon.com/gp/drive/landing/everything
-https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
-
-
-
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
 * [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
 
 http://docs.aws.amazon.com/general/latest/gr/rande.html
-http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
-
-
-http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
-
-Server-Side
-http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
-
-Windows
-http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
-
-http://aws.amazon.com/web-applications/gsg-webapps-windows
-
 
 
 
@@ -5712,6 +5699,9 @@ http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
 
 Hosting a Static Website on Amazon Web Services
 http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+
+Hosting a Static Website on Amazon S3
+http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 
 Getting Started with Linux Web Applications in the AWS Cloud
 http://aws.amazon.com/web-applications/gsg-webapps-linux
@@ -5749,8 +5739,17 @@ http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-iam-r
 http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-1.html
 http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html
 
+Getting Started with Windows Web Applications in the AWS Cloud
+http://aws.amazon.com/web-applications/gsg-webapps-windows
+
 Getting Started with AWS Hosting a .NET Web App
 http://docs.aws.amazon.com/gettingstarted/latest/wah/awsgsg-wah.pdf
+
+Tutorial: How to Deploy a .NET Sample Application Using AWS Elastic Beanstalk
+http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
+
+Build a Drupal Website on Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
 
 http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
 http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html
