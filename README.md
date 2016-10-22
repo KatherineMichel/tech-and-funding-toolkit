@@ -2082,6 +2082,15 @@ Dot Files
 
 #### Git and Markdown
 
+<!--
+https://github.com/KatherineMichel/personal-goals/settings/installations
+https://github.com/github/github-services/tree/master/docs
+https://services.github.com/resources
+
+https://git-scm.com/download/linux
+https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
+-->
+
 Concurrent Version System
 * [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
 * [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
@@ -5479,19 +5488,10 @@ http://il.pycon.org/2016/about/speakers.html
 <!--
 #### New
 
-https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
-https://services.github.com/resources
-
-https://git-scm.com/download/linux
-https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
-
 https://aws.amazon.com/documentation/gettingstarted/
 https://aws.amazon.com/marketplace/pp/B00JV9JBDS
 https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available/
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
-
-
 
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
@@ -5545,9 +5545,8 @@ http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-djang
 
 http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/white-label-name-servers.html
 
-
-
 https://aws.amazon.com/marketplace/pp/B00NN8Y43U
+
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
 
 http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html
@@ -5576,29 +5575,6 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpres
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
 
-https://devcenter.heroku.com/articles/custom-php-settings
-
-https://elements.heroku.com
-
-https://blog.heroku.com/deploying-react-with-zero-configuration
-
-https://devcenter.heroku.com/articles/usage-and-billing
-https://devcenter.heroku.com/articles/how-heroku-works
-https://devcenter.heroku.com/articles/dropbox-sync
-https://devcenter.heroku.com/categories/language-support
-https://elements.heroku.com/addons/heroku-kafka
-
-https://devcenter.heroku.com/articles/config-vars
-https://devcenter.heroku.com/articles/s3-upload-python
-
-
-
-https://devcenter.heroku.com/articles/heroku-command-line
-https://devcenter.heroku.com/articles/github-integration
-https://devcenter.heroku.com/articles/heroku-button
-https://github.com/heroku
-
-
 https://jetpack.com/support/security-features
 
 https://jekyllrb.com/docs/continuous-integration
@@ -5606,30 +5582,11 @@ https://jekyllrb.com/docs/continuous-integration
 https://badge.fury.io
 https://docs.travis-ci.com/user/status-images
 
-http://docs.kelproject.com/installation/layer0/gce
-http://kubernetes.io/docs/getting-started-guides/aws
-http://kubernetes.io/docs/hellonode
-
-http://tldp.org/LDP/abs/html/aliases.html
-http://tldp.org/LDP/abs/html/sample-bashrc.html
-https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions
-https://www.digitalocean.com/community/tags/linux-basics?type=tutorials
-
 https://www.codecademy.com/learn/react-101
 
 https://learnpythonthehardway.org/python3
 
 http://eloquentjavascript.net/13_dom.html
-
-https://en.wikipedia.org/wiki/List_of_Apache_modules
-https://httpd.apache.org/docs/current/vhosts/name-based.html
-https://httpd.apache.org/docs/2.4
-https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-use-modules-in-the-apache-web-server
-http://askubuntu.com/questions/500933/listing-files-in-apache-server
-
-https://github.com/blog/subscribe
-https://guides.github.com/introduction/flow/index.html
-https://github.com/blog/2267-introducing-github-community-guidelines
 
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://github.com/jwasham/google-interview-university
@@ -5651,16 +5608,6 @@ https://cloud.google.com/products
 https://cloud.google.com/ml/docs
 
 https://azure.microsoft.com/en-us/pricing/calculator
-
-http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip
-https://en.wikipedia.org/wiki/Ansible_(software)
-https://www.ansible.com/aws
-https://aws.amazon.com/about-aws/whats-new/2016/04/ansible-tower-on-the-aws-cloud-quick-start-reference-deploymemt/
-http://docs.ansible.com/ansible/ec2_module.html
-http://www.slideshare.net/pas256/ansible-and-aws
-http://docs.ansible.com/ansible/guide_aws.html
-https://www.ansible.com/blog/topic/aws
-http://answersforaws.com/episodes/2-ansible-and-aws
 
 https://github.com/facebookincubator/create-react-app
 
@@ -6061,6 +6008,26 @@ https://github.com/awslabs/lambda-refarch-webapp
 -->
 
 #### Heroku
+
+<!--
+https://github.com/heroku
+https://elements.heroku.com
+https://elements.heroku.com/addons/heroku-kafka
+
+https://blog.heroku.com/deploying-react-with-zero-configuration
+
+https://devcenter.heroku.com/articles/dropbox-sync
+https://devcenter.heroku.com/categories/language-support
+
+https://devcenter.heroku.com/articles/config-vars
+https://devcenter.heroku.com/articles/s3-upload-python
+
+https://devcenter.heroku.com/articles/heroku-command-line
+https://devcenter.heroku.com/articles/github-integration
+https://devcenter.heroku.com/articles/heroku-button
+
+https://devcenter.heroku.com/articles/custom-php-settings
+-->
 
 Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku/heroku)  
@@ -6595,6 +6562,18 @@ Distributed and Parallel Computing
 
 See also Azure
 
+<!--
+https://httpd.apache.org/docs/current/vhosts/name-based.html
+https://httpd.apache.org/docs/2.4
+https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-use-modules-in-the-apache-web-server
+http://askubuntu.com/questions/500933/listing-files-in-apache-server
+
+http://tldp.org/LDP/abs/html/aliases.html
+http://tldp.org/LDP/abs/html/sample-bashrc.html
+https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions
+https://www.digitalocean.com/community/tags/linux-basics?type=tutorials
+-->
+
 Apache (See also mod_wsgi)
 * [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
 * [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
@@ -6720,6 +6699,12 @@ Kubernetes
 * [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
 * [Kel](http://www.kelproject.com)
 
+<!--
+http://docs.kelproject.com/installation/layer0/gce
+http://kubernetes.io/docs/getting-started-guides/aws
+http://kubernetes.io/docs/hellonode
+-->
+
 VMware, Vagrant, VirtualBox
 * [VMware](http://www.vmware.com)  
 * [VMware Wikipedia](http://en.wikipedia.org/wiki/VMware)  
@@ -6748,6 +6733,16 @@ Ansible (Automation and Configuration Management)
 <!--
 Detailed Guides
 http://docs.ansible.com/ansible/guides.html
+
+http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip
+https://en.wikipedia.org/wiki/Ansible_(software)
+https://www.ansible.com/aws
+https://aws.amazon.com/about-aws/whats-new/2016/04/ansible-tower-on-the-aws-cloud-quick-start-reference-deploymemt/
+http://docs.ansible.com/ansible/ec2_module.html
+http://www.slideshare.net/pas256/ansible-and-aws
+http://docs.ansible.com/ansible/guide_aws.html
+https://www.ansible.com/blog/topic/aws
+http://answersforaws.com/episodes/2-ansible-and-aws
 -->
 
 Salt (Automation and Configuration Management)
