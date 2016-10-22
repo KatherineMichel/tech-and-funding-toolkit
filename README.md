@@ -5471,6 +5471,13 @@ https://console.cloud.google.com/code/develop/browse
 https://cloud.google.com/appengine/pricing
 
 
+https://github.com/KatherineMichel/personal-goals/settings/installations
+https://github.com/github/github-services/tree/master/docs
+https://services.github.com/resources
+
+https://git-scm.com/download/linux
+https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
+
 https://aws.amazon.com/documentation/gettingstarted/
 https://aws.amazon.com/codepipeline/
 http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
@@ -5665,6 +5672,13 @@ https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
 https://mchung.github.io/heroku-buildpack-wordpress
 https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch
 
+https://woocommerce.com/hosting-solutions
+https://github.com/woocommerce
+
+https://codex.wordpress.org/Running_a_Development_Copy_of_WordPress
+
+https://jetpack.com/support/security-features
+
 https://github.com/travis-ci/travis-ci
 https://jekyllrb.com/docs/continuous-integration
 
@@ -5739,19 +5753,17 @@ https://developers.google.com/training/web
 https://github.com/jwasham/google-interview-university
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 
-https://jetpack.com/support/security-features
-
-https://woocommerce.com/hosting-solutions
-https://github.com/woocommerce
-
-https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
-https://services.github.com/resources
-
 https://azure.microsoft.com/en-us/pricing/calculator
 
+https://github.com/facebookincubator/create-react-app
+
+http://www.metabase.com/docs/v0.20.1/getting-started.html
+
 https://www.dynstatus.com
-https://www.opendns.com/
+https://www.opendns.com
+
+https://www.us-cert.gov
+https://www.digicert.com
 -->
 
 
