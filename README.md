@@ -5648,6 +5648,51 @@ AWS- Elastic Beanstalk and S3
 * [AWS S3](http://aws.amazon.com/documentation/s3)
 
 <!--
+From other list
+
+Getting Started with AWS Hosting a .NET Web App
+
+Setting Up to Host a Web App on AWS
+http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
+
+http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
+http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2/
+
+http://docs.aws.amazon.com/general/latest/gr/rande.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
+http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
+
+S3
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
+
+https://aws.amazon.com/architecture
+
+AWS Pricing and Pricing Options, EC2, S3, RDS
+AWS Security
+User CloudFormation
+SDK for iOS
+Print on Demand
+
+Amazon Merch
+https://developer.amazon.com/public/apis
+
+https://www.amazon.com/gp/drive/landing/everything
+https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
+
+No longer exists
+http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
+
+
+
+
+
+
+
+
+
+
+
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
 * [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
 
@@ -5674,15 +5719,9 @@ https://developer.amazon.com/public/apis
 
 https://aws.amazon.com/architecture
 
-http://docs.aws.amazon.com/general/latest/gr/Welcome.html
-http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
-
-http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
 http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
-http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html
 http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html
-http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html
 
 Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, and Ruby
 http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html
@@ -5693,29 +5732,49 @@ http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro
 Windows
 http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
 
-Static/Client-Side Site
-http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
-
-http://docs.aws.amazon.com/gettingstarted/latest/deploy/deploying-with-elastic-beanstalk.html
-
-Hosting a Web App on Amazon Web Services
-http://aws.amazon.com/web-applications/gsg-webapps-linux
 http://aws.amazon.com/web-applications/gsg-webapps-windows
 
-https://aws.amazon.com/elasticbeanstalk/faqs
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
+
+
+
+AWS General Reference
+http://docs.aws.amazon.com/general/latest/gr/Welcome.html
+
+Getting Started with AWS
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html
+
+Working with the AWS Management Console
+http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html
+
+Understanding and Getting Your Security Credentials
+http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
+
+Web Application Hosting Infographic
+http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
+
+Hosting a Static Website on Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+
+Getting Started with Linux Web Applications in the AWS Cloud
+http://aws.amazon.com/web-applications/gsg-webapps-linux
+
+Amazon EC2 API Reference
+http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
+
+https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 
 S3
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html
 http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 
-http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
-https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
+Elastic Beanstalk
+https://aws.amazon.com/elasticbeanstalk/faqs
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
 
-
+CloudFormation
 https://aws.amazon.com/cloudformation/aws-cloudformation-templates
 http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html
 http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html
