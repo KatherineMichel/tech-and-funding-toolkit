@@ -3245,6 +3245,12 @@ Node.js
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org)  
 
+<!--
+https://github.com/yarnpkg/yarn
+https://yarnpkg.com/en/docs/install
+https://code.facebook.com/posts/1840075619545360
+-->
+
 Check Update
 * [Check Update (npm install -g npm-check-updates)](https://www.npmjs.com/package/check-update)
 
@@ -5473,8 +5479,6 @@ http://il.pycon.org/2016/about/speakers.html
 <!--
 #### New
 
-http://127.0.0.1:4000/admin/pages
-
 https://github.com/KatherineMichel/personal-goals/settings/installations
 https://github.com/github/github-services/tree/master/docs
 https://services.github.com/resources
@@ -5508,7 +5512,6 @@ https://aws.amazon.com/devops/what-is-devops
 
 https://aws.amazon.com/tools
 https://aws.amazon.com/console
-https://aws.amazon.com/marketplace
 
 http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
@@ -5519,15 +5522,8 @@ https://aws.amazon.com/ec2/instance-types
 https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
 
-https://aws.amazon.com/codepipeline/
-https://aws.amazon.com/codedeploy/product-integrations/github
-https://aws.amazon.com/blogs/devops/automatically-deploy-from-github-using-aws-codedeploy
-https://github.com/integrations/aws-codedeploy
-https://github.com/aws/aws-codedeploy-agent
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
-
-http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
+Codepipline
+Code Commit
 
 https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
 https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
@@ -5575,29 +5571,11 @@ https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-t
 
 https://aws.amazon.com/business-builder/?nc1=f_dr
 
-https://aws.amazon.com/quicksight
-https://aws.amazon.com/vmware
-
-https://www.promptcloud.com/pricing
-
-https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
-https://github.com/Miserlou/Zappa
-https://github.com/ryansb/django-zappa-example
-http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
-https://github.com/awslabs/aws-serverless-express
-https://aws.amazon.com/api-gateway
-http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-https://github.com/serverless/site
-https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
-https://github.com/MitocGroup/deep-microservices-todomvc
-https://github.com/awslabs/lambda-refarch-webapp
-
 https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
 https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-using-multisite
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
 
-https://dashboard.heroku.com/apps
 https://devcenter.heroku.com/articles/custom-php-settings
 
 https://elements.heroku.com
@@ -5621,18 +5599,12 @@ https://devcenter.heroku.com/articles/heroku-button
 https://github.com/heroku
 
 
-
-
-
 https://jetpack.com/support/security-features
 
 https://jekyllrb.com/docs/continuous-integration
 
 https://badge.fury.io
 https://docs.travis-ci.com/user/status-images
-
-https://dnsimple.com/services-google-apps
-https://support.dnsimple.com
 
 http://docs.kelproject.com/installation/layer0/gce
 http://kubernetes.io/docs/getting-started-guides/aws
@@ -5648,10 +5620,6 @@ https://www.codecademy.com/learn/react-101
 https://learnpythonthehardway.org/python3
 
 http://eloquentjavascript.net/13_dom.html
-
-https://github.com/yarnpkg/yarn
-https://yarnpkg.com/en/docs/install
-https://code.facebook.com/posts/1840075619545360
 
 https://en.wikipedia.org/wiki/List_of_Apache_modules
 https://httpd.apache.org/docs/current/vhosts/name-based.html
@@ -5670,15 +5638,17 @@ https://developer.chrome.com/extensions/getstarted
 
 G Suite
 https://github.com/google/nomulus
-https://developers.google.com/optimization
+
 https://code.google.com/archive
 https://code.google.com/p/googleappengine
-https://cloud.google.com/ml/docs
+
+https://developers.google.com/optimization
 https://developers.google.com/training/web
 
+https://cloud.google.com/source-repositories/docs/
 https://cloud.google.com/appengine/pricing
 https://cloud.google.com/products
-https://cloud.google.com/source-repositories/docs/
+https://cloud.google.com/ml/docs
 
 https://azure.microsoft.com/en-us/pricing/calculator
 
@@ -5695,12 +5665,6 @@ http://answersforaws.com/episodes/2-ansible-and-aws
 https://github.com/facebookincubator/create-react-app
 
 http://www.metabase.com/docs/v0.20.1/getting-started.html
-
-https://www.dynstatus.com
-https://www.opendns.com
-
-https://www.us-cert.gov
-https://www.digicert.com
 -->
 
 <!--
@@ -5791,6 +5755,8 @@ chrome://apps
 
 * [Cloud9](https://c9.io/katherinemichel)
 
+http://127.0.0.1:4000/admin/pages
+
 https://console.cloud.google.com/code/tools
 https://cloud.google.com/source-repositories
 https://console.cloud.google.com/code/develop/repo
@@ -5802,10 +5768,24 @@ Digital Ocean
 http://ipaddress/info.php
 https://dcc.godaddy.com/manage/domainname/dns
 
+https://dashboard.heroku.com/apps
+
 http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
 -->
 
 #### Domains, DNS, SSL
+
+<!--
+https://developers.google.com/speed/public-dns
+
+https://www.dynstatus.com
+https://www.opendns.com
+
+[Support](http://support.dnsimple.com)
+
+https://www.us-cert.gov
+https://www.digicert.com
+-->
 
 Domain Names
 * [Google Domains](https://domains.google.com)
@@ -5822,10 +5802,6 @@ IANA, Domize, DNSimple, Heroku
 * [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)  
 <!--* [DNSimple SSL Certificate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)-->  
 * [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
-
-<!--
-https://developers.google.com/speed/public-dns
--->
 
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
 * [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
@@ -5978,6 +5954,16 @@ http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
 https://aws.amazon.com/architecture
 http://aws.amazon.com/security
 
+https://aws.amazon.com/codepipeline/
+https://aws.amazon.com/codedeploy/product-integrations/github
+https://aws.amazon.com/blogs/devops/automatically-deploy-from-github-using-aws-codedeploy
+https://github.com/integrations/aws-codedeploy
+https://github.com/aws/aws-codedeploy-agent
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
+
+http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
+
 Setting Up to Host a Web App on AWS
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
 
@@ -6039,6 +6025,11 @@ http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-regio
 http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html
 
 http://aws.amazon.com/documentation/sdk-for-ios/
+
+https://aws.amazon.com/quicksight
+https://aws.amazon.com/vmware
+
+https://www.promptcloud.com/pricing
 -->
 
 AWS- SES and SNS (Including Worldwide SMS)
@@ -6055,6 +6046,18 @@ AWS- Lambda (See also Google Cloud Functions)
 <!--
 https://github.com/awslabs/chalice
 https://aws.amazon.com/machine-learning
+
+https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
+https://github.com/Miserlou/Zappa
+https://github.com/ryansb/django-zappa-example
+http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
+https://github.com/awslabs/aws-serverless-express
+https://aws.amazon.com/api-gateway
+http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
+https://github.com/serverless/site
+https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
+https://github.com/MitocGroup/deep-microservices-todomvc
+https://github.com/awslabs/lambda-refarch-webapp
 -->
 
 #### Heroku
