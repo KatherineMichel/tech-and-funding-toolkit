@@ -3176,6 +3176,8 @@ JavaScript Tutorials
 
 <!--
 New
+http://learnjsthehardway.com/
+
 http://eloquentjavascript.net/13_dom.html
 -->
 
@@ -3242,6 +3244,15 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 #### JavaScript Frameworks
 
 #### JavaScript Tools
+
+<!--
+Semantic UI
+http://semantic-ui.com/
+https://github.com/Semantic-Org/Semantic-UI 
+https://github.com/vuejs/vue-hackernews
+https://github.com/vuejs
+https://vuejs.org
+-->
 
 Node.js
 * [Node.js](http://nodejs.org)  
@@ -3901,6 +3912,8 @@ https://github.com/woocommerce
 https://codex.wordpress.org/Running_a_Development_Copy_of_WordPress
 
 https://jetpack.com/support/security-features
+
+https://github.com/PrestaShop
 -->
 
 PHP
@@ -6069,6 +6082,14 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpres
 https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-using-multisite
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
+
+https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-wordpress
+https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-on-a-new-wordpress-site
+
+https://www.digitalocean.com/community/questions/how-to-change-a-droplet-name-and-all-associated-configurations
+
+https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-12-04
+https://www.digitalocean.com/company/blog/block-storage-more-space-to-scale/
 -->
 
 Digital Ocean (VPS)
