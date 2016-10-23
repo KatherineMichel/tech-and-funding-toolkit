@@ -42,6 +42,14 @@ U.K. Gov.
 
 ## Jekyll (Ruby)
 
+<!--
+https://github.com/pybee/pybee.github.io
+https://github.com/partiallyderivative/partiallyderivative.github.io
+https://github.com/mojombo/mojombo.github.io
+https://github.com/Microsoft/microsoft.github.io
+https://github.com/Nike-Inc/nike-inc.github.io
+-->
+
 Jekyll Bootstrap
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap) and [Jekyll Bootstrap Website (Clone repo) (Example Website) GitHub](https://github.com/plusjade/jekyllbootstrap.com)  
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
