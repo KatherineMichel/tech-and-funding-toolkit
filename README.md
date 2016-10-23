@@ -6713,6 +6713,7 @@ Kubernetes
 http://docs.kelproject.com/installation/layer0/gce
 http://kubernetes.io/docs/getting-started-guides/aws
 http://kubernetes.io/docs/hellonode
+https://github.com/kubernetes-incubator/cri-o
 -->
 
 VMware, Vagrant, VirtualBox
