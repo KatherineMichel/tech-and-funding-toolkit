@@ -6029,10 +6029,6 @@ https://github.com/awslabs/lambda-refarch-webapp
 #### Heroku
 
 <!--
-https://github.com/heroku
-https://elements.heroku.com
-https://elements.heroku.com/addons/heroku-kafka
-
 https://blog.heroku.com/deploying-react-with-zero-configuration
 
 https://devcenter.heroku.com/articles/dropbox-sync
@@ -6041,7 +6037,6 @@ https://devcenter.heroku.com/categories/language-support
 https://devcenter.heroku.com/articles/config-vars
 https://devcenter.heroku.com/articles/s3-upload-python
 
-https://devcenter.heroku.com/articles/heroku-command-line
 https://devcenter.heroku.com/articles/github-integration
 https://devcenter.heroku.com/articles/heroku-button
 
@@ -6049,7 +6044,7 @@ https://devcenter.heroku.com/articles/custom-php-settings
 -->
 
 Heroku- General
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku/heroku)  
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
 * [Heroku Dev Center](https://devcenter.heroku.com)  
 * [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
@@ -6083,7 +6078,7 @@ https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_f
 Heroku- Deployment
 <!--* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)-->  
 * [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command)
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
 * [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
 * [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
 * [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
@@ -6091,7 +6086,8 @@ Heroku- Deployment
 * [Heroku Releases](https://devcenter.heroku.com/articles/releases)
 * [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
 
-Heroku- Addons
+Heroku- Elements Marketplace
+* [Heroku Elements Marketplace](https://elements.heroku.com)
 * [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
 * [Heroku Scheduler](https://addons.heroku.com/scheduler)
 
