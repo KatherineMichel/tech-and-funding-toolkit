@@ -3806,6 +3806,9 @@ Jekyll Admin/CMS
 * [CloudCannon](http://cloudcannon.com)
 
 <!--
+https://staticman.net/get-started
+https://github.com/harrisj/swagger-jekyll
+
 https://jekyllrb.com/docs/home
 https://jekyllrb.com/docs/collections
 https://talk.jekyllrb.com
@@ -3817,6 +3820,7 @@ https://www.shopify.ca/partners/shopify-cheat-sheet
 https://github.com/imathis/octopress/wiki/3rd-party-plugins
 
 https://github.com/jekyll/jekyll-archives
+https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
 
 https://github.com/mattvh/jekyllthemes
 
@@ -5636,6 +5640,9 @@ https://www.opendns.com
 
 https://www.us-cert.gov
 https://www.digicert.com
+
+https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
+https://github.com/FallibleInc/security-guide-for-developers
 -->
 
 Domain Names
@@ -8261,6 +8268,13 @@ Data Science Websites
 * [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
 * [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
 * [Deep Learning News (The "Hacker News" of Deep Learning)](http://news.startup.ml)
+
+<!--
+https://github.com/boozallen
+https://github.com/booz-allen-hamilton
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
+-->
 
 Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
@@ -11046,6 +11060,9 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
+https://www.hellobonsai.com
+https://www.hellobonsai.com/freelancers
+
 https://www.casestudyninja.com
 
 https://www.twilio.com/marketplace/add-ons
