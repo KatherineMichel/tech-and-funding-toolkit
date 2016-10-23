@@ -3919,6 +3919,7 @@ http://blog.endpoint.com/2016/01/install-wordpress-on-heroku-in-os-x.html
 https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
 https://mchung.github.io/heroku-buildpack-wordpress
 https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch
+https://github.com/xyu/heroku-wp
 
 https://woocommerce.com/hosting-solutions
 https://github.com/woocommerce
@@ -3926,8 +3927,9 @@ https://github.com/woocommerce
 https://codex.wordpress.org/Running_a_Development_Copy_of_WordPress
 
 https://jetpack.com/support/security-features
-
 https://github.com/PrestaShop
+https://app.getflywheel.com/signup
+https://ellislab.com/expressionengine
 -->
 
 PHP
@@ -8252,6 +8254,10 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 -->
 
 #### Data Science
+
+<!--
+https://github.com/fivethirtyeight/data
+-->
 
 Data Monetization
 * [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
