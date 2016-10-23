@@ -161,7 +161,7 @@ https://github.com/BuzzFeedNews/everything
 * [Data Desk](https://github.com/datadesk)  
 * [Duke Chronicle](https://github.com/dukechronicle)
 * [Financial Times](https://github.com/Financial-Times)  
-* [Five Thirty Eight](https://github.com/fivethirtyeight) 
+* [Five Thirty Eight](https://github.com/fivethirtyeight) and [Five Thirty Eight Data](https://github.com/fivethirtyeight/data)
 * [Freedom of Press](https://github.com/freedomofpress) 
 * [FT Labs](https://github.com/ftlabs)
 * [Grasswire](https://github.com/grasswire)  
