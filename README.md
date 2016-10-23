@@ -1334,6 +1334,12 @@ https://developers.facebook.com/docs/messenger-platform
 https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
 https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
 
+https://github.com/jw84/messenger-bot-tutorial
+https://github.com/WhiteHouse/fb_messenger_bot
+
+http://newsroom.fb.com/news/2016/10/introducing-marketplace-buy-and-sell-with-your-local-community/
+https://www.facebook.com/help/239070709801747?helpref=popular_topics
+
 Facebook's Advertisers Tool
 https://developers.facebook.com/docs/javascript
 
@@ -6709,6 +6715,7 @@ Docker (See also Kubernetes)
 <!--
 * [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
 
+https://stacksmith.bitnami.com
 https://bitnami.com/webinar/stacksmith
 -->
 
@@ -10217,6 +10224,11 @@ International Info
 * [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
 
 <!--
+http://www.wsj.com/articles/clayton-christensen-has-a-new-theory-1475265067
+https://www.harpercollins.com/9780062435613/competing-against-luck
+https://sample-518510f33e5f26cacd9a911a06cb89de.read.overdrive.com/?p=competing-against-luck
+https://itunes.apple.com/us/book/competing-against-luck/id1080332425?mt=11
+
 Joshua Gans
 The Disruption Dilemma
 https://www.amazon.com/dp/B01BPYKF9K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
