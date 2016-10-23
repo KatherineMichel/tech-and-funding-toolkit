@@ -8861,6 +8861,7 @@ Analytics and Dashboards
 
 <!--
 http://www.metabase.com/docs/v0.20.1/getting-started.html
+http://www.metabase.com/docs/v0.16.0/users-guide/10-metabot.html
 -->
 
 * [StatsD (Etsy) GitHub](https://github.com/etsy/statsd)  
