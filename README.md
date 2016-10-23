@@ -5730,59 +5730,16 @@ SaaS- General and Alternatives to GoogleApps
 #### AWS
 
 <!--
-https://aws.amazon.com/documentation/gettingstarted/
-https://aws.amazon.com/marketplace/pp/B00JV9JBDS
-https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available/
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
-
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
 
 https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
 http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-create-as.html
-
-https://enterprise.github.com/aws
-
-https://aws.amazon.com/simpledb/pricing
-https://aws.amazon.com/ebs/pricing
-
-https://github.com/open-guides/og-aws
-
-https://aws.amazon.com/devops/what-is-devops
-
-https://aws.amazon.com/tools
-https://aws.amazon.com/console
 
 http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
 https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
 
-https://aws.amazon.com/ec2/instance-types
-
-https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
-https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
-
-Codepipline
-Code Commit
-
-https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
-https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
-https://aws.amazon.com/marketplace/pp/B01ETSYYBY?qid=1476905092639&sr=0-5&ref_=brs_res_product_title
-
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
-
-https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
-http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
-
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
-
 http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/white-label-name-servers.html
-
-https://aws.amazon.com/marketplace/pp/B00NN8Y43U
 
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
 
@@ -5791,15 +5748,9 @@ http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html
 http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
 
 https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
-https://aws.amazon.com/premiumsupport/developer-support
 https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus
 
 http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-database.html
-
-https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
-https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
-https://aws.amazon.com/marketplace/pp/B007JNJ31S
-https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title
 
 http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
 
@@ -5831,6 +5782,8 @@ Amazon Web Services
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers)
 
 <!--
+https://enterprise.github.com/aws
+
 https://live.awsevents.com
 
 * [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
@@ -5846,6 +5799,28 @@ AWS- Developer and Documentation
 * [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
 * [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
+<!--
+https://github.com/open-guides/og-aws
+
+https://aws.amazon.com/devops/what-is-devops
+
+https://aws.amazon.com/console
+
+https://aws.amazon.com/simpledb/pricing
+https://aws.amazon.com/ebs/pricing
+
+https://aws.amazon.com/marketplace/pp/B00NN8Y43U
+https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
+https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
+https://aws.amazon.com/marketplace/pp/B007JNJ31S
+https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title
+
+https://aws.amazon.com/marketplace/pp/B00JV9JBDS
+https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
+https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
+https://aws.amazon.com/marketplace/pp/B01ETSYYBY?qid=1476905092639&sr=0-5&ref_=brs_res_product_title
+-->
+
 AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
 * [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
@@ -5860,13 +5835,19 @@ https://aws.amazon.com/free
 https://aws.amazon.com/pricing/services
 
 http://aws.amazon.com/pricing
+https://aws.amazon.com/ec2/instance-types
 https://aws.amazon.com/ec2/purchasing-options
 https://aws.amazon.com/ec2/pricing
 https://aws.amazon.com/ec2/spot/pricing
+https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 https://aws.amazon.com/s3/pricing
 http://aws.amazon.com/pricing/rds
 https://aws.amazon.com/codedeploy/pricing
 https://aws.amazon.com/elasticache/pricing
+
+https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
+
+https://aws.amazon.com/premiumsupport/developer-support
 -->
 
 AWS- Websites, Mobile, Social
@@ -5944,10 +5925,20 @@ http://aws.amazon.com/web-applications/gsg-webapps-linux
 Amazon EC2 API Reference
 http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
+
 http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2
 https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 
 S3
+https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html
 http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
@@ -5957,6 +5948,7 @@ https://aws.amazon.com/elasticbeanstalk/faqs
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
 
 Deploying a Web App Using Elastic Beanstalk
 Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, and Ruby
