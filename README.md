@@ -2237,6 +2237,7 @@ https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 
 http://git-scm.com/book/ch3-2.html
 http://git-scm.com/book/ch9-5.html
+http://goo.gl/sQ6OI
 
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 https://git-scm.com/book/no-nb/v1/Git-Branching-What-a-Branch-Is
@@ -5734,7 +5735,6 @@ https://aws.amazon.com/marketplace/pp/B00JV9JBDS
 https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available/
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
 
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
 
 https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
@@ -5742,8 +5742,6 @@ http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-creat
 
 https://enterprise.github.com/aws
 
-https://aws.amazon.com/free
-https://aws.amazon.com/pricing/services
 https://aws.amazon.com/simpledb/pricing
 https://aws.amazon.com/ebs/pricing
 
@@ -5777,8 +5775,6 @@ http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
 
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
-
 https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
 http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
 
@@ -5808,8 +5804,6 @@ https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=s
 http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
 
 https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
-
-https://aws.amazon.com/business-builder/?nc1=f_dr
 -->
 
 <!--
@@ -5817,6 +5811,8 @@ Amazon
 * [Amazon Profiles](http://www.amazon.com/gp/profile)
 
 * [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+
+https://aws.amazon.com/business-builder/?nc1=f_dr
 
 Amazon Merch
 https://developer.amazon.com/public/apis
@@ -5860,6 +5856,9 @@ AWS- Pricing
 * [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
 
 <!--
+https://aws.amazon.com/free
+https://aws.amazon.com/pricing/services
+
 http://aws.amazon.com/pricing
 https://aws.amazon.com/ec2/purchasing-options
 https://aws.amazon.com/ec2/pricing
@@ -6217,13 +6216,17 @@ G Suite
 https://github.com/google/nomulus
 
 https://code.google.com/archive
-https://code.google.com/p/googleappengine
+
+Google App Engine Docs
+https://cloud.google.com/appengine/docs
+Google App Engine Docs
+https://cloud.google.com/appengine/docs
 
 https://developers.google.com/optimization
 https://developers.google.com/training/web
 
 https://cloud.google.com/source-repositories/docs/
-https://cloud.google.com/appengine/pricing
+x
 https://cloud.google.com/products
 https://cloud.google.com/ml/docs
 -->
@@ -6275,13 +6278,6 @@ GitHub, Heroku, AWS SSH and SSH Keys
 * [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
 * [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
 * [AWS EC2 Key Pairs](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html) 
-
-<!--
-(http://git-scm.com/book/ch3-2.html)
-(http://goo.gl/sQ6OI)
- 
-http://git-scm.com/book/ch9-5.html
--->
 
 Heroku Secure Key
 * [Secure Key](https://devcenter.heroku.com/articles/securekey)
