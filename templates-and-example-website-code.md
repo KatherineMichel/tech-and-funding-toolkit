@@ -43,6 +43,9 @@ U.K. Gov.
 ## Jekyll (Ruby)
 
 <!--
+http://disney.github.io
+https://github.com/disney/disney.github.io
+https://www.disneyanimation.com/technology/opensource
 https://github.com/pybee/pybee.github.io
 https://github.com/partiallyderivative/partiallyderivative.github.io
 https://github.com/mojombo/mojombo.github.io
