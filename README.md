@@ -92,6 +92,7 @@ Table of Content
 * [Dashboards](#dashboards)
 * [Domains, DNS, SSL](#domains-dns-ssl)
 * [Deployment and Cloud](#deployment-and-cloud)
+* [Security](#security)
 * [AWS](#aws)
 * [Heroku](#heroku)
 * [Digital Ocean](#digital-ocean)
@@ -5645,21 +5646,6 @@ http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
 
 #### Domains, DNS, SSL
 
-<!--
-https://developers.google.com/speed/public-dns
-
-https://www.dynstatus.com
-https://www.opendns.com
-
-[Support](http://support.dnsimple.com)
-
-https://www.us-cert.gov
-https://www.digicert.com
-
-https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
-https://github.com/FallibleInc/security-guide-for-developers
--->
-
 Domain Names
 * [Google Domains](https://domains.google.com)
 * [Namecheap](https://www.namecheap.com)
@@ -5669,6 +5655,7 @@ IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
 * [Domize](http://domize.com)  
 * [DNSimple](https://dnsimple.com)  
+* [DNSimple Support](http://support.dnsimple.com)
 * [DNSimple New Domain](https://dnsimple.com/domains/new)   
 * [DNSimple Heroku](https://dnsimple.com/services-heroku)  
 * [Heroku SSL Certificate DNSimple](https://devcenter.heroku.com/articles/ssl-certificate-dnsimple)  
@@ -5686,11 +5673,33 @@ Namecheap
 
 DNS
 * [Amazon Route 53](http://aws.amazon.com/route53)  
+* [Google Public DNS](https://developers.google.com/speed/public-dns)
 
 <!--
+Internet Performance Management
+* [Dyn](http://dyn.com)
+* [OpenDNS](https://www.opendns.com)
+
+https://www.dynstatus.com
+
 https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
 https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
 https://www.godaddy.com/help/what-is-a-subdomain-296
+-->
+
+#### Security
+
+Malware and Encryption
+* [hackerone](https://hackerone.com)
+* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
+* [Malware Museum](https://archive.org/details/malwaremuseum)
+
+<!--
+https://www.us-cert.gov
+https://www.digicert.com
+
+https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
+https://github.com/FallibleInc/security-guide-for-developers
 -->
 
 #### Deployment and Cloud
@@ -7140,11 +7149,6 @@ File Types and Extensions
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
-
-Malware and Encryption
-* [hackerone](https://hackerone.com)
-* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
-* [Malware Museum](https://archive.org/details/malwaremuseum)
 
 Naming Conventions
 * [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
