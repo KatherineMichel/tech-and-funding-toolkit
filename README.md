@@ -1999,6 +1999,10 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 TextWrangler (Recommended for Hard to Edit Files)
 * [TextWrangler](http://www.barebones.com/products/textwrangler)
 
+<!--
+http://www.barebones.com/products/bbedit/comparison.html
+-->
+
 Unix Shell (See also Unix)
 * [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
 * [Korn Wikipedia](http://en.wikipedia.org/wiki/Korn_shell)  
@@ -6233,41 +6237,6 @@ Google Cloud, App Engine
 Google Cloud Functions (See also Amazon Web Services- Lambda)
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
 
-
-
-
-
-Developer Playground/IDE
-* [HyperDev (Beta)](https://hyperdev.com)
-* [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
-* [Nitrous.IO GitHub](https://github.com/nitrous-io)
-
-Cross Platform Dev Environment
-* [Bowery](http://bowery.io)  
-* [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
-
-<!--
-https://www.firebase.com/docs/hosting/
-https://cloudplatform.googleblog.com/2016/08/why-Google-Cloud-Platform-is-ready-for-your-enterprise-database-workloads.html
--->
-
-Content Delivery Network
-* [Amazon Cloudfront CDN](http://aws.amazon.com/cloudfront)
-* [Google Cloud CDN](https://cloud.google.com/compute/docs/load-balancing/http/cdn)
-* [MAXCDN](https://www.maxcdn.com) 
-* [Akamai CDN](http://www.akamai.com)
-
-<!--
-https://cloudinary.com
--->
-
-Optimization
-* [Cloudflare (CDN + Security Layer)](https://www.cloudflare.com) 
-
-Workflow Automation
-* [Zapier](https://zapier.com)
-* [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
-
 #### Deployment and Git Integration
 
 Heroku Multiple Environments and Site Staging
@@ -6772,6 +6741,8 @@ Ansible (Automation and Configuration Management)
 Detailed Guides
 http://docs.ansible.com/ansible/guides.html
 
+http://www.nickhammond.com/automating-development-environment-ansible/
+
 http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip
 https://en.wikipedia.org/wiki/Ansible_(software)
 https://www.ansible.com/aws
@@ -6805,6 +6776,47 @@ https://github.com/cockroachdb/cockroach
 -->
 
 #### More Back-end
+
+
+
+
+Developer Playground/IDE
+* [HyperDev (Beta)](https://hyperdev.com)
+* [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
+* [Nitrous.IO GitHub](https://github.com/nitrous-io)
+
+Cross Platform Dev Environment
+* [Bowery](http://bowery.io)  
+* [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
+
+<!--
+https://www.firebase.com/docs/hosting/
+https://cloudplatform.googleblog.com/2016/08/why-Google-Cloud-Platform-is-ready-for-your-enterprise-database-workloads.html
+-->
+
+Content Delivery Network
+* [Amazon Cloudfront CDN](http://aws.amazon.com/cloudfront)
+* [Google Cloud CDN](https://cloud.google.com/compute/docs/load-balancing/http/cdn)
+* [MAXCDN](https://www.maxcdn.com) 
+* [Akamai CDN](http://www.akamai.com)
+
+<!--
+https://cloudinary.com
+-->
+
+Optimization
+* [Cloudflare (CDN + Security Layer)](https://www.cloudflare.com) 
+
+<!--
+https://www.cloudflare.com/traffic-manager
+https://blog.cloudflare.com/encryption-week/
+-->
+
+Workflow Automation
+* [Zapier](https://zapier.com)
+* [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
+
+
 
 Cache
 * [Memcached](http://memcached.org) 
