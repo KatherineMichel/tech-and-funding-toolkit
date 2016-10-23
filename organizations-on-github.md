@@ -256,6 +256,7 @@ https://github.com/BuzzFeedNews/everything
 * [IFTTT](https://github.com/IFTTT)  
 * [Imgur](https://github.com/imgur)  
 * [Instagram](https://github.com/Instragram)  
+* [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau)
 * [Justin.tv](https://github.com/justintv)  
 * [Keen](https://github.com/keen)
 * [Kickstarter](https://github.com/kickstarter)  
