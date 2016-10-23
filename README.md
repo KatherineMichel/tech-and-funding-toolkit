@@ -5609,14 +5609,16 @@ Status
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 * [Slack Status](https://status.slack.com)
 
-Consoles
-* [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
-* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
+Consoles: Developer
 * [GitHub Settings](https://github.com/settings)
 * [Heroku Dashboard](https://dashboard.heroku.com)
 * [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
 * [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
 * [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
+
+Consoles: Webmaster and Analytics
+* [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
+* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
 <!--
 chrome://apps
