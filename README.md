@@ -6020,13 +6020,6 @@ https://github.com/awslabs/lambda-refarch-webapp
 https://blog.heroku.com/deploying-react-with-zero-configuration
 
 https://devcenter.heroku.com/articles/dropbox-sync
-https://devcenter.heroku.com/categories/language-support
-
-https://devcenter.heroku.com/articles/config-vars
-https://devcenter.heroku.com/articles/s3-upload-python
-
-https://devcenter.heroku.com/articles/github-integration
-https://devcenter.heroku.com/articles/heroku-button
 
 https://devcenter.heroku.com/articles/custom-php-settings
 -->
