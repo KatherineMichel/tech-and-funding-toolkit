@@ -5873,9 +5873,6 @@ http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-you
 
 
 
-
-
-
 No longer exists
 http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
@@ -6192,10 +6189,13 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://github.com/jwasham/google-interview-university
 
+https://developers.google.com/optimization
+https://developers.google.com/training/web
 https://developer.chrome.com/extensions/getstarted
 
 G Suite
 https://github.com/google/nomulus
+https://www.registry.google
 
 https://code.google.com/archive
 
@@ -6203,9 +6203,6 @@ Google App Engine Docs
 https://cloud.google.com/appengine/docs
 Google App Engine Docs
 https://cloud.google.com/appengine/docs
-
-https://developers.google.com/optimization
-https://developers.google.com/training/web
 
 https://cloud.google.com/source-repositories/docs/
 x
