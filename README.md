@@ -2365,10 +2365,8 @@ Markdown
 * [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
 
-<!--
-https://en.wikipedia.org/wiki/YAML
-http://yaml.org
--->
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 GitLab (See also Project Management and Docker)
 * [GitLab Docs](http://docs.gitlab.com)
