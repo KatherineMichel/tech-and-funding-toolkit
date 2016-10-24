@@ -5732,17 +5732,9 @@ http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConne
 https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
 http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-create-as.html
 
-http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
-https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
-
-http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/white-label-name-servers.html
-
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
 
 http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html
-
-http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
 
 https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
 https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus
@@ -5750,8 +5742,6 @@ https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gp
 http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-database.html
 
 http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
-
-https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
 -->
 
 <!--
@@ -5872,7 +5862,6 @@ http://docs.aws.amazon.com/general/latest/gr/rande.html
 http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
 
 
-
 No longer exists
 http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
@@ -5950,6 +5939,11 @@ Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, a
 http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html
 http://docs.aws.amazon.com/gettingstarted/latest/deploy/deploying-with-elastic-beanstalk.html
 
+WordPress
+http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
+https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
+
 CloudFormation
 https://aws.amazon.com/cloudformation/aws-cloudformation-templates
 http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html
@@ -5977,6 +5971,9 @@ http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-regio
 http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html
 
 http://aws.amazon.com/documentation/sdk-for-ios/
+
+http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/white-label-name-servers.html
+https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
 
 https://aws.amazon.com/quicksight
 https://aws.amazon.com/vmware
@@ -6479,7 +6476,7 @@ http://postgis.refractions.net
 #### Servers, Databases, Architectures
 
 Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Types)
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
 
 Client and Server-Side
 * [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
