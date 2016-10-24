@@ -5919,6 +5919,7 @@ http://aws.amazon.com/web-applications/gsg-webapps-linux
 Amazon EC2 API Reference
 http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 
+EC2
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
