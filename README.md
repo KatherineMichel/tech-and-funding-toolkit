@@ -2348,16 +2348,12 @@ Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
 * [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
 
-<!--
 GitHub Shop
 * [GitHub Shop](https://github.myshopify.com)
--->
-
-Learn X in Y Minutes Markdown
-* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 
 Markdown
 * [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
 * [Markdown](http://daringfireball.net/projects/markdown)  
 * [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
 * [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
@@ -2834,6 +2830,9 @@ Minify CSS
 http://www.cssminifier.com
 Use HTML 5 Manifest
 http://diveintohtml5.info/offline.html
+
+Startup Engineering MOOC
+http://www.html5rocks.com/en/mobile
 
 A more useful 404
 http://www.alistapart.com/articles/amoreuseful404
