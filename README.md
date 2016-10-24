@@ -6676,11 +6676,11 @@ Docker (See also Kubernetes)
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
 * [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
 
+Bitnami Stacksmith
+* [Bitnami Stacksmith](https://stacksmith.bitnami.com)
+
 <!--
 * [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
-
-https://stacksmith.bitnami.com
-https://bitnami.com/webinar/stacksmith
 -->
 
 Heroku- Docker
@@ -6731,6 +6731,7 @@ Ansible (Automation and Configuration Management)
 * [Ansible GitHub](https://github.com/ansible/ansible)  
 * [Ansible Playbooks](http://docs.ansible.com/ansible/playbooks.html)
 * [Ansible Examples GitHub](https://github.com/ansible/ansible-examples)
+
 * [Ansible AWS](http://www.ansible.com/aws)
 
 <!--
@@ -6741,12 +6742,15 @@ http://www.nickhammond.com/automating-development-environment-ansible/
 
 http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip
 https://en.wikipedia.org/wiki/Ansible_(software)
-https://www.ansible.com/aws
+
 https://aws.amazon.com/about-aws/whats-new/2016/04/ansible-tower-on-the-aws-cloud-quick-start-reference-deploymemt/
-http://docs.ansible.com/ansible/ec2_module.html
 http://www.slideshare.net/pas256/ansible-and-aws
-http://docs.ansible.com/ansible/guide_aws.html
+
 https://www.ansible.com/blog/topic/aws
+
+http://docs.ansible.com/ansible/guide_aws.html
+http://docs.ansible.com/ansible/ec2_module.html
+
 http://answersforaws.com/episodes/2-ansible-and-aws
 -->
 
@@ -6766,10 +6770,6 @@ Puppet Labs
 * [Puppet Labs GitHub](https://github.com/puppetlabs/puppet)  
 * [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
 * [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
-
-<!--
-https://github.com/cockroachdb/cockroach
--->
 
 #### More Back-end
 
@@ -6878,6 +6878,8 @@ CouchDB (Document-based)
 * [CouchDB GitHub](https://github.com/apache/couchdb)  
 * [CouchDB ElasticSearch River GitHub](https://github.com/elasticsearch/elasticsearch-river-couchdb)  
 
+CockroachDB
+* [CockroachDB](https://github.com/cockroachdb/cockroach)
 
 Real Time Application Frameworks
 * [Engine.io GitHub](https://github.com/LearnBoost/engine.io)  
