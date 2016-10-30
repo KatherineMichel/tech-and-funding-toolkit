@@ -10825,6 +10825,10 @@ Mobile Two Factor Authentication
 * [Time-Based One-time Password Algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) and [HMAC-Based One-time Password Algorithm](https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm)
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
+<!--
+https://www.google.com/landing/2step
+-->
+
 Microsoft Office
 * [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx), [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e), and [Office Blog](https://blogs.office.com)
 
@@ -10835,6 +10839,10 @@ Google Products
 * [Google Products](http://www.google.com/intl/en/about/products) 
 * [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
 * [Let Me Google that for You](http://lmgtfy.com) 
+
+<!--
+https://gsuite.google.com/together
+-->
 
 Google Account
 * [Google Gmail](http://gmail.com) 
