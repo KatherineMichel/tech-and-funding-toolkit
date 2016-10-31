@@ -3381,6 +3381,7 @@ https://github.com/ryanflorence/react-project
 https://github.com/gaearon/redux-devtools
 
 https://github.com/iSimar/HackerNews-React-Native
+https://github.com/mjavascript/practical-es6
 https://github.com/lukehoban/es6features
 http://es6-features.org/#Constants
 https://github.com/markerikson/react-redux-links
@@ -3663,6 +3664,8 @@ Golang, otherwise known as "Go"
 * [Deploying Go Servers with Docker](http://blog.golang.org/docker)  
 
 <!--
+https://golang.org/doc/code.html#GOPATH
+
 https://gobyexample.com
 https://tour.golang.org/welcome/1
 
