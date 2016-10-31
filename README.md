@@ -634,6 +634,10 @@ Code Search
 Wayback Machine
 * [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
 
+<!--
+http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
+-->
+
 Archive Team
 * [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
 
@@ -3816,6 +3820,7 @@ Jekyll Admin/CMS
 * [CloudCannon](http://cloudcannon.com)
 
 <!--
+https://staticman.net
 https://staticman.net/get-started
 https://github.com/harrisj/swagger-jekyll
 
@@ -3883,6 +3888,8 @@ https://github.com/kennethreitz-archive?utf8=%E2%9C%93&query=wordpress
 
 https://wordpress.org/plugins/amazon-s3-and-cloudfront/installation
 https://api.wordpress.org/secret-key/1.1/salt
+
+https://www.bluehost.com/wordpress
 
 https://wordpress.org/hosting
 https://wordpress.org/plugins/wpro
@@ -6822,6 +6829,8 @@ Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 
 <!--
 #### New
+https://docs.travis-ci.com
+
 https://jekyllrb.com/docs/continuous-integration
 
 https://badge.fury.io
@@ -8191,6 +8200,13 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+Gfx
+https://www.amazon.com/Graphics-Cards-Computer-Add-Ons-Computers/b?ie=UTF8&node=284822
+external graphics card holder for your macbook
+
+https://en.wikipedia.org/wiki/Central_processing_unit
+https://en.wikipedia.org/wiki/Graphics_processing_unit
+
 https://www.pluralsight.com/authors/justin-marshall
 
 https://www.udemy.com/unrealcourse
@@ -8222,10 +8238,6 @@ https://www.udacity.com/drive
 https://github.com/mamedev/mame
 http://mamedev.org/?p=422
 https://archive.org/details/softwarelibrary_msdos_games
-
-Gfx
-https://www.amazon.com/Graphics-Cards-Computer-Add-Ons-Computers/b?ie=UTF8&node=284822
-external graphics card holder for your macbook
 
 CAD
 http://www.biglever.com/solution/product.html
