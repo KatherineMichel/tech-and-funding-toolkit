@@ -1142,6 +1142,8 @@ Gifs
 * [Giphy](http://giphy.com) 
 
 <!--
+http://www.semplicelabs.com/showcase
+
 https://twitter.com/smashdlabs
 http://www.cssmania.com
 https://www.siteinspire.com
@@ -3747,6 +3749,8 @@ Ruby- Tutorials
 * [Learn X in Y Minutes Ruby Ecosystem](https://learnxinyminutes.com/docs/ruby-ecosystem)
 
 <!--
+https://github.com/spree
+
 http://edgeguides.rubyonrails.org/active_record_basics.html#naming-conventions
 
 http://stackoverflow.com/questions/tagged/ruby-on-rails
