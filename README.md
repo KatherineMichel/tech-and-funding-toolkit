@@ -1047,6 +1047,7 @@ Prototyping Software- Others
 * See also Apple
 
 <!--
+http://origami.design
 https://facebook.github.io/origami/examples
 http://facebook.github.io/origami/download
 
@@ -1231,6 +1232,10 @@ Google
 
 Google Material Design (See also Facebook React)
 * [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+<!--
+https://material.io
+-->
 
 Bootstrap Material Design
 * [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
@@ -1662,6 +1667,11 @@ MacPorts
 Mac OS X Directory Strucure and Listing Applications
 * [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
 * [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+
+<!--
+https://en.wikipedia.org/wiki/Apple_File_System
+https://en.wikipedia.org/wiki/HFS_Plus
+-->
 
 Apple Developer Program Membership
 * [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
@@ -7532,6 +7542,10 @@ Programming Groups
 * [Node Together](http://www.nodetogether.org)
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
+
+<!--
+https://nodejs.org/en/foundation/outreachy
+-->
 
 Programming and Math Learning Tools (See also MOOCs)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
