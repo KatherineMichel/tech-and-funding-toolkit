@@ -1917,6 +1917,12 @@ Ubuntu Terminal, Command Line, and Aptget
 * [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
 * [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
 
+<!--
+http://nixos.org
+https://github.com/NixOS/nixops
+https://github.com/NixOS/nixpkgs
+-->
+
 Command Line
 * [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
 * [Command Line Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
@@ -3662,6 +3668,11 @@ Miscellaneous Programming Languages
 * [Perl Wikipedia](https://en.wikipedia.org/wiki/Perl)
 * [Rust](http://www.rust-lang.org), [Rust GitHub](https://github.com/rust-lang/rust), and [Rust Wikipedia](http://en.wikipedia.org/wiki/Rust_(programming_language))  
 * Apple- Swift
+
+<!--
+http://elm-lang.org
+https://github.com/elm-lang
+-->
 
 Golang, otherwise known as "Go"
 * [Golang Wikipedia](http://en.wikipedia.org/wiki/Go_(programming_language))  
@@ -6861,6 +6872,8 @@ http://resources.codeship.com
 
 CI
 https://circleci.com
+https://circleci.com/docs/config-sample/
+
 https://drone.io
 codecov.io
 
@@ -7474,6 +7487,10 @@ Trac Project Management and DB (Used with www.djangoproject.com)
 * [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
 
 <!--
+https://www.phacility.com
+https://secure.phabricator.com
+https://en.wikipedia.org/wiki/Phabricator
+
 https://github.com/heroku/12factor
 [Semver Org GitHub](https://github.com/mojombo/semver.org)
 -->
