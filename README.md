@@ -3595,6 +3595,10 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phanto
 * [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
 
 <!--
+http://www.protractortest.org
+
+http://docs.seleniumhq.org
+
 https://github.com/seleniumbase/SeleniumBase
 -->
 
