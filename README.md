@@ -10660,6 +10660,8 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
+https://lobste.rs
+
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
