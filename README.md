@@ -197,6 +197,7 @@ Table of Content
 <!--
 http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
 http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
+http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
 http://fourhourworkweek.com/2016/03/04/5-million-week
 http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
 
@@ -1047,6 +1048,11 @@ Prototyping Software- Others
 * See also Apple
 
 <!--
+https://abstractapp.com
+https://www.abstractapp.com/2016/11/01/abstract-private-alpha.html
+
+https://www.figma.com
+
 http://origami.design
 https://facebook.github.io/origami/examples
 http://facebook.github.io/origami/download
@@ -3551,6 +3557,11 @@ Compilation Resources (See also Gulp)
 * [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
 * [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
 
+<!--
+less.js for Windows
+http://winless.org
+-->
+
 Extension Languages
 * [Jade](http://jade-lang.com)  
 * [Jade GitHub](https://github.com/visionmedia/jade)  
@@ -5730,6 +5741,7 @@ Malware and Encryption
 <!--
 https://www.us-cert.gov
 https://www.digicert.com
+http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
 
 https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
 https://github.com/FallibleInc/security-guide-for-developers
@@ -9817,7 +9829,9 @@ https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crk
 https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
 
-https://25iq.com/2016/09/24/a-dozen-ways-you-can-use-seth-klarmans-margin-of-safety-approach-when-voting/
+https://25iq.com/2016/09/24/a-dozen-ways-you-can-use-seth-klarmans-margin-of-safety-approach-when-voting
+
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1065113751&serialid=Z1zrAAt3OJhElh4iwIYc9JHmliTCIARGu75f0b5s4bc%3d
 -->
 
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
@@ -10356,6 +10370,10 @@ Good Infographics
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
 <!--
+The 4ps
+https://www.cleverism.com/understanding-marketing-mix-concept-4ps
+https://en.wikipedia.org/wiki/Marketing_mix
+
 https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
 https://hbr.org/2013/05/what-makes-a-good-corporate-st
@@ -10478,6 +10496,7 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 
 <!--
 https://talksat.withgoogle.com
+http://www.churchillclub.org
 -->
 
 Shows
@@ -10877,6 +10896,9 @@ Mobile Two Factor Authentication
 
 <!--
 https://www.google.com/landing/2step
+
+https://www.dashlane.com
+https://1password.com
 -->
 
 Microsoft Office
@@ -10991,6 +11013,8 @@ Email
 * [Tiny Letter](https://www.tinyletter.com)
 
 <!--
+https://www.sanebox.com
+
 https://www.drip.co
 
 Mad Mimi (GoDaddy)
@@ -11080,6 +11104,8 @@ Customer Relationship Management
 * [Zendesk](https://www.zendesk.com)
 
 <!--
+https://gusto.com
+
 https://admin.salesforce.com
 https://developer.salesforce.com
 -->
