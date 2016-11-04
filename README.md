@@ -3683,6 +3683,9 @@ Miscellaneous Programming Languages
 <!--
 http://elm-lang.org
 https://github.com/elm-lang
+
+https://jhipster.github.io
+https://keyholesoftware.com/2016/10/17/getting-started-with-jhipster-part-3
 -->
 
 Golang, otherwise known as "Go"
@@ -5695,6 +5698,11 @@ Domain Names
 * [Namecheap](https://www.namecheap.com)
 * [iwantmyname](https://iwantmyname.com)
 
+<!--
+https://www.icann.org
+https://www.ntia.doc.gov
+-->
+
 IANA, Domize, DNSimple, Heroku
 * [Internet Assigned Numbers Authority](http://www.iana.org)
 * [Domize](http://domize.com)  
@@ -6737,6 +6745,8 @@ Kubernetes
 * [Kel](http://www.kelproject.com)
 
 <!--
+https://github.com/GoogleCloudPlatform/kubernetes-workshops
+
 http://docs.kelproject.com/installation/layer0/gce
 http://kubernetes.io/docs/getting-started-guides/aws
 http://kubernetes.io/docs/hellonode
@@ -7595,6 +7605,10 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
+
+<!--
+https://hourofcode.com
+-->
 
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
@@ -10497,6 +10511,8 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 <!--
 https://talksat.withgoogle.com
 http://www.churchillclub.org
+
+http://hacklolla.challengepost.com
 -->
 
 Shows
