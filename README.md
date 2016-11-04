@@ -615,6 +615,14 @@ Mobile and Browser
 Browser Stats
 * [W3Counter](https://www.w3counter.com)
 
+<!--
+StatCounter
+http://statcounter.com
+
+Content Tracker
+https://stats.priceonomics.com/measure
+-->
+
 Product/Service Directories
 * [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
 * [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
@@ -2103,6 +2111,10 @@ See also Startup Engineering MOOC<br>
 Hidden File and Hidden Directory Wikipedia
 * [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
 
+<!--
+https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789#.104fcsvh3
+-->
+
 Dot Files
 * [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
 * [Dotfiles GitHub](https://github.com/dotphiles/dotphiles)  
@@ -2834,8 +2846,6 @@ http://www.gotsitemonitor.com
 http://tools.pingdom.com/fpt
 
 Traffic analysis"> (Google Analytics)
-StatCounter
-http://statcounter.com
 Clicky
 http://clicky.com
 Piwik
@@ -8008,6 +8018,10 @@ Golang Mobile
 Exponent.js
 * [Exponent.js](http://exponentjs.com)
 
+<!--
+https://getexponent.com
+-->
+
 IDE
 * [Eclipse](http://www.eclipse.org) 
 
@@ -11413,6 +11427,8 @@ Foreign Language- Spanish
 <!--
 https://www.duolingo.com/words
 https://es.wikipedia.org/wiki/Wikipedia:Portada
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=spanish%20keyboard
 -->
 
 Public Speaking
