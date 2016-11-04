@@ -316,6 +316,10 @@ ASP.NET- Example Website
 <!--
 http://megaboilerplate.com
 https://github.com/sahat/megaboilerplate
+
+https://github.com/FreeCodeCamp/nonprofit-email-service
+https://github.com/FreeCodeCamp/food-bank-app
+https://github.com/FreeCodeCamp/FreeCodeCamp
 -->
 
 Preferred Non-Official Templates (See also WordPress)
