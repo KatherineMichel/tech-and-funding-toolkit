@@ -7338,8 +7338,6 @@ Startup Class Dotfiles and AWS EC2 Setup
 
 https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
 
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-
 Lecture 2: Interactive Start 
 http://class.coursera.org/startup-001/lecture/75
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf
