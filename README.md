@@ -11186,6 +11186,10 @@ https://www.hellobonsai.com/freelancers
 https://www.casestudyninja.com
 
 https://www.twilio.com/marketplace/add-ons
+
+http://www.nytimes.com/packages/html/business/20060510_LEONHARDT/cost_per_mile.html
+
+https://www.diffchecker.com/diff
 -->
 
 Logistics
