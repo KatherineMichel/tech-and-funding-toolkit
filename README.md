@@ -6060,13 +6060,13 @@ AWS- Lambda (See also Google Cloud Functions)
 * [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
 * [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
 https://github.com/awslabs/chalice
 https://aws.amazon.com/machine-learning
 
 https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
-https://github.com/Miserlou/Zappa
 https://github.com/ryansb/django-zappa-example
 http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
 https://github.com/awslabs/aws-serverless-express
@@ -6416,7 +6416,7 @@ https://pypi.python.org/pypi/static3/0.5
 -->
 
 Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
-* [Heroku Deployment Template GitHub](https://github.com/heroku/heroku-django-template) 
+* [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template) 
 * [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
 * [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
 * [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
