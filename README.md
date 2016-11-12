@@ -3596,6 +3596,12 @@ Extension Languages
 * [Underscore](http://underscorejs.org)  
 * [Underscore GitHub](https://github.com/jashkenas/underscore)  
 
+<!--
+http://coffeescript.org
+https://github.com/sinatra/sinatra
+https://pugjs.org/api/getting-started.html
+-->
+
 Other JavaScript Helpers
 * [Lodash GitHub](https://github.com/lodash/lodash)
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
@@ -6077,8 +6083,11 @@ AWS- Lambda (See also Google Cloud Functions)
 https://github.com/awslabs/chalice
 https://aws.amazon.com/machine-learning
 
-https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
+https://serverlesscode.com/post/rich-jones-interview-django-zappa/
+https://pypi.python.org/pypi/django-zappa
 https://github.com/ryansb/django-zappa-example
+
+https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
 http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
 https://github.com/awslabs/aws-serverless-express
 https://aws.amazon.com/api-gateway
