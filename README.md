@@ -709,6 +709,9 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+https://products.office.com/en-US/microsoft-teams/group-chat-software
+https://flow.microsoft.com
+
 https://quip.com/blog/slack-integration-slash-commands
 
 https://slackline.io
@@ -2166,6 +2169,12 @@ Git
  
 Learn X in Y Minutes Git
 * [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
+
+<!--
+http://jlord.us/git-it
+http://jlord.us/patchwork
+https://github.com/jlord/reporobot
+-->
 
 Git- Official Learning Resources
 * [Try Git](https://try.github.io)
@@ -11136,6 +11145,9 @@ Presentations (See also JavaScript Presentations Frameworks)
 * [GitHub Speaker Deck](https://speakerdeck.com)
 
 <!--
+https://github.com/integrations/gitpitch
+https://gitpitch.com/gitpitch/gitpitch
+
 https://prezi.com
 -->
 
@@ -11262,6 +11274,11 @@ Freelance
 * [Upwork](https://www.upwork.com)
 * [Your Rate](http://www.yourrate.co)
 
+<!--
+http://stackoverflow.com/users/story/join
+https://techcrunch.com/2016/10/11/stack-overflow-puts-a-new-spin-on-resumes-for-developers/
+-->
+
 Salary and Compensation
 * [Kansas Labor Information Center](https://klic.dol.ks.gov/vosnet/Default.aspx)
 * [Bureau of Labor Statistics](http://www.bls.gov) and [Bureau of Labor Statistics Wikipedia](https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics)
@@ -11270,6 +11287,8 @@ Salary and Compensation
 * [How Much to Make an App](http://howmuchtomakeanapp.com)
 
 <!--
+https://www.linkedin.com/salary
+
 Compensation
 * [CompStudy](https://www.compstudy.com)
 
