@@ -4698,6 +4698,14 @@ www.python.org/download/releases/2.3/mro/
 http://docs.python.org/2/library/pickle.html
 -->
 
+CPython
+* [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
+
+<!--
+https://github.com/python/cpython
+https://github.com/python/cpython/blob/master/Misc/NEWS#L91-L92
+-->
+
 Python Authorities
 * [Python Authority Authority GitHub](https://github.com/pyaa)
 * [Python Code Quality Authority GitHub](https://github.com/PyCQA)
@@ -5557,9 +5565,6 @@ Python- Mobile
 https://github.com/kivy/kivy-website
 https://github.com/kivy/python-for-android
 -->
-
-CPython
-* [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
 Python- Twython
 * [Twython](https://github.com/ryanmcgrath/twython)
