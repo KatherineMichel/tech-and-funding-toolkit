@@ -3924,6 +3924,7 @@ Jekyll Admin/CMS
 * [CloudCannon](http://cloudcannon.com)
 
 <!--
+https://github.com/integrations/siteleaf
 https://staticman.net
 https://staticman.net/get-started
 https://github.com/harrisj/swagger-jekyll
