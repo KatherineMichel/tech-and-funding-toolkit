@@ -1366,6 +1366,11 @@ Facebook Tools
 * [Fb Start for Mobile Startups](http://fbstart.com)
 
 <!--
+New
+https://github.com/jlord/reporobot
+https://github.com/guardian/facebook-news-bot
+https://www.messenger.com/t/theguardian/
+
 https://messengerplatform.fb.com/
 https://developers.facebook.com/docs/messenger-platform
 https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
@@ -11234,6 +11239,7 @@ Payments
  https://www.paypal.com/webapps/mpp/get-started/donate-button
 https://developer.paypal.com/docs/classic/payflow/gs_ppa_hosted_pages
 
+https://stripe.com/works-with
 https://stripe.com/docs/checkout/tutorial
 https://stripe.com/docs/webhooks
 https://stripe.com/docs/examples
