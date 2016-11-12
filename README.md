@@ -568,6 +568,8 @@ Surveys
 * [Typeform](https://subtraction.typeform.com)
 
 <!--
+https://www.amazon.com/b?ie=UTF8&node=13727921011
+
 https://polldaddy.com
 -->
 
@@ -3247,6 +3249,7 @@ JavaScript Tutorials
 <!--
 New
 http://learnjsthehardway.com/
+https://github.com/ericelliott/essential-javascript-links
 
 http://eloquentjavascript.net/13_dom.html
 -->
@@ -3508,6 +3511,10 @@ http://facebook.github.io/flux/docs/testing-flux-applications.html
 
 Redux (React Stack)
 * [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
+
+<!--
+http://redux.js.org/docs/basics/UsageWithReact.html
+-->
 
 Build Tools (grunt, gulp, bower, browserify, webpack)
 * [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
@@ -5711,6 +5718,10 @@ Consoles: Webmaster and Analytics
 * [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
 <!--
+New
+https://developers.google.com/google-apps/calendar/
+https://console.developers.google.com/apis
+
 chrome://apps
 
 * [Cloud9](https://c9.io/katherinemichel)
@@ -5789,6 +5800,8 @@ Malware and Encryption
 * [Malware Museum](https://archive.org/details/malwaremuseum)
 
 <!--
+https://en.wikipedia.org/wiki/Signal_(software)
+
 https://www.us-cert.gov
 https://www.digicert.com
 http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
@@ -6098,6 +6111,7 @@ https://serverlesscode.com/post/rich-jones-interview-django-zappa/
 https://pypi.python.org/pypi/django-zappa
 https://github.com/ryansb/django-zappa-example
 
+http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
 https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
 http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
 https://github.com/awslabs/aws-serverless-express
@@ -6763,6 +6777,10 @@ Docker (See also Kubernetes)
 * [Docker Hub](https://hub.docker.com)
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
 * [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
+
+<!--
+https://github.com/Docker/labs
+-->
 
 Bitnami Stacksmith
 * [Bitnami Stacksmith](https://stacksmith.bitnami.com)
@@ -11290,6 +11308,7 @@ Salary and Compensation
 
 <!--
 https://www.linkedin.com/salary
+https://www.linkedin.com/company/linkedin-economic-graph
 
 Compensation
 * [CompStudy](https://www.compstudy.com)
