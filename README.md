@@ -467,6 +467,8 @@ Database List
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 <!--
+https://betalist.com
+
 https://www.producthunt.com/tech/product-hunt-3-0
 https://www.producthunt.com/tech/product-hunt-2-0
 https://www.producthunt.com/live
@@ -564,6 +566,10 @@ Surveys
 * [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
 * [SurveyMonkey](https://www.surveymonkey.com)
 * [Typeform](https://subtraction.typeform.com)
+
+<!--
+https://polldaddy.com
+-->
 
 Google Insights and Trends
 * [Google Insights](http://www.google.com/insights)
@@ -2403,6 +2409,11 @@ Markdown
 
 YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+<!--
+http://www.yaml.org/refcard.html
+http://yaml.org/spec/1.2/spec.html
+-->
 
 GitLab (See also Project Management and Docker)
 * [GitLab Docs](http://docs.gitlab.com)
@@ -7679,6 +7690,8 @@ Free Code Camp
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
 
 <!--
+http://forum.freecodecamp.com
+
 http://www.theodinproject.com
 
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
@@ -9067,6 +9080,8 @@ General Terminology
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
 <!--
+https://superlp.com
+
 https://angel.co/davidle
 
 http://christophjanz.blogspot.de
@@ -9261,6 +9276,8 @@ http://www.greatachievements.org
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
 <!--
+https://en.wikipedia.org/wiki/Jeremy_Grantham
+
 https://twitter.com/EmanuelDerman
 https://twitter.com/EdBorgato
 https://twitter.com/BasonAsset
@@ -9424,6 +9441,10 @@ VC Funds/Accelerators
 
 Equity
 * [Google Capital](http://www.googlecapital.com)
+
+<!--
+https://www.capitalg.com
+-->
 
 Startup Studios
 * [Betaworks](https://betaworks.com) and [Betaworks Bot Camp](https://betaworks.com/botcamp)
@@ -11485,6 +11506,8 @@ BBC
 -->
 
 <!--
+https://github.com/guardian
+
 https://github.com/bbc/gel-test
 https://github.com/bbc/gel-standards
 https://github.com/BBC-News/bbc-news.github.io
