@@ -3252,6 +3252,14 @@ http://learnjsthehardway.com/
 https://github.com/ericelliott/essential-javascript-links
 
 http://eloquentjavascript.net/13_dom.html
+
+Misc. Possibly duplicates
+http://www.w3schools.com/jsref/jsref_split.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Array_comprehensions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 -->
 
 JavaScript Tutorials- Mozilla
@@ -6367,8 +6375,14 @@ AWS Deployment/Staging- Virtual Private Networks
 GitHub, Heroku, AWS SSH and SSH Keys
 * [GitHub SSH](https://github.com/settings/ssh)  
 * [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
-* [Heroku Keys](https://devcenter.heroku.com/articles/keys)  
+* [Heroku Keys (including fixing problems with keys)](https://devcenter.heroku.com/articles/keys)  
 * [AWS EC2 Key Pairs](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html) 
+
+<!--
+https://help.github.com/articles/checking-for-existing-ssh-keys/
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+-->
 
 Heroku Secure Key
 * [Secure Key](https://devcenter.heroku.com/articles/securekey)
@@ -7668,6 +7682,8 @@ Programming and Math Learning Tools (See also MOOCs)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 
 <!--
+http://treehouse.github.io/installation-guides
+
 https://hourofcode.com
 -->
 
