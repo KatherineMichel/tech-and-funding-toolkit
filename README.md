@@ -4705,10 +4705,9 @@ http://docs.python.org/2/library/pickle.html
 -->
 
 CPython
-* [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
+* [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
 <!--
-https://github.com/python/cpython
 https://github.com/python/cpython/blob/master/Misc/NEWS#L91-L92
 -->
 
@@ -5921,6 +5920,7 @@ AWS- Developer and Documentation
 * [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
 <!--
+Also: Awesome AWS
 https://github.com/open-guides/og-aws
 
 https://aws.amazon.com/devops/what-is-devops
