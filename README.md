@@ -11402,6 +11402,18 @@ Awesome Non-Code
 * [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
+<!--
+https://github.com/gztchan/awesome-design
+https://github.com/joshbuchea/HEAD
+https://github.com/noffle/art-of-readme
+https://github.com/neutraltone/awesome-stock-resources
+https://github.com/donnemartin/awesome-aws#python-sdk
+https://github.com/KishanBagaria/awesome-standards
+https://github.com/zingchart/awesome-charting
+https://github.com/detailyang/awesome-cheatsheet
+https://github.com/Kickball/awesome-selfhosted
+-->
+
 README and Head
 * [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
 * [HEAD GitHub](https://github.com/joshbuchea/HEAD)
