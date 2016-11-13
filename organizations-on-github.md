@@ -324,7 +324,7 @@ https://github.com/Medium/medium-policy
 * [Tencent](https://github.com/Tencent)
 * [Tencent Open](https://github.com/TencentOpen)
 * [Tesla](https://github.com/tesla)  
-* [Gina Trapani/ThinkUp](https://github.com/ginatrapani/ThinkUp)  
+* [Deprecated: ThinkUp](https://github.com/ThinkUpLLC/ThinkUp)
 * [Ticketmaster](https://github.com/ticketmaster)
 * [Trello](https://github.com/trello)
 * [Trip Advisor](https://github.com/tripadvisor)  
