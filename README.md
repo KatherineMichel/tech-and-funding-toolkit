@@ -9107,6 +9107,7 @@ General Terminology
 * [Charles Hudson](http://www.charleshudson.net) 
 * [Charlie O'Donnell (This is Going to Be Big)](http://www.thisisgoingtobebig.com) and [Charlie O'Donnell Meet with Me](http://www.thisisgoingtobebig.com/meet-with-me) 
 * [Chris Dixon](http://cdixon.org), [Chris Dixon Old Blog (Nonchalantrepreneur)](http://nonchalantrepreneur.com), and [Chris Dixon Medium](https://medium.com/@cdixon)
+* [Chris Douvos (Super LP)](https://superlp.com)
 * [Chris Sacca via Lowercase Capital](http://lowercasecapital.com/cables), [Lowercase Creed](http://lowercasecapital.com/creed), [Lowercase Prospecting](http://lowercasecapital.com/prospecting), and [Chris Sacca Old Blog](http://www.whatisleft.org/lookie_here/2005/09/want_to_do_busi.html) 
 * [Christine Herron](http://www.christine.net)
 * [Dave McClure Medium](https://medium.com/@davemcclure) and [Dave McClure Old Blog](http://500hats.com)
@@ -9153,8 +9154,6 @@ General Terminology
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
 <!--
-https://superlp.com
-
 https://angel.co/davidle
 
 http://christophjanz.blogspot.de
@@ -9341,6 +9340,7 @@ http://www.greatachievements.org
 * [Barry Ritholtz](http://www.ritholtz.com/blog) and [Barry Ritholtz Masters in Business](http://www.bloombergview.com/topics/masters-in-business)
 * [Howard Marks (Chairman, Oaktree Capital) Memos](http://www.oaktreecapital.com/memo.aspx) and [It’s not Easy](http://www.oaktreecapital.com/MemoTree/It's%20Not%20Easy.pdf)
 * [Jason Zweig](http://www.jasonzweig.com)
+* [Jeremy Grantham Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Grantham)
 * [Joshua M. Brown (CEO, Ritholtz Wealth Management and The Reformed Broker)](http://thereformedbroker.com/about)
 * [Larry Summers](http://larrysummers.com)
 * [Michael Batnick (The Irrelevant Investor)](https://theirrelevantinvestor.wordpress.com)
@@ -9349,8 +9349,6 @@ http://www.greatachievements.org
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
 <!--
-https://en.wikipedia.org/wiki/Jeremy_Grantham
-
 https://twitter.com/EmanuelDerman
 https://twitter.com/EdBorgato
 https://twitter.com/BasonAsset
@@ -9513,10 +9511,9 @@ VC Funds/Accelerators
 * [Union Square Ventures](https://www.usv.com)
 
 Equity
-* [Google Capital](http://www.googlecapital.com)
+* [CapitalG](https://www.capitalg.com)
 
 <!--
-https://www.capitalg.com
 https://www.googleforentrepreneurs.com
 -->
 
@@ -9769,14 +9766,12 @@ Investors on GitHub
 * [O'Reilly AlphaTech Ventures](https://github.com/OATV)
 
 Crowdfunding
-* [Kickstarter](https://www.kickstarter.com)
+* [Kickstarter](https://www.kickstarter.com) and [Kickstarter Live](https://live.kickstarter.com)
 * [Patreon](https://www.patreon.com)
 * [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
 * [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
 
 <!--
-https://live.kickstarter.com
-
 https://republic.co
 
 https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
@@ -10613,7 +10608,7 @@ Unconference
 * [Unconference Wikipedia](https://en.wikipedia.org/wiki/Unconference)
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
-* [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
+* [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
 * [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
 * [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
 * [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
@@ -10622,7 +10617,6 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [This American Life](http://www.thisamericanlife.org)
 
 <!--
-https://talksat.withgoogle.com
 http://www.churchillclub.org
 
 http://hacklolla.challengepost.com
@@ -11043,11 +11037,8 @@ Google Products
 * [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
 * [Let Me Google that for You](http://lmgtfy.com) 
 
-<!--
-https://gsuite.google.com/together
--->
-
 Google Account
+* [G Suite](https://gsuite.google.com)
 * [Google Gmail](http://gmail.com) 
 * [Google Inbox](https://www.google.com/inbox) and [Google Inbox Dashboard](https://inbox.google.com)
 * [Google My Activity](https://myactivity.google.com/myactivity)
@@ -11088,13 +11079,9 @@ Reddit Advertising
 
 Google World
 * [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
-* [Google Flights](https://www.google.com/flights)  
+* [Google Trips](https://get.google.com/trips)  
 * [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
 * [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
-
-<!--
-https://get.google.com/trips
--->
 
 Alerts
 * [Google Alerts](https://www.google.com/alerts)
@@ -11137,19 +11124,18 @@ Social Media Distribution
 * [Tweetbot](http://tapbots.com/tweetbot)
 
 Email
+* [Mad Mimi (GoDaddy)](https://madmimi.com)
 * [MailChimp](http://mailchimp.com) and [MailChimp Email Blueprints](https://github.com/mailchimp/email-blueprints)
 * [Mailgun](http://www.mailgun.com)  
 * [Mandrill](http://mandrill.com)  
 * [SendGrid](http://sendgrid.com)  
 * [Tiny Letter](https://www.tinyletter.com)
 
+Email Organization
+* [SaneBox](https://www.sanebox.com)
+
 <!--
-https://www.sanebox.com
-
 https://www.drip.co
-
-Mad Mimi (GoDaddy)
-https://madmimi.com/service_agreements/choose_plan
 
 Email
 [MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
@@ -11201,12 +11187,11 @@ Presentations (See also JavaScript Presentations Frameworks)
 * [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
 * [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
 * [GitHub Speaker Deck](https://speakerdeck.com)
+* [Prezi](https://prezi.com)
 
 <!--
 https://github.com/integrations/gitpitch
 https://gitpitch.com/gitpitch/gitpitch
-
-https://prezi.com
 -->
 
 Docs
@@ -11238,8 +11223,6 @@ Customer Relationship Management
 * [Zendesk](https://www.zendesk.com)
 
 <!--
-https://gusto.com
-
 https://admin.salesforce.com
 https://developer.salesforce.com
 -->
@@ -11253,7 +11236,7 @@ Payments
 * [Dwolla](https://www.dwolla.com) 
 
 <!--
- https://www.paypal.com/webapps/mpp/get-started/donate-button
+https://www.paypal.com/webapps/mpp/get-started/donate-button
 https://developer.paypal.com/docs/classic/payflow/gs_ppa_hosted_pages
 
 https://stripe.com/works-with
@@ -11280,11 +11263,15 @@ Swag
 Business Cards and More
 * [Moo](https://www.moo.com/us)
 
+Case Studies
+* [Case Study Ninja](https://www.casestudyninja.com)
+
 Admin, Hiring, Payroll, Expenses
 * [Clara Labs](https://claralabs.com) 
 * [Expensify](https://www.expensify.com)
 * [Evernote](https://evernote.com)
 * [Freshbooks](https://www.freshbooks.com)
+* [Gusto](https://gusto.com)
 * [Lever](http://lever.co)  
 * [Jobvite](http://www.jobvite.com)
 * [QuickBooks](http://quickbooks.intuit.com)
@@ -11295,8 +11282,6 @@ Admin, Hiring, Payroll, Expenses
 <!--
 https://www.hellobonsai.com
 https://www.hellobonsai.com/freelancers
-
-https://www.casestudyninja.com
 
 https://www.twilio.com/marketplace/add-ons
 
@@ -11340,17 +11325,16 @@ http://stackoverflow.com/users/story/join
 https://techcrunch.com/2016/10/11/stack-overflow-puts-a-new-spin-on-resumes-for-developers/
 -->
 
-Salary and Compensation
+Salary/Compensation, Economic Graph
 * [Kansas Labor Information Center](https://klic.dol.ks.gov/vosnet/Default.aspx)
 * [Bureau of Labor Statistics](http://www.bls.gov) and [Bureau of Labor Statistics Wikipedia](https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics)
 * [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
+* [LinkedIn Salary](https://www.linkedin.com/salary)
+* [LinkedIn Economic Graph](https://www.linkedin.com/company/linkedin-economic-graph)
 * [salary.com](http://salary.com)
 * [How Much to Make an App](http://howmuchtomakeanapp.com)
 
 <!--
-https://www.linkedin.com/salary
-https://www.linkedin.com/company/linkedin-economic-graph
-
 Compensation
 * [CompStudy](https://www.compstudy.com)
 
@@ -11417,7 +11401,6 @@ Awesome Non-Code
 
 <!--
 https://github.com/gztchan/awesome-design
-https://github.com/joshbuchea/HEAD
 https://github.com/noffle/art-of-readme
 https://github.com/neutraltone/awesome-stock-resources
 https://github.com/donnemartin/awesome-aws#python-sdk
