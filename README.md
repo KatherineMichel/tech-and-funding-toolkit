@@ -3258,6 +3258,11 @@ https://github.com/ericelliott/essential-javascript-links
 
 http://eloquentjavascript.net/13_dom.html
 
+http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers
+http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
+Advanced Debugging with Chrome
+https://docs.google.com/presentation/d/17HjGp4pQlNh2WIwKiTcUpDLIuOdkUcRmALFuoytQsjU/preview?slide=id.p
+
 Misc. Possibly duplicates
 http://www.w3schools.com/jsref/jsref_split.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
@@ -8139,6 +8144,9 @@ Miscellaneous
 * [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
 
 <!--
+iPhone app development
+http://www.stanford.edu/class/cs193p/cgi-bin/drupal
+
 https://realm.io/products/realm-mobile-platform
 -->
 
@@ -9767,6 +9775,8 @@ Crowdfunding
 * [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
 
 <!--
+https://live.kickstarter.com
+
 https://republic.co
 
 https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
@@ -11309,6 +11319,8 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
+http://stackoverflow.com/jobs?sort=y&allowsremote=true
+
 https://angel.co/jobs
 https://weworkremotely.com
 https://teleport.org/remote
