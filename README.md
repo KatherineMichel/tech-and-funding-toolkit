@@ -6329,7 +6329,6 @@ https://developers.google.com/optimization
 https://developers.google.com/training/web
 https://developer.chrome.com/extensions/getstarted
 
-G Suite
 https://github.com/google/nomulus
 https://www.registry.google
 
@@ -6337,11 +6336,9 @@ https://code.google.com/archive
 
 Google App Engine Docs
 https://cloud.google.com/appengine/docs
-Google App Engine Docs
-https://cloud.google.com/appengine/docs
 
 https://cloud.google.com/source-repositories/docs/
-x
+
 https://cloud.google.com/products
 https://cloud.google.com/ml/docs
 -->
@@ -6914,9 +6911,10 @@ Puppet Labs
 
 
 
-Developer Playground/IDE
+Developer Playground/IDE (Similar to Fiddle)
+* [Cloud9](https://c9.io)
 * [HyperDev (Beta)](https://hyperdev.com)
-* [Nitrous](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
+* [Nitrous (Going Away)](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
 Cross Platform Dev Environment
@@ -7213,6 +7211,10 @@ IP
 * [IP Address Wikipedia](https://en.wikipedia.org/wiki/IP_address)
 * [IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
 * [Virtual IP Address Wikipedia](https://en.wikipedia.org/wiki/Virtual_IP_address)
+
+<!--
+http://whatismyipaddress.com/ip-basics
+-->
 
 Domain Name
 * [Domain Name Wikipedia](https://en.wikipedia.org/wiki/Domain_name)
@@ -7684,6 +7686,7 @@ https://nodejs.org/en/foundation/outreachy
 Programming and Math Learning Tools (See also MOOCs)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
+* [Hour of Code](https://hourofcode.com)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com)  
@@ -7699,8 +7702,6 @@ Programming and Math Learning Tools (See also MOOCs)
 
 <!--
 http://treehouse.github.io/installation-guides
-
-https://hourofcode.com
 -->
 
 Mobile
@@ -8097,11 +8098,7 @@ Golang Mobile
 * [Golang Mobile GitHub](https://github.com/golang/mobile)
 
 Exponent.js
-* [Exponent.js](http://exponentjs.com)
-
-<!--
-https://getexponent.com
--->
+* [Exponent.js](https://getexponent.com)
 
 IDE
 * [Eclipse](http://www.eclipse.org) 
