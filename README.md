@@ -1103,6 +1103,7 @@ Quickie Websites
 * [Wix Templates](http://www.wix.com/website/templates) and [Wix Premium Plans](http://www.wix.com/upgrade/premium-plans)
 
 <!--
+https://github.com/Squarespace/base-template
 https://engineering.squarespace.com/blog/2016/the-developer-platform-gets-local
 -->
 
@@ -1920,6 +1921,10 @@ Unix
 Comparison of File Systems
 * [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 
+<!--
+https://en.wikipedia.org/wiki/Unix-like
+-->
+
 Unix Shell and File system
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
 * [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
@@ -2069,6 +2074,10 @@ Integrated Development Environment
 <!--
 [Google Code Prettify](https://github.com/google/code-prettify)  
 
+https://en.wikipedia.org/wiki/PowerShell#Scripting
+https://en.wikibooks.org/wiki/Windows_Batch_Scripting
+https://en.wikipedia.org/wiki/Batch_file
+
 https://en.wikipedia.org/wiki/List_of_Unix_daemons
 
 https://en.wikipedia.org/wiki/Tilde
@@ -2106,8 +2115,6 @@ http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/GNU-Linux-Tools-Summary.pdf
 https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-entry-commands.html
 
 http://www.unix.com/man-page/posix/1posix/eval
-
-https://en.wikipedia.org/wiki/Batch_file
 -->
 
 #### Keyboard Shortcuts
@@ -2687,6 +2694,8 @@ Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
 * [Sentry](http://getsentry.com)
 
 <!--
+https://github.com/keen/cohorts
+
 https://graphite.readthedocs.org
 https://github.com/brutasse/graphite-api
 http://grafana.org
@@ -3338,8 +3347,10 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 <!--
 Semantic UI
-http://semantic-ui.com/
+http://semantic-ui.com
 https://github.com/Semantic-Org/Semantic-UI 
+
+Competitor to Ember, Knockout, Polymer
 https://github.com/vuejs/vue-hackernews
 https://github.com/vuejs
 https://vuejs.org
@@ -3349,23 +3360,21 @@ Node.js
 * [Node.js](http://nodejs.org)  
 * [Node.js Docs/API](http://nodejs.org/api/)  
 * [Node.js Design](https://www.joyent.com/developers/node/design)  
-* [Nodejsmodules.org](https://nodejsmodules.org)  
-* [NPM Package Search](https://www.npmjs.org)  
+* [Nodejsmodules.org](https://nodejsmodules.org)   
 * [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
+* [JSDOM GitHub](https://github.com/tmpvar/jsdom)  
+* [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
+* [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
+* [Node Beginner](http://www.nodebeginner.org) 
+
+Node.js Package Managers
 * [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm)  
 * [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
 * [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
 * [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
-* [JSDOM GitHub](https://github.com/tmpvar/jsdom)  
-* [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
-* [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
-* [Node Beginner](http://www.nodebeginner.org)  
-
-<!--
-https://github.com/yarnpkg/yarn
-https://yarnpkg.com/en/docs/install
-https://code.facebook.com/posts/1840075619545360
--->
+* [NPM Package Search](https://www.npmjs.org)  
+* [Yarn](https://yarnpkg.com) and [Yarn GitHub](https://github.com/yarnpkg/yarn)
+* ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
 
 Check Update
 * [Check Update (npm install -g npm-check-updates)](https://www.npmjs.com/package/check-update)
@@ -3385,6 +3394,7 @@ https://angular.io/docs
 Express (React Stack)
 * [Express (based on Sinatra)](http://expressjs.com)  
 * [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
+* [Sinatra GitHub](https://github.com/sinatra/sinatra)
 
 <!--
 New
@@ -3620,23 +3630,16 @@ http://winless.org
 -->
 
 Extension Languages
-* [Jade](http://jade-lang.com)  
-* [Jade GitHub](https://github.com/visionmedia/jade)  
+* [Pug (formerly Jade)](https://pugjs.org) and [Pug GitHub](https://github.com/pugjs/pug)  
 * [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
 * [HTML to Jade Converter](http://html2jade.aaron-powell.com)  
 * [Bootstrap Jade GitHub](https://github.com/SeraphimSerapis/Bootstrap-for-Jade)  
 * [Bootstrap for Jade (Node, Express, Grunt) GitHub](https://github.com/ALT-F1/bootstrap3-jade-node-express-grunt)  
 * [Handlebars GitHub](https://github.com/wycats/handlebars.js)  
 * [Mustache GitHub](https://github.com/janl/mustache.js)  
-* [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
+* [Coffee Script](http://coffeescript.org) and [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
 * [Underscore](http://underscorejs.org)  
 * [Underscore GitHub](https://github.com/jashkenas/underscore)  
-
-<!--
-http://coffeescript.org
-https://github.com/sinatra/sinatra
-https://pugjs.org/api/getting-started.html
--->
 
 Other JavaScript Helpers
 * [Lodash GitHub](https://github.com/lodash/lodash)
@@ -4985,6 +4988,7 @@ http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-glo
 
 http://remote.pyladies.com/resources
 https://github.com/pyladies/pyladies
+https://github.com/pyladies/pyladies-maintainers
 https://github.com/socalpyladies/socalpyladies.github.io
 http://socalpyladies.github.io/
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
