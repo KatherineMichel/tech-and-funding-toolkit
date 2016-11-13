@@ -96,18 +96,21 @@ Not-for-Profit
 * [National Geospatial-Intelligence Agency](https://github.com/ngageoint) 
 * [OKFN](https://github.com/okfn) 
 * [OpenGov Foundation](https://github.com/opengovfoundation)
-* [Open Wichita](https://github.com/openwichita)
 * [Our World in Data](https://github.com/OurWorldInData)
 * [PBS](https://github.com/pbs)  
 * [Smithsonian](https://github.com/Smithsonian) 
 * [Stanford University Digital Library](https://github.com/sul-dlss)  
-* [Startup Wichita](https://github.com/StartupWichita)
+* [Sunlight Labs](https://github.com/sunlightlabs)
 * [The Upshot](https://github.com/TheUpshot)  
 * [Wharton](https://github.com/wharton)
 * [Wikidata](https://github.com/wikidata)  
 * [Wikidata Library](https://github.com/wikidata-lib)  
 * [Wikimedia](https://github.com/wikimedia)  
 * [Wikimedia Deutschland](https://github.com/wmde) 
+
+Kansas Non-Profit
+* [Open Wichita](https://github.com/openwichita)
+* [Startup Wichita](https://github.com/StartupWichita)
 
 ## Analyst Agencies
 * [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
@@ -312,6 +315,7 @@ https://github.com/Medium/medium-policy
 * [SoundCloud](https://github.com/soundcloud)  
 * [Spotify](https://github.com/spotify)  
 * [Square](https://github.com/square)  
+* [Squarespace](https://github.com/squarespace)  
 * [Stack Exchange](https://github.com/stackexchange)  
 * [Storify](https://github.com/storify)  
 * [Stripe](https://github.com/stripe)  
