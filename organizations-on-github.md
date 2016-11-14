@@ -109,6 +109,7 @@ Not-for-Profit
 * [Wikimedia Deutschland](https://github.com/wmde) 
 
 Kansas Non-Profit
+* [Ennovar](https://github.com/Ennovar)
 * [Open Wichita](https://github.com/openwichita)
 * [Startup Wichita](https://github.com/StartupWichita)
 
