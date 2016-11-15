@@ -458,6 +458,7 @@ Product Tiers
 
 Database List
 * [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
+* [Betalist](https://betalist.com)
 * [CB Insights](https://www.cbinsights.com)
 * [CrunchBase](http://www.crunchbase.com) and [Crunchbase Pro](https://www.crunchbase.com/app/info/pro)
 * [Datafox](http://www.datafox.co)
@@ -467,8 +468,6 @@ Database List
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 <!--
-https://betalist.com
-
 https://www.producthunt.com/tech/product-hunt-3-0
 https://www.producthunt.com/tech/product-hunt-2-0
 https://www.producthunt.com/live
@@ -566,12 +565,7 @@ Surveys
 * [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
 * [SurveyMonkey](https://www.surveymonkey.com)
 * [Typeform](https://subtraction.typeform.com)
-
-<!--
-https://www.amazon.com/b?ie=UTF8&node=13727921011
-
-https://polldaddy.com
--->
+* [Polldaddy](https://polldaddy.com)
 
 Google Insights and Trends
 * [Google Insights](http://www.google.com/insights)
@@ -585,6 +579,9 @@ Tim Ferris Inspired- Ideas
 * [Kickstarter Discover](https://www.kickstarter.com/discover), [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced), and [Kickstarter Recommendations](https://www.kickstarter.com/recommendations)
 
 <!--
+Amazon Customer Favorites
+https://www.amazon.com/b?ie=UTF8&node=13727921011
+
 https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
 -->
 
@@ -711,8 +708,8 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+Slack Competitor
 https://products.office.com/en-US/microsoft-teams/group-chat-software
-https://flow.microsoft.com
 
 https://quip.com/blog/slack-integration-slash-commands
 
@@ -3036,6 +3033,9 @@ How Google works
 http://ppcblog.com/how-google-works
 -->
 
+
+
+
 #### Standards
 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
@@ -3303,6 +3303,8 @@ JSON
 <!--
 http://www.json.org/xml.html
 -->
+
+
 
 #### AJAX and jQuery
 
@@ -11253,6 +11255,7 @@ Crowd Sourced Internet Marketplace
 
 Task Automation
 * [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
+* [Microsoft Flow](https://flow.microsoft.com)
 
 Kits
 * [Kits](http://kit.com)
