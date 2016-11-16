@@ -112,6 +112,7 @@ Kansas Non-Profit
 * [Ennovar](https://github.com/Ennovar)
 * [Open Wichita](https://github.com/openwichita)
 * [Startup Wichita](https://github.com/StartupWichita)
+* [Wichitalks](https://github.com/Wichitalks)
 
 ## Analyst Agencies
 * [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
