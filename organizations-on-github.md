@@ -311,6 +311,7 @@ https://github.com/Medium/medium-policy
 * [Rdio](https://github.com/rdio)  
 * [Salesforce UX](https://github.com/salesforce-ux)
 * [Samsung](https://github.com/Samsung)
+* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
 * [Scribd](https://github.com/scribd)  
 * [Shopify](https://github.com/Shopify)  
 * [Shutterstock](https://github.com/shutterstock)  
