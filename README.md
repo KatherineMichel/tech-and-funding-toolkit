@@ -195,6 +195,8 @@ Table of Content
 * [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
 
 <!--
+https://medium.com/upside-partnership/a-seed-funds-investment-checklist-c6d5bd1ea65#.lsgeu2dgb
+
 http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
 http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
 http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
