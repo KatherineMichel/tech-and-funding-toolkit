@@ -295,6 +295,7 @@ https://github.com/Medium/medium-policy
 * [Palantir](https://github.com/palantir)
 * [Patreon](https://github.com/patreon)  
 * [PayPal](https://github.com/paypal)  
+* [Pearson Technology](https://github.com/pearsontechnology)
 * [Photobucket](https://github.com/photobucket)  
 * [Pinterest](https://github.com/pinterest)  
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
