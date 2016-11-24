@@ -344,6 +344,7 @@ https://github.com/Medium/medium-policy
 * [Typekit](https://github.com/typekit)  
 * [Uber](https://github.com/uber)  
 * [Uber Common](https://github.com/uber-common) 
+* [Uber Go](https://github.com/uber-go)
 * [Under Armour](https://github.com/underarmour)
 * [Upworthy](https://github.com/upworthy) 
 * [Vimeo](https://github.com/vimeo)  
