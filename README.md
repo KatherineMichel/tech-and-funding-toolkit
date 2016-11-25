@@ -9267,6 +9267,7 @@ https://plus.google.com/collection/gbVpb
 
 * [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
 * [Dan Sinker GitHub](https://github.com/sinker)
+* [Edward Tufte GitHub](https://github.com/edwardtufte)
 * [Harper Reed GitHub](https://github.com/harperreed)
 * [John Resig](http://ejohn.org/blog) 
 * [Joel Spolsky](http://www.joelonsoftware.com)
