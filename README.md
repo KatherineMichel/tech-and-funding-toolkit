@@ -2155,6 +2155,17 @@ Dot Files
 * [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
 * [YADR GitHub](https://github.com/skwp/dotfiles)
 
+<!--
+https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789#.3lsaw3gql
+
+https://github.com/epicserve/dotfiles
+https://github.com/geerlingguy/mac-dev-playbook
+https://github.com/JohnColvin/.maid/blob/master/rules.rb
+https://github.com/mathiasbynens/dotfiles/blob/master/.osx
+https://github.com/mitchty/src/blob/master/dotfiles/maid/rules.rb
+http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
+-->
+
 #### Git and Markdown
 
 <!--
@@ -5722,6 +5733,7 @@ https://play.google.com/apps/publish
 
 https://www.linkedin.com/help/linkedin?lang=en
 
+Google Webmaster Tools Verification
 https://www.google.com/webmasters/verification/verification
 https://www.digitalocean.com/community/questions/how-to-verify-google-webmaster-tools
 
