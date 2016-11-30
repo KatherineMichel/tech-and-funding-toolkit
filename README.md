@@ -2079,6 +2079,18 @@ Integrated Development Environment
 * [Comparison of Integrated Development Environments Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
 
 <!--
+New
+https://en.wikipedia.org/wiki/Meta_key
+
+https://en.wikipedia.org/wiki/File_system_permissions
+https://en.wikipedia.org/wiki/Tar_(computing)
+
+https://en.wikipedia.org/wiki/Make_(software)
+https://en.wikipedia.org/wiki/Makefile
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
+https://www.gnu.org/software/make/manual/make.html
+
+
 [Google Code Prettify](https://github.com/google/code-prettify)  
 
 https://en.wikipedia.org/wiki/PowerShell#Scripting
@@ -11645,11 +11657,17 @@ Bullet Journal
 * [The Pomodoro Technique](http://pomodorotechnique.com)
 
 <!--
+See also Agile Project Management
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 http://cirillocompany.de/pages/pomodoro-technique
 -->
 
 #### Journalism Handbooks and Grammatical Style Guides
+
+<!--
+Harvard Referencing
+APA Referencing
+-->
 
 Journalism Handbooks
 * [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
