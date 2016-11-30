@@ -324,6 +324,7 @@ https://github.com/sahat/megaboilerplate
 https://github.com/FreeCodeCamp/nonprofit-email-service
 https://github.com/FreeCodeCamp/food-bank-app
 https://github.com/FreeCodeCamp/FreeCodeCamp
+https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md#prerequisites
 -->
 
 Preferred Non-Official Templates (See also WordPress)
