@@ -6806,6 +6806,10 @@ MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
 * [MySQL GitHub](https://github.com/twitter/mysql)  
 * [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
 
+<!--
+http://www.mysql.com/products/workbench/
+-->
+
 Sequel Pro (Recommended and MAMP bundled)
 * [Sequel Pro](http://www.sequelpro.com)
  
@@ -6915,6 +6919,12 @@ Ansible (Automation and Configuration Management)
 * [Ansible AWS](http://www.ansible.com/aws)
 
 <!--
+New
+https://gist.github.com/phred/2897937
+http://docs.ansible.com/ansible/playbooks_intro.html
+http://docs.ansible.com/ansible/YAMLSyntax.html
+http://docs.ansible.com/ansible/playbooks_best_practices.html
+
 Detailed Guides
 http://docs.ansible.com/ansible/guides.html
 
@@ -7746,6 +7756,10 @@ Programming and Math Learning Tools (See also MOOCs)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 
 <!--
+https://www.khanacademy.org/computing/computer-programming/sql
+https://www.khanacademy.org/computing/computer-programming
+https://www.khanacademy.org/computing/computer-science
+
 http://treehouse.github.io/installation-guides
 -->
 
@@ -7797,7 +7811,7 @@ https://github.com/jshomes/learning-resources
 -->
 
 Free Code Camp
-* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
+* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
 * [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
 * [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
 * [Free Code Camp Medium](https://medium.freecodecamp.com)
@@ -7806,6 +7820,7 @@ Free Code Camp
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
 
 <!--
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 http://forum.freecodecamp.com
 
 http://www.theodinproject.com
