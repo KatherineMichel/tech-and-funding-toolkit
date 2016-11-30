@@ -11474,6 +11474,14 @@ Awesome Non-Code
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 <!--
+https://github.com/kdeldycke/awesome-falsehood
+https://github.com/jaywcjlove/awesome-mac
+https://github.com/herrbischoff/awesome-osx-command-line
+https://github.com/d3viant0ne/awesome-webpack
+https://github.com/AntBranch/awesome-github
+https://github.com/zazaalaza/awesome-ideation-tools
+https://github.com/tayllan/awesome-algorithms
+
 https://github.com/gztchan/awesome-design
 https://github.com/noffle/art-of-readme
 https://github.com/neutraltone/awesome-stock-resources
