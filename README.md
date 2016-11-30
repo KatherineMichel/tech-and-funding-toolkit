@@ -924,6 +924,10 @@ Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nes
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
+Design Kit: Facilitator's Guide
+https://novoed.com/facilitators-guide-2016-2
+http://plusacumen.org/courses/design-kit-facilitators-guide-to-introducing-human-centered-design/
+
 http://www.ideou.com
 
 https://toolkit.mozilla.org
@@ -11221,6 +11225,15 @@ https://www.drip.co
 Email
 [MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
 [Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
+
+https://github.com/sendwithus/templates
+https://www.sendwithus.com/resources/templates
+https://github.com/zurb/foundation-emails/tree/develop/templates
+https://github.com/mailgun/transactional-email-templates
+http://blog.mailgun.com/transactional-html-email-templates/
+https://github.com/groupon/gleemail
+https://github.com/leemunroe/responsive-html-email-template
+https://github.com/InterNations/antwort
 
 http://www.goodemailcopy.com
 
