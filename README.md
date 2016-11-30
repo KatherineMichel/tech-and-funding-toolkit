@@ -1366,8 +1366,7 @@ Facebook Tools
 * [Fb Start for Mobile Startups](http://fbstart.com)
 
 <!--
-New
-https://github.com/jlord/reporobot
+New (Se also reporobot and githubteacher)
 https://github.com/guardian/facebook-news-bot
 https://www.messenger.com/t/theguardian/
 
@@ -1502,6 +1501,11 @@ Web Browser
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
+
+<!--
+https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing
+https://en.wikipedia.org/wiki/Browser_sniffing
+-->
 
 Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
@@ -1695,6 +1699,10 @@ Safari Developer Tools
 
 MacPorts
 * [MacPorts](https://guide.macports.org)
+
+<!--
+https://github.com/macports/macports-ports
+-->
 
 Mac OS X Directory Strucure and Listing Applications
 * [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
@@ -2200,6 +2208,8 @@ Learn X in Y Minutes Git
 http://jlord.us/git-it
 http://jlord.us/patchwork
 https://github.com/jlord/reporobot
+https://github.com/jlord/patchwork/tree/gh-pages/contributors
+https://github.com/githubteacher
 -->
 
 Git- Official Learning Resources
@@ -2471,6 +2481,9 @@ More GitHub Alternatives
 * [Codebase](https://www.codebasehq.com)  
 
 <!--
+http://getgitorious.com
+https://github.com/tv42/gitosis
+
 One Click Deploy
 
 https://www.atlassian.com/software-trends
@@ -3275,6 +3288,10 @@ JavaScript Tutorials
 
 <!--
 New
+https://github.com/getify/You-Dont-Know-JS
+http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+http://shop.oreilly.com/product/9780596517748.do
+
 http://learnjsthehardway.com/
 https://github.com/ericelliott/essential-javascript-links
 
@@ -4778,6 +4795,13 @@ Python- Django- Sites
 * [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
 * [KU Sports](http://www2.kusports.com)  
 
+<!--
+New
+http://python2sites.com/
+http://python2sites.com/detail/python2sites
+https://github.com/electrocoder/python2sites
+-->
+
 Python- Django- Major Organizations and Projects that Use Django (Excluding Templates)
 * [18F GitHub](https://github.com/18F)  
 * [Disqus](https://github.com/disqus)
@@ -5077,6 +5101,7 @@ Python- Condensed Learning Resources
 
 <!--
 https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
 
 https://github.com/zedshaw/lpthw-study-projects
 -->
@@ -6751,7 +6776,7 @@ SSL
 * [Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator)
 
 SQL
-* [SQL (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Sql)  
+* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
 * [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
 * [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
 
@@ -7816,6 +7841,12 @@ http://www.gnu.org/doc/other-free-books.html
 
 Free Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
+
+<!--
+New
+
+https://www.humblebundle.com
+-->
 
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -10673,6 +10704,11 @@ Books
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
+New
+https://docs.google.com/forms/d/e/1FAIpQLScQwu-EpUYWYrfTKXxYNB2htxd8qgui7_CoTbdgwD9_dMh-WQ/viewform?c=0&w=1
+https://continuingstudies.stanford.edu/courses/courses-overview
+http://online.stanford.edu/course/upside-stress
+
 https://www.amazon.com/Venture-Capital-Private-Financing-Entrepreneurship/dp/0470591439
 
 http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
@@ -11319,6 +11355,10 @@ Logistics
 * [Teleport](http://teleport.org)
 * [Zillow](http://www.zillow.com)
 
+<!--
+https://www.trulia.com
+-->
+
 Remote
 * [remoteok](https://remoteok.io)
 
@@ -11580,6 +11620,11 @@ The Happiness Project
 Bullet Journal
 * [Bullet Journal](http://bulletjournal.com)
 * [The Pomodoro Technique](http://pomodorotechnique.com)
+
+<!--
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+http://cirillocompany.de/pages/pomodoro-technique
+-->
 
 #### Journalism Handbooks and Grammatical Style Guides
 
