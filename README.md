@@ -3398,6 +3398,130 @@ Node.js (Node.js, npm, nvm)
 Build Tools (grunt, gulp, bower, browserify, webpack, hot reloading, sourcemap)
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
+<!--
+My Pluralsight Course Notes
+
+Building Web Applications with Node.js and Express 4.0 by Jonathan F. Mills
+
+Visual Studio Code
+https://www.jetbrains.com/webstorm/
+http://brackets.io/
+Font size 22
+Beautify, command-shift-L
+Brackets File Tabs, Brackets Icons, Snippets (type CL) and can custom create (New)
+https://github.com/David5i6/Brackets-Delkos-Dark-Theme
+
+Building a JS Development Environment by Cory House
+
+NWS and Electron- build desktop JavaScript apps, Ember (notoriously opinionated)
+Good Node editors: WebStorm (good, but not free), Brackets, Atom, VSCode
+http://editorconfig.org/ (tabs versus spaces, ect)
+.editorconfig
+https://github.com/coryhouse/js-dev-env-demo
+Use nvm to run multiple versions of node
+Author prefers latest features node (v6.x) versus recommended for most users version
+Package.json is node’s package manifest
+package.json for Building a JS Development Environment on Pluralsight
+https://gist.github.com/coryhouse/29bd1029b623beb4c7f79b748dcba844
+VSCode -> Open -> View -> Integrated Terminal
+Built in/integrated terminals
+Dependencies will go in a folder called node_modules
+https://nodesecurity.io/
+$ npm install -g nsp
+$ cd
+$ nsp check (checking all the packages for any known vulnerabilities)
+Run nps automatically as part of your start script
+
+
+http://www.walmartlabs.com/project_type/open-source/
+http://hapijs.com/
+https://github.com/browsersync/recipes
+With the exception of express, these development Webservers are not for production
+Demo: Sharing work in progress
+Can use BrowserSync and Local Tunnel together
+Npm scripts
+https://docs.npmjs.com/misc/scripts
+https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.xurj4qvis
+With npm scripts, you don’t need to install tools globally to run them
+When you install node_modules, they are added to .bin folder and are automatically added to the path when called; the packages do not need to be installed globally
+Npm run security-check
+Concurrent tasks: npm run all
+Npm start -s (silencing of noise)
+https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
+Babel Configuration Styles: .babelrc or package.json
+https://babeljs.io/docs/plugins/
+https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
+https://github.com/babel/babel-eslint
+http://electron.atom.io/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.q0k44k9jd
+http://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files
+Tree-shaking
+Webpack 2 will offer tree-shaking as key new feature
+Webpack.config.dev.js
+https://gist.github.com/coryhouse/d611e83e432f3ae65cc46ebb9b599930
+https://webpack.js.org/
+http://webpack.github.io/docs/configuration.html#devtools
+http://eslint.org/docs/2.0.0/user-guide/configuring
+http://eslint.org/docs/rules/
+Eslint-loader
+Eslint-watch
+.eslintrc.json or package.json
+https://gist.github.com/coryhouse/61f866c7174220777899bcfff03dab7f
+ecmaVersion Es7
+Eslint environments list
+http://eslint.org/docs/user-guide/configuring
+Selenium 
+Wrapper over Jasmine: https://facebook.github.io/jest/
+Assertion libraries: most popular: Chai Others: should.js and expect
+Mocha does not have built in assertions
+https://mochajs.org/#reporters
+Some prefer index.spec.js instead of index.test.js
+Isomorphic fetch
+Npm test or npm t
+When doing asynchronous callback, need to add done parameter
+Travis CI- click plus sign
+.travis.yml
+AppVeyor
+Appveyor.yml
+
+
+https://github.com/airbnb/javascript
+https://www.npmjs.com/package/eslint-config-airbnb
+https://www.npmjs.com/package/eslint-config-defaults
+https://github.com/walmartlabs/eslint-config-defaults
+https://www.npmjs.com/package/eslint-config-standard
+https://www.npmjs.com/package/eslint-plugin-react
+https://www.npmjs.com/package/eslint-plugin-angular
+https://www.npmjs.com/package/eslint-plugin-node
+https://github.com/dustinspecker/awesome-eslint
+https://github.com/feross/standard
+http://standardjs.com/index.html
+
+Angular 2 Getting Started by Deborah Kurata
+
+https://en.wikipedia.org/wiki/Interpolation
+When using a component as a directive, two ways to make visible to any component that uses it (declare component in Angular module, or if already declared in another module, import similarly to how BrowserModule is imported)
+http://www.typescriptlang.org/play/
+https://en.wikipedia.org/wiki/PascalCase
+Browser tools: press F 12
+Element is depiction of DOM, node-tree
+https://www.npmjs.com/~angular
+https://github.com/angular/quickstart
+https://github.com/angular/angular-cli
+https://angular.io/
+https://github.com/DeborahK/Angular2-GettingStarted
+https://blogs.msmvps.com/deborahk/angular-2-getting-started-problem-solver/
+https://www.typescriptlang.org/
+https://github.com/Microsoft/TypeScript
+https://en.wikipedia.org/wiki/TypeScript
+
+
+https://github.com/webpro/awesome-dotfiles
+https://dotfiles.github.io/
+-->
+
 #### JavaScript Frameworks
 
 #### JavaScript Tools
