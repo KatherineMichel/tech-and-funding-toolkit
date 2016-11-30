@@ -2047,6 +2047,15 @@ Emacs for Mac or Linux
 * [Installing Emacs on GNU/Linux](http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux)
 
 <!--
+http://fileformats.archiveteam.org/wiki/Bourne_shell_script
+https://www.gnu.org/software/emacs/tour/
+https://en.wikipedia.org/wiki/Emacs
+https://www.gnu.org/software/emacs/
+https://en.wikipedia.org/wiki/Vi
+
+https://tmux.github.io
+https://robots.thoughtbot.com/a-tmux-crash-course
+
 https://www.youtube.com/v/SaGgc8xnO1U?version=3&f=playlists&app=youtube_gdata
 https://www.youtube.com/v/3Z4xLZot5h4?version=3&f=playlists&app=youtube_gdata
 -->
@@ -2059,7 +2068,7 @@ Zsh (Bash Alternative)
 More Shell/Text Editors (See also Visual Studio and XCode)
 * [Sublime Text Editor](http://www.sublimetext.com)
 * [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
-* [Textmate](http://macromates.com)  
+* [Textmate](http://macromates.com) and [Textmate GitHub](https://github.com/textmate/textmate)
 * [Orgmode.org](http://orgmode.org)  
 * [Orgmode.org/features](http://orgmode.org/features.html)  
 * [.emacs.d](https://github.com/seshness/.emacs.d)  
