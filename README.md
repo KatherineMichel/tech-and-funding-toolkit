@@ -3429,11 +3429,11 @@ Testing and Continuous Integration: Travis, Appveyor
 Editors and Configuration Options: Atom, WebStorm (good, but not free), Brackets, VSCode
 Package Management Options: npm (build-step), Bower (no build-step), JSPM (JavaScript Pacakge Manager, also bundles code), Jam, volo
 Security Scanning Options (checking all the packages for any known vulnerabilities): retire.js and Node Security Platform
-Development Webservers Options: http-server, live-server, Express (production also), budo, Webpack dev server, Browsersync
+Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
 Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
 Automation Options: Grunt, Gulp, npm scripts
 Transpiling Options: Babel, TypeScript, Elm
-Bundling Options: Browserify, Webpack, Rollup, JSPM
+Bundling Options: Browserify, Webpack (built in web server), Rollup, JSPM (also package manager)
 Linting Options: JSLint, JSHint, ESLint
 Testing and Continuous Integration Options: Mocha, Jasmine, Tape, QUnit, AVA, Jest
 Testing and Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
@@ -3454,6 +3454,8 @@ HTTP Call Approaches slide
 Course outline slide
 Javascript Editors: what to look for
 When to Run Security Check Slide
+Demo: Set Up Express
+Sharing Work-in-progress/Demo Sharing Work-in-progress
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
@@ -3476,18 +3478,23 @@ $ npm install -g nsp
 $ cd
 $ nsp check 
 
-Hapi is an Express competitor/alternative
+Koa and Hapi are Express competitors/alternatives
 http://hapijs.com
 https://github.com/hapijs/hapi
+http://koajs.com
 
-
-
-NWS and Electron- build desktop JavaScript apps
-
-http://www.walmartlabs.com/project_type/open-source/
+Browsersync: Sharing work in progress/demo
 https://github.com/browsersync/recipes
-Demo: Sharing work in progress
-Can use BrowserSync and Local Tunnel together
+Can use Browsersync and Local Tunnel together; also Browsersync with Express, Webpack, Browserify, Gulp
+
+Folder buildScripts in root
+sourceServer.js (set up Express)
+Folder src in root
+index.html (required for Express to run)
+$ node buildScripts/sourceServer.js (runs on port selected)
+
+
+
 Npm scripts
 https://docs.npmjs.com/misc/scripts
 https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.xurj4qvis
@@ -3535,6 +3542,8 @@ Travis CI- click plus sign
 AppVeyor
 Appveyor.yml
 
+NWS and Electron- build desktop JavaScript apps
+http://www.walmartlabs.com/project_type/open-source
 
 https://github.com/airbnb/javascript
 https://www.npmjs.com/package/eslint-config-airbnb
