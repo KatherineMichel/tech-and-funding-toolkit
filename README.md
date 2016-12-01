@@ -3412,12 +3412,55 @@ Brackets File Tabs, Brackets Icons, Snippets (type CL) and can custom create (Ne
 https://github.com/David5i6/Brackets-Delkos-Dark-Theme
 
 Building a JS Development Environment by Cory House
-
-NWS and Electron- build desktop JavaScript apps, Ember (notoriously opinionated)
-Good Node editors: WebStorm (good, but not free), Brackets, Atom, VSCode
-http://editorconfig.org/ (tabs versus spaces, ect)
-.editorconfig
+https://github.com/coryhouse/javascript-development-environment
 https://github.com/coryhouse/js-dev-env-demo
+Source Control: git
+Editors and Configuration: VSCode
+Package Management: npm
+Development Webserver: Express
+Development Webservers- Work Sharing: localtunnel
+Automation: npm scripts
+Transpiling: Babel
+Bundling: Webpack
+Testing and Continuous Integration: Travis, Appveyor
+
+Editors and Configuration Options: Atom, WebStorm (good, but not free), Brackets, VSCode
+Package Management Options: npm (build-step), Bower (no build-step), JSPM (JavaScript Pacakge Manager, also bundles code), Jam, volo
+Development Webservers Options: http-server, live-server, Express, budo, Webpack dev server, Browsersync
+Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
+Automation Options: Grunt, Gulp, npm scripts
+Transpiling Options: Babel, TypeScript, Elm
+Bundling Options: Browserify, Webpack, Rollup, JSPM
+Linting Options: JSLint, JSHint, ESLint
+Testing and Continuous Integration Options: Mocha, Jasmine, Tape, QUnit, AVA, Jest
+Testing and Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
+Project Structure: demo
+Production Build: Hard code, manipulate via Node, html-webpack-plugin
+Automated Deployment: npm start, npm run build, npm run deploy
+Automated Deployment Options: Amazon Web Services, Microsoft Azure, Heroku, Firebase, Google Cloud Platform, Pubstorm, ?
+Project A Launches, Project B Launches, enhancements and bug fixes
+Update Approaches: Yeoman, GitHub, npm
+
+Slides: 
+Decisions slide
+Checklist Manifesto
+Ember- notoriously opinionated, Angular less so, Node and React, not very opinionated
+Slide: What belongs in your starter kit?
+Testing and Continuous Integration slide: Unit Testing Decisions
+HTTP Call Approaches slide
+Course outline slide
+Javascript Editors: what to look for
+
+EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
+https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
+http://editorconfig.org/#download
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+
+
+
+
+NWS and Electron- build desktop JavaScript apps
 Use nvm to run multiple versions of node
 Author prefers latest features node (v6.x) versus recommended for most users version
 Package.json is node’s package manifest
