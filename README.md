@@ -58,7 +58,7 @@ Table of Content
 
 * [Standards](#standards)
 * [JavaScript](#javascript)
-* [AJAX and jQuery](#ajax-and-jquery)
+* [AJAX, jQuery, JSON](#ajax-jquery-json)
 
   * [JavaScript Ecosystem](#javascript-ecosystem)
   * [JavaScript Framework](#javascript-framework)
@@ -3299,13 +3299,18 @@ DOM Tree/Parent Child
 https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
 -->
 
+
+
 #### JavaScript
 
 JavaScript
 * [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
+* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+
+<!--
 * [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
-* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+-->
 
 JavaScript Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
@@ -3367,17 +3372,10 @@ http://standardjs.com/index.html
 JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
 
-JSON
-* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
-* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
-
-<!--
-http://www.json.org/xml.html
--->
 
 
 
-#### AJAX and jQuery
+#### AJAX, jQuery, JSON
 
 AJAX
 * [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
@@ -3404,6 +3402,13 @@ jQuery Extras
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
+JSON
+* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
+* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
+
+<!--
+http://www.json.org/xml.html
+-->
 
 
 <!--
@@ -3758,13 +3763,12 @@ Automation
 * [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
 * [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
 
-Testing (Mocha, Jasmine (assertion library built in), Tape, Karma)
+Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest)
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jasmine GitHub](https://github.com/pivotal/jasmine)  
 * [Karma](https://karma-runner.github.io)
 
 <!--
-Testing: QUnit, AVA, Jest
 Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
 
 Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
@@ -3785,7 +3789,7 @@ Helper libraries (JSDOM, Cheerio)
 * [JSDOM GitHub](https://github.com/tmpvar/jsdom) 
 
 Assertion Libraries (Chai (most popular), should.js, expect)
-* Chai
+* [Chai](http://chaijs.com)
 
 Express (based on Sinatra), Hapi, Koa (React Stack)
 * [Express (based on Sinatra)](http://expressjs.com)  
@@ -3799,19 +3803,17 @@ Development Webservers Options: http-server, live-server, Express (production al
 Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
 
 Minimizing CSS and JavaScript
-* [Browserify](http://browserify.org)
 * [RequireJS](http://requirejs.org)
 -->
 
  Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package manager))
-* Browserify
-* [webpack GitHub](https://github.com/webpack/webpack) and [webpack docs](https://webpack.github.io/docs)
-* [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
-* Rollup 
+* [webpack](https://webpack.js.org), [webpack GitHub](https://github.com/webpack/webpack), and [webpack docs](https://webpack.github.io/docs)
+* [Browserify](http://browserify.org)
+* [rollup.js](http://rollupjs.org) 
 * JSPM 
 
 <!--
-https://webpack.js.org
+* [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 -->
 
 Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
@@ -3821,12 +3823,11 @@ Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLin
 
 Transpiling (Babel (React Stack), TypeScript (superset of JavaScript, enhancements/opinionated), Elm)
 * [Babel GitHub](https://github.com/babel/babel)
-* TypeScript
-* Elm
+* [TypeScript](https://www.typescriptlang.org)
+* [Elm](http://elm-lang.org) and [Elm GitHub](https://github.com/elm-lang)
 
 <!--
 http://www.typescriptlang.org/play/
-https://www.typescriptlang.org/
 https://github.com/Microsoft/TypeScript
 https://en.wikipedia.org/wiki/TypeScript
 -->
@@ -4175,9 +4176,6 @@ Miscellaneous Programming Languages
 * Apple- Swift
 
 <!--
-http://elm-lang.org
-https://github.com/elm-lang
-
 https://jhipster.github.io
 https://keyholesoftware.com/2016/10/17/getting-started-with-jhipster-part-3
 -->
