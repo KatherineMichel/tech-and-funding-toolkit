@@ -3414,7 +3414,7 @@ Automation: npm scripts, npm-run-all
 Transpiling: Babel
 Module Format: ES6/ES2015
 Bundling: Webpack
-Linting: ESLint
+Linting: ESLint (most popular linter)
 Testing and Continuous Integration: Mocha
 Testing and Continuous Integration: Travis, Appveyor
 
@@ -3426,7 +3426,7 @@ Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
 Automation Options: Grunt, Gulp, npm scripts
 Transpiling Options: Babel, TypeScript (superset of JavaScript, enhancements/opinionated), Elm
 Bundling Options: Browserify, Webpack (built in web server), Rollup, JSPM (also package manager)
-Linting Options: JSLint, JSHint, ESLint
+Linting Options: JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular)
 Testing and Continuous Integration Options: Mocha, Jasmine, Tape, QUnit, AVA, Jest
 Testing and Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
 Project Structure: demo
@@ -3454,6 +3454,8 @@ TypeScript versus Babel
 .babelrc or package.json
 Build Script JS Style
 Why Use ES6 Modules?
+Linter: Enforce Consistency/Avoid Mistakes slide
+Why Lint via an Automated Build Process slide
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
@@ -3551,23 +3553,72 @@ Browserify: simple; can use rollup via plugin
 Rollup: first bundler to offer tree shaking; faster than webpack and browserify
 JSPM uses SystemJS, a universal module loader; is a package manager; also uses rollup, so can take advantage of benefits
 
+https://webpack.js.org
 Webpack bundles more than JS: also, CSS, Images, Fonts, HTML; hot-module-reloading; strategic bundle splitting
 Webpack 2 will offer tree-shaking as key new feature
-
-Webpack.config.dev.js
+src/webpack.config.dev.js
+Development Webpack config for "Building a JavaScript Development Environment" on Pluralsight
 https://gist.github.com/coryhouse/d611e83e432f3ae65cc46ebb9b599930
-https://webpack.js.org/
+Webpack won't generate any physical files, serves build from memory
+buildScripts/srcServer.js (Demo: Configure Webpack with Express, see file)
+src/index.js
+index.html: <script src="bundle.js"></script> (reference to Webpack.config.dev.js imaginary bundle.js in root)
+Right-click, hit inspect: verify writing to consol as expected, bundle.js exists, transpilation to ES5, numeral.js package
+src/index.css
+src/index.js is app's entry point, add import './index.css'; style will now be applied
+webpack parsed the stylesheet and used JS to inject the styles onto the page
+bundle.js will show transpiled and bundled JS code that is being parsed
+
+Code too difficult to read to debug; use sourcemaps; will see the original ES6 code
+Have to open the developer tools to download sourcemap, only when you need it
+Configure build to automatically generate sourcemaps
+webpack.config.dev.js inline-source-map
 http://webpack.github.io/docs/configuration.html#devtools
+higher quality sourcemaps take longer to generate
+
+debug: type debugger; on the line where you want the breakpoint to be, reload browser; see console for original code (not transpiled/minified)
+
+Linter- be notified about errors before runtime
+If working in TypeScript, use TSLint until ESLint adds support for TS
+
+ESLint Config Decisions
+* Config format? (dedicated file versus package.json, see example)
+* Which built-in rules? 
+* Warnings or errors? (warnings do not break the build (good for minor stylistic issues); errors do (good for items that are likely to produce bugs); team should agree, warnings unacceptable)
+* Which plugins? (example: eslint-plugin-react, ...angular, ...node)
+* Use preset instead?
 
 http://eslint.org/docs/2.0.0/user-guide/configuring
 http://eslint.org/docs/rules/
-Eslint-loader
-Eslint-watch
+https://www.npmjs.com/package/eslint-plugin-react
+https://www.npmjs.com/package/eslint-plugin-angular
+https://www.npmjs.com/package/eslint-plugin-node
+
+Preset: ESLint standard rules
+https://www.npmjs.com/package/eslint-config-airbnb
+https://www.npmjs.com/package/eslint-config-defaults
+https://www.npmjs.com/package/eslint-config-standard
+
+Simplest way to run is via command line, but ESLint doesn't watch files
+eslint-loader
+eslint-watch
+Many experimental features are not supported by ESLint
+May want to use babel-eslint for experimental, ESLint for standardized
+https://github.com/babel/babel-eslint
+Stage-X (Experimental Presets)
+
+Why integrate ESLint with build process?
+One place to look, universal config, breaks CI build
 .eslintrc.json or package.json
+src/.eslintrc.json
+.eslintrc.json file for "Building a JavaScript Development" Pluralsight course
 https://gist.github.com/coryhouse/61f866c7174220777899bcfff03dab7f
-ecmaVersion Es7
+ecmaVersion ES7
 Eslint environments list
 http://eslint.org/docs/user-guide/configuring
+
+
+
 Selenium 
 Wrapper over Jasmine: https://facebook.github.io/jest/
 Assertion libraries: most popular: Chai Others: should.js and expect
@@ -3581,21 +3632,19 @@ Travis CI- click plus sign
 AppVeyor
 Appveyor.yml
 
-https://github.com/babel/babel-eslint
 
-https://github.com/airbnb/javascript
-https://www.npmjs.com/package/eslint-config-airbnb
-https://www.npmjs.com/package/eslint-config-defaults
+
+http://standardjs.com/index.html
 https://github.com/walmartlabs/eslint-config-defaults
-https://www.npmjs.com/package/eslint-config-standard
-https://www.npmjs.com/package/eslint-plugin-react
-https://www.npmjs.com/package/eslint-plugin-angular
-https://www.npmjs.com/package/eslint-plugin-node
 https://github.com/dustinspecker/awesome-eslint
 https://github.com/feross/standard
-http://standardjs.com/index.html
 
 
+
+https://app.pluralsight.com/library/courses/javascript-module-fundamentals/table-of-contents
+Building Applications with React and Redux in ES6 by Cory House
+https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents
+https://app.pluralsight.com/library/courses/webpack-fundamentals/table-of-contents
 
 Building Web Applications with Node.js and Express 4.0 by Jonathan F. Mills
 
@@ -3626,6 +3675,9 @@ https://github.com/Microsoft/TypeScript
 https://en.wikipedia.org/wiki/TypeScript
 
 
+https://github.com/airbnb/javascript
+https://github.com/DrkSephy?tab=repositories
+package manifest
 Global variables should be avoided
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
