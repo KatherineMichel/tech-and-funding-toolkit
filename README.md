@@ -3388,6 +3388,8 @@ jQuery Extras
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
 
+
+
 #### JavaScript Ecosystem
 
 DOM (Document Object Model) (JavaScript, async, AJAX)
@@ -3419,19 +3421,6 @@ Testing and Continuous Integration: Mocha
 Assertion Library: Chai
 Testing and Continuous Integration: Travis, Appveyor
 
-Editors and Configuration Options: Atom, WebStorm (good, but not free), Brackets, VSCode
-Package Management Options: npm (build-step), Bower (no build-step), JSPM (JavaScript Pacakge Manager, also bundles code), Jam, volo
-Security Scanning Options (checking all the packages for any known vulnerabilities): retire.js and Node Security Platform
-Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
-Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
-Automation Options: Grunt, Gulp, npm scripts
-Transpiling Options: Babel, TypeScript (superset of JavaScript, enhancements/opinionated), Elm
-Bundling Options: Browserify, Webpack (built in web server), Rollup, JSPM (also package manager)
-Linting Options: JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular)
-Testing and Continuous Integration Options: Mocha, Jasmine (assertion library built in), Tape, QUnit, AVA, Jest
-Assertion Library Options: Chai (most popular), should.js, expect
-Helper libraries Options: JSDOM, Cheerio
-Testing and Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
 Project Structure: demo
 Production Build: Hard code, manipulate via Node, html-webpack-plugin
 Automated Deployment: npm start, npm run build, npm run deploy
@@ -3485,16 +3474,11 @@ $ npm install
 Dependencies will go in a folder called node_modules
 When you install node_modules, they are added to .bin folder and are automatically added to the path when called; the packages do not need to be installed globally
 
-Node Security Platform: https://nodesecurity.io
+Node Security Platform
 Ideally run nps automatically as part of your start script (npm start); will not have to install globally
 $ npm install -g nsp 
 $ cd
 $ nsp check 
-
-Koa and Hapi are Express competitors/alternatives
-http://hapijs.com
-https://github.com/hapijs/hapi
-http://koajs.com
 
 Browsersync: Sharing work in progress/demo
 https://github.com/browsersync/recipes
@@ -3557,7 +3541,6 @@ Browserify: simple; can use rollup via plugin
 Rollup: first bundler to offer tree shaking; faster than webpack and browserify
 JSPM uses SystemJS, a universal module loader; is a package manager; also uses rollup, so can take advantage of benefits
 
-https://webpack.js.org
 Webpack bundles more than JS: also, CSS, Images, Fonts, HTML; hot-module-reloading; strategic bundle splitting
 Webpack 2 will offer tree-shaking as key new feature
 src/webpack.config.dev.js
@@ -3672,8 +3655,6 @@ https://app.pluralsight.com/library/courses/webpack-fundamentals/table-of-conten
 Building Web Applications with Node.js and Express 4.0 by Jonathan F. Mills
 
 Visual Studio Code
-https://www.jetbrains.com/webstorm/
-http://brackets.io/
 Font size 22
 Beautify, command-shift-L
 Brackets File Tabs, Brackets Icons, Snippets (type CL) and can custom create (New)
@@ -3683,19 +3664,12 @@ Angular 2 Getting Started by Deborah Kurata
 
 https://en.wikipedia.org/wiki/Interpolation
 When using a component as a directive, two ways to make visible to any component that uses it (declare component in Angular module, or if already declared in another module, import similarly to how BrowserModule is imported)
-http://www.typescriptlang.org/play/
 https://en.wikipedia.org/wiki/PascalCase
 Browser tools: press F 12
 Element is depiction of DOM, node-tree
-https://www.npmjs.com/~angular
-https://github.com/angular/quickstart
-https://github.com/angular/angular-cli
-https://angular.io/
 https://github.com/DeborahK/Angular2-GettingStarted
 https://blogs.msmvps.com/deborahk/angular-2-getting-started-problem-solver/
-https://www.typescriptlang.org/
-https://github.com/Microsoft/TypeScript
-https://en.wikipedia.org/wiki/TypeScript
+
 
 
 TDD
@@ -3720,15 +3694,14 @@ https://dotfiles.github.io/
 
 #### JavaScript Tools
 
-<!--
-Semantic UI
-http://semantic-ui.com
-https://github.com/Semantic-Org/Semantic-UI 
+Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
+* Atom
+* [WebStorm](https://www.jetbrains.com/webstorm)
+* [Brackets](http://brackets.io)
+* VSCode
 
-Competitor to Ember, Knockout, Polymer
-https://github.com/vuejs/vue-hackernews
-https://github.com/vuejs
-https://vuejs.org
+<!--
+See also Editors
 -->
 
 Node.js
@@ -3736,8 +3709,7 @@ Node.js
 * [Node.js Docs/API](http://nodejs.org/api/)  
 * [Node.js Design](https://www.joyent.com/developers/node/design)  
 * [Nodejsmodules.org](https://nodejsmodules.org)   
-* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)  
-* [JSDOM GitHub](https://github.com/tmpvar/jsdom)  
+* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)   
 * [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org) 
@@ -3751,8 +3723,96 @@ Node.js Package Managers
 * [Yarn](https://yarnpkg.com) and [Yarn GitHub](https://github.com/yarnpkg/yarn)
 * ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
 
+<!--
+Package Management Options: npm (build-step), Bower (no build-step), JSPM (JavaScript Package Manager, also bundles code), Jam, volo
+-->
+
 Check Update
 * [Check Update (npm install -g npm-check-updates)](https://www.npmjs.com/package/check-update)
+
+Security Scanning (checking all the packages for any known vulnerabilities)
+* [Node Security Platform](https://nodesecurity.io)
+* retire.js
+
+Automation
+* Grunt
+* [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
+* npm scripts
+
+<!--
+Testing and Continuous Integration Options: Mocha, Jasmine (assertion library built in), Tape, QUnit, AVA, Jest
+Assertion Library Options: Chai (most popular), should.js, expect
+Helper libraries Options: JSDOM, Cheerio
+Testing and Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
+
+* [JSDOM GitHub](https://github.com/tmpvar/jsdom) 
+
+http://www.protractortest.org
+
+http://docs.seleniumhq.org
+
+https://github.com/seleniumbase/SeleniumBase
+-->
+
+Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
+* [Mocha GitHub](https://github.com/visionmedia/mocha)  
+* [Jasmine GitHub](https://github.com/pivotal/jasmine)  
+* [Karma](https://karma-runner.github.io)
+* [SeleniumHQ](http://www.seleniumhq.org)  
+* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
+* [PhantomJS](http://phantomjs.org)  
+* [PhantomJS GitHub](https://github.com/ariya/phantomjs) 
+
+
+
+Express (based on Sinatra), Hapi, Koa (React Stack)
+* [Express (based on Sinatra)](http://expressjs.com)  
+* [Sinatra GitHub](https://github.com/sinatra/sinatra)
+* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
+* [Hapi](http://hapijs.com) and [Hapi GitHub](https://github.com/hapijs/hapi)
+* [Koa](http://koajs.com)
+
+<!--
+Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
+Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
+
+https://webpack.js.org
+
+Minimizing CSS and JavaScript
+* [Browserify](http://browserify.org)
+* [RequireJS](http://requirejs.org)
+-->
+
+ Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package manager))
+* Browserify
+* [webpack GitHub](https://github.com/webpack/webpack) and [webpack docs](https://webpack.github.io/docs)
+* [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
+* Rollup 
+* JSPM 
+
+Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
+* [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
+* [JSHint](http://jshint.com)
+* [JSLint](http://jslint.org)
+
+Transpiling (Babel (React Stack), TypeScript (superset of JavaScript, enhancements/opinionated), Elm)
+* [Babel GitHub](https://github.com/babel/babel)
+* TypeScript
+* Elm
+
+<!--
+http://www.typescriptlang.org/play/
+https://www.typescriptlang.org/
+https://github.com/Microsoft/TypeScript
+https://en.wikipedia.org/wiki/TypeScript
+
+https://www.npmjs.com/~angular
+https://github.com/angular/quickstart
+https://github.com/angular/angular-cli
+https://angular.io/
+-->
+
+
 
 Angular (React Stack)
 * [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
@@ -3765,11 +3825,6 @@ https://www.gitbook.com/book/rangle-io/ngcourse2/details
 https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
 https://angular.io/docs
 -->
-
-Express (React Stack)
-* [Express (based on Sinatra)](http://expressjs.com)  
-* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
-* [Sinatra GitHub](https://github.com/sinatra/sinatra)
 
 <!--
 New
@@ -3901,9 +3956,6 @@ http://www.sitepoint.com/getting-started-react-jsx
 Ionic Framework (React Stack)
 * [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
 
-Babel (React Stack)
-* [Babel GitHub](https://github.com/babel/babel)
-
 Flux (React Stack)
 * [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
 * [Reflux](https://github.com/reflux/refluxjs)
@@ -3919,15 +3971,9 @@ Redux (React Stack)
 http://redux.js.org/docs/basics/UsageWithReact.html
 -->
 
-Build Tools (grunt, gulp, bower, browserify, webpack)
-* [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
-* [webpack GitHub](https://github.com/webpack/webpack) and [webpack docs](https://webpack.github.io/docs)
-* [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
-
 Other React Stack Helpers (See also ESLint and JSX)
 * Polymer
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
-* [Hapi](http://hapijs.com)
 * [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
 * [Relax (CMS) GitHub](https://github.com/relax/relax)
@@ -3993,6 +4039,9 @@ Yo/Yeoman, Bower, Grunt
 * [Bower Package Search GitHub](http://bower.io/search)  
 * [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com)  
 
+
+
+
 Compilation Resources (See also Gulp)
 * [Compass GitHub](https://github.com/chriseppstein/compass)  
 * [Less GitHub](https://github.com/less/less.js)  
@@ -4021,28 +4070,6 @@ Other JavaScript Helpers
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
 
-ESLint, JSHint, JSLint
-* [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
-* [JSHint](http://jshint.com)
-* [JSLint](http://jslint.org)
-
-Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
-* [Mocha GitHub](https://github.com/visionmedia/mocha)  
-* [Jasmine GitHub](https://github.com/pivotal/jasmine)  
-* [Karma](https://karma-runner.github.io)
-* [SeleniumHQ](http://www.seleniumhq.org)  
-* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
-* [PhantomJS](http://phantomjs.org)  
-* [PhantomJS GitHub](https://github.com/ariya/phantomjs)  
-
-<!--
-http://www.protractortest.org
-
-http://docs.seleniumhq.org
-
-https://github.com/seleniumbase/SeleniumBase
--->
-
 HTML5 Compatibility Check/Normalization
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
 * [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
@@ -4069,11 +4096,16 @@ JavaScript Presentations Frameworks
 * [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
 * [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
 
-Minimizing CSS and JavaScript
-* [Browserify](http://browserify.org)
-* [RequireJS](http://requirejs.org)
-
 <!--
+Semantic UI
+http://semantic-ui.com
+https://github.com/Semantic-Org/Semantic-UI 
+
+Competitor to Ember, Knockout, Polymer
+https://github.com/vuejs/vue-hackernews
+https://github.com/vuejs
+https://vuejs.org
+
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
 
