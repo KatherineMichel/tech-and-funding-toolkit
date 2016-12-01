@@ -3094,14 +3094,6 @@ http://ppcblog.com/how-google-works
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
-* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
-
 W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
@@ -3231,6 +3223,16 @@ https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 
 
 
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
+* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
+
+
+
 
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
@@ -3307,40 +3309,10 @@ JavaScript
 * [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
-<!--
-* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
--->
-
 JavaScript Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-
-<!--
-New
-https://github.com/getify/You-Dont-Know-JS
-http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-http://shop.oreilly.com/product/9780596517748.do
-
-http://learnjsthehardway.com/
-https://github.com/ericelliott/essential-javascript-links
-
-http://eloquentjavascript.net/13_dom.html
-
-http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers
-http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
-Advanced Debugging with Chrome
-https://docs.google.com/presentation/d/17HjGp4pQlNh2WIwKiTcUpDLIuOdkUcRmALFuoytQsjU/preview?slide=id.p
-
-Misc. Possibly duplicates
-http://www.w3schools.com/jsref/jsref_split.asp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Array_comprehensions
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
--->
 
 JavaScript Tutorials- Mozilla
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -3372,6 +3344,35 @@ http://standardjs.com/index.html
 JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
 
+<!--
+* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
+-->
+
+<!--
+New
+https://github.com/getify/You-Dont-Know-JS
+http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+http://shop.oreilly.com/product/9780596517748.do
+
+http://learnjsthehardway.com/
+https://github.com/ericelliott/essential-javascript-links
+
+http://eloquentjavascript.net/13_dom.html
+
+http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers
+http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
+Advanced Debugging with Chrome
+https://docs.google.com/presentation/d/17HjGp4pQlNh2WIwKiTcUpDLIuOdkUcRmALFuoytQsjU/preview?slide=id.p
+
+Misc. Possibly duplicates
+http://www.w3schools.com/jsref/jsref_split.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Array_comprehensions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+-->
 
 
 
@@ -3417,6 +3418,7 @@ My Pluralsight Course Notes
 Building a JS Development Environment by Cory House
 https://github.com/coryhouse/javascript-development-environment
 https://github.com/coryhouse/js-dev-env-demo
+
 Source Control: git
 Editors and Configuration: VSCode
 Package Management: npm
@@ -3431,6 +3433,7 @@ Linting: ESLint (most popular linter)
 Testing and Continuous Integration: Mocha
 Assertion Library: Chai
 Testing and Continuous Integration: Travis, Appveyor
+
 
 Project Structure: demo
 Production Build: Hard code, manipulate via Node, html-webpack-plugin
@@ -3475,7 +3478,6 @@ npm test = npm run test
 npm test or npm t
 
 npm Recommended or Latest Features versions (author prefers latest features)
-Use nvm to run multiple versions of node
 package.json is node’s package manifest (packages and scripts)
 package.json for Building a JS Development Environment on Pluralsight
 https://gist.github.com/coryhouse/29bd1029b623beb4c7f79b748dcba844
@@ -3490,7 +3492,6 @@ $ cd
 $ nsp check 
 
 Browsersync: Sharing work in progress/demo
-https://github.com/browsersync/recipes
 Can use Browsersync and Local Tunnel together; also Browsersync with Express, Webpack, Browserify, Gulp
 
 Folder buildScripts in root
@@ -3502,8 +3503,6 @@ $ node buildScripts/sourceServer.js (runs on port selected)
 Npm scripts: declared in package.json (scripts section)
 Benefits: leverage command line, directly use npm packages/world's largest package manager, can call separate Node scripts, convention-based pre-post hooks, no need for separate plugins, eleminate dependence on plugin authors, simpler debugging, better docs, easy to learn, simple
 With npm scripts, you don’t need to install tools globally to run them
-https://docs.npmjs.com/misc/scripts
-https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.xurj4qvis
 
 In buildScripts, create file startMessage.js
 Pre/Post Hooks
@@ -3521,8 +3520,7 @@ Also, localtunnel
 Transpiling: ECMAScript Versions, ES5 (2009), ES6/ES2015, ES7/2016 (not much added), ES8/2017
 Babel Configuration Styles: .babelrc or package.json (in root)
 .babelrc is not npm specific
-https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
-https://babeljs.io/docs/plugins
+
 node.js/Electron (running on Chrome), sniffing
 http://electron.atom.io
 Preset: babel-preset-es2015-node Approach: Version Detection
@@ -3579,17 +3577,6 @@ ESLint Config Decisions
 * Which plugins? (example: eslint-plugin-react, ...angular, ...node)
 * Use preset instead?
 
-http://eslint.org/docs/2.0.0/user-guide/configuring
-http://eslint.org/docs/rules/
-https://www.npmjs.com/package/eslint-plugin-react
-https://www.npmjs.com/package/eslint-plugin-angular
-https://www.npmjs.com/package/eslint-plugin-node
-
-Preset: ESLint standard rules
-https://www.npmjs.com/package/eslint-config-airbnb
-https://www.npmjs.com/package/eslint-config-defaults
-https://www.npmjs.com/package/eslint-config-standard
-
 Simplest way to run is via command line, but ESLint doesn't watch files
 eslint-loader
 eslint-watch
@@ -3628,7 +3615,6 @@ Unit Testing Decisions:
 * Where to place tests: centralized or alongside? (author prefers alongside: easy imports, clear visibility, convenient to open, no recreating file structure, easy file moves)
 * When to run tests
 
-Jest: wrapper over Jasmine: https://facebook.github.io/jest
 Mocha is very configurable, but does not have built in assertions
 Naming conventions: some prefer fileName.spec.js instead of fileName.test.js
 
@@ -3730,6 +3716,10 @@ Node.js
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org) 
 
+<!--
+Use nvm to run multiple versions of node
+-->
+
 Node.js Launch and Ryan Dahl
 * [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
 * [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
@@ -3763,26 +3753,31 @@ Automation
 * [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
 * [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
 
-Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest)
+<!--
+https://docs.npmjs.com/misc/scripts
+https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.xurj4qvis
+-->
+
+Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest (wrapper over Jasmine))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jasmine GitHub](https://github.com/pivotal/jasmine)  
 * [Karma](https://karma-runner.github.io)
+* [Jest](https://facebook.github.io/jest)
 
 <!--
 Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
 
 Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
 
-http://www.protractortest.org
-
 http://docs.seleniumhq.org
-
 https://github.com/seleniumbase/SeleniumBase
 
 * [SeleniumHQ](http://www.seleniumhq.org)  
 * [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
 * [PhantomJS](http://phantomjs.org)  
 * [PhantomJS GitHub](https://github.com/ariya/phantomjs) 
+
+http://www.protractortest.org
 -->
 
 Helper libraries (JSDOM, Cheerio)
@@ -3801,6 +3796,8 @@ Express (based on Sinatra), Hapi, Koa (React Stack)
 <!--
 Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
 Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
+
+https://github.com/browsersync/recipes
 
 Minimizing CSS and JavaScript
 * [RequireJS](http://requirejs.org)
@@ -3821,12 +3818,28 @@ Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLin
 * [JSHint](http://jshint.com)
 * [JSLint](http://jslint.org)
 
+<!--
+http://eslint.org/docs/2.0.0/user-guide/configuring
+http://eslint.org/docs/rules/
+https://www.npmjs.com/package/eslint-plugin-react
+https://www.npmjs.com/package/eslint-plugin-angular
+https://www.npmjs.com/package/eslint-plugin-node
+
+Preset: ESLint standard rules
+https://www.npmjs.com/package/eslint-config-airbnb
+https://www.npmjs.com/package/eslint-config-defaults
+https://www.npmjs.com/package/eslint-config-standard
+-->
+
 Transpiling (Babel (React Stack), TypeScript (superset of JavaScript, enhancements/opinionated), Elm)
 * [Babel GitHub](https://github.com/babel/babel)
 * [TypeScript](https://www.typescriptlang.org)
 * [Elm](http://elm-lang.org) and [Elm GitHub](https://github.com/elm-lang)
 
 <!--
+https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
+https://babeljs.io/docs/plugins
+
 http://www.typescriptlang.org/play/
 https://github.com/Microsoft/TypeScript
 https://en.wikipedia.org/wiki/TypeScript
