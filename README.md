@@ -3417,6 +3417,7 @@ https://github.com/coryhouse/js-dev-env-demo
 Source Control: git
 Editors and Configuration: VSCode
 Package Management: npm
+Security Scanning: Node Security Platform
 Development Webserver: Express
 Development Webservers- Work Sharing: localtunnel
 Automation: npm scripts
@@ -3427,7 +3428,8 @@ Testing and Continuous Integration: Travis, Appveyor
 
 Editors and Configuration Options: Atom, WebStorm (good, but not free), Brackets, VSCode
 Package Management Options: npm (build-step), Bower (no build-step), JSPM (JavaScript Pacakge Manager, also bundles code), Jam, volo
-Development Webservers Options: http-server, live-server, Express, budo, Webpack dev server, Browsersync
+Security Scanning Options (checking all the packages for any known vulnerabilities): retire.js and Node Security Platform
+Development Webservers Options: http-server, live-server, Express (production also), budo, Webpack dev server, Browsersync
 Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
 Automation Options: Grunt, Gulp, npm scripts
 Transpiling Options: Babel, TypeScript, Elm
@@ -3451,11 +3453,15 @@ Testing and Continuous Integration slide: Unit Testing Decisions
 HTTP Call Approaches slide
 Course outline slide
 Javascript Editors: what to look for
+When to Run Security Check Slide
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
 http://editorconfig.org/#download
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+VSCode -> Open -> View -> Integrated Terminal
+Built in/integrated terminals open by default in root directory
 
 npm Recommended or Latest Features versions (author prefers latest features)
 Use nvm to run multiple versions of node
@@ -3464,23 +3470,22 @@ package.json for Building a JS Development Environment on Pluralsight
 https://gist.github.com/coryhouse/29bd1029b623beb4c7f79b748dcba844
 $ npm install
 Dependencies will go in a folder called node_modules (on path)
-
-VSCode -> Open -> View -> Integrated Terminal
-Built in/integrated terminals open by default in root directory
-
-
-https://nodesecurity.io/
-$ npm install -g nsp
+Node Security Platform: https://nodesecurity.io
+Ideally run nps automatically as part of your start script (npm start); will not have to install globally
+$ npm install -g nsp 
 $ cd
-$ nsp check (checking all the packages for any known vulnerabilities)
-Run nps automatically as part of your start script
+$ nsp check 
+
+Hapi is an Express competitor/alternative
+http://hapijs.com
+https://github.com/hapijs/hapi
+
+
 
 NWS and Electron- build desktop JavaScript apps
 
 http://www.walmartlabs.com/project_type/open-source/
-http://hapijs.com/
 https://github.com/browsersync/recipes
-With the exception of express, these development Webservers are not for production
 Demo: Sharing work in progress
 Can use BrowserSync and Local Tunnel together
 Npm scripts
