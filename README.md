@@ -3390,16 +3390,6 @@ jQuery Extras
 
 
 
-#### JavaScript Ecosystem
-
-DOM (Document Object Model) (JavaScript, async, AJAX)
-Frameworks (React, Angular, Ember, Backbone, jQuery, Underscore, Lodash)
-Types of JavaScript (ES5, ES6, ES2015, CoffeeScript, TypeScript, ClojureScript, Babel, transpiling, compiling, MDN reference)
-Use other people’s code (AMD, commonJS modules, ES6 modules, npm, Github)
-Node.js (Node.js, npm, nvm)
-Build Tools (grunt, gulp, bower, browserify, webpack, hot reloading, sourcemap)
-Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
-
 <!--
 My Pluralsight Course Notes
 
@@ -3690,6 +3680,16 @@ https://github.com/webpro/awesome-dotfiles
 https://dotfiles.github.io/
 -->
 
+#### JavaScript Ecosystem
+
+DOM (Document Object Model) (JavaScript, async, AJAX)
+Node.js (Node.js, npm, nvm)
+Frameworks (React, Angular, Ember, Backbone, jQuery, Underscore, Lodash)
+Types of JavaScript (ES5, ES6, ES2015, CoffeeScript, TypeScript, ClojureScript, Babel, transpiling, compiling, MDN reference)
+Use other people’s code (AMD, commonJS modules, ES6 modules, npm, Github)
+Build Tools (grunt, gulp, bower, browserify, webpack, hot reloading, sourcemap)
+Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
+
 #### JavaScript Frameworks
 
 #### JavaScript Tools
@@ -3713,6 +3713,15 @@ Node.js
 * [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org) 
+
+Node.js Launch and Ryan Dahl
+* [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
+* [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
+* [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history) 
+
+Node Forks
+* [IO.js GitHub](https://github.com/iojs/io.js)  
+* [JXCore](http://jxcore.com/home) 
 
 Node.js Package Managers
 * [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm)  
@@ -3822,12 +3831,34 @@ MVCs General, Backbone, Ember
 * [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
 * [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
 * [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
+* Polymer
 
 <!--
 https://www.npmjs.com/~angular
 https://github.com/angular/quickstart
 https://github.com/angular/angular-cli
 https://angular.io/
+
+Semantic UI
+http://semantic-ui.com
+https://github.com/Semantic-Org/Semantic-UI 
+
+Competitor to Ember, Knockout, Polymer
+https://github.com/vuejs/vue-hackernews
+https://github.com/vuejs
+https://vuejs.org
+
+Extension Languages
+* [Pug (formerly Jade)](https://pugjs.org) and [Pug GitHub](https://github.com/pugjs/pug)  
+* [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
+* [HTML to Jade Converter](http://html2jade.aaron-powell.com)  
+* [Bootstrap Jade GitHub](https://github.com/SeraphimSerapis/Bootstrap-for-Jade)  
+* [Bootstrap for Jade (Node, Express, Grunt) GitHub](https://github.com/ALT-F1/bootstrap3-jade-node-express-grunt)  
+* [Handlebars](http://handlebarsjs.com) and [Handlebars GitHub](https://github.com/wycats/handlebars.js)  
+* [Mustache](https://mustache.github.io/) and [Mustache GitHub](https://github.com/janl/mustache.js)  
+* [Coffee Script](http://coffeescript.org) and [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
+* [Underscore](http://underscorejs.org)  
+* [Underscore GitHub](https://github.com/jashkenas/underscore)
 -->
 
 
@@ -3844,12 +3875,6 @@ https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
 https://angular.io/docs
 -->
 
-<!--
-New
-https://www.codecademy.com/learn/react-101
-https://github.com/facebookincubator/create-react-app
--->
-
 Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
@@ -3858,6 +3883,14 @@ Facebook- React (JavaScript)
 * [React How-To GitHub](https://github.com/petehunt/react-howto)
 * [React Components](http://react-components.com)
 * [React JSFiddle](https://jsfiddle.net/reactjs)
+
+
+
+<!--
+New
+https://www.codecademy.com/learn/react-101
+https://github.com/facebookincubator/create-react-app
+-->
 
 <!--
 https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
@@ -3992,7 +4025,6 @@ http://redux.js.org/docs/basics/UsageWithReact.html
 -->
 
 Other React Stack Helpers (See also ESLint and JSX)
-* Polymer
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
 * [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
 * [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
@@ -4029,15 +4061,6 @@ Node Add-ons
 * [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
 * [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
 
-Node.js Launch and Ryan Dahl
-* [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
-* [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
-* [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history) 
-
-Node Forks
-* [IO.js GitHub](https://github.com/iojs/io.js)  
-* [JXCore](http://jxcore.com/home) 
-
 Yo/Yeoman (Bower, Grunt)
 * [Yo GitHub](https://github.com/yeoman/yo)  
 * [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
@@ -4063,18 +4086,6 @@ Compilation Resources (See also Gulp)
 less.js for Windows
 http://winless.org
 -->
-
-Extension Languages
-* [Pug (formerly Jade)](https://pugjs.org) and [Pug GitHub](https://github.com/pugjs/pug)  
-* [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
-* [HTML to Jade Converter](http://html2jade.aaron-powell.com)  
-* [Bootstrap Jade GitHub](https://github.com/SeraphimSerapis/Bootstrap-for-Jade)  
-* [Bootstrap for Jade (Node, Express, Grunt) GitHub](https://github.com/ALT-F1/bootstrap3-jade-node-express-grunt)  
-* [Handlebars](http://handlebarsjs.com) and [Handlebars GitHub](https://github.com/wycats/handlebars.js)  
-* [Mustache](https://mustache.github.io/) and [Mustache GitHub](https://github.com/janl/mustache.js)  
-* [Coffee Script](http://coffeescript.org) and [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
-* [Underscore](http://underscorejs.org)  
-* [Underscore GitHub](https://github.com/jashkenas/underscore)  
 
 Other JavaScript Helpers
 * [Lodash GitHub](https://github.com/lodash/lodash)
@@ -4108,16 +4119,7 @@ JavaScript Presentations Frameworks
 * [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
 
 <!--
-Semantic UI
-http://semantic-ui.com
-https://github.com/Semantic-Org/Semantic-UI 
-
-Competitor to Ember, Knockout, Polymer
-https://github.com/vuejs/vue-hackernews
-https://github.com/vuejs
-https://vuejs.org
-
-https://developer.chrome.com/devtools/docs/javascript-debugging
+ https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
 
 Minimizing CSS and JavaScript
