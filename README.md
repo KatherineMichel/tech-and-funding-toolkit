@@ -3411,6 +3411,7 @@ Beautify, command-shift-L
 Brackets File Tabs, Brackets Icons, Snippets (type CL) and can custom create (New)
 https://github.com/David5i6/Brackets-Delkos-Dark-Theme
 
+
 Building a JS Development Environment by Cory House
 https://github.com/coryhouse/javascript-development-environment
 https://github.com/coryhouse/js-dev-env-demo
@@ -3536,6 +3537,10 @@ node.js/Electron (running on Chrome), sniffing
 http://electron.atom.io
 Preset: babel-preset-es2015-node Approach: Version Detection
 Preset: babel-preset-latest-minimal Approach: Feature Detection
+src/.babelrc (root, see example file)
+import chalk from 'chalk'; (ES6 standard)
+"prestart": "babel-node buildScripts/sourceMessage.js"
+See also changes to srcServer.js
 
 Question: Continue using ES5 or Transpile (ES6 or newer)?
 
