@@ -3401,17 +3401,6 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 <!--
 My Pluralsight Course Notes
 
-Building Web Applications with Node.js and Express 4.0 by Jonathan F. Mills
-
-Visual Studio Code
-https://www.jetbrains.com/webstorm/
-http://brackets.io/
-Font size 22
-Beautify, command-shift-L
-Brackets File Tabs, Brackets Icons, Snippets (type CL) and can custom create (New)
-https://github.com/David5i6/Brackets-Delkos-Dark-Theme
-
-
 Building a JS Development Environment by Cory House
 https://github.com/coryhouse/javascript-development-environment
 https://github.com/coryhouse/js-dev-env-demo
@@ -3423,6 +3412,7 @@ Development Webserver: Express
 Development Webservers- Work Sharing: localtunnel
 Automation: npm scripts, npm-run-all
 Transpiling: Babel
+Module Format: ES6/ES2015
 Bundling: Webpack
 Linting: ESLint
 Testing and Continuous Integration: Mocha
@@ -3463,6 +3453,7 @@ Demo pre/post hooks
 TypeScript versus Babel
 .babelrc or package.json
 Build Script JS Style
+Why Use ES6 Modules?
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
@@ -3544,16 +3535,25 @@ See also changes to srcServer.js
 
 Question: Continue using ES5 or Transpile (ES6 or newer)?
 
+Why bundle? CommonJS doesn't work in web browsers; package projects into file(s); create separate bundles within same project; improve node performance
 
+5 Module Formats
+* IIFE (thing of the past)
+* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
+* Universal Module Definition (UMD)
+* CommonJS (CJS) (var jquery = require('jquery'))
+* ES6 Modules (import jQuery from 'jquery') (best choice)
 
-https://github.com/babel/babel-eslint
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.q0k44k9jd
-http://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files
-Tree-shaking
+ES6: standardized, improved autocomplete, intelligent refactoring, fails fast, tree shaking, easier to read/named imports, default exports
 
+Other Bundlers
+Browserify: simple; can use rollup via plugin
+Rollup: first bundler to offer tree shaking; faster than webpack and browserify
+JSPM uses SystemJS, a universal module loader; is a package manager; also uses rollup, so can take advantage of benefits
+
+Webpack bundles more than JS: also, CSS, Images, Fonts, HTML; hot-module-reloading; strategic bundle splitting
 Webpack 2 will offer tree-shaking as key new feature
+
 Webpack.config.dev.js
 https://gist.github.com/coryhouse/d611e83e432f3ae65cc46ebb9b599930
 https://webpack.js.org/
@@ -3581,9 +3581,7 @@ Travis CI- click plus sign
 AppVeyor
 Appveyor.yml
 
-https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
-NWS and Electron- build desktop JavaScript apps
-http://www.walmartlabs.com/project_type/open-source
+https://github.com/babel/babel-eslint
 
 https://github.com/airbnb/javascript
 https://www.npmjs.com/package/eslint-config-airbnb
@@ -3596,6 +3594,18 @@ https://www.npmjs.com/package/eslint-plugin-node
 https://github.com/dustinspecker/awesome-eslint
 https://github.com/feross/standard
 http://standardjs.com/index.html
+
+
+
+Building Web Applications with Node.js and Express 4.0 by Jonathan F. Mills
+
+Visual Studio Code
+https://www.jetbrains.com/webstorm/
+http://brackets.io/
+Font size 22
+Beautify, command-shift-L
+Brackets File Tabs, Brackets Icons, Snippets (type CL) and can custom create (New)
+https://github.com/David5i6/Brackets-Delkos-Dark-Theme
 
 Angular 2 Getting Started by Deborah Kurata
 
@@ -3615,6 +3625,16 @@ https://www.typescriptlang.org/
 https://github.com/Microsoft/TypeScript
 https://en.wikipedia.org/wiki/TypeScript
 
+
+Global variables should be avoided
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.q0k44k9jd
+http://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files
+
+https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
+NWS and Electron- build desktop JavaScript apps
+http://www.walmartlabs.com/project_type/open-source
 
 https://github.com/webpro/awesome-dotfiles
 https://dotfiles.github.io/
