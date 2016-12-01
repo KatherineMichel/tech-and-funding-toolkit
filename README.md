@@ -3725,6 +3725,9 @@ Node.js Package Managers
 
 <!--
 Package Management Options: npm (build-step), Bower (no build-step), JSPM (JavaScript Package Manager, also bundles code), Jam, volo
+
+* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io)  
+* [Bower Package Search GitHub](http://bower.io/search)  
 -->
 
 Check Update
@@ -3735,9 +3738,9 @@ Security Scanning (checking all the packages for any known vulnerabilities)
 * retire.js
 
 Automation
-* Grunt
-* [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
 * npm scripts
+* [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
+* [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
 
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
@@ -3777,8 +3780,6 @@ Express (based on Sinatra), Hapi, Koa (React Stack)
 Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
 Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
 
-https://webpack.js.org
-
 Minimizing CSS and JavaScript
 * [Browserify](http://browserify.org)
 * [RequireJS](http://requirejs.org)
@@ -3790,6 +3791,10 @@ Minimizing CSS and JavaScript
 * [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 * Rollup 
 * JSPM 
+
+<!--
+https://webpack.js.org
+-->
 
 Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
 * [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
@@ -3806,7 +3811,19 @@ http://www.typescriptlang.org/play/
 https://www.typescriptlang.org/
 https://github.com/Microsoft/TypeScript
 https://en.wikipedia.org/wiki/TypeScript
+-->
 
+TodoMVC (See also JavaScript)
+* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples), and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
+
+MVCs General, Backbone, Ember
+* [Backbone](http://backbonejs.org)  
+* [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
+* [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
+* [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
+* [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
+
+<!--
 https://www.npmjs.com/~angular
 https://github.com/angular/quickstart
 https://github.com/angular/angular-cli
@@ -3942,6 +3959,8 @@ https://facebook.github.io/react-native/docs/embedded-app-ios.html
 -->
 
 
+
+
 JSX
 * [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
 * [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
@@ -4001,15 +4020,8 @@ https://github.com/sequelize/sequelize
 https://github.com/caolan/async
 -->
 
-TodoMVC (See also JavaScript)
-* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples), and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
 
-MVCs General, Backbone, Ember
-* [Backbone](http://backbonejs.org)  
-* [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
-* [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
-* [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
-* [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
+
 
 Node Add-ons
 * [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
@@ -4026,7 +4038,7 @@ Node Forks
 * [IO.js GitHub](https://github.com/iojs/io.js)  
 * [JXCore](http://jxcore.com/home) 
 
-Yo/Yeoman, Bower, Grunt
+Yo/Yeoman (Bower, Grunt)
 * [Yo GitHub](https://github.com/yeoman/yo)  
 * [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
 * [Yeoman Bootstrap Generator GitHub](https://github.com/yeoman/generator-bootstrap)  
@@ -4036,9 +4048,7 @@ Yo/Yeoman, Bower, Grunt
 * [Yeoman Ember Generator GitHub](https://github.com/yeoman/generator-ember)  
 * [Yeoman Webapp Generator GitHub](https://github.com/yeoman/generator-webapp)  
 * [Yeoman Gulp Webapp Generator GitHub](https://github.com/yeoman/generator-gulp-webapp)  
-* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io)  
-* [Bower Package Search GitHub](http://bower.io/search)  
-* [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com)  
+ 
 
 
 
