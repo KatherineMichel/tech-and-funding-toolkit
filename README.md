@@ -3739,13 +3739,19 @@ Automation
 * [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
 * npm scripts
 
-<!--
-Testing and Continuous Integration Options: Mocha, Jasmine (assertion library built in), Tape, QUnit, AVA, Jest
-Assertion Library Options: Chai (most popular), should.js, expect
-Helper libraries Options: JSDOM, Cheerio
-Testing and Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
+Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
+* [Mocha GitHub](https://github.com/visionmedia/mocha)  
+* [Jasmine GitHub](https://github.com/pivotal/jasmine)  
+* [Karma](https://karma-runner.github.io)
 
-* [JSDOM GitHub](https://github.com/tmpvar/jsdom) 
+* [SeleniumHQ](http://www.seleniumhq.org)  
+* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
+* [PhantomJS](http://phantomjs.org)  
+* [PhantomJS GitHub](https://github.com/ariya/phantomjs) 
+
+<!--
+Testing: Mocha, Jasmine (assertion library built in), Tape, QUnit, AVA, Jest
+Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
 
 http://www.protractortest.org
 
@@ -3754,16 +3760,11 @@ http://docs.seleniumhq.org
 https://github.com/seleniumbase/SeleniumBase
 -->
 
-Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
-* [Mocha GitHub](https://github.com/visionmedia/mocha)  
-* [Jasmine GitHub](https://github.com/pivotal/jasmine)  
-* [Karma](https://karma-runner.github.io)
-* [SeleniumHQ](http://www.seleniumhq.org)  
-* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
-* [PhantomJS](http://phantomjs.org)  
-* [PhantomJS GitHub](https://github.com/ariya/phantomjs) 
+Helper libraries (JSDOM, Cheerio)
+* [JSDOM GitHub](https://github.com/tmpvar/jsdom) 
 
-
+Assertion Libraries (Chai (most popular), should.js, expect)
+* Chai
 
 Express (based on Sinatra), Hapi, Koa (React Stack)
 * [Express (based on Sinatra)](http://expressjs.com)  
