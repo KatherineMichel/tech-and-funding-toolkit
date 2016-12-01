@@ -3422,6 +3422,7 @@ Development Webservers- Work Sharing: localtunnel
 Automation: npm scripts
 Transpiling: Babel
 Bundling: Webpack
+Testing and Continuous Integration Options: Mocha
 Testing and Continuous Integration: Travis, Appveyor
 
 Editors and Configuration Options: Atom, WebStorm (good, but not free), Brackets, VSCode
@@ -3456,25 +3457,25 @@ https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
 http://editorconfig.org/#download
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
-
-
-
-
-NWS and Electron- build desktop JavaScript apps
+npm Recommended or Latest Features versions (author prefers latest features)
 Use nvm to run multiple versions of node
-Author prefers latest features node (v6.x) versus recommended for most users version
-Package.json is node’s package manifest
+package.json is node’s package manifest (packages and scripts)
 package.json for Building a JS Development Environment on Pluralsight
 https://gist.github.com/coryhouse/29bd1029b623beb4c7f79b748dcba844
+$ npm install
+Dependencies will go in a folder called node_modules (on path)
+
 VSCode -> Open -> View -> Integrated Terminal
-Built in/integrated terminals
-Dependencies will go in a folder called node_modules
+Built in/integrated terminals open by default in root directory
+
+
 https://nodesecurity.io/
 $ npm install -g nsp
 $ cd
 $ nsp check (checking all the packages for any known vulnerabilities)
 Run nps automatically as part of your start script
 
+NWS and Electron- build desktop JavaScript apps
 
 http://www.walmartlabs.com/project_type/open-source/
 http://hapijs.com/
