@@ -2170,6 +2170,8 @@ Hidden File and Hidden Directory Wikipedia
 
 <!--
 https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789#.104fcsvh3
+
+https://github.com/webpro/awesome-dotfiles
 -->
 
 Dot Files
@@ -2189,8 +2191,6 @@ Dot Files
 * [YADR GitHub](https://github.com/skwp/dotfiles)
 
 <!--
-https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789#.3lsaw3gql
-
 https://github.com/epicserve/dotfiles
 https://github.com/geerlingguy/mac-dev-playbook
 https://github.com/JohnColvin/.maid/blob/master/rules.rb
@@ -2524,6 +2524,8 @@ Types of Licenses
 * [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
 * [Creative Commons](https://creativecommons.org/licenses)
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+
 
 #### Front-End Development
 
@@ -3227,6 +3229,9 @@ http://whatwg.github.io/loader
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 -->
 
+
+
+
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
@@ -3294,10 +3299,6 @@ DOM Tree/Parent Child
 https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
 -->
 
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
 #### JavaScript
 
 JavaScript
@@ -3343,13 +3344,28 @@ JavaScript Tutorials- Mozilla
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
-
 CommonJS
 * [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
 * [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
 * [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+<!--
+http://standardjs.com/index.html
+
+5 Module Formats
+* IIFE (thing of the past)
+* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
+* Universal Module Definition (UMD)
+* CommonJS (CJS) (var jquery = require('jquery'))
+* ES6 Modules (import jQuery from 'jquery') (best choice)
+-->
+
+JavaScript Event Keycodes
+* [JavaScript Event Keycodes](http://keycode.info)
 
 JSON
 * [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
@@ -3440,10 +3456,8 @@ Linter: Enforce Consistency/Avoid Mistakes slide
 Why Lint via an Automated Build Process slide
 Unit tests versus integration tests
 
-EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
+.editorconfig
 https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
-http://editorconfig.org/#download
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
 VSCode -> Open -> View -> Integrated Terminal
 Built in/integrated terminals open by default in root directory
@@ -3517,12 +3531,7 @@ Question: Continue using ES5 or Transpile (ES6 or newer)?
 
 Why bundle? CommonJS doesn't work in web browsers; package projects into file(s); create separate bundles within same project; improve node performance
 
-5 Module Formats
-* IIFE (thing of the past)
-* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
-* Universal Module Definition (UMD)
-* CommonJS (CJS) (var jquery = require('jquery'))
-* ES6 Modules (import jQuery from 'jquery') (best choice)
+Module formats
 
 ES6: standardized, improved autocomplete, intelligent refactoring, fails fast, tree shaking, easier to read/named imports, default exports
 
@@ -3630,7 +3639,6 @@ Appveyor.yml
 
 
 
-http://standardjs.com/index.html
 https://github.com/walmartlabs/eslint-config-defaults
 https://github.com/dustinspecker/awesome-eslint
 https://github.com/feross/standard
@@ -3675,20 +3683,17 @@ http://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files
 https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
 NWS and Electron- build desktop JavaScript apps
 http://www.walmartlabs.com/project_type/open-source
-
-https://github.com/webpro/awesome-dotfiles
-https://dotfiles.github.io/
 -->
 
 #### JavaScript Ecosystem
 
 DOM (Document Object Model) (JavaScript, async, AJAX)
 Node.js (Node.js, npm, nvm)
-Frameworks (React, Angular, Ember, Backbone
+Packages and collaboration: (npm, GitHub)
+Frameworks (React, Angular, Ember, Backbone)
 Other jQuery, Underscore, Lodash
 Types of JavaScript (ES5, ES6, ES2015, CoffeeScript, TypeScript, ClojureScript, Babel, transpiling, compiling, MDN reference)
 Modules (AMD, commonJS modules, ES6 modules)
-Packages and collaboration: (npm, GitHub)
 Build Tools (hot reloading, sourcemap)
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
@@ -3704,6 +3709,10 @@ Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 
 <!--
 See also Editors
+
+EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
+http://editorconfig.org/#download
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 -->
 
 Node.js
@@ -3749,25 +3758,27 @@ Automation
 * [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
 * [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
 
-Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
+Testing (Mocha, Jasmine (assertion library built in), Tape, Karma)
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jasmine GitHub](https://github.com/pivotal/jasmine)  
 * [Karma](https://karma-runner.github.io)
 
-* [SeleniumHQ](http://www.seleniumhq.org)  
-* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
-* [PhantomJS](http://phantomjs.org)  
-* [PhantomJS GitHub](https://github.com/ariya/phantomjs) 
-
 <!--
-Testing: Mocha, Jasmine (assertion library built in), Tape, QUnit, AVA, Jest
+Testing: QUnit, AVA, Jest
 Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
+
+Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
 
 http://www.protractortest.org
 
 http://docs.seleniumhq.org
 
 https://github.com/seleniumbase/SeleniumBase
+
+* [SeleniumHQ](http://www.seleniumhq.org)  
+* [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
+* [PhantomJS](http://phantomjs.org)  
+* [PhantomJS GitHub](https://github.com/ariya/phantomjs) 
 -->
 
 Helper libraries (JSDOM, Cheerio)
@@ -3832,11 +3843,6 @@ MVCs General, Backbone, Ember
 * Polymer
 
 <!--
-https://www.npmjs.com/~angular
-https://github.com/angular/quickstart
-https://github.com/angular/angular-cli
-https://angular.io/
-
 Semantic UI
 http://semantic-ui.com
 https://github.com/Semantic-Org/Semantic-UI 
@@ -3868,6 +3874,10 @@ Angular (React Stack)
 * [Angular Protractor GitHub](https://github.com/angular/protractor)
 
 <!--
+https://www.npmjs.com/~angular
+https://github.com/angular/quickstart
+https://github.com/angular/angular-cli
+
 https://www.gitbook.com/book/rangle-io/ngcourse2/details
 https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
 https://angular.io/docs
