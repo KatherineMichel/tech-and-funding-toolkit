@@ -3684,10 +3684,12 @@ https://dotfiles.github.io/
 
 DOM (Document Object Model) (JavaScript, async, AJAX)
 Node.js (Node.js, npm, nvm)
-Frameworks (React, Angular, Ember, Backbone, jQuery, Underscore, Lodash)
+Frameworks (React, Angular, Ember, Backbone
+Other jQuery, Underscore, Lodash
 Types of JavaScript (ES5, ES6, ES2015, CoffeeScript, TypeScript, ClojureScript, Babel, transpiling, compiling, MDN reference)
-Use other people’s code (AMD, commonJS modules, ES6 modules, npm, Github)
-Build Tools (grunt, gulp, bower, browserify, webpack, hot reloading, sourcemap)
+Modules (AMD, commonJS modules, ES6 modules)
+Packages and collaboration: (npm, GitHub)
+Build Tools (hot reloading, sourcemap)
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 #### JavaScript Frameworks
@@ -3719,11 +3721,10 @@ Node.js Launch and Ryan Dahl
 * [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
 * [The Birth of Node](http://devopsangle.com/2013/04/01/the-birth-of-node-where-did-it-come-from-creator-ryan-dahl-shares-the-history) 
 
-Node Forks
-* [IO.js GitHub](https://github.com/iojs/io.js)  
-* [JXCore](http://jxcore.com/home) 
+Node Forks (IO.js merged with Node again) 
+* [JXCore GitHub](https://github.com/jxcore/jxcore) 
 
-Node.js Package Managers
+Node.js Package Managers (npm (build-step))
 * [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm)  
 * [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
 * [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
@@ -3732,12 +3733,9 @@ Node.js Package Managers
 * [Yarn](https://yarnpkg.com) and [Yarn GitHub](https://github.com/yarnpkg/yarn)
 * ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
 
-<!--
-Package Management Options: npm (build-step), Bower (no build-step), JSPM (JavaScript Package Manager, also bundles code), Jam, volo
-
-* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io)  
-* [Bower Package Search GitHub](http://bower.io/search)  
--->
+Lesser Used Package Managers (Bower, JSPM, Jam, volo)
+* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io) and [Bower Package Search GitHub](http://bower.io/search) 
+* JSPM (JavaScript Package Manager, also bundles code)
 
 Check Update
 * [Check Update (npm install -g npm-check-updates)](https://www.npmjs.com/package/check-update)
@@ -3886,6 +3884,145 @@ Facebook- React (JavaScript)
 
 
 
+
+
+React Relay (React Stack)
+* [Facebook Relay GitHub](https://github.com/facebook/relay)
+
+React Bootstrap (React Stack)
+* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
+
+React-Router (React Stack)
+* [React-Router GitHub](https://github.com/reactjs/react-router)
+
+Facebook- React Native (React Stack)
+* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
+
+
+
+
+JSX
+* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
+* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+
+<!--
+https://www.npmjs.com/package/jsx
+http://buildwithreact.com/tutorial/jsx
+https://babeljs.io/docs/plugins/transform-react-jsx/
+http://www.sitepoint.com/getting-started-react-jsx
+-->
+
+
+Ionic Framework (React Stack)
+* [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
+
+Flux (React Stack)
+* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
+* [Reflux](https://github.com/reflux/refluxjs)
+
+<!--
+http://facebook.github.io/flux/docs/testing-flux-applications.html
+-->
+
+Redux (React Stack)
+* [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
+
+<!--
+http://redux.js.org/docs/basics/UsageWithReact.html
+-->
+
+Other React Stack Helpers (See also ESLint and JSX)
+* [Facebook Immutable](https://facebook.github.io/immutable-js)
+* [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
+* [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
+* [Relax (CMS) GitHub](https://github.com/relax/relax)
+
+
+
+
+Node Add-ons
+* [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
+* [Nodemon GitHub](https://github.com/remy/nodemon)  
+* [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
+* [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
+
+Yo/Yeoman (Bower, Grunt)
+* [Yo GitHub](https://github.com/yeoman/yo)  
+* [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
+* [Yeoman Bootstrap Generator GitHub](https://github.com/yeoman/generator-bootstrap)  
+* [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-node)  
+* [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-angular)  
+* [Yeoman Backbone Generator GitHub](https://github.com/yeoman/generator-backbone)  
+* [Yeoman Ember Generator GitHub](https://github.com/yeoman/generator-ember)  
+* [Yeoman Webapp Generator GitHub](https://github.com/yeoman/generator-webapp)  
+* [Yeoman Gulp Webapp Generator GitHub](https://github.com/yeoman/generator-gulp-webapp)  
+
+Compilation Resources (See also Gulp)
+* [Compass GitHub](https://github.com/chriseppstein/compass)  
+* [Less GitHub](https://github.com/less/less.js)  
+* [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
+* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
+
+<!--
+less.js for Windows
+http://winless.org
+-->
+
+Other JavaScript Helpers
+* [Lodash GitHub](https://github.com/lodash/lodash)
+* [Underscore GitHub](https://github.com/jashkenas/underscore)
+* [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
+
+HTML5 Compatibility Check/Normalization
+* [Normalize GitHub](https://github.com/necolas/normalize.css)  
+* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
+* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
+* [Shim GitHub](https://github.com/marstall/shim)  
+* [Zepto GitHub](https://github.com/madrobby/zepto)  
+
+Meteor
+* [Meteor](https://www.meteor.com)
+
+JavaScript Presentations Frameworks
+* [Slides.com (reveal.js)](https://slides.com)
+* [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
+* [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
+
+<!--
+https://github.com/airbnb/enzyme
+
+https://github.com/touchstonejs/touchstonejs
+https://github.com/feathersjs/feathers
+
+https://www.npmjs.com/package/eslint-config-airbnb
+
+https://github.com/nodejs/node-eps/pull/3
+https://github.com/nodejs/node-eps
+
+http://redux.js.org/docs/basics/Reducers.html
+
+Node.js Debugger
+http://nodejs.org/api/debugger.html#debugger_breakpoints
+http://nodejs.org/api/debugger.html
+
+https://nodejs.org/metrics/#versions
+https://github.com/sequelize/sequelize
+https://github.com/caolan/async
+-->
+
+<!--
+Compat Inspector
+http://ie.microsoft.com/testdrive/HTML5
+modern.IE
+http://www.modern.ie/report
+
+https://developer.microsoft.com/en-us/microsoft-edge
+https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
+https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
+-->
+
 <!--
 New
 https://www.codecademy.com/learn/react-101
@@ -3910,8 +4047,6 @@ http://facebook.github.io/react/docs/multiple-components.html
 -->
 
 <!--
-React- Gulp, Webpack, Karma
-
 https://medium.com/@preethikasireddy
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
@@ -3973,150 +4108,9 @@ http://wix.github.io/react-templates/
 https://github.com/react-native-material-design/demo-app
 -->
 
-React Relay (React Stack)
-* [Facebook Relay GitHub](https://github.com/facebook/relay)
-
-React Bootstrap (React Stack)
-* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
-
-React-Router (React Stack)
-* [React-Router GitHub](https://github.com/reactjs/react-router)
-
-Facebook- React Native (React Stack)
-* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
-
 <!--
 https://facebook.github.io/react-native/docs/embedded-app-ios.html
 -->
-
-
-
-
-JSX
-* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
-* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
-
-<!--
-https://www.npmjs.com/package/jsx
-http://buildwithreact.com/tutorial/jsx
-https://babeljs.io/docs/plugins/transform-react-jsx/
-http://www.sitepoint.com/getting-started-react-jsx
--->
-
-
-Ionic Framework (React Stack)
-* [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
-
-Flux (React Stack)
-* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
-* [Reflux](https://github.com/reflux/refluxjs)
-
-<!--
-http://facebook.github.io/flux/docs/testing-flux-applications.html
--->
-
-Redux (React Stack)
-* [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
-
-<!--
-http://redux.js.org/docs/basics/UsageWithReact.html
--->
-
-Other React Stack Helpers (See also ESLint and JSX)
-* [Facebook Immutable](https://facebook.github.io/immutable-js)
-* [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
-* [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
-* [Relax (CMS) GitHub](https://github.com/relax/relax)
-
-<!--
-https://github.com/airbnb/enzyme
-
-https://github.com/touchstonejs/touchstonejs
-https://github.com/feathersjs/feathers
-
-https://www.npmjs.com/package/eslint-config-airbnb
-
-https://github.com/nodejs/node-eps/pull/3
-https://github.com/nodejs/node-eps
-
-http://redux.js.org/docs/basics/Reducers.html
-
-Node.js Debugger
-http://nodejs.org/api/debugger.html#debugger_breakpoints
-http://nodejs.org/api/debugger.html
-
-https://nodejs.org/metrics/#versions
-https://github.com/sequelize/sequelize
-https://github.com/caolan/async
--->
-
-
-
-
-Node Add-ons
-* [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
-* [Nodemon GitHub](https://github.com/remy/nodemon)  
-* [Node Inspector (Debugger) GitHub](https://github.com/node-inspector/node-inspector)  
-* [Node Taglib (Audio) GitHub](https://github.com/nikhilm/node-taglib)  
-
-Yo/Yeoman (Bower, Grunt)
-* [Yo GitHub](https://github.com/yeoman/yo)  
-* [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
-* [Yeoman Bootstrap Generator GitHub](https://github.com/yeoman/generator-bootstrap)  
-* [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-node)  
-* [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-angular)  
-* [Yeoman Backbone Generator GitHub](https://github.com/yeoman/generator-backbone)  
-* [Yeoman Ember Generator GitHub](https://github.com/yeoman/generator-ember)  
-* [Yeoman Webapp Generator GitHub](https://github.com/yeoman/generator-webapp)  
-* [Yeoman Gulp Webapp Generator GitHub](https://github.com/yeoman/generator-gulp-webapp)  
- 
-
-
-
-
-Compilation Resources (See also Gulp)
-* [Compass GitHub](https://github.com/chriseppstein/compass)  
-* [Less GitHub](https://github.com/less/less.js)  
-* [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
-* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
-
-<!--
-less.js for Windows
-http://winless.org
--->
-
-Other JavaScript Helpers
-* [Lodash GitHub](https://github.com/lodash/lodash)
-* [Underscore GitHub](https://github.com/jashkenas/underscore)
-* [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
-
-HTML5 Compatibility Check/Normalization
-* [Normalize GitHub](https://github.com/necolas/normalize.css)  
-* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
-* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
-* [Shim GitHub](https://github.com/marstall/shim)  
-* [Zepto GitHub](https://github.com/madrobby/zepto)  
-
-<!--
-Compat Inspector
-http://ie.microsoft.com/testdrive/HTML5
-modern.IE
-http://www.modern.ie/report
-
-https://developer.microsoft.com/en-us/microsoft-edge
-https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
-https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
--->
-
-Meteor
-* [Meteor](https://www.meteor.com)
-
-JavaScript Presentations Frameworks
-* [Slides.com (reveal.js)](https://slides.com)
-* [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
-* [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
 
 <!--
  https://developer.chrome.com/devtools/docs/javascript-debugging
