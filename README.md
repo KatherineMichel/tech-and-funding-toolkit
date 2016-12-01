@@ -3423,7 +3423,8 @@ Development Webservers- Work Sharing: localtunnel
 Automation: npm scripts, npm-run-all
 Transpiling: Babel
 Bundling: Webpack
-Testing and Continuous Integration Options: Mocha
+Linting: ESLint
+Testing and Continuous Integration: Mocha
 Testing and Continuous Integration: Travis, Appveyor
 
 Editors and Configuration Options: Atom, WebStorm (good, but not free), Brackets, VSCode
@@ -3432,7 +3433,7 @@ Security Scanning Options (checking all the packages for any known vulnerabiliti
 Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
 Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
 Automation Options: Grunt, Gulp, npm scripts
-Transpiling Options: Babel, TypeScript, Elm
+Transpiling Options: Babel, TypeScript (superset of JavaScript, enhancements/opinionated), Elm
 Bundling Options: Browserify, Webpack (built in web server), Rollup, JSPM (also package manager)
 Linting Options: JSLint, JSHint, ESLint
 Testing and Continuous Integration Options: Mocha, Jasmine, Tape, QUnit, AVA, Jest
@@ -3458,6 +3459,9 @@ Demo: Set Up Express
 Sharing Work-in-progress/Demo Sharing Work-in-progress
 npm Scripts slide
 Demo pre/post hooks
+TypeScript versus Babel
+.babelrc or package.json
+Build Script JS Style
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
@@ -3467,6 +3471,12 @@ https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 VSCode -> Open -> View -> Integrated Terminal
 Built in/integrated terminals open by default in root directory
 Click plus sign to open a second terminal
+
+Shorthand:
+npm start = npm run start
+npm start -s (silencing of noise)
+npm test = npm run test
+npm test or npm t
 
 npm Recommended or Latest Features versions (author prefers latest features)
 Use nvm to run multiple versions of node
@@ -3513,31 +3523,37 @@ npm run security-check
 Also, localtunnel
 
 Concurrent tasks: npm-run-all
+"start": "npm-run-all --parallel security-check open:src"
+"open:src": "buildScripts/sourceServer.js"
+Also, localtunnel
 
-Shorthand:
-npm start = npm run start
-npm start -s (silencing of noise)
-npm test = npm run test
-npm test or npm t
-
-
-
-
-Babel Configuration Styles: .babelrc or package.json
-https://babeljs.io/docs/plugins/
+Transpiling: ECMAScript Versions, ES5 (2009), ES6/ES2015, ES7/2016 (not much added), ES8/2017
+Babel Configuration Styles: .babelrc or package.json (in root)
+.babelrc is not npm specific
 https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
+https://babeljs.io/docs/plugins
+node.js/Electron (running on Chrome), sniffing
+http://electron.atom.io
+Preset: babel-preset-es2015-node Approach: Version Detection
+Preset: babel-preset-latest-minimal Approach: Feature Detection
+
+Question: Continue using ES5 or Transpile (ES6 or newer)?
+
+
+
 https://github.com/babel/babel-eslint
-http://electron.atom.io/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
 https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.q0k44k9jd
 http://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files
 Tree-shaking
+
 Webpack 2 will offer tree-shaking as key new feature
 Webpack.config.dev.js
 https://gist.github.com/coryhouse/d611e83e432f3ae65cc46ebb9b599930
 https://webpack.js.org/
 http://webpack.github.io/docs/configuration.html#devtools
+
 http://eslint.org/docs/2.0.0/user-guide/configuring
 http://eslint.org/docs/rules/
 Eslint-loader
