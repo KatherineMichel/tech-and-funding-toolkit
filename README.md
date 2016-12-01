@@ -3416,6 +3416,7 @@ Module Format: ES6/ES2015
 Bundling: Webpack
 Linting: ESLint (most popular linter)
 Testing and Continuous Integration: Mocha
+Assertion Library: Chai
 Testing and Continuous Integration: Travis, Appveyor
 
 Editors and Configuration Options: Atom, WebStorm (good, but not free), Brackets, VSCode
@@ -3427,7 +3428,9 @@ Automation Options: Grunt, Gulp, npm scripts
 Transpiling Options: Babel, TypeScript (superset of JavaScript, enhancements/opinionated), Elm
 Bundling Options: Browserify, Webpack (built in web server), Rollup, JSPM (also package manager)
 Linting Options: JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular)
-Testing and Continuous Integration Options: Mocha, Jasmine, Tape, QUnit, AVA, Jest
+Testing and Continuous Integration Options: Mocha, Jasmine (assertion library built in), Tape, QUnit, AVA, Jest
+Assertion Library Options: Chai (most popular), should.js, expect
+Helper libraries Options: JSDOM, Cheerio
 Testing and Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
 Project Structure: demo
 Production Build: Hard code, manipulate via Node, html-webpack-plugin
@@ -3456,6 +3459,7 @@ Build Script JS Style
 Why Use ES6 Modules?
 Linter: Enforce Consistency/Avoid Mistakes slide
 Why Lint via an Automated Build Process slide
+Unit tests versus integration tests
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
@@ -3616,15 +3620,34 @@ https://gist.github.com/coryhouse/61f866c7174220777899bcfff03dab7f
 ecmaVersion ES7
 Eslint environments list
 http://eslint.org/docs/user-guide/configuring
+rules, no-console: 0:Off, 1:Warning, 2:Error
+"lint": "esw webpack.config.*, src, buildScripts --color",
+$ npm run lint
+read errors
+/* eslint-disable no-console */ or // eslint-disable-line no-console
+"lint-watch": "npm run lint -- --watch",
+"start": "... lint:watch",
+$ npm run lint:watch
+
+Unit Testing: single function or module, fast, automated, should run everytime you hit save, which facilitaties TDD
+Integration Testing: Interactions between modules (slower than unit tests)
+UI: Automate interactions with UI (example: Selenium)
+
+Unit Testing Decisions:
+* Framework:
+* Assertion Library
+* Helper Libraries: JSDOM, Cheerio
+* Where to run tests: Browser (Karma, Testem), Headless Browser (PhantomJS), In-memory DOM (JSDOM)
+* Where to place tests: centralized or alongside? (author prefers alongside: easy imports, clear visibility, convenient to open, no recreating file structure, easy file moves)
+* When to run tests
+
+Jest: wrapper over Jasmine: https://facebook.github.io/jest
+Mocha is very configurable, but does not have built in assertions
+Naming conventions: some prefer fileName.spec.js instead of fileName.test.js
 
 
 
-Selenium 
-Wrapper over Jasmine: https://facebook.github.io/jest/
-Assertion libraries: most popular: Chai Others: should.js and expect
-Mocha does not have built in assertions
 https://mochajs.org/#reporters
-Some prefer index.spec.js instead of index.test.js
 Isomorphic fetch
 When doing asynchronous callback, need to add done parameter
 Travis CI- click plus sign
@@ -3675,6 +3698,7 @@ https://github.com/Microsoft/TypeScript
 https://en.wikipedia.org/wiki/TypeScript
 
 
+TDD
 https://github.com/airbnb/javascript
 https://github.com/DrkSephy?tab=repositories
 package manifest
