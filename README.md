@@ -3420,7 +3420,7 @@ Package Management: npm
 Security Scanning: Node Security Platform
 Development Webserver: Express
 Development Webservers- Work Sharing: localtunnel
-Automation: npm scripts
+Automation: npm scripts, npm-run-all
 Transpiling: Babel
 Bundling: Webpack
 Testing and Continuous Integration Options: Mocha
@@ -3456,6 +3456,8 @@ Javascript Editors: what to look for
 When to Run Security Check Slide
 Demo: Set Up Express
 Sharing Work-in-progress/Demo Sharing Work-in-progress
+npm Scripts slide
+Demo pre/post hooks
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 https://github.com/coryhouse/js-dev-env-demo/blob/master/.editorconfig
@@ -3464,6 +3466,7 @@ https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
 VSCode -> Open -> View -> Integrated Terminal
 Built in/integrated terminals open by default in root directory
+Click plus sign to open a second terminal
 
 npm Recommended or Latest Features versions (author prefers latest features)
 Use nvm to run multiple versions of node
@@ -3471,7 +3474,9 @@ package.json is node’s package manifest (packages and scripts)
 package.json for Building a JS Development Environment on Pluralsight
 https://gist.github.com/coryhouse/29bd1029b623beb4c7f79b748dcba844
 $ npm install
-Dependencies will go in a folder called node_modules (on path)
+Dependencies will go in a folder called node_modules
+When you install node_modules, they are added to .bin folder and are automatically added to the path when called; the packages do not need to be installed globally
+
 Node Security Platform: https://nodesecurity.io
 Ideally run nps automatically as part of your start script (npm start); will not have to install globally
 $ npm install -g nsp 
@@ -3493,17 +3498,31 @@ Folder src in root
 index.html (required for Express to run)
 $ node buildScripts/sourceServer.js (runs on port selected)
 
-
-
-Npm scripts
+Npm scripts: declared in package.json (scripts section)
+Benefits: leverage command line, directly use npm packages/world's largest package manager, can call separate Node scripts, convention-based pre-post hooks, no need for separate plugins, eleminate dependence on plugin authors, simpler debugging, better docs, easy to learn, simple
+With npm scripts, you don’t need to install tools globally to run them
 https://docs.npmjs.com/misc/scripts
 https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.xurj4qvis
-With npm scripts, you don’t need to install tools globally to run them
-When you install node_modules, they are added to .bin folder and are automatically added to the path when called; the packages do not need to be installed globally
-Npm run security-check
-Concurrent tasks: npm run all
-Npm start -s (silencing of noise)
-https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
+
+In buildScripts, create file startMessage.js
+Pre/Post Hooks
+"prestart": "buildScripts/sourceMessage.js"
+"start": "buildScripts/sourceServer.js"
+"security-check": "nsp check"
+npm run security-check
+Also, localtunnel
+
+Concurrent tasks: npm-run-all
+
+Shorthand:
+npm start = npm run start
+npm start -s (silencing of noise)
+npm test = npm run test
+npm test or npm t
+
+
+
+
 Babel Configuration Styles: .babelrc or package.json
 https://babeljs.io/docs/plugins/
 https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
@@ -3535,13 +3554,13 @@ Mocha does not have built in assertions
 https://mochajs.org/#reporters
 Some prefer index.spec.js instead of index.test.js
 Isomorphic fetch
-Npm test or npm t
 When doing asynchronous callback, need to add done parameter
 Travis CI- click plus sign
 .travis.yml
 AppVeyor
 Appveyor.yml
 
+https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
 NWS and Electron- build desktop JavaScript apps
 http://www.walmartlabs.com/project_type/open-source
 
