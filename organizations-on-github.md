@@ -18,6 +18,7 @@
 * [CloudFlare](https://github.com/cloudflare)
 * [Codeship](https://github.com/codeship)
 * [Couchbase Labs](https://github.com/couchbaselabs)  
+* [Deep Mind](https://github.com/deepmind)
 * [Digital Ocean](https://github.com/digitalocean)
 * [Docker](https://github.com/docker)
 * [Docker Library](https://github.com/docker-library)
