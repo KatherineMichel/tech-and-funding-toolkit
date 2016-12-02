@@ -4276,6 +4276,8 @@ Ruby- Tutorials
 <!--
 https://github.com/spree
 
+http://guides.rubyonrails.org/getting_started.html
+
 http://edgeguides.rubyonrails.org/active_record_basics.html#naming-conventions
 
 http://stackoverflow.com/questions/tagged/ruby-on-rails
@@ -7120,6 +7122,7 @@ Architectures
 <!--
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
 http://en.wikipedia.org/wiki/REST
+https://en.wikipedia.org/wiki/Representational_state_transfer
 -->
 
 Software Stacks
