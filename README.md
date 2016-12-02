@@ -1282,6 +1282,17 @@ Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
+<!--
+New
+https://developers.google.com/web/showcase/
+https://github.com/TalAter/awesome-progressive-web-apps
+https://developers.google.com/web/progressive-web-apps/
+https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+https://en.wikipedia.org/wiki/Progressive_web_app
+http://blog.ionic.io/what-is-a-progressive-web-app/
+-->
+
 #### Social Media and Social Graph
 
 Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
