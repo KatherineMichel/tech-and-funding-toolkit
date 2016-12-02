@@ -2621,6 +2621,7 @@ Static Site Generators and CMS (See also Jekyll)
 http://prose.io
 https://getgrav.org
 https://hexo.io
+https://github.com/metalsmith/metalsmith
 -->
 
 Favicon, Sitemap, robots.txt, humans.txt
@@ -3128,23 +3129,6 @@ Can I Use and Vendor-prefixed CSS Property Overview
 Bootstrap Tutorials
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
-
-
-<!--
-W3Schools
-Learn XML
-http://www.w3schools.com/xml/default.asp
-Learn XSLT
-http://www.w3schools.com/xsl/default.asp
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
--->
-
-
 <!--
 https://www.w3.org/DesignIssues/Uses.html
 
@@ -3346,6 +3330,7 @@ https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
 https://en.wikipedia.org/wiki/JavaScript_syntax
 https://en.wikipedia.org/wiki/JavaScript_library
 https://en.wikipedia.org/wiki/JavaScript_engine
+
 https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript
 https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
 https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
@@ -3405,6 +3390,21 @@ JSON
 <!--
 http://www.json.org/xml.html
 -->
+
+<!--
+W3Schools
+Learn XML
+http://www.w3schools.com/xml/default.asp
+Learn XSLT
+http://www.w3schools.com/xsl/default.asp
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+-->
+
 
 
 <!--
