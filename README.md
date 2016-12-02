@@ -3094,6 +3094,8 @@ http://ppcblog.com/how-google-works
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
+
+
 W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
@@ -3223,6 +3225,69 @@ https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 
 
 
+Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
+* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
+
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+<!--
+DOM Tree/Parent Child
+https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
+-->
+
+#### JavaScript
+
+JavaScript
+* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
+* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+
+JavaScript Tutorials
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+
+JavaScript Tutorials- Mozilla
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+CommonJS
+* [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+* [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
+* [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+<!--
+http://standardjs.com/index.html
+
+5 Module Formats
+* IIFE (thing of the past)
+* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
+* Universal Module Definition (UMD)
+* CommonJS (CJS) (var jquery = require('jquery'))
+* ES6 Modules (import jQuery from 'jquery') (best choice)
+-->
+
+JavaScript Event Keycodes
+* [JavaScript Event Keycodes](http://keycode.info)
+
+<!--
+* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
+
 * [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
 
 Comparison of Layout Engines (By DOM and ECMA Script)
@@ -3230,16 +3295,32 @@ Comparison of Layout Engines (By DOM and ECMA Script)
 * [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
 * [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 * [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
+-->
 
+<!--
+New
+https://github.com/getify/You-Dont-Know-JS
+http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+http://shop.oreilly.com/product/9780596517748.do
 
+http://learnjsthehardway.com/
+https://github.com/ericelliott/essential-javascript-links
 
+http://eloquentjavascript.net/13_dom.html
 
-Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
-* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
+http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers
+http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
+Advanced Debugging with Chrome
+https://docs.google.com/presentation/d/17HjGp4pQlNh2WIwKiTcUpDLIuOdkUcRmALFuoytQsjU/preview?slide=id.p
+
+Misc. Possibly duplicates
+http://www.w3schools.com/jsref/jsref_split.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Array_comprehensions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+-->
 
 <!--
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
@@ -3289,92 +3370,6 @@ https://github.com/sgaurav/understanding-es6
 
 https://twitter.com/kentcdodds/status/710701170268831744
 -->
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
-<!--
-DOM Tree/Parent Child
-https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
--->
-
-
-
-#### JavaScript
-
-JavaScript
-* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
-* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
-
-JavaScript Tutorials
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-
-JavaScript Tutorials- Mozilla
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-CommonJS
-* [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-* [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
-* [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-<!--
-http://standardjs.com/index.html
-
-5 Module Formats
-* IIFE (thing of the past)
-* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
-* Universal Module Definition (UMD)
-* CommonJS (CJS) (var jquery = require('jquery'))
-* ES6 Modules (import jQuery from 'jquery') (best choice)
--->
-
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
-
-<!--
-* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
--->
-
-<!--
-New
-https://github.com/getify/You-Dont-Know-JS
-http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-http://shop.oreilly.com/product/9780596517748.do
-
-http://learnjsthehardway.com/
-https://github.com/ericelliott/essential-javascript-links
-
-http://eloquentjavascript.net/13_dom.html
-
-http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers
-http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
-Advanced Debugging with Chrome
-https://docs.google.com/presentation/d/17HjGp4pQlNh2WIwKiTcUpDLIuOdkUcRmALFuoytQsjU/preview?slide=id.p
-
-Misc. Possibly duplicates
-http://www.w3schools.com/jsref/jsref_split.asp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Array_comprehensions
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
--->
-
-
 
 #### AJAX, jQuery, JSON
 
