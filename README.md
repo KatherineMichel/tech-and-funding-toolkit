@@ -5096,19 +5096,9 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-Django Project’s Feeds
-Lincoln Loop’s Django Round Up
-PyCoders Weekly and Python Weekly
-34.4.1 9 Easy Ways to Participate
-http://wiki.python.org/moin/LocalUserGroups
-http://www.python.org/community/irc/
-
+????????????
 https://ccbv.co.uk/
 http://cdrf.co
-
-https://www.coursera.org/courses?query=python
-
-http://pythonhosted.org/
 
 https://code.google.com/p/browsersec/wiki/Main
 
@@ -5128,6 +5118,23 @@ https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 #### Python General
 
 <!--
+New
+http://www.tornadoweb.org/en/stable/
+https://github.com/tornadoweb/tornado
+
+https://github.com/kennethreitz/pip-purge
+
+Django Project’s Feeds
+Lincoln Loop’s Django Round Up
+PyCoders Weekly and Python Weekly
+34.4.1 9 Easy Ways to Participate
+http://wiki.python.org/moin/LocalUserGroups
+http://www.python.org/community/irc/
+
+https://www.coursera.org/courses?query=python
+
+http://pythonhosted.org/
+
 https://github.com/python/devguide
 http://campus.codeschool.com/courses/try-django/contents
 https://docs.djangoproject.com/en/1.9/ref/models/conditional-expressions/#case
@@ -8168,6 +8175,10 @@ Programming and Math Learning Tools (See also MOOCs)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 
 <!--
+http://www.appinventor.org
+https://www.pluralsight.com/kids-courses
+https://github.com/FreeCodeCamp/hour-of-code
+
 https://www.khanacademy.org/computing/computer-programming/sql
 https://www.khanacademy.org/computing/computer-programming
 https://www.khanacademy.org/computing/computer-science
@@ -11895,6 +11906,13 @@ Awesome Non-Code
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 <!--
+https://github.com/jwasham/google-interview-university
+https://github.com/alex/what-happens-when
+
+https://branch.io/resources/app-launch-checklist/#
+https://github.com/leereilly/games
+https://github.com/Hack-with-Github/Awesome-Hacking
+
 https://github.com/kdeldycke/awesome-falsehood
 https://github.com/jaywcjlove/awesome-mac
 https://github.com/herrbischoff/awesome-osx-command-line
