@@ -3774,6 +3774,8 @@ Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, J
 * [Jest](https://facebook.github.io/jest)
 
 <!--
+https://mochajs.org/#reporters
+
 Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
 
 Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
