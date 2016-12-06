@@ -8091,6 +8091,11 @@ https://github.com/heroku/12factor
 
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
+<!--
+https://developers.google.com/experts
+https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional
+-->
+
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
@@ -11128,6 +11133,14 @@ Unboxing
 * [Unboxing](http://unboxing.gearlive.com)
 
 #### Books and Courses
+
+<!--
+https://toolsoftitans.com
+http://fourhourworkweek.com/2016/10/25/tools-of-titans/
+https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=offsitoftimfe-20&linkId=a8d46482a4bfad36323dfba69943fb46
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
+-->
 
 Books
 * [Andy Grove: High Output Management](http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
