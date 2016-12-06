@@ -125,6 +125,7 @@ Kansas Non-Profit
 * [ElevenYellow](https://github.com/elevenyellow)
 * [Filament Group](https://github.com/filamentgroup) 
 * [Hanno](https://github.com/wearehanno) 
+* [Potato London](https://github.com/potatolondon)
 * [Revolution Systems](https://github.com/revsys)
 * [ribot](https://github.com/ribot)
 * [thoughtbot](https://github.com/thoughtbot)
