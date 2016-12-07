@@ -2224,6 +2224,82 @@ https://git-scm.com/download/linux
 https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
 -->
 
+<!--
+New
+
+Missing from Setting Up An Open Source Project?
+https://guides.github.com/features/issues/
+https://help.github.com/articles/creating-an-issue/
+https://help.github.com/articles/about-pull-requests/
+https://help.github.com/articles/about-milestones/
+
+* [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
+* [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
+
+https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md
+
+https://www.youtube.com/githubguides
+http://learngitbranching.js.org/
+
+https://github.com/github/training-utils
+https://github.com/github/training-kit
+https://services.github.com/resources/
+https://services.github.com/classnotes/
+https://services.github.com/resources/index.html
+https://services.github.com/on-demand/downloads/subversion-migration/
+
+https://git-scm.com/book/en/v2
+https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+https://git-scm.com/docs/git-config
+https://git-scm.com/docs/git-log
+https://git-scm.com/docs/gitignore
+
+https://github.com/universe-2016
+https://github.com/github-tools
+https://help.github.com/articles/ignoring-files/
+https://help.github.com/categories/writing-on-github/
+
+https://help.github.com/articles/github-glossary/
+https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
+
+https://help.github.com/articles/github-flow-in-the-browser/
+http://scottchacon.com/2011/08/31/github-flow.html
+
+https://help.github.com/articles/about-github-wikis/
+https://help.github.com/categories/wiki/
+https://guides.github.com/features/wikis/
+https://github.com/showcases/projects-with-great-wikis
+
+https://help.github.com/articles/managing-team-access-to-an-organization-repository/
+https://help.github.com/articles/inviting-users-to-join-your-organization/
+https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
+https://help.github.com/articles/setting-up-teams/
+https://help.github.com/articles/maintaining-teams/
+https://help.github.com/articles/creating-a-team/
+https://help.github.com/articles/adding-organization-members-to-a-team/
+https://help.github.com/articles/repository-permission-levels-for-an-organization/
+https://help.github.com/articles/what-are-the-different-access-permissions/
+https://help.github.com/categories/managing-repository-collaborators/
+https://help.github.com/articles/adding-outside-collaborators-to-repositories-in-your-organization/
+https://help.github.com/articles/permission-levels-for-a-user-account-repository/
+https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
+
+https://help.github.com/articles/signing-commits-using-gpg/
+https://help.github.com/articles/generating-a-new-gpg-key/
+
+https://help.github.com/articles/changing-a-remote-s-url
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
+https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/
+https://help.github.com/articles/what-are-the-limits-for-viewing-content-and-diffs-in-my-repository/
+https://help.github.com/articles/setting-your-email-in-git
+https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/
+
+https://github.com/blog/2243-rebase-and-merge-pull-requests
+https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3
+
+https://developer.github.com/webhooks/#ping-event
+-->
+
 Concurrent Version System
 * [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
 * [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
@@ -2455,15 +2531,7 @@ GitHub- More
 
 <!--
 Student Developer Pack
-Atom
-AWS Educate
-Bitnami
-CrowdFlower
-DataDog
-Hack Hands
-Taplytics
-Thinkful
-Transifex
+Atom, AWS Educate, Bitnami, CrowdFlower, DataDog, Hack Hands, Taplytics, Thinkful, Transifex
 -->
 
 GitHub- Trending
