@@ -114,8 +114,11 @@ Python- Django- Python and Django official websites and code
 * [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
 * [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
 
-
 <!--
+Important for installation
+https://github.com/python/pythondotorg/issues/987
+https://pythondotorg.readthedocs.io/install.html
+
 https://github.com/django/code.djangoproject.com
 -->
 
