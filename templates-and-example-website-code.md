@@ -107,7 +107,9 @@ django-herokuapp https://github.com/etianen/django-herokuapp
 
 https://github.com/lincolnloop/django-layout
 
+http://www.projectcallisto.org
 https://github.com/SexualHealthInnovations/callisto-core
+https://github.com/SexualHealthInnovations/
 -->
 
 Python- Django- Python and Django official websites and code
@@ -351,6 +353,11 @@ Free Code Camp
 Websites
 * [HospitalRun Frontend GitHub](https://github.com/HospitalRun/hospitalrun-frontend)
 * [HospitalRun Backend GitHub](https://github.com/HospitalRun/hospitalrun-server)
+
+<!--
+http://hospitalrun.io/contribute
+http://hospitalrun.io/blog/2016/06/why-hospitalrun
+-->
 
 Drupal
 * [Drupal GitHub](https://github.com/drupal/drupal)  
