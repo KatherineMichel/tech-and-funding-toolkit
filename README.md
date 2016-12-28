@@ -4449,6 +4449,8 @@ Jekyll Admin/CMS
 * [CloudCannon](http://cloudcannon.com)
 
 <!--
+https://github.com/CloudCannon/JekyllConf
+
 https://github.com/integrations/siteleaf
 https://staticman.net
 https://staticman.net/get-started
@@ -6242,6 +6244,10 @@ http://il.pycon.org/2016/about/speakers.html
 #### Dashboards
 
 <!--
+https://www.heroku.com/newsletter
+https://github.com/explore/subscribe
+https://www.digitalocean.com/company/press/releases/
+
 Browser Statistics
 
 https://www.slideshare.net/login?from_source=%2Finsight%3Futm_source%3Danalytics_launch%26utm_medium%3Demail%26utm_campaign%3DMarketing
@@ -6665,6 +6671,7 @@ AWS- Lambda (See also Google Cloud Functions)
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
+https://github.com/apex/apex
 https://github.com/awslabs/chalice
 https://aws.amazon.com/machine-learning
 
