@@ -6861,6 +6861,7 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 <!--
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://github.com/jwasham/google-interview-university
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
 
 https://developers.google.com/optimization
 https://developers.google.com/training/web
