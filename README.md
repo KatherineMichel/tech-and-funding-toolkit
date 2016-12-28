@@ -2216,6 +2216,9 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 #### Git and Markdown
 
 <!--
+GitHub Cheatsheet
+https://gist.github.com/akras14/3d242d80af8388ebca60
+
 https://github.com/KatherineMichel/personal-goals/settings/installations
 https://github.com/github/github-services/tree/master/docs
 https://services.github.com/resources
