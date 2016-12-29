@@ -43,6 +43,11 @@ U.K. Gov.
 ## Jekyll (Ruby)
 
 <!--
+http://simpleisbetterthancomplex.com/ref/
+https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
+
+https://github.com/limedaring/limedaring-website
+
 https://github.com/Homebrew/homebrew.github.io
 http://disney.github.io
 https://github.com/disney/disney.github.io
@@ -70,16 +75,15 @@ Jekyll Themes
 ## Python
 
 <!--
-https://github.com/launchkit/launchkit
-
-Django
-https://github.com/cfpb/cfgov-refresh
-
 Project Templates
 django-kevin https://github.com/imkevinxu/django-kevin
 django-herokuapp https://github.com/etianen/django-herokuapp
 
 https://github.com/lincolnloop/django-layout
+
+https://github.com/launchkit/launchkit
+
+https://github.com/cfpb/cfgov-refresh
 
 http://www.projectcallisto.org
 https://github.com/SexualHealthInnovations/callisto-core
@@ -95,12 +99,7 @@ http://eldarion.com
 Flask
 https://github.com/jazzband/website
 
-http://simpleisbetterthancomplex.com/ref/
-https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
-
 https://github.com/kelseyleftwich/capsule_grid
-
-https://github.com/limedaring/limedaring-website
 -->
 
 Python- Django- Heroku Deployment
