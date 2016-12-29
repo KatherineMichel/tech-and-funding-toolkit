@@ -74,6 +74,33 @@ https://github.com/launchkit/launchkit
 
 Django
 https://github.com/cfpb/cfgov-refresh
+
+Project Templates
+django-kevin https://github.com/imkevinxu/django-kevin
+django-herokuapp https://github.com/etianen/django-herokuapp
+
+https://github.com/lincolnloop/django-layout
+
+http://www.projectcallisto.org
+https://github.com/SexualHealthInnovations/callisto-core
+https://github.com/SexualHealthInnovations/
+
+https://pycon.readthedocs.org/en/latest
+
+https://symposion.readthedocs.org/en/latest/
+https://github.com/eldarion/djangocon.us
+https://ky395.us2.gondor.io
+http://eldarion.com
+
+Flask
+https://github.com/jazzband/website
+
+http://simpleisbetterthancomplex.com/ref/
+https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
+
+https://github.com/kelseyleftwich/capsule_grid
+
+https://github.com/limedaring/limedaring-website
 -->
 
 Python- Django- Heroku Deployment
@@ -100,18 +127,6 @@ Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django)
 * [PyBee Cookiecutter Project GitHub](https://github.com/pybee/cookiecutter-project)
 
-<!--
-Project Templates
-django-kevin https://github.com/imkevinxu/django-kevin
-django-herokuapp https://github.com/etianen/django-herokuapp
-
-https://github.com/lincolnloop/django-layout
-
-http://www.projectcallisto.org
-https://github.com/SexualHealthInnovations/callisto-core
-https://github.com/SexualHealthInnovations/
--->
-
 Python- Django- Python and Django official websites and code
 * [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
 * [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
@@ -119,18 +134,8 @@ Python- Django- Python and Django official websites and code
 <!--
 Important for installation
 https://github.com/python/pythondotorg/issues/987
-https://pythondotorg.readthedocs.io/install.html
 
 https://github.com/django/code.djangoproject.com
--->
-
-<!--
-https://pycon.readthedocs.org/en/latest
-
-https://symposion.readthedocs.org/en/latest/
-https://github.com/eldarion/djangocon.us
-https://ky395.us2.gondor.io
-http://eldarion.com
 -->
 
 Python- Django- PyCon, DjangoCon, and PyData
@@ -174,20 +179,6 @@ Python- Django- Wharton
 Python- Django- Lawrence Trail Hawks
 * [Lawrence Trail Hawks](https://trailhawks.com) and [Lawrence Trail Hawks GitHub](https://github.com/trailhawks/lawrencetrailhawks)
 * [The Hawk Hundred](https://www.hawkhundred.com) and [The Hawk Hundred GitHub](https://github.com/trailhawks/lawrencetrailhawks/tree/master/templates/hawkhundred.com)
-
-<!--
-Flask
-https://github.com/jazzband/website
-
-https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
-
-http://simpleisbetterthancomplex.com/ref/
-https://github.com/sibtc/sibtc.github.io
-
-https://github.com/kelseyleftwich/capsule_grid
-
-https://github.com/limedaring/limedaring-website
--->
 
 Vitor Freitas (Python- Django)
 * [Simple Django Skeleton (Simple is Better than Complex) GitHub](https://github.com/simpleisbetterthancomplex/simple-django-skeleton)
@@ -323,21 +314,20 @@ https://github.com/nodejs/nodejs.org
 
 https://github.com/imacrayon/foodtrucksnear.me
 
-http://megaboilerplate.com
-https://github.com/sahat/megaboilerplate
-
-https://github.com/FreeCodeCamp/nonprofit-email-service
-https://github.com/FreeCodeCamp/food-bank-app
-https://github.com/FreeCodeCamp/FreeCodeCamp
-https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md#prerequisites
-
 https://github.com/keystonejs/keystone
 -->
 
-Preferred Non-Official Templates (See also WordPress)
+Preferred Non-Official Templates- Sahat
 * [Hackathon-Starter GitHub](https://github.com/sahat/hackathon-starter)  
 * [Satellizer GitHub](https://github.com/sahat/satellizer)  
-* [Hackathon-Starter Companion- JS Recipes (example website) GitHub](https://github.com/sahat/jsrecipes)  
+* [Hackathon-Starter Companion- JS Recipes (example website) GitHub](https://github.com/sahat/jsrecipes) 
+
+<!--
+http://megaboilerplate.com
+https://github.com/sahat/megaboilerplate
+-->
+
+Preferred Non-Official Templates (See also WordPress) 
 * [MEAN (Register and sign in pages) (example website) GitHub](https://github.com/linnovate/meansite)  
 * [MEAN (Register and sign in pages) GitHub](https://github.com/meanjs/mean)  
 * [MEAN Yeoman Generator GitHub](https://github.com/meanjs/generator-meanjs)  
@@ -349,6 +339,13 @@ Preferred Non-Official Templates (See also WordPress)
 
 Free Code Camp
 * [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
+
+<!--
+https://github.com/FreeCodeCamp/nonprofit-email-service
+https://github.com/FreeCodeCamp/food-bank-app
+https://github.com/FreeCodeCamp/FreeCodeCamp
+https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md#prerequisites
+-->
 
 Websites
 * [HospitalRun Frontend GitHub](https://github.com/HospitalRun/hospitalrun-frontend)
