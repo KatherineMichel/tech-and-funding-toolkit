@@ -43,7 +43,7 @@ U.K. Gov.
 ## Jekyll (Ruby)
 
 <!--
-http://simpleisbetterthancomplex.com/ref/
+http://simpleisbetterthancomplex.com/ref
 https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
 
 https://github.com/limedaring/limedaring-website
@@ -75,6 +75,9 @@ Jekyll Themes
 ## Python
 
 <!--
+* [Django Events Foundation North America GitHub](https://github.com/DEFNA/defna.org)
+* [PyLadies GitHub](https://github.com/pyladies/pyladies)
+
 Project Templates
 django-kevin https://github.com/imkevinxu/django-kevin
 django-herokuapp https://github.com/etianen/django-herokuapp
@@ -236,6 +239,10 @@ Mozilla Sugardough, Bedrock, FunFactory and Playdoh + others (Python- 1/2 Django
 * [PlayDoh Lib GitHub](https://github.com/mozilla/playdoh-lib)  
 * [Play Framework (Java and Scala) GitHub](https://github.com/playframework/playframework)  
 
+<!--
+https://github.com/mozilla/kuma
+-->
+
 National Geospatial-Intelligence Agency (Python- Django)
 * [GeoQ Geographic Data System GitHub](https://github.com/ngageoint/geoq)  
 * [GeoEvents for Deployers and First Responders GitHub](https://github.com/ngageoint/geoevents)  
@@ -260,6 +267,10 @@ Reddit (Python- adapted from Django)
 * [Reddit i18n Getting Started](http://www.reddit.com/r/i18n/wiki/getting_started)  
 * [Reddit Enhancement Suite Github](https://github.com/Photobucket/Reddit-Enhancement-Suite)  
 
+<!--
+https://github.com/reddit/baseplate
+-->
+
 Reddit- mobile (node.js)
 * [Reddit Mobile Github](https://github.com/reddit/reddit-mobile) 
 * Reddit Android?
@@ -278,10 +289,8 @@ Miscellaneous (Python)
 * [CKAN Data Management System Github](https://github.com/ckan/ckan)  
 * [CKAN Data Management System CMS Github](https://github.com/ckan/ckanext-pages)  
 * [CKAN Data Management System Vagrant Github](https://github.com/philippkueng/ckan-vagrant)  
-* [Django Events Foundation North America GitHub](https://github.com/DEFNA/defna.org)
 * [Full Stack Python GitHub](https://github.com/makaimc/fullstackpython.com)
 * [Plone Content Management System (Runs on Zope) Github](https://github.com/plone/Plone)  
-* [PyLadies GitHub](https://github.com/pyladies/pyladies)
 * [Zipline Algorithmic Trading Platform (Basis for Quantopian) Github](https://github.com/quantopian/zipline)  
 * [Zipline Spinoff Quantopian's Algorithms Github](https://github.com/quantopian/quantopian-algos)  
 * [Zope Web App Server Github](https://github.com/zopefoundation/Zope)  
