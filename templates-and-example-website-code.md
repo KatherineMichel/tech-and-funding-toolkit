@@ -48,6 +48,8 @@ https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
 
 https://github.com/limedaring/limedaring-website
 
+https://github.com/openwichita/openwichita.com
+
 https://github.com/Homebrew/homebrew.github.io
 http://disney.github.io
 https://github.com/disney/disney.github.io
@@ -57,6 +59,8 @@ https://github.com/partiallyderivative/partiallyderivative.github.io
 https://github.com/mojombo/mojombo.github.io
 https://github.com/Microsoft/microsoft.github.io
 https://github.com/Nike-Inc/nike-inc.github.io
+
+[Semver Org GitHub](https://github.com/mojombo/semver.org)
 -->
 
 Jekyll Bootstrap
@@ -75,8 +79,7 @@ Jekyll Themes
 ## Python
 
 <!--
-* [Django Events Foundation North America GitHub](https://github.com/DEFNA/defna.org)
-* [PyLadies GitHub](https://github.com/pyladies/pyladies)
+https://flask-hello-world.gomix.me
 
 Project Templates
 django-kevin https://github.com/imkevinxu/django-kevin
@@ -148,6 +151,10 @@ Python- Django- PyCon, DjangoCon, and PyData
 * [PyData 2015 GitHub](https://github.com/pydata/conf_site)
 * [DjangoCon Website Archive GitHub](https://github.com/djangocon/djangocon-backups)
 
+<!--
+https://github.com/djangocon/2017.djangocon.com.au
+-->
+
 Python- Django Under the Hood
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood/duh-web)
 
@@ -158,6 +165,10 @@ Template Examples
 * [Django Website Templates](https://github.com/django/djangoproject.com/tree/master/djangoproject/templates)
 * [Python Website Templates](https://github.com/python/pythondotorg/tree/master/templates)
 * [Django Girls Website Templates](https://github.com/DjangoGirls/djangogirls/tree/master/templates)
+
+<!--
+https://github.com/djangounderthehood/duh-web/blob/master/templates/home.html
+-->
 
 Python- Django Brent O'Connor Django Base Template and Front-End Framework
 * [Brent O'Connor Django Base Template GitHub](https://github.com/epicserve/django-base-site) and [Django Base Template Docs](http://django-base-site.readthedocs.io/en/latest)
