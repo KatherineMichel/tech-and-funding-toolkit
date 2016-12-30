@@ -5175,6 +5175,21 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+http://www.djangopony.com/
+
+http://django-debug-toolbar.readthedocs.io/en/stable/installation.html
+https://pypi.python.org/pypi/django-storages-redux
+https://www.djangopackages.com/packages/p/django-storages
+https://django-storages.readthedocs.io/en/latest
+
+https://2017.djangocon.eu/call-for-proposals
+
+* [Django Events Foundation North America GitHub](https://github.com/DEFNA/defna.org)
+* [PyLadies GitHub](https://github.com/pyladies/pyladies)
+
+https://github.com/pythonkc
+
+
 ????????????
 https://ccbv.co.uk/
 http://cdrf.co
@@ -5198,9 +5213,6 @@ https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 
 <!--
 New
-http://www.tornadoweb.org/en/stable/
-https://github.com/tornadoweb/tornado
-
 https://github.com/kennethreitz/pip-purge
 
 Django Project’s Feeds
@@ -5212,7 +5224,7 @@ http://www.python.org/community/irc/
 
 https://www.coursera.org/courses?query=python
 
-http://pythonhosted.org/
+http://pythonhosted.org
 
 https://github.com/python/devguide
 http://campus.codeschool.com/courses/try-django/contents
@@ -5326,8 +5338,15 @@ Python- Django Community
 * [Audrey Roy Greenfield](https://www.audreyr.com)
 * [Kenneth Reitz](http://www.kennethreitz.org)
 * [Daniel Greenfeld](http://www.pydanny.com)
+* [Jacob Kalplan-Moss](http://jacobian.org)
+* [Jeff Triplett](http://www.jefftriplett.com)
+* [Ola Sendecka](http://blog.sendecka.me)
+* [Ola Sitarska](http://ola.sitarska.com)
 
 <!--
+http://www.peregrinesalon.com
+https://github.com/FlipperPA
+
 http://twitter.com/limedaring
 
 ➤ pydanny.com / audreyr.com / twoscoopspress.com
@@ -5335,22 +5354,6 @@ http://twitter.com/limedaring
 ➤ Twitter: @pydanny, @audreyr
 @twoscoopspress
 ➤ Facebook: https://www.facebook.com/twoscoopspress
-
-Pythonista
-https://github.com/jacobian-archive
-
-http://www.slideshare.net/jacobian/the-best-and-worst-of-django
-http://jacobian.org/writing/rest-worst-practices/
-https://github.com/jacobian/django-dotenv
-
-pydanny’s blog
-http://pydanny.com/tag/django.html
-http://www.pydanny.com/python-decorator-cheatsheet.html
-http://pydanny.com/tag/class-based-views.html
-http://www.pydanny.com/tag/forms.html
-
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
 -->
 
 Python- Django- News
@@ -5381,6 +5384,7 @@ Python- Django- Project Stucture
 Web:
 Lincoln Loop’s Django Best Practices
 http://lincolnloop.com/django-best-practices/
+https://github.com/lincolnloop/django-best-practices
 https://github.com/lincolnloop/django-layout
 
 http://www.kennethreitz.org/essays/a-better-pip-workflow
@@ -5393,11 +5397,32 @@ http://nvie.com/
 http://nvie.com/posts/pin-your-packages/
 pip-tools https://github.com/nvie/pip-tools
 
-http://docs.python-guide.org/en/latest/starting/install/osx
-
 https://github.com/simpleisbetterthancomplex/simple-academy
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
+
+http://www.revsys.com/tidbits/extend-django-templates-smartly
+
+http://getdango.com
+https://godjango.com
+https://simpleisbetterthancomplex.com
+https://ultimatedjango.com
+
+Pythonista
+https://github.com/jacobian-archive
+
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
+http://jacobian.org/writing/rest-worst-practices/
+https://github.com/jacobian/django-dotenv
+
+pydanny’s blog
+http://pydanny.com/tag/django.html
+http://www.pydanny.com/python-decorator-cheatsheet.html
+http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
+
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
 -->
 
 Python- PEP
@@ -5503,10 +5528,6 @@ Python- Django- Slack
 PyLadies
 * [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
 
-Django Girls Co-Founders
-* [Ola Sendecka](http://blog.sendecka.me)
-* [Ola Sitarska](http://ola.sitarska.com)
-
 https://github.com/DjangoGirls/wiki
 
 Django Girls- Events and Cities
@@ -5524,9 +5545,11 @@ http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-glo
 
 http://remote.pyladies.com/resources
 https://github.com/pyladies/pyladies
+https://github.com/pyladies-remote/website
 https://github.com/pyladies/pyladies-maintainers
 https://github.com/socalpyladies/socalpyladies.github.io
 http://socalpyladies.github.io/
+https://github.com/PanPacificPyLadiesConf/PPPCwebsite
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
 
 Make movies the same way Ola makes Coding is for Girls
@@ -5757,8 +5780,11 @@ Database
 #### Python and Django Common Deployment Tools
 
 <!--
+http://www.tornadoweb.org/en/stable
+https://github.com/tornadoweb/tornado
+
 http://www.fullstackpython.com/deployment.html
-http://masteringdjango.com/testing-in-django/
+http://masteringdjango.com/testing-in-django
 
 Database
 django-db-tools https://pypi.python.org/pypi/django-db-tools
@@ -6235,7 +6261,6 @@ http://scipy2016.scipy.org
 
 
 http://2016.pyconuk.org/diversity-accessibility-inclusion/
-https://github.com/PanPacificPyLadiesConf/PPPCwebsite
 https://github.com/PyconUK/2016.pyconuk.org
 https://us.pycon.org/2016/schedule/presentation/2266/
 https://us.pycon.org/2016/schedule/talks/
@@ -6374,6 +6399,8 @@ https://en.wikipedia.org/wiki/Signal_(software)
 https://www.us-cert.gov
 https://www.digicert.com
 http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
+
+https://www.owasp.org/index.php/Main_Page
 
 https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
 https://github.com/FallibleInc/security-guide-for-developers
@@ -6872,7 +6899,6 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://github.com/jwasham/google-interview-university
 https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
-https://github.com/alex/what-happens-when
 
 https://developers.google.com/optimization
 https://developers.google.com/training/web
@@ -7478,7 +7504,8 @@ Developer Playground/IDE (Similar to Fiddle)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
 <!--
-https://gomix.com/community
+HyperDev
+https://gomix.com
 -->
 
 Cross Platform Dev Environment
@@ -8171,7 +8198,6 @@ https://secure.phabricator.com
 https://en.wikipedia.org/wiki/Phabricator
 
 https://github.com/heroku/12factor
-[Semver Org GitHub](https://github.com/mojombo/semver.org)
 -->
 
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
@@ -8395,6 +8421,8 @@ Twitch Creative- Accounts
 * [Levelsio](http://www.twitch.tv/levelsio)
 
 <!--
+https://www.twitch.tv/thepracticaldev
+
 https://www.twitch.tv/team/twilio
 https://github.com/TwilioDevEd
 https://github.com/TwilioDevEd/appointment-reminders-django
@@ -8947,6 +8975,8 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+http://pygame.org
+
 Gfx
 https://www.amazon.com/Graphics-Cards-Computer-Add-Ons-Computers/b?ie=UTF8&node=284822
 external graphics card holder for your macbook
@@ -11885,8 +11915,6 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
-https://mightybell.com
-
 https://www.hellobonsai.com
 https://www.hellobonsai.com/freelancers
 
@@ -12011,6 +12039,9 @@ Awesome Non-Code
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 <!--
+https://github.com/jwasham/google-interview-university
+https://github.com/alex/what-happens-when
+
 https://branch.io/resources/app-launch-checklist/#
 https://github.com/leereilly/games
 https://github.com/Hack-with-Github/Awesome-Hacking
@@ -12105,6 +12136,7 @@ MOOCs
 * [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
 * [Udemy](https://www.udemy.com)
 * [NovoEd (Social Entrepreneurship)](https://novoed.com)  
+<!--* [University of Reddit](http://universityofreddit.com)--> 
 
 Coursera Materials Downloader
 * [Coursera Materials Downloader](https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en)
@@ -12140,18 +12172,20 @@ Google for Education
 * [Google Course Builder](https://code.google.com/p/course-builder)
 
 Foreign Language
-* [Duolingo](https://en.duolingo.com), [Duolingo Words](https://www.duolingo.com/words), and [Duolingo Mobile](https://www.duolingo.com/mobile)
+* [Duolingo](https://en.duolingo.com) and [Duolingo Mobile](https://www.duolingo.com/mobile)
 * [Google Translate](https://translate.google.com/?hl=en) 
 * [BaBa Dum](https://babadum.com)
 
 Foreign Language- Spanish
-* [Wikipedia Portal in Spanish](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 * [Spanish Language Wikipedia](https://en.wikipedia.org/wiki/Spanish_language), [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Nouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_nouns) [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs), [Spanish Tenses Wikibook](https://en.wikibooks.org/wiki/Spanish/Tenses), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), [Spanish/How to Conjugate Verbs Wikibook](https://en.wikipedia.org/wiki/Spanish_adjectives), [Spanish Pronouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_pronouns), [Spanish Prepositions Wikipedia](https://en.wikipedia.org/wiki/Spanish_prepositions), and [Spanish Determiners Wikipedia](https://en.wikipedia.org/wiki/Spanish_determiners)
 * [Medium en Español](https://medium.com/espanol)
 * [CNN en Español Radio](http://cnnespanol.cnn.com/radio/en-vivo)
 * [Iberian Romance Languages Wikipedia](https://en.wikipedia.org/wiki/Iberian_Romance_languages)
 
 <!--
+https://www.duolingo.com/words
+https://es.wikipedia.org/wiki/Wikipedia:Portada
+
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=spanish%20keyboard
 -->
 
@@ -12178,16 +12212,21 @@ Personality Tests
 The Happiness Project
 * [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
 
-Bullet Journal and Pomodoro Technique (see also: Agile Project Management)
+Bullet Journal
 * [Bullet Journal](http://bulletjournal.com)
-* [The Pomodoro Technique](http://pomodorotechnique.com) and [Cirillo Consulting Pomodoro Technique](http://cirillocompany.de/pages/pomodoro-technique)
+* [The Pomodoro Technique](http://pomodorotechnique.com)
+
+<!--
+See also Agile Project Management
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+http://cirillocompany.de/pages/pomodoro-technique
+-->
 
 #### Journalism Handbooks and Grammatical Style Guides
 
 <!--
 Harvard Referencing
 APA Referencing
-https://en.wikipedia.org/wiki/Parenthetical_referencing
 -->
 
 Journalism Handbooks
@@ -12279,3 +12318,4 @@ http://origami.ft.com/docs/syntax
 #### Vocabulary
 
 [Back to Top](#)
+
