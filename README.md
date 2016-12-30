@@ -75,7 +75,8 @@ Table of Content
   * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)
   * [Django General](#django-general)
   * [Python and Django Contributing](#python-and-django-contributing)
-  * [Python and Django Support Groups, Books and Tutorials](#python-and-django-support-groups-books-and-tutorials)
+  * [Python and Django Support Groups](#python-and-django-support-groups)
+  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Deployment](#python-and-django-deployment)
@@ -89,6 +90,7 @@ Table of Content
   * [Python and Django Conferences and Mentors](#python-and-django-conferences)
   * [Python and Django Girls](#python-and-django-girls)
 
+* [Web Host Newsletters](#web-host-newsletters)
 * [Dashboards](#dashboards)
 * [Domains, DNS, SSL](#domains-dns-ssl)
 * [Deployment and Cloud](#deployment-and-cloud)
@@ -5396,33 +5398,6 @@ https://github.com/nvie
 http://nvie.com/
 http://nvie.com/posts/pin-your-packages/
 pip-tools https://github.com/nvie/pip-tools
-
-https://github.com/simpleisbetterthancomplex/simple-academy
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
-
-http://www.revsys.com/tidbits/extend-django-templates-smartly
-
-http://getdango.com
-https://godjango.com
-https://simpleisbetterthancomplex.com
-https://ultimatedjango.com
-
-Pythonista
-https://github.com/jacobian-archive
-
-http://www.slideshare.net/jacobian/the-best-and-worst-of-django
-http://jacobian.org/writing/rest-worst-practices/
-https://github.com/jacobian/django-dotenv
-
-pydanny’s blog
-http://pydanny.com/tag/django.html
-http://www.pydanny.com/python-decorator-cheatsheet.html
-http://pydanny.com/tag/class-based-views.html
-http://www.pydanny.com/tag/forms.html
-
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
 -->
 
 Python- PEP
@@ -5522,23 +5497,24 @@ Python- Django- Forums and Lists
 Python- Django- Slack
 * [Django Developers](https://django-developers.herokuapp.com)
 
-#### Python and Django Support Groups, Books and Tutorials
-
-<!--
-PyLadies
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
-
-https://github.com/DjangoGirls/wiki
+#### Python and Django Support Groups
 
 Django Girls- Events and Cities
 * [Django Girls Events](https://djangogirls.org/events)
 * [Django Girls London](https://djangogirls.org/london)
 * [Django Girls Kansas City](https://djangogirls.org/kansascity)
 
+Django Girls- Help
 * [Django Girls Organize](http://organize.djangogirls.org)  
 * [Django Girls Coach](http://coach.djangogirls.org)  
 * [Django Girls Resources](https://github.com/DjangoGirls/resources) 
 * [Django Girls Store](https://store.djangogirls.org)
+
+<!--
+PyLadies
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
+
+https://github.com/DjangoGirls/wiki
 
 https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
@@ -5562,12 +5538,18 @@ https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 http://www.apple.com/mac/imovie
 -->
 
-Python- Django- Tutorials Lists
-* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
-* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
+#### Python and Django Books and Tutorials
 
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
+
+Python- Django- Dedicated Websites
+* [GoDjango](https://godjango.com)
+* [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
+
+Python- Django- Tutorials Lists
+* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
+* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
 
 Python- Django- Django Girls (Python- Django)
 * [Django Girls GitHub](https://github.com/DjangoGirls) 
@@ -5611,9 +5593,7 @@ Python- Django- Books and Tutorials (excluding Django Girls and Hello Web App)
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
-
-Python- Django- Videos
-* [GoDjango](https://godjango.com)
+* [Ultimate Django](https://ultimatedjango.com)
 
 Python- Condensed Learning Resources
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
@@ -5643,6 +5623,31 @@ Python- Books and Tutorials
 Python- O'Reilly Test-Driven Development with Python and Selenium
 * [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
 * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+
+<!--
+https://github.com/simpleisbetterthancomplex/simple-academy
+
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
+
+http://www.revsys.com/tidbits/extend-django-templates-smartly
+
+Pythonista
+https://github.com/jacobian-archive
+
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
+http://jacobian.org/writing/rest-worst-practices/
+https://github.com/jacobian/django-dotenv
+
+pydanny’s blog
+http://pydanny.com/tag/django.html
+http://www.pydanny.com/python-decorator-cheatsheet.html
+http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
+
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
+-->
 
 #### Python and Django Packages and Snippets
 
@@ -6159,6 +6164,8 @@ Python and Django Conferences
 * [Django Events Foundation North America](http://defna.org) 
 * [DjangoCon U.S.](http://www.djangocon.us) and [DjangoCon E.U.](https://djangocon.eu)  
 
+
+
 Python and Django Conferences- Proposal Examples
 * Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
 * [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
@@ -6175,6 +6182,10 @@ DjangoCon Organizers
 DjangoGirls/PyCon
 * [DjangoGirls/PyCon](https://djangogirls.org/pycon)
 
+<!--
+https://djangogirls.org/pyconuk2016/
+-->
+
 DjangoCon Talk Ideas
 * [DjangoCon Talk Ideas](https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8)
 
@@ -6183,8 +6194,7 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 * [Slides](https://docs.google.com/presentation/d/1vgYS-STJl9epz7_RiRGSKnnf4vYi4rtaF3zbJc8S1yA/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [Replay](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 
-Assistance
-* [Financial Assistance](https://us.pycon.org/2016/assistance)
+
 
 <!--
 DjangoCon 2015 Playlist
@@ -6234,6 +6244,7 @@ https://github.com/PyCon/2015
 https://github.com/PyCon/2016/issues
 https://github.com/PyCon/best-practices/blob/master/presentation_slides.md
 https://github.com/PyCon/2015-slides
+https://us.pycon.org/2016/assistance
 
 https://us.pycon.org/2016/schedule/presentation/1473/
 https://us.pycon.org/2016/venue/accessibility/
@@ -6242,8 +6253,8 @@ http://pycon.blogspot.com/2016/02/full-schedule-is-up-and-financial-aid.html
 https://us.pycon.org/2016/schedule/conference.json
 
 http://www.pydanny.com/beginners-guide-pycon-2014.html
-https://djangogirls.org/pycon/
 
+https://2016.djangocon.us/reviewerguidelines/
 https://2016.djangocon.eu/team/
 https://2016.djangocon.eu/schedule/#workshops
 https://2016.djangocon.eu/speakers/schedule
@@ -6259,23 +6270,22 @@ http://scipy2016.scipy.org/ehome/146062/332968/?&&
 http://scipy2016.scipy.org
 
 
-
 http://2016.pyconuk.org/diversity-accessibility-inclusion/
 https://github.com/PyconUK/2016.pyconuk.org
 https://us.pycon.org/2016/schedule/presentation/2266/
 https://us.pycon.org/2016/schedule/talks/
-https://2016.djangocon.us/reviewerguidelines/
-https://djangogirls.org/pyconuk2016/
 http://il.pycon.org/2016/about/speakers.html
 -->
+
+#### Web Host Newsletters
+
+* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
+* [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 #### Dashboards
 
 <!--
-https://www.heroku.com/newsletter
-https://github.com/explore/subscribe
-https://www.digitalocean.com/company/press/releases/
-
 Browser Statistics
 
 https://www.slideshare.net/login?from_source=%2Finsight%3Futm_source%3Danalytics_launch%26utm_medium%3Demail%26utm_campaign%3DMarketing
@@ -6318,8 +6328,6 @@ https://console.developers.google.com/apis
 
 chrome://apps
 
-* [Cloud9](https://c9.io/katherinemichel)
-
 http://127.0.0.1:4000/admin/pages
 
 https://console.cloud.google.com/code/tools
@@ -6340,26 +6348,27 @@ http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
 
 #### Domains, DNS, SSL
 
+Authorities
+* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
+* [Internet Assigned Numbers Authority](http://www.iana.org)
+
+<!--
+* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
+-->
+
 Domain Names
 * [Google Domains](https://domains.google.com)
 * [Namecheap](https://www.namecheap.com)
 * [iwantmyname](https://iwantmyname.com)
 
-<!--
-https://www.icann.org
-https://www.ntia.doc.gov
--->
-
-IANA, Domize, DNSimple, Heroku
-* [Internet Assigned Numbers Authority](http://www.iana.org)
+Domize, DNSimple, Heroku
 * [Domize](http://domize.com)  
 * [DNSimple](https://dnsimple.com)  
 * [DNSimple Support](http://support.dnsimple.com)
 * [DNSimple New Domain](https://dnsimple.com/domains/new)   
 * [DNSimple Heroku](https://dnsimple.com/services-heroku)  
 * [Heroku SSL Certificate DNSimple](https://devcenter.heroku.com/articles/ssl-certificate-dnsimple)  
-* [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)  
-<!--* [DNSimple SSL Certificate Hostname](http://support.dnsimple.com/articles/selecting-certificate-hostname)-->  
+* [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)   
 * [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
 
 Heroku SSL Endpoint, SSL Self Certification, Custom Domains
@@ -6374,12 +6383,12 @@ DNS
 * [Amazon Route 53](http://aws.amazon.com/route53)  
 * [Google Public DNS](https://developers.google.com/speed/public-dns)
 
-<!--
 Internet Performance Management
 * [Dyn](http://dyn.com)
 * [OpenDNS](https://www.opendns.com)
 
-https://www.dynstatus.com
+<!--
+DNSimple SSL Certificate Hostname
 
 https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
 https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
@@ -6394,8 +6403,6 @@ Malware and Encryption
 * [Malware Museum](https://archive.org/details/malwaremuseum)
 
 <!--
-https://en.wikipedia.org/wiki/Signal_(software)
-
 https://www.us-cert.gov
 https://www.digicert.com
 http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
@@ -7500,14 +7507,9 @@ Puppet Labs
 
 Developer Playground/IDE (Similar to Fiddle)
 * [Cloud9](https://c9.io)
-* [HyperDev (Beta)](https://hyperdev.com)
+* [Gomix (formerly HyperDev)](https://gomix.com/community)
 * [Nitrous (Going Away)](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
-
-<!--
-HyperDev
-https://gomix.com
--->
 
 Cross Platform Dev Environment
 * [Bowery](http://bowery.io)  
@@ -8403,8 +8405,6 @@ Free Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 
 <!--
-New
-
 https://www.humblebundle.com
 -->
 
@@ -11652,6 +11652,9 @@ https://www.dashlane.com
 https://1password.com
 -->
 
+Encrypted Communication
+* [Signal Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))
+
 Microsoft Office
 * [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx), [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e), and [Office Blog](https://blogs.office.com)
 
@@ -11936,11 +11939,8 @@ Logistics
 * [Nomad List](https://nomadlist.com)
 * [Statewide List](http://www.statewidelist.com)
 * [Teleport](http://teleport.org)
+* [Trulia](https://www.trulia.com)
 * [Zillow](http://www.zillow.com)
-
-<!--
-https://www.trulia.com
--->
 
 Remote
 * [remoteok](https://remoteok.io)
