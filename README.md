@@ -6872,6 +6872,7 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://github.com/jwasham/google-interview-university
 https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+https://github.com/alex/what-happens-when
 
 https://developers.google.com/optimization
 https://developers.google.com/training/web
@@ -11884,6 +11885,8 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
+https://mightybell.com
+
 https://www.hellobonsai.com
 https://www.hellobonsai.com/freelancers
 
@@ -12008,9 +12011,6 @@ Awesome Non-Code
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 <!--
-https://github.com/jwasham/google-interview-university
-https://github.com/alex/what-happens-when
-
 https://branch.io/resources/app-launch-checklist/#
 https://github.com/leereilly/games
 https://github.com/Hack-with-Github/Awesome-Hacking
@@ -12105,7 +12105,6 @@ MOOCs
 * [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
 * [Udemy](https://www.udemy.com)
 * [NovoEd (Social Entrepreneurship)](https://novoed.com)  
-<!--* [University of Reddit](http://universityofreddit.com)--> 
 
 Coursera Materials Downloader
 * [Coursera Materials Downloader](https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en)
@@ -12141,20 +12140,18 @@ Google for Education
 * [Google Course Builder](https://code.google.com/p/course-builder)
 
 Foreign Language
-* [Duolingo](https://en.duolingo.com) and [Duolingo Mobile](https://www.duolingo.com/mobile)
+* [Duolingo](https://en.duolingo.com), [Duolingo Words](https://www.duolingo.com/words), and [Duolingo Mobile](https://www.duolingo.com/mobile)
 * [Google Translate](https://translate.google.com/?hl=en) 
 * [BaBa Dum](https://babadum.com)
 
 Foreign Language- Spanish
+* [Wikipedia Portal in Spanish](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 * [Spanish Language Wikipedia](https://en.wikipedia.org/wiki/Spanish_language), [Spanish Grammar Wikipedia](https://en.wikipedia.org/wiki/Spanish_grammar), [Spanish Nouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_nouns) [Spanish Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_verbs), [Spanish Irregular Verbs Wikipedia](https://en.wikipedia.org/wiki/Spanish_irregular_verbs), [Spanish Tenses Wikibook](https://en.wikibooks.org/wiki/Spanish/Tenses), [Spanish Conjugation Wikipedia](https://en.wikipedia.org/wiki/Spanish_conjugation), [Spanish/How to Conjugate Verbs Wikibook](https://en.wikipedia.org/wiki/Spanish_adjectives), [Spanish Pronouns Wikipedia](https://en.wikipedia.org/wiki/Spanish_pronouns), [Spanish Prepositions Wikipedia](https://en.wikipedia.org/wiki/Spanish_prepositions), and [Spanish Determiners Wikipedia](https://en.wikipedia.org/wiki/Spanish_determiners)
 * [Medium en Español](https://medium.com/espanol)
 * [CNN en Español Radio](http://cnnespanol.cnn.com/radio/en-vivo)
 * [Iberian Romance Languages Wikipedia](https://en.wikipedia.org/wiki/Iberian_Romance_languages)
 
 <!--
-https://www.duolingo.com/words
-https://es.wikipedia.org/wiki/Wikipedia:Portada
-
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=spanish%20keyboard
 -->
 
@@ -12181,21 +12178,16 @@ Personality Tests
 The Happiness Project
 * [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
 
-Bullet Journal
+Bullet Journal and Pomodoro Technique (see also: Agile Project Management)
 * [Bullet Journal](http://bulletjournal.com)
-* [The Pomodoro Technique](http://pomodorotechnique.com)
-
-<!--
-See also Agile Project Management
-https://en.wikipedia.org/wiki/Pomodoro_Technique
-http://cirillocompany.de/pages/pomodoro-technique
--->
+* [The Pomodoro Technique](http://pomodorotechnique.com) and [Cirillo Consulting Pomodoro Technique](http://cirillocompany.de/pages/pomodoro-technique)
 
 #### Journalism Handbooks and Grammatical Style Guides
 
 <!--
 Harvard Referencing
 APA Referencing
+https://en.wikipedia.org/wiki/Parenthetical_referencing
 -->
 
 Journalism Handbooks
