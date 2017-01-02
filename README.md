@@ -585,8 +585,15 @@ Tim Ferris Inspired- Ideas
 <!--
 Amazon Customer Favorites
 https://www.amazon.com/b?ie=UTF8&node=13727921011
+https://www.amazon.com/gp/bestsellers/books/4749/ref=zg_b_bs_4749_1
 
 https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
+
+https://play.google.com/store/info/topic?id=merch_topic_b0000b2_apps_TopicPage_bestof2016
+https://vimeo.com/channels/staffpicks
+https://blog.slideshare.net/2014/12/17/the-must-see-slideshares-of-2014
+http://time.com/4549647/best-apps-year-2016/
+http://ssrnblog.com/2016/12/30/ssrn-top-papers-of-2016/
 -->
 
 Hobbies and Cool Tools
@@ -5304,16 +5311,10 @@ http://www.ellingtoncms.com
 -->
 
 Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source)  
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
 * [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
 * [KU Sports](http://www2.kusports.com)  
-
-<!--
-New
-http://python2sites.com/
-http://python2sites.com/detail/python2sites
-https://github.com/electrocoder/python2sites
--->
 
 Python- Django- Major Organizations and Projects that Use Django (Excluding Templates)
 * [18F GitHub](https://github.com/18F)  
