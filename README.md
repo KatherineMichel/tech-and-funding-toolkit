@@ -3903,6 +3903,8 @@ Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLin
 * [JSLint](http://jslint.org)
 
 <!--
+https://github.com/google/eslint-config-google
+
 http://eslint.org/docs/2.0.0/user-guide/configuring
 http://eslint.org/docs/rules/
 https://www.npmjs.com/package/eslint-plugin-react
