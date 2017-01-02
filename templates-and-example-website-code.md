@@ -78,36 +78,6 @@ Jekyll Themes
 
 ## Python
 
-<!--
-https://flask-hello-world.gomix.me
-
-Project Templates
-django-kevin https://github.com/imkevinxu/django-kevin
-django-herokuapp https://github.com/etianen/django-herokuapp
-
-https://github.com/lincolnloop/django-layout
-
-https://github.com/launchkit/launchkit
-
-https://github.com/cfpb/cfgov-refresh
-
-http://www.projectcallisto.org
-https://github.com/SexualHealthInnovations/callisto-core
-https://github.com/SexualHealthInnovations/
-
-https://pycon.readthedocs.org/en/latest
-
-https://symposion.readthedocs.org/en/latest/
-https://github.com/eldarion/djangocon.us
-https://ky395.us2.gondor.io
-http://eldarion.com
-
-Flask
-https://github.com/jazzband/website
-
-https://github.com/kelseyleftwich/capsule_grid
--->
-
 Python- Django- Heroku Deployment
 * [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
 
@@ -134,26 +104,17 @@ Python- Django- Cookiecutter (See also Packages)
 
 Python- Django- Python and Django official websites and code
 * [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
-* [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
-
-<!--
-Important for installation
-https://github.com/python/pythondotorg/issues/987
-
-https://github.com/django/code.djangoproject.com
--->
+* [Python Org Installation Assistance (Important!)](https://github.com/python/pythondotorg/issues/987)
+* [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)
+* [Django Project Trac](https://github.com/django/code.djangoproject.com)
 
 Python- Django- PyCon, DjangoCon, and PyData
-* [PyCon GitHub](https://github.com/PyCon/pycon)
+* [PyCon GitHub](https://github.com/PyCon/pycon) and [PyCon Read the Docs](https://pycon.readthedocs.org/en/latest)
 * [DjangoCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
 * [DjangoCon U.S. 2016 GitHub](https://github.com/djangocon/2016.djangocon.us)
 * [DjangoCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
 * [PyData 2015 GitHub](https://github.com/pydata/conf_site)
 * [DjangoCon Website Archive GitHub](https://github.com/djangocon/djangocon-backups)
-
-<!--
-https://github.com/djangocon/2017.djangocon.com.au
--->
 
 Python- Django Under the Hood
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood/duh-web)
@@ -313,6 +274,35 @@ Miscellaneous (Python)
 
 Python- Pelican
 * [Full Stack Python GitHub](https://github.com/makaimc/fullstackpython.com)
+
+<!--
+https://flask-hello-world.gomix.me
+
+Project Templates
+django-kevin https://github.com/imkevinxu/django-kevin
+django-herokuapp https://github.com/etianen/django-herokuapp
+
+Deprecated
+https://github.com/lincolnloop/django-layout
+
+https://github.com/launchkit/launchkit
+
+https://github.com/cfpb/cfgov-refresh
+
+http://www.projectcallisto.org
+https://github.com/SexualHealthInnovations/callisto-core
+https://github.com/SexualHealthInnovations/
+
+https://symposion.readthedocs.org/en/latest/
+https://github.com/eldarion/djangocon.us
+https://ky395.us2.gondor.io
+http://eldarion.com
+
+Flask
+https://github.com/jazzband/website
+
+https://github.com/kelseyleftwich/capsule_grid
+-->
 
 ## ASP
 
