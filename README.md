@@ -5953,41 +5953,14 @@ https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_futu
 https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
 -->
 
-Python- Django- Python Social Auth
-* [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
-
 <!--
-https://github.com/macropin/django-registration/
+Auth
+http://django-allauth.readthedocs.io/en/latest/overview.html
+https://django-registration.readthedocs.io/en/2.2/quickstart.html#default-templates
+http://www.tangowithdjango.com/book17/chapters/login_redux.html
+https://github.com/macdhuibh/django-registration-templates
 
-SendGrid Django
-https://sendgrid.com/docs/Integrate/Frameworks/django.html
-
-MailChimp API
-http://developer.mailchimp.com/documentation/mailchimp
-
-MailChimp API Documentation- Downloads
-https://apidocs.mailchimp.com/api/downloads
-
-Python MailChimp API Client
-https://pypi.python.org/pypi/mailchimp
-https://bitbucket.org/mailchimp/mailchimp-api-python
-
-https://github.com/divio/django-mailchimp
-http://django-mailer2.readthedocs.org/en/latest
--->
-
-Python- Django- Python Social Auth
-* [Python Social Auth](https://github.com/omab/python-social-auth)  
-* [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
-* [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
-* [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
-
-<!--
-Security
-bleach https://pypi.python.org/pypi/bleachbleach
-
-dj-stripe https://pypi.python.org/pypi/dj-stripe
-http://dj-stripe.readthedocs.org/
+https://github.com/macropin/django-registration
 
 User Registration
 fłake8 https://pypi.python.org/pypi/flake8
@@ -5995,7 +5968,20 @@ fłake8 https://pypi.python.org/pypi/flake8
 http://django-authtools.readthedocs.io
 https://github.com/fusionbox/django-authtools
 https://pypi.python.org/pypi/django-two-factor-auth
+
+https://github.com/sibtc/django-registration-user-profile-example/blob/master/core/models.py
+https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
+https://github.com/sibtc/django-registration-user-profile-example/blob/master/mysite/urls.py
 -->
+
+Python- Django- Python Social Auth
+* [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
+
+Python- Django- Python Social Auth
+* [Python Social Auth](https://github.com/omab/python-social-auth)  
+* [Python Social Auth Django](https://github.com/omab/python-social-auth/tree/master/social/apps/django_app)  
+* [Python Social Auth Docs](http://psa.matiasaguirre.net/docs/index.html)  
+* [Python Social Auth Supported Backends](http://psa.matiasaguirre.net/docs/backends/index.html#supported-backends)
 
 Python- Django- Search
 * [Haystack](http://haystacksearch.org), [Haystack Read the Docs](http://django-haystack.readthedocs.org), and [Haystack GitHub](https://github.com/toastdriven/django-haystack)  
@@ -6048,6 +6034,30 @@ http://www.diveintopython.net/regular_expressions/
 https://www.npmjs.com/package/generator-django
 
 https://github.com/pypa/warehouse
+-->
+
+<!--
+Security
+bleach https://pypi.python.org/pypi/bleachbleach
+
+dj-stripe https://pypi.python.org/pypi/dj-stripe
+http://dj-stripe.readthedocs.org/
+
+SendGrid Django
+https://sendgrid.com/docs/Integrate/Frameworks/django.html
+
+MailChimp API
+http://developer.mailchimp.com/documentation/mailchimp
+
+MailChimp API Documentation- Downloads
+https://apidocs.mailchimp.com/api/downloads
+
+Python MailChimp API Client
+https://pypi.python.org/pypi/mailchimp
+https://bitbucket.org/mailchimp/mailchimp-api-python
+
+https://github.com/divio/django-mailchimp
+http://django-mailer2.readthedocs.org/en/latest
 -->
 
 Automated Dependency Management
