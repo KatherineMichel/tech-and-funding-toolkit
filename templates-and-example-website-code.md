@@ -119,22 +119,22 @@ Python- Django- PyCon, DjangoCon, and PyData
 Python- Django Under the Hood
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood/duh-web)
 
+Python- Django- Django Birthday
+* [Django Birthday GitHub](https://github.com/jacobian/djangobirthday)
+
 Python- Django Hello Web App
 * [Hello Web App Documents and Information](https://github.com/hellowebapp/hellowebapp)
 * [Hello Web App Beginner Tutorial](https://github.com/hellowebapp/hellowebapp-code)
 * [Hello Web App Intermediate Concepts](https://github.com/hellowebapp/hellowebapp-ic-code)
 
-Python- Django- Django Birthday
-* [Django Birthday GitHub](https://github.com/jacobian/djangobirthday)
+Python- Django- Django Girls (Python- Django)
+* [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls) 
 
 Template Examples
 * [Django Website Templates](https://github.com/django/djangoproject.com/tree/master/djangoproject/templates)
 * [Python Website Templates](https://github.com/python/pythondotorg/tree/master/templates)
 * [Django Girls Website Templates](https://github.com/DjangoGirls/djangogirls/tree/master/templates)
-
-<!--
-https://github.com/djangounderthehood/duh-web/blob/master/templates/home.html
--->
+* [Django Under the Hood Templates](https://github.com/djangounderthehood/duh-web/blob/master/templates/home.html)
 
 Python- Django Brent O'Connor Django Base Template and Front-End Framework
 * [Brent O'Connor Django Base Template GitHub](https://github.com/epicserve/django-base-site) and [Django Base Template Docs](http://django-base-site.readthedocs.io/en/latest)
@@ -148,9 +148,6 @@ Python- Django- Django Product Websites
 Python- Django- Python Product Websites
 * [Celery Project](http://www.celeryproject.org)  and [Celery Project GitHub](https://github.com/celery/celeryproject) 
 * [SciPy Central (Deprecated?) GitHub](https://github.com/scipy/SciPyCentral)
-
-Python- Django- Django Girls (Python- Django)
-* [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
 
 Python- Django- Wharton
 * [Wharton Django Base Theme GitHub](https://github.com/wharton/django-base-theme)
@@ -218,6 +215,10 @@ Mozilla Sugardough, Bedrock, FunFactory and Playdoh + others (Python- 1/2 Django
 
 <!--
 https://github.com/mozilla/kuma
+
+http://www.projectcallisto.org
+https://github.com/SexualHealthInnovations/callisto-core
+https://github.com/SexualHealthInnovations/
 -->
 
 National Geospatial-Intelligence Agency (Python- Django)
@@ -288,10 +289,6 @@ https://github.com/lincolnloop/django-layout
 https://github.com/launchkit/launchkit
 
 https://github.com/cfpb/cfgov-refresh
-
-http://www.projectcallisto.org
-https://github.com/SexualHealthInnovations/callisto-core
-https://github.com/SexualHealthInnovations/
 
 https://symposion.readthedocs.org/en/latest/
 https://github.com/eldarion/djangocon.us
