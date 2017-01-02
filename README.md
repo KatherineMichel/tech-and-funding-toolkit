@@ -5691,6 +5691,7 @@ Python- Microframeworks and Template Engines
 * [Jinja](http://jinja.pocoo.org) and [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
 * [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
 * [WebPy GitHub](https://github.com/webpy/webpy)
+* [Tornado](http://www.tornadoweb.org) and [GitHub Tornado](https://github.com/tornadoweb/tornado)
 
 Python- Django- Pinax
 * [Pinax](http://pinaxproject.com) 
@@ -5785,9 +5786,6 @@ Database
 #### Python and Django Common Deployment Tools
 
 <!--
-http://www.tornadoweb.org/en/stable
-https://github.com/tornadoweb/tornado
-
 http://www.fullstackpython.com/deployment.html
 http://masteringdjango.com/testing-in-django
 
@@ -5947,11 +5945,13 @@ Python- Django- Channels
 
 <!--
 https://github.com/jacobian/demo-thing
-
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 
 https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
 -->
+
+Python- Django- Python Social Auth
+* [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
 
 <!--
 Auth
@@ -5973,9 +5973,6 @@ https://github.com/sibtc/django-registration-user-profile-example/blob/master/co
 https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
 https://github.com/sibtc/django-registration-user-profile-example/blob/master/mysite/urls.py
 -->
-
-Python- Django- Python Social Auth
-* [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
 
 Python- Django- Python Social Auth
 * [Python Social Auth](https://github.com/omab/python-social-auth)  
@@ -6013,27 +6010,6 @@ Python- Django- Forms
 <!--
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
-
-https://en.wikipedia.org/wiki/ReStructuredText
-
-Mastering Regular Expressions Jeffrey Friedl
-https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-https://docs.python.org/3.5/library/re.html
-http://regex.info/book.html
-
-https://docs.python.org/3.5/howto/regex.html
-
-RegEx
-* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [Learning to Code the Hard Way- RegEx](http://regex.learncodethehardway.org) 
-
-http://www.diveintopython.net/regular_expressions/
--->
-
-<!--
-https://www.npmjs.com/package/generator-django
-
-https://github.com/pypa/warehouse
 -->
 
 <!--
@@ -6058,6 +6034,27 @@ https://bitbucket.org/mailchimp/mailchimp-api-python
 
 https://github.com/divio/django-mailchimp
 http://django-mailer2.readthedocs.org/en/latest
+-->
+
+<!--
+https://en.wikipedia.org/wiki/ReStructuredText
+
+Mastering Regular Expressions Jeffrey Friedl
+https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
+https://docs.python.org/3.5/library/re.html
+http://regex.info/book.html
+
+https://docs.python.org/3.5/howto/regex.html
+
+RegEx
+* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
+* [Learning to Code the Hard Way- RegEx](http://regex.learncodethehardway.org) 
+
+http://www.diveintopython.net/regular_expressions/
+
+https://www.npmjs.com/package/generator-django
+
+https://github.com/pypa/warehouse
 -->
 
 Automated Dependency Management
