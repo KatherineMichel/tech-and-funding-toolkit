@@ -5394,6 +5394,8 @@ https://github.com/nvie
 http://nvie.com/
 http://nvie.com/posts/pin-your-packages/
 pip-tools https://github.com/nvie/pip-tools
+
+http://www.revsys.com/12days
 -->
 
 Python- PEP
@@ -5895,6 +5897,8 @@ pytest and Nose (Unit Test Extension)
 * [mock PyPi](https://pypi.python.org/pypi/mock)
 
 <!--
+http://doc.pytest.org/en/latest/contents.html#toc
+
 Testing
 coverage http://coverage.readthedocs.org/
 factory boy https://pypi.python.org/pypi/factory_boy
