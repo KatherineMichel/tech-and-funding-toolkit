@@ -1292,12 +1292,11 @@ Accelerated Mobile Pages (AMP HTML)
 
 Progressive Web Apps
 * [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps), [Google Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp)
 
 <!--
 New
-https://developers.google.com/web/progressive-web-apps/
-https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
-https://developers.google.com/web/showcase/
+https://developers.google.com/web/showcase
 https://github.com/TalAter/awesome-progressive-web-apps
 https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 http://blog.ionic.io/what-is-a-progressive-web-app/
@@ -2703,13 +2702,10 @@ Kickstarters
 
 Static Site Generators and CMS (See also Jekyll)
 * [StaticGen](https://www.staticgen.com)
-
-<!--
-http://prose.io
-https://getgrav.org
-https://hexo.io
-https://github.com/metalsmith/metalsmith
--->
+* [Grav](https://getgrav.org)
+* [Hexo](https://hexo.io)
+* [Metalsmith GitHub](https://github.com/metalsmith/metalsmith)
+* [Prose (Content Editor for GitHub)](http://prose.io)
 
 Favicon, Sitemap, robots.txt, humans.txt
 * [XML Sitemaps](http://www.xml-sitemaps.com)
@@ -2969,14 +2965,8 @@ https://github.com/tutsplus/SEO-Checklist-for-Web-Designers
 -->
 
 <!--
-Play Version Manager
-https://github.com/kaiinkinen/pvm
-
 What you should know
 http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
-
-IntelliJ IDEA Spell Checker
-http://www.jetbrains.com/idea/webhelp/spellchecking.html
 
 Check website in all browsers
 BrowserShots.org
@@ -3083,12 +3073,6 @@ https://github.com/danmaz74/ABalytics
 HTML validation
 Dr. Watson
 http://watson.addy.com
-
-Verify source code (Scala)
-Scala Style
-http://www.scalastyle.org
-SCCT
-http://mtkopone.github.com/scct
 
 Automated testing
 Testomato
@@ -5178,22 +5162,6 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 #### Python and Django Toolkit
 
-<!--
-https://code.google.com/p/browsersec/wiki/Main
-
-https://cloudfare.com
-https://devcenter.heroku.com/articles/ssl-endpoint
-https://devcenter.heroku.com/articles/confg-vars
-
-https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
-
-http://www.ubuntu.com/server
-
-http://en.wikipedia.org/wiki/Cross-site_scripting
-http://en.wikipedia.org/wiki/Two_factor_authentication
-https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
--->
-
 #### Python General
 
 <!--
@@ -6276,6 +6244,20 @@ http://il.pycon.org/2016/about/speakers.html
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 #### Dashboards
+
+
+<!--
+https://code.google.com/p/browsersec/wiki/Main
+
+https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
+
+http://www.ubuntu.com/server
+
+http://en.wikipedia.org/wiki/Cross-site_scripting
+http://en.wikipedia.org/wiki/Two_factor_authentication
+https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
+-->
+
 
 <!--
 Browser Statistics
