@@ -284,9 +284,6 @@ Project Templates
 django-kevin https://github.com/imkevinxu/django-kevin
 django-herokuapp https://github.com/etianen/django-herokuapp
 
-Deprecated
-https://github.com/lincolnloop/django-layout
-
 https://github.com/launchkit/launchkit
 
 https://github.com/cfpb/cfgov-refresh
