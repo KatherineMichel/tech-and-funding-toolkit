@@ -5179,25 +5179,6 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-http://www.djangopony.com/
-
-http://django-debug-toolbar.readthedocs.io/en/stable/installation.html
-https://pypi.python.org/pypi/django-storages-redux
-https://www.djangopackages.com/packages/p/django-storages
-https://django-storages.readthedocs.io/en/latest
-
-https://2017.djangocon.eu/call-for-proposals
-
-* [Django Events Foundation North America GitHub](https://github.com/DEFNA/defna.org)
-* [PyLadies GitHub](https://github.com/pyladies/pyladies)
-
-https://github.com/pythonkc
-
-
-????????????
-https://ccbv.co.uk/
-http://cdrf.co
-
 https://code.google.com/p/browsersec/wiki/Main
 
 https://cloudfare.com
@@ -5216,6 +5197,15 @@ https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 #### Python General
 
 <!--
+http://www.djangopony.com/
+
+https://2017.djangocon.eu/call-for-proposals
+
+https://github.com/pythonkc
+
+https://ccbv.co.uk/
+http://cdrf.co
+
 New
 https://github.com/kennethreitz/pip-purge
 
@@ -5268,6 +5258,7 @@ Pip
 * [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
 * [Pip Installer](http://pip-installer.org)
 * [Pypa Get pip GitHub](https://github.com/pypa/get-pip)
+* [Pypa Warehouse](https://github.com/pypa/warehouse)
 
 Virtual Environment
 * [Virtualenv](http://virtualenv.org), [Virtualenv GitHub](https://github.com/pypa/virtualenv), and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
@@ -5297,9 +5288,6 @@ Consulting Forms
 * [Caktus Group](https://www.caktusgroup.com) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
 
 <!--
-http://www.frankwiles.com
-http://www.frankwiles.com/posts/django-template-variable-or-else
-
 http://www.ellingtoncms.com
 -->
 
@@ -5333,26 +5321,17 @@ Python- Python and Django People and Jobs
 
 Python- Django Community
 * [Adrienne Friend](http://codingwithkniv.es)
-* [Audrey Roy Greenfield](https://www.audreyr.com)
+* [Audrey Roy Greenfield](https://www.audreyr.com) and [Audrey Roy Greenfield GitHub](https://github.com/audreyr)
+* [Frank Wiles](http://www.frankwiles.com)
 * [Kenneth Reitz](http://www.kennethreitz.org)
-* [Daniel Greenfeld](http://www.pydanny.com)
+* [Daniel Greenfeld](http://www.pydanny.com) and [Daniel Greenfeld](https://github.com/pydanny)
 * [Jacob Kalplan-Moss](http://jacobian.org)
 * [Jeff Triplett](http://www.jefftriplett.com)
 * [Ola Sendecka](http://blog.sendecka.me)
 * [Ola Sitarska](http://ola.sitarska.com)
-
-<!--
-http://www.peregrinesalon.com
-https://github.com/FlipperPA
-
-http://twitter.com/limedaring
-
-➤ pydanny.com / audreyr.com / twoscoopspress.com
-➤ GitHub: @pydanny, @audreyr, and @twoscoopspress
-➤ Twitter: @pydanny, @audreyr
-@twoscoopspress
-➤ Facebook: https://www.facebook.com/twoscoopspress
--->
+* [Timothy Allen](http://www.peregrinesalon.com) and [Timothy Allen GitHub](https://github.com/FlipperPA)
+* [Tracy Osborn Twitter](http://twitter.com/limedaring)
+* [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 Python- Django- News
 * [Django Weblog GitHub](https://www.djangoproject.com/weblog)
@@ -5383,19 +5362,18 @@ Web:
 Lincoln Loop’s Django Best Practices
 http://lincolnloop.com/django-best-practices/
 https://github.com/lincolnloop/django-best-practices
+Deprecated
 https://github.com/lincolnloop/django-layout
 
 http://www.kennethreitz.org/essays/a-better-pip-workflow
 https://devcenter.heroku.com/articles/deploying-python
 
 See other article also
-
-https://github.com/nvie
-http://nvie.com/
 http://nvie.com/posts/pin-your-packages/
 pip-tools https://github.com/nvie/pip-tools
 
 http://www.revsys.com/12days
+http://www.frankwiles.com/posts/django-template-variable-or-else
 -->
 
 Python- PEP
@@ -5511,6 +5489,8 @@ Django Girls- Help
 <!--
 PyLadies
 * [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
+
+* [PyLadies GitHub](https://github.com/pyladies/pyladies)
 
 https://github.com/DjangoGirls/wiki
 
@@ -5670,6 +5650,8 @@ Python and Django- Creating Packages
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 <!--
+https://www.npmjs.com/package/generator-django
+
 https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
 
 https://pythonhosted.org/setuptools/formats.html
@@ -5826,6 +5808,10 @@ Python- Django- Static File Serving
 * [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
 
 <!--
+https://pypi.python.org/pypi/django-storages-redux
+https://www.djangopackages.com/packages/p/django-storages
+https://django-storages.readthedocs.io/en/latest
+
 https://github.com/bradleyg/django-s3direct
 
 http://whitenoise.evans.io/en/stable/index.html
@@ -6046,7 +6032,7 @@ https://en.wikipedia.org/wiki/ReStructuredText
 
 Mastering Regular Expressions Jeffrey Friedl
 https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-https://docs.python.org/3.5/library/re.html
+https://docs.python.org/3.6/library/re.html
 http://regex.info/book.html
 
 https://docs.python.org/3.5/howto/regex.html
@@ -6056,10 +6042,6 @@ RegEx
 * [Learning to Code the Hard Way- RegEx](http://regex.learncodethehardway.org) 
 
 http://www.diveintopython.net/regular_expressions/
-
-https://www.npmjs.com/package/generator-django
-
-https://github.com/pypa/warehouse
 -->
 
 Automated Dependency Management
@@ -6173,10 +6155,8 @@ https://github.com/docopt/docopt
 Python and Django Conferences
 * [PyCon](http://www.pycon.org)
 * [PyData](http://pydata.org)  
-* [Django Events Foundation North America](http://defna.org) 
+* [Django Events Foundation North America](http://defna.org) and [Django Events Foundation North America GitHub](https://github.com/DEFNA/defna.org)
 * [DjangoCon U.S.](http://www.djangocon.us) and [DjangoCon E.U.](https://djangocon.eu)  
-
-
 
 Python and Django Conferences- Proposal Examples
 * Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
