@@ -8463,7 +8463,6 @@ http://gcc.gnu.org
 http://en.wikipedia.org/wiki/GNU_readline
 https://en.wikipedia.org/wiki/GNU_Hurd
 -->
--->
 
 KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
