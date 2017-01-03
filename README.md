@@ -1274,11 +1274,7 @@ Google
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
 Google Material Design (See also Facebook React)
-* [Google Material Design Introduction](https://www.google.com/design/spec/material-design/introduction.html), [Google Material Design Video](http://www.google.com/design/videos/making-material-design),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-<!--
-https://material.io
--->
+* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
 
 Bootstrap Material Design
 * [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
@@ -1294,14 +1290,16 @@ Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+
 <!--
 New
-https://developers.google.com/web/showcase/
-https://github.com/TalAter/awesome-progressive-web-apps
 https://developers.google.com/web/progressive-web-apps/
 https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
+https://developers.google.com/web/showcase/
+https://github.com/TalAter/awesome-progressive-web-apps
 https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-https://en.wikipedia.org/wiki/Progressive_web_app
 http://blog.ionic.io/what-is-a-progressive-web-app/
 -->
 
@@ -1725,11 +1723,7 @@ Safari Developer Tools
 * [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
 
 MacPorts
-* [MacPorts](https://guide.macports.org)
-
-<!--
-https://github.com/macports/macports-ports
--->
+* [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
 
 Mac OS X Directory Strucure and Listing Applications
 * [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
@@ -2073,7 +2067,6 @@ Emacs for Mac or Linux
 http://fileformats.archiveteam.org/wiki/Bourne_shell_script
 https://www.gnu.org/software/emacs/tour/
 https://en.wikipedia.org/wiki/Emacs
-https://www.gnu.org/software/emacs/
 https://en.wikipedia.org/wiki/Vi
 
 https://tmux.github.io
