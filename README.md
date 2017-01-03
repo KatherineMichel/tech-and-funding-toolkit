@@ -2702,6 +2702,7 @@ Kickstarters
 
 Static Site Generators and CMS (See also Jekyll)
 * [StaticGen](https://www.staticgen.com)
+* [Hugo](http://gohugo.io) and [Hugo GitHub](https://github.com/spf13/hugo)
 * [Grav](https://getgrav.org)
 * [Hexo](https://hexo.io)
 * [Metalsmith GitHub](https://github.com/metalsmith/metalsmith)
@@ -2876,12 +2877,10 @@ http://shop.oreilly.com/product/0636920041528.do
 -->
 
 <!--
-Responsive Design Tester
-http://responsivetest.net
+Responsive Design Tester http://responsivetest.net
 
 Manual check using emulators
-Online media query tester
-http://screenqueri.es
+Online media query tester http://screenqueri.es
 6 free mobile emulators
 http://www.webdesignerdepot.com/2012/11/6-free-mobile-device-emulators-for-testing-your-site
 Opera Mobile Emulator
@@ -2889,8 +2888,7 @@ http://www.opera.com/developer/tools/mobile
 -->
 
 <!--
-Run CSS Lint online
-http://csslint.net
+Run CSS Lint online http://csslint.net
 
 <rule name="MobileOK score of 75+">
 -->
@@ -2909,19 +2907,14 @@ https://www.w3.org/WAI/ER/tools
 https://www.w3.org/WAI/perspectives
 
 CSS Sprites
-Sprite Me
-http://spriteme.org
+Sprite Me http://spriteme.org
 
 Optimize images
-SmushIt.com
-http://www.smushit.com/ysmush.it
+SmushIt.com http://www.smushit.com/ysmush.it
 http://www.imgopt.com
-PunyPNG.com
-http://punypng.com
-PNGGauntlet for Windows
-http://pnggauntlet.com
-Image Optim for Mac
-http://imageoptim.com
+PunyPNG.com http://punypng.com
+PNGGauntlet for Windows http://pnggauntlet.com
+Image Optim for Mac http://imageoptim.com
 
 http://www.responsimulator.com
 http://cssminifier.com
@@ -2969,12 +2962,9 @@ What you should know
 http://programmers.stackexchange.com/questions/46716/what-should-every-programmer-know-about-web-development
 
 Check website in all browsers
-BrowserShots.org
-http://browsershots.org
-Browserling.com
-https://browserling.com
-Spoon.net
-http://spoon.net/browsers
+BrowserShots.org http://browsershots.org
+Browserling.com https://browserling.com
+Spoon.net http://spoon.net/browsers
 
 Decide on www-subdomain
 no-www.org score of 'B'
@@ -2995,31 +2985,23 @@ Make your website mobile friendly
 http://www.hanselman.com/blog/MakeYourWebsiteMobileAndIPhoneFriendlyAddHomeScreenIPhoneIconsAndAdjustTheViewPort.aspx
 
 Use correct input types
-Input type: Email, Url, Phone
-http://html5tutorial.info/html5-contact.php
-Diving in to HTML5 forms
-http://diveintohtml5.info/forms.html
+Input type: Email, Url, Phone http://html5tutorial.info/html5-contact.php
+Diving in to HTML5 forms http://diveintohtml5.info/forms.html
 
 Analytics
 Uptime monitoring
-Uptime robot
-http://www.uptimerobot.com
-Pingdom Website Monitor
-https://www.pingdom.com
-GotSiteMonitor.com
-http://www.gotsitemonitor.com
+Uptime robot http://www.uptimerobot.com
+Pingdom Website Monitor https://www.pingdom.com
+GotSiteMonitor.com http://www.gotsitemonitor.com
 
 http://tools.pingdom.com/fpt
 
 Traffic analysis"> (Google Analytics)
-Clicky
-http://clicky.com
-Piwik
-http://piwik.org
+Clicky http://clicky.com
+Piwik http://piwik.org
 
 Optimize HTTP headers
-redbot.org
-http://redbot.org
+redbot.org http://redbot.org
 
 Cloud optimizations
 Reduce I/O to disk
@@ -3067,20 +3049,16 @@ Windows 8 Tiles
 http://www.buildmypinnedsite.com
 
 A/B Testing
-ABalytics
-https://github.com/danmaz74/ABalytics
+ABalytics https://github.com/danmaz74/ABalytics
 
 HTML validation
-Dr. Watson
-http://watson.addy.com
+Dr. Watson http://watson.addy.com
 
 Automated testing
-Testomato
-http://www.testomato.com
+Testomato http://www.testomato.com
 
 Accessibility validation
-Common problems and solutions
-http://accessibility.oit.ncsu.edu/accessibleu/problems.html
+Common problems and solutions http://accessibility.oit.ncsu.edu/accessibleu/problems.html
  
 WAI-ARIA Landmarks">
 Using WAI-ARIA Landmarks
@@ -3115,10 +3093,8 @@ CSRF cheat sheet
 https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
 
 Secure Passwords
-BCrypt
-http://www.mindrot.org/projects/jBCrypt
-SCrypt
-https://github.com/wg/scrypt
+BCrypt http://www.mindrot.org/projects/jBCrypt
+SCrypt https://github.com/wg/scrypt
 
 Hash passwords using salt to prevent rainbow attacks
 Secure connection (SSL)
@@ -3304,10 +3280,20 @@ JavaScript
 * [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
-JavaScript Tutorials
+JavaScript Books and Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+
+<!--
+New
+https://github.com/getify/You-Dont-Know-JS
+http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+http://shop.oreilly.com/product/9780596517748.do
+
+http://learnjsthehardway.com/
+https://github.com/ericelliott/essential-javascript-links
+-->
 
 JavaScript Tutorials- Mozilla
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -3353,14 +3339,6 @@ Comparison of Layout Engines (By DOM and ECMA Script)
 -->
 
 <!--
-New
-https://github.com/getify/You-Dont-Know-JS
-http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-http://shop.oreilly.com/product/9780596517748.do
-
-http://learnjsthehardway.com/
-https://github.com/ericelliott/essential-javascript-links
-
 http://eloquentjavascript.net/13_dom.html
 
 http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers
@@ -4298,11 +4276,6 @@ Golang- Frameworks
 * [Martini GitHub](https://github.com/go-martini/martini)
 * [Revel GitHub](https://github.com/revel/revel)
 
-<!--
-http://gohugo.io
-https://github.com/spf13/hugo
--->
-
 Java- General
 * [Java Website](http://www.java.com/en)  
 * [Java Wikipedia](http://en.wikipedia.org/wiki/Java_(programming_language))  
@@ -4321,10 +4294,6 @@ Java- General
 * [Java Applet Wikipedia](http://en.wikipedia.org/wiki/Java_applet) 
 
 #### Ruby and Jekyll
-
-<!--
-Contributing to Ruby Guide
--->
 
 Ruby
 * [Ruby](https://www.ruby-lang.org/en)  
@@ -4378,43 +4347,7 @@ http://guides.rubyonrails.org/index.html
 Start Here
 Getting Started with Rails
 
-Models
-Active Record Basics
-Active Record Migrations
-Active Record Validations
-Active Record Callbacks
-Active Record Associations
-Active Record Query Interface
-
-Views
-Layouts and Rendering in Rails
-Action View Form Helpers
-
-Controllers
-Action Controller Overview
-Rails Routing from the Outside In
-
-Digging Deeper
-Active Support Core Extensions
-Rails Internationalization API
-Action Mailer Basics
-Active Job Basics
-Securing Rails Applications
-Debugging Rails Applications
-Configuring Rails Applications
-Rails Command Line Tools and Rake Tasks
-Asset Pipeline
-Working with JavaScript in Rails
-Autoloading and Reloading Constants
-
-Extending Rails
-Rails on Rack
-Creating and Customizing Rails Generators
-
-Contributing to Ruby on Rails
-Contributing to Ruby on Rails
-API Documentation Guidelines
-Ruby on Rails Guides Guidelines
+Contributing to Ruby Guide
 -->
 
 Ruby- Executable Specification
@@ -5165,33 +5098,13 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
-http://www.djangopony.com/
-
-https://2017.djangocon.eu/call-for-proposals
-
-https://github.com/pythonkc
-
-https://ccbv.co.uk/
-http://cdrf.co
-
-New
-https://github.com/kennethreitz/pip-purge
-
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
 PyCoders Weekly and Python Weekly
 34.4.1 9 Easy Ways to Participate
-http://wiki.python.org/moin/LocalUserGroups
-http://www.python.org/community/irc/
 
 https://www.coursera.org/courses?query=python
-
-http://pythonhosted.org
-
-https://github.com/python/devguide
 http://campus.codeschool.com/courses/try-django/contents
-https://docs.djangoproject.com/en/1.9/ref/models/conditional-expressions/#case
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 -->
 
 Python (See also Data Science)
@@ -5227,6 +5140,10 @@ Pip
 * [Pip Installer](http://pip-installer.org)
 * [Pypa Get pip GitHub](https://github.com/pypa/get-pip)
 * [Pypa Warehouse](https://github.com/pypa/warehouse)
+
+<!--
+http://pythonhosted.org
+-->
 
 Virtual Environment
 * [Virtualenv](http://virtualenv.org), [Virtualenv GitHub](https://github.com/pypa/virtualenv), and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
@@ -5326,7 +5243,6 @@ Python- Django- Project Stucture
 * [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
 
 <!--
-Web:
 Lincoln Loop’s Django Best Practices
 http://lincolnloop.com/django-best-practices/
 https://github.com/lincolnloop/django-best-practices
@@ -5400,8 +5316,12 @@ Python- Users and Members
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
+http://wiki.python.org/moin/LocalUserGroups
+http://www.python.org/community/irc
+
 Guido van Rossum
-https://docs.python.org/devguide/
+https://docs.python.org/devguide
+https://github.com/python/devguide
 
 http://www.meetup.com/topics/python
 
@@ -5459,6 +5379,8 @@ PyLadies
 * [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
 
 * [PyLadies GitHub](https://github.com/pyladies/pyladies)
+
+https://github.com/pythonkc
 
 https://github.com/DjangoGirls/wiki
 
@@ -5552,6 +5474,7 @@ https://learnpythonthehardway.org/python3
 https://learnpythonthehardway.org/book/nopython3.html
 
 https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 -->
 
 Python- Books and Tutorials
@@ -5736,6 +5659,9 @@ Database
 #### Python and Django Common Deployment Tools
 
 <!--
+https://ccbv.co.uk
+http://cdrf.co
+
 http://www.fullstackpython.com/deployment.html
 http://masteringdjango.com/testing-in-django
 
@@ -5824,6 +5750,10 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 Python- Django- DJ Static, DJ Database URL
 * [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
 * [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+<!--
+https://github.com/kennethreitz/pip-purge
+-->
 
 Python- Django and Celery (Asynchronicity) (Also Example code)
 * [Celery](http://www.celeryproject.org)  
@@ -6116,6 +6046,8 @@ Python- Django- Cmatrix
 
 <!--
 https://github.com/docopt/docopt
+
+http://www.djangopony.com/
 -->
 
 #### Python and Django Conferences and Mentors 
@@ -6157,6 +6089,8 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 
 
 <!--
+https://2017.djangocon.eu/call-for-proposals
+
 DjangoCon 2015 Playlist
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t
 
