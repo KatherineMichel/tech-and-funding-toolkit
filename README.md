@@ -5596,6 +5596,8 @@ Python- Condensed Learning Resources
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://github.com/twoscoops/two-scoops-of-django-1.11
+
 https://learnpythonthehardway.org/python3
 https://learnpythonthehardway.org/book/nopython3.html
 
@@ -5822,6 +5824,8 @@ Python- Django- Static File Serving
 * [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
 
 <!--
+https://github.com/bradleyg/django-s3direct
+
 http://whitenoise.evans.io/en/stable/index.html
 http://whitenoise.evans.io/en/stable/django.html
 http://whitenoise.evans.io/en/stable/django.html#using-whitenoise-in-development
@@ -5965,6 +5969,7 @@ http://django-authtools.readthedocs.io
 https://github.com/fusionbox/django-authtools
 https://pypi.python.org/pypi/django-two-factor-auth
 
+https://simpleisbetterthancomplex.com
 https://github.com/sibtc/django-registration-user-profile-example/blob/master/core/models.py
 https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
 https://github.com/sibtc/django-registration-user-profile-example/blob/master/mysite/urls.py
