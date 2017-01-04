@@ -5701,6 +5701,8 @@ Python- Django- Static File Serving
 * [Whitenoise](http://whitenoise.evans.io) and [Whitenoise GitHub](https://github.com/evansd/whitenoise)
 * [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
 
+Python- Django- Static Storage
+
 <!--
 https://pypi.python.org/pypi/django-storages-redux
 https://www.djangopackages.com/packages/p/django-storages
@@ -11949,6 +11951,8 @@ Awesome Non-Code
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 <!--
+https://github.com/donnemartin/awesome-aws#python-sdk
+
 https://branch.io/resources/app-launch-checklist/#
 https://github.com/leereilly/games
 https://github.com/Hack-with-Github/Awesome-Hacking
@@ -11964,7 +11968,6 @@ https://github.com/tayllan/awesome-algorithms
 https://github.com/gztchan/awesome-design
 https://github.com/noffle/art-of-readme
 https://github.com/neutraltone/awesome-stock-resources
-https://github.com/donnemartin/awesome-aws#python-sdk
 https://github.com/KishanBagaria/awesome-standards
 https://github.com/zingchart/awesome-charting
 https://github.com/detailyang/awesome-cheatsheet
