@@ -158,6 +158,7 @@ Kansas Non-Profit
 ## Newspapers
 * [Al Jazeera America](https://github.com/ajam)  
 * [BBC](https://github.com/bbc)  
+* [BBC News](https://github.com/BBCNews) 
 * [BBC News](https://github.com/BBC-News)  
 * [BBC News Labs](https://github.com/BBC-News-Labs)
 * [Bloomberg](https://github.com/bloomberg)  
