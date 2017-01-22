@@ -5770,6 +5770,10 @@ Python- Django- BCrypt (Not just for Django)
 Python- Fabric
 * [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
 
+<!--
+http://docs.fabfile.org/en/1.13/api/contrib/django.html
+-->
+
 #### Python and Django Testing and Automation
 
 Test-Driven Development with Python<br>
@@ -5899,6 +5903,7 @@ Python- Django- Forms
 * [django-forms-builder GitHub](https://github.com/stephenmcd/django-forms-builder)
 
 <!--
+https://github.com/django/django-localflavor
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
 -->
@@ -5906,6 +5911,8 @@ https://github.com/django/django-contrib-comments
 <!--
 Security
 bleach https://pypi.python.org/pypi/bleachbleach
+https://github.com/mozilla/bleach
+http://bleach.readthedocs.io/en/latest/clean.html
 
 dj-stripe https://pypi.python.org/pypi/dj-stripe
 http://dj-stripe.readthedocs.org/
