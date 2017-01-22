@@ -1792,6 +1792,10 @@ Chrome (Browser, Layout Engine)
 Opera (Also Blink)
 * [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
 
+<!--
+http://www.opera.com/computer/neon
+-->
+
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
@@ -2206,6 +2210,8 @@ Dot Files
 * [YADR GitHub](https://github.com/skwp/dotfiles)
 
 <!--
+https://github.com/jefftriplett/dotfiles/blob/master/roles/python/tasks/install_pyenv.yml#L58
+
 https://github.com/epicserve/dotfiles
 https://github.com/geerlingguy/mac-dev-playbook
 https://github.com/JohnColvin/.maid/blob/master/rules.rb
@@ -5121,6 +5127,14 @@ https://wiki.python.org/moin/Python2orPython3
 https://www.djangopackages.com/python3/
 www.python.org/download/releases/2.3/mro/
 http://docs.python.org/2/library/pickle.html
+
+https://docs.python.org/3/library/argparse.html
+
+https://docs.python.org/3/howto/regex.html
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3/glossary.html#glossary
+https://docs.python.org/3.6/library/sys.html
+https://docs.python.org/3/library/logging.config.html
 -->
 
 CPython
@@ -5196,6 +5210,7 @@ Python- Django- Major Organizations and Projects that Use Django (Excluding Temp
 * [Reddit GitHub](https://github.com/reddit)  
 * [StyleSeat GitHub](https://github.com/styleseat) 
 * [Wharton GitHub](https://github.com/wharton)
+* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
 
 Python- Python and Django People and Jobs
 * [Python Official Jobs Board](https://www.python.org/jobs)
@@ -5415,6 +5430,20 @@ Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
 
+<!--
+https://github.com/simpleisbetterthancomplex/simple-academy
+
+http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
+http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
+
+
+https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
+
+https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
+https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
+https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html
+-->
+
 Python- Django- Tutorials Lists
 * [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
 * [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
@@ -5470,6 +5499,9 @@ Python- Condensed Learning Resources
 <!--
 https://github.com/twoscoops/two-scoops-of-django-1.11
 
+https://learnpythonthehardway.org/book/ex1.html
+https://learnpythonthehardway.org/book/appendixa.html
+
 https://learnpythonthehardway.org/python3
 https://learnpythonthehardway.org/book/nopython3.html
 
@@ -5496,11 +5528,6 @@ Python- O'Reilly Test-Driven Development with Python and Selenium
 * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
 
 <!--
-https://github.com/simpleisbetterthancomplex/simple-academy
-
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
-
 http://www.revsys.com/tidbits/extend-django-templates-smartly
 
 Pythonista
@@ -5601,7 +5628,7 @@ Python- Django- Cookiecutter (See also Packages)
 
 Python- Django- Git and Deployment
 * [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
-* [Deployment Checklist](https://docs.djangoproject.com/en/1.9/howto/deployment/checklist)
+* [Deployment Checklist](https://docs.djangoproject.com/en/1.10/howto/deployment/checklist)
 
 Python- PEP 3333 (Python Web Server Gateway Interface)
 * [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
@@ -5772,6 +5799,8 @@ Python- Fabric
 
 <!--
 http://docs.fabfile.org/en/1.13/api/contrib/django.html
+
+https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
 -->
 
 #### Python and Django Testing and Automation
@@ -5848,6 +5877,8 @@ Python- Django- Python Social Auth
 * [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
 
 <!--
+https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#quickstart
+
 Auth
 http://django-allauth.readthedocs.io/en/latest/overview.html
 https://django-registration.readthedocs.io/en/2.2/quickstart.html#default-templates
@@ -11595,6 +11626,8 @@ Google Account
 * [Google Spaces](https://get.google.com/spaces)
 
 <!--
+https://takeout.google.com/settings/takeout
+
 https://www.amazon.com/gp/drive/landing/everything
 https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
 https://support.google.com/drive/answer/2375123
