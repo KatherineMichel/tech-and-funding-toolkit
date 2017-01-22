@@ -104,6 +104,7 @@ Not-for-Profit
 * [Sunlight Labs](https://github.com/sunlightlabs)
 * [The Upshot](https://github.com/TheUpshot)  
 * [Wharton](https://github.com/wharton)
+* [Wharton Learning Lab](https://github.com/whartonlearninglab)
 * [Wikidata](https://github.com/wikidata)  
 * [Wikidata Library](https://github.com/wikidata-lib)  
 * [Wikimedia](https://github.com/wikimedia)  
