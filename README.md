@@ -6395,35 +6395,72 @@ SaaS- General and Alternatives to GoogleApps
 #### AWS
 
 <!--
-Business Builder
+New
+https://cloud.google.com/docs/compare/aws/
+http://cloudacademy.com/blog/aws-vs-microsoft-azure-google-cloud/
+https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
 
-Amazon Mobile Analytics
+Config
+http://docs.aws.amazon.com/general/latest/gr/rande.html
+http://docs.aws.amazon.com/cli/latest/reference/configure/
+http://docs.aws.amazon.com/cli/latest/userguide/installing.html
+http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
+http://docs.aws.amazon.com/cli/latest/userguide/tutorial-ec2-ubuntu.html
+https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-credentials-in-the-aws-sdks/
+https://aws.amazon.com/about-aws/whats-new/2016/12/aws-config-now-enables-you-to-create-50-or-more-config-rules-in-your-aws-account
 
-Codepipline
-Code Commit
+https://aws.amazon.com/blogs/security/announcing-aws-organizations-centrally-manage-multiple-aws-accounts
+
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+https://github.com/overview/overview-server/wiki/Creating-staging-instances-on-Amazon
+
+https://aws.amazon.com/rds/aurora
+
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+
+https://aws.amazon.com/blogs/security/how-to-assign-permissions-using-new-aws-managed-policies-for-job-functions/
+
+https://aws.amazon.com/blogs/aws/well-architected-working-backward-to-play-it-forward/
+
+https://aws.amazon.com/about-aws/whats-new/2016/10/bitbucket-data-center-and-jira-software-data-center-on-the-aws-cloud-quick-start-reference-deployments
+https://aws.amazon.com/about-aws/whats-new/2016/01/aws-elastic-beanstalk-adds-support-for-t2-nano-instances-and-amazon-ec2-container-registry/
+https://medium.com/aws-enterprise-collection/a-process-for-mass-migrations-to-the-cloud-ee7ff5d7b3d1#.xuvj6p31i
+https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/
+https://aws.amazon.com/blogs/aws/cloudwatch-update-jump-from-metrics-to-associated-logs
+https://news.ycombinator.com/item?id=10741575
+https://www.youtube.com/watch?v=SUnjmoc7h70
+https://forums.aws.amazon.com/ann.jspa?annID=3994
+https://github.com/eawsy/aws-lambda-go
+http://coenraets.org/blog/2012/01/setting-up-wordpress-on-amazon-ec2-in-5-minutes/
+
+https://aws.amazon.com/blogs/apn/how-to-best-architect-your-aws-marketplace-saas-subscription-across-multiple-aws-accounts/
 -->
-
 
 <!--
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
 
-https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
-http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-create-as.html
-
-http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
-
 http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html
 
-https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
 https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus
 
 http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-database.html
-
-http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
 -->
 
 <!--
-Amazon
+From other list
+
+* [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
+* [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
+
+http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
+
+
+
+
+No longer exists
+http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
+
 * [Amazon Profiles](http://www.amazon.com/gp/profile)
 
 * [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
@@ -6437,111 +6474,31 @@ http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
 
 https://www.amazon.com/gp/drive/landing/everything
 https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
--->
 
-Amazon Web Services
-* [Amazon Web Services](http://aws.amazon.com)  
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [AWS Forum](https://forums.aws.amazon.com)
-* [AWS Articles](https://aws.amazon.com/articles)
-* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+https://aws.amazon.com/javascript
+http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/welcome.html
 
-<!--
-https://enterprise.github.com/aws
+https://aws.amazon.com/premiumsupport/knowledge-center/python-boto3-virtualenv
 
-https://live.awsevents.com
+Marketplace- Application Development
+https://aws.amazon.com/marketplace/b/2649279011?ref_=gtw_navlft_node_2649279011
+https://aws.amazon.com/marketplace/b/2649279011?searchTerms=&category=2649279011&filters=pricing_plan_attributes%2Coperating_system&pricing_plan_attributes=FREE&operating_system=UBUNTU&page=1
+https://aws.amazon.com/marketplace/pp/B00NNZTDNO?qid=1478409629815&sr=0-39&ref_=brs_res_product_title
 
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
--->
+https://aws.amazon.com/architecture
+http://aws.amazon.com/security
 
-AWS- Developer and Documentation
-* [AWS Products](http://aws.amazon.com/products)
-* [AWS Documentation](http://aws.amazon.com/documentation)
-* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
-* [AWS Developer Tools](https://aws.amazon.com/developertools)  
-* [AWS Tools](http://aws.amazon.com/tools)  
-* [AWS Code](https://aws.amazon.com/code)
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
-* [AWS Marketplace](https://aws.amazon.com/marketplace)  
+https://github.com/integrations/aws-codedeploy
 
-<!--
-Also: Awesome AWS
-https://github.com/open-guides/og-aws
+https://aws.amazon.com/codepipeline/
+https://aws.amazon.com/codedeploy/product-integrations/github
+https://aws.amazon.com/blogs/devops/automatically-deploy-from-github-using-aws-codedeploy
+https://github.com/aws/aws-codedeploy-agent
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
+http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-push-repo.html
 
-https://aws.amazon.com/devops/what-is-devops
-
-https://aws.amazon.com/console
-
-https://aws.amazon.com/simpledb/pricing
-https://aws.amazon.com/ebs/pricing
-
-https://aws.amazon.com/marketplace/pp/B00NN8Y43U
-https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
-https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
-https://aws.amazon.com/marketplace/pp/B007JNJ31S
-https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title
-
-https://aws.amazon.com/marketplace/pp/B00JV9JBDS
-https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
-https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
-https://aws.amazon.com/marketplace/pp/B01ETSYYBY?qid=1476905092639&sr=0-5&ref_=brs_res_product_title
--->
-
-AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
-* [AWS Regions](http://aws.amazon.com/articles/3912)  
-* [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
-* [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
-
-AWS- Pricing
-* [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
-* [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
-
-<!--
-https://aws.amazon.com/free
-https://aws.amazon.com/pricing/services
-
-http://aws.amazon.com/pricing
-https://aws.amazon.com/ec2/instance-types
-https://aws.amazon.com/ec2/purchasing-options
-https://aws.amazon.com/ec2/pricing
-https://aws.amazon.com/ec2/spot/pricing
-https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
-https://aws.amazon.com/s3/pricing
-http://aws.amazon.com/pricing/rds
-https://aws.amazon.com/codedeploy/pricing
-https://aws.amazon.com/elasticache/pricing
-
-https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
-
-https://aws.amazon.com/premiumsupport/developer-support
--->
-
-AWS- Websites, Mobile, Social
-* [AWS Websites](https://aws.amazon.com/websites)
-* [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
-* [AWS Web Mobile Social](http://aws.amazon.com/web-mobile-social)
-* [AWS Mobile](https://aws.amazon.com/mobile)
-* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
-
-AWS- Elastic Beanstalk and S3
-* [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
-* [AWS S3](http://aws.amazon.com/documentation/s3)
-
-<!--
-From other list
-
-* [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
-* [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
-
-http://docs.aws.amazon.com/general/latest/gr/rande.html
-
-Step 3: Deploy Your Website
-http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
-
-
-No longer exists
-http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
-
+http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
 
 AWS General Reference
 http://docs.aws.amazon.com/general/latest/gr/Welcome.html
@@ -6558,27 +6515,14 @@ http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
 Web Application Hosting Infographic
 http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
 
-https://aws.amazon.com/architecture
-http://aws.amazon.com/security
-
-
-https://aws.amazon.com/codepipeline/
-https://aws.amazon.com/codedeploy/product-integrations/github
-https://aws.amazon.com/blogs/devops/automatically-deploy-from-github-using-aws-codedeploy
-https://github.com/integrations/aws-codedeploy
-https://github.com/aws/aws-codedeploy-agent
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
-
-http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
-
-
-
 Setting Up to Host a Web App on AWS
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
 
 Hosting a Static Website on Amazon Web Services
 http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+
+Step 3: Deploy Your Website
+http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
 
 Hosting a Static Website on Amazon S3
 http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
@@ -6604,8 +6548,6 @@ https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
 S3
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
 http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
-
-S3
 https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
 http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html
@@ -6615,10 +6557,10 @@ http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 Elastic Beanstalk
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
-
-https://aws.amazon.com/elasticbeanstalk/faqs
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.ec2.html
 
 Deploying a Web App Using Elastic Beanstalk
 Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, and Ruby
@@ -6652,6 +6594,7 @@ http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
 
 Build a Drupal Website on Amazon Web Services
 http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
+http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-create-as.html
 
 http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
 http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html
@@ -6667,6 +6610,104 @@ https://aws.amazon.com/vmware
 https://www.promptcloud.com/pricing
 -->
 
+Amazon Web Services
+* [Amazon Web Services](http://aws.amazon.com)  
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [AWS Forum](https://forums.aws.amazon.com)
+* [AWS Articles](https://aws.amazon.com/articles)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+
+<!--
+https://enterprise.github.com/aws
+
+https://live.awsevents.com
+
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+-->
+
+AWS- Developer and Documentation
+* [AWS Products](http://aws.amazon.com/products)
+* [AWS Documentation](http://aws.amazon.com/documentation)
+* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
+* [AWS Developer Tools](https://aws.amazon.com/developertools)  
+* [AWS Tools](http://aws.amazon.com/tools)  
+* [AWS Code](https://aws.amazon.com/code)
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS Marketplace](https://aws.amazon.com/marketplace)  
+
+<!--
+Also: Awesome AWS
+https://github.com/open-guides/og-aws
+https://github.com/donnemartin/awesome-aws
+
+https://github.com/aws
+https://www.youtube.com/user/AmazonWebServices/videos
+https://medium.com/aws-enterprise-collection
+
+https://aws.amazon.com/certification
+
+https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2016
+
+https://aws.amazon.com/devops/what-is-devops
+http://docs.aws.amazon.com/devops/latest/gsg/welcome.html
+
+https://aws.amazon.com/console
+
+https://aws.amazon.com/simpledb/pricing
+https://aws.amazon.com/ebs/pricing
+
+https://aws.amazon.com/marketplace/pp/B00NN8Y43U
+https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
+https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
+https://aws.amazon.com/marketplace/pp/B007JNJ31S
+https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title
+
+https://aws.amazon.com/marketplace/pp/B00JV9JBDS
+https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
+https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
+https://aws.amazon.com/marketplace/pp/B01ETSYYBY?qid=1476905092639&sr=0-5&ref_=brs_res_product_title
+-->
+
+AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
+* [AWS Regions](http://aws.amazon.com/articles/3912)  
+* [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
+* [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
+
+AWS- Pricing
+* [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
+* [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
+
+AWS- Websites, Mobile, Social
+* [AWS Websites](https://aws.amazon.com/websites)
+* [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
+* [AWS Web Mobile Social](http://aws.amazon.com/web-mobile-social)
+* [AWS Mobile](https://aws.amazon.com/mobile)
+* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
+
+AWS- Elastic Beanstalk and S3
+* [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
+* [AWS S3](http://aws.amazon.com/documentation/s3)
+
+<!--
+https://aws.amazon.com/free
+https://aws.amazon.com/pricing/services
+
+http://aws.amazon.com/pricing
+https://aws.amazon.com/ec2/instance-types
+https://aws.amazon.com/ec2/purchasing-options
+https://aws.amazon.com/ec2/pricing
+https://aws.amazon.com/ec2/spot/pricing
+https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
+https://aws.amazon.com/s3/pricing
+http://aws.amazon.com/pricing/rds
+https://aws.amazon.com/codedeploy/pricing
+https://aws.amazon.com/elasticache/pricing
+
+https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
+
+https://aws.amazon.com/premiumsupport/developer-support
+-->
+
 AWS- SES and SNS (Including Worldwide SMS)
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
@@ -6680,27 +6721,31 @@ AWS- Lambda (See also Google Cloud Functions)
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
-https://github.com/apex/apex
-https://github.com/awslabs/chalice
 https://aws.amazon.com/machine-learning
 https://aws.amazon.com/api-gateway
 
+https://github.com/awslabs/chalice
+https://github.com/apex/apex
+http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
+http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
+https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
+https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
+https://github.com/awslabs/lambda-refarch-webapp
+https://github.com/awslabs/serverless-application-model
+https://github.com/awslabs/aws-serverless-express
+https://github.com/awslabs/serverless-photo-recognition
+
 https://github.com/serverless/site
-
-Lambda Examples
-
+https://serverlesscode.com/post/zappa-wsgi-for-python/
+https://serverless.com/framework/docs/providers/aws/guide/credentials/
 https://serverlesscode.com/post/rich-jones-interview-django-zappa/
+
+https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
+https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
 https://pypi.python.org/pypi/django-zappa
 https://github.com/ryansb/django-zappa-example
 
-http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
-https://github.com/awslabs/aws-serverless-express
-https://github.com/awslabs/lambda-refarch-webapp
-http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-
 http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
-https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
-https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
 https://github.com/MitocGroup/deep-microservices-todomvc
 -->
 
