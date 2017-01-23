@@ -6395,6 +6395,16 @@ SaaS- General and Alternatives to GoogleApps
 #### AWS
 
 <!--
+Business Builder
+
+Amazon Mobile Analytics
+
+Codepipline
+Code Commit
+-->
+
+
+<!--
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
 
 https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
@@ -6520,19 +6530,18 @@ AWS- Elastic Beanstalk and S3
 <!--
 From other list
 
-S3
-http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
-http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
-
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
 * [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
 
 http://docs.aws.amazon.com/general/latest/gr/rande.html
+
+Step 3: Deploy Your Website
 http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
 
 
 No longer exists
 http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
+
 
 AWS General Reference
 http://docs.aws.amazon.com/general/latest/gr/Welcome.html
@@ -6552,6 +6561,7 @@ http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
 https://aws.amazon.com/architecture
 http://aws.amazon.com/security
 
+
 https://aws.amazon.com/codepipeline/
 https://aws.amazon.com/codedeploy/product-integrations/github
 https://aws.amazon.com/blogs/devops/automatically-deploy-from-github-using-aws-codedeploy
@@ -6561,6 +6571,8 @@ http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html
 http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
 
 http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
+
+
 
 Setting Up to Host a Web App on AWS
 http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
@@ -6579,15 +6591,19 @@ http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
 
 EC2
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
 
 http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2
 https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
+
+S3
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
 
 S3
 https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
@@ -6597,11 +6613,12 @@ http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
 http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 
 Elastic Beanstalk
-https://aws.amazon.com/elasticbeanstalk/faqs
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+
+https://aws.amazon.com/elasticbeanstalk/faqs
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
 
 Deploying a Web App Using Elastic Beanstalk
 Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, and Ruby
@@ -6666,21 +6683,25 @@ AWS- Lambda (See also Google Cloud Functions)
 https://github.com/apex/apex
 https://github.com/awslabs/chalice
 https://aws.amazon.com/machine-learning
+https://aws.amazon.com/api-gateway
+
+https://github.com/serverless/site
+
+Lambda Examples
 
 https://serverlesscode.com/post/rich-jones-interview-django-zappa/
 https://pypi.python.org/pypi/django-zappa
 https://github.com/ryansb/django-zappa-example
 
-http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
-https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
 http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
 https://github.com/awslabs/aws-serverless-express
-https://aws.amazon.com/api-gateway
+https://github.com/awslabs/lambda-refarch-webapp
 http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-https://github.com/serverless/site
+
+http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
+https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
 https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
 https://github.com/MitocGroup/deep-microservices-todomvc
-https://github.com/awslabs/lambda-refarch-webapp
 -->
 
 #### Heroku
