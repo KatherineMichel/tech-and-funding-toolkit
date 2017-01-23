@@ -2685,6 +2685,8 @@ Good, Basic Templates, Themes
 * [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
 
 <!--
+https://github.com/BlackrockDigital/startbootstrap-modern-business
+
 http://www.bootstrapzero.com/c/one-page-themes
 http://bootstrap.theme.cards/l
 
@@ -5111,6 +5113,12 @@ PyCoders Weekly and Python Weekly
 
 https://www.coursera.org/courses?query=python
 http://campus.codeschool.com/courses/try-django/contents
+
+http://pytz.sourceforge.net
+
+https://github.com/django/django-localflavor
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
 -->
 
 Python (See also Data Science)
@@ -5431,14 +5439,15 @@ Python- Django- Dedicated Websites
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
 
 <!--
+https://simpleisbetterthancomplex.com
 https://github.com/simpleisbetterthancomplex/simple-academy
 
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
 
-
 https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 
+https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
 https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
 https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
 https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html
@@ -5877,9 +5886,14 @@ Python- Django- Python Social Auth
 * [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
 
 <!--
+flake8 
+noqa: E501
+https://gitlab.com/pycqa/flake8
+https://pypi.python.org/pypi/flake8
+
 https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#quickstart
 
-Auth
+User Registration/Auth
 http://django-allauth.readthedocs.io/en/latest/overview.html
 https://django-registration.readthedocs.io/en/2.2/quickstart.html#default-templates
 http://www.tangowithdjango.com/book17/chapters/login_redux.html
@@ -5887,16 +5901,11 @@ https://github.com/macdhuibh/django-registration-templates
 
 https://github.com/macropin/django-registration
 
-User Registration
-fłake8 https://pypi.python.org/pypi/flake8
-
 http://django-authtools.readthedocs.io
 https://github.com/fusionbox/django-authtools
 https://pypi.python.org/pypi/django-two-factor-auth
 
-https://simpleisbetterthancomplex.com
 https://github.com/sibtc/django-registration-user-profile-example/blob/master/core/models.py
-https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
 https://github.com/sibtc/django-registration-user-profile-example/blob/master/mysite/urls.py
 -->
 
@@ -5916,6 +5925,8 @@ Python- Imaging Library (Pillow) and ImageKit
 * [Django ImageKit Read the Docs](http://django-imagekit.readthedocs.io)
 
 <!--
+https://python-pillow.org
+
 http://cloudinary.com/documentation/django_integration
 https://devcenter.heroku.com/articles/cloudinary#using-with-django
 https://github.com/cloudinary/pycloudinary
@@ -5932,12 +5943,6 @@ Python- Django- Forms
 * [django-floppyforms Read the Docs](http://django-floppyforms.readthedocs.org)
 * [django-forms-bootstrap PyPi](https://pypi.python.org/pypi/django-forms-bootstrap)
 * [django-forms-builder GitHub](https://github.com/stephenmcd/django-forms-builder)
-
-<!--
-https://github.com/django/django-localflavor
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
--->
 
 <!--
 Security
@@ -5994,6 +5999,10 @@ Python- Django-MPTT (Modified Pre-Order Traversal Tree)
 * [Django-MPTT](http://django-mptt.github.io/django-mptt)  
 * [Django-MPTT GitHub](https://github.com/django-mptt/django-mptt)  
 * [Django-MPTT PyPi](https://pypi.python.org/pypi/django-mptt)  
+
+<!--
+http://django-mptt.github.io/django-mptt/templates.html
+-->
 
 Python- Django-Treebeard (Modified Pre-Order Traversal Tree)
 * [Django-Treebeard](https://tabo.pe/projects/django-treebeard)  
