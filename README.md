@@ -5341,6 +5341,7 @@ Python- Users and Members
 <!--
 http://wiki.python.org/moin/LocalUserGroups
 http://www.python.org/community/irc
+https://www.python.org/community/workshops
 
 Guido van Rossum
 https://docs.python.org/devguide
@@ -5357,8 +5358,6 @@ http://lanyrd.com/search/?context=future&q=django&type=conference
 
 https://github.com/python/community-starter-kit
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
-
-https://www.python.org/community/workshops
 -->
 
 Python Mentors
@@ -5439,7 +5438,6 @@ Python- Django- Dedicated Websites
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
 
 <!--
-https://simpleisbetterthancomplex.com
 https://github.com/simpleisbetterthancomplex/simple-academy
 
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
