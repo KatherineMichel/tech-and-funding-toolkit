@@ -6755,6 +6755,9 @@ https://github.com/MitocGroup/deep-microservices-todomvc
 #### Heroku
 
 <!--
+heroku ps:scale web=1
+Heroku SSL
+
 https://blog.heroku.com/deploying-react-with-zero-configuration
 
 https://devcenter.heroku.com/articles/dropbox-sync
