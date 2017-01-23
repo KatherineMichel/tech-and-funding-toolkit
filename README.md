@@ -6409,6 +6409,8 @@ http://docs.aws.amazon.com/cli/latest/userguide/tutorial-ec2-ubuntu.html
 https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-credentials-in-the-aws-sdks/
 https://aws.amazon.com/about-aws/whats-new/2016/12/aws-config-now-enables-you-to-create-50-or-more-config-rules-in-your-aws-account
 
+http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
+
 https://aws.amazon.com/blogs/security/announcing-aws-organizations-centrally-manage-multiple-aws-accounts
 
 https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
@@ -6426,15 +6428,19 @@ https://aws.amazon.com/blogs/aws/well-architected-working-backward-to-play-it-fo
 https://aws.amazon.com/about-aws/whats-new/2016/10/bitbucket-data-center-and-jira-software-data-center-on-the-aws-cloud-quick-start-reference-deployments
 https://aws.amazon.com/about-aws/whats-new/2016/01/aws-elastic-beanstalk-adds-support-for-t2-nano-instances-and-amazon-ec2-container-registry/
 https://medium.com/aws-enterprise-collection/a-process-for-mass-migrations-to-the-cloud-ee7ff5d7b3d1#.xuvj6p31i
-https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/
 https://aws.amazon.com/blogs/aws/cloudwatch-update-jump-from-metrics-to-associated-logs
 https://news.ycombinator.com/item?id=10741575
-https://www.youtube.com/watch?v=SUnjmoc7h70
-https://forums.aws.amazon.com/ann.jspa?annID=3994
 https://github.com/eawsy/aws-lambda-go
 http://coenraets.org/blog/2012/01/setting-up-wordpress-on-amazon-ec2-in-5-minutes/
 
 https://aws.amazon.com/blogs/apn/how-to-best-architect-your-aws-marketplace-saas-subscription-across-multiple-aws-accounts/
+
+Marketplace
+https://www.youtube.com/watch?v=SUnjmoc7h70
+
+.NET
+https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/
+https://forums.aws.amazon.com/ann.jspa?annID=3994
 -->
 
 <!--
@@ -6453,17 +6459,12 @@ From other list
 * [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
 * [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
 
-http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
-
-
 
 
 No longer exists
 http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
 * [Amazon Profiles](http://www.amazon.com/gp/profile)
-
-* [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 
 https://aws.amazon.com/business-builder/?nc1=f_dr
 
@@ -6653,9 +6654,6 @@ http://docs.aws.amazon.com/devops/latest/gsg/welcome.html
 
 https://aws.amazon.com/console
 
-https://aws.amazon.com/simpledb/pricing
-https://aws.amazon.com/ebs/pricing
-
 https://aws.amazon.com/marketplace/pp/B00NN8Y43U
 https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
 https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
@@ -6683,6 +6681,7 @@ AWS- Websites, Mobile, Social
 * [AWS Web Mobile Social](http://aws.amazon.com/web-mobile-social)
 * [AWS Mobile](https://aws.amazon.com/mobile)
 * [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
+* [AWS Mobile Analytics](http://aws.amazon.com/mobileanalytics)
 
 AWS- Elastic Beanstalk and S3
 * [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
@@ -6693,6 +6692,10 @@ https://aws.amazon.com/free
 https://aws.amazon.com/pricing/services
 
 http://aws.amazon.com/pricing
+
+https://aws.amazon.com/simpledb/pricing
+https://aws.amazon.com/ebs/pricing
+
 https://aws.amazon.com/ec2/instance-types
 https://aws.amazon.com/ec2/purchasing-options
 https://aws.amazon.com/ec2/pricing
