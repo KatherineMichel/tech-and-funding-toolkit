@@ -6721,6 +6721,9 @@ AWS- Lambda (See also Google Cloud Functions)
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
+http://docs.aws.amazon.com/rekognition/latest/dg/what-is.html
+https://aws.amazon.com/rekognition/
+
 https://aws.amazon.com/machine-learning
 https://aws.amazon.com/api-gateway
 
