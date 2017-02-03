@@ -120,6 +120,7 @@ Kansas Non-Profit
 ## Analyst Agencies
 * [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
 * [Booz Allen](https://github.com/boozallen)
+* [Deloitte Solutions](https://github.com/DeloitteSolutions)
 
 ## Digital Agency
 * [Eldarion](https://github.com/eldarion)
