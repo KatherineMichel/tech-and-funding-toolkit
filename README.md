@@ -2223,6 +2223,12 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 #### Git and Markdown
 
 <!--
+https://github.com/blog/subscribe
+https://guides.github.com/introduction/flow/index.html
+https://github.com/blog/2267-introducing-github-community-guidelines
+-->
+
+<!--
 GitHub Cheatsheet
 https://gist.github.com/akras14/3d242d80af8388ebca60
 
@@ -11859,6 +11865,7 @@ Presentations (See also JavaScript Presentations Frameworks)
 * [Prezi](https://prezi.com)
 
 <!--
+See also GitHub
 https://github.com/integrations/gitpitch
 https://gitpitch.com/gitpitch/gitpitch
 -->
