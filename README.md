@@ -4387,7 +4387,9 @@ Jekyll Admin/CMS
 * [CloudCannon](http://cloudcannon.com)
 
 <!--
+https://github.com/CloudCannon/Jekyll-Tips
 https://github.com/CloudCannon/JekyllConf
+https://github.com/CloudCannon/Strata-Jekyll-Theme
 
 https://github.com/integrations/siteleaf
 https://staticman.net
