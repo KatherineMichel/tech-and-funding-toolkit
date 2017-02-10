@@ -2098,6 +2098,22 @@ TextWrangler (Recommended for Hard to Edit Files)
 
 <!--
 http://www.barebones.com/products/bbedit/comparison.html
+
+Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
+* Atom
+* [WebStorm](https://www.jetbrains.com/webstorm)
+* [Brackets](http://brackets.io)
+* VSCode
+
+http://brackets.io/
+https://github.com/adobe/brackets/wiki/Brackets-Shortcuts
+https://github.com/adobe/brackets/wiki/How-to-Use-Brackets
+
+See also Editors
+
+EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
+http://editorconfig.org/#download
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 -->
 
 Unix Shell (See also Unix)
@@ -3750,20 +3766,6 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 #### JavaScript Tools
 
-Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
-* Atom
-* [WebStorm](https://www.jetbrains.com/webstorm)
-* [Brackets](http://brackets.io)
-* VSCode
-
-<!--
-See also Editors
-
-EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
-http://editorconfig.org/#download
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
--->
-
 Node.js
 * [Node.js](http://nodejs.org)  
 * [Node.js Docs/API](http://nodejs.org/api/)  
@@ -5114,6 +5116,13 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+New
+http://www.pyinvoke.org/
+https://pypi.python.org/pypi/mock
+http://www.sphinx-doc.org/en/stable/
+https://pypi.python.org/pypi/johnny-cache
+https://coverage.readthedocs.io/en/coverage-4.3.4/
+
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
 PyCoders Weekly and Python Weekly
@@ -11683,6 +11692,8 @@ Mobile Two Factor Authentication
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
 <!--
+https://www.torproject.org
+
 https://www.google.com/landing/2step
 
 https://www.dashlane.com
@@ -11928,6 +11939,10 @@ Crowd Sourced Internet Marketplace
 * [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
 * [Crowdflower](http://www.crowdflower.com)  
 
+<!--
+21.co
+-->
+
 Task Automation
 * [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
 * [Microsoft Flow](https://flow.microsoft.com)
@@ -11959,6 +11974,8 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
+https://www.creditsesame.com
+
 https://mightybell.com
 
 https://www.hellobonsai.com
@@ -11986,6 +12003,8 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
+https://remoteok.io/remote-companies
+
 http://stackoverflow.com/jobs?sort=y&allowsremote=true
 
 https://angel.co/jobs
