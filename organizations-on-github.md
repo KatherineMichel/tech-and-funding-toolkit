@@ -280,6 +280,7 @@ https://github.com/BuzzFeedNews/everything
 * [LinkedIn](https://github.com/linkedin)  
 * [Lyft](https://github.com/lyft)
 * [MailChimp](https://github.com/mailchimp)  
+* [ManageIQ](https://github.com/ManageIQ)
 * [Mashery](https://github.com/mashery)  
 * [Medium](https://github.com/medium)
 
