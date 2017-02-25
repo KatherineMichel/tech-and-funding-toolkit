@@ -33,6 +33,7 @@
 * [Google Chrome](https://github.com/GoogleChrome)  
 * [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
 * [Google Cloud Platform](https://github.com/GoogleCloudPlatform)  
+* [Google Developer Training](https://github.com/google-developer-training) 
 * [Google Drive](https://github.com/googledrive)  
 * [Google Glass](https://github.com/googleglass)  
 * [Google Knowledge](https://github.com/googleknowledge)  
@@ -69,6 +70,7 @@ U.S. Government
 
 U.S. Government- Agencies
 * [Consumer Financial Protection Bureau](https://github.com/cfpb)
+* [Department of Defense](https://github.com/deptofdefense) 
 * [Department of Labor](https://github.com/USDepartmentofLabor) 
 * [Department of Veterans Affairs](https://github.com/department-of-veterans-affairs)
 * [Food and Drug Administration (FDA)](https://github.com/FDA) 
