@@ -146,6 +146,7 @@ Kansas Non-Profit
 * [CodePath](https://github.com/codepath)
 * [Coursera](https://github.com/coursera)  
 * [edX](https://github.com/edx) 
+* [egghead.io](https://github.com/eggheadio)
 * [freeCodeCamp](https://github.com/freeCodeCamp) 
 * [Jewelbots](https://github.com/Jewelbots)
 * [Khan Academy](https://github.com/Khan)
@@ -175,6 +176,7 @@ https://github.com/BuzzFeedNews/everything
 -->
 
 * [Census Reporter](https://github.com/censusreporter) 
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
 * [Data Desk](https://github.com/datadesk)  
 * [Duke Chronicle](https://github.com/dukechronicle)
 * [Financial Times](https://github.com/Financial-Times)  
