@@ -5223,6 +5223,7 @@ Python- Django- Sites
 
 Python- Django- Major Organizations and Projects that Use Django (Excluding Templates)
 * [18F GitHub](https://github.com/18F)  
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
 * [Disqus](https://github.com/disqus)
 * [Instagram GitHub](https://github.com/instagram)  
 * [Knight Foundation](http://www.knightfoundation.org/apps)  
