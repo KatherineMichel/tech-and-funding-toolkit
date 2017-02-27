@@ -311,6 +311,7 @@ https://github.com/Medium/medium-policy
 * [Pearson Technology](https://github.com/pearsontechnology)
 * [Photobucket](https://github.com/photobucket)  
 * [Pinterest](https://github.com/pinterest)  
+* [Pivotal Labs](https://github.com/pivotal)
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
 * [Pixate](https://github.com/Pixate)
 * [Postmates](https://github.com/postmates) 
