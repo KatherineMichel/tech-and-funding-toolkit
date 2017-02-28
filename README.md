@@ -1864,6 +1864,11 @@ Google Chrome Doc Archive
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
 
 <!--
+https://www.udacity.com/course/website-performance-optimization--ud884
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/
+https://zapier.com/blog/inspect-element-tutorial/
+
+
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://developers.google.com/cast/docs/developers
 
@@ -2073,6 +2078,9 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [Sublime Text Editor](http://www.sublimetext.com)
 * [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
 * [Textmate](http://macromates.com) and [Textmate GitHub](https://github.com/textmate/textmate)
+* [Notepad++ (Windows)](https://notepad-plus-plus.org)
+
+Less Common
 * [Orgmode.org](http://orgmode.org)  
 * [Orgmode.org/features](http://orgmode.org/features.html)  
 * [.emacs.d](https://github.com/seshness/.emacs.d)  
@@ -2923,6 +2931,9 @@ W3C
 Better Reference than W3C
 * [WHATWG](https://whatwg.org) and [WHATWG Developers](https://developers.whatwg.org)
 
+<!--
+https://developer.mozilla.org/en-US/docs/Web
+-->
 
 W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
@@ -2945,6 +2956,10 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
+<!--
+http://www.w3schools.com/css/css3_intro.asp
+-->
+
 Multi-Device Layout Patterns
 * [Multi-Device Layout Patterns by Luke Wroblewski](http://www.lukew.com/ff/entry.asp?1514)
 
@@ -2966,6 +2981,11 @@ Bootstrap, Font Awesome
 * [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 * [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
+<!--
+http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
+http://glyphicons.bootstrapcheatsheets.com/
+-->
+
 Compilation Resources (See also Gulp)
 * [Compass GitHub](https://github.com/chriseppstein/compass)  
 * [Less GitHub](https://github.com/less/less.js)  
@@ -2984,6 +3004,7 @@ CSS Reset (HTML5 Compatibility Check/Normalization)
 Cross Browser and Sniffing
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 * [Browser Sniffing Wikipedia](https://en.wikipedia.org/wiki/Browser_sniffing)
+* [User Agent Wikipedia](https://en.wikipedia.org/wiki/User_agent)
 * [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
 
 Can I Use and Vendor-prefixed CSS Property Overview
@@ -3004,22 +3025,44 @@ W3C DOM4
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
 <!--
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+https://developer.mozilla.org/en-US/docs/Web/API/Headers
+http://www.w3schools.com/js/js_hoisting.asp
+https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js
+
+Binary Operands
+https://www.techopedia.com/definition/23953/binary-operator
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+
+http://www.w3schools.com/Sql/sql_quickref.asp
+
+http://www.w3schools.com/tags/ref_byfunc.asp
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
+https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
+
 https://v4-alpha.getbootstrap.com/layout/grid/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 https://developer.mozilla.org/en-US/docs/Web/CSS/grid
 
-https://www.w3schools.com/TAgs/att_meta_charset.asp
-https://www.w3schools.com/html/html_charset.asp
 
 https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps
 https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps#enable_source_maps_in_settings
 https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map
 http://blog.teamtreehouse.com/introduction-source-maps
 
-https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
-https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
+https://www.w3schools.com/TAgs/att_meta_charset.asp
+https://www.w3schools.com/html/html_charset.asp
+
 http://www.w3schools.com/tags/tag_pre.asp
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
+https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
+
 
 https://www.w3.org/standards/about.html
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
@@ -3029,12 +3072,18 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
 https://www.w3schools.com/css/css_pseudo_classes.asp
 https://www.w3schools.com/tags/tag_span.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
 https://www.w3schools.com/css/css3_flexbox.asp
 https://www.w3.org/TR/css-flexbox-1/
 
-http://www.w3fools.com/
 http://www.w3schools.com/css/css_boxmodel.asp
+
+http://www.w3fools.com/
+
+http://www.w3schools.com/cssref/
+http://www.w3schools.com/cssref/default.asp
+http://www.w3schools.com/css/css_text.asp
 http://www.w3schools.com/css/css_howto.asp
 http://www.w3schools.com/cssref/pr_pos_z-index.asp
 http://www.w3schools.com/html/html_entities.asp
@@ -3046,28 +3095,20 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
 
 https://www.w3.org/TR/CSS/#css
 
-http://www.w3schools.com/cssref/
 http://www.w3schools.com/cssref/pr_class_position.asp
 http://www.w3schools.com/css/css_positioning.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/position
-http://www.w3schools.com/css/css3_intro.asp
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/@import
 https://teamtreehouse.com/library/css-basics/getting-started-with-css/importing-style-sheets-with-import
 https://www.w3.org/TR/CSS21/propidx.html
 https://www.w3.org/TR/css3-selectors/
 https://www.w3.org/Style/CSS/
-http://www.w3schools.com/css/css_text.asp
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
 https://www.w3.org/People/Bos/Stylesheets/textfont.html
 
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
-http://www.w3schools.com/cssref/default.asp
 http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS
-http://www.w3schools.com/cssref/
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 
 
@@ -3151,6 +3192,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
 https://developer.mozilla.org/en-US/docs/Web/MathML
 https://developer.mozilla.org/en-US/docs/Glossary
 -->
+
 <!--
 http://whatwg.github.io/loader
 
@@ -3188,6 +3230,10 @@ JavaScript Tutorials- Mozilla
 * [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+<!--
+http://www.w3schools.com/js/js_reserved.asp
+-->
 
 CommonJS
 * [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
@@ -3340,6 +3386,9 @@ Learn XML
 http://www.w3schools.com/xml/default.asp
 Learn XSLT
 http://www.w3schools.com/xsl/default.asp
+
+http://www.w3schools.com/xml/xsl_intro.asp
+http://www.w3schools.com/xml/xquery_intro.asp
 
 XML, XHTML
 * [XML Wikibook](https://en.wikipedia.org/wiki/XML)
@@ -4682,6 +4731,9 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+https://github.com/python/cpython
+https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
+
 New
 http://www.pyinvoke.org/
 https://pypi.python.org/pypi/mock
@@ -9489,6 +9541,7 @@ https://plus.google.com/collection/gbVpb
 * [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
 * [Dan Sinker GitHub](https://github.com/sinker)
 * [Edward Tufte GitHub](https://github.com/edwardtufte)
+* [Eric A. Meyer](http://meyerweb.com)
 * [Harper Reed GitHub](https://github.com/harperreed)
 * [John Resig](http://ejohn.org/blog) 
 * [Joel Spolsky](http://www.joelonsoftware.com)
