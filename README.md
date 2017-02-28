@@ -1132,14 +1132,23 @@ Turn Key Websites
 Miscellaneous
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-Lipsum
-* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
+Color
+* [Color Wikipedia](https://en.wikipedia.org/wiki/Color)
+* [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
+* [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
+
+Style Tiles
+* [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
+
+Typographic Scale and Vertical Rhythm
+* [Modular Scale](http://www.modularscale.com)
+* [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
+
+Web-Safe Fonts
+* [Web Safe Fonts Wikipedia](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
 
 <!--
 Design Teardowns
-
-Style Tiles
-http://styletil.es/#examples
 
 https://en.wikipedia.org/wiki/RGBA_color_space
 
@@ -1152,22 +1161,15 @@ https://en.wikipedia.org/wiki/Em_(typography)
 
 Fonts
 http://www.cssfontstack.com/
-https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
-
-Typographic Scale and Vertical Rhythm
-https://drewish.com/tools/vertical-rhythm/
-http://www.modularscale.com/
 -->
 
 Fonts (See also Google Apps)
 * [Font Famous](http://fontfamous.com)
 * [Fontscape](http://www.fontscape.com)
 
-Color
-* [Color Wikipedia](https://en.wikipedia.org/wiki/Color)
-* [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
-* [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
+Lipsum
+* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
 Adobe (See also Edge Code and Brackets)
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
@@ -1253,11 +1255,9 @@ Accelerated Mobile Pages (AMP HTML)
 Progressive Web Apps
 * [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
 * [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps), [Google Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
 
 <!--
-New
-https://github.com/google-developer-training/pwa-training-labs
-
 https://developers.google.com/web/showcase
 https://github.com/TalAter/awesome-progressive-web-apps
 https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
@@ -1486,12 +1486,6 @@ Web Browser
 * [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
 * [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
-
-<!--
-https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing
-https://en.wikipedia.org/wiki/Browser_sniffing
--->
 
 Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
@@ -2620,23 +2614,6 @@ https://www.w3.org/TR/html401/struct/global.html
 http://html5doctor.com/outlines/
 Semantic Site Audit
 
-http://webaim.org/techniques/screenreader/
-Screen Reader Outline
-http://www.chromevox.com/
-https://en.wikipedia.org/wiki/WAI-ARIA
-Normal Document Flow
-https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
-https://www.microsoft.com/enable/products/ie11/
-
-https://whatwg.org/
-https://developers.whatwg.org/
-http://caniuse.com/
-http://quirksmode.org/css/contents.html
-https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
-http://www.iecss.com/
-
-
-
 Cascade
 https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
 https://www.w3.org/TR/CSS2/cascade.html
@@ -2651,17 +2628,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
 http://blog.teamtreehouse.com/use-html5-sectioning-elements
 
 http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
-https://github.com/MicrosoftDocs/edge-developer
-https://en.wikipedia.org/wiki/Internet_Explorer_8
-
-https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
-
-Accessibility
-https://validator.w3.org/nu
-http://webaim.org/resources/contrastchecker
 -->
 
 Web General (See also JavaScript) 
@@ -2694,11 +2660,6 @@ CSS
 CSS Zen Garden 
 * [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
-
-<!--
-Responsive Design
-http://www.lukew.com/ff/entry.asp?1514
--->
 
 Responsive Design Examples
 * [Media Queries Examples](http://mediaqueri.es)
@@ -2901,6 +2862,10 @@ App Invites or Beta Testing
 * [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
 * [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
 Accessibility
 * [WebAIM](http://webaim.org)
 * [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
@@ -2917,16 +2882,40 @@ https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-acce
 Microsoft Inclusion Approach
 * [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
 
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
+<!--
+Accessibility
+https://validator.w3.org/nu
 
+http://webaim.org/techniques/screenreader/
+Screen Reader Outline
+http://www.chromevox.com/
+https://en.wikipedia.org/wiki/WAI-ARIA
 
+Normal Document Flow
+https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
+https://www.microsoft.com/enable/products/ie11/
+
+http://quirksmode.org/css/contents.html
+https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
+http://www.iecss.com/
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
+https://github.com/MicrosoftDocs/edge-developer
+https://en.wikipedia.org/wiki/Internet_Explorer_8
+
+https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
+-->
 
 #### Standards
 
+W3C
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
+
+
+Better Reference than W3C
+* [WHATWG](https://whatwg.org) and [WHATWG Developers](https://developers.whatwg.org)
 
 
 W3C HTML Standards
@@ -2950,12 +2939,8 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
-Compilation Resources (See also Gulp)
-* [Compass GitHub](https://github.com/chriseppstein/compass)  
-* [Less GitHub](https://github.com/less/less.js)  
-* [Less for Windows](http://winless.org)
-* [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
-* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
+Multi-Device Layout Patterns
+* [Multi-Device Layout Patterns by Luke Wroblewski](http://www.lukew.com/ff/entry.asp?1514)
 
 Responsiveness- and Media Queries
 * [Bootstrap CSS](http://getbootstrap.com/css)
@@ -2975,6 +2960,13 @@ Bootstrap, Font Awesome
 * [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 * [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
+Compilation Resources (See also Gulp)
+* [Compass GitHub](https://github.com/chriseppstein/compass)  
+* [Less GitHub](https://github.com/less/less.js)  
+* [Less for Windows](http://winless.org)
+* [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
+* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass) 
+
 CSS Reset (HTML5 Compatibility Check/Normalization)
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
 * [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
@@ -2987,6 +2979,14 @@ http://meyerweb.com/eric/tools/css/reset
 http://cssreset.com/scripts/eric-meyer-reset-css
 https://yuilibrary.com/yui/docs/cssreset
 https://developer.yahoo.com/yui/reset 
+-->
+
+Cross Browser and Sniffing
+* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
+* [Browser Sniffing Wikipedia](https://en.wikipedia.org/wiki/Browser_sniffing)
+
+<!--
+https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing
 -->
 
 Can I Use and Vendor-prefixed CSS Property Overview
