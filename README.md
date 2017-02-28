@@ -2878,14 +2878,21 @@ https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
 http://www.iecss.com/
 
 Normal Document Flow
+HTML5 Outliner
 https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
-https://www.microsoft.com/enable/products/ie11/
 
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
-https://github.com/MicrosoftDocs/edge-developer
+Accessibility in Internet Explorer 11
+https://www.microsoft.com/enable/products/ie11/
 https://en.wikipedia.org/wiki/Internet_Explorer_8
 
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+
+Microsoft Edge Developer Documentation GitHub
+https://github.com/MicrosoftDocs/edge-developer
+
+Meet the Microsoft Edge F12 Dev Tools
+https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
+Keyboard Shortcuts in F12 Developer Tools
 https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
 -->
 
