@@ -613,12 +613,12 @@ App and Website Statistics- General
 * [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
 * [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
 * [Gallup](http://www.gallup.com/home.aspx)
+* [Moz Top 500](https://moz.com/top500)
 * [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites)
 * [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
 <!--
-https://moz.com/top500
-http://www.100bestwebsites.org/
+http://www.100bestwebsites.org
 -->
 
 Mobile and Browser
@@ -1112,11 +1112,6 @@ https://layer.com/messaging-design-kit
 https://marvelapp.com
 -->
 
-Full Page Screen Shots
-* [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
-* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
-* [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
-
 Quickie Websites
 * [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
 * [Squarespace Templates](https://www.squarespace.com/websites), [Squarespace Customers](https://www.squarespace.com/customers), and [Squarespace Local Development](http://developers.squarespace.com/local-development) 
@@ -1141,6 +1136,13 @@ Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
 <!--
+Design Teardowns
+
+Style Tiles
+http://styletil.es/#examples
+
+https://en.wikipedia.org/wiki/RGBA_color_space
+
 Typography
 https://en.wikipedia.org/wiki/Sans-serif
 https://en.wikipedia.org/wiki/Serif
@@ -1167,66 +1169,6 @@ Color
 * [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
 * [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
 
-<!--
-Responsive Design
-http://www.lukew.com/ff/entry.asp?1514
-
-Design Teardowns
-
-Style Tiles
-http://styletil.es/#examples
-http://www.csszengarden.com/
-
-https://en.wikipedia.org/wiki/RGBA_color_space
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
-https://www.w3.org/TR/html401/struct/global.html
-http://html5doctor.com/outlines/
-Semantic Site Audit
-http://webaim.org/techniques/screenreader/
-Screen Reader Outline
-http://www.chromevox.com/
-https://en.wikipedia.org/wiki/WAI-ARIA
-Normal Document Flow
-https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
-https://www.microsoft.com/enable/products/ie11/
-
-https://whatwg.org/
-https://developers.whatwg.org/
-http://caniuse.com/
-http://quirksmode.org/css/contents.html
-https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
-http://www.iecss.com/
-
-
-
-Cascade
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
-https://www.w3.org/TR/CSS2/cascade.html
-
-Semantic Elements
-https://en.wikipedia.org/wiki/Semantic_HTML
-http://www.w3schools.com/html/html5_semantic_elements.asp
-
-HTML Elements/Sections
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
-http://blog.teamtreehouse.com/use-html5-sectioning-elements
-
-http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
-https://github.com/MicrosoftDocs/edge-developer
-https://en.wikipedia.org/wiki/Internet_Explorer_8
-
-https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
-
-Accessibility
-https://validator.w3.org/nu
-http://webaim.org/resources/contrastchecker
--->
-
 Adobe (See also Edge Code and Brackets)
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
 * [Adobe Lightroom](https://lightroom.adobe.com)
@@ -1235,10 +1177,7 @@ Adobe (See also Edge Code and Brackets)
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
 * [Adobe Kuler Color Themes](https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html)
 * [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
-
-<!--
-https://spark.adobe.com
--->
+* [Adobe Spark](https://spark.adobe.com)
 
 Photo Editing (See also Adobe)
 * [Nik Collection](https://www.google.com/nikcollection)
@@ -1270,6 +1209,11 @@ Free Photos
 
 Flickr
 * [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+Full Page Screen Shots
+* [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
+* [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
 
 Photo Enhancement
 * [Prisma](http://prisma-ai.com) and [Prisma iTunes](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
@@ -2749,6 +2693,56 @@ Types of Licenses
 
 #### Front-End Development
 
+<!--
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+https://www.w3.org/TR/html401/struct/global.html
+http://html5doctor.com/outlines/
+Semantic Site Audit
+
+http://webaim.org/techniques/screenreader/
+Screen Reader Outline
+http://www.chromevox.com/
+https://en.wikipedia.org/wiki/WAI-ARIA
+Normal Document Flow
+https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
+https://www.microsoft.com/enable/products/ie11/
+
+https://whatwg.org/
+https://developers.whatwg.org/
+http://caniuse.com/
+http://quirksmode.org/css/contents.html
+https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
+http://www.iecss.com/
+
+
+
+Cascade
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+https://www.w3.org/TR/CSS2/cascade.html
+
+Semantic Elements
+https://en.wikipedia.org/wiki/Semantic_HTML
+http://www.w3schools.com/html/html5_semantic_elements.asp
+
+HTML Elements/Sections
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+http://blog.teamtreehouse.com/use-html5-sectioning-elements
+
+http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
+https://github.com/MicrosoftDocs/edge-developer
+https://en.wikipedia.org/wiki/Internet_Explorer_8
+
+https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
+
+Accessibility
+https://validator.w3.org/nu
+http://webaim.org/resources/contrastchecker
+-->
+
 Web General (See also JavaScript) 
 * [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 * [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
@@ -2779,6 +2773,11 @@ CSS
 CSS Zen Garden 
 * [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
+
+<!--
+Responsive Design
+http://www.lukew.com/ff/entry.asp?1514
+-->
 
 Responsive Design Examples
 * [Media Queries Examples](http://mediaqueri.es)
