@@ -615,6 +615,11 @@ App and Website Statistics- General
 * [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites)
 * [ComScore](http://www.comscore.com/Insights/Market-Rankings)
 
+<!--
+https://moz.com/top500
+http://www.100bestwebsites.org/
+-->
+
 Mobile and Browser
 * [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
 * [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
@@ -1143,12 +1148,96 @@ Color
 * [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
 * [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
 
-Photoshop and Similar
-* [Nik Collection](https://www.google.com/nikcollection)
-* [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
+<!--
+http://www.lukew.com/ff/entry.asp?1514
+
+Design Teardowns
+http://styletil.es/#examples
+http://www.csszengarden.com/
+
+http://meyerweb.com/eric/tools/css/reset/
+http://cssreset.com/scripts/eric-meyer-reset-css/
+https://yuilibrary.com/yui/docs/cssreset/
+https://developer.yahoo.com/yui/reset/
+
+http://www.cssfontstack.com/
+https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
+https://en.wikipedia.org/wiki/Sans-serif
+https://en.wikipedia.org/wiki/Serif
+http://www.w3schools.com/tags/tag_em.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
+https://en.wikipedia.org/wiki/Em_(typography)
+
+https://en.wikipedia.org/wiki/RGBA_color_space
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+https://www.w3.org/TR/html401/struct/global.html
+http://html5doctor.com/outlines/
+Semantic Site Audit
+http://webaim.org/techniques/screenreader/
+Screen Reader Outline
+http://www.chromevox.com/
+https://en.wikipedia.org/wiki/WAI-ARIA
+Normal Document Flow
+https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
+https://www.microsoft.com/enable/products/ie11/
+
+https://drewish.com/tools/vertical-rhythm/
+Typographic Scale:
+http://www.modularscale.com/
+CSS Reset (ex. Normalize)
+http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
+
+https://whatwg.org/
+https://developers.whatwg.org/
+http://caniuse.com/
+http://quirksmode.org/css/contents.html
+https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
+http://www.iecss.com/
+
+https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
+https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
+
+https://validator.w3.org/nu/
+http://webaim.org/resources/contrastchecker/
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
+https://github.com/MicrosoftDocs/edge-developer
+https://en.wikipedia.org/wiki/Internet_Explorer_8
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+https://www.w3.org/TR/CSS2/cascade.html
+
+https://en.wikipedia.org/wiki/Semantic_HTML
+http://www.w3schools.com/html/html5_semantic_elements.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+http://blog.teamtreehouse.com/use-html5-sectioning-elements
+-->
+
+Adobe (See also Brackets)
+* [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
 * [Adobe Lightroom](https://lightroom.adobe.com)
 * [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
 * [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
+
+<!--
+http://www.adobe.com/products/edge-code.html
+https://edgewebfonts.adobe.com/
+https://color.adobe.com/create/color-wheel/
+https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html
+
+https://creative.adobe.com/products/code
+http://lisacatalano.github.io/brackets_course/pc.html
+
+Brackets turn off word wrap
+Brackets control-e
+-->
+
+Photo Editing (See also Adobe)
+* [Nik Collection](https://www.google.com/nikcollection)
 * [Gimp](http://www.gimp.org), [Gimp Docs](http://docs.gimp.org), and [Gimp Plugin Registry](http://registry.gimp.org/glossary/a)
 * [Inkscape](http://www.inkscape.org/en)  
 * [Serif](http://www.serif.com)
@@ -1157,6 +1246,10 @@ Photoshop and Similar
 https://en.wikipedia.org/wiki/Bokeh
 
 https://spark.adobe.com
+
+https://www.gimp.org/unix/howtos/tile_cache.html
+https://docs.gimp.org/en/gimp-using-setup-tile-cache.html
+https://docs.gimp.org/en/gimp-document-dialog.html
 
 https://docs.gimp.org/en/gimp-tutorial-quickie-separate.html
 https://docs.gimp.org/en/gimp-layer-alpha-selection-add.html
@@ -1296,6 +1389,8 @@ Progressive Web Apps
 
 <!--
 New
+https://github.com/google-developer-training/pwa-training-labs
+
 https://developers.google.com/web/showcase
 https://github.com/TalAter/awesome-progressive-web-apps
 https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
@@ -1937,6 +2032,8 @@ Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 <!--
+https://www.mozilla.org/en-US/firefox/products
+
 https://testpilot.firefox.com
 -->
 
@@ -2093,6 +2190,13 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [.emacs.d](https://github.com/seshness/.emacs.d)  
 * [Lighttable](http://www.lighttable.com)  
 
+<!--
+* [Brackets](http://brackets.io)
+http://brackets.io/
+https://github.com/adobe/brackets/wiki/Brackets-Shortcuts
+https://github.com/adobe/brackets/wiki/How-to-Use-Brackets
+-->
+
 TextWrangler (Recommended for Hard to Edit Files)
 * [TextWrangler](http://www.barebones.com/products/textwrangler)
 
@@ -2102,12 +2206,7 @@ http://www.barebones.com/products/bbedit/comparison.html
 Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 * Atom
 * [WebStorm](https://www.jetbrains.com/webstorm)
-* [Brackets](http://brackets.io)
 * VSCode
-
-http://brackets.io/
-https://github.com/adobe/brackets/wiki/Brackets-Shortcuts
-https://github.com/adobe/brackets/wiki/How-to-Use-Brackets
 
 See also Editors
 
