@@ -21,6 +21,7 @@ Table of Content
 * [Company and Product Databases](#company-and-product-databases)
 * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
 * [Surveys, Trends, Stats](#surveys-trends-stats)
+
 * [Site and App Research](#site-and-app-research)
 
 * [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
@@ -1139,6 +1140,24 @@ Miscellaneous
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
+<!--
+Typography
+https://en.wikipedia.org/wiki/Sans-serif
+https://en.wikipedia.org/wiki/Serif
+http://www.w3schools.com/tags/tag_em.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
+https://en.wikipedia.org/wiki/Em_(typography)
+
+Fonts
+http://www.cssfontstack.com/
+https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
+Typographic Scale and Vertical Rhythm
+https://drewish.com/tools/vertical-rhythm/
+http://www.modularscale.com/
+-->
+
 Fonts (See also Google Apps)
 * [Font Famous](http://fontfamous.com)
 * [Fontscape](http://www.fontscape.com)
@@ -1149,26 +1168,14 @@ Color
 * [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
 
 <!--
+Responsive Design
 http://www.lukew.com/ff/entry.asp?1514
 
 Design Teardowns
+
+Style Tiles
 http://styletil.es/#examples
 http://www.csszengarden.com/
-
-http://meyerweb.com/eric/tools/css/reset/
-http://cssreset.com/scripts/eric-meyer-reset-css/
-https://yuilibrary.com/yui/docs/cssreset/
-https://developer.yahoo.com/yui/reset/
-
-http://www.cssfontstack.com/
-https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts
-https://www.w3schools.com/cssref/css_websafe_fonts.asp
-
-https://en.wikipedia.org/wiki/Sans-serif
-https://en.wikipedia.org/wiki/Serif
-http://www.w3schools.com/tags/tag_em.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
-https://en.wikipedia.org/wiki/Em_(typography)
 
 https://en.wikipedia.org/wiki/RGBA_color_space
 
@@ -1184,12 +1191,6 @@ Normal Document Flow
 https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
 https://www.microsoft.com/enable/products/ie11/
 
-https://drewish.com/tools/vertical-rhythm/
-Typographic Scale:
-http://www.modularscale.com/
-CSS Reset (ex. Normalize)
-http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
-
 https://whatwg.org/
 https://developers.whatwg.org/
 http://caniuse.com/
@@ -1197,24 +1198,33 @@ http://quirksmode.org/css/contents.html
 https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
 http://www.iecss.com/
 
-https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
-https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
 
-https://validator.w3.org/nu/
-http://webaim.org/resources/contrastchecker/
+
+Cascade
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+https://www.w3.org/TR/CSS2/cascade.html
+
+Semantic Elements
+https://en.wikipedia.org/wiki/Semantic_HTML
+http://www.w3schools.com/html/html5_semantic_elements.asp
+
+HTML Elements/Sections
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+http://blog.teamtreehouse.com/use-html5-sectioning-elements
+
+http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
+
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
 https://github.com/MicrosoftDocs/edge-developer
 https://en.wikipedia.org/wiki/Internet_Explorer_8
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
-https://www.w3.org/TR/CSS2/cascade.html
+https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
 
-https://en.wikipedia.org/wiki/Semantic_HTML
-http://www.w3schools.com/html/html5_semantic_elements.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
-http://blog.teamtreehouse.com/use-html5-sectioning-elements
+Accessibility
+https://validator.w3.org/nu
+http://webaim.org/resources/contrastchecker
 -->
 
 Adobe (See also Edge Code and Brackets)
@@ -1226,6 +1236,10 @@ Adobe (See also Edge Code and Brackets)
 * [Adobe Kuler Color Themes](https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html)
 * [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
 
+<!--
+https://spark.adobe.com
+-->
+
 Photo Editing (See also Adobe)
 * [Nik Collection](https://www.google.com/nikcollection)
 * [Gimp](http://www.gimp.org), [Gimp Docs](http://docs.gimp.org), and [Gimp Plugin Registry](http://registry.gimp.org/glossary/a)
@@ -1234,8 +1248,6 @@ Photo Editing (See also Adobe)
 
 <!--
 https://en.wikipedia.org/wiki/Bokeh
-
-https://spark.adobe.com
 
 https://www.gimp.org/unix/howtos/tile_cache.html
 https://docs.gimp.org/en/gimp-using-setup-tile-cache.html
@@ -3265,14 +3277,9 @@ http://ppcblog.com/how-google-works
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
 
-
 W3C HTML Standards
 * [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
-
-<!--
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
--->
 
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
@@ -3291,12 +3298,65 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
+Compilation Resources (See also Gulp)
+* [Compass GitHub](https://github.com/chriseppstein/compass)  
+* [Less GitHub](https://github.com/less/less.js)  
+* [Less for Windows](http://winless.org)
+* [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
+* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
+
+Responsiveness- and Media Queries
+* [Bootstrap CSS](http://getbootstrap.com/css)
+* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
+* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
+* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
+
+Bootstrap, Font Awesome
+* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
+* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
+* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
+
+CSS Reset (HTML5 Compatibility Check/Normalization)
+* [Normalize GitHub](https://github.com/necolas/normalize.css)  
+* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
+* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
+* [Shim GitHub](https://github.com/marstall/shim)  
+* [Zepto GitHub](https://github.com/madrobby/zepto) 
+
+<!--
+http://meyerweb.com/eric/tools/css/reset
+http://cssreset.com/scripts/eric-meyer-reset-css
+https://yuilibrary.com/yui/docs/cssreset
+https://developer.yahoo.com/yui/reset 
+-->
+
 Can I Use and Vendor-prefixed CSS Property Overview
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
 * [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
 
-Bootstrap Tutorials
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
+* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
+
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+<!--
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
+-->
 
 <!--
 https://www.w3.org/DesignIssues/Uses.html
@@ -3322,24 +3382,6 @@ http://www.w3.org/TR/CSS21/cover.html#minitoc
 
 https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
 -->
-
-Responsiveness- and Media Queries
-* [Bootstrap CSS](http://getbootstrap.com/css)
-* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
-* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
-* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
-
-Bootstrap, Font Awesome
-* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
-* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
-* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
-* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
 <!--
 https://developer.mozilla.org/en-US/Apps
@@ -3376,21 +3418,6 @@ http://whatwg.github.io/loader
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 -->
 
-
-
-Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
-* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
 <!--
 DOM Tree/Parent Child
 https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
@@ -3406,10 +3433,9 @@ JavaScript Books and Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+* [You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS)
 
 <!--
-New
-https://github.com/getify/You-Dont-Know-JS
 http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 http://shop.oreilly.com/product/9780596517748.do
 
@@ -4139,28 +4165,10 @@ Yo/Yeoman (Bower, Grunt)
 * [Yeoman Webapp Generator GitHub](https://github.com/yeoman/generator-webapp)  
 * [Yeoman Gulp Webapp Generator GitHub](https://github.com/yeoman/generator-gulp-webapp)  
 
-Compilation Resources (See also Gulp)
-* [Compass GitHub](https://github.com/chriseppstein/compass)  
-* [Less GitHub](https://github.com/less/less.js)  
-* [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
-* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass)  
-
-<!--
-less.js for Windows
-http://winless.org
--->
-
 Other JavaScript Helpers
 * [Lodash GitHub](https://github.com/lodash/lodash)
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
-
-HTML5 Compatibility Check/Normalization
-* [Normalize GitHub](https://github.com/necolas/normalize.css)  
-* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
-* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
-* [Shim GitHub](https://github.com/marstall/shim)  
-* [Zepto GitHub](https://github.com/madrobby/zepto)  
 
 Meteor
 * [Meteor](https://www.meteor.com)
