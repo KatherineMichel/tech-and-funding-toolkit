@@ -1152,9 +1152,7 @@ Design Teardowns
 
 https://en.wikipedia.org/wiki/RGBA_color_space
 
-Typography
-https://en.wikipedia.org/wiki/Sans-serif
-https://en.wikipedia.org/wiki/Serif
+Em
 http://www.w3schools.com/tags/tag_em.asp
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
 https://en.wikipedia.org/wiki/Em_(typography)
@@ -1167,6 +1165,9 @@ https://www.w3schools.com/cssref/css_websafe_fonts.asp
 Fonts (See also Google Apps)
 * [Font Famous](http://fontfamous.com)
 * [Fontscape](http://www.fontscape.com)
+
+Typography
+* [Serif Wikipedia](https://en.wikipedia.org/wiki/Serif) and [San Serif Wikipedia](https://en.wikipedia.org/wiki/Sans-serif)
 
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
@@ -1747,10 +1748,7 @@ Chrome (Browser, Layout Engine)
 
 Opera (Also Blink)
 * [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-
-<!--
-http://www.opera.com/computer/neon
--->
+* [Opera Neon](http://www.opera.com/computer/neon)
 
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
@@ -2608,28 +2606,6 @@ Types of Licenses
 
 #### Front-End Development
 
-<!--
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
-https://www.w3.org/TR/html401/struct/global.html
-http://html5doctor.com/outlines/
-Semantic Site Audit
-
-Cascade
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
-https://www.w3.org/TR/CSS2/cascade.html
-
-Semantic Elements
-https://en.wikipedia.org/wiki/Semantic_HTML
-http://www.w3schools.com/html/html5_semantic_elements.asp
-
-HTML Elements/Sections
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
-http://blog.teamtreehouse.com/use-html5-sectioning-elements
-
-http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
--->
-
 Web General (See also JavaScript) 
 * [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 * [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
@@ -2884,20 +2860,19 @@ Microsoft Inclusion Approach
 
 <!--
 Accessibility
-https://validator.w3.org/nu
-
 http://webaim.org/techniques/screenreader/
 Screen Reader Outline
 http://www.chromevox.com/
 https://en.wikipedia.org/wiki/WAI-ARIA
 
-Normal Document Flow
-https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
-https://www.microsoft.com/enable/products/ie11/
 
 http://quirksmode.org/css/contents.html
 https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
 http://www.iecss.com/
+
+Normal Document Flow
+https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
+https://www.microsoft.com/enable/products/ie11/
 
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
@@ -3005,6 +2980,28 @@ W3C DOM4
 * [What is the Document Object Model?](https://www.w3.org/DOM/#what)
 * [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+https://www.w3.org/TR/html401/struct/global.html
+http://html5doctor.com/outlines/
+Semantic Site Audit
+
+Cascade
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+https://www.w3.org/TR/CSS2/cascade.html
+
+Semantic Elements
+https://en.wikipedia.org/wiki/Semantic_HTML
+http://www.w3schools.com/html/html5_semantic_elements.asp
+
+HTML Elements/Sections
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+http://blog.teamtreehouse.com/use-html5-sectioning-elements
+
+http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
+-->
 
 <!--
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
