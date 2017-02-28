@@ -43,10 +43,11 @@ Table of Content
   * [Apple General](#apple-general)
 
 * [Development Environment and Programming](#development-environment-and-programming)
-  * [Apple Developer Tools](#apple-developer-tools)
-  * [Google Developer Tools](#google-developer-tools)
-  * [Microsoft Developer Tools](#microsoft-developer-tools)
-  * [Mozilla Developer Tools](#mozilla-developer-tools)
+  * [Apple Developer](#apple-developer)
+  * [Google Developer](#google-developer)
+  * [Microsoft Developer](#microsoft-developer)
+  * [Mozilla Developer](#mozilla-developer)
+  * [Developer Tools](#developer-tools)
 
   * [Command Line and Shell](#command-line-and-shell)
   * [Keyboard Shortcuts](#keyboard-shortcuts)
@@ -1137,6 +1138,10 @@ Color
 * [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
 * [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
 
+<!--
+https://en.wikipedia.org/wiki/RGBA_color_space
+-->
+
 Style Tiles
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
 
@@ -1144,14 +1149,14 @@ Typographic Scale and Vertical Rhythm
 * [Modular Scale](http://www.modularscale.com)
 * [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
 
+<!--
+Design Teardowns
+-->
+
 Web-Safe Fonts
 * [Web Safe Fonts Wikipedia](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
 
 <!--
-Design Teardowns
-
-https://en.wikipedia.org/wiki/RGBA_color_space
-
 Em
 http://www.w3schools.com/tags/tag_em.asp
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
@@ -1449,7 +1454,7 @@ Twitter
 * [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
 
 Yahoo and Bing- Developer, Webmaster, and Ads
-* [Yahoo Development](http://developer.yahoo.com/), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+* [Yahoo Development](http://developer.yahoo.com), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
 * [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
 * [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
 * [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
@@ -1652,7 +1657,7 @@ https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 
 #### Development Environment and Programming
 
-#### Apple Developer Tools
+#### Apple Developer
 
 Mac OS X 
 * [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
@@ -1674,9 +1679,6 @@ Mac OS X- Architecture
 Apple iOS
 * [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
 * [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
 
 MacPorts
 * [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
@@ -1701,7 +1703,7 @@ Apple Developer and Open Source
 * [Apple Open Source](https://developer.apple.com/opensource)
 * [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
 
-Apple Developer Tools
+Apple Developer Helpers
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
 * [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
@@ -1732,7 +1734,7 @@ https://developer.apple.com/sirikit
 https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
 -->
 
-#### Google Developer Tools
+#### Google Developer
 
 Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
@@ -1762,6 +1764,77 @@ Google Developers- Code
 
 Google Developers- Web
 * [Google Developer Web](https://developers.google.com/web)
+
+Chrome Extensions
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
+* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
+* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+
+<!--
+chrome://apps
+
+https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+
+http://docs.ionic.io/docs/chrome-inspector
+-->
+
+#### Microsoft Developer
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+<!--
+https://www.microsoft.com/en-us/software-download/windows10ISO
+-->
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
+
+Windows SSH and Telnet Client
+* [PuTTY](http://www.putty.org)
+
+<!--
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+-->
+
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
+
+#### Mozilla Developer
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
+
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
+
+<!--
+https://www.mozilla.org/en-US/firefox/products
+
+https://testpilot.firefox.com
+-->
+
+#### Developer Tools
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
 
 Google Developers- Google Chrome Doc
 * [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
@@ -1826,75 +1899,9 @@ Google Maps JavaScript API
 https://developers.google.com/maps/documentation/javascript
 -->
 
-Chrome Extensions
-* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
-* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
-* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
-* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
-
-<!--
-chrome://apps
-
-https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
-
-http://docs.ionic.io/docs/chrome-inspector
--->
-
-#### Microsoft Developer Tools
-
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
-
-<!--
-https://www.microsoft.com/en-us/software-download/windows10ISO
--->
-
-Internet Explorer and Trident (Browser, Layout Engine)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
-
-Edge and EdgeHTML (Browser, Layout Engine)
-* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
-* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
-
-Windows SSH and Telnet Client
-* [PuTTY](http://www.putty.org)
-
-<!--
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
--->
-
-Linux Feeling- on Windows
-* [Cygwin](http://cygwin.com)
-
-#### Mozilla Developer Tools
-
-Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
-
 Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 * [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
-
-Firefox Add-Ons
-* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
-
-<!--
-https://www.mozilla.org/en-US/firefox/products
-
-https://testpilot.firefox.com
--->
 
 #### Command Line and Shell
 
@@ -2943,26 +2950,17 @@ Compilation Resources (See also Gulp)
 * [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass) 
 
 CSS Reset (HTML5 Compatibility Check/Normalization)
+* [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
 * [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
 * [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
 * [Shim GitHub](https://github.com/marstall/shim)  
-* [Zepto GitHub](https://github.com/madrobby/zepto) 
-
-<!--
-http://meyerweb.com/eric/tools/css/reset
-http://cssreset.com/scripts/eric-meyer-reset-css
-https://yuilibrary.com/yui/docs/cssreset
-https://developer.yahoo.com/yui/reset 
--->
+* [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
 
 Cross Browser and Sniffing
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 * [Browser Sniffing Wikipedia](https://en.wikipedia.org/wiki/Browser_sniffing)
-
-<!--
-https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing
--->
+* [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
 
 Can I Use and Vendor-prefixed CSS Property Overview
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
@@ -3228,6 +3226,9 @@ jQuery Extras
 * [jQuery Boilerplate GitHub](https://github.com/jquery-boilerplate/jquery-boilerplate)  
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
+
+Another JavaScript Library
+* [Zepto GitHub](https://github.com/madrobby/zepto) 
 
 JSON
 * [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
