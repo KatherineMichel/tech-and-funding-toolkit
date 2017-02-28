@@ -587,8 +587,8 @@ Tim Ferris Inspired- Ideas
 <!--
 Amazon Customer Favorites
 https://www.amazon.com/b?ie=UTF8&node=13727921011
-https://www.amazon.com/gp/bestsellers/books/4749/ref=zg_b_bs_4749_1
 
+https://www.amazon.com/gp/bestsellers/books/4749/ref=zg_b_bs_4749_1
 https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
 
 https://play.google.com/store/info/topic?id=merch_topic_b0000b2_apps_TopicPage_bestof2016
@@ -620,6 +620,7 @@ App and Website Statistics- General
 
 <!--
 http://www.100bestwebsites.org
+http://www.100bestwebsites.org/criteria.htm
 -->
 
 Mobile and Browser
@@ -1138,9 +1139,8 @@ Color
 * [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
 * [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
 
-<!--
-https://en.wikipedia.org/wiki/RGBA_color_space
--->
+Color Model
+* [RGBA (red green blue alpha) Wikipedia](https://en.wikipedia.org/wiki/RGBA_color_space)
 
 Style Tiles
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
@@ -1290,12 +1290,9 @@ Microformats
 <!--
 Referral URL
 
-https://github.com/h5bp
-https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
 http://www.seoconsultants.com/meta-tags/dublin
 https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
 http://intertwingly.net/wiki/pie/LinkTagMeaning
-http://www.html5rocks.com/en
 
 Meta Name and others 
 https://en.wikipedia.org/wiki/Tag_(metadata)
@@ -1902,6 +1899,16 @@ https://developers.google.com/maps/documentation/javascript
 Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 * [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+<!--
+Microsoft Edge Developer Documentation GitHub
+https://github.com/MicrosoftDocs/edge-developer
+
+Meet the Microsoft Edge F12 Dev Tools
+https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
+Keyboard Shortcuts in F12 Developer Tools
+https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
+-->
 
 #### Command Line and Shell
 
@@ -2698,6 +2705,11 @@ Kickstarters
 * [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
 * [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
 
+<!--
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
+-->
+
 Static Site Generators and CMS (See also Jekyll)
 * [StaticGen](https://www.staticgen.com)
 * [Hugo](http://gohugo.io) and [Hugo GitHub](https://github.com/spf13/hugo)
@@ -2886,14 +2898,17 @@ https://www.microsoft.com/enable/products/ie11/
 https://en.wikipedia.org/wiki/Internet_Explorer_8
 
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+-->
 
-Microsoft Edge Developer Documentation GitHub
-https://github.com/MicrosoftDocs/edge-developer
+<!--
+Compat Inspector
+http://ie.microsoft.com/testdrive/HTML5
+modern.IE
+http://www.modern.ie/report
 
-Meet the Microsoft Edge F12 Dev Tools
-https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
-Keyboard Shortcuts in F12 Developer Tools
-https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
+https://developer.microsoft.com/en-us/microsoft-edge
+https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
+https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
 -->
 
 #### Standards
@@ -2991,6 +3006,7 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_
 https://www.w3.org/TR/html401/struct/global.html
 http://html5doctor.com/outlines/
 Semantic Site Audit
+
 
 Cascade
 https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
@@ -3430,16 +3446,6 @@ MVCs General, Backbone, Ember
 * [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
 * Polymer
 
-<!--
-Semantic UI
-http://semantic-ui.com
-https://github.com/Semantic-Org/Semantic-UI 
-
-Competitor to Ember, Knockout, Polymer
-https://github.com/vuejs/vue-hackernews
-https://github.com/vuejs
-https://vuejs.org
-
 Extension Languages
 * [Pug (formerly Jade)](https://pugjs.org) and [Pug GitHub](https://github.com/pugjs/pug)  
 * [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
@@ -3451,6 +3457,16 @@ Extension Languages
 * [Coffee Script](http://coffeescript.org) and [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
 * [Underscore](http://underscorejs.org)  
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
+
+<!--
+Semantic UI
+http://semantic-ui.com
+https://github.com/Semantic-Org/Semantic-UI 
+
+Competitor to Ember, Knockout, Polymer
+https://github.com/vuejs/vue-hackernews
+https://github.com/vuejs
+https://vuejs.org
 -->
 
 
@@ -3590,17 +3606,6 @@ http://nodejs.org/api/debugger.html
 https://nodejs.org/metrics/#versions
 https://github.com/sequelize/sequelize
 https://github.com/caolan/async
--->
-
-<!--
-Compat Inspector
-http://ie.microsoft.com/testdrive/HTML5
-modern.IE
-http://www.modern.ie/report
-
-https://developer.microsoft.com/en-us/microsoft-edge
-https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
-https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
 -->
 
 <!--
