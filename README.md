@@ -585,6 +585,8 @@ Tim Ferris Inspired- Ideas
 * [Kickstarter Discover](https://www.kickstarter.com/discover), [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced), and [Kickstarter Recommendations](https://www.kickstarter.com/recommendations)
 
 <!--
+https://medium.com/product-hunt/the-best-products-launched-in-2017-1498e7d02b41
+
 Amazon Customer Favorites
 https://www.amazon.com/b?ie=UTF8&node=13727921011
 
@@ -3002,6 +3004,73 @@ W3C DOM4
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
 <!--
+https://v4-alpha.getbootstrap.com/layout/grid/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+
+https://www.w3schools.com/TAgs/att_meta_charset.asp
+https://www.w3schools.com/html/html_charset.asp
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps
+https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps#enable_source_maps_in_settings
+https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map
+http://blog.teamtreehouse.com/introduction-source-maps
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
+https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
+http://www.w3schools.com/tags/tag_pre.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
+
+https://www.w3.org/standards/about.html
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+https://www.w3schools.com/css/css_syntax.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+https://www.w3schools.com/css/css_pseudo_classes.asp
+https://www.w3schools.com/tags/tag_span.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+https://www.w3schools.com/css/css3_flexbox.asp
+https://www.w3.org/TR/css-flexbox-1/
+
+http://www.w3fools.com/
+http://www.w3schools.com/css/css_boxmodel.asp
+http://www.w3schools.com/css/css_howto.asp
+http://www.w3schools.com/cssref/pr_pos_z-index.asp
+http://www.w3schools.com/html/html_entities.asp
+http://www.w3schools.com/html/html_form_input_types.asp
+http://www.w3schools.com/tags/att_form_autocomplete.asp
+http://www.w3schools.com/tags/att_input_autocomplete.asp
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
+
+https://www.w3.org/TR/CSS/#css
+
+http://www.w3schools.com/cssref/
+http://www.w3schools.com/cssref/pr_class_position.asp
+http://www.w3schools.com/css/css_positioning.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/position
+http://www.w3schools.com/css/css3_intro.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/@import
+https://teamtreehouse.com/library/css-basics/getting-started-with-css/importing-style-sheets-with-import
+https://www.w3.org/TR/CSS21/propidx.html
+https://www.w3.org/TR/css3-selectors/
+https://www.w3.org/Style/CSS/
+http://www.w3schools.com/css/css_text.asp
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
+https://www.w3.org/People/Bos/Stylesheets/textfont.html
+
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+http://www.w3schools.com/cssref/default.asp
+http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS
+http://www.w3schools.com/cssref/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
+
+
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
 https://www.w3.org/TR/html401/struct/global.html
 http://html5doctor.com/outlines/
@@ -3238,6 +3307,10 @@ jQuery
 * [jQuery Learning Center](http://learn.jquery.com)
 
 <!--
+https://api.jquery.com/category/selectors/
+jQuery Browser support
+https://blog.jquery.com/2013/04/18/jquery-2-0-released/
+
 Learn jQueryMobile
 
 http://learn.jquery.com/using-jquery-core
@@ -7832,6 +7905,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Khan Academy GitHub](https://github.com/Khan) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Lynda](https://www.lynda.com)
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Pluralsight](https://www.pluralsight.com) and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 * [Rosetta Code](http://rosettacode.org)
