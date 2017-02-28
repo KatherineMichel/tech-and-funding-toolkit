@@ -1217,24 +1217,14 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
 http://blog.teamtreehouse.com/use-html5-sectioning-elements
 -->
 
-Adobe (See also Brackets)
+Adobe (See also Edge Code and Brackets)
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
 * [Adobe Lightroom](https://lightroom.adobe.com)
 * [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
 * [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
-
-<!--
-http://www.adobe.com/products/edge-code.html
-https://edgewebfonts.adobe.com/
-https://color.adobe.com/create/color-wheel/
-https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html
-
-https://creative.adobe.com/products/code
-http://lisacatalano.github.io/brackets_course/pc.html
-
-Brackets turn off word wrap
-Brackets control-e
--->
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+* [Adobe Kuler Color Themes](https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html)
+* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
 
 Photo Editing (See also Adobe)
 * [Nik Collection](https://www.google.com/nikcollection)
@@ -2181,6 +2171,19 @@ Zsh (Bash Alternative)
 * [Zsh Wikipedia](http://en.wikipedia.org/wiki/Z_shell)  
 * [Oh-My-Zsh GitHub](https://github.com/robbyrussell/oh-my-zsh) 
 
+Brackets (a.k.a. Edge Code)
+* [Edge Code (commercial form of Brackets)](https://www.adobe.com/products/edge-code.html)
+* [Brackets](http://brackets.io)
+* [How to Use Brackets GitHub](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
+* [Brackets Shortcuts GitHub](https://github.com/adobe/brackets/wiki/Brackets-Shortcuts)
+
+<!--
+http://lisacatalano.github.io/brackets_course/pc.html
+
+Brackets turn off word wrap
+Brackets control-e
+-->
+
 More Shell/Text Editors (See also Visual Studio and XCode)
 * [Sublime Text Editor](http://www.sublimetext.com)
 * [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
@@ -2189,13 +2192,6 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [Orgmode.org/features](http://orgmode.org/features.html)  
 * [.emacs.d](https://github.com/seshness/.emacs.d)  
 * [Lighttable](http://www.lighttable.com)  
-
-<!--
-* [Brackets](http://brackets.io)
-http://brackets.io/
-https://github.com/adobe/brackets/wiki/Brackets-Shortcuts
-https://github.com/adobe/brackets/wiki/How-to-Use-Brackets
--->
 
 TextWrangler (Recommended for Hard to Edit Files)
 * [TextWrangler](http://www.barebones.com/products/textwrangler)
@@ -2302,11 +2298,8 @@ See also Startup Engineering MOOC<br>
 Hidden File and Hidden Directory Wikipedia
 * [Hidden File and Hidden Directory Wikipedia](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
 
-<!--
-https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789#.104fcsvh3
-
-https://github.com/webpro/awesome-dotfiles
--->
+Tutorial
+* [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 
 Dot Files
 * [Dotfile Wikipedia](http://en.wikipedia.org/wiki/Dot-file)  
@@ -2325,6 +2318,8 @@ Dot Files
 * [YADR GitHub](https://github.com/skwp/dotfiles)
 
 <!--
+https://github.com/webpro/awesome-dotfiles
+
 https://github.com/jefftriplett/dotfiles/blob/master/roles/python/tasks/install_pyenv.yml#L58
 
 https://github.com/epicserve/dotfiles
@@ -2777,15 +2772,6 @@ Responsive Design Examples
 * [Media Queries Examples](http://mediaqueri.es)
 * [Responsive Design Examples](https://responsivedesign.is/examples)
 
-<!--
-https://github.com/silverbux/bootflat-admin
-https://github.com/almasaeed2010/AdminLTE
-https://github.com/VinceG/Bootstrap-Admin-Theme 
-https://github.com/onokumus/Bootstrap-Admin-Template
-https://github.com/akveo/blur-admin
-https://github.com/puikinsh/gentelella
--->
-
 Foundation
 * [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 * [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
@@ -2816,6 +2802,13 @@ http://www.bootply.com
 Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
 Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
 href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
+
+https://github.com/silverbux/bootflat-admin
+https://github.com/almasaeed2010/AdminLTE
+https://github.com/VinceG/Bootstrap-Admin-Theme 
+https://github.com/onokumus/Bootstrap-Admin-Template
+https://github.com/akveo/blur-admin
+https://github.com/puikinsh/gentelella
 -->
 
 Good, Basic Templates, Themes- Skel
@@ -4647,10 +4640,6 @@ PHP- WordPress Installation and Migration
 * [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
 * [WordPress Hosting](https://wordpress.org/hosting)
 * [Moving WordPress](https://codex.wordpress.org/Moving_WordPress)
-
-<!--
-https://wordpress.org/download
--->
 
 PHP/node.js- WordPress- Org
 * [WordPress Org](https://wordpress.org) and [WordPress Org Support](https://wordpress.org/support)
