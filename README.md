@@ -2112,6 +2112,12 @@ Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 * [WebStorm](https://www.jetbrains.com/webstorm)
 * VSCode
 
+http://plnkr.co/
+https://code.visualstudio.com/docs?start=true
+https://code.visualstudio.com/docs/setup/mac
+https://www.jetbrains.com/pycharm/
+https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
+
 See also Editors
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
