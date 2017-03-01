@@ -791,12 +791,13 @@ Robotics and/or Geared toward Kids
 * [Scratch (MIT)](https://scratch.mit.edu)
 
 <!--
-https://github.com/MakeSchool
-
 https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/tracks/web
 
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
@@ -812,9 +813,10 @@ Comparison of programming languages (mapping)
 Comparison of programming paradigms
 Comparison of multi-paradigm programming languages
 Comparison of type systems
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 
 https://github.com/jshomes/learning-resources
+
+https://github.com/MakeSchool
 -->
 
 Free Code Camp
@@ -1191,11 +1193,6 @@ More
 * [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
 * [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
 
-<!--
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
--->
-
 File Types and Extensions
 * [File Types and Extensions](http://fileinfo.com)
 
@@ -1471,9 +1468,10 @@ Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 * VSCode
 
 http://plnkr.co/
+https://www.jetbrains.com/pycharm/
+
 https://code.visualstudio.com/docs?start=true
 https://code.visualstudio.com/docs/setup/mac
-https://www.jetbrains.com/pycharm/
 https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
 
 See also Editors
@@ -2584,11 +2582,55 @@ Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extract
 * [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
 * [Schema Creator](http://schema-creator.org)
 
+Open Search
+* [Open Search](http://www.opensearch.org/Home)
+
+Microformats
+* [Microformats](http://microformats.org)
+
+<!--
+http://www.seoconsultants.com/meta-tags/dublin
+https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
+http://intertwingly.net/wiki/pie/LinkTagMeaning
+
+Meta Name and others 
+https://en.wikipedia.org/wiki/Tag_(metadata)
+
+http://stackoverflow.com/questions/16171686/list-of-standard-w3c-meta-tags
+https://gist.github.com/kevinSuttle/1997924
+http://www.w3schools.com/tags/tag_meta.asp
+https://support.google.com/webmasters/answer/79812?hl=en
+https://en.wikipedia.org/wiki/Microformat#Specific_microformats
+
+https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Microformats
+https://en.wikipedia.org/wiki/Microformat
+
+http://www.metatags.org
+http://analyzer.metatags.org
+http://www.metatags.org/meta_tags_code_generator
+http://www.metatags.org/all_metatags
+http://www.metatags.org/google_and_meta_tags
+http://www.metatags.org/meta_name_author
+
+http://schema.org/Person
+https://en.wikipedia.org/wiki/HCard
+http://microformats.org/wiki/hcard
+http://microformats.org/code/hcard/creator
+http://microformats.org/wiki/hcard-examples
+-->
+
 Web Analytics
 * [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
+Facebook Crawler
+* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
+* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
+
 Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+* [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
+* [Facebook Platform Insights (Going away)](https://developers.facebook.com/docs/platforminsights)
+
 
 Google Webmaster and Analytics (Web)
 * [Google Webmaster](http://www.google.com/webmasters)
@@ -2633,47 +2675,8 @@ Sharing Buttons
 
 #### Social Media
 
-Open Search
-* [Open Search](http://www.opensearch.org/Home)
-
-Facebook Crawler
-* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
-* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
-
-Microformats
-* [Microformats](http://microformats.org)
-
 <!--
 Referral URL
-
-http://www.seoconsultants.com/meta-tags/dublin
-https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
-http://intertwingly.net/wiki/pie/LinkTagMeaning
-
-Meta Name and others 
-https://en.wikipedia.org/wiki/Tag_(metadata)
-
-http://stackoverflow.com/questions/16171686/list-of-standard-w3c-meta-tags
-https://gist.github.com/kevinSuttle/1997924
-http://www.w3schools.com/tags/tag_meta.asp
-https://support.google.com/webmasters/answer/79812?hl=en
-https://en.wikipedia.org/wiki/Microformat#Specific_microformats
-
-https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Microformats
-https://en.wikipedia.org/wiki/Microformat
-
-http://www.metatags.org
-http://analyzer.metatags.org
-http://www.metatags.org/meta_tags_code_generator
-http://www.metatags.org/all_metatags
-http://www.metatags.org/google_and_meta_tags
-http://www.metatags.org/meta_name_author
-
-http://schema.org/Person
-https://en.wikipedia.org/wiki/HCard
-http://microformats.org/wiki/hcard
-http://microformats.org/code/hcard/creator
-http://microformats.org/wiki/hcard-examples
 
 https://en.wikipedia.org/wiki/Resource_Description_Framework
 
@@ -2695,16 +2698,10 @@ https://affiliate-program.amazon.com/welcome
 https://www.youtube.com/watch?v=JASn8EsO174
 -->
 
-Facebook Tools
-* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
-* [Facebook Business](https://www.facebook.com/business)
-* [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
-* [Facebook Platform Insights](https://developers.facebook.com/docs/platforminsights)
-* [Facebook Ad Creation Manager](https://www.facebook.com/ads/manager/creation)
-* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
-* [Fb Start for Mobile Startups](http://fbstart.com)
-
 <!--
+https://developers.facebook.com/docs/sharing/referral-insights
+https://developers.facebook.com/docs/analytics
+
 New (Se also reporobot and githubteacher)
 https://github.com/guardian/facebook-news-bot
 https://www.messenger.com/t/theguardian/
@@ -2754,6 +2751,12 @@ https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html
 -->
 
 
+Facebook Tools
+* [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
+* [Facebook Business](https://www.facebook.com/business)
+* [Facebook Ad Creation Manager](https://www.facebook.com/ads/manager/creation)
+* [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
+* [Fb Start for Mobile Startups](http://fbstart.com)
 
 Google Ads
 * [Google Ads](http://www.google.com/ads) 
@@ -2790,10 +2793,9 @@ Net Promoter
 
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
-<!--
-https://developers.google.com/experts
-https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional
--->
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
