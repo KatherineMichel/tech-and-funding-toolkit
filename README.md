@@ -17,12 +17,12 @@ Table of Content
 * [Documents and Improvement](#documents-and-improvement)
 * [Software Engineering and Testing](#software-engineering-and-testing)
 
-
-* [DevOps](#dev-ops)
+* [Systems](#systems)
+  * [DevOps](#devops)
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
 
-* [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
+  * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
 
 
 * [Research and Design Sprint Basics](#research-and-design-sprint-basics)
@@ -34,6 +34,15 @@ Table of Content
 * [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
 * [Social Media and Social Graph](#social-media-and-social-graph) 
 
+
+* [Programming Learning Tools](#programming-learning-tools) 
+
+* [Basics](#basics)
+  * [Command Line and Shell](#command-line-and-shell)
+  * [Keyboard Shortcuts](#keyboard-shortcuts)
+  * [Dot Files](#dot-files)
+  * [Git and Markdown](#git-and-markdown)
+  
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Unix and Linux General](#unix-and-linux-general)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
@@ -46,16 +55,14 @@ Table of Content
   * [Mozilla Developer](#mozilla-developer)
   * [Developer Tools](#developer-tools)
 
-  * [Command Line and Shell](#command-line-and-shell)
-  * [Keyboard Shortcuts](#keyboard-shortcuts)
-  * [Dot Files](#dot-files)
-  * [Git and Markdown](#git-and-markdown)
 
 * [Front-End Development](#front-end-development) 
+
 * [Programming Language Style Guides](#programming-language-style-guides) 
 * [Testing and Performance](#testing-and-performance)
 
 * [Standards](#standards)
+
 * [JavaScript](#javascript)
 * [AJAX, jQuery, JSON](#ajax-jquery-json)
 
@@ -113,9 +120,6 @@ Table of Content
 * [Computer Basics](#computer-basics)
   * [Encoding](#encoding)
 
-
-
-* [Programming Learning Tools](#programming-learning-tools) 
 * [Software Manuals and Documentation](#software-manuals-and-documentation)
 * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
 
@@ -439,9 +443,9 @@ Software Testing
 * [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
 * [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 
+#### Systems
 
-
-
+#### DevOps
 
 #### Startup Engineering MOOC
 
@@ -654,6 +658,8 @@ https://en.wikipedia.org/wiki/Phabricator
 
 https://github.com/heroku/12factor
 -->
+
+
 
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
@@ -1277,445 +1283,255 @@ Net Promoter
 
 
 
-#### Operating System, Browser, Layout Engine
+#### Programming Learning Tools
 
-Operating Systems
-* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-#### Unix and Linux General
-
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
-
-Linux
-* [Linux](http://www.linux.org)  
-* [Canonical](http://www.canonical.com)  
-* [Linux Foundation](http://www.linuxfoundation.org)  
-* [Linux.com](http://www.linux.com)  
-* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
-* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
-* [Linux GitHub](https://github.com/torvalds/linux)  
-* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
-* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
-* [Linux Journal](http://www.linuxjournal.com) 
-
-Linux- Ubuntu (Debian)
-* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
-* [Ubuntu](http://www.ubuntu.com)  
-* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
-
-Linux- Ubuntu Dual Boot
-* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
-* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
-* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
-
-Ubuntu- + Programs
-* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
-* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
-* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
-* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
-
-Linux- Other Popular Distributions
-* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
-* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
-* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
-* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
-* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
-* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
-* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
-* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports) 
-
-#### Mojombo Chromebook Recommendation
-
-* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
-* [Google Chromebook](http://www.google.com/chromebook)
-* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
-* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
-* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
-* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
-* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
-* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
-
-Chromebook Ubuntu Installation
-* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
-* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
-* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
-* [Crouton GitHub](https://github.com/dnschneid/crouton)  
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 
 <!--
-How to get Chrome Goodies for your Chromebook
-https://support.google.com/chromebook/answer/2703646?p=driveoffer&rd=1
-http://acer.custhelp.com/app/answers/detail/a_id/10755/~/how-do-i-download-and-manage-files-on-my-acer-chromebook%3F
-Welcome to the Chromebook Help Center
-https://support.google.com/chromebook
-Open, save, or delete files with the Files app
-https://support.google.com/chromebook/answer/1700055?hl=en&rd=1
-Supported file types and external devices
-https://support.google.com/chromebook/answer/183093
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 -->
 
-#### Apple General
-
-Apple Posters of Ago
-* [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
-
-Apple El Capitan
-* [El Capitan](https://help.apple.com/osx-elcapitan)
-* [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
-* [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
+Programming Groups
+* [Codettes](http://www.codettes.net)
+* [Django Girls](https://djangogirls.org)
+* [Golang Bridge](http://golangbridge.org)
+* [Women Who Go](http://www.womenwhogo.org)
+* [Node Together](http://www.nodetogether.org)
+* [Rails Bridge](http://www.railsbridge.org)
+* [PHP Women](https://phpwomen.org)
 
 <!--
-http://www.gmyle.com/collections/year-end-clearance-sale?page=1
-http://www.amazon.com/gp/product/B00G9DQJXO/ref=s9_top_hd_bw_b3NTTT1_g147_i3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=1M4E6M9T5DTCSF3G8PBY&pf_rd_t=101&pf_rd_p=f47208ae-f563-54fe-900f-bc055dbb8823&pf_rd_i=3095279011
-http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air+accessories&page=2&keywords=macbook+air+accessories&ie=UTF8&qid=1457656850&spIA=B00G9DQJXO,B010UFRNP4,B00LSJV5B0
+https://nodejs.org/en/foundation/outreachy
 -->
 
-Apple- Utilities
-* [iTunes](https://www.apple.com/itunes)
+Programming and Math Learning Tools (See also MOOCs)
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
+* [Hour of Code](https://hourofcode.com)
+* [Learn to Code the Hard Way](http://learncodethehardway.org)  
+* [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
+* [Codecademy](http://www.codecademy.com)  
+* [Khan Academy GitHub](https://github.com/Khan) 
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Lynda](https://www.lynda.com)
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
+* [Rosetta Code](http://rosettacode.org)
+* [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
+* [Treehouse](https://teamtreehouse.com)
+* [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 
-Apple Presentation and Design (See also Keynotopia)
-* [Keynote](https://www.apple.com/mac/keynote)
-* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com) and [Think](http://www.fiftythree.com/think)
-* [Sketch](https://www.sketchapp.com)
-* [Keynotopia](http://keynotopia.com)
-* [Keynote Kung-Fu](http://keynotekungfu.com)
+Fave Pluralsight Authors
+* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
+* [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
+* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 
 <!--
-http://www.sketchappsources.com
+http://www.appinventor.org
+https://www.pluralsight.com/kids-courses
+https://github.com/FreeCodeCamp/hour-of-code
+
+https://www.khanacademy.org/computing/computer-programming/sql
+https://www.khanacademy.org/computing/computer-programming
+https://www.khanacademy.org/computing/computer-science
+
+http://treehouse.github.io/installation-guides
 -->
 
-Apple MacBook Air
-* [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
+Mobile
+* [CodePath GitHub](https://github.com/codepath)
 
-Apple- Refurbished, Clearance, Reuse, Recycling
-* [Apple Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
-* [Apple Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
-* [Apple Recycling](http://www.apple.com/recycling)
+Math and General Knowledge
+* [Project Euler](http://www.projecteuler.net)  
+* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
+* [Project Euler Problems](http://projecteuler.net/problems)  
+* [Khan Academy](https://www.khanacademy.org)
+* [Math Overflow](http://mathoverflow.net)
+* [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
 
-Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
-* [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
-
-Apple- Windows (See also: VMware, Vagrant, VirtualBox)
-* [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
-* ["How to install Windows using Boot Camp"](https://support.apple.com/en-us/HT201468)  
-* ["Use Windows 10 on your Mac with Boot Camp"](https://support.apple.com/en-us/HT204990)
-* [Parallels](http://www.parallels.com)
-* [VMware Fusion](http://www.vmware.com/products/fusion)
-* [Wine](https://www.winehq.org)
-* [Winclone](http://twocanoes.com/products/mac/winclone)
-* External Hard Drive, USB SSD, Western Digital Terabyte
+Robotics and/or Geared toward Kids
+* [Arduino](https://www.arduino.cc)
+* [Code.org](https://code.org)
+* [Jam](https://jam.com)
+* [Raspberry PI](http://www.raspberrypi.org)
+* [Kano Playground](http://art.kano.me/playground)
+* [Minecraft](https://minecraft.net)
+* [Scratch (MIT)](https://scratch.mit.edu)
 
 <!--
-http://kb.parallels.com/123553
-http://kb.parallels.com/en/118158
-http://kb.parallels.com/en/113972
+https://github.com/MakeSchool
+
+https://www.codecademy.com/courses/learn-the-command-line
+https://www.codecademy.com/tracks/web
+
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (syntax)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+
+https://github.com/jshomes/learning-resources
 -->
 
-Apple- Support
-* [Apple Support](http://www.apple.com/support) 
-
-Mac Update
-* [Mac Update](http://www.macupdate.com)
-
-Mac Keyboard Shortcuts
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
-* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
+Free Code Camp
+* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
+* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
+* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
 
 <!--
-Use Activity Monitor on Your Mac
-https://support.apple.com/en-us/HT201464
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
+http://forum.freecodecamp.com
 
-https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
+http://www.theodinproject.com
 
-https://support.apple.com/en-us/HT201541
-https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
+
+https://egghead.io/tags/free
+https://egghead.io/series/learn-to-use-vim
+https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
+https://egghead.io/lessons/javascript-intro-to-webpack
+https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
+
+HTML Graphics
+http://www.w3schools.com/canvas/default.asp
+Learn Canvas
+http://www.w3schools.com/canvas/default.asp
+Learn SVG
+http://www.w3schools.com/svg/default.asp
+Learn Icons
+http://www.w3schools.com/icons/default.asp
+Learn Google Maps
+http://www.w3schools.com/googleapi/default.asp
+Learn HTML Games
+http://www.w3schools.com/games/default.asp
+
+http://www.w3schools.com/appml/default.asp
+
+http://www.w3schools.com/website/default.asp
+http://www.w3schools.com/browsers/default.asp
+
+http://www.gnu.org/doc/other-free-books.html
 -->
 
-#### Development Environment and Programming
-
-#### Apple Developer
-
-Mac OS X 
-* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
-* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
-* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
-
-Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
-* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-
-Mac OS X- Architecture
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
-
-Apple iOS
-* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
-* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-
-MacPorts
-* [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
-
-Mac OS X Directory Strucure and Listing Applications
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+Free Programming Books
+* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 
 <!--
-https://en.wikipedia.org/wiki/Apple_File_System
-https://en.wikipedia.org/wiki/HFS_Plus
+https://www.humblebundle.com
 -->
 
-Apple Developer Program Membership
-* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
-* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
-* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
+Guides for Development
+* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
-Apple Developer and Open Source
-* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
-* [Apple Developer Forum](https://forums.developer.apple.com)
-* [Apple Open Source](https://developer.apple.com/opensource)
-* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
 
-Apple Developer Helpers
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
-* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
-* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-App Store Submission
-* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
-* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
-* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
-
-Apple- More
-* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-
-Apple- Kits
-* [ResearchKit and Carekit](http://www.apple.com/researchkit)
-* [Watchkit](https://developer.apple.com/watchkit) 
-
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
+Twitch Creative- Accounts
+* [Twilio Twitch](http://www.twitch.tv/team/twilio)
+* [Brent Schooley](https://www.twitch.tv/brentschooley)
+* [Levelsio](http://www.twitch.tv/levelsio)
 
 <!--
-https://developer.apple.com/reference/applepayjs
-https://developer.apple.com/reference/accelerate/1912851-bnns
-https://developer.apple.com/sirikit
-https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
+https://www.twitch.tv/thepracticaldev
+
+https://www.twitch.tv/team/twilio
+https://github.com/TwilioDevEd
+https://github.com/TwilioDevEd/appointment-reminders-django
+https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
+https://www.twilio.com/docs/api/video
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/flask#0
 -->
 
-#### Google Developer
+Text Editor and Code Demonstration
+* [Fiddle](https://fiddles.io)
+* [JSFiddle](http://jsfiddle.net)
+* [Cloud9](https://c9.io/katherinemichel)
+* [Codepen](http://codepen.io)
 
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Opera (Also Blink)
-* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-* [Opera Neon](http://www.opera.com/computer/neon)
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
-
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-Google Developers- Web
-* [Google Developer Web](https://developers.google.com/web)
-
-Chrome Extensions
-* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
-* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
-* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
-* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+Documentation- General
+* [IT eBooks](http://it-ebooks.info)
+* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 
 <!--
-chrome://apps
-
-https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
-
-http://docs.ionic.io/docs/chrome-inspector
+http://www.oreilly.com/data/free/archive.html
+http://www.oreilly.com/design/free/design-in-venture-capital.csp
 -->
 
-#### Microsoft Developer
+Documentation- Mozilla
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
 
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org) and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+* [WICG (Web Incubator CG)](https://github.com/WICG)
 
 <!--
-https://www.microsoft.com/en-us/software-download/windows10ISO
+Standards
+https://wicg.github.io/admin/charter.html
+https://github.com/WICG/incubation-template/blob/gh-pages/index.html
+https://github.com/whatwg/dom
+
+https://github.com/tabatkins/bikeshed
+https://github.com/tabatkins?tab=repositories
 -->
 
-Internet Explorer and Trident (Browser, Layout Engine)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+Free Software Foundation
+* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
-Edge and EdgeHTML (Browser, Layout Engine)
-* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
-* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
-
-Windows SSH and Telnet Client
-* [PuTTY](http://www.putty.org)
+GNU Software and Manuals
+* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
+* [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
 
 <!--
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+http://www.gnu.org/software/coreutils/manual/coreutils.html
+
+http://ftp.gnu.org
+http://gcc.gnu.org
+
+http://en.wikipedia.org/wiki/GNU_readline
+https://en.wikipedia.org/wiki/GNU_Hurd
 -->
 
-Linux Feeling- on Windows
-* [Cygwin](http://cygwin.com)
+KDE (See also KHTML)
+* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
+* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 
-#### Mozilla Developer
-
-Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
-
-Firefox Add-Ons
-* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
-
-<!--
-https://www.mozilla.org/en-US/firefox/products
-
-https://testpilot.firefox.com
--->
-
-#### Developer Tools
-
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
-Google Developers- Google Chrome Doc
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
-* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
-* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
-* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
-* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
-* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
-
-<!--
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://developers.google.com/web/tools/setup/setup-workflow
-https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
-https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
--->
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Developers- Google Chrome Tools
-* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-<!--
-https://www.udacity.com/course/website-performance-optimization--ud884
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/
-https://zapier.com/blog/inspect-element-tutorial/
+Developer Surveys
+* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
+* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+* [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
+* ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 
-https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-https://developers.google.com/cast/docs/developers
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools/docs
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/getstarted
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-Miscellaneous
-https://bugs.chromium.org/p/v8/issues/list
-
-http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
-http://www.ibm.com/developerworks/library/os-extendchrome/
-https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
-http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-http://developer.samsung.com/technical-doc/view.do?v=T000000203
-https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
-https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
-
-https://developer.mozilla.org/en-US/docs/Chrome_Registration
-
-Google Maps JavaScript API
-https://developers.google.com/maps/documentation/javascript
--->
-
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
-
-<!--
-Microsoft Edge Developer Documentation GitHub
-https://github.com/MicrosoftDocs/edge-developer
-
-Meet the Microsoft Edge F12 Dev Tools
-https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
-Keyboard Shortcuts in F12 Developer Tools
-https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
--->
+#### Basics
 
 #### Command Line and Shell
 
@@ -2431,6 +2247,446 @@ Types of Licenses
 * [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
 * [Creative Commons](https://creativecommons.org/licenses)
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+#### Operating System, Browser, Layout Engine
+
+Operating Systems
+* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+
+Web Browser
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+
+Web Browser and JavaScript Engines (See also JavaScript)- General
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
+* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+#### Unix and Linux General
+
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
+
+Linux
+* [Linux](http://www.linux.org)  
+* [Canonical](http://www.canonical.com)  
+* [Linux Foundation](http://www.linuxfoundation.org)  
+* [Linux.com](http://www.linux.com)  
+* [Linux Wikipedia](http://en.wikipedia.org/wiki/Linux)  
+* [Linux Kernel Wikipedia](http://en.wikipedia.org/wiki/Linux_kernel)  
+* [Linux GitHub](https://github.com/torvalds/linux)  
+* [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
+* [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
+* [Linux Journal](http://www.linuxjournal.com) 
+
+Linux- Ubuntu (Debian)
+* [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
+* [Ubuntu](http://www.ubuntu.com)  
+* [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
+
+Linux- Ubuntu Dual Boot
+* [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
+* [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
+* [Create Bootable USB Stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) 
+
+Ubuntu- + Programs
+* [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
+* [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
+* [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
+* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
+
+Linux- Other Popular Distributions
+* [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
+* [Linux Distributions Timeline Wikipedia](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)  
+* [Linux Distribution Wikipedia](http://en.wikipedia.org/wiki/Linux_distribution)  
+* [Mint Wikipedia](http://en.wikipedia.org/wiki/Linux_Mint)  
+* [Fedora Wikipedia](http://en.wikipedia.org/wiki/Fedora_(operating_system))  
+* [CentOS (Fedora) Wikipedia](http://en.wikipedia.org/wiki/CentOS)  
+* [Gentoo (FreeBSD Ports) Wikipedia](http://en.wikipedia.org/wiki/Gentoo_Linux)  
+* [FreeBSD Ports Wikipedia](http://en.wikipedia.org/wiki/FreeBSD_Ports) 
+
+#### Mojombo Chromebook Recommendation
+
+* [Mojombo Chromebook Recommendation](https://twitter.com/mojombo/status/483009738787926016) 
+* [Google Chromebook](http://www.google.com/chromebook)
+* [Acer C720 Chromebook- 16GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-2GB/dp/B00FNPD1VW)  
+* [Acer C720 Chromebook- 32GB](http://www.amazon.com/Acer-C720-Chromebook-11-6-Inch-32GB/dp/B00GZ1GV3I)  
+* [Acer C720 Chromebook- Developer Info](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/acer-c720-chromebook)
+* [Mojombo Chromebook Convo](https://twitter.com/mojombo/status/538809708975378432)  
+* [Mojombo "How to set your Acer C720 Chromebook to boot to Ubuntu by default."](https://gist.github.com/mojombo/7c873f457df6abee5717)  
+* [Mojombo HP Stream Convo](https://twitter.com/mojombo/status/538759934457184257)  
+
+Chromebook Ubuntu Installation
+* [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
+* [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
+* [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
+* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
+* [Crouton GitHub](https://github.com/dnschneid/crouton)  
+
+<!--
+How to get Chrome Goodies for your Chromebook
+https://support.google.com/chromebook/answer/2703646?p=driveoffer&rd=1
+http://acer.custhelp.com/app/answers/detail/a_id/10755/~/how-do-i-download-and-manage-files-on-my-acer-chromebook%3F
+Welcome to the Chromebook Help Center
+https://support.google.com/chromebook
+Open, save, or delete files with the Files app
+https://support.google.com/chromebook/answer/1700055?hl=en&rd=1
+Supported file types and external devices
+https://support.google.com/chromebook/answer/183093
+-->
+
+#### Apple General
+
+Apple Posters of Ago
+* [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
+
+Apple El Capitan
+* [El Capitan](https://help.apple.com/osx-elcapitan)
+* [El Capitan New to Mac](https://help.apple.com/osx-elcapitan/new-to-mac)
+* [El Capitan Gestures](https://help.apple.com/osx-elcapitan/new-to-mac/#/gestures)
+
+<!--
+http://www.gmyle.com/collections/year-end-clearance-sale?page=1
+http://www.amazon.com/gp/product/B00G9DQJXO/ref=s9_top_hd_bw_b3NTTT1_g147_i3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=1M4E6M9T5DTCSF3G8PBY&pf_rd_t=101&pf_rd_p=f47208ae-f563-54fe-900f-bc055dbb8823&pf_rd_i=3095279011
+http://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Cn%3A541966%2Ck%3Amacbook+air+accessories&page=2&keywords=macbook+air+accessories&ie=UTF8&qid=1457656850&spIA=B00G9DQJXO,B010UFRNP4,B00LSJV5B0
+-->
+
+Apple- Utilities
+* [iTunes](https://www.apple.com/itunes)
+
+Apple Presentation and Design (See also Keynotopia)
+* [Keynote](https://www.apple.com/mac/keynote)
+* [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com) and [Think](http://www.fiftythree.com/think)
+* [Sketch](https://www.sketchapp.com)
+* [Keynotopia](http://keynotopia.com)
+* [Keynote Kung-Fu](http://keynotekungfu.com)
+
+<!--
+http://www.sketchappsources.com
+-->
+
+Apple MacBook Air
+* [MacBook Air Built-In Apps](https://www.apple.com/macbook-air/built-in-apps.html)
+
+Apple- Refurbished, Clearance, Reuse, Recycling
+* [Apple Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
+* [Apple Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
+* [Apple Recycling](http://www.apple.com/recycling)
+
+Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
+* [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
+
+Apple- Windows (See also: VMware, Vagrant, VirtualBox)
+* [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
+* ["How to install Windows using Boot Camp"](https://support.apple.com/en-us/HT201468)  
+* ["Use Windows 10 on your Mac with Boot Camp"](https://support.apple.com/en-us/HT204990)
+* [Parallels](http://www.parallels.com)
+* [VMware Fusion](http://www.vmware.com/products/fusion)
+* [Wine](https://www.winehq.org)
+* [Winclone](http://twocanoes.com/products/mac/winclone)
+* External Hard Drive, USB SSD, Western Digital Terabyte
+
+<!--
+http://kb.parallels.com/123553
+http://kb.parallels.com/en/118158
+http://kb.parallels.com/en/113972
+-->
+
+Apple- Support
+* [Apple Support](http://www.apple.com/support) 
+
+Mac Update
+* [Mac Update](http://www.macupdate.com)
+
+Mac Keyboard Shortcuts
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
+* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
+
+<!--
+Use Activity Monitor on Your Mac
+https://support.apple.com/en-us/HT201464
+
+https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolboxEssentials.pdf
+
+https://support.apple.com/en-us/HT201541
+https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+-->
+
+#### Development Environment and Programming
+
+#### Apple Developer
+
+Mac OS X 
+* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
+* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
+
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Apple iOS
+* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+
+MacPorts
+* [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
+
+Mac OS X Directory Strucure and Listing Applications
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+
+<!--
+https://en.wikipedia.org/wiki/Apple_File_System
+https://en.wikipedia.org/wiki/HFS_Plus
+-->
+
+Apple Developer Program Membership
+* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
+* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
+* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
+
+Apple Developer and Open Source
+* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
+* [Apple Developer Forum](https://forums.developer.apple.com)
+* [Apple Open Source](https://developer.apple.com/opensource)
+* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
+
+Apple Developer Helpers
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
+* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
+* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+App Store Submission
+* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
+* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
+* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
+
+Apple- More
+* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+
+Apple- Kits
+* [ResearchKit and Carekit](http://www.apple.com/researchkit)
+* [Watchkit](https://developer.apple.com/watchkit) 
+
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+<!--
+https://developer.apple.com/reference/applepayjs
+https://developer.apple.com/reference/accelerate/1912851-bnns
+https://developer.apple.com/sirikit
+https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
+-->
+
+#### Google Developer
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+* [Opera Neon](http://www.opera.com/computer/neon)
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Developers- Web
+* [Google Developer Web](https://developers.google.com/web)
+
+Chrome Extensions
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
+* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
+* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+
+<!--
+chrome://apps
+
+https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+
+http://docs.ionic.io/docs/chrome-inspector
+-->
+
+#### Microsoft Developer
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+<!--
+https://www.microsoft.com/en-us/software-download/windows10ISO
+-->
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
+
+Windows SSH and Telnet Client
+* [PuTTY](http://www.putty.org)
+
+<!--
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+-->
+
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
+
+#### Mozilla Developer
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
+
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
+
+<!--
+https://www.mozilla.org/en-US/firefox/products
+
+https://testpilot.firefox.com
+-->
+
+#### Developer Tools
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+Google Developers- Google Chrome Doc
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
+* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
+* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
+* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
+* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
+* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
+
+<!--
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+https://developers.google.com/web/tools/setup/setup-workflow
+https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
+https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
+-->
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Developers- Google Chrome Tools
+* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+<!--
+https://www.udacity.com/course/website-performance-optimization--ud884
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/
+https://zapier.com/blog/inspect-element-tutorial/
+
+
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://developers.google.com/cast/docs/developers
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/docs
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+Miscellaneous
+https://bugs.chromium.org/p/v8/issues/list
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+
+Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript
+-->
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+<!--
+Microsoft Edge Developer Documentation GitHub
+https://github.com/MicrosoftDocs/edge-developer
+
+Meet the Microsoft Edge F12 Dev Tools
+https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
+Keyboard Shortcuts in F12 Developer Tools
+https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
+-->
 
 
 
@@ -7468,254 +7724,6 @@ https://www.w3.org/International/articles/definitions-characters
 -->
 
 
-
-
-#### Programming Learning Tools
-
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-
-<!--
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
--->
-
-Programming Groups
-* [Codettes](http://www.codettes.net)
-* [Django Girls](https://djangogirls.org)
-* [Golang Bridge](http://golangbridge.org)
-* [Women Who Go](http://www.womenwhogo.org)
-* [Node Together](http://www.nodetogether.org)
-* [Rails Bridge](http://www.railsbridge.org)
-* [PHP Women](https://phpwomen.org)
-
-<!--
-https://nodejs.org/en/foundation/outreachy
--->
-
-Programming and Math Learning Tools (See also MOOCs)
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
-* [Hour of Code](https://hourofcode.com)
-* [Learn to Code the Hard Way](http://learncodethehardway.org)  
-* [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
-* [Codecademy](http://www.codecademy.com)  
-* [Khan Academy GitHub](https://github.com/Khan) 
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Lynda](https://www.lynda.com)
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
-* [Rosetta Code](http://rosettacode.org)
-* [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
-* [Treehouse](https://teamtreehouse.com)
-* [W3Schools Web Development Tutorials](http://www.w3schools.com) 
-
-Fave Pluralsight Authors
-* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
-* [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
-* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
-
-<!--
-http://www.appinventor.org
-https://www.pluralsight.com/kids-courses
-https://github.com/FreeCodeCamp/hour-of-code
-
-https://www.khanacademy.org/computing/computer-programming/sql
-https://www.khanacademy.org/computing/computer-programming
-https://www.khanacademy.org/computing/computer-science
-
-http://treehouse.github.io/installation-guides
--->
-
-Mobile
-* [CodePath GitHub](https://github.com/codepath)
-
-Math and General Knowledge
-* [Project Euler](http://www.projecteuler.net)  
-* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
-* [Project Euler Problems](http://projecteuler.net/problems)  
-* [Khan Academy](https://www.khanacademy.org)
-* [Math Overflow](http://mathoverflow.net)
-* [Wolfram MathWorld](http://mathworld.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-* [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
-
-Robotics and/or Geared toward Kids
-* [Arduino](https://www.arduino.cc)
-* [Code.org](https://code.org)
-* [Jam](https://jam.com)
-* [Raspberry PI](http://www.raspberrypi.org)
-* [Kano Playground](http://art.kano.me/playground)
-* [Minecraft](https://minecraft.net)
-* [Scratch (MIT)](https://scratch.mit.edu)
-
-<!--
-https://github.com/MakeSchool
-
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
-
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
-
-https://github.com/jshomes/learning-resources
--->
-
-Free Code Camp
-* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
-* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
-* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
-* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
-* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
-* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-
-<!--
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
-http://forum.freecodecamp.com
-
-http://www.theodinproject.com
-
-https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
-
-https://egghead.io/tags/free
-https://egghead.io/series/learn-to-use-vim
-https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
-https://egghead.io/lessons/javascript-intro-to-webpack
-https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
-
-HTML Graphics
-http://www.w3schools.com/canvas/default.asp
-Learn Canvas
-http://www.w3schools.com/canvas/default.asp
-Learn SVG
-http://www.w3schools.com/svg/default.asp
-Learn Icons
-http://www.w3schools.com/icons/default.asp
-Learn Google Maps
-http://www.w3schools.com/googleapi/default.asp
-Learn HTML Games
-http://www.w3schools.com/games/default.asp
-
-http://www.w3schools.com/appml/default.asp
-
-http://www.w3schools.com/website/default.asp
-http://www.w3schools.com/browsers/default.asp
-
-http://www.gnu.org/doc/other-free-books.html
--->
-
-Free Programming Books
-* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
-
-<!--
-https://www.humblebundle.com
--->
-
-Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
-
-Twitch Creative- Accounts
-* [Twilio Twitch](http://www.twitch.tv/team/twilio)
-* [Brent Schooley](https://www.twitch.tv/brentschooley)
-* [Levelsio](http://www.twitch.tv/levelsio)
-
-<!--
-https://www.twitch.tv/thepracticaldev
-
-https://www.twitch.tv/team/twilio
-https://github.com/TwilioDevEd
-https://github.com/TwilioDevEd/appointment-reminders-django
-https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
-https://www.twilio.com/docs/api/video
-https://www.twilio.com/docs/tutorials
-https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/flask#0
--->
-
-Text Editor and Code Demonstration
-* [Fiddle](https://fiddles.io)
-* [JSFiddle](http://jsfiddle.net)
-* [Cloud9](https://c9.io/katherinemichel)
-* [Codepen](http://codepen.io)
-
-Documentation- General
-* [IT eBooks](http://it-ebooks.info)
-* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-
-<!--
-http://www.oreilly.com/data/free/archive.html
-http://www.oreilly.com/design/free/design-in-venture-capital.csp
--->
-
-Documentation- Mozilla
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org) and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-* [WICG (Web Incubator CG)](https://github.com/WICG)
-
-<!--
-Standards
-https://wicg.github.io/admin/charter.html
-https://github.com/WICG/incubation-template/blob/gh-pages/index.html
-https://github.com/whatwg/dom
-
-https://github.com/tabatkins/bikeshed
-https://github.com/tabatkins?tab=repositories
--->
-
-Free Software Foundation
-* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-GNU Software and Manuals
-* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
-* [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
-* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
-
-<!--
-http://www.gnu.org/software/coreutils/manual/coreutils.html
-
-http://ftp.gnu.org
-http://gcc.gnu.org
-
-http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Hurd
--->
-
-KDE (See also KHTML)
-* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
-* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
-
-Developer Surveys
-* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
-* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-* [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
-* ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 #### Software Manuals and Documentation 
 
