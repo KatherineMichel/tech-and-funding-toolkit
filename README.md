@@ -33,8 +33,10 @@ Table of Content
 * [Programming Language Style Guides](#programming-language-style-guides) 
 
 * [Basics](#basics)
+  * [Computer Basics](#computer-basics)
   * [Command Line and Shell](#command-line-and-shell)
   * [Keyboard Shortcuts](#keyboard-shortcuts)
+  * [Encoding](#encoding)
   * [Dot Files](#dot-files)
   * [Git and Markdown](#git-and-markdown)
   
@@ -118,8 +120,6 @@ Table of Content
 * [More Back-End](#more-back-end)
 * [Common MEAN Back-end Tools](#common-mean-back-end-tools)
 
-* [Computer Basics](#computer-basics)
-  * [Encoding](#encoding)
 
 * [Software Manuals and Documentation](#software-manuals-and-documentation)
 * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
@@ -1034,6 +1034,270 @@ Swift Styleguide
 
 #### Basics
 
+#### Computer Basics
+
+Ergonomics 
+* [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
+* [f.lux](https://justgetflux.com)
+* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
+* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
+* [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
+* [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
+* [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
+
+<!--
+https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard
+Mechanical keyboard
+Vertical mouse
+Natural ergonomic keyboard
+
+http://www.mindbodygreen.com/0-3972/How-Yoga-Healed-My-Carpal-Tunnel-Syndrome.html
+
+http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow
+-->
+
+Wikipedia Portals
+* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+History of Technology and Computer Science
+* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
+* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
+* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+
+<!--
+https://en.wikibooks.org/wiki/Open_Metadata_Handbook
+-->
+
+Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+
+Famous Literature
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar)
+
+<!--
+http://www.catb.org/~esr/faqs/hacker-howto.html
+-->
+
+Great Unsolved Problems in Computer Science
+* [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
+
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+Computer Classes and Sizes
+* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
+
+Smartphones (See also Mobile)
+* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
+* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+
+Microprocessor, CPU and Instruction Set
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+Client Server
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+
+Internet Service Provider
+* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
+
+Port and Host
+* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
+* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
+* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+
+IP
+* [IP Address Wikipedia](https://en.wikipedia.org/wiki/IP_address)
+* [IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
+* [Virtual IP Address Wikipedia](https://en.wikipedia.org/wiki/Virtual_IP_address)
+
+<!--
+http://whatismyipaddress.com/ip-basics
+-->
+
+Domain Name
+* [Domain Name Wikipedia](https://en.wikipedia.org/wiki/Domain_name)
+* [Domain Name System Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
+* [Top Level Domain Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
+* [CNAME Record Wikipedia](https://en.wikipedia.org/wiki/CNAME_record)
+* [Root Name Server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
+
+<!--
+http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
+http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
+http://en.wikipedia.org/wiki/Domain_registration#History
+
+https://en.wikipedia.org/wiki/Round-robin_DNS
+Least Connections
+-->
+
+URL and IRI
+* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
+* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
+
+<!--
+https://en.wikipedia.org/wiki/UUID
+-->
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+<!--
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+https://en.wikipedia.org/wiki/Parsing
+
+https://en.wikipedia.org/wiki/HTTP_cookie
+
+HTTP protocol defaults to port 80 and HTTPS defaults to port 443
+https://technet.microsoft.com/en-us/library/bb962069.aspx
+-->
+
+More
+* [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
+* [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network) 
+* [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
+* [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
+* [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
+
+File Types and Extensions
+* [File Types and Extensions](http://fileinfo.com)
+
+32 Bit vs. 64 Bit
+* [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
+
+Naming Conventions
+* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
+* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
+* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
+
+Local Terms
+* [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
+* [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
+* [Environmental Variable Wikipedia](hhttps://en.wikipedia.org/wiki/Environment_variable) 
+* [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
+* [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
+* [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
+* [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Utilities
+* [Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
+* [Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
+* [Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
+* [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
+* [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering) 
+
+Important Concepts
+* [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+
+Miscellaneous Vocab
+* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
+* [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
+* [Cross Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
+* [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
+
+<!--
+https://en.wikipedia.org/wiki/Code_refactoring
+-->
+
+Line Endings
+* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
+* [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+
+Singly Linked Linear Lists vs. Other Lists
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+
+Bracket Notation and Zero-Based Numbering
+* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
+* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+
+<!--
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+-->
+
+Chomsky Hierarchy and Automata
+* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
+* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
+* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
+
+Anywhere on Earth
+* [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
+
+<!--
+http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
+
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+-->
+
+<!--
+http://docs.openstack.org/developer/nova/
+https://wiki.openstack.org/wiki/Horizon
+http://docs.openstack.org/developer/horizon/
+-->
+
 #### Command Line and Shell
 
 See also Bash and PowerShell<br>
@@ -1306,6 +1570,37 @@ Emoji and Other Funny Keyboard Shortcode
 * [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
 * [Emoji Shortcode Example GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
 * [Funny Keyboard Shorcuts](https://gist.github.com/jlord/eae759b86cc398e9a905)
+
+#### Encoding
+
+Encoding
+* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
+
+ASCII
+* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
+* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
+Bytcote versus Unicode
+* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+
+HTML5 Charactersets
+* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
+* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
+
+Char Sets
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
+* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
+
+Alt Codes- PC
+* [Alt Codes](http://usefulshortcuts.com/alt-codes) and [Alt Codes Cheat Sheet](http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf)
+
+<!--
+https://www.w3.org/International/getting-started/characters
+https://www.w3.org/International/articles/definitions-characters
+-->
 
 #### Dot Files
 
@@ -7422,306 +7717,6 @@ Mongoose, Mongoid, Moped, Mongomapper
 * [Mongoid ElasticSearch GitHub](https://github.com/rs-pro/mongoid-elasticsearch)  
 * [Moped GitHub](https://github.com/mongoid/moped)  
 * [Mongomapper GitHub](https://github.com/mongomapper/mongomapper) 
-
-
-
-
-#### Computer Basics
-
-Ergonomics 
-* [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
-* [f.lux](https://justgetflux.com)
-* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
-* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
-* [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
-* [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
-* [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
-
-<!--
-https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard
-Mechanical keyboard
-Vertical mouse
-Natural ergonomic keyboard
-
-http://www.mindbodygreen.com/0-3972/How-Yoga-Healed-My-Carpal-Tunnel-Syndrome.html
-
-http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow
--->
-
-Wikipedia Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
-
-History of Technology and Computer Science
-* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
-* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
-* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
-* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
-* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
-* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
-* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
-* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
-
-<!--
-https://en.wikibooks.org/wiki/Open_Metadata_Handbook
--->
-
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
-Famous Literature
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar)
-
-<!--
-http://www.catb.org/~esr/faqs/hacker-howto.html
--->
-
-Great Unsolved Problems in Computer Science
-* [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
-
-Computer Classes and Sizes
-* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
-
-Smartphones (See also Mobile)
-* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
-* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-
-Microprocessor, CPU and Instruction Set
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-Client Server
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-
-Internet Service Provider
-* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
-
-Port and Host
-* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
-* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
-* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
-* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
-* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
-
-IP
-* [IP Address Wikipedia](https://en.wikipedia.org/wiki/IP_address)
-* [IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
-* [Virtual IP Address Wikipedia](https://en.wikipedia.org/wiki/Virtual_IP_address)
-
-<!--
-http://whatismyipaddress.com/ip-basics
--->
-
-Domain Name
-* [Domain Name Wikipedia](https://en.wikipedia.org/wiki/Domain_name)
-* [Domain Name System Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
-* [Top Level Domain Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
-* [CNAME Record Wikipedia](https://en.wikipedia.org/wiki/CNAME_record)
-* [Root Name Server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
-
-<!--
-http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
-http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
-http://en.wikipedia.org/wiki/Domain_registration#History
-
-https://en.wikipedia.org/wiki/Round-robin_DNS
-Least Connections
--->
-
-URL and IRI
-* [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
-* [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
-* [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
-
-<!--
-https://en.wikipedia.org/wiki/UUID
--->
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-<!--
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-https://en.wikipedia.org/wiki/Parsing
-
-https://en.wikipedia.org/wiki/HTTP_cookie
-
-HTTP protocol defaults to port 80 and HTTPS defaults to port 443
-https://technet.microsoft.com/en-us/library/bb962069.aspx
--->
-
-More
-* [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
-* [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network) 
-* [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
-* [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
-* [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
-
-File Types and Extensions
-* [File Types and Extensions](http://fileinfo.com)
-
-32 Bit vs. 64 Bit
-* [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
-
-Naming Conventions
-* [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-* [Snake Case Wikipedia](https://en.wikipedia.org/wiki/Snake_case)
-* [Camel Case Wikipedia](https://en.wikipedia.org/wiki/CamelCase)
-
-Local Terms
-* [Localhost Wikipedia](https://en.wikipedia.org/wiki/Localhost)  
-* [Env Wikipedia](http://en.wikipedia.org/wiki/Env)  
-* [Environmental Variable Wikipedia](hhttps://en.wikipedia.org/wiki/Environment_variable) 
-* [PATH Wikipedia](https://en.wikipedia.org/wiki/PATH_(variable)) 
-* [Path Computing wikipedia](http://en.wikipedia.org/wiki/Path_%28computing%29)
-* [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
-* [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Utilities
-* [Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
-* [Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
-* [Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
-* [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
-* [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering) 
-
-Important Concepts
-* [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-
-Miscellaneous Vocab
-* [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
-* [Symbolic Link Wikipedia](https://en.wikipedia.org/wiki/Symbolic_link)
-* [Cross Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
-* [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
-
-<!--
-https://en.wikipedia.org/wiki/Code_refactoring
--->
-
-Line Endings
-* [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
-* [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-
-Bracket Notation and Zero-Based Numbering
-* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
-* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-
-<!--
-https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
--->
-
-Chomsky Hierarchy and Automata
-* [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
-* [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
-* [Automata Theory Wikipedia](https://en.wikipedia.org/wiki/Automata_theory)
-
-Anywhere on Earth
-* [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
-
-<!--
-http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
-
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
--->
-
-<!--
-http://docs.openstack.org/developer/nova/
-https://wiki.openstack.org/wiki/Horizon
-http://docs.openstack.org/developer/horizon/
--->
-
-#### Encoding
-
-Encoding
-* [Character Encoding Wikipedia](https://en.wikipedia.org/wiki/Character_encoding)
-
-ASCII
-* [ASCII (American Standard Code for Information Interchange) Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-* [Base36 Wikipedia](https://en.wikipedia.org/wiki/Base36)
-* [Base64 Wikipedia](https://en.wikipedia.org/wiki/Base64)
-
-Bytcote versus Unicode
-* [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
-* [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-
-HTML5 Charactersets
-* [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
-* [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
-* [W3Schools UTF-8 Miscellaneous Symbols Tutorial](http://www.w3schools.com/charsets/ref_utf_symbols.asp)
-
-Char Sets
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/charsets)
-* [W3Schools HTML Character Sets Tutorial](http://www.w3schools.com/tags/ref_charactersets.asp)
-
-Alt Codes- PC
-* [Alt Codes](http://usefulshortcuts.com/alt-codes) and [Alt Codes Cheat Sheet](http://f.cl.ly/items/0y0G2q1Z0X2X3o1R1L36/ALT-Codes.pdf)
-
-<!--
-https://www.w3.org/International/getting-started/characters
-https://www.w3.org/International/articles/definitions-characters
--->
-
-
 
 #### Software Manuals and Documentation 
 
