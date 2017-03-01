@@ -6274,6 +6274,7 @@ https://www.promptcloud.com/pricing
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
+* [AWS New](https://aws.amazon.com/new)
 * [AWS Blog](https://aws.amazon.com/blogs)
 * [AWS Forum](https://forums.aws.amazon.com)
 * [AWS Articles](https://aws.amazon.com/articles)
@@ -7984,7 +7985,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
 * [Lynda](https://www.lynda.com)
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Pluralsight](https://www.pluralsight.com) and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 * [Rosetta Code](http://rosettacode.org)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
