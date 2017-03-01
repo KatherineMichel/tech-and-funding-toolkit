@@ -398,14 +398,10 @@ Improvement Schools of Thought
 #### Software Engineering and Testing
 
 <!--
-https://en.wikipedia.org/wiki/Software_versioning
-
 https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 https://en.wikipedia.org/wiki/Brownfield_(software_development)
-
-https://en.wikipedia.org/wiki/DevOps
 -->
 
 Software Engineering/Development 
@@ -447,6 +443,14 @@ Software Testing
 #### Systems
 
 #### DevOps
+
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+
+<!--
+https://github.com/DevOpsBootcamp/website
+https://docs.google.com/forms/d/12Mwr2D5jokWJh8hZm7bfk1uaXQQtyG0_cTdMASPjU10/viewform?edit_requested=true
+-->
 
 #### Startup Engineering MOOC
 
@@ -619,11 +623,6 @@ https://github.com/thoughtbot/guides/tree/master/protocol
 https://github.com/hypenotic/hypelabs
 
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
-
-https://devopsbootcamp.osuosl.org/slides.html
-https://github.com/devopsbootcamp
-https://github.com/DevOpsBootcamp/website
-https://docs.google.com/forms/d/12Mwr2D5jokWJh8hZm7bfk1uaXQQtyG0_cTdMASPjU10/viewform?edit_requested=true
 -->
 
 A Successful Git Branching Model
@@ -642,6 +641,7 @@ https://kite.com
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 
 Semver
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
 
 The Distributed Developer Stack Field Guide
@@ -728,13 +728,10 @@ Programming Groups
 * [Django Girls](https://djangogirls.org)
 * [Golang Bridge](http://golangbridge.org)
 * [Women Who Go](http://www.womenwhogo.org)
+* [Node Outreachy](https://nodejs.org/en/foundation/outreachy)
 * [Node Together](http://www.nodetogether.org)
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
-
-<!--
-https://nodejs.org/en/foundation/outreachy
--->
 
 Programming and Math Learning Tools (See also MOOCs)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
@@ -799,6 +796,8 @@ https://github.com/MakeSchool
 https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/tracks/web
 
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
 Comparison of basic instructions of programming languages
@@ -816,13 +815,6 @@ Comparison of type systems
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 
 https://github.com/jshomes/learning-resources
--->
-
-<!--
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 -->
 
 Free Code Camp
@@ -878,6 +870,7 @@ https://www.humblebundle.com
 
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
 
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
@@ -1197,6 +1190,11 @@ More
 * [Proxy Server Wikipedia](https://en.wikipedia.org/wiki/Proxy_server) 
 * [Server Farm Wikipedia](https://en.wikipedia.org/wiki/Server_farm) 
 * [Load Balancing Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing)) 
+
+<!--
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+-->
 
 File Types and Extensions
 * [File Types and Extensions](http://fileinfo.com)
@@ -2839,7 +2837,7 @@ Salesforce Lightning Design System
 HubSpot
 * [HubSpot GitHub](https://github.com/HubSpot)
 
-Microsoft 
+Microsoft Design
 * [Microsoft Design](https://www.microsoft.com/en-us/design)
 
 IBM Design Language
