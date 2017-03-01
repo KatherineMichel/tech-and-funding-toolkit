@@ -883,6 +883,17 @@ Improvement Schools of Thought
 
 #### Software Engineering and Testing
 
+<!--
+https://en.wikipedia.org/wiki/Software_versioning
+
+https://en.wikipedia.org/wiki/ACID
+https://en.wikipedia.org/wiki/Separation_of_concerns
+https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+https://en.wikipedia.org/wiki/Brownfield_(software_development)
+
+https://en.wikipedia.org/wiki/DevOps
+-->
+
 Software Engineering/Development 
 * [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
 * [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
@@ -971,6 +982,8 @@ https://sprintstories.com
 http://kit.com/jakek/the-sprint-kit
 http://www.thesprintbook.com/sprint-week
 https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
+
+https://sprintstories.com/storyboarding-2-0-4e282b2da94d#.uo3zlqsnc
 
 http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
 -->
@@ -1061,6 +1074,8 @@ Prototyping Software- Keynote- Docs
 * [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
 
 <!--
+http://keynotopia.com/guides-ppt/?mc_cid=0b813fc8c6&mc_eid=2008dfea31
+
 http://keynotopia.com/#how
 http://keynotopia.com/guides
 http://keynotopia.com/bootstrap
@@ -2982,6 +2997,8 @@ Bootstrap, Font Awesome
 * [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
 <!--
+http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
+
 http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
 http://glyphicons.bootstrapcheatsheets.com/
 -->
@@ -3000,6 +3017,10 @@ CSS Reset (HTML5 Compatibility Check/Normalization)
 * [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
 * [Shim GitHub](https://github.com/marstall/shim)  
 * [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
+
+<!--
+http://stylus-lang.com
+-->
 
 Cross Browser and Sniffing
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
@@ -4706,8 +4727,6 @@ http://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
 https://blogs.aws.amazon.com/net/post/TxSBK1AHRGLHVC/Exploring-ASP-NET-Core-Part-1-Deploying-from-GitHub
 
 http://www.iis.net/learn/publish/using-web-deploy
-
-https://www.pluralsight.com/authors/scott-allen
 
 Tutorial
 https://www.youtube.com/watch?v=EghnSvJ8h68
@@ -7965,6 +7984,11 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) 
 
+Fave Pluralsight Authors
+* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
+* [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
+* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
+
 <!--
 http://www.appinventor.org
 https://www.pluralsight.com/kids-courses
@@ -9464,6 +9488,7 @@ http://www.slideshare.net/mikemaplesjr
 * [Danielle Morrill](http://www.daniellemorrill.com), [Danielle Morrill Medium](https://medium.com/@DanielleMorrill) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
 * [Dao Nguyen](http://www.buzzfeed.com/daozers)
 * [Dave Winer](http://scripting.com) and [Dave Winer GitHub](https://github.com/scripting)
+* [David Cummings](https://davidcummings.org)
 * [Dion Hinchcliffe Twitter](https://twitter.com/dhinchcliffe)
 * [Doc Searls](http://blogs.law.harvard.edu/doc) 
 * [Elad Gil](http://blog.eladgil.com)
@@ -11481,9 +11506,11 @@ Livestreaming, Video, Audio
 * [Periscope](https://www.periscope.tv)
 
 Photo Hosting
+* [Amazon: Share Your Photos, Videos, & Albums](https://www.amazon.com/gp/help/customer/display.html?nodeId=201480990)
 * [Flickr](https://www.flickr.com) 
 * [Google Photos](https://photos.google.com)
 * [Picasa](https://picasa.google.com)
+* [Shutterfly](https://www.shutterfly.com)
 
 Photo Editing, Video, Music
 * [Buffer Pablo](https://pablo.buffer.com)
