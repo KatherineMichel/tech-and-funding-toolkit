@@ -475,50 +475,41 @@ Startup Class Dotfiles and AWS EC2 Setup
 https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
 
 Lecture 2: Interactive Start 
-http://class.coursera.org/startup-001/lecture/75
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf
 
 Lecture 3: Linux and Server Side Javascript 
-https://class.coursera.org/startup-001/lecture/99
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf
 https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf
 
 Lecture 4A: Linux Command Line 
-https://class.coursera.org/startup-001/lecture/131
 https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf
 
 Lecture 4B: Development Environment 
-https://class.coursera.org/startup-001/lecture/155 https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf
+https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf
 
 Lecture 7: Deployment, DNS, and Custom Domains 
-https://class.coursera.org/startup-001/lecture/197
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf
 
 Lecture 12: Node JS: Async, Flow Control, Node Debugging 
 https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf
 
 Lecture 6: Introduction to HTML/CSS/JS
-https://class.coursera.org/startup-001/lecture/193
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf
 
 Lecture 10: Intermediate and Frontend JS
 https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf
 
 Lecture 8: Mobile: HTTP, User Agents, and Responsive Design 
-https://class.coursera.org/startup-001/lecture/199
 https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf
 
 Lecture 5: Market Research, Wireframing, Design
-https://class.coursera.org/startup-001/lecture/189
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf
 
 
 Lecture 0: Course Overview 
-https://class.coursera.org/startup-001/lecture/57
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf
 
 Lecture 1: Introduction 
-https://class.coursera.org/startup-001/lecture/33
 https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf
 
 Lecture 9: Why do VCs love mobile, local, and social? And what they love next? https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf
@@ -601,6 +592,17 @@ https://class.coursera.org/startup-001/assignment/view?assignment_id=5
 https://class.coursera.org/startup-001/assignment/view?assignment_id=8
 https://class.coursera.org/startup-001/assignment/view?assignment_id=10
 https://class.coursera.org/startup-001/assignment/view?assignment_id=12
+
+http://class.coursera.org/startup-001/lecture/75
+https://class.coursera.org/startup-001/lecture/99
+https://class.coursera.org/startup-001/lecture/131
+https://class.coursera.org/startup-001/lecture/155
+https://class.coursera.org/startup-001/lecture/197
+https://class.coursera.org/startup-001/lecture/193
+https://class.coursera.org/startup-001/lecture/199
+https://class.coursera.org/startup-001/lecture/189
+https://class.coursera.org/startup-001/lecture/57
+https://class.coursera.org/startup-001/lecture/33
 -->
 
 #### Digital Agencies and Code Philosophies
@@ -756,18 +758,6 @@ Fave Pluralsight Authors
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 
-<!--
-http://www.appinventor.org
-https://www.pluralsight.com/kids-courses
-https://github.com/FreeCodeCamp/hour-of-code
-
-https://www.khanacademy.org/computing/computer-programming/sql
-https://www.khanacademy.org/computing/computer-programming
-https://www.khanacademy.org/computing/computer-science
-
-http://treehouse.github.io/installation-guides
--->
-
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
@@ -790,35 +780,6 @@ Robotics and/or Geared toward Kids
 * [Minecraft](https://minecraft.net)
 * [Scratch (MIT)](https://scratch.mit.edu)
 
-<!--
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
-
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
-
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
-
-https://github.com/jshomes/learning-resources
-
-https://github.com/MakeSchool
--->
-
 Free Code Camp
 * [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
 * [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
@@ -827,41 +788,6 @@ Free Code Camp
 * [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-
-<!--
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
-http://forum.freecodecamp.com
-
-http://www.theodinproject.com
-
-https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
-
-https://egghead.io/tags/free
-https://egghead.io/series/learn-to-use-vim
-https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
-https://egghead.io/lessons/javascript-intro-to-webpack
-https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
-
-HTML Graphics
-http://www.w3schools.com/canvas/default.asp
-Learn Canvas
-http://www.w3schools.com/canvas/default.asp
-Learn SVG
-http://www.w3schools.com/svg/default.asp
-Learn Icons
-http://www.w3schools.com/icons/default.asp
-Learn Google Maps
-http://www.w3schools.com/googleapi/default.asp
-Learn HTML Games
-http://www.w3schools.com/games/default.asp
-
-http://www.w3schools.com/appml/default.asp
-
-http://www.w3schools.com/website/default.asp
-http://www.w3schools.com/browsers/default.asp
-
-http://www.gnu.org/doc/other-free-books.html
--->
 
 Free Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
@@ -956,6 +882,76 @@ https://en.wikipedia.org/wiki/GNU_Hurd
 KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
+
+<!--
+http://treehouse.github.io/installation-guides
+
+https://www.codecademy.com/courses/learn-the-command-line
+https://www.codecademy.com/tracks/web
+
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
+http://forum.freecodecamp.com
+
+https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
+
+https://www.khanacademy.org/computing/computer-programming/sql
+https://www.khanacademy.org/computing/computer-programming
+https://www.khanacademy.org/computing/computer-science
+
+http://www.appinventor.org
+https://www.pluralsight.com/kids-courses
+https://github.com/FreeCodeCamp/hour-of-code
+
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (syntax)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
+
+https://egghead.io/tags/free
+https://egghead.io/series/learn-to-use-vim
+https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
+https://egghead.io/lessons/javascript-intro-to-webpack
+https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
+
+HTML Graphics
+http://www.w3schools.com/canvas/default.asp
+Learn Canvas
+http://www.w3schools.com/canvas/default.asp
+Learn SVG
+http://www.w3schools.com/svg/default.asp
+Learn Icons
+http://www.w3schools.com/icons/default.asp
+Learn Google Maps
+http://www.w3schools.com/googleapi/default.asp
+Learn HTML Games
+http://www.w3schools.com/games/default.asp
+
+http://www.w3schools.com/appml/default.asp
+
+http://www.w3schools.com/website/default.asp
+http://www.w3schools.com/browsers/default.asp
+
+http://www.gnu.org/doc/other-free-books.html
+
+https://github.com/jshomes/learning-resources
+https://github.com/MakeSchool
+http://www.theodinproject.com
+-->
 
 #### Programming Language Style Guides
 
@@ -2476,15 +2472,6 @@ https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
 
 #### Testing and Performance
 
-W3 Validators
-* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
-* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
-* [W3C Link Checker](https://validator.w3.org/checklink)
-<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
-* [W3C Mobile Validator](http://validator.w3.org/mobile)
-* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
-
 Device Testing
 * [AWS Device Farm](https://aws.amazon.com/device-farm)
 * [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
@@ -2524,6 +2511,15 @@ App Invites or Beta Testing
 Example
 * [Example Org](http://www.example.org)  
 * [Example Org Mobile](https://m.example.com) 
+
+W3 Validators
+* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+* [W3C Link Checker](https://validator.w3.org/checklink)
+<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
+* [W3C Mobile Validator](http://validator.w3.org/mobile)
+* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
 
 Accessibility
 * [WebAIM](http://webaim.org)
@@ -2575,6 +2571,22 @@ https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspe
 https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
 -->
 
+<!--
+HTTP Archive
+https://en.wikipedia.org/wiki/.har
+https://toolbox.googleapps.com/apps/har_analyzer
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+-->
+
 #### Social Graph and Webmaster
 
 Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
@@ -2622,15 +2634,57 @@ http://microformats.org/wiki/hcard-examples
 Web Analytics
 * [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
-Facebook Crawler
-* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
-* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
-
 Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 * [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
+* [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
+* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
 * [Facebook Platform Insights (Going away)](https://developers.facebook.com/docs/platforminsights)
 
+<!--
+Facebook's Advertisers Tool
+https://developers.facebook.com/docs/javascript
+
+https://developers.facebook.com/docs/sharing/referral-insights
+https://developers.facebook.com/docs/analytics
+
+https://www.facebook.com/ads/manager/pixel/facebook_pixel/?act=314539814&pid=p1
+
+https://www.facebook.com/business/learn/facebook-ads-measuring-results
+https://www.facebook.com/business/a/facebook-pixel
+https://www.facebook.com/business/help/952192354843755
+https://www.facebook.com/business/help/651294705016616
+https://www.facebook.com/business/a/online-sales/conversion-tracking
+https://www.facebook.com/business/help/1686199411616919
+https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
+https://www.facebook.com/business/help/460491677335370
+https://www.facebook.com/business/help/373979379354234
+
+New (See also reporobot and githubteacher)
+https://github.com/guardian/facebook-news-bot
+https://www.messenger.com/t/theguardian/
+
+https://messengerplatform.fb.com/
+https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
+
+https://github.com/jw84/messenger-bot-tutorial
+https://github.com/WhiteHouse/fb_messenger_bot
+
+Webmaster Guidelines
+https://support.google.com/webmasters/answer/35769
+
+https://en.wikipedia.org/wiki/Search_engine_optimization
+https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
+https://support.google.com/webmasters/answer/35291?hl=en
+https://support.google.com/webmasters/answer/40349?hl=en
+http://searchengineland.com/library/google/google-seo
+
+https://webmasters.googleblog.com
+
+https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
+-->
 
 Google Webmaster and Analytics (Web)
 * [Google Webmaster](http://www.google.com/webmasters)
@@ -2680,76 +2734,12 @@ Referral URL
 
 https://en.wikipedia.org/wiki/Resource_Description_Framework
 
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
-
 https://affiliate-program.amazon.com/welcome
 
 https://www.youtube.com/watch?v=JASn8EsO174
--->
 
-<!--
-https://developers.facebook.com/docs/sharing/referral-insights
-https://developers.facebook.com/docs/analytics
-
-New (Se also reporobot and githubteacher)
-https://github.com/guardian/facebook-news-bot
-https://www.messenger.com/t/theguardian/
-
-https://messengerplatform.fb.com/
-https://developers.facebook.com/docs/messenger-platform
-https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
-https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
-
-https://github.com/jw84/messenger-bot-tutorial
-https://github.com/WhiteHouse/fb_messenger_bot
-
-http://newsroom.fb.com/news/2016/10/introducing-marketplace-buy-and-sell-with-your-local-community/
 https://www.facebook.com/help/239070709801747?helpref=popular_topics
-
-Facebook's Advertisers Tool
-https://developers.facebook.com/docs/javascript
-
-Facebook Insights
-https://developers.facebook.com/docs/platforminsights/domains
-https://developers.facebook.com/docs/platforminsights/page
-
-https://www.facebook.com/ads/manager/pixel/facebook_pixel/?act=314539814&pid=p1
-
-https://www.facebook.com/business/learn/facebook-ads-measuring-results
-https://www.facebook.com/business/a/facebook-pixel
-https://www.facebook.com/business/help/952192354843755
-https://www.facebook.com/business/help/651294705016616
-https://www.facebook.com/business/a/online-sales/conversion-tracking
-https://www.facebook.com/business/help/1686199411616919
-https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
-https://www.facebook.com/business/help/460491677335370
-https://www.facebook.com/business/help/373979379354234
-
-Webmaster Guidelines
-https://support.google.com/webmasters/answer/35769
-
-https://en.wikipedia.org/wiki/Search_engine_optimization
-https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
-https://support.google.com/webmasters/answer/35291?hl=en
-https://support.google.com/webmasters/answer/40349?hl=en
-http://searchengineland.com/library/google/google-seo
-
-https://webmasters.googleblog.com
-
-https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
 -->
-
 
 Facebook Tools
 * [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
@@ -2757,6 +2747,10 @@ Facebook Tools
 * [Facebook Ad Creation Manager](https://www.facebook.com/ads/manager/creation)
 * [Facebook Power Editor](https://www.facebook.com/help/162528860609436)
 * [Fb Start for Mobile Startups](http://fbstart.com)
+
+<!--
+http://newsroom.fb.com/news/2016/10/introducing-marketplace-buy-and-sell-with-your-local-community/
+-->
 
 Google Ads
 * [Google Ads](http://www.google.com/ads) 
@@ -3191,6 +3185,7 @@ Responsive Design Examples
 * [Media Queries Examples](http://mediaqueri.es)
 * [Responsive Design Examples](https://responsivedesign.is/examples)
 
+
 Foundation
 * [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 * [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
@@ -3393,8 +3388,51 @@ W3C DOM4
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
 <!--
+http://www.w3fools.com/
+
+http://www.w3schools.com/css/css_boxmodel.asp
+
+http://www.w3schools.com/cssref/
+http://www.w3schools.com/cssref/default.asp
+
+https://v4-alpha.getbootstrap.com/layout/grid/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+
+Cascade
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+https://www.w3.org/TR/CSS2/cascade.html
+
+Semantic Elements
+https://en.wikipedia.org/wiki/Semantic_HTML
+http://www.w3schools.com/html/html5_semantic_elements.asp
+
+HTML Elements/Sections
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+http://blog.teamtreehouse.com/use-html5-sectioning-elements
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+https://www.w3.org/TR/css3-selectors/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+https://www.w3schools.com/css/css_pseudo_classes.asp
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+https://www.w3schools.com/css/css3_flexbox.asp
+https://www.w3.org/TR/css-flexbox-1/
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps
+https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps#enable_source_maps_in_settings
+https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map
+http://blog.teamtreehouse.com/introduction-source-maps
+
+
+
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
 https://developer.mozilla.org/en-US/docs/Web/API/Headers
+
 http://www.w3schools.com/js/js_hoisting.asp
 https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js
 
@@ -3406,21 +3444,9 @@ http://www.w3schools.com/Sql/sql_quickref.asp
 
 http://www.w3schools.com/tags/ref_byfunc.asp
 
-
-
 https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
 https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
-
-https://v4-alpha.getbootstrap.com/layout/grid/
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/grid
-
-
-https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps
-https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps#enable_source_maps_in_settings
-https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map
-http://blog.teamtreehouse.com/introduction-source-maps
 
 https://www.w3schools.com/TAgs/att_meta_charset.asp
 https://www.w3schools.com/html/html_charset.asp
@@ -3434,23 +3460,12 @@ https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
 
 https://www.w3.org/standards/about.html
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
 https://www.w3schools.com/css/css_syntax.asp
-https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
-https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
-https://www.w3schools.com/css/css_pseudo_classes.asp
+
 https://www.w3schools.com/tags/tag_span.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
-https://www.w3schools.com/css/css3_flexbox.asp
-https://www.w3.org/TR/css-flexbox-1/
-
-http://www.w3schools.com/css/css_boxmodel.asp
-
-http://www.w3fools.com/
-
-http://www.w3schools.com/cssref/
-http://www.w3schools.com/cssref/default.asp
 http://www.w3schools.com/css/css_text.asp
 http://www.w3schools.com/css/css_howto.asp
 http://www.w3schools.com/cssref/pr_pos_z-index.asp
@@ -3470,7 +3485,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/position
 https://developer.mozilla.org/en-US/docs/Web/CSS/@import
 https://teamtreehouse.com/library/css-basics/getting-started-with-css/importing-style-sheets-with-import
 https://www.w3.org/TR/CSS21/propidx.html
-https://www.w3.org/TR/css3-selectors/
 https://www.w3.org/Style/CSS/
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
 https://www.w3.org/People/Bos/Stylesheets/textfont.html
@@ -3484,20 +3498,6 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_
 https://www.w3.org/TR/html401/struct/global.html
 http://html5doctor.com/outlines/
 Semantic Site Audit
-
-
-Cascade
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
-https://www.w3.org/TR/CSS2/cascade.html
-
-Semantic Elements
-https://en.wikipedia.org/wiki/Semantic_HTML
-http://www.w3schools.com/html/html5_semantic_elements.asp
-
-HTML Elements/Sections
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
-http://blog.teamtreehouse.com/use-html5-sectioning-elements
 
 http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
 -->
