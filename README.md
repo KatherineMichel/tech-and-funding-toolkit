@@ -723,13 +723,6 @@ http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
 
 #### Programming Learning Tools
 
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-
-<!--
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
--->
-
 Programming Groups
 * [Codettes](http://www.codettes.net)
 * [Django Girls](https://djangogirls.org)
@@ -823,6 +816,13 @@ Comparison of type systems
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 
 https://github.com/jshomes/learning-resources
+-->
+
+<!--
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 -->
 
 Free Code Camp
@@ -961,12 +961,6 @@ https://en.wikipedia.org/wiki/GNU_Hurd
 KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
-
-Developer Surveys
-* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
-* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-* [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
-* ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 #### Programming Language Style Guides
 
@@ -2585,12 +2579,61 @@ https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspe
 https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
 -->
 
-#### Social Media and Social Graph
+#### Social Graph and Webmaster
 
 Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
 * [Open Graph Protocol Schema](http://ogp.me) 
 * [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
 * [Schema Creator](http://schema-creator.org)
+
+Web Analytics
+* [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
+
+Facebook Developers
+* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
+
+Google Webmaster and Analytics (Web)
+* [Google Webmaster](http://www.google.com/webmasters)
+* [Google Analytics](http://www.google.com/analytics)
+* [Google U.K. Analytics](http://www.google.co.uk/analytics)
+* [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
+* [Google Data Studio](https://www.google.com/analytics/data-studio)
+
+Google Rich Snippets
+* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
+
+Google Mobile Analytics and Firebase
+* [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
+* [Firebase](https://firebase.google.com)
+
+Google Tag Manager
+* [Google Tag Manager](http://www.google.com/tagmanager)
+
+Google Custom Search Engine
+* [Google Custom Search Engine](https://cse.google.com/cse)
+
+Google Analytics Alternative
+* [Hubspot](http://www.hubspot.com)
+
+Twitter Developer
+* [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs) 
+* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
+* [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent)
+
+Yahoo and Bing- Developer, Webmaster
+* [Yahoo Development](http://developer.yahoo.com), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+* [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
+* [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster) 
+
+Firefox SEO (See also Mozilla)
+* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
+
+Sharing Buttons
+* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
+* [AddToAny](https://www.addtoany.com) 
+* [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
+
+#### Social Media
 
 Open Search
 * [Open Search](http://www.opensearch.org/Home)
@@ -2654,12 +2697,6 @@ https://affiliate-program.amazon.com/welcome
 https://www.youtube.com/watch?v=JASn8EsO174
 -->
 
-Web Analytics
-* [Web Analytics Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
-
-Facebook Developers
-* [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
-
 Facebook Tools
 * [Facebook Pages (including Insights)](https://www.facebook.com/about/pages), [Facebook Atlas (Analytics)](http://atlassolutions.com) 
 * [Facebook Business](https://www.facebook.com/business)
@@ -2718,25 +2755,7 @@ https://webmasters.googleblog.com
 https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html?m=1
 -->
 
-Google Webmaster and Analytics (Web)
-* [Google Webmaster](http://www.google.com/webmasters)
-* [Google Analytics](http://www.google.com/analytics)
-* [Google U.K. Analytics](http://www.google.co.uk/analytics)
-* [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
-* [Google Data Studio](https://www.google.com/analytics/data-studio)
 
-Google Rich Snippets
-* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
-Google Mobile Analytics and Firebase
-* [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
-* [Firebase](https://firebase.google.com)
-
-Google Tag Manager
-* [Google Tag Manager](http://www.google.com/tagmanager)
-
-Google Analytics Alternative
-* [Hubspot](http://www.hubspot.com)
 
 Google Ads
 * [Google Ads](http://www.google.com/ads) 
@@ -2752,38 +2771,20 @@ Google Ads
 Google Monetization
 * [Google Monetize](https://developers.google.com/monetize), [Google Web Fundamentals Monetization](https://developers.google.com/web/fundamentals/monetization), and [Google Chrome Monetization](https://developer.chrome.com/webstore/money) 
 
-Google Custom Search Engine
-* [Google Custom Search Engine](https://cse.google.com/cse)
-
 Pinterest
 * [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
 
-Twitter
-* [Twitter Dev](https://dev.twitter.com) and [Twitter Dev Docs](https://dev.twitter.com/docs)  
+Twitter Analytics, Ads, Marketing
 * [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
 * [Twitter Marketing](https://marketing.twitter.com)
-* [Twitter Cards](https://dev.twitter.com/cards/overview), [Twitter Card Types](https://dev.twitter.com/cards/types), [Twitter Cards Mobile](https://dev.twitter.com/cards/mobile), [Twitter Card Validator](https://cards-dev.twitter.com/validator), and [Twitter Cards GitHub](https://github.com/twitterdev/cards) 
-* [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent) 
 
-Yahoo and Bing- Developer, Webmaster, and Ads
-* [Yahoo Development](http://developer.yahoo.com), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
-* [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
-* [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster)  
+Yahoo and Bing- Ads
 * [Bing Ads](http://advertise.bingads.microsoft.com/en-us/home), [Bing Ads](https://secure.bingads.microsoft.com), [Bing Ads Wikipedia](http://en.wikipedia.org/wiki/Bing_Ads), and [Bing Ads Slideshare](http://www.slideshare.net/bingads)  
 
 YouTube (Google)
 * [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
 * [YouTube Creators](http://www.youtube.com/yt/creators)  
 * [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
-
-Firefox SEO (See also Mozilla)
-* [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
-
-Sharing Buttons
-* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
-* [AddToAny](https://www.addtoany.com) 
-* [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
-
 
 Net Promoter
 * [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
@@ -2808,6 +2809,12 @@ Individual Engineering Blogs
  
 StackShare
 * [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
+
+Developer Surveys
+* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
+* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+* [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
+* ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 Company Design
 * [Airbnb Samara](http://samara.airbnb.com)
