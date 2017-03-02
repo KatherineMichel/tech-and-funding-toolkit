@@ -402,6 +402,10 @@ https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 https://en.wikipedia.org/wiki/Brownfield_(software_development)
+
+Important Concepts
+* [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 -->
 
 Software Engineering/Development 
@@ -462,6 +466,21 @@ Startup Mooc Staging Example: GitHub, AWS, Heroku
 * Illustration: Startup Engineering Dev, Staging, Production
 -->
 
+* [Lecture 2: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
+* [Lecture 3: Linux and Server Side Javascript](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf) or Lecture 3: Linux and Server Side Javascript](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf)
+* [Lecture 4A: Linux Command Line](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf)
+* [Lecture 4B: Development Environment](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf)
+* [Lecture 7: Deployment, DNS, and Custom Domains](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
+* [Lecture 12: Node JS: Async, Flow Control, Node Debugging](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf)
+* [Lecture 6: Introduction to HTML/CSS/JS](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf)
+* [Lecture 10: Intermediate and Frontend JS](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf)
+* [Lecture 8: Mobile: HTTP, User Agents, and Responsive Design(https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf)
+* [Lecture 5: Market Research, Wireframing, Design](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+* [Lecture 0: Course Overview](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf)
+* [Lecture 1: Introduction](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf)
+* [Lecture 9: Why do VCs love mobile, local, and social? And what they love next?] (https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf)
+* [Lecture 11: Regulation, Disruption, and the Technologies of 2013.](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf)
+
 <!--
 http://web.stanford.edu/class/cs106b/
 
@@ -473,48 +492,6 @@ Startup Class Dotfiles and AWS EC2 Setup
 * [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
 
 https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
-
-Lecture 2: Interactive Start 
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf
-
-Lecture 3: Linux and Server Side Javascript 
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf
-https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf
-
-Lecture 4A: Linux Command Line 
-https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf
-
-Lecture 4B: Development Environment 
-https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf
-
-Lecture 7: Deployment, DNS, and Custom Domains 
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf
-
-Lecture 12: Node JS: Async, Flow Control, Node Debugging 
-https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf
-
-Lecture 6: Introduction to HTML/CSS/JS
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf
-
-Lecture 10: Intermediate and Frontend JS
-https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf
-
-Lecture 8: Mobile: HTTP, User Agents, and Responsive Design 
-https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf
-
-Lecture 5: Market Research, Wireframing, Design
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf
-
-
-Lecture 0: Course Overview 
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf
-
-Lecture 1: Introduction 
-https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf
-
-Lecture 9: Why do VCs love mobile, local, and social? And what they love next? https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf
-
-Lecture 11: Regulation, Disruption, and the Technologies of 2013. https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf
 
 http://www.html5rocks.com/en/mobile/
 
@@ -575,34 +552,10 @@ Lecture 1: Figure 1: Signoidal curve for the development of an industry
 Lecture 1: Table 1: Future and current/ongoing technological trends
 Lecture 1: Table 2: An overview of technologies used in the course                                
 Lecture 1: Figure 5: The Rise and Fall of Personal Computing
--->
 
-<!--
 No longer in existence
-
-Startup Engineering Video Lectures
-https://class.coursera.org/startup-001/lecture 
-
 Homework
-https://class.coursera.org/startup-001/wiki/homework
-
 Deployment Assignments
-https://class.coursera.org/startup-001/assignment
-https://class.coursera.org/startup-001/assignment/view?assignment_id=5
-https://class.coursera.org/startup-001/assignment/view?assignment_id=8
-https://class.coursera.org/startup-001/assignment/view?assignment_id=10
-https://class.coursera.org/startup-001/assignment/view?assignment_id=12
-
-http://class.coursera.org/startup-001/lecture/75
-https://class.coursera.org/startup-001/lecture/99
-https://class.coursera.org/startup-001/lecture/131
-https://class.coursera.org/startup-001/lecture/155
-https://class.coursera.org/startup-001/lecture/197
-https://class.coursera.org/startup-001/lecture/193
-https://class.coursera.org/startup-001/lecture/199
-https://class.coursera.org/startup-001/lecture/189
-https://class.coursera.org/startup-001/lecture/57
-https://class.coursera.org/startup-001/lecture/33
 -->
 
 #### Digital Agencies and Code Philosophies
@@ -649,16 +602,13 @@ Semver
 The Distributed Developer Stack Field Guide
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 
-Trac Project Management and DB (Used with www.djangoproject.com)
+Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
 * [Trac](http://trac.edgewall.org)  
 * [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
 * [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
 
 <!--
-https://www.phacility.com
-https://secure.phabricator.com
-https://en.wikipedia.org/wiki/Phabricator
-
 https://github.com/heroku/12factor
 -->
 
@@ -677,6 +627,7 @@ Methods
 * [Dotmocracy Wikipedia](https://en.wikipedia.org/wiki/Dotmocracy)
 * [Six Thinking Hats Wikipedia](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
 * [Storyboard Wikipedia](https://en.wikipedia.org/wiki/Storyboard)
+* [Mood Board Wikipedia](https://en.wikipedia.org/wiki/Mood_board)
 * [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
 * [User Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
 
@@ -735,6 +686,10 @@ Programming Groups
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
 
+Guides for Development
+* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
+
 Programming and Math Learning Tools (See also MOOCs)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
@@ -751,7 +706,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Rosetta Code](http://rosettacode.org)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
-* [W3Schools Web Development Tutorials](http://www.w3schools.com) 
+* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
@@ -760,6 +715,19 @@ Fave Pluralsight Authors
 
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
+
+Free Code Camp
+* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
+* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
+* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+
+Programming Books
+* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
+* [Humble Bundle](https://www.humblebundle.com)
 
 Math and General Knowledge
 * [Project Euler](http://www.projecteuler.net)  
@@ -779,26 +747,6 @@ Robotics and/or Geared toward Kids
 * [Kano Playground](http://art.kano.me/playground)
 * [Minecraft](https://minecraft.net)
 * [Scratch (MIT)](https://scratch.mit.edu)
-
-Free Code Camp
-* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
-* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
-* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
-* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
-* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
-* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-
-Free Programming Books
-* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
-
-<!--
-https://www.humblebundle.com
--->
-
-Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-* [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
 
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
@@ -1219,10 +1167,6 @@ Utilities
 * [Dig Wikipedia](http://en.wikipedia.org/wiki/Dig_(command))  
 * [Ping Wikipedia](http://en.wikipedia.org/wiki/Ping_(networking_utility))  
 * [Clobbering Wikipedia](http://en.wikipedia.org/wiki/Clobbering) 
-
-Important Concepts
-* [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 
 Miscellaneous Vocab
 * [Hard Coding Wikipedia](http://en.wikipedia.org/wiki/Hard_coding)
@@ -3388,8 +3332,6 @@ W3C DOM4
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
 <!--
-http://www.w3fools.com/
-
 http://www.w3schools.com/css/css_boxmodel.asp
 
 http://www.w3schools.com/cssref/
