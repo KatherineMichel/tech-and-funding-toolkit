@@ -61,6 +61,7 @@ Table of Content
 
 * [Design Thinking](#design-thinking)
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
+* [Themes](#themes)
 
 * [Front-End Development](#front-end-development) 
 
@@ -2495,6 +2496,7 @@ http://www.iecss.com/
 Normal Document Flow
 HTML5 Outliner
 https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
+https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/
 
 Accessibility in Internet Explorer 11
 https://www.microsoft.com/enable/products/ie11/
@@ -2842,6 +2844,9 @@ Design- General
 * [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
 
 <!--
+http://www.creativethinkinghub.com/tools/
+https://en.m.wikipedia.org/wiki/David_Gries
+
 * ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
 -->
 
@@ -3004,13 +3009,9 @@ Color
 Color Model
 * [RGBA (red green blue alpha) Wikipedia](https://en.wikipedia.org/wiki/RGBA_color_space)
 
-Style Tiles
+Design Teardowns and Style Tiles
+* [Product Teardown Wikipedia](https://en.wikipedia.org/wiki/Product_teardown)
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
-
-<!--
-Design Teardown
-https://en.wikipedia.org/wiki/Product_teardown
--->
 
 Typographic Scale and Vertical Rhythm
 * [Modular Scale](http://www.modularscale.com)
@@ -3096,6 +3097,84 @@ Photo Enhancement
 Gifs
 * [Giphy](http://giphy.com) 
 
+#### Themes
+
+Theme Marketplace
+* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
+
+Good, Basic Templates, Themes
+* [Template Stash](http://www.templatestash.com)
+* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
+* [BootstrapTaste](http://bootstraptaste.com)
+* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
+* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
+* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
+* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
+* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
+
+<!--
+https://github.com/BlackrockDigital/startbootstrap-modern-business
+
+http://www.bootstrapzero.com/c/one-page-themes
+http://bootstrap.theme.cards/l
+
+http://www.bootply.com
+
+Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
+Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
+href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
+
+https://github.com/silverbux/bootflat-admin
+https://github.com/almasaeed2010/AdminLTE
+https://github.com/VinceG/Bootstrap-Admin-Theme 
+https://github.com/onokumus/Bootstrap-Admin-Template
+https://github.com/akveo/blur-admin
+https://github.com/puikinsh/gentelella
+-->
+
+Good, Basic Templates, Themes- Skel
+* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
+* [Templated](http://templated.co)
+* [HTML5 UP](http://html5up.net)
+
+
+
+
+Static Site Generators and CMS (See also Jekyll)
+* [StaticGen](https://www.staticgen.com)
+* [Hugo](http://gohugo.io) and [Hugo GitHub](https://github.com/spf13/hugo)
+* [Grav](https://getgrav.org)
+* [Hexo](https://hexo.io)
+* [Metalsmith GitHub](https://github.com/metalsmith/metalsmith)
+* [Prose (Content Editor for GitHub)](http://prose.io)
+
+Favicon, Sitemap, robots.txt, humans.txt
+* [XML Sitemaps](http://www.xml-sitemaps.com)
+* [sitemaps.org](http://www.sitemaps.org)
+* [humans.txt](http://humanstxt.org)
+* [robots.txt](http://www.robotsgenerator.com)
+
+<!--
+robots.txt tutorial
+http://tools.seobook.com/robots-txt
+Real Favicon Generator
+http://realfavicongenerator.net
+-->
+
+Gravatar
+* [Gravatar](http://en.gravatar.com)
+
+Utilites
+* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
+* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
+* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
+
+<!--
+https://websitedownloader.io
+https://webpreserver.com
+https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
+-->
+
 #### Front-End Development
 
 Web General (See also JavaScript) 
@@ -3137,54 +3216,30 @@ Responsive Design Examples
 * [Media Queries Examples](http://mediaqueri.es)
 * [Responsive Design Examples](https://responsivedesign.is/examples)
 
-
-
 Foundation
 * [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 * [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
 * [Foundation for Emails](http://foundation.zurb.com/emails.html)
 * [Zurb Library](http://zurb.com/library)
 
-Theme Marketplace
-* [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
-
-Good, Basic Templates, Themes
-* [Template Stash](http://www.templatestash.com)
-* [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero (Ads) GitHub](https://github.com/iatek/bootstrap-zero)
-* [BootstrapTaste](http://bootstraptaste.com)
-* [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-* [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
-* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
-* [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
-* [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
+Bootstrap, Font Awesome
+* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
+* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
+* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
+* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
 <!--
-https://github.com/BlackrockDigital/startbootstrap-modern-business
+http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
 
-http://www.bootstrapzero.com/c/one-page-themes
-http://bootstrap.theme.cards/l
-
-http://www.bootply.com
-
-Bootstraptaste <a href="http://bootstraptaste.com/terms" target="_blank">Terms</a>
-Live Bootstrap <a href="http://www.livebootstrap.com/terms" target="_blank">Terms</a>
-href="https://github.com/qrohlf/trianglify/blob/gh-pages/LICENSE" target="_blank">License</a>
-
-https://github.com/silverbux/bootflat-admin
-https://github.com/almasaeed2010/AdminLTE
-https://github.com/VinceG/Bootstrap-Admin-Theme 
-https://github.com/onokumus/Bootstrap-Admin-Template
-https://github.com/akveo/blur-admin
-https://github.com/puikinsh/gentelella
+http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
+http://glyphicons.bootstrapcheatsheets.com/
 -->
 
-Good, Basic Templates, Themes- Skel
-* [Skel (by HTML5 UP Creator) GitHub](https://github.com/n33/skel) and [Skel Docs GitHub](https://github.com/n33/skel/blob/master/docs/skel.md)
-* [Templated](http://templated.co)
-* [HTML5 UP](http://html5up.net)
-
-Kickstarters
-* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+Other Kickstarters
 * [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
 * [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
 * [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
@@ -3194,40 +3249,25 @@ https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
 https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
 -->
 
-Static Site Generators and CMS (See also Jekyll)
-* [StaticGen](https://www.staticgen.com)
-* [Hugo](http://gohugo.io) and [Hugo GitHub](https://github.com/spf13/hugo)
-* [Grav](https://getgrav.org)
-* [Hexo](https://hexo.io)
-* [Metalsmith GitHub](https://github.com/metalsmith/metalsmith)
-* [Prose (Content Editor for GitHub)](http://prose.io)
-
-Favicon, Sitemap, robots.txt, humans.txt
-* [XML Sitemaps](http://www.xml-sitemaps.com)
-* [sitemaps.org](http://www.sitemaps.org)
-* [humans.txt](http://humanstxt.org)
-* [robots.txt](http://www.robotsgenerator.com)
+Multi-Device Layout Patterns
+* [Multi-Device Layout Patterns by Luke Wroblewski](http://www.lukew.com/ff/entry.asp?1514)
 
 <!--
-robots.txt tutorial
-http://tools.seobook.com/robots-txt
-Real Favicon Generator
-http://realfavicongenerator.net
+https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
+
+https://bradfrost.github.io/this-is-responsive/patterns.html
+https://bradfrost.github.io/this-is-responsive/resources.html
+https://responsivedesign.is/patterns
 -->
 
-Gravatar
-* [Gravatar](http://en.gravatar.com)
-
-Utilites
-* [FileZilla](https://filezilla-project.org/download.php?platform=osx)
-* [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
-* [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
-
-<!--
-https://websitedownloader.io
-https://webpreserver.com
-https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
--->
+Responsiveness- and Media Queries
+* [Bootstrap CSS](http://getbootstrap.com/css)
+* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
+* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
+* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
 
 
 
@@ -3270,41 +3310,7 @@ HTML5 and CSS3 Tutorials- Mozilla
 http://www.w3schools.com/css/css3_intro.asp
 -->
 
-Multi-Device Layout Patterns
-* [Multi-Device Layout Patterns by Luke Wroblewski](http://www.lukew.com/ff/entry.asp?1514)
 
-<!--
-https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
-
-https://bradfrost.github.io/this-is-responsive/patterns.html
-https://bradfrost.github.io/this-is-responsive/resources.html
-https://responsivedesign.is/patterns
--->
-
-Responsiveness- and Media Queries
-* [Bootstrap CSS](http://getbootstrap.com/css)
-* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
-* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
-* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
-
-Bootstrap, Font Awesome
-* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
-* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
-* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
-* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-
-<!--
-http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
-
-http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
-http://glyphicons.bootstrapcheatsheets.com/
--->
 
 Compilation Resources (See also Gulp)
 * [Compass GitHub](https://github.com/chriseppstein/compass)  
@@ -3530,6 +3536,10 @@ https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 DOM Tree/Parent Child
 https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
 -->
+
+
+
+
 
 #### JavaScript
 
