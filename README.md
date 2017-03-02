@@ -456,6 +456,22 @@ https://github.com/DevOpsBootcamp/website
 https://docs.google.com/forms/d/12Mwr2D5jokWJh8hZm7bfk1uaXQQtyG0_cTdMASPjU10/viewform?edit_requested=true
 -->
 
+Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
+* [Trac](http://trac.edgewall.org)  
+* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
+* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+
+Phabricator
+* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
+
+GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
+* [GitLab Installation](https://about.gitlab.com/installation)
+* [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
 #### Startup Engineering MOOC
 
 <!--
@@ -601,12 +617,6 @@ Semver
 
 The Distributed Developer Stack Field Guide
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-
-Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
-* [Trac](http://trac.edgewall.org)  
-* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
-* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
-* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
 
 <!--
 https://github.com/heroku/12factor
@@ -1382,6 +1392,10 @@ http://lisacatalano.github.io/brackets_course/pc.html
 
 Brackets turn off word wrap
 Brackets control-e
+
+https://code.visualstudio.com/docs?start=true
+https://code.visualstudio.com/docs/setup/mac
+https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
 -->
 
 More Shell/Text Editors (See also Visual Studio and XCode)
@@ -1405,16 +1419,9 @@ http://www.barebones.com/products/bbedit/comparison.html
 Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 * Atom
 * [WebStorm](https://www.jetbrains.com/webstorm)
-* VSCode
 
 http://plnkr.co/
 https://www.jetbrains.com/pycharm/
-
-https://code.visualstudio.com/docs?start=true
-https://code.visualstudio.com/docs/setup/mac
-https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
-
-See also Editors
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 http://editorconfig.org/#download
@@ -1933,14 +1940,6 @@ YAML
 http://www.yaml.org/refcard.html
 http://yaml.org/spec/1.2/spec.html
 -->
-
-GitLab (See also Project Management and Docker)
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
-* [GitLab Installation](https://about.gitlab.com/installation)
-* [GitLab Features](https://about.gitlab.com/features)
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
 Atlassian: Bitbucket and SourceTree
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
@@ -3008,6 +3007,11 @@ Color Model
 Style Tiles
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
 
+<!--
+Design Teardown
+https://en.wikipedia.org/wiki/Product_teardown
+-->
+
 Typographic Scale and Vertical Rhythm
 * [Modular Scale](http://www.modularscale.com)
 * [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
@@ -3121,6 +3125,10 @@ CSS
 * [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
+<!--
+https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
+-->
+
 CSS Zen Garden 
 * [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
@@ -3128,6 +3136,7 @@ CSS Zen Garden
 Responsive Design Examples
 * [Media Queries Examples](http://mediaqueri.es)
 * [Responsive Design Examples](https://responsivedesign.is/examples)
+
 
 
 Foundation
@@ -3263,6 +3272,14 @@ http://www.w3schools.com/css/css3_intro.asp
 
 Multi-Device Layout Patterns
 * [Multi-Device Layout Patterns by Luke Wroblewski](http://www.lukew.com/ff/entry.asp?1514)
+
+<!--
+https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
+
+https://bradfrost.github.io/this-is-responsive/patterns.html
+https://bradfrost.github.io/this-is-responsive/resources.html
+https://responsivedesign.is/patterns
+-->
 
 Responsiveness- and Media Queries
 * [Bootstrap CSS](http://getbootstrap.com/css)
