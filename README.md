@@ -793,6 +793,9 @@ Text Editor and Code Demonstration
 * [Codepen](http://codepen.io)
 
 <!--
+https://github.com/ericelliott
+https://github.com/jshomes/learning-resources
+
 http://treehouse.github.io/installation-guides
 
 https://www.codecademy.com/courses/learn-the-command-line
@@ -857,7 +860,6 @@ http://www.w3schools.com/browsers/default.asp
 
 http://www.gnu.org/doc/other-free-books.html
 
-https://github.com/jshomes/learning-resources
 https://github.com/MakeSchool
 http://www.theodinproject.com
 -->
@@ -882,7 +884,8 @@ Documentation- Mozilla
 
 Standards
 * [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
 Better Reference than W3C
@@ -891,11 +894,6 @@ Better Reference than W3C
 * [WICG (Web Incubator CG)](https://github.com/WICG)
 
 <!--
-W3C
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-
-
 Standards
 https://wicg.github.io/admin/charter.html
 https://github.com/WICG/incubation-template/blob/gh-pages/index.html
@@ -1428,15 +1426,14 @@ Less Common
 
 TextWrangler (Recommended for Hard to Edit Files)
 * [TextWrangler](http://www.barebones.com/products/textwrangler)
+* [Comparison between TextWrangler and BBEdit](http://www.barebones.com/products/bbedit/comparison.html)
 
 <!--
-http://www.barebones.com/products/bbedit/comparison.html
-
 Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
-* Atom
 * [WebStorm](https://www.jetbrains.com/webstorm)
 
 http://plnkr.co/
+
 https://www.jetbrains.com/pycharm/
 
 EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
