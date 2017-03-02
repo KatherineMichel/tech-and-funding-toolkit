@@ -732,7 +732,7 @@ Fave Pluralsight Authors
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
-Free Code Camp
+Free Code Camp (CSS (Bootstrap), HTML, JavaScript)
 * [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
 * [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
 * [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
@@ -740,6 +740,14 @@ Free Code Camp
 * [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+
+Eric Elliot: CSS, HTML, JavaScript, and Other
+* [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
+
+<!--
+https://github.com/jshomes/learning-resources
+-->
 
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
@@ -793,9 +801,6 @@ Text Editor and Code Demonstration
 * [Codepen](http://codepen.io)
 
 <!--
-https://github.com/ericelliott
-https://github.com/jshomes/learning-resources
-
 http://treehouse.github.io/installation-guides
 
 https://www.codecademy.com/courses/learn-the-command-line
@@ -1436,10 +1441,12 @@ http://plnkr.co/
 
 https://www.jetbrains.com/pycharm/
 
-EditorConfig: http://editorconfig.org/ (tabs versus spaces, ect) .editorconfig
 http://editorconfig.org/#download
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 -->
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
 
 Unix Shell (See also Unix)
 * [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
