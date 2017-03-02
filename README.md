@@ -66,7 +66,11 @@ Table of Content
 
 * [Front-End Development](#front-end-development) 
 
+
+
 * [Standards](#standards)
+
+
 
 * [JavaScript](#javascript)
 * [AJAX, jQuery, JSON](#ajax-jquery-json)
@@ -3313,6 +3317,7 @@ Responsiveness- and Media Queries
 #### CSS Helpers
 
 Compilation Resources (See also Gulp)
+* [Stylus](http://stylus-lang.com)
 * [Compass GitHub](https://github.com/chriseppstein/compass)  
 * [Less GitHub](https://github.com/less/less.js)  
 * [Less for Windows](http://winless.org)
@@ -3326,10 +3331,6 @@ CSS Reset (HTML5 Compatibility Check/Normalization)
 * [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
 * [Shim GitHub](https://github.com/marstall/shim)  
 * [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
-
-<!--
-http://stylus-lang.com
--->
 
 Cross Browser and Sniffing
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
@@ -4338,6 +4339,12 @@ Jekyll
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
+<!--
+http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
+http://daigofuji.github.io/jekyll-foundation-5-starter/
+https://github.com/daigofuji/jekyll-foundation-5-starter
+-->
 
 Jekyll Admin/CMS
 * [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
