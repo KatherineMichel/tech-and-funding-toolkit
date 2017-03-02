@@ -30,6 +30,7 @@ Table of Content
 * [Agile Sprints](#agile-sprints)
 
 * [Programming Learning Tools](#programming-learning-tools) 
+* [Programming Documentation and Standards](#programming-documentation-and-standards) 
 * [Programming Language Style Guides](#programming-language-style-guides) 
 
 * [Basics](#basics)
@@ -787,61 +788,6 @@ Text Editor and Code Demonstration
 * [Cloud9](https://c9.io/katherinemichel)
 * [Codepen](http://codepen.io)
 
-Documentation- General
-* [IT eBooks](http://it-ebooks.info)
-* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-
-<!--
-http://www.oreilly.com/data/free/archive.html
-http://www.oreilly.com/design/free/design-in-venture-capital.csp
--->
-
-Documentation- Mozilla
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org) and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-* [WICG (Web Incubator CG)](https://github.com/WICG)
-
-<!--
-Standards
-https://wicg.github.io/admin/charter.html
-https://github.com/WICG/incubation-template/blob/gh-pages/index.html
-https://github.com/whatwg/dom
-
-https://github.com/tabatkins/bikeshed
-https://github.com/tabatkins?tab=repositories
--->
-
-Free Software Foundation
-* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-GNU Software and Manuals
-* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
-* [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
-* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
-
-<!--
-http://www.gnu.org/software/coreutils/manual/coreutils.html
-
-http://ftp.gnu.org
-http://gcc.gnu.org
-
-http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Hurd
--->
-
-KDE (See also KHTML)
-* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
-* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
-
 <!--
 http://treehouse.github.io/installation-guides
 
@@ -911,6 +857,71 @@ https://github.com/jshomes/learning-resources
 https://github.com/MakeSchool
 http://www.theodinproject.com
 -->
+
+#### Programming Documentation and Standards
+
+Documentation- General
+* [IT eBooks](http://it-ebooks.info)
+* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+
+<!--
+http://www.oreilly.com/data/free/archive.html
+http://www.oreilly.com/design/free/design-in-venture-capital.csp
+-->
+
+Documentation- Mozilla
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+* [WICG (Web Incubator CG)](https://github.com/WICG)
+
+<!--
+W3C
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+
+
+Standards
+https://wicg.github.io/admin/charter.html
+https://github.com/WICG/incubation-template/blob/gh-pages/index.html
+https://github.com/whatwg/dom
+
+https://github.com/tabatkins/bikeshed
+https://github.com/tabatkins?tab=repositories
+-->
+
+Free Software Foundation
+* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+GNU Software and Manuals
+* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
+* [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
+
+<!--
+http://www.gnu.org/software/coreutils/manual/coreutils.html
+
+http://ftp.gnu.org
+http://gcc.gnu.org
+
+http://en.wikipedia.org/wiki/GNU_readline
+https://en.wikipedia.org/wiki/GNU_Hurd
+-->
+
+KDE (See also KHTML)
+* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
+* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 
 #### Programming Language Style Guides
 
@@ -3017,10 +3028,6 @@ Typographic Scale and Vertical Rhythm
 * [Modular Scale](http://www.modularscale.com)
 * [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
 
-<!--
-Design Teardowns
--->
-
 Web-Safe Fonts
 * [Web Safe Fonts Wikipedia](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
 
@@ -3175,6 +3182,8 @@ https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
+
+
 #### Front-End Development
 
 Web General (See also JavaScript) 
@@ -3207,6 +3216,36 @@ CSS
 <!--
 https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
 -->
+
+
+
+
+W3C HTML Standards
+* [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
+* [W3C HTML5](https://www.w3.org/TR/html5)
+
+HTML and CSS Tutorials- General
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
+
+HTML and CSS Tutorials- Mozilla
+* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+HTML5 and CSS3 Tutorials- Mozilla
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+<!--
+http://www.w3schools.com/css/css3_intro.asp
+-->
+
+
 
 CSS Zen Garden 
 * [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
@@ -3271,46 +3310,7 @@ Responsiveness- and Media Queries
 
 
 
-#### Standards
-
-W3C
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-
-
-Better Reference than W3C
-* [WHATWG](https://whatwg.org) and [WHATWG Developers](https://developers.whatwg.org)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web
--->
-
-W3C HTML Standards
-* [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
-* [W3C HTML5](https://www.w3.org/TR/html5)
-
-HTML and CSS Tutorials- General
-* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
-* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
-* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-
-HTML and CSS Tutorials- Mozilla
-* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
-* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-
-HTML5 and CSS3 Tutorials- Mozilla
-* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
-<!--
-http://www.w3schools.com/css/css3_intro.asp
--->
-
-
+#### CSS Helpers
 
 Compilation Resources (See also Gulp)
 * [Compass GitHub](https://github.com/chriseppstein/compass)  
@@ -3355,6 +3355,8 @@ W3C DOM4
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
 <!--
+https://developer.mozilla.org/en-US/docs/Web
+
 http://www.w3schools.com/css/css_boxmodel.asp
 
 http://www.w3schools.com/cssref/
@@ -3882,7 +3884,7 @@ https://www.npmjs.com/package/eslint-config-standard
 
 Transpiling (Babel (React Stack), TypeScript (superset of JavaScript, enhancements/opinionated), Elm)
 * [Babel GitHub](https://github.com/babel/babel)
-* [TypeScript](https://www.typescriptlang.org)
+* [TypeScript](https://www.typescriptlang.org) and [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript)
 * [Elm](http://elm-lang.org) and [Elm GitHub](https://github.com/elm-lang)
 
 <!--
@@ -3890,7 +3892,6 @@ https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
 https://babeljs.io/docs/plugins
 
 http://www.typescriptlang.org/play/
-https://github.com/Microsoft/TypeScript
 https://en.wikipedia.org/wiki/TypeScript
 -->
 
@@ -3903,7 +3904,16 @@ MVCs General, Backbone, Ember
 * [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
 * [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
 * [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
+* [Vue.js (Competitor to Ember, Knockout, Polymer)](https://vuejs.org) and [Vue.js GitHub](https://github.com/vuejs)
 * Polymer
+
+<!--
+https://github.com/vuejs/vue-hackernews
+
+Semantic UI
+http://semantic-ui.com
+https://github.com/Semantic-Org/Semantic-UI 
+-->
 
 Extension Languages
 * [Pug (formerly Jade)](https://pugjs.org) and [Pug GitHub](https://github.com/pugjs/pug)  
@@ -3916,17 +3926,6 @@ Extension Languages
 * [Coffee Script](http://coffeescript.org) and [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
 * [Underscore](http://underscorejs.org)  
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
-
-<!--
-Semantic UI
-http://semantic-ui.com
-https://github.com/Semantic-Org/Semantic-UI 
-
-Competitor to Ember, Knockout, Polymer
-https://github.com/vuejs/vue-hackernews
-https://github.com/vuejs
-https://vuejs.org
--->
 
 
 
