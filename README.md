@@ -375,6 +375,10 @@ Value
 * [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 * [Value Stream Mapping Wikipedia](http://en.wikipedia.org/wiki/Value_Stream_Mapping)
 
+<!--
+https://en.wikipedia.org/wiki/Value_stream_mapping
+-->
+
 Supply Chain
 * [Supply Chain Wikipedia](https://en.wikipedia.org/wiki/Supply_chain)
 * [Supply Chain Management Wikipedia](https://en.wikipedia.org/wiki/Supply_chain_management)
@@ -411,6 +415,7 @@ https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 https://en.wikipedia.org/wiki/Brownfield_(software_development)
+https://en.wikipedia.org/wiki/Ninety-ninety_rule
 
 Important Concepts
 * [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
@@ -615,6 +620,8 @@ Code Review (See also Project Management)
 
 <!--
 https://kite.com
+
+https://pivotal.io/beyond-the-twelve-factor-app
 -->
 
 12 Factor App
@@ -726,6 +733,10 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+<!--
+http://smallbusiness.com/resources/lyndacom-for-free/
+-->
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
@@ -1211,6 +1222,8 @@ Miscellaneous Vocab
 * [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
 
 <!--
+https://en.wikipedia.org/wiki/MIME
+
 https://en.wikipedia.org/wiki/Dependency_injection
 https://en.wikipedia.org/wiki/Inversion_of_control
 
@@ -1417,6 +1430,8 @@ Brackets (a.k.a. Edge Code)
 * [Brackets Shortcuts GitHub](https://github.com/adobe/brackets/wiki/Brackets-Shortcuts)
 
 <!--
+https://brackets-registry.aboutweb.com/
+
 http://lisacatalano.github.io/brackets_course/pc.html
 
 Brackets turn off word wrap
@@ -1613,6 +1628,8 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 <!--
 https://github.com/github/open-source-guide
 https://github.com/github/maturity-model
+
+http://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git
 
 https://github.com/blog/subscribe
 https://guides.github.com/introduction/flow/index.html
@@ -1996,6 +2013,7 @@ https://www.atlassian.com/software-trends
 -->
 
 Types of Licenses
+* [Copyleft Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
 * [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
 * [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
 * [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
@@ -2375,6 +2393,8 @@ Google Developers- Google Chrome Doc
 * [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
 
 <!--
+http://anti-code.com/devtools-cheatsheet/
+
 https://www.codeschool.com/courses/discover-devtools
 http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
 
@@ -2448,6 +2468,14 @@ https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
 
 #### Testing and Performance
 
+<!--
+https://github.com/WPO-Foundation/webpagetest
+https://github.com/GoogleChrome/lighthouse
+
+https://saucelabs.com/blog
+https://saucelabs.com/blog/sauce-labs-joins-the-w3c
+-->
+
 Device Testing
 * [AWS Device Farm](https://aws.amazon.com/device-farm)
 * [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
@@ -2502,12 +2530,14 @@ Accessibility
 * [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
 * [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
 * [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
-* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php)
+* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php) 
 * [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
 
 <!--
 https://ft-interactive.github.io/accessibility
 https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility
+
+https://blogs.msdn.microsoft.com/accessibility/2017/03/01/a-look-back-and-a-look-ahead-at-accessibility-at-microsoft/
 -->
 
 Microsoft Inclusion Approach
@@ -3198,6 +3228,8 @@ Utilites
 * [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
 
 <!--
+http://updateyourfooter.com
+
 https://websitedownloader.io
 https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
@@ -3712,9 +3744,10 @@ jQuery
 * [jQuery Learning Center](http://learn.jquery.com)
 
 <!--
-https://api.jquery.com/category/selectors/
+http://api.jquery.com
+https://api.jquery.com/category/selectors
 jQuery Browser support
-https://blog.jquery.com/2013/04/18/jquery-2-0-released/
+https://blog.jquery.com/2013/04/18/jquery-2-0-released
 
 Learn jQueryMobile
 
@@ -7749,6 +7782,10 @@ GitBook
 
 <!--
 GitBook Styling
+
+https://github.com/GitbookIO/plugin-scripts
+https://www.npmjs.com/package/gitbook-plugin-scripts
+https://www.npmjs.com/package/gitbook-plugin-addcssjs
 -->
 
 GitHub Wiki
