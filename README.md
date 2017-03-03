@@ -322,6 +322,9 @@ Project Documents
 * [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 
 <!--
+https://en.wikipedia.org/wiki/Estimation
+
+
 Agile Practices
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 
@@ -811,6 +814,7 @@ http://forum.freecodecamp.com
 
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
 
+https://www.khanacademy.org/partner-content/pixar
 https://www.khanacademy.org/computing/computer-programming/sql
 https://www.khanacademy.org/computing/computer-programming
 https://www.khanacademy.org/computing/computer-science
@@ -823,6 +827,8 @@ Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+
+https://en.wikipedia.org/wiki/Programming_style
 
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
@@ -1113,6 +1119,7 @@ http://whatismyipaddress.com/ip-basics
 
 Domain Name
 * [Domain Name Wikipedia](https://en.wikipedia.org/wiki/Domain_name)
+* [Fully Qualified Domain Name Wikipedia](https://en.wikipedia.org/wiki/Fully_qualified_domain_name)
 * [Domain Name System Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
 * [Top Level Domain Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
 * [CNAME Record Wikipedia](https://en.wikipedia.org/wiki/CNAME_record)
@@ -1204,6 +1211,9 @@ Miscellaneous Vocab
 * [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
 
 <!--
+https://en.wikipedia.org/wiki/Dependency_injection
+https://en.wikipedia.org/wiki/Inversion_of_control
+
 https://en.wikipedia.org/wiki/Code_refactoring
 -->
 
@@ -1601,6 +1611,9 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 #### Git and Markdown
 
 <!--
+https://github.com/github/open-source-guide
+https://github.com/github/maturity-model
+
 https://github.com/blog/subscribe
 https://guides.github.com/introduction/flow/index.html
 https://github.com/blog/2267-introducing-github-community-guidelines
@@ -3316,7 +3329,9 @@ Responsiveness- and Media Queries
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
 * [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
 
-
+<!--
+https://en.wikipedia.org/wiki/Progressive_enhancement
+-->
 
 #### CSS Helpers
 
@@ -4192,6 +4207,10 @@ Scripting and MVCs
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 
+<!--
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+-->
+
 Miscellaneous Programming Languages
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
@@ -5034,7 +5053,7 @@ Nancy
 .NET Platform as a Service
 * [AppHarbor](https://appharbor.com)
 
-WebMatrix
+WebMatrix (Website builder and code editor)
 * [WebMatrix](http://www.microsoft.com/web/webmatrix)
 
 <!--
@@ -10727,6 +10746,8 @@ International Info
 * [Jobs to Be Done Framework](https://strategyn.com/customer-centered-innovation-map)
 
 <!--
+https://hbr.org/2017/03/how-our-hotel-used-data-to-make-our-laundry-service-glamorous
+
 http://www.wsj.com/articles/clayton-christensen-has-a-new-theory-1475265067
 https://www.harpercollins.com/9780062435613/competing-against-luck
 https://sample-518510f33e5f26cacd9a911a06cb89de.read.overdrive.com/?p=competing-against-luck
@@ -10962,6 +10983,12 @@ http://fourhourworkweek.com/2016/10/25/tools-of-titans/
 https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=offsitoftimfe-20&linkId=a8d46482a4bfad36323dfba69943fb46
 
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
+
+https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
+https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
+https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+https://medium.com/@rabois/reading-list-604c88ecefa4#.ps3g315kj
 -->
 
 Books
@@ -11665,12 +11692,17 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
+Filters
+https://angel.co/jobs
+https://www.authenticjobs.com/
+https://www.stackoverflowbusiness.com/talent
+https://www.wfh.io/
+https://weworkremotely.com/
+
 https://remoteok.io/remote-companies
 
 http://stackoverflow.com/jobs?sort=y&allowsremote=true
 
-https://angel.co/jobs
-https://weworkremotely.com
 https://teleport.org/remote
 
 https://news.ycombinator.com/item?id=12016568
