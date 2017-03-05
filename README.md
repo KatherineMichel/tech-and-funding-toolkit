@@ -411,6 +411,8 @@ Improvement Schools of Thought
 #### Software Engineering and Testing
 
 <!--
+https://en.wikipedia.org/wiki/Progressive_enhancement
+
 https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
@@ -622,12 +624,14 @@ Code Review (See also Project Management)
 
 <!--
 https://kite.com
-
-https://pivotal.io/beyond-the-twelve-factor-app
 -->
 
 12 Factor App
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+
+<!--
+https://pivotal.io/beyond-the-twelve-factor-app
+-->
 
 Semver
 * [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
@@ -704,6 +708,10 @@ http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
 
 #### Programming Learning Tools
 
+Creativity and Tools
+* ["Creativity: It’s not about the tools"](http://www.creativethinkinghub.com/tools)
+* [David Gries (The Science of Programming: "You do not program in a language, you program _into_ a language") Wikipedia](https://en.m.wikipedia.org/wiki/David_Gries)
+
 Programming Groups
 * [Codettes](http://www.codettes.net)
 * [Django Girls](https://djangogirls.org)
@@ -728,17 +736,13 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Khan Academy GitHub](https://github.com/Khan) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Lynda](https://www.lynda.com)
+* [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 * [Rosetta Code](http://rosettacode.org)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
-
-<!--
-http://smallbusiness.com/resources/lyndacom-for-free/
--->
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
@@ -760,10 +764,7 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript)
 Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
-
-<!--
-https://github.com/jshomes/learning-resources
--->
+* [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
@@ -1020,19 +1021,27 @@ Swift Styleguide
 Ergonomics 
 * [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
 * [f.lux](https://justgetflux.com)
-* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
-* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
 * [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
 * [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
 * [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
 
+Keyboard Layout
+* [Ergonomic Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard)
+* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
+* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
+* [Dvorak Simplified Keyboard Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
+* [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
+
 <!--
-https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard
+Show keyboard viewer
+http://atmac.org/dvorak-keyboard-layouts-easier-on-the-fingers
+
+http://www.dvzine.org
+https://colemak.com
+
 Mechanical keyboard
 Vertical mouse
 Natural ergonomic keyboard
-
-http://www.mindbodygreen.com/0-3972/How-Yoga-Healed-My-Carpal-Tunnel-Syndrome.html
 
 http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow
 -->
@@ -1395,9 +1404,11 @@ Windows- PowerShell
 
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
+* [Emacs Wikipedia](https://en.wikipedia.org/wiki/Emacs)
 * [Emacs Manual](http://www.gnu.org/software/emacs/manual) and [Emacs Manual Intro](http://www.gnu.org/software/emacs/manual/html_mono/emacs.html#Intro)
 * [Emacs Wiki Wikipedia](http://www.emacswiki.org)  
 * [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
+* [Vi Wikipedia](https://en.wikipedia.org/wiki/Vi)
 * [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
 * [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
 * [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
@@ -1410,8 +1421,6 @@ Emacs for Mac or Linux
 <!--
 http://fileformats.archiveteam.org/wiki/Bourne_shell_script
 https://www.gnu.org/software/emacs/tour/
-https://en.wikipedia.org/wiki/Emacs
-https://en.wikipedia.org/wiki/Vi
 
 https://tmux.github.io
 https://robots.thoughtbot.com/a-tmux-crash-course
@@ -1430,10 +1439,9 @@ Brackets (a.k.a. Edge Code)
 * [Brackets](http://brackets.io)
 * [How to Use Brackets GitHub](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
 * [Brackets Shortcuts GitHub](https://github.com/adobe/brackets/wiki/Brackets-Shortcuts)
+* [Brackets Extension Registry](https://brackets-registry.aboutweb.com)
 
 <!--
-https://brackets-registry.aboutweb.com/
-
 http://lisacatalano.github.io/brackets_course/pc.html
 
 Brackets turn off word wrap
@@ -1466,14 +1474,16 @@ Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 
 http://plnkr.co/
 
-https://www.jetbrains.com/pycharm/
-
-http://editorconfig.org/#download
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+https://www.jetbrains.com/pycharm
 -->
 
 EditorConfig (tabs versus spaces, ect) .editorconfig
 * [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+<!--
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+-->
 
 Unix Shell (See also Unix)
 * [Tcsh Wikipedia](http://en.wikipedia.org/wiki/Tcsh)  
@@ -2367,15 +2377,13 @@ Linux Feeling- on Windows
 #### Mozilla Developer
 
 Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
 * [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
 
 Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 <!--
-https://www.mozilla.org/en-US/firefox/products
-
 https://testpilot.firefox.com
 -->
 
@@ -2458,15 +2466,10 @@ Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 * [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
 
-<!--
-Microsoft Edge Developer Documentation GitHub
-https://github.com/MicrosoftDocs/edge-developer
-
-Meet the Microsoft Edge F12 Dev Tools
-https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
-Keyboard Shortcuts in F12 Developer Tools
-https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
--->
+Microsoft Developer Tools
+* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
+* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
+* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
 
 #### Testing and Performance
 
@@ -2474,7 +2477,7 @@ https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx
 https://github.com/WPO-Foundation/webpagetest
 https://github.com/GoogleChrome/lighthouse
 
-https://saucelabs.com/blog
+https://saucelabs.com
 https://saucelabs.com/blog/sauce-labs-joins-the-w3c
 -->
 
@@ -2908,9 +2911,6 @@ Design- General
 * [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
 
 <!--
-http://www.creativethinkinghub.com/tools/
-https://en.m.wikipedia.org/wiki/David_Gries
-
 * ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
 -->
 
@@ -3362,10 +3362,6 @@ Responsiveness- and Media Queries
 * [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
 * [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
-
-<!--
-https://en.wikipedia.org/wiki/Progressive_enhancement
--->
 
 #### CSS Helpers
 
@@ -4241,10 +4237,7 @@ Scripting and MVCs
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-
-<!--
-https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
--->
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 Miscellaneous Programming Languages
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
