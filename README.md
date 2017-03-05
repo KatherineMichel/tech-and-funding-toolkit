@@ -7424,11 +7424,6 @@ MAMP and WampServer (See also PHP)
 * [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
 * [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
-<!--
-https://www.mamp.info/en/downloads
-https://www.mamp.info/de/pre-release.html
--->
-
 Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
 * [Nginx](http://nginx.com/products)  
 * [Nginx GitHub](https://github.com/nginx/nginx)  
@@ -10872,6 +10867,9 @@ https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
 https://hbr.org/2013/05/what-makes-a-good-corporate-st
 
+The 12 Different Ways for Companies to Innovate
+http://sloanreview.mit.edu/article/the-different-ways-for-companies-to-innovate
+
 https://451research.com/state-of-the-database-landscape
 
 https://twitter.com/ValaAfshar/status/747983462892711938
@@ -11010,10 +11008,6 @@ Unboxing
 #### Books and Courses
 
 <!--
-https://toolsoftitans.com
-http://fourhourworkweek.com/2016/10/25/tools-of-titans/
-https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=offsitoftimfe-20&linkId=a8d46482a4bfad36323dfba69943fb46
-
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
 
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
@@ -11039,6 +11033,7 @@ Books
 * [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 * [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
+* [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
 
 <!--
 New
