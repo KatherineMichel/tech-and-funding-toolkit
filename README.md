@@ -467,7 +467,6 @@ Software Testing
 
 <!--
 https://github.com/DevOpsBootcamp/website
-https://docs.google.com/forms/d/12Mwr2D5jokWJh8hZm7bfk1uaXQQtyG0_cTdMASPjU10/viewform?edit_requested=true
 -->
 
 Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
@@ -488,16 +487,9 @@ GitLab (See also Project Management and Docker)
 
 #### Startup Engineering MOOC
 
-<!--
-Startup Mooc Staging Example: GitHub, AWS, Heroku
-* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-* Illustration: Startup Engineering Dev, Staging, Production
--->
-
+Deployment
 * [Lecture 2: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Lecture 3: Linux and Server Side Javascript](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf) or Lecture 3: Linux and Server Side Javascript](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf)
+* [Lecture 3: Linux and Server Side Javascript](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf) or [Lecture 3: Linux and Server Side Javascript](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf)
 * [Lecture 4A: Linux Command Line](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf)
 * [Lecture 4B: Development Environment](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf)
 * [Lecture 7: Deployment, DNS, and Custom Domains](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
@@ -506,10 +498,20 @@ Startup Mooc Staging Example: GitHub, AWS, Heroku
 * [Lecture 10: Intermediate and Frontend JS](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf)
 * [Lecture 8: Mobile: HTTP, User Agents, and Responsive Design(https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf)
 * [Lecture 5: Market Research, Wireframing, Design](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
+General
 * [Lecture 0: Course Overview](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf)
 * [Lecture 1: Introduction](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf)
 * [Lecture 9: Why do VCs love mobile, local, and social? And what they love next?] (https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf)
 * [Lecture 11: Regulation, Disruption, and the Technologies of 2013.](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf)
+
+<!--
+Startup Mooc Staging Example: GitHub, AWS, Heroku
+* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
+* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
+* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+* Illustration: Startup Engineering Dev, Staging, Production
+-->
 
 <!--
 http://web.stanford.edu/class/cs106b/
