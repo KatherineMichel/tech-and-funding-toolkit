@@ -416,12 +416,12 @@ https://en.wikipedia.org/wiki/Progressive_enhancement
 https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
-https://en.wikipedia.org/wiki/Brownfield_(software_development)
 https://en.wikipedia.org/wiki/Ninety-ninety_rule
 
 Important Concepts
 * [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [Brownfield Wikipedia](https://en.wikipedia.org/wiki/Brownfield_(software_development))
 -->
 
 Software Engineering/Development 
@@ -466,10 +466,6 @@ Software Testing
 
 * [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
 * [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-
-<!--
-https://github.com/DevOpsBootcamp/website
--->
 
 Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
 * [Trac](http://trac.edgewall.org)  
@@ -639,10 +635,6 @@ Semver
 
 The Distributed Developer Stack Field Guide
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-
-<!--
-https://github.com/heroku/12factor
--->
 
 #### Research and Design Sprint Basics
 
