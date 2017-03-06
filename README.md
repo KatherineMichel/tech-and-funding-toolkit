@@ -62,7 +62,7 @@ Table of Content
 
 * [Design Thinking](#design-thinking)
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
-* [Themes](#themes)
+* [Themes and Static Site Generators](#themes-and-static-site-generators)
 
 * [Front-End Development](#front-end-development) 
 
@@ -3157,7 +3157,7 @@ Photo Enhancement
 Gifs
 * [Giphy](http://giphy.com) 
 
-#### Themes
+#### Themes and Static Site Generators
 
 Theme Marketplace
 * [ThemeForest](http://themeforest.net) and [Envato](https://envato.com)
@@ -3197,9 +3197,6 @@ Good, Basic Templates, Themes- Skel
 * [Templated](http://templated.co)
 * [HTML5 UP](http://html5up.net)
 
-
-
-
 Static Site Generators and CMS (See also Jekyll)
 * [StaticGen](https://www.staticgen.com)
 * [Hugo](http://gohugo.io) and [Hugo GitHub](https://github.com/spf13/hugo)
@@ -3207,6 +3204,10 @@ Static Site Generators and CMS (See also Jekyll)
 * [Hexo](https://hexo.io)
 * [Metalsmith GitHub](https://github.com/metalsmith/metalsmith)
 * [Prose (Content Editor for GitHub)](http://prose.io)
+
+
+
+
 
 Favicon, Sitemap, robots.txt, humans.txt
 * [XML Sitemaps](http://www.xml-sitemaps.com)
@@ -3814,10 +3815,6 @@ Node.js
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org) 
 
-<!--
-Use nvm to run multiple versions of node
--->
-
 Node.js Launch and Ryan Dahl
 * [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
 * [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
@@ -3825,6 +3822,9 @@ Node.js Launch and Ryan Dahl
 
 Node Forks (IO.js merged with Node again) 
 * [JXCore GitHub](https://github.com/jxcore/jxcore) 
+
+Node Version Manager
+* [Node Version Manager GitHub](https://github.com/creationix/nvm)
 
 Node.js Package Managers (npm (build-step))
 * [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm)  
