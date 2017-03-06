@@ -43,6 +43,9 @@ U.K. Gov.
 ## Jekyll (Ruby)
 
 <!--
+Not Jekyll? 
+https://github.com/heroku/12factor
+
 http://simpleisbetterthancomplex.com/ref
 https://github.com/simpleisbetterthancomplex/simpleisbetterthancomplex.github.io
 
@@ -77,6 +80,10 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 ## Python
+
+<!--
+https://github.com/DevOpsBootcamp/website
+-->
 
 Python- Django- Heroku Deployment
 * [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
