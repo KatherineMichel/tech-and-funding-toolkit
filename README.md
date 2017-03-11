@@ -1029,8 +1029,10 @@ Keyboard Layout
 * [Ergonomic Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard)
 * [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
 * [Dvorak Simplified Keyboard Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
+* [The Dvorak Zine](http://www.dvzine.org)
 * [Matt Mullenweg on Dvorak](https://ma.tt/2003/08/on-the-dvorak-keyboard-layout)
 * [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
+* [Colemak Website](https://colemak.com)
 * [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
 
 <!--
@@ -1042,9 +1044,6 @@ https://support.apple.com/kb/PH18449?locale=en_US
 https://github.com/kentonv/dvorak-qwerty
 https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
 https://sourceforge.net/projects/dvorakqwerty/
-
-http://www.dvzine.org
-https://colemak.com
 
 Mechanical keyboard
 Vertical mouse
@@ -2975,6 +2974,10 @@ KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
+<!--
+https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017/
+-->
+
 #### Pretotyping and Prototyping
 
 Pretotyping
@@ -3306,7 +3309,6 @@ HTML
 * [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
 * [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
 * [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 
 CSS
@@ -3334,13 +3336,13 @@ HTML and CSS Tutorials- Mozilla
 * [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
 * [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-HTML5 and CSS3 Tutorials- Mozilla
+HTML5 and CSS3- Info and Tutorials
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [CSS3 Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 <!--
-https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
-
 http://www.w3schools.com/css/css3_intro.asp
 -->
 
@@ -3425,23 +3427,25 @@ CSS Reset (HTML5 Compatibility Check/Normalization)
 * [Shim GitHub](https://github.com/marstall/shim)  
 * [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
 
+HTML5 and CSS3 Cheat Sheets
+* [HTML5- The Web platform: Browser technologies](https://platform.html5.org)
+* [HTML5 Please](http://html5please.com)
+* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
+
 <!--
-https://platform.html5.org
-http://html5please.com
 https://modernizr.com/download?setclasses
 
 https://en.wikipedia.org/wiki/Polyfill
 -->
+
+Vendor-prefixed CSS Property Overview
+* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
 
 Cross Browser and Sniffing
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
 * [Browser Sniffing Wikipedia](https://en.wikipedia.org/wiki/Browser_sniffing)
 * [User Agent Wikipedia](https://en.wikipedia.org/wiki/User_agent)
 * [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
-
-Can I Use and Vendor-prefixed CSS Property Overview
-* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
-* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
 
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
