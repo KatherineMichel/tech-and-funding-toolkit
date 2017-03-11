@@ -413,6 +413,9 @@ Improvement Schools of Thought
 <!--
 https://en.wikipedia.org/wiki/Progressive_enhancement
 
+https://en.wikipedia.org/wiki/Red_team
+https://en.wikipedia.org/wiki/Sanity_check
+https://en.wikipedia.org/wiki/Service-oriented_architecture
 https://en.wikipedia.org/wiki/Anti-pattern
 https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/Separation_of_concerns
@@ -1648,17 +1651,8 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 #### Git and Markdown
 
 <!--
-https://github.com/github/open-source-guide
-https://github.com/github/maturity-model
+https://help.github.com/articles/searching-repositories/#search-by-repository-topic
 
-http://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git
-
-https://github.com/blog/subscribe
-https://guides.github.com/introduction/flow/index.html
-https://github.com/blog/2267-introducing-github-community-guidelines
--->
-
-<!--
 GitHub Cheatsheet
 https://gist.github.com/akras14/3d242d80af8388ebca60
 
@@ -1667,22 +1661,22 @@ https://github.com/github/github-services/tree/master/docs
 https://services.github.com/resources
 
 https://git-scm.com/download/linux
-https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
--->
 
-<!--
-New
-
-Missing from Setting Up An Open Source Project?
-https://guides.github.com/features/issues/
-https://help.github.com/articles/creating-an-issue/
-https://help.github.com/articles/about-pull-requests/
-https://help.github.com/articles/about-milestones/
-
-* [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
-* [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
 
 https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md
+-->
+
+
+<!--
+http://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git
+
+https://github.com/blog/2308-new-and-improved-two-factor-lockout-recovery-process
+
+https://github.com/github/open-source-guide
+https://github.com/github/maturity-model
+
+https://github.com/contact
+https://github.com/blog/subscribe
 
 https://www.youtube.com/githubguides
 http://learngitbranching.js.org/
@@ -1708,19 +1702,48 @@ https://help.github.com/categories/writing-on-github/
 https://help.github.com/articles/github-glossary/
 https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
 
+https://guides.github.com/introduction/flow/index.html
 https://help.github.com/articles/github-flow-in-the-browser/
 http://scottchacon.com/2011/08/31/github-flow.html
+
+https://pages.github.com/
+https://help.github.com/categories/github-pages-basics/
+https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3
 
 https://help.github.com/articles/about-github-wikis/
 https://help.github.com/categories/wiki/
 https://guides.github.com/features/wikis/
 https://github.com/showcases/projects-with-great-wikis
 
+https://github.com/blog/2267-introducing-github-community-guidelines
+https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
+
+Missing from Setting Up An Open Source Project?
+https://guides.github.com/features/issues/
+https://help.github.com/articles/creating-an-issue/
+https://help.github.com/articles/about-milestones/
+https://help.github.com/articles/about-pull-requests/
+https://help.github.com/articles/about-topics
+https://github.com/blog/2309-introducing-topics
+https://github.com/blog/2272-introducing-projects-for-organizations
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
+https://help.github.com/articles/fork-a-repo/
+https://help.github.com/articles/syncing-a-fork/
+https://help.github.com/articles/configuring-a-remote-for-a-fork/
+
+https://github.com/blog/1506-closing-issues-via-pull-requests
+https://help.github.com/articles/checking-out-pull-requests-locally/
+https://help.github.com/articles/merging-a-pull-request/
+https://github.com/blog/2243-rebase-and-merge-pull-requests
+
 https://help.github.com/articles/managing-team-access-to-an-organization-repository/
 https://help.github.com/articles/inviting-users-to-join-your-organization/
 https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
-https://help.github.com/articles/setting-up-teams/
-https://help.github.com/articles/maintaining-teams/
+
+* [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
+* [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
+
 https://help.github.com/articles/creating-a-team/
 https://help.github.com/articles/adding-organization-members-to-a-team/
 https://help.github.com/articles/repository-permission-levels-for-an-organization/
@@ -1734,14 +1757,10 @@ https://help.github.com/articles/signing-commits-using-gpg/
 https://help.github.com/articles/generating-a-new-gpg-key/
 
 https://help.github.com/articles/changing-a-remote-s-url
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
 https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/
 https://help.github.com/articles/what-are-the-limits-for-viewing-content-and-diffs-in-my-repository/
 https://help.github.com/articles/setting-your-email-in-git
 https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/
-
-https://github.com/blog/2243-rebase-and-merge-pull-requests
-https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3
 
 https://developer.github.com/webhooks/#ping-event
 -->
@@ -2221,6 +2240,10 @@ https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolbo
 
 https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+
+https://support.apple.com/en-us/HT2963
+http://www.mac-forums.com/os-x-operating-system/282475-permissions-error-jpeg-files.html
+http://osxdaily.com/2015/11/04/verify-repair-permissions-mac-os-x/
 -->
 
 #### Development Environment and Programming
@@ -2413,7 +2436,9 @@ Google Developers- Google Chrome Doc
 * [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
 
 <!--
-http://anti-code.com/devtools-cheatsheet/
+https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports
+
+http://anti-code.com/devtools-cheatsheet
 
 https://www.codeschool.com/courses/discover-devtools
 http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
@@ -3108,6 +3133,8 @@ https://en.wikipedia.org/wiki/Em_(typography)
 Fonts
 http://www.cssfontstack.com/
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
+https://en.wikipedia.org/wiki/Fallback_font
 -->
 
 Fonts (See also Google Apps)
@@ -3138,6 +3165,8 @@ Photo Editing (See also Adobe)
 
 <!--
 https://en.wikipedia.org/wiki/Bokeh
+
+https://docs.gimp.org/en/gimp-pimping.html
 
 https://www.gimp.org/unix/howtos/tile_cache.html
 https://docs.gimp.org/en/gimp-using-setup-tile-cache.html
@@ -3284,11 +3313,6 @@ CSS
 * [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
-<!--
-https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
--->
-
-
 
 
 W3C HTML Standards
@@ -3313,6 +3337,13 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 <!--
+https://platform.html5.org
+http://caniuse.com
+http://html5please.com
+https://modernizr.com/download?setclasses
+
+https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
+
 http://www.w3schools.com/css/css3_intro.asp
 -->
 
@@ -3396,6 +3427,10 @@ CSS Reset (HTML5 Compatibility Check/Normalization)
 * [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
 * [Shim GitHub](https://github.com/marstall/shim)  
 * [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
+
+<!--
+https://en.wikipedia.org/wiki/Polyfill
+-->
 
 Cross Browser and Sniffing
 * [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
@@ -3752,16 +3787,24 @@ AJAX
 
 jQuery
 * [jQuery](https://jquery.com)
-* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery)  and [jQuery GitHub](https://github.com/jquery/jquery)  
+* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) and [jQuery GitHub](https://github.com/jquery/jquery)  
 * [jQuery API](http://api.jquery.com)
 * [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
 * [jQuery Learning Center](http://learn.jquery.com)
 
 <!--
-http://api.jquery.com
+http://easings.net
+https://jqueryui.com/easing
+jQuery Easing Function Generator
+
+jQuery Client-side Form Validation
+https://learn.jquery.com/events/handling-events
+
+https://api.jquery.com/category/events
 https://api.jquery.com/category/selectors
 jQuery Browser support
 https://blog.jquery.com/2013/04/18/jquery-2-0-released
+https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit
 
 Learn jQueryMobile
 
