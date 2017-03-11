@@ -468,6 +468,7 @@ Software Testing
 
 #### DevOps
 
+DevOps- General
 * [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
 * [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
 
@@ -951,9 +952,8 @@ KDE (See also KHTML)
 GitHub StyleGuides
 * [GitHub StyleGuides](https://github.com/styleguide) 
 
-<!--
-https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
--->
+Mozilla Coding Style Guide
+* [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 
 Styleguides- Various
 * [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
@@ -1028,15 +1028,20 @@ Ergonomics
 Keyboard Layout
 * [Ergonomic Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard)
 * [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
-* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
 * [Dvorak Simplified Keyboard Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
+* [Matt Mullenweg on Dvorak](https://ma.tt/2003/08/on-the-dvorak-keyboard-layout)
+* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
 * [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
 
 <!--
-https://ma.tt/2003/08/on-the-dvorak-keyboard-layout/
+OS X Yosemite: Use Dvorak keyboard layouts
+https://support.apple.com/kb/PH18382?locale=en_US
+OS X Yosemite: Use the Keyboard Viewer
+https://support.apple.com/kb/PH18449?locale=en_US
 
-Show keyboard viewer
-http://atmac.org/dvorak-keyboard-layouts-easier-on-the-fingers
+https://github.com/kentonv/dvorak-qwerty
+https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
+https://sourceforge.net/projects/dvorakqwerty/
 
 http://www.dvzine.org
 https://colemak.com
@@ -1044,8 +1049,6 @@ https://colemak.com
 Mechanical keyboard
 Vertical mouse
 Natural ergonomic keyboard
-
-http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow
 -->
 
 Wikipedia Portals
@@ -1260,11 +1263,9 @@ Bracket Notation and Zero-Based Numbering
 Strong and Weak Typing
 * [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
 * [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 <!--
-https://en.wikipedia.org/wiki/Type_system
-https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice
-
 https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 -->
 
@@ -1473,8 +1474,10 @@ TextWrangler (Recommended for Hard to Edit Files)
 * [TextWrangler](http://www.barebones.com/products/textwrangler)
 * [Comparison between TextWrangler and BBEdit](http://www.barebones.com/products/bbedit/comparison.html)
 
+Intellisense
+* [Intelligent Code Completion Wikipedia](https://en.wikipedia.org/wiki/Intelligent_code_completion)
+
 <!--
-https://en.wikipedia.org/wiki/Intelligent_code_completion
 https://code.visualstudio.com/docs/editor/intellisense
 https://code.visualstudio.com/docs/introvideos/intellisense
 https://msdn.microsoft.com/en-us/library/hcw1s69b.aspx
@@ -1650,121 +1653,6 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 
 #### Git and Markdown
 
-<!--
-https://help.github.com/articles/searching-repositories/#search-by-repository-topic
-
-GitHub Cheatsheet
-https://gist.github.com/akras14/3d242d80af8388ebca60
-
-https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
-https://services.github.com/resources
-
-https://git-scm.com/download/linux
-
-
-https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md
--->
-
-
-<!--
-http://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git
-
-https://github.com/blog/2308-new-and-improved-two-factor-lockout-recovery-process
-
-https://github.com/github/open-source-guide
-https://github.com/github/maturity-model
-
-https://github.com/contact
-https://github.com/blog/subscribe
-
-https://www.youtube.com/githubguides
-http://learngitbranching.js.org/
-
-https://github.com/github/training-utils
-https://github.com/github/training-kit
-https://services.github.com/resources/
-https://services.github.com/classnotes/
-https://services.github.com/resources/index.html
-https://services.github.com/on-demand/downloads/subversion-migration/
-
-https://git-scm.com/book/en/v2
-https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
-https://git-scm.com/docs/git-config
-https://git-scm.com/docs/git-log
-https://git-scm.com/docs/gitignore
-
-https://github.com/universe-2016
-https://github.com/github-tools
-https://help.github.com/articles/ignoring-files/
-https://help.github.com/categories/writing-on-github/
-
-https://help.github.com/articles/github-glossary/
-https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
-
-https://guides.github.com/introduction/flow/index.html
-https://help.github.com/articles/github-flow-in-the-browser/
-http://scottchacon.com/2011/08/31/github-flow.html
-
-https://pages.github.com/
-https://help.github.com/categories/github-pages-basics/
-https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3
-
-https://help.github.com/articles/about-github-wikis/
-https://help.github.com/categories/wiki/
-https://guides.github.com/features/wikis/
-https://github.com/showcases/projects-with-great-wikis
-
-https://github.com/blog/2267-introducing-github-community-guidelines
-https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
-
-Missing from Setting Up An Open Source Project?
-https://guides.github.com/features/issues/
-https://help.github.com/articles/creating-an-issue/
-https://help.github.com/articles/about-milestones/
-https://help.github.com/articles/about-pull-requests/
-https://help.github.com/articles/about-topics
-https://github.com/blog/2309-introducing-topics
-https://github.com/blog/2272-introducing-projects-for-organizations
-
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
-https://help.github.com/articles/fork-a-repo/
-https://help.github.com/articles/syncing-a-fork/
-https://help.github.com/articles/configuring-a-remote-for-a-fork/
-
-https://github.com/blog/1506-closing-issues-via-pull-requests
-https://help.github.com/articles/checking-out-pull-requests-locally/
-https://help.github.com/articles/merging-a-pull-request/
-https://github.com/blog/2243-rebase-and-merge-pull-requests
-
-https://help.github.com/articles/managing-team-access-to-an-organization-repository/
-https://help.github.com/articles/inviting-users-to-join-your-organization/
-https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
-
-* [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
-* [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
-
-https://help.github.com/articles/creating-a-team/
-https://help.github.com/articles/adding-organization-members-to-a-team/
-https://help.github.com/articles/repository-permission-levels-for-an-organization/
-https://help.github.com/articles/what-are-the-different-access-permissions/
-https://help.github.com/categories/managing-repository-collaborators/
-https://help.github.com/articles/adding-outside-collaborators-to-repositories-in-your-organization/
-https://help.github.com/articles/permission-levels-for-a-user-account-repository/
-https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
-
-https://help.github.com/articles/signing-commits-using-gpg/
-https://help.github.com/articles/generating-a-new-gpg-key/
-
-https://help.github.com/articles/changing-a-remote-s-url
-https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/
-https://help.github.com/articles/what-are-the-limits-for-viewing-content-and-diffs-in-my-repository/
-https://help.github.com/articles/setting-your-email-in-git
-https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/
-
-https://developer.github.com/webhooks/#ping-event
--->
-
 Concurrent Version System
 * [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
 * [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
@@ -1783,14 +1671,6 @@ Git
  
 Learn X in Y Minutes Git
 * [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
-
-<!--
-http://jlord.us/git-it
-http://jlord.us/patchwork
-https://github.com/jlord/reporobot
-https://github.com/jlord/patchwork/tree/gh-pages/contributors
-https://github.com/githubteacher
--->
 
 Git- Official Learning Resources
 * [Try Git](https://try.github.io)
@@ -1822,12 +1702,84 @@ GitHub- Main
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
+
 <!--
+https://help.github.com/articles/searching-repositories/#search-by-repository-topic
+
+GitHub Cheatsheet
+https://gist.github.com/akras14/3d242d80af8388ebca60
+
+https://github.com/KatherineMichel/personal-goals/settings/installations
+https://github.com/github/github-services/tree/master/docs
+https://services.github.com/resources
+
+https://git-scm.com/download/linux
+
+https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md
+
+http://jlord.us/git-it
+http://jlord.us/patchwork
+https://github.com/jlord/reporobot
+https://github.com/jlord/patchwork/tree/gh-pages/contributors
+https://github.com/githubteacher
+
+https://www.youtube.com/githubguides
+http://learngitbranching.js.org/
+
+https://github.com/github/training-utils
+https://github.com/github/training-kit
+https://services.github.com/resources/
+https://services.github.com/classnotes/
+https://services.github.com/resources/index.html
+https://services.github.com/on-demand/downloads/subversion-migration/
+
+https://git-scm.com/book/en/v2
+https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+https://git-scm.com/docs/git-config
+https://git-scm.com/docs/git-log
+https://git-scm.com/docs/gitignore
+
+https://help.github.com/articles/ignoring-files/
+https://help.github.com/categories/writing-on-github/
+
+
+
+Missing from Setting Up An Open Source Project?
+https://guides.github.com/features/issues/
+https://help.github.com/articles/creating-an-issue/
+https://help.github.com/articles/about-milestones/
+https://help.github.com/articles/about-pull-requests/
+https://help.github.com/articles/about-topics
+https://github.com/blog/2309-introducing-topics
+https://github.com/blog/2272-introducing-projects-for-organizations
+
+https://developer.github.com/webhooks/#ping-event
+-->
+
+
+
+<!--
+http://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git
+
+https://github.com/blog/2308-new-and-improved-two-factor-lockout-recovery-process
+
+https://github.com/github/open-source-guide
+https://github.com/github/maturity-model
+
+https://github.com/contact
+https://github.com/blog/subscribe
+
 http://githubuniverse.com/watch
+https://github.com/universe-2016
 
 https://git-for-windows.github.io
 
 https://help.github.com/articles/github-terms-of-service
+
+https://help.github.com/articles/github-glossary/
+https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
+
+https://github.com/github-tools
 
 https://github.com/github/training-kit
 https://github.com/github-archive
@@ -1844,9 +1796,21 @@ https://help.github.com/articles/caching-your-github-password-in-git
 https://github.com/blog/2164-introducing-unlimited-private-repositories
 
 https://guides.github.com/introduction/flow
+https://help.github.com/articles/github-flow-in-the-browser/
+http://scottchacon.com/2011/08/31/github-flow.html
+
 https://help.github.com/articles/about-repository-graphs#traffic
 
 https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
+
+https://help.github.com/articles/about-github-wikis/
+https://help.github.com/categories/wiki/
+https://guides.github.com/features/wikis/
+https://github.com/showcases/projects-with-great-wikis
+
+https://github.com/blog/2267-introducing-github-community-guidelines
+https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
+https://help.github.com/articles/setting-guidelines-for-repository-contributors/
 
 https://guides.github.com/features/issues
 https://github.com/blog/957-introducing-issue-mentions
@@ -1858,11 +1822,11 @@ https://github.com/blog/2111-issue-and-pull-request-templates
 https://help.github.com/articles/helping-people-contribute-to-your-project/
 https://help.github.com/articles/creating-an-issue-template-for-your-repository
 https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
-https://help.github.com/articles/setting-guidelines-for-repository-contributors/
 
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
 https://help.github.com/articles/adding-a-remote
 https://help.github.com/articles/removing-a-remote
+https://help.github.com/articles/changing-a-remote-s-url
 
 https://help.github.com/articles/fork-a-repo
 https://help.github.com/articles/syncing-a-fork
@@ -1873,20 +1837,52 @@ https://help.github.com/articles/adding-a-file-to-a-repository
 https://help.github.com/articles/creating-a-pull-request
 https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
 
+https://github.com/blog/1506-closing-issues-via-pull-requests
+https://help.github.com/articles/checking-out-pull-requests-locally/
+https://help.github.com/articles/merging-a-pull-request/
+https://github.com/blog/2243-rebase-and-merge-pull-requests
+
 https://help.github.com/articles/about-github-mirrors/
 https://help.github.com/articles/duplicating-a-repository/
 
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2097-improved-commenting-with-markdown
 
+https://pages.github.com/
+https://help.github.com/categories/github-pages-basics/
+https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3
 https://github.com/blog/2228-simpler-github-pages-publishing
 https://help.github.com/articles/using-a-custom-domain-with-github-pages
+https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/
+
+https://help.github.com/articles/managing-team-access-to-an-organization-repository/
+https://help.github.com/articles/inviting-users-to-join-your-organization/
+https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
+
+* [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
+* [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
+
+https://help.github.com/articles/creating-a-team/
+https://help.github.com/articles/adding-organization-members-to-a-team/
+https://help.github.com/articles/repository-permission-levels-for-an-organization/
+https://help.github.com/articles/what-are-the-different-access-permissions/
+https://help.github.com/categories/managing-repository-collaborators/
+https://help.github.com/articles/adding-outside-collaborators-to-repositories-in-your-organization/
+https://help.github.com/articles/permission-levels-for-a-user-account-repository/
+https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
 
 https://help.github.com/articles/remove-sensitive-data
 https://github.com/blog/1986-announcing-git-large-file-storage-lfs
 https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
 https://github.com/blog/2046-github-desktop-is-now-available
+
+https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/
+https://help.github.com/articles/what-are-the-limits-for-viewing-content-and-diffs-in-my-repository/
+https://help.github.com/articles/setting-your-email-in-git
+
+https://help.github.com/articles/signing-commits-using-gpg/
+https://help.github.com/articles/generating-a-new-gpg-key/
 
 https://github.com/github/hub
 
@@ -2241,6 +2237,7 @@ https://developer.apple.com/legacy/library/documentation/mac/pdf/MacintoshToolbo
 https://support.apple.com/en-us/HT201541
 https://www.apple.com/business/docs/iOS_Security_Guide.pdf
 
+File Permission Error
 https://support.apple.com/en-us/HT2963
 http://www.mac-forums.com/os-x-operating-system/282475-permissions-error-jpeg-files.html
 http://osxdaily.com/2015/11/04/verify-repair-permissions-mac-os-x/
@@ -2509,11 +2506,6 @@ Microsoft Developer Tools
 #### Testing and Performance
 
 <!--
-https://en.wikipedia.org/wiki/Photosensitive_epilepsy
-https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
-http://webaim.org/articles/seizure/
-https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
-
 https://github.com/WPO-Foundation/webpagetest
 https://github.com/GoogleChrome/lighthouse
 
@@ -2637,6 +2629,15 @@ https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
 https://www.maxcdn.com/one/visual-glossary/har-file
 https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
 https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+-->
+
+Photosensitive Epilepsy
+* [Photosensitive Epilepsy Wikipedia](https://en.wikipedia.org/wiki/Photosensitive_epilepsy)
+
+<!--
+https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
+http://webaim.org/articles/seizure/
+https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
 -->
 
 #### Social Graph and Webmaster
@@ -3133,13 +3134,14 @@ https://en.wikipedia.org/wiki/Em_(typography)
 Fonts
 http://www.cssfontstack.com/
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
-
-https://en.wikipedia.org/wiki/Fallback_font
 -->
 
 Fonts (See also Google Apps)
 * [Font Famous](http://fontfamous.com)
 * [Fontscape](http://www.fontscape.com)
+
+Fallback Font
+* [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
 
 Typography
 * [Serif Wikipedia](https://en.wikipedia.org/wiki/Serif) and [San Serif Wikipedia](https://en.wikipedia.org/wiki/Sans-serif)
@@ -3337,11 +3339,6 @@ HTML5 and CSS3 Tutorials- Mozilla
 * [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 <!--
-https://platform.html5.org
-http://caniuse.com
-http://html5please.com
-https://modernizr.com/download?setclasses
-
 https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
 
 http://www.w3schools.com/css/css3_intro.asp
@@ -3429,6 +3426,10 @@ CSS Reset (HTML5 Compatibility Check/Normalization)
 * [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
 
 <!--
+https://platform.html5.org
+http://html5please.com
+https://modernizr.com/download?setclasses
+
 https://en.wikipedia.org/wiki/Polyfill
 -->
 
