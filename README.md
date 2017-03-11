@@ -413,6 +413,7 @@ Improvement Schools of Thought
 <!--
 https://en.wikipedia.org/wiki/Progressive_enhancement
 
+https://en.wikipedia.org/wiki/Anti-pattern
 https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
@@ -947,6 +948,10 @@ KDE (See also KHTML)
 GitHub StyleGuides
 * [GitHub StyleGuides](https://github.com/styleguide) 
 
+<!--
+https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
+-->
+
 Styleguides- Various
 * [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 * [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
@@ -1025,6 +1030,8 @@ Keyboard Layout
 * [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
 
 <!--
+https://ma.tt/2003/08/on-the-dvorak-keyboard-layout/
+
 Show keyboard viewer
 http://atmac.org/dvorak-keyboard-layouts-easier-on-the-fingers
 
@@ -1252,6 +1259,9 @@ Strong and Weak Typing
 * [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
 
 <!--
+https://en.wikipedia.org/wiki/Type_system
+https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice
+
 https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 -->
 
@@ -1461,6 +1471,14 @@ TextWrangler (Recommended for Hard to Edit Files)
 * [Comparison between TextWrangler and BBEdit](http://www.barebones.com/products/bbedit/comparison.html)
 
 <!--
+https://en.wikipedia.org/wiki/Intelligent_code_completion
+https://code.visualstudio.com/docs/editor/intellisense
+https://code.visualstudio.com/docs/introvideos/intellisense
+https://msdn.microsoft.com/en-us/library/hcw1s69b.aspx
+
+https://en.wikipedia.org/wiki/IntelliJ_IDEA
+https://www.jetbrains.com/rider/
+
 Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 * [WebStorm](https://www.jetbrains.com/webstorm)
 
@@ -2466,6 +2484,11 @@ Microsoft Developer Tools
 #### Testing and Performance
 
 <!--
+https://en.wikipedia.org/wiki/Photosensitive_epilepsy
+https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
+http://webaim.org/articles/seizure/
+https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
+
 https://github.com/WPO-Foundation/webpagetest
 https://github.com/GoogleChrome/lighthouse
 
@@ -9130,6 +9153,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+https://ethanmarcotte.com
+
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
@@ -9205,6 +9230,8 @@ http://www.greatachievements.org
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
 <!--
+https://en.wikipedia.org/wiki/Seth_Klarman
+
 https://twitter.com/EmanuelDerman
 https://twitter.com/EdBorgato
 https://twitter.com/BasonAsset
@@ -10217,6 +10244,13 @@ Technical and Fundamental Analysis
 * [Confidence Interval Wikipedia](https://en.wikipedia.org/wiki/Confidence_interval)
 * [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
 
+<!--
+https://en.wikipedia.org/wiki/Factor_analysis
+https://en.wikipedia.org/wiki/Principal_component_analysis
+
+https://en.wikipedia.org/wiki/Asset_allocation
+-->
+
 Options Models
 * [Option Style Wikipedia](https://en.wikipedia.org/wiki/Option_style)
 * [Valuation of Options Wikipedia](https://en.wikipedia.org/wiki/Valuation_of_options) and [Finite Difference Methods for Option Pricing Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_methods_for_option_pricing)
@@ -10255,6 +10289,10 @@ General
 * [Value Investing Wikipedia](http://en.wikipedia.org/wiki/Value_investing) 
 * [Lollapalooza Effect (Charlie Munger) Wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger#Lollapalooza_Effect)
 * [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
+
+<!--
+http://www.investopedia.com/terms/v/valueinvesting.asp
+-->
 
 #### Warren Buffet, Charlie Munger, Alphabet
   
@@ -11291,6 +11329,15 @@ Labs, Kitchens, Garages
 * [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
 * [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
 
+<!--
+http://www.ll.mit.edu/
+https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory
+https://en.wikipedia.org/wiki/Information_Processing_Techniques_Office
+https://www.google.com/search?q=first+prototype+of+a+computer+mouse&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjgutW008jSAhWo5IMKHSdnDpUQ_AUICCgB&biw=1366&bih=585
+http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf
+https://en.wikipedia.org/wiki/Man-Computer_Symbiosis
+-->
+
 #### Open Companies
 
 Buffer
@@ -11402,8 +11449,16 @@ https://www.torproject.org
 
 https://www.google.com/landing/2step
 
+https://1password.com/
 https://www.dashlane.com
-https://1password.com
+https://www.lastpass.com
+https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd/related?hl=en-US
+https://www.lastpass.com/how-it-works
+
+https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
+
+https://brave.com
+https://duckduckgo.com
 -->
 
 Encrypted Communication
@@ -11992,6 +12047,9 @@ Bullet Journal and Pomodoro Technique (see also: Agile Project Management)
 Harvard Referencing
 APA Referencing
 https://en.wikipedia.org/wiki/Parenthetical_referencing
+
+http://fieldguide.opennews.org
+https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide
 -->
 
 Journalism Handbooks
