@@ -3314,6 +3314,10 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 
 #### Front-End Development
 
+<!--
+Semantic Site Audit
+-->
+
 Web General (See also JavaScript) 
 * [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 * [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
@@ -3713,6 +3717,9 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 <!--
+Standards Org
+http://www.ecmascript.org
+
 http://standardjs.com/index.html
 
 5 Module Formats
@@ -4478,8 +4485,9 @@ Jekyll
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
+http://daigofuji.github.io/jekyll-foundation-6-starter
 http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
-http://daigofuji.github.io/jekyll-foundation-5-starter/
+http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
 -->
 
@@ -7989,6 +7997,7 @@ http://pybee.org
 http://slides.com/kentcdodds/1st-pr#/
 https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
 https://github.com/kentcdodds/all-contributors
+https://www.npmjs.com/package/all-contributors-cli
 https://github.com/jfmengels/all-contributors-cli
 https://github.com/kentcdodds/ama/issues/93
 http://javascriptair.com
