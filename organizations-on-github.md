@@ -44,6 +44,7 @@
 * [IBM](https://github.com/IBM) 
 * [Microsoft](https://github.com/Microsoft) 
 * [Microsoft Azure](https://github.com/azure)
+* [Microsoft Graph](https://github.com/microsoftgraph)
 * [Windows Azure](https://github.com/WindowsAzure)  
 * [Mozilla](https://github.com/mozilla)
 * [Mozilla Developer Network](https://github.com/mdn)
