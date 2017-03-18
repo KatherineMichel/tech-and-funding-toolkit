@@ -623,16 +623,8 @@ Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
-<!--
-https://kite.com
--->
-
 12 Factor App
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-
-<!--
-https://pivotal.io/beyond-the-twelve-factor-app
--->
 
 Semver
 * [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
@@ -762,6 +754,12 @@ Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
+
+<!--
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+-->
 
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
@@ -1045,9 +1043,11 @@ https://github.com/kentonv/dvorak-qwerty
 https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
 https://sourceforge.net/projects/dvorakqwerty/
 
+http://thewirecutter.com/reviews/comfortable-ergo-keyboard/
+https://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/ref=sr_1_6?ie=UTF8&qid=1489440374&sr=8-6&keywords=microsoft+ergonomic
+
 Mechanical keyboard
 Vertical mouse
-Natural ergonomic keyboard
 -->
 
 Wikipedia Portals
@@ -3141,6 +3141,15 @@ Fonts (See also Google Apps)
 * [Font Famous](http://fontfamous.com)
 * [Fontscape](http://www.fontscape.com)
 
+<!--
+http://styletil.es
+https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer
+https://docs.gimp.org/en/gimp-tool-text.html
+https://en.wikipedia.org/wiki/Gill_Sans
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts
+-->
+
 Fallback Font
 * [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
 
@@ -3159,6 +3168,19 @@ Adobe (See also Edge Code and Brackets)
 * [Adobe Kuler Color Themes](https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html)
 * [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
 * [Adobe Spark](https://spark.adobe.com)
+
+<!--
+https://typekit.com/fonts
+https://helpx.adobe.com/typekit/system-subscription-requirements.html
+http://www.adobe.com/creativecloud/catalog/desktop.html
+http://www.adobe.com/creativecloud/desktop-app.html
+
+Illustration (See also below)
+https://www.canva.com
+http://www.adobe.com/products/fireworks.html
+http://www.adobe.com/products/illustrator.html
+https://affinity.serif.com/en-us/designer
+-->
 
 Photo Editing (See also Adobe)
 * [Nik Collection](https://www.google.com/nikcollection)
@@ -3278,6 +3300,9 @@ Utilites
 * [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
 
 <!--
+http://www.getmacapps.com
+https://ninite.com
+
 http://updateyourfooter.com
 
 https://websitedownloader.io
