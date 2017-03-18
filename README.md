@@ -421,6 +421,9 @@ https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 https://en.wikipedia.org/wiki/Ninety-ninety_rule
+https://en.wikipedia.org/wiki/New_product_development#Fuzzy_Front_End
+Effort vs. Impact Matrix
+Journey map, experience mapping
 
 Important Concepts
 * [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
@@ -1039,11 +1042,12 @@ https://support.apple.com/kb/PH18382?locale=en_US
 OS X Yosemite: Use the Keyboard Viewer
 https://support.apple.com/kb/PH18449?locale=en_US
 
+https://ma.tt/2003/08/on-the-dvorak-keyboard-layout
 https://github.com/kentonv/dvorak-qwerty
 https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
-https://sourceforge.net/projects/dvorakqwerty/
+https://sourceforge.net/projects/dvorakqwerty
 
-http://thewirecutter.com/reviews/comfortable-ergo-keyboard/
+http://thewirecutter.com/reviews/comfortable-ergo-keyboard
 https://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/ref=sr_1_6?ie=UTF8&qid=1489440374&sr=8-6&keywords=microsoft+ergonomic
 
 Mechanical keyboard
@@ -1201,6 +1205,10 @@ More
 
 File Types and Extensions
 * [File Types and Extensions](http://fileinfo.com)
+
+<!--
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+-->
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
@@ -2973,7 +2981,7 @@ KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
 <!--
-https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017/
+https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017
 -->
 
 #### Pretotyping and Prototyping
@@ -3133,8 +3141,11 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
 https://en.wikipedia.org/wiki/Em_(typography)
 
 Fonts
-http://www.cssfontstack.com/
+http://www.cssfontstack.com
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
+Line height
+https://en.wikipedia.org/wiki/Leading
 -->
 
 Fonts (See also Google Apps)
@@ -3170,12 +3181,14 @@ Adobe (See also Edge Code and Brackets)
 * [Adobe Spark](https://spark.adobe.com)
 
 <!--
+https://offers.adobe.com/en/na/marketing/landings/_338365_finding_the_perfect_image.html
+
 https://typekit.com/fonts
 https://helpx.adobe.com/typekit/system-subscription-requirements.html
 http://www.adobe.com/creativecloud/catalog/desktop.html
 http://www.adobe.com/creativecloud/desktop-app.html
 
-Illustration (See also below)
+Illustration (See also below), Serif DrawPlus, Adobe Illustrator
 https://www.canva.com
 http://www.adobe.com/products/fireworks.html
 http://www.adobe.com/products/illustrator.html
