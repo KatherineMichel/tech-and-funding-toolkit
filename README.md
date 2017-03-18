@@ -1453,6 +1453,8 @@ Brackets (a.k.a. Edge Code)
 * [Brackets Extension Registry](https://brackets-registry.aboutweb.com)
 
 <!--
+https://brackets-themes.github.io
+
 http://lisacatalano.github.io/brackets_course/pc.html
 
 Brackets turn off word wrap
@@ -2281,6 +2283,8 @@ Mac OS X Directory Strucure and Listing Applications
 * [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
 
 <!--
+http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x
+
 https://en.wikipedia.org/wiki/Apple_File_System
 https://en.wikipedia.org/wiki/HFS_Plus
 -->
@@ -2321,6 +2325,10 @@ Apple- Dash
 * [Dash for MacOS](https://kapeli.com/dash)
 
 <!--
+https://developer.apple.com/download/more
+
+https://itunes.apple.com/us/app/avg-cleaner/id667434228?mt=12
+
 https://developer.apple.com/reference/applepayjs
 https://developer.apple.com/reference/accelerate/1912851-bnns
 https://developer.apple.com/sirikit
@@ -2717,6 +2725,9 @@ https://www.facebook.com/business/help/1686199411616919
 https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
 https://www.facebook.com/business/help/460491677335370
 https://www.facebook.com/business/help/373979379354234
+
+Microsoft Bot Framework
+https://dev.botframework.com
 
 New (See also reporobot and githubteacher)
 https://github.com/guardian/facebook-news-bot
@@ -3153,6 +3164,8 @@ Fonts (See also Google Apps)
 * [Fontscape](http://www.fontscape.com)
 
 <!--
+https://brand.frontify.com/d/qAiubNBytHKf/style-guide
+
 http://styletil.es
 https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer
 https://docs.gimp.org/en/gimp-tool-text.html
@@ -3434,6 +3447,7 @@ Multi-Device Layout Patterns
 
 <!--
 https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
+https://v4-alpha.getbootstrap.com/layout/overview/#responsive-breakpoints
 
 https://bradfrost.github.io/this-is-responsive/patterns.html
 https://bradfrost.github.io/this-is-responsive/resources.html
@@ -3499,6 +3513,17 @@ W3C DOM4
 * [What is the Document Object Model?](https://www.w3.org/DOM/#what)
 * [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+<!--
+https://www.w3schools.com/tags/
+https://www.w3schools.com/cssref/
+https://www.w3schools.com/w3css/w3css_grid.asp
+https://www.w3schools.com/css/css_boxmodel.asp
+
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
+https://www.w3schools.com/html/html_blocks.asp
+-->
 
 <!--
 https://developer.mozilla.org/en-US/docs/Web
@@ -4627,6 +4652,7 @@ https://github.com/woocommerce
 
 https://codex.wordpress.org/Running_a_Development_Copy_of_WordPress
 
+https://jetpack.com
 https://jetpack.com/support/security-features
 https://github.com/PrestaShop
 https://app.getflywheel.com/signup
@@ -7672,6 +7698,10 @@ Developer Playground/IDE (Similar to Fiddle)
 * [Nitrous (Going Away)](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
+<!--
+https://glitch.com
+-->
+
 Cross Platform Dev Environment
 * [Bowery](http://bowery.io)  
 * [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
@@ -9525,6 +9555,8 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
 <!--
+https://signal.nfx.com/login
+
 https://www.linkedin.com/pulse/unit-value-framework-scaling-jerry-chen
 
 https://mattermark.com/want-learn-venture-capital
@@ -11859,6 +11891,8 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
+http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
+
 Filters
 https://angel.co/jobs
 https://www.authenticjobs.com/
