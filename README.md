@@ -423,6 +423,7 @@ https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 https://en.wikipedia.org/wiki/Ninety-ninety_rule
 https://en.wikipedia.org/wiki/New_product_development#Fuzzy_Front_End
 Effort vs. Impact Matrix
+value effort matrix
 Journey map, experience mapping
 
 Important Concepts
@@ -752,6 +753,11 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript)
 * [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+
+<!--
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+https://github.com/FreeCodeCamp/design-style-guide
+-->
 
 Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Eric Elliot GitHub](https://github.com/ericelliott)
