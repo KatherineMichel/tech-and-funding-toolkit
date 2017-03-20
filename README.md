@@ -2648,6 +2648,7 @@ Photosensitive Epilepsy
 * [Photosensitive Epilepsy Wikipedia](https://en.wikipedia.org/wiki/Photosensitive_epilepsy)
 
 <!--
+seizure disorders, migraines, or ADD/ADHD
 https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
 http://webaim.org/articles/seizure/
 https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
@@ -3300,8 +3301,10 @@ Static Site Generators and CMS (See also Jekyll)
 * [Metalsmith GitHub](https://github.com/metalsmith/metalsmith)
 * [Prose (Content Editor for GitHub)](http://prose.io)
 
-
-
+<!--
+https://surge.sh
+https://surge.sh/help/ignoring-files-and-directories
+-->
 
 
 Favicon, Sitemap, robots.txt, humans.txt
@@ -3472,6 +3475,11 @@ Compilation Resources (See also Gulp)
 * [Less for Windows](http://winless.org)
 * [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
 * [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass) 
+
+<!--
+https://www.npmjs.com/package/sass-lint
+https://github.com/sasstools/sass-lint/tree/master/docs/rules
+-->
 
 CSS Reset (HTML5 Compatibility Check/Normalization)
 * [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
@@ -12161,6 +12169,16 @@ Unconscious Bias
 Personality Tests
 * [Myers–Briggs Type Indicator Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
+<!--
+Strength-based psychology
+http://strengths.gallup.com/default.aspx
+http://www.strengthstest.com/strengths-finder-themes
+http://www.strengthstest.com/strengthsfinder-leadership-themes
+https://www.gallupstrengthscenter.com
+https://www.gallupstrengthscenter.com/Purchase/en-US/Product
+https://chartime1.files.wordpress.com/2016/11/now-discover-your-strenghts.pdf
+-->
+
 The Happiness Project
 * [Gretchen Rubin (The Happiness Project)](http://gretchenrubin.com)
 
@@ -12177,6 +12195,9 @@ https://en.wikipedia.org/wiki/Parenthetical_referencing
 
 http://fieldguide.opennews.org
 https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide
+
+http://www.economist.com/styleguide
+http://www.economist.com/style-guide/inverted-commas-quotation-marks
 -->
 
 Journalism Handbooks
