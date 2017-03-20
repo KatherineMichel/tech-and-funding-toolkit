@@ -737,6 +737,10 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
+<!--
+https://www.pluralsight.com/blog/career/the-pluralsight-opportunity
+-->
+
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
