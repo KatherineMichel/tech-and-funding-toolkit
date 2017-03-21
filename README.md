@@ -9332,6 +9332,9 @@ http://www.slideshare.net/mikemaplesjr
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+https://www.slideshare.net/sblank/tagged/stanford
+https://www.slideshare.net/sblank/videos
+
 https://medium.com/@jeremyliew
 https://medium.com/the-biz-stone-collection
 
