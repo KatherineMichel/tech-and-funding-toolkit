@@ -249,6 +249,9 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje
+http://scrumfortrello.com/
+
 Trello Competitor
 https://blog.asana.com/2016/11/introducing-boards
 
@@ -426,6 +429,9 @@ Effort vs. Impact Matrix
 value effort matrix
 Journey map, experience mapping
 
+Requirements baseline
+https://en.wikipedia.org/wiki/Baseline_(configuration_management)
+
 Important Concepts
 * [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
@@ -491,6 +497,10 @@ GitLab (See also Project Management and Docker)
 * [GitLab Installation](https://about.gitlab.com/installation)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
+<!--
+https://docs.gitlab.com/ee/README.html
+-->
 
 #### Startup Engineering MOOC
 
@@ -609,6 +619,8 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
 <!--
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
 Trello
 https://upcase.com/design-for-developers-resources/principles
 https://github.com/thoughtbot/guides
@@ -622,6 +634,18 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 A Successful Git Branching Model
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+
+<!--
+https://docs.python.org/devguide/gitbootcamp.html
+
+http://www.integralist.co.uk/posts/github-workflow.html
+https://contribute.jquery.org/commits-and-pull-requests
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+https://datasift.github.io/gitflow/
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+-->
 
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
@@ -694,6 +718,8 @@ https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
 https://sprintstories.com/storyboarding-2-0-4e282b2da94d#.uo3zlqsnc
 
 http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
+
+https://www.theguardian.com/info/developer-blog/2016/dec/02/the-art-of-the-design-sprint
 -->
 
 
@@ -1612,6 +1638,10 @@ Bytcote versus Unicode
 * [Bytecode Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
 * [Unicode Wikipedia](https://en.wikipedia.org/wiki/Unicode)
 
+<!--
+https://en.wikipedia.org/wiki/List_of_Unicode_characters
+-->
+
 HTML5 Charactersets
 * [UTF-8 Wikipedia](https://en.wikipedia.org/wiki/UTF-8)
 * [W3Schools HTML Unicode (UTF-8) Reference Tutorial](http://www.w3schools.com/charsets/ref_html_utf8.asp)
@@ -1721,6 +1751,27 @@ GitHub- Main
 
 
 <!--
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
+https://www.visualstudio.com/en-us/docs/git/pull-requests
+https://help.github.com/articles/approving-a-pull-request-with-required-reviews/
+
+https://git-scm.com/docs/git-stash
+https://help.github.com/articles/removing-a-remote/
+https://help.github.com/articles/syncing-a-fork/
+https://help.github.com/articles/configuring-a-remote-for-a-fork/
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
+https://help.github.com/articles/checking-out-pull-requests-locally/#modifying-an-inactive-pull-request-locally
+
+http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github
+https://ti.to/home
+
+https://hub.github.com/
+https://hub.github.com/hub.1.html
+https://github.com/joeblau/gitignore.io
+
+
+
 https://help.github.com/articles/searching-repositories/#search-by-repository-topic
 
 GitHub Cheatsheet
@@ -2456,6 +2507,10 @@ Google Developers- Google Chrome Doc
 * [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
 
 <!--
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/
+https://developers.google.com/web/tools/chrome-devtools/javascript/
+https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+
 https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports
 
 http://anti-code.com/devtools-cheatsheet
@@ -3212,6 +3267,8 @@ https://helpx.adobe.com/typekit/system-subscription-requirements.html
 http://www.adobe.com/creativecloud/catalog/desktop.html
 http://www.adobe.com/creativecloud/desktop-app.html
 
+https://www.microsoft.com/typography/Fonts/family.aspx?FID=331
+
 Illustration (See also below), Serif DrawPlus, Adobe Illustrator
 https://www.canva.com
 http://www.adobe.com/products/fireworks.html
@@ -3505,6 +3562,8 @@ HTML5 and CSS3 Cheat Sheets
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
 
 <!--
+https://html.spec.whatwg.org/multipage
+
 https://modernizr.com/download?setclasses
 
 https://en.wikipedia.org/wiki/Polyfill
@@ -4541,6 +4600,8 @@ Jekyll
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
+https://jekyll.github.io/jekyll-assets
+
 http://daigofuji.github.io/jekyll-foundation-6-starter
 http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
 http://daigofuji.github.io/jekyll-foundation-5-starter
@@ -4621,6 +4682,12 @@ https://mmistakes.github.io/so-simple-theme
 #### PHP
 
 <!--
+Theme Unit Test
+https://codex.wordpress.org/Theme_Unit_Test
+
+https://community.algolia.com/wordpress
+https://wpml.org/
+
 https://github.com/kennethreitz-archive?utf8=%E2%9C%93&query=wordpress
 
 https://wordpress.org/plugins/amazon-s3-and-cloudfront/installation
@@ -10100,12 +10167,15 @@ Database List
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 <!--
+https://www.producthunt.com/tech
+https://www.producthunt.com/topics/developer-tools
+https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
+
 https://www.producthunt.com/tech/product-hunt-3-0
 https://www.producthunt.com/tech/product-hunt-2-0
 https://www.producthunt.com/live
 https://www.producthunt.com/collections
 https://www.producthunt.com/topics
-https://www.producthunt.com/topics/developer-tools
 https://www.producthunt.com/shop
 https://www.producthunt.com/podcasts
 https://www.producthunt.com/apps/mac
@@ -10984,6 +11054,10 @@ Alex Osterwalder
 * [Alex Osterwalder: Strategyzer Resources](https://strategyzer.com/platform/resources) and [Strategyzer Blog](http://blog.strategyzer.com)
 
 <!--
+http://blog.strategyzer.com/?category=Strategyzer+Tools
+http://blog.strategyzer.com/posts/2015/3/5/validate-your-ideas-with-the-test-card
+http://blog.strategyzer.com/posts/2016/12/2/rapid-innovation-sprints-help-uncover-new-areas-of-growth-at-wl-gore-associates
+
 http://blog.strategyzer.com/posts/2016/6/20/why-companies-fail-how-to-prevent-it?
 http://blog.strategyzer.com/posts/2015/2/03/implementing-your-business-model-with-the-galbraith-star-model
 http://blog.strategyzer.com/posts/2016/7/18/5-characteristics-of-a-great-strategy-workshop-facilitator
