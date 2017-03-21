@@ -249,6 +249,9 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
+https://confluence.atlassian.com/agile067/jira-agile-user-s-guide/creating-a-board
+https://gitlab.com/groups/gitlab-org
+
 https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje
 http://scrumfortrello.com/
 
@@ -1207,6 +1210,8 @@ URL and IRI
 
 <!--
 https://en.wikipedia.org/wiki/UUID
+
+https://en.wikipedia.org/wiki/Codec
 -->
 
 TCP-IP and OSI Protocols
@@ -4600,6 +4605,7 @@ Jekyll
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
+http://jekyllbootstrap.com/lessons/jekyll-introduction.html
 https://jekyll.github.io/jekyll-assets
 
 http://daigofuji.github.io/jekyll-foundation-6-starter
@@ -7839,6 +7845,8 @@ Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 * [AppVeyor (Windows)](http://www.appveyor.com)
 
 <!--
+https://www.jetbrains.com/teamcity
+
 #### New
 https://docs.travis-ci.com
 
@@ -10304,6 +10312,10 @@ Hobbies and Cool Tools
 * [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
 * [Maker Faire Meet the Makers](http://makerfaire.com/new-york-2016/meet-the-makers/)
 
+<!--
+https://en.wikipedia.org/wiki/Do_it_yourself
+-->
+
 #### Site and App Research
 
 Apple and Google Statistics
@@ -10528,6 +10540,10 @@ Berkshire Hathaway
 
 Long Bets
 * [Long Bets](https://longbets.org)
+
+<!--
+https://en.wikipedia.org/wiki/Mathematics_of_bookmaking
+-->
 
 Poor Charlie's Almanack
 * [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
@@ -11040,8 +11056,13 @@ Eric Ries
 * [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [The Lean Startup Company](http://leanstartup.co), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
 * [Eric Ries: The Leader's Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries) and [Eric Ries: The Leader's Guide Kickstarter](https://theleadersguide.org)
 * [Harvard Business Review: Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)
-* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 * [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
+
+<!--
+https://blog.ycombinator.com/the-scientific-method-for-startups
+
+* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+-->
 
 Steve Blank
 * [Steve Blank Slides](http://steveblank.com/slides) and [Steve Blank Slideshare](http://www.slideshare.net/sblank)
@@ -11090,6 +11111,10 @@ Company Milestones
 * [WorldWideWeb- Executive Summary](https://groups.google.com/forum/m/#!msg/alt.hypertext/eCTkkOoWTAY/bJGhZyooXzkJ)
 
 <!--
+http://programs.applyists.com/careerchoice
+
+https://www.kickstarter.com/year/2016/benefit-statement
+
 http://www.businessinsider.com/goldman-sachs-partner-email-2016-3
 -->
 
