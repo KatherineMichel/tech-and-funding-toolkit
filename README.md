@@ -422,6 +422,8 @@ Improvement Schools of Thought
 <!--
 https://en.wikipedia.org/wiki/New_product_development#Fuzzy_Front_End
 
+https://link.springer.com/article/10.1007/s11219-017-9360-z
+
 https://en.wikipedia.org/wiki/Progressive_enhancement
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 https://en.wikipedia.org/wiki/Separation_of_concerns
