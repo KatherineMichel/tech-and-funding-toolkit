@@ -2405,6 +2405,8 @@ Apple- Dash
 * [Dash for MacOS](https://kapeli.com/dash)
 
 <!--
+http://www.tomsguide.com/faq/id-2330399/restore-macbook-pro-factory-settings.html
+
 https://developer.apple.com/download/more
 
 https://itunes.apple.com/us/app/avg-cleaner/id667434228?mt=12
@@ -3045,6 +3047,14 @@ http://blog.ionic.io/what-is-a-progressive-web-app/
 
 
 #### Design Thinking
+
+<!--
+https://speakerdeck.com/limedaring/pyladies-remote
+https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
+https://hellowebapp.com/tutorial/intro/
+https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
+https://speakerdeck.com/limedaring/pycaribbean-1
+-->
 
 Design- General
 * [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
