@@ -807,6 +807,7 @@ Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
 <!--
+https://medium.com/javascript-scene
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
@@ -10948,6 +10949,11 @@ U.S. Gov- 18F- GitHub
 * [18F Web Design Standards](https://standards.usa.gov) and [18F Web Design Standards GitHub](https://github.com/18F/web-design-standards)
 * [18F Accessibility- Page Titles GitHub](https://pages.18f.gov/accessibility/pagetitles)
 * [18F HTTPS](https://github.com/18F/https) 
+
+<!--
+https://18f.gsa.gov/2017/03/13/us-web-design-standards-releases-version-10/
+https://github.com/18F/web-design-standards-docs
+-->
 
 BBC
 * [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia) and [BBC Future Media Standards and Guidelines CSS](http://www.bbc.co.uk/guidelines/futuremedia/technical/css.shtml)
