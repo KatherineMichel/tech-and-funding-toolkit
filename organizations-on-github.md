@@ -41,6 +41,7 @@
 * [Google Samples](https://github.com/googlesamples) 
 * [HashiCorp](https://github.com/hashicorp)
 * [Heroku](https://github.com/heroku)  
+* [Heroku Examples](https://github.com/heroku-examples)
 * [IBM](https://github.com/IBM) 
 * [Microsoft](https://github.com/Microsoft) 
 * [Microsoft Azure](https://github.com/azure)
