@@ -748,6 +748,15 @@ Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
 
+<!--
+https://github.com/donnemartin/system-design-primer
+https://github.com/kamranahmedse/developer-roadmap
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/kdn251/interviews
+https://github.com/poteto/hiring-without-whiteboards
+https://github.com/kamranahmedse/design-patterns-for-humans
+-->
+
 Programming and Math Learning Tools (See also MOOCs)
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
@@ -806,6 +815,10 @@ https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-ye
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 * [Humble Bundle](https://www.humblebundle.com)
+
+<!--
+https://github.com/devfreebooks/devfreebooks.github.io
+-->
 
 Math and General Knowledge
 * [Project Euler](http://www.projecteuler.net)  
@@ -4027,6 +4040,10 @@ Node.js
 * [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org) 
+
+<!--
+https://github.com/maxogden/art-of-node
+-->
 
 Node.js Launch and Ryan Dahl
 * [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
