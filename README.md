@@ -250,7 +250,6 @@ Project Management- Less Obvious Software
 
 <!--
 https://confluence.atlassian.com/agile067/jira-agile-user-s-guide/creating-a-board
-https://gitlab.com/groups/gitlab-org
 
 https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje
 http://scrumfortrello.com/
@@ -330,7 +329,6 @@ Project Documents
 <!--
 https://en.wikipedia.org/wiki/Estimation
 
-
 Agile Practices
 * [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
 
@@ -360,6 +358,11 @@ Requirements
 * [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
 * [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
 * [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
+
+<!--
+Requirements baseline
+https://en.wikipedia.org/wiki/Baseline_(configuration_management)
+-->
 
 Product
 * [Product Market Fit Wikipedia](http://en.wikipedia.org/wiki/Product/market_fit)
@@ -417,23 +420,21 @@ Improvement Schools of Thought
 #### Software Engineering and Testing
 
 <!--
-https://en.wikipedia.org/wiki/Progressive_enhancement
+https://en.wikipedia.org/wiki/New_product_development#Fuzzy_Front_End
 
-https://en.wikipedia.org/wiki/Red_team
+https://en.wikipedia.org/wiki/Progressive_enhancement
+https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+https://en.wikipedia.org/wiki/Separation_of_concerns
+https://en.wikipedia.org/wiki/Code_refactoring
+
 https://en.wikipedia.org/wiki/Sanity_check
 https://en.wikipedia.org/wiki/Service-oriented_architecture
 https://en.wikipedia.org/wiki/Anti-pattern
-https://en.wikipedia.org/wiki/ACID
-https://en.wikipedia.org/wiki/Separation_of_concerns
-https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
-https://en.wikipedia.org/wiki/Ninety-ninety_rule
-https://en.wikipedia.org/wiki/New_product_development#Fuzzy_Front_End
-Effort vs. Impact Matrix
-value effort matrix
-Journey map, experience mapping
 
-Requirements baseline
-https://en.wikipedia.org/wiki/Baseline_(configuration_management)
+Data Base Transactions
+https://en.wikipedia.org/wiki/ACID
+
+https://en.wikipedia.org/wiki/Ninety-ninety_rule
 
 Important Concepts
 * [DRY (Don't Repeat Yourself) Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
@@ -503,6 +504,7 @@ GitLab (See also Project Management and Docker)
 
 <!--
 https://docs.gitlab.com/ee/README.html
+https://gitlab.com/groups/gitlab-org
 -->
 
 #### Startup Engineering MOOC
@@ -639,7 +641,10 @@ A Successful Git Branching Model
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
 
 <!--
+https://en.wikipedia.org/wiki/Red_team
+
 https://docs.python.org/devguide/gitbootcamp.html
+
 
 http://www.integralist.co.uk/posts/github-workflow.html
 https://contribute.jquery.org/commits-and-pull-requests
@@ -692,6 +697,14 @@ Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nes
 * [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
 
 <!--
+Effort vs. Impact Matrix
+value effort matrix
+Journey map, experience mapping
+
+https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+https://en.wikipedia.org/wiki/Psychographic
+
+
 Design Kit: Facilitator's Guide
 https://novoed.com/facilitators-guide-2016-2
 http://plusacumen.org/courses/design-kit-facilitators-guide-to-introducing-human-centered-design/
@@ -710,14 +723,10 @@ https://code.gov
 https://www.whitehouse.gov/blog/2016/08/08/peoples-code
 https://sourcecode.cio.gov
 
-https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
-https://en.wikipedia.org/wiki/Psychographic
-
 https://sprintstories.com
 http://kit.com/jakek/the-sprint-kit
 http://www.thesprintbook.com/sprint-week
 https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
-
 https://sprintstories.com/storyboarding-2-0-4e282b2da94d#.uo3zlqsnc
 
 http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
@@ -915,24 +924,6 @@ https://egghead.io/series/learn-to-use-vim
 https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
 https://egghead.io/lessons/javascript-intro-to-webpack
 https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
-
-HTML Graphics
-http://www.w3schools.com/canvas/default.asp
-Learn Canvas
-http://www.w3schools.com/canvas/default.asp
-Learn SVG
-http://www.w3schools.com/svg/default.asp
-Learn Icons
-http://www.w3schools.com/icons/default.asp
-Learn Google Maps
-http://www.w3schools.com/googleapi/default.asp
-Learn HTML Games
-http://www.w3schools.com/games/default.asp
-
-http://www.w3schools.com/appml/default.asp
-
-http://www.w3schools.com/website/default.asp
-http://www.w3schools.com/browsers/default.asp
 
 http://www.gnu.org/doc/other-free-books.html
 
@@ -1222,12 +1213,6 @@ URL and IRI
 * [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
 * [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
 
-<!--
-https://en.wikipedia.org/wiki/UUID
-
-https://en.wikipedia.org/wiki/Codec
--->
-
 TCP-IP and OSI Protocols
 * [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 * [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
@@ -1240,17 +1225,6 @@ HTTP
 * [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
-<!--
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-https://en.wikipedia.org/wiki/Parsing
-
-https://en.wikipedia.org/wiki/HTTP_cookie
-
-HTTP protocol defaults to port 80 and HTTPS defaults to port 443
-https://technet.microsoft.com/en-us/library/bb962069.aspx
--->
-
 More
 * [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
 * [Content Delivery Network Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network) 
@@ -1260,10 +1234,6 @@ More
 
 File Types and Extensions
 * [File Types and Extensions](http://fileinfo.com)
-
-<!--
-https://en.wikipedia.org/wiki/File_Transfer_Protocol
--->
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
@@ -1299,13 +1269,6 @@ Miscellaneous Vocab
 * [Cross Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
 * [Console Application Wikipedia](https://en.wikipedia.org/wiki/Console_application)
 
-<!--
-https://en.wikipedia.org/wiki/MIME
-
-https://en.wikipedia.org/wiki/Dependency_injection
-https://en.wikipedia.org/wiki/Inversion_of_control
--->
-
 Line Endings
 * [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
 * [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
@@ -1325,10 +1288,6 @@ Strong and Weak Typing
 * [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
-<!--
-https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
--->
-
 Chomsky Hierarchy and Automata
 * [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
 * [Chomsky Hierarchy Wikipedia](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
@@ -1336,6 +1295,30 @@ Chomsky Hierarchy and Automata
 
 Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
+
+<!--
+https://en.wikipedia.org/wiki/UUID
+
+https://en.wikipedia.org/wiki/Codec
+
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+https://en.wikipedia.org/wiki/Parsing
+
+https://en.wikipedia.org/wiki/HTTP_cookie
+
+HTTP protocol defaults to port 80 and HTTPS defaults to port 443
+https://technet.microsoft.com/en-us/library/bb962069.aspx
+
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+
+https://en.wikipedia.org/wiki/MIME
+
+https://en.wikipedia.org/wiki/Dependency_injection
+https://en.wikipedia.org/wiki/Inversion_of_control
+
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+-->
 
 <!--
 http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
@@ -2528,20 +2511,21 @@ Google Developers- Google Chrome Doc
 * [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
 
 <!--
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/
-https://developers.google.com/web/tools/chrome-devtools/javascript/
-https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+https://developers.google.com/web/tools/setup/setup-workflow
 
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles
+https://developers.google.com/web/tools/chrome-devtools/javascript
 https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports
+https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
+https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
+
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://developers.google.com/cast/docs/developers
 
 http://anti-code.com/devtools-cheatsheet
 
 https://www.codeschool.com/courses/discover-devtools
 http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://developers.google.com/web/tools/setup/setup-workflow
-https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
-https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
 -->
 
 Google Developers- Canary Chrome
@@ -2555,12 +2539,7 @@ Google Chrome Doc Archive
 
 <!--
 https://www.udacity.com/course/website-performance-optimization--ud884
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/
 https://zapier.com/blog/inspect-element-tutorial/
-
-
-https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-https://developers.google.com/cast/docs/developers
 
 Old Docs
 * [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
@@ -2574,6 +2553,8 @@ https://developer.chrome.com/extensions
 https://developer.chrome.com/extensions/getstarted
 https://developer.chrome.com/extensions/devguide
 https://developer.chrome.com/apps/about_apps
+
+https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
 
 Miscellaneous
 https://bugs.chromium.org/p/v8/issues/list
@@ -2801,6 +2782,8 @@ https://developers.facebook.com/docs/javascript
 https://developers.facebook.com/docs/sharing/referral-insights
 https://developers.facebook.com/docs/analytics
 
+https://github.com/adam-s/facebook-pixel-guide
+
 https://www.facebook.com/ads/manager/pixel/facebook_pixel/?act=314539814&pid=p1
 
 https://www.facebook.com/business/learn/facebook-ads-measuring-results
@@ -2961,10 +2944,15 @@ StackShare
 * [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
 
 Developer Surveys
+* [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
 * [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 * [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
+
+<!--
+http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
+-->
 
 Company Design
 * [Airbnb Samara](http://samara.airbnb.com)
@@ -3048,23 +3036,11 @@ http://blog.ionic.io/what-is-a-progressive-web-app/
 
 #### Design Thinking
 
-<!--
-https://speakerdeck.com/limedaring/pyladies-remote
-https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
-https://hellowebapp.com/tutorial/intro/
-https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
-https://speakerdeck.com/limedaring/pycaribbean-1
--->
-
 Design- General
 * [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
 * [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
 * [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
 * [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
-
-<!--
-* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
--->
 
 Responsive Design (See also Media Queries Examples)
 * [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
@@ -3303,6 +3279,25 @@ https://www.canva.com
 http://www.adobe.com/products/fireworks.html
 http://www.adobe.com/products/illustrator.html
 https://affinity.serif.com/en-us/designer
+
+https://www.xquartz.org/
+https://inkscape.org/en/download/mac-os/
+
+https://twitter.com/JoniTrythall
+http://www.toptentypography.tips/
+https://speakerdeck.com/jonibologna/just-enough-typography
+https://github.com/jonitrythall/minitutstownworkshop
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops/
+https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
+https://en.wikipedia.org/wiki/Scalable_Vector_Graphics
+https://www.w3schools.com/graphics/svg_intro.asp
+https://www.w3schools.com/html/html5_svg.asp
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://www.w3.org/Graphics/SVG
+
+http://ela.community
+https://confreaks.tv/videos/djancoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
 -->
 
 Photo Editing (See also Adobe)
@@ -3348,6 +3343,16 @@ Photo Enhancement
 
 Gifs
 * [Giphy](http://giphy.com) 
+
+<!--
+https://speakerdeck.com/limedaring/pyladies-remote
+https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
+https://hellowebapp.com/tutorial/intro/
+https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
+https://speakerdeck.com/limedaring/pycaribbean-1
+
+* ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+-->
 
 #### Themes and Static Site Generators
 
@@ -3402,7 +3407,6 @@ https://surge.sh
 https://surge.sh/help/ignoring-files-and-directories
 -->
 
-
 Favicon, Sitemap, robots.txt, humans.txt
 * [XML Sitemaps](http://www.xml-sitemaps.com)
 * [sitemaps.org](http://www.sitemaps.org)
@@ -3435,6 +3439,25 @@ https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
+<!--
+HTML Graphics
+http://www.w3schools.com/canvas/default.asp
+Learn Canvas
+http://www.w3schools.com/canvas/default.asp
+Learn SVG
+http://www.w3schools.com/svg/default.asp
+Learn Icons
+http://www.w3schools.com/icons/default.asp
+Learn Google Maps
+http://www.w3schools.com/googleapi/default.asp
+Learn HTML Games
+http://www.w3schools.com/games/default.asp
+
+http://www.w3schools.com/appml/default.asp
+
+http://www.w3schools.com/website/default.asp
+http://www.w3schools.com/browsers/default.asp
+-->
 
 
 #### Front-End Development
@@ -3575,6 +3598,7 @@ Compilation Resources (See also Gulp)
 <!--
 https://www.npmjs.com/package/sass-lint
 https://github.com/sasstools/sass-lint/tree/master/docs/rules
+http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass
 -->
 
 CSS Reset (HTML5 Compatibility Check/Normalization)
@@ -11105,6 +11129,8 @@ Eric Ries
 * [Brant Cooper and Patrick Vlaskovits: Lean Entrepreneur](http://leanentrepreneur.co)
 
 <!--
+https://leanstartup.co/30-days-lean-startup
+
 https://blog.ycombinator.com/the-scientific-method-for-startups
 
 * [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
@@ -11187,6 +11213,8 @@ https://en.wikipedia.org/wiki/Marketing_mix
 https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
 https://hbr.org/2013/05/what-makes-a-good-corporate-st
+
+http://sloanreview.mit.edu/article/the-different-ways-for-companies-to-innovate
 
 The 12 Different Ways for Companies to Innovate
 http://sloanreview.mit.edu/article/the-different-ways-for-companies-to-innovate
@@ -12062,8 +12090,6 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
-http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
-
 Filters
 https://angel.co/jobs
 https://www.authenticjobs.com/
