@@ -6627,6 +6627,8 @@ Malware and Encryption
 * [Malware Museum](https://archive.org/details/malwaremuseum)
 
 <!--
+https://www.hackerone.com
+
 https://www.us-cert.gov
 https://www.digicert.com
 http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
@@ -7028,6 +7030,8 @@ https://github.com/MitocGroup/deep-microservices-todomvc
 #### Heroku
 
 <!--
+* [Heroku Examples](https://github.com/heroku-examples)
+
 heroku ps:scale web=1
 Heroku SSL
 
@@ -7203,6 +7207,11 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 #### Google Cloud
 
 <!--
+New
+https://cloud.google.com/free/
+https://cloud.google.com/apis/design/
+https://cloudplatform.googleblog.com/2016/08/why-Google-Cloud-Platform-is-ready-for-your-enterprise-database-workloads.html
+
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://github.com/jwasham/google-interview-university
 https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
@@ -7797,8 +7806,10 @@ Puppet Labs
 
 #### More Back-end
 
-
-
+<!--
+Dependency management
+https://gemnasium.com
+-->
 
 Developer Playground/IDE (Similar to Fiddle)
 * [Cloud9](https://c9.io)
@@ -7815,8 +7826,10 @@ Cross Platform Dev Environment
 * [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
 
 <!--
+Like Amazon Lambda
+https://firebase.google.com/features/functions
+
 https://www.firebase.com/docs/hosting/
-https://cloudplatform.googleblog.com/2016/08/why-Google-Cloud-Platform-is-ready-for-your-enterprise-database-workloads.html
 -->
 
 Content Delivery Network
@@ -11367,6 +11380,11 @@ STEM and STEAM
 #### Business and Tech News Sources
 
 <!--
+https://www.techopedia.com
+http://techmeme.com
+https://www.axios.com
+https://pinboard.in/popular
+
 More News
 * [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
 * Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
