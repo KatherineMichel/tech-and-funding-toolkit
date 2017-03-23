@@ -1030,7 +1030,7 @@ GitHub HTML and CSS Styleguides
 
 Google Styleguides
 * [Google Styleguides GitHub](https://github.com/google/styleguide)
-* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.xml)
+* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
 
 JavaScript Styleguide
 * [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
@@ -3547,6 +3547,16 @@ Foundation
 * [Foundation for Emails](http://foundation.zurb.com/emails.html)
 * [Zurb Library](http://zurb.com/library)
 
+<!--
+http://foundation.zurb.com/learn
+http://foundation.zurb.com/sites/docs/v/5.5.3/sass-files.html
+http://foundation.zurb.com/sites/docs/motion-ui.html
+
+https://github.com/daigofuji/jekyll-foundation-5-starter
+http://sass-lang.com/documentation
+http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+-->
+
 Bootstrap, Font Awesome
 * [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
 * [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
@@ -3596,6 +3606,11 @@ Responsiveness- and Media Queries
 * [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
 
 #### CSS Helpers
+
+<!--
+http://csslint.net
+http://cssguidelin.es
+-->
 
 Compilation Resources (See also Gulp)
 * [Stylus](http://stylus-lang.com)
