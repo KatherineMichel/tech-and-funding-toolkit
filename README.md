@@ -703,6 +703,10 @@ Effort vs. Impact Matrix
 value effort matrix
 Journey map, experience mapping
 
+https://en.wikipedia.org/wiki/Total_addressable_market
+https://en.wikipedia.org/wiki/Interaction_design
+https://en.wikipedia.org/wiki/Don't_Make_Me_Think
+
 https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
 https://en.wikipedia.org/wiki/Psychographic
 
@@ -2494,6 +2498,7 @@ Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 <!--
+https://www.mozilla.org/en-US/firefox/channel/desktop/
 https://testpilot.firefox.com
 -->
 
@@ -2953,6 +2958,7 @@ Developer Surveys
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 <!--
+https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends
 http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
 -->
 
@@ -3347,6 +3353,8 @@ Gifs
 * [Giphy](http://giphy.com) 
 
 <!--
+https://vincentp.me/blog/my-front-end-development-process-start-to-finish
+
 https://speakerdeck.com/limedaring/pyladies-remote
 https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
 https://hellowebapp.com/tutorial/intro/
