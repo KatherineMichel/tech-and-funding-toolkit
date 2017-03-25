@@ -799,6 +799,8 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript)
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
 
 <!--
+https://www.freecodecamp.com/map
+
 https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 -->
@@ -814,6 +816,7 @@ https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.qfid5eic4
+https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
 -->
 
 Programming Books
@@ -1335,6 +1338,7 @@ https://dzone.com/articles/every-programmer-should-know
 -->
 
 <!--
+https://www.openstack.org/coa
 https://docs.openstack.org
 http://docs.openstack.org/developer/nova
 https://wiki.openstack.org/wiki/Horizon
@@ -1756,6 +1760,7 @@ GitHub- Main
 <!--
 https://docs.python.org/devguide/gitbootcamp.html
 
+https://help.github.com/articles/resolving-a-merge-conflict-on-github/
 
 http://www.integralist.co.uk/posts/github-workflow.html
 https://contribute.jquery.org/commits-and-pull-requests
@@ -3253,8 +3258,7 @@ Fonts
 http://www.cssfontstack.com
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
 
-Line height
-https://en.wikipedia.org/wiki/Leading
+https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
 -->
 
 Fonts (See also Google Apps)
@@ -3262,6 +3266,16 @@ Fonts (See also Google Apps)
 * [Fontscape](http://www.fontscape.com)
 
 <!--
+https://www.fontsquirrel.com
+http://www.dafont.com
+
+https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+http://www.font-face.com
+
+Typical base is 16px
+http://www.modularscale.com
+
 https://brand.frontify.com/d/qAiubNBytHKf/style-guide
 
 http://styletil.es
@@ -3270,6 +3284,17 @@ https://docs.gimp.org/en/gimp-tool-text.html
 https://en.wikipedia.org/wiki/Gill_Sans
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
 https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts
+
+https://en.wikipedia.org/wiki/Italic_type
+https://en.wikipedia.org/wiki/X-height
+Line height
+https://en.wikipedia.org/wiki/Leading
+https://en.wikipedia.org/wiki/Kerning
+Tracking text
+https://en.wikipedia.org/wiki/Letter-spacing
+
+http://jonibologna.com/flexbox-cheatsheet
+http://jonibologna.com/content/images/flexboxsheet.pdf
 -->
 
 Fallback Font
@@ -3292,6 +3317,8 @@ Adobe (See also Edge Code and Brackets)
 * [Adobe Spark](https://spark.adobe.com)
 
 <!--
+https://creative.adobe.com/plans
+
 WSWYG
 http://www.adobe.com/products/dreamweaver.html
  
@@ -3318,6 +3345,7 @@ http://www.toptentypography.tips/
 https://speakerdeck.com/jonibologna/just-enough-typography
 https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops/
+http://svgpocketguide.com/book
 https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
 https://en.wikipedia.org/wiki/Scalable_Vector_Graphics
 https://www.w3schools.com/graphics/svg_intro.asp
@@ -4015,7 +4043,6 @@ Eloquent JavaScript
 http://eloquentjavascript.net/chapter6.html
 http://eloquentjavascript.net/chapter8.html  
 
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.elfzmj1vd
 http://chimera.labs.oreilly.com/books/1234000000262/pr01.html#who_this_book_is_for
 
 https://developers.google.com/web/updates/2016/02/es2015-proxies
