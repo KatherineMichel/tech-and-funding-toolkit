@@ -891,31 +891,6 @@ http://www.appinventor.org
 https://www.pluralsight.com/kids-courses
 https://github.com/FreeCodeCamp/hour-of-code
 
-
-https://en.wikipedia.org/wiki/Coding_conventions
-
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
-
-https://en.wikipedia.org/wiki/Programming_style
-
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
-
 https://egghead.io/tags/free
 https://egghead.io/series/learn-to-use-vim
 https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
@@ -1321,6 +1296,32 @@ https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 -->
 
 <!--
+https://en.wikipedia.org/wiki/Coding_conventions
+
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+
+https://en.wikipedia.org/wiki/Programming_style
+
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (syntax)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
+-->
+
+<!--
 http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
 
 What are the Numbers that Every Computer Engineer Should Know
@@ -1334,9 +1335,10 @@ https://dzone.com/articles/every-programmer-should-know
 -->
 
 <!--
-http://docs.openstack.org/developer/nova/
+https://docs.openstack.org
+http://docs.openstack.org/developer/nova
 https://wiki.openstack.org/wiki/Horizon
-http://docs.openstack.org/developer/horizon/
+http://docs.openstack.org/developer/horizon
 -->
 
 #### Command Line and Shell
@@ -1536,6 +1538,8 @@ Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 http://plnkr.co/
 
 https://www.jetbrains.com/pycharm
+
+[Google Code Prettify](https://github.com/google/code-prettify)
 -->
 
 EditorConfig (tabs versus spaces, ect) .editorconfig
@@ -1567,9 +1571,6 @@ https://en.wikipedia.org/wiki/Make_(software)
 https://en.wikipedia.org/wiki/Makefile
 http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
 https://www.gnu.org/software/make/manual/make.html
-
-
-[Google Code Prettify](https://github.com/google/code-prettify)  
 
 https://en.wikipedia.org/wiki/PowerShell#Scripting
 https://en.wikibooks.org/wiki/Windows_Batch_Scripting
@@ -1758,33 +1759,22 @@ https://docs.python.org/devguide/gitbootcamp.html
 
 http://www.integralist.co.uk/posts/github-workflow.html
 https://contribute.jquery.org/commits-and-pull-requests
+https://www.visualstudio.com/en-us/docs/git/pull-requests
 https://datasift.github.io/gitflow/
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-
-https://help.github.com/articles/pushing-to-a-remote/
-https://help.github.com/articles/creating-and-highlighting-code-blocks/
-
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
-https://www.visualstudio.com/en-us/docs/git/pull-requests
-https://help.github.com/articles/approving-a-pull-request-with-required-reviews/
 
 https://git-scm.com/docs/git-stash
-https://help.github.com/articles/removing-a-remote/
-https://help.github.com/articles/syncing-a-fork/
-https://help.github.com/articles/configuring-a-remote-for-a-fork/
-https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
-https://help.github.com/articles/checking-out-pull-requests-locally/#modifying-an-inactive-pull-request-locally
 
 http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github
 https://ti.to/home
 
-https://hub.github.com/
-https://hub.github.com/hub.1.html
 https://github.com/joeblau/gitignore.io
 
 
@@ -1916,25 +1906,31 @@ https://help.github.com/articles/changing-a-remote-s-url
 https://help.github.com/articles/fork-a-repo
 https://help.github.com/articles/syncing-a-fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork
+https://help.github.com/articles/removing-a-remote
 https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
+https://help.github.com/articles/pushing-to-a-remote
 
 https://help.github.com/articles/adding-a-file-to-a-repository
 https://help.github.com/articles/creating-a-pull-request
 https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
 
 https://github.com/blog/1506-closing-issues-via-pull-requests
-https://help.github.com/articles/checking-out-pull-requests-locally/
-https://help.github.com/articles/merging-a-pull-request/
+https://help.github.com/articles/checking-out-pull-requests-locally
+https://help.github.com/articles/checking-out-pull-requests-locally/#modifying-an-inactive-pull-request-locally
+https://help.github.com/articles/merging-a-pull-request
 https://github.com/blog/2243-rebase-and-merge-pull-requests
+
+https://help.github.com/articles/approving-a-pull-request-with-required-reviews
 
 https://help.github.com/articles/about-github-mirrors/
 https://help.github.com/articles/duplicating-a-repository/
 
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2097-improved-commenting-with-markdown
+https://help.github.com/articles/creating-and-highlighting-code-blocks
 
 https://pages.github.com/
-https://help.github.com/categories/github-pages-basics/
+https://help.github.com/categories/github-pages-basics
 https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3
 https://github.com/blog/2228-simpler-github-pages-publishing
 https://help.github.com/articles/using-a-custom-domain-with-github-pages
@@ -1968,8 +1964,6 @@ https://help.github.com/articles/setting-your-email-in-git
 
 https://help.github.com/articles/signing-commits-using-gpg/
 https://help.github.com/articles/generating-a-new-gpg-key/
-
-https://github.com/github/hub
 
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 
@@ -2069,6 +2063,12 @@ https://help.github.com/articles/publicizing-or-hiding-organization-membership
 
 Gist
 * [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
+
+<!--
+https://hub.github.com
+https://hub.github.com/hub.1.html
+https://github.com/github/hub
+-->
 
 GitHub- More
 * [GitHub DCMA](https://github.com/github/dmca)
@@ -2609,6 +2609,7 @@ Microsoft Developer Tools
 
 <!--
 browser market share
+
 https://github.com/WPO-Foundation/webpagetest
 
 Progressive Web app Testing
