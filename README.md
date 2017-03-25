@@ -3249,52 +3249,46 @@ Web-Safe Fonts
 * [Web Safe Fonts Wikipedia](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
 
 <!--
-Em
-http://www.w3schools.com/tags/tag_em.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
-https://en.wikipedia.org/wiki/Em_(typography)
+https://brand.frontify.com/d/qAiubNBytHKf/style-guide
+
+Typical base is 16px
+https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
 
 Fonts
 http://www.cssfontstack.com
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
 
-https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
+Em
+http://www.w3schools.com/tags/tag_em.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
+https://en.wikipedia.org/wiki/Em_(typography)
+
+@font-face
+https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+http://www.font-face.com
 -->
 
 Fonts (See also Google Apps)
+* [Font Squirrel (Recommended by Susan Simkins)](https://www.fontsquirrel.com)
+* [dafont (Noted by Susan Simkins, less good)](http://www.dafont.com)
 * [Font Famous](http://fontfamous.com)
 * [Fontscape](http://www.fontscape.com)
 
 <!--
-https://www.fontsquirrel.com
-http://www.dafont.com
-
-https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
-https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
-http://www.font-face.com
-
-Typical base is 16px
-http://www.modularscale.com
-
-https://brand.frontify.com/d/qAiubNBytHKf/style-guide
-
-http://styletil.es
 https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer
 https://docs.gimp.org/en/gimp-tool-text.html
-https://en.wikipedia.org/wiki/Gill_Sans
-https://www.w3schools.com/cssref/css_websafe_fonts.asp
-https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts
 
-https://en.wikipedia.org/wiki/Italic_type
 https://en.wikipedia.org/wiki/X-height
 Line height
 https://en.wikipedia.org/wiki/Leading
 https://en.wikipedia.org/wiki/Kerning
 Tracking text
 https://en.wikipedia.org/wiki/Letter-spacing
+https://en.wikipedia.org/wiki/Italic_type
 
-http://jonibologna.com/flexbox-cheatsheet
-http://jonibologna.com/content/images/flexboxsheet.pdf
+https://en.wikipedia.org/wiki/Gill_Sans
+https://www.microsoft.com/typography/Fonts/family.aspx?FID=331
 -->
 
 Fallback Font
@@ -3329,22 +3323,23 @@ https://helpx.adobe.com/typekit/system-subscription-requirements.html
 http://www.adobe.com/creativecloud/catalog/desktop.html
 http://www.adobe.com/creativecloud/desktop-app.html
 
-https://www.microsoft.com/typography/Fonts/family.aspx?FID=331
-
 Illustration (See also below), Serif DrawPlus, Adobe Illustrator
 https://www.canva.com
 http://www.adobe.com/products/fireworks.html
 http://www.adobe.com/products/illustrator.html
 https://affinity.serif.com/en-us/designer
 
-https://www.xquartz.org/
-https://inkscape.org/en/download/mac-os/
+https://www.xquartz.org
+https://inkscape.org/en/download/mac-os
 
 https://twitter.com/JoniTrythall
-http://www.toptentypography.tips/
+http://ela.community
+http://www.toptentypography.tips
 https://speakerdeck.com/jonibologna/just-enough-typography
+https://confreaks.tv/videos/djangoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
 https://github.com/jonitrythall/minitutstownworkshop
-http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops/
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 http://svgpocketguide.com/book
 https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
 https://en.wikipedia.org/wiki/Scalable_Vector_Graphics
@@ -3353,9 +3348,8 @@ https://www.w3schools.com/html/html5_svg.asp
 https://developer.mozilla.org/en-US/docs/Web/SVG
 https://www.w3.org/Graphics/SVG
 
-http://ela.community
-https://confreaks.tv/videos/djancoconus2016-just-enough-typography
-https://jefftriplett.com/colophon
+http://jonibologna.com/flexbox-cheatsheet
+http://jonibologna.com/content/images/flexboxsheet.pdf
 -->
 
 Photo Editing (See also Adobe)
