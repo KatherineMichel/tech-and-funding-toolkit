@@ -626,6 +626,8 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
 <!--
+https://en.wikipedia.org/wiki/Red_team
+
 https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
 
 Trello
@@ -641,21 +643,7 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 A Successful Git Branching Model
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
-
-<!--
-https://en.wikipedia.org/wiki/Red_team
-
-https://docs.python.org/devguide/gitbootcamp.html
-
-
-http://www.integralist.co.uk/posts/github-workflow.html
-https://contribute.jquery.org/commits-and-pull-requests
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-https://datasift.github.io/gitflow/
-https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
-https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
--->
+* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
@@ -826,6 +814,7 @@ https://medium.com/javascript-scene
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.qfid5eic4
 -->
 
 Programming Books
@@ -1243,6 +1232,10 @@ File Types and Extensions
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
+
+<!--
+https://en.wikipedia.org/wiki/Coding_conventions
+-->
 
 Naming Conventions
 * [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
@@ -1759,6 +1752,21 @@ GitHub- Main
 
 
 <!--
+https://docs.python.org/devguide/gitbootcamp.html
+
+
+http://www.integralist.co.uk/posts/github-workflow.html
+https://contribute.jquery.org/commits-and-pull-requests
+https://datasift.github.io/gitflow/
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+https://help.github.com/articles/pushing-to-a-remote/
+https://help.github.com/articles/creating-and-highlighting-code-blocks/
+
+
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://www.visualstudio.com/en-us/docs/git/pull-requests
@@ -2448,6 +2456,12 @@ Chrome Extensions
 * [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
 
 <!--
+https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
+https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US
+https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en
+https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
+
 chrome://apps
 
 https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
@@ -2594,6 +2608,8 @@ Microsoft Developer Tools
 
 <!--
 https://github.com/WPO-Foundation/webpagetest
+
+Progressive Web app Testing
 https://github.com/GoogleChrome/lighthouse
 
 https://saucelabs.com
@@ -2668,6 +2684,9 @@ Microsoft Inclusion Approach
 * [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
 
 <!--
+https://en.wikipedia.org/wiki/Screen_reader
+http://www.freedomscientific.com/Products/Blindness/JAWS
+
 Accessibility
 http://webaim.org/techniques/screenreader/
 Screen Reader Outline
@@ -11808,6 +11827,7 @@ https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&h
 
 https://brave.com
 https://duckduckgo.com
+https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg/related?hl=en
 -->
 
 Encrypted Communication
