@@ -505,7 +505,9 @@ GitLab (See also Project Management and Docker)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
 <!--
+GitLab Enterprise Docs
 https://docs.gitlab.com/ee/README.html
+GitLab Org
 https://gitlab.com/groups/gitlab-org
 -->
 
@@ -752,9 +754,9 @@ Guides for Development
 * [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
 
 <!--
-https://github.com/donnemartin/system-design-primer
 https://github.com/kamranahmedse/developer-roadmap
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/donnemartin/system-design-primer
 https://github.com/kdn251/interviews
 https://github.com/poteto/hiring-without-whiteboards
 https://github.com/kamranahmedse/design-patterns-for-humans
@@ -801,13 +803,13 @@ https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 -->
 
-Eric Elliot: CSS, HTML, JavaScript, and Other
+JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
+* [JavaScript Scene](https://medium.com/javascript-scene)
 * [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
 <!--
-https://medium.com/javascript-scene
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
@@ -1183,7 +1185,10 @@ IP
 * [Virtual IP Address Wikipedia](https://en.wikipedia.org/wiki/Virtual_IP_address)
 
 <!--
+http://whatismyipaddress.com
 http://whatismyipaddress.com/ip-basics
+http://tcpipguide.com/free/index.htm
+https://howdns.works/
 -->
 
 Domain Name
