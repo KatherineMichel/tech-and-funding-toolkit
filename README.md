@@ -2604,7 +2604,6 @@ Microsoft Developer Tools
 
 <!--
 browser market share
-
 https://github.com/WPO-Foundation/webpagetest
 
 Progressive Web app Testing
@@ -3289,7 +3288,7 @@ Adobe (See also Edge Code and Brackets)
 <!--
 WSWYG
 http://www.adobe.com/products/dreamweaver.html
-
+ 
 https://offers.adobe.com/en/na/marketing/landings/_338365_finding_the_perfect_image.html
 
 https://typekit.com/fonts
@@ -9471,6 +9470,7 @@ https://plus.google.com/collection/gbVpb
 * [Dan Sinker GitHub](https://github.com/sinker)
 * [Edward Tufte GitHub](https://github.com/edwardtufte)
 * [Eric A. Meyer](http://meyerweb.com)
+* [Ethan Marcotte](https://ethanmarcotte.com)
 * [Harper Reed GitHub](https://github.com/harperreed)
 * [John Resig](http://ejohn.org/blog) 
 * [Joel Spolsky](http://www.joelonsoftware.com)
@@ -9483,8 +9483,6 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
-https://ethanmarcotte.com
-
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
@@ -10068,6 +10066,8 @@ Notable Proposals and Pitch Decks
 * [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
 
 <!--
+https://www.slideshare.net/AlexanderJarvis/buffer-seriesa-term-sheet
+
 https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.tvtsh6on1
 
 https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.uz4h61j9c
@@ -10166,6 +10166,8 @@ Document Web Services
 * [Visible](https://visible.vc) 
 
 <!--
+https://captable.io/company/add
+
 https://blog.captable.io
 https://medium.com/@henrysward
 https://blog.esharesinc.com/latest
@@ -11471,7 +11473,6 @@ STEM and STEAM
 
 <!--
 https://www.techopedia.com
-http://techmeme.com
 https://www.axios.com
 https://pinboard.in/popular
 
@@ -11815,25 +11816,30 @@ Mobile Two Factor Authentication
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
 <!--
-https://www.torproject.org
-
 https://www.google.com/landing/2step
+-->
 
-https://1password.com/
+<!--
+Password Services
+https://1password.com
 https://www.dashlane.com
 https://www.lastpass.com
 https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd/related?hl=en-US
 https://www.lastpass.com/how-it-works
-
-https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
-
-https://brave.com
-https://duckduckgo.com
-https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg/related?hl=en
 -->
 
 Encrypted Communication
 * [Signal Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))
+
+<!--
+Browse in private with Incognito mode
+https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
+
+https://brave.com
+https://www.torproject.org
+https://duckduckgo.com
+https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg/related?hl=en
+-->
 
 Microsoft Office
 * [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx), [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e), and [Office Blog](https://blogs.office.com)
@@ -11958,6 +11964,7 @@ https://github.com/zurb/foundation-emails/tree/develop/templates
 https://github.com/mailgun/transactional-email-templates
 http://blog.mailgun.com/transactional-html-email-templates/
 https://github.com/groupon/gleemail
+
 https://github.com/leemunroe/responsive-html-email-template
 https://github.com/InterNations/antwort
 
@@ -12069,13 +12076,10 @@ https://stripe.com/docs/examples
 -->
 
 Crowd Sourced Internet Marketplace
+* [21](https://21.co)
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
 * [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
 * [Crowdflower](http://www.crowdflower.com)  
-
-<!--
-21.co
--->
 
 Task Automation
 * [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
@@ -12162,7 +12166,7 @@ Freelance
 
 <!--
 http://stackoverflow.com/users/story/join
-https://techcrunch.com/2016/10/11/stack-overflow-puts-a-new-spin-on-resumes-for-developers/
+https://techcrunch.com/2016/10/11/stack-overflow-puts-a-new-spin-on-resumes-for-developers
 -->
 
 Salary/Compensation, Economic Graph
