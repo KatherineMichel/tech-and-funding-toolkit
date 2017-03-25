@@ -773,14 +773,11 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
+* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
 * [Rosetta Code](http://rosettacode.org)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
-
-<!--
-https://www.pluralsight.com/blog/career/the-pluralsight-opportunity
--->
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
@@ -891,6 +888,9 @@ https://www.khanacademy.org/computing/computer-science
 http://www.appinventor.org
 https://www.pluralsight.com/kids-courses
 https://github.com/FreeCodeCamp/hour-of-code
+
+
+https://en.wikipedia.org/wiki/Coding_conventions
 
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
@@ -1232,10 +1232,6 @@ File Types and Extensions
 
 32 Bit vs. 64 Bit
 * [What is the difference between 32-bit and 64-bit versions of Windows?](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows)
-
-<!--
-https://en.wikipedia.org/wiki/Coding_conventions
--->
 
 Naming Conventions
 * [Naming Convention Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
@@ -3086,12 +3082,9 @@ Portfolio and Community Websites
 * [Zurb Tavern](http://zurb.com/tavern) 
 
 KPCB and John Maeda Design in Tech Report
+* [KPCB Design in Tech Report 2017](https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017)
 * [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
 * [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
-<!--
-https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017
--->
 
 #### Pretotyping and Prototyping
 
@@ -3431,8 +3424,10 @@ Static Site Generators and CMS (See also Jekyll)
 * [Metalsmith GitHub](https://github.com/metalsmith/metalsmith)
 * [Prose (Content Editor for GitHub)](http://prose.io)
 
+Static Web Publishing
+* [Surge](https://surge.sh)
+
 <!--
-https://surge.sh
 https://surge.sh/help/ignoring-files-and-directories
 -->
 
@@ -3457,10 +3452,11 @@ Utilites
 * [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
 * [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
 
-<!--
-http://www.getmacapps.com
-https://ninite.com
+Easy App Installation
+* [Get Mac Apps](http://www.getmacapps.com)
+* [Ninite](https://ninite.com)
 
+<!--
 http://updateyourfooter.com
 
 https://websitedownloader.io
@@ -3627,7 +3623,8 @@ Responsiveness- and Media Queries
 #### CSS Helpers
 
 <!--
-http://csslint.net
+* [CSS LINT](http://csslint.net)
+
 http://cssguidelin.es
 -->
 
@@ -4517,7 +4514,7 @@ https://facebook.github.io/react-native/docs/embedded-app-ios.html
 -->
 
 <!--
- https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
 
 Minimizing CSS and JavaScript
