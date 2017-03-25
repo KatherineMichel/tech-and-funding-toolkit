@@ -2603,6 +2603,8 @@ Microsoft Developer Tools
 #### Testing and Performance
 
 <!--
+browser market share
+
 https://github.com/WPO-Foundation/webpagetest
 
 Progressive Web app Testing
@@ -3285,6 +3287,9 @@ Adobe (See also Edge Code and Brackets)
 * [Adobe Spark](https://spark.adobe.com)
 
 <!--
+WSWYG
+http://www.adobe.com/products/dreamweaver.html
+
 https://offers.adobe.com/en/na/marketing/landings/_338365_finding_the_perfect_image.html
 
 https://typekit.com/fonts
