@@ -235,6 +235,7 @@ https://github.com/BuzzFeedNews/everything
 * [Buffer](https://github.com/bufferapp)  
 * [C2FO](https://github.com/C2FO)  
 * [Canva](https://github.com/canva)
+* [Capital One](https://github.com/capitalone)
 * [Cerner](https://github.com/cerner)
 * [Chartbeat](https://github.com/chartbeat)
 * [Chartbeat Labs](https://github.com/chartbeat-labs)  
