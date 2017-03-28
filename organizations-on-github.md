@@ -367,6 +367,7 @@ https://github.com/Medium/medium-policy
 * [Under Armour](https://github.com/underarmour)
 * [Unsplash](https://github.com/unsplash)
 * [Upworthy](https://github.com/upworthy) 
+* [Venmo](https://github.com/venmo)
 * [Vimeo](https://github.com/vimeo)  
 * [Vine](https://github.com/vine)  
 * [Walker & Co. Brands, Inc](https://github.com/WalkerAndCoBrandsInc)
