@@ -5646,7 +5646,7 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 
 Consulting Forms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
-* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), and [Revolution Systems Writings](http://www.revsys.com/writings)
+* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
 * [Lincoln Loop](http://lincolnloop.com)
 * [Caktus Group](https://www.caktusgroup.com) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
 
